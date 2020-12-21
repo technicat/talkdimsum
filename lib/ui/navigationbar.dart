@@ -35,9 +35,7 @@ class NavigationBarState extends State<NavigationBar> {
       bottomNavigationBar: BottomNavigationBar(
         items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-              icon: // Icon(Icons.home),
-                  Image.asset('assets/images/icon/if_dim_sum_353267_512.png',
-                      width: 25, height: 25),
+              icon:  Icon(Icons.home),
               label: 'Dishes'),
           BottomNavigationBarItem(
               icon: Icon(Icons.chat_bubble_outline), 
