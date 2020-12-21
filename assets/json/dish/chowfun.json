@@ -1,0 +1,142 @@
+[
+    {
+    "words":
+    [
+    {
+    "Chinese" : "河粉",
+    "English":"chow fun",
+    "Yale": "hòh fán",
+    "Pinyin":"hé fěn",
+    "Resources":
+    [
+        {"name":"河粉","URL":"https://en.wiktionary.org/wiki/河粉"},
+        {"name":"河","URL":"https://en.wiktionary.org/wiki/河"}
+    ]
+    }
+    ],
+    "images": 
+    [
+        {
+            "image":"chowfunnorthsidecafe",
+            "place":"Northside Cafe, Las Vegas, Nevada"
+        }
+    ],
+    "Description" : 
+        "Cantonese wide flat rice noodles.\n\n河粉 is actually short for 沙河粉 (sā hòh fán), where 沙河 is the town where these noodles are believed to have originated and 粉 (fán) is “rice noodles.”",
+    "Tags":
+    [
+        "河粉",
+        "粉"
+    ],
+    "Resources":
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/chow-fun/"},
+        {"name":"Wikipedia", 
+            "URL":"https://en.wikipedia.org/wiki/Shahe_fen"}
+    ]
+},
+
+{
+    "words":
+    [
+    {
+    "Chinese" : "乾炒牛河",
+    "English":"beef chow fun",
+    "Yale": "gōn cháau ngàuh hòh",
+    "Pinyin":"gān chǎo niú hé",
+    "Resources":
+    [
+        {"name":"乾炒牛河","URL":"https://en.wiktionary.org/wiki/乾炒牛河"},
+        {"name":"乾炒","URL":"https://en.wiktionary.org/wiki/乾炒"},
+        {"name":"乾","URL":"https://en.wiktionary.org/wiki/乾"},
+        {"name":"炒","URL":"https://en.wiktionary.org/wiki/炒"},
+        {"name":"牛肉","URL":"https://en.wiktionary.org/wiki/牛肉"},
+        {"name":"牛","URL":"https://en.wiktionary.org/wiki/牛"},
+        {"name":"河粉","URL":"https://en.wiktionary.org/wiki/河粉"},
+        {"name":"河","URL":"https://en.wiktionary.org/wiki/河"}
+    ]
+    }
+    ],
+    "images": 
+    [
+        {
+            "image":"beefchowfundimsumcafe",
+            "place":"Dim Sum Cafe, Las Vegas, Nevada"
+        }
+    ],
+    "Description" : 
+        "A Cantonese classic, wide flat rice noodles stir-fried with beef and bean sprouts.\n\n乾 is “dry” (there is a “wet” version with gravy) 炒 is “stir-fried” 牛 is short for 牛肉 (ngàuh yuhk) which is “beef,” and 河 is short for 河粉 (hòh fán) which is the flat rice noodle.",
+    "Tags":
+    [
+        "炒",
+        "河粉",
+        "牛肉",
+        "粉",
+        "茶餐廳",
+        "點心"
+    ],
+    "Resources":
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/beef-chow-fun/"},
+        {"name":"Wikipedia", 
+            "URL":"https://en.wikipedia.org/wiki/Beef_chow_fun"},
+         {"name":"Angel Wong's Kitchen", 
+            "URL":"https://www.angelwongskitchen.com/beef-rice-noodles-stir-fry.html"},
+        {"name":"China Sichuan Food", 
+            "URL":"https://www.chinasichuanfood.com/beef-chow-fun/"},
+        {"name":"Panda Cheffy", 
+            "URL":"https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dry-beef-chow-fun-dry-fried-beef-rice-noodles-b31dcbcc1e55"},
+        {"name":"Pups with Chopsticks", 
+            "URL":"https://pupswithchopsticks.com/beef-chow-fun/"},
+         {"name":"The Woks of Life", 
+            "URL":"https://thewoksoflife.com/beef-chow-fun-noodles/"}
+    ]
+},
+
+{
+    "words":
+    [
+    {
+    "Chinese" : "乾炒雞河",
+    "Simplified" : "乾炒鸡河",
+    "English":"chicken chow fun",
+    "Yale": "gōn cháau gāi hòh",
+    "Pinyin":"gān chǎo v hé",
+    "Resources":
+    [
+        {"name":"乾炒","URL":"https://en.wiktionary.org/wiki/乾炒"},
+        {"name":"乾","URL":"https://en.wiktionary.org/wiki/乾"},
+        {"name":"炒","URL":"https://en.wiktionary.org/wiki/炒"},
+        {"name":"雞肉","URL":"https://en.wiktionary.org/wiki/雞肉"},
+        {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
+        {"name":"河粉","URL":"https://en.wiktionary.org/wiki/河粉"},
+        {"name":"河","URL":"https://en.wiktionary.org/wiki/河"}
+    ]
+    }
+    ],
+    "images": 
+    [
+        {
+            "image":"chickenchowfundimsumcafe",
+            "place":"Dim Sum Cafe, Las Vegas, Nevada"
+        }
+    ],
+    "Description" : 
+        "Chow fun with chicken.\n\n乾 is “dry” (there is a “wet” version with gravy) 炒 is “stir-fried” 雞 is “chicken,” and 河 is short for 河粉 (hòh fán) which is the flat rice noodle.",
+    "Tags":
+    [
+        "炒",
+        "雞",
+        "河粉",
+        "粉",
+        "茶餐廳"
+    ],
+    "Resources":
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/chicken-chow-fun/"}
+    ]
+}
+]

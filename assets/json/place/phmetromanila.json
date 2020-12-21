@@ -1,0 +1,312 @@
+{
+    "name": "Metro Manila",
+    "places": 
+    [
+        {
+            "title": "Hai Shin Lou Seafood King",
+            "links":
+            [
+                {
+                "name":"site",
+                "URL":"http://www.haishinlou.com"
+                },
+                {
+                    "name":"OpenRice",
+                    "URL":"https://ph.openrice.com/en/manila/r-hai-shin-lou-seafood-king-restaurant-san-lorenzo-chinese-seafood-r3683"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/hai-shin-lou-seafood-king-restaurant-makati"
+                }
+            ],
+
+            "lat": 14.551000,
+            "lon": 121.017421,
+            "city": "Makati",
+            "address": "810 A. Arnaiz Avenue San Lorenzo"
+        },
+        {
+            "title": "Luk Yuen",
+            "links":
+            [
+             {
+                "name":"site",
+                "URL":"http://lukyuen.com.ph"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/luk-yuen-makati-city"
+                }
+            ],
+
+            "lat": 14.551799,
+            "lon": 121.025312,
+            "city": "Makati",
+            "address": "Glorietta 2"
+        },
+        {
+            "title": "Tim Ho Wan",
+            "links":
+            [
+                {
+                "name":"site",
+                "URL":"http://www.timhowan.com"
+                },
+                {
+                "name":"OpenRice",
+                "URL":"https://ph.openrice.com/en/manila/r-tim-ho-wan-makati-chinese-dim-sum-r463093"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/tim-ho-wan-makati"
+                }
+            ],
+
+            "lat": 14.551989,
+            "lon": 121.025519,
+            "city": "Makati",
+            "address": "Floor 3 Glorietta 3, Ayala Center 1228"
+        },
+
+        {
+            "title": "Tim Ho Wan",
+            "links":
+            [
+                {
+                "name":"site",
+                "URL":"http://www.timhowan.com"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/tim-ho-wan-mandaluyong"
+                }
+            ],
+
+            "lat": 14.584414,
+            "lon": 121.057234,
+            "city": "Mandaluyong",
+            "address": "SM Megamall Ortigas Center"
+        },
+
+
+
+{
+            "title": "Tim Ho Wan",
+            "links":
+            [
+                {
+                "name":"site",
+                "URL":"http://www.timhowan.com"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/tim-ho-wan-manila"
+                }
+            ],
+
+            "lat": 14.575879,
+            "lon": 120.984085,
+            "city": "Manila",
+            "address": "Robinson Pedro Gil Street Barangay 669 Zone 72"
+        },
+        {
+            "title": "Wai Ying Dim Sum (168)",
+            "links":
+            [
+            {
+                "name":"OpenRice",
+                "URL":"https://ph.openrice.com/en/manila/r-wai-ying-dimsum-manila-chinese-dim-sum-r143681"
+                }
+            ],
+
+            "lat": 14.605041,
+            "lon": 120.971983,
+            "city": "Manila",
+            "address": "Estero Dela Reina, Bonondo"
+        }, 
+
+        {
+            "title": "Wai Ying Dim Sum (Taft)",
+            "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/wai-ying-dimsum-manila"
+                },
+                {
+                "name":"Zomato",
+                "URL":"https://www.zomato.com/manila/wai-ying-dimsum-malate-manila/menu"
+                }
+            ],
+
+            "lat": 14.565921,
+            "lon": 120.993596,
+            "city": "Manila",
+            "address": "G/F, Egi Taft Tower Hotel, Taft Avenue"
+        },
+
+        {
+            "title": "Wai Ying Fast Food",
+            "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/wai-ying-fastfood-manila"
+                },
+                {
+                "name":"Travel Insider",
+                "URL":"https://thetravelinsider.co/th/destinations/philippines/manila/jonel-de-leon/its-easy-to-do-the-sums-when-you-have-dim-sum-at-wai-ying-fast-food-"
+                }
+            ],
+
+            "lat": 14.602031,
+            "lon": 120.976004,
+            "city": "Manila",
+            "address": "810 Benavidez Street, Binondo"
+        },
+
+        {
+            "title": "Noodle8",
+            "links":
+            [
+                
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/noodl8-parañaque"
+                }
+            ],
+
+            "lat": 14.537161,
+            "lon": 120.980873,
+            "city": "Parañaque",
+            "address": "Asean Avenue City Of Dreams"
+        },
+
+        {
+            "title": "Tim Ho Wan",
+            "links":
+            [
+                {
+                "name":"site",
+                "URL":"http://www.timhowan.com"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/tim-ho-wan-pasay"
+                }
+            ],
+
+            "lat": 14.537161,
+            "lon": 120.980873,
+            "city": "Pasay",
+            "address": "Ocean Drive G/F, North Wing, SM Mall Of Asia"
+        },
+
+
+        {
+            "title": "Causeway Restaurant",
+            "links":
+            [
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/causeway-restaurant-quezon-city"
+                }
+            ],
+
+            "lat": 14.608652,
+            "lon": 121.077280,
+            "city": "Quezon City",
+            "address": "53 E Rodriguez Jr. Avenue"
+        },
+         {
+            "title": "The Dim Sum Place",
+            "links":
+            [
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/the-dimsum-place-quezon-city"
+                }
+            ],
+
+            "lat": 14.633589,
+            "lon": 121.019502,
+            "city": "Quezon City",
+            "address": "Fisher Mall West Triangle"
+        },
+        {
+            "title": "King Chef Dim Sum Kitchen",
+            "links":
+            [
+                {
+                "name":"site",
+                "URL":"https://www.kingchef.com.ph"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/king-chef-dimsum-kitchen-quezon-city"
+                }
+            ],
+
+            "lat": 14.706647,
+            "lon": 121.099210,
+            "city": "Quezon City",
+            "address": "Panulturan 2/F 238 Banawe Center"
+        },
+        {
+            "title": "Wang Fu",
+            "links":
+            [
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/wang-fu-quezon-city-2"
+                }
+            ],
+
+            "lat": 14.650825,
+            "lon": 121.075344,
+            "city": "Quezon City",
+            "address": "CP Garcia Avenue UP Town Center"
+        },
+
+        {
+            "title": "Luk Yuen",
+            "links":
+            [
+             {
+                "name":"site",
+                "URL":"http://lukyuen.com.ph"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/luk-yuen-san-juan"
+                }
+            ],
+
+            "lat": 14.601772,
+            "lon": 121.046798,
+            "city": "San Juan",
+            "address": "Basement 1, Club Filipino Street Unimart Greenhills"
+        },
+
+        {
+            "title": "Tim Ho Wan",
+            "links":
+            [
+                {
+                "name":"site",
+                "URL":"http://www.timhowan.com"
+                },
+                {
+                "name":"Yelp",
+                "URL":"https://en.yelp.com.ph/biz/tim-ho-wan-taguig"
+                }
+            ],
+
+            "lat": 14.555983,
+            "lon": 121.054155,
+            "city": "Taguig",
+            "address": "Uptown Place Mall, Bonifacio Global City"
+        }                
+    ]
+    
+}

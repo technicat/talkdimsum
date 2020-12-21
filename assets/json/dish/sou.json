@@ -1,0 +1,349 @@
+
+[
+
+{
+    "words":
+    [
+        {
+            "Chinese": "酥",
+            "English":"flaky pastry",
+            "Yale": "sōu",
+            "Pinyin":"sū",
+            "Resources":
+            [
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+        }
+    ],
+    "images":
+    [
+    {
+         "image":"chasiusouopenpingpangpong",
+         "place":"Ping Pang Pong, Las Vegas, Nevada"
+     },
+     {
+         "image":"bbqporkpastrydimsumcafe",
+         "place":"Dim Sum Cafe"
+     }
+    ],
+    "Description": "A flaky pastry.\n\n叉燒 is “BBQ pork,” and 酥 is “pastry.”",
+    "Tags":
+    [
+    "酥",
+         "焗"
+         ],
+    "Resources":[
+                {"name":"Wikipedia", "URL":"http://en.wikipedia.org/wiki/Sou_(pastry)"}
+              ]
+ },
+ 
+ {
+    "words":
+    [
+        {
+            "Chinese": "叉燒酥",
+            "Simplified": "叉烧酥",
+            "English":"BBQ pork puff pastry",
+            "Yale": "chā sīu sōu",
+            "Pinyin":"chā shāo sū",
+            "Resources":
+            [
+            {"name":"叉燒酥","URL":"https://en.wiktionary.org/wiki/叉燒酥"},
+            {"name":"叉燒","URL":"https://en.wiktionary.org/wiki/叉燒"},
+            {"name":"叉","URL":"https://en.wiktionary.org/wiki/叉"},
+            {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"},
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+        }
+    ],
+    "images":[
+     {
+         "image":"bbqporkpastrydimsumcafe",
+         "place":"Dim Sum Cafe, Las Vegas, Nevada"
+     }
+    ],
+    "Description": "A flaky puff pastry filled with BBQ pork.\n\n叉燒 is “BBQ pork,” and 酥 is “pastry.”",
+    "Tags":
+    [
+         "豬肉",
+         "叉燒",
+         "焗",
+         "酥",
+         "點心"
+         ],
+    "Resources":[
+                {"name":"Pinterest", 
+                    "URL":"https://www.pinterest.com/technicat/dim-sum/bbq-pork-pastry/"},
+                {"name":"Dim Sum Central", 
+                    "URL":"http://www.dimsumcentral.com/bbq-pork-puffs/"},
+                {"name":"Dim Sum Guide", 
+                    "URL":"https://dimsumguide.com/site/view/Barbecued-Pork-Puff"},
+                {"name":"The Woks of Life", 
+                    "URL":"https://thewoksoflife.com/2014/10/chinese-roast-pork-puffs/"},
+                {"name":"Christine's Recipes", 
+                    "URL":"https://en.christinesrecipes.com/2013/03/char-siu-pastry.html"}
+              ]
+ },
+ 
+ 
+ 
+    {
+        "words":
+        [
+            {
+                "Chinese": "蘿蔔酥",
+                "Simplified": "萝卜酥",
+                "English": "radish puffs",
+                "Yale": "lò baahk sōu",
+                "Pinyin":"luó bo sū",
+                "Resources":
+            [
+            {"name":"蘿蔔","URL":"https://en.wiktionary.org/wiki/蘿蔔"},
+            {"name":"蘿","URL":"https://en.wiktionary.org/wiki/蘿"},
+            {"name":"蔔","URL":"https://en.wiktionary.org/wiki/蔔"},
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+            }
+        ],
+        "images": [
+          {
+              "image":"radishpuffs"
+          }
+        ],
+        "Description" : "Baked or deep-fried puffs filled with shredded daikon. 蘿蔔 is “radish,” and 酥 is the type of puff pastry.",
+        "Tags" : 
+        [
+          "蘿蔔",
+          "素",
+          "酥",
+          "焗",
+          "點心"
+        ],
+        "Resources":
+        [
+          {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/radish-puff/"},
+          {"name":"Dim Sum Guide", 
+            "URL":"https://dimsumguide.com/site/view/Puff-Pastries-Filled-with-Shredded-Turnips"},
+          {"name":"Dreamwidth", 
+            "URL":"http://kake.dreamwidth.org/46398.html"}
+                   ]
+    },
+
+
+    {
+        "words":
+        [
+            {
+                "Chinese": "榴蓮酥",
+                "Simplified": "榴莲酥",
+                "English": "durian puffs",
+                "Yale": "làuh lìhn sōu",
+                "Pinyin":"liú lián sū",
+                "Resources":
+            [
+            {"name":"榴蓮","URL":"https://en.wiktionary.org/wiki/榴蓮"},
+            {"name":"榴","URL":"https://en.wiktionary.org/wiki/榴"},
+            {"name":"蓮","URL":"https://en.wiktionary.org/wiki/蓮"},
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+            }
+        ],
+        "images": [
+          {
+              "image":"durianpuffyumcha",
+              "place":"Yum Cha, Las Vegas, Nevada"
+          }
+        ],
+        "Description" : 
+            "Baked or deep-fried puffs filled with durian or durian-flavored cream.\n\n榴莲 is “durian,” and 酥 is the type of puff pastry.\n\nDurian has a strong flavor and odor, so it's a notoriously acquired taste.",
+        "Tags" : 
+        [
+          "榴莲",
+          "素",
+          "酥",
+          "焗",
+          "點心"
+        ],
+        "Resources":
+        [
+          {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/durian-puff/"},
+          {"name":"Durian", 
+            "URL":"https://en.wikipedia.org/wiki/Durian"}
+        ]
+    },
+
+    {
+        "words":
+        [
+            {
+                "Chinese" : "牛脷酥",
+                "English" : "Chinese doughnut",
+                "Yale" : "ngàuh leih sōu",
+                "Pinyin": "niú lì sū",
+                "Resources":
+            [
+            {"name":"牛脷酥","URL":"https://en.wiktionary.org/wiki/牛脷酥"},
+            {"name":"牛脷","URL":"https://en.wiktionary.org/wiki/牛脷"},
+            {"name":"牛","URL":"https://en.wiktionary.org/wiki/牛"},
+            {"name":"脷","URL":"https://en.wiktionary.org/wiki/脷"},
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+            }
+        ],
+        "images" : [
+        {
+            "image":"chinesedoughnutricetogo",
+            "place":"Rice to Go, Las Vegas, Nevada"
+        }
+        ],
+        "Description" : "Sweetened fried dough in an elliptical shape (really, like a doughnut) that supposedly resembles an ox tongue or horse ear, so it's also known as ox-tongue or horse-ear pastry.\n\n牛脷 is “ox tongue“ and 酥 means “pastry“.",
+        "Tags" : 
+        [
+          "小食",
+           "素",
+           "牛脷",
+           "酥"
+        ],
+        "Resources": 
+        [
+          {"name" : "Pinterest", 
+            "URL" : "https://www.pinterest.com/technicat/dim-sum/ox-tongue-pastry/"},
+          {"name" : "Wikipedia", 
+            "URL" : "https://en.wikipedia.org/wiki/Ox-tongue_pastry"},
+          {"name" : "Dim Sum Central", 
+            "URL" : "http://www.dimsumcentral.com/chinese-donut-noodle-rolls/"}
+        ]
+    },
+
+
+    {
+        "words":
+        [
+            {
+                "Chinese" : "鳳梨酥",
+                "Simplified" : "凤梨酥",
+                "English" : "pineapple cake",
+                "Yale" : "fuhng lèih sōu",
+                "Pinyin": "fèng lí sū",
+                "Resources":
+            [
+            {"name":"鳳梨酥","URL":"https://en.wiktionary.org/wiki/鳳梨酥"},
+            {"name":"鳳梨","URL":"https://en.wiktionary.org/wiki/鳳梨"},
+            {"name":"鳳","URL":"https://en.wiktionary.org/wiki/鳳"},
+             {"name":"梨","URL":"https://en.wiktionary.org/wiki/梨"},
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+            }
+        ],
+        "images": 
+        [
+        {
+            "image":"pineapplecakeeverygrain",
+            "place":"Every Grain, Las Vegas, Nevada"
+        },
+        {
+            "image":"pineapplecakediamondbakery",
+            "place":"Diamond Bakery, Las Vegas, Nevada"
+        }
+        ],
+        "Description":
+          "Pineapple cakes, small butter shortcakes with a pineapple filling, are a Taiwanese specialty.\n\n鳳梨 is “pineapple,“ and 酥 means “pastry“.",
+        "Tags": 
+        [
+          "小食",
+           "酥"
+           ],
+        "Resources" : 
+        [
+          {"name" : "Pinterest", 
+            "URL" : "https://www.pinterest.com/technicat/dim-sum/pineapple-cake/"},
+          {"name" : "Wikipedia", 
+            "URL" : "https://en.wikipedia.org/wiki/Pineapple_cake"},
+          {"name" : "Angel Wong's Kitchen", 
+            "URL" : "https://www.angelwongskitchen.com/taiwanese-pineapple-cakes--401792679237221-fegravengliacute-s363.html"},
+          {"name" : "Kirbie's Cravings", 
+            "URL" : "hhttps://kirbiecravings.com/chinese-pineapple-cakes/"}
+        ]
+    },
+
+    {
+        "words":
+        [
+            {
+                "Chinese" : "芋泥酥",
+                "Simplified" : "莲蓉酥",
+                "English" : "taro paste cake",
+                "Yale" : "wuh nàih sōu",
+                "Pinyin": "yù ní sū",
+                "Resources":
+            [
+            {"name":"芋泥","URL":"https://en.wiktionary.org/wiki/芋泥"},
+            {"name":"芋","URL":"https://en.wiktionary.org/wiki/芋"},
+            {"name":"泥","URL":"https://en.wiktionary.org/wiki/泥"},
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+            }
+        ],
+        "images": 
+        [
+        {
+            "image":"taropastepastrycakesignbfbakery",
+            "place":"BF Bakery, Las Vegas, Nevada"
+        }
+        ],
+        "Description":
+          "Flaky pastry filled with taro paste.",
+        "Tags" : 
+        [
+          "小食",
+          "芋泥",
+          "酥"
+        ],
+        "Resources" : 
+        [
+                ]
+    },
+
+     {
+        "words":
+        [
+            {
+                "Chinese" : "蛋黃酥",
+                "Simplified" : "蛋黄酥",
+                "English" : "salted egg yolk cake",
+                "Yale" : "dáan wóng sōu",
+                "Pinyin": "dàn huáng sū",
+                 "Resources":
+            [
+            {"name":"蛋黃","URL":"https://en.wiktionary.org/wiki/蛋黃"},
+            {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"},
+            {"name":"黃","URL":"https://en.wiktionary.org/wiki/黃"},
+            {"name":"酥","URL":"https://en.wiktionary.org/wiki/酥"}
+            ]
+            }
+        ],
+        "images" : [
+        {
+            "image":"saltedeggyolkpastrybfbakery",
+            "place":"BF Bakery, Las Vegas, Nevada"
+        }
+        ],
+        "Description" : 
+        "Flaky pastry filled with salted egg yolk.\n\n蛋 is “egg,” and 黃 is “yellow,” and togther 蛋黃 is ”egg yellow” or “egg yolk.”",
+        "Tags" : 
+        [
+          "小食",
+          "蛋黃",
+           "酥"
+           ],
+        "Resources" : 
+        [
+        {"name" : "Pinterest", 
+        "URL" : "https://www.pinterest.com/technicat/dim-sum/salted-egg-yolk-pastry/"},
+         {"name" : "Taste of Asian Food", 
+         "URL" : "https://tasteasianfood.com/salted-egg-pastry/"}
+                ]
+    }
+      ]

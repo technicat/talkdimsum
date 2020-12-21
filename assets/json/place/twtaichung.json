@@ -1,0 +1,421 @@
+{
+    "name": "Taichung",
+    "places": 
+    [
+        
+        {
+            "title": "Aberdeen Tea Restaurant (Beitun)",
+            "links":
+            [
+
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-香港仔茶餐廳-beitun-district-guangdong-cuisine-hong-kong-style-wheaten-food-r403801"
+            }
+            ],
+            "lat": 24.1844334,
+            "lon": 120.6859208,
+            "city": "Beitun District",
+            "address": "北屯區崇德路三段81號"
+        },
+        {
+            "title": "Liufu",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-六福樓-beitun-district-guangdong-cuisine-hong-kong-style-chinese-noodles-r140830"
+            }
+            ],
+            "lat": 24.1726577,
+            "lon": 120.7188612,
+            "city": "Beitun District",
+            "address": "北屯區軍功路一段752號"
+        },
+        {
+            "title": "Polygram Hong Kong Dim Sum",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-寶麗金港式飲茶餐廳-崇德店-beitun-district-guangdong-cuisine-hong-kong-style-hot-pot-r411606"
+            }
+            ],
+            "lat": 24.178097,
+            "lon": 120.685652,
+            "city": "Beitun District",
+            "address": "北屯區崇德路二段345號"
+        },
+        
+        {
+            "title": "Pinxin Hong Kong Dim Sum",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-品心港式飲茶-dali-district-guangdong-cuisine-hong-kong-style-r166666"
+            }
+            ],
+            "lat": 24.1049811,
+            "lon": 120.6807627,
+            "city": "Dali District",
+            "address": "大里區國光路二段221號"
+        },
+
+        {
+            "title": "Da Da Tea House",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-大大茶樓-east-district-guangdong-cuisine-hong-kong-style-chinese-noodles-r289342"
+            }
+            ],
+            "lat": 24.1362899,
+            "lon": 120.6876914,
+            "city": "East District",
+            "address": "東區復興路四段186號11樓(新時代購物中心)"
+        },
+        {
+            "title": "Hanxixuan",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-瀚熙軒-east-district-guangdong-cuisine-hong-kong-style-r444912"
+            }
+            ],
+            "lat": 24.1418842,
+            "lon": 120.7014187,
+            "city": "East District",
+            "address": "東區旱溪東路一段456號2樓"
+        },
+       
+        {
+            "title": "Congee Congee",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-congee-congee-longjing-district-guangdong-cuisine-hong-kong-style-congee-r404498"
+            }
+            ],
+            "lat": 24.1822063,
+            "lon": 120.583138,
+            "city": "Longjing District",
+            "address": "龍井區新興路125號"
+        },
+        
+        {
+            "title": "Jin Yuexuan",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-cantonese-cuisine-nantun-district-guangdong-cuisine-hong-kong-style-taiwanese-snacks-r121609"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/金悅軒-南屯區-2"
+            }
+            ],
+            "lat": 24.150697,
+            "lon": 120.6459919,
+            "city": "Nantun District",
+            "address": "南屯區公益路二段213號"
+        },
+        {
+            "title": "Yu Yue Lou",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-与玥樓頂級粵菜餐廳-nantun-district-guangdong-cuisine-hong-kong-style-fine-dining-r410965"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/与玥樓-南屯區"
+            }
+            ],
+            "lat": 24.1508337,
+            "lon": 120.6329685,
+            "city": "Nantun District",
+            "address": "南屯區公益路二段783號"
+        },
+
+        {
+            "title": "Aberdeen Tea Restaurant (North)",
+            "links":
+            [
+            {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-香港仔茶餐廳-五權店-north-district-guangdong-cuisine-hong-kong-style-taiwanese-snacks-r378761"
+            },
+             {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/香港仔茶餐廳-北區"
+            }
+            ],
+            "lat": 24.1533488,
+            "lon": 120.6821496,
+            "city": "North District",
+            "address": "北區五權路409號"
+        },
+         
+        {
+            "title": "Campbell Tea Restaurant",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-金寶茶餐廳-north-district-taiwanese-chinese-noodles-r143698"
+            }
+            ],
+            "lat": 24.1554972,
+            "lon": 120.6658657,
+            "city": "North District",
+            "address": "北區館前路23號"
+        },
+        {
+            "title": "Jingyue",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-京悅-north-district-guangdong-cuisine-hong-kong-style-r117646"
+            }
+            ],
+            "lat": 24.1520729,
+            "lon": 120.684754,
+            "city": "North District",
+            "address": "北區三民路三段161號12F(中友百貨A棟)"
+        },
+
+        {
+            "title": "Breeze Shore Tea Restaurant",
+            "links":
+            [
+
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-微風岸港式茶餐廳-west-district-guangdong-cuisine-hong-kong-style-fine-dining-r389335"
+            }
+            ],
+            "lat": 24.154133,
+            "lon": 120.657281,
+            "city": "West District",
+            "address": "西區忠明南路98號"
+        },
+        {
+            "title": "Jade Garden",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-翠園小館-west-district-guangdong-cuisine-hong-kong-style-wonton-dumpling-r279283"
+            }
+            ],
+            "lat": 24.155472,
+            "lon": 120.661893,
+            "city": "West District",
+            "address": "西區臺灣大道二段459號16樓 (廣三SOGO百貨)"
+        },
+        {
+            "title": "Jinyuan Tea Restaurant",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-金苑茶餐廳-west-district-guangdong-cuisine-hong-kong-style-chinese-noodles-r316267"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/金苑茶餐廳-西區"
+            }
+            ],
+            "lat": 24.150632,
+            "lon": 120.664519,
+            "city": "West District",
+            "address": "西區公益路147號"
+        },
+        {
+            "title": "Po Tat Hong Kong Tea Restaurant",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-寶達港式茶餐廳-west-district-guangdong-cuisine-hong-kong-style-vegetarian-r472812"
+            }
+            ],
+            "lat": 24.148305,
+            "lon": 120.652689,
+            "city": "West District",
+            "address": "西區東興路三段107號"
+        },
+        {
+            "title": "The Sweet Dynasty",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-the-sweet-dynasty-west-district-guangdong-cuisine-hong-kong-style-sweet-soup-r116692"
+            }
+            ],
+            "lat": 24.1559761,
+            "lon": 120.6631734,
+            "city": "West District",
+            "address": "西區健行路1049號3樓"
+        },
+
+        {
+            "title": "Aberdeen Tea Restaurant (Xitun)",
+            "links":
+            [
+
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-香港仔茶餐廳-西屯店-xitun-district-guangdong-cuisine-hong-kong-style-taiwanese-snacks-r314975"
+            }
+            ],
+            "lat": 24.171886,
+            "lon": 120.636585,
+            "city": "Xitun District",
+            "address": "西屯區黎明路三段13號1樓"
+        },
+        {
+            "title": "Causeway Bay Man Kee Hong Kong Restaurant",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-銅鑼灣文記港式餐廳-xitun-district-guangdong-cuisine-hong-kong-style-fine-dining-r436784"
+            }
+            ],
+            "lat": 24.1692522,
+            "lon": 120.6420346,
+            "city": "Xitun District",
+            "address": "西屯區河南路二段510號"
+        },
+        {
+            "title": "Lisboa Restaurant",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-葡京苶餐廳-xitun-district-guangdong-cuisine-hong-kong-style-wheaten-food-r391724"
+            }
+            ],
+            "lat": 24.1811785,
+            "lon": 120.6448385,
+            "city": "Xitun District",
+            "address": "西屯區福星路324號"
+        },
+        {
+            "title": "Ming Xue Xuan",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-ming-yue-xuan-restaurant-xitun-district-guangdong-cuisine-hong-kong-style-fine-dining-r436085"
+            }
+            ],
+            "lat": 24.1916114,
+            "lon": 120.6114684,
+            "city": "Xitun District",
+            "address": "西屯區國安一路168號2樓"
+        },
+        {
+            "title": "Po Tat Hong Kong Restaurant",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-寶達港式餐廳-xitun-district-guangdong-cuisine-hong-kong-style-r392370"
+            }
+            ],
+            "lat": 24.1615993,
+            "lon": 120.6489642,
+            "city": "Xitun District",
+            "address": "西屯區台灣大道二段929號 (愛買)"
+        },
+        {
+            "title": "Polygram Hong Kong Dim Sum",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-寶麗金港式飲茶餐廳-市政店-xitun-district-guangdong-cuisine-hong-kong-style-hot-pot-r462058"
+            }
+            ],
+            "lat": 24.1567486,
+            "lon": 120.6459065,
+            "city": "Xitun District",
+            "address": "西屯區市政北一路15號"
+        },
+        {
+            "title": "Red Dot",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-紅點港飲食販店-xitun-district-guangdong-cuisine-hong-kong-style-r277828"
+            }
+            ],
+            "lat": 24.1833233,
+            "lon": 120.6167638,
+            "city": "Xitun District",
+            "address": "西屯區福康路106號"
+        },
+        {
+            "title": "Tim Ho Wan (JMall)",
+            "links":
+            [
+             {
+                "name":"site",
+                "URL":"http://www.timhowan.com.tw"
+            },
+            {
+                "name":"OpenRice",
+                "URL":"https://tw.openrice.com/en/taichung/r-添好運-台中j-mall店-xitun-district-guangdong-cuisine-hong-kong-style-dessert-cake-r466429"
+            },
+             {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/添好運-西屯區-2"
+            }
+            ],
+            "lat": 24.1833807,
+            "lon": 120.6154146,
+            "city": "Xitun District",
+            "address": "西屯區台灣大道四段1038號1樓 (JMall美食廣場)"
+        },
+        {
+            "title": "Tim Ho Wan",
+            "links":
+            [
+             {
+                "name":"site",
+                "URL":"http://www.timhowan.com.tw"
+            },
+            {
+                "name":"OpenRice",
+                "URL":
+                "https://tw.openrice.com/en/taichung/r-添好運-xitun-district-guangdong-cuisine-hong-kong-style-dessert-cake-r389871"
+            },
+             {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/添好運-西屯區-2"
+            },
+            {
+                "name":"Wikipedia",
+                "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+            }
+            ],
+            "lat": 24.1648631,
+            "lon": 120.6447169,
+            "city": "Xitun District",
+            "address": "西屯區臺灣大道三段251號B2 (台中大遠百)"
+        }
+
+    ]
+    
+}

@@ -1,0 +1,99 @@
+
+[
+    {
+        "words":
+        [
+          {
+            "Chinese":"咖喱雞飯",
+            "Simplified":"咖哩鸡饭",
+            "English":"curry chicken rice",
+            "Yale":"ga lēi gāi faahn",
+            "Pinyin":"kā li jī fàn",
+            "Resources":
+            [
+              {"name":"咖喱","URL":"https://en.wiktionary.org/wiki/咖喱"},
+              {"name":"咖","URL":"https://en.wiktionary.org/wiki/咖"},
+              {"name":"喱","URL":"https://en.wiktionary.org/wiki/喱"},
+              {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
+              {"name":"飯","URL":"https://en.wiktionary.org/wiki/飯"}
+            ]
+          }
+        ],
+        "images": 
+        [
+            {
+                "image":"currychickenrice88noodlepapa",
+                "place":"88 Noodle Papa, Las Vegas, Nevada"
+            }
+        ],
+        "Description": 
+          "Slices of chicken in curry served on white rice.\n\n咖哩 (ga lēi) sounds like “curry,” 雞 is “chicken,” and 飯 is “rice,” so ”curry chicken rice.”",
+        "Tags" : 
+        [
+            "茶餐廳",
+            "咖喱",
+            "雞",
+            "飯",
+            "白飯"
+        ],
+         "Resources":
+         [
+           {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/curry-chicken-rice/"},
+           {"name" : "The Woks of Life", 
+            "URL" :"https://thewoksoflife.com/chicken-curry-takeout/"}
+       ]
+    },
+
+     {
+        "words":
+        [
+          {
+            "Chinese":"咖喱牛腩飯",
+            "Simplified":"咖哩牛腩饭",
+            "English":"curry beef stew rice",
+            "Yale":"ga lēi ngàuh náahm faahn",
+            "Pinyin":"kā li niú nǎn fàn",
+            "Resources":
+            [
+              {"name":"咖喱","URL":"https://en.wiktionary.org/wiki/咖喱"},
+              {"name":"咖","URL":"https://en.wiktionary.org/wiki/咖"},
+              {"name":"喱","URL":"https://en.wiktionary.org/wiki/喱"},
+              {"name":"牛腩","URL":"https://en.wiktionary.org/wiki/牛腩"},
+              {"name":"牛","URL":"https://en.wiktionary.org/wiki/牛"},
+              {"name":"腩","URL":"https://en.wiktionary.org/wiki/腩"},
+              {"name":"飯","URL":"https://en.wiktionary.org/wiki/飯"}
+            ]
+          }
+        ],
+        "images": 
+        [
+            {
+                "image":"currybeefrice88noodlepapa",
+                "place":"88 Noodle Papa, Las Vegas, Nevada"
+            }
+        ],
+        "Description": 
+          "Curry beef stew served on white rice.\n\n咖哩 (ga lēi) sounds like “curry,” 牛腩 is “beef brisket,” and 飯 is “rice,” so ”curry beef brisket rice.”",
+        "Tags" : 
+        [
+            "茶餐廳",
+            "咖喱",
+            "牛腩",
+            "飯",
+            "白飯"
+        ],
+         "Resources":
+         [
+           {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/curry-beef-stew-on-rice/"},
+           {"name" : "China Sichuan Food", 
+            "URL" :"https://www.chinasichuanfood.com/chinese-beef-curry/"},
+           {"name" : "The Woks of Life", 
+            "URL" :"https://thewoksoflife.com/curry-beef-bowls/"}
+       ]
+    }
+
+    
+ 
+ ]

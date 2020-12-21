@@ -1,0 +1,139 @@
+
+[
+
+
+     {
+    "words":
+    [
+    {
+
+      "Chinese":"紅酒",
+      "Simplified":"红酒",
+      "English":"red wine",
+      "Yale": "hùhng jáu",
+      "Pinyin":"hóng jiǔ",
+      "Resources":
+       [
+          {"name":"紅酒","URL":"https://en.wiktionary.org/wiki/紅酒"},
+          {"name":"紅","URL":"https://en.wiktionary.org/wiki/紅"},
+          {"name":"酒","URL":"https://en.wiktionary.org/wiki/酒"}
+       ]
+  }
+    ],
+    "images":
+    [
+        {
+            "image":"redwinesprouts",
+            "place":"Sprouts, Las Vegas, Nevada"
+        }
+    ],
+    "Description":
+        "紅 means “red,” and 酒 is “liquor.”",
+       "Tags":
+       [
+          "酒",
+          "紅酒",
+          "紅色",
+          "飲品"
+        ],
+       "Resources":
+       [
+          {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/Red_wine"}
+       ]
+    },
+
+    {
+      "words":
+      [
+      {
+  
+        "Chinese":"美樂",
+        "Simplified":"美乐",
+        "English":"merlot",
+        "Yale": "méih lohk",
+        "Pinyin":"měi lè",
+        "Resources":
+         [
+            {"name":"美","URL":"https://en.wiktionary.org/wiki/美"},
+            {"name":"樂","URL":"https://en.wiktionary.org/wiki/樂"}
+         ]
+    }
+      ],
+      "images":
+      [
+          {
+              "image":"merlotsprouts",
+              "place":"Sprouts, Las Vegas, Nevada"
+          }
+      ],
+      "Description":
+          "The Chinese characters for Merlot sound like “merlot,” “méih lohk” in Cantonese, and “měi lè” in Mandarin.",
+         "Tags":
+         [
+            "酒",
+            "紅酒",
+            "飲品"
+          ],
+         "Resources":
+         [
+            {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/Merlot"}
+         ]
+      },
+
+      {
+        "words":
+        [
+        {
+    
+          "Chinese":"黑比諾",
+          "Simplified":"黑比诺",
+          "English":"pinot noir",
+          "Yale": "hāk béi nohk",
+          "Pinyin":"Hēi bǐ nuò",
+          "Resources":
+           [
+            {"name":"黑比諾","URL":"https://en.wiktionary.org/wiki/黑比諾"},
+              {"name":"黑","URL":"https://en.wiktionary.org/wiki/黑"},
+              {"name":"比","URL":"https://en.wiktionary.org/wiki/比"},
+              {"name":"諾","URL":"https://en.wiktionary.org/wiki/諾"}
+           ]
+      },
+      {
+    
+        "Chinese":"黑皮諾",
+        "Simplified":"黑皮诺",
+        "English":"pinot noir",
+        "Yale": "hāk pèih nohk",
+        "Pinyin":"Hēi pí nuò",
+        "Resources":
+         [
+          {"name":"黑皮諾","URL":"https://en.wiktionary.org/wiki/黑皮諾"},
+            {"name":"黑","URL":"https://en.wiktionary.org/wiki/黑"},
+            {"name":"皮","URL":"https://en.wiktionary.org/wiki/皮"},
+            {"name":"諾","URL":"https://en.wiktionary.org/wiki/諾"}
+         ]
+    }
+        ],
+        "images":
+        [
+            {
+                "image":"pinotnoirsprouts",
+                "place":"Sprouts, Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+        "黑 means “black,” and 比諾 sort of sounds like “pinot” (the alternate 皮諾 even more so).",
+           "Tags":
+           [
+              "酒",
+              "紅酒",
+              "飲品"
+            ],
+           "Resources":
+           [
+              {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/Pinot_noir"}
+           ]
+        }
+
+    
+ ]

@@ -1,0 +1,94 @@
+[
+    {
+      "words": 
+      [
+        {
+        "Chinese":"牛筋",
+        "English":"beef tendon",
+        "Yale": "ngàuh gān",
+        "Pinyin":"niú jīn",
+        "Resources":
+            [
+            {"name":"牛筋","URL":"https://en.wiktionary.org/wiki/牛筋"},
+            {"name":"牛","URL":"https://en.wiktionary.org/wiki/牛"},
+            {"name":"筋","URL":"https://en.wiktionary.org/wiki/筋"}
+            ]
+      }
+        ],
+        "images":
+        [
+          {
+            "image":"beeftendondimsumcafe",
+            "place":"Dim Sum Cafe, Las Vegas, Nevada"
+          }
+        ],
+        "Description":
+        "Beef tendon slow-cooked until it's gelatinous.\n\nThe first character is the word for “cow,”, and the second word 筋 means “muscle” or “tendon.”",
+        "Tags":
+        [
+          "牛肉",
+          "牛筋",
+          "筋",
+          "蒸",
+          "點心"
+         ],
+        "Resources":
+        [
+          {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/beef-tendon/"},
+          {"name":"Wikipedia", 
+            "URL":"https://en.wikipedia.org/wiki/Tendon_as_food#China"},
+          {"name":"Ang Sarap", 
+            "URL":"https://www.angsarap.net/2017/01/02/yum-cha-style-beef-tendons/"},
+          {"name":"Sybaritica", 
+            "URL":"https://sybaritica.me/2016/10/24/dim-sum-beef-tendon/"}
+        ]
+    },
+
+    {
+      "words": 
+      [
+        {
+        "Chinese":"滷牛腱",
+        "Simplified":"卤牛腱",
+        "Alternate":"卤牛肉",
+        "English":"braised beef shin",
+        "Yale": "lóuh ngàuh gin",
+        "Pinyin":"lǔ niú jiàn",
+        "Resources":
+            [
+            {"name":"滷","URL":"https://en.wiktionary.org/wiki/滷"},
+            {"name":"牛","URL":"https://en.wiktionary.org/wiki/牛"},
+            {"name":"腱","URL":"https://en.wiktionary.org/wiki/腱"}
+            ]
+        }],
+        "images":[
+                    {
+                        "image":"beefshinkitchen",
+                        "place":"The Kitchen, Millbrae, California"
+                    }
+                ],
+        "Description":"Beef shin (otherwise known as beef shank) braised then sliced and served cold.\n\nThe first character 滷 means “braised,” and 牛腱 means “beef shank.”",
+        "Tags":
+        [
+         "牛肉",
+         "牛腱",
+         "牛筋"
+         ],
+        "Resources":
+        [
+            {"name":"Wikipedia", 
+              "URL":"https://en.wikipedia.org/wiki/Beef_shank"},
+              {"name":"The Hong Kong Cookery", 
+                "URL":"http://www.thehongkongcookery.com/2013/07/chinese-spiced-beef-shin.html"},
+              {"name":"China Sichuan Food", 
+                "URL":"https://www.chinasichuanfood.com/chinese-braised-beef-shank/"},
+              {"name":"The Woks of Life", 
+                "URL":"https://thewoksoflife.com/2017/05/braised-beef-shank/"},
+              {"name":"Christine's Recipes", 
+                "URL":"https://en.christinesrecipes.com/2009/10/spiced-beef-shin-chinese-cuisine.html"},
+              {"name":"Angel Wong's Kitchen", 
+                "URL":"https://www.angelwongskitchen.com/taiwanese-braised-beef-shank.html"}
+        ]
+    }
+]

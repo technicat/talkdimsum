@@ -1,0 +1,42 @@
+{
+    "name": "New Mexico",
+    "places": [
+        {
+            "title": "IT DIM SUM",
+             "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://www.itdimsum.com"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/it-dimsum-albuquerque"
+            }
+            ],
+            "lat": 35.176560,
+            "lon": -106.558020,
+            "city": "Albuquerque",
+            "address": "7900 Carmel Ave NE Albuquerque, NM 87122"
+        },
+        {
+            "title": "Ming Dynasty",
+             "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://www.mingdynastyabq.com"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/ming-dynasty-albuquerque"
+            }
+            ],
+            "lat": 35.097910,
+            "lon": -106.533030,
+            "city": "Albuquerque",
+            "address": "1551 Eubank Blvd NE Albuquerque, NM 87112"
+        }
+ ]
+    
+}

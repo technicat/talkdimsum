@@ -1,0 +1,52 @@
+[
+    {
+      "words":
+      [
+        {
+        "Chinese":"北京烤鴨",
+        "Simplified":"北京烤鸭",
+        "English":"Peking duck",
+        "Yale": "bāk gīng hāau ngaap",
+        "Pinyin":"Běi jīng kǎo yā",
+        "Resources":
+        [
+        {"name":"北京烤鴨","URL":"https://en.wiktionary.org/wiki/北京烤鴨"},
+        {"name":"北京","URL":"https://en.wiktionary.org/wiki/北京"},
+        {"name":"北","URL":"https://en.wiktionary.org/wiki/北"},
+        {"name":"京","URL":"https://en.wiktionary.org/wiki/京"},
+        {"name":"烤鴨","URL":"https://en.wiktionary.org/wiki/烤鴨"},
+        {"name":"烤","URL":"https://en.wiktionary.org/wiki/烤"},
+        {"name":"鴨","URL":"https://en.wiktionary.org/wiki/鴨"}
+        ]
+        }
+        ],
+        "images":
+        [
+                    {
+                        "image":"pekingduckzenpeninsula",
+                        "place":"Zen Peninsula, Millbrae, California"
+                    }
+                ],
+        "Description":
+          "Roasted duck with crispy skin, sliced and wrapped (by you, the diner) in thin pancakes along with garnishes like spring onion and hoisin or plum sauce. Sometimes thick bao wrappers are used instead of the pancakes.\n\n北京 is “Peking” (or Beijing, as it is now spelled, and better matched to its Mandarin pronunciation). 烤 is “roast,” and 鴨 is “duck,” so “Peking roast duck.” Or “Beijing roast duck.”",
+        "Tags":
+        [
+            "肉",
+            "北京",
+            "鴨"
+         ],
+        "Resources":
+        [
+          {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/peking-duck/"},
+          {"name":"Wikipedia", 
+            "URL":"https://en.wikipedia.org/wiki/Peking_duck"},
+          {"name":"China Sichuan Food", 
+            "URL":"https://www.chinasichuanfood.com/homemade-peking-duck/"},
+          {"name":"China Highlights", 
+            "URL":"https://www.chinahighlights.com/beijing/food/beijing-duck.htm"},
+          {"name":"Panda Cheffy", 
+            "URL":"https://medium.com/@pandacheffy/peking-duck-北京烤鸭-abd9fa7d19e7"}
+        ]
+    }
+]

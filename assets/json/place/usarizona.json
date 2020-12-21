@@ -1,0 +1,85 @@
+{
+    "name": "Arizona",
+    "places": [
+        {
+            "title": "Dim Sum Cafe",
+            "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/dim-sum-cafe-mesa-5"
+            }
+            ],
+            "lat": 33.365240,
+            "lon": -111.857960,
+            "city": "Mesa",
+            "address": "2711 S Alma School Rd, Ste 2, Mesa, AZ 85210"
+        },
+        {
+            "title": "Mekong Palace",
+             "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/mekong-palace-mesa"
+            }
+            ],
+            "lat": 33.413520,
+            "lon": -111.875660,
+            "city": "Mesa",
+            "address": "66 S Dobson Rd, Ste 120, Mesa, AZ 85202"
+        },
+        
+        {
+            "title": "Phoenix Palace",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://www.phoenixpalacechandleraz.com"
+                },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/phoenix-palace-chandler-2"
+            }
+            ],
+            "lat": 33.345940,
+            "lon": -111.876460,
+            "city": "Chandler",
+            "address": "2075 N Dobson Rd, Chandler, AZ 85224"
+        },
+
+        {
+            "title": "Great Wall Cuisine",
+            "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/great-wall-cuisine-phoenix"
+            }
+            ],
+            "lat": 33.510450,
+            "lon": -112.132910,
+            "city": "Phoenix",
+            "address": "3446 W Camelback Rd, Ste 155, Phoenix, AZ 85017"
+        },
+
+        {
+            "title": "Sushi Lounge",
+            "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/sushi-lounge-tucson"
+            }
+            ],
+            "lat": 32.164900,
+            "lon": -110.968470,
+            "city": "Tucson",
+            "address": "4802 S 6th Ave, Tucson, AZ 85714"
+        }
+
+
+ ]
+    
+}

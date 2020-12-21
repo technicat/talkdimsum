@@ -1,0 +1,90 @@
+
+[
+ {
+    "words":
+  [
+  {
+    "Chinese":"菜心",
+    "English":"choy sum",
+    "Yale": "choi sām",
+    "Pinyin":"cài xīn",
+    "Resources":
+            [
+             {"name":"菜心","URL":"https://en.wiktionary.org/wiki/菜心"},
+            {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
+            {"name":"心","URL":"https://en.wiktionary.org/wiki/心"}
+            ]
+    }],
+    "images":[
+     {
+         "image":"choisumkj",
+         "place":"KJ Dim Sum and Seafood, Las Vegas, Nevada"
+     }
+    ],
+    "Description": 
+        "A leafy green vegetable similar to Chinese broccoli.\n\n菜 is “vegetable“ and 心 is “heart,” (same sum 心 as in dim sum 點心) so it's literally “heart of the vegetable.”",
+    "Tags": 
+    [
+        "菜心",
+        "菜",
+        "蒸"
+    ],
+    "Resources": 
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/choy-sum/"},
+        {"name":"Wikipedia", 
+            "URL":"https://en.wikipedia.org/wiki/Choy_sum"},
+        {"name":"The Woks of Life",
+            "URL":"https://thewoksoflife.com/2016/01/yu-choy-recipe/"},
+        {"name":"Unfamiliar China",
+            "URL":"https://www.unfamiliarchina.com/dim-sum/vegetables/choy-sum-with-oyster-sauce"}
+    ]              
+ },
+
+ {
+    "words":
+  [
+  {
+    "Chinese":"蒜茸菜心",
+    "English":"choy sum in garlic",
+    "Yale": "syun yùhng choi sām",
+    "Pinyin":"suàn róng cài xīn",
+    "Resources":
+    [
+        {"name":"蒜蓉","URL":"https://en.wiktionary.org/wiki/蒜蓉"},
+        {"name":"蒜","URL":"https://en.wiktionary.org/wiki/蒜"},
+        {"name":"蓉","URL":"https://en.wiktionary.org/wiki/蓉"},
+        {"name":"菜心","URL":"https://en.wiktionary.org/wiki/菜心"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
+        {"name":"心","URL":"https://en.wiktionary.org/wiki/心"}
+    ]
+    }
+    ],
+    "images":
+    [
+     {
+         "image":"choysumwithgarlicbulbs",
+         "place":"Hong Kong Garden, Las Vegas, Nevada"
+     }
+    ],
+    "Description": 
+        "Choy sum stir-fried in garlic.\n\n蒜蓉 is “minced garlic,” and 菜心 is “choy sum.”",
+    "Tags" : 
+    [
+        "蒜茸",
+        "菜心",
+        "菜",
+        "蒸"
+    ],
+    "Resources": 
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/choy-sum/"},
+        {"name":"Serious Eats",
+            "URL":"https://www.seriouseats.com/recipes/2014/05/stir-fried-choy-sum-minced-garlic-recipe.html"}
+    ]
+                
+ }
+   
+ ]

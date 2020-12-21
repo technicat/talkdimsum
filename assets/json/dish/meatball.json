@@ -1,0 +1,54 @@
+[
+      
+ {
+  "words":
+  [
+      {
+    "Chinese" : "牛肉丸",
+    "English" : "beef meatballs",
+    "Yale" : "ngàuh yuhk yún",
+    "Pinyin" : "niú ròu wán",
+     "Resources":
+        [
+        {"name":"山竹","URL":"https://en.wiktionary.org/wiki/山竹"},
+        {"name":"山","URL":"https://en.wiktionary.org/wiki/山"},
+        {"name":"竹","URL":"https://en.wiktionary.org/wiki/竹"},
+        {"name":"牛肉球","URL":"https://en.wiktionary.org/wiki/牛肉球"},
+        {"name":"牛肉","URL":"https://en.wiktionary.org/wiki/牛肉"},
+        {"name":"牛","URL":"https://en.wiktionary.org/wiki/牛"},
+        {"name":"肉","URL":"https://en.wiktionary.org/wiki/肉"},
+        {"name":"丸","URL":"https://en.wiktionary.org/wiki/丸"}
+        ]
+    }
+],
+            
+    "images" : 
+    [
+        {
+            "image":"meatballpearl",
+            "place":"Pearl Chinese Cuisine, San Diego, California"
+        }
+    ],
+    "Description" : 
+        "Steamed meatballs made out of finely ground beef.\n\nThe first two characters 牛肉 means “beef” (first character 牛 means “cow” and second character 肉 means “meat“). The third character 丸 means “ball“ (as in pellets or pills).\n\nSometimes 牛肉球 (ngàuh yuhk kàuh in Cantonese, niú ròu qiú in Mandarin), where the third character also means “ball” but as in “planet,” which is ”star ball” 星球 (xīngqiú) or in sports: 小球 (síu kàuh) is “small ball” and refers to sports like ping pong and badminton, while 大球 (daaih kàuh) is ”large ball” and refers to sports like basketball and soccer.\n\nThe name is sometimes prefixed with 山竹 (sāan jūk in Cantonese, shān zhú in Mandarin), which refers to the bedding under the meatballs, typically tofu skin, that raise the meatballs above their juices.", 
+    "Tags" : 
+    [
+       "蒸",
+       "球",
+       "牛肉",
+       "丸",
+       "點心"
+    ],
+    "Resources":
+    [
+      {"name": "Pinterest", 
+        "URL":"https://www.pinterest.com/technicat/dim-sum/beef-meatballs/"},
+      {"name" :"Wikipedia", 
+        "URL":"http://en.wikipedia.org/wiki/Steamed_meatball"},
+      {"name" :"Dim Sum Guide", 
+        "URL":"https://dimsumguide.com/site/view/Minced-Beef-Ball"}
+    ]
+ }
+ 
+ 
+      ]

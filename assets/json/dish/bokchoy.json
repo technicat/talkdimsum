@@ -1,0 +1,193 @@
+
+[
+ {
+    "words":
+  [
+  {
+    "Chinese":"白菜",
+    "English":"bok choy",
+    "Yale": "baahk choi",
+    "Pinyin":"bái cài",
+     "Resources":
+    [
+        {"name":"白菜","URL":"https://en.wiktionary.org/wiki/白菜"},
+        {"name":"白","URL":"https://en.wiktionary.org/wiki/白"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"}
+    ]
+    }],
+    "images":
+    [
+     {
+         "image":"bokchoy99ranch",
+         "place":"99 Ranch Market, Las Vegas, Nevada"
+     },
+     {
+         "image":"babybokchoydimsumcafe",
+         "place":"Dim Sum Cafe, Las Vegas, Nevada"
+     }
+    ],
+    "Description": 
+        "A leafy green vegetable similar to Chinese broccoli.\n\n白 is “white,” and 菜 is “vegetable.“ so it's “white vegetable.”\n\nBok choy is often listed as “baby bok choy” to differentiate it from Napa cabbage, which in Chinese is “big bok choy.”",
+    "Tags" : 
+    [
+        "白菜",
+        "白色",
+           "菜",
+           "蒸"
+           ],
+    "Resources": 
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/bok-choy/"},
+        {"name":"Wikipedia", 
+                    "URL":"https://en.wikipedia.org/wiki/Bok_choy"},
+        {"name":"Napa cabbage", 
+                        "URL":"https://en.wikipedia.org/wiki/Napa_cabbage"},
+        {"name":"The Woks of Life",
+                     "URL":"https://thewoksoflife.com/2016/01/yu-choy-recipe/"},
+        {"name":"Unfamiliar China",
+                     "URL":"https://www.unfamiliarchina.com/dim-sum/vegetables/choy-sum-with-oyster-sauce"}
+    ]
+                
+ },
+
+ {
+    "words":
+  [
+  {
+    "Chinese":"蒜蓉白菜",
+    "English":"bok choy in garlic",
+    "Yale": "syun yùhng baahk choi",
+    "Pinyin":"suàn róng bái cài",
+    "Resources":
+    [
+        {"name":"蒜蓉","URL":"https://en.wiktionary.org/wiki/蒜蓉"},
+        {"name":"蒜","URL":"https://en.wiktionary.org/wiki/蒜"},
+        {"name":"蓉","URL":"https://en.wiktionary.org/wiki/蓉"},
+        {"name":"白菜","URL":"https://en.wiktionary.org/wiki/白菜"},
+        {"name":"白","URL":"https://en.wiktionary.org/wiki/白"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"}
+    ]
+    },
+    {
+    "Chinese":"蒜蓉青江菜",
+    "English":"bok choy with garlic sauce",
+    "Yale": "syun yùhng chīng gōng choi",
+    "Pinyin":"suàn róng qīng jiāng cài"
+    }
+    ],
+    "images":
+    [
+     {
+         "image":"babybokchoydimsumcafe",
+         "place":"Dim Sum Cafe, Las Vegas, Nevada"
+     }
+    ],
+    "Description": 
+        "Bok choy stir-fried in garlic.\n\n蒜蓉 is “minced garlic,” and 白菜 is “bok choy” or “white vegetable.”",
+    "Tags" : 
+    [
+        "蒜茸",
+        "白菜",
+        "白色",
+        "菜",
+        "蒸",
+        "點心"
+    ],
+    "Resources": 
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/bok-choy-in-garlic-sauce/"},
+        {"name":"The Woks of Life", 
+            "URL":"https://thewoksoflife.com/garlic-baby-bok-choy/"}
+    ]              
+ },
+
+ {
+    "words":
+  [
+  {
+    "Chinese":"冬菇白菜",
+    "English":"bok choy with mushrooms",
+    "Yale": "dūng gū baahk choi",
+    "Pinyin":"dōng gū bái cài",
+    "Resources":
+    [
+        {"name":"冬菇","URL":"https://en.wiktionary.org/wiki/冬菇"},
+        {"name":"冬","URL":"https://en.wiktionary.org/wiki/冬"},
+        {"name":"菇","URL":"https://en.wiktionary.org/wiki/菇"},
+        {"name":"白菜","URL":"https://en.wiktionary.org/wiki/白菜"},
+        {"name":"白","URL":"https://en.wiktionary.org/wiki/白"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"}
+    ]
+    }
+    ],
+    "images":
+    [
+     {
+         "image":"bokchoymushroomchefchings",
+         "place":"Chef Ching's Kitchen, Las Vegas, Nevada"
+     }
+    ],
+    "Description": 
+        "Bok choy stir-fried with mushroom.\n\n冬菇 is “mushroom,” and 白菜 is “bok choy” or “white vegetable.”",
+    "Tags": 
+    [
+        "冬菇",
+        "白菜",
+        "白色",
+        "菜",
+        "蒸",
+        "點心"
+    ],
+    "Resources": 
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/bok-choy-with-mushrooms/"},
+        {"name":"China Sichuan Food", 
+            "URL":"https://www.chinasichuanfood.com/bok-choy-and-mushroom/"}
+    ]              
+ },
+
+ {
+    "words":
+  [
+  {
+    "Chinese":"高麗菜",
+    "English":"Taiwanese cabbage",
+    "Yale": "gōu laih choi",
+    "Simplified":"高丽菜",
+    "Pinyin":"gāo lí cài",
+    "Resources":
+    [
+        {"name":"高麗菜","URL":"https://en.wiktionary.org/wiki/高麗菜"},
+        {"name":"高麗","URL":"https://en.wiktionary.org/wiki/高麗"},
+        {"name":"高","URL":"https://en.wiktionary.org/wiki/高"},
+        {"name":"麗","URL":"https://en.wiktionary.org/wiki/麗"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"}
+    ]
+    }
+    ],
+    "images":
+    [
+     {
+         "image":"taiwancabbagekseafood",
+         "place":"SK Seafood, Las Vegas, Nevada"
+     }
+    ],
+    "Description": 
+        "",
+    "Tags": 
+    [
+        "菜"
+    ],
+    "Resources": 
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/taiwanese-cabbage/"},
+        {"name":"The Woks of Life", 
+            "URL":"https://thewoksoflife.com/chinese-ingredients-glossary/chinese-vegetables-asian-leafy-greens/#Taiwanese-cabbage"}
+    ]              
+ }
+
+ ]

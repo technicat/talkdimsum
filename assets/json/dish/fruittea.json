@@ -1,0 +1,40 @@
+
+[
+
+    {
+        "words":
+        [
+            {
+                "Chinese":"水果茶",
+                "English":"fruit tea",
+                "Yale": "séui gwó chàh",
+                "Pinyin":"shuǐ guǒ chá",
+                "Resources":
+            [
+            {"name":"水果","URL":"https://en.wiktionary.org/wiki/水果"},
+            {"name":"水","URL":"https://en.wiktionary.org/wiki/水"},
+            {"name":"果","URL":"https://en.wiktionary.org/wiki/果"},
+            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
+            ]
+            }
+            ],
+        "images":[
+           {
+               "image":"mangogreenteameetfresh",
+               "place":"Meet Fresh, Las Vegas, Nevada"
+           }
+       ],
+        "Description":
+            "Black or green tea brewed with fruit. 水果 is “fruit“, and 茶 is “tea“, so “fruit tea“.",
+        "Tags":
+        [
+            "飲品",
+            "水果",
+            "茶"
+        ],
+        "Resources":[
+             {"name":"Angel Wong's Kitchen", 
+                "URL":"https://www.angelwongskitchen.com/taiwanese-style-hot-fruit-tea--277002652433590-shu464gu466-chaacute.html"}
+        ]
+        }
+ ]

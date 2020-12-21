@@ -1,0 +1,252 @@
+{
+    "name":"Ordering",
+    "lines":
+    [
+    {
+        "name":"a",
+        "words":
+        [
+            {
+                "Chinese":"你想飲乜嘢呀",
+                "English":"What would you like to drink?",
+                "Yale":"Néih séung yám māt yéh ā",
+                "Mandarin":"你想喝什么",
+                "Pinyin":"Nǐ xiǎng hē shénme"
+            }
+            ]
+    },
+    
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯咖啡",
+                "English":"I'd like a cup of coffee.",
+                "Yale":"ngóh séung yiu yāt būi ga fē",
+                "Pinyin":"Wǒ xiǎng yào yī bēi kāfēi"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯水",
+                "English":"I'd like a cup (or glass) of water.",
+                "Yale":"ngóh séung yiu yāt būi séui",
+                "Pinyin":"Wǒ xiǎng yào yī bēi shuǐ"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯冰水",
+                "English":"I'd like a cup (or glass) of ice water.",
+                "Yale":"ngóh séung yiu yāt būi bīng séui",
+                "Pinyin":"Wǒ xiǎng yào yī bēi bīng shuǐ"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯可樂",
+                "Simplified":"我想要一杯可乐",
+                "English":"I'd like a cup (or glass) of cola.",
+                "Yale":"ngóh séung yiu yāt būi hó lohk",
+                "Pinyin":"Wǒ xiǎng yào yī bēi kě lè"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯百事",
+                "Mandarin":"我想要一杯百事可樂",
+                "Simplified":"我想要一杯百事可乐",
+                "English":"I'd like a cup (or glass) of Pepsi.",
+                "Yale":"ngóh séung yiu yāt būi baak sih",
+                "Pinyin":"Wǒ xiǎng yào yī bēi bǎi shì kě lè"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯紅酒",
+                "Simplified":"我想要一杯红酒",
+                "English":"I'd like a cup (or glass) of red wine.",
+                "Yale":"ngóh séung yiu yāt būi hùhng jáu",
+                "Pinyin":"Wǒ xiǎng yào yī bēi hóng jiǔ"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯白酒",
+                "English":"I'd like a cup (or glass) of white wine.",
+                "Yale":"ngóh séung yiu yāt būi baahk jáu",
+                "Pinyin":"Wǒ xiǎng yào yī bēi bái jiǔ"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯啤酒",
+                "English":"I'd like a cup (or glass) of beer.",
+                "Yale":"ngóh séung yiu yāt būi bē jáu",
+                "Pinyin":"Wǒ xiǎng yào yī bēi pí jiǔ"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯牛奶",
+                "English":"I'd like a cup (or glass) of milk.",
+                "Yale":"ngóh séung yiu yāt būi ngàuh náai",
+                "Pinyin":"Wǒ xiǎng yào yī bēi niú nǎ"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯橙汁",
+                "English":"I'd like a cup (or glass) of orange juice.",
+                "Yale":"ngóh séung yiu yāt būi cháang jāp",
+                "Pinyin":"Wǒ xiǎng yào yī bēi chéng zhī"
+            }
+        ]
+    },
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯葡萄汁",
+                "English":"I'd like a cup (or glass) of grape juice.",
+                "Yale":"ngóh séung yiu yāt būi pòuh tòuh jāp",
+                "Pinyin":"Wǒ xiǎng yào yī bēi pú táo zhī"
+            }
+        ]
+    },
+
+
+    {  
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我想要一杯葡萄汁",
+                "English":"I'd like Chinese tea.",
+                "Yale":"ngóh séung yiu yāt būi pòuh tòuh jāp",
+                "Pinyin":"Wǒ xiǎng yào yī bēi pú táo zhī"
+            }
+        ]
+    },
+            
+    { 
+        "name":"a",
+        "words":
+        [
+            {
+                "Chinese":"你想飲乜嘢茶呀",
+                "English":"What tea would you like to drink?",
+                "Yale":"Néih séung yám māt yéh chàh ā",
+                "Mandarin":"你想喝什么茶",
+                "Pinyin":"Nǐ xiǎng hē shénme chá?"
+            }
+        ]
+    },
+    
+    { 
+           "name":"b",
+           "words":
+           [
+            {
+                "English":"Do you have oolong tea?",
+                "Chinese":"你有冇烏龍茶",
+                "Yale":"Néih yáuh móuh wū lúng chàh",
+                "Mandarin":"你有烏龍茶嗎",
+                "Simplified":"你有烏龍茶嗎",
+                "Pinyin":"Nǐ yǒu wūlóngchá ma"
+            }
+            ]
+    },
+    
+                       
+        { 
+            "name":"a",
+            "words":
+            [
+            {
+                "English":"What would you like to eat?",
+                "Chinese":"你想食乜嘢呀?",
+                "Yale":"Néih séung sihk māt yéh ā?",
+                "Mandarin":"你想吃什麼?",
+                "Simplified":"你想吃什么?",
+                "Pinyin":"Nǐ xiǎng chī shénme?"
+            }
+            ]
+    },
+    {
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"我食素",
+                "Mandarin":"我吃素",
+                "English":"I'm a vegetarian",
+                "Yale":"Ngóh sihk sou",
+                "Pinyin":"Wǒ chī sù"
+            }
+        ]
+    },
+    {
+        "name":"b",
+        "words":
+        [
+            {
+                "Chinese":"您有薦荐嗎",
+                "Yale":"Néih yáuh tēui jin ma",
+                "Mandarin":"您有什么薦荐的嗎",
+                "Simplified":"您有什么推荐的吗",
+                "English":"Do you have a recommendation?",
+                "Pinyin":"Nín yǒu shé me tuījiàn de ma"
+            }
+        ]
+    }
+ ]
+}

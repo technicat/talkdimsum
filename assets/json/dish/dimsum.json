@@ -1,0 +1,52 @@
+[
+  {
+    "words":
+    [
+      {
+        "Chinese": "點心",
+        "Simplified": "点心",
+        "English": "dim sum",
+        "Yale": "dím sām",
+        "Pinyin": "diǎn xin",
+        "Resources":
+        [
+          {"name":"點心","URL":"https://en.wiktionary.org/wiki/點心"},
+          {"name":"點","URL":"https://en.wiktionary.org/wiki/點"},
+          {"name":"心","URL":"https://en.wiktionary.org/wiki/心"}
+        ]
+      }
+    ],
+ 	  "images":
+    [
+     {
+         "image":"hkgardenassorted2",
+         "place":"Hong Kong Garden, Las Vegas, Nevada"
+     },
+     {
+      "image":"dimsumnewasianbbq",
+      "place":"New Asian BBQ, Las Vegas, Nevada"
+  }
+ 	  ],
+	 "Description":
+		  "Dim sum are shared small dishes or steamer baskets of dumplings and other typically bite-sized foods, in large restaurants traditionally served on carts (but these days many places let you order off a menu).\n\nThe first character 點 means “a little bit” and the second character 心 meaning “heart,” so literally “a touch of heart” or “touching the heart” (although the origin of the term is debated). Rhymes with “Be careful!” (小心 síu sām), “happy” (開心 hōi sām) and the vegetable “choy sum” (菜心 choi sām).\n\nDim sum dishes originated from all over China and some even have Western influences, but dim sum as a Hong Kong and Cantonese cuisine (“dim sum” is the Cantonese pronunciation) originated in the “yum cha” (drink tea) tradition of travelers stopping at teahouses for tea and snacks.",
+ 	  "Tags":
+    [
+      "點心"
+    ],
+ 	  "Resources":
+ 		[
+      {"name":"Pinterest", 
+        "URL":"https://www.pinterest.com/technicat/dim-sum/"},
+      {"name":"Wikipedia", 
+        "URL":"http://en.wikipedia.org/wiki/Dim_sum"},
+      {"name":"Dim Sum Central", 
+        "URL":"http://www.dimsumcentral.com/what-is-dim-sum/"},
+        {"name":"Hong Kong Tourism Board", 
+          "URL":"http://www.dimsumcentral.com/what-is-dim-sum/"},
+      {"name":"Unfamiliar China", 
+        "URL":"https://www.unfamiliarchina.com/dim-sum/"},
+      {"name":"Advntures with Kake", 
+        "URL":"https://kake.dreamwidth.org/43392.html"}
+    ]
+ 	}
+ ]

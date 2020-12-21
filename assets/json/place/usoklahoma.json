@@ -1,0 +1,62 @@
+{
+    "name":"Oklahoma",
+    "places":
+[
+    {
+        "title": "Fung's Kitchen",
+         "links":
+        [
+            {
+                "name":"site",
+                "URL":"http://www.fungskitchenboulevard.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/fungs-kitchen-oklahoma-city"
+            }
+        ],
+        "lat": 35.501960,
+        "lon": -97.534210,
+        "city": "Oklahoma City",
+        "address": "3321 North Classen Boulevard, Oklahoma City, OK 73118"
+        },
+    
+    {
+        "title": "Grand House Asian Bistro",
+         "links":
+        [
+            {
+                "name":"site",
+                "URL":"http://grandhouseokc.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/grand-house-asian-bistro-oklahoma-city"
+            }
+        ],
+        "lat": 35.496710,
+        "lon": -97.534830,
+        "city": "Oklahoma City",
+        "address": "2701 N Classen Blvd, Oklahoma City, OK 73106"
+    },
+    
+    {
+        "title": "Guang Zhou Dim Sum",
+         "links":
+        [
+            {
+                "name":"site",
+                "URL":"https://www.guangzhoudimsumtulsa.com/"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/guang-zhou-dim-sum-tulsa"
+            }
+        ],
+        "lat": 36.148180,
+        "lon": -95.932230,
+        "city": "Tulsa",
+        "address": "4003 E 11th St, Tulsa, OK 74112"
+    }
+    ]
+}

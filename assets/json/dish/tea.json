@@ -1,0 +1,155 @@
+
+[
+ 
+ {
+    "words":
+    [
+        {
+            "Chinese":"中國茶",
+            "Simplified":"中国茶",
+            "English":"Chinese tea",
+            "Yale": "jūng gwok chàh",
+            "Pinyin":"Zhōng guó chá",
+            "Resources":
+            [
+             {"name":"中國","URL":"https://en.wiktionary.org/wiki/中國"},
+            {"name":"中","URL":"https://en.wiktionary.org/wiki/中"},
+            {"name":"國","URL":"https://en.wiktionary.org/wiki/國"},
+            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
+            ]
+        }
+     ],
+     "images":
+     [
+        {
+             "image":"teatableeverygrain",
+             "place":"Eat Every Grain, Las Vegas, Nevada"
+         },
+         {
+             "image":"teadimsumcafe",
+             "place":"Dim Sum Cafe, Las Vegas, Nevada"
+         },
+         {
+             "image":"teanoodleexchange",
+             "place":"Noodle Exchange, Las Vegas"
+         },
+         {
+             "image":"chagardenoolong",
+             "place":"Cha Garden, Las Vegas"
+         }
+     ],
+    "Description":
+        "Hot, loose leaf tea served in a big pot. Tea originated in China thousands of years ago (legend has it that it was discovered when tea leaves accidentally landed in hot water) and is so integral to dim sum (teahouses actually predate the advent of dim sum) that 飲茶 “yám chàh“ (Cantonese for “drink tea”) also means to go out for dim sum.\n\n中国 means “China“ and 茶 is “tea.”\n\nThere is a huge variety of Chinese tea, which can be split into categories such as green, black, white, scented... Jasmine and oolong tea is standard, and chrysanthemum is a common non-caffeinated option, but large Chinese restaurants usually offer many more (I once asked “what tea do you have?” and they responded “what do you want?”",
+     "Tags":
+     [
+        "中國茶",
+        "飲品",
+        "點心",
+        "茶",
+        "熱茶"
+    ],
+     "Resources":
+     [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/tea/"},
+        {"name":"Wikipedia", 
+            "URL":"https://en.wikipedia.org/wiki/Chinese_tea"},
+        {"name":"History", 
+             "URL":"https://en.wikipedia.org/wiki/History_of_tea"},
+        {"name":"Culture", 
+             "URL":"https://en.wikipedia.org/wiki/Chinese_tea_culture"},
+        {"name":"Dim Sum Central",
+            "URL":"http://www.dimsumcentral.com/the-best-teas-for-dim-sum/"},
+        {"name":"Thirsty for Tea",
+            "URL":"http://www.thirstyfortea.com/recipes/best-teas-with-dim-sum/"},
+        {"name":"China Channel",
+            "URL":"https://chinachannel.org/2019/03/05/dim-sum-tea/"},
+        {"name":"China NPR", 
+            "URL":"https://www.npr.org/sections/thesalt/2016/01/26/464437173/worlds-oldest-tea-discovered-in-an-ancient-chinese-emperors-tomb"},
+        {"name":"Adventures with Kake", 
+            "URL":"https://kake.dreamwidth.org/43203.html"},
+        {"name":"Says",
+                 "URL":"https://says.com/my/lifestyle/types-of-chinese-tea-taste-and-differences-found-in-malaysian-chinese-restaurants"}
+        ]
+ },
+ 
+    {
+        "words":
+        [
+            {
+                "Chinese":"珠茶",
+                "English":"gunpowder tea",
+                "Yale": "jyū chàh",
+                "Pinyin":"zhū chá",
+                "Resources":
+            [
+            {"name":"珠","URL":"https://en.wiktionary.org/wiki/珠"},
+            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
+            ]
+            }
+        ],
+        "images":
+        [
+            {
+                "image":"gunpowderteafoojoy",
+                "place":"Foo Joy"
+            }
+        ],
+        "Description":
+            "Tea, usually green or oolong, that is prepared by rolling the leaves into small pellets.\n\n珠 means “bead“ or “pearl”, and 茶 is “tea“, so this is sometimes called “pearl tea“ (not to be confused with boba tea!)\n\nThe English name “gunpowder” might be based on the round shape, or the smoky flavor, or the Madarin pronunciation of 剛泡的 (gāng pào de), which means “fresh brewed.”",
+        "Tags":
+        [
+            "飲品",
+            "茶",
+            "熱茶",
+            "中國茶"
+        ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/gunpowder-tea/"},
+            {"name":"Wikipedia", 
+                "URL":"https://en.wikipedia.org/wiki/Gunpowder_tea"}
+        ]
+    },
+
+
+    {
+        "words":
+        [
+            {
+                "Chinese":"茶包",
+                "English":"teabag",
+                "Yale": "chàh bāau",
+                "Pinyin":"há bāo",
+                "Resources":
+            [
+            {"name":"珠","URL":"https://en.wiktionary.org/wiki/茶"},
+            {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
+            ]
+            }
+        ],
+        "images":
+        [
+            {
+             "image":"greentea88noodlepapa",
+             "place":"88 Noodle Papa, Las Vegas"
+            }
+        ],
+        "Description":
+            "茶 is “tea,” and 包 is “bag’ (the same bao as in dim sum buns).",
+        "Tags":
+        [
+            "飲品",
+            "茶",
+            "熱茶",
+            "包"
+        ],
+        "Resources":
+        [
+            {"name":"Wikipedia", 
+                "URL":"https://en.wikipedia.org/wiki/Tea_bag"}
+        ]
+    }
+
+ ]

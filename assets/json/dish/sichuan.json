@@ -1,0 +1,45 @@
+[
+    {
+ 
+        "words": 
+        [
+        {
+        "Chinese":"川菜",
+        "English":"Sichuan cuisine",
+        "Yale": "chyūn choi",
+        "Pinyin":"Chuān cà",
+        "Resources":
+        [
+        {"name":"川菜","URL":"https://en.wiktionary.org/wiki/川菜"},
+        {"name":"川","URL":"https://en.wiktionary.org/wiki/川"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"}
+        ]
+        }
+        ],
+        "images":
+        [
+           {
+               "image":"sichuanbook",
+               "place":"Las Vegas, Nevada"
+           }
+       ],
+        "Description":
+            "Sichuan cuisine, one of the great eight cuisines of China (Cantonese is another), is the food of Sichuan provice (otherwise known in English as Szechuan), is famous, or notorious, for its spiciness.\n\nThe Chinese for Sichuan, 四川, literally means “three rivers”, and 菜 means “vegetables” but also more generally type of dish or cuisine, so 四川菜 is “Shanghai cuisine,” but it's generally shortened to 川菜.",
+        "Tags":
+        [
+            "川菜",
+            "四川"
+        ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/sichuan-food/"},
+            {"name":"Wikipedia", 
+                "URL":"https://en.wikipedia.org/wiki/Sichuan_cuisine"},
+            {"name":"China Sichuan Food", 
+                "URL":"https://www.chinasichuanfood.com/"},
+            {"name":"Mala Food", 
+                "URL":"https://malafood.com/en/"}
+        ]
+    }
+]

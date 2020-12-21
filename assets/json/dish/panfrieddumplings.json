@@ -1,0 +1,185 @@
+[
+    {
+        "words":[
+            {
+        "Chinese":"煎素菜餃",
+        "Simplified":"煎素菜饺",
+        "English":"pan-fried vegetable dumpling",
+        "Yale": "jīn sou choi gáau",
+        "Pinyin" : "jiān sù cài jiǎo",
+        "Resources":
+        [
+        {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
+        {"name":"素菜","URL":"https://en.wiktionary.org/wiki/素菜"},
+        {"name":"素","URL":"https://en.wiktionary.org/wiki/素"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
+        {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
+        ]
+        }],
+        "images":
+        [
+            {
+                "image":"panfriedvegetabledumplingdimsumcafe",
+                "place":"Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+            "Pan-fried dumplings filled with minced vegetables such as cabbage and carrots.\n\n煎 means “pan fried,” 素菜 means it is a vegetable dish, and 餃 is “dumpling.”",
+        "Tags":
+        [
+            "煎",
+            "素菜",
+            "餃",
+            "素",
+            "點心"
+            ],
+        "Resources":
+        [
+            {"name":"Serious Eats", 
+                "URL":"http://www.seriouseats.com/2014/03/how-to-make-pan-fried-vegetable-dumplings.html"},
+            {"name":"The Woks of Life", 
+                "URL":"https://thewoksoflife.com/2015/09/vegetable-dumplings/"}
+        ]
+    },
+ 
+    {
+        "words":
+        [{
+        "Chinese" : "煎韭菜餃",
+        "Simplified" : "煎韭菜饺",
+        "English":"pan-fried chive dumpling",
+        "Yale": "jīn gáu choi gáau",
+        "Pinyin" : "jiān jiǔ cài jiǎo",
+        "Resources":
+        [
+        {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
+        {"name":"韭菜","URL":"https://en.wiktionary.org/wiki/韭菜"},
+        {"name":"韭","URL":"https://en.wiktionary.org/wiki/韭"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
+        {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
+        ]
+        }],
+        "images" : 
+        [
+         {
+                "image":"chivedumplingsdimsumcafe",
+                "place":"Dim Sum Cafe, Las Vegas, Nevada"
+            },
+            {
+                "image":"chivedumplingsyumcha",
+                "place":"Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description" : 
+            "Pan-fried dumplings filled with shrimp and Chinese chives.\n\n煎 means “pan-fried,” 韭菜 means “Chinese chives” (also known as “garlic chives”) and 餃 is “dumpling,” so it's “chive dumplings.”",
+        "Tags":
+        [
+            "餃",
+            "煎",
+            "韭菜",
+            "蝦",
+            "韭菜餃",
+            "點心"
+            ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/chive-dumplings/"},
+            {"name":"Chinese chives", 
+                "URL":"https://en.wikipedia.org/wiki/Allium_tuberosum#China"},
+            {"name":"Mission Food",
+                "URL":"http://www.mission-food.com/2014/07/chinese-chive-dumplings.html"}
+        ]
+    },
+
+    {
+        "words":
+        [
+            {
+        "Chinese" : "仿肉韭菜餃",
+        "Simplified" : "仿肉韭菜饺",
+        "English":"vegan chive dumpling",
+        "Yale": "fóng yuhk gáu choi gáau",
+        "Pinyin" : "ǎng ròu jiǔ cài jiǎo",
+         "Resources":
+        [
+        {"name":"仿肉","URL":"https://en.wiktionary.org/wiki/仿肉"},
+         {"name":"仿","URL":"https://en.wiktionary.org/wiki/仿"},
+          {"name":"肉","URL":"https://en.wiktionary.org/wiki/肉"},
+        {"name":"韭菜","URL":"https://en.wiktionary.org/wiki/韭菜"},
+        {"name":"韭","URL":"https://en.wiktionary.org/wiki/韭"},
+        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
+        {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
+        ]
+        }
+    ],
+        "images" : 
+        [
+            {
+                "image":"imitationmeatandchivedumplingyumcha",
+                "place":"Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description": 
+            "Pan-fried dumplings filled with chives and imitation meat instead of shrimp.\n\nThe first two characters 仿肉 means “imitation meat,” 韭菜 means “chives“ and 餃 is “dumpling,” so “imitation meat chive dumplings.”",
+        "Tags":
+        [
+         "仿肉",
+            "煎",
+            "韭菜",
+            "素",
+            "餃",
+            "點心"
+            ],
+        "Resources":
+        [
+            {"name":"Dim Sum Guide",
+                "URL":"https://dimsumguide.com/site/view/Shrimp-and-Chive-Dumplings"},
+            {"name":"Mission Food",
+                "URL":"http://www.mission-food.com/2014/07/chinese-chive-dumplings.html"}
+        ]
+    },
+ 
+    {
+        "words":[{
+        "Chinese":"鍋貼",
+        "Simplified":"锅贴",
+        "English":"potstickers",
+        "Yale": "wō tip",
+        "Pinyin" : "guō tiē",
+        "Resources":
+        [
+        {"name":"鍋貼","URL":"https://en.wiktionary.org/wiki/鍋貼"},
+         {"name":"鍋","URL":"https://en.wiktionary.org/wiki/鍋"},
+          {"name":"貼","URL":"https://en.wiktionary.org/wiki/貼"}
+        ]
+        }],
+        "images":[
+            {
+                "image":"potstickersdimsumcafe",
+                "place":"Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+            "Oddly known as “potstickers” in English (and in Boston, even more oddly known as “Peking ravioli”), these thick-skinned dumplings from northern China are steamed and then pan-fried, with a meat filling.\n\nThe first character 鍋 is the word for “pot,” and the second character 貼 means “stick,” so, yeah, “potstickers” is about right.\n\nAs you may have guessed, the name “Peking ravioli” was coined to appeal to the large Italian community in Boston.",
+        "Tags":
+        [
+         "蒸",
+         "煎",
+         "點心"
+         ],
+        "Resources":
+        [
+            {"name":"Wikipedia", 
+                "URL":"http://en.wikipedia.org/wiki/Jiaozi#Guoties"},
+            {"name":"Dimsumptuous", 
+                "URL":"http://www.dimsumptuous.com/2013/08/pan-fried-dumplings-potstickers.html"},
+            {"name":"Kirbie's Cravings", 
+                "URL":"https://kirbiecravings.com/pot-stickers-2/"},
+            {"name":"NPR",
+                "URL":"https://www.npr.org/sections/thesalt/2016/03/30/472147018/peking-ravioli-and-other-chinese-dishes-youll-only-find-in-boston"}
+        ]
+ }
+ 
+ 
+ ]

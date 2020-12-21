@@ -1,0 +1,61 @@
+
+[
+    
+  
+    {
+        "words":
+        [
+            {
+        "Chinese":"叉燒飯",
+        "Simplified":"叉烧饭",
+        "English":"BBQ pork rice",
+        "Yale":"chā sīu faahn",
+        "Pinyin":"chā shāo fàn",
+        "Resources":
+        [
+        {"name":"叉燒","URL":"https://en.wiktionary.org/wiki/叉燒"},
+         {"name":"叉","URL":"https://en.wiktionary.org/wiki/叉"},
+          {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"},
+        {"name":"飯","URL":"https://en.wiktionary.org/wiki/飯"}
+        ]
+        }
+    ],
+        "images" : 
+      [
+            {
+                "image":"chasiuricewinkee",
+                "place":"Win Kee HK BBQ and Noodle, Las Vegas, Nevada"
+            }
+        ],
+        "Description": 
+          "BBQ pork served on steamed rice.\n\n叉燒 is “BBQ pork,”  and 飯 is “rice,” so it's ”BBQ pork rice.”",
+        "Tags" 
+        :
+         [
+          "茶餐廳",
+          "叉燒",
+          "燒味",
+          "飯",
+          "白飯"
+        ],
+         "Resources":
+         [
+            {
+                "name": "Pinterest", 
+                "URL":
+                "https://www.pinterest.com/technicat/dim-sum/bbq-pork-on-rice/"
+            },
+            {
+                "name": "Healthy GF Asian", 
+                "URL":
+                "https://www.healthygfasian.com/chinese-barbecue-pork-rice-char-siu-fan/"
+            },
+            {
+                "name": "The Missing Lokness", 
+                "URL":
+                "https://themissinglokness.com/2014/04/23/cantonese-style-bbq-pork-over-rice/"
+            }
+       ]
+    }
+ 
+ ]

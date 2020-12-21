@@ -1,0 +1,75 @@
+{
+    "name": "Georgia",
+    "places": 
+    [
+        
+        {
+            "title": "Canton House Restaurant",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"http://www.cantonhouserestaurant.com"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/canton-house-chamblee-4"
+            }
+            ],
+            "lat": 33.882570,
+            "lon": -84.289410,
+            "city": "Chamblee",
+            "address": "4825 Buford Hwy Chamblee, GA 30341"
+        },
+        {
+            "title": "Oriental Pearl Restaurant",
+            "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/oriental-pearl-restaurant-chamblee"
+            }
+            ],
+            "lat": 33.890550,
+            "lon": -84.300050,
+            "city": "Chamblee",
+            "address": "5399 New Peachtree Rd Chamblee, GA 30341"
+        },
+        
+        {
+            "title": "East Pearl Seafood",
+            "links":
+            [
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/east-pearl-seafood-duluth"
+            }
+            ],
+            "lat": 33.948399,
+            "lon": -84.131630,
+            "city": "Duluth",
+            "address": "1810 Liddell Ln Duluth, GA 30096"
+        },
+       
+       {
+           "title": "Happy Valley Dim Sum",
+           "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://www.happyvalley-ga.com"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/happy-valley-dim-sum-and-asian-cuisine-norcross"
+            }
+            ],
+           "lat": 33.909020,
+           "lon": -84.204680,
+            "city": "Norcross",
+           "address": "5495 Jimmy Carter Blvd Norcross, GA 30093"
+       }
+       
+ ]
+    
+}

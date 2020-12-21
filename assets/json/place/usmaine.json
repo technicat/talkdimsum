@@ -1,0 +1,45 @@
+{
+    "name": "Maine",
+    "places": [
+        {
+            "title": "Empire Chinese Kitchen",
+             "links":
+            [
+            {
+               "name":"site",
+                "URL":"http://portlandempire.com/kitchen/"
+             },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/empire-chinese-kitchen-portland"
+            }
+            ],
+            "lat": 43.654900,
+            "lon": -70.262520,
+            "city": "Portland",
+            "address": "575 Congress St Portland, ME 04101"
+        },
+        
+        {
+            "title": "Golden Lotus Chinese Cuisine",
+             "links":
+            [
+            {
+                "name":"Maine Today",
+                "URL":"https://mainetoday.com/eat-drink/first-look-golden-lotus-shows-promise/"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/golden-lotus-chinese-cuisine-portland"
+            }
+            ],
+            "lat": 43.656320,
+            "lon": -70.260980,
+            "city": "Portland",
+            "address": "511 Congress St Portland, ME 04101"
+        }
+        
+        
+ ]
+    
+}

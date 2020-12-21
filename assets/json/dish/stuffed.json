@@ -1,0 +1,137 @@
+[
+ 
+{
+    "words":
+    [
+        {
+        "Chinese" : "釀茄子",
+        "Simplified" : "酿茄子",
+        "English" : "stuffed eggplant",
+        "Yale" : "yeuhng ké jí",
+        "Pinyin":"niàng qié zi",
+        "Resources":
+        [
+        {"name":"釀","URL":"https://en.wiktionary.org/wiki/釀"},
+        {"name":"茄子","URL":"https://en.wiktionary.org/wiki/茄子"},
+        {"name":"茄","URL":"https://en.wiktionary.org/wiki/茄"},
+        {"name":"子","URL":"https://en.wiktionary.org/wiki/子"}
+        ]
+        }
+    ],
+    "images": 
+    [
+        {
+            "image":"stuffedeggplantdimsumcafe",
+            "place":"Dim Sum Cafe, Las Vegas, Nevada"
+        }
+    ],
+    "Description": 
+        "In the same manner as stuffed tofu, this is eggplant stuffed and served with a thick soy sauce.\n\nThe first character 釀 is used to describe stuffed vegetables, and 茄子 is “eggplant.”",
+    "Tags": 
+    [
+              "煎",
+              "釀",
+              "茄子",
+              "豉油",
+              "點心"
+    ],
+    "Resources":
+    [
+        {"name":"Pinterest", 
+        "URL":"https://www.pinterest.com/technicat/dim-sum/stuffed-eggplant/"},
+        {"name":"Dimsumptuous", 
+            "URL":"http://www.dimsumptuous.com/2013/06/chinese-stuffed-eggplant.html"},
+        {"name":"Dim Sum Central", 
+            "URL":"http://www.dimsumcentral.com/stuffed-eggplant/"},
+        {"name":"The Woks of Life", 
+            "URL":"https://thewoksoflife.com/2014/12/chinese-stuffed-eggplant/"}
+    ]
+},
+
+{
+    "words":
+    [{
+    "Chinese" : "釀蘑菇",
+    "Simplified" : "酿蘑菇",
+    "English" : "stuffed mushrooms",
+    "Yale" : "yeuhng mòh gū",
+    "Pinyin":"niàng mó gu",
+    "Resources":
+        [
+        {"name":"釀","URL":"https://en.wiktionary.org/wiki/釀"},
+        {"name":"蘑菇","URL":"https://en.wiktionary.org/wiki/蘑菇"},
+        {"name":"蘑","URL":"https://en.wiktionary.org/wiki/蘑"},
+        {"name":"菇","URL":"https://en.wiktionary.org/wiki/菇"}
+        ]
+    }],
+    "images": 
+    [
+        {
+            "image":"stuffedmushroomsdimsumcafe",
+            "place":"Dim Sum Cafe, Las Vegas, Nevada"
+        }
+    ],
+    "Description": 
+        "In the same manner as stuffed tofu, this mushrooms are stuffed and served with a thick soy sauce.\n\nThe first character 釀 is used to describe stuffed vegetables, and 蘑菇 is “mushroom.”",
+    "Tags" : 
+    [
+              "菇",
+              "釀",
+              "豉油",
+              "點心"
+              ],
+    "Resources":
+    [
+        {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/stuffed-mushrooms/"},
+        {"name":"Dim Sum Central", 
+            "URL":"http://www.dimsumcentral.com/stuffed-chinese-mushrooms/"}
+    ]
+},
+
+{
+    "words":
+    [
+        {
+        "Chinese" : "釀椒",
+        "Simplified" : "酿青椒",
+        "English" : "stuffed bell peppers",
+        "Yale" : "yeuhng chēng jīu",
+        "Pinyin":"niàng qīng jiāo",
+        "Resources":
+        [
+        {"name":"釀","URL":"https://en.wiktionary.org/wiki/釀"},
+        {"name":"青椒","URL":"https://en.wiktionary.org/wiki/青椒"},
+        {"name":"青","URL":"https://en.wiktionary.org/wiki/青"},
+        {"name":"椒","URL":"https://en.wiktionary.org/wiki/椒"}
+        ]
+        }
+    ],
+    "images": 
+    [
+        {
+            "image":"stuffedbellpeppers"
+        }
+    ],
+    "Description":
+        "In the same manner as stuffed tofu, these bell peppers are stuffed and served with a thick soy sauce.\n\nThe first character 釀 is used to describe stuffed vegetables, 青 means “green” (or sometimes blue, or green-blue) and 椒 is “pepper,“ so it's “stuffed green pepper.”",
+    "Tags": 
+    [
+              "釀",
+              "青椒",
+              "青色",
+              "椒",
+              "豉油",
+              "點心"
+    ],
+    "Resources": 
+    [
+    {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/stuffed-peppers/"},
+      {"name":"Dim Sum Central", 
+        "URL":"http://www.dimsumcentral.com/seafood-stuffed-bell-peppers/"},
+      {"name":"The Woks of Life", 
+        "URL":"https://thewoksoflife.com/2015/06/chinese-stuffed-peppers-2/"}
+    ]
+}
+]

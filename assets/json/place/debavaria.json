@@ -1,0 +1,29 @@
+{
+    "name": "Bavaria",
+    "abbrev":"BA", 
+     "zoom": 12,
+    "places": 
+    [
+
+    {
+            "title": "Rich Man",
+            "links":
+            [
+             
+            {
+                "name":"site",
+                "URL":"http://rich-man.de/index.html"
+            },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/rich-man-stuttgart-3"
+            }
+            ],
+            "lat": 48.775964,
+            "lon": 9.176831,
+            "city": "Stuttgart",
+            "address": "Schulstr. 18 70173 "
+        }
+    ]
+    
+}

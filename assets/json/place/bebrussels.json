@@ -1,0 +1,46 @@
+{
+    "name": "Brussels",
+    "lat": 52.29,
+    "lon": -113.8,
+     "zoom": 7.0,
+    "places": [
+       
+        {
+            "title": "Dam Sum",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL": "http://www.damsum.com/"
+                },
+                {
+                    "name":"Yelp",
+                    "URL": "https://www.yelp.com/biz/dam-sum-ixelles-3"
+                    }
+            ],
+            "lat": 50.825490,
+            "lon": 4.358380,
+            "city": "Ixelles",
+            "address": "11 PARVIS DE LA. TRINITE, 1050 IXELLES"
+        },
+        {
+            "title": "Let's Dim Sum",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL": "https://letsdimsum.be/"
+                },
+                {
+                    "name":"Yelp",
+                    "URL": "https://www.yelp.com/biz/lets-dim-sum-uccle"
+                    }
+            ],
+            "lat": 50.815243,
+            "lon": 4.367770,
+            "city": "Uccle",
+            "address": "Legrandlaan 73, 1180 Ukkel"
+        }
+ ]
+    
+}

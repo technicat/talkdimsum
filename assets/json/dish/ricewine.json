@@ -1,0 +1,97 @@
+
+[
+      {
+        "words":
+        [
+        {
+          "English":"rice wine",
+          "Chinese":"米酒",
+          "Yale": "máih jáu",
+          "Pinyin":"mǐ jiǔ",
+          "Resources":
+           [
+              {"name":"米酒","URL":"https://en.wiktionary.org/wiki/米酒"},
+              {"name":"米","URL":"https://en.wiktionary.org/wiki/米"},
+              {"name":"酒","URL":"https://en.wiktionary.org/wiki/酒"}
+           ]
+      }
+        ],
+        "images":
+        [
+            {
+                "image":"mijiu",
+                "place":"Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+        "Wine made from fermented rice.\n\n米 means “rice,” (uncooked) and 酒 is “liquor.”",
+           "Tags":
+           [
+            "米酒",
+              "酒",
+              "飲品"
+            ],
+           "Resources":
+           [
+            {"name":"Pinterest",
+              "URL":"https://www.pinterest.com/technicat/dim-sum/rice-wine/"},
+            {"name":"Wikipedia",
+                "URL":"https://en.wikipedia.org/wiki/Mijiu"},
+            {"name":"China Travel Guide",
+                "URL":"https://www.travelchinaguide.com/chinese-rice-wine.htm"},
+            {"name":"Mala Food",
+                    "URL":"https://malafood.com/en/the-ultimate-guide-to-chinese-cooking-wines"}
+           ]
+        },
+
+        {
+            "words":
+            [
+            {
+              "English":"Shiaoxing wine",
+              "Chinese":"紹酒",
+              "Yale": "siuh jáu",
+              "Mandarin":"紹興酒",
+              "Simplified":"绍兴酒",
+              "Pinyin":"shào xīng jiǔ",
+              "Resources":
+               [
+                  {"name":"紹興酒","URL":"https://en.wiktionary.org/wiki/紹興酒"},
+                  {"name":"紹酒","URL":"https://en.wiktionary.org/wiki/紹酒"},
+                  {"name":"紹興","URL":"https://en.wiktionary.org/wiki/紹興"},
+                  {"name":"紹","URL":"https://en.wiktionary.org/wiki/紹"},
+                  {"name":"興","URL":"https://en.wiktionary.org/wiki/興"},
+                  {"name":"酒","URL":"https://en.wiktionary.org/wiki/酒"}
+               ]
+          }
+            ],
+            "images":
+            [
+                {
+                    "image":"shaoxingwine",
+                    "place":"Las Vegas, Nevada"
+                }
+            ],
+            "Description":
+                "Shaoxing wine is one of the best known traditional Chinese rice wines, dating back over two thousand years, and is widely used as a cooking wine.\n\n紹酒 is short for 紹興酒 where 紹興 is Shaoxing, the city in the Zhejiang province where this wine originated, and 酒 is “liquor.”",
+               "Tags":
+               [
+                "米酒",
+                  "酒",
+                  "紹興",
+                  "黄酒",
+                  "飲品"
+                ],
+               "Resources":
+               [
+                {"name":"Pinterest",
+                  "URL":"https://www.pinterest.com/technicat/dim-sum/shaoxing-wine/"},
+                  {"name":"Wikipedia",
+                    "URL":"https://en.wikipedia.org/wiki/Shaoxing_wine"},
+                    {"name":"Shaoxing",
+                      "URL":"https://en.wikipedia.org/wiki/Shaoxing"},
+                    {"name":"The Woks of Life",
+                      "URL":"https://thewoksoflife.com/shaoxing-wine-the-key-to-authentic-chinese-cooking/"}
+               ]
+            }
+ ]

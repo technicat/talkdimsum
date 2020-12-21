@@ -1,0 +1,222 @@
+
+[
+  {
+      "words":
+      [
+        {
+          "Chinese" : "老婆餅",
+          "Simplified" : "老婆饼",
+          "English" : "wife cake",
+          "Yale" : "lóuh pòh béng",
+          "Pinyin" : "lǎo po bǐng",
+           "Resources":
+        [
+          {"name":"老婆餅","URL":"https://en.wiktionary.org/wiki/老婆餅"},
+          {"name":"老婆","URL":"https://en.wiktionary.org/wiki/老婆"},
+          {"name":"老","URL":"https://en.wiktionary.org/wiki/老"},
+          {"name":"婆","URL":"https://en.wiktionary.org/wiki/婆"},
+          {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
+        ]
+        }
+      ],
+      "images" : 
+      [
+          {
+              "image":"wifecake2"
+          }
+      ],
+      "Description" : 
+        "A round flaky pastry filled with a wintermelon paste.\n\nThe first two characters 老婆 means “wife” (the first character 老 means “old,” and the second character 婆 means “lady,” so it's just like the American use of “old lady” to mean “wife”). The third character 餅 means “cookie” or “pastry.”",
+      "Tags" : 
+      [
+            "老婆",
+            "餅",
+            "焗",
+            "素",
+                "甜品"
+      ],
+      "Resources":
+      [
+        {"name":"Wikipedia", "URL":"http://en.wikipedia.org/wiki/Sweetheart_cake"}
+      ]
+  },
+ 
+  {
+    "words":
+    [
+      {
+        "Chinese" : "蓮蓉餅",
+        "Simplified" : "莲蓉饼",
+        "English" : "lotus seed pie",
+        "Yale" : "lìhn yùhng béng",
+        "Pinyin" : "lián róng bǐng",
+        "Resources":
+        [
+          {"name":"蓮蓉","URL":"https://en.wiktionary.org/wiki/蓮蓉"},
+          {"name":"蓮","URL":"https://en.wiktionary.org/wiki/蓮"},
+          {"name":"蓉","URL":"https://en.wiktionary.org/wiki/蓉"},
+          {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
+        ]
+      }
+    ],
+    "images" :
+     [
+     {
+         "image":"lotusseedpie"
+     }
+    ],
+    "Description" :
+      "A  pastry filled with lotus seed paste.\n\nThe first two characters 蓮蓉 means “lotus seed paste” (the first character 蓮 means “lotus“). The third character 餅 means “cookie” or “pastry.”",
+    "Tags" : 
+    [
+           "蓮",
+           "蓮蓉",
+           "餅",
+           "焗",
+           "素",
+           "甜品"
+    ],
+    "Resources":[
+              ]
+ },
+ 
+ {
+    "words":
+    [
+      {
+        "Chinese" : "杏仁餅",
+        "Simplified" : "杏仁饼",
+        "Alternate" : "杏仁桃酥",
+        "English" :"almond cookie",
+        "Yale": "hahng yàhn béng",
+        "Pinyin" : "xìng rén bǐng",
+         "Resources":
+        [
+          {"name":"杏仁餅","URL":"https://en.wiktionary.org/wiki/杏仁餅"},
+          {"name":"杏仁","URL":"https://en.wiktionary.org/wiki/杏仁"},
+          {"name":"杏","URL":"https://en.wiktionary.org/wiki/杏"},
+          {"name":"仁","URL":"https://en.wiktionary.org/wiki/仁"},
+          {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
+        ]
+      }
+    ],
+    "images" :
+     [
+          {
+              "image":"almondcookiedimsumcafe",
+              "place":"Dim Sum Cafe, Las Vegas, Nevada"
+          }
+      ],
+      "Description" : 
+        "These almond-flavored crumbly cookies were introduced by early Chinese-American immigrants but are now popular worldwide and can be found in Chinatowns, Chinese bakeries and restaurants. There is typically an almond in the center of the cookie that is supposed to bring good luck.\n\nThe first two characters 杏仁 mean “almond,” and the third character 餅 means cookie.",
+      "Tags" : 
+      [
+        "曲奇",
+      "小食",
+            "杏仁",
+            "餅",
+            "焗",
+            "素",
+            "美國",
+            "甜品"
+            ],
+      "Resources":
+      [
+        {"name":"Pinterest", 
+          "URL":"https://www.pinterest.com/technicat/dim-sum/almond-cookie/"},
+        {"name":"Wikipedia", 
+          "URL":"https://en.wikipedia.org/wiki/Almond_biscuit"},
+        {"name":"China Sichuan Food", 
+          "URL":"https://www.chinasichuanfood.com/chinese-almond-cookie/"},
+        {"name":"The Hong Kong Cookery", 
+          "URL":"http://www.thehongkongcookery.com/2015/06/chinese-almond-cookies.html"},
+        {"name":"Sweet Tooth Design", 
+          "URL":"http://www.sweetoothdesign.com/cookie-chinese-almond"}
+      ]
+ },
+
+ {
+  "words":
+  [
+    {
+      "Chinese" : "簽語餅",
+      "Simplified" : "签语饼",
+      "English" :"fortune cookie",
+      "Yale": "chīm yúh béng",
+      "Pinyin" : "qiān yǔ bǐng",
+       "Resources":
+        [
+          {"name":"簽","URL":"https://en.wiktionary.org/wiki/簽"},
+          {"name":"語","URL":"https://en.wiktionary.org/wiki/語"},
+          {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
+        ]
+      }
+      ],
+      "images" : [
+          {
+              "image":"fortunecookiediamondbakery",
+              "place":"Diamond Bakery, Las Vegas, Nevada"
+          }
+      ],
+      "Description": 
+        "Fortune cookies are ubiquitious in Chinese-American restaurants and can be found in bakeries and grocery stores but I've never seen one in Hong Kong.\n\n簽 is a slip of paper, 語 generally means to say but in this case specifically means “proverb,” and 餅 is “cookie.” So it's a “paper proverb cookie.”\n\nThere's debate whether fortune cookies are of Chinese-American or Japanese-American origin, and whether they originated in San Francisco or Los Angeles, but either way, it could be claimed they derive from from Japan in the form of tsujiura senbei, notes baked into crackers.",
+      "Tags":
+       [
+          "小食",
+          "餅",
+          "甜品"
+        ],
+      "Resources":
+      [
+          {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/fortune-cookie/"},
+          {"name":"Wikipedia", 
+            "URL":"https://en.wikipedia.org/wiki/Fortune_cookie"},
+          {"name":"Kirbie's Cravings", 
+            "URL":"https://kirbiecravings.com/homemade-fortune-cookies/"},
+          {"name":"Fancy Fortune Cookie", 
+            "URL":"https://www.fancyfortunecookies.com/Articles.asp?ID=148"},
+          {"name":"Tsujiura", 
+            "URL":"https://en.wikipedia.org/wiki/Tsujiura"}
+      ]
+ },
+
+ {
+  "words":
+  [
+    {
+      "Chinese" : "曲奇",
+      "English" : "cookie",
+      "Yale" : "kūk kèih",
+      "Pinyin" : "qǔ qí",
+       "Resources":
+    [
+      {"name":"曲奇","URL":"https://en.wiktionary.org/wiki/曲奇"},
+      {"name":"曲","URL":"https://en.wiktionary.org/wiki/曲"},
+      {"name":"奇","URL":"https://en.wiktionary.org/wiki/奇"}
+    ]
+    }
+  ],
+  "images" : 
+  [
+      {
+          "image":"cookieeverygrain"
+      }
+  ],
+  "Description": 
+    "The Chinese word 曲奇 for Western-style cookies is a loanword from the English “cookie” (which is derived from the Dutch “koekje,” which means “little cake.” In particular, the Cantonese pronunciation “kūk kèih” sounds like “cookie.”\n\nThe Chinese word for for Chinese cookie-like things is 餅, so sometimes Western cookies are termed 曲奇餅 (kūk kèih béng in Cantonese) but that's kind of redundant.",
+  "Tags": 
+  [
+    "曲奇",
+    "餅",
+    "焗",
+    "素",
+     "甜品"
+  ],
+  "Resources":
+  [
+    {"name":"Wikipedia", "URL":"https://en.wikipedia.org/wiki/Cookie"}
+  ]
+}
+
+ ]

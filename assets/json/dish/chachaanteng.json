@@ -1,0 +1,66 @@
+
+[
+ 
+    {
+        "words":
+        [
+            {
+                "Chinese":"茶餐廳",
+                "Simplified":"茶餐厅",
+                "English":"Hong Kong cafe",
+                "Yale":"chàh chāan tēng",
+                "Pinyin":"chá cān tīng",
+                 "Resources":
+    [
+        {"name":"茶餐廳","URL":"https://en.wiktionary.org/wiki/茶餐廳"},
+        {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"},
+        {"name":"餐廳","URL":"https://en.wiktionary.org/wiki/餐廳"},
+        {"name":"餐","URL":"https://en.wiktionary.org/wiki/餐"},
+        {"name":"廳","URL":"https://en.wiktionary.org/wiki/廳"}
+    ]
+            }
+
+        ],
+        "images":
+        [
+            {
+             "image":"jjnoodlecafe",
+             "place":"JJ's Noodles, Las Vegas, Nevada"
+            }
+        
+        ],
+        "Description":
+            "Hong Kong style cafes serve a mixture of Hong Kong style Western foods and Chinese food.\n\n茶 is “tea,” 餐 is “meal,” and 廳 is “hall,” so it's literally “tea dining hall,” or “tea restaurant.”",
+        "Tags":
+        [
+            "茶餐廳"
+        ],
+        "Resources":
+        [
+        {
+            "name":"Pinterest",
+            "URL":"https://www.pinterest.com/technicat/dim-sum/cha-chaan-teng/"
+        },
+        {
+            "name":"Wikipedia",
+            "URL":"https://en.wikipedia.org/wiki/Cha_chaan_teng"
+        },
+        {
+            "name":"Culture Trip",
+            "URL":"https://theculturetrip.com/asia/china/hong-kong/articles/how-to-order-at-a-cha-chaan-teng-in-hong-kong/"
+        },
+        {
+            "name":"Food Republic",
+            "URL":"https://www.foodrepublic.com/2016/06/16/inside-hong-kongs-dirt-cheap-cha-chaan-teng-restaurants/"
+        },
+        {
+            "name":"FluentUp",
+            "URL":"https://medium.com/@fluentup/the-origin-of-the-hong-kong-cha-chaan-teng-5c998aa26e6"
+        },
+        {
+            "name":"Hong Kong Tourism Board",
+            "URL":"https://www.discoverhongkong.com/in/explore/dining/hong-kong-must-try-traditional-diners.html"
+        }
+        ]
+    }
+ ]

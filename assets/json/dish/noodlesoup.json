@@ -1,0 +1,140 @@
+
+[
+
+    {
+        "words":
+        [{
+        "Chinese":"雲吞麵",
+        "Simplified":"云吞面",
+        "English":"wonton noodle soup",
+        "Yale": "wàhn tān mihn",
+        "Pinyin":"yún tūn miàn",
+        "Resources":
+        [
+        {"name":"雲吞麵","URL":"https://en.wiktionary.org/wiki/雲吞麵"},
+        {"name":"雲吞","URL":"https://en.wiktionary.org/wiki/雲吞"},
+        {"name":"麵","URL":"https://en.wiktionary.org/wiki/麵"}
+        ]
+        }],
+        "images":
+        [
+            {
+                "image":"wontonnoodlesoup88noodlepapa",
+                "place":"88 Noodle Papa, Las Vegas, Nevada"
+            },
+            {
+                "image":"wontonnoodlesoupjoyful",
+                "place":"Joyful House"
+            }
+        ],
+        "Description":
+            "Boiled wonton (dumplings with shrimp and pork) served with thin noodles in a soup.\n\nThe first two characters 雲吞 comprise “won ton“ and the third character 麵 is the word for “noodles.“",
+        "Tags":
+        [
+        "湯",
+            "茶餐廳",
+            "豬肉",
+            "雲吞",
+            "麵",
+            "點心"
+        ],
+        "Resources":[
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/wonton-noodle-soup/"},
+            {"name":"Wikipedia", 
+                "URL":"http://en.wikipedia.org/wiki/Wonton_noodles"},
+            {"name":"The Woks of Life", 
+                "URL":"https://thewoksoflife.com/cantonese-wonton-noodle-soup/"},
+            {"name":"Appetite for China", 
+                "URL":"http://appetiteforchina.com/recipes/making-hong-kong-style-wonton-noodle-soup"},
+            {"name":"Oh My Food Recipes", 
+                "URL":"https://www.ohmyfoodrecipes.com/wonton-noodle-soup/"}
+        ]
+    },
+
+    {
+        "words":
+        [
+        {
+        "Chinese":"水餃麵",
+        "Simplified":"水饺麵",
+        "English":"dumpling noodle soup",
+        "Yale": "séui gáau mihn",
+        "Pinyin":"shuǐ jiǎo miàn",
+        "Resources":
+        [
+        {"name":"水餃","URL":"https://en.wiktionary.org/wiki/水餃"},
+        {"name":"水","URL":"https://en.wiktionary.org/wiki/水"},
+         {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"},
+        {"name":"麵","URL":"https://en.wiktionary.org/wiki/麵"}
+        ]
+        }
+        ],
+        "images":[
+            {
+                "image":"shrimpdumplingnoodlesoupasianbbq",
+                "place":"Asian BBQ and Noodles, Las Vegas, Nevada"
+            }
+        ],
+    "Description":
+        "Boiled dumplings served with thin noodles in a soup.\n\n水 is “water,” and 餃 is “dumpling,” and together 水餃 is “boiled dumpling.” The third character 麵 is the word for “noodles,“ so the whole thing is “boiled dumpling noodles.”",
+        "Tags":
+        [
+        "湯",
+         "茶餐廳",
+         "水餃",
+            "麵",
+            "餃"
+        ],
+        "Resources":[
+            {"name":"Wikipedia", 
+                "URL":"https://en.wikipedia.org/wiki/Jiaozi"}
+        ]
+    },
+
+    {
+        "words":
+        [
+        {
+            "Chinese": "清湯牛腩粉",
+            "Simplified": "清汤牛腩粉",
+            "English": "beef brisket and noodles in clear broth",
+            "Yale": "chīng tōng ngàuh náahm fán",
+            "Pinyin":"qīng tāng niú nǎn fěn",
+            "Resources":
+            [
+                {"name":"清湯","URL":"https://en.wiktionary.org/wiki/清湯"},
+                {"name":"清","URL":"https://en.wiktionary.org/wiki/清"},
+                {"name":"湯","URL":"https://en.wiktionary.org/wiki/湯"},
+                {"name":"牛腩","URL":"https://en.wiktionary.org/wiki/牛腩"},
+                {"name":"牛","URL":"https://en.wiktionary.org/wiki/牛"},
+                {"name":"腩","URL":"https://en.wiktionary.org/wiki/腩"},
+                {"name":"粉","URL":"https://en.wiktionary.org/wiki/粉"}
+            ]
+        }
+        ],
+        "images":
+        [
+            {
+                "image":"beefstewclearbrothnoodle88noodlepapa",
+                "place":"88 Noodle Papa, Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+            "Slices of brisket and chunks of daikon in a clear soup with noodles.\n\n清 is “clear,” and 湯 is “soup,” so together it's “clear soup,” 牛腩 is “brisket,” and 粉 is “noodle,” so it's “clear soup beef brisket noodles.”",
+        "Tags":
+        [
+         "湯",
+            "清湯",
+            "牛肉",
+            "牛腩",
+             "麵"
+        ],
+        "Resources":
+        [
+            {"name":"3than Wong", 
+                "URL":"https://3thanwong.com/hong-kong-beef-brisket-noodles/"}
+        ]
+    }
+ 
+ ]

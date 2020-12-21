@@ -1,0 +1,65 @@
+{
+    "name": "Ohio",
+    "places": [
+        {
+            "title": "Bo Loong",
+             "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://boloongcleveland.com/25361"
+             },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/bo-loong-cleveland"
+             }
+            ],
+            "lat": 41.515600,
+            "lon": -81.664760,
+            "city": "Cleveland",
+            "address": "3922 St Clair Ave NE Cleveland, OH 44114"
+        },
+        {
+            "title": "Emperor's Palace",
+             "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://www.emperorspalacecleveland.com"
+             },
+             {
+                "name":"site",
+                "URL":"https://emperorspalacecle.webs.com"
+             },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/emperors-palace-cleveland"
+             }
+            ],
+            "lat": 41.508390,
+            "lon": -81.678210,
+             "city": "Cleveland",
+            "address": "2136 Rockwell Ave Cleveland, OH 44114"
+        },
+        {
+            "title": "Li Wah",
+             "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://liwahrestaurant.com"
+             },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/li-wah-cleveland"
+             }
+            ],
+            "lat": 41.508330,
+            "lon": -81.669520,
+             "city": "Cleveland",
+            "address": "2999 Payne Ave Ste 102 Cleveland, OH 44114"
+        }
+        
+ ]
+    
+}

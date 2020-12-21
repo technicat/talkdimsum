@@ -1,0 +1,284 @@
+{
+    "name": "Hawaii",
+    "places":
+    [
+    {
+        "title": "Canton House",
+        "links":
+        [
+
+            {
+                "name":"site",
+                "URL": "https://www.newcantonhouse.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/canton-house-honolulu"
+            }
+        ],
+        "lat": 21.313150,
+        "lon": -157.863200,
+        "city": "Honolulu",
+        "address": "162 N Hotel St, Honolulu, HI 96817"
+    },
+    {
+        "title": "Dim Sum House",
+        "links":
+        [
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/dim-sum-house-honolulu"
+            }
+        ],
+        "lat": 21.312210,
+        "lon": -157.857100,
+        "city": "Honolulu",
+        "address": "1111 Bishop St, Ste 2, Honolulu, HI 96813"
+    },
+    {
+        "title": "Fook Lam",
+        "links":
+        [
+            {
+                "name":"site",
+                 "URL": "http://chinatownculturalplaza.com/tenants.html"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/fook-lam-honolulu"
+            }
+        ],
+        "lat": 21.314220,
+        "lon": -157.860870,
+        "city": "Honolulu",
+        "address": "100 N Beretania St, Ste 110-112, Honolulu, HI 96817"
+    },
+    {
+        "title": "Ginger and Garlic",
+        "links":
+        [
+         {
+                "name":"Frolic",
+                "URL": "https://www.frolichawaii.com/stories/chinee-me-dim-sum-ginger-garlic"
+                },
+                {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/ginger-and-garlic-honolulu"
+                }
+        ],
+        "lat": 21.312280,
+        "lon": -157.861990,
+        "city": "Honolulu",
+        "address": "1138 Smith St, Honolulu, HI 96817"
+    },
+    {
+        "title": "Golden Palace Seafood Restaurant",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL":"http://www.golden-palace-honolulu.com"
+            },
+        {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/golden-palace-seafood-restaurant-honolulu"
+        }
+        ],
+        "lat": 21.312040,
+        "lon": -157.863880,
+        "city": "Honolulu",
+        "address": "111 N King St, Honolulu, HI 96817"
+    },
+    {
+        "title": "Happy Day",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "https://www.happydayshi.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/happy-day-honolulu-3"
+            }
+        ],
+        "lat": 21.282850,
+        "lon": -157.800050,
+        "city": "Honolulu",
+        "address": "3553 Waialae Ave, Honolulu, HI 96816"
+    },
+    {
+        "title": "Harbor Village Cuisine",
+        "links":
+        [
+                {
+                "name":"site",
+                "URL":"http://www.harborvillagecuisine.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/harbor-village-cuisine-honolulu"
+            }
+        ],
+        "lat": 21.277250,
+        "lon": -157.705450,
+        "city": "Honolulu",
+        "address": "7192 Kalanianaole Hwy, Honolulu, HI 96825"
+    },
+    {
+        "title": "Jade Dynasty Seafood",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "http://www.jadedynastyhawaii.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/jade-dynasty-seafood-restaurant-honolulu"
+            }
+        ],
+        "lat": 21.302622,
+        "lon": -157.863306,
+        "city": "Honolulu",
+        "address": "450 Ala Moana Boulevard: Ala Moana Shopping Center - 4th Floor Ho'okipa Terrace Honolulu, Hawaii 96814"
+    },
+    {
+        "title": "Legend Seafood Restaurant",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "https://www.legendseafoodhonolulu.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/legend-seafood-restaurant-honolulu"
+            }
+        ],
+        "lat": 21.314220,
+        "lon": -157.860870,
+        "city": "Honolulu",
+        "address": "100 N Beretania St, Ste 108, Honolulu, HI 96817"
+        },
+        {
+        "title": "The Mandalay",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "http://www.themandalayhawaii.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/the-mandalay-honolulu"
+            }
+        ],
+        "lat": 21.308140,
+        "lon": -157.860040,
+        "city": "Honolulu",
+        "address": "1055 Alakea St, Honolulu, HI 96813"
+    },
+    {
+        "title": "Mei Sum",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "http://www.meisumdimsum.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/mei-sum-honolulu"
+            }
+        ],
+        "lat": 21.312080,
+        "lon": -157.860890,
+        "city": "Honolulu",
+        "address": "1170 Nuuanu Ave, Ste 102, Honolulu, HI 96817"
+    },
+    {
+        "title": "Nice Day Chinese Seafood",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "http://www.nicedaychinese.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/nice-day-chinese-seafood-restaurant-honolulu"
+            }
+        ],
+        "lat": 21.319790,
+        "lon": -157.861240,
+        "city": "Honolulu",
+        "address": "1425 Liliha St, Ste 2-5, Honolulu, HI 96817"
+    },
+    {
+        "title": "Tai Pan Dim Sum",
+        "links":
+        [
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/tai-pan-dim-sum-honolulu"
+            }
+        ],
+        "lat": 21.314220,
+        "lon": -157.860870,
+        "city": "Honolulu",
+        "address": "100 N Beretania St, Honolulu, HI 96817"
+    },
+    {
+        "title": "Tim Ho Wan",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "http://timhowanusa.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/tim-ho-wan-honolulu-2"
+            }
+        ],
+        "lat": 21.290940,
+        "lon": -157.835890,
+        "city": "Honolulu",
+        "address": "2233 Kalakaua Ave, Bldg B, Level 3, B303, Honolulu, HI 96815"
+    },
+    {
+        "title": "Wong Kee Seafood Restaurant",
+        "links":
+        [
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/won-kee-seafood-restaurant-honolulu"
+            }
+        ],
+        "lat": 21.314220,
+        "lon": -157.860870,
+        "city": "Honolulu",
+        "address": "100 N Beretania St, Ste 106, Honolulu, HI 96817"
+    },
+    {
+        "title": "Yee Hong Pavilion",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "https://yumchahawaii.business.site"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/yee-hong-pavilion-honolulu-3"
+            }
+        ],
+        "lat": 21.314220,
+        "lon": -157.860870,
+        "city": "Honolulu",
+        "address": "100 N Beretania St, Ste 101, Honolulu, HI 96817"
+    }
+   
+    ]
+}

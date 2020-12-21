@@ -1,0 +1,84 @@
+{
+    "name":"Rhode Island",
+    "places":
+    [
+
+        {
+            
+            "title": "King's Garden",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"http://www.kingsgardenri.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/kings-garden-cranston"
+            }
+            ],
+            "lat": 41.775600,
+            "lon": -71.436684,
+            "city": "Cranston",
+            "address": "90 Rolfe Sq Cranston, RI 02910"
+        },
+        
+        {
+            
+            "title": "New Asia House",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"http://newasiahouse.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/new-asia-house-warwick"
+            }
+            ],
+            "lat": 41.685730,
+            "lon": -71.499660,
+             "city": "Warwick",
+            "address": "300 Quaker Ln Warwick, RI 02886"
+        },
+        {
+            
+            "title": "Silver Crystal Restaurant",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"http://www.silvercrystal88.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/silver-crystal-restaurant-west-warwick"
+            }
+            ],
+            "lat": 41.684120,
+            "lon": -71.523530,
+            "city": "Warwick",
+            "address": "289-1 Cowesett Ave West Warwick, RI 02893"
+        },
+        
+        {
+            "title": "Golden Chopstix",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://joanneliu526.wixsite.com/goldenchopstix"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/golden-chopstix-westerly"
+            }
+            ],
+            "lat": 41.363910,
+            "lon": -71.814960,
+            "city": "Westerly",
+            "address": "62 Franklin St Westerly, RI 02891"
+        }
+]
+}

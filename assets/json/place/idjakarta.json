@@ -1,0 +1,172 @@
+{
+    "name": "Jakarta",
+    "places": 
+    [
+        {
+            "title": "Imperial Kitchen",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-imperial-kitchen-dim-sum-bsd-city-chinese-halal-r671320"
+            }
+            ],
+            "lat": -6.304903,
+            "lon": 106.643641,
+            "city": "BSD City",
+            "address": "Aeon Mall, 3rd Floor, Unit 3F No. 41-42, Food Carnival, Jl. BSD Raya Utama, BSD City, , 15345"
+        },
+
+        {
+            "title": "Imperial Kitchen",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-imperial-kitchen-dim-sum-grogol-chinese-halal-r183519"
+            }
+            ],
+            "lat": -6.168179,
+            "lon": 106.786799,
+            "city": "Gogol",
+            "address": "Mall Ciputra, Lower Ground Floor, Unit LG - 52, Jl. Arteri S. Parman, Grogol, , 11470"
+        },
+
+        {
+            "title": "Sense",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-sense-gunung-sahari-chinese-dim-sum-r15133"
+            }
+            ],
+            "lat": -6.138663,
+            "lon": 106.831741,
+            "city": "Gunung Sahari",
+            "address": "Mangga Dua Square, Jl. Gunung Sahari No. 1, Gunung Sahari"
+        },
+
+        {
+            "title": "Sun City",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-sun-city-hayam-wuruk-chinese-dim-sum-r15263"
+            }
+            ],
+            "lat": -6.155221,
+            "lon": 106.818225,
+            "city": "Hayam Wuruk",
+            "address": "Lindeteves Trade Centre, 5th Floor, Jl. Hayam Wuruk No. 127, Hayam Wuruk, , 11180"
+        },
+
+        {
+            "title": "Imperial Kitchen",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-imperial-kitchen-dim-sum-karet-chinese-dim-sum-r705065"
+            }
+            ],
+            "lat": -6.209150,
+            "lon": 106.818148,
+            "city": "Karet",
+            "address": "Citywalk Sudirman, GF, Jl. KH. Mas Mansyur No. 121, Karet"
+        },
+
+        {
+            "title": "Imperial Kitchen",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-imperial-kitchen-dim-sum-kuningan-chinese-halal-r51737"
+            }
+            ],
+            "lat": -6.224862,
+            "lon": 106.830604,
+            "city": "Kuningan",
+            "address": "Kuningan City, 3rd Floor, Unit L3 - 05, Jl. Prof. Dr. Satrio Kav. 18, Kuningan"
+        },
+
+        {
+            "title": "May Star",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-may-star-restaurant-mangga-dua-chinese-dim-sum-r15167"
+            }
+            ],
+            "lat": -6.136032,
+            "lon":  106.826205,
+            "city": "Mangga Dua",
+            "address": "Hotel Le Grandeur Lt 3, Jl. Mangga Dua Raya , Mangga Dua, , 10730"
+        },
+
+        {
+            "title": "May Star",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-may-star-restaurant-pluit-chinese-dim-sum-r5521"
+            }
+            ],
+            "lat": -6.127366,
+            "lon": 106.791023,
+            "city": "Pluit",
+            "address": "Emporium Pluit Mall, Lantai 4, Jl. Pluit Selatan Raya Blok S - 6 Kawasan CBD, Pluit, , 14440"
+        },
+
+        {
+            "title": "May Star",
+            "links":
+            [
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-may-star-restaurant-slipi-chinese-dim-sum-r3967"
+            }
+            ],
+            "lat": 6.176609,
+            "lon": 106.790736,
+            "city": "Slipi",
+            "address": "Central Park, LG, No. 103 - 103 A, Jl. Letjen. S. Parman Kav. 28, Slipi, , 11470"
+        },
+
+        {
+            "title": "Tim Ho Wan",
+            "links":
+            [
+                {
+                    "name":"site",
+                    "URL": "http://timhowan.com"
+                },
+             {
+                "name":"OpenRice",
+                "URL":"https://id.openrice.com/en/jakarta/r-tim-ho-wan-thamrin-chinese-dim-sum-r718229"
+            },
+            {
+                "name":"Tripadvisor",
+                "URL":"https://www.tripadvisor.com/Restaurant_Review-g294229-d8867131-Reviews-Tim_Ho_Wan_Grand_Indonesia-Jakarta_Java.html"
+            },
+            {
+                "name":"Zomato",
+                "URL":"https://www.zomato.com/jakarta/tim-ho-wan-thamrin"
+            },
+            {
+                "name":"Wikipedia",
+                "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+            }
+            ],
+            "lat": -6.195236,
+            "lon": 106.819940,
+            "city": "Thamrin",
+            "address": "Ruko Crown Golf, Blok D No. 8 - 10, Bukit Golf Mediterania, Jl. Cluster Marina Indah Raya, Pantai Indah Kapuk, , 14470"
+        }
+    ]
+    
+}

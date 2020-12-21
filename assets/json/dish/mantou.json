@@ -1,0 +1,103 @@
+[
+    {
+        "words":
+        [
+        {
+            "Chinese":"饅頭",
+            "Simplified":"馒头",
+            "English":"mantou",
+            "Yale": "màahn tàuh",
+            "Pinyin":"mán tou",
+            "Resources":
+        [
+        {"name":"饅頭","URL":"https://en.wiktionary.org/wiki/饅頭"},
+        {"name":"饅","URL":"https://en.wiktionary.org/wiki/饅"},
+        {"name":"頭","URL":"https://en.wiktionary.org/wiki/頭"}
+        ]
+        }
+        ],
+        "images":
+        [
+        {
+            "image":"mantou"
+        },
+        {
+            "image":"steamedbun"
+        }
+        ],
+        "Description":
+            "Plain steamed bun with no filling, originating from Northern China and made with wheat flour.\n\nThe second character 頭 is the word for “head,” and according to one story, the name of this dish, ”man tou,” came from the word for “barbarian head” (long story).\n\nBao (包) is mantou with various fillings (see next entry), and originally “πmantou” referred to both variations.",
+        "Tags":
+        [
+          "饅頭",
+            "蒸",
+            "素",
+            "點心"
+        ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+              "URL":"https://www.pinterest.com/technicat/dim-sum/mantou/"},
+            {"name":"Wikipedia", 
+              "URL":"http://en.wikipedia.org/wiki/Mantou"},
+            {"name":"Mary's Test Kitchen", 
+              "URL":"http://www.marystestkitchen.com/make-chinese-steamed-buns-mantou/"},
+            {"name":"The Woks of Life", 
+              "URL":"https://thewoksoflife.com/2018/01/whole-wheat-mantou/"},
+            {"name":"China Sichuan Food", 
+              "URL":"https://www.chinasichuanfood.com/chinese-steamed-buns/"},
+            {"name":"Unfamiliar China", 
+              "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/mantou/"},
+            {"name":"Kirby's Cravings", 
+              "URL":"https://kirbiecravings.com/homemade-steamed-buns-mantou/"},
+            {"name":"Panda Cheffy", 
+              "URL":"https://medium.com/@pandacheffy/mantou-馒头-453bf9ff7908"}
+        ]
+      },
+
+     {
+
+        "words":
+        [
+        {
+        "Chinese" : "鮑魚滑雞窩",
+        "Simplified" : "鲍鱼滑鸡窝",
+        "English" :"abalone and chicken in mantou cup",
+        "Yale": "bāau yùh waaht gāi wō",
+        "Pinyin":"bào yú huá jī wō",
+        "Resources":
+        [
+        {"name":"鮑魚","URL":"https://en.wiktionary.org/wiki/鮑魚"},
+        {"name":"鮑","URL":"https://en.wiktionary.org/wiki/鮑"},
+        {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"},
+        {"name":"滑","URL":"https://en.wiktionary.org/wiki/滑"},
+         {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
+         {"name":"窩","URL":"https://en.wiktionary.org/wiki/窩"}
+        ]
+        }
+        ],
+        "images": 
+        [
+          {
+              "image":"abalonechickenmantoutimhowan",
+              "place":"Tim Ho Wan, Las Vegas, Nevada"
+          }
+        ],
+        "Description": 
+          "Bits of abalone and chicken filled into bao bread like a tart.\n\n鮑魚 is “abalone,” 滑雞 is “slippery chicken,” and 窩 is “nest.”\n\nI've only seen this at Tim Ho Wan in Las Vegas.",
+        "Tags":
+        [
+        "饅頭",
+        "鮑魚",
+        "滑雞",
+        "窩",
+        "雞",
+        "點心"
+        ],
+        "Resources":
+        [
+          {"name":"Pinterest", 
+            "URL":"https://www.pinterest.com/technicat/dim-sum/abalone-in-mantou-cup/"}
+        ]
+      }
+]

@@ -1,0 +1,62 @@
+{
+    "name":"New Hampshire",
+    "places":
+    [
+        {
+            "title": "Golden Tao Restaurant",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"http://www.goldentaonh.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/golden-tao-restaurant-manchester"
+             }
+            ],
+            "lat": 42.992901,
+            "lon": -71.481160,
+            "city": "Manchester",
+            "address": "270 Amory St Manchester, NH 03102"
+        },
+        {
+            "title": "North Garden Restaurant",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"https://www.northgardenrestaurant.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/north-garden-restaurant-manchester"
+             }
+            ],
+            "lat": 42.992309,
+            "lon": -71.502703,
+            "city": "Manchester",
+            "address": "715 Mast Rd Manchester, NH 03102"
+        },
+ 
+        {
+            "title": "Zhong's Restaurant",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"http://www.sunshineoriental.com"
+            },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/zhongs-restaurant-merrimack"
+            }
+            ],
+            "lat": 42.878703,
+            "lon": -71.483348,
+            "city": "Merrimack",
+            "address": "559 Daniel Webster Hwy Merrimack, NH 03054"
+        }
+ 
+ ]
+}

@@ -1,0 +1,396 @@
+[
+    {
+        "words":
+        [
+        {
+        "Chinese" : "粥",
+        "English" : "congee",
+        "Yale": "jūk",
+        "Pinyin" : "zhōu",
+         "Resources":
+        [
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+        }],
+        "images":
+        [
+          {
+              "image":"congeepraisehouse"
+          },
+          {
+              "image":"jook"
+          }
+        ],
+        "Description" :
+            "Rice porridge, also known as congee. It is prepared by boiling rice in water for a long time, until the rice is thick and soft. A staple of Chinese breakfasts, it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\nCongee is popular around Asia, and in fact the English name “congee” originated from Tamil word for rice porridge, “kanji.”\n\n煲電話粥 (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally “cooking telephone congee,” is slang for a long telephone conversation.",
+        "Tags":
+        [
+          "粥",
+          "豬",
+            "素",
+            "熱",
+             "茶餐廳"
+            ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/congee/"},
+            {"name":"Wikipedia", 
+                "URL":"http://en.wikipedia.org/wiki/Congee"},
+            {"name":"China Sichuan Food", 
+                "URL":
+                "https://www.chinasichuanfood.com/how-to-make-congee-rice-porridge/"},
+            {"name":"Dimsumptuous", 
+                "URL":"http://www.dimsumptuous.com/2013/05/hk-congee.html"},
+            {"name":"Hong Kong Cookery", 
+                "URL":"http://www.thehongkongcookery.com/2013/04/chinese-congee.html"},
+            {"name":"Unfamiliar China", 
+                "URL":"https://www.unfamiliarchina.com/congee/"},
+            {"name":"Year of Congee", 
+                    "URL":"https://yearofcongee.blogspot.com/2014/01/how-to-reheat-your-congee.html"}
+        ]
+    },
+
+    {
+        "words":
+        [
+        {
+        "Chinese" : "白粥",
+        "English" : "plain congee",
+        "Yale": "baahk jūk",
+        "Pinyin" : "bái zhōu",
+        "Resources":
+        [
+          {"name":"白粥","URL":"https://en.wiktionary.org/wiki/白粥"},
+          {"name":"白","URL":"https://en.wiktionary.org/wiki/白"},
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+        }],
+        "images" :
+        [
+          {
+              "image":"plainjook"
+          },
+          {
+              "image":"jook"
+          }
+        ],
+        "Description":
+            "Plain congee, with nothing mixed in.\n\n.白 means “white,” and 粥 is “congee,” so 白粥 is literally “white congee.”",
+        "Tags":
+        [
+            "茶餐廳",
+            "粥",
+            "豬",
+            "素",
+            "熱"
+        ],
+        "Resources":
+        [
+            {"name":"Dim Sum Guide", "URL":"https://dimsumguide.com/site/view/Plain-Congee"}
+        ]
+    },
+
+    {
+        "words":
+        [
+            {
+                "Chinese" : "皮蛋瘦肉粥",
+                "English" : "pork w/ preserved egg congee",
+                "Yale" : "pèih daahn sau yuhk jūk",
+                "Pinyin" : "pí dàn shòu ròu zhōu",
+                "Resources":
+        [
+          {"name":"皮蛋","URL":"https://en.wiktionary.org/wiki/皮蛋"},
+          {"name":"皮","URL":"https://en.wiktionary.org/wiki/皮"},
+          {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"},
+           {"name":"瘦肉","URL":"https://en.wiktionary.org/wiki/瘦肉"},
+          {"name":"瘦","URL":"https://en.wiktionary.org/wiki/瘦"},
+          {"name":"肉","URL":"https://en.wiktionary.org/wiki/肉"},
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+            }
+        ],
+        "images":
+        [
+          {
+              "image":"preservedeggporkjooknewasianbbq",
+              "place":"New Asian BBQ, Las Vegas, Nevada"
+          }
+        ],
+        "Description":
+            "Rice porridge with salty pork and preserved egg.\n\nThe first two characters 皮蛋 mean “preserved egg,” which are eggs that jelly while encased in clay mixture for weeks to months. They are also known (exaggeratedly) as “hundred-year egg,” “thousand-year egg,” “thousand-year-old egg,” or “millennium egg.”\n\n瘦肉 is “pork,” where 瘦 is “pig,” and 肉 is “meat,” so literally “pig meat.”\nAnd finally, 粥 is “congee“ or “rice porridge“, as in the previous entry.",
+        "Tags" :
+        [
+            "粥",
+            "豬",
+            "皮蛋",
+            "蛋",
+            "茶餐廳",
+            "點心"
+        ],
+        "Resources":
+        [
+          {
+              "name":"Adventures with Kake",
+              "URL":"https://kake.dreamwidth.org/57176.html"
+          },
+            {
+                "name" : "Century Egg",
+                "URL" : "https://en.wikipedia.org/wiki/Century_egg"
+            },
+            {
+                "name" : "China Sichuan Food",
+                "URL" : "https://www.chinasichuanfood.com/chinese-congee-with-pork-and-century-egg/"
+            },
+            {
+                "name" : "Dim Sum Guide",
+                "URL" : "https://dimsumguide.com/site/view/Preserved-Egg-and-Pork-Congee"
+            },
+            {
+                "name":"Oh My Food Recipes",
+                "URL":"https://www.ohmyfoodrecipes.com/congee-with-pork-and-century-egg/"
+            },
+            {
+                "name":"Panda Cheffy",
+                "URL":"https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-preserved-egg-and-lean-pork-rice-porridge-9c8d7e620430"
+            },
+            {
+                "name": "Taste Hong Kong",
+                "URL" : "http://www.tastehongkong.com/recipes/featured/how-to-cook-congee-with-salted-pork-and-century-egg-a-classic-hong-kong-rice-porridge/"
+            },
+            {
+                "name":"Unfamiliar China",
+                "URL":"https://www.unfamiliarchina.com/congee/pork-and-century-egg-congee"
+            },
+            {
+                "name" : "Wok & Kin",
+                "URL" : "https://www.wokandkin.com/century-egg-and-pork-congee/"
+            },
+            {
+                "name" : "The Woks of Life",
+                "URL" : "https://thewoksoflife.com/2016/10/20-minute-congee-recipe/"
+            }
+
+
+        ]
+    },
+
+    {
+        "words":
+        [
+            {
+            "Chinese" : "魚片粥",
+            "Simplified" : "鱼片粥",
+            "English" : "fish congee",
+            "Yale" : "yú pín jūk",
+            "Pinyin" : "yú piàn zhōu",
+            "Resources":
+        [
+          {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"},
+          {"name":"片","URL":"https://en.wiktionary.org/wiki/片"},
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+        }],
+        "images":
+        [
+          {
+              "image":"fishfilletjooknoodleexchange",
+              "place":"Noodle Exchange, Las Vegas, Nevada"
+          }
+      ],
+      "Description" :
+        "Rice porridge with slices of fish fillet.\n\n魚 is “fish,” and 片 is “slice” or “piece,” so 魚片 is “fish fillet,” and 粥 is rice porridge.",
+      "Tags" :
+       [
+          "粥",
+          "魚",
+          "海鮮",
+          "茶餐廳"
+      ],
+      "Resources":
+      [
+        {"name" : "Say My Kitchens",
+          "URL" : "http://saymykitchens.blogspot.com/2015/10/cantonese-fish-porridge.html"},
+        {"name": "Unfamiliar China",
+          "URL": "https://www.unfamiliarchina.com/congee/fish-congee"},
+        {"name": "Unfamiliar China",
+            "URL": "https://www.wokandkin.com/fish-congee/"}
+      ]
+    },
+
+    {
+        "words":
+        [
+        {
+            "Chinese" : "海鮮粥",
+            "Simplified" : "海鲜粥",
+            "English" : "seafood congee",
+            "Yale" : "hói sīn jūk",
+            "Pinyin" : "hǎi xiān zhōu",
+             "Resources":
+        [
+          {"name":"海鮮","URL":"https://en.wiktionary.org/wiki/海鮮"},
+          {"name":"海","URL":"https://en.wiktionary.org/wiki/海"},
+          {"name":"鮮","URL":"https://en.wiktionary.org/wiki/鮮"},
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+        }
+        ],
+        "images":
+        [
+            {
+                "image":"seafoodcongeeislandmalaysian",
+                "place":"Island Malaysian, Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+            "Rice porridge with a variety of seafood.\n\n海 mans “ocean“ and “鲜 is “fresh.” Together 海鲜 refers to “seafood,”  and 粥 is rice porridge, so 海鲜粥 is “seafood porridge.”",
+        "Tags" :
+        [
+            "海鮮",
+           "粥",
+           "魚",
+            "海鮮"
+        ],
+        "Resources":
+        [
+                {"name" : "Wikipedia", 
+                    "URL" : "http://en.wikipedia.org/wiki/Congee"},
+                {"name" : "Woks of Life", 
+                    "URL" : "https://thewoksoflife.com/2017/11/seafood-congee/"},
+                {"name" : "Omnivore's Cookbook", 
+                    "URL" : "https://omnivorescookbook.com/recipes/seafood-congee"},
+                {"name":"Unfamiliar China", 
+                    "URL":"https://www.unfamiliarchina.com/congee/seafood-congee"}
+        ]
+    },
+
+    {
+        "words":
+        [
+        {
+        "Chinese" : "鴨絲粥",
+        "Simplified" : "鸭丝粥",
+        "English" : "shredded roast duck congee",
+        "Yale" : "ngaap si jūk",
+        "Pinyin" : "yā sī zhōu",
+        "Resources":
+        [
+          {"name":"鴨","URL":"https://en.wiktionary.org/wiki/鴨"},
+          {"name":"絲","URL":"https://en.wiktionary.org/wiki/絲"},
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+        }
+        ],
+        "images" :
+        [
+            {
+                "image":"shreddedroastduckjookbroadwaybistro",
+                "place":"Broadway Bistro, Millbrae, California"
+            }
+        ],
+        "Description":
+            "Rice porridge with shreds of roast duck.\n\n鴨 is “duck,” and 絲 is “wire” or “thread,” so 鴨絲 is literally “duck threads,” and 粥 is “rice porridge.”",
+        "Tags":
+        [
+            "粥",
+            "鴨",
+            "鴨絲",
+            "茶餐廳"
+        ],
+        "Resources":
+        [
+            {"name" : "Unfamiliar China", "URL" : "https://www.unfamiliarchina.com/congee/duck-congee"}
+        ]
+    },
+
+
+    {
+        "words":
+        [
+        {
+        "Chinese" : "雞肉粥",
+        "Simplified" : "鸡肉粥",
+        "English" : "chicken congee",
+        "Yale" : "gāi yuhk jūk",
+        "Pinyin" : "jī ròu zhōu",
+        "Resources":
+        [
+          {"name":"雞肉","URL":"https://en.wiktionary.org/wiki/雞肉"},
+          {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
+            {"name":"肉","URL":"https://en.wiktionary.org/wiki/肉"},
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+        }
+        ],
+        "images":
+        [
+            {
+                "image":"mushroomchickencongeeyummybo2",
+                "place":"Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+            "Rice porridge with chicken.\n\n雞 is “chicken,” 肉 is “meat,” and 粥 is “rice porridge.”",
+        "Tags":
+        [
+            "粥",
+            "雞肉",
+            "茶餐廳"
+        ],
+        "Resources":
+        [
+            {"name": "China Sichuan Food", 
+                "URL" : "https://www.chinasichuanfood.com/chinese-chicken-congee/"},
+            {"name": "Made With Lau", 
+                "URL" : "https://madewithlau.com/recipes/chicken-congee"}
+        ]
+    },
+
+    {
+        "words":
+        [
+        {
+        "Chinese":"沙田雞粥",
+        "English": "Sha Tin chicken congee",
+        "Yale":"sā tìhn gāi jūk",
+        "Simplified":"沙田鸡粥",
+        "Pinyin":"shā tián jī zhōu",
+        "Resources":
+        [
+          {"name":"沙田","URL":"https://en.wiktionary.org/wiki/沙田"},
+          {"name":"沙","URL":"https://en.wiktionary.org/wiki/沙"},
+            {"name":"田","URL":"https://en.wiktionary.org/wiki/田"},
+            {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
+          {"name":"粥","URL":"https://en.wiktionary.org/wiki/粥"}
+        ]
+        }
+        ],
+        "images" : 
+        [
+           {
+               "image":"shatincongeeskseafood",
+               "place":"SK Seafood, Las Vegas, Nevada"
+           }
+       ],
+        "Description":"Congee with pieces of chicken.\n\n沙田 is Sha Tin. a town in Hong Kong, 雞 is “chicken,” and 粥 is “congee.”",
+        "Tags":
+        [
+            "粥"
+        ],
+        "Resources":
+        [
+            {
+                "name": "Pinterest", 
+                "URL": 
+                "https://www.pinterest.com/technicat/dim-sum/sha-tin-chicken-congee/"},
+            {
+                "name": "Annielicious", 
+                "URL": 
+                "https://annieliciousfood.blogspot.com/2014/01/famous-shatin-chicken-congee-aff-hk.html"
+            }
+        ]
+    }
+
+ ]

@@ -1,0 +1,55 @@
+
+[
+ {
+    "words": 
+    [
+    {
+     "Chinese":"紅油抄手",
+     "Simplified":"红油抄手",
+     "English":"red oil wonton",
+     "Yale": "hùhng yàuh chāau sáu",
+     "Pinyin":"hóng yóu chāo shǒu",
+     "Resources":
+       [
+          {"name":"紅油","URL":"https://en.wiktionary.org/wiki/紅油"},
+          {"name":"紅","URL":"https://en.wiktionary.org/wiki/紅"},
+          {"name":"油","URL":"https://en.wiktionary.org/wiki/油"},
+          {"name":"抄手","URL":"https://en.wiktionary.org/wiki/抄手"},
+          {"name":"抄","URL":"https://en.wiktionary.org/wiki/抄"},
+          {"name":"手","URL":"https://en.wiktionary.org/wiki/手"}
+       ]
+    }
+    ],
+     "images": 
+     [
+        {
+            "image":"redoilwontontimhowan",
+            "place":"Tim Ho Wan, Las Vegas, Nevada"
+        }
+    ],
+     "Description":
+      "Boiled wonton marinated in chili oil.\n\n紅 is “red,” and 油 is “oil,” so together 紅油 is “red oil” or “chili oil,” and 抄手 is another word for “wonton” (the literal meaning is to fold one's arms), so “red oil wonton.”\n\nThis is a Szechuan dish.",
+     "Tags":
+     [
+        "點心",
+        "四川",
+        "川菜",
+        "紅",
+        "紅油",
+        "抄手"
+     ],
+     "Resources":
+     [
+        {"name":"Pinterest",
+          "URL":"https://www.pinterest.com/technicat/dim-sum/red-oil-wonton/"},
+        {"name":"Angel Wong's Kitchen", 
+         "URL":"https://www.angelwongskitchen.com/shrimp--pork-spicy-wontons-in-chili-sauce--32005278332522025163-hoacuteng-yoacuteu-ch257osh466u.html"},
+        {"name":"China Sichuan Food", 
+         "URL":"https://www.chinasichuanfood.com/red-oil-wonton/"},
+        {"name":"Dimsumptuous", 
+         "URL":"http://www.dimsumptuous.com/2014/02/red-oil-wonton.html"},
+        {"name":"The Woks of Life", 
+         "URL":"https://thewoksoflife.com/sichuan-spicy-wontons/"}
+    ]
+ }
+ ]

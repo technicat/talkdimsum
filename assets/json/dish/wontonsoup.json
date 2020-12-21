@@ -1,0 +1,128 @@
+
+[
+    
+{
+  "words":
+  [
+  {
+    "Chinese":"雲吞湯",
+    "Simplified":"云吞汤",
+    "English":"wonton soup",
+    "Yale": "wàhn tān tōng",
+    "Pinyin":"yún tūn tāng"
+    }],
+    "names": [
+    {
+      "Chinese":"餛飩湯"
+    }
+    ],
+    "images" : 
+    [
+       {
+           "image":"wontonsoup88noodlepapa",
+           "place":"88 Noodle Papa, Las Vegas"
+       }
+   ],
+    "Description":"Wonton dumplings served in a clear soup.\n\n雲吞 is “wonton,” and 湯 is “soup.”",
+    "Tags":
+    [
+     "茶餐廳",
+      "雲吞",
+      "雲吞湯",
+      "湯"
+    ],
+    "Resources":
+    [
+     {"name":"The Wikipedia", 
+      "URL":"https://en.wikipedia.org/wiki/Wonton"},
+        {"name":"The Woks of Life", 
+          "URL":"https://thewoksoflife.com/wonton-soup-recipe/"},
+        {"name":"Angel Wong's Kitchen", 
+          "URL":"https://www.angelwongskitchen.com/classic-wonton-soup-grandmas-recipe.html"},
+        {"name":"Kirbie's Cravings", 
+          "URL":"https://kirbiecravings.com/wonton-soup/"},
+        {"name":"China Sichuan Food", 
+          "URL":"https://www.chinasichuanfood.com/wonton-soup-recipes/"},
+        {"name":"Oh My Food Recipes", 
+          "URL":"https://www.ohmyfoodrecipes.com/wonton-soup/"}
+    ]
+},
+
+{
+  "words":
+  [
+    {
+      "Chinese":"窩雲吞湯",
+      "Simplified":"窝云吞汤",
+      "English":"wor wonton soup",
+      "Yale": "wō wàhn tān tōng",
+      "Pinyin":"wō yún tūn tāng"
+    }
+  ],
+  "images" :
+   [
+       {
+           "image":"worwontonsoupchinoslocos",
+           "place":"Chinos Locos, Las Vegas, Nevada"
+       }
+   ],
+    "Description":
+    "Wonton dumplings served in a clear soup with other ingredients, such as vegetables.\n\n窩 means “everything,” 雲吞 is “wonton,” and 湯 is “soup,” so it means wonton soup with all the fixings.",
+    "Tags":
+    [
+     "茶餐廳",
+      "窩",
+      "雲吞",
+      "雲吞湯",
+      "湯"
+    ],
+    "Resources":[
+        
+    ]
+},
+
+{
+    "words":
+    [
+        {
+            "Chinese":"水餃湯",
+            "Simplified":"水饺汤",
+            "English":"dumpling soup",
+            "Yale": "séui gáau tōng",
+            "Pinyin":"shuǐ jiǎo tāng"
+        },
+      {
+          "Chinese":"上湯水餃",
+          "Simplified":"上汤水饺",
+          "English":"dumpling soup",
+          "Yale": "seuhng tōng séui gáau",
+          "Pinyin":"shàng tāng shuǐ jiǎo"
+      },
+      {
+          "Chinese":"鮮蝦水餃湯",
+          "Simplified":"鲜虾水饺汤",
+          "English":"fresh shrimp dumpling soup",
+          "Yale": "sīn hā séui gáau tōng",
+          "Pinyin":"xiān xiā shuǐ jiǎo tāng"
+      }
+    ],
+    "images" : 
+    [
+       {
+           "image":"seuigowsoupnoodlepapa",
+           "place":"88 Noodle Papa, Las Vegas, Nevada"
+       }
+   ],
+    "Description":"Boiled dumplings served in a soup.\n\n水 is “water,” and 餃 is “dumpling,” and together 水餃 is “boiled dumpling.” The third character 湯 is the word for “soup,“ so the whole thing is “boiled dumpling soup.”",
+    "Tags":[
+    "水餃",
+    "餃",
+        "湯"
+    ],
+    "Resources":
+    [
+        {"name":"Christine's Recipes", 
+          "URL":"https://en.christinesrecipes.com/2013/10/chinese-dumpling-soup.html"}
+    ]
+}
+ ]

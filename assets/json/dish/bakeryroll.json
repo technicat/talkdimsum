@@ -1,0 +1,131 @@
+
+[
+    {
+        "words":
+        [
+            {
+            "Chinese": "芝麻卷",
+            "Altrnate": "黑芝麻卷",
+            "English":"black sesame roll",
+            "Yale": "jī màh gyún",
+            "Pinyin" : "zhī ma juǎn",
+            "Resources":
+            [
+            {"name":"黑芝麻","URL":"https://en.wiktionary.org/wiki/黑芝麻"},
+            {"name":"黑","URL":"https://en.wiktionary.org/wiki/黑"},
+            {"name":"芝麻","URL":"https://en.wiktionary.org/wiki/芝麻"},
+            {"name":"芝","URL":"https://en.wiktionary.org/wiki/芝"},
+            {"name":"麻","URL":"https://en.wiktionary.org/wiki/麻"},
+            {"name":"卷","URL":"https://en.wiktionary.org/wiki/卷"}
+            ]
+            }
+        ],
+        "images": 
+        [
+            {
+                "image":"blacksesamerollwikipedia",
+                "place":"Wikipedia"
+            }
+        ],
+        "Description": 
+            "Black sesame paste that's chilled in sheets then rolled up.\n\n芝麻 is “sesame,” and 卷 is “roll,” so “sesame roll.”",
+        "Tags":
+        [
+            "黑芝麻",
+            "芝麻",
+            "卷",
+            "甜品"
+        ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/black-sesame-roll/"
+            },
+            {"name":"Wikipedia", 
+                "URL":"https://en.wikipedia.org/wiki/Black_sesame_roll"
+            },
+            {"name":"Dim Sum Guide", 
+                "URL":"https://dimsumguide.com/site/view/Black-Sesame-Roll"
+            }
+        ]
+    },
+   
+
+    {
+        "words":
+         [
+        {
+            "Chinese": "椰絲捲",
+            "Simplified": "椰丝卷",
+            "English": "coconut roll",
+            "Yale": "yèh sī gyún",
+            "Pinyin" : "yē sī juàn",
+             "Resources":
+            [
+            {"name":"椰絲","URL":"https://en.wiktionary.org/wiki/椰絲"},
+            {"name":"椰","URL":"https://en.wiktionary.org/wiki/椰"},
+            {"name":"絲","URL":"https://en.wiktionary.org/wiki/絲"},
+            {"name":"卷","URL":"https://en.wiktionary.org/wiki/卷"}
+            ]
+        }
+        ],
+        "images" : 
+        [
+            {
+                "image":"coconutrollsdimsumcafe",
+                "place":"Dim Sum Cafe"
+            }
+        ],
+        "Description" : "Rolls with shredded coconut.\n\nThe first character 椰 means “coconut,” and the second character 絲 means “shreds,” so the first two characters literally mean “shredded coconut.” The third character 捲 is “roll.”",
+        "Tags" : 
+        [
+         "茶餐廳",
+                  "椰",
+                  "椰絲",
+                  "捲",
+                  "甜品"
+                  ],
+        "Resources":
+        [
+         {"name":"Pinterest", "URL":"https://www.pinterest.com/technicat/dim-sum/coconut-roll/"},
+         {"name":"The Woks of Life", "URL":"https://thewoksoflife.com/2014/07/inside-hong-kong-coconut-buns/"}
+        ]
+        },       
+    
+    {
+        "words": [
+        {
+        "Chinese" : "蛋捲",
+        "Simplified" : "蛋卷",
+        "English" : "biscuit roll",
+        "Yale" : "daahn gyún",
+        "Pinyin" : "dàn juǎn",
+        "Resources":
+            [
+            {"name":"蛋捲","URL":"https://en.wiktionary.org/wiki/蛋捲"},
+            {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"},
+            {"name":"捲","URL":"https://en.wiktionary.org/wiki/捲"}
+            ]
+        }
+    ],
+        "images" : 
+        [
+            {
+                "image":"biscuitroll2"
+            }
+        ],
+        "Description" : "Crispy tubes made of flour, butter, egg and sugar.\n\nThe first character “蛋“ means “egg,“ and the second character 卷 means roll, so literally this is “egg roll.“\n\nThis is more a bakery and snack item than dim sum, but I'm including it here because spring rolls are often called egg rolls, but this is the real “egg roll.”",
+        "Tags":[
+            "蛋",
+            "捲",
+            "焗",
+            "素",
+            "甜品"
+        ],
+        "Resources":[
+            {"name":"Wikipedia", "URL":"https://en.wikipedia.org/wiki/Biscuit_roll"},
+            {"name":"Pinterest", "URL":"https://www.pinterest.com/technicat/dim-sum/spring-roll"}
+        ]
+    }
+    
+]

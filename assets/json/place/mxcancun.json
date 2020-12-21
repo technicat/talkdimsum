@@ -1,0 +1,27 @@
+{
+    "name": "Cancún",
+    "places": 
+    [
+        {
+            "title": "Golden Sea",
+            "links":
+            [
+
+                {
+                "name":"site",
+                "URL":"https://goldensea.mx/"
+                },
+            {
+                "name":"Yelp",
+                "URL":"https://www.yelp.com/biz/golden-sea-cancún-3"
+                }
+            ],
+            "lat": 21.090660,
+            "lon": -86.771740,
+            "city": "Cancún",
+            "address": "Blvd. Kukulcan Km 8.5 77500 Cancún, Quintana Roo Mexico"
+        }
+        
+    ]
+    
+}

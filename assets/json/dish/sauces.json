@@ -1,0 +1,84 @@
+
+[
+ 
+ {
+    "words":
+    [{
+        "Chinese": "蠔油",
+        "Simplified": "蚝油",
+        "English": "oyster sauce",
+        "Yale": "hòuh yàuh",
+        "Pinyin": "háo yóu",
+         "Resources":
+            [
+             {"name":"蠔油","URL":"https://en.wiktionary.org/wiki/蠔油"},
+            {"name":"蠔","URL":"https://en.wiktionary.org/wiki/蠔"},
+            {"name":"油","URL":"https://en.wiktionary.org/wiki/油"}
+            ]
+    }],
+    "images": 
+    [
+        {
+            "image":"oystersaucedimsumcafe",
+            "place":"Dim Sum Cafe, Las Vegas, Nevada"
+        }
+    ],
+  "Description":
+    "Oyster sauce is a thick sweet sauce made from sugar, salt, and oyster extracts, thickened with corn starch.\n\n蠔 means “oyster,” and 油 is “oil” or “sauce,”",
+    "Tags": 
+    [
+      "蠔油",
+      "蠔",
+      "油"
+    ],
+    "Resources" : 
+    [
+      {"name":"Wikipedia", 
+        "URL":"https://en.wikipedia.org/wiki/Oyster_sauce"}
+    ]
+    },
+
+    
+    {
+          "words":
+        [
+          {
+    "Chinese": "米醋",
+    "English": "rice vinegar",
+    "Yale": "máih chou",
+    "Pinyin": "mǐ cù",
+    "Resources":
+            [
+             {"name":"米醋","URL":"https://en.wiktionary.org/wiki/米醋"},
+            {"name":"米","URL":"https://en.wiktionary.org/wiki/米"},
+            {"name":"醋","URL":"https://en.wiktionary.org/wiki/醋"}
+            ]
+    }],
+    "images": [
+        {
+            "image":"redvinegarkitchen",
+            "place":"Kitchen, Millbraie, California"
+        }
+        ],
+"Description":
+  "Vinegar made from rice wine.\n\n米 means “rice,” and 醋 is “vinegar.”\n\nChinese rice vinegar comes in a variety of colors, and clear, but red vinegar is often used as a dipping sauce.",
+    "Tags": [
+            
+            ],
+      "Resources" : 
+      [
+                     {"name":"Wikipedia", 
+                      "URL":"https://en.wikipedia.org/wiki/Rice_vinegar"},
+                     {"name":"Red House Spice",
+                       "URL":"https://redhousespice.com/chinese-rice-vinegar/"},
+                     {"name":"Yum of China",
+                       "URL":"https://www.yumofchina.com/chinese-vinegar/"},
+                     {"name":"Supreme Vinegar",
+                       "URL":"https://supremevinegar.com/2016/11/16/chinas-four-famous-vinegars/"},
+                     {"name":"The Woks of Life", 
+                      "URL":"https://thewoksoflife.com/chinese-sauces-vinegars-oils/"}
+                     ]
+    }
+   
+   
+ ]

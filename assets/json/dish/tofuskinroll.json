@@ -1,0 +1,148 @@
+
+[
+
+{
+        "words":
+        [
+            {
+                "Chinese":"鮮竹捲",
+                "Simplified":"鲜竹卷",
+                "English":"tofu skin roll",
+                "Yale": "sīn juk gyún",
+                "Pinyin":"xiān zhú juǎn",
+                "Resources":
+            [
+             {"name":"鮮竹捲","URL":"https://en.wiktionary.org/wiki/鮮竹捲"},
+             {"name":"鮮","URL":"https://en.wiktionary.org/wiki/鮮"},
+            {"name":"竹","URL":"https://en.wiktionary.org/wiki/竹"},
+            {"name":"捲","URL":"https://en.wiktionary.org/wiki/捲"}
+            ]
+            }
+        ],
+        "images":
+        [
+            {
+                "image":"tofuskinrollyumcha3",
+                "place":"Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description":
+            "Dried tofu skin wrapped around bamboo shoots and other vegetable or meat fillings and steamed.\n\n鮮 means “fresh,” 竹 is “bamboo,” and 卷 is “roll,’ so literally: “fresh bamboo roll.”",
+        "Tags":
+        [
+            "竹捲",
+            "蒸",
+            "豆腐",
+            "竹",
+            "捲",
+            "點心"
+         ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/tofu-skin-roll/"},
+            {"name":"Wikipedia", 
+                "URL":"http://en.wikipedia.org/wiki/Tofu_skin_roll"},
+            {"name":"Dim Sum Central", 
+                "URL":"http://www.dimsumcentral.com/tofu-skin-rolls/"},
+            {"name":"Dim Sum Guide", 
+                "URL":"https://dimsumguide.com/site/view/Beancurd-Sheet-Roll"}
+        ]
+    },
+
+    {
+        "words":
+        [
+            {
+                "Chinese":"腐皮捲",
+                "Simplified":"腐皮卷",
+                "English":"fried tofu skin roll",
+                "Yale": "fuh pèih gyún",
+                "Pinyin":"fǔ pí juǎn",
+                "Resources":
+            [
+             {"name":"腐皮捲","URL":"https://en.wiktionary.org/wiki/腐皮捲"},
+             {"name":"腐皮","URL":"https://en.wiktionary.org/wiki/腐皮"},
+             {"name":"腐","URL":"https://en.wiktionary.org/wiki/腐"},
+             {"name":"皮","URL":"https://en.wiktionary.org/wiki/皮"},
+            {"name":"捲","URL":"https://en.wiktionary.org/wiki/捲"}
+            ]
+            }
+        ],
+        "images":
+        [
+            {
+                "image":"friedtofuskinrollkj",
+                "place":"KJ Dim Sum and Seafood"
+            }
+        ],
+        "Description":
+            "A pan-fried tofu skin roll, where the skin is made from fermented bean curd wrapped around vegetable or meat fillings and steamed.\n\n腐皮 refers to the skin made out of fermented bean curd (腐 means “stinky” and 皮 means “skin,” but don't worry, it's not stinky) and 卷 is “roll,” so it's “fermented bean curd skin roll.”",
+        "Tags":
+        [
+            "腐皮捲",
+            "腐皮",
+            "蒸",
+            "豆腐",
+            "捲",
+            "點心"
+        ],
+        "Resources":
+        [
+            {"name":"Pinterest", 
+                "URL":"https://www.pinterest.com/technicat/dim-sum/pan-fried-tofu-skin-roll/"},
+            {"name":"Wikipedia", 
+                "URL":"http://en.wikipedia.org/wiki/Tofu_skin_roll"},
+            {"name":"Dim Sum Central", 
+                "URL":"http://www.dimsumcentral.com/tofu-skin-rolls/"},
+            {"name":"Dim Sum Guide", 
+                "URL":"https://dimsumguide.com/site/view/Beancurd-Sheet-Roll"}
+        ]
+    },
+
+    {
+        "words":
+        [
+            {
+                "Chinese":"鮮蝦腐皮捲",
+                "Simplified":"鲜虾腐皮卷",
+                "English":"fried tofu skin roll w/ shrimp",
+                "Yale": "sīn hā fuh pèih gyún",
+                "Pinyin":"xiān xiā fǔ pí juǎn",
+                "Resources":
+            [
+             {"name":"鮮","URL":"https://en.wiktionary.org/wiki/鮮"},
+              {"name":"蝦","URL":"https://en.wiktionary.org/wiki/蝦"},
+             {"name":"腐皮捲","URL":"https://en.wiktionary.org/wiki/腐皮捲"},
+             {"name":"腐皮","URL":"https://en.wiktionary.org/wiki/腐皮"},
+             {"name":"腐","URL":"https://en.wiktionary.org/wiki/腐"},
+             {"name":"皮","URL":"https://en.wiktionary.org/wiki/皮"},
+            {"name":"捲","URL":"https://en.wiktionary.org/wiki/捲"}
+            ]
+            }
+        ],
+        "images":
+        [
+            {
+                "image":"sesamerollwithshrimppingpangpong",
+                "place":"Ping Pang Pong"
+            }
+        ],
+        "Description":"Pan-fried tofu skin rolls filled with shrimp.\n\n鮮蝦 means “fresh shrimp,” 腐皮 refers to the skin made out of fermented bean curd (腐 means “stinky” and 皮 means “skin,” but don't worry, it's not stinky) and 卷 is “roll,” so it's “fresh shrimp fermented bean curd skin roll.”",
+        "Tags":
+        [
+            "點心",
+            "腐皮捲",
+            "腐皮",
+            "蒸",
+            "豆腐",
+            "捲"
+        ],
+        "Resources":
+        [
+            {"name":"Pinterest", "URL":"https://www.pinterest.com/technicat/dim-sum/pan-fried-tofu-skin-rolls-with-shrimp/"},
+            {"name":"Asian Inspirations", "URL":"https://asianinspirations.com.au/recipes/prawn-beancurd-skin-rolls-fu-pei-guen/"}
+        ]
+        }
+ 
+ ]

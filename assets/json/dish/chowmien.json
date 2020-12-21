@@ -1,0 +1,109 @@
+
+[
+ 
+ {
+  "words":
+  [
+    {
+      "Chinese" : "炒麵",
+      "Simplified" : "炒面",
+      "Alternate": "豉油王炒麵",
+      "English" :"chow mein",
+      "Yale": "cháau mihn",
+      "Pinyin":"chǎo miàn",
+       "Resources":
+        [
+          {"name":"炒麵","URL":"https://en.wiktionary.org/wiki/炒麵"},
+          {"name":"炒","URL":"https://en.wiktionary.org/wiki/炒"},
+          {"name":"麵","URL":"https://en.wiktionary.org/wiki/麵"}
+        ]
+    }
+    ],
+    "images":
+    [
+     {
+         "image":"chowmeindimsumcafe",
+         "place":"Dim Sum Cafe, Las Vegas, Nevada"
+         
+     }
+    ],
+    "Description":
+      "Stir-fried noodles.\n\n炒 is “fried,” and 麵 is “noodles” (noodles made from wheat flour, not rice flour).\n\nAlthough the word for Chinese noodles is typically spelled “mein” and pronounced like “Main Street,” spelling it as “mien” would be closer to the Cantonese pronunciation, like “mean streets.”",
+    "Tags":
+    [
+      "炒麵",
+       "炒",
+       "麵",
+       "茶餐廳"
+       ],
+    "Resources":
+    [
+        {"name":"Pinterest", 
+          "URL" :"https://www.pinterest.com/technicat/dim-sum/chow-mein/"},
+        {"name":"Wikipedia", 
+            "URL" :"http://en.wikipedia.org/wiki/Chow_mein"},
+        {"name":"Oh My Food Recipes", 
+          "URL" :"https://www.ohmyfoodrecipes.com/homemade-chow-mein/"}
+    ]
+ },
+
+ {
+    "words":
+    [
+    {
+      "Chinese" : "豉油皇炒麵",
+      "Simplified" : "豉油皇炒面",
+      "English" :"soy sauce pan-fried noodles",
+      "Yale": "sih yàuh wòhng cháau mihn",
+      "Pinyin":"chǐ yóu huáng chǎo miàn",
+      "Resources":
+        [
+
+          {"name":"豉油","URL":"https://en.wiktionary.org/wiki/豉油"},
+          {"name":"豉","URL":"https://en.wiktionary.org/wiki/豉"},
+          {"name":"油","URL":"https://en.wiktionary.org/wiki/油"},
+          {"name":"皇","URL":"https://en.wiktionary.org/wiki/v"},
+          {"name":"炒麵","URL":"https://en.wiktionary.org/wiki/炒麵"},
+          {"name":"炒","URL":"https://en.wiktionary.org/wiki/炒"},
+          {"name":"麵","URL":"https://en.wiktionary.org/wiki/麵"}
+        ]
+    },
+    {
+      "Chinese" : "豉油王炒麵",
+      "Simplified" : "豉油王炒面",
+      "English" :"soy sauce pan-fried noodles",
+      "Yale": "sih yàuh wòhng cháau mihn",
+      "Pinyin":"chǐ yóu huáng chǎo miàn"
+    }
+    ],
+      "images" : 
+      [
+        {
+            "image":"soysaucenoodlestimhowan",
+            "place":"Tim Ho Wan, Las Vegas, Nevada"
+            
+        }
+      ],
+      "Description": 
+        "Thin, crispy, pan-fried noodles tossed in soy sauce.\n\n豉油 is “soy sauce,” 皇 means “king” or “royal” or “supreme,” and 炒麵 is “stir-fried noodles.”",
+      "Tags":
+      [
+      "豉油",
+      "炒麵",
+      "炒",
+          "麵"
+          ],
+      "Resources":
+      [
+      {"name":"Pinterest", 
+        "URL" :"https://www.pinterest.com/technicat/dim-sum/pan-fried-soy-sauce-noodles/"},
+      {"name":"Christine's Recipes", 
+        "URL" :"https://en.christinesrecipes.com/2013/07/supreme-soy-sauce-fried-noodles.html"},
+      {"name":"The Woks of Life", 
+        "URL" :"https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles/"},
+      {"name":"China Sichuan Food", 
+        "URL" :"https://www.chinasichuanfood.com/soy-sauce-fried-noodles-chow-mein-recipe/"}
+      ]
+    }
+ 
+ ]

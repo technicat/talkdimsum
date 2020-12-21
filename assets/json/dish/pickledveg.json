@@ -1,0 +1,76 @@
+
+[
+
+{
+    "words":[{
+    "Chinese":" 鹹菜",
+    "English":"pickled vegetables",
+    "Yale": "paau choi",
+    "Pinyin":"pào cài"
+    }],
+    "images":[
+     {
+         "image":"kimchipandadumpling",
+         "place":"Panda Dumpling, San Carlos, California"
+     }
+    ],
+    "Description": "Kimchi, pickled cabbage, is Korean, but available at some Chinese restaurants as a side dish.",
+    "Tags" : [
+           "菜",
+           "蒸"
+           ],
+    "Resources" : [
+                {"name":"Chinese pickles", "URL":"https://en.wikipedia.org/wiki/Chinese_pickles"}
+              
+            ]
+                
+ },
+ 
+ 
+ {
+    "Chinese":"泡菜",
+    "English":"pickled cabbage",
+    "Yale": "paau choi",
+    "Pinyin":"pào cài",
+    "images":[
+     {
+         "image":"kimchipandadumpling",
+         "place":"Panda Dumpling, San Carlos, California"
+     }
+    ],
+    "Description": "Kimchi, pickled cabbage, is Korean, but available at some Chinese restaurants as a side dish.",
+    "Tags" : [
+           "菜",
+           "蒸"
+           ],
+    "Resources" : [
+                {"name":"The Woks of Life", "URL":"https://thewoksoflife.com/asian-pickled-cabbage/"}
+              
+            ]
+                
+ },
+
+ {
+    "Chinese":"韓國泡菜",
+    "English":"kimchi",
+    "Yale": "paau choi",
+    "Pinyin":"pào cài",
+    "images":[
+     {
+         "image":"kimchipandadumpling",
+         "place":"Panda Dumpling, San Carlos, California"
+     }
+    ],
+    "Description": "Kimchi, pickled cabbage, is Korean, but available at some Chinese restaurants as a side dish.",
+    "Tags" : [
+           "菜",
+           "蒸"
+           ],
+    "Resources" : [
+                {"name":"Wikipedia", "URL":"https://en.wikipedia.org/wiki/Kimchi"},
+                {"name":"China Sichuan Food", "URL":"https://www.chinasichuanfood.com/homemade-kimchi/"}
+            ]
+                
+ }
+   
+ ]

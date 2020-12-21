@@ -1,0 +1,53 @@
+
+[
+  {
+    "words":
+    [
+      {
+        "Chinese": "豉油",
+        "Mandarin": "醬油",
+        "Simplified": "酱油",
+        "English": "soy sauce",
+        "Yale": "sih yàuh",
+        "Pinyin": "jiàng yóu",
+        "Resources":
+    [
+        {"name":"豉油","URL":"https://en.wiktionary.org/wiki/豉油"},
+        {"name":"豉","URL":"https://en.wiktionary.org/wiki/豉"},
+        {"name":"油","URL":"https://en.wiktionary.org/wiki/油"}
+    ]
+      }
+    ],
+    "images": 
+    [
+      {
+        "image":"soysaucechinamama",
+        "place":"China Mama, Las Vegas, Nevada"
+      }
+    ],
+    "Description":
+      "Soy sauce is brewed from fermented soybean paste.\n\n豉 means “salted fermented beans,” and 油 is “oil” or “sauce,”\n\nSoy sauce originated in China over two thousand years ago as a way to stretch the use of salt (a prized commodity in ancient China, heavily taxed and smuggled).",
+    "Tags":
+    [
+      "豉油",
+      "油"
+    ],
+    "Resources": 
+    [
+      {"name":"Pinterest", 
+        "URL":"https://www.pinterest.com/technicat/dim-sum/soy-sauce/"},
+      {"name":"Wikipedia", 
+        "URL":"https://en.wikipedia.org/wiki/Soy_sauce"},
+      {"name":"FluentUp", 
+          "URL":"https://medium.com/@fluentup/soy-sauces-from-around-asia-986a0a459a4e"},
+      {"name":"Mala Food", 
+          "URL":"https://malafood.com/en/the-complete-guide-to-soy-suaces"},
+      {"name":"Salt", 
+        "URL":
+         "https://en.wikipedia.org/wiki/Salt_in_Chinese_history#:~:text=The%20earliest%20surviving%20record%20of%20salt%20production%20in,iron%20salt%20pans%20in%20the%205th%20century%20BCE."},
+      {"name":"The Woks of Life", 
+        "URL":"https://thewoksoflife.com/chinese-sauces-vinegars-oils/"}
+    ]
+    }
+   
+ ]
