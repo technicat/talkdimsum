@@ -1,0 +1,55 @@
+/* Technicat LLC */
+
+import 'package:flutter/material.dart';
+
+import 'dishes/scaffold_dishes_widget.dart';
+import 'place/scaffold_country_widget.dart';
+import 'phrase/scaffold_phrases_widget.dart';
+
+class NavigationBar extends StatefulWidget {
+  @override
+  NavigationBarState createState() => NavigationBarState();
+}
+
+class NavigationBarState extends State<NavigationBar> {
+  int _selectedIndex = 0;
+
+  // tab selection
+  void _onItemTapped(int index) {
+    setState(() {
+      _selectedIndex = index;
+    });
+  }
+
+  final _widgetOptions = [
+    ScaffoldDishesWidget(),
+    //  ScaffoldFavoritesWidget(),
+    ScaffoldPhrasesWidget(),
+    ScaffoldCountryWidget(),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: _widgetOptions.elementAt(_selectedIndex),
+      bottomNavigationBar: BottomNavigationBar(
+        items: <BottomNavigationBarItem>[
+          BottomNavigationBarItem(
+              icon: // Icon(Icons.home),
+                  Image.asset('assets/images/icon/if_dim_sum_353267_512.png',
+                      width: 25, height: 25),
+              label: 'Dishes'),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.chat_bubble_outline), 
+              label: 'Phrases'),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.restaurant_menu), 
+              label: 'Places'),
+        ],
+        currentIndex: _selectedIndex,
+        //  fixedColor: Colors.deepPurple,
+        onTap: _onItemTapped,
+      ),
+    );
+  }
+}
