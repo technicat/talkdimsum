@@ -11,20 +11,33 @@ class Speech {
   static FlutterTts flutterTts = FlutterTts();
 
   static String locale(Language lang) {
-    switch (lang) {
-      case Language.Cantonese:
-        return "yue-HK";
-      case Language.Mandarin:
-        return "zh-TW";
-      case Language.Simplified:
-        return "zh-CN";
-      default:
-        return "yue-HK";
+    if (Platform.isIOS || Platform.isMacOS) {
+      switch (lang) {
+        case Language.Cantonese:
+          return "zh-HK";
+        case Language.Mandarin:
+          return "zh-Hant";
+        case Language.Simplified:
+          return "zh-Hans";
+        default:
+          return "zh-HK";
+      }
+    } else {
+      switch (lang) {
+        case Language.Cantonese:
+          return "yue-HK";
+        case Language.Mandarin:
+          return "zh-TW";
+        case Language.Simplified:
+          return "zh-CN";
+        default:
+          return "yue-HK";
+      }
     }
   }
 
   static Future sayText(String text, Language lang, double speed) async {
-    if (Platform.isIOS) {
+    if (Platform.isIOS || Platform.isMacOS) {
       await flutterTts.setSpeechRate(speed / 2.0); // tts plays back fast on ios
     } else {
       await flutterTts.setSpeechRate(speed);

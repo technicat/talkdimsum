@@ -22,7 +22,7 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSSpeechMicrophoneUsageDescription</key>
+	<key>NSMicrophoneUsageDescription</key>
 	<string>Practice speaking in Chinese</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Practice speaking in Chinese</string>
