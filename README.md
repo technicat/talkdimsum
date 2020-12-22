@@ -4,4 +4,4 @@ http://talkdimsum.com hosts the Android build and links to the Swift version on 
 
 The Swift version has more features and polish but shares the same data
 
-The flutter dev channel is used for development
+I'm using the flutter dev channel for this project
