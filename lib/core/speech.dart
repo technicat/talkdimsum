@@ -11,35 +11,69 @@ class Speech {
   static FlutterTts flutterTts = FlutterTts();
 
   static String locale(Language lang) {
-    if (Platform.isIOS || Platform.isMacOS) {
-      switch (lang) {
-        case Language.Cantonese:
-          return "zh-HK";
-        case Language.Mandarin:
-          return "zh-Hant";
-        case Language.Simplified:
-          return "zh-Hans";
-        default:
-          return "zh-HK";
+    try {
+      // Platform checks fail on web
+      if (Platform.isIOS || Platform.isMacOS) {
+        switch (lang) {
+          case Language.Cantonese:
+            return "zh-HK";
+          case Language.Mandarin:
+            return "zh-Hant";
+          case Language.Simplified:
+            return "zh-Hans";
+          default:
+            return "zh-HK";
+        }
       }
-    } else {
-      switch (lang) {
-        case Language.Cantonese:
-          return "yue-HK";
-        case Language.Mandarin:
-          return "zh-TW";
-        case Language.Simplified:
-          return "zh-CN";
-        default:
-          return "yue-HK";
+      if (Platform.isAndroid) {
+        switch (lang) {
+          case Language.Cantonese:
+            return "yue-HK";
+          case Language.Mandarin:
+            return "zh-TW";
+          case Language.Simplified:
+            return "zh-CN";
+          default:
+            return "yue-HK";
+        }
       }
+      if (Platform.isWindows) {
+        switch (lang) {
+          case Language.Cantonese:
+            return "zh-HK";
+          case Language.Mandarin:
+            return "zh-TW";
+          case Language.Simplified:
+            return "zh-CN";
+          default:
+            return "zh-HK";
+        }
+      }
+    } catch (e) {
+      print("Platform check failed");
+    }
+    switch (lang) {
+      case Language.Cantonese:
+        return "zh-hk";
+      case Language.Mandarin:
+        return "zh-tw";
+      case Language.Simplified:
+        return "zh-cn";
+      default:
+        return "zh-hk";
     }
   }
 
   static Future sayText(String text, Language lang, double speed) async {
-    if (Platform.isIOS || Platform.isMacOS) {
-      await flutterTts.setSpeechRate(speed / 2.0); // tts plays back fast on ios
-    } else {
+    try {
+      // Platform check fails on web
+      if (Platform.isIOS || Platform.isMacOS) {
+        await flutterTts
+            .setSpeechRate(speed / 2.0); // tts plays back fast on ios
+      } else {
+        await flutterTts.setSpeechRate(speed);
+      }
+    } catch (e) {
       await flutterTts.setSpeechRate(speed);
     }
     await flutterTts.setLanguage(locale(lang));
