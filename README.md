@@ -1,7 +1,5 @@
-This is the flutter project for Talk Dim Sum
+This is the flutter project for [Talk Dim Sum](http://talkdimsum.com) (download the Android build here)
 
-http://talkdimsum.com hosts the Android build and links to the Swift version on the App Store
+The Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) has more features/polish than the Android build from this project but shares the same data (images and JSON)
 
-The Swift version has more features and polish but shares the same data
-
-I'm using the flutter dev channel for this project
+Using the flutter dev channel so I can play with desktop app builds
