@@ -4,4 +4,4 @@ The Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/
 
 Using the flutter dev channel so I can play with desktop app builds
 
-Everything is MIT-licensed except the technicat logo, created by [Dakota Snow](http://espressyourself.coffee/)
+Everything is MIT-licensed except the technicat logo created by [Dakota Snow](http://espressyourself.coffee/)
