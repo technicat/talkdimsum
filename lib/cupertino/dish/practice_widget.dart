@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 import 'package:speech_to_text/speech_to_text.dart';
 import 'package:speech_to_text/speech_recognition_error.dart';
@@ -62,7 +62,7 @@ class PracticeWidgetState extends State<PracticeWidget> {
 
                 ),
 // add tortoise and hare
-       Slider(
+       CupertinoSlider(
       min: 0.1,
       max: 1.9,
       value: speed,
@@ -72,8 +72,8 @@ class PracticeWidgetState extends State<PracticeWidget> {
         });
       },
     ),
-                  IconButton(
-                    icon: Icon(Icons.volume_up),
+                  CupertinoIconButton(
+                    icon: Icon(CupertinoIcons.volume_up),
                     tooltip: 'Hear how this dish is pronounced in Chinese',
                     onPressed: () {
                      Speech.sayWord(widget.word,lang,speed);
@@ -106,15 +106,15 @@ class PracticeWidgetState extends State<PracticeWidget> {
 
  speech.isListening
                   ? 
-        IconButton(
-                    icon: Icon(Icons.pause),
+        CupertinoIconButton(
+                    icon: Icon(CupertinoIcons.pause),
                     tooltip: 'Stop listening',
                     onPressed: () {
                      stopListening();
                      },
                   ) :
-        IconButton(
-                    icon: Icon(Icons.mic),
+        CupertinoIconButton(
+                    icon: Icon(CupertinoIcons.mic),
                     tooltip: 'Practice saying this word',
                     onPressed: () {
                      listen();

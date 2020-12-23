@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 import 'package:share/share.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -18,19 +18,6 @@ class DishWidget extends StatelessWidget {
 @override
   Widget build(BuildContext context) {
     return Scaffold(
-      /* floatingActionButton: 
-        Favorites.has(widget.dish) ?
-          FloatingActionButton(
-          onPressed: () {
-            setState(() { Favorites.remove(widget.dish); });
-          },
-          child: Icon(Icons.favorite))
-          :
-          FloatingActionButton(
-            onPressed: () {
-              setState(() { Favorites.add(widget.dish); });
-          },
-          child: Icon(Icons.favorite_border)), */
       appBar: 
         AppBar(
        //   title: Text('${dish.word.English}'),

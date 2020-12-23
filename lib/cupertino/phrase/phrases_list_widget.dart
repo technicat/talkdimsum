@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:bubble/bubble.dart';
 
 import 'package:talkdimsum/core/phrases.dart';
@@ -16,7 +16,7 @@ class PhrasesListWidget extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return  Container(
-        color: Colors.yellow.withAlpha(64),
+        color: CupertinoColors.yellow.withAlpha(64),
         child: ListView(
           padding: EdgeInsets.all(8.0),
           children: 
@@ -32,7 +32,7 @@ class PhrasesListWidget extends StatelessWidget {
 
     BubbleStyle style = BubbleStyle(
       nip: BubbleNip.leftTop,
-      color: Colors.white,
+      color: CupertinoColors.white,
       elevation: 1 * px,
       margin: BubbleEdges.only(top: 8.0, right: 50.0),
       alignment: Alignment.topLeft,

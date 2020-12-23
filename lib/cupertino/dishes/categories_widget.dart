@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/dimsum.dart';
 import 'package:talkdimsum/core/dish.dart';
@@ -48,7 +48,7 @@ class CategoryCellWidget extends StatelessWidget {
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(
+                    CupertinoPageRoute(
                         builder: (context) => WordDishesWidget(word: dish.word)),
                   );
                 },
