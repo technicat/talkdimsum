@@ -23,7 +23,6 @@ class NavigationBarState extends State<NavigationBar> {
 
   final _widgetOptions = [
     ScaffoldDishesWidget(),
-    //  ScaffoldFavoritesWidget(),
     ScaffoldPhrasesWidget(),
     ScaffoldCountryWidget(),
   ];

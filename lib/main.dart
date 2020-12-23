@@ -3,6 +3,8 @@
  Entry point for Talk Dim Sum
 */
 
+import 'dart:io' show Platform;
+
 import 'package:flutter/material.dart';
 
 import 'core/country.dart';
@@ -11,13 +13,23 @@ import 'core/tags.dart';
 import 'core/phrases.dart';
 
 import 'ui/myapp.dart';
+import 'cupertino/myapp.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized(); // needed for accessing rootBundle for JSON
+  // needed for accessing rootBundle for JSON
+  WidgetsFlutterBinding.ensureInitialized();
   await Country.loadList();
-	await DimSum.load();
+  await DimSum.load();
   await Tags.load();
   await Phrases.load();
-  runApp(MyApp());
+  try {
+    // Plastform breaks on the web
+    if (Platform.isIOS || Platform.isMacOS) {
+      runApp(MyCupertinoApp());
+    } else {
+      runApp(MyMaterialApp());
+    }
+  } catch (e) {
+    runApp(MyMaterialApp());
+  }
 }
-
