@@ -48,33 +48,4 @@ class DishCardCellWidget extends StatelessWidget {
 }
 
 
-/*
-class DishCellWidget extends StatelessWidget {
-
-  final Dish dish;
-
-  DishCellWidget({Key key, @required this.dish}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return 
-      Card(
-            child: InkWell(
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => StatefulDishWidget(dish: dish)),
-                  );
-                },
-                child: Column(children: <Widget>[
-                  DishImageWidget(dish: dish),
-                  Text('${dish.English}',
-                      textAlign: TextAlign.center,
-                      style:
-                          TextStyle(fontSize: 10, fontWeight: FontWeight.bold))
-                ])));
-    }
-} */
-
 
