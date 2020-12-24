@@ -1,11 +1,24 @@
 /* Technicat LLC */
 
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/country.dart';
 
-import 'region_list_widget.dart';
+//import 'region_list_widget.dart';
 
+class ScaffoldCountryWidget extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+            return CupertinoPageScaffold(
+              navigationBar: CupertinoNavigationBar(
+                middle: Text('Places'),
+              ),
+              child: Center(
+                            )
+                          );
+                        }
+          }
+/*
 class ScaffoldCountryWidget extends StatefulWidget {
   
   Country country = Country.countries[0];
@@ -42,3 +55,4 @@ class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
 
 }
 
+*/

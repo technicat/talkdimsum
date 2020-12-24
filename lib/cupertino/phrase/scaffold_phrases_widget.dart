@@ -4,9 +4,22 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/phrases.dart';
 
-import 'phrases_list_widget.dart';
+//import 'phrases_list_widget.dart';
 
+class ScaffoldPhrasesWidget extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+            return CupertinoPageScaffold(
+              navigationBar: CupertinoNavigationBar(
+                middle: Text('Phrases'),
+              ),
+              child: Center(
+                            )
+                          );
+                        }
+          }
 
+/*
 class ScaffoldPhrasesWidget extends StatefulWidget {
   
   Phrases phrases = Phrases.phrases[0];
@@ -43,3 +56,4 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
 
 }
 
+*/

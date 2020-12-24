@@ -21,7 +21,7 @@ class RegionListWidget extends StatelessWidget {
           country.regions.map((place) => _placeTile(context, place)).toList()));
           }
 
-  ListTile _placeTile(BuildContext context, Region region) => ListTile(
+  CupertinoListTile _placeTile(BuildContext context, Region region) => ListTile(
         title: Text(region.name,
             style: TextStyle(
               fontWeight: FontWeight.w500,
@@ -30,7 +30,7 @@ class RegionListWidget extends StatelessWidget {
             onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(
+                    CupertinoPageRoute(
                       builder: (context) => PlaceListWidget(region: region)),
                   );
                 },
