@@ -4,9 +4,12 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/country.dart';
 
-//import 'region_list_widget.dart';
+import 'region_list_widget.dart';
 
 class ScaffoldCountryWidget extends StatelessWidget {
+
+  Country country = Country.countries[0];
+
   @override
   Widget build(BuildContext context) {
             return CupertinoPageScaffold(
