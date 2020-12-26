@@ -32,15 +32,15 @@ class PracticeWidgetState extends State<PracticeWidget> {
 
   @override
   Widget build(BuildContext context) {
-     return Scaffold(
-        appBar: 
-        AppBar(
-          title: Text('${widget.word.english}')),
-          body: 
+     return CupertinoPageScaffold(
+        navigationBar: 
+        CupertinoNavigationBar(
+          middle: Text('${widget.word.english}')),
+          child: 
      Column(children: <Widget>[
 
-       DropdownButton<Language>(
-                    icon: Icon(Icons.language),
+      /* DropdownButton<Language>(
+                    icon: Icon(CupertinoIcons.language),
                     value: lang,
                     onChanged: (value) {
                       setState(() { lang = value; });
@@ -60,7 +60,7 @@ class PracticeWidgetState extends State<PracticeWidget> {
                               ),
                       ],
 
-                ),
+                ), */
 // add tortoise and hare
        CupertinoSlider(
       min: 0.1,
@@ -72,9 +72,9 @@ class PracticeWidgetState extends State<PracticeWidget> {
         });
       },
     ),
-                  CupertinoIconButton(
-                    icon: Icon(CupertinoIcons.volume_up),
-                    tooltip: 'Hear how this dish is pronounced in Chinese',
+                  CupertinoButton(
+                    child: Icon(CupertinoIcons.volume_up),
+                   // tooltip: 'Hear how this dish is pronounced in Chinese',
                     onPressed: () {
                      Speech.sayWord(widget.word,lang,speed);
                     },
@@ -106,16 +106,16 @@ class PracticeWidgetState extends State<PracticeWidget> {
 
  speech.isListening
                   ? 
-        CupertinoIconButton(
-                    icon: Icon(CupertinoIcons.pause),
-                    tooltip: 'Stop listening',
+        CupertinoButton(
+                    child: Icon(CupertinoIcons.pause),
+                   // tooltip: 'Stop listening',
                     onPressed: () {
                      stopListening();
                      },
                   ) :
-        CupertinoIconButton(
-                    icon: Icon(CupertinoIcons.mic),
-                    tooltip: 'Practice saying this word',
+        CupertinoButton(
+                    child: Icon(CupertinoIcons.mic),
+                  //  tooltip: 'Practice saying this word',
                     onPressed: () {
                      listen();
                      },
