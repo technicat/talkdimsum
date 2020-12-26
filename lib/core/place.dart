@@ -7,7 +7,6 @@ class Place {
   final String city;
   final String address;
   final List<Link> links;
-  // Region region;
 
   Place(this.name, this.lat, this.lon, this.city, this.links, this.address);
 

@@ -13,8 +13,6 @@ static HashMap<String, Dish> dishes = HashMap<String, Dish>();
     return dish;
   }
 
- //final bool ignore;
-
   Word get word {
     return words[0];
   }
@@ -28,7 +26,6 @@ static HashMap<String, Dish> dishes = HashMap<String, Dish>();
   Dish(this.description, this.images, this.tags, this.words, this.resources);
 
   Dish.fromJson(Map<String, dynamic> json) :
-       // ignore = (json['Ignore'] != null) && json['Ignore'],
         description = json['Description'],
         tags = json['Tags'] == null
             ? []

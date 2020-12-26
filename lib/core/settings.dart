@@ -10,6 +10,7 @@ class Settings {
       case Language.Cantonese: return "Cantonese";
       case Language.Mandarin: return "Mandarin";
       case Language.Simplified: return "Simplified";
+      default: return "Cantonese";
     }
   }
 
