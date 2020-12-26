@@ -19,8 +19,8 @@ class DishesWidget extends StatelessWidget {
         mainAxisSpacing: 4,
         crossAxisSpacing: 4,
         children:
-            dishes.map((dish) => GridTile(child: //DishImageWidget(dish: dish))).toList());
-            DishCardCellWidget(dish: dish))).toList());
+            dishes.map((dish) => //GridTile(child: //DishImageWidget(dish: dish))).toList());
+            DishCardCellWidget(dish: dish)).toList());
   }
 }
 
@@ -33,48 +33,16 @@ class DishCardCellWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return 
-      Card(
-            child: InkWell(
+      GestureDetector(
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(
+                    CupertinoPageRoute(
                         builder: (context) => DishWidget(dish: dish)),
                   );
                 },
                 child: 
-                  DishImageTextWidget(dish: dish)));
+                  DishImageTextWidget(dish: dish));
     }
 }
-
-
-/*
-class DishCellWidget extends StatelessWidget {
-
-  final Dish dish;
-
-  DishCellWidget({Key key, @required this.dish}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return 
-      Card(
-            child: InkWell(
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => StatefulDishWidget(dish: dish)),
-                  );
-                },
-                child: Column(children: <Widget>[
-                  DishImageWidget(dish: dish),
-                  Text('${dish.English}',
-                      textAlign: TextAlign.center,
-                      style:
-                          TextStyle(fontSize: 10, fontWeight: FontWeight.bold))
-                ])));
-    }
-} */
-
 

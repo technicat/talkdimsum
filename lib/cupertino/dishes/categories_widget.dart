@@ -6,7 +6,7 @@ import 'package:talkdimsum/core/dish.dart';
 import 'package:talkdimsum/ui/dish/dish_image_text_widget.dart';
 
 import 'word_dishes_widget.dart';
-
+//
 class CategoriesWidget extends StatelessWidget {
 
   @override
@@ -29,22 +29,19 @@ class CategoryDishesWidget extends StatelessWidget {
         mainAxisSpacing: 4,
         crossAxisSpacing: 4,
         children:
-            dishes.map((dish) => GridTile(child: CategoryCellWidget(dish: dish))).toList());
+            dishes.map((dish) => CategoryCellWidget(dish: dish)).toList());
   }
 }
 
 class CategoryCellWidget extends StatelessWidget {
 
   final Dish dish;
- // final Word tag;
 
   CategoryCellWidget({Key key, @required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return 
-      Card(
-            child: InkWell(
+      GestureDetector(
                 onTap: () {
                   Navigator.push(
                     context,
@@ -53,6 +50,6 @@ class CategoryCellWidget extends StatelessWidget {
                   );
                 },
                 child: 
-                  DishImageTextWidget(dish: dish)));
+                  DishImageTextWidget(dish: dish));
     }
 }

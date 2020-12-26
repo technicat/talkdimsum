@@ -36,7 +36,6 @@ class CategoryDishesWidget extends StatelessWidget {
 class CategoryCellWidget extends StatelessWidget {
 
   final Dish dish;
- // final Word tag;
 
   CategoryCellWidget({Key key, @required this.dish}) : super(key: key);
 

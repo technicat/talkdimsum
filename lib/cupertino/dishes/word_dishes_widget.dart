@@ -1,5 +1,5 @@
 
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/dimsum.dart';
 import 'package:talkdimsum/core/word.dart';
@@ -14,11 +14,11 @@ class WordDishesWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-        appBar: AppBar(
-          title: Text(word.display()),
+    return CupertinoPageScaffold(
+        navigationBar: CupertinoNavigationBar(
+          middle: Text(word.display()),
         ),
-        body: DishesWidget(dishes: DimSum.dishes.where((dish) => dish.words.contains(word) || dish.hasTag(word)).toList()));
+        child: DishesWidget(dishes: DimSum.dishes.where((dish) => dish.words.contains(word) || dish.hasTag(word)).toList()));
   }
 }
 
