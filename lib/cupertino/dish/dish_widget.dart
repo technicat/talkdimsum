@@ -17,11 +17,11 @@ class DishWidget extends StatelessWidget {
 
 @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: 
-        AppBar(
+    return CupertinoPageScaffold(
+      navigationBar: 
+        CupertinoNavigationBar(
        //   title: Text('${dish.word.English}'),
-          actions: <Widget>[
+        /*  actions: <Widget>[
 
       PopupMenuButton<String>(
         icon: Icon(Icons.help),
@@ -68,9 +68,9 @@ class DishWidget extends StatelessWidget {
         },
       )
 
-   ]
+   ] */
         ),
-      body: DishSummaryWidget(dish: dish));
+      child: DishSummaryWidget(dish: dish));
   }
 }
 
