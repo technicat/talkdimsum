@@ -22,22 +22,22 @@ class DishWordWidget extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: 
               <Widget>[
-                  IconButton(
-                    icon: Icon(Icons.volume_up),
-                    tooltip: 'Hear how this dish is pronounced in Chinese',
+                  CupertinoButton(
+                    child: Icon(CupertinoIcons.volume_up),
+                   // tooltip: 'Hear how this dish is pronounced in Chinese',
                     onPressed: () {
                      Speech.sayWord(word,Settings.language,Settings.speed);
                     },
                   ),
                   Text('${word.chineseText(Settings.language)}',
                         textAlign: TextAlign.center, style: TextStyle(fontSize: 24)),
-                  IconButton(
-                    icon: Icon(Icons.mic),
-                    tooltip: 'Play and practice this word',
+                  CupertinoButton(
+                    child: Icon(CupertinoIcons.mic),
+                   // tooltip: 'Play and practice this word',
                     onPressed: () {
                      Navigator.push(
                     context,
-                    MaterialPageRoute(
+                    CupertinoPageRoute(
                       builder: (context) => PracticeWidget(word: word)));
                     },
                   ),
