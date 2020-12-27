@@ -6,7 +6,7 @@ import 'package:talkdimsum/core/dish.dart';
 
 import 'dish_word_widget.dart';
 import 'dish_image_widget.dart';
-import 'dish_tags_widget.dart';
+//import 'dish_tags_widget.dart';
 import 'dish_description_widget.dart';
 
 
@@ -33,7 +33,7 @@ class DishSummaryWidget extends StatelessWidget {
                               }, 
                               child: DishImageWidget(dish: dish)
                               ),
-                          RowTagsWidget(dish: dish),
+                        //  RowTagsWidget(dish: dish),
                           ]);
     }
 }
