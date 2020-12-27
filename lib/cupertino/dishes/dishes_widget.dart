@@ -20,19 +20,19 @@ class DishesWidget extends StatelessWidget {
         crossAxisSpacing: 4,
         children:
             dishes.map((dish) => //GridTile(child: //DishImageWidget(dish: dish))).toList());
-            DishCardCellWidget(dish: dish)).toList());
+            DishCellWidget(dish: dish)).toList());
   }
 }
 
-class DishCardCellWidget extends StatelessWidget {
+class DishCellWidget extends StatelessWidget {
 
   final Dish dish;
 
-  DishCardCellWidget({Key key, @required this.dish}) : super(key: key);
+  DishCellWidget({Key key, @required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return 
+    return
       GestureDetector(
                 onTap: () {
                   Navigator.push(

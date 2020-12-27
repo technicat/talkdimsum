@@ -17,7 +17,7 @@ class CategoriesWidget extends StatelessWidget {
 
 class CategoryDishesWidget extends StatelessWidget {
 
-  List<Dish> dishes;
+  final List<Dish> dishes;
 
   CategoryDishesWidget({Key key, @required this.dishes}) : super(key: key);
 

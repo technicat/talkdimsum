@@ -20,7 +20,7 @@ class DishWidget extends StatelessWidget {
     return CupertinoPageScaffold(
       navigationBar: 
         CupertinoNavigationBar(
-       //   title: Text('${dish.word.English}'),
+         middle: Text('${dish.word.english}'),
         /*  actions: <Widget>[
 
       PopupMenuButton<String>(
