@@ -18,7 +18,7 @@ class WordDishesWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
           middle: Text(word.display()),
         ),
-        child: DishesWidget(dishes: DimSum.dishes.where((dish) => dish.words.contains(word) || dish.hasTag(word)).toList()));
+        child: SafeArea(child: DishesWidget(dishes: DimSum.dishes.where((dish) => dish.words.contains(word) || dish.hasTag(word)).toList())));
   }
 }
 

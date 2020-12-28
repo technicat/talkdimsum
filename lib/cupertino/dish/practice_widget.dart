@@ -36,7 +36,7 @@ class PracticeWidgetState extends State<PracticeWidget> {
         navigationBar: 
         CupertinoNavigationBar(
           middle: Text('${widget.word.english}')),
-          child: 
+          child:
      Column(children: <Widget>[
 
       /* DropdownButton<Language>(

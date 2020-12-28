@@ -22,7 +22,7 @@ class DishWidget extends StatelessWidget {
         CupertinoNavigationBar(
          middle: Text('${dish.word.english}'),
         ),
-      child: DishSummaryWidget(dish: dish));
+      child: SafeArea(child: DishSummaryWidget(dish: dish)));
   }
 }
 

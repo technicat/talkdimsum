@@ -6,7 +6,7 @@ import 'package:talkdimsum/core/dish.dart';
 import 'package:talkdimsum/ui/dish/dish_image_text_widget.dart';
 
 import 'word_dishes_widget.dart';
-//
+
 class CategoriesWidget extends StatelessWidget {
 
   @override
