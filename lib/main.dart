@@ -12,7 +12,7 @@ import 'core/dimsum.dart';
 import 'core/tags.dart';
 import 'core/phrases.dart';
 
-import 'ui/myapp.dart';
+import 'material/myapp.dart';
 import 'cupertino/myapp.dart';
 
 void main() async {

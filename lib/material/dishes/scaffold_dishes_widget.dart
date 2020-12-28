@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'categories_widget.dart';
-import 'package:talkdimsum/ui/search/search_word_widget.dart';
+import 'package:talkdimsum/material/search/search_word_widget.dart';
 
 class ScaffoldDishesWidget extends StatelessWidget {
   @override
