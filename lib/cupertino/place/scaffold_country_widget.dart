@@ -16,8 +16,8 @@ class ScaffoldCountryWidget extends StatelessWidget {
               navigationBar: CupertinoNavigationBar(
                 middle: Text('Places'),
               ),
-              child: Center(
-                            )
+              child: RegionListWidget(country:country)
+                            
                           );
                         }
           }
