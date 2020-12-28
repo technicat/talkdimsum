@@ -36,32 +36,9 @@ class PracticeWidgetState extends State<PracticeWidget> {
         navigationBar: 
         CupertinoNavigationBar(
           middle: Text('${widget.word.english}')),
-          child:
-     Column(children: <Widget>[
+          child: SafeArea(child:
+     Center(child: Column(children: <Widget>[
 
-      /* DropdownButton<Language>(
-                    icon: Icon(CupertinoIcons.language),
-                    value: lang,
-                    onChanged: (value) {
-                      setState(() { lang = value; });
-                    },
-                    items: [
-                      const DropdownMenuItem<Language>(
-                              value: Language.Cantonese,
-                              child: Text("Cantonese"),
-                              ),
-                      const DropdownMenuItem<Language>(
-                              value: Language.Mandarin,
-                              child: Text("Mandarin"),
-                              ),
-                      const DropdownMenuItem<Language>(
-                              value: Language.Simplified,
-                              child: Text("Simplified"),
-                              ),
-                      ],
-
-                ), */
-// add tortoise and hare
        CupertinoSlider(
       min: 0.1,
       max: 1.9,
@@ -120,7 +97,7 @@ class PracticeWidgetState extends State<PracticeWidget> {
                      listen();
                      },
                   ),
-        ])); 
+        ])))); 
   }
 
 Future listen() async{
