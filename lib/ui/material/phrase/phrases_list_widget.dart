@@ -4,11 +4,11 @@ import 'package:bubble/bubble.dart';
 import 'package:talkdimsum/core/phrases.dart';
 import 'package:talkdimsum/core/word.dart';
 
-import 'package:talkdimsum/material/dish/dish_word_widget.dart';
+import 'package:talkdimsum/ui/material/dish/dish_word_widget.dart';
 
 class PhrasesListWidget extends StatelessWidget {
 
-  final Phrases phrases;
+  Phrases phrases;
 
   PhrasesListWidget({Key key, @required this.phrases}) : super(key: key);
 

@@ -1,7 +1,7 @@
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/word.dart';
-import 'package:talkdimsum/ui/dishes/word_dishes_widget.dart';
+import 'package:talkdimsum/ui/material/dishes/word_dishes_widget.dart';
 
 class TagWidget extends StatelessWidget {
 
@@ -15,11 +15,11 @@ class TagWidget extends StatelessWidget {
       onTap: () {
                   Navigator.push(
                     context,
-                    Cupertino/*PageRoute(
+                    MaterialPageRoute(
                         builder: (context) => WordDishesWidget(word: tag)),
                   );
                 },
-    child: CupertinoChip(
+    child: Chip(
         /* avatar: CircleAvatar(
         backgroundColor: Colors.grey.shade800,
         child: Text(tag.Chinese),
@@ -29,4 +29,3 @@ class TagWidget extends StatelessWidget {
     );
   }
 }
-*/

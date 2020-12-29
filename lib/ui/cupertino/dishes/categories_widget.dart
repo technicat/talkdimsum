@@ -1,9 +1,9 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/dimsum.dart';
 import 'package:talkdimsum/core/dish.dart';
 
-import 'package:talkdimsum/material/dish/dish_image_text_widget.dart';
+import 'package:talkdimsum/ui/cupertino/dish/dish_image_text_widget.dart';
 
 import 'word_dishes_widget.dart';
 
@@ -29,7 +29,7 @@ class CategoryDishesWidget extends StatelessWidget {
         mainAxisSpacing: 4,
         crossAxisSpacing: 4,
         children:
-            dishes.map((dish) => GridTile(child: CategoryCellWidget(dish: dish))).toList());
+            dishes.map((dish) => CategoryCellWidget(dish: dish)).toList());
   }
 }
 
@@ -41,17 +41,15 @@ class CategoryCellWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return 
-      Card(
-            child: InkWell(
+      return GestureDetector(
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(
+                    CupertinoPageRoute(
                         builder: (context) => WordDishesWidget(word: dish.word)),
                   );
                 },
                 child: 
-                  DishImageTextWidget(dish: dish)));
+                  DishImageTextWidget(dish: dish));
     }
 }

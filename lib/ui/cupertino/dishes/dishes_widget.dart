@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/dish.dart';
 
-import 'package:talkdimsum/cupertino/dish/dish_widget.dart';
-import 'package:talkdimsum/cupertino/dish/dish_image_text_widget.dart';
+import 'package:talkdimsum/ui/cupertino/dish/dish_widget.dart';
+import 'package:talkdimsum/ui/cupertino/dish/dish_image_text_widget.dart';
 
 class DishesWidget extends StatelessWidget {
 

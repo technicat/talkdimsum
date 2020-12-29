@@ -4,7 +4,7 @@ import 'package:bubble/bubble.dart';
 import 'package:talkdimsum/core/phrases.dart';
 import 'package:talkdimsum/core/word.dart';
 
-import 'package:talkdimsum/cupertino/dish/dish_word_widget.dart';
+import 'package:talkdimsum/ui/cupertino/dish/dish_word_widget.dart';
 
 class PhrasesListWidget extends StatelessWidget {
   final Phrases phrases;
