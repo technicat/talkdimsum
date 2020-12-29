@@ -4,7 +4,7 @@ import 'package:bubble/bubble.dart';
 import 'package:talkdimsum/core/phrases.dart';
 import 'package:talkdimsum/core/word.dart';
 
-import 'package:talkdimsum/ui/dish/dish_word_widget.dart';
+import 'package:talkdimsum/cupertino/dish/dish_word_widget.dart';
 
 class PhrasesListWidget extends StatelessWidget {
 
@@ -14,15 +14,10 @@ class PhrasesListWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
-    return  Container(
-        color: CupertinoColors.yellow.withAlpha(64),
-        child: ListView(
-          padding: EdgeInsets.all(8.0),
-          children: 
-
-          phrases.lines.expand((line)=>makeBubbles(context, line)).toList(),
-      ),
+    return   ListView(
+        //  padding: EdgeInsets.all(8.0),
+          children:
+          phrases.lines.expand((line)=>makeBubbles(context, line)).toList()
     );
   }
 
