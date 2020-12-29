@@ -8,8 +8,6 @@ import 'phrases_list_widget.dart';
 
 
 class ScaffoldPhrasesWidget extends StatefulWidget {
-  
-  Phrases phrases = Phrases.phrases[0];
 
 @override
   ScaffoldPhrasesState createState() => ScaffoldPhrasesState();
@@ -17,18 +15,20 @@ class ScaffoldPhrasesWidget extends StatefulWidget {
 
 class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
 
+  Phrases phrases = Phrases.phrases[0];
+
   @override
   Widget build(BuildContext context) {
     return
        Scaffold(
         appBar: 
           AppBar(
-            title: Text(widget.phrases.name),
+            title: Text(phrases.name),
              actions: <Widget>[
                 PopupMenuButton<Phrases>(
                     icon: Icon(Icons.menu),
                     onSelected: (value) {
-                      setState(() { widget.phrases = value; });
+                      setState(() { phrases = value; });
                     },
                     itemBuilder: (BuildContext context) => 
                        Phrases.phrases.map((phrases) => PopupMenuItem<Phrases>(value: phrases, child: Text(phrases.name))).toList(),
@@ -36,7 +36,7 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
                 ),
           ]
               ),
-        body: PhrasesListWidget(phrases: widget.phrases),
+        body: PhrasesListWidget(phrases: phrases),
        
     );
   }
