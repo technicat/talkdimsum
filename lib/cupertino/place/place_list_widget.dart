@@ -16,9 +16,9 @@ class PlaceListWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-   return Material(child: ListView(
+   return ListView(
       children:
-          region.places.map((place) => PlaceTile(region: region, place: place)).toList()));
+          region.places.map((place) => PlaceTile(region: region, place: place)).toList());
   }
 
 }
@@ -32,7 +32,7 @@ class PlaceTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return PopupMenuButton<String>(
+    return /* CupertinoPopupMenuButton<String>(
       onSelected: (String value) {
         switch (value) {
           case "share": {
@@ -57,7 +57,7 @@ class PlaceTile extends StatelessWidget {
                     menu.addAll(place.links.map((link) => PopupMenuItem<String>(value: link.URL, child: Text(link.name))));
                     return menu;
       },
-      child: PlaceCityTile(place: place));
+      child: */ PlaceCityTile(place: place);
       }
 }
 
@@ -69,13 +69,12 @@ class PlaceCityTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-   return ListTile(
-        title: Text(place.name,
+   return  Text(place.name,
             style: TextStyle(
               fontWeight: FontWeight.w500,
               fontSize: 20,
-            )),
-         subtitle: Text(place.city),
-      );
+            ));
+        // subtitle: Text(place.city),
+
       }
 }

@@ -5,7 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:talkdimsum/core/region.dart';
 import 'package:talkdimsum/core/country.dart';
 
-//import 'place_list_widget.dart';
+import 'place_list_widget.dart';
 
 
 class RegionListWidget extends StatelessWidget {
@@ -21,9 +21,18 @@ class RegionListWidget extends StatelessWidget {
           country.regions.map((place) => _placeTile(context, place)).toList()));
           }
 
- Widget _placeTile(BuildContext context, Region region) => Text(region.name,
+ Widget _placeTile(BuildContext context, Region region) => 
+ GestureDetector(
+   onTap: () {
+   Navigator.push(
+                    context,
+                    CupertinoPageRoute(
+                        builder: (context) => PlaceListWidget(region: region)),
+                  );
+   },
+   child: Text(region.name,
             style: TextStyle(
               fontWeight: FontWeight.w500,
               fontSize: 20
-            ));
+            )));
 }
