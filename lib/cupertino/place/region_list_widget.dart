@@ -21,16 +21,15 @@ class RegionListWidget extends StatelessWidget {
                 .toList()));
   }
 
-  Widget _placeTile(BuildContext context, Region region) => GestureDetector(
-      onTap: () {
+  Widget _placeTile(BuildContext context, Region region) => CupertinoButton(
+      onPressed: () {
         Navigator.push(
           context,
           CupertinoPageRoute(
               builder: (context) => PlaceListWidget(region: region)),
         );
       },
-      child: Padding(
-          padding: EdgeInsets.all(4.0),
-          child: Text(region.name,
-              style: TextStyle(fontWeight: FontWeight.w500, fontSize: 20))));
+      child: Text(region.name,
+          textAlign: TextAlign.center,
+          style: TextStyle(fontWeight: FontWeight.w500, fontSize: 18)));
 }

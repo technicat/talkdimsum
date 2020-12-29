@@ -44,17 +44,16 @@ class PlaceCityTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
-        onTap: () {
+    return CupertinoButton(
+        onPressed: () {
           //  Share.share("I had dim sum at ${place.name} in ${place.city} #dimsum #yumcha //#talkdimsum talkdimsum.com", subject: "Talk Dim Sum");
         },
-        child: Padding(
-            padding: EdgeInsets.all(4.0),
-            child: Text(place.name,
-                style: TextStyle(
-                  fontWeight: FontWeight.w500,
-                  fontSize: 20,
-                ))));
+        child: Text(place.name,
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontWeight: FontWeight.w500,
+              fontSize: 16,
+            )));
     // subtitle: Text(place.city),
   }
 }
