@@ -45,7 +45,7 @@ class PlaceTile extends StatelessWidget {
           }
       },
       itemBuilder: (BuildContext context) { 
-                    List<PopupMenuEntry<String>> menu = List();
+                    List<PopupMenuEntry<String>> menu = [];
                     menu.add(PopupMenuItem<String>(
                               value: sprintf("https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",[place.lat,place.lon]),
                               child: Text('map'),

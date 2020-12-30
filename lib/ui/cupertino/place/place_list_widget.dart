@@ -3,7 +3,7 @@
 import 'package:flutter/cupertino.dart';
 //import 'package:share/share.dart';
 //import 'package:sprintf/sprintf.dart';
-//import 'package:url_launcher/url_launcher.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'package:talkdimsum/core/place.dart';
 import 'package:talkdimsum/core/region.dart';
@@ -46,14 +46,40 @@ class PlaceCityTile extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoButton(
         onPressed: () {
-          //  Share.share("I had dim sum at ${place.name} in ${place.city} #dimsum #yumcha //#talkdimsum talkdimsum.com", subject: "Talk Dim Sum");
+          showCupertinoModalPopup(
+              context: context,
+              builder: (_) {
+                return CupertinoActionSheet(
+                    title: Text(place.name),
+                    message: Text(place.address),
+                    actions: place.links
+                        .map((link) => CupertinoActionSheetAction(
+                            onPressed: () {
+                              launch(link.URL);
+                            },
+                            child: Text(link.name)))
+                        .toList()
+                    /* cancelButton: CupertinoActionSheetAction(
+                        onPressed: () {
+                         // Navigator.pop(context);
+                        },
+                        child: Text('Cancel')*/
+                    );
+              });
         },
-        child: Text(place.name,
-            textAlign: TextAlign.center,
-            style: TextStyle(
-              fontWeight: FontWeight.w500,
-              fontSize: 16,
-            )));
-    // subtitle: Text(place.city),
+        child: Column(children: [
+          Text(place.name,
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontWeight: FontWeight.w500,
+                fontSize: 16,
+              )),
+          Text(place.city,
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontWeight: FontWeight.w500,
+                fontSize: 12,
+              ))
+        ]));
   }
 }
