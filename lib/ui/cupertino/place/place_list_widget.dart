@@ -1,7 +1,6 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
-import 'package:share/share.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'package:talkdimsum/core/place.dart';
@@ -52,7 +51,7 @@ class PlaceCityTile extends StatelessWidget {
                         .toList();
     var share = CupertinoActionSheetAction(
                             onPressed: () {
-                Share.share("I had dim sum at ${place.name} in ${place.city} #dimsum #yumcha #talkdimsum talkdimsum.com", subject: "Talk Dim Sum");
+                              place.share();
                             },
                             child: Text('share'));
     var map = CupertinoActionSheetAction(

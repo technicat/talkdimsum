@@ -1,3 +1,4 @@
+import 'package:share/share.dart';
 import 'package:sprintf/sprintf.dart';
 
 import 'link.dart';
@@ -26,6 +27,10 @@ class Place {
   String get googleMapURL {
         return sprintf("https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",
         [lat,lon]);
+  }
+
+  void share() {
+   Share.share("I had dim sum at ${name} in ${city} #dimsum #yumcha #talkdimsum talkdimsum.com", subject: "Talk Dim Sum");
   }
 
         
