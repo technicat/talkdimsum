@@ -15,6 +15,10 @@ class NavigationBar extends StatelessWidget {
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.home), label: 'Dishes'),
             BottomNavigationBarItem(
+                icon: Icon(CupertinoIcons.search), label: 'Search'),
+            BottomNavigationBarItem(
+                icon: Icon(CupertinoIcons.heart), label: 'Favorites'),
+            BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.chat_bubble), label: 'Phrases'),
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.map), label: 'Places'),
@@ -22,18 +26,20 @@ class NavigationBar extends StatelessWidget {
         ),
         tabBuilder: (BuildContext context, int index) {
           switch (index) {
-            case 2:
-             return CupertinoTabView(builder: (BuildContext context) {
-              return ScaffoldCountryWidget();
-             });
-            case 1:
-             return CupertinoTabView(builder: (BuildContext context) {
-              return ScaffoldPhrasesWidget();
-             });
+            case 5:
+              return CupertinoTabView(builder: (BuildContext context) {
+                return ScaffoldCountryWidget();
+              });
+            case 4:
+              return CupertinoTabView(builder: (BuildContext context) {
+                return ScaffoldPhrasesWidget();
+              });
             case 0:
               return CupertinoTabView(builder: (BuildContext context) {
                 return ScaffoldDishesWidget();
               });
+            default:
+              return Text('nothing to see here');
           }
         });
   }
