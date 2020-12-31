@@ -56,7 +56,7 @@ class PlaceCityTile extends StatelessWidget {
         child: Text('share'));
     var map = CupertinoActionSheetAction(
         onPressed: () {
-          launch(place.googleMapURL);
+          place.showGoogleMap();
         },
         child: Text('map'));
     actions.add(share);

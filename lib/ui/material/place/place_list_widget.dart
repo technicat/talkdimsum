@@ -37,6 +37,11 @@ class PlaceTile extends StatelessWidget {
                 place.share();
               }
               break;
+             case "map":
+              {
+                place.showGoogleMap();
+              }
+              break;
             default:
               {
                 launch(value);
@@ -46,7 +51,7 @@ class PlaceTile extends StatelessWidget {
         itemBuilder: (BuildContext context) {
           List<PopupMenuEntry<String>> menu = [];
           menu.add(PopupMenuItem<String>(
-            value: place.googleMapURL,
+            value: "map",
             child: Text('map'),
           ));
           menu.add(PopupMenuItem<String>(

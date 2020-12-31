@@ -1,5 +1,6 @@
 import 'package:share/share.dart';
 import 'package:sprintf/sprintf.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'link.dart';
 
@@ -20,18 +21,24 @@ class Place {
         city = json['city'],
         links = json['links'] == null
             ? []
-            : List<Link>.from(
-            json['links'].map((json) => Link.fromJson(json))),
+            : List<Link>.from(json['links'].map((json) => Link.fromJson(json))),
         address = json['address'];
 
   String get googleMapURL {
-        return sprintf("https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",
-        [lat,lon]);
+    return sprintf(
+        "https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",
+        [lat, lon]);
+  }
+
+  void showGoogleMap() {
+    launch(googleMapURL);
   }
 
   void share() {
-   Share.share("I had dim sum at ${name} in ${city} #dimsum #yumcha #talkdimsum talkdimsum.com", subject: "Talk Dim Sum");
+    Share.share(
+        "I had dim sum at $name in $city #dimsum #yumcha #talkdimsum talkdimsum.com",
+        subject: "Talk Dim Sum");
   }
 
-        
+  
 }
