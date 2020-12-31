@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:share/share.dart';
-import 'package:sprintf/sprintf.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'package:talkdimsum/core/place.dart';
@@ -47,7 +46,7 @@ class PlaceTile extends StatelessWidget {
       itemBuilder: (BuildContext context) { 
                     List<PopupMenuEntry<String>> menu = [];
                     menu.add(PopupMenuItem<String>(
-                              value: sprintf("https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",[place.lat,place.lon]),
+                              value: place.googleMapURL,
                               child: Text('map'),
                               )); 
                     menu.add(PopupMenuItem<String>(

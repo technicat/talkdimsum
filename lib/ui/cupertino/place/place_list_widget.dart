@@ -2,7 +2,6 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:share/share.dart';
-import 'package:sprintf/sprintf.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'package:talkdimsum/core/place.dart';
@@ -58,7 +57,7 @@ class PlaceCityTile extends StatelessWidget {
                             child: Text('share'));
     var map = CupertinoActionSheetAction(
                             onPressed: () {
-                              launch(sprintf("https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",[place.lat,place.lon]));
+                              launch(place.googleMapURL);
                             },
                             child: Text('map'));
     actions.add(share);
