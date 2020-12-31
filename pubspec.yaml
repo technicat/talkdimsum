@@ -45,8 +45,8 @@ dependencies:
   cupertino_icons:
 
 dev_dependencies:
-  integration_test:
-    sdk: flutter
+#  integration_test:
+#  sdk: flutter
 
 flutter_icons:
   android: true 
