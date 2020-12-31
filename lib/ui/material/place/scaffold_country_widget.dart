@@ -7,8 +7,6 @@ import 'package:talkdimsum/core/country.dart';
 import 'region_list_widget.dart';
 
 class ScaffoldCountryWidget extends StatefulWidget {
-  
-  // Country country = Country.countries[0];
 
 @override
   ScaffoldCountryState createState() => ScaffoldCountryState();
