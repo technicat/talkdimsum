@@ -1,8 +1,8 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
-//import 'package:share/share.dart';
-//import 'package:sprintf/sprintf.dart';
+import 'package:share/share.dart';
+import 'package:sprintf/sprintf.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'package:talkdimsum/core/place.dart';
@@ -44,6 +44,25 @@ class PlaceCityTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    var actions = place.links
+                        .map((link) => CupertinoActionSheetAction(
+                            onPressed: () {
+                              launch(link.URL);
+                            },
+                            child: Text(link.name)))
+                        .toList();
+    var share = CupertinoActionSheetAction(
+                            onPressed: () {
+                Share.share("I had dim sum at ${place.name} in ${place.city} #dimsum #yumcha #talkdimsum talkdimsum.com", subject: "Talk Dim Sum");
+                            },
+                            child: Text('share'));
+    var map = CupertinoActionSheetAction(
+                            onPressed: () {
+                              launch(sprintf("https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",[place.lat,place.lon]));
+                            },
+                            child: Text('map'));
+    actions.add(share);
+    actions.add(map);
     return CupertinoButton(
         onPressed: () {
           showCupertinoModalPopup(
@@ -52,13 +71,7 @@ class PlaceCityTile extends StatelessWidget {
                 return CupertinoActionSheet(
                     title: Text(place.name),
                     message: Text(place.address),
-                    actions: place.links
-                        .map((link) => CupertinoActionSheetAction(
-                            onPressed: () {
-                              launch(link.URL);
-                            },
-                            child: Text(link.name)))
-                        .toList()
+                    actions: actions
                     /* cancelButton: CupertinoActionSheetAction(
                         onPressed: () {
                          // Navigator.pop(context);
