@@ -54,7 +54,7 @@ class PlaceTile extends StatelessWidget {
             child: Text('share'),
           ));
           menu.addAll(place.links.map((link) =>
-              PopupMenuItem<String>(value: link.URL, child: Text(link.name))));
+              PopupMenuItem<String>(value: link.url, child: Text(link.name))));
           return menu;
         },
         child: PlaceCityTile(place: place));
