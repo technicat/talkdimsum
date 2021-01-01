@@ -5,6 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'dishes/scaffold_dishes_widget.dart';
 import 'place/scaffold_country_widget.dart';
 import 'phrase/scaffold_phrases_widget.dart';
+import 'favorites/favorites_widget.dart';
 
 class NavigationBar extends StatelessWidget {
   @override
@@ -37,6 +38,10 @@ class NavigationBar extends StatelessWidget {
             case 0:
               return CupertinoTabView(builder: (BuildContext context) {
                 return ScaffoldDishesWidget();
+              });
+               case 2:
+              return CupertinoTabView(builder: (BuildContext context) {
+                return FavoritesWidget();
               });
             default:
               return Text('nothing to see here');

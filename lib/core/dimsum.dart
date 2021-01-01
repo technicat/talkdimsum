@@ -9,6 +9,8 @@ class DimSum {
 
   static List<Dish> dishes = [];
 
+  static List<Dish> favorites = [];
+
   static List<String> categories = [];
 
    static load() async {
