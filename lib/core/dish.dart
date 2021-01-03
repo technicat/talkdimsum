@@ -5,8 +5,7 @@ import 'photo.dart';
 import 'link.dart';
 
 class Dish {
-
-static HashMap<String, Dish> dishes = HashMap<String, Dish>();
+  static HashMap<String, Dish> dishes = HashMap<String, Dish>();
 
   static Dish add(Dish dish) {
     Dish.dishes[dish.word.id] = dish;
@@ -25,26 +24,20 @@ static HashMap<String, Dish> dishes = HashMap<String, Dish>();
 
   Dish(this.description, this.images, this.tags, this.words, this.resources);
 
-  Dish.fromJson(Map<String, dynamic> json) :
-        description = json['Description'],
-        tags = json['Tags'] == null
-            ? []
-            : List<String>.from(json['Tags']),
+  Dish.fromJson(Map<String, dynamic> json)
+      : description = json['Description'],
+        tags = json['Tags'] == null ? [] : List<String>.from(json['Tags']),
         words = json['words'] == null
             ? []
-            : List<Word>.from(
-            json['words'].map((json) => Word.fromJson(json))),
+            : List<Word>.from(json['words'].map((json) => Word.fromJson(json))),
         resources = json['Resources'] == null
             ? []
             : List<Link>.from(
-            json['Resources'].map((json) => Link.fromJson(json))),
+                json['Resources'].map((json) => Link.fromJson(json))),
         images = List<Photo>.from(
             json['images'].map((json) => Photo.fromJson(json)));
 
   bool hasTag(Word tag) {
     return tags.contains(tag.id);
-    }
-
-    
+  }
 }
-

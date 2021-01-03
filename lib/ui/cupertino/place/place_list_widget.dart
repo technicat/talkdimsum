@@ -42,14 +42,7 @@ class PlaceCityTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var actions = place.links
-        .map((link) => CupertinoActionSheetAction(
-            onPressed: () {
-              link.goto();
-            },
-            child: Text(link.name)))
-        .toList();
-    var share = CupertinoActionSheetAction(
+     var share = CupertinoActionSheetAction(
         onPressed: () {
           place.share();
         },
@@ -59,8 +52,14 @@ class PlaceCityTile extends StatelessWidget {
           place.showGoogleMap();
         },
         child: Text('map'));
-    actions.add(share);
-    actions.add(map);
+    var actions = [share,map];
+    actions.addAll(place.links
+        .map((link) => CupertinoActionSheetAction(
+            onPressed: () {
+              link.goto();
+            },
+            child: Text(link.name)))
+        .toList());
     return CupertinoButton(
         onPressed: () {
           showCupertinoModalPopup(

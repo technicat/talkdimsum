@@ -23,6 +23,7 @@ class DishSummaryWidget extends StatelessWidget {
                           DishWordWidget(word: dish.word),
                           Expanded(
                             child: DishDescriptionWidget(dish: dish)),
+                          RowTagsWidget(dish: dish),
                           GestureDetector(
                               onTap: () {
                               Flushbar(
@@ -33,7 +34,6 @@ class DishSummaryWidget extends StatelessWidget {
                               }, 
                               child: DishImageWidget(dish: dish)
                               ),
-                          RowTagsWidget(dish: dish),
                           ]);
     }
 }
