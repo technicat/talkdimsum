@@ -15,6 +15,14 @@ class DimSum with ChangeNotifier {
     return favorites.contains(dish);
   }
 
+  void addFavorite(Dish dish) {
+    favorites.add(dish);
+  }
+
+  void removeFavorite(Dish dish) {
+    favorites.remove(dish);
+  }
+
   static List<String> categories = [];
 
   static load() async {
