@@ -17,10 +17,12 @@ class DimSum with ChangeNotifier {
 
   void addFavorite(Dish dish) {
     favorites.add(dish);
+    notifyListeners();
   }
 
   void removeFavorite(Dish dish) {
     favorites.remove(dish);
+    notifyListeners();
   }
 
   static List<String> categories = [];

@@ -23,12 +23,12 @@ class DishWidget extends StatelessWidget {
           floatingActionButton: dimsum.isFavorite(dish)
               ? FloatingActionButton(
                   onPressed: () {
-                    // setState(() { Favorites.remove(widget.dish); });
+                    dimsum.removeFavorite(dish);
                   },
                   child: Icon(Icons.favorite))
               : FloatingActionButton(
                   onPressed: () {
-                    // setState(() { Favorites.add(widget.dish); });
+                    dimsum.addFavorite(dish);
                   },
                   child: Icon(Icons.favorite_border)),
           appBar: AppBar(
