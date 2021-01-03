@@ -3,7 +3,10 @@
 */
 import 'dart:io' show Platform;
 
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+import 'package:provider/provider.dart';
+
+import 'package:talkdimsum/core/dimsum.dart';
 
 import 'cupertino/mycupertinoapp.dart';
 import 'material/mymaterialapp.dart';
@@ -11,15 +14,20 @@ import 'material/mymaterialapp.dart';
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    Widget app;
     try {
       if (Platform.isIOS || Platform.isMacOS) {
-        return MyCupertinoApp();
+        app = MyCupertinoApp();
       } else {
-        return MyMaterialApp();
+        app = MyMaterialApp();
       }
     } catch (e) {
       // Platform breaks on the web
-      return MyMaterialApp();
+      app = MyMaterialApp();
     }
+    return ChangeNotifierProvider<DimSum>( //      <--- ChangeNotifierProvider
+      create: (context) => DimSum(),
+      child: app
+    );
   }
 }

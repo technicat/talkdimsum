@@ -1,11 +1,12 @@
 import 'dart:convert'; // json
 
+import 'package:flutter/foundation.dart' show ChangeNotifier;
 import 'package:flutter/services.dart' show rootBundle;
 
 import 'word.dart';
 import 'dish.dart';
 
-class DimSum {
+class DimSum with ChangeNotifier {
   static List<Dish> dishes = [];
 
   static List<Dish> favorites = [];
