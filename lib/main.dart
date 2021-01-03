@@ -8,7 +8,6 @@ import 'package:flutter/widgets.dart' show WidgetsFlutterBinding, runApp;
 import 'core/country.dart';
 import 'core/dimsum.dart';
 import 'core/tags.dart';
-import 'core/phrases.dart';
 
 import 'ui/myapp.dart';
 
@@ -18,6 +17,6 @@ void main() async {
   await Country.loadList();
   await DimSum.load();
   await Tags.load();
-  await Phrases.load();
+  await DimSum.loadPhrases();
   runApp(MyApp());
 }

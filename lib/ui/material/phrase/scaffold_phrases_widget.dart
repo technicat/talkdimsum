@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 
+import 'package:talkdimsum/core/dimsum.dart';
 import 'package:talkdimsum/core/phrases.dart';
 
 import 'phrases_list_widget.dart';
@@ -15,7 +16,7 @@ class ScaffoldPhrasesWidget extends StatefulWidget {
 
 class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
 
-  Phrases phrases = Phrases.phrases[0];
+  Phrases phrases = DimSum.phrases[0];
 
   @override
   Widget build(BuildContext context) {
@@ -31,7 +32,7 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
                       setState(() { phrases = value; });
                     },
                     itemBuilder: (BuildContext context) => 
-                       Phrases.phrases.map((phrases) => PopupMenuItem<Phrases>(value: phrases, child: Text(phrases.name))).toList(),
+                       DimSum.phrases.map((phrases) => PopupMenuItem<Phrases>(value: phrases, child: Text(phrases.name))).toList(),
 
                 ),
           ]

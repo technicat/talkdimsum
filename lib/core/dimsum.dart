@@ -5,6 +5,7 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import 'word.dart';
 import 'dish.dart';
+import 'phrases.dart';
 
 class DimSum with ChangeNotifier {
   static List<Dish> dishes = [];
@@ -23,6 +24,19 @@ class DimSum with ChangeNotifier {
   void removeFavorite(Dish dish) {
     favorites.remove(dish);
     notifyListeners();
+  }
+
+  static List<Phrases> phrases = [];
+
+  static loadPhrases() async {
+    var categories = await rootBundle
+        .loadString("assets/json/phrases/phrases.json")
+        .then((str) => List<String>.from(jsonDecode(str)));
+    var dishlists = categories.map((json) => Phrases.loadPhraseList(json));
+    for (var list in dishlists) {
+      phrases.add(await list);
+    }
+    // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
   }
 
   static List<String> categories = [];
