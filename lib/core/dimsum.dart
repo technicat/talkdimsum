@@ -9,9 +9,9 @@ import 'dish.dart';
 class DimSum with ChangeNotifier {
   static List<Dish> dishes = [];
 
-  static List<Dish> favorites = [];
+  List<Dish> favorites = [];
 
-  static bool isFavorite(Dish dish) {
+  bool isFavorite(Dish dish) {
     return favorites.contains(dish);
   }
 
