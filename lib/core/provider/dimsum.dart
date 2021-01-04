@@ -4,7 +4,6 @@ import 'package:flutter/foundation.dart' show ChangeNotifier;
 import 'package:flutter/services.dart' show rootBundle;
 
 import 'package:talkdimsum/core/model/dish.dart';
-//import 'package:talkdimsum/core/model/phrases.dart';
 import 'package:talkdimsum/core/model/tags.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
