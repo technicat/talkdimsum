@@ -4,11 +4,11 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'word.dart';
 
 // rename this?
-class Tags {
+/* class Tags {
 
   static const Path = 'assets/json/words/';
 
-/*  static List<Word> words = [];
+  static List<Word> words = [];
 
 
   static load() async {
@@ -19,7 +19,7 @@ class Tags {
         words.addAll(await list);
       }
       words.forEach((word) => Word.add(word));
-  } */
+  }
 
   static Future<List<Word>> loadWords(String path) async {
     var words = await rootBundle.loadString(Path+path+'.json').then((str) =>
@@ -29,3 +29,4 @@ class Tags {
   }
 }
 
+*/

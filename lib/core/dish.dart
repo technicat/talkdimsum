@@ -40,4 +40,5 @@ class Dish {
   bool hasTag(Word tag) {
     return tags.contains(tag.id);
   }
+
 }
