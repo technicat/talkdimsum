@@ -52,7 +52,7 @@ class DishWidget extends StatelessWidget {
                     }
                   },
                   itemBuilder: (BuildContext context) {
-                    List<PopupMenuEntry<String>> menu = List();
+                    List<PopupMenuEntry<String>> menu = [];
                     menu.addAll(dish.word.resources.map((link) =>
                         PopupMenuItem<String>(
                             value: link.url, child: Text(link.name))));

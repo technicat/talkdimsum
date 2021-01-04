@@ -28,11 +28,6 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  //List<Phrases> phrases = [];
-
- 
-  
-
   List<String> _categories = [];
 
   _loadDishes() async {
@@ -74,7 +69,6 @@ class DimSum with ChangeNotifier {
   DimSum() {
     _loadDishes();
     _loadCategories();
-   // _loadPhrases();
     Tags.load();
   }
 }
