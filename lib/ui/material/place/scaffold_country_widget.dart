@@ -20,7 +20,7 @@ class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
   Widget build(BuildContext context) {
     return Consumer<Countries>(builder: (context, countries, child) {
       if (countries.countries.isEmpty) {
-        return Text('Loading countries..');
+        return CircularProgressIndicator();
       } else {
         if (country == null) {
           country = countries.countries[0];

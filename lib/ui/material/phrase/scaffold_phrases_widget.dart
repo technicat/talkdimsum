@@ -41,7 +41,7 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
                 ),
               ]),
           body: phrases == null
-              ? Text('Loading phrases...')
+              ? CircularProgressIndicator()
               : PhrasesListWidget(phrases: phrases));
     });
   }
