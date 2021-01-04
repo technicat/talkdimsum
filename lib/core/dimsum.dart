@@ -8,6 +8,7 @@ import 'dish.dart';
 import 'phrases.dart';
 import 'word.dart';
 
+// split into multiple providers?
 class DimSum with ChangeNotifier {
   static List<Dish> dishes = [];
 
@@ -38,30 +39,25 @@ class DimSum with ChangeNotifier {
         .then((str) => List<String>.from(jsonDecode(str)));
     var dishlists = categories.map((json) => Phrases.loadPhraseList(json));
     for (var list in dishlists) {
-      print("adding phrases");
       phrases.add(await list);
     }
     notifyListeners();
     // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
   }
 
-   List<Country> countries = [];
+  List<Country> countries = [];
 
-   loadCountries() async {
-      var names = await rootBundle.loadString("assets/json/place/countries.json").then((str) =>
-        List<String>.from(jsonDecode(str)));
-      for (var name in names) {
-        countries.add(await Country.load(name));
-      }
-       notifyListeners();
+  loadCountries() async {
+    var names = await rootBundle
+        .loadString("assets/json/place/countries.json")
+        .then((str) => List<String>.from(jsonDecode(str)));
+    for (var name in names) {
+      countries.add(await Country.load(name));
+    }
+    notifyListeners();
   }
 
-  static List<String> categories = [];
-
-  static load() async {
-    await loadDishes();
-    await loadCategories();
-  }
+  List<String> categories = [];
 
   static loadDishes() async {
     var dishfiles = await rootBundle
@@ -85,9 +81,10 @@ class DimSum with ChangeNotifier {
     return dishes;
   }
 
-  static loadCategories() async {
+  loadCategories() async {
     categories = await rootBundle
         .loadString("assets/json/dish/categories.json")
         .then((str) => List<String>.from(jsonDecode(str)));
+    notifyListeners();
   }
 }

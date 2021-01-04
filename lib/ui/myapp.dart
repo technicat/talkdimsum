@@ -29,6 +29,7 @@ class MyApp extends StatelessWidget {
       create: (context) => DimSum(),
       child: 
       Consumer<DimSum>(builder: (context, dimsum, child) {
+        dimsum.loadCategories();
         dimsum.loadPhrases();
         dimsum.loadCountries();
         return app;

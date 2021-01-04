@@ -14,8 +14,8 @@ import 'ui/myapp.dart';
 void main() async {
   // needed for accessing rootBundle for JSON
   WidgetsFlutterBinding.ensureInitialized();
- // await Country.loadList();
-  await DimSum.load();
-  await Tags.load();
+  await DimSum.loadDishes();
+ // await DimSum.loadCategories();
+ // await Tags.load();
   runApp(MyApp());
 }
