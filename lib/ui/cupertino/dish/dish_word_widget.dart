@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 
-import 'package:talkdimsum/core/word.dart';
-import 'package:talkdimsum/core/speech.dart';
-import 'package:talkdimsum/core/settings.dart';
+import 'package:talkdimsum/core/model/word.dart';
+import 'package:talkdimsum/core/util/speech.dart';
+import 'package:talkdimsum/core/util/settings.dart';
 
 import 'practice_widget.dart';
 

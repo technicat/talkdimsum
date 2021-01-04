@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/dimsum.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
 
 import '../dishes/dishes_widget.dart';
 

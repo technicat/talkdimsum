@@ -3,7 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/country.dart';
+import 'package:talkdimsum/core/model/country.dart';
+import 'package:talkdimsum/core/provider/countries.dart';
 
 import 'region_list_widget.dart';
 

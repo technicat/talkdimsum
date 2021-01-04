@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/dimsum.dart';
-import 'package:talkdimsum/core/dish.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/model/dish.dart';
 
 import 'package:talkdimsum/ui/material/dish/dish_image_text_widget.dart';
 

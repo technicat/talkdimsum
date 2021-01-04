@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import 'package:talkdimsum/core/place.dart';
-import 'package:talkdimsum/core/region.dart';
+import 'package:talkdimsum/core/model/place.dart';
+import 'package:talkdimsum/core/model/region.dart';
 
 class PlaceListWidget extends StatelessWidget {
   final Region region;

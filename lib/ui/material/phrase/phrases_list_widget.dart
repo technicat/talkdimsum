@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:bubble/bubble.dart';
 
-import 'package:talkdimsum/core/phrases.dart';
+import 'package:talkdimsum/core/model/phrases.dart';
 
 import 'bubbles.dart';
 

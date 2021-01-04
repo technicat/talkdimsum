@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:talkdimsum/core/word.dart';
+import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/material/dishes/word_dishes_widget.dart';
 
 class TagWidget extends StatelessWidget {

@@ -5,7 +5,7 @@ import 'dart:io' show Platform;
 import 'package:flutter_tts/flutter_tts.dart';
 
 import 'settings.dart';
-import 'word.dart';
+import '../model/word.dart';
 
 class Speech {
   static FlutterTts flutterTts = FlutterTts();

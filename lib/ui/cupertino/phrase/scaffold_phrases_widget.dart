@@ -3,7 +3,7 @@
 import 'package:provider/provider.dart';
 import 'package:flutter/cupertino.dart';
 
-import 'package:talkdimsum/core/dimsum.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
 
 import 'phrases_list_widget.dart';
 

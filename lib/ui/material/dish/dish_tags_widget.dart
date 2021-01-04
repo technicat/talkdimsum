@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:talkdimsum/core/dish.dart';
-import 'package:talkdimsum/core/word.dart';
+import 'package:talkdimsum/core/model/dish.dart';
+import 'package:talkdimsum/core/model/word.dart';
 
 import '../tag/tag_widget.dart';
 

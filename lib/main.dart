@@ -3,6 +3,9 @@
  Entry point for Talk Dim Sum
 */
 
+// directory structure is similar to
+// https://github.com/jgrandchavin/flutter_provider_architecture_starter
+
 import 'package:flutter/widgets.dart' show WidgetsFlutterBinding, runApp;
 
 import 'ui/myapp.dart';

@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/dimsum.dart';
-import 'package:talkdimsum/core/dish.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/model/dish.dart';
 
 import 'package:talkdimsum/ui/cupertino/dish/dish_image_text_widget.dart';
 

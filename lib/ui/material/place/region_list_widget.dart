@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:talkdimsum/core/region.dart';
-import 'package:talkdimsum/core/country.dart';
+import 'package:talkdimsum/core/model/region.dart';
+import 'package:talkdimsum/core/model/country.dart';
 
 import 'place_list_widget.dart';
 

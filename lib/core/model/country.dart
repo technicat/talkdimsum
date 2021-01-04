@@ -3,8 +3,6 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import 'region.dart';
 
-import 'package:flutter/foundation.dart' show ChangeNotifier;
-
 class Country {
   final String name;
 
@@ -23,20 +21,3 @@ class Country {
   }
 }
 
-class Countries with ChangeNotifier {
-List<Country> countries = [];
-
-Countries() {
-  _load();
-}
-
-  _load() async {
-    var names = await rootBundle
-        .loadString("assets/json/place/countries.json")
-        .then((str) => List<String>.from(jsonDecode(str)));
-    for (var name in names) {
-      countries.add(await Country.load(name));
-    }
-    notifyListeners();
-  }
-}

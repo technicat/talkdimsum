@@ -1,18 +1,19 @@
 /*
  Technicat LLC 
 */
+
+// https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
+
 import 'dart:io' show Platform;
 
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/dimsum.dart';
-import 'package:talkdimsum/core/country.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/provider/countries.dart';
 
 import 'cupertino/mycupertinoapp.dart';
 import 'material/mymaterialapp.dart';
-
-// https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
 
 class MyApp extends StatelessWidget {
   @override
@@ -28,7 +29,6 @@ class MyApp extends StatelessWidget {
       // Platform breaks on the web
       app = MyMaterialApp();
     }
-    // should use multiprovider
     return MultiProvider(providers: [
       ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
       ChangeNotifierProvider<Countries>(create: (context) => Countries())

@@ -1,6 +1,7 @@
 import 'dart:collection';
 
-import 'settings.dart';
+import 'package:talkdimsum/core/util/settings.dart';
+
 import 'link.dart';
 
 class Word {

@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/dimsum.dart';
-import 'package:talkdimsum/core/phrases.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/model/phrases.dart';
 
 import 'phrases_list_widget.dart';
 

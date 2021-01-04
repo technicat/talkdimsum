@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:talkdimsum/core/dish.dart';
+import 'package:talkdimsum/core/model/dish.dart';
 
 
 class DishDescriptionWidget extends StatelessWidget {

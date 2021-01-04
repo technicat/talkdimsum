@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 //import 'package:share/share.dart';
 //import 'package:url_launcher/url_launcher.dart';
 
-import 'package:talkdimsum/core/dish.dart';
+import 'package:talkdimsum/core/model/dish.dart';
 
 import 'dish_summary_widget.dart';
 

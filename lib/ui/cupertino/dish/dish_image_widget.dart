@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-import 'package:talkdimsum/core/dish.dart';
+import 'package:talkdimsum/core/model/dish.dart';
 
 class DishImageWidget extends StatelessWidget {
 

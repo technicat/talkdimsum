@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:material_search/material_search.dart';
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/dimsum.dart';
-import 'package:talkdimsum/core/word.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/material/dishes/word_dishes_widget.dart';
 
 class SearchWordWidget extends StatelessWidget {

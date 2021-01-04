@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:flushbar/flushbar.dart';
 
-import 'package:talkdimsum/core/dish.dart';
+import 'package:talkdimsum/core/model/dish.dart';
 
 import 'dish_word_widget.dart';
 import 'dish_image_widget.dart';

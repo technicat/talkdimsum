@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:bubble/bubble.dart';
 
-import 'package:talkdimsum/core/word.dart';
+import 'package:talkdimsum/core/model/word.dart';
 
 import 'package:talkdimsum/ui/cupertino/dish/dish_word_widget.dart';
 

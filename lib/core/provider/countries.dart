@@ -1,0 +1,24 @@
+import 'dart:convert';
+import 'package:flutter/services.dart' show rootBundle;
+
+import 'package:flutter/foundation.dart' show ChangeNotifier;
+
+import 'package:talkdimsum/core/model/country.dart';
+
+class Countries with ChangeNotifier {
+  List<Country> countries = [];
+
+  Countries() {
+    _load();
+  }
+
+  _load() async {
+    var names = await rootBundle
+        .loadString("assets/json/place/countries.json")
+        .then((str) => List<String>.from(jsonDecode(str)));
+    for (var name in names) {
+      countries.add(await Country.load(name));
+    }
+    notifyListeners();
+  }
+}
