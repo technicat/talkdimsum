@@ -41,7 +41,7 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
                 ),
               ]),
           body: phrases == null
-              ? CircularProgressIndicator()
+              ? Center(child: CircularProgressIndicator())
               : PhrasesListWidget(phrases: phrases));
     });
   }
