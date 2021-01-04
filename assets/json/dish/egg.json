@@ -1,155 +1,193 @@
-
 [
-    
   {
-    "words":
-    [
+    "words": [
       {
         "Chinese": "鹹鴨蛋",
         "Simplified": "咸鸭蛋",
-        "English":"salted duck egg",
+        "English": "salted duck egg",
         "Yale": "hàahm aap dáan",
-        "Pinyin":"xián yā dàn",
-        "Resources":
-        [
-        {"name":"鹹鴨蛋","URL":"https://en.wiktionary.org/wiki/鹹鴨蛋"},
-        {"name":"鹹","URL":"https://en.wiktionary.org/wiki/鹹"},
-        {"name":"鴨蛋","URL":"https://en.wiktionary.org/wiki/鴨蛋"},
-        {"name":"鴨","URL":"https://en.wiktionary.org/wiki/鴨"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"}
+        "Pinyin": "xián yā dàn",
+        "Resources": [
+          {
+            "name": "鹹鴨蛋",
+            "URL": "https://en.wiktionary.org/wiki/鹹鴨蛋"
+          },
+          {
+            "name": "鹹",
+            "URL": "https://en.wiktionary.org/wiki/鹹"
+          },
+          {
+            "name": "鴨蛋",
+            "URL": "https://en.wiktionary.org/wiki/鴨蛋"
+          },
+          {
+            "name": "鴨",
+            "URL": "https://en.wiktionary.org/wiki/鴨"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          }
         ]
       },
       {
         "Chinese": "鹹蛋",
         "Simplified": "咸蛋",
-        "English":"salted egg",
+        "English": "salted egg",
         "Yale": "hàahm dáan",
-          "Pinyin":"xián dàn"
+        "Pinyin": "xián dàn"
       }
-      ],
-    "images":
-    [
-        {
-            "image":"salty_egg_wikipedia",
-            "place":"Wikipedia"
-        },
-
-        {
-            "image":"saltedduckegg99ranch",
-            "place":"99 Ranch Market, Las Vegas, Nevada"
-        }
     ],
-    "Description": 
-      "Duck eggs preserved by soaking in brine and then packing in charcoal, often eaten with congee.\n\n鹹 is “salty,” 鴨 is “duck,” and 蛋 is “egg.”\n\nThe yolk is used as the molten custard in “lava” (流沙) buns.",
-    "Tags":
-    [
-        "流沙",
-        "鹹鴨蛋",
-        "鴨",
-        "蛋"
-    ],
-    "Resources":
-    [
-      {"name" :"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/salted-duck-egg/"},
-      {"name" :"Wikipedia", 
-        "URL":"https://en.wikipedia.org/wiki/Salted_duck_egg"},
-      {"name" :"China Sichuan Food", 
-        "URL":"https://www.chinasichuanfood.com/salted-duck-egg/"},
-      {"name" :"The Woks of Life", 
-        "URL":"https://thewoksoflife.com/salted-duck-eggs/"}
-    ]
-    },
-
-  {
-     "words":
-    [
+    "images": [
       {
-      "Chinese": "滷蛋",
-      "Simplified": "卤蛋",
-      "English":"soy egg",
-      "Yale": "lóuh dáan",
-      "Pinyin":"lǔ dàn",
-      "Resources":
-        [
-        {"name":"滷蛋","URL":"https://en.wiktionary.org/wiki/滷蛋"},
-        {"name":"滷","URL":"https://en.wiktionary.org/wiki/滷"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"}
+        "image": "salty_egg_wikipedia",
+        "place": "Wikipedia"
+      },
+      {
+        "image": "saltedduckegg99ranch",
+        "place": "99 Ranch Market, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Duck eggs preserved by soaking in brine and then packing in charcoal, often eaten with congee.\n\n鹹 is “salty,” 鴨 is “duck,” and 蛋 is “egg.”\n\nThe yolk is used as the molten custard in “lava” (流沙) buns.",
+    "Tags": [
+      "流沙",
+      "鹹鴨蛋",
+      "鴨",
+      "蛋"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/salted-duck-egg/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Salted_duck_egg"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/salted-duck-egg/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/salted-duck-eggs/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "滷蛋",
+        "Simplified": "卤蛋",
+        "English": "soy egg",
+        "Yale": "lóuh dáan",
+        "Pinyin": "lǔ dàn",
+        "Resources": [
+          {
+            "name": "滷蛋",
+            "URL": "https://en.wiktionary.org/wiki/滷蛋"
+          },
+          {
+            "name": "滷",
+            "URL": "https://en.wiktionary.org/wiki/滷"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          }
         ]
-    }
+      }
     ],
-    "images":
-    [
-        {
-            "image":"soyegg",
-            "place":"Technicat, Las Vegas, Nevada"
-        }
+    "images": [
+      {
+        "image": "soyegg",
+        "place": "Technicat, Las Vegas, Nevada"
+      }
     ],
-    "Description": 
-      "Boiled eggs soaked in a soy sauce mixture, sometimes served with congee.\n\n",
-    "Tags":
-    [
+    "Description": "Boiled eggs soaked in a soy sauce mixture, sometimes served with congee.\n\n滷 refers to stewing in a mixture of soy sauce and spices and 蛋 is “egg.”",
+    "Tags": [
       "滷",
       "蛋"
     ],
-    "Resources":
-    [
-      {"name":"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/soy-egg/"},
-      {"name":"Wikipedia", 
-        "URL":"https://en.wikipedia.org/wiki/Soy_egg"}
-    ]
-    },
-
-    {
-     "words":
-    [
+    "Resources": [
       {
-      "Chinese": "茶葉蛋",
-      "Simplified": "茶叶蛋",
-      "English":"tea egg",
-      "Yale": "chàh yihp dáan",
-      "Pinyin":"chá yè dàn",
-      "Resources":
-        [
-        {"name":"茶葉蛋","URL":"https://en.wiktionary.org/wiki/茶葉蛋"},
-        {"name":"茶葉","URL":"https://en.wiktionary.org/wiki/茶葉"},
-        {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"},
-        {"name":"葉","URL":"https://en.wiktionary.org/wiki/葉"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"}
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/soy-egg/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Soy_egg"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/soy-sauce-eggs/"
+      },
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "茶葉蛋",
+        "Simplified": "茶叶蛋",
+        "English": "tea egg",
+        "Yale": "chàh yihp dáan",
+        "Pinyin": "chá yè dàn",
+        "Resources": [
+          {
+            "name": "茶葉蛋",
+            "URL": "https://en.wiktionary.org/wiki/茶葉蛋"
+          },
+          {
+            "name": "茶葉",
+            "URL": "https://en.wiktionary.org/wiki/茶葉"
+          },
+          {
+            "name": "茶",
+            "URL": "https://en.wiktionary.org/wiki/茶"
+          },
+          {
+            "name": "葉",
+            "URL": "https://en.wiktionary.org/wiki/葉"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          }
         ]
-    }
+      }
     ],
-    "images":
-    [
-        {
-            "image":"teaegg99ranch",
-            "place":"99 Ranch Market, Las Vegas"
-        }
+    "images": [
+      {
+        "image": "teaegg99ranch",
+        "place": "99 Ranch Market, Las Vegas"
+      }
     ],
-    "Description": 
-      "Boiled eggs cracked then boiled again or soaked in a mixture of soy sauce and spices.\n\n茶 means “tea,” 葉 is “leaf,” and 蛋 is “egg,” so it's tea leaf egg.\n\nAlso known as “marble egg” as the cracked shells create a marbled appearance.",
-    "Tags":
-    [
+    "Description": "Boiled eggs cracked then boiled again or soaked in a mixture of soy sauce and spices.\n\n茶 means “tea,” 葉 is “leaf,” and 蛋 is “egg,” so it's tea leaf egg.\n\nAlso known as “marble egg” as the cracked shells create a marbled appearance.",
+    "Tags": [
       "茶葉",
       "蛋"
     ],
-    "Resources":
-    [
-      {"name" :"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/tea-egg/"},
-      {"name" :"Wikipedia", 
-        "URL":"https://en.wikipedia.org/wiki/Tea_egg"},
-      {"name" :"The Woks of Life", 
-        "URL":"https://thewoksoflife.com/chinese-tea-eggs/"},
-      {"name" :"China Sichuan Food", 
-        "URL":"https://www.chinasichuanfood.com/chinese-tea-eggs-marbled-eggs/"},
-      {"name" :"Chinese Grandma", 
-        "URL":"https://chinesegrandma.com/recipes/tea-eggs/"}
-
-       ]
-    }
-
-    
-
- ]
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/tea-egg/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tea_egg"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-tea-eggs/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-tea-eggs-marbled-eggs/"
+      },
+      {
+        "name": "Chinese Grandma",
+        "URL": "https://chinesegrandma.com/recipes/tea-eggs/"
+      }
+    ]
+  }
+]
