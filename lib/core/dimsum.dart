@@ -26,9 +26,12 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  static List<Phrases> phrases = [];
+  List<Phrases> phrases = [];
 
-  static loadPhrases() async {
+  void loadPhrases() async {
+    if (phrases.isNotEmpty) {
+      return;
+    }
     var categories = await rootBundle
         .loadString("assets/json/phrases/phrases.json")
         .then((str) => List<String>.from(jsonDecode(str)));
@@ -36,6 +39,7 @@ class DimSum with ChangeNotifier {
     for (var list in dishlists) {
       phrases.add(await list);
     }
+    notifyListeners();
     // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
   }
 

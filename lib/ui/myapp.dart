@@ -27,7 +27,11 @@ class MyApp extends StatelessWidget {
     }
     return ChangeNotifierProvider<DimSum>( //      <--- ChangeNotifierProvider
       create: (context) => DimSum(),
-      child: app
+      child: 
+      Consumer<DimSum>(builder: (context, dimsum, child) {
+        dimsum.loadPhrases();
+        return app;
+      })
     );
   }
 }

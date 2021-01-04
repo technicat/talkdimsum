@@ -17,6 +17,6 @@ void main() async {
   await Country.loadList();
   await DimSum.load();
   await Tags.load();
-  await DimSum.loadPhrases();
+ // await DimSum.loadPhrases();
   runApp(MyApp());
 }
