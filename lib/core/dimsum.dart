@@ -10,7 +10,7 @@ import 'word.dart';
 
 // split into multiple providers?
 class DimSum with ChangeNotifier {
-  static List<Dish> dishes = [];
+  List<Dish> dishes = [];
 
   List<Dish> favorites = [];
 
@@ -59,7 +59,7 @@ class DimSum with ChangeNotifier {
 
   List<String> categories = [];
 
-  static loadDishes() async {
+  loadDishes() async {
     var dishfiles = await rootBundle
         .loadString("assets/json/dish/dishes.json")
         .then((str) => List<String>.from(jsonDecode(str)));
@@ -70,7 +70,7 @@ class DimSum with ChangeNotifier {
     dishes.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
   }
 
-  static Future<List<Dish>> loadDishList(String path) async {
+  Future<List<Dish>> loadDishList(String path) async {
     var dishes = await rootBundle
         .loadString('assets/json/dish/' + path + '.json')
         .then((str) => List<Dish>.from(
