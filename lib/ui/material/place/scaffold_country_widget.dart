@@ -1,8 +1,10 @@
 /* Technicat LLC */
 
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/country.dart';
+import 'package:talkdimsum/core/dimsum.dart';
 
 import 'region_list_widget.dart';
 
@@ -12,26 +14,34 @@ class ScaffoldCountryWidget extends StatefulWidget {
 }
 
 class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
-  Country country = Country.countries[0];
+  Country country;
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text(country.name), actions: <Widget>[
-        PopupMenuButton<Country>(
-          icon: Icon(Icons.public),
-          onSelected: (value) {
-            setState(() {
-              country = value;
-            });
-          },
-          itemBuilder: (BuildContext context) => Country.countries
-              .map((country) => PopupMenuItem<Country>(
-                  value: country, child: Text(country.name)))
-              .toList(),
-        ),
-      ]),
-      body: RegionListWidget(country: country),
-    );
+    return Consumer<DimSum>(builder: (context, dimsum, child) {
+      if (dimsum.countries.isEmpty) {
+        return Text('Loading countries..');
+      } else {
+        if (country == null) {
+          country = dimsum.countries[0];
+        }
+        return Scaffold(
+            appBar: AppBar(title: Text(country.name), actions: <Widget>[
+              PopupMenuButton<Country>(
+                icon: Icon(Icons.public),
+                onSelected: (value) {
+                  setState(() {
+                    country = value;
+                  });
+                },
+                itemBuilder: (BuildContext context) => dimsum.countries
+                    .map((country) => PopupMenuItem<Country>(
+                        value: country, child: Text(country.name)))
+                    .toList(),
+              )
+            ]),
+            body: RegionListWidget(country: country));
+      }
+    });
   }
 }

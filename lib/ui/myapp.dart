@@ -30,6 +30,7 @@ class MyApp extends StatelessWidget {
       child: 
       Consumer<DimSum>(builder: (context, dimsum, child) {
         dimsum.loadPhrases();
+        dimsum.loadCountries();
         return app;
       })
     );

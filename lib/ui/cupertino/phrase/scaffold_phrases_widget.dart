@@ -10,14 +10,14 @@ import 'phrases_list_widget.dart';
 class ScaffoldPhrasesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer<DimSum>(builder: (context, dimsum, child) {
-      return CupertinoPageScaffold(
-          navigationBar: CupertinoNavigationBar(
-            middle: Text('Phrases'),
-          ),
-          child: dimsum.phrases.isEmpty
+    return CupertinoPageScaffold(
+        navigationBar: CupertinoNavigationBar(
+          middle: Text('Phrases'),
+        ),
+        child: Consumer<DimSum>(builder: (context, dimsum, child) {
+          return dimsum.phrases.isEmpty
               ? Text('Loading phrases...')
-              : PhrasesListWidget(phrases: dimsum.phrases[0]));
-    });
+              : PhrasesListWidget(phrases: dimsum.phrases[0]);
+        }));
   }
 }

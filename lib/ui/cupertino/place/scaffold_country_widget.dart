@@ -1,8 +1,9 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
+import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/country.dart';
+import 'package:talkdimsum/core/dimsum.dart';
 
 import 'region_list_widget.dart';
 
@@ -13,6 +14,10 @@ class ScaffoldCountryWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
           middle: Text('Places'),
         ),
-        child: RegionListWidget(country: Country.countries[0]));
+        child: Consumer<DimSum>(builder: (context, dimsum, child) {
+          return dimsum.countries.isEmpty
+              ? Text('Loading countries...')
+              : RegionListWidget(country: dimsum.countries[0]);
+        }));
   }
 }
