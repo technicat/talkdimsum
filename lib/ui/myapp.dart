@@ -11,6 +11,8 @@ import 'package:talkdimsum/core/dimsum.dart';
 import 'cupertino/mycupertinoapp.dart';
 import 'material/mymaterialapp.dart';
 
+// https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -26,15 +28,8 @@ class MyApp extends StatelessWidget {
       app = MyMaterialApp();
     }
     // should use multiprovider
-    return ChangeNotifierProvider<DimSum>( //      <--- ChangeNotifierProvider
-      create: (context) => DimSum(),
-      child: 
-     /* Consumer<DimSum>(builder: (context, dimsum, child) {
-        dimsum.loadDimSum();
-        dimsum.loadPhrases();
-        dimsum.loadCountries(); */
-        app
-     // })
-    );
+    return MultiProvider(providers: [
+      ChangeNotifierProvider<DimSum>(create: (context) => DimSum())
+    ], child: app);
   }
 }
