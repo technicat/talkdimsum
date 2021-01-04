@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/provider/conversation.dart';
 import 'package:talkdimsum/core/model/phrases.dart';
 
 import 'phrases_list_widget.dart';
@@ -19,9 +19,9 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<DimSum>(builder: (context, dimsum, child) {
-      if (dimsum.phrases.isNotEmpty && phrases == null) {
-        phrases = dimsum.phrases[0];
+    return Consumer<Conversation>(builder: (context, conversation, child) {
+      if (conversation.phrases.isNotEmpty && phrases == null) {
+        phrases = conversation.phrases[0];
       }
       return Scaffold(
           appBar: AppBar(
@@ -34,7 +34,7 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
                       phrases = value;
                     });
                   },
-                  itemBuilder: (BuildContext context) => dimsum.phrases
+                  itemBuilder: (BuildContext context) => conversation.phrases
                       .map((phrases) => PopupMenuItem<Phrases>(
                           value: phrases, child: Text(phrases.name)))
                       .toList(),

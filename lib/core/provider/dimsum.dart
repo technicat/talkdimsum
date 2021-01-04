@@ -4,7 +4,7 @@ import 'package:flutter/foundation.dart' show ChangeNotifier;
 import 'package:flutter/services.dart' show rootBundle;
 
 import 'package:talkdimsum/core/model/dish.dart';
-import 'package:talkdimsum/core/model/phrases.dart';
+//import 'package:talkdimsum/core/model/phrases.dart';
 import 'package:talkdimsum/core/model/tags.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
@@ -28,23 +28,9 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  List<Phrases> phrases = [];
+  //List<Phrases> phrases = [];
 
-  _loadPhrases() async {
-    if (phrases.isNotEmpty) {
-      return;
-    }
-    var categories = await rootBundle
-        .loadString("assets/json/phrases/phrases.json")
-        .then((str) => List<String>.from(jsonDecode(str)));
-    var dishlists = categories.map((json) => Phrases.loadPhraseList(json));
-    for (var list in dishlists) {
-      phrases.add(await list);
-    }
-    notifyListeners();
-    // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
-  }
-
+ 
   
 
   List<String> _categories = [];
@@ -88,7 +74,7 @@ class DimSum with ChangeNotifier {
   DimSum() {
     _loadDishes();
     _loadCategories();
-    _loadPhrases();
+   // _loadPhrases();
     Tags.load();
   }
 }

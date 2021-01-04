@@ -3,7 +3,7 @@
 import 'package:provider/provider.dart';
 import 'package:flutter/cupertino.dart';
 
-import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/provider/conversation.dart';
 
 import 'phrases_list_widget.dart';
 
@@ -14,10 +14,10 @@ class ScaffoldPhrasesWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
           middle: Text('Phrases'),
         ),
-        child: Consumer<DimSum>(builder: (context, dimsum, child) {
-          return dimsum.phrases.isEmpty
+        child: Consumer<Conversation>(builder: (context, conversation, child) {
+          return conversation.phrases.isEmpty
               ? Text('Loading phrases...')
-              : PhrasesListWidget(phrases: dimsum.phrases[0]);
+              : PhrasesListWidget(phrases: conversation.phrases[0]);
         }));
   }
 }

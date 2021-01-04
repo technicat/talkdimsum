@@ -10,6 +10,7 @@ import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/core/provider/conversation.dart';
 import 'package:talkdimsum/core/provider/countries.dart';
 
 import 'cupertino/mycupertinoapp.dart';
@@ -31,7 +32,8 @@ class MyApp extends StatelessWidget {
     }
     return MultiProvider(providers: [
       ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
-      ChangeNotifierProvider<Countries>(create: (context) => Countries())
+      ChangeNotifierProvider<Countries>(create: (context) => Countries()),
+      ChangeNotifierProvider<Conversation>(create: (context) => Conversation())
     ], child: app);
   }
 }
