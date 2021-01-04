@@ -19,19 +19,19 @@ class DimSum with ChangeNotifier {
     return favorites.contains(dish);
   }
 
-  void addFavorite(Dish dish) {
+  addFavorite(Dish dish) {
     favorites.add(dish);
     notifyListeners();
   }
 
-  void removeFavorite(Dish dish) {
+  removeFavorite(Dish dish) {
     favorites.remove(dish);
     notifyListeners();
   }
 
   List<Phrases> phrases = [];
 
-  void loadPhrases() async {
+  _loadPhrases() async {
     if (phrases.isNotEmpty) {
       return;
     }
@@ -48,7 +48,7 @@ class DimSum with ChangeNotifier {
 
   List<Country> countries = [];
 
-  loadCountries() async {
+  _loadCountries() async {
     var names = await rootBundle
         .loadString("assets/json/place/countries.json")
         .then((str) => List<String>.from(jsonDecode(str)));
@@ -58,13 +58,13 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  List<String> categories = [];
+  List<String> _categories = [];
 
   _loadDishes() async {
     var dishfiles = await rootBundle
         .loadString("assets/json/dish/dishes.json")
         .then((str) => List<String>.from(jsonDecode(str)));
-    var dishlists = dishfiles.map((json) => loadDishList(json));
+    var dishlists = dishfiles.map((json) => _loadDishList(json));
     for (var list in dishlists) {
       dishes.addAll(await list);
     }
@@ -72,7 +72,7 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  Future<List<Dish>> loadDishList(String path) async {
+  Future<List<Dish>> _loadDishList(String path) async {
     var dishes = await rootBundle
         .loadString('assets/json/dish/' + path + '.json')
         .then((str) => List<Dish>.from(
@@ -84,22 +84,23 @@ class DimSum with ChangeNotifier {
   }
 
   _loadCategories() async {
-    categories = await rootBundle
+    _categories = await rootBundle
         .loadString("assets/json/dish/categories.json")
         .then((str) => List<String>.from(jsonDecode(str)));
    notifyListeners();
   }
 
-  loadDimSum() async {
-    _loadDishes();
-    _loadCategories();
+  List<Dish> get categories {
+    var tags = _categories.map((tag) => Dish.dishes[tag]).toList();
+    tags.removeWhere((item) => item ==null);
+    return tags;
   }
 
   DimSum() {
     _loadDishes();
     _loadCategories();
-    loadCountries();
-    loadPhrases();
+    _loadCountries();
+    _loadPhrases();
     Tags.load();
   }
 }
