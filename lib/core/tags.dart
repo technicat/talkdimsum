@@ -4,7 +4,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'word.dart';
 
 // rename this?
-/* class Tags {
+class Tags {
 
   static const Path = 'assets/json/words/';
 
@@ -29,4 +29,3 @@ import 'word.dart';
   }
 }
 
-*/

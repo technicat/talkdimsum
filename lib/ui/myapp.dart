@@ -25,16 +25,16 @@ class MyApp extends StatelessWidget {
       // Platform breaks on the web
       app = MyMaterialApp();
     }
+    // should use multiprovider
     return ChangeNotifierProvider<DimSum>( //      <--- ChangeNotifierProvider
       create: (context) => DimSum(),
       child: 
-      Consumer<DimSum>(builder: (context, dimsum, child) {
-        dimsum.loadDishes();
-        dimsum.loadCategories();
+     /* Consumer<DimSum>(builder: (context, dimsum, child) {
+        dimsum.loadDimSum();
         dimsum.loadPhrases();
-        dimsum.loadCountries();
-        return app;
-      })
+        dimsum.loadCountries(); */
+        app
+     // })
     );
   }
 }

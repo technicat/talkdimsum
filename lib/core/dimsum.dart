@@ -6,6 +6,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'country.dart';
 import 'dish.dart';
 import 'phrases.dart';
+import 'tags.dart';
 import 'word.dart';
 
 // split into multiple providers?
@@ -59,7 +60,7 @@ class DimSum with ChangeNotifier {
 
   List<String> categories = [];
 
-  loadDishes() async {
+  _loadDishes() async {
     var dishfiles = await rootBundle
         .loadString("assets/json/dish/dishes.json")
         .then((str) => List<String>.from(jsonDecode(str)));
@@ -68,6 +69,7 @@ class DimSum with ChangeNotifier {
       dishes.addAll(await list);
     }
     dishes.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
+    notifyListeners();
   }
 
   Future<List<Dish>> loadDishList(String path) async {
@@ -81,10 +83,23 @@ class DimSum with ChangeNotifier {
     return dishes;
   }
 
-  loadCategories() async {
+  _loadCategories() async {
     categories = await rootBundle
         .loadString("assets/json/dish/categories.json")
         .then((str) => List<String>.from(jsonDecode(str)));
-    notifyListeners();
+   notifyListeners();
+  }
+
+  loadDimSum() async {
+    _loadDishes();
+    _loadCategories();
+  }
+
+  DimSum() {
+    _loadDishes();
+    _loadCategories();
+    loadCountries();
+    loadPhrases();
+    Tags.load();
   }
 }
