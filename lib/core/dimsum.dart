@@ -3,7 +3,6 @@ import 'dart:convert'; // json
 import 'package:flutter/foundation.dart' show ChangeNotifier;
 import 'package:flutter/services.dart' show rootBundle;
 
-import 'country.dart';
 import 'dish.dart';
 import 'phrases.dart';
 import 'tags.dart';
@@ -46,17 +45,7 @@ class DimSum with ChangeNotifier {
     // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
   }
 
-  List<Country> countries = [];
-
-  _loadCountries() async {
-    var names = await rootBundle
-        .loadString("assets/json/place/countries.json")
-        .then((str) => List<String>.from(jsonDecode(str)));
-    for (var name in names) {
-      countries.add(await Country.load(name));
-    }
-    notifyListeners();
-  }
+  
 
   List<String> _categories = [];
 
@@ -99,7 +88,6 @@ class DimSum with ChangeNotifier {
   DimSum() {
     _loadDishes();
     _loadCategories();
-    _loadCountries();
     _loadPhrases();
     Tags.load();
   }

@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/country.dart';
-import 'package:talkdimsum/core/dimsum.dart';
 
 import 'region_list_widget.dart';
 
@@ -18,12 +17,12 @@ class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<DimSum>(builder: (context, dimsum, child) {
-      if (dimsum.countries.isEmpty) {
+    return Consumer<Countries>(builder: (context, countries, child) {
+      if (countries.countries.isEmpty) {
         return Text('Loading countries..');
       } else {
         if (country == null) {
-          country = dimsum.countries[0];
+          country = countries.countries[0];
         }
         return Scaffold(
             appBar: AppBar(title: Text(country.name), actions: <Widget>[
@@ -34,7 +33,7 @@ class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
                     country = value;
                   });
                 },
-                itemBuilder: (BuildContext context) => dimsum.countries
+                itemBuilder: (BuildContext context) => countries.countries
                     .map((country) => PopupMenuItem<Country>(
                         value: country, child: Text(country.name)))
                     .toList(),
