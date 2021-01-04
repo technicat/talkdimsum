@@ -11,7 +11,6 @@ class ScaffoldPhrasesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<DimSum>(builder: (context, dimsum, child) {
-      dimsum.loadPhrases();
       return CupertinoPageScaffold(
           navigationBar: CupertinoNavigationBar(
             middle: Text('Phrases'),

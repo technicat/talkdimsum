@@ -27,21 +27,21 @@ class NavigationBar extends StatelessWidget {
         ),
         tabBuilder: (BuildContext context, int index) {
           switch (index) {
-            case 5:
-              return CupertinoTabView(builder: (BuildContext context) {
-                return ScaffoldCountryWidget();
-              });
-            case 4:
-              return CupertinoTabView(builder: (BuildContext context) {
-                return ScaffoldPhrasesWidget();
-              });
-            case 0:
+             case 0:
               return CupertinoTabView(builder: (BuildContext context) {
                 return ScaffoldDishesWidget();
               });
                case 2:
               return CupertinoTabView(builder: (BuildContext context) {
                 return FavoritesWidget();
+              });  
+            case 3:
+              return CupertinoTabView(builder: (BuildContext context) {
+                return ScaffoldPhrasesWidget();
+              });
+            case 4:
+              return CupertinoTabView(builder: (BuildContext context) {
+                return ScaffoldCountryWidget();
               });
             default:
               return Text('nothing to see here');
