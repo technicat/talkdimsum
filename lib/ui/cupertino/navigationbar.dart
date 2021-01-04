@@ -44,7 +44,7 @@ class NavigationBar extends StatelessWidget {
                 return ScaffoldCountryWidget();
               });
             default:
-              return Text('nothing to see here');
+              return Center(child: Text('nothing to see here'));
           }
         });
   }

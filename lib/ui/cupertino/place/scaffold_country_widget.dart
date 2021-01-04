@@ -18,7 +18,7 @@ class ScaffoldCountryWidget extends StatelessWidget {
         ),
         child: Consumer<Countries>(builder: (context, countries, child) {
           return countries.countries.isEmpty
-              ? Text('Loading countries...')
+              ? CupertinoActivityIndicator()
               : RegionListWidget(country: countries.countries[0]);
         }));
   }

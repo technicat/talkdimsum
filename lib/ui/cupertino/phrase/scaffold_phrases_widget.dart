@@ -16,7 +16,7 @@ class ScaffoldPhrasesWidget extends StatelessWidget {
         ),
         child: Consumer<Conversation>(builder: (context, conversation, child) {
           return conversation.phrases.isEmpty
-              ? Text('Loading phrases...')
+              ? CupertinoActivityIndicator()
               : PhrasesListWidget(phrases: conversation.phrases[0]);
         }));
   }
