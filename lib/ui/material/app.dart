@@ -1,18 +1,18 @@
 /*
  Technicat LLC 
- Entry point for Talk Dim Sum
+ Material design version of Talk Dim Sum
 */
 
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 import 'navigationbar.dart';
 
-
-class MyCupertinoApp extends StatelessWidget {
+class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return CupertinoApp(
+    return MaterialApp(
       title: 'Talk Dim Sum',
+      theme: ThemeData.light(),
       home: NavigationBar(),
     );
   }
