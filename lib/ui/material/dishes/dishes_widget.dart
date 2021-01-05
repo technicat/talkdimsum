@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 
+import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
+
 import 'package:talkdimsum/ui/material/dish/dish_widget.dart';
-import 'package:talkdimsum/ui/material/dish/dish_image_text_widget.dart';
+
 
 class DishesWidget extends StatelessWidget {
 
