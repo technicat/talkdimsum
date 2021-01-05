@@ -20,10 +20,6 @@ import 'package:talkdimsum/core/provider/countries.dart';
 import 'ui/cupertino/app.dart' as cupertino;
 import 'ui/material/app.dart' as material;
 
-import 'package:flutter/widgets.dart' show runApp;
-
-//import 'ui/myapp.dart';
-
 void main() async {
   runApp(MainApp());
 }
