@@ -88,22 +88,10 @@ class DimSum with ChangeNotifier {
     return favorites.contains(dish);
   }
 
-  
-/*
-  addFavorite(Dish dish) {
-    favorites.add(dish);
-    notifyListeners();
-  }
-
-  removeFavorite(Dish dish) {
-    favorites.remove(dish);
-    notifyListeners();
-  } */
-
   addFavorite(Dish dish) async {
     favorites.add(dish);
     final Database db = await database();
-    await db.insert(
+    db.insert(
       table,
       {'name': dish.word.id},
       conflictAlgorithm: ConflictAlgorithm.replace,
@@ -114,7 +102,7 @@ class DimSum with ChangeNotifier {
   removeFavorite(Dish dish) async {
     favorites.remove(dish);
     final db = await database();
-    await db.delete(
+    db.delete(
       table,
       where: 'name = ?}',
       // Pass the id as a whereArg to prevent SQL injection.
