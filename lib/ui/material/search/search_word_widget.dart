@@ -10,13 +10,7 @@ class SearchWordWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<DimSum>(builder: (context, dimsum, child) {
-      //var words = DimSum.dishes.map((dish) => dish.words).expand((pair) => pair).toList();
-      var words = dimsum.dishes.map((dish) => dish.words[0]).toList();
-      words.addAll(dimsum.dishes
-          .map((dish) => dish.tags)
-          .expand((pair) => pair)
-          .map((tag) => Word.words[tag])
-          .where((word) => word != null));
+      var words = dimsum.dishWords;
       return Scaffold(
           body: //SingleChildScrollView(child:
               MaterialSearch<Word>(

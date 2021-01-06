@@ -1,8 +1,10 @@
+import 'dart:collection'; // Map
 import 'dart:convert'; // json
 
 import 'package:flutter/foundation.dart' show ChangeNotifier;
 import 'package:flutter/services.dart' show rootBundle;
 
+// for favorites
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
@@ -10,9 +12,35 @@ import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/model/tags.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
-// split into multiple providers?
 class DimSum with ChangeNotifier {
-  List<Dish> dishes = [];
+  List<Dish> _dishList = [];
+  HashMap<String, Dish> _dishMap = HashMap<String, Dish>();
+
+  Dish addDish(Dish dish) {
+    _dishList.add(dish);
+    _dishMap[dish.word.id] = dish;
+    return dish;
+  }
+
+  Dish dish(String name) {
+    return _dishMap[name];
+  }
+
+  List<Dish> dishes(Word word) {
+    return _dishList
+        .where((dish) => dish.words.contains(word) || dish.hasTag(word))
+        .toList();
+  }
+
+  List<Word> get dishWords {
+    List<Word> words = _dishList.map((dish) => dish.words[0]).toList();
+    words.addAll(_dishList
+        .map((dish) => dish.tags)
+        .expand((pair) => pair)
+        .map((tag) => Word.words[tag])
+        .where((word) => word != null));
+    return words;
+  }
 
   List<Dish> favorites = [];
 
@@ -25,45 +53,37 @@ class DimSum with ChangeNotifier {
     Tags.load();
   }
 
- 
-
   _loadDishes() async {
     var dishfiles = await rootBundle
         .loadString("assets/json/dish/dishes.json")
         .then((str) => List<String>.from(jsonDecode(str)));
-    var dishlists = dishfiles.map((json) => _loadDishList(json));
-    for (var list in dishlists) {
-      dishes.addAll(await list);
-    }
-    dishes.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
-    notifyListeners();
+    dishfiles.forEach((json) => _loadDishList(json));
   }
 
-  Future<List<Dish>> _loadDishList(String path) async {
+  _loadDishList(String path) async {
     var dishes = await rootBundle
         .loadString('assets/json/dish/' + path + '.json')
         .then((str) => List<Dish>.from(
             jsonDecode(str).map((json) => Dish.fromJson(json))));
     dishes.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
-    dishes.forEach((dish) => Dish.add(dish));
-    //dishlist.removeWhere((dish) => dish.ignore);
-    return dishes;
+    dishes.forEach((dish) => addDish(dish));
+    notifyListeners();
   }
 
   _loadCategories() async {
     _categories = await rootBundle
         .loadString("assets/json/dish/categories.json")
         .then((str) => List<String>.from(jsonDecode(str)));
-   notifyListeners();
+    notifyListeners();
   }
 
   List<Dish> get categories {
-    var tags = _categories.map((tag) => Dish.dishes[tag]).toList();
-    tags.removeWhere((item) => item ==null);
+    var tags = _categories.map((tag) => dish(tag)).toList();
+    tags.removeWhere((item) => item == null);
     return tags;
   }
 
-   static const table = 'favorites';
+  static const table = 'favorites';
 
   static Future<Database> database() async {
     return openDatabase(
@@ -84,7 +104,7 @@ class DimSum with ChangeNotifier {
     );
   }
 
-   bool isFavorite(Dish dish) {
+  bool isFavorite(Dish dish) {
     return favorites.contains(dish);
   }
 
@@ -96,7 +116,7 @@ class DimSum with ChangeNotifier {
       {'name': dish.word.id},
       conflictAlgorithm: ConflictAlgorithm.replace,
     );
-     notifyListeners();
+    notifyListeners();
   }
 
   removeFavorite(Dish dish) async {
@@ -104,7 +124,7 @@ class DimSum with ChangeNotifier {
     final db = await database();
     db.delete(
       table,
-      where: 'name = ?}',
+      where: 'name = ?',
       // Pass the id as a whereArg to prevent SQL injection.
       whereArgs: [dish.word.id],
     );
@@ -114,6 +134,10 @@ class DimSum with ChangeNotifier {
   _loadFavorites() async {
     final Database db = await database();
     final List<Map<String, dynamic>> maps = await db.query(table);
-    //dishes = maps.map((map) => DimSum.dishes[map['name']]).where((dish) => dish != null).toList();
+    favorites = maps
+        .map((map) => dish(map['name']))
+        .where((dish) => dish != null)
+        .toList();
+    notifyListeners();
   }
 }

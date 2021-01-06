@@ -19,11 +19,7 @@ class WordDishesWidget extends StatelessWidget {
         ),
         child:
             SafeArea(child: Consumer<DimSum>(builder: (context, dimsum, child) {
-          return DishesWidget(
-              dishes: dimsum.dishes
-                  .where(
-                      (dish) => dish.words.contains(word) || dish.hasTag(word))
-                  .toList());
+          return DishesWidget(dishes: dimsum.dishes(word));
         })));
   }
 }

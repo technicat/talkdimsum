@@ -1,16 +1,9 @@
-import 'dart:collection';
 
 import 'word.dart';
 import 'photo.dart';
 import 'link.dart';
 
 class Dish {
-  static HashMap<String, Dish> dishes = HashMap<String, Dish>();
-
-  static Dish add(Dish dish) {
-    Dish.dishes[dish.word.id] = dish;
-    return dish;
-  }
 
   Word get word {
     return words[0];
