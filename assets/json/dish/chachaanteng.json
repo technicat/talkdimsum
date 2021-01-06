@@ -1,66 +1,161 @@
-
 [
- 
     {
-        "words":
-        [
+        "words": [
             {
-                "Chinese":"茶餐廳",
-                "Simplified":"茶餐厅",
-                "English":"Hong Kong cafe",
-                "Yale":"chàh chāan tēng",
-                "Pinyin":"chá cān tīng",
-                 "Resources":
-    [
-        {"name":"茶餐廳","URL":"https://en.wiktionary.org/wiki/茶餐廳"},
-        {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"},
-        {"name":"餐廳","URL":"https://en.wiktionary.org/wiki/餐廳"},
-        {"name":"餐","URL":"https://en.wiktionary.org/wiki/餐"},
-        {"name":"廳","URL":"https://en.wiktionary.org/wiki/廳"}
-    ]
+                "Chinese": "茶餐廳",
+                "Simplified": "茶餐厅",
+                "English": "Hong Kong cafe",
+                "Yale": "chàh chāan tēng",
+                "Pinyin": "chá cān tīng",
+                "Resources": [
+                    {
+                        "name": "茶餐廳",
+                        "URL": "https://en.wiktionary.org/wiki/茶餐廳"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    },
+                    {
+                        "name": "餐廳",
+                        "URL": "https://en.wiktionary.org/wiki/餐廳"
+                    },
+                    {
+                        "name": "餐",
+                        "URL": "https://en.wiktionary.org/wiki/餐"
+                    },
+                    {
+                        "name": "廳",
+                        "URL": "https://en.wiktionary.org/wiki/廳"
+                    }
+                ]
             }
-
         ],
-        "images":
-        [
+        "images": [
             {
-             "image":"jjnoodlecafe",
-             "place":"JJ's Noodles, Las Vegas, Nevada"
+                "image": "jjnoodlecafe",
+                "place": "JJ's Noodles, Las Vegas, Nevada"
             }
-        
         ],
-        "Description":
-            "Hong Kong style cafes serve a mixture of Hong Kong style Western foods and Chinese food.\n\n茶 is “tea,” 餐 is “meal,” and 廳 is “hall,” so it's literally “tea dining hall,” or “tea restaurant.”",
-        "Tags":
-        [
+        "Description": "Hong Kong style cafes serve a mixture of Hong Kong style Western foods and Chinese food.\n\n茶 is “tea,” 餐 is “meal,” and 廳 is “hall,” so it's literally “tea dining hall,” or “tea restaurant.”",
+        "Tags": [
             "茶餐廳"
         ],
-        "Resources":
-        [
-        {
-            "name":"Pinterest",
-            "URL":"https://www.pinterest.com/technicat/dim-sum/cha-chaan-teng/"
-        },
-        {
-            "name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Cha_chaan_teng"
-        },
-        {
-            "name":"Culture Trip",
-            "URL":"https://theculturetrip.com/asia/china/hong-kong/articles/how-to-order-at-a-cha-chaan-teng-in-hong-kong/"
-        },
-        {
-            "name":"Food Republic",
-            "URL":"https://www.foodrepublic.com/2016/06/16/inside-hong-kongs-dirt-cheap-cha-chaan-teng-restaurants/"
-        },
-        {
-            "name":"FluentUp",
-            "URL":"https://medium.com/@fluentup/the-origin-of-the-hong-kong-cha-chaan-teng-5c998aa26e6"
-        },
-        {
-            "name":"Hong Kong Tourism Board",
-            "URL":"https://www.discoverhongkong.com/in/explore/dining/hong-kong-must-try-traditional-diners.html"
-        }
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/cha-chaan-teng/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng"
+            },
+            {
+                "name": "Culture Trip",
+                "URL": "https://theculturetrip.com/asia/china/hong-kong/articles/how-to-order-at-a-cha-chaan-teng-in-hong-kong/"
+            },
+            {
+                "name": "Food Republic",
+                "URL": "https://www.foodrepublic.com/2016/06/16/inside-hong-kongs-dirt-cheap-cha-chaan-teng-restaurants/"
+            },
+            {
+                "name": "FluentUp",
+                "URL": "https://medium.com/@fluentup/the-origin-of-the-hong-kong-cha-chaan-teng-5c998aa26e6"
+            },
+            {
+                "name": "Hong Kong Tourism Board",
+                "URL": "https://www.discoverhongkong.com/in/explore/dining/hong-kong-must-try-traditional-diners.html"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "港式西多士",
+                "English": "Hong Kong style French toast",
+                "Yale": "góng sīk sāi dō sih",
+                "Pinyin": "gǎng shì xī duō shì",
+                "Resources": [
+                    {
+                        "name": "港式",
+                        "URL": "https://en.wiktionary.org/wiki/港式"
+                    },
+                    {
+                        "name": "港",
+                        "URL": "https://en.wiktionary.org/wiki/港"
+                    },
+                    {
+                        "name": "式",
+                        "URL": "https://en.wiktionary.org/wiki/式"
+                    },
+                    {
+                        "name": "西多士",
+                        "URL": "https://en.wiktionary.org/wiki/西多士"
+                    },
+                    {
+                        "name": "西",
+                        "URL": "https://en.wiktionary.org/wiki/西"
+                    },
+                    {
+                        "name": "多士",
+                        "URL": "https://en.wiktionary.org/wiki/多士"
+                    },
+                    {
+                        "name": "多",
+                        "URL": "https://en.wiktionary.org/wiki/多"
+                    },
+                    {
+                        "name": "士",
+                        "URL": "https://en.wiktionary.org/wiki/士"
+                    }
+                ]
+            },
+            {
+                "Chinese": "法蘭西多士",
+                "English": "Hong Kong style French toast",
+                "Yale": "",
+                "Pinyin": "",
+                "Resources": []
+            }
+        ],
+        "images": [
+            {
+                "image": "pbfrenchtoastsweetheart",
+                "place": "Sweet Heart Dessert, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Hong Kong-style French toast is a heart-attack inducing combination made from thick-sliced white bread deep-fried in egg batter, topped with some combination of butter, condensed milk, jam or syrup and typically presented in sandwich form with peanut butter or other filling.\n\n港式 means “Hong Kong-style” (港 the second character of Hong Kong and 式 is style, so it's literally “Kong-style”). 西 is West or Western and 多士 is toast (the Cantonese “dō sih” sounds like toast), so French toast is referred to as “Western toast” (which is a better name, as French toast dates back to the Roman Empire).",
+        "Tags": [
+            "港式",
+            "西多士",
+            "多士",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/French_toast#Hong_Kong"
+            },
+            {
+                "name": "Chinese-American Family",
+                "URL": "https://www.chineseamericanfamily.com/how-to-make-hong-kong-style-french-toast/"
+            },
+            {
+                "name": "Honest Cooking",
+                "URL": "https://honestcooking.com/hong-kong-style-french-toast/"
+            },
+            {
+                "name": "Steven's Kitchen",
+                "URL": "https://steves-kitchen.com/hong-kong-style-french-toast/"
+            },
+            {
+                "name": "Vicky Tales",
+                "URL": "https://vickytales.com/hong-kong-style-french-toast/"
+            },
+            {
+                "name": "YI Reservation",
+                "URL": "http://yireservation.com/recipes/hong-kong-style-french-toast/"
+            }
         ]
     }
- ]
+]
