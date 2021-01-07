@@ -26,7 +26,8 @@ class DishWidget extends StatelessWidget {
                       child: Icon(CupertinoIcons.heart),
                       onPressed: () {
                         dimsum.addFavorite(dish);
-                      })),
+                      }),
+              trailing: Icon(CupertinoIcons.number)),
           child: SafeArea(child: DishSummaryWidget(dish: dish)));
     });
   }

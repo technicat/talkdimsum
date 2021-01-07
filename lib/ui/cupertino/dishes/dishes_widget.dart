@@ -35,6 +35,7 @@ class DishCellWidget extends StatelessWidget {
     return
       GestureDetector(
                 onTap: () {
+                  
                   Navigator.push(
                     context,
                     CupertinoPageRoute(

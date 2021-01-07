@@ -44,6 +44,60 @@
         ]
     },
 
+    {
+        "words":
+        [
+            {
+            "Chinese" : "燒鴨",
+            "Simplified" : "烧鸭",
+            "English" : "roast duck",
+            "Yale" : "sīu aap",
+            "Pinyin" : "shāo yā",
+            "Resources":
+         [
+           {"name":"燒鴨","URL":"https://en.wiktionary.org/wiki/燒鴨"},
+           {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"},
+           {"name":"鴨","URL":"https://en.wiktionary.org/wiki/鴨"}
+        ]
+            },
+            {
+                "Chinese" : "烤鴨",
+                "Simplified" : "烤鸭",
+                "English" : "roast duck",
+                "Yale" : "hāau aap",
+                "Pinyin" : "kǎo yā",
+                "Resources":
+             [
+            ]
+                }
+            ],
+            "images": 
+            [
+                {
+                    "image":"roastduckhkgarden",
+                    "place":"Hong Kong Garden, Las Vegas, Nevada"
+                }
+            ],
+            "Description": 
+                "Cantonese-style roasted duck.\n\nThe first character 燒 means “roasted,” and 鴨 is “duck.”",
+            "Tags": 
+            [
+                "燒味",
+                "鴨",
+                "燒"
+            ],
+            "Resources":
+            [
+                {"name":"Pinterest", 
+                    "URL":"https://www.pinterest.com/technicat/dim-sum/siu-mei/"},
+                {"name":"Oh My Food", 
+                    "URL":"https://www.ohmyfoodrecipes.com/roast-duck/"},
+                {"name":"Like a Chinese",
+                    "URL":"https://likeachinese.com/cantonese-roast-duck/"
+                }
+            ]
+        },
+
 {
     "words":
     [
