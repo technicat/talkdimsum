@@ -12,7 +12,9 @@ class CategoriesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<DimSum>(builder: (context, dimsum, child) {
-      return CategoryDishesWidget(
+      return dimsum.categories.isEmpty ?
+      Center(child: CircularProgressIndicator()) :
+      CategoryDishesWidget(
           dishes: dimsum.categories); // categories.map((tag) => Dish.dishes[tag]).toList());
     });
   }
