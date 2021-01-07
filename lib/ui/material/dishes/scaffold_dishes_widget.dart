@@ -4,13 +4,24 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'categories_widget.dart';
-import 'package:talkdimsum/ui/material/search/search_word_widget.dart';
+import 'favorite_dishes_widget.dart';
+import 'search_word_widget.dart';
 
 class ScaffoldDishesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Talk Dim Sum'), actions: <Widget>[
+         IconButton(
+          icon: Icon(Icons.favorite_border),
+          tooltip: 'Favorites',
+          onPressed: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => FavoriteDishesWidget()),
+            );
+          },
+        ),
         IconButton(
           icon: Icon(Icons.search),
           tooltip: 'Search',
