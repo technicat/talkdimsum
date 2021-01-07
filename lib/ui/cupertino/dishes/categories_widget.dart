@@ -14,7 +14,7 @@ class CategoriesWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<DimSum>(builder: (context, dimsum, child) {
       return CategoryDishesWidget(
-          dishes: dimsum.categories); //categories.map((tag) => Dish.dishes[tag]).toList());
+          dishes: dimsum.categories);
     });
   }
 }

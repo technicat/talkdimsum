@@ -8,10 +8,6 @@ import 'package:talkdimsum/ui/common/dish/dish_image_widget.dart';
 
 import 'dish_word_widget.dart';
 
-//import 'dish_tags_widget.dart';
-
-
-
 class DishSummaryWidget extends StatelessWidget {
 
   final Dish dish;

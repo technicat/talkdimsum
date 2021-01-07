@@ -1,30 +1,33 @@
 import 'package:flutter/cupertino.dart';
-
-//import 'package:share/share.dart';
-//import 'package:url_launcher/url_launcher.dart';
+import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
+import 'package:talkdimsum/core/provider/dimsum.dart';
 
 import 'dish_summary_widget.dart';
 
-
 class DishWidget extends StatelessWidget {
-
   final Dish dish;
 
- DishWidget({Key key, @required this.dish}) : super(key: key);
+  DishWidget({Key key, @required this.dish}) : super(key: key);
 
-@override
+  @override
   Widget build(BuildContext context) {
-    return CupertinoPageScaffold(
-      navigationBar: 
-        CupertinoNavigationBar(
-         middle: Text('${dish.word.english}'),
-        ),
-      child: SafeArea(child: DishSummaryWidget(dish: dish)));
+    return Consumer<DimSum>(builder: (context, dimsum, child) {
+      return CupertinoPageScaffold(
+          navigationBar: CupertinoNavigationBar(
+              middle: dimsum.isFavorite(dish)
+                  ? CupertinoButton(
+                      child: Icon(CupertinoIcons.heart_fill),
+                      onPressed: () {
+                        dimsum.removeFavorite(dish);
+                      })
+                  : CupertinoButton(
+                      child: Icon(CupertinoIcons.heart),
+                      onPressed: () {
+                        dimsum.addFavorite(dish);
+                      })),
+          child: SafeArea(child: DishSummaryWidget(dish: dish)));
+    });
   }
 }
-
-
-
-
