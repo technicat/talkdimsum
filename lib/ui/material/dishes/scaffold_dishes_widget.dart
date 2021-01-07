@@ -52,6 +52,12 @@ class ScaffoldDishesWidget extends StatelessWidget {
                 launch('http://technicat.com');
               },
             ),
+             ListTile(
+              title: Text('Talk Dim Sum'),
+              onTap: () {
+                launch('http://talkdimsum.com/');
+              },
+            ),
             ListTile(
               title: Text('Pinterest'),
               onTap: () {
@@ -59,9 +65,9 @@ class ScaffoldDishesWidget extends StatelessWidget {
               },
             ),
             ListTile(
-              title: Text('Talk Dim Sum'),
+              title: Text('Github'),
               onTap: () {
-                launch('http://talkdimsum.com/');
+                launch('https://github.com/technicat/talkdimsum');
               },
             ),
           ],
