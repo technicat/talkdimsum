@@ -9,6 +9,8 @@ import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/util/speech.dart';
 import 'package:talkdimsum/core/util/settings.dart';
 
+import 'package:talkdimsum/ui/common/dish/practice_mixins.dart';
+
 class PracticeWidget extends StatefulWidget {
 
   final Word word;
@@ -19,16 +21,7 @@ class PracticeWidget extends StatefulWidget {
   PracticeWidgetState createState() => PracticeWidgetState();
 }
 
-class PracticeWidgetState extends State<PracticeWidget> {
-
-  final SpeechToText speech = SpeechToText();
-
-  String lastWords = "";
-  String lastError = "";
-  String lastStatus = "";
-
-  double speed = Settings.speed;
-  Language lang = Settings.language;
+class PracticeWidgetState extends State<PracticeWidget> with STTState, TTSState  {
 
   @override
   Widget build(BuildContext context) {
