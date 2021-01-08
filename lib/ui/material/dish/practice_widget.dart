@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:speech_to_text/speech_to_text.dart';
 import 'package:speech_to_text/speech_recognition_error.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
 
@@ -32,23 +31,23 @@ class PracticeWidgetState extends State<PracticeWidget> with STTState, TTSState 
           body: 
      Column(children: <Widget>[
 
-       DropdownButton<Language>(
+       DropdownButton<Chinese>(
                     icon: Icon(Icons.language),
                     value: lang,
                     onChanged: (value) {
                       setState(() { lang = value; });
                     },
                     items: [
-                      const DropdownMenuItem<Language>(
-                              value: Language.Cantonese,
+                      const DropdownMenuItem<Chinese>(
+                              value: Chinese.Cantonese,
                               child: Text("Cantonese"),
                               ),
-                      const DropdownMenuItem<Language>(
-                              value: Language.Mandarin,
+                      const DropdownMenuItem<Chinese>(
+                              value: Chinese.Mandarin,
                               child: Text("Mandarin"),
                               ),
-                      const DropdownMenuItem<Language>(
-                              value: Language.Simplified,
+                      const DropdownMenuItem<Chinese>(
+                              value: Chinese.Simplified,
                               child: Text("Simplified"),
                               ),
                       ],

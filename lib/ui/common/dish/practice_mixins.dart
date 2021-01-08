@@ -16,5 +16,5 @@ class STTState {
 
 class TTSState {
   double speed = Settings.speed;
-  Language lang = Settings.language;
+  Chinese lang = Settings.language;
 }

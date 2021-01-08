@@ -44,14 +44,14 @@ class Word {
             json['Resources'].map((json) => Link.fromJson(json)));
 
 
-  String chineseText([Language lang = Language.Cantonese]) {
+  String chineseText([Chinese lang = Chinese.Cantonese]) {
     assert(cantonese != null, 'word for $english has no Cantonese!');
     switch (lang) {
-      case Language.Cantonese: 
+      case Chinese.Cantonese: 
         return cantonese;
-      case Language.Mandarin: 
+      case Chinese.Mandarin: 
         return mandarin ?? cantonese;
-      case Language.Simplified: return simplified ?? mandarin ?? cantonese;
+      case Chinese.Simplified: return simplified ?? mandarin ?? cantonese;
       default: return cantonese;
     }
    }
@@ -61,19 +61,19 @@ class Word {
      return cantonese;
    }
 
-   String pronunciation([Language lang = Language.Cantonese]) {
+   String pronunciation([Chinese lang = Chinese.Cantonese]) {
      assert(yale != null, 'word for $english has no Yale!');
      assert(pinyin != null, 'word for $english has no Pinyin!');
     switch (lang) {
-      case Language.Cantonese: return yale;
-      case Language.Mandarin: return pinyin;
-      case Language.Simplified: return pinyin;
+      case Chinese.Cantonese: return yale;
+      case Chinese.Mandarin: return pinyin;
+      case Chinese.Simplified: return pinyin;
       default: return yale;
     }
    }
 
    String display() {
-      return '$english ${chineseText(Language.Cantonese)}';
+      return '$english ${chineseText(Chinese.Cantonese)}';
    }
 }
 

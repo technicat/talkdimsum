@@ -10,16 +10,17 @@ import '../model/word.dart';
 class Speech {
   static FlutterTts flutterTts = FlutterTts();
 
-  static String locale(Language lang) {
+// this could be a Map
+  static String locale(Chinese lang) {
     try {
       // Platform checks fail on web
       if (Platform.isIOS || Platform.isMacOS) {
         switch (lang) {
-          case Language.Cantonese:
+          case Chinese.Cantonese:
             return "zh-HK";
-          case Language.Mandarin:
+          case Chinese.Mandarin:
             return "zh-Hant";
-          case Language.Simplified:
+          case Chinese.Simplified:
             return "zh-Hans";
           default:
             return "zh-HK";
@@ -27,11 +28,11 @@ class Speech {
       }
       if (Platform.isAndroid) {
         switch (lang) {
-          case Language.Cantonese:
+          case Chinese.Cantonese:
             return "yue-HK";
-          case Language.Mandarin:
+          case Chinese.Mandarin:
             return "zh-TW";
-          case Language.Simplified:
+          case Chinese.Simplified:
             return "zh-CN";
           default:
             return "yue-HK";
@@ -39,11 +40,11 @@ class Speech {
       }
       if (Platform.isWindows) {
         switch (lang) {
-          case Language.Cantonese:
+          case Chinese.Cantonese:
             return "zh-HK";
-          case Language.Mandarin:
+          case Chinese.Mandarin:
             return "zh-TW";
-          case Language.Simplified:
+          case Chinese.Simplified:
             return "zh-CN";
           default:
             return "zh-HK";
@@ -53,18 +54,18 @@ class Speech {
       print("Platform check failed");
     }
     switch (lang) {
-      case Language.Cantonese:
+      case Chinese.Cantonese:
         return "zh-hk";
-      case Language.Mandarin:
+      case Chinese.Mandarin:
         return "zh-tw";
-      case Language.Simplified:
+      case Chinese.Simplified:
         return "zh-cn";
       default:
         return "zh-hk";
     }
   }
 
-  static Future sayText(String text, Language lang, double speed) async {
+  static Future sayText(String text, Chinese lang, double speed) async {
     try {
       // Platform check fails on web
       if (Platform.isIOS || Platform.isMacOS) {
@@ -85,7 +86,7 @@ class Speech {
     }
   }
 
-  static Future sayWord(Word word, Language lang, double speed) async {
+  static Future sayWord(Word word, Chinese lang, double speed) async {
     await sayText(word.chineseText(lang), lang, speed);
   }
 }

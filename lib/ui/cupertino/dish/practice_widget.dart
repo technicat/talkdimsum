@@ -28,16 +28,16 @@ class PracticeWidgetState extends State<PracticeWidget>
         child: SafeArea(
             child: Center(
                 child: Column(children: <Widget>[
-          CupertinoSegmentedControl<Language>(
+          CupertinoSegmentedControl<Chinese>(
             onValueChanged: (value) {
               setState(() {
                 lang = value;
               });
             },
             children: {
-              Language.Cantonese: Text("Cantonese"),
-              Language.Mandarin: Text("Mandarin"),
-              Language.Simplified: Text("Simplified")
+              Chinese.Cantonese: Text("Cantonese"),
+              Chinese.Mandarin: Text("Mandarin"),
+              Chinese.Simplified: Text("Simplified")
             },
           ),
           Row(mainAxisAlignment: MainAxisAlignment.center, children: [
