@@ -1,12 +1,13 @@
 import 'package:flutter/cupertino.dart';
 
-import 'package:speech_to_text/speech_to_text.dart';
 import 'package:speech_to_text/speech_recognition_error.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/util/speech.dart';
 import 'package:talkdimsum/core/util/settings.dart';
+
+import 'package:talkdimsum/ui/common/dish/practice_mixins.dart';
 
 class PracticeWidget extends StatefulWidget {
   final Word word;
@@ -17,16 +18,8 @@ class PracticeWidget extends StatefulWidget {
   PracticeWidgetState createState() => PracticeWidgetState();
 }
 
-class PracticeWidgetState extends State<PracticeWidget> {
-  final SpeechToText speech = SpeechToText();
-
-  String lastWords = "";
-  String lastError = "";
-  String lastStatus = "";
-
-  double speed = Settings.speed;
-  Language lang = Settings.language;
-
+class PracticeWidgetState extends State<PracticeWidget>
+    with STTState, TTSState {
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
@@ -35,6 +28,18 @@ class PracticeWidgetState extends State<PracticeWidget> {
         child: SafeArea(
             child: Center(
                 child: Column(children: <Widget>[
+          CupertinoSegmentedControl<Language>(
+            onValueChanged: (value) {
+              setState(() {
+                lang = value;
+              });
+            },
+            children: {
+              Language.Cantonese: Text("Cantonese"),
+              Language.Mandarin: Text("Mandarin"),
+              Language.Simplified: Text("Simplified")
+            },
+          ),
           Row(mainAxisAlignment: MainAxisAlignment.center, children: [
             Icon(CupertinoIcons.tortoise),
             CupertinoSlider(

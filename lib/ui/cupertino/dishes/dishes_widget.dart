@@ -35,9 +35,8 @@ class DishCellWidget extends StatelessWidget {
     return
       GestureDetector(
                 onTap: () {
-                  
-                  Navigator.push(
-                    context,
+                  // push on top of bottom tab bar
+                  Navigator.of(context, rootNavigator: true).push(
                     CupertinoPageRoute(
                         builder: (context) => DishWidget(dish: dish)),
                   );
