@@ -11,10 +11,10 @@ class DishWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    //return Consumer<DimSum>(builder: (context, dimsum, child) {
       return CupertinoPageScaffold(
-          navigationBar: CupertinoNavigationBar(),
+          navigationBar: CupertinoNavigationBar(
+            middle: Text('Talk Dim Sum') // for lack of anything better
+          ),
           child: SafeArea(child: DishSummaryWidget(dish: dish)));
- //   });
   }
 }
