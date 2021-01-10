@@ -4,8 +4,10 @@ import 'dart:io' show Platform;
 
 import 'package:flutter_tts/flutter_tts.dart';
 
+import 'package:talkdimsum/core/model/word.dart';
+
 import 'settings.dart';
-import '../model/word.dart';
+
 
 class Speech {
   static FlutterTts flutterTts = FlutterTts();
@@ -19,9 +21,9 @@ class Speech {
           case Chinese.Cantonese:
             return "zh-HK";
           case Chinese.Mandarin:
-            return "zh-Hant";
+            return "zh-TW";
           case Chinese.Simplified:
-            return "zh-Hans";
+            return "zh-CN";
           default:
             return "zh-HK";
         }
@@ -77,10 +79,16 @@ class Speech {
     } catch (e) {
       await flutterTts.setSpeechRate(speed);
     }
-    await flutterTts.setLanguage(locale(lang));
+     // language change not working on iOS
+     // need to call setVoice?
+    // List<dynamic> languages = await flutterTts.getLanguages;
+    // print(languages);
+    var loc = locale(lang);
+    await flutterTts.setLanguage(loc);
+    //await flutterTts.setVoice({"locale": loc});
     var result = await flutterTts.speak(text);
     if (result == 1) {
-      print("speaking...");
+      print("speaking "+loc);
     } else {
       print("didn't speak for some reason");
     }
