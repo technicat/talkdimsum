@@ -1,131 +1,146 @@
 [
-
-{
-    "words":
-    [
-        {
-        "Chinese" : "燒味",
-        "Simplified" : "烧味",
-        "English" : "siu mei",
-        "Yale" : "sīu meih",
-        "Pinyin" : "shāowèi",
-        "Resources":
-     [
-       {"name":"燒味","URL":"https://en.wiktionary.org/wiki/燒味"},
-       {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"},
-       {"name":"味","URL":"https://en.wiktionary.org/wiki/味"}
-    ]
-        }
-        ],
-        "images": 
-        [
+    {
+        "words": [
             {
-                "image":"bbqnewasianbbq",
-                "place":"New Asian BBQ, Las Vegas, Nevada"
+                "Chinese": "燒味",
+                "Simplified": "烧味",
+                "English": "siu mei",
+                "Yale": "sīu meih",
+                "Pinyin": "shāowèi",
+                "Resources": [
+                    {
+                        "name": "燒味",
+                        "URL": "https://en.wiktionary.org/wiki/燒味"
+                    },
+                    {
+                        "name": "燒",
+                        "URL": "https://en.wiktionary.org/wiki/燒"
+                    },
+                    {
+                        "name": "味",
+                        "URL": "https://en.wiktionary.org/wiki/味"
+                    }
+                ]
             }
         ],
-        "Description": 
-            "Cantonese-style roasted meats.\n\nThe first character 燒 means “roasted,” and 味 is “flavor” or “smell.”\n\nSiu mei is also known as 燒臘 (sīu laahp), “roasted cured meat.”",
-        "Tags": 
-        [
+        "images": [
+            {
+                "image": "bbqnewasianbbq",
+                "place": "New Asian BBQ, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Cantonese-style roasted meats.\n\nThe first character 燒 means “roasted,” and 味 is “flavor” or “smell.”\n\nSiu mei is also known as 燒臘 (sīu laahp), “roasted cured meat.”",
+        "Tags": [
             "燒味",
             "肉",
             "燒"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/siu-mei/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Siu_mei"},
-            {"name":"The Culture Trip",
-                "URL":"https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/siu-mei/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Siu_mei"
+            },
+            {
+                "name": "The Culture Trip",
+                "URL": "https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
             }
         ]
     },
-
     {
-        "words":
-        [
+        "words": [
             {
-            "Chinese" : "燒鴨",
-            "Simplified" : "烧鸭",
-            "English" : "roast duck",
-            "Yale" : "sīu aap",
-            "Pinyin" : "shāo yā",
-            "Resources":
-         [
-           {"name":"燒鴨","URL":"https://en.wiktionary.org/wiki/燒鴨"},
-           {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"},
-           {"name":"鴨","URL":"https://en.wiktionary.org/wiki/鴨"}
-        ]
+                "Chinese": "燒鴨",
+                "Simplified": "烧鸭",
+                "English": "roast duck",
+                "Yale": "sīu aap",
+                "Pinyin": "shāo yā",
+                "Resources": [
+                    {
+                        "name": "燒鴨",
+                        "URL": "https://en.wiktionary.org/wiki/燒鴨"
+                    },
+                    {
+                        "name": "燒",
+                        "URL": "https://en.wiktionary.org/wiki/燒"
+                    },
+                    {
+                        "name": "鴨",
+                        "URL": "https://en.wiktionary.org/wiki/鴨"
+                    }
+                ]
             },
             {
-                "Chinese" : "烤鴨",
-                "Simplified" : "烤鸭",
-                "English" : "roast duck",
-                "Yale" : "hāau aap",
-                "Pinyin" : "kǎo yā",
-                "Resources":
-             [
-            ]
-                }
-            ],
-            "images": 
-            [
-                {
-                    "image":"roastduckhkgarden",
-                    "place":"Hong Kong Garden, Las Vegas, Nevada"
-                }
-            ],
-            "Description": 
-                "Cantonese-style roasted duck.\n\nThe first character 燒 means “roasted,” and 鴨 is “duck.”",
-            "Tags": 
-            [
-                "燒味",
-                "鴨",
-                "燒"
-            ],
-            "Resources":
-            [
-                {"name":"Pinterest", 
-                    "URL":"https://www.pinterest.com/technicat/dim-sum/siu-mei/"},
-                {"name":"Oh My Food", 
-                    "URL":"https://www.ohmyfoodrecipes.com/roast-duck/"},
-                {"name":"Like a Chinese",
-                    "URL":"https://likeachinese.com/cantonese-roast-duck/"
-                }
-            ]
-        },
-
-{
-    "words":
-    [
-        {
-        "Chinese" : "叉燒",
-        "Simplified" : "叉烧",
-        "English" : "BBQ pork",
-        "Yale" : "chā sīu",
-        "Pinyin" : "chā shāo",
-        "Resources":
-        [
-            {"name":"叉燒","URL":"https://en.wiktionary.org/wiki/叉燒"},
-            {"name":"叉","URL":"https://en.wiktionary.org/wiki/叉"},
-            {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"}
-         ]
-        }
-    ],
-    "images":
-    [
-            {
-                "image":"chasiukitchen",
-                "place":"Kitchen, Millbrae, California"
+                "Chinese": "烤鴨",
+                "Simplified": "烤鸭",
+                "English": "roast duck",
+                "Yale": "hāau aap",
+                "Pinyin": "kǎo yā",
+                "Resources": []
             }
-    ],
-    "Description":
-        "Boneless pork oven-roasted with a sweet coating.\n\nThe first character 叉 means “fork,“  and the second character 燒 means “roasted,” referring to how the meat was originally roasted on a skewer.\n\nFor mals, the slices of meat are often served on a plate arrayed with other appetizers. Chunks of cha siu are ingredients in many dim sum dishes. And hunks of cha siu are available for takeout at restaurants and meat shops.",
-        "Tags":
-        [
+        ],
+        "images": [
+            {
+                "image": "roastduckhkgarden",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Cantonese-style roasted duck.\n\nThe first character 燒 means “roasted,” and 鴨 is “duck.”",
+        "Tags": [
+            "燒味",
+            "鴨",
+            "燒"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/siu-mei/"
+            },
+            {
+                "name": "Oh My Food",
+                "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
+            },
+            {
+                "name": "Like a Chinese",
+                "URL": "https://likeachinese.com/cantonese-roast-duck/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "叉燒",
+                "Simplified": "叉烧",
+                "English": "BBQ pork",
+                "Yale": "chā sīu",
+                "Pinyin": "chā shāo",
+                "Resources": [
+                    {
+                        "name": "叉燒",
+                        "URL": "https://en.wiktionary.org/wiki/叉燒"
+                    },
+                    {
+                        "name": "叉",
+                        "URL": "https://en.wiktionary.org/wiki/叉"
+                    },
+                    {
+                        "name": "燒",
+                        "URL": "https://en.wiktionary.org/wiki/燒"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "chasiukitchen",
+                "place": "Kitchen, Millbrae, California"
+            }
+        ],
+        "Description": "Boneless pork oven-roasted with a sweet coating.\n\nThe first character 叉 means “fork,“  and the second character 燒 means “roasted,” referring to how the meat was originally roasted on a skewer.\n\nFor mals, the slices of meat are often served on a plate arrayed with other appetizers. Chunks of cha siu are ingredients in many dim sum dishes. And hunks of cha siu are available for takeout at restaurants and meat shops.",
+        "Tags": [
             "燒味",
             "肉",
             "燒味",
@@ -133,77 +148,105 @@
             "燒",
             "豬肉"
         ],
-        "Resources":
-        [
-            {"name" :"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Char_siu"},
-            {"name" :"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/cha-siu/"},
-            {"name" :"The Woks of Life", 
-                "URL":"https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"},
-            {"name" :"Kirbie's Cravings", 
-                "URL":"https://kirbiecravings.com/char-siu-chinese-bbq-pork/"},
-            {"name" :"Christine's Recipes", 
-                "URL":"https://en.christinesrecipes.com/2008/08/juicy-barbecued-pork-cantonese-classic.html"},
-             {"name" :"Oh My Food Recipes", 
-                "URL":"https://www.ohmyfoodrecipes.com/char-siu-chinese-bbq-pork/"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Char_siu"
+            },
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/cha-siu/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"
+            },
+            {
+                "name": "Kirbie's Cravings",
+                "URL": "https://kirbiecravings.com/char-siu-chinese-bbq-pork/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2008/08/juicy-barbecued-pork-cantonese-classic.html"
+            },
+            {
+                "name": "Oh My Food Recipes",
+                "URL": "https://www.ohmyfoodrecipes.com/char-siu-chinese-bbq-pork/"
+            }
         ]
     },
-
     {
-        "words":
-        [
-        {
-        "Chinese": "燒肉",
-        "Simplified": "烧肉",
-        "English":"pork belly",
-        "Yale": "sīu yuhk",
-        "Pinyin":"shāo ròu",
-        "Resources":
-        [
-        {"name":"燒肉","URL":"https://en.wiktionary.org/wiki/燒肉"},
-        {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"},
-        {"name":"肉","URL":"https://en.wiktionary.org/wiki/肉"}
-        ]
-        }
+        "words": [
+            {
+                "Chinese": "燒肉",
+                "Simplified": "烧肉",
+                "English": "pork belly",
+                "Yale": "sīu yuhk",
+                "Pinyin": "shāo ròu",
+                "Resources": [
+                    {
+                        "name": "燒肉",
+                        "URL": "https://en.wiktionary.org/wiki/燒肉"
+                    },
+                    {
+                        "name": "燒",
+                        "URL": "https://en.wiktionary.org/wiki/燒"
+                    },
+                    {
+                        "name": "肉",
+                        "URL": "https://en.wiktionary.org/wiki/肉"
+                    }
+                ]
+            }
         ],
-    "images":
-    [
-        {
-            "image":"porkbellyzenpeninsula",
-            "place":"Zen Peninsula, Millbrae, California"
-        }
-    ],
-    "Description": 
-        "Juicy roast pork with a crispy golden skin.\n\n燒 means “roasted” and 肉 is “meat,” so it's literally “roasted meat.”\n\nPork belly is cut into squares or strips so that each piece includes a strip of the crunchy skin.",
-    "Tags":
-    [
-        "燒味",
-        "肉",
-        "燒味",
-        "燒",
-        "豬肉",
-        "點心"
-    ],
-    "Resources":
-    [
-        {"name" :"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/pork-belly/"},
-        {"name" :"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/crispy-pork-belly-siu-yuk/"},
-        {"name" :"The Woks of Life", 
-            "URL":"https://thewoksoflife.com/2015/03/cantonese-roast-pork-belly/"},
-        {"name" :"YI Reservation", 
-            "URL":"http://yireservation.com/recipes/crispy-pork-belly/"},
-        {"name" :"Kirbie's Cravings", 
-            "URL":"https://kirbiecravings.com/crispy-golden-pork-belly/"},
-        {"name" :"Christine's Recipes", 
-            "URL":"https://en.christinesrecipes.com/2011/03/crispy-roast-pork-belly.html"},
-        {"name" :"Adventures with Kake", 
-            "URL":"https://kake.dreamwidth.org/45069.html"},
-        {"name" :"The Informal Chef", 
-            "URL":"http://theinformalchef.blogspot.com/2016/01/crispy-roast-pork-belly-siu-yuk.html"}
-       ]
+        "images": [
+            {
+                "image": "porkbellyzenpeninsula",
+                "place": "Zen Peninsula, Millbrae, California"
+            }
+        ],
+        "Description": "Juicy roast pork with a crispy golden skin.\n\n燒 means “roasted” and 肉 is “meat,” so it's literally “roasted meat.”\n\nPork belly is cut into squares or strips so that each piece includes a strip of the crunchy skin.",
+        "Tags": [
+            "燒味",
+            "肉",
+            "燒味",
+            "燒",
+            "豬肉",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/pork-belly/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/crispy-pork-belly-siu-yuk/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2015/03/cantonese-roast-pork-belly/"
+            },
+            {
+                "name": "YI Reservation",
+                "URL": "http://yireservation.com/recipes/crispy-pork-belly/"
+            },
+            {
+                "name": "Kirbie's Cravings",
+                "URL": "https://kirbiecravings.com/crispy-golden-pork-belly/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2011/03/crispy-roast-pork-belly.html"
+            },
+            {
+                "name": "Adventures with Kake",
+                "URL": "https://kake.dreamwidth.org/45069.html"
+            },
+            {
+                "name": "The Informal Chef",
+                "URL": "http://theinformalchef.blogspot.com/2016/01/crispy-roast-pork-belly-siu-yuk.html"
+            }
+        ]
     }
- 
 ]
