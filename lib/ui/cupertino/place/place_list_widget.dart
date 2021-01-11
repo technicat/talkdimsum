@@ -1,7 +1,6 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 import 'package:talkdimsum/core/model/place.dart';
 import 'package:talkdimsum/core/model/region.dart';
