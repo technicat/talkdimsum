@@ -29,6 +29,7 @@ class PracticeWidgetState extends State<PracticeWidget>
             child: Center(
                 child: Column(children: <Widget>[
           CupertinoSegmentedControl<Chinese>(
+            groupValue: lang,
             onValueChanged: (value) {
               setState(() {
                 lang = value;
