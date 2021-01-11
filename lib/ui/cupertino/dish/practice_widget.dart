@@ -41,6 +41,7 @@ class PracticeWidgetState extends State<PracticeWidget>
               Chinese.Simplified: Text("Simplified")
             },
           ),
+          Spacer(),
           Row(mainAxisAlignment: MainAxisAlignment.center, children: [
             Icon(CupertinoIcons.tortoise),
             CupertinoSlider(
