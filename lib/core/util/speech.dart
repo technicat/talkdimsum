@@ -8,7 +8,6 @@ import 'package:talkdimsum/core/model/word.dart';
 
 import 'settings.dart';
 
-
 class Speech {
   static FlutterTts flutterTts = FlutterTts();
 
@@ -79,8 +78,8 @@ class Speech {
     } catch (e) {
       await flutterTts.setSpeechRate(speed);
     }
-     // language change not working on iOS
-     // need to call setVoice?
+    // language change not working on iOS
+    // need to call setVoice?
     // List<dynamic> languages = await flutterTts.getLanguages;
     // print(languages);
     var loc = locale(lang);
@@ -88,7 +87,7 @@ class Speech {
     //await flutterTts.setVoice({"locale": loc});
     var result = await flutterTts.speak(text);
     if (result == 1) {
-      print("speaking "+loc);
+      print("speaking " + loc);
     } else {
       print("didn't speak for some reason");
     }

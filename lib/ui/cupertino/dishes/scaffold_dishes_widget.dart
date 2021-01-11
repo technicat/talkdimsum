@@ -8,9 +8,9 @@ class ScaffoldDishesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
-     // resizeToAvoidBottomInset: true,
+        // resizeToAvoidBottomInset: true,
         navigationBar: CupertinoNavigationBar(
-        //  transitionBetweenRoutes: true,
+          //  transitionBetweenRoutes: true,
           middle: Text('Dishes'),
         ),
         child: SafeArea(child: CategoriesWidget()));

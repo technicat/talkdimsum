@@ -4,7 +4,6 @@ import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/material/dishes/word_dishes_widget.dart';
 
 class TagWidget extends StatelessWidget {
-
   final Word tag;
 
   TagWidget({Key key, @required this.tag}) : super(key: key);
@@ -12,20 +11,19 @@ class TagWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => WordDishesWidget(word: tag)),
-                  );
-                },
-    child: Chip(
-        /* avatar: CircleAvatar(
+        onTap: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+                builder: (context) => WordDishesWidget(word: tag)),
+          );
+        },
+        child: Chip(
+          /* avatar: CircleAvatar(
         backgroundColor: Colors.grey.shade800,
         child: Text(tag.Chinese),
       ), */
-      label: Text(tag.display()),
-    )
-    );
+          label: Text(tag.display()),
+        ));
   }
 }

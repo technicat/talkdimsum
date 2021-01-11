@@ -33,15 +33,11 @@ class NavigationBarState extends State<NavigationBar> {
       body: _widgetOptions.elementAt(_selectedIndex),
       bottomNavigationBar: BottomNavigationBar(
         items: <BottomNavigationBarItem>[
+          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Dishes'),
           BottomNavigationBarItem(
-              icon:  Icon(Icons.home),
-              label: 'Dishes'),
+              icon: Icon(Icons.chat_bubble_outline), label: 'Phrases'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.chat_bubble_outline), 
-              label: 'Phrases'),
-          BottomNavigationBarItem(
-              icon: Icon(Icons.restaurant_menu), 
-              label: 'Places'),
+              icon: Icon(Icons.restaurant_menu), label: 'Places'),
         ],
         currentIndex: _selectedIndex,
         //  fixedColor: Colors.deepPurple,

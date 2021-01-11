@@ -20,4 +20,3 @@ class Country {
     return country;
   }
 }
-

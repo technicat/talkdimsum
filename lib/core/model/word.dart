@@ -5,7 +5,6 @@ import 'package:talkdimsum/core/util/settings.dart';
 import 'link.dart';
 
 class Word {
-
   static HashMap<String, Word> words = HashMap<String, Word>();
 
   static Word add(Word word) {
@@ -21,18 +20,11 @@ class Word {
   final String pinyin;
   final List<Link> resources;
 
-  Word(
-    this.cantonese, 
-    this.mandarin, 
-    this.simplified, 
-    this.english, 
-    this.yale, 
-    this.pinyin, 
-    this.resources);
+  Word(this.cantonese, this.mandarin, this.simplified, this.english, this.yale,
+      this.pinyin, this.resources);
 
   Word.fromJson(Map<String, dynamic> json)
-      : 
-        cantonese = json['Chinese'],
+      : cantonese = json['Chinese'],
         mandarin = json['Mandarin'],
         simplified = json['Simplified'],
         english = json['English'],
@@ -41,40 +33,43 @@ class Word {
         resources = json['Resources'] == null
             ? []
             : List<Link>.from(
-            json['Resources'].map((json) => Link.fromJson(json)));
-
+                json['Resources'].map((json) => Link.fromJson(json)));
 
   String chineseText([Chinese lang = Chinese.Cantonese]) {
     assert(cantonese != null, 'word for $english has no Cantonese!');
     switch (lang) {
-      case Chinese.Cantonese: 
+      case Chinese.Cantonese:
         return cantonese;
-      case Chinese.Mandarin: 
+      case Chinese.Mandarin:
         return mandarin ?? cantonese;
-      case Chinese.Simplified: return simplified ?? mandarin ?? cantonese;
-      default: return cantonese;
+      case Chinese.Simplified:
+        return simplified ?? mandarin ?? cantonese;
+      default:
+        return cantonese;
     }
-   }
+  }
 
-   String get id {
-     assert(cantonese != null, 'word for $english has no Cantonese!');
-     return cantonese;
-   }
+  String get id {
+    assert(cantonese != null, 'word for $english has no Cantonese!');
+    return cantonese;
+  }
 
-   String pronunciation([Chinese lang = Chinese.Cantonese]) {
-     assert(yale != null, 'word for $english has no Yale!');
-     assert(pinyin != null, 'word for $english has no Pinyin!');
+  String pronunciation([Chinese lang = Chinese.Cantonese]) {
+    assert(yale != null, 'word for $english has no Yale!');
+    assert(pinyin != null, 'word for $english has no Pinyin!');
     switch (lang) {
-      case Chinese.Cantonese: return yale;
-      case Chinese.Mandarin: return pinyin;
-      case Chinese.Simplified: return pinyin;
-      default: return yale;
+      case Chinese.Cantonese:
+        return yale;
+      case Chinese.Mandarin:
+        return pinyin;
+      case Chinese.Simplified:
+        return pinyin;
+      default:
+        return yale;
     }
-   }
+  }
 
-   String display() {
-      return '$english ${chineseText(Chinese.Cantonese)}';
-   }
+  String display() {
+    return '$english ${chineseText(Chinese.Cantonese)}';
+  }
 }
-
-

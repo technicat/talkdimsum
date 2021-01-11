@@ -37,7 +37,7 @@ class PlaceTile extends StatelessWidget {
                 place.share();
               }
               break;
-             case "map":
+            case "map":
               {
                 place.showGoogleMap();
               }

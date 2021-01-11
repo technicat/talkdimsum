@@ -6,10 +6,9 @@ class Link {
 
   Link(this.name, this.url);
 
-  Link.fromJson(Map<String, dynamic> json) :
-  	 name = json['name'],
-  	 url = json['URL'];
-
+  Link.fromJson(Map<String, dynamic> json)
+      : name = json['name'],
+        url = json['URL'];
 
   void goto() {
     launch(url);

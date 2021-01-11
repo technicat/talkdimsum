@@ -12,7 +12,7 @@ class ScaffoldDishesWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Talk Dim Sum'), actions: <Widget>[
-         IconButton(
+        IconButton(
           icon: Icon(Icons.favorite_border),
           tooltip: 'Favorites',
           onPressed: () {
@@ -43,8 +43,7 @@ class ScaffoldDishesWidget extends StatelessWidget {
           padding: EdgeInsets.zero,
           children: <Widget>[
             DrawerHeader(
-              child:
-                  Image.asset('assets/images/icon/catgraphic.png'),
+              child: Image.asset('assets/images/icon/catgraphic.png'),
             ),
             ListTile(
               title: Text('Technicat'),
@@ -52,7 +51,7 @@ class ScaffoldDishesWidget extends StatelessWidget {
                 launch('http://technicat.com');
               },
             ),
-             ListTile(
+            ListTile(
               title: Text('Talk Dim Sum'),
               onTap: () {
                 launch('http://talkdimsum.com/');

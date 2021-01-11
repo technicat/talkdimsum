@@ -7,14 +7,17 @@ class Settings {
 
   static String languageName(Chinese language) {
     switch (language) {
-      case Chinese.Cantonese: return "Cantonese";
-      case Chinese.Mandarin: return "Mandarin";
-      case Chinese.Simplified: return "Simplified";
-      default: return "Cantonese";
+      case Chinese.Cantonese:
+        return "Cantonese";
+      case Chinese.Mandarin:
+        return "Mandarin";
+      case Chinese.Simplified:
+        return "Simplified";
+      default:
+        return "Cantonese";
     }
   }
-
-  }
+}
 
 enum Chinese {
   Cantonese,

@@ -1,10 +1,8 @@
-
 import 'word.dart';
 import 'photo.dart';
 import 'link.dart';
 
 class Dish {
-
   Word get word {
     return words[0];
   }
@@ -33,5 +31,4 @@ class Dish {
   bool hasTag(Word tag) {
     return tags.contains(tag.id);
   }
-
 }

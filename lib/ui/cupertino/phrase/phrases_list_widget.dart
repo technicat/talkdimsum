@@ -26,5 +26,3 @@ class PhrasesListWidget extends StatelessWidget {
     }
   }
 }
-
-

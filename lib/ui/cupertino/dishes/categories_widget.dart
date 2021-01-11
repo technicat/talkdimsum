@@ -13,8 +13,7 @@ class CategoriesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<DimSum>(builder: (context, dimsum, child) {
-      return CategoryDishesWidget(
-          dishes: dimsum.categories);
+      return CategoryDishesWidget(dishes: dimsum.categories);
     });
   }
 }

@@ -6,7 +6,6 @@
 // directory structure is similar to
 // https://github.com/jgrandchavin/flutter_provider_architecture_starter
 
-
 import 'dart:io' show Platform;
 
 import 'package:flutter/widgets.dart';
@@ -48,4 +47,3 @@ class MainApp extends StatelessWidget {
     ], child: app);
   }
 }
-

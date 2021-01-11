@@ -39,6 +39,4 @@ class Place {
         "I had dim sum at $name in $city #dimsum #yumcha #talkdimsum talkdimsum.com",
         subject: "Talk Dim Sum");
   }
-
-  
 }

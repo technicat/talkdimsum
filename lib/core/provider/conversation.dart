@@ -12,7 +12,7 @@ class Conversation with ChangeNotifier {
     _load();
   }
 
-   _load() async {
+  _load() async {
     if (phrases.isNotEmpty) {
       return;
     }
@@ -26,5 +26,4 @@ class Conversation with ChangeNotifier {
     notifyListeners();
     // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
   }
-
 }

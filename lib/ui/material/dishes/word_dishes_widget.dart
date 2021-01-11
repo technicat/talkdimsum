@@ -18,8 +18,7 @@ class WordDishesWidget extends StatelessWidget {
           title: Text(word.display()),
         ),
         body: Consumer<DimSum>(builder: (context, dimsum, child) {
-          return DishesWidget(
-              dishes: dimsum.dishes(word));
+          return DishesWidget(dishes: dimsum.dishes(word));
         }));
   }
 }

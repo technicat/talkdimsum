@@ -7,7 +7,6 @@ import 'package:flutter/cupertino.dart';
 
 import 'navigationbar.dart';
 
-
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
