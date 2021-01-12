@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 class Settings {
   static load() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    language = fromNum(prefs.getInt('language'));
+    language = Chinese.values[prefs.getInt('language')];
     speed = prefs.getDouble('speed');
   }
 
