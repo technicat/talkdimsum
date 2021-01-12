@@ -1,8 +1,10 @@
 /* Technicat LLC */
 
+import 'package:flutter/foundation.dart' show ChangeNotifier;
+
 import 'package:shared_preferences/shared_preferences.dart';
 
-class Settings {
+class Settings with ChangeNotifier {
   static load() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     language = Chinese.values[prefs.getInt('language')];
