@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
-import 'package:talkdimsum/core/util/speech.dart';
+import 'package:talkdimsum/core/util/tts.dart';
 import 'package:talkdimsum/core/util/settings.dart';
 
 import 'practice_widget.dart';

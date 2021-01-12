@@ -4,7 +4,7 @@ import 'package:speech_to_text/speech_recognition_error.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
-import 'package:talkdimsum/core/util/speech.dart';
+import 'package:talkdimsum/core/util/tts.dart';
 import 'package:talkdimsum/core/util/settings.dart';
 
 import 'package:talkdimsum/ui/common/dish/practice_mixins.dart';
