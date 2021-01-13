@@ -17,21 +17,12 @@ class LanguageDropdown extends StatelessWidget {
           settings.language = value;
         },
         // should map Chinese.values
-        items: [
-          const DropdownMenuItem<Chinese>(
-            value: Chinese.Cantonese,
-            child: Text("Cantonese"),
-          ),
-          const DropdownMenuItem<Chinese>(
-            value: Chinese.Mandarin,
-            child: Text("Mandarin"),
-          ),
-          const DropdownMenuItem<Chinese>(
-            value: Chinese.Simplified,
-            child: Text("Simplified"),
-          ),
-        ],
-      );
-    });
+        items: Chinese.values.map((value) => 
+          DropdownMenuItem<Chinese>(
+            value: value, child: Text(settings.languageName(value))))
+      .toList());
+    }
+    );
   }
 }
+

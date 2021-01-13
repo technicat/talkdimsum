@@ -28,19 +28,18 @@ class DishSummaryWidget extends StatelessWidget {
           child: DishImageWidget(dish: dish)),
       DishWordWidget(word: dish.word),
       Expanded(child: DishDescriptionWidget(dish: dish)),
-      Consumer<DimSum>(builder: (context, dimsum, child) {
-        return dimsum.isFavorite(dish)
-            ? CupertinoButton(
-                child: Icon(CupertinoIcons.heart_fill),
-                onPressed: () {
-                  dimsum.removeFavorite(dish);
-                })
-            : CupertinoButton(
-                child: Icon(CupertinoIcons.heart),
-                onPressed: () {
-                  dimsum.addFavorite(dish);
-                });
-      })
+      Consumer<DimSum>(
+          builder: (context, dimsum, child) => dimsum.isFavorite(dish)
+              ? CupertinoButton(
+                  child: Icon(CupertinoIcons.heart_fill),
+                  onPressed: () {
+                    dimsum.removeFavorite(dish);
+                  })
+              : CupertinoButton(
+                  child: Icon(CupertinoIcons.heart),
+                  onPressed: () {
+                    dimsum.addFavorite(dish);
+                  }))
       //  RowTagsWidget(dish: dish),
     ]);
   }

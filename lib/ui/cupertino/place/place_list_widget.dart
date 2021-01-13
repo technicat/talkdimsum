@@ -63,8 +63,8 @@ class PlaceCityTile extends StatelessWidget {
         onPressed: () {
           showCupertinoModalPopup(
               context: context,
-              builder: (_) {
-                return CupertinoActionSheet(
+              builder: (_) =>
+                CupertinoActionSheet(
                     title: Text(place.name),
                     message: Text(place.address),
                     actions: actions
@@ -73,8 +73,8 @@ class PlaceCityTile extends StatelessWidget {
                          // Navigator.pop(context);
                         },
                         child: Text('Cancel')*/
-                    );
-              });
+                    )
+          );
         },
         child: Column(children: [
           Text(place.name,
