@@ -9,9 +9,9 @@ import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/util/tts.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
-import 'package:talkdimsum/ui/common/dish/practice_mixins.dart';
+import 'package:talkdimsum/core/provider/stt.dart';
 
-class STTWidget extends StatefulWidget {
+class STTWidget extends StatefulWidget with STTState {
   final Word word;
 
   STTWidget({Key key, @required this.word}) : super(key: key);
@@ -22,9 +22,10 @@ class STTWidget extends StatefulWidget {
 
 class STTWidgetState extends State<STTWidget> with STTState {
   @override
-  Widget 
+  Widget build {
+    return
            Consumer<Settings>(builder: (context, settings, child) {
-          if (lastWords == widget.word.chineseText(settings.language))
+          return if (lastWords == widget.word.chineseText(settings.language))
             Text('You got it!',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24)),
           if (!widget.word.chineseText(settings.language).startsWith(lastWords))

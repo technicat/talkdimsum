@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:talkdimsum/core/provider/settings.dart';
+import 'package:talkdimsum/core/model/language.dart';
 
 import 'link.dart';
 

@@ -10,7 +10,7 @@ import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
 import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
 
-import 'package:talkdimsum/ui/common/dish/practice_mixins.dart';
+import 'package:talkdimsum/core/provider/stt.dart';
 
 import 'package:talkdimsum/ui/material/word/play_widget.dart';
 

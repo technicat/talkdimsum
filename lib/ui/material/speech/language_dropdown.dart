@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'package:provider/provider.dart';
 
+import 'package:talkdimsum/core/model/language.dart';
+
 import 'package:talkdimsum/core/provider/settings.dart';
 
 class LanguageDropdown extends StatelessWidget {

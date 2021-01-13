@@ -2,6 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:provider/provider.dart';
 
+import 'package:talkdimsum/core/model/language.dart';
+
 import 'package:talkdimsum/core/provider/settings.dart';
 
 class LanguageWidget extends StatelessWidget {

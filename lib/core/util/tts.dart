@@ -4,14 +4,17 @@ import 'dart:io' show Platform;
 
 import 'package:flutter_tts/flutter_tts.dart';
 
+import 'package:talkdimsum/core/model/language.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
-import '../provider/settings.dart';
+//import '../provider/settings.dart';
 
+// rename to TTS
 class Speech {
   static FlutterTts flutterTts = FlutterTts();
 
 // this could be a Map
+// move to Language
   static String locale(Chinese lang) {
     try {
       // Platform checks fail on web

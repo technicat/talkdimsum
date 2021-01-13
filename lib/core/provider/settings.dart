@@ -4,6 +4,8 @@ import 'package:flutter/foundation.dart' show ChangeNotifier;
 
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'package:talkdimsum/core/model/language.dart';
+
 class Settings with ChangeNotifier {
 
   SharedPreferences prefs;
@@ -55,10 +57,4 @@ class Settings with ChangeNotifier {
     }
   }
 
-}
-
-enum Chinese {
-  Cantonese,
-  Mandarin,
-  Simplified,
 }
