@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
-
 class WordPronounceWidget extends StatelessWidget {
   final Word word;
 
@@ -13,9 +12,10 @@ class WordPronounceWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<Settings>(builder: (context, settings, child) {
-      return Text('${word.pronunciation(settings.language)}',
-          textAlign: TextAlign.center, style: TextStyle(fontSize: 20));
-    });
+    return Consumer<Settings>(
+        builder: (context, settings, child) => Text(
+            '${word.pronunciation(settings.language)}',
+            textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 20)));
   }
 }

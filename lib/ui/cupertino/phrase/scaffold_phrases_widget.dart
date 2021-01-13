@@ -14,10 +14,10 @@ class ScaffoldPhrasesWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
           middle: Text('Phrases'),
         ),
-        child: Consumer<Conversation>(builder: (context, conversation, child) {
-          return conversation.phrases.isEmpty
-              ? CupertinoActivityIndicator()
-              : PhrasesListWidget(phrases: conversation.phrases[0]);
-        }));
+        child: Consumer<Conversation>(
+            builder: (context, conversation, child) =>
+                conversation.phrases.isEmpty
+                    ? CupertinoActivityIndicator()
+                    : PhrasesListWidget(phrases: conversation.phrases[0])));
   }
 }

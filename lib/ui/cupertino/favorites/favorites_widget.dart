@@ -13,9 +13,9 @@ class FavoritesWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
           middle: Text('Favorites'),
         ),
-        child:
-            SafeArea(child: Consumer<DimSum>(builder: (context, dimsum, child) {
-          return DishesWidget(dishes: dimsum.favorites);
-        })));
+        child: SafeArea(
+            child: Consumer<DimSum>(
+                builder: (context, dimsum, child) =>
+                    DishesWidget(dishes: dimsum.favorites))));
   }
 }

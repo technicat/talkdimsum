@@ -13,10 +13,9 @@ class WordChineseWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<Settings>(
-      builder: (context, settings, child) {
-        return Text('${word.chineseText(settings.language)}',
-            textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
-      },
-    );
+        builder: (context, settings, child) => Text(
+            '${word.chineseText(settings.language)}',
+            textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 24)));
   }
 }

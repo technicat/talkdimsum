@@ -17,9 +17,9 @@ class WordDishesWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
           middle: Text(word.display()),
         ),
-        child:
-            SafeArea(child: Consumer<DimSum>(builder: (context, dimsum, child) {
-          return DishesWidget(dishes: dimsum.dishes(word));
-        })));
+        child: SafeArea(
+            child: Consumer<DimSum>(
+                builder: (context, dimsum, child) =>
+                    DishesWidget(dishes: dimsum.dishes(word)))));
   }
 }
