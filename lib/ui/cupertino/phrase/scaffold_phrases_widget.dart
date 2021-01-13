@@ -1,11 +1,8 @@
 /* Technicat LLC */
 
-import 'package:provider/provider.dart';
 import 'package:flutter/cupertino.dart';
 
-import 'package:talkdimsum/core/provider/conversation.dart';
-
-import 'phrases_list_widget.dart';
+import 'phrases_widget.dart';
 
 class ScaffoldPhrasesWidget extends StatelessWidget {
   @override
@@ -14,10 +11,7 @@ class ScaffoldPhrasesWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
           middle: Text('Phrases'),
         ),
-        child: Consumer<Conversation>(
-            builder: (context, conversation, child) =>
-                conversation.phrases.isEmpty
-                    ? CupertinoActivityIndicator()
-                    : PhrasesListWidget(phrases: conversation.phrases[0])));
+        child: PhrasesWidget());
   }
 }
+
