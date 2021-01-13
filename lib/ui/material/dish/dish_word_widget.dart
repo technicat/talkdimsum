@@ -2,7 +2,13 @@ import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/util/tts.dart';
-import 'package:talkdimsum/core/util/settings.dart';
+import 'package:talkdimsum/core/provider/settings.dart';
+
+import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
+import 'package:talkdimsum/ui/common/word/word_english_widget.dart';
+import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
+
+import 'package:talkdimsum/ui/material/word/play_widget.dart';
 
 import 'practice_widget.dart';
 
@@ -14,19 +20,10 @@ class DishWordWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(children: <Widget>[
-      Text('${word.english}',
-          textAlign: TextAlign.center,
-          style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+      WordEnglishWidget(word:word),
       Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: <Widget>[
-        IconButton(
-          icon: Icon(Icons.volume_up),
-          tooltip: 'Hear how this dish is pronounced in Chinese',
-          onPressed: () {
-            Speech.sayWord(word, Settings.language, Settings.speed);
-          },
-        ),
-        Text('${word.chineseText(Settings.language)}',
-            textAlign: TextAlign.center, style: TextStyle(fontSize: 24)),
+        PlayWidget(word:word),
+        WordChineseWidget(word:word),
         IconButton(
           icon: Icon(Icons.mic),
           tooltip: 'Play and practice this word',
@@ -38,8 +35,7 @@ class DishWordWidget extends StatelessWidget {
           },
         ),
       ]),
-      Text('${word.pronunciation(Settings.language)}',
-          textAlign: TextAlign.center, style: TextStyle(fontSize: 20)),
+      WordPronounceWidget(word:word)
     ]);
   }
 }

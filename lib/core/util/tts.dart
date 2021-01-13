@@ -6,7 +6,7 @@ import 'package:flutter_tts/flutter_tts.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'settings.dart';
+import '../provider/settings.dart';
 
 class Speech {
   static FlutterTts flutterTts = FlutterTts();
