@@ -18,7 +18,7 @@ class WordPlayWidget extends StatelessWidget {
       return CupertinoButton(
         child: Icon(CupertinoIcons.volume_up),
         onPressed: () {
-          Speech.sayWord(word, settings.language, settings.speed);
+          TTS.sayWord(word, settings.language, settings.speed);
         },
       );
     });

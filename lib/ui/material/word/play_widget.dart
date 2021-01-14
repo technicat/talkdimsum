@@ -19,7 +19,7 @@ class PlayWidget extends StatelessWidget {
            icon: Icon(Icons.volume_up),
           tooltip: 'Hear how this dish is pronounced in Chinese',
         onPressed: () {
-          Speech.sayWord(word, settings.language, settings.speed);
+          TTS.sayWord(word, settings.language, settings.speed);
         },
       );
     });

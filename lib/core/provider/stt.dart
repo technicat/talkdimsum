@@ -13,23 +13,23 @@ class STT with ChangeNotifier {
   String lastWords = "";
   String lastError = "";
   String lastStatus = "";
-/*
-   Future listen(Chinese lang) async {
+
+  Future listen(Chinese lang) async {
     lastWords = "";
     bool available = await speech.initialize(
         onStatus: statusListener, onError: errorListener);
     if (available) {
       speech.listen(
-          onResult: resultListener,
+         // onResult: resultListener,
           listenFor: Duration(seconds: 10),
-          localeId: Speech.locale(lang),
+          localeId: Language.locale(lang),
           onSoundLevelChange: soundLevelListener,
           cancelOnError: true,
           partialResults: true);
     } else {
       print("The user has denied the use of speech recognition.");
     }
-  } */
+  }
 
   stopListening() {
     speech.stop();
