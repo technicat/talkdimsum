@@ -9,7 +9,7 @@ import 'package:talkdimsum/core/model/word.dart';
 class TTS {
   static FlutterTts flutterTts = FlutterTts();
 
-  static Future sayText(String text, Chinese lang, double speed) async {
+  static Future _say(String text, Chinese lang, double speed) async {
     try {
       // Platform check fails on web
       if (Platform.isIOS || Platform.isMacOS) {
@@ -36,7 +36,7 @@ class TTS {
     }
   }
 
-  static Future sayWord(Word word, Chinese lang, double speed) async {
-    await sayText(word.chineseText(lang), lang, speed);
+  static Future say(Word word, Chinese lang, double speed) async {
+    await _say(word.chineseText(lang), lang, speed);
   }
 }

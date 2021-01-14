@@ -18,7 +18,7 @@ class PlayButton extends StatelessWidget {
       return CupertinoButton(
         child: Icon(CupertinoIcons.volume_up),
         onPressed: () {
-          TTS.sayWord(word, settings.language, settings.speed);
+          TTS.say(word, settings.language, settings.speed);
         },
       );
     });
