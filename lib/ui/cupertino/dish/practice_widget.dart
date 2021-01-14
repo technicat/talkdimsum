@@ -6,11 +6,10 @@ import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
 import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
 
 import 'package:talkdimsum/ui/cupertino/speech/speed_widget.dart';
-
 import 'package:talkdimsum/ui/cupertino/word/word_play_widget.dart';
+import 'package:talkdimsum/ui/cupertino/speech/language_widget.dart';
 
-import '../speech/speed_widget.dart';
-import '../speech/language_widget.dart';
+import 'stt_widget.dart';
 
 class PracticeWidget extends StatelessWidget {
   final Word word;
@@ -31,6 +30,7 @@ class PracticeWidget extends StatelessWidget {
           WordChineseWidget(word: word),
           WordPronounceWidget(word: word),
           Spacer(),
+          STTWidget(word:word)
         ]))));
   }
 }
