@@ -7,10 +7,10 @@ import 'package:talkdimsum/core/util/tts.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
 
-class WordPlayWidget extends StatelessWidget {
+class PlayButton extends StatelessWidget {
   final Word word;
 
-  WordPlayWidget({Key key, @required this.word}) : super(key: key);
+  PlayButton({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
