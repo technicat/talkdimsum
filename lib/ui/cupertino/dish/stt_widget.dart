@@ -2,9 +2,6 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:provider/provider.dart';
 
-//import 'package:speech_to_text/speech_recognition_error.dart';
-//import 'package:speech_to_text/speech_recognition_result.dart';
-
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
@@ -30,37 +27,6 @@ class STTWidget extends StatelessWidget {
           Spacer(), */
         STTButton(word: word);
   }
-
-  /* Future listen(Chinese lang) async {
-    lastWords = "";
-    bool available = await speech.initialize(
-        onStatus: statusListener, onError: errorListener);
-    if (available) {
-      speech.listen(
-          onResult: resultListener,
-          listenFor: Duration(seconds: 10),
-          localeId: Speech.locale(lang),
-          onSoundLevelChange: soundLevelListener,
-          cancelOnError: true,
-          partialResults: true);
-    } else {
-      print("The user has denied the use of speech recognition.");
-    }
-  }
-
-  void resultListener(SpeechRecognitionResult result) {
-    setState(() {
-      lastWords = "${result.recognizedWords}"; //  - ${result.finalResult}";
-      if (lastWords == widget.word.chineseText(lang)) {
-        stopListening();
-      }
-      if (!widget.word.chineseText(lang).startsWith(lastWords)) {
-        stopListening();
-      }
-    });
-  }
-*/
-
 }
 
 class STTButton extends StatelessWidget {
@@ -81,9 +47,8 @@ class STTButton extends StatelessWidget {
                   )
                 : CupertinoButton(
                     child: Icon(CupertinoIcons.mic),
-                    //  tooltip: 'Practice saying this word',
                     onPressed: () {
-                      stt.listen(settings.language);
+                      stt.listen(word,settings.language);
                     },
                   )));
   }

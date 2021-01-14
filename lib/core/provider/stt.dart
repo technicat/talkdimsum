@@ -2,9 +2,10 @@ import 'package:flutter/foundation.dart' show ChangeNotifier;
 
 import 'package:speech_to_text/speech_to_text.dart';
 import 'package:speech_to_text/speech_recognition_error.dart';
-//import 'package:speech_to_text/speech_recognition_result.dart';
+import 'package:speech_to_text/speech_recognition_result.dart';
 
 import 'package:talkdimsum/core/model/language.dart';
+import 'package:talkdimsum/core/model/word.dart';
 
 
 class STT with ChangeNotifier {
@@ -14,16 +15,19 @@ class STT with ChangeNotifier {
   String lastError = "";
   String lastStatus = "";
 
-  Future listen(Chinese lang) async {
+  String target = "";
+
+  Future listen(Word word, Chinese lang) async {
     lastWords = "";
+    target = word.chineseText(lang);
     bool available = await speech.initialize(
-        onStatus: statusListener, onError: errorListener);
+        onStatus: _statusListener, onError: _errorListener);
     if (available) {
       speech.listen(
-         // onResult: resultListener,
+          onResult: _resultListener,
           listenFor: Duration(seconds: 10),
           localeId: Language.locale(lang),
-          onSoundLevelChange: soundLevelListener,
+          onSoundLevelChange: _soundLevelListener,
           cancelOnError: true,
           partialResults: true);
     } else {
@@ -35,34 +39,31 @@ class STT with ChangeNotifier {
     speech.stop();
   }
 
- /* void resultListener(SpeechRecognitionResult result) {
+  void _resultListener(SpeechRecognitionResult result) {
       lastWords = "${result.recognizedWords}"; //  - ${result.finalResult}";
-      if (lastWords == widget.word.chineseText(lang)) {
+      if (lastWords == target) {
         stopListening();
       }
-      if (!widget.word.chineseText(lang).startsWith(lastWords)) {
+      if (!target.startsWith(lastWords)) {
         stopListening();
       }
-  } */
-
-  void errorListener(SpeechRecognitionError error) {
-    // print("Received error status: $error, listening: ${speech.isListening}");
-      lastError = "${error.errorMsg} - ${error.permanent}";
   }
 
-  void statusListener(String status) {
+  void _errorListener(SpeechRecognitionError error) {
+    // print("Received error status: $error, listening: ${speech.isListening}");
+      lastError = "${error.errorMsg} - ${error.permanent}";
+      notifyListeners();
+  }
+
+  void _statusListener(String status) {
     // print(
     // "Received listener status: $status, listening: ${speech.isListening}");
       lastStatus = "$status";
+      notifyListeners();
   }
 
-  void soundLevelListener(double level) {
-    /* minSoundLevel = min(minSoundLevel, level);
-    maxSoundLevel = max(maxSoundLevel, level);
+  void _soundLevelListener(double level) {
     // print("sound level $level: $minSoundLevel - $maxSoundLevel ");
-    setState(() {
-      this.level = level;
-    }); */
   }
 }
 
