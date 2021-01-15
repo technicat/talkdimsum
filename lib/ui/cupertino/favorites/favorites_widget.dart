@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 
-import '../dishes/dishes_widget.dart';
+import '../dishes/dishes_grid.dart';
 
 class FavoritesWidget extends StatelessWidget {
   @override
