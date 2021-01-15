@@ -2,7 +2,7 @@
 
 import 'package:flutter/cupertino.dart';
 
-import 'categories_widget.dart';
+import 'categories_grid.dart';
 
 class CategoriesScaffold extends StatelessWidget {
   @override
@@ -13,6 +13,6 @@ class CategoriesScaffold extends StatelessWidget {
           //  transitionBetweenRoutes: true,
           middle: Text('Dishes'),
         ),
-        child: SafeArea(child: CategoriesWidget()));
+        child: SafeArea(child: CategoriesGrid()));
   }
 }

@@ -6,7 +6,7 @@ import 'package:talkdimsum/core/provider/dimsum.dart';
 
 import 'category_dishes_grid.dart';
 
-class CategoriesWidget extends StatelessWidget {
+class CategoriesGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<DimSum>(builder: (context, dimsum, child) =>
