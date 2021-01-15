@@ -5,7 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'dishes/categories_scaffold.dart';
 import 'place/scaffold_country_widget.dart';
 import 'phrase/scaffold_phrases_widget.dart';
-import 'favorites/favorites_widget.dart';
+import 'favorites/favorites_scaffold.dart';
 
 class NavigationBar extends StatelessWidget {
   @override
@@ -33,7 +33,7 @@ class NavigationBar extends StatelessWidget {
               });
             case 2:
               return CupertinoTabView(builder: (BuildContext context) {
-                return FavoritesWidget();
+                return FavoritesScaffold();
               });
             case 3:
               return CupertinoTabView(builder: (BuildContext context) {

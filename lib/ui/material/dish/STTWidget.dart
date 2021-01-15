@@ -7,8 +7,8 @@ import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/util/tts.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
-import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
-import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
+import 'package:talkdimsum/ui/common/word/chinese_text.dart';
+import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
 
 import 'package:talkdimsum/core/provider/stt.dart';
 
