@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 
-import 'dish_summary_widget.dart';
+import 'dish_widget.dart';
 
 class DishScaffold extends StatelessWidget {
   final Dish dish;
@@ -15,6 +15,6 @@ class DishScaffold extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(
             middle: Text('Talk Dim Sum') // for lack of anything better
             ),
-        child: SafeArea(child: DishSummaryWidget(dish: dish)));
+        child: SafeArea(child: DishWidget(dish: dish)));
   }
 }

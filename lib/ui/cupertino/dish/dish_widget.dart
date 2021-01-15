@@ -8,10 +8,10 @@ import 'package:talkdimsum/ui/common/dish/dish_image_widget.dart';
 import 'dish_word_widget.dart';
 import 'favorite_button.dart';
 
-class DishSummaryWidget extends StatelessWidget {
+class DishWidget extends StatelessWidget {
   final Dish dish;
 
-  DishSummaryWidget({Key key, @required this.dish}) : super(key: key);
+  DishWidget({Key key, @required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
