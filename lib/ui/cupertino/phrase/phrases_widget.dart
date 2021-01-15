@@ -5,7 +5,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/provider/conversation.dart';
 
-import 'phrases_list_widget.dart';
+import 'phrases_list_view.dart';
 
 class PhrasesWidget extends StatelessWidget {
   @override
@@ -13,6 +13,6 @@ class PhrasesWidget extends StatelessWidget {
     return Consumer<Conversation>(
         builder: (context, conversation, child) => conversation.phrases.isEmpty
             ? CupertinoActivityIndicator()
-            : PhrasesListWidget(phrases: conversation.phrases[0]));
+            : PhrasesListView(phrases: conversation.phrases[0]));
   }
 }

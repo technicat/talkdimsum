@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import '../dish/practice_widget.dart';
+import 'practice_widget.dart';
 
 class PracticeButton extends StatelessWidget {
   final Word word;

@@ -25,7 +25,7 @@ class BubbleOther extends Bubble {
 
     return Bubble(
       style: style,
-      child: DishWordWidget(word: word),
+      child: WordWidget(word: word),
     );
   }
 }
@@ -50,7 +50,7 @@ class BubbleMe extends Bubble {
 
     return Bubble(
       style: style,
-      child: DishWordWidget(word: word),
+      child: WordWidget(word: word),
     );
   }
 }

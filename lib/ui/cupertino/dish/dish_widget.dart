@@ -25,7 +25,7 @@ class DishWidget extends StatelessWidget {
             )..show(context);
           },
           child: DishImageWidget(dish: dish)),
-      DishWordWidget(word: dish.word),
+      WordWidget(word: dish.word),
       Expanded(child: DishDescriptionWidget(dish: dish)),
       FavoriteButton(dish: dish)
     ]);

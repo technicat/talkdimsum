@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/settings.dart';
 
-class SpeedWidget extends StatelessWidget {
+class SpeedSlider extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<Settings>(

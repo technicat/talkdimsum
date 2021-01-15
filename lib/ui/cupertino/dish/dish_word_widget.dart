@@ -8,10 +8,10 @@ import 'package:talkdimsum/ui/common/word/english_text.dart';
 import 'package:talkdimsum/ui/cupertino/word/word_speech_widget.dart';
 
 
-class DishWordWidget extends StatelessWidget {
+class WordWidget extends StatelessWidget {
   final Word word;
 
-  DishWordWidget({Key key, @required this.word}) : super(key: key);
+  WordWidget({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

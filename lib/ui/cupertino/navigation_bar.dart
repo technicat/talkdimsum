@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'dishes/categories_scaffold.dart';
 import 'place/scaffold_country_widget.dart';
-import 'phrase/scaffold_phrases_widget.dart';
+import 'phrase/phrases_scaffold.dart';
 import 'favorites/favorites_scaffold.dart';
 
 class NavigationBar extends StatelessWidget {
@@ -37,7 +37,7 @@ class NavigationBar extends StatelessWidget {
               });
             case 3:
               return CupertinoTabView(builder: (BuildContext context) {
-                return ScaffoldPhrasesWidget();
+                return PhrasesScaffold();
               });
             case 4:
               return CupertinoTabView(builder: (BuildContext context) {

@@ -1,14 +1,14 @@
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/widgets.dart';
 import 'package:bubble/bubble.dart';
 
 import 'package:talkdimsum/core/model/phrases.dart';
 
 import 'bubbles.dart';
 
-class PhrasesListWidget extends StatelessWidget {
+class PhrasesListView extends StatelessWidget {
   final Phrases phrases;
 
-  PhrasesListWidget({Key key, @required this.phrases}) : super(key: key);
+  PhrasesListView({Key key, @required this.phrases}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

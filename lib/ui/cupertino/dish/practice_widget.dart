@@ -5,8 +5,8 @@ import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/common/word/chinese_text.dart';
 import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
 
-import 'package:talkdimsum/ui/cupertino/speech/speed_widget.dart';
-import 'package:talkdimsum/ui/cupertino/speech/language_widget.dart';
+import 'package:talkdimsum/ui/cupertino/settings/speed_slider.dart';
+import 'package:talkdimsum/ui/cupertino/settings/language_segment_congrol.dart';
 
 import 'package:talkdimsum/ui/cupertino/tts/play_button.dart';
 
@@ -24,9 +24,9 @@ class PracticeWidget extends StatelessWidget {
         child: SafeArea(
             child: Center(
                 child: Column(children: <Widget>[
-          LanguageWidget(),
+          LanguageSegmentControl(),
           Spacer(),
-          SpeedWidget(),
+          SpeedSlider(),
           PlayButton(word: word),
           ChineseText(word: word),
           PronounceText(word: word),

@@ -6,7 +6,7 @@ import 'package:talkdimsum/core/model/language.dart';
 
 import 'package:talkdimsum/core/provider/settings.dart';
 
-class LanguageWidget extends StatelessWidget {
+class LanguageSegmentControl extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<Settings>(
