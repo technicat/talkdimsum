@@ -5,6 +5,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:talkdimsum/core/model/place.dart';
 import 'package:talkdimsum/core/model/region.dart';
 
+import 'package:talkdimsum/ui/common/place/place_widget.dart';
+
 class RegionScaffold extends StatelessWidget {
   final Region region;
 
@@ -17,16 +19,16 @@ class RegionScaffold extends StatelessWidget {
         child: SafeArea(
             child: ListView(
                 children: region.places
-                    .map((place) => PlaceTile(region: region, place: place))
+                    .map((place) => PlaceRow(region: region, place: place))
                     .toList())));
   }
 }
 
-class PlaceTile extends StatelessWidget {
+class PlaceRow extends StatelessWidget {
   final Region region;
   final Place place;
 
-  PlaceTile({Key key, @required this.region, this.place}) : super(key: key);
+  PlaceRow({Key key, @required this.region, this.place}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -64,29 +66,5 @@ class PlaceTile extends StatelessWidget {
                   ));
         },
         child: PlaceWidget(place: place));
-  }
-}
-
-class PlaceWidget extends StatelessWidget {
-  final Place place;
-
-  PlaceWidget({Key key, @required this.place}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(children: [
-      Text(place.name,
-          textAlign: TextAlign.center,
-          style: TextStyle(
-            fontWeight: FontWeight.w500,
-            fontSize: 16,
-          )),
-      Text(place.city,
-          textAlign: TextAlign.center,
-          style: TextStyle(
-            fontWeight: FontWeight.w500,
-            fontSize: 12,
-          ))
-    ]);
   }
 }
