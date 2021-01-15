@@ -23,7 +23,7 @@ class DishWordWidget extends StatelessWidget {
       WordEnglishWidget(word:word),
       Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: <Widget>[
         PlayWidget(word:word),
-        WordChineseWidget(word:word),
+        ChineseWidget(word:word),
         IconButton(
           icon: Icon(Icons.mic),
           tooltip: 'Play and practice this word',

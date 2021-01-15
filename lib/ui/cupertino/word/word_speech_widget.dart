@@ -4,8 +4,7 @@ import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
 
 import 'package:talkdimsum/ui/cupertino/tts/play_button.dart';
-
-import '../stt/practice_button.dart';
+import 'package:talkdimsum/ui/cupertino/stt/practice_button.dart';
 
 class WordSpeechWidget extends StatelessWidget {
   final Word word;
@@ -18,7 +17,7 @@ class WordSpeechWidget extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: <Widget>[
           PlayButton(word: word),
-          WordChineseWidget(word: word),
+          ChineseWidget(word: word),
           PracticeButton(word: word)
         ]);
   }

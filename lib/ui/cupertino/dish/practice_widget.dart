@@ -28,7 +28,7 @@ class PracticeWidget extends StatelessWidget {
           Spacer(),
           SpeedWidget(),
           PlayButton(word: word),
-          WordChineseWidget(word: word),
+          ChineseWidget(word: word),
           WordPronounceWidget(word: word),
           Spacer(),
           STTWidget(word:word)

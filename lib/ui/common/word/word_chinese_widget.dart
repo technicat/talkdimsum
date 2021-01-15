@@ -5,10 +5,10 @@ import 'package:provider/provider.dart';
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
-class WordChineseWidget extends StatelessWidget {
+class ChineseWidget extends StatelessWidget {
   final Word word;
 
-  WordChineseWidget({Key key, @required this.word}) : super(key: key);
+  ChineseWidget({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

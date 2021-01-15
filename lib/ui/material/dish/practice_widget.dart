@@ -23,7 +23,7 @@ class PracticeWidget extends StatelessWidget {
           LanguageDropdown(),
           SpeedSlider(),
           PlayWidget(word:word),
-          WordChineseWidget(word: word),
+          ChineseWidget(word: word),
           WordPronounceWidget(word:word)
         ]));
   }
