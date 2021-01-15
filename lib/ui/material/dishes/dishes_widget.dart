@@ -4,7 +4,7 @@ import 'package:talkdimsum/core/model/dish.dart';
 
 import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
 
-import 'package:talkdimsum/ui/material/dish/dish_widget.dart';
+import 'package:talkdimsum/ui/material/dish/dish_scaffold.dart';
 
 class DishesWidget extends StatelessWidget {
   final List<Dish> dishes;
@@ -38,7 +38,7 @@ class DishCardCellWidget extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => DishWidget(dish: dish)),
+                MaterialPageRoute(builder: (context) => DishScaffold(dish: dish)),
               );
             },
             child: DishImageTextWidget(dish: dish)));

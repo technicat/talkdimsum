@@ -3,7 +3,7 @@ import 'package:bubble/bubble.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'package:talkdimsum/ui/material/dish/dish_word_widget.dart';
+import 'package:talkdimsum/ui/material/word/word_widget.dart';
 
 class BubbleOther extends Bubble {
   final Word word;
@@ -25,7 +25,7 @@ class BubbleOther extends Bubble {
 
     return Bubble(
       style: style,
-      child: DishWordWidget(word: word),
+      child: WordWidget(word: word),
     );
   }
 }
@@ -50,7 +50,7 @@ class BubbleMe extends Bubble {
 
     return Bubble(
       style: style,
-      child: DishWordWidget(word: word),
+      child: WordWidget(word: word),
     );
   }
 }

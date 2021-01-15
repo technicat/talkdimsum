@@ -6,7 +6,7 @@ import 'package:provider/provider.dart';
 import 'package:talkdimsum/core/model/country.dart';
 import 'package:talkdimsum/core/provider/countries.dart';
 
-import 'region_list_widget.dart';
+import 'region_list_view.dart';
 
 class ScaffoldCountryWidget extends StatefulWidget {
   @override
@@ -40,7 +40,7 @@ class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
                     .toList(),
               )
             ]),
-            body: RegionListWidget(country: country));
+            body: RegionListView(country: country));
       }
     });
   }

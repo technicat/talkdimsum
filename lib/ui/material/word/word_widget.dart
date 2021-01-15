@@ -6,21 +6,21 @@ import 'package:talkdimsum/ui/common/word/chinese_text.dart';
 import 'package:talkdimsum/ui/common/word/english_text.dart';
 import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
 
-import 'package:talkdimsum/ui/material/word/play_widget.dart';
+import 'package:talkdimsum/ui/material/tts/play_button.dart';
 
-import 'practice_widget.dart';
+import '../dish/practice_widget.dart';
 
-class DishWordWidget extends StatelessWidget {
+class WordWidget extends StatelessWidget {
   final Word word;
 
-  DishWordWidget({Key key, @required this.word}) : super(key: key);
+  WordWidget({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Column(children: <Widget>[
       EnglishText(word:word),
       Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: <Widget>[
-        PlayWidget(word:word),
+        PlayButton(word:word),
         ChineseText(word:word),
         IconButton(
           icon: Icon(Icons.mic),

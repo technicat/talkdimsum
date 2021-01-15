@@ -5,10 +5,10 @@ import 'package:talkdimsum/core/model/word.dart';
 
 import '../tag/tag_widget.dart';
 
-class RowTagsWidget extends StatelessWidget {
+class TagsRow extends StatelessWidget {
   final Dish dish;
 
-  RowTagsWidget({Key key, @required this.dish}) : super(key: key);
+  TagsRow({Key key, @required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
