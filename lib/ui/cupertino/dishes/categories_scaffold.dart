@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'categories_widget.dart';
 
-class DishesScaffold extends StatelessWidget {
+class CategoriesScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
