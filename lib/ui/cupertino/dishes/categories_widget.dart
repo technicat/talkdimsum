@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 
-import 'category_dishes_widget.dart';
+import 'category_dishes_grid.dart';
 
 class CategoriesWidget extends StatelessWidget {
   @override

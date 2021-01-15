@@ -19,14 +19,14 @@ class CategoryDishesGrid extends StatelessWidget {
         mainAxisSpacing: 4,
         crossAxisSpacing: 4,
         children:
-            dishes.map((dish) => CategoryCellWidget(dish: dish)).toList());
+            dishes.map((dish) => CategoryDishWidget(dish: dish)).toList());
   }
 }
 
-class CategoryCellWidget extends StatelessWidget {
+class CategoryDishWidget extends StatelessWidget {
   final Dish dish;
 
-  CategoryCellWidget({Key key, @required this.dish}) : super(key: key);
+  CategoryDishWidget({Key key, @required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
