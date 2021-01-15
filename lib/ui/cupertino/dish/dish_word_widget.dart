@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
-import 'package:talkdimsum/ui/common/word/word_english_widget.dart';
+import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
+import 'package:talkdimsum/ui/common/word/english_text.dart';
 
 import 'package:talkdimsum/ui/cupertino/word/word_speech_widget.dart';
 
@@ -16,9 +16,9 @@ class DishWordWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(children: <Widget>[
-      WordEnglishWidget(word: word),
+      EnglishText(word: word),
       WordSpeechWidget(word: word),
-      WordPronounceWidget(word: word)
+      PronounceText(word: word)
     ]);
   }
 }

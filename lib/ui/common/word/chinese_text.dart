@@ -5,17 +5,17 @@ import 'package:provider/provider.dart';
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
-class WordPronounceWidget extends StatelessWidget {
+class ChineseText extends StatelessWidget {
   final Word word;
 
-  WordPronounceWidget({Key key, @required this.word}) : super(key: key);
+  ChineseText({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Consumer<Settings>(
         builder: (context, settings, child) => Text(
-            '${word.pronunciation(settings.language)}',
+            '${word.chineseText(settings.language)}',
             textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 20)));
+            style: TextStyle(fontSize: 24)));
   }
 }

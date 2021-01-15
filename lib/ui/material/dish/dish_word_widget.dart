@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
-import 'package:talkdimsum/core/util/tts.dart';
-import 'package:talkdimsum/core/provider/settings.dart';
 
-import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
-import 'package:talkdimsum/ui/common/word/word_english_widget.dart';
-import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
+import 'package:talkdimsum/ui/common/word/chinese_text.dart';
+import 'package:talkdimsum/ui/common/word/english_text.dart';
+import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
 
 import 'package:talkdimsum/ui/material/word/play_widget.dart';
 
@@ -20,10 +18,10 @@ class DishWordWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(children: <Widget>[
-      WordEnglishWidget(word:word),
+      EnglishText(word:word),
       Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: <Widget>[
         PlayWidget(word:word),
-        ChineseWidget(word:word),
+        ChineseText(word:word),
         IconButton(
           icon: Icon(Icons.mic),
           tooltip: 'Play and practice this word',
@@ -35,7 +33,7 @@ class DishWordWidget extends StatelessWidget {
           },
         ),
       ]),
-      WordPronounceWidget(word:word)
+      PronounceText(word:word)
     ]);
   }
 }

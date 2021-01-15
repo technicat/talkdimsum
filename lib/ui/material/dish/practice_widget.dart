@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
-import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
+import 'package:talkdimsum/ui/common/word/chinese_text.dart';
+import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
 
 import 'package:talkdimsum/ui/material/speech/language_dropdown.dart';
 import 'package:talkdimsum/ui/material/speech/speed_slider.dart';
@@ -23,8 +23,8 @@ class PracticeWidget extends StatelessWidget {
           LanguageDropdown(),
           SpeedSlider(),
           PlayWidget(word:word),
-          ChineseWidget(word: word),
-          WordPronounceWidget(word:word)
+          ChineseText(word: word),
+          PronounceText(word:word)
         ]));
   }
 }

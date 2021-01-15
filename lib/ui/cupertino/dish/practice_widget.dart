@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
-import 'package:talkdimsum/ui/common/word/word_pronounce_widget.dart';
+import 'package:talkdimsum/ui/common/word/chinese_text.dart';
+import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
 
 import 'package:talkdimsum/ui/cupertino/speech/speed_widget.dart';
 import 'package:talkdimsum/ui/cupertino/speech/language_widget.dart';
@@ -28,8 +28,8 @@ class PracticeWidget extends StatelessWidget {
           Spacer(),
           SpeedWidget(),
           PlayButton(word: word),
-          ChineseWidget(word: word),
-          WordPronounceWidget(word: word),
+          ChineseText(word: word),
+          PronounceText(word: word),
           Spacer(),
           STTWidget(word:word)
         ]))));

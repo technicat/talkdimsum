@@ -2,10 +2,10 @@ import 'package:flutter/widgets.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-class WordEnglishWidget extends StatelessWidget {
+class EnglishText extends StatelessWidget {
   final Word word;
 
-  WordEnglishWidget({Key key, @required this.word}) : super(key: key);
+  EnglishText({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
