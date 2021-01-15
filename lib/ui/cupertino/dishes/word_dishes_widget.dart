@@ -20,6 +20,6 @@ class WordDishesWidget extends StatelessWidget {
         child: SafeArea(
             child: Consumer<DimSum>(
                 builder: (context, dimsum, child) =>
-                    DishesWidget(dishes: dimsum.dishes(word)))));
+                    DishesGrid(dishes: dimsum.dishes(word)))));
   }
 }

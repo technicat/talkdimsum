@@ -6,10 +6,10 @@ import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
 
 import 'word_dishes_widget.dart';
 
-class CategoryDishesWidget extends StatelessWidget {
+class CategoryDishesGrid extends StatelessWidget {
   final List<Dish> dishes;
 
-  CategoryDishesWidget({Key key, @required this.dishes}) : super(key: key);
+  CategoryDishesGrid({Key key, @required this.dishes}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

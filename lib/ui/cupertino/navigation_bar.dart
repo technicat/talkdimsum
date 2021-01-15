@@ -2,7 +2,7 @@
 
 import 'package:flutter/cupertino.dart';
 
-import 'dishes/scaffold_dishes_widget.dart';
+import 'dishes/dishes_scaffold.dart';
 import 'place/scaffold_country_widget.dart';
 import 'phrase/scaffold_phrases_widget.dart';
 import 'favorites/favorites_widget.dart';

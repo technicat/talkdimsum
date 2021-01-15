@@ -16,6 +16,6 @@ class FavoritesWidget extends StatelessWidget {
         child: SafeArea(
             child: Consumer<DimSum>(
                 builder: (context, dimsum, child) =>
-                    DishesWidget(dishes: dimsum.favorites))));
+                    DishesGrid(dishes: dimsum.favorites))));
   }
 }

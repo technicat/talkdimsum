@@ -5,10 +5,10 @@ import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/ui/cupertino/dish/dish_widget.dart';
 import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
 
-class DishesWidget extends StatelessWidget {
+class DishesGrid extends StatelessWidget {
   final List<Dish> dishes;
 
-  DishesWidget({Key key, @required this.dishes}) : super(key: key);
+  DishesGrid({Key key, @required this.dishes}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -17,11 +17,7 @@ class DishesWidget extends StatelessWidget {
         padding: const EdgeInsets.all(4),
         mainAxisSpacing: 4,
         crossAxisSpacing: 4,
-        children: dishes
-            .map(
-                (dish) => //GridTile(child: //DishImageWidget(dish: dish))).toList());
-                    DishCellWidget(dish: dish))
-            .toList());
+        children: dishes.map((dish) => DishCellWidget(dish: dish)).toList());
   }
 }
 
