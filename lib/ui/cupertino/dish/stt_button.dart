@@ -20,15 +20,59 @@ class STTButton extends StatelessWidget {
                 ? CupertinoButton(
                     child: Icon(CupertinoIcons.pause),
                     onPressed: () {
-                      stt.stopListening();
+                      stt.stop();
                     },
                   )
                 : CupertinoButton(
                     child: Icon(CupertinoIcons.mic),
                     onPressed: () {
-                      stt.listen(word,settings.language);
+                      stt.listen(word, settings.language);
                     },
                   )));
   }
+}
 
+/*  return if (stt.lastWords == widget.word.chineseText(settings.language))
+            Text('You got it!',
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24)),
+          if (!widget.word.chineseText(settings.language).startsWith(lastWords))
+            Text('Wrong!',
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24))
+           
+          Text('$lastWords',
+              textAlign: TextAlign.center, style: TextStyle(fontSize: 24)),
+          Spacer(), */
+
+class STTStatusText extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Consumer<STT>(builder: (context, stt, child) {
+      switch (stt.status) {
+        case STTStatus.Match:
+          {
+            return Text('Correct!',
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
+          }
+        case STTStatus.Mismatch:
+          {
+            return Text('Wrong!',
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
+          }
+        default:
+          {
+            return Text(stt.lastStatus,
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
+          }
+      }
+    });
+  }
+}
+
+class STTText extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Consumer<STT>(
+        builder: (context, stt, child) => Text('${stt.lastWords}',
+            textAlign: TextAlign.center, style: TextStyle(fontSize: 24)));
+  }
 }

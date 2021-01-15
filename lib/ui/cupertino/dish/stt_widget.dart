@@ -12,16 +12,8 @@ class STTWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(children: [
-        /*  return if (stt.lastWords == widget.word.chineseText(settings.language))
-            Text('You got it!',
-                textAlign: TextAlign.center, style: TextStyle(fontSize: 24)),
-          if (!widget.word.chineseText(settings.language).startsWith(lastWords))
-            Text('Wrong!',
-                textAlign: TextAlign.center, style: TextStyle(fontSize: 24))
-           
-          Text('$lastWords',
-              textAlign: TextAlign.center, style: TextStyle(fontSize: 24)),
-          Spacer(), */
+        STTStatusText(),
+        STTText(),
         STTButton(word: word)
     ]
     );

@@ -7,9 +7,21 @@ import 'package:speech_to_text/speech_recognition_result.dart';
 import 'package:talkdimsum/core/model/language.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
+enum STTStatus {
+  NotListening,
+  Listening,
+  Match,
+  Mismatch,
+  Timeout,
+  Error,
+  Stopped
+}
+
 
 class STT with ChangeNotifier {
   final SpeechToText speech = SpeechToText();
+
+  STTStatus status = STTStatus.NotListening;
 
   String lastWords = "";
   String lastError = "";
@@ -35,17 +47,24 @@ class STT with ChangeNotifier {
     }
   }
 
-  stopListening() {
+  _stop() {
     speech.stop();
+  }
+
+  stop() {
+    status = STTStatus.Stopped;
+    _stop();
   }
 
   void _resultListener(SpeechRecognitionResult result) {
       lastWords = "${result.recognizedWords}"; //  - ${result.finalResult}";
       if (lastWords == target) {
-        stopListening();
+        status = STTStatus.Match;
+        _stop();
       }
       if (!target.startsWith(lastWords)) {
-        stopListening();
+        status = STTStatus.Mismatch;
+        _stop();
       }
   }
 
