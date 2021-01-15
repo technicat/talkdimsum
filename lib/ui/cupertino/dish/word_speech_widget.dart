@@ -3,8 +3,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/common/word/word_chinese_widget.dart';
 
-import 'practice_button.dart';
-import 'play_button.dart';
+import 'package:talkdimsum/ui/cupertino/tts/play_button.dart';
+
+import '../stt/practice_button.dart';
 
 class WordSpeechWidget extends StatelessWidget {
   final Word word;
