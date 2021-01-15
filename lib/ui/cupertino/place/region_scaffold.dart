@@ -63,19 +63,30 @@ class PlaceTile extends StatelessWidget {
                         child: Text('Cancel')*/
                   ));
         },
-        child: Column(children: [
-          Text(place.name,
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontWeight: FontWeight.w500,
-                fontSize: 16,
-              )),
-          Text(place.city,
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontWeight: FontWeight.w500,
-                fontSize: 12,
-              ))
-        ]));
+        child: PlaceWidget(place: place));
+  }
+}
+
+class PlaceWidget extends StatelessWidget {
+  final Place place;
+
+  PlaceWidget({Key key, @required this.place}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(children: [
+      Text(place.name,
+          textAlign: TextAlign.center,
+          style: TextStyle(
+            fontWeight: FontWeight.w500,
+            fontSize: 16,
+          )),
+      Text(place.city,
+          textAlign: TextAlign.center,
+          style: TextStyle(
+            fontWeight: FontWeight.w500,
+            fontSize: 12,
+          ))
+    ]);
   }
 }
