@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/countries.dart';
 
-import 'region_list_widget.dart';
+import 'regions_list_view.dart';
 
 class CountryWidget extends StatelessWidget {
   @override
@@ -13,6 +13,6 @@ class CountryWidget extends StatelessWidget {
     return Consumer<Countries>(
         builder: (context, countries, child) => countries.countries.isEmpty
             ? CupertinoActivityIndicator()
-            : RegionListWidget(country: countries.countries[0]));
+            : RegionsListView(country: countries.countries[0]));
   }
 }

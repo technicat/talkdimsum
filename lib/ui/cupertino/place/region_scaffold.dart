@@ -5,10 +5,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:talkdimsum/core/model/place.dart';
 import 'package:talkdimsum/core/model/region.dart';
 
-class PlaceListWidget extends StatelessWidget {
+class RegionScaffold extends StatelessWidget {
   final Region region;
 
-  PlaceListWidget({Key key, @required this.region}) : super(key: key);
+  RegionScaffold({Key key, @required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -27,17 +27,6 @@ class PlaceTile extends StatelessWidget {
   final Place place;
 
   PlaceTile({Key key, @required this.region, this.place}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return PlaceCityTile(place: place);
-  }
-}
-
-class PlaceCityTile extends StatelessWidget {
-  final Place place;
-
-  PlaceCityTile({Key key, @required this.place}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

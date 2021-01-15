@@ -6,10 +6,10 @@ import 'package:talkdimsum/ui/common/word/chinese_text.dart';
 import 'package:talkdimsum/ui/cupertino/tts/play_button.dart';
 import 'package:talkdimsum/ui/cupertino/dish/practice_button.dart';
 
-class WordSpeechWidget extends StatelessWidget {
+class SpeechWidget extends StatelessWidget {
   final Word word;
 
-  WordSpeechWidget({Key key, @required this.word}) : super(key: key);
+  SpeechWidget({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
