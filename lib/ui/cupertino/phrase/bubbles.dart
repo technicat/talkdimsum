@@ -3,7 +3,7 @@ import 'package:bubble/bubble.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'package:talkdimsum/ui/cupertino/dish/dish_word_widget.dart';
+import 'package:talkdimsum/ui/cupertino/word/word_widget.dart';
 
 class BubbleOther extends Bubble {
   final Word word;
