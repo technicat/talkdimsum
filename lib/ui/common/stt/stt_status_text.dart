@@ -9,7 +9,11 @@ class STTStatusText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<STT>(builder: (context, stt, child) {
       switch (stt.status) {
-        case STTStatus.Match:
+        case STTStatus.Listening:
+          {
+            return Text('Listening...',
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
+          }
           {
             return Text('Correct!',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
@@ -17,6 +21,11 @@ class STTStatusText extends StatelessWidget {
         case STTStatus.Mismatch:
           {
             return Text('Wrong!',
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
+          }
+        case STTStatus.Stopped:
+          {
+            return Text('',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
           }
         default:
@@ -28,4 +37,3 @@ class STTStatusText extends StatelessWidget {
     });
   }
 }
-
