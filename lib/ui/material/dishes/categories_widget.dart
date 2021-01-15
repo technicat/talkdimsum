@@ -6,7 +6,7 @@ import 'package:talkdimsum/core/model/dish.dart';
 
 import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
 
-import 'word_dishes_widget.dart';
+import 'word_dishes_scaffold.dart';
 
 class CategoriesWidget extends StatelessWidget {
   @override
@@ -52,7 +52,7 @@ class CategoryCellWidget extends StatelessWidget {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                    builder: (context) => WordDishesWidget(word: dish.word)),
+                    builder: (context) => WordDishesScaffold(word: dish.word)),
               );
             },
             child: DishImageTextWidget(dish: dish)));

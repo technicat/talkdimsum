@@ -7,14 +7,14 @@ import 'package:provider/provider.dart';
 import 'package:talkdimsum/core/provider/conversation.dart';
 import 'package:talkdimsum/core/model/phrases.dart';
 
-import 'phrases_list_widget.dart';
+import 'phrases_list_view.dart';
 
-class ScaffoldPhrasesWidget extends StatefulWidget {
+class PhrasesScaffold extends StatefulWidget {
   @override
   ScaffoldPhrasesState createState() => ScaffoldPhrasesState();
 }
 
-class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
+class ScaffoldPhrasesState extends State<PhrasesScaffold> {
   Phrases phrases;
 
   @override
@@ -42,7 +42,7 @@ class ScaffoldPhrasesState extends State<ScaffoldPhrasesWidget> {
               ]),
           body: phrases == null
               ? Center(child: CircularProgressIndicator())
-              : PhrasesListWidget(phrases: phrases));
+              : PhrasesListView(phrases: phrases));
     });
   }
 }

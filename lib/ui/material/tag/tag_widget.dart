@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
-import 'package:talkdimsum/ui/material/dishes/word_dishes_widget.dart';
+import 'package:talkdimsum/ui/material/dishes/word_dishes_scaffold.dart';
 
 class TagWidget extends StatelessWidget {
   final Word tag;
@@ -15,7 +15,7 @@ class TagWidget extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(
-                builder: (context) => WordDishesWidget(word: tag)),
+                builder: (context) => WordDishesScaffold(word: tag)),
           );
         },
         child: Chip(

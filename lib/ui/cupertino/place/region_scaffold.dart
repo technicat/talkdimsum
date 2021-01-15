@@ -17,10 +17,21 @@ class RegionScaffold extends StatelessWidget {
     return CupertinoPageScaffold(
         navigationBar: CupertinoNavigationBar(middle: Text(region.name)),
         child: SafeArea(
-            child: ListView(
+            child: PlacesListView(region: region)));
+  }
+}
+
+class PlacesListView extends StatelessWidget {
+  final Region region;
+
+  PlacesListView({Key key, @required this.region}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return ListView(
                 children: region.places
                     .map((place) => PlaceRow(region: region, place: place))
-                    .toList())));
+                    .toList());
   }
 }
 

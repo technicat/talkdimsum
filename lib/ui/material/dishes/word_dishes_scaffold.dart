@@ -6,10 +6,10 @@ import 'package:talkdimsum/core/model/word.dart';
 
 import 'dishes_widget.dart';
 
-class WordDishesWidget extends StatelessWidget {
+class WordDishesScaffold extends StatelessWidget {
   final Word word;
 
-  WordDishesWidget({Key key, @required this.word}) : super(key: key);
+  WordDishesScaffold({Key key, @required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

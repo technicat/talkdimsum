@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
-import 'package:talkdimsum/ui/material/dishes/word_dishes_widget.dart';
+import 'package:talkdimsum/ui/material/dishes/word_dishes_scaffold.dart';
 
 class SearchWordWidget extends StatelessWidget {
   @override
@@ -37,7 +37,7 @@ class SearchWordWidget extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(
-                builder: (context) => WordDishesWidget(word: selected)),
+                builder: (context) => WordDishesScaffold(word: selected)),
           );
         },
         //),
