@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
-import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'dishes_widget.dart';
+import 'word_dishes_grid.dart';
 
 class WordDishesScaffold extends StatelessWidget {
   final Word word;
@@ -17,8 +15,7 @@ class WordDishesScaffold extends StatelessWidget {
         appBar: AppBar(
           title: Text(word.display()),
         ),
-        body: Consumer<DimSum>(builder: (context, dimsum, child) {
-          return DishesWidget(dishes: dimsum.dishes(word));
-        }));
+        body: WordDishesGrid(word: word));
   }
 }
+
