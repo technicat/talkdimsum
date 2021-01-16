@@ -22,15 +22,7 @@ class DishWidget extends StatelessWidget {
       WordWidget(word: dish.word),
       Expanded(child: DishDescriptionWidget(dish: dish)),
       TagsRow(dish: dish),
-      GestureDetector(
-          onTap: () {
-            Flushbar(
-              title: "Photo taken at",
-              message: dish.images[0].place,
-              duration: Duration(seconds: 3),
-            )..show(context);
-          },
-          child: DishImageWidget(dish: dish)),
+      DishTapImageWidget(dish: dish)
     ]);
   }
 }
