@@ -35,6 +35,7 @@ class STT with ChangeNotifier {
     bool available = await speech.initialize(
         onStatus: _statusListener, onError: _errorListener);
     if (available) {
+      status = STTStatus.NotListening;
       speech.listen(
           onResult: _resultListener,
           listenFor: Duration(seconds: 10),
