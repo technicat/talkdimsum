@@ -9,6 +9,7 @@ import 'package:talkdimsum/ui/material/settings/language_dropdown.dart';
 import 'package:talkdimsum/ui/material/settings/speed_slider.dart';
 
 import 'package:talkdimsum/ui/material/tts/play_button.dart';
+import 'package:talkdimsum/ui/material/stt/stt_widget.dart';
 
 class PracticeWidget extends StatelessWidget {
   final Word word;
@@ -24,7 +25,9 @@ class PracticeWidget extends StatelessWidget {
           SpeedSlider(),
           PlayButton(word:word),
           ChineseText(word: word),
-          PronounceText(word:word)
+          PronounceText(word:word),
+           Spacer(),
+          STTWidget(word:word)
         ]));
   }
 }
