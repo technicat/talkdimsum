@@ -17,7 +17,6 @@ enum STTStatus {
   Stopped
 }
 
-
 class STT with ChangeNotifier {
   final SpeechToText _speech = SpeechToText();
 
@@ -27,7 +26,7 @@ class STT with ChangeNotifier {
     return _status;
   }
 
- /* set status (STTStatus stat) {
+  /* set status (STTStatus stat) {
     _status = status;
   } */
 
@@ -54,7 +53,7 @@ class STT with ChangeNotifier {
     } else {
       print("The user has denied the use of speech recognition.");
     }
-     notifyListeners();
+    notifyListeners();
   }
 
   stop() {
@@ -64,33 +63,32 @@ class STT with ChangeNotifier {
   }
 
   void _resultListener(SpeechRecognitionResult result) {
-      lastWords = "${result.recognizedWords}"; //  - ${result.finalResult}";
-      if (lastWords == target) {
-        _status = STTStatus.Match;
-        _speech.stop();
-      }
-      if (!target.startsWith(lastWords)) {
-        _status = STTStatus.Mismatch;
-        _speech.stop();
-      }
-      notifyListeners();
+    lastWords = "${result.recognizedWords}"; //  - ${result.finalResult}";
+    if (lastWords == target) {
+      _status = STTStatus.Match;
+      _speech.stop();
+    }
+    if (!target.startsWith(lastWords)) {
+      _status = STTStatus.Mismatch;
+      _speech.stop();
+    }
+    notifyListeners();
   }
 
   void _errorListener(SpeechRecognitionError error) {
     // print("Received error status: $error, listening: ${speech.isListening}");
-      lastError = "${error.errorMsg} - ${error.permanent}";
-      notifyListeners();
+    lastError = "${error.errorMsg} - ${error.permanent}";
+    notifyListeners();
   }
 
   void _statusListener(String status) {
     // print(
     // "Received listener status: $status, listening: ${speech.isListening}");
-      lastStatus = "$status";
-      notifyListeners();
+    lastStatus = "$status";
+    notifyListeners();
   }
 
   void _soundLevelListener(double level) {
     // print("sound level $level: $minSoundLevel - $maxSoundLevel ");
   }
 }
-
