@@ -26,10 +26,6 @@ class STT with ChangeNotifier {
     return _status;
   }
 
-  /* set status (STTStatus stat) {
-    _status = status;
-  } */
-
   String lastWords = "";
   String lastError = "";
   String lastStatus = "";
@@ -47,7 +43,7 @@ class STT with ChangeNotifier {
           onResult: _resultListener,
           listenFor: Duration(seconds: 10),
           localeId: Language.locale(lang),
-          onSoundLevelChange: _soundLevelListener,
+      //    onSoundLevelChange: _soundLevelListener,
           cancelOnError: true,
           partialResults: true);
     } else {
@@ -88,7 +84,7 @@ class STT with ChangeNotifier {
     notifyListeners();
   }
 
-  void _soundLevelListener(double level) {
+ // void _soundLevelListener(double level) {
     // print("sound level $level: $minSoundLevel - $maxSoundLevel ");
-  }
+ // }
 }
