@@ -21,7 +21,15 @@ enum STTStatus {
 class STT with ChangeNotifier {
   final SpeechToText speech = SpeechToText();
 
-  STTStatus status = STTStatus.NotListening;
+  STTStatus _status = STTStatus.NotListening;
+
+  STTStatus get status {
+    return _status;
+  }
+
+  set status (STTStatus stat) {
+    _status = status;
+  }
 
   String lastWords = "";
   String lastError = "";
