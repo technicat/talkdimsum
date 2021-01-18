@@ -19,7 +19,7 @@ enum STTStatus {
 
 
 class STT with ChangeNotifier {
-  final SpeechToText speech = SpeechToText();
+  final SpeechToText _speech = SpeechToText();
 
   STTStatus _status = STTStatus.NotListening;
 
@@ -27,9 +27,9 @@ class STT with ChangeNotifier {
     return _status;
   }
 
-  set status (STTStatus stat) {
+ /* set status (STTStatus stat) {
     _status = status;
-  }
+  } */
 
   String lastWords = "";
   String lastError = "";
@@ -40,11 +40,11 @@ class STT with ChangeNotifier {
   Future listen(Word word, Chinese lang) async {
     lastWords = "";
     target = word.chineseText(lang);
-    bool available = await speech.initialize(
+    bool available = await _speech.initialize(
         onStatus: _statusListener, onError: _errorListener);
     if (available) {
-      status = STTStatus.NotListening;
-      speech.listen(
+      _status = STTStatus.NotListening;
+      _speech.listen(
           onResult: _resultListener,
           listenFor: Duration(seconds: 10),
           localeId: Language.locale(lang),
@@ -54,27 +54,26 @@ class STT with ChangeNotifier {
     } else {
       print("The user has denied the use of speech recognition.");
     }
-  }
-
-  _stop() {
-    speech.stop();
+     notifyListeners();
   }
 
   stop() {
-    status = STTStatus.Stopped;
-    _stop();
+    _status = STTStatus.Stopped;
+    _speech.stop();
+    notifyListeners();
   }
 
   void _resultListener(SpeechRecognitionResult result) {
       lastWords = "${result.recognizedWords}"; //  - ${result.finalResult}";
       if (lastWords == target) {
-        status = STTStatus.Match;
-        _stop();
+        _status = STTStatus.Match;
+        _speech.stop();
       }
       if (!target.startsWith(lastWords)) {
-        status = STTStatus.Mismatch;
-        _stop();
+        _status = STTStatus.Mismatch;
+        _speech.stop();
       }
+      notifyListeners();
   }
 
   void _errorListener(SpeechRecognitionError error) {
