@@ -16,32 +16,32 @@ class Settings with ChangeNotifier {
 
   _load() async {
     prefs = await SharedPreferences.getInstance();
+    language = Chinese.values[prefs.getInt('language')] ?? Chinese.Cantonese;
+    speed = prefs.getDouble('speed') ?? 0.5;
   }
 
   Chinese _language = Chinese.Cantonese;
   
   Chinese get language {
     return _language;
-    //return Chinese.values[prefs.getInt('language')];
   }
 
   set language(Chinese language) {
     _language = language;
     notifyListeners();
-    //prefs.setInt('language',language.index);
+    prefs.setInt('language',language.index);
   }
 
   double _speed = 0.5;
 
    double get speed {
      return _speed;
-    //return prefs.getDouble('speed');
   }
 
   set speed(double speed) {
     _speed = speed;
     notifyListeners();
-    //prefs.setDouble('speed',speed);
+    prefs.setDouble('speed',speed);
   }
 
   String languageName(Chinese language) {
