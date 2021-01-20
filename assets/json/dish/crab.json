@@ -1,38 +1,40 @@
-
 [
   {
-    "words":
-    [
+    "words": [
       {
-      "Chinese" : "炸蟹鉗",
-      "English":"fried crab claw",
-      "Yale": "ja háaih kìm",
-      "Pinyin" : "zhà xiè qián",
-      "Resources":
-        [
-          {"name":"炸","URL":"https://en.wiktionary.org/wiki/炸"},
-          {"name":"蟹","URL":"https://en.wiktionary.org/wiki/蟹"},
-          {"name":"鉗","URL":"https://en.wiktionary.org/wiki/鉗"}
+        "Chinese": "炸蟹鉗",
+        "English": "fried crab claw",
+        "Yale": "ja háaih kìm",
+        "Pinyin": "zhà xiè qián",
+        "Resources": [
+          {
+            "name": "炸",
+            "URL": "https://en.wiktionary.org/wiki/炸"
+          },
+          {
+            "name": "蟹",
+            "URL": "https://en.wiktionary.org/wiki/蟹"
+          },
+          {
+            "name": "鉗",
+            "URL": "https://en.wiktionary.org/wiki/鉗"
+          }
         ]
       }
     ],
-    "images":
-    [
-        {
-            "image":"friedcrabclawdimsumcafe",
-            "place":"Dim Sum Cafe, Las Vegas, Nevada"
-        }
+    "images": [
+      {
+        "image": "friedcrabclawdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
     ],
-    "Description":
-      "Crab claws with the meat exposed, covered in shrimp paste, breaded and deep fried. The claw pincers retain their shell and act as a handle. Like a crab popsicle.\n\nThe first character 炸 means “fried.” The second character 蟹 is “crab.” The third character 鉗 is “pincer.” So 蟹鉗 is “crab claw” and 炸蟹鉗",
-    "Tags":
-    [
-        "炸",
-        "蟹",
-        "鉗",
-        "海鮮",
-        "點心"
+    "Description": "Crab claws with the meat exposed, covered in shrimp paste, breaded and deep fried. The claw pincers retain their shell and act as a handle. Like a crab popsicle.\n\nThe first character 炸 means “fried.” The second character 蟹 is “crab.” The third character 鉗 is “pincer.” So 蟹鉗 is “crab claw” and 炸蟹鉗",
+    "Tags": [
+      "炸",
+      "蟹",
+      "鉗",
+      "海鮮",
+      "點心"
     ]
-}
- 
- ]
+  }
+]

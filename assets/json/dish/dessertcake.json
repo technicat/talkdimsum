@@ -1,169 +1,221 @@
 [
-   
-    
- {
-    "words": 
-    [
-        {
-            "Chinese": "馬蹄糕",
-            "Simplified": "马蹄糕",
-            "English":"water chestnut cake",
-            "Yale": "máh tàih gōu",
-            "Pinyin" : "mǎ tí gāo",
-            "Resources":
-        [
-            {"name":"馬蹄糕","URL":"https://en.wiktionary.org/wiki/馬蹄糕"},
-            {"name":"馬蹄","URL":"https://en.wiktionary.org/wiki/馬蹄"},
-            {"name":"馬","URL":"https://en.wiktionary.org/wiki/馬"},
-            {"name":"蹄","URL":"https://en.wiktionary.org/wiki/蹄"},
-            {"name":"糕","URL":"https://en.wiktionary.org/wiki/糕"}
-        ]
-        }
-    ],
-    "images": 
-    [
-        {
-            "image":"waterchestnutcakeimperialgarden2",
-            "place":"Imperial Garden, Fresno, California"
-        }
-    ],
-    "Description" :
-        "A translucent jelly made from shredded water chestnuts.““馬蹄 means “water chestnut“ and 糕 is “cake“.",
-    "Tags":
-    [
-        "馬蹄",
-        "糕",
-        "凍",
-        "素",
-        "甜品",
-        "點心"
-    ],
-    "Resources":
-    [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/water-chestnut-cake/"},
-        {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Water_chestnut_cake"},
-        {"name":"Dim Sum Guide", 
-            "URL":"https://dimsumguide.com/site/view/Water-Chestnut-Cake"},
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/water-chestnut-cake/"},
-        {"name":"The Hong Kong Cookery", 
-            "URL":"http://www.thehongkongcookery.com/2017/01/chinese-water-chestnut-cake.html"},
-        {"name":"Christine's Recipes", 
-            "URL":"https://en.christinesrecipes.com/2013/01/water-chestnut-cake.html"},
-        {"name":"Taste Hong Kong", 
-            "URL":"http://www.tastehongkong.com/recipes/featured/water-chestnut-cake-for-chinese-new-year-and-valentines-day/"}
-    ]
-},
- 
- {
-    "words": 
-    [
-        {
-            "Chinese" : "椰汁糕",
-            "English" : "coconut pudding",
-            "Yale" : "yèh jāp gōu",
-            "Pinyin" : "yē zhī gāo",
-            "Resources":
-        [
-            {"name":"椰汁","URL":"https://en.wiktionary.org/wiki/椰汁"},
-            {"name":"椰","URL":"https://en.wiktionary.org/wiki/椰"},
-            {"name":"汁","URL":"https://en.wiktionary.org/wiki/汁"},
-            {"name":"糕","URL":"https://en.wiktionary.org/wiki/糕"}
-        ]
-        }
-    ],
-    "images": 
-    [
-     {
-         "image":"coconutpuddingyumcha",
-         "place":"Yum Cha, Las Vegas, NV"
-     }
-    ],
-    "Description": 
-        "Coconut pudding is really a chilled jelly made with coconut milk and either gelatin or cornstarch.\n\n椰 means “coconut,” 汁 means “juice,” and 糕 is “cake,” so the name is essentially “coconut milk cake.”",
-    "Tags": 
-    [
-        "椰汁",
-        "椰",
-        "汁",
-        "糕",
-        "果",
-        "凍",
-        "素",
-        "布甸",
-        "甜品",
-        "點心"
-    ],
-    "Resources":
-    [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/coconut-pudding/"},
-        {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Coconut_bar"},
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/coconut-milk-pudding/"},
-        {"name":"Thirsty for Tea", 
-            "URL":"http://www.thirstyfortea.com/recipes/dim-sum-recipe-13-coconut-milk-pudding-2/"},
-        {"name":"Christine's Recipes", 
-            "URL":"https://en.christinesrecipes.com/2014/06/coconut-milk-pudding.html"},
-        {"name":"Memorable Dishes", 
-            "URL":"http://www.memorabledishes.com/asian-coconut-pudding/"},
-        {"name":"Mommy's Blog", 
-            "URL":"http://jollymommybaker.blogspot.com/2010/09/chinese-style-coconut-pudding.html"},
-        {"name":"Sally's Temple", 
-            "URL":"http://sallytemple.com/coconutmilkpudding/"}
-        ]
- },
-    
- {
-    "words":
-    [
-        {
-        "Chinese":"綠豆糕",
-        "Simplified":"绿豆糕",
-        "English":"mung bean cake",
-        "Yale": "luhk dáu gōu",
-        "Pinyin":"lǜ dòu bǐng",
-        "Resources":
-        [
-            {"name":"綠豆","URL":"https://en.wiktionary.org/wiki/綠豆"},
-            {"name":"綠","URL":"https://en.wiktionary.org/wiki/綠"},
-            {"name":"糕","URL":"https://en.wiktionary.org/wiki/糕"}
-        ]
-        }
-    ],
-    "images":
-    [
+    {
+        "words": [
             {
-                "image":"mungbeanpancakeyumcha",
-                "place":"Yum Cha, Las Vegas, Nevada"
+                "Chinese": "馬蹄糕",
+                "Simplified": "马蹄糕",
+                "English": "water chestnut cake",
+                "Yale": "máh tàih gōu",
+                "Pinyin": "mǎ tí gāo",
+                "Resources": [
+                    {
+                        "name": "馬蹄糕",
+                        "URL": "https://en.wiktionary.org/wiki/馬蹄糕"
+                    },
+                    {
+                        "name": "馬蹄",
+                        "URL": "https://en.wiktionary.org/wiki/馬蹄"
+                    },
+                    {
+                        "name": "馬",
+                        "URL": "https://en.wiktionary.org/wiki/馬"
+                    },
+                    {
+                        "name": "蹄",
+                        "URL": "https://en.wiktionary.org/wiki/蹄"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
             }
-    ],
-    "Description":
-        "A cake filled with mung bean paste.\n\n綠 is “green,” and 豆 is “bean,” so 綠豆 is literally “green bean,” which is actually “mung bean.” And 糕 is “cake.”",
-    "Tags":
-    [
+        ],
+        "images": [
+            {
+                "image": "waterchestnutcakeimperialgarden2",
+                "place": "Imperial Garden, Fresno, California"
+            }
+        ],
+        "Description": "A translucent jelly made from shredded water chestnuts.““馬蹄 means “water chestnut“ and 糕 is “cake“.",
+        "Tags": [
+            "馬蹄",
+            "糕",
+            "凍",
+            "素",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/water-chestnut-cake/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Water_chestnut_cake"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Water-Chestnut-Cake"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/water-chestnut-cake/"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2017/01/chinese-water-chestnut-cake.html"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2013/01/water-chestnut-cake.html"
+            },
+            {
+                "name": "Taste Hong Kong",
+                "URL": "http://www.tastehongkong.com/recipes/featured/water-chestnut-cake-for-chinese-new-year-and-valentines-day/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "椰汁糕",
+                "English": "coconut pudding",
+                "Yale": "yèh jāp gōu",
+                "Pinyin": "yē zhī gāo",
+                "Resources": [
+                    {
+                        "name": "椰汁",
+                        "URL": "https://en.wiktionary.org/wiki/椰汁"
+                    },
+                    {
+                        "name": "椰",
+                        "URL": "https://en.wiktionary.org/wiki/椰"
+                    },
+                    {
+                        "name": "汁",
+                        "URL": "https://en.wiktionary.org/wiki/汁"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "coconutpuddingyumcha",
+                "place": "Yum Cha, Las Vegas, NV"
+            }
+        ],
+        "Description": "Coconut pudding is really a chilled jelly made with coconut milk and either gelatin or cornstarch.\n\n椰 means “coconut,” 汁 means “juice,” and 糕 is “cake,” so the name is essentially “coconut milk cake.”",
+        "Tags": [
+            "椰汁",
+            "椰",
+            "汁",
+            "糕",
+            "果",
+            "凍",
+            "素",
+            "布甸",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/coconut-pudding/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Coconut_bar"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/coconut-milk-pudding/"
+            },
+            {
+                "name": "Thirsty for Tea",
+                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-13-coconut-milk-pudding-2/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2014/06/coconut-milk-pudding.html"
+            },
+            {
+                "name": "Memorable Dishes",
+                "URL": "http://www.memorabledishes.com/asian-coconut-pudding/"
+            },
+            {
+                "name": "Mommy's Blog",
+                "URL": "http://jollymommybaker.blogspot.com/2010/09/chinese-style-coconut-pudding.html"
+            },
+            {
+                "name": "Sally's Temple",
+                "URL": "http://sallytemple.com/coconutmilkpudding/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "綠豆糕",
+                "Simplified": "绿豆糕",
+                "English": "mung bean cake",
+                "Yale": "luhk dáu gōu",
+                "Pinyin": "lǜ dòu bǐng",
+                "Resources": [
+                    {
+                        "name": "綠豆",
+                        "URL": "https://en.wiktionary.org/wiki/綠豆"
+                    },
+                    {
+                        "name": "綠",
+                        "URL": "https://en.wiktionary.org/wiki/綠"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "mungbeanpancakeyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A cake filled with mung bean paste.\n\n綠 is “green,” and 豆 is “bean,” so 綠豆 is literally “green bean,” which is actually “mung bean.” And 糕 is “cake.”",
+        "Tags": [
             "綠豆",
             "糕",
             "煎",
-             "甜品"
-    ],
-    "Resources":
-        [
-            {"name":"China Sichuan Food", 
-                "URL":"https://www.chinasichuanfood.com/mung-bean-cake/"},
-            {"name":"The Hong Kong Cookery", 
-                "URL":"http://www.thehongkongcookery.com/2019/06/green-mung-bean-cakes.html"},
-            {"name":"Yum of China", 
-                "URL":"https://www.yumofchina.com/mung-bean-cake/"},
-            {"name":"Ellina's Life Space", 
-                "URL":"https://www.ellinaguo.com/recipe/green-bean-cake/"},
-            {"name":"Ariel's Love Kitchen", 
-                "URL":"http://ariels-love-kitchen.com/?p=449"}
+            "甜品"
+        ],
+        "Resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/mung-bean-cake/"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2019/06/green-mung-bean-cakes.html"
+            },
+            {
+                "name": "Yum of China",
+                "URL": "https://www.yumofchina.com/mung-bean-cake/"
+            },
+            {
+                "name": "Ellina's Life Space",
+                "URL": "https://www.ellinaguo.com/recipe/green-bean-cake/"
+            },
+            {
+                "name": "Ariel's Love Kitchen",
+                "URL": "http://ariels-love-kitchen.com/?p=449"
+            }
         ]
     }
-
-
- ]
+]

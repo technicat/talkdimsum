@@ -1,95 +1,128 @@
 [
-   {
- 
-        "words": 
-        [
-        {
-        "Chinese":"橙花雞",
-        "Simplified":"橙花鸡",
-        "English":"orange chicken",
-        "Yale": "cháang fā gāi",
-        "Pinyin":"chéng huā jī",
-        "Resources":
-        [
-        {"name":"橙花雞","URL":"https://en.wiktionary.org/wiki/橙花雞"},
-        {"name":"橙","URL":"https://en.wiktionary.org/wiki/橙"},
-        {"name":"花","URL":"https://en.wiktionary.org/wiki/花"},
-        {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"}
-        ]
-        }
+    {
+        "words": [
+            {
+                "Chinese": "橙花雞",
+                "Simplified": "橙花鸡",
+                "English": "orange chicken",
+                "Yale": "cháang fā gāi",
+                "Pinyin": "chéng huā jī",
+                "Resources": [
+                    {
+                        "name": "橙花雞",
+                        "URL": "https://en.wiktionary.org/wiki/橙花雞"
+                    },
+                    {
+                        "name": "橙",
+                        "URL": "https://en.wiktionary.org/wiki/橙"
+                    },
+                    {
+                        "name": "花",
+                        "URL": "https://en.wiktionary.org/wiki/花"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    }
+                ]
+            }
         ],
-        "images":[
-           {
-               "image":"orangechickndethai",
-               "place":"DE Thai, Las Vegas, Nevada"
-           }
-       ],
-        "Description":
-            "Battered fried chicken coated in an orange sauce.\n\n橙 means “orange” (both the color and the fruit), and 花 is “flower.” Together 橙花 means “orange peel” (although sometimes tangerine peel is used). And 雞 is “chicken,” so it's “orange peel chicken.”\n\nThis is a Chinese-American dish, claimed to have been invented by Panda Express.",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "orangechickndethai",
+                "place": "DE Thai, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Battered fried chicken coated in an orange sauce.\n\n橙 means “orange” (both the color and the fruit), and 花 is “flower.” Together 橙花 means “orange peel” (although sometimes tangerine peel is used). And 雞 is “chicken,” so it's “orange peel chicken.”\n\nThis is a Chinese-American dish, claimed to have been invented by Panda Express.",
+        "Tags": [
             "雞",
             "茶餐廳"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/orange-chicken/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Orange_chicken"},
-                 {"name":"The Woks of Life", 
-                "URL":"https://thewoksoflife.com/orange-chicken/"}
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/orange-chicken/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Orange_chicken"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/orange-chicken/"
+            }
         ]
     },
-
     {
- 
-        "words": 
-        [
-        {
-        "Chinese":"宮保雞丁",
-        "Simplified":"宫保鸡丁",
-        "English":"kung pao chicken",
-        "Yale": "gūng bóu gāi dīng",
-        "Pinyin":"gōng bǎo jī dīng",
-        "Resources":
-        [
-        {"name":"宮保雞丁","URL":"https://en.wiktionary.org/wiki/宮保雞丁"},
-        {"name":"宮保","URL":"https://en.wiktionary.org/wiki/宮保"},
-        {"name":"宮","URL":"https://en.wiktionary.org/wiki/宮"},
-        {"name":"保","URL":"https://en.wiktionary.org/wiki/保"},
-        {"name":"雞丁","URL":"https://en.wiktionary.org/wiki/雞丁"},
-        {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
-        {"name":"丁","URL":"https://en.wiktionary.org/wiki/丁"}
-        ]
-        }
+        "words": [
+            {
+                "Chinese": "宮保雞丁",
+                "Simplified": "宫保鸡丁",
+                "English": "kung pao chicken",
+                "Yale": "gūng bóu gāi dīng",
+                "Pinyin": "gōng bǎo jī dīng",
+                "Resources": [
+                    {
+                        "name": "宮保雞丁",
+                        "URL": "https://en.wiktionary.org/wiki/宮保雞丁"
+                    },
+                    {
+                        "name": "宮保",
+                        "URL": "https://en.wiktionary.org/wiki/宮保"
+                    },
+                    {
+                        "name": "宮",
+                        "URL": "https://en.wiktionary.org/wiki/宮"
+                    },
+                    {
+                        "name": "保",
+                        "URL": "https://en.wiktionary.org/wiki/保"
+                    },
+                    {
+                        "name": "雞丁",
+                        "URL": "https://en.wiktionary.org/wiki/雞丁"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    },
+                    {
+                        "name": "丁",
+                        "URL": "https://en.wiktionary.org/wiki/丁"
+                    }
+                ]
+            }
         ],
-        "images":
-        [
-           {
-               "image":"kungpaochicken88noodlepapa",
-               "place":"DE Thai, Las Vegas, Nevada"
-           }
-       ],
-        "Description":
-            "This dish of diced chicken mixed with peanuts and chilies is familiar in Chinese-American cuisine but originated in Sichuan.\n\nKung Pao chicken is named after a Qing Dynasty official named Ding Baozhen who popularized the dish. The first two characters 宮保 (the “kung pao” portion) refer to the official's title, while 雞丁 means “diced chicken,” and 丁 also punnily refers to the official's name.\n\nDuring the Cultural Revolution, due to the association of the name with the imperialist past, the dish was given a more generic name, but now Kung Pao is back!",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "kungpaochicken88noodlepapa",
+                "place": "DE Thai, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "This dish of diced chicken mixed with peanuts and chilies is familiar in Chinese-American cuisine but originated in Sichuan.\n\nKung Pao chicken is named after a Qing Dynasty official named Ding Baozhen who popularized the dish. The first two characters 宮保 (the “kung pao” portion) refer to the official's title, while 雞丁 means “diced chicken,” and 丁 also punnily refers to the official's name.\n\nDuring the Cultural Revolution, due to the association of the name with the imperialist past, the dish was given a more generic name, but now Kung Pao is back!",
+        "Tags": [
             "雞",
             "四川",
             "川菜",
             "茶餐廳"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/kung-pao-chicken/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Kung_Pao_chicken"},
-            {"name":"NPR", 
-                "URL":"https://www.npr.org/templates/story/story.php?storyId=90206117"},
-            {"name":"The Woks of Life", 
-                "URL":"https://thewoksoflife.com/kung-pao-chicken/"}
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/kung-pao-chicken/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Kung_Pao_chicken"
+            },
+            {
+                "name": "NPR",
+                "URL": "https://www.npr.org/templates/story/story.php?storyId=90206117"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/kung-pao-chicken/"
+            }
         ]
     }
 ]

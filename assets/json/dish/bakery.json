@@ -1,31 +1,26 @@
-
 [
     {
-        "words": 
-        [
-    {
-        "Chinese" : "唐餅",
-        "English" : "bakery"
-    }
-    ],
-        "images" : 
-        [
+        "words": [
             {
-                "image":"bfbakerywrapped",
-                "place":"BF Bakery, las Vegas, Nevada"
+                "Chinese": "唐餅",
+                "English": "bakery"
             }
         ],
-        "Description" : "",
-        "Tags" : [
+        "images": [
+            {
+                "image": "bfbakerywrapped",
+                "place": "BF Bakery, las Vegas, Nevada"
+            }
+        ],
+        "Description": "",
+        "Tags": [
             "唐餅"
         ],
-        "Resources":
-        [
+        "Resources": [
             {
-                "name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/List_of_Chinese_bakery_products"
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_bakery_products"
             }
         ]
     }
-    
 ]

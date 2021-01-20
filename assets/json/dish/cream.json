@@ -1,48 +1,60 @@
-
 [
-
-{
-      "words":
-      [
-        {
-     "Chinese": "核桃糊",
-     "English":"walnut soup",
-     "Yale": "haht tòuh wùh",
-     "Pinyin" : "hé tao hù",
-      "Resources":
-        [
-          {"name":"核桃糊","URL":"https://en.wiktionary.org/wiki/核桃糊"},
-          {"name":"核桃","URL":"https://en.wiktionary.org/wiki/核桃"},
-          {"name":"核","URL":"https://en.wiktionary.org/wiki/核"},
-          {"name":"桃","URL":"https://en.wiktionary.org/wiki/桃"},
-          {"name":"糊","URL":"https://en.wiktionary.org/wiki/糊"}
+  {
+    "words": [
+      {
+        "Chinese": "核桃糊",
+        "English": "walnut soup",
+        "Yale": "haht tòuh wùh",
+        "Pinyin": "hé tao hù",
+        "Resources": [
+          {
+            "name": "核桃糊",
+            "URL": "https://en.wiktionary.org/wiki/核桃糊"
+          },
+          {
+            "name": "核桃",
+            "URL": "https://en.wiktionary.org/wiki/核桃"
+          },
+          {
+            "name": "核",
+            "URL": "https://en.wiktionary.org/wiki/核"
+          },
+          {
+            "name": "桃",
+            "URL": "https://en.wiktionary.org/wiki/桃"
+          },
+          {
+            "name": "糊",
+            "URL": "https://en.wiktionary.org/wiki/糊"
+          }
         ]
-     }
+      }
     ],
-     "images" : 
-     [
-         {
-             "image":"walnutsoupsweethoneydesserts",
-             "place":"Sweet Honey Dessert, Las Vegas, Nevada"
-         }
-     ],
- "Description": 
-  "A dessert made with water, finely ground walnuts, rice flour, and sugar.\n\n核桃 means “walnut,” and 糊 is “cream,” so, aptly, it is “walnut cream.”",
-     "Tags":
-     [
-          "湯",
-         "核桃",
-         "甜品"
-     ],
-     "Resources":
-     [
-          {"name":"Pinterest",
-            "URL":"https://www.pinterest.com/technicat/dim-sum/walnut-soup/"},
-          {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Walnut_soup"},
-          {"name":"East Meets Kitchen",
-            "URL":"http://eastmeetskitchen.com/videos/recipes/chinese-walnut-dessert-soup/"}
-     ]
-    }
-
+    "images": [
+      {
+        "image": "walnutsoupsweethoneydesserts",
+        "place": "Sweet Honey Dessert, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "A dessert made with water, finely ground walnuts, rice flour, and sugar.\n\n核桃 means “walnut,” and 糊 is “cream,” so, aptly, it is “walnut cream.”",
+    "Tags": [
+      "湯",
+      "核桃",
+      "甜品"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/walnut-soup/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Walnut_soup"
+      },
+      {
+        "name": "East Meets Kitchen",
+        "URL": "http://eastmeetskitchen.com/videos/recipes/chinese-walnut-dessert-soup/"
+      }
+    ]
+  }
 ]

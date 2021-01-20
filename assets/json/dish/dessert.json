@@ -1,44 +1,54 @@
 [
- {
-    "words":
-    [
-        {
-            "Chinese" : "甜品",
-            "English" : "dessert",
-            "Yale" : "tìhm bán",
-            "Pinyin" : "tián pǐn",
-             "Resources":
-        [
-            {"name":"甜品","URL":"https://en.wiktionary.org/wiki/甜品"},
-            {"name":"甜","URL":"https://en.wiktionary.org/wiki/甜"},
-            {"name":"品","URL":"https://en.wiktionary.org/wiki/品"}
+    {
+        "words": [
+            {
+                "Chinese": "甜品",
+                "English": "dessert",
+                "Yale": "tìhm bán",
+                "Pinyin": "tián pǐn",
+                "Resources": [
+                    {
+                        "name": "甜品",
+                        "URL": "https://en.wiktionary.org/wiki/甜品"
+                    },
+                    {
+                        "name": "甜",
+                        "URL": "https://en.wiktionary.org/wiki/甜"
+                    },
+                    {
+                        "name": "品",
+                        "URL": "https://en.wiktionary.org/wiki/品"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "walnutsoupandtarosagopuddingsweethoneydesserts",
+                "place": "Sweet Honey Desserts, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Chinese desserts include pastries, candies, cakes, jellies and puddings.\n\n甜 means “sweet,” and 品 is “item,” so it's basically “sweets.”\n\nEven though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!",
+        "Tags": [
+            "甜品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chinese_desserts"
+            },
+            {
+                "name": "Chinese Dessert Recipes",
+                "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/"
+            },
+            {
+                "name": "Hong Kong Tourism Board",
+                "URL": "https://www.discoverhongkong.com/in/explore/dining/hong-kong-traditional-desserts.html"
+            },
+            {
+                "name": "Matador",
+                "URL": "https://matadornetwork.com/read/sweet-savory-delicious-chinese-desserts/"
+            }
         ]
-        }
-    ],
-     "images" :
-     [
-        {
-            "image":"walnutsoupandtarosagopuddingsweethoneydesserts",
-            "place":"Sweet Honey Desserts, Las Vegas, Nevada"
-        }
-    ],
-    "Description": 
-        "Chinese desserts include pastries, candies, cakes, jellies and puddings.\n\n甜 means “sweet,” and 品 is “item,” so it's basically “sweets.”\n\nEven though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!",
-     "Tags": 
-     [
-        "甜品"
-     ],
-     "Resources":
-     [
-         {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Chinese_desserts"},
-         {"name":"Chinese Dessert Recipes", 
-            "URL":"https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/"},
-        {"name":"Hong Kong Tourism Board", 
-                "URL":"https://www.discoverhongkong.com/in/explore/dining/hong-kong-traditional-desserts.html"},
-         {"name":"Matador", 
-            "URL":"https://matadornetwork.com/read/sweet-savory-delicious-chinese-desserts/"}
-     ]
- }
- 
- ]
+    }
+]

@@ -155,64 +155,64 @@
             }
         ]
     },
-  {
-    "words": [
-      {
-        "Chinese": "炸墨魚丸",
-        "Simplified": "炸墨鱼丸",
-        "English": "fried cuttlefish ball",
-        "Yale": "ja mahk yùh yún",
-        "Pinyin": "hà mò yú wán",
+    {
+        "words": [
+            {
+                "Chinese": "炸墨魚丸",
+                "Simplified": "炸墨鱼丸",
+                "English": "fried cuttlefish ball",
+                "Yale": "ja mahk yùh yún",
+                "Pinyin": "hà mò yú wán",
+                "Resources": [
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/炸"
+                    },
+                    {
+                        "name": "墨魚丸",
+                        "URL": "https://en.wiktionary.org/wiki/墨魚丸"
+                    },
+                    {
+                        "name": "墨魚",
+                        "URL": "https://en.wiktionary.org/wiki/墨魚"
+                    },
+                    {
+                        "name": "墨",
+                        "URL": "https://en.wiktionary.org/wiki/墨"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/魚"
+                    },
+                    {
+                        "name": "丸",
+                        "URL": "https://en.wiktionary.org/wiki/丸"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "friedcuttlefishballsweetheart",
+                "place": "Sweet Heart Dessert, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Deep-fried cuttlefish balls.\n\n炸 means “deep-fried,” 墨魚 is “cuttlefish,” (墨 is “ink,” 魚 is “fish”) and 丸 is “ball.”",
+        "Tags": [
+            "炸",
+            "墨魚",
+            "丸",
+            "茶餐廳"
+        ],
         "Resources": [
-          {
-            "name": "炸",
-            "URL": "https://en.wiktionary.org/wiki/炸"
-          },
-          {
-            "name": "墨魚丸",
-            "URL": "https://en.wiktionary.org/wiki/墨魚丸"
-          },
-          {
-            "name": "墨魚",
-            "URL": "https://en.wiktionary.org/wiki/墨魚"
-          },
-          {
-            "name": "墨",
-            "URL": "https://en.wiktionary.org/wiki/墨"
-          },
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/魚"
-          },
-          {
-            "name": "丸",
-            "URL": "https://en.wiktionary.org/wiki/丸"
-          }
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/fried-cuttlefish-balls/"
+            },
+            {
+                "name": "Rasa Malaysia",
+                "URL": "https://rasamalaysia.com/fried-cuttlefish-balls/"
+            }
         ]
-      }
-    ],
-    "images": [
-      {
-        "image": "friedcuttlefishballsweetheart",
-        "place": "Sweet Heart Dessert, Las Vegas, Nevada"
-      }
-    ],
-    "Description": "Deep-fried cuttlefish balls.\n\n炸 means “deep-fried,” 墨魚 is “cuttlefish,” (墨 is “ink,” 魚 is “fish”) and 丸 is “ball.”",
-    "Tags": [
-      "炸",
-      "墨魚",
-      "丸",
-      "茶餐廳"
-    ],
-    "Resources": [
-      {
-        "name": "Pinterest",
-        "URL": "https://www.pinterest.com/technicat/dim-sum/fried-cuttlefish-balls/"
-      },
-      {
-        "name": "Rasa Malaysia",
-        "URL": "https://rasamalaysia.com/fried-cuttlefish-balls/"
-      }
-    ]
-  }
+    }
 ]

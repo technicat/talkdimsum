@@ -1,103 +1,141 @@
 [
-    
   {
-    "words": 
-    [
+    "words": [
       {
-        "Chinese" : "鳳爪",
-        "Simplified" : "凤爪",
-        "English" :"chicken feet",
+        "Chinese": "鳳爪",
+        "Simplified": "凤爪",
+        "English": "chicken feet",
         "Yale": "fuhng jáau",
-        "Pinyin":"fèng zhǎo",
-        "Resources":
-    [
-        {"name":"鳳爪","URL":"https://en.wiktionary.org/wiki/鳳爪"},
-        {"name":"鳳","URL":"https://en.wiktionary.org/wiki/鳳"},
-        {"name":"爪","URL":"https://en.wiktionary.org/wiki/爪"},
-        {"name":"雞腳","URL":"https://en.wiktionary.org/wiki/雞腳"},
-        {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
-        {"name":"腳","URL":"https://en.wiktionary.org/wiki/腳"}
-    ]
+        "Pinyin": "fèng zhǎo",
+        "Resources": [
+          {
+            "name": "鳳爪",
+            "URL": "https://en.wiktionary.org/wiki/鳳爪"
+          },
+          {
+            "name": "鳳",
+            "URL": "https://en.wiktionary.org/wiki/鳳"
+          },
+          {
+            "name": "爪",
+            "URL": "https://en.wiktionary.org/wiki/爪"
+          },
+          {
+            "name": "雞腳",
+            "URL": "https://en.wiktionary.org/wiki/雞腳"
+          },
+          {
+            "name": "雞",
+            "URL": "https://en.wiktionary.org/wiki/雞"
+          },
+          {
+            "name": "腳",
+            "URL": "https://en.wiktionary.org/wiki/腳"
+          }
+        ]
       }
     ],
-    "images" : 
-    [
-          {
-              "image":"chickenfeetkj",
-              "place":"KJ Seafood and Dim Sum, Las Vegas"
-          }
+    "images": [
+      {
+        "image": "chickenfeetkj",
+        "place": "KJ Seafood and Dim Sum, Las Vegas"
+      }
     ],
-    "Description": 
-      "Deep fried and boiled chicken feet, marinated in black bean sauce and then steamed.\n\nThe first character 鳳 means “phoenix” and the second character 爪 means “claw,” so these are called “phoenix claws. They're also known more literally as “chicken feet” 雞腳 (“gāi geuk” in Cantonese, “jī jiǎo” in Mandarin).",
-    "Tags":
-    [
-     "鳳爪",
-     "雞腳",
+    "Description": "Deep fried and boiled chicken feet, marinated in black bean sauce and then steamed.\n\nThe first character 鳳 means “phoenix” and the second character 爪 means “claw,” so these are called “phoenix claws. They're also known more literally as “chicken feet” 雞腳 (“gāi geuk” in Cantonese, “jī jiǎo” in Mandarin).",
+    "Tags": [
+      "鳳爪",
+      "雞腳",
       "雞",
       "炸",
       "蒸",
       "點心"
     ],
-    "Resources":
-    [
-      {"name":"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/chicken-feet/"},
-      {"name":"Wikipedia", 
-        "URL":"http://en.wikipedia.org/wiki/Chicken_feet"},
-      {"name":"Dim Sum Central", 
-        "URL":"http://www.dimsumcentral.com/steamed-chicken-feet/"},
-      {"name":"Dim Sum Guide", 
-        "URL":"https://dimsumguide.com/site/view/Phoenix-Claws"},
-      {"name":"Serious Eats", 
-        "URL":"http://www.seriouseats.com/2014/09/braised-chicken-feet-phoenix-claws.html"},
-      {"name":"Unfamiliar China", 
-        "URL":"https://www.unfamiliarchina.com/dim-sum/chicken-feet/dim-sum-chicken-feet"}
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/chicken-feet/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Chicken_feet"
+      },
+      {
+        "name": "Dim Sum Central",
+        "URL": "http://www.dimsumcentral.com/steamed-chicken-feet/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Phoenix-Claws"
+      },
+      {
+        "name": "Serious Eats",
+        "URL": "http://www.seriouseats.com/2014/09/braised-chicken-feet-phoenix-claws.html"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/chicken-feet/dim-sum-chicken-feet"
+      }
     ]
   },
-
-    {
-      "words":
-      [
-        {
-          "Chinese" : "白雲鳳爪",
-          "Simplified" : "白云凤爪",
-          "English" :"sweet and sour chicken feet",
-          "Yale": "baahk wàhn fuhng jáau",
-          "Pinyin":"Bái yún fèng zhǎo",
-          "Resources":
-    [
-        {"name":"白雲","URL":"https://en.wiktionary.org/wiki/白雲"},
-        {"name":"白","URL":"https://en.wiktionary.org/wiki/白"},
-        {"name":"雲","URL":"https://en.wiktionary.org/wiki/雲"},
-        {"name":"鳳爪","URL":"https://en.wiktionary.org/wiki/鳳爪"},
-        {"name":"鳳","URL":"https://en.wiktionary.org/wiki/鳳"},
-        {"name":"爪","URL":"https://en.wiktionary.org/wiki/爪"}
+  {
+    "words": [
+      {
+        "Chinese": "白雲鳳爪",
+        "Simplified": "白云凤爪",
+        "English": "sweet and sour chicken feet",
+        "Yale": "baahk wàhn fuhng jáau",
+        "Pinyin": "Bái yún fèng zhǎo",
+        "Resources": [
+          {
+            "name": "白雲",
+            "URL": "https://en.wiktionary.org/wiki/白雲"
+          },
+          {
+            "name": "白",
+            "URL": "https://en.wiktionary.org/wiki/白"
+          },
+          {
+            "name": "雲",
+            "URL": "https://en.wiktionary.org/wiki/雲"
+          },
+          {
+            "name": "鳳爪",
+            "URL": "https://en.wiktionary.org/wiki/鳳爪"
+          },
+          {
+            "name": "鳳",
+            "URL": "https://en.wiktionary.org/wiki/鳳"
+          },
+          {
+            "name": "爪",
+            "URL": "https://en.wiktionary.org/wiki/爪"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "thaichickenfeetnewasian3",
+        "place": "New Asian Cuisine, Fresno, California"
+      }
+    ],
+    "Description": "Chilled sweet and sour chicken feet.\n\n白雲 is the the area of Guangdong where this dish originated, and 鳳爪 is “chicken feet.” So altogether the name is “Thai-style hot and sour chicken feet.”\n\nAlso known as “chicken feet salad.”",
+    "Tags": [
+      "鳳爪",
+      "雞腳",
+      "雞",
+      "白雲",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/sweet-and-sour-chicken-feet/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/chicken-feet/baiyun-chicken-feet"
+      }
     ]
-        }
-      ],
-      "images": 
-      [
-        {
-          "image":"thaichickenfeetnewasian3",
-          "place":"New Asian Cuisine, Fresno, California"
-        }
-      ],
-      "Description" : 
-        "Chilled sweet and sour chicken feet.\n\n白雲 is the the area of Guangdong where this dish originated, and 鳳爪 is “chicken feet.” So altogether the name is “Thai-style hot and sour chicken feet.”\n\nAlso known as “chicken feet salad.”",
-      "Tags":
-      [
-        "鳳爪",
-        "雞腳",
-        "雞",
-        "白雲",
-        "點心"
-      ],
-      "Resources":
-      [
-        {"name":"China Sichuan Food", 
-          "URL":"https://www.chinasichuanfood.com/sweet-and-sour-chicken-feet/"},
-        {"name":"Unfamiliar China", 
-          "URL":"https://www.unfamiliarchina.com/dim-sum/chicken-feet/baiyun-chicken-feet"}
-      ]
-    }
+  }
 ]

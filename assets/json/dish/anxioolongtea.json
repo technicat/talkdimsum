@@ -1,52 +1,69 @@
-
 [
-
     {
         "words": [
-        {
-        "Chinese":"鐵觀音",
-        "Simplified":"铁观音",
-        "English":"iron goddess tea",
-        "Yale": "tit gūn yām",
-        "Pinyin":"Tiě guān yīn",
-        "Resources":
-        [
-        {"name":"鐵觀音","URL":"https://en.wiktionary.org/wiki/鐵觀音"},
-        {"name":"鐵","URL":"https://en.wiktionary.org/wiki/鐵觀音"},
-        {"name":"觀音","URL":"https://en.wiktionary.org/wiki/觀音"},
-        {"name":"觀","URL":"https://en.wiktionary.org/wiki/觀"},
-         {"name":"音","URL":"https://en.wiktionary.org/wiki/音"}
-        ]
-        }
+            {
+                "Chinese": "鐵觀音",
+                "Simplified": "铁观音",
+                "English": "iron goddess tea",
+                "Yale": "tit gūn yām",
+                "Pinyin": "Tiě guān yīn",
+                "Resources": [
+                    {
+                        "name": "鐵觀音",
+                        "URL": "https://en.wiktionary.org/wiki/鐵觀音"
+                    },
+                    {
+                        "name": "鐵",
+                        "URL": "https://en.wiktionary.org/wiki/鐵觀音"
+                    },
+                    {
+                        "name": "觀音",
+                        "URL": "https://en.wiktionary.org/wiki/觀音"
+                    },
+                    {
+                        "name": "觀",
+                        "URL": "https://en.wiktionary.org/wiki/觀"
+                    },
+                    {
+                        "name": "音",
+                        "URL": "https://en.wiktionary.org/wiki/音"
+                    }
+                ]
+            }
         ],
-        "images":[
-           {
-               "image":"irongoddesseverblueocean",
-               "place":"Ever Blue Ocean, Las Vegas"
-           }
-       ],
-        "Description":
-            "The most popular oolong tea from Anxi, a county in Fujian province known for oolong teas.\n\n鐵 means “iron,” and 觀音 is the Chinese name for the Buddhist goddess of mercy.",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "irongoddesseverblueocean",
+                "place": "Ever Blue Ocean, Las Vegas"
+            }
+        ],
+        "Description": "The most popular oolong tea from Anxi, a county in Fujian province known for oolong teas.\n\n鐵 means “iron,” and 觀音 is the Chinese name for the Buddhist goddess of mercy.",
+        "Tags": [
             "飲品",
             "茶",
-             "熱茶",
-             "安溪县",
-             "福建省",
-             "烏龍茶",
+            "熱茶",
+            "安溪县",
+            "福建省",
+            "烏龍茶",
             "中国茶"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/iron-goddess-tea/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Tieguanyin"},
-            {"name":"Guanyin", 
-                "URL":"https://en.wikipedia.org/wiki/Guanyin"},
-            {"name":"Anxi",
-                "URL":"https://en.wikipedia.org/wiki/Anxi_County"}
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/iron-goddess-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tieguanyin"
+            },
+            {
+                "name": "Guanyin",
+                "URL": "https://en.wikipedia.org/wiki/Guanyin"
+            },
+            {
+                "name": "Anxi",
+                "URL": "https://en.wikipedia.org/wiki/Anxi_County"
+            }
         ]
     }
- ]
+]

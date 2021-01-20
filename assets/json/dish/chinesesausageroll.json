@@ -1,107 +1,122 @@
-
 [
     {
-        "words": 
-        [
+        "words": [
             {
-                "Chinese" : "臘腸",
-                "Simplified" : "腊肠",
-                "English":"Chinese sausage",
+                "Chinese": "臘腸",
+                "Simplified": "腊肠",
+                "English": "Chinese sausage",
                 "Yale": "laahp chéung",
-                "Pinyin":"là cháng",
-                "Resources":
-    [
-        {"name":"臘腸","URL":"https://en.wiktionary.org/wiki/臘腸"},
-        {"name":"臘","URL":"https://en.wiktionary.org/wiki/臘"},
-        {"name":"腸","URL":"https://en.wiktionary.org/wiki/腸"}
-    ]
-         }
-        ],
-        "images" : 
-        [
-            {
-                "image":"chinesesausageflockandfowl",
-                "place":"Flock and Fowl, Las Vegas, Nevada"
-            }
-        ],
-        "Description" :
-            "Hong Kong style Chinese sausage is a smoked fatty soy sauce-flavored pork sausage used in a variety of dishes, often in small slices or bits like bacon bits.\n\n腊 is “preserved meat,” and 腸 means “sausage.”",
-        "Tags":
-        [
-            "豬肉",
-            "臘腸"
-        ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/sausage-roll/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Chinese_sausage"},
-            {"name":"Ice or Rice", 
-                "URL":"https://www.iceorrice.com/what-is-chinese-sausage/"},
-            {"name":"China Sichuan Food", 
-                "URL":"https://www.chinasichuanfood.com/chinese-sausages/"}
-        ]
-        },
-
-    {
-        "words": 
-        [
-            {
-                "Chinese" : "臘腸卷",
-                "Simplified" : "腊肠卷",
-                "English":"Chinese sausage bun",
-                "Yale": "laahp chéung gyún",
-                "Pinyin":"là cháng juàn",
-                "Resources":
-                [
-                    {"name":"臘腸","URL":"https://en.wiktionary.org/wiki/臘腸"},
-                    {"name":"臘","URL":"https://en.wiktionary.org/wiki/臘"},
-                    {"name":"腸","URL":"https://en.wiktionary.org/wiki/腸"},
-                    {"name":"卷","URL":"https://en.wiktionary.org/wiki/卷"}
+                "Pinyin": "là cháng",
+                "Resources": [
+                    {
+                        "name": "臘腸",
+                        "URL": "https://en.wiktionary.org/wiki/臘腸"
+                    },
+                    {
+                        "name": "臘",
+                        "URL": "https://en.wiktionary.org/wiki/臘"
+                    },
+                    {
+                        "name": "腸",
+                        "URL": "https://en.wiktionary.org/wiki/腸"
+                    }
                 ]
             }
         ],
-        "images" :
-        [
-                {
-                    "image":"sausagerolldimsumcafe",
-                    "place":"Dim Sum Cafe"
-                }
-        ],
-        "Description" : 
-            "This is a Chinese sausage wrapped in a steamed wheat bun.\n\n腊腸 is Chinese sausage and 卷 is a roll.",
-        "Tags":
-        [
-                "豬肉",
-                "饅頭",
-                "臘腸",
-                "點心",
-                "卷",
-                "蒸"
-        ],
-        "Resources":
-        [
+        "images": [
             {
-                "name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/sausage-roll/"
-            },
-            {
-                "name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Chinese_sausage"
-            },
-            {
-                "name":"Christine's Recipes", 
-                "URL":"https://www.christinesrecipes.com/2013/11/steamed-chinese-sausage-rolls.html"
-            },
-            {
-                "name":"Dim Sum Central", 
-                "URL":"http://www.dimsumcentral.com/steamed-sausage-rolls/"
-            },
-            {
-                "name":"The Woks of Life", 
-                "URL":"https://thewoksoflife.com/2016/10/chinese-sausage-buns/"
+                "image": "chinesesausageflockandfowl",
+                "place": "Flock and Fowl, Las Vegas, Nevada"
             }
-            ]
+        ],
+        "Description": "Hong Kong style Chinese sausage is a smoked fatty soy sauce-flavored pork sausage used in a variety of dishes, often in small slices or bits like bacon bits.\n\n腊 is “preserved meat,” and 腸 means “sausage.”",
+        "Tags": [
+            "豬肉",
+            "臘腸"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/sausage-roll/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chinese_sausage"
+            },
+            {
+                "name": "Ice or Rice",
+                "URL": "https://www.iceorrice.com/what-is-chinese-sausage/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/chinese-sausages/"
             }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "臘腸卷",
+                "Simplified": "腊肠卷",
+                "English": "Chinese sausage bun",
+                "Yale": "laahp chéung gyún",
+                "Pinyin": "là cháng juàn",
+                "Resources": [
+                    {
+                        "name": "臘腸",
+                        "URL": "https://en.wiktionary.org/wiki/臘腸"
+                    },
+                    {
+                        "name": "臘",
+                        "URL": "https://en.wiktionary.org/wiki/臘"
+                    },
+                    {
+                        "name": "腸",
+                        "URL": "https://en.wiktionary.org/wiki/腸"
+                    },
+                    {
+                        "name": "卷",
+                        "URL": "https://en.wiktionary.org/wiki/卷"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "sausagerolldimsumcafe",
+                "place": "Dim Sum Cafe"
+            }
+        ],
+        "Description": "This is a Chinese sausage wrapped in a steamed wheat bun.\n\n腊腸 is Chinese sausage and 卷 is a roll.",
+        "Tags": [
+            "豬肉",
+            "饅頭",
+            "臘腸",
+            "點心",
+            "卷",
+            "蒸"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/sausage-roll/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chinese_sausage"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://www.christinesrecipes.com/2013/11/steamed-chinese-sausage-rolls.html"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/steamed-sausage-rolls/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2016/10/chinese-sausage-buns/"
+            }
+        ]
+    }
 ]

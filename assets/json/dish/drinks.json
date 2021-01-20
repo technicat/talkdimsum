@@ -1,40 +1,42 @@
 [
-
-
- {
-    "words":
-    [
-        {
-            "Chinese" : "飲品",
-            "English" : "drinks",
-            "Yale" : "yám bán",
-            "Pinyin" : "yǐn pǐn",
-             "Resources":
-        [
-            {"name":"飲品","URL":"https://en.wiktionary.org/wiki/飲品"},
-            {"name":"飲","URL":"https://en.wiktionary.org/wiki/飲"},
-            {"name":"品","URL":"https://en.wiktionary.org/wiki/品"}
+    {
+        "words": [
+            {
+                "Chinese": "飲品",
+                "English": "drinks",
+                "Yale": "yám bán",
+                "Pinyin": "yǐn pǐn",
+                "Resources": [
+                    {
+                        "name": "飲品",
+                        "URL": "https://en.wiktionary.org/wiki/飲品"
+                    },
+                    {
+                        "name": "飲",
+                        "URL": "https://en.wiktionary.org/wiki/飲"
+                    },
+                    {
+                        "name": "品",
+                        "URL": "https://en.wiktionary.org/wiki/品"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "hotteasweethoneydessert",
+                "place": "Sweet Honey Dessert, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "飲 means “to drink,” and 品 is “item,” so it's basically “drink items.”",
+        "Tags": [
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Category:Chinese_drinks"
+            }
         ]
-        }
-    ],
-     "images" :
-     [
-        {
-            "image":"hotteasweethoneydessert",
-            "place":"Sweet Honey Dessert, Las Vegas, Nevada"
-        }
-    ],
-    "Description": 
-        "飲 means “to drink,” and 品 is “item,” so it's basically “drink items.”",
-     "Tags": 
-     [
-        "飲品"
-     ],
-     "Resources":
-     [
-         {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Category:Chinese_drinks"}
-     ]
- }
- 
- ]
+    }
+]

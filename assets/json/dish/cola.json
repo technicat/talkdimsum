@@ -1,127 +1,141 @@
-
 [
-
-
-
- {
-    "words":
-    [
-        {
-
-            "Chinese":"可樂",
-            "Simplified":"可乐",
-            "English":"cola",
-            "Yale": "hó lohk",
-            "Pinyin":"Kě lè",
-            "Resources":
-            [
-            {"name":"可樂","URL":"https://en.wiktionary.org/wiki/可樂"},
-            {"name":"可","URL":"https://en.wiktionary.org/wiki/可"},
-            {"name":"樂","URL":"https://en.wiktionary.org/wiki/樂"}
-            ]
-        }
-    ],
-     "images":
-     [
-     {
-         "image":"coladethai",
-         "place":"DE Thai, Las Vegas, Nevada"
-     }
-     ],
-    "Description":
-      "Cola soft drink.\n\n可樂 sort of sounds like “cola” (especially the Mandarin pronunciation “hó lohk”), but it also means “entertaining.”\n\n You would use this word when ordering a Coke, but there's a specific word for Pepsi (see the next entry).",
-     "Tags":
-     [
-       "可樂",
-        "汽水",
-        "飲品",
-        "茶餐廳"
-    ],
-     "Resources":
-     [
-      {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/Cola"}
-    ]
- },
-
-
   {
-    "words":
-    [
+    "words": [
       {
-      "Chinese":"健怡可樂",
-      "Simplified":"健怡可乐",
-      "English":"diet Coke",
-      "Yale": "gihn yìh hó lohk",
-      "Pinyin":"Jiàn yí Kě lè",
-      "Resources":
-      [
-        {"name":"健","URL":"https://en.wiktionary.org/wiki/健"},
-        {"name":"怡","URL":"https://en.wiktionary.org/wiki/怡"},
-        {"name":"可樂","URL":"https://en.wiktionary.org/wiki/可樂"},
-        {"name":"可","URL":"https://en.wiktionary.org/wiki/可"},
-        {"name":"樂","URL":"https://en.wiktionary.org/wiki/樂"}
-      ]
-    }
-    ],
-    "images":
-    [
-      {
-        "image":"dietcoke",
-        "place":"DE Thai, Las Vegas, Nevada"
+        "Chinese": "可樂",
+        "Simplified": "可乐",
+        "English": "cola",
+        "Yale": "hó lohk",
+        "Pinyin": "Kě lè",
+        "Resources": [
+          {
+            "name": "可樂",
+            "URL": "https://en.wiktionary.org/wiki/可樂"
+          },
+          {
+            "name": "可",
+            "URL": "https://en.wiktionary.org/wiki/可"
+          },
+          {
+            "name": "樂",
+            "URL": "https://en.wiktionary.org/wiki/樂"
+          }
+        ]
       }
     ],
-    "Description":
-      "健 means “healthy,” 怡 means “pleasure,” and 健怡 is “cola,” so it's “healthy pleasure cola,” which sounds more enticing than just “diet cola.”",
-    "Tags":
-    [
-        "可樂",
-         "汽水",
-         "飲品",
-         "茶餐廳"
-          ],
-      "Resources":
-      [
-      {"name":"Wikipedia",
-        "URL":"https://en.wikipedia.org/wiki/Diet_Coke"}
-      ]
-  },
-
- {
-    "words":
-    [
-        {
-            "Chinese":"百事",
-            "English":"Pepsi",
-            "Yale": "baak sih",
-            "Pinyin":"bǎi shì",
-            "Resources":
-            [
-            {"name":"百事","URL":"https://en.wiktionary.org/wiki/百事"},
-            {"name":"百","URL":"https://en.wiktionary.org/wiki/百"},
-            {"name":"事","URL":"https://en.wiktionary.org/wiki/事"}
-            ]
-        }
+    "images": [
+      {
+        "image": "coladethai",
+        "place": "DE Thai, Las Vegas, Nevada"
+      }
     ],
-     "images":
-     [
-     {
-         "image":"pepsidimsumcafe",
-         "place":"Dim Sum Cafe, Las Vegas, Nevada"
-     }
-
-     ],
-"Description":"The Cantonese for Pepsi is “baak sih,” which sort of sounds like “Pepsi.”\n\nIn Hong Kong, I would order Pepsi more often than Coke because I found the Cantonese for Coke, 可樂 (hó lohk) more difficult to say.",
-     "Tags":
-     [
-         "可樂",
-          "汽水",
-          "飲品",
-          "茶餐廳"
+    "Description": "Cola soft drink.\n\n可樂 sort of sounds like “cola” (especially the Mandarin pronunciation “hó lohk”), but it also means “entertaining.”\n\n You would use this word when ordering a Coke, but there's a specific word for Pepsi (see the next entry).",
+    "Tags": [
+      "可樂",
+      "汽水",
+      "飲品",
+      "茶餐廳"
     ],
-     "Resources":
-     [
-      {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/Pepsi"}
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cola"
+      }
     ]
- }
-
- ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "健怡可樂",
+        "Simplified": "健怡可乐",
+        "English": "diet Coke",
+        "Yale": "gihn yìh hó lohk",
+        "Pinyin": "Jiàn yí Kě lè",
+        "Resources": [
+          {
+            "name": "健",
+            "URL": "https://en.wiktionary.org/wiki/健"
+          },
+          {
+            "name": "怡",
+            "URL": "https://en.wiktionary.org/wiki/怡"
+          },
+          {
+            "name": "可樂",
+            "URL": "https://en.wiktionary.org/wiki/可樂"
+          },
+          {
+            "name": "可",
+            "URL": "https://en.wiktionary.org/wiki/可"
+          },
+          {
+            "name": "樂",
+            "URL": "https://en.wiktionary.org/wiki/樂"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "dietcoke",
+        "place": "DE Thai, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "健 means “healthy,” 怡 means “pleasure,” and 健怡 is “cola,” so it's “healthy pleasure cola,” which sounds more enticing than just “diet cola.”",
+    "Tags": [
+      "可樂",
+      "汽水",
+      "飲品",
+      "茶餐廳"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Diet_Coke"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "百事",
+        "English": "Pepsi",
+        "Yale": "baak sih",
+        "Pinyin": "bǎi shì",
+        "Resources": [
+          {
+            "name": "百事",
+            "URL": "https://en.wiktionary.org/wiki/百事"
+          },
+          {
+            "name": "百",
+            "URL": "https://en.wiktionary.org/wiki/百"
+          },
+          {
+            "name": "事",
+            "URL": "https://en.wiktionary.org/wiki/事"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "pepsidimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "The Cantonese for Pepsi is “baak sih,” which sort of sounds like “Pepsi.”\n\nIn Hong Kong, I would order Pepsi more often than Coke because I found the Cantonese for Coke, 可樂 (hó lohk) more difficult to say.",
+    "Tags": [
+      "可樂",
+      "汽水",
+      "飲品",
+      "茶餐廳"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Pepsi"
+      }
+    ]
+  }
+]

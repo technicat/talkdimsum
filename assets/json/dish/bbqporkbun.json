@@ -1,178 +1,216 @@
-
 [
- {
-    "words":
-    [
-        {
-            "Chinese":"叉燒包",
-            "Simplified":"叉烧包",
-            "English": "BBQ pork bun",
-            "Yale": "chā sīu bāau",
-            "Pinyin":"chā shāo bāo",
-            "Resources":
-    [
-        {"name":"叉燒包","URL":"https://en.wiktionary.org/wiki/叉燒包"},
-        {"name":"叉燒","URL":"https://en.wiktionary.org/wiki/叉燒"},
-        {"name":"叉","URL":"https://en.wiktionary.org/wiki/叉"},
-        {"name":"燒","URL":"https://en.wiktionary.org/wiki/燒"},
-        {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-    ]
-        }
-    ],
-    "images":
-    [
-     {
-         "image":"bbqporkbunyumcha",
-         "place":"Yum Cha, Las Vegas, Nevada"
-     }
-    ],
-    "Description": 
-        "This bun is unique in how the white, fluffy bread splits like a craggy rock formation, often with seams that reveal the filling of oven-roasted pork mixed with a sauce (ingredients include hoisin, oyster and soy sauce).\n\nThe first two characters 叉燒 comprise the name of the pork, “cha siu,” where the second character 燒 is the same “siu” as in “siu mai” (the previous dish on this list). The third character 包 is the word for “bun” (also “bag”).\n\nThis is one of your heavier dim sum buns, so watch out, you can fill up on these easily.",
-    "Tags":
-    [
-    "叉燒包",
-        "點心",
-        "豬",
-        "豬肉",
-        "蒸",
-        "叉燒",
-        "包"
-         ],
-    "Resources":
-    [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/baked-bbq-pork-bun/"
-        },
-        {"name":"Wikipedia", 
-            "URL":"http://en.wikipedia.org/wiki/Cha_siu_bao"
-        },
-        {"name":"Cha Siu", 
-            "URL":"https://en.wikipedia.org/wiki/Char_siu"
-        },
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/chinese-bbq-pork-buns/"
-        },
-        {"name":"Dim Sum Central", 
-            "URL":"http://www.dimsumcentral.com/steamed-pork-buns/"
-        },
-        {"name":"Dim Sum Guide", 
-            "URL":"https://dimsumguide.com/site/view/Barbecued-Pork-Bun"
-        },
-        {"name":"Dimsumptuous", 
-            "URL":"http://www.dimsumptuous.com/2014/01/char-siew-bao-steamed-bun.html"
-        },
-        {"name":"The Woks of Life", 
-            "URL":"https://thewoksoflife.com/2015/05/steamed-bbq-pork-buns-char-siu-bao/"
-        },
-        {"name":"Unfamiliar China", 
-            "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/char-siu-bao"
-        },
-        {"name":"Adventurs with Kake", 
-            "URL":"https://kake.dreamwidth.org/102977.html"
-        }
-    ]
- },
- 
- {
-    "words": 
-    [
-        {
-            "Chinese":"焗叉燒包",
-            "Simplified":"焗叉烧包",
-            "English": "baked BBQ pork bun",
-            "Yale": "guhk chā sīu bāau",
-            "Pinyin":"jú chā shāo bāo",
-            "Resources":
-    [
-        {"name":"焗","URL":"https://en.wiktionary.org/wiki/焗"},
-        {"name":"叉燒包","URL":"https://en.wiktionary.org/wiki/叉燒包"},
-        {"name":"叉燒","URL":"https://en.wiktionary.org/wiki/叉燒"},
-        {"name":"叉","URL":"https://en.wiktionary.org/wiki/叉"},
-        {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-        ]
-    }],
-    "images":
-    [
-     {
-         "image":"bakedchasiubaohkgarden",
-         "place":"Hong Kong Garden, Las Vegas, Nevada"
-     },
-     {
-         "image":"bakedbbqporkbun"
-     }
-    ],
-    "Description": 
-        "A baked version of the BBQ pork bun, with the same filling but a smooth bun that's baked to a toasty brown and glazed on top.\n\nThe first character 焗 means “baked” and 叉燒包 means “BBQ pork bun” as in the previous entry.",
-    "Tags":
-    [
-        "叉燒包",
-        "豬",
-        "豬肉",
-        "焗",
-        "叉燒",
-        "包",
-        "點心"
-    ],
-    "Resources":
-    [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/baked-bbq-pork-bun/"
-        },
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/char-siu-bao-baked-buns-recipe/"
-        },
-        {"name":"Dim Sum Central", 
-            "URL":"http://www.dimsumcentral.com/baked-pork-buns/"
-        },
-        {"name":"Unfamiliar China", 
-            "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/baked-char-siu-bao"
-        },
-        {"name":"Christine's Recipes", 
-            "URL":"https://en.christinesrecipes.com/2008/09/incredible-baked-cha-shao-bao-chinese.html"
-        }
+    {
+        "words": [
+            {
+                "Chinese": "叉燒包",
+                "Simplified": "叉烧包",
+                "English": "BBQ pork bun",
+                "Yale": "chā sīu bāau",
+                "Pinyin": "chā shāo bāo",
+                "Resources": [
+                    {
+                        "name": "叉燒包",
+                        "URL": "https://en.wiktionary.org/wiki/叉燒包"
+                    },
+                    {
+                        "name": "叉燒",
+                        "URL": "https://en.wiktionary.org/wiki/叉燒"
+                    },
+                    {
+                        "name": "叉",
+                        "URL": "https://en.wiktionary.org/wiki/叉"
+                    },
+                    {
+                        "name": "燒",
+                        "URL": "https://en.wiktionary.org/wiki/燒"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "bbqporkbunyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "This bun is unique in how the white, fluffy bread splits like a craggy rock formation, often with seams that reveal the filling of oven-roasted pork mixed with a sauce (ingredients include hoisin, oyster and soy sauce).\n\nThe first two characters 叉燒 comprise the name of the pork, “cha siu,” where the second character 燒 is the same “siu” as in “siu mai” (the previous dish on this list). The third character 包 is the word for “bun” (also “bag”).\n\nThis is one of your heavier dim sum buns, so watch out, you can fill up on these easily.",
+        "Tags": [
+            "叉燒包",
+            "點心",
+            "豬",
+            "豬肉",
+            "蒸",
+            "叉燒",
+            "包"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/baked-bbq-pork-bun/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Cha_siu_bao"
+            },
+            {
+                "name": "Cha Siu",
+                "URL": "https://en.wikipedia.org/wiki/Char_siu"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/chinese-bbq-pork-buns/"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/steamed-pork-buns/"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Barbecued-Pork-Bun"
+            },
+            {
+                "name": "Dimsumptuous",
+                "URL": "http://www.dimsumptuous.com/2014/01/char-siew-bao-steamed-bun.html"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2015/05/steamed-bbq-pork-buns-char-siu-bao/"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/char-siu-bao"
+            },
+            {
+                "name": "Adventurs with Kake",
+                "URL": "https://kake.dreamwidth.org/102977.html"
+            }
         ]
     },
-
-  {
-    "words": 
-    [
-        {
-            "Chinese":"仿肉叉燒包",
-            "Simplified":"仿肉叉烧包",
-            "English": "vegan BBQ pork bun",
-            "Yale": "fóng yuhk chā sīu bāau",
-            "Pinyin":"ǎng ròu chā shāo bāo",
-            "Resources":
-    [
-        {"name":"叉燒包","URL":"https://en.wiktionary.org/wiki/叉燒包"},
-        {"name":"叉燒","URL":"https://en.wiktionary.org/wiki/叉燒"},
-        {"name":"叉","URL":"https://en.wiktionary.org/wiki/叉"},
-        {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-    ]
-        }],
-    "images":
-    [
-      {
-        "image":"imitationmeatbaoyumcha",
-        "place": "Yum Cha, Las Vegas, Nevada"
-      }
-    ],
-    "Description": 
-        "A vegetarian version of the BBQ pork bun, with imitation meat in place of the BBQ pork.\n\n仿肉 means “imitation meat” and 叉燒包 means “BBQ pork bun” as in the previous entries.",
-    "Tags":
-    [
-        "叉燒包",
-        "仿肉",
-        "素",
-        "包",
-        "點心"
-    ],
-    "Resources":
-    [
-        {
-            "name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/vegan-bbq-pork-bun/"
-        }
-    ]
-  }
- ]
+    {
+        "words": [
+            {
+                "Chinese": "焗叉燒包",
+                "Simplified": "焗叉烧包",
+                "English": "baked BBQ pork bun",
+                "Yale": "guhk chā sīu bāau",
+                "Pinyin": "jú chā shāo bāo",
+                "Resources": [
+                    {
+                        "name": "焗",
+                        "URL": "https://en.wiktionary.org/wiki/焗"
+                    },
+                    {
+                        "name": "叉燒包",
+                        "URL": "https://en.wiktionary.org/wiki/叉燒包"
+                    },
+                    {
+                        "name": "叉燒",
+                        "URL": "https://en.wiktionary.org/wiki/叉燒"
+                    },
+                    {
+                        "name": "叉",
+                        "URL": "https://en.wiktionary.org/wiki/叉"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "bakedchasiubaohkgarden",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
+            },
+            {
+                "image": "bakedbbqporkbun"
+            }
+        ],
+        "Description": "A baked version of the BBQ pork bun, with the same filling but a smooth bun that's baked to a toasty brown and glazed on top.\n\nThe first character 焗 means “baked” and 叉燒包 means “BBQ pork bun” as in the previous entry.",
+        "Tags": [
+            "叉燒包",
+            "豬",
+            "豬肉",
+            "焗",
+            "叉燒",
+            "包",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/baked-bbq-pork-bun/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/char-siu-bao-baked-buns-recipe/"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/baked-pork-buns/"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/baked-char-siu-bao"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2008/09/incredible-baked-cha-shao-bao-chinese.html"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "仿肉叉燒包",
+                "Simplified": "仿肉叉烧包",
+                "English": "vegan BBQ pork bun",
+                "Yale": "fóng yuhk chā sīu bāau",
+                "Pinyin": "ǎng ròu chā shāo bāo",
+                "Resources": [
+                    {
+                        "name": "叉燒包",
+                        "URL": "https://en.wiktionary.org/wiki/叉燒包"
+                    },
+                    {
+                        "name": "叉燒",
+                        "URL": "https://en.wiktionary.org/wiki/叉燒"
+                    },
+                    {
+                        "name": "叉",
+                        "URL": "https://en.wiktionary.org/wiki/叉"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "imitationmeatbaoyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A vegetarian version of the BBQ pork bun, with imitation meat in place of the BBQ pork.\n\n仿肉 means “imitation meat” and 叉燒包 means “BBQ pork bun” as in the previous entries.",
+        "Tags": [
+            "叉燒包",
+            "仿肉",
+            "素",
+            "包",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/vegan-bbq-pork-bun/"
+            }
+        ]
+    }
+]

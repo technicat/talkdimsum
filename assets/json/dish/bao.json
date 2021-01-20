@@ -1,200 +1,238 @@
 [
     {
-        "words":
-        [
-        {
-            "English":"bao",
-            "Chinese":"包",
-            "Mandarin":"包子",
-            "Yale": "bāau",
-            "Pinyin":"bāo zi",
-            "Resources":
-            [
-            {"name":"包子","URL":"https://en.wiktionary.org/wiki/包子"},
-            {"name":"包","URL":"https://en.wiktionary.org/wiki/包"},
-            {"name":"子","URL":"https://en.wiktionary.org/wiki/子"}
-            ]
-        }
-        ],
-       "images":
-       [
-        {
-            "image":"moltencustardbunkj",
-            "place":"KJ Dim Sum and Seafood"
-        }
-       ],
-       "Description":
-        "A large portion of classic dim sum consists of wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings.\n\n包 means “bun,” and more generally means “package“ or “bag” (which the character kind of looks like, right?). In Mandarin it is suffixed with 子, which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n包 is also part of 打包 (dá bāau) which you say to indicate you want leftovers wrapped up to go.",
-       "Tags":
-       [
-            "包",
-            "蒸"
-        ],
-       "Resources":
-       [
+        "words": [
             {
-                "name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/bao/"
-            },
-            {
-                "name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Baozi"
-            },
-            {
-                "name":"Unfamiliar China", 
-                "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou-buns"
+                "English": "bao",
+                "Chinese": "包",
+                "Mandarin": "包子",
+                "Yale": "bāau",
+                "Pinyin": "bāo zi",
+                "Resources": [
+                    {
+                        "name": "包子",
+                        "URL": "https://en.wiktionary.org/wiki/包子"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    },
+                    {
+                        "name": "子",
+                        "URL": "https://en.wiktionary.org/wiki/子"
+                    }
+                ]
             }
-       ]
-    },
-
-    {
-    "words":
-    [
-        {
-            "Chinese" : "雞包",
-            "Simplified" : "鸡包",
-            "English":"chicken bun",
-            "Yale": "gāi bāau",
-            "Pinyin":"jī bāo",
-            "Resources":
-            [
-                {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
-                {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-            ]
-        }
-    ],
-    "images":
-    [
-        {
-         "image":"chickenbundimsumcafe",
-         "place":"Dim Sum Cafe, Las Vegas, Nevada"
-        }
-     ],
-    "Description":
-        "Thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom. Originated in northern China.\n\nThe first character 雞 means “chicken,” and the second character 包 is “bun.”",
-    "Tags":
-    [
-        "點心",
-         "雞",
-         "蒸",
-         "包"
-         ],
-    "Resources":
-    [
-        {
-            "name":"Pinterest",
-            "URL":"https://www.pinterest.com/technicat/dim-sum/"
-        },
-        {
-            "name":"Dim Sum Guide",
-            "URL":"https://dimsumguide.com/site/view/Chicken-Bun"
-        },
-        {
-            "name":"Dimsumptuous",
-            "URL":"http://www.dimsumptuous.com/2013/06/pork-chicken-bao-steamed-bun.html"
-        }
-    ]
-    },
-
-    {
-    "words":
-    [
-        {
-            "Chinese": "生煎包",
-            "Simplified": "生煎包",
-            "English":"pan-fried pork bun",
-            "Yale": "sāang jīn bāau",
-            "Pinyin":"shēng jiān bāo",
-            "Resources":
-            [
-                {"name":"生煎包","URL":"https://en.wiktionary.org/wiki/生煎包"},
-                {"name":"生煎","URL":"https://en.wiktionary.org/wiki/生煎"},
-                {"name":"生","URL":"https://en.wiktionary.org/wiki/生"},
-                {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-                {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-            ]
-        }
-    ],
-    "images":
-    [
-        {
-         "image":"porkbunpingpangpong",
-         "place":"Ping Pang Pong, Las Vegas, Nevada"
-        }
-     ],
-    "Description":
-        "A thick pan-fried bun with a juicy pork mixture inside.\n\nThe first character 生 means “raw,” and the second character 煎 is “pan-fried,” so it's literally “raw-fried bun.”\n\nAlso known as Shengjian bun or Shengian mantou.",
-    "Tags":
-    [
-        "點心",
-        "上海",
-         "煎",
-         "包"
-         ],
-    "Resources":
-    [
-        {"name":"Pinterest",
-            "URL":"https://www.pinterest.com/technicat/dim-sum/pan-fried-pork-bun/"},
-        {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Shengjian_mantou"},
-        {"name":"China Sichuan Food",
-            "URL":"https://www.chinasichuanfood.com/pan-fried-pork-buns-sheng-jian-bao-recipe/"},
-        {"name":"Unfamiliar China",
-            "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/sheng-jian-bao"}
-    ]
-    },
-
-    {
-    "words":
-    [
-        {
-            "English": "pork belly bun",
-            "Chinese": "叉包",
-            "Mandarin": "割包",
-            "Yale": "chā bāau",
-            "Pinyin": "gē bāo",
-            "Resources":
-            [
-            {"name":"叉","URL":"https://en.wiktionary.org/wiki/叉"},
-            {"name":"割包","URL":"https://en.wiktionary.org/wiki/割包"},
-            {"name":"割","URL":"https://en.wiktionary.org/wiki/割"},
-            {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-            ]
-        }
         ],
-       "images":
-       [
-        {
-            "image":"porkbellybaofatchoy",
-            "place":"Fat Choy, Las Vegas, Nevada"
-        }
-       ],
-       "Description":
-        "Meat, usually pork belly, served taco-like in a soft doughy bao wrapper. Originating from Fuzhou, this is a popular street food in Taiwan.\n\nKnown as 叉包 (chā bāau in Cantonese) in Hong Kong, 割包 (gē bāo in Mandarin) elsewhere and similarly “gua bao” in English.",
-       "Tags":
-       [
+        "images": [
+            {
+                "image": "moltencustardbunkj",
+                "place": "KJ Dim Sum and Seafood"
+            }
+        ],
+        "Description": "A large portion of classic dim sum consists of wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings.\n\n包 means “bun,” and more generally means “package“ or “bag” (which the character kind of looks like, right?). In Mandarin it is suffixed with 子, which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n包 is also part of 打包 (dá bāau) which you say to indicate you want leftovers wrapped up to go.",
+        "Tags": [
             "包",
             "蒸"
-            ],
-       "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/gua-bao/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Gua_bao"},
-            {"name":"Angel Wong's Kitchen", 
-                "URL":"https://www.angelwongskitchen.com/taiwaneseporkbao.html"},
-            {"name":"China Sichuan Food", 
-                "URL":"https://www.angelwongskitchen.com/taiwaneseporkbao.html"},
-            {"name":"CNN", 
-                "URL":"https://www.cnn.com/travel/article/gua-bao-taiwan/index.html"},
-            {"name":"Gastrosenses", 
-                "URL":"https://www.gastrosenses.com/blog/gua-bao-with-glazed-pork-belly/"},
-            {"name":"The Informal Chef", 
-                "URL":"http://theinformalchef.blogspot.com/2016/03/gua-bao-with-braised-pork-belly.html"},
-            {"name":"Wok & Kin", 
-                "URL":"https://www.wokandkin.com/taiwanese-pork-belly-bao-gua-bao/"}
-       ]
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/bao/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Baozi"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou-buns"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "雞包",
+                "Simplified": "鸡包",
+                "English": "chicken bun",
+                "Yale": "gāi bāau",
+                "Pinyin": "jī bāo",
+                "Resources": [
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "chickenbundimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom. Originated in northern China.\n\nThe first character 雞 means “chicken,” and the second character 包 is “bun.”",
+        "Tags": [
+            "點心",
+            "雞",
+            "蒸",
+            "包"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Chicken-Bun"
+            },
+            {
+                "name": "Dimsumptuous",
+                "URL": "http://www.dimsumptuous.com/2013/06/pork-chicken-bao-steamed-bun.html"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "生煎包",
+                "Simplified": "生煎包",
+                "English": "pan-fried pork bun",
+                "Yale": "sāang jīn bāau",
+                "Pinyin": "shēng jiān bāo",
+                "Resources": [
+                    {
+                        "name": "生煎包",
+                        "URL": "https://en.wiktionary.org/wiki/生煎包"
+                    },
+                    {
+                        "name": "生煎",
+                        "URL": "https://en.wiktionary.org/wiki/生煎"
+                    },
+                    {
+                        "name": "生",
+                        "URL": "https://en.wiktionary.org/wiki/生"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "porkbunpingpangpong",
+                "place": "Ping Pang Pong, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A thick pan-fried bun with a juicy pork mixture inside.\n\nThe first character 生 means “raw,” and the second character 煎 is “pan-fried,” so it's literally “raw-fried bun.”\n\nAlso known as Shengjian bun or Shengian mantou.",
+        "Tags": [
+            "點心",
+            "上海",
+            "煎",
+            "包"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/pan-fried-pork-bun/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Shengjian_mantou"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/pan-fried-pork-buns-sheng-jian-bao-recipe/"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/sheng-jian-bao"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "English": "pork belly bun",
+                "Chinese": "叉包",
+                "Mandarin": "割包",
+                "Yale": "chā bāau",
+                "Pinyin": "gē bāo",
+                "Resources": [
+                    {
+                        "name": "叉",
+                        "URL": "https://en.wiktionary.org/wiki/叉"
+                    },
+                    {
+                        "name": "割包",
+                        "URL": "https://en.wiktionary.org/wiki/割包"
+                    },
+                    {
+                        "name": "割",
+                        "URL": "https://en.wiktionary.org/wiki/割"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "porkbellybaofatchoy",
+                "place": "Fat Choy, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Meat, usually pork belly, served taco-like in a soft doughy bao wrapper. Originating from Fuzhou, this is a popular street food in Taiwan.\n\nKnown as 叉包 (chā bāau in Cantonese) in Hong Kong, 割包 (gē bāo in Mandarin) elsewhere and similarly “gua bao” in English.",
+        "Tags": [
+            "包",
+            "蒸"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/gua-bao/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Gua_bao"
+            },
+            {
+                "name": "Angel Wong's Kitchen",
+                "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
+            },
+            {
+                "name": "CNN",
+                "URL": "https://www.cnn.com/travel/article/gua-bao-taiwan/index.html"
+            },
+            {
+                "name": "Gastrosenses",
+                "URL": "https://www.gastrosenses.com/blog/gua-bao-with-glazed-pork-belly/"
+            },
+            {
+                "name": "The Informal Chef",
+                "URL": "http://theinformalchef.blogspot.com/2016/03/gua-bao-with-braised-pork-belly.html"
+            },
+            {
+                "name": "Wok & Kin",
+                "URL": "https://www.wokandkin.com/taiwanese-pork-belly-bao-gua-bao/"
+            }
+        ]
     }
-
- ]
+]

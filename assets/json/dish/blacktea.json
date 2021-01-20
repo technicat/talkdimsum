@@ -1,124 +1,144 @@
-
 [
     {
-        "words":
-        [
-        {
-        "Chinese":"紅茶",
-        "Simplified":"红茶",
-        "English":"black tea",
-        "Yale": "hùhng chàh",
-        "Pinyin":"hóng chá",
-          "Resources":
-            [
-            {"name":"紅茶",
-                "URL":"https://en.wiktionary.org/wiki/紅茶"},
-            {"name":"紅",
-                "URL":"https://en.wiktionary.org/wiki/紅"},
-            {"name":"茶",
-                "URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-        }
+        "words": [
+            {
+                "Chinese": "紅茶",
+                "Simplified": "红茶",
+                "English": "black tea",
+                "Yale": "hùhng chàh",
+                "Pinyin": "hóng chá",
+                "Resources": [
+                    {
+                        "name": "紅茶",
+                        "URL": "https://en.wiktionary.org/wiki/紅茶"
+                    },
+                    {
+                        "name": "紅",
+                        "URL": "https://en.wiktionary.org/wiki/紅"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
         ],
-        "images":
-        [
-        {
-            "image":"lapsangsouchongcupeverygrain",
-            "place":"Eat Every Grain, Las Vegas, Nevada"
-        }
-    ],
-    "Description":
-        "Black tea is one of the more fermented and stronger-tasting teas. Chinese black tea actually has a reddish hue, so the first character 紅 means “red,” and the second character 茶 means “tea,” and 紅茶 literally means “red tea” (the literal Chinese for “black tea” actually refers to post-fermented teas like Pu'er tea).\n\nThe tea was called “black tea” by European traders, who named it after the color of the leaves. Black tea was invented relatively recently in the seventeenth centure, according to legend, after traveling soldiers interrupted production at a tea factory, prompting the producers to dry the leaves over pine-cone fires.",
-    "Tags":
-    [
-        "紅茶",
-        "紅色",
-        "茶",
-        "熱茶",
-        "中國茶",
-        "點心",
-        "飲品"
-    ],
-    "Resources":
-    [
-        {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Black_tea"},
-        {"name":"Art of Tea",
-            "URL":"https://www.artoftea.com/what-is-tea/what-is-black-tea"},
-        {"name":"The Chinese Tea Shop",
-            "URL":"http://www.thechineseteashop.com/blacktea.html)"}
-    ]
+        "images": [
+            {
+                "image": "lapsangsouchongcupeverygrain",
+                "place": "Eat Every Grain, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Black tea is one of the more fermented and stronger-tasting teas. Chinese black tea actually has a reddish hue, so the first character 紅 means “red,” and the second character 茶 means “tea,” and 紅茶 literally means “red tea” (the literal Chinese for “black tea” actually refers to post-fermented teas like Pu'er tea).\n\nThe tea was called “black tea” by European traders, who named it after the color of the leaves. Black tea was invented relatively recently in the seventeenth centure, according to legend, after traveling soldiers interrupted production at a tea factory, prompting the producers to dry the leaves over pine-cone fires.",
+        "Tags": [
+            "紅茶",
+            "紅色",
+            "茶",
+            "熱茶",
+            "中國茶",
+            "點心",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Black_tea"
+            },
+            {
+                "name": "Art of Tea",
+                "URL": "https://www.artoftea.com/what-is-tea/what-is-black-tea"
+            },
+            {
+                "name": "The Chinese Tea Shop",
+                "URL": "http://www.thechineseteashop.com/blacktea.html)"
+            }
+        ]
     },
-
     {
-        "words":
-        [
-        {
-            "Chinese":"立山小種",
-            "Simplified":"立山小种",
-            "English":"lapsang souchang",
-            "Yale": "laahp sāan síu júng",
-            "Pinyin":"lì shān xiǎo zhǒng",
-             "Resources":
-            [
-            {"name":"立山小種",
-                "URL":"https://en.wiktionary.org/wiki/立山小種"},
-            {"name":"立山",
-                "URL":"https://en.wiktionary.org/wiki/立山"},
-            {"name":"立",
-                "URL":"https://en.wiktionary.org/wiki/立"},
-            {"name":"山",
-                "URL":"https://en.wiktionary.org/wiki/山"},
-            {"name":"小種",
-                "URL":"https://en.wiktionary.org/wiki/小種"},
-            {"name":"小",
-                "URL":"https://en.wiktionary.org/wiki/小"},
-            {"name":"種",
-                "URL":"https://en.wiktionary.org/wiki/種"},
-            {"name":"茶",
-                "URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-        },
-         {
-            "Chinese":"正山小種",
-            "Simplified":"正山小种",
-            "English":"lapsang souchang",
-            "Yale": "jing sāan síu júng",
-            "Pinyin":"zhèng shān xiǎo zhǒng"
-        },
-        {
-            "Chinese":"熏茶",
-            "Simplified":"熏茶",
-            "English":"smoke tea",
-            "Yale": "fān chàh",
-            "Pinyin":"xūn chá"
-        }
+        "words": [
+            {
+                "Chinese": "立山小種",
+                "Simplified": "立山小种",
+                "English": "lapsang souchang",
+                "Yale": "laahp sāan síu júng",
+                "Pinyin": "lì shān xiǎo zhǒng",
+                "Resources": [
+                    {
+                        "name": "立山小種",
+                        "URL": "https://en.wiktionary.org/wiki/立山小種"
+                    },
+                    {
+                        "name": "立山",
+                        "URL": "https://en.wiktionary.org/wiki/立山"
+                    },
+                    {
+                        "name": "立",
+                        "URL": "https://en.wiktionary.org/wiki/立"
+                    },
+                    {
+                        "name": "山",
+                        "URL": "https://en.wiktionary.org/wiki/山"
+                    },
+                    {
+                        "name": "小種",
+                        "URL": "https://en.wiktionary.org/wiki/小種"
+                    },
+                    {
+                        "name": "小",
+                        "URL": "https://en.wiktionary.org/wiki/小"
+                    },
+                    {
+                        "name": "種",
+                        "URL": "https://en.wiktionary.org/wiki/種"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            },
+            {
+                "Chinese": "正山小種",
+                "Simplified": "正山小种",
+                "English": "lapsang souchang",
+                "Yale": "jing sāan síu júng",
+                "Pinyin": "zhèng shān xiǎo zhǒng"
+            },
+            {
+                "Chinese": "熏茶",
+                "Simplified": "熏茶",
+                "English": "smoke tea",
+                "Yale": "fān chàh",
+                "Pinyin": "xūn chá"
+            }
         ],
-        "images":
-        [
-        {
-            "image":"lapchangsoochongeverygrain",
-            "place":"Eat Every Grain, Las Vegas, Nevada"
-        }
+        "images": [
+            {
+                "image": "lapchangsoochongeverygrain",
+                "place": "Eat Every Grain, Las Vegas, Nevada"
+            }
         ],
-        "Description":
-            "Lapsang souchong, also known as “smoked tea” due to its smoke-fired preparation that lends to its flavor, is a black tea from the Wuyi region of the Fujian province in China.\n\nSir Patrick Stewart initially suggested lapsang souchong as his character Jean-Luc Picard's preferred tea, but it was decided that Earl Grey was more safely recognizable by the Star Trek audience.",
-        "Tags":
-        [
-        "飲品",
-         "茶",
-        "熱茶",
-        "紅茶",
-        "中國茶"
+        "Description": "Lapsang souchong, also known as “smoked tea” due to its smoke-fired preparation that lends to its flavor, is a black tea from the Wuyi region of the Fujian province in China.\n\nSir Patrick Stewart initially suggested lapsang souchong as his character Jean-Luc Picard's preferred tea, but it was decided that Earl Grey was more safely recognizable by the Star Trek audience.",
+        "Tags": [
+            "飲品",
+            "茶",
+            "熱茶",
+            "紅茶",
+            "中國茶"
         ],
-        "Resources":
-        [
-         {"name":"Pinterest",
-            "URL":"https://www.pinterest.com/technicat/dim-sum/lapsang-souchong/"},
-        {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Lapsang_souchong"},
-        {"name":"Wuyi tea",
-            "URL":"https://en.wikipedia.org/wiki/Wuyi_tea"}
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/lapsang-souchong/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Lapsang_souchong"
+            },
+            {
+                "name": "Wuyi tea",
+                "URL": "https://en.wikipedia.org/wiki/Wuyi_tea"
+            }
         ]
     }
- ]
+]
