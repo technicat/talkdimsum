@@ -1,18 +1,15 @@
-
 {
     "name": "California",
     "places": [
-        
         {
             "title": "Chef's Wok",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://chefs-wok.com"
+                    "name": "site",
+                    "URL": "http://chefs-wok.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/chefs-wok-alameda"
                 }
             ],
@@ -23,14 +20,13 @@
         },
         {
             "title": "East Ocean Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.eastoceanseafoodrestaurant.com"
+                    "name": "site",
+                    "URL": "http://www.eastoceanseafoodrestaurant.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/east-ocean-seafood-restaurant-alameda"
                 }
             ],
@@ -41,14 +37,13 @@
         },
         {
             "title": "Pacific Lighthouse Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.pacificlighthouse88.com"
+                    "name": "site",
+                    "URL": "http://www.pacificlighthouse88.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/pacific-lighthouse-restaurant-alameda"
                 }
             ],
@@ -57,17 +52,15 @@
             "city": "Alameda",
             "address": "1051 Pacific Marina, Alameda, CA 94501"
         },
-
         {
-            "title":"King Hua Restaurant",
-            "links":
-            [
+            "title": "King Hua Restaurant",
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://kinghuarestaurant.com"
+                    "name": "site",
+                    "URL": "http://kinghuarestaurant.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/king-hua-restaurant-alhambra"
                 }
             ],
@@ -77,12 +70,11 @@
             "address": "2000 W Main St, Alhambra, CA 91801"
         },
         {
-            "title":"Lunasia Chinese Cuisine",
-            "links":
-            [
+            "title": "Lunasia Chinese Cuisine",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/lunasia-chinese-cuisine-alhambra-3"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lunasia-chinese-cuisine-alhambra-3"
                 }
             ],
             "lat": 34.091950,
@@ -91,12 +83,11 @@
             "address": "500 W Main St, Alhambra, CA 91801"
         },
         {
-            "title":"Top Island Seafood Restaurant",
-            "links":
-            [
+            "title": "Top Island Seafood Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/top-island-seafood-restaurant-alhambra"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/top-island-seafood-restaurant-alhambra"
                 }
             ],
             "lat": 34.077999,
@@ -105,12 +96,11 @@
             "address": "740 E Valley Blvd, Alhambra, CA 91801"
         },
         {
-            "title":"World Seafood Restaurant",
-            "links":
-            [
+            "title": "World Seafood Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/world-seafood-restaurant-alhambra"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/world-seafood-restaurant-alhambra"
                 }
             ],
             "lat": 34.078150,
@@ -118,17 +108,15 @@
             "city": "Alhambra",
             "address": "1412 S Garfield Ave, Alhambra, CA 91801"
         },
-        
-         {
+        {
             "title": "Tin Tin Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://tintinseafoodrestaurant.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tin-tin-seafood-restaurant-anaheim"
                 }
             ],
@@ -137,17 +125,15 @@
             "city": "Anaheim",
             "address": "669 N Euclid St, Anaheim, CA 92801"
         },
-        
-       {
-            "title":"Capital Seafood",
-            "links":
-            [
+        {
+            "title": "Capital Seafood",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://www.capitalseafoodarcadia.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/capital-seafood-arcadia"
                 }
             ],
@@ -157,12 +143,11 @@
             "address": "333 E Huntington Dr, Arcadia, CA 91006"
         },
         {
-            "title":"China Red",
-            "links":
-            [
+            "title": "China Red",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/china-red-arcadia"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-red-arcadia"
                 }
             ],
             "lat": 34.129980,
@@ -171,12 +156,11 @@
             "address": "855 S Baldwin Ave, Arcadia, CA 91007"
         },
         {
-            "title":"Full House Seafood Restaurant",
-            "links":
-            [
+            "title": "Full House Seafood Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/full-house-seafood-restaurant-arcadia"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/full-house-seafood-restaurant-arcadia"
                 }
             ],
             "lat": 34.130870,
@@ -184,14 +168,12 @@
             "city": "Arcadia",
             "address": "1220 S Golden W Ave, Arcadia, CA 91007"
         },
-        
         {
             "title": "Seafood House",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/seafood-house-artesia"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/seafood-house-artesia"
                 }
             ],
             "lat": 33.878910,
@@ -199,17 +181,15 @@
             "city": "Artesia",
             "address": "18329 S Pioneer Blvd, Artesia, CA 90701"
         },
-       
         {
             "title": "Phoenix Café",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://www.thebike.com/dine/phoenix_cafe.php"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/phoenix-café-bell-gardens-5"
                 }
             ],
@@ -218,17 +198,15 @@
             "city": "Bell Gardens",
             "address": "888 Bicycle Casino Dr, Bell Gardens, CA 90201"
         },
-
         {
             "title": "China Village Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.chinavillagebelmont.com"
+                    "name": "site",
+                    "URL": "http://www.chinavillagebelmont.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/china-village-seafood-restaurant-belmont"
                 }
             ],
@@ -237,32 +215,28 @@
             "city": "Belmont",
             "address": "600 Ralston Ave, Belmont, CA 94002"
         },
-
         {
             "title": "Dumpling Express",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dumpling-express-berkeley"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dumpling-express-berkeley"
+                }
             ],
             "lat": 37.867940,
             "lon": -122.256850,
             "city": "Berkeley",
             "address": "2328 Bowditch St, Berkeley, CA 94704"
         },
-
         {
-            "title":"Capital Seafood",
-            "links":
-            [
+            "title": "Capital Seafood",
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.capitalseafoodbeverlyhills.com"
+                    "name": "site",
+                    "URL": "https://www.capitalseafoodbeverlyhills.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/capital-seafood-beverly-hills-beverly-hills-2"
                 }
             ],
@@ -271,18 +245,15 @@
             "city": "Beverly Hills",
             "address": "50 N La Cienega Blvd, Ste 13, Beverly Hills, CA 90211"
         },
-        
-
         {
             "title": "Grand Harbor",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://grandharborsf.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/grand-harbor-burlingame"
                 }
             ],
@@ -293,14 +264,13 @@
         },
         {
             "title": "HL Peninsula Pearl",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://grandharborsf.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hl-peninsula-pearl-burlingame-4"
                 }
             ],
@@ -309,17 +279,15 @@
             "city": "Burlingame",
             "address": "1590 Old Bayshore Hwy Burlingame, CA 94010"
         },
-
         {
             "title": "Peking Inn Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.pekinginnrestaurant.com"
+                    "name": "site",
+                    "URL": "http://www.pekinginnrestaurant.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/peking-inn-restaurant-camarillo"
                 }
             ],
@@ -328,46 +296,39 @@
             "city": "Camarillo",
             "address": "330 N Lantana St, Ste 31, Camarillo, CA 93010"
         },
-
-
         {
             "title": "Four Seasons Chinese Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/four-seasons-chinese-restaurant-clovis"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/four-seasons-chinese-restaurant-clovis"
+                }
             ],
             "lat": 36.836090,
             "lon": -119.700560,
             "city": "Clovis",
             "address": "342 N Clovis Ave, Clovis, CA 93612"
         },
-
         {
             "title": "Leisure Dessert",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/leisure-dessert-concord"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/leisure-dessert-concord"
+                }
             ],
             "lat": 37.978020,
             "lon": -122.034740,
-             "city": "Concord",
+            "city": "Concord",
             "address": "2151 Salvio St, Ste E, Concord, CA 94520"
         },
-
         {
             "title": "Dim Sum King",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-king-daly-city"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-king-daly-city"
+                }
             ],
             "lat": 37.681854,
             "lon": -122.487470,
@@ -376,14 +337,13 @@
         },
         {
             "title": "Koi Palace",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://koipalace.com"
+                    "name": "site",
+                    "URL": "http://koipalace.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/koi-palace-daly-city"
                 }
             ],
@@ -394,14 +354,13 @@
         },
         {
             "title": "Tai Yuan Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.taiyuanrestaurant.com"
+                    "name": "site",
+                    "URL": "http://www.taiyuanrestaurant.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tai-yuan-seafood-restaurant-daly-city-3"
                 }
             ],
@@ -410,17 +369,15 @@
             "city": "Daly City",
             "address": "950 King Dr Ste 100 King Plaza Shopping Ctr Daly City, CA 94015"
         },
-
-         {
+        {
             "title": "Golden Sand Harbor",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://goldensandharbor.com"
+                    "name": "site",
+                    "URL": "http://goldensandharbor.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/golden-sand-harbor-dublin"
                 }
             ],
@@ -431,14 +388,13 @@
         },
         {
             "title": "Koi Palace",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://koipalace.com"
+                    "name": "site",
+                    "URL": "http://koipalace.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/koi-palace-dublin"
                 }
             ],
@@ -449,14 +405,13 @@
         },
         {
             "title": "Koi Palace Express",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://koipalace.com"
+                    "name": "site",
+                    "URL": "http://koipalace.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/koi-palace-express-dublin-5"
                 }
             ],
@@ -467,48 +422,43 @@
         },
         {
             "title": "Mayflower Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://mayflowerdublin.com"
+                    "name": "site",
+                    "URL": "http://mayflowerdublin.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/mayflower-restaurant-dublin"
-            }
+                }
             ],
             "lat": 37.704098,
             "lon": -121.865952,
             "city": "Dublin",
             "address": "4086 Grafton St, Dublin, CA 94568"
         },
-
         {
             "title": "Well Season",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/well-season-elk-grove-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/well-season-elk-grove-2"
+                }
             ],
             "lat": 38.427764,
             "lon": -121.417836,
             "city": "Elk Grove",
             "address": "9089 Bruceville Rd, Elk Grove, CA 95758"
         },
-
         {
             "title": "Hong Kong East Ocean Seafood",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://hkeo.us"
+                    "name": "site",
+                    "URL": "http://hkeo.us"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hong-kong-east-ocean-seafood-restaurant-emeryville"
                 }
             ],
@@ -517,37 +467,33 @@
             "city": "Emeryville",
             "address": "3199 Powell St, Emeryville, CA 94608"
         },
-
         {
-            "title":"Fat's Asia Bistro & Dim Sum Bar",
-             "links":
-            [
+            "title": "Fat's Asia Bistro & Dim Sum Bar",
+            "links": [
                 {
-                "name":"site",
-                "URL": "https://fatsasiabistro.com/"
+                    "name": "site",
+                    "URL": "https://fatsasiabistro.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/fats-asia-bistro-folsom"
-                    }
+                }
             ],
             "lat": 38.647575,
             "lon": -121.115824,
             "city": "Folsom",
             "address": "2585 Iron Point Rd, Folsom, CA 95630"
         },
-
         {
             "title": "Asian Pearl Seafood Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://asian-pearl.cafes-guide.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/asian-pearl-seafood-restaurant-fremont"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/asian-pearl-seafood-restaurant-fremont"
                 }
             ],
             "lat": 37.500720,
@@ -555,18 +501,16 @@
             "city": "Fremont",
             "address": "43635 Boscell Rd, Fremont, CA 94538"
         },
-        
         {
             "title": "New City Chinese Cuisine",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://dimsuminn.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/new-city-chinese-cuisine-fresno"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-city-chinese-cuisine-fresno"
                 }
             ],
             "lat": 36.809140,
@@ -574,35 +518,29 @@
             "city": "Fresno",
             "address": "1484 E Shaw Ave, Fresno, CA 93710"
         },
-        
         {
             "title": "Imperial Garden Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.fresnoimperialgarden.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/imperial-garden-restaurant-fresno"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/imperial-garden-restaurant-fresno"
                 }
             ],
             "lat": 36.835120,
             "lon": -119.789070,
-             "city": "Fresno",
+            "city": "Fresno",
             "address": "6640 N Blackstone Ave, Fresno, CA 93710"
         },
-
-        
-       
         {
             "title": "Tasty BBQ & Dim Sum",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/tasty-bbq-and-dim-sum-garden-grove"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tasty-bbq-and-dim-sum-garden-grove"
                 }
             ],
             "lat": 33.777310,
@@ -612,14 +550,13 @@
         },
         {
             "title": "Seafood Cove",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://seafoodcove.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/seafood-cove-garden-grove"
                 }
             ],
@@ -628,14 +565,12 @@
             "city": "Garden Grove",
             "address": "8547 Westminster Ave, Garden Grove, CA 92844"
         },
-
         {
             "title": "Sea Empress Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/sea-empress-seafood-restaurant-gardena"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sea-empress-seafood-restaurant-gardena"
                 }
             ],
             "lat": 33.888740,
@@ -643,38 +578,33 @@
             "city": "Gardena",
             "address": "1636 W Redondo Beach Blvd, Gardena, CA 90247"
         },
-
-       
         {
             "title": "Ginger Cafe",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://gingercafe.net"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/ginger-cafe-gilroy"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ginger-cafe-gilroy"
                 }
             ],
             "lat": 37.026260,
             "lon": -121.567630,
-             "city": "Gilroy",
+            "city": "Gilroy",
             "address": "8657 San Ysidro Ave, Gilroy, CA 95020"
         },
-
         {
             "title": "Tin Pot Bistro",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.tinsteapotbistro.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/tins-teapot-bistro-hayward"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tins-teapot-bistro-hayward"
                 }
             ],
             "lat": 37.660940,
@@ -682,22 +612,20 @@
             "city": "Hayward",
             "address": "320 Jackson St, Hayward, CA 94544"
         },
-
         {
             "title": "Tim Ho Wan",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowanusa.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tim-ho-wan-irvine"
                 },
                 {
-                    "name":"Wikipedia",
-                    "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
                 }
             ],
             "lat": 33.693110,
@@ -707,11 +635,10 @@
         },
         {
             "title": "Irvine China Garden",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/irvine-china-garden-irvine-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/irvine-china-garden-irvine-2"
                 }
             ],
             "lat": 33.687800,
@@ -721,14 +648,13 @@
         },
         {
             "title": "Sam Woo Restaurant & BBQ Express",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.samwooirvine.com"
+                    "name": "site",
+                    "URL": "http://www.samwooirvine.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/sam-woo-restaurant-and-bbq-express-irvine"
                 }
             ],
@@ -737,17 +663,15 @@
             "city": "Irvine",
             "address": "15333 Culver Dr, Ste 720, Irvine, CA 92604"
         },
-        
         {
-            "title":"Bao Dim Sum House",
-             "links":
-            [
+            "title": "Bao Dim Sum House",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.baodimsum.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/bao-dim-sum-house-los-angeles"
                 }
             ],
@@ -757,15 +681,14 @@
             "address": "8256 Beverly Blvd, Los Angeles, CA 90048"
         },
         {
-            "title":"ixlb Dim Sum Eats",
-            "links":
-            [
+            "title": "ixlb Dim Sum Eats",
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.ixlbdimsumeats.com"
+                    "name": "site",
+                    "URL": "http://www.ixlbdimsumeats.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ixlb-dimsum-eats-los-angeles-2"
                 }
             ],
@@ -775,12 +698,11 @@
             "address": "5900 Sunset Blvd, Los Angeles, CA 90028"
         },
         {
-            "title":"Golden Dragon Restaurant",
-             "links":
-            [
+            "title": "Golden Dragon Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-dragon-restaurant-los-angeles"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-dragon-restaurant-los-angeles"
                 }
             ],
             "lat": 34.065500,
@@ -789,15 +711,14 @@
             "address": "960 N Broadway, Los Angeles, CA 90012"
         },
         {
-            "title":"Ocean Seafood Restaurant",
-             "links":
-            [
+            "title": "Ocean Seafood Restaurant",
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.oceanseafoodchinatown.com"
+                    "name": "site",
+                    "URL": "https://www.oceanseafoodchinatown.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ocean-seafood-restaurant-los-angeles-2"
                 }
             ],
@@ -807,12 +728,11 @@
             "address": "750 N Hill St, Los Angeles, CA 90012"
         },
         {
-            "title":"Tian's Dim Sum & Fast Food",
-             "links":
-            [
+            "title": "Tian's Dim Sum & Fast Food",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/tians-dim-sum-and-fast-food-los-angeles-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tians-dim-sum-and-fast-food-los-angeles-2"
                 }
             ],
             "lat": 34.062170,
@@ -820,18 +740,15 @@
             "city": "Los Angeles",
             "address": "809 N Hill St, Los Angeles, CA 90012"
         },
-        
-        
         {
             "title": "Yum Cha Palace",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.yumchamenlopark.com"
+                    "name": "site",
+                    "URL": "https://www.yumchamenlopark.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/yum-cha-palace-menlo-park"
                 }
             ],
@@ -840,18 +757,16 @@
             "city": "Menlo Park",
             "address": "1039 El Camino Real, Menlo Park, CA 94025"
         },
-        
         {
             "title": "Koi Palace",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://koipalace.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/koi-palace-milpitas"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/koi-palace-milpitas"
                 }
             ],
             "lat": 37.419220,
@@ -861,16 +776,15 @@
         },
         {
             "title": "Mayflower Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://mayflower-seafood.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/mayflower-restaurant-milpitas"
-            }
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mayflower-restaurant-milpitas"
+                }
             ],
             "lat": 37.421669,
             "lon": -121.916397,
@@ -879,15 +793,14 @@
         },
         {
             "title": "New Hong Kwok",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://new-hwong-kok-milpitas.sites.tablehero.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/new-hwong-kok-milpitas"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-hwong-kok-milpitas"
                 }
             ],
             "lat": 37.455280,
@@ -895,119 +808,109 @@
             "city": "Milpitas",
             "address": "1705 N Milpitas Blvd, Milpitas, CA 95035"
         },
-
         {
             "title": "Asian Pearl Seafood Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/asian-pearl-seafood-restaurant-millbrae"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/asian-pearl-seafood-restaurant-millbrae"
+                }
             ],
             "lat": 37.61336,
-            "lon":-122.404885,
+            "lon": -122.404885,
             "city": "Millbrae",
             "address": "1671 El Camino Real, Millbrae, CA 94030"
         },
         {
             "title": "Hong Kong Flower Lounge",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://mayflower-seafood.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hong-kong-flower-lounge-millbrae-2"
                 }
             ],
             "lat": 37.598764,
-            "lon":-122.386711,
+            "lon": -122.386711,
             "city": "Millbrae",
             "address": "51 E Millbrae Ave, Millbrae, CA 94030"
         },
         {
             "title": "The Kitchen",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/the-kitchen-millbrae"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-kitchen-millbrae"
+                }
             ],
-            "lat":  37.601002,
+            "lat": 37.601002,
             "lon": -122.390892,
             "city": "Millbrae",
             "address": "279 El Camino Real, Millbrae, CA 94030"
         },
         {
             "title": "Tai Wu Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://taiwurestaurants.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tai-wu-restaurant-millbrae-2"
                 }
             ],
             "lat": 37.601891,
-            "lon":-122.390704,
+            "lon": -122.390704,
             "city": "Millbrae",
             "address": "300 El Camino Real, Millbrae, CA 94030"
         },
         {
             "title": "Zen Peninsula",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://zenpeninsula.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/zen-peninsula-millbrae"
                 }
             ],
             "lat": 37.607769,
-            "lon":-122.398332,
+            "lon": -122.398332,
             "city": "Millbrae",
             "address": "1180 El Camino Real, Millbrae, CA 94030"
-        },   
-
+        },
         {
             "title": "Dynasty Garden",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.dynastytogo.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dynasty-garden-modesto"
                 }
             ],
             "lat": 37.689008,
             "lon": -120.975968,
-             "city": "Modesto",
+            "city": "Modesto",
             "address": "3500 Coffee Rd, Modesto, CA 95355"
         },
-
         {
-            "title":"Atlantic Seafood & Dim Sum",
-             "links":
-            [
+            "title": "Atlantic Seafood & Dim Sum",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://www.atlantic-seafood.net"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/atlantic-seafood-and-dim-sum-restaurant-monterey-park-2"
                 }
             ],
@@ -1017,12 +920,11 @@
             "address": "500 N Atlantic Blvd Ste 200, Monterey Park, CA 91754"
         },
         {
-            "title":"Capital Seafood",
-             "links":
-            [
+            "title": "Capital Seafood",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/capital-seafood-restaurant-monterey-park"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/capital-seafood-restaurant-monterey-park"
                 }
             ],
             "lat": 34.062800,
@@ -1031,12 +933,11 @@
             "address": "755 W Garvey Ave, Monterey Park, CA 91754"
         },
         {
-            "title":"Capital Dim Sum & BBQ",
-             "links":
-            [
+            "title": "Capital Dim Sum & BBQ",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/capital-dim-sum-and-bbq-monterey-park-3"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/capital-dim-sum-and-bbq-monterey-park-3"
                 }
             ],
             "lat": 34.063200,
@@ -1045,12 +946,11 @@
             "address": "727 W Garvey Ave, Monterey Park, CA 91754"
         },
         {
-            "title":"Dim Sum Express",
-             "links":
-            [
+            "title": "Dim Sum Express",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-express-monterey-park"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-express-monterey-park"
                 }
             ],
             "lat": 34.065800,
@@ -1059,15 +959,14 @@
             "address": "326 N Garfield Ave, Monterey Park, CA 91754"
         },
         {
-            "title":"Elite",
-             "links":
-            [
+            "title": "Elite",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://eliterestaurantchinese.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/elite-restaurant-monterey-park"
                 }
             ],
@@ -1077,13 +976,12 @@
             "address": "700 S Atlantic Blvd, Monterey Park, CA 91754"
         },
         {
-            "title":"Monterey Palace Restaurant",
-             "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/monterey-palace-restaurant-monterey-park"
-            }
+            "title": "Monterey Palace Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/monterey-palace-restaurant-monterey-park"
+                }
             ],
             "lat": 34.062830,
             "lon": -118.109080,
@@ -1091,15 +989,14 @@
             "address": "1001 E Garvey Ave, Monterey Park, CA 91755"
         },
         {
-            "title":"NBC Seafood Restaurant",
-             "links":
-            [
+            "title": "NBC Seafood Restaurant",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.nbcrestaurant.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/nbc-seafood-restaurant-monterey-park"
                 }
             ],
@@ -1108,34 +1005,28 @@
             "city": "Monterey Park",
             "address": "404 S Atlantic Blvd, Monterey Park, CA 91754"
         },
-
-       
-
         {
             "title": "Fu Lam Mum",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/fu-lam-mum-mountain-view"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fu-lam-mum-mountain-view"
+                }
             ],
             "lat": 37.394279,
             "lon": -122.078355,
             "city": "Mountain View",
             "address": "153 Castro St, Mountain View, CA 94041"
         },
-
         {
             "title": "A&W Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.aandwseafood.com"
+                    "name": "site",
+                    "URL": "https://www.aandwseafood.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/a-and-w-seafood-restaurant-northridge-3"
                 }
             ],
@@ -1144,29 +1035,26 @@
             "city": "Northridge",
             "address": "9306 Reseda Blvd, Northridge, CA 91324"
         },
-        
         {
             "title": "The Best Dim Sum & Pastry",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/the-best-dim-sum-and-pastry-oakland"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-best-dim-sum-and-pastry-oakland"
+                }
             ],
             "lat": 37.793270,
             "lon": -122.252970,
-             "city": "Oakland",
+            "city": "Oakland",
             "address": "723 E 12th St, Oakland, CA 94606"
         },
         {
             "title": "Ming's Tasty Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/mings-tasty-restaurant-oakland"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mings-tasty-restaurant-oakland"
+                }
             ],
             "lat": 37.800430,
             "lon": -122.270460,
@@ -1175,12 +1063,11 @@
         },
         {
             "title": "Restaurant Peony",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/restaurant-peony-oakland"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/restaurant-peony-oakland"
+                }
             ],
             "lat": 37.800440,
             "lon": -122.271840,
@@ -1189,12 +1076,11 @@
         },
         {
             "title": "Sum Yee Pastry",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/sum-yee-pastry-oakland"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sum-yee-pastry-oakland"
+                }
             ],
             "lat": 37.800250,
             "lon": -122.270680,
@@ -1203,12 +1089,11 @@
         },
         {
             "title": "Tao Yuen Pastry",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/tao-yuen-pastry-oakland"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tao-yuen-pastry-oakland"
+                }
             ],
             "lat": 37.800180,
             "lon": -122.272200,
@@ -1217,29 +1102,26 @@
         },
         {
             "title": "Yummy Dim Sum",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/yummy-dim-sum-oakland"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yummy-dim-sum-oakland"
+                }
             ],
             "lat": 37.800120,
             "lon": -122.269720,
             "city": "Oakland",
             "address": "307 10th St, Oakland, CA 94607"
         },
-
         {
-            "title":"Lunasia Dim Sum House",
-             "links":
-            [
+            "title": "Lunasia Dim Sum House",
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.lunasiadimsum.com"
+                    "name": "site",
+                    "URL": "http://www.lunasiadimsum.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lunasia-dim-sum-house-pasadena"
                 }
             ],
@@ -1248,47 +1130,41 @@
             "city": "Pasadena",
             "address": "239 E Colorado Blvd, Pasadena, CA 91101"
         },
-        
         {
             "title": "Golden Bakery",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-bakery-pittsburg"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-bakery-pittsburg"
+                }
             ],
             "lat": 38.015850,
             "lon": -121.889950,
-             "city": "Pittsburg",
+            "city": "Pittsburg",
             "address": "2229 Railroad Ave, Pittsburg, CA 94565"
         },
-        
         {
             "title": "King Wah",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/king-wah-pleasanton"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/king-wah-pleasanton"
+                }
             ],
             "lat": 37.697150,
             "lon": -121.851210,
-             "city": "Pleasonton",
+            "city": "Pleasonton",
             "address": "2705 Stoneridge Dr, Pacific Pearl, Pleasanton, CA 94588"
         },
-        
         {
             "title": "Saigon Seafood Harbor Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://saigonharbors.com"
+                    "name": "site",
+                    "URL": "http://saigonharbors.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/saigon-seafood-harbor-restaurant-richmond-3"
                 }
             ],
@@ -1297,17 +1173,15 @@
             "city": "Richmond",
             "address": "3150 Pierce St Richmond, CA 94804"
         },
-          
         {
             "title": "China Republic",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.eatchinarepublic.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/china-republic-rancho-cucamonga-4"
                 }
             ],
@@ -1316,14 +1190,12 @@
             "city": "Rancho Cucamonga",
             "address": "12806 Foothill Blvd, Rancho Cucamonga, CA 91739"
         },
-        
         {
-            "title":"888 Seafood Restaurant",
-             "links":
-            [
+            "title": "888 Seafood Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/888-seafood-restaurant-rosemead"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/888-seafood-restaurant-rosemead"
                 }
             ],
             "lat": 34.079777,
@@ -1332,12 +1204,11 @@
             "address": "8450 E Valley Blvd, Ste 121, Rosemead, CA 91770"
         },
         {
-            "title":"Longo Seafood Restaurant",
-             "links":
-            [
+            "title": "Longo Seafood Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/longo-seafood-restaurant-rosemead"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/longo-seafood-restaurant-rosemead"
                 }
             ],
             "lat": 34.062160,
@@ -1346,12 +1217,11 @@
             "address": "7540 Garvey Ave, Ste A, Rosemead, CA 91770"
         },
         {
-            "title":"Lucky 1 Restaurant",
-             "links":
-            [
+            "title": "Lucky 1 Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/lucky-1-restaurant-rosemead-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lucky-1-restaurant-rosemead-2"
                 }
             ],
             "lat": 34.062650,
@@ -1360,12 +1230,11 @@
             "address": "7637 Garvey Ave, Rosemead, CA 91770"
         },
         {
-            "title":"Sea Harbour",
-             "links":
-            [
+            "title": "Sea Harbour",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/sea-harbour-rosemead"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sea-harbour-rosemead"
                 }
             ],
             "lat": 34.079840,
@@ -1373,34 +1242,30 @@
             "city": "Rosemead",
             "address": "3939 Rosemead Blvd, Rosemead, CA 91770"
         },
-
         {
-            "title":"Fat's Asia Bistro & Dim Sum Bar",
-             "links":
-            [
+            "title": "Fat's Asia Bistro & Dim Sum Bar",
+            "links": [
                 {
-                "name":"site",
-                "URL": "https://fatsasiabistro.com/"
+                    "name": "site",
+                    "URL": "https://fatsasiabistro.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/fats-asia-bistro-roseville"
-                    }
+                }
             ],
             "lat": 38.751150,
             "lon": -121.251230,
             "city": "Roseville",
             "address": "1500 Eureka Rd  Roseville, CA 95661"
         },
-
         {
             "title": "Ming Dynasty",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/ming-dynasty-sacramento-4"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ming-dynasty-sacramento-4"
+                }
             ],
             "lat": 38.563190,
             "lon": -121.497270,
@@ -1409,12 +1274,11 @@
         },
         {
             "title": "Dim Sum House",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-house-sacramento"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-house-sacramento"
+                }
             ],
             "lat": 38.557930,
             "lon": -121.477910,
@@ -1423,14 +1287,13 @@
         },
         {
             "title": "Hong Kong Islander",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.hongkongislander.com"
+                    "name": "site",
+                    "URL": "http://www.hongkongislander.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hong-kong-islander-sacramento"
                 }
             ],
@@ -1441,14 +1304,13 @@
         },
         {
             "title": "Happy Garden",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://sachappygarden.com"
+                    "name": "site",
+                    "URL": "http://sachappygarden.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/happy-garden-sacramento-2"
                 }
             ],
@@ -1459,14 +1321,13 @@
         },
         {
             "title": "Lam Kwong Market",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.themenupage.com/restaurant/Lam-Kwong-Deli-and-Market/113/0"
+                    "name": "site",
+                    "URL": "http://www.themenupage.com/restaurant/Lam-Kwong-Deli-and-Market/113/0"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lam-kwong-market-sacramento"
                 }
             ],
@@ -1477,14 +1338,13 @@
         },
         {
             "title": "Yue Huang",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.yuehuangdimsum.com"
+                    "name": "site",
+                    "URL": "https://www.yuehuangdimsum.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/yue-huang-sacramento-2"
                 }
             ],
@@ -1495,12 +1355,11 @@
         },
         {
             "title": "Asian Pearl Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/asian-pearl-restaurant-sacramento-5"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/asian-pearl-restaurant-sacramento-5"
+                }
             ],
             "lat": 38.531121,
             "lon": -121.445433,
@@ -1509,12 +1368,11 @@
         },
         {
             "title": "Tea Cup House",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/tea-cup-house-sacramento-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tea-cup-house-sacramento-2"
+                }
             ],
             "lat": 38.569297,
             "lon": -121.481720,
@@ -1523,12 +1381,11 @@
         },
         {
             "title": "King Palace Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/king-palace-restaurant-sacramento"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/king-palace-restaurant-sacramento"
+                }
             ],
             "lat": 38.520881,
             "lon": -121.440596,
@@ -1537,12 +1394,11 @@
         },
         {
             "title": "Yum Cha Cafe",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/yum-cha-cafe-sacramento"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yum-cha-cafe-sacramento"
+                }
             ],
             "lat": 38.555235,
             "lon": -121.427413,
@@ -1551,14 +1407,13 @@
         },
         {
             "title": "Rice Bowl Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.ricebowlrestaurant.net"
+                    "name": "site",
+                    "URL": "https://www.ricebowlrestaurant.net"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/rice-bowl-restaurant-sacramento"
                 }
             ],
@@ -1567,17 +1422,15 @@
             "city": "Sacramento",
             "address": "2378 Florin Rd, Sacramento, CA 95822"
         },
-        
         {
             "title": "Emerald Chinese Cuisine",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://sdchinesecuisine.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/emerald-chinese-cuisine-san-diego"
                 }
             ],
@@ -1588,14 +1441,13 @@
         },
         {
             "title": "Imperial Mandarin Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.imperial-mandarin.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/imperial-mandarin-restaurant-san-diego"
                 }
             ],
@@ -1606,14 +1458,13 @@
         },
         {
             "title": "Jasmine Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://jasmineseafood.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/jasmine-seafood-restaurant-san-diego"
                 }
             ],
@@ -1624,14 +1475,13 @@
         },
         {
             "title": "Fung Yuen",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://www.fungfungyuen.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/fung-fung-yuen-san-diego"
                 }
             ],
@@ -1642,11 +1492,10 @@
         },
         {
             "title": "Hong Kong BBQ & Dim Sum",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/hong-kong-bbq-and-dim-sum-san-diego-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-bbq-and-dim-sum-san-diego-2"
                 }
             ],
             "lat": 32.909250,
@@ -1656,11 +1505,10 @@
         },
         {
             "title": "Tom's Chinese BBQ",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/toms-chinese-bbq-san-diego-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/toms-chinese-bbq-san-diego-2"
                 }
             ],
             "lat": 32.749870,
@@ -1668,36 +1516,32 @@
             "city": "San Diego",
             "address": "4414 University Ave, San Diego, CA 92105"
         },
-
         {
             "title": "Dim Sum Inn",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://dimsuminn.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/dim-sum-inn-salinas"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-inn-salinas"
                 }
             ],
             "lat": 36.711010,
             "lon": -121.654100,
-             "city": "Salinas",
+            "city": "Salinas",
             "address": "1938 N Main St, Salinas, CA 93906"
         },
-
         {
             "title": "Begoni Bistro",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.begonibistro.com/"
+                    "name": "site",
+                    "URL": "http://www.begonibistro.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/begoni-bistro-san-francisco"
                 }
             ],
@@ -1708,12 +1552,11 @@
         },
         {
             "title": "Canton Seafood & Dim Sum",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/canton-seafood-and-dim-sum-restaurant-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/canton-seafood-and-dim-sum-restaurant-san-francisco"
+                }
             ],
             "lat": 37.784370,
             "lon": -122.397770,
@@ -1722,12 +1565,11 @@
         },
         {
             "title": "Chase Luck Bakery",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/chase-luck-bakery-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/chase-luck-bakery-san-francisco"
+                }
             ],
             "lat": 37.723701,
             "lon": -122.456657,
@@ -1736,14 +1578,13 @@
         },
         {
             "title": "City View Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://cityviewdimsum.com"
+                    "name": "site",
+                    "URL": "http://cityviewdimsum.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/city-view-restaurant-san-francisco"
                 }
             ],
@@ -1754,12 +1595,11 @@
         },
         {
             "title": "Clement BBQ",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/clement-bbq-san-francisco-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/clement-bbq-san-francisco-2"
+                }
             ],
             "lat": 37.782734,
             "lon": -122.465846,
@@ -1768,12 +1608,11 @@
         },
         {
             "title": "Delicious Dim Sum",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/delicious-dim-sum-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/delicious-dim-sum-san-francisco"
+                }
             ],
             "lat": 37.796059,
             "lon": -122.407539,
@@ -1782,14 +1621,13 @@
         },
         {
             "title": "Dim Sum Bistro",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.dimsumbistrosf.com"
+                    "name": "site",
+                    "URL": "http://www.dimsumbistrosf.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dim-sum-bistro-san-francisco"
                 }
             ],
@@ -1800,14 +1638,13 @@
         },
         {
             "title": "Dim Sum Corner",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://dimsumcornersf.com"
+                    "name": "site",
+                    "URL": "http://dimsumcornersf.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dim-sum-corner-san-francisco-2"
                 }
             ],
@@ -1818,12 +1655,11 @@
         },
         {
             "title": "Dim Sum Kitchen",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-kitchen-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-kitchen-san-francisco"
+                }
             ],
             "lat": 37.729655,
             "lon": -122.404725,
@@ -1832,12 +1668,11 @@
         },
         {
             "title": "Dol Ho",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dol-ho-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dol-ho-san-francisco"
+                }
             ],
             "lat": 37.796790,
             "lon": -122.408710,
@@ -1846,14 +1681,13 @@
         },
         {
             "title": "Dragon Beaux",
-             "links":
-                [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://dragonbeaux.com"
+                    "name": "site",
+                    "URL": "http://dragonbeaux.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dragon-beaux-san-francisco"
                 }
             ],
@@ -1864,16 +1698,15 @@
         },
         {
             "title": "Dumpling Time",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.dumplingtimesf.com"
+                    "name": "site",
+                    "URL": "https://www.dumplingtimesf.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dumpling-time-san-francisco"
-            }
+                }
             ],
             "lat": 37.769860,
             "lon": -122.402230,
@@ -1882,12 +1715,11 @@
         },
         {
             "title": "Feng Ze Yuan",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/feng-ze-yuan-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/feng-ze-yuan-san-francisco"
+                }
             ],
             "lat": 37.775172,
             "lon": -122.506120,
@@ -1896,12 +1728,11 @@
         },
         {
             "title": "Golden Coast Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-coast-restaurant-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-coast-restaurant-san-francisco"
+                }
             ],
             "lat": 37.724718,
             "lon": -122.458883,
@@ -1910,14 +1741,13 @@
         },
         {
             "title": "Golden Saba Seafood",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.goldensabaseafood.com"
+                    "name": "site",
+                    "URL": "https://www.goldensabaseafood.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/golden-saba-seafood-san-francisco-2"
                 }
             ],
@@ -1928,12 +1758,11 @@
         },
         {
             "title": "Good Luck Dim Sum",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/good-luck-dim-sum-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/good-luck-dim-sum-san-francisco"
+                }
             ],
             "lat": 37.783096,
             "lon": -122.467201,
@@ -1942,14 +1771,13 @@
         },
         {
             "title": "Good Mong Kok Bakery",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.goodmongkok.com"
+                    "name": "site",
+                    "URL": "https://www.goodmongkok.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/good-mong-kok-bakery-san-francisco"
                 }
             ],
@@ -1960,12 +1788,11 @@
         },
         {
             "title": "Gourmet Dim Sum and Cafe",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/gourmet-dim-sum-and-cafe-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/gourmet-dim-sum-and-cafe-san-francisco"
+                }
             ],
             "lat": 37.782680,
             "lon": -122.466346,
@@ -1974,16 +1801,15 @@
         },
         {
             "title": "Great Eastern Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-            "URL":"http://www.greateasternsf.com"
-             },
+                    "name": "site",
+                    "URL": "http://www.greateasternsf.com"
+                },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/great-eastern-restaurant-san-francisco"
-            }
+                }
             ],
             "lat": 37.796028,
             "lon": -122.405968,
@@ -1992,14 +1818,13 @@
         },
         {
             "title": "Hang Ah Tea Room",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.hangah1920.com"
+                    "name": "site",
+                    "URL": "http://www.hangah1920.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hang-ah-tea-room-san-francisco"
                 }
             ],
@@ -2010,12 +1835,11 @@
         },
         {
             "title": "Happy Bakery",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/happy-bakery-san-francisco-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/happy-bakery-san-francisco-2"
+                }
             ],
             "lat": 37.763207,
             "lon": -122.482224,
@@ -2024,12 +1848,11 @@
         },
         {
             "title": "Harbor Villa Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/harbor-villa-restaurant-san-francisco-3"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/harbor-villa-restaurant-san-francisco-3"
+                }
             ],
             "lat": 37.743378,
             "lon": -122.439524,
@@ -2038,14 +1861,13 @@
         },
         {
             "title": "Harborview Restaurant & Bar",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://harborviewsf.com"
+                    "name": "site",
+                    "URL": "https://harborviewsf.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/harborview-restaurant-and-bar-san-francisco-2"
                 }
             ],
@@ -2056,12 +1878,11 @@
         },
         {
             "title": "Hing Wang Bakery",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/hing-wang-bakery-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hing-wang-bakery-san-francisco"
+                }
             ],
             "lat": 37.762057,
             "lon": -122.465879,
@@ -2070,14 +1891,13 @@
         },
         {
             "title": "Hong Kong Lounge",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.lhklounge.com"
+                    "name": "site",
+                    "URL": "https://www.lhklounge.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hong-kong-lounge-san-francisco"
                 }
             ],
@@ -2088,14 +1908,13 @@
         },
         {
             "title": "Lai Hai Lounge",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.lhklounge.com"
+                    "name": "site",
+                    "URL": "https://www.lhklounge.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lai-hong-lounge-san-francisco"
                 }
             ],
@@ -2106,14 +1925,13 @@
         },
         {
             "title": "Mama Ji's",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.mamajissf.com"
+                    "name": "site",
+                    "URL": "http://www.mamajissf.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/mama-jis-san-francisco-2"
                 }
             ],
@@ -2124,12 +1942,11 @@
         },
         {
             "title": "Ming Hui Dim Sum",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/ming-hui-dim-sum-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ming-hui-dim-sum-san-francisco"
+                }
             ],
             "lat": 37.730540,
             "lon": -122.404536,
@@ -2138,12 +1955,11 @@
         },
         {
             "title": "Mong Kok Dim Sum",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/mongkok-dim-sum-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mongkok-dim-sum-san-francisco"
+                }
             ],
             "lat": 37.753878,
             "lon": -122.490078,
@@ -2152,12 +1968,11 @@
         },
         {
             "title": "Oriental Pearl Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/oriental-pearl-restaurant-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/oriental-pearl-restaurant-san-francisco"
+                }
             ],
             "lat": 37.794424,
             "lon": -122.405830,
@@ -2166,14 +1981,13 @@
         },
         {
             "title": "Palette Tea House",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://paletteteahouse.com"
+                    "name": "site",
+                    "URL": "https://paletteteahouse.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/palette-tea-house-san-francisco-2"
                 }
             ],
@@ -2184,12 +1998,11 @@
         },
         {
             "title": "Paramount Superstars",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/paramount-superstars-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/paramount-superstars-san-francisco"
+                }
             ],
             "lat": 37.782483,
             "lon": -122.469355,
@@ -2198,14 +2011,13 @@
         },
         {
             "title": "Pushcart Fare",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.pushcartfare.com"
+                    "name": "site",
+                    "URL": "http://www.pushcartfare.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/pushcart-fare-san-francisco"
                 }
             ],
@@ -2216,12 +2028,11 @@
         },
         {
             "title": "Riverside Seafood Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/riverside-seafood-restaurant-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/riverside-seafood-restaurant-san-francisco"
+                }
             ],
             "lat": 37.738989,
             "lon": -122.479875,
@@ -2230,14 +2041,13 @@
         },
         {
             "title": "S&T Hong Kong Seafood",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.sweetdelightbakerysf.com"
+                    "name": "site",
+                    "URL": "https://www.sweetdelightbakerysf.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/s-and-t-hong-kong-seafood-san-francisco"
                 }
             ],
@@ -2248,14 +2058,13 @@
         },
         {
             "title": "Shai Lai Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.shailaiseafood.com/location.aspx"
+                    "name": "site",
+                    "URL": "https://www.shailaiseafood.com/location.aspx"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/shai-lai-seafood-restaurant-san-francisco"
                 }
             ],
@@ -2266,12 +2075,11 @@
         },
         {
             "title": "Sunshine Wheat Field Dim Sum",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/sunshine-wheat-field-dim-sum-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sunshine-wheat-field-dim-sum-san-francisco"
+                }
             ],
             "lat": 37.727909,
             "lon": -122.404030,
@@ -2280,12 +2088,11 @@
         },
         {
             "title": "Sweet Delight Bakery",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/sweet-delight-bakery-san-francisco"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sweet-delight-bakery-san-francisco"
+                }
             ],
             "lat": 37.726161,
             "lon": -122.433894,
@@ -2295,12 +2102,11 @@
         {
             "title": "TC Pastry",
             "city": "San Francisco",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/tc-pastry-san-francisco-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tc-pastry-san-francisco-2"
+                }
             ],
             "lat": 37.767551,
             "lon": -122.398566,
@@ -2308,14 +2114,13 @@
         },
         {
             "title": "Toppu Ramen & Dim Sum House",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://ordertoppuramenanddimsumhouse.com"
+                    "name": "site",
+                    "URL": "http://ordertoppuramenanddimsumhouse.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/toppu-ramen-and-dim-sum-house-san-francisco"
                 }
             ],
@@ -2326,12 +2131,11 @@
         },
         {
             "title": "Wing Sing Dim Sum",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/wing-sing-dim-sum-san-francisco-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/wing-sing-dim-sum-san-francisco-2"
+                }
             ],
             "lat": 37.796165,
             "lon": -122.408609,
@@ -2340,14 +2144,13 @@
         },
         {
             "title": "Xiao Long Bao",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://xlb.netlify.com"
+                    "name": "site",
+                    "URL": "https://xlb.netlify.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/xiao-long-bao-san-francisco"
                 }
             ],
@@ -2358,14 +2161,13 @@
         },
         {
             "title": "Yank Sing",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.yanksing.com"
+                    "name": "site",
+                    "URL": "https://www.yanksing.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/yank-sing-san-francisco-2"
                 }
             ],
@@ -2374,15 +2176,12 @@
             "city": "San Francisco",
             "address": "101 Spear St San Francisco, CA 94105"
         },
-
-         
         {
-            "title":"Five Star Seafood Restaurant",
-             "links":
-            [
+            "title": "Five Star Seafood Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/five-star-seafood-restaurant-san-gabriel"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/five-star-seafood-restaurant-san-gabriel"
                 }
             ],
             "lat": 34.078320,
@@ -2390,16 +2189,13 @@
             "city": "San Gabriel",
             "address": "140 W Valley Blvd, Ste 4D, San Gabriel, CA 91776"
         },
-
-        
         {
             "title": "Jade Cathay",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/jade-cathay-san-jose"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jade-cathay-san-jose"
+                }
             ],
             "lat": 37.360780,
             "lon": -121.909370,
@@ -2408,15 +2204,14 @@
         },
         {
             "title": "Ocean Delight Seafood Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.myoceandelight.com/"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/ocean-delight-seafood-restaurant-san-jose"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ocean-delight-seafood-restaurant-san-jose"
                 }
             ],
             "lat": 37.257300,
@@ -2424,63 +2219,55 @@
             "city": "San Jose",
             "address": "5400 Monterey Rd, San Jose, CA 95111"
         },
-        
         {
             "title": "DT Dim Sum and Tea",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/d-t-dim-sum-and-tea-san-leandro"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/d-t-dim-sum-and-tea-san-leandro"
+                }
             ],
             "lat": 37.683100,
             "lon": -122.146610,
             "city": "San Leandro",
             "address": "1970 Lewelling Blvd, San Leandro, CA 94579"
         },
-
         {
             "title": "Fusion Delight",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/fusion-delight-san-leandro"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fusion-delight-san-leandro"
+                }
             ],
             "lat": 37.686920,
             "lon": -122.136790,
             "city": "San Leandro",
             "address": "699 Lewelling Blvd, Ste 212, San Leandro, CA 94579"
         },
-
         {
             "title": "Champagne Seafood Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/champagne-seafood-restaurant-san-mateo-5"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/champagne-seafood-restaurant-san-mateo-5"
+                }
             ],
             "lat": 37.563260,
             "lon": -122.323380,
             "city": "San Mateo",
             "address": "88 E 4th Ave, San Mateo, CA 94401"
         },
-
         {
             "title": "China Pavilion",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://china-pavilion.com"
+                    "name": "site",
+                    "URL": "http://china-pavilion.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/china-pavilion-santa-barbara-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-pavilion-santa-barbara-2"
                 }
             ],
             "lat": 34.422620,
@@ -2488,17 +2275,15 @@
             "city": "Santa Barbara",
             "address": "1202 Chapala St, Santa Barbara, CA 93101"
         },
-
         {
             "title": "HL Peninsula Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://hlpeninsula.com"
+                    "name": "site",
+                    "URL": "https://hlpeninsula.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hl-peninsula-restaurant-south-san-francisco"
                 }
             ],
@@ -2507,19 +2292,17 @@
             "city": "South San Francisco",
             "address": "608 Dubuque Ave South San Francisco, CA 94080"
         },
-
-           {
+        {
             "title": "Dynasty Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.dynastyfamilyca.com"
+                    "name": "site",
+                    "URL": "http://www.dynastyfamilyca.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dynasty-restaurant-stockton"
-            }
+                }
             ],
             "lat": 38.010097,
             "lon": -121.322134,
@@ -2528,31 +2311,28 @@
         },
         {
             "title": "Asia Palace Restaurant",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/asia-palace-restaurant-stockton"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/asia-palace-restaurant-stockton"
+                }
             ],
             "lat": 38.036762,
             "lon": -121.294966,
-             "city": "Stockton",
+            "city": "Stockton",
             "address": "8118 West Ln, Ste 105, Stockton, CA 95210"
         },
-        
         {
             "title": "Dim Sum King",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.dimsumkingnow.com"
+                    "name": "site",
+                    "URL": "http://www.dimsumkingnow.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/dim-sum-king-sunnyvale"
-            }
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-king-sunnyvale"
+                }
             ],
             "lat": 37.369490,
             "lon": -122.042120,
@@ -2561,12 +2341,11 @@
         },
         {
             "title": "Ming Tasty",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/ming-tasty-sunnyvale"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ming-tasty-sunnyvale"
+                }
             ],
             "lat": 37.393910,
             "lon": -121.995900,
@@ -2575,12 +2354,11 @@
         },
         {
             "title": "New Port Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/new-port-restaurant-sunnyvale"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-port-restaurant-sunnyvale"
+                }
             ],
             "lat": 37.338560,
             "lon": -122.013760,
@@ -2589,15 +2367,14 @@
         },
         {
             "title": "Saigon Seafood Harbor Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://saigonharbors.com"
+                    "name": "site",
+                    "URL": "http://saigonharbors.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/saigon-seafood-harbor-restaurant-sunnyvale"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/saigon-seafood-harbor-restaurant-sunnyvale"
                 }
             ],
             "lat": 37.395030,
@@ -2607,31 +2384,27 @@
         },
         {
             "title": "Ginger Cafe",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://gingercafe.net"
+                    "name": "site",
+                    "URL": "https://gingercafe.net"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/ginger-café-sunnyvale-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ginger-café-sunnyvale-2"
                 }
             ],
             "lat": 37.368550,
             "lon": -122.037530,
             "city": "Sunnyvale",
             "address": "398 W El Camino Real, Ste 114, Sunnyvale, CA 94087"
-        },  
-        
-        
+        },
         {
-            "title":"Grand Harbor Restaurant",
-             "links":
-            [
+            "title": "Grand Harbor Restaurant",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/grand-harbor-restaurant-temple-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/grand-harbor-restaurant-temple-city"
                 }
             ],
             "lat": 34.104620,
@@ -2639,35 +2412,29 @@
             "city": "Temple City",
             "address": "5725 Rosemead Blvd, Temple City, CA 91780"
         },
-        
-        
         {
             "title": "Creek House Dim Sum Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.eastoceanseafoodrestaurant.com"
+                    "name": "site",
+                    "URL": "http://www.eastoceanseafoodrestaurant.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/creek-house-dim-sum-restaurant-walnut-creek"
-            }
+                }
             ],
             "lat": 37.911430,
             "lon": -122.061930,
             "city": "Walnut Creek",
             "address": "1291 Parkside Dr, Walnut Creek, CA 94596"
         },
-
-       
         {
             "title": "Sheng Hui Dim Sum",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/sheng-hui-dim-sum-west-covina-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sheng-hui-dim-sum-west-covina-2"
                 }
             ],
             "lat": 34.002340,
@@ -2675,14 +2442,12 @@
             "city": "West Covina",
             "address": "2889 E Valley Blvd Ste J, West Covina, CA 91792"
         },
-
         {
-            "title":"Dim Sum House",
-             "links":
-            [
+            "title": "Dim Sum House",
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-house-west-los-angeles-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-house-west-los-angeles-2"
                 }
             ],
             "lat": 34.049120,
@@ -2690,17 +2455,15 @@
             "city": "West Los Angeles",
             "address": "1822 Westwood Blvd, West Los Angeles, CA 90025"
         },
-       
         {
             "title": "The Dim Sum Co.",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://thedimsumco.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/the-dim-sum-co-westminster-3"
                 }
             ],
@@ -2711,11 +2474,10 @@
         },
         {
             "title": "Seafood Paradise Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/seafood-paradise-restaurant-westminster"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/seafood-paradise-restaurant-westminster"
                 }
             ],
             "lat": 33.759070,
@@ -2725,14 +2487,13 @@
         },
         {
             "title": "Seafood Cove #2",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://seafoodcove.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/seafood-cove-2-westminster"
                 }
             ],
@@ -2743,11 +2504,10 @@
         },
         {
             "title": "Gia Phat Food Company",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/giai-phat-food-company-westminster"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/giai-phat-food-company-westminster"
                 }
             ],
             "lat": 33.744810,
@@ -2757,14 +2517,13 @@
         },
         {
             "title": "Seafood World",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.seafoodworldrestaurant.com/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/seafood-world-westminster"
                 }
             ],
