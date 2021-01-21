@@ -4,58 +4,57 @@ import 'dart:io' show Platform;
 
 class Language {
 // this could be a Map
-// move to Language
   static String locale(Chinese lang) {
     try {
-      // Platform checks fail on web
       if (Platform.isIOS || Platform.isMacOS) {
         switch (lang) {
           case Chinese.Cantonese:
-            return "zh-HK";
+            return 'zh-HK';
           case Chinese.Mandarin:
-            return "zh-TW";
+            return 'zh-TW';
           case Chinese.Simplified:
-            return "zh-CN";
+            return 'zh-CN';
           default:
-            return "zh-HK";
+            return 'zh-HK';
         }
       }
       if (Platform.isAndroid) {
         switch (lang) {
           case Chinese.Cantonese:
-            return "yue-HK";
+            return 'yue-HK';
           case Chinese.Mandarin:
-            return "zh-TW";
+            return 'zh-TW';
           case Chinese.Simplified:
-            return "zh-CN";
+            return 'zh-CN';
           default:
-            return "yue-HK";
+            return 'yue-HK';
         }
       }
       if (Platform.isWindows) {
         switch (lang) {
           case Chinese.Cantonese:
-            return "zh-HK";
+            return 'zh-HK';
           case Chinese.Mandarin:
-            return "zh-TW";
+            return 'zh-TW';
           case Chinese.Simplified:
-            return "zh-CN";
+            return 'zh-CN';
           default:
-            return "zh-HK";
+            return 'zh-HK';
         }
       }
     } catch (e) {
-      print("Platform check failed");
+       // Platform checks fail on web
+      print('Platform check failed');
     }
     switch (lang) {
       case Chinese.Cantonese:
-        return "zh-hk";
+        return 'zh-hk';
       case Chinese.Mandarin:
-        return "zh-tw";
+        return 'zh-tw';
       case Chinese.Simplified:
-        return "zh-cn";
+        return 'zh-cn';
       default:
-        return "zh-hk";
+        return 'zh-hk';
     }
   }
 }
