@@ -29,6 +29,11 @@ class STTStatusText extends StatelessWidget {
             return Text('',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
           }
+        case STTStatus.Error:
+          {
+            return Text(stt.lastError,
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
+          }
         default:
           {
             return Text(stt.lastStatus,
