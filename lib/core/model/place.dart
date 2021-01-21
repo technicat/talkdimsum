@@ -26,7 +26,7 @@ class Place {
 
   String get googleMapURL {
     return sprintf(
-        "https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f",
+        'https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f',
         [lat, lon]);
   }
 
@@ -36,7 +36,7 @@ class Place {
 
   void share() {
     Share.share(
-        "I had dim sum at $name in $city #dimsum #yumcha #talkdimsum talkdimsum.com",
-        subject: "Talk Dim Sum");
+        'I had dim sum at $name in $city #dimsum #yumcha #talkdimsum talkdimsum.com',
+        subject: 'Talk Dim Sum');
   }
 }

@@ -9,9 +9,9 @@ class Tags {
 
   static List<Word> words = [];
 
-  static load() async {
+  static void load() async {
     var categories = await rootBundle
-        .loadString("assets/json/words/words.json")
+        .loadString('assets/json/words/words.json')
         .then((str) => List<String>.from(jsonDecode(str)));
     var dishlists = categories.map((json) => loadWords(json));
     for (var list in dishlists) {

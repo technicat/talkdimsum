@@ -64,8 +64,8 @@ class Region {
         places = List<Place>.from(
             json['places'].map((json) => Place.fromJson(json)));
 
-  static loadPaths(List<String> paths) async {
-    List<Region> list = [];
+  static Future<List<Region>> loadPaths(List<String> paths) async {
+    var list = [];
     for (var path in paths) {
       list.add(await load(path));
     }
@@ -74,7 +74,7 @@ class Region {
 
   static Future<Region> load(String path) async {
     return rootBundle
-        .loadString("assets/json/place/" + path + ".json")
+        .loadString('assets/json/place/' + path + '.json')
         .then((str) => Region.fromJson(jsonDecode(str)));
   }
 }
