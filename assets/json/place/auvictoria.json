@@ -1,37 +1,34 @@
 {
     "name": "Victoria",
-    "places": 
-    [
+    "places": [
         {
             "title": "Dim Sum Depot",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.dimsumdepot.com.au/"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dim-sum-depot-richmond"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumdepot.com.au/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-depot-richmond"
+                }
             ],
             "lat": -37.819519,
             "lon": 145.006393,
             "city": "Melbourne",
             "address": "448 Bridge Rd Richmond"
         },
-         {
+        {
             "title": "Dragon Boat",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.dragonboat.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dragon-boat-restaurant-melbourne-3"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.dragonboat.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dragon-boat-restaurant-melbourne-3"
+                }
             ],
             "lat": -37.810730,
             "lon": 144.972458,
@@ -40,12 +37,11 @@
         },
         {
             "title": "Mama Tran",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/mama-tran-south-melbourne"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mama-tran-south-melbourne"
+                }
             ],
             "lat": -37.832555,
             "lon": 144.956786,
@@ -54,23 +50,20 @@
         },
         {
             "title": "Red Emperor",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.redemperor.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/red-emperor-southbank-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.redemperor.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/red-emperor-southbank-2"
+                }
             ],
             "lat": -37.820242,
             "lon": 144.966644,
             "city": "Melbourne",
             "address": "Red Emperor Chinese Restaurant, M10 Mid Level / Level 2, Southgate Restaurant & Shopping Precinct, 3 Southgate Avenue, Southbank"
         }
-
     ]
-    
 }

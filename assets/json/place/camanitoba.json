@@ -1,16 +1,13 @@
 {
-    "name":"Manitoba",
-    "places":
-    [
-        
+    "name": "Manitoba",
+    "places": [
         {
             "title": "Dim Sum Garden Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.ca/biz/dim-sum-garden-restaurant-winnipeg"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.ca/biz/dim-sum-garden-restaurant-winnipeg"
+                }
             ],
             "lat": 49.902910,
             "lon": -97.137840,
@@ -19,12 +16,11 @@
         },
         {
             "title": "Dim Sum Garden Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.ca/biz/dim-sum-garden-restaurant-winnipeg-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.ca/biz/dim-sum-garden-restaurant-winnipeg-2"
+                }
             ],
             "lat": 49.795530,
             "lon": -97.157530,
@@ -33,12 +29,11 @@
         },
         {
             "title": "Dim Sum Garden",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.ca/biz/dim-sum-garden-winnipeg-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.ca/biz/dim-sum-garden-winnipeg-2"
+                }
             ],
             "lat": 49.931830,
             "lon": -97.099530,
@@ -47,16 +42,15 @@
         },
         {
             "title": "Kum Koon Garden",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.kumkoongarden.com"
+                    "name": "site",
+                    "URL": "http://www.kumkoongarden.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.ca/biz/kum-koon-garden-winnipeg"
-            }
+                }
             ],
             "lat": 49.902500,
             "lon": -97.137240,
@@ -65,12 +59,11 @@
         },
         {
             "title": "Noodle Express",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.ca/biz/noodle-express-winnipeg"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.ca/biz/noodle-express-winnipeg"
+                }
             ],
             "lat": 49.901100,
             "lon": -97.139270,
@@ -79,18 +72,16 @@
         },
         {
             "title": "Sum Po Dim Sum Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.ca/biz/sum-po-dim-sum-restaurant-winnipeg"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.ca/biz/sum-po-dim-sum-restaurant-winnipeg"
+                }
             ],
             "lat": 49.901580,
             "lon": -97.139100,
             "city": "Winnipeg",
             "address": "277 Rupert Avenue Winnipeg, MB R3B 3P7"
         }
-]
-
+    ]
 }

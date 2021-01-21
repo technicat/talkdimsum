@@ -1,19 +1,16 @@
 {
-    "name":"New Brunswick",
-    "places":
-    [
-
+    "name": "New Brunswick",
+    "places": [
         {
             "title": "Jo Jo Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL": "http://jojorestaurant.ca"
+                    "name": "site",
+                    "URL": "http://jojorestaurant.ca"
                 },
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/jojo-restaurant-moncton"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jojo-restaurant-moncton"
                 }
             ],
             "lat": 46.087930,
@@ -21,18 +18,16 @@
             "city": "Moncton",
             "address": "881 Main Street Moncton, NB E1C 1G5 Canada"
         },
-
         {
             "title": "Near East Chinese Market",
-             "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL": "http://neareastchinese.com"
+                    "name": "site",
+                    "URL": "http://neareastchinese.com"
                 },
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/near-east-chinese-market-and-restaurant-riverview"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/near-east-chinese-market-and-restaurant-riverview"
                 }
             ],
             "lat": 46.067480,
@@ -41,5 +36,4 @@
             "address": "342 Coverdale Rd, Riverview, NB E1B 3J4, Canada"
         }
     ]
-
 }

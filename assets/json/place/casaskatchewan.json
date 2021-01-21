@@ -1,14 +1,12 @@
 {
-    "name":"Saskatchewan",
-    "places":
-    [
+    "name": "Saskatchewan",
+    "places": [
         {
             "title": "Dragon Boat Dim Sum House",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dragonboat-dimsum-house-regina"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dragonboat-dimsum-house-regina"
                 }
             ],
             "lat": 50.443670,
@@ -18,11 +16,10 @@
         },
         {
             "title": "Phoenix House",
-             "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/phoenix-house-saskatoon"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/phoenix-house-saskatoon"
                 }
             ],
             "lat": 52.115300,
@@ -32,22 +29,20 @@
         },
         {
             "title": "Yip Hong's Dim Sum Restaurant",
-             "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.yiphongssaskatoon.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/yip-hongs-dim-sum-restaurant-saskatoon-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.yiphongssaskatoon.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yip-hongs-dim-sum-restaurant-saskatoon-2"
+                }
             ],
             "lat": 52.102710,
             "lon": -106.622570,
-             "city": "Saskatoon",
+            "city": "Saskatoon",
             "address": "3140 Preston Avenue S Saskatoon, SK S7T 0V1"
         }
     ]
-
 }

@@ -1,15 +1,13 @@
 {
     "name": "Queensland",
-    "places": 
-    [
+    "places": [
         {
             "title": "7 Palace",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.7palace.com.au"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.7palace.com.au"
+                }
             ],
             "lat": -27.598117,
             "lon": 152.974078,
@@ -18,12 +16,11 @@
         },
         {
             "title": "Aspley Oriental Restaurant",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://www.aspleyhypermarket.com.au/store/aspley-oriental-restaurant-yum-cha/"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.aspleyhypermarket.com.au/store/aspley-oriental-restaurant-yum-cha/"
+                }
             ],
             "lat": -27.361947,
             "lon": 153.013282,
@@ -32,12 +29,11 @@
         },
         {
             "title": "Bamboo Basket",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://www.bamboobasket.com.au"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.bamboobasket.com.au"
+                }
             ],
             "lat": -27.440554,
             "lon": 153.068808,
@@ -46,12 +42,11 @@
         },
         {
             "title": "Golden Lane",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.goldenlane.com.au"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldenlane.com.au"
+                }
             ],
             "lat": -27.571970,
             "lon": 153.063939,
@@ -60,12 +55,11 @@
         },
         {
             "title": "Haoke Seafood Restaurant",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/haoke-seafood-restaurant-calamvale"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/haoke-seafood-restaurant-calamvale"
+                }
             ],
             "lat": -27.611086,
             "lon": 153.051134,
@@ -74,12 +68,11 @@
         },
         {
             "title": "King of Kings",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://king-of-kings-restaurant.business.site/"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://king-of-kings-restaurant.business.site/"
+                }
             ],
             "lat": -27.458149,
             "lon": 153.033569,
@@ -88,12 +81,11 @@
         },
         {
             "title": "Landmark Restaurant",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://landmarkqld.com"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://landmarkqld.com"
+                }
             ],
             "lat": -27.569915,
             "lon": 153.062685,
@@ -102,12 +94,11 @@
         },
         {
             "title": "Yum Cha Carindale",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://www.yumchacuisine.com"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.yumchacuisine.com"
+                }
             ],
             "lat": -27.503627,
             "lon": 153.101756,
@@ -116,27 +107,24 @@
         },
         {
             "title": "Yum Cha Indooroopilly",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://www.yumchacuisine.com"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.yumchacuisine.com"
+                }
             ],
             "lat": -27.499720,
             "lon": 152.972855,
             "city": "Brisbane",
             "address": "Shop MM5, Level 3, Indoorooplilly Shopping Centre, 322 Moggill Rd, Indooroopilly"
         },
-
         {
             "title": "Yum Cha Harbour Town",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://www.yumchacuisine.com"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.yumchacuisine.com"
+                }
             ],
             "lat": -27.931057,
             "lon": 153.387581,
@@ -145,12 +133,11 @@
         },
         {
             "title": "Yum Cha Robina",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://www.yumchacuisine.com"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.yumchacuisine.com"
+                }
             ],
             "lat": -28.077791,
             "lon": 153.382945,
@@ -159,19 +146,16 @@
         },
         {
             "title": "Yum Cha Pacific Fair",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"https://www.yumchacuisine.com"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.yumchacuisine.com"
+                }
             ],
             "lat": -28.036491,
             "lon": 153.427537,
             "city": "Gold Coast",
             "address": "Pacific Fair, 2-32 Hooker Blvd, Broadbeach Qld 4218"
         }
-
     ]
-    
 }

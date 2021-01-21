@@ -1,34 +1,30 @@
 {
     "name": "New South Wales",
-    "places": 
-    [
+    "places": [
         {
             "title": "Zilver",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.zilverbondi.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/zilver-bondi-junction"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.zilverbondi.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/zilver-bondi-junction"
+                }
             ],
             "lat": -33.891750,
             "lon": 151.250466,
             "city": "Bondi Junction",
             "address": "Shop 6010, Level 6, Westfield Shopping Centre 500 Oxford St"
         },
-
         {
             "title": "Golden Globe Seafood Restaurant",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/golden-globe-seafood-restaurant-burwood-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-globe-seafood-restaurant-burwood-2"
+                }
             ],
             "lat": -33.878674,
             "lon": 151.103882,
@@ -37,35 +33,32 @@
         },
         {
             "title": "Royal Treasure",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.royaltreasure.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/royal-treasure-seafood-restaurant-burwood"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.royaltreasure.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/royal-treasure-seafood-restaurant-burwood"
+                }
             ],
             "lat": -33.878550,
             "lon": 151.102203,
             "city": "Burwood",
             "address": "Shop 16, Level 2 27-31 Belmore St"
         },
-
         {
             "title": "King Dynasty",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://kingdynasty.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/king-dynasty-chatswood"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://kingdynasty.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/king-dynasty-chatswood"
+                }
             ],
             "lat": -33.797101,
             "lon": 151.184330,
@@ -74,130 +67,110 @@
         },
         {
             "title": "Star Capital Seafood",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://starcapitalseafood.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/star-capital-seafood-chatswood"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://starcapitalseafood.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/star-capital-seafood-chatswood"
+                }
             ],
             "lat": -33.795570,
             "lon": 151.184463,
             "city": "Chatswood",
             "address": "399 Victoria Ave"
         },
-
         {
             "title": "Dragon's Door",
-            "links":
-            [
-            
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dragons-door-chinese-restaurant-erina"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dragons-door-chinese-restaurant-erina"
+                }
             ],
             "lat": -33.437637,
             "lon": 151.393554,
             "city": "Erina",
             "address": "T18-19 Erina Fair Shopping Centre"
         },
-
         {
             "title": "Flower Drum H",
-            "links":
-            [
-            
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com.au/biz/flower-drum-h-hinchinbrook"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com.au/biz/flower-drum-h-hinchinbrook"
+                }
             ],
             "lat": -33.925798,
             "lon": 150.855527,
             "city": "Liverpool",
             "address": "Shop 9 441 Hoxton Park Rd Hinchinbrook"
         },
-
         {
             "title": "Queen Chow",
-            "links":
-            [
-            
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/queen-chow-manly-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/queen-chow-manly-2"
+                }
             ],
             "lat": -33.796485,
             "lon": 151.286459,
             "city": "Manly",
             "address": "22-23 Manly Wharf"
         },
-
-
         {
             "title": "Hung Cheung",
-            "links":
-            [
-            
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/hung-cheung-restaurant-marrickville"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hung-cheung-restaurant-marrickville"
+                }
             ],
             "lat": -33.909794,
             "lon": 151.154175,
             "city": "Merrickville",
             "address": "338 Marrickville Rd"
         },
-
         {
             "title": "Sinofood",
-            "links":
-            [
-            
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/sinofood-chinese-restaurant-hamilton"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sinofood-chinese-restaurant-hamilton"
+                }
             ],
             "lat": -32.920559,
             "lon": 151.747864,
             "city": "Newcastle",
             "address": "47 Beaumont St Hamilton"
         },
-
         {
             "title": "Chef's Gallery",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.chefsgallery.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/chefs-gallery-townhall-sydney-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.chefsgallery.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/chefs-gallery-townhall-sydney-2"
+                }
             ],
             "lat": -33.874684,
             "lon": 151.206284,
             "city": "Sydney",
             "address": "501 George St Shop 12"
         },
-         {
+        {
             "title": "East Ocean",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/east-ocean-restaurant-haymarket-4"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/east-ocean-restaurant-haymarket-4"
+                }
             ],
             "lat": -33.879100,
             "lon": 151.204490,
@@ -206,16 +179,15 @@
         },
         {
             "title": "The Eight",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.theeightrestaurant.com.au"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/the-eight-sydney"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.theeightrestaurant.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-eight-sydney"
+                }
             ],
             "lat": -33.878384,
             "lon": 151.202469,
@@ -224,16 +196,15 @@
         },
         {
             "title": "Emperor's Garden",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.emperorsgarden.com.au"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/east-ocean-restaurant-haymarket-4"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.emperorsgarden.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/east-ocean-restaurant-haymarket-4"
+                }
             ],
             "lat": -33.879242,
             "lon": 151.203873,
@@ -242,16 +213,15 @@
         },
         {
             "title": "Fisherman's Wharf Seafood Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.fishermanswharf.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/fishermans-wharf-seafood-restaurant-pyrmont"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.fishermanswharf.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fishermans-wharf-seafood-restaurant-pyrmont"
+                }
             ],
             "lat": -33.869080,
             "lon": 151.187580,
@@ -260,16 +230,15 @@
         },
         {
             "title": "Golden Century Seafood",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.goldencentury.com.au"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/golden-century-seafood-restaurant-sydney"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldencentury.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-century-seafood-restaurant-sydney"
+                }
             ],
             "lat": -33.878006,
             "lon": 151.204483,
@@ -278,12 +247,11 @@
         },
         {
             "title": "Golden Harbour",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/golden-harbour-restaurant-haymarket-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-harbour-restaurant-haymarket-2"
+                }
             ],
             "lat": -33.878117,
             "lon": 151.203827,
@@ -292,30 +260,28 @@
         },
         {
             "title": "Green Gourmet",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.greengourmet.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/green-gourmet-newtown-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.greengourmet.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/green-gourmet-newtown-2"
+                }
             ],
             "lat": -33.892895,
             "lon": 151.184189,
             "city": "Sydney",
             "address": "115-117 King St, Newtown"
         },
-         {
+        {
             "title": "Ho's Dim Sum Kitchen",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/hos-dim-sim-kitchen-sydney"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hos-dim-sim-kitchen-sydney"
+                }
             ],
             "lat": -33.878921,
             "lon": 151.206970,
@@ -324,16 +290,15 @@
         },
         {
             "title": "Lok Lok Dumpling Bar",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.loklok.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/lok-lok-dumpling-bar-darling-harbour"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.loklok.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lok-lok-dumpling-bar-darling-harbour"
+                }
             ],
             "lat": -33.871634,
             "lon": 151.198841,
@@ -342,16 +307,15 @@
         },
         {
             "title": "Lotus Dumpling Bar",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.lotusdining.com.au/restaurant/lotus-walsh-bay/"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/lotus-dumpling-bar-dawes-point-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.lotusdining.com.au/restaurant/lotus-walsh-bay/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lotus-dumpling-bar-dawes-point-2"
+                }
             ],
             "lat": -33.856412,
             "lon": 151.206406,
@@ -360,16 +324,15 @@
         },
         {
             "title": "Marigold",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.marigold.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/marigold-restaurant-haymarket-3"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.marigold.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/marigold-restaurant-haymarket-3"
+                }
             ],
             "lat": -33.879810,
             "lon": 151.204780,
@@ -378,16 +341,15 @@
         },
         {
             "title": "Mr. Wong",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://merivale.com/venues/mrwong/"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/mr-wong-sydney"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://merivale.com/venues/mrwong/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mr-wong-sydney"
+                }
             ],
             "lat": -33.864040,
             "lon": 151.207920,
@@ -396,16 +358,15 @@
         },
         {
             "title": "Nine Dragons",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.ninedragons.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/nine-dragons-restaurant-sydney"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.ninedragons.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/nine-dragons-restaurant-sydney"
+                }
             ],
             "lat": -33.878330,
             "lon": 151.203850,
@@ -414,16 +375,15 @@
         },
         {
             "title": "Old Town Hong Kong Cuisine",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.oldtownhongkongcuisine.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/old-town-hong-kong-cuisine-sydney"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.oldtownhongkongcuisine.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/old-town-hong-kong-cuisine-sydney"
+                }
             ],
             "lat": -33.876739,
             "lon": 151.204056,
@@ -432,16 +392,15 @@
         },
         {
             "title": "Palace Chinese Retaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://palacechinese.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/palace-chinese-restaurant-sydney"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://palacechinese.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/palace-chinese-restaurant-sydney"
+                }
             ],
             "lat": -33.871590,
             "lon": 151.208790,
@@ -450,16 +409,15 @@
         },
         {
             "title": "Sky Phoenix",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.phoenixrestaurants.com.au/sky-phoenix/"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/sky-phoenix-sydney-6"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.phoenixrestaurants.com.au/sky-phoenix/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sky-phoenix-sydney-6"
+                }
             ],
             "lat": -33.870510,
             "lon": 151.208920,
@@ -468,12 +426,11 @@
         },
         {
             "title": "Terrace Chinese Kitchen",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/terrace-chinese-kitchen-sydney"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/terrace-chinese-kitchen-sydney"
+                }
             ],
             "lat": -33.936026,
             "lon": 151.174074,
@@ -482,16 +439,15 @@
         },
         {
             "title": "Zilver",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.zilver.com.au"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/zilver-restaurant-haymarket-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.zilver.com.au"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/zilver-restaurant-haymarket-2"
+                }
             ],
             "lat": -33.881420,
             "lon": 151.208020,
@@ -499,5 +455,4 @@
             "address": "Level 1, 191 Hay Street, Haymarket"
         }
     ]
-    
 }
