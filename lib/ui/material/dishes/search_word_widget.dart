@@ -16,7 +16,7 @@ class SearchWordWidget extends StatelessWidget {
               MaterialSearch<Word>(
         results: words
             .toSet()
-            .map((word) => new MaterialSearchResult<Word>(
+            .map((word) => MaterialSearchResult<Word>(
                   value: word,
                   text: word.display(), // English,
                   //icon: Icons.person,
@@ -28,7 +28,7 @@ class SearchWordWidget extends StatelessWidget {
           if (crit.isEmpty) {
             return dimsum.categories.contains(value.id);
           }
-          var reg = new RegExp(r'' + crit + '');
+          var reg = RegExp(r'' + crit + '');
           return value.english.toLowerCase().contains(reg) ||
               value.chineseText().contains(reg);
         },
