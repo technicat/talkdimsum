@@ -1,16 +1,13 @@
 {
     "name": "Grand Est",
-    "places": 
-    [
-
+    "places": [
         {
             "title": "Dim Sum Sam",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dim-sum-sam-strasbourg"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-sam-strasbourg"
+                }
             ],
             "lat": 48.579327,
             "lon": 7.760491,
@@ -18,5 +15,4 @@
             "address": "9 rue de l'Abreuvoir 67000"
         }
     ]
-    
 }

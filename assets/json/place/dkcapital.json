@@ -1,20 +1,17 @@
 {
     "name": "Capital Region",
-    "places": 
-    [
-
+    "places": [
         {
             "title": "Diamond Rice",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.diamond-rice.dk/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/diamond-rice-k%C3%B8benhavn"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.diamond-rice.dk/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/diamond-rice-k%C3%B8benhavn"
+                }
             ],
             "lat": 55.682573,
             "lon": 12.588086,
@@ -23,12 +20,11 @@
         },
         {
             "title": "Fook Lam Moon",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/fook-lam-moon-k%C3%B8benhavn"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fook-lam-moon-k%C3%B8benhavn"
+                }
             ],
             "lat": 52.392862,
             "lon": 13.201535,
@@ -37,30 +33,28 @@
         },
         {
             "title": "Fu Hao",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/fu-hao-k%C3%B8benhavn-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fu-hao-k%C3%B8benhavn-2"
+                }
             ],
             "lat": 55.671922,
             "lon": 12.562738,
             "city": "Copenhagen",
             "address": "Coldbjørnsensgade 15, 1652 Copenhagen"
         },
-    {
+        {
             "title": "Fu Wa Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.fuwa.dk/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/fu-wa-restaurant-k%C3%B8benhavn"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.fuwa.dk/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fu-wa-restaurant-k%C3%B8benhavn"
+                }
             ],
             "lat": 55.688723,
             "lon": 12.542049,
@@ -69,16 +63,15 @@
         },
         {
             "title": "Hidden Dim Sum",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.dimsum.dk/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/hidden-dimsum-k%C3%B8benhavn"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsum.dk/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hidden-dimsum-k%C3%B8benhavn"
+                }
             ],
             "lat": 55.677205,
             "lon": 12.573446,
@@ -87,30 +80,28 @@
         },
         {
             "title": "Magasas Dim Sum and Cocktails",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/magasasa-dim-sum-og-cocktails-k%C3%B8benhavn"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/magasasa-dim-sum-og-cocktails-k%C3%B8benhavn"
+                }
             ],
             "lat": 55.667196,
-            "lon":  12.558868,
+            "lon": 12.558868,
             "city": "Copenhagen",
             "address": "Flæsketorvet 54-56, 1711 Copenhagen"
         },
         {
             "title": "Restaurant Royal Garden",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://royalgarden.dk/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/restaurant-royal-garden-k%C3%B8benhavn-k"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://royalgarden.dk/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/restaurant-royal-garden-k%C3%B8benhavn-k"
+                }
             ],
             "lat": 55.684264,
             "lon": 12.585874,
@@ -119,16 +110,15 @@
         },
         {
             "title": "Restaurant Dim Sum",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://restaurantdimsum.dk/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/restaurant-dim-sum-k%C3%B8benhavn-k"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://restaurantdimsum.dk/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/restaurant-dim-sum-k%C3%B8benhavn-k"
+                }
             ],
             "lat": 55.681456,
             "lon": 12.591502,
@@ -136,5 +126,4 @@
             "address": "Sankt Annæ Plads 16, 1250 København K"
         }
     ]
-    
 }

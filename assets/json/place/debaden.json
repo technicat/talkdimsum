@@ -1,19 +1,15 @@
 {
     "name": "Baden-Württemberg",
-    "abbrev":"BW", 
-     "zoom": 12,
-    "places": 
-    [
-
-    {
+    "abbrev": "BW",
+    "zoom": 12,
+    "places": [
+        {
             "title": "LeDu Dim Sum",
-            "links":
-            [
-            
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/ledu-dim-sum-und-bar-münchen"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ledu-dim-sum-und-bar-münchen"
+                }
             ],
             "lat": 48.127908,
             "lon": 11.570051,
@@ -21,5 +17,4 @@
             "address": "Klenzestr. 62 80469"
         }
     ]
-    
 }

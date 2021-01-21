@@ -1,14 +1,12 @@
 {
     "name": "Madrid",
-    "places": 
-    [
+    "places": [
         {
             "title": "Dim Sum Market",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dim-sum-market-madrid"
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-market-madrid"
                 }
             ],
             "lat": 40.415315,
@@ -18,11 +16,10 @@
         },
         {
             "title": "Hong Kong Kitchen",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/hong-kong-kitchen-madrid"
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-kitchen-madrid"
                 }
             ],
             "lat": 40.422764,
@@ -32,11 +29,10 @@
         },
         {
             "title": "Royal Cantonés",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/royal-cantonés-madrid-2"
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/royal-cantonés-madrid-2"
                 }
             ],
             "lat": 40.383041,
@@ -44,17 +40,16 @@
             "city": "Madrid",
             "address": "Calle Olvido, 92 28026"
         },
-         {
+        {
             "title": "Toy Panda",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://toypanda.com"
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://toypanda.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/toy-panda-madrid-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/toy-panda-madrid-2"
                 }
             ],
             "lat": 40.425056,
@@ -62,7 +57,5 @@
             "city": "Madrid",
             "address": "Calle del Espíritu Santo, 7 28004"
         }
-        
     ]
-    
 }

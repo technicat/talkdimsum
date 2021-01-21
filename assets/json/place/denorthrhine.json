@@ -1,71 +1,64 @@
 {
     "name": "North Rhine-Westphalia",
-    "places": 
-    [
-
-    {
+    "places": [
+        {
             "title": "Dim Sum",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://dimsum-bonn.de"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dim-sum-bonn"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://dimsum-bonn.de"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-bonn"
+                }
             ],
             "lat": 50.735062,
             "lon": 7.102324,
             "city": "Bonn",
             "address": "Markt 5"
         },
-
-         {
+        {
             "title": "Dschunke",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://restaurant-dschunke.de"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dschunke-düsseldorf"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://restaurant-dschunke.de"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dschunke-düsseldorf"
+                }
             ],
             "lat": 51.222341,
             "lon": 6.789561,
             "city": "Düsseldorf",
             "address": "Charlottenstr. 59 40210"
         },
-          {
+        {
             "title": "hahaa",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.hahaa.eu/Startseite/Duesseldorf/index.php/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/hahaa-düsseldorf"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.hahaa.eu/Startseite/Duesseldorf/index.php/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hahaa-düsseldorf"
+                }
             ],
             "lat": 51.235516,
             "lon": 6.861785,
             "city": "Düsseldorf",
             "address": "Kölner Tor 23 40625"
         },
-{
+        {
             "title": "Tao",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/tao-düsseldorf"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tao-düsseldorf"
+                }
             ],
             "lat": 51.245494,
             "lon": 6.783538,
@@ -74,12 +67,11 @@
         },
         {
             "title": "Tsun De",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/tsun-gai-düsseldorf"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tsun-gai-düsseldorf"
+                }
             ],
             "lat": 51.219917,
             "lon": 6.780898,
@@ -87,5 +79,4 @@
             "address": "Bahnstr. 72 40210"
         }
     ]
-    
 }

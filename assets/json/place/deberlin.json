@@ -1,16 +1,13 @@
 {
     "name": "Berlin",
-    "places": 
-    [
-
-    {
+    "places": [
+        {
             "title": "Aroma",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/aroma-berlin-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/aroma-berlin-2"
+                }
             ],
             "lat": 52.506397,
             "lon": 13.315657,
@@ -19,30 +16,28 @@
         },
         {
             "title": "Dan's Dim Sum",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dans-dim-sum-berlin-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dans-dim-sum-berlin-2"
+                }
             ],
             "lat": 52.547114,
             "lon": 13.408674,
             "city": "Berlin",
             "address": "Gleimstr. 17 10437"
         },
-         {
+        {
             "title": "Flying Monkey",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.flyingmonkeyberlin.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/the-flying-monkey-berlin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.flyingmonkeyberlin.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-flying-monkey-berlin"
+                }
             ],
             "lat": 52.538853,
             "lon": 13.409736,
@@ -51,16 +46,15 @@
         },
         {
             "title": "Good Friends",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.goodfriends-berlin.de"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/good-friends-berlin-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.goodfriends-berlin.de"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/good-friends-berlin-2"
+                }
             ],
             "lat": 52.459587,
             "lon": 13.336129,
@@ -69,12 +63,11 @@
         },
         {
             "title": "Lecker Song",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/lecker-song-berlin"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lecker-song-berlin"
+                }
             ],
             "lat": 52.544160,
             "lon": 13.420420,
@@ -83,36 +76,32 @@
         },
         {
             "title": "Long March Canteen",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://longmarchcanteen.de"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/long-march-canteen-berlin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://longmarchcanteen.de"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/long-march-canteen-berlin"
+                }
             ],
             "lat": 52.502975,
             "lon": 13.430875,
             "city": "Berlin",
             "address": "Wrangelstr. 20 10997"
         },
-
-
-    {
+        {
             "title": "Yumcha Heroes",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://yumchaheroes.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/yumcha-heroes-berlin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://yumchaheroes.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yumcha-heroes-berlin"
+                }
             ],
             "lat": 52.531163,
             "lon": 13.402781,
@@ -120,5 +109,4 @@
             "address": "Weinbergsweg 8 10119"
         }
     ]
-    
 }

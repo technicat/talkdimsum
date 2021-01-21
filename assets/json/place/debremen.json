@@ -1,20 +1,17 @@
 {
     "name": "Bremen",
-    "places": 
-    [
-
-    {
+    "places": [
+        {
             "title": "Dim Sum Bremen",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.dimsum-bremen.de"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dim-sum-bremen-bremen"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.dimsum-bremen.de"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-bremen-bremen"
+                }
             ],
             "lat": 53.071155,
             "lon": 8.850006,
@@ -22,5 +19,4 @@
             "address": "Am Hulsberg 139 28205"
         }
     ]
-    
 }

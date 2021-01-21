@@ -1,16 +1,12 @@
 {
     "name": "Catalonia",
-    "places": 
-    [
+    "places": [
         {
             "title": "Dim Sum Cantonesas",
-            "links":
-            [
-
-               
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dim-sum-cantonesas-barcelona-2"
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-cantonesas-barcelona-2"
                 }
             ],
             "lat": 41.393703,
@@ -20,16 +16,14 @@
         },
         {
             "title": "Kao Dim Sum",
-            "links":
-            [
-
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://kaodimsum.com"
+                    "name": "site",
+                    "URL": "https://kaodimsum.com"
                 },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/kao-dim-sum-barcelona"
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kao-dim-sum-barcelona"
                 }
             ],
             "lat": 41.403838,
@@ -39,16 +33,14 @@
         },
         {
             "title": "Melo Mia",
-            "links":
-            [
-
+            "links": [
                 {
-                "name":"site",
-                "URL":"http://www.melo-jia.com/"
+                    "name": "site",
+                    "URL": "http://www.melo-jia.com/"
                 },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/melo-jia-barcelona"
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/melo-jia-barcelona"
                 }
             ],
             "lat": 41.393487,
@@ -56,7 +48,5 @@
             "city": "Barcelona",
             "address": "Carrer de Còrsega, 250 08008"
         }
-        
     ]
-    
 }
