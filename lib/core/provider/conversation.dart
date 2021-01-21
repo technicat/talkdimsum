@@ -12,12 +12,12 @@ class Conversation with ChangeNotifier {
     _load();
   }
 
-  _load() async {
+  void _load() async {
     if (phrases.isNotEmpty) {
       return;
     }
     var categories = await rootBundle
-        .loadString("assets/json/phrases/phrases.json")
+        .loadString('assets/json/phrases/phrases.json')
         .then((str) => List<String>.from(jsonDecode(str)));
     var dishlists = categories.map((json) => Phrases.loadPhraseList(json));
     for (var list in dishlists) {
