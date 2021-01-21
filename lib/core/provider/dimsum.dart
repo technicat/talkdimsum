@@ -33,7 +33,7 @@ class DimSum with ChangeNotifier {
   }
 
   List<Word> get dishWords {
-    var words = _dishList.map((dish) => dish.words[0]).toList();
+    final words = _dishList.map((dish) => dish.words[0]).toList();
     words.addAll(_dishList
         .map((dish) => dish.tags)
         .expand((pair) => pair)
@@ -54,14 +54,14 @@ class DimSum with ChangeNotifier {
   }
 
   void _loadDishes() async {
-    var dishfiles = await rootBundle
+    final dishfiles = await rootBundle
         .loadString('assets/json/dish/dishes.json')
         .then((str) => List<String>.from(jsonDecode(str)));
     dishfiles.forEach((json) => _loadDishList(json));
   }
 
   void _loadDishList(String path) async {
-    var dishes = await rootBundle
+    final dishes = await rootBundle
         .loadString('assets/json/dish/' + path + '.json')
         .then((str) => List<Dish>.from(
             jsonDecode(str).map((json) => Dish.fromJson(json))));
@@ -78,7 +78,7 @@ class DimSum with ChangeNotifier {
   }
 
   List<Dish> get categories {
-    var tags = _categories.map((tag) => dish(tag)).toList();
+    final tags = _categories.map((tag) => dish(tag)).toList();
     tags.removeWhere((item) => item == null);
     return tags;
   }
