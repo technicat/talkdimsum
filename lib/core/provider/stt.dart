@@ -35,7 +35,7 @@ class STT with ChangeNotifier {
   Future listen(Word word, Chinese lang) async {
     lastWords = '';
     target = word.chineseText(lang);
-    var available = await _speech.initialize(
+    final available = await _speech.initialize(
         onStatus: _statusListener, onError: _errorListener);
     if (available) {
       _status = STTStatus.Listening;
