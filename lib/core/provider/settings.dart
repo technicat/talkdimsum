@@ -1,6 +1,6 @@
 /* Technicat LLC */
 
-import 'package:flutter/foundation.dart' show ChangeNotifier;
+import 'package:flutter/foundation.dart';
 
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -14,7 +14,7 @@ class Settings with ChangeNotifier {
     _load();
   }
 
-  _load() async {
+  void _load() async {
     prefs = await SharedPreferences.getInstance();
     language = Chinese.values[prefs.getInt('language')] ?? Chinese.Cantonese;
     speed = prefs.getDouble('speed') ?? 0.5;
@@ -45,16 +45,7 @@ class Settings with ChangeNotifier {
   }
 
   String languageName(Chinese language) {
-    switch (language) {
-      case Chinese.Cantonese:
-        return "Cantonese";
-      case Chinese.Mandarin:
-        return "Mandarin";
-      case Chinese.Simplified:
-        return "Simplified";
-      default:
-        return "Cantonese";
-    }
+    return describeEnum(language);
   }
 
 }
