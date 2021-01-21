@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:flushbar/flushbar.dart';
-
 import 'package:talkdimsum/core/model/dish.dart';
 
 import 'package:talkdimsum/ui/common/dish/dish_description_widget.dart';
