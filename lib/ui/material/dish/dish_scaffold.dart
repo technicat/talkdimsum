@@ -37,22 +37,10 @@ class DishScaffold extends StatelessWidget {
                 PopupMenuButton<String>(
                   icon: Icon(Icons.help),
                   onSelected: (String value) {
-                    switch (value) {
-                      case "share":
-                        {
-                          Share.share(
-                              "I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com",
-                              subject: "Talk Dim Sum");
-                        }
-                        break;
-                      default:
-                        {
                           launch(value);
-                        }
-                    }
                   },
                   itemBuilder: (BuildContext context) {
-                    List<PopupMenuEntry<String>> menu = [];
+                    var menu = [];
                     menu.addAll(dish.word.resources.map((link) =>
                         PopupMenuItem<String>(
                             value: link.url, child: Text(link.name))));
@@ -63,11 +51,11 @@ class DishScaffold extends StatelessWidget {
                   icon: Icon(Icons.info),
                   onSelected: (String value) {
                     switch (value) {
-                      case "share":
+                      case 'share':
                         {
                           Share.share(
-                              "I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com",
-                              subject: "Talk Dim Sum");
+                              'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
+                              subject: 'Talk Dim Sum');
                         }
                         break;
                       default:
@@ -77,9 +65,9 @@ class DishScaffold extends StatelessWidget {
                     }
                   },
                   itemBuilder: (BuildContext context) {
-                    List<PopupMenuEntry<String>> menu = [];
+                    var menu = [];
                     menu.add(PopupMenuItem<String>(
-                      value: "share",
+                      value: 'share',
                       child: Text('share'),
                     ));
                     /* menu.addAll(widget.dish.word.resources.map((link) => PopupMenuItem<String>(value: link.URL, child: Text(link.name)))); */
