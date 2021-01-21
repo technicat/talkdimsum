@@ -30,7 +30,7 @@ class TTS {
     //await flutterTts.setVoice({"locale": loc});
     var result = await flutterTts.speak(text);
     if (result == 1) {
-      print("speaking " + loc);
+      print('speaking ' + loc);
     } else {
       print("didn't speak for some reason");
     }
