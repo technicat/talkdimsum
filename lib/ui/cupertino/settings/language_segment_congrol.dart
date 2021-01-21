@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/cupertino.dart';
 
 import 'package:provider/provider.dart';
@@ -17,10 +18,7 @@ class LanguageSegmentControl extends StatelessWidget {
                 settings.language = value;
               },
               children: {
-                // should map Chinese.values
-                Chinese.Cantonese: Text("Cantonese"),
-                Chinese.Mandarin: Text("Mandarin"),
-                Chinese.Simplified: Text("Simplified")
+                for (var v in Chinese.values) v: Text(describeEnum(v))
               },
             ));
   }
