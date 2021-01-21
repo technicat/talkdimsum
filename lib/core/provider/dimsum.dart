@@ -110,8 +110,8 @@ class DimSum with ChangeNotifier {
 
   void addFavorite(Dish dish) async {
     favorites.add(dish);
-    final Database db = await database();
-    db.insert(
+    final db = await database();
+    await db.insert(
       table,
       {'name': dish.word.id},
       conflictAlgorithm: ConflictAlgorithm.replace,
@@ -122,7 +122,7 @@ class DimSum with ChangeNotifier {
   void removeFavorite(Dish dish) async {
     favorites.remove(dish);
     final db = await database();
-    db.delete(
+    await db.delete(
       table,
       where: 'name = ?',
       // Pass the id as a whereArg to prevent SQL injection.

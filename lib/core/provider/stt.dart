@@ -39,7 +39,7 @@ class STT with ChangeNotifier {
         onStatus: _statusListener, onError: _errorListener);
     if (available) {
       _status = STTStatus.Listening;
-      _speech.listen(
+      await _speech.listen(
           onResult: _resultListener,
           listenFor: Duration(seconds: 10),
           localeId: Language.locale(lang),
@@ -72,7 +72,7 @@ class STT with ChangeNotifier {
   }
 
   void _errorListener(SpeechRecognitionError error) {
-    print("Received error status: $error, listening: ${speech.isListening}");
+   // print("Received error status: $error, listening: ${speech.isListening}");
     lastError = '${error.errorMsg} - ${error.permanent}';
     notifyListeners();
   }
