@@ -23,7 +23,7 @@ class PhrasesListView extends StatelessWidget {
   }
 
   List<Bubble> makeBubbles(BuildContext context, Line line) {
-    if (line.name == "a") {
+    if (line.name == 'a') {
       return line.words.map((word) => BubbleOther(word: word)).toList();
     } else {
       return line.words.map((word) => BubbleMe(word: word)).toList();

@@ -22,9 +22,7 @@ class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
       if (countries.countries.isEmpty) {
         return Center(child: CircularProgressIndicator());
       } else {
-        if (country == null) {
-          country = countries.countries[0];
-        }
+        country ??= countries.countries[0];
         return Scaffold(
             appBar: AppBar(title: Text(country.name), actions: <Widget>[
               PopupMenuButton<Country>(

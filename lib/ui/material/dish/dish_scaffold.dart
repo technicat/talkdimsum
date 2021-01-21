@@ -37,7 +37,7 @@ class DishScaffold extends StatelessWidget {
                 PopupMenuButton<String>(
                   icon: Icon(Icons.help),
                   onSelected: (String value) {
-                          launch(value);
+                    launch(value);
                   },
                   itemBuilder: (BuildContext context) {
                     var menu = [];
