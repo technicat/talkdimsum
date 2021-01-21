@@ -32,12 +32,12 @@ class PlaceTile extends StatelessWidget {
     return PopupMenuButton<String>(
         onSelected: (String value) {
           switch (value) {
-            case "share":
+            case 'share':
               {
                 place.share();
               }
               break;
-            case "map":
+            case 'map':
               {
                 place.showGoogleMap();
               }
@@ -49,13 +49,13 @@ class PlaceTile extends StatelessWidget {
           }
         },
         itemBuilder: (BuildContext context) {
-          List<PopupMenuEntry<String>> menu = [];
+          var menu = [];
           menu.add(PopupMenuItem<String>(
-            value: "map",
+            value: 'map',
             child: Text('map'),
           ));
           menu.add(PopupMenuItem<String>(
-            value: "share",
+            value: 'share',
             child: Text('share'),
           ));
           menu.addAll(place.links.map((link) =>
