@@ -28,7 +28,7 @@ class DishTapImageWidget extends StatelessWidget {
     return GestureDetector(
         onTap: () {
           Flushbar(
-            title: "Photo taken at",
+            title: 'Photo taken at',
             message: dish.images[0].place,
             duration: Duration(seconds: 3),
           )..show(context);
