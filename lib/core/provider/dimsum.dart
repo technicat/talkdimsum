@@ -13,8 +13,8 @@ import 'package:talkdimsum/core/model/tags.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
 class DimSum with ChangeNotifier {
-  List<Dish> _dishList = [];
-  HashMap<String, Dish> _dishMap = HashMap<String, Dish>();
+  final List<Dish> _dishList = [];
+  final HashMap<String, Dish> _dishMap = HashMap<String, Dish>();
 
   Dish addDish(Dish dish) {
     _dishList.add(dish);
@@ -33,7 +33,7 @@ class DimSum with ChangeNotifier {
   }
 
   List<Word> get dishWords {
-    List<Word> words = _dishList.map((dish) => dish.words[0]).toList();
+    var words = _dishList.map((dish) => dish.words[0]).toList();
     words.addAll(_dishList
         .map((dish) => dish.tags)
         .expand((pair) => pair)
@@ -53,14 +53,14 @@ class DimSum with ChangeNotifier {
     Tags.load();
   }
 
-  _loadDishes() async {
+  void _loadDishes() async {
     var dishfiles = await rootBundle
-        .loadString("assets/json/dish/dishes.json")
+        .loadString('assets/json/dish/dishes.json')
         .then((str) => List<String>.from(jsonDecode(str)));
     dishfiles.forEach((json) => _loadDishList(json));
   }
 
-  _loadDishList(String path) async {
+  void _loadDishList(String path) async {
     var dishes = await rootBundle
         .loadString('assets/json/dish/' + path + '.json')
         .then((str) => List<Dish>.from(
@@ -70,9 +70,9 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  _loadCategories() async {
+  void _loadCategories() async {
     _categories = await rootBundle
-        .loadString("assets/json/dish/categories.json")
+        .loadString('assets/json/dish/categories.json')
         .then((str) => List<String>.from(jsonDecode(str)));
     notifyListeners();
   }
@@ -95,7 +95,7 @@ class DimSum with ChangeNotifier {
       onCreate: (db, version) {
         // Run the CREATE TABLE statement on the database.
         return db.execute(
-          "CREATE TABLE favorites(name TEXT PRIMARY KEY)",
+          'CREATE TABLE favorites(name TEXT PRIMARY KEY)',
         );
       },
       // Set the version. This executes the onCreate function and provides a
@@ -108,7 +108,7 @@ class DimSum with ChangeNotifier {
     return favorites.contains(dish);
   }
 
-  addFavorite(Dish dish) async {
+  void addFavorite(Dish dish) async {
     favorites.add(dish);
     final Database db = await database();
     db.insert(
@@ -119,7 +119,7 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  removeFavorite(Dish dish) async {
+  void removeFavorite(Dish dish) async {
     favorites.remove(dish);
     final db = await database();
     db.delete(
@@ -131,9 +131,9 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  _loadFavorites() async {
-    final Database db = await database();
-    final List<Map<String, dynamic>> maps = await db.query(table);
+  void _loadFavorites() async {
+    final db = await database();
+    final maps = await db.query(table);
     favorites = maps
         .map((map) => dish(map['name']))
         .where((dish) => dish != null)
