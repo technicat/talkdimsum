@@ -1,40 +1,34 @@
-
 [
-
     {
-        "Chinese":"小食",
-        "English":"snack",
-        "Yale":"síu sihk",
-        "Pinyin":"xiǎo shí"
+        "Chinese": "小食",
+        "English": "snack",
+        "Yale": "síu sihk",
+        "Pinyin": "xiǎo shí"
     },
     {
-        "Chinese":"布甸",
-        "English":"pudding",
-        "Yale":"bou dīn",
-        "Pinyin":"bù diàn"
+        "Chinese": "布甸",
+        "English": "pudding",
+        "Yale": "bou dīn",
+        "Pinyin": "bù diàn"
     },
- {
-     "Chinese":"餅",
-     "Simplified":"饼",
-     "English":"cookie/cake/pancake",
-     "Yale":"béng",
-     "Pinyin":"bǐng"
- },
-
- {
-     "Chinese":"撻",
-     "Simplified":"挞",
-     "English":"tart",
-     "Yale":"tāat",
-     "Pinyin":"tà"
- },
-
- {
-     "Chinese":"白糖",
-     "English":"white sugar",
-     "Yale":"baahk tòhng",
-     "Pinyin":"bái táng"
- }
-
-
- ]
+    {
+        "Chinese": "餅",
+        "Simplified": "饼",
+        "English": "cookie/cake/pancake",
+        "Yale": "béng",
+        "Pinyin": "bǐng"
+    },
+    {
+        "Chinese": "撻",
+        "Simplified": "挞",
+        "English": "tart",
+        "Yale": "tāat",
+        "Pinyin": "tà"
+    },
+    {
+        "Chinese": "白糖",
+        "English": "white sugar",
+        "Yale": "baahk tòhng",
+        "Pinyin": "bái táng"
+    }
+]

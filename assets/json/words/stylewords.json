@@ -1,28 +1,21 @@
-
 [
-    
- 
- {
-     "Chinese":"港式",
-     "English":"Hong Kong style",
-     "Yale":"góng sīk",
-     "Pinyin":"gǎng shì"
- },
- 
- {
-     "Chinese":"美式",
-     "English":"American style",
-     "Yale":"méih sīk",
-     "Pinyin":"měi shì"
- },
- 
- {
-     "Chinese":"韓式",
-      "Simplified":"韩式",
-     "English":"Korean style",
-     "Yale":"hòhn sīk",
-     "Pinyin":"Hán shì"
- }
- 
- 
- ]
+    {
+        "Chinese": "港式",
+        "English": "Hong Kong style",
+        "Yale": "góng sīk",
+        "Pinyin": "gǎng shì"
+    },
+    {
+        "Chinese": "美式",
+        "English": "American style",
+        "Yale": "méih sīk",
+        "Pinyin": "měi shì"
+    },
+    {
+        "Chinese": "韓式",
+        "Simplified": "韩式",
+        "English": "Korean style",
+        "Yale": "hòhn sīk",
+        "Pinyin": "Hán shì"
+    }
+]

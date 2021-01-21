@@ -1,76 +1,64 @@
-
 [
-    
     {
-        "Chinese":"油",
-        "English":"oil/sauce",
-        "Yale":"yàuh",
-        "Pinyin":"yóu"
+        "Chinese": "油",
+        "English": "oil/sauce",
+        "Yale": "yàuh",
+        "Pinyin": "yóu"
     },
-
     {
-        "Chinese":"豉汁",
-        "English":"black bean sauce",
-        "Yale":"sih jāp",
-        "Pinyin":"chǐ zhī"
+        "Chinese": "豉汁",
+        "English": "black bean sauce",
+        "Yale": "sih jāp",
+        "Pinyin": "chǐ zhī"
     },
-
     {
-     "Chinese":"XO醬",
-     "Simplified":"XO酱",
-     "English":"XO sauce",
-     "Yale":"XO jeung",
-     "Pinyin":"XO jiàng"
+        "Chinese": "XO醬",
+        "Simplified": "XO酱",
+        "English": "XO sauce",
+        "Yale": "XO jeung",
+        "Pinyin": "XO jiàng"
     },
- 
     {
-     "Chinese":"海鮮醬",
-     "Simplified":"海鮮酱",
-     "English":"hoisin sauce",
-     "Yale":"hói sīn jeung",
-     "Pinyin":"Hǎi xiān jiàng"
+        "Chinese": "海鮮醬",
+        "Simplified": "海鮮酱",
+        "English": "hoisin sauce",
+        "Yale": "hói sīn jeung",
+        "Pinyin": "Hǎi xiān jiàng"
     },
- 
     {
-     "Chinese" : "咖喱",
-     "English" : "curry",
-     "Yale" : "ga lēi",
-     "Pinyin": "gā lí"
+        "Chinese": "咖喱",
+        "English": "curry",
+        "Yale": "ga lēi",
+        "Pinyin": "gā lí"
     },
- 
     {
-     "Chinese" : "甜酸",
-     "English" : "sweet and sour",
-     "Yale": "tìhm syūn",
-     "Pinyin":"tián suān"
-     },
-
-     {
-        "Chinese" : "酸",
-        "English" : "sour",
+        "Chinese": "甜酸",
+        "English": "sweet and sour",
+        "Yale": "tìhm syūn",
+        "Pinyin": "tián suān"
+    },
+    {
+        "Chinese": "酸",
+        "English": "sour",
         "Yale": "syūn",
-        "Pinyin":"suān"
-        },
-
-     {
-        "Chinese" : "甜",
-        "English" : "sweet",
+        "Pinyin": "suān"
+    },
+    {
+        "Chinese": "甜",
+        "English": "sweet",
         "Yale": "tìhm",
-        "Pinyin":"tián"
-        },
-
-     {
-        "Chinese" : "花椒",
-        "English" : "Sichuan pepper",
+        "Pinyin": "tián"
+    },
+    {
+        "Chinese": "花椒",
+        "English": "Sichuan pepper",
         "Yale": "fā jīu",
-        "Pinyin":"huā jiāo"
-        },
-
-        {
-            "Chinese" : "椒",
-            "English" : "pepper",
-            "Yale": "jīu",
-            "Pinyin":"jiāo"
-            }
- 
- ]
+        "Pinyin": "huā jiāo"
+    },
+    {
+        "Chinese": "椒",
+        "English": "pepper",
+        "Yale": "jīu",
+        "Pinyin": "jiāo"
+    }
+]

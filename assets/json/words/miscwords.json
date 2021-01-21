@@ -1,91 +1,74 @@
-
 [
-
     {
-                "Chinese":"蒜茸",
-                "English":"minced garlic",
-                "Yale": "syun yùhng",
-                "Pinyin" : "suàn róng"
+        "Chinese": "蒜茸",
+        "English": "minced garlic",
+        "Yale": "syun yùhng",
+        "Pinyin": "suàn róng"
     },
-
     {
-        "Chinese":"餃",
-        "Simplified":"饺",
-        "English":"dumpling",
-        "Yale":"gáau",
-        "Pinyin":"jiǎo"
+        "Chinese": "餃",
+        "Simplified": "饺",
+        "English": "dumpling",
+        "Yale": "gáau",
+        "Pinyin": "jiǎo"
     },
-
-
     {
-        "Chinese":"水餃",
-        "Simplified":"水饺",
-        "English":"boiled dumpling",
-        "Yale":"séui gáau",
-        "Pinyin":"shuǐ jiǎo"
+        "Chinese": "水餃",
+        "Simplified": "水饺",
+        "English": "boiled dumpling",
+        "Yale": "séui gáau",
+        "Pinyin": "shuǐ jiǎo"
     },
-
     {
         "Chinese": "角",
-        "English":"horn-shaped",
-        "Yale":"gok",
-        "Pinyin":"jiǎo"
+        "English": "horn-shaped",
+        "Yale": "gok",
+        "Pinyin": "jiǎo"
     },
-
- {
-     "Chinese":"湯",
-     "English":"soup",
-     "Yale":" tōng",
-     "Pinyin":"tāng"
- },
-
- 
- {
-     "Chinese":"捲",
-     "Simplified":"卷",
-     "English":"roll",
-     "Yale":"gyún",
-     "Pinyin":"juǎn"
- },
-
- {
-     "Chinese":"麵",
-     "Simplified":"面",
-     "English":"noodles",
-     "Yale":"mihn",
-     "Pinyin":"miàn"
- },
-
-
- {
-     "Chinese":"雲吞",
-     "Simplified":"云吞",
-     "English":"wonton",
-     "Yale":"wàhn tān",
-     "Pinyin":"yún tūn"
- },
-
- {
-     "Chinese":"龍",
-     "Simplified":"龙",
-     "English":"dragon",
-     "Yale":"lùhng",
-     "Pinyin":"lóng"
- },
-
- {
-     "Chinese":"菊",
-     "English":"chrysanthemum",
-     "Yale":"gūk",
-     "Pinyin":"jú"
- },
-
- {
-     "Chinese":"花",
-     "English":"flower",
-     "Yale":"fā",
-     "Pinyin":"huā"
- }
-
-
- ]
+    {
+        "Chinese": "湯",
+        "English": "soup",
+        "Yale": " tōng",
+        "Pinyin": "tāng"
+    },
+    {
+        "Chinese": "捲",
+        "Simplified": "卷",
+        "English": "roll",
+        "Yale": "gyún",
+        "Pinyin": "juǎn"
+    },
+    {
+        "Chinese": "麵",
+        "Simplified": "面",
+        "English": "noodles",
+        "Yale": "mihn",
+        "Pinyin": "miàn"
+    },
+    {
+        "Chinese": "雲吞",
+        "Simplified": "云吞",
+        "English": "wonton",
+        "Yale": "wàhn tān",
+        "Pinyin": "yún tūn"
+    },
+    {
+        "Chinese": "龍",
+        "Simplified": "龙",
+        "English": "dragon",
+        "Yale": "lùhng",
+        "Pinyin": "lóng"
+    },
+    {
+        "Chinese": "菊",
+        "English": "chrysanthemum",
+        "Yale": "gūk",
+        "Pinyin": "jú"
+    },
+    {
+        "Chinese": "花",
+        "English": "flower",
+        "Yale": "fā",
+        "Pinyin": "huā"
+    }
+]
