@@ -14,6 +14,7 @@ class STTStatusText extends StatelessWidget {
             return Text('Listening...',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
           }
+        case STTStatus.Match:
           {
             return Text('Correct!',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
