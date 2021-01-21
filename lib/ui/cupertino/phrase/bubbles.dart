@@ -12,10 +12,10 @@ class BubbleOther extends Bubble {
 
   @override
   Widget build(BuildContext context) {
-    double pixelRatio = MediaQuery.of(context).devicePixelRatio;
-    double px = 1 / pixelRatio;
+    var pixelRatio = MediaQuery.of(context).devicePixelRatio;
+    var px = 1 / pixelRatio;
 
-    BubbleStyle style = BubbleStyle(
+    var style = BubbleStyle(
       nip: BubbleNip.leftTop,
       color: CupertinoColors.white,
       elevation: 1 * px,
@@ -37,10 +37,10 @@ class BubbleMe extends Bubble {
 
   @override
   Widget build(BuildContext context) {
-    double pixelRatio = MediaQuery.of(context).devicePixelRatio;
-    double px = 1 / pixelRatio;
+    var pixelRatio = MediaQuery.of(context).devicePixelRatio;
+    var px = 1 / pixelRatio;
 
-    BubbleStyle style = BubbleStyle(
+    var style = BubbleStyle(
       nip: BubbleNip.rightTop,
       color: Color.fromARGB(255, 225, 255, 199),
       elevation: 1 * px,
