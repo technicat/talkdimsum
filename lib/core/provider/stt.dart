@@ -26,40 +26,40 @@ class STT with ChangeNotifier {
     return _status;
   }
 
-  String lastWords = "";
-  String lastError = "";
-  String lastStatus = "";
+  String lastWords = '';
+  String lastError = '';
+  String lastStatus = '';
 
-  String target = "";
+  String target = '';
 
   Future listen(Word word, Chinese lang) async {
-    lastWords = "";
+    lastWords = '';
     target = word.chineseText(lang);
-    bool available = await _speech.initialize(
+    var available = await _speech.initialize(
         onStatus: _statusListener, onError: _errorListener);
     if (available) {
-      _status = STTStatus.NotListening;
+      _status = STTStatus.Listening;
       _speech.listen(
           onResult: _resultListener,
           listenFor: Duration(seconds: 10),
           localeId: Language.locale(lang),
-      //    onSoundLevelChange: _soundLevelListener,
+          //    onSoundLevelChange: _soundLevelListener,
           cancelOnError: true,
           partialResults: true);
     } else {
-      print("The user has denied the use of speech recognition.");
+      print('The user has denied the use of speech recognition.');
     }
     notifyListeners();
   }
 
-  stop() {
+  void stop() {
     _status = STTStatus.Stopped;
     _speech.stop();
     notifyListeners();
   }
 
   void _resultListener(SpeechRecognitionResult result) {
-    lastWords = "${result.recognizedWords}"; //  - ${result.finalResult}";
+    lastWords = '${result.recognizedWords}'; //  - ${result.finalResult}";
     if (lastWords == target) {
       _status = STTStatus.Match;
       _speech.stop();
@@ -73,18 +73,18 @@ class STT with ChangeNotifier {
 
   void _errorListener(SpeechRecognitionError error) {
     // print("Received error status: $error, listening: ${speech.isListening}");
-    lastError = "${error.errorMsg} - ${error.permanent}";
+    lastError = '${error.errorMsg} - ${error.permanent}';
     notifyListeners();
   }
 
   void _statusListener(String status) {
     // print(
     // "Received listener status: $status, listening: ${speech.isListening}");
-    lastStatus = "$status";
+    lastStatus = '$status';
     notifyListeners();
   }
 
- // void _soundLevelListener(double level) {
-    // print("sound level $level: $minSoundLevel - $maxSoundLevel ");
- // }
+  // void _soundLevelListener(double level) {
+  // print("sound level $level: $minSoundLevel - $maxSoundLevel ");
+  // }
 }
