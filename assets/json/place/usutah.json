@@ -1,113 +1,91 @@
 {
-    "name":"Utah",
-    "places":
-[
-    {
-        "title": "Dim Sum House",
-         "links":
-        [
-            {
-                "name":"site",
-                "URL":"https://www.mydimsumhouse.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-house-salt-lake-city"
-        }
-        ],
-        "lat": 40.743430,
-        "lon": -111.888550,
-        "city": "Salt Lake City",
-        "address": "1158 S State St, Salt Lake City, UT 84111"
-    },
-    
-    {
-        "title": "Ho Ho Gourmet",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/ho-ho-gourmet-salt-lake-city"
-        }
+    "name": "Utah",
+    "places": [
+        {
+            "title": "Dim Sum House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.mydimsumhouse.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-house-salt-lake-city"
+                }
             ],
-        "lat": 40.736950,
-        "lon": -111.888880,
-        "city": "Salt Lake City",
-        "address": "1504 S State St, Salt Lake City, UT 84115"
-    },
-    
-    {
-        "title": "Hong Kong Tea House",
-         "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://hongkongteahouse.yolasite.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/hong-kong-tea-house-salt-lake-city"
-            }
-        ],
-        "lat": 40.764910,
-        "lon": -111.905520,
-        "city": "Salt Lake City",
-        "address": "565 W 200th S, Salt Lake City, UT 84101"
-    },
-    
-    {
-        "title": "New Golden Dragon",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.slcnewgoldendragon.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/new-golden-dragon-salt-lake-city"
+            "lat": 40.743430,
+            "lon": -111.888550,
+            "city": "Salt Lake City",
+            "address": "1158 S State St, Salt Lake City, UT 84111"
+        },
+        {
+            "title": "Ho Ho Gourmet",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ho-ho-gourmet-salt-lake-city"
+                }
+            ],
+            "lat": 40.736950,
+            "lon": -111.888880,
+            "city": "Salt Lake City",
+            "address": "1504 S State St, Salt Lake City, UT 84115"
+        },
+        {
+            "title": "Hong Kong Tea House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://hongkongteahouse.yolasite.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-tea-house-salt-lake-city"
+                }
+            ],
+            "lat": 40.764910,
+            "lon": -111.905520,
+            "city": "Salt Lake City",
+            "address": "565 W 200th S, Salt Lake City, UT 84101"
+        },
+        {
+            "title": "New Golden Dragon",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-golden-dragon-salt-lake-city"
+                }
+            ],
+            "lat": 40.733110,
+            "lon": -111.888710,
+            "city": "Salt Lake City",
+            "address": "1716 S State St, Salt Lake City, UT 84115"
+        },
+        {
+            "title": "China Town Eatery",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-town-eatery-south-salt-lake"
+                }
+            ],
+            "lat": 40.698080,
+            "lon": -111.888890,
+            "city": "South Salt Lake",
+            "address": "3370 S State St, Ste 3, South Salt Lake, UT 84115"
+        },
+        {
+            "title": "Red Maple Chinese Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/red-maple-chinese-restaurant-taylorsville"
+                }
+            ],
+            "lat": 40.692000,
+            "lon": -111.945980,
+            "city": "Taylorsville",
+            "address": "2882 W 4700th S, Taylorsville, UT 84119"
         }
-        ],
-        "lat": 40.733110,
-        "lon": -111.888710,
-        "city": "Salt Lake City",
-        "address": "1716 S State St, Salt Lake City, UT 84115"
-    },
-
-
-    {
-        "title": "China Town Eatery",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/china-town-eatery-south-salt-lake"
-            }
-        ],
-        "lat": 40.698080,
-        "lon": -111.888890,
-        "city": "South Salt Lake",
-        "address": "3370 S State St, Ste 3, South Salt Lake, UT 84115"
-    },
-    
-    {
-        "title": "Red Maple Chinese Restaurant",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/red-maple-chinese-restaurant-taylorsville"
-            }
-        ],
-        "lat": 40.692000,
-        "lon": -111.945980,
-        "city": "Taylorsville",
-        "address": "2882 W 4700th S, Taylorsville, UT 84119"
-    }
-    
-   
-
-    
-   
     ]
 }
