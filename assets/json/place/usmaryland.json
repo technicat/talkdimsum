@@ -1,57 +1,51 @@
 {
     "name": "Maryland",
     "places": [
-        
         {
             "title": "Asian Court",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.asiancourtmd.com/#/"
+                    "name": "site",
+                    "URL": "https://www.asiancourtmd.com/#/"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/asian-court-ellicott-city-2"
-             }
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/asian-court-ellicott-city-2"
+                }
             ],
             "lat": 39.299710,
             "lon": -76.873200,
             "city": "Ellicott City",
             "address": "11105 Resort Road, Ellicott City, MD 21042"
         },
-        
         {
             "title": "Chopstix Gourmet",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.chopstixgourmet.com"
+                    "name": "site",
+                    "URL": "http://www.chopstixgourmet.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/chopstix-gourmet-rosedale-2"
-             }
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/chopstix-gourmet-rosedale-2"
+                }
             ],
             "lat": 39.310880,
             "lon": -76.522260,
             "city": "Rosedale",
             "address": "1201 67th St Rosedale, MD 21237"
         },
-        
         {
             "title": "Gourmet Inspirations",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.gichinese.com"
+                    "name": "site",
+                    "URL": "https://www.gichinese.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/gourmet-inspirations-wheaton"
-             }
+                }
             ],
             "lat": 39.040300,
             "lon": -77.054100,
@@ -60,16 +54,15 @@
         },
         {
             "title": "Hollywood East Cafe",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.hollywoodeastcafe.com"
+                    "name": "site",
+                    "URL": "https://www.hollywoodeastcafe.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hollywood-east-cafe-wheaton-2"
-             }
+                }
             ],
             "lat": 39.035831,
             "lon": -77.055557,
@@ -78,18 +71,17 @@
         },
         {
             "title": "Wong Gee Asian Restaurant",
-             "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.wonggee.com"
+                    "name": "site",
+                    "URL": "http://www.wonggee.com"
                 },
                 {
-                    "name":"site",
-                    "URL":"http://www.wonggeeasian.com"
+                    "name": "site",
+                    "URL": "http://www.wonggeeasian.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/wong-gee-asian-restaurant-wheaton"
                 }
             ],
@@ -98,10 +90,5 @@
             "city": "Wheaton",
             "address": "2417 University Blvd, Wheaton, MD 20902"
         }
-        
-        
-     
-        
- ]
-    
+    ]
 }

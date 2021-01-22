@@ -3,35 +3,32 @@
     "places": [
         {
             "title": "Bo Lings",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://bolings.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/bo-lings-kansas-city-7"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://bolings.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/bo-lings-kansas-city-7"
+                }
             ],
             "lat": 39.042112,
             "lon": -94.594334,
             "city": "Kansas City",
             "address": "4701 Jefferson St Kansas City, MO 64112"
         },
-
         {
             "title": "ABC Cafe",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.abccafeop.com/"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/abc-cafe-overland-park"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.abccafeop.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/abc-cafe-overland-park"
+                }
             ],
             "lat": 38.970800,
             "lon": -94.701680,
@@ -40,42 +37,37 @@
         },
         {
             "title": "Bo Lings Chinese",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://bolings.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/bo-lings-chinese-overland-park"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://bolings.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/bo-lings-chinese-overland-park"
+                }
             ],
             "lat": 38.966205,
             "lon": -94.666674,
             "city": "Overland Park",
             "address": "8973 Metcalf Ave, Overland Park, KS 66212"
         },
-        
         {
             "title": "Pine and Bamboo Garden",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.pinebamboogarden.com/"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/pine-and-bamboo-garden-shawnee-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.pinebamboogarden.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/pine-and-bamboo-garden-shawnee-2"
+                }
             ],
             "lat": 39.014390,
             "lon": -94.712510,
             "city": "Shawnee",
             "address": "10915 Shawnee Mission Pkwy Shawnee, KS 66203"
         }
-        
- ]
-    
+    ]
 }

@@ -1,38 +1,34 @@
 {
     "name": "Nebraska",
     "places": [
-
         {
             "title": "Sina Way Chinese Cuisine",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.sinawaychinese.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/sina-way-chinese-cuisine-bellevue"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.sinawaychinese.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sina-way-chinese-cuisine-bellevue"
+                }
             ],
             "lat": 41.117686,
             "lon": -95.944518,
             "city": "Bellevue",
             "address": "2211 Capehart Rd Ste 101 Bellevue, NE 68123"
         },
-
         {
             "title": "Grand Fortune Cuisine",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://grandfortunecuisine.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/grand-fortune-chinese-cuisine-omaha-3"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://grandfortunecuisine.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/grand-fortune-chinese-cuisine-omaha-3"
+                }
             ],
             "lat": 41.234580,
             "lon": -96.185100,
@@ -41,25 +37,20 @@
         },
         {
             "title": "New Gold Mountain",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.newgoldmountain.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/new-gold-mountain-omaha-3"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.newgoldmountain.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-gold-mountain-omaha-3"
+                }
             ],
             "lat": 41.238680,
             "lon": -96.016040,
             "city": "Omaha",
             "address": "6750 Mercy Rd Ste 102B Omaha, NE 68106"
         }
-        
-
-        
- ]
-    
+    ]
 }

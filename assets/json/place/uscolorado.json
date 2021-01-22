@@ -2,33 +2,29 @@
     "name": "Colorado",
     "zoom": 8.7,
     "places": [
-
         {
             "title": "Emperor Palace",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/emperor-palace-broomfield"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/emperor-palace-broomfield"
+                }
             ],
             "lat": 39.913930,
             "lon": -105.071300,
             "city": "Broomfield",
             "address": "6700 W 120th Ave Broomfield, CO 80020"
         },
-       
         {
             "title": "Empress Seafood Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://www.empressdimsum.com"
+                    "name": "site",
+                    "URL": "https://www.empressdimsum.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/empress-seafood-restaurant-denver"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/empress-seafood-restaurant-denver"
                 }
             ],
             "lat": 39.711450,
@@ -38,15 +34,14 @@
         },
         {
             "title": "Star Kitchen",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.starkitchenseafooddimsum.com"
+                    "name": "site",
+                    "URL": "http://www.starkitchenseafooddimsum.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/star-kitchen-denver"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/star-kitchen-denver"
                 }
             ],
             "lat": 39.697330,
@@ -56,12 +51,11 @@
         },
         {
             "title": "Super Star Asian Cuisine",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/super-star-asian-cuisine-denver-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/super-star-asian-cuisine-denver-2"
+                }
             ],
             "lat": 39.710580,
             "lon": -105.013670,
@@ -70,34 +64,31 @@
         },
         {
             "title": "Zoe MaMa",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.zoemama.com/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/zoe-ma-ma-denver-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.zoemama.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/zoe-ma-ma-denver-2"
+                }
             ],
             "lat": 39.750300,
             "lon": -105.002970,
             "city": "Denver",
             "address": "1625 Wynkoop St Denver, CO 80202"
         },
-        
         {
             "title": "Empire Palace",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.goempirepalace.net"
+                    "name": "site",
+                    "URL": "http://www.goempirepalace.net"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/empire-palace-fort-collins"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/empire-palace-fort-collins"
                 }
             ],
             "lat": 40.550190,
@@ -105,7 +96,5 @@
             "city": "Fort Collins",
             "address": "2721 S College Ave Fort Collins, CO 80525"
         }
-        
- ]
-    
+    ]
 }

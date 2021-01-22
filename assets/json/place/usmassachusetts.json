@@ -1,256 +1,231 @@
-
 {
-    "name":"Massachusetts",
-    "places":
-[
-    {
-        "title": "China Pearl Restaurant",
-        "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/china-pearl-restaurant-boston"
-            }
-            ],
-        "lat": 42.351110,
-        "lon": -71.060870,
-        "city": "Boston",
-        "address": "9 Tyler St, Boston, MA 02111"
-    },
-    {
-        "title": "Empire Garden Restaurant",
-         "links":
-            [
+    "name": "Massachusetts",
+    "places": [
+        {
+            "title": "China Pearl Restaurant",
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://empiregardenboston.com"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-pearl-restaurant-boston"
+                }
+            ],
+            "lat": 42.351110,
+            "lon": -71.060870,
+            "city": "Boston",
+            "address": "9 Tyler St, Boston, MA 02111"
+        },
+        {
+            "title": "Empire Garden Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://empiregardenboston.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/empire-garden-restaurant-boston-2"
                 }
             ],
-        "lat": 42.351280,
-        "lon": -71.062780,
-        "city": "Boston",
-        "address": "690 Washington St, Boston, MA 02111"
-    },
-    {
-        "title": "Great Taste Bakery and Restaurant",
-         "links":
-            [
+            "lat": 42.351280,
+            "lon": -71.062780,
+            "city": "Boston",
+            "address": "690 Washington St, Boston, MA 02111"
+        },
+        {
+            "title": "Great Taste Bakery and Restaurant",
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.bostongreattastebakery.com"
+                    "name": "site",
+                    "URL": "http://www.bostongreattastebakery.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/great-taste-bakery-and-restaurant-boston"
                 }
             ],
-        "lat": 42.351150,
-        "lon": -71.060180,
-        "city": "Boston",
-        "address": "63 Beach St, Boston, MA 02111"
-    },
-    {
-        "title": "Hei La Moon",
-         "links":
-            [
+            "lat": 42.351150,
+            "lon": -71.060180,
+            "city": "Boston",
+            "address": "63 Beach St, Boston, MA 02111"
+        },
+        {
+            "title": "Hei La Moon",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.heilamoon.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hei-la-moon-boston"
                 }
             ],
-        "lat": 42.351350,
-        "lon": -71.059820,
-        "city": "Boston",
-        "address": "88 Beach St, Boston, MA 02111"
-    },
-    {
-        "title": "Winsor Dim Sum Café",
-         "links":
-            [
+            "lat": 42.351350,
+            "lon": -71.059820,
+            "city": "Boston",
+            "address": "88 Beach St, Boston, MA 02111"
+        },
+        {
+            "title": "Winsor Dim Sum Café",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://winsordimsumcafe.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/winsor-dim-sum-café-boston-2"
                 }
             ],
-        "lat": 42.350980,
-        "lon": -71.060460,
-        "city": "Boston",
-        "address": "10 Tyler St, Boston, MA 02111"
-    },
-    
-    {
-        "title": "House of Chang",
-         "links":
-            [
+            "lat": 42.350980,
+            "lon": -71.060460,
+            "city": "Boston",
+            "address": "10 Tyler St, Boston, MA 02111"
+        },
+        {
+            "title": "House of Chang",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://www.houseofchangcambridge.com"
                 },
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://www.houseofchang-ma.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/house-of-chang-cambridge"
                 }
             ],
-        "lat": 42.383540,
-        "lon": -71.133710,
-        "city": "Cambridge",
-        "address": "282 Concord Ave, Cambridge, MA 02138"
-    },
-
-      {
-        "title": "Chau Chow Dim Sum & Seafood",
-         "links":
-            [
+            "lat": 42.383540,
+            "lon": -71.133710,
+            "city": "Cambridge",
+            "address": "282 Concord Ave, Cambridge, MA 02138"
+        },
+        {
+            "title": "Chau Chow Dim Sum & Seafood",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://www.winsordimsum.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/chau-chow-chinese-dim-sum-and-seafood-restaurant-dorchester"
                 }
             ],
-        "lat": 42.297860,
-        "lon": -71.049900,
-        "city": "Dorchester",
-        "address": "699 Morrisey Blvd, Dorchester, MA 02122"
-    },
-    
-    {
-        "title": "China Star",
-         "links":
-            [
+            "lat": 42.297860,
+            "lon": -71.049900,
+            "city": "Dorchester",
+            "address": "699 Morrisey Blvd, Dorchester, MA 02122"
+        },
+        {
+            "title": "China Star",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://chinastaroflowell.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/china-star-lowell-2"
                 }
             ],
-        "lat": 42.635600,
-        "lon": -71.353790,
-        "city": "Lowell",
-        "address": "1733 Middlesex St, Lowell, MA 01851"
-    },
-    
-    
-    {
-        "title": "Ming's Seafood Restaurant",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/mings-seafood-restaurant-malden"
-            }
-        ],
-        "lat": 42.426810,
-        "lon": -71.067730,
-        "city": "Malden",
-        "address": "17 Pleasant St, Malden, MA 02148"
-    },
-    {
-        "title": "Sun Kong",
-         "links":
-            [
+            "lat": 42.635600,
+            "lon": -71.353790,
+            "city": "Lowell",
+            "address": "1733 Middlesex St, Lowell, MA 01851"
+        },
+        {
+            "title": "Ming's Seafood Restaurant",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mings-seafood-restaurant-malden"
+                }
+            ],
+            "lat": 42.426810,
+            "lon": -71.067730,
+            "city": "Malden",
+            "address": "17 Pleasant St, Malden, MA 02148"
+        },
+        {
+            "title": "Sun Kong",
+            "links": [
+                {
+                    "name": "site",
                     "URL": "http://sunkongrestaurant.com/home.htm"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/sun-kong-malden"
                 }
             ],
-        "lat": 42.426080,
-        "lon": -71.060820,
-         "city": "Malden",
-        "address": "275 Eastern Ave, Malden, MA 02148"
-    },
-    {
-        "title": "Yong Yong",
-        "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/yong-yong-malden-2"
-            }
-            ],
-        "lat": 42.425040,
-        "lon": -71.064780,
-         "city": "Malden",
-        "address": "108 Ferry St, Malden, MA 02148"
-    },
-    
-    {
-        "title": "China Pearl",
-        "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/china-pearl-quincy"
-            }
-            ],
-        "lat": 42.240010,
-        "lon": -70.991000,
-        "city": "Quincy",
-        "address": "237 Quincy Ave, Quincy, MA 02169"
-    },
-    {
-        "title": "Winsor Dim Sum House and Bar",
-         "links":
-            [
+            "lat": 42.426080,
+            "lon": -71.060820,
+            "city": "Malden",
+            "address": "275 Eastern Ave, Malden, MA 02148"
+        },
+        {
+            "title": "Yong Yong",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yong-yong-malden-2"
+                }
+            ],
+            "lat": 42.425040,
+            "lon": -71.064780,
+            "city": "Malden",
+            "address": "108 Ferry St, Malden, MA 02148"
+        },
+        {
+            "title": "China Pearl",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-pearl-quincy"
+                }
+            ],
+            "lat": 42.240010,
+            "lon": -70.991000,
+            "city": "Quincy",
+            "address": "237 Quincy Ave, Quincy, MA 02169"
+        },
+        {
+            "title": "Winsor Dim Sum House and Bar",
+            "links": [
+                {
+                    "name": "site",
                     "URL": "http://www.winsordimsum.com"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/winsor-dim-sum-house-and-bar-quincy-3"
                 }
             ],
-        "lat": 42.260370,
-        "lon": -71.010450,
-        "city": "Quincy",
-        "address": "706 Hancock St, Quincy, MA 02170"
-    },
-
-    {
-        "title": "Joyful Garden",
-         "links":
-            [
+            "lat": 42.260370,
+            "lon": -71.010450,
+            "city": "Quincy",
+            "address": "706 Hancock St, Quincy, MA 02170"
+        },
+        {
+            "title": "Joyful Garden",
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "https://www.joyful.boston/"
                 },
                 {
-                    "name":"Yelp",
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/joyful-garden-watertown-2"
                 }
             ],
-        "lat": 42.364690,
-        "lon": -71.157090,
-        "city": "Watertown",
-        "address": "550 Arsenal St, Watertown, MA 02472"
-    }
-    
-
-]
+            "lat": 42.364690,
+            "lon": -71.157090,
+            "city": "Watertown",
+            "address": "550 Arsenal St, Watertown, MA 02472"
+        }
+    ]
 }

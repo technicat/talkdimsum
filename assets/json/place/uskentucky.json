@@ -3,16 +3,15 @@
     "places": [
         {
             "title": "Jade Palace",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.jadepalacemenu.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/jade-palace-louisville"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.jadepalacemenu.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jade-palace-louisville"
+                }
             ],
             "lat": 38.267290,
             "lon": -85.612470,
@@ -21,23 +20,20 @@
         },
         {
             "title": "Oriental House",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.orientalhouselouisville.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/oriental-house-louisville"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.orientalhouselouisville.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/oriental-house-louisville"
+                }
             ],
             "lat": 38.250857,
             "lon": -85.635680,
             "city": "Louisville",
             "address": "4302 Shelbyville Rd, Louisville, KY 40207"
         }
-        
- ]
-    
+    ]
 }

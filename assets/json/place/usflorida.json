@@ -1,38 +1,33 @@
 {
     "name": "Florida",
-    "places": 
-    [
-
+    "places": [
         {
             "title": "Hong Kong Dim Sum",
-            "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://hongkongdimsum2363.com"
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://hongkongdimsum2363.com"
                 },
-                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/hong-kong-dim-sum-coral-springs"
-            }
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-dim-sum-coral-springs"
+                }
             ],
             "lat": 26.260180,
             "lon": -80.249200,
             "city": "Coral Springs",
             "address": "2363 N University Dr Coral Springs, FL 33065"
         },
-
         {
             "title": "Delray Goodies",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://delray-goodies.business.site"
+                    "name": "site",
+                    "URL": "https://delray-goodies.business.site"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/delray-goodies-delray-beach-3"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/delray-goodies-delray-beach-3"
                 }
             ],
             "lat": 26.464920,
@@ -40,18 +35,16 @@
             "city": "Delray Beach",
             "address": "155 Ne 4th Ave Delray Beach, FL 33483"
         },
-
         {
             "title": "Timwah Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.timwahdimsum.com/"
+                    "name": "site",
+                    "URL": "https://www.timwahdimsum.com/"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/timwah-dim-sum-restaurant-jacksonville"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/timwah-dim-sum-restaurant-jacksonville"
                 }
             ],
             "lat": 30.217654,
@@ -59,39 +52,35 @@
             "city": "Jacksonville",
             "address": "8358 Point Meadows Dr, Jacksonville, FL 32256"
         },
-
         {
             "title": "Real Wok",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.realwokdimsum.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/real-wok-lake-worth"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.realwokdimsum.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/real-wok-lake-worth"
+                }
             ],
             "lat": 26.571190,
             "lon": -80.116060,
             "city": "Lake Worth",
             "address": "4640 Hypoluxo Rd Ste 5 Lake Worth, FL 33463"
         },
-        
         {
             "title": "Canton Palace Chinese Restaurant",
-            "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://cantonpalace.weebly.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/canton-palace-chinese-restaurant-miami"
-            }
-        ],
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://cantonpalace.weebly.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/canton-palace-chinese-restaurant-miami"
+                }
+            ],
             "lat": 25.761480,
             "lon": -80.325820,
             "city": "Miami",
@@ -99,16 +88,15 @@
         },
         {
             "title": "Kon Chau Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.konchauchinese.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/kon-chau-restaurant-miami"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.konchauchinese.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kon-chau-restaurant-miami"
+                }
             ],
             "lat": 25.733240,
             "lon": -80.311320,
@@ -117,17 +105,16 @@
         },
         {
             "title": "South Garden Chinese Restaurant",
-            "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://southgardenrestaurant.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/south-garden-chinese-restaurant-miami-2"
-            }
-        ],
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://southgardenrestaurant.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/south-garden-chinese-restaurant-miami-2"
+                }
+            ],
             "lat": 25.702480,
             "lon": -80.369260,
             "city": "Miami",
@@ -135,67 +122,58 @@
         },
         {
             "title": "Tropical Chinese Restaurant",
-            "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.tropicalchinesemiami.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/tropical-chinese-restaurant-miami-3"
-            }
-        ],
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.tropicalchinesemiami.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tropical-chinese-restaurant-miami-3"
+                }
+            ],
             "lat": 25.734020,
             "lon": -80.325950,
             "city": "Miami",
             "address": "7991 SW 40th St Miami, FL 33155"
         },
-        
         {
             "title": "Yip",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.yipmiami.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/yip-miami"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.yipmiami.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yip-miami"
+                }
             ],
             "lat": 25.799320,
             "lon": -80.198010,
             "city": "Miami",
             "address": "143 NW 23rd Street  Miami, Florida 33127"
         },
-        
         {
             "title": "Sang's Chinese Food",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/sangs-chinese-food-north-miami-beach"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sangs-chinese-food-north-miami-beach"
+                }
             ],
             "lat": 25.926370,
             "lon": -80.161210,
             "city": "North Miami Beach",
             "address": "1925 NE 163rd St North Miami Beach, FL 33162"
         },
-        
-     
-        
         {
             "title": "China Pavilion",
-            "links":
-        [
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/china-pavilion-pembroke-pines-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-pavilion-pembroke-pines-2"
+                }
             ],
             "lat": 26.009230,
             "lon": -80.278500,
@@ -204,61 +182,54 @@
         },
         {
             "title": "Gold Marquess Fine Chinese Cuisine",
-            "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.goldmarquess.com"
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldmarquess.com"
                 },
-                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
-            }
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
+                }
             ],
             "lat": 26.009550,
             "lon": -80.256650,
             "city": "Miami",
             "address": "8525 Pines Blvd Pembroke Pines, FL 33024"
         },
-        
         {
             "title": "Toa Toa Chinese Restaurant",
-            "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.toatoachineserestaurant.com"
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.toatoachineserestaurant.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/toa-toa-chinese-restaurant-sunrise"
-            }
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/toa-toa-chinese-restaurant-sunrise"
+                }
             ],
             "lat": 26.182170,
             "lon": -80.268270,
             "city": "Sunrise",
             "address": "4145 NW 88th Ave Sunrise, FL 33351"
         },
-        
         {
             "title": "Singing Bamboo Chinese Restaurant",
-            "links":
-        [
-            {
-                "name":"site",
-                "URL":"https://www.singingbamboofl.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/singing-bamboo-chinese-resturant-west-palm-beach"
-            }
-        ],
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.singingbamboofl.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/singing-bamboo-chinese-resturant-west-palm-beach"
+                }
+            ],
             "lat": 26.719110,
             "lon": -80.111730,
             "city": "West Palm Beach",
             "address": "2845 N Military Trl West Palm Beach, FL 33409"
         }
-        
- ]
-    
+    ]
 }

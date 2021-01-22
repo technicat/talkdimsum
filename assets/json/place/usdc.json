@@ -1,39 +1,35 @@
 {
-    "name":"District of Columbia",
-    "places":
-    [
+    "name": "District of Columbia",
+    "places": [
         {
-        "title": "Da Hong Pao Restaurant",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.dahongpaorestaurant.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/da-hong-pao-washington"
-            }
-        ],
-        "lat": 38.909440,
-        "lon": -77.031310,
-        "city": "Washington",
-        "address": "1409 14th St NW, Washington, DC 20005"
-        },
- 
-        {
-         "title": "Tony Cheng's Seafood Restaurant",
-          "links":
-            [
+            "title": "Da Hong Pao Restaurant",
+            "links": [
                 {
-                    "name":"Yelp",
+                    "name": "site",
+                    "URL": "http://www.dahongpaorestaurant.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/da-hong-pao-washington"
+                }
+            ],
+            "lat": 38.909440,
+            "lon": -77.031310,
+            "city": "Washington",
+            "address": "1409 14th St NW, Washington, DC 20005"
+        },
+        {
+            "title": "Tony Cheng's Seafood Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tony-cheng-seafood-restaurant-washington"
                 }
-                ],
-        "lat": 38.899980,
-        "lon": -77.020850,
-        "city": "Washington",
-        "address": "621 H St NW, Washington, DC 20001"
+            ],
+            "lat": 38.899980,
+            "lon": -77.020850,
+            "city": "Washington",
+            "address": "621 H St NW, Washington, DC 20001"
         }
     ]
 }
