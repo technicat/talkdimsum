@@ -67,14 +67,14 @@ class Region {
   static Future<List<Region>> loadPaths(List<String> paths) async {
     var list = [];
     for (var path in paths) {
-      list.add(await load(path));
+      list.add(await _load('assets/json/place/' + path));
     }
     return list;
   }
 
-  static Future<Region> load(String path) async {
+  static Future<Region> _load(String path) async {
     return rootBundle
-        .loadString('assets/json/place/' + path + '.json')
+        .loadString(path + '.json')
         .then((str) => Region.fromJson(jsonDecode(str)));
   }
 }
