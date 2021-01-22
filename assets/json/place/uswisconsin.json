@@ -1,18 +1,16 @@
 {
     "name": "Wisconsin",
-    "places": 
-    [
+    "places": [
         {
             "title": "Nani",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.nanirestaurantmadison.com"
+                    "name": "site",
+                    "URL": "https://www.nanirestaurantmadison.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/nani-restaurant-madison"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/nani-restaurant-madison"
                 }
             ],
             "lat": 43.055130,
@@ -20,18 +18,16 @@
             "city": "Madison",
             "address": "518 Grand Canyon Dr Madison, WI 53719"
         },
-
         {
             "title": "JJ Chen's Eatery",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://jjchens.com"
+                    "name": "site",
+                    "URL": "http://jjchens.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/j-j-chens-eatery-west-allis"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/j-j-chens-eatery-west-allis"
                 }
             ],
             "lat": 42.988660,
@@ -39,7 +35,5 @@
             "city": "West Allis",
             "address": "10722 W Oklahoma Ave West Allis, WI 53227"
         }
-        
- ]
-    
+    ]
 }
