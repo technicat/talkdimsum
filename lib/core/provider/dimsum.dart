@@ -57,12 +57,12 @@ class DimSum with ChangeNotifier {
     final dishfiles = await rootBundle
         .loadString('assets/json/dish/dishes.json')
         .then((str) => List<String>.from(jsonDecode(str)));
-    dishfiles.forEach((json) => _loadDishList(json));
+    dishfiles.forEach((filename) => _loadDishList('assets/json/dish/' + filename));
   }
 
   void _loadDishList(String path) async {
     final dishes = await rootBundle
-        .loadString('assets/json/dish/' + path + '.json')
+        .loadString(path + '.json')
         .then((str) => List<Dish>.from(
             jsonDecode(str).map((json) => Dish.fromJson(json))));
     dishes.forEach((dish) => dish.words.forEach((word) => Word.add(word)));

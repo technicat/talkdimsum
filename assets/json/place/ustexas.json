@@ -1,16 +1,13 @@
 {
     "name": "Texas",
-    "places": 
-    [
-
+    "places": [
         {
             "title": "Kowloon Chinese Seafood",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/kowloon-chinese-seafood-restaurant-arlington"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kowloon-chinese-seafood-restaurant-arlington"
+                }
             ],
             "lat": 32.707250,
             "lon": -97.109050,
@@ -19,31 +16,28 @@
         },
         {
             "title": "ABC Seafood Chinese Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/abc-sea-food-chinese-restaurant-arlington"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/abc-sea-food-chinese-restaurant-arlington"
+                }
             ],
             "lat": 32.705020,
             "lon": -97.066960,
             "city": "Arlington",
             "address": "2420 E Arkansas Ln, Ste 216, Arlington, TX 76014"
         },
-
         {
             "title": "China Spice Seafood Retaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://chinaspice777.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/china-spice-seafood-restaurant-austin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://chinaspice777.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-spice-seafood-restaurant-austin"
+                }
             ],
             "lat": 30.367220,
             "lon": -97.695530,
@@ -52,16 +46,15 @@
         },
         {
             "title": "Chinatown Westlake",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.austinchinatown.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/chinatown-westlake-austin-3"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.austinchinatown.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/chinatown-westlake-austin-3"
+                }
             ],
             "lat": 30.271480,
             "lon": -97.786190,
@@ -70,16 +63,15 @@
         },
         {
             "title": "Jade Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.jaderestaurantaustin.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/jade-restaurant-austin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.jaderestaurantaustin.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jade-restaurant-austin"
+                }
             ],
             "lat": 30.305570,
             "lon": -97.825330,
@@ -88,16 +80,15 @@
         },
         {
             "title": "New Fortune Seafood Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.newfortuneseafood.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/new-fortune-chinese-seafood-restaurant-austin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.newfortuneseafood.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-fortune-chinese-seafood-restaurant-austin"
+                }
             ],
             "lat": 30.378330,
             "lon": -97.687981,
@@ -106,12 +97,11 @@
         },
         {
             "title": "Shanghai Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/shanghai-restaurant-austin"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shanghai-restaurant-austin"
+                }
             ],
             "lat": 30.329150,
             "lon": -97.706870,
@@ -120,16 +110,15 @@
         },
         {
             "title": "Wu Chow",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://wuchowaustin.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/wu-chow-austin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://wuchowaustin.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/wu-chow-austin"
+                }
             ],
             "lat": 30.268670,
             "lon": -97.747840,
@@ -138,65 +127,58 @@
         },
         {
             "title": "Xian Noodles",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.xianfresh.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/xian-noodles-austin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.xianfresh.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/xian-noodles-austin"
+                }
             ],
             "lat": 30.400380,
             "lon": -97.727160,
             "city": "Austin",
             "address": "3401 Esperanza Crossing Ste 106 Austin, TX 78758"
         },
-        
         {
             "title": "Garden Restaurant",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/garden-restaurant-garland"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/garden-restaurant-garland"
+                }
             ],
             "lat": 32.917530,
             "lon": -96.683370,
             "city": "Garland",
             "address": "3555 W Walnut St, Garland, TX 75042"
         },
-        
         {
             "title": "The Pearl",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/the-pearl-grand-prairie"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-pearl-grand-prairie"
+                }
             ],
             "lat": 32.711470,
             "lon": -97.039690,
             "city": "Grand Prairie",
             "address": "2625 W Pioneer Pkwy, Grand Prairie, TX 75051"
         },
-
         {
             "title": "Crown Seafood Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.crownseafoodrestaurant.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/crown-seafood-restaurant-houston"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.crownseafoodrestaurant.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/crown-seafood-restaurant-houston"
+                }
             ],
             "lat": 29.703610,
             "lon": -95.588400,
@@ -205,16 +187,15 @@
         },
         {
             "title": "Dim Sum King",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.dimsumkingtx.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-king-houston"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumkingtx.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-king-houston"
+                }
             ],
             "lat": 29.705040,
             "lon": -95.524900,
@@ -223,12 +204,11 @@
         },
         {
             "title": "E-Tao",
-            "links":
-            [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/e-tao-houston"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/e-tao-houston"
+                }
             ],
             "lat": 29.737420,
             "lon": -95.463440,
@@ -237,16 +217,15 @@
         },
         {
             "title": "Fung's Kitchen",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.eatatfungs.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/fungs-kitchen-houston"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.eatatfungs.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fungs-kitchen-houston"
+                }
             ],
             "lat": 29.702670,
             "lon": -95.516490,
@@ -255,16 +234,15 @@
         },
         {
             "title": "Golden Dim Sum Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://goldendimsum.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-dim-sum-restaurant-houston"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://goldendimsum.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-dim-sum-restaurant-houston"
+                }
             ],
             "lat": 29.704670,
             "lon": -95.566910,
@@ -273,16 +251,15 @@
         },
         {
             "title": "HK Dim Sum",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://hkdimsumcity.com/"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/hk-dim-sum-houston-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://hkdimsumcity.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hk-dim-sum-houston-2"
+                }
             ],
             "lat": 29.703390,
             "lon": -95.553620,
@@ -291,16 +268,15 @@
         },
         {
             "title": "Kim Son",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.kimson.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/kim-son-houston"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.kimson.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kim-son-houston"
+                }
             ],
             "lat": 29.703260,
             "lon": -95.568080,
@@ -309,16 +285,15 @@
         },
         {
             "title": "Ocean Palace Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.oceanpalacehouston.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/ocean-palace-restaurant-houston"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.oceanpalacehouston.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ocean-palace-restaurant-houston"
+                }
             ],
             "lat": 29.703080,
             "lon": -95.578930,
@@ -327,110 +302,100 @@
         },
         {
             "title": "One Dim Sum",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://onedimsum.com/"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/one-dim-sum-houston-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://onedimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/one-dim-sum-houston-2"
+                }
             ],
             "lat": 29.750810,
             "lon": -95.375610,
             "city": "Houston",
             "address": "510 Gray Street, Houston, TX 77072"
         },
-        
         {
             "title": "JS Chen's Dim Sum & BBQ",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.jschensbbq.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/js-chen-dim-sum-and-barbeque-plano"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.jschensbbq.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/js-chen-dim-sum-and-barbeque-plano"
+                }
             ],
             "lat": 33.067360,
             "lon": -96.694410,
             "city": "Plano",
             "address": "240 Legacy, Ste 118 Plano, TX 75023"
         },
-        
         {
             "title": "Zhang's Kitchen",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.jschensbbq.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/zhangs-kitchen-plano"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.jschensbbq.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/zhangs-kitchen-plano"
+                }
             ],
             "lat": 33.069660,
             "lon": -96.711060,
-             "city": "Plano",
+            "city": "Plano",
             "address": "3948 Legacy Dr, Ste 103, Plano, TX 75023"
         },
-        
         {
             "title": "Golden Joy BBQ",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.goldenjoy-bbq.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-joy-bbq-richardson"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldenjoy-bbq.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-joy-bbq-richardson"
+                }
             ],
             "lat": 32.946210,
             "lon": -96.697850,
-             "city": "Richardson",
+            "city": "Richardson",
             "address": "1475 Belt Line Rd, Ste 260, Richardson, TX 75081"
         },
         {
             "title": "Kirin Court Chinese Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.kirincourt.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/kirin-court-chinese-restaurant-richardson"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.kirincourt.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kirin-court-chinese-restaurant-richardson"
+                }
             ],
             "lat": 32.948870,
             "lon": -96.734490,
             "city": "Richardson",
             "address": "221 W Polk St, Ste 210, Richardson, TX 75081"
         },
-        
         {
             "title": "Golden Wok",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.goldenwoksa.com"
-             },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-wok-san-antonio"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldenwoksa.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-wok-san-antonio"
+                }
             ],
             "lat": 29.524610,
             "lon": -98.567840,

@@ -12,7 +12,7 @@ class Country {
 
   static Future<Country> load(String path) async {
     var json = await rootBundle
-        .loadString('assets/json/place/' + path + '.json')
+        .loadString(path + '.json')
         .then((str) => jsonDecode(str));
     var country = Country(json['name']);
     country.regions =

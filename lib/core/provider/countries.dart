@@ -16,9 +16,9 @@ class Countries with ChangeNotifier {
     final names = await rootBundle
         .loadString('assets/json/place/countries.json')
         .then((str) => List<String>.from(jsonDecode(str)));
-    for (var name in names) {
-      countries.add(await Country.load(name));
+    for (var filename in names) {
+      countries.add(await Country.load('assets/json/place/' + filename));
+      notifyListeners();
     }
-    notifyListeners();
   }
 }

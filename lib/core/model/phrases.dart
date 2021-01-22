@@ -28,7 +28,7 @@ class Phrases {
 
   static Future<Phrases> loadPhraseList(String path) async {
     var phrases = await rootBundle
-        .loadString('assets/json/phrases/' + path + '.json')
+        .loadString(path + '.json')
         .then((str) => Phrases.fromJson(jsonDecode(str)));
     return phrases;
   }

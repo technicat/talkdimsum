@@ -19,11 +19,11 @@ class Conversation with ChangeNotifier {
     var categories = await rootBundle
         .loadString('assets/json/phrases/phrases.json')
         .then((str) => List<String>.from(jsonDecode(str)));
-    var dishlists = categories.map((json) => Phrases.loadPhraseList(json));
+    var dishlists = categories.map((filename) => Phrases.loadPhraseList('assets/json/phrases/' + filename));
     for (var list in dishlists) {
       phrases.add(await list);
+      notifyListeners();
     }
-    notifyListeners();
     // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
   }
 }
