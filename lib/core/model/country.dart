@@ -10,13 +10,13 @@ class Country {
 
   Country(this.name);
 
-  static Future<Country> load(String path) async {
+  static Future<Country> load(String path, String filename) async {
     final json = await rootBundle
-        .loadString(path + '.json')
+        .loadString(path+filename + '.json')
         .then((str) => jsonDecode(str));
     final country = Country(json['name']);
     country.regions =
-        await Region.loadPaths(List<String>.from(json['regions']));
+        await Region.loadPaths(path, List<String>.from(json['regions']));
     return country;
   }
 }

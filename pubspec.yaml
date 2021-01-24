@@ -36,7 +36,7 @@ dependencies:
       url: git://github.com/technicat/material_search.git
   path:
   path_provider:
-  pedantic:
+#  pedantic:
   share:
   bubble:
   flushbar:

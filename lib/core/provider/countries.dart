@@ -17,7 +17,7 @@ class Countries with ChangeNotifier {
         .loadString('assets/json/place/countries.json')
         .then((str) => List<String>.from(jsonDecode(str)));
     for (var filename in names) {
-      countries.add(await Country.load('assets/json/place/' + filename));
+      countries.add(await Country.load('assets/json/place/', filename));
       notifyListeners();
     }
   }

@@ -64,10 +64,11 @@ class Region {
         places = List<Place>.from(
             json['places'].map((json) => Place.fromJson(json)));
 
-  static Future<List<Region>> loadPaths(List<String> paths) async {
-    var list = [];
-    for (var path in paths) {
-      list.add(await _load('assets/json/place/' + path));
+  static Future<List<Region>> loadPaths(String path, List<String> filenames) async {
+    //return filenames.map((filename) => _load(path+filename)).toList();
+    List<Region> list = [];
+    for (var filename in filenames) {
+      list.add(await _load(path+filename));
     }
     return list;
   }

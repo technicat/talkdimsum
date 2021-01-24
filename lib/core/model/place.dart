@@ -36,7 +36,7 @@ class Place {
 
   void share() {
     Share.share(
-        'I had dim sum at $name in $city #dimsum #yumcha #talkdimsum talkdimsum.com',
+        'I dined at $name in $city #dimsum #yumcha #talkdimsum talkdimsum.com',
         subject: 'Talk Dim Sum');
   }
 }
