@@ -238,5 +238,58 @@
         "URL": "https://www.pinterest.com/technicat/dim-sum/fried-chicken-on-rice/"
       }
     ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "鰻魚飯",
+        "Simplified": "鳗鱼饭",
+        "English": "grilled eel on rice",
+        "Yale": "màahn yú faahn",
+        "Pinyin": "mán yú fàn",
+        "Resources": [
+          {
+            "name": "鰻魚",
+            "URL": "https://en.wiktionary.org/wiki/鰻魚"
+          },
+          {
+            "name": "鰻",
+            "URL": "https://en.wiktionary.org/wiki/鰻"
+          },
+          {
+            "name": "魚",
+            "URL": "https://en.wiktionary.org/wiki/魚"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "eelricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Grilled eel served on white rice.\n\n鰻魚 means “eel,” and 飯 is “rice,” so ”eel rice.”",
+    "Tags": [
+      "茶餐廳",
+      "鰻魚",
+      "魚",
+      "飯",
+      "白飯"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/grilled-eel-on-rice/"
+      },
+      {
+        "name": "Learn Chinese Food",
+        "URL": "https://learnchinesefood.com/detail%3D9261"
+      }
+    ]
   }
 ]
