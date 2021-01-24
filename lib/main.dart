@@ -11,8 +11,6 @@ import 'dart:io' show Platform;
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 
-import 'package:talk_chinese/talk_chinese.dart';
-
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/provider/conversation.dart';
 import 'package:talkdimsum/core/provider/countries.dart';
