@@ -1,10 +1,11 @@
 import 'package:flutter/cupertino.dart';
-import 'package:material_search/material_search.dart'; // need cupertino version
+import 'package:cupertino_search/cupertino_search.dart'; // need cupertino version
 import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
-import 'package:talkdimsum/ui/material/dishes/word_dishes_scaffold.dart';
+
+import 'word_dishes_scaffold.dart';
 
 class SearchWordScaffold extends StatelessWidget {
   @override
@@ -13,10 +14,10 @@ class SearchWordScaffold extends StatelessWidget {
       var words = dimsum.dishWords;
       return CupertinoPageScaffold(
           child: //SingleChildScrollView(child:
-              MaterialSearch<Word>(
+              CupertinoSearch<Word>(
         results: words
             .toSet()
-            .map((word) => MaterialSearchResult<Word>(
+            .map((word) => CupertinoSearchResult<Word>(
                   value: word,
                   text: word.display(), // English,
                   //icon: Icons.person,
