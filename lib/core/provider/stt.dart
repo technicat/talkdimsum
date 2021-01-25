@@ -73,6 +73,7 @@ class STT with ChangeNotifier {
 
   void _errorListener(SpeechRecognitionError error) {
    // print("Received error status: $error, listening: ${speech.isListening}");
+    _status = STTStatus.Error;
     lastError = '${error.errorMsg} - ${error.permanent}';
     notifyListeners();
   }
