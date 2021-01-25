@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:material_search/material_search.dart';
+import 'package:material_search/material_search.dart'; // need cupertino version
 import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
