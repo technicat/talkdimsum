@@ -5,7 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 import 'categories_widget.dart';
 import 'favorite_dishes_widget.dart';
-import 'search_word_widget.dart';
+import 'search_word_scaffold.dart';
 
 class ScaffoldDishesWidget extends StatelessWidget {
   @override
@@ -28,7 +28,7 @@ class ScaffoldDishesWidget extends StatelessWidget {
           onPressed: () {
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => SearchWordWidget()),
+              MaterialPageRoute(builder: (context) => SearchWordScaffold()),
             );
           },
         ),

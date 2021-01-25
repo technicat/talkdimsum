@@ -3,6 +3,7 @@
 import 'package:flutter/cupertino.dart';
 
 import 'dishes/categories_scaffold.dart';
+import 'dishes/search_word_scaffold.dart';
 import 'place/scaffold_country_widget.dart';
 import 'phrase/phrases_scaffold.dart';
 import 'favorites/favorites_scaffold.dart';
@@ -30,6 +31,10 @@ class NavigationBar extends StatelessWidget {
             case 0:
               return CupertinoTabView(builder: (BuildContext context) {
                 return CategoriesScaffold();
+              });
+            case 1:
+              return CupertinoTabView(builder: (BuildContext context) {
+                return SearchWordScaffold();
               });
             case 2:
               return CupertinoTabView(builder: (BuildContext context) {
