@@ -1,17 +1,14 @@
 {
     "name": "Central",
-    "places": 
-    [
+    "places": [
         {
             "title": "Man Fu Yuan Chinese Dim Sum",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-man-fu-yuan-bugis-chinese-dim-sum-r10949"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-man-fu-yuan-bugis-chinese-dim-sum-r10949"
+                }
+            ],
             "lat": 1.298624,
             "lon": 103.854981,
             "city": "Bugis",
@@ -19,121 +16,106 @@
         },
         {
             "title": "Victor's Kitchen",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-victors-kitchen-bugis-cantonese-hong-kong-dim-sum-r17433"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-victors-kitchen-bugis-cantonese-hong-kong-dim-sum-r17433"
+                }
+            ],
             "lat": 1.300502,
-            "lon":   103.851052,
+            "lon": 103.851052,
             "city": "Bugis",
             "address": "Sunshine Plaza, 91 Bencoolen St #01-49, 189652"
         },
         {
             "title": "Wah Lok Cantonese Restaurant",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-wah-lok-cantonese-restaurant-bugis-cantonese-hong-kong-dim-sum-r10590"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-wah-lok-cantonese-restaurant-bugis-cantonese-hong-kong-dim-sum-r10590"
+                }
+            ],
             "lat": 1.295934,
             "lon": 103.852893,
             "city": "Bugis",
             "address": " Carlton Hotel, Level 2, 76 Bras Basah Road, 189558"
         },
-
         {
             "title": "Hong Kong Mongkok Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"Seth Lui",
-                    "URL":"https://sethlui.com/hong-kong-mongkok-tim-sum-singapore/"
-                    },
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-hong-kong-mongkok-tim-sum-chinatown-cantonese-hong-kong-dim-sum-r4698"
-                    }
-                ],
-
+                    "name": "Seth Lui",
+                    "URL": "https://sethlui.com/hong-kong-mongkok-tim-sum-singapore/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-hong-kong-mongkok-tim-sum-chinatown-cantonese-hong-kong-dim-sum-r4698"
+                }
+            ],
             "lat": 1.282573,
-            "lon":  103.843098,
+            "lon": 103.843098,
             "city": "Chinatown",
             "address": "Chinatown Complex Market and Food Centre, 335 Smith St #02-097, 050335"
         },
         {
             "title": "Peach Garden",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.peachgarden.com.sg/"
-                    },
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-peach-garden-chinatown-chinese-r56873"
-                        }
-                ],
-
+                    "name": "site",
+                    "URL": "https://www.peachgarden.com.sg/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-peach-garden-chinatown-chinese-r56873"
+                }
+            ],
             "lat": 1.285129,
-            "lon":  103.844870,
+            "lon": 103.844870,
             "city": "Chinatown",
             "address": "Chinatown Point, 133 New Bridge Road, #02-36, 059413"
         },
         {
             "title": "Red Star Chinese Restaurant",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-red-star-chinese-restaurant-chinatown-cantonese-hong-kong-dim-sum-r10424"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-red-star-chinese-restaurant-chinatown-cantonese-hong-kong-dim-sum-r10424"
+                }
+            ],
             "lat": 1.287429,
-            "lon":  103.841128,
+            "lon": 103.841128,
             "city": "Chinatown",
             "address": "54 Chin Swee Road, #07-23, 160054"
         },
         {
             "title": "Spring Court",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.springcourt.com.sg/"
-                    },
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-spring-court-chinatown-cantonese-hong-kong-r20213"
-                        },
-                    {
-                        "name":"Seth Lui",
-                        "URL":"https://sethlui.com/spring-court-restaurant-singapore-food-review/"
-                        }
-                ],
-
+                    "name": "site",
+                    "URL": "https://www.springcourt.com.sg/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-spring-court-chinatown-cantonese-hong-kong-r20213"
+                },
+                {
+                    "name": "Seth Lui",
+                    "URL": "https://sethlui.com/spring-court-restaurant-singapore-food-review/"
+                }
+            ],
             "lat": 1.284331,
-            "lon":  103.844460,
+            "lon": 103.844460,
             "city": "Chinatown",
             "address": "52-56 Upper Cross Street, Singapore 058348"
         },
         {
             "title": "Victor's Kitchen",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-victors-kitchen-chinatown-cantonese-hong-kong-dim-sum-r123595"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-victors-kitchen-chinatown-cantonese-hong-kong-dim-sum-r123595"
+                }
+            ],
             "lat": 1.285129,
             "lon": 103.844870,
             "city": "Chinatown",
@@ -141,34 +123,29 @@
         },
         {
             "title": "Yum Cha",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-yum-cha-chinatown-cantonese-hong-kong-dim-sum-r889"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-yum-cha-chinatown-cantonese-hong-kong-dim-sum-r889"
+                }
+            ],
             "lat": 1.282809,
-            "lon":  103.843942,
+            "lon": 103.843942,
             "city": "Chinatown",
             "address": " 20 Trengganu Street, #02-01, 058479"
         },
-
         {
             "title": "Lei Garden Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.leigarden.hk/en/"
+                    "name": "site",
+                    "URL": "https://www.leigarden.hk/en/"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-lei-garden-restaurant-city-hall-cantonese-hong-kong-dim-sum-r10497"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-lei-garden-restaurant-city-hall-cantonese-hong-kong-dim-sum-r10497"
+                }
+            ],
             "lat": 1.295338,
             "lon": 103.852349,
             "city": "City Hall",
@@ -176,50 +153,44 @@
         },
         {
             "title": "Royal China",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-royal-china-city-hall-cantonese-hong-kong-dim-sum-r10545"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-royal-china-city-hall-cantonese-hong-kong-dim-sum-r10545"
+                }
+            ],
             "lat": 1.295071,
-            "lon":   103.854127,
+            "lon": 103.854127,
             "city": "City Hall",
             "address": "Raffles Hotel, 1 Beach Road #03-09, 189673"
         },
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-city-hall-cantonese-hong-kong-dim-sum-r113640"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-city-hall-cantonese-hong-kong-dim-sum-r113640"
+                }
+            ],
             "lat": 1.292404,
-            "lon":  103.855961,
+            "lon": 103.855961,
             "city": "City Hall",
             "address": "Citylink Mall, 1 Raffles Link, #B1-63/63A, 039393"
         },
-
         {
             "title": "Sum Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-sum-dim-sum-jalan-besar-singaporean-chinese-dim-sum-r158882"
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-sum-dim-sum-jalan-besar-singaporean-chinese-dim-sum-r158882"
                 },
                 {
-                        "name":"Seth Lui",
-                        "URL":"https://sethlui.com/sum-dim-sum-singapore/"
+                    "name": "Seth Lui",
+                    "URL": "https://sethlui.com/sum-dim-sum-singapore/"
                 }
             ],
             "lat": 1.307300,
@@ -229,47 +200,38 @@
         },
         {
             "title": "Swee Choon Dim Sum Restaurant",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-swee-choon-dim-sum-restaurant-jalan-besar-cantonese-hong-kong-dim-sum-r1071"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-swee-choon-dim-sum-restaurant-jalan-besar-cantonese-hong-kong-dim-sum-r1071"
+                }
+            ],
             "lat": 1.308228,
-            "lon":   103.856925,
+            "lon": 103.856925,
             "city": "Jalan Besar",
             "address": "183-191 Jalan Besar, 208882"
         },
-
         {
             "title": "Li Bai Cantonese Restaurant",
-            "links":
-            [
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-li-bai-cantonese-restaurant-newton-cantonese-hong-kong-dim-sum-r10621"
-                        }
-                ],
-
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-li-bai-cantonese-restaurant-newton-cantonese-hong-kong-dim-sum-r10621"
+                }
+            ],
             "lat": 1.312956,
             "lon": 103.838442,
             "city": "Newton",
             "address": "Sheraton Towers Singapore, 39 Scotts Road, 228230,"
         },
-
-
         {
             "title": "Imperial Treasure Noodle & Congee",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-imperial-treasure-noodle-congee-house-orchard-cantonese-hong-kong-dim-sum-r6534"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-imperial-treasure-noodle-congee-house-orchard-cantonese-hong-kong-dim-sum-r6534"
+                }
+            ],
             "lat": 1.304432,
             "lon": 103.831540,
             "city": "Orchard",
@@ -277,14 +239,12 @@
         },
         {
             "title": "Min Jiang",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-min-jiang-orchard-cantonese-hong-kong-dim-sum-r23914"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-min-jiang-orchard-cantonese-hong-kong-dim-sum-r23914"
+                }
+            ],
             "lat": 1.308614,
             "lon": 103.834936,
             "city": "Orchard",
@@ -292,14 +252,12 @@
         },
         {
             "title": "Summer Palace",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-summer-palace-orchard-cantonese-hong-kong-dim-sum-r9933"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-summer-palace-orchard-cantonese-hong-kong-dim-sum-r9933"
+                }
+            ],
             "lat": 1.304629,
             "lon": 103.824899,
             "city": "Orchard",
@@ -307,45 +265,41 @@
         },
         {
             "title": "Tim Ho Wan (Plaza Singapura)",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-orchard-cantonese-hong-kong-dim-sum-r58026"
-                    },
-                    {
-                        "name":"Wikipedia",
-                        "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-orchard-cantonese-hong-kong-dim-sum-r58026"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
             "lat": 1.299860,
-            "lon":   103.845189,
+            "lon": 103.845189,
             "city": "Orchard",
             "address": "Plaza Singapura, 68 Orchard Road, #01-29A/52, 23883"
         },
         {
             "title": "Tim Ho Wan (Pacific Plaza)",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-orchard-cantonese-hong-kong-dim-sum-r135769"
-                    },
-                    {
-                        "name":"Wikipedia",
-                        "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-orchard-cantonese-hong-kong-dim-sum-r135769"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
             "lat": 1.306465,
             "lon": 103.832179,
             "city": "Orchard",
@@ -353,80 +307,67 @@
         },
         {
             "title": "Wan Hao",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-wan-hao-chinese-restaurant-orchard-cantonese-hong-kong-dim-sum-r10365"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-wan-hao-chinese-restaurant-orchard-cantonese-hong-kong-dim-sum-r10365"
+                }
+            ],
             "lat": 1.305343,
             "lon": 103.832938,
             "city": "Orchard",
             "address": " Singapore Marriott Hotel, 320 Orchard Road Level 3, 238865"
         },
-
-
         {
             "title": "Tim Ho Wan (Great World City)",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-river-valley-cantonese-hong-kong-dim-sum-r157381"
-                    },
-                    {
-                        "name":"Wikipedia",
-                        "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-river-valley-cantonese-hong-kong-dim-sum-r157381"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
             "lat": 1.299860,
-            "lon":   103.845189,
+            "lon": 103.845189,
             "city": "River Valley",
             "address": "Great World City, 1 Kim Seng Promenade, #01-139, 23799"
         },
-
         {
             "title": "Peach Garden",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.peachgarden.com.sg/"
-                    },
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-peach-garden-raffles-place-cantonese-hong-kong-r14825"
-                        }
-                ],
-
+                    "name": "site",
+                    "URL": "https://www.peachgarden.com.sg/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-peach-garden-raffles-place-cantonese-hong-kong-r14825"
+                }
+            ],
             "lat": 1.285177,
-            "lon":   103.849280,
+            "lon": 103.849280,
             "city": "Raffles Place",
             "address": "OCBC Centre, 65 Chulia St #33-01, 049513"
         },
-
         {
             "title": "Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-dim-sum-tanjong-pagar-cantonese-hong-kong-dim-sum-r54176"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-dim-sum-tanjong-pagar-cantonese-hong-kong-dim-sum-r54176"
+                }
+            ],
             "lat": 1.275482,
-            "lon":  103.842985,
+            "lon": 103.842985,
             "city": "Tanjong Pegar",
             "address": "Tanjong Pagar Plaza, 1 Tanjong Pagar, 082001"
         }
     ]
-    
 }

@@ -1,22 +1,18 @@
 {
     "name": "Stockholm",
-    "places": 
-    [
-
+    "places": [
         {
             "title": "EAT Market",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://eatmarket.se/"
+                    "name": "site",
+                    "URL": "https://eatmarket.se/"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/eat-market-stockholm"
-                    }
-                ],
-
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/eat-market-stockholm"
+                }
+            ],
             "lat": 9.334511,
             "lon": 18.068191,
             "city": "Stockholm",
@@ -24,23 +20,20 @@
         },
         {
             "title": "Shogun",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"http://www.shogun.nu/"
+                    "name": "site",
+                    "URL": "http://www.shogun.nu/"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/shogun-stockholm"
-                    }
-                ],
-
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shogun-stockholm"
+                }
+            ],
             "lat": 59.325460,
             "lon": 18.067554,
             "city": "Stockholm",
             "address": "Stora Nygatan 3, 111 27 Stockholm"
         }
     ]
-    
 }

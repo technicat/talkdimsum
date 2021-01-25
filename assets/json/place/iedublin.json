@@ -1,19 +1,17 @@
 {
     "name": "Dublin",
-    "places": 
-    [
+    "places": [
         {
             "title": "Kashing",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.kashing.ie"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/ka-shing-dublin"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.kashing.ie"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ka-shing-dublin"
+                }
             ],
             "lat": 53.343010,
             "lon": -6.260830,
@@ -22,16 +20,15 @@
         },
         {
             "title": "Mak at D6",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://mak.ie"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/mak-at-d6-ranelagh"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://mak.ie"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mak-at-d6-ranelagh"
+                }
             ],
             "lat": 53.325110,
             "lon": -6.255170,
@@ -39,5 +36,4 @@
             "address": "Cullenswood Road, Ranelagh, Dublin 6"
         }
     ]
-    
 }

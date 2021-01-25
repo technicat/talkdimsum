@@ -1,18 +1,14 @@
 {
     "name": "West",
-    "places": 
-    [
-
+    "places": [
         {
             "title": "Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-dim-sum-boon-lay-cantonese-hong-kong-dim-sum-r11137"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-dim-sum-boon-lay-cantonese-hong-kong-dim-sum-r11137"
+                }
+            ],
             "lat": 1.346493,
             "lon": 103.712618,
             "city": "Boon Lay",
@@ -20,14 +16,12 @@
         },
         {
             "title": "Legendary Hong Kong",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-legendary-hong-kong-boon-lay-cantonese-hong-kong-dim-sum-r96674"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-legendary-hong-kong-boon-lay-cantonese-hong-kong-dim-sum-r96674"
+                }
+            ],
             "lat": 1.340025,
             "lon": 103.706514,
             "city": "Boon Lay",
@@ -35,86 +29,72 @@
         },
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-boon-lay-cantonese-hong-kong-dim-sum-r146753"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-boon-lay-cantonese-hong-kong-dim-sum-r146753"
+                }
+            ],
             "lat": 1.340025,
-            "lon":  103.706514,
+            "lon": 103.706514,
             "city": "Boon Lay",
             "address": "Jurong Point, 63 Jurong West Central 3, #03-42/43/44/45/46/47/K3/K4, 648331"
         },
-
         {
             "title": "Mayim Chinese Cuisine",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-mayim-chinese-cuisine-bukit-batok-dim-sum-r6145"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-mayim-chinese-cuisine-bukit-batok-dim-sum-r6145"
+                }
+            ],
             "lat": 1.350277,
-            "lon":  103.749125,
+            "lon": 103.749125,
             "city": "Bukit Batok",
             "address": "West Mall, 1 Bukit Batok Central Link #02-04, 658713"
         },
-
         {
             "title": "Crystal Jade Kitchen",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-crystal-jade-kitchen-clementi-cantonese-hong-kong-dim-sum-r23499"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-crystal-jade-kitchen-clementi-cantonese-hong-kong-dim-sum-r23499"
+                }
+            ],
             "lat": 1.315345,
             "lon": 103.764493,
             "city": "Clementi",
             "address": " The Clementi Mall, 3155 Commonwealth Ave West #03-54, 129588"
         },
-
         {
             "title": "Peach Garden",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.peachgarden.com.sg/"
-                    },
-                    {
-                        "name":"OpenRice",
-                        "URL":"https://sg.openrice.com/en/singapore/r-peach-garden-jalan-bahar-cantonese-hong-kong-r114588"
-                        }
-                ],
-
+                    "name": "site",
+                    "URL": "https://www.peachgarden.com.sg/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-peach-garden-jalan-bahar-cantonese-hong-kong-r114588"
+                }
+            ],
             "lat": 1.347070,
             "lon": 103.680124,
             "city": "Jalan Bahar",
             "address": " ﻿ NTU North Spine, 76 Nanyang Drive Blk N2.1 #02-01B, 63733"
         },
-        
         {
             "title": "Boon Lay Java Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-boon-lay-raja-restaurant-jurong-east-dim-sum-r19213"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-boon-lay-raja-restaurant-jurong-east-dim-sum-r19213"
+                }
+            ],
             "lat": 1.333631,
             "lon": 103.739316,
             "city": "Jurong East",
@@ -122,29 +102,25 @@
         },
         {
             "title": "Crystal Jade Kitchen",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-crystal-jade-kitchen-jurong-east-cantonese-hong-kong-dim-sum-r84395"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-crystal-jade-kitchen-jurong-east-cantonese-hong-kong-dim-sum-r84395"
+                }
+            ],
             "lat": 1.334257,
-            "lon":  103.742808,
+            "lon": 103.742808,
             "city": "Jurong East",
             "address": "Westgate, 3 Gateway Drive #04-42, 608532"
         },
         {
             "title": "Jade Garden",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-jade-garden-jurong-east-cantonese-hong-kong-dim-sum-r22763"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-jade-garden-jurong-east-cantonese-hong-kong-dim-sum-r22763"
+                }
+            ],
             "lat": 1.330961,
             "lon": 103.748543,
             "city": "Jurong East",
@@ -152,44 +128,37 @@
         },
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-jurong-east-cantonese-hong-kong-dim-sum-r84509"
-                    },
-                    {
-                        "name":"Wikipedia",
-                        "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-jurong-east-cantonese-hong-kong-dim-sum-r84509"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
             "lat": 1.334257,
-            "lon":  103.742808,
+            "lon": 103.742808,
             "city": "Jurong East",
             "address": "Westgate, 3 Gateway Drive, #01-13/14, 608532"
         },
-
         {
             "title": "Dim Sum Wang",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-dim-sum-wang-jurong-west-cantonese-hong-kong-dim-sum-r86202"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-dim-sum-wang-jurong-west-cantonese-hong-kong-dim-sum-r86202"
+                }
+            ],
             "lat": 1.349741,
             "lon": 103.718308,
             "city": "Jurong West",
             "address": "Jurong West 505 Market & Food Centre, Blk 505 Jurong West Street 52 #01-31, 640505"
         }
-       
     ]
-    
 }

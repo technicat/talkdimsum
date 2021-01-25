@@ -1,15 +1,13 @@
 {
     "name": "Northern Ireland",
-    "places": 
-    [
+    "places": [
         {
             "title": "Happy Dumplings",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/happy-dumplings-belfast"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/happy-dumplings-belfast"
+                }
             ],
             "lat": 54.584110,
             "lon": -5.922950,
@@ -18,16 +16,15 @@
         },
         {
             "title": "Lee Garden",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.leegardenbelfast.com/"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/lee-garden-belfast"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.leegardenbelfast.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lee-garden-belfast"
+                }
             ],
             "lat": 54.589130,
             "lon": -5.933320,
@@ -35,5 +32,4 @@
             "address": "14-18 Botanic Avenue Belfast BT7 1JQ United Kingdom"
         }
     ]
-    
 }

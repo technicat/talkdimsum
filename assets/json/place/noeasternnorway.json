@@ -1,18 +1,16 @@
 {
     "name": "Eastern Norway",
-    "places": 
-    [
+    "places": [
         {
             "title": "Beijing Palace",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.beijingpalace.org"
+                    "name": "site",
+                    "URL": "https://www.beijingpalace.org"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/beijing-palace-oslo"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/beijing-palace-oslo"
                 }
             ],
             "lat": 59.917595,
@@ -22,15 +20,14 @@
         },
         {
             "title": "Dim Sum by Taste of China",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://tasteofchina.no"
+                    "name": "site",
+                    "URL": "http://tasteofchina.no"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/dimsum-by-taste-of-china-oslo"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-by-taste-of-china-oslo"
                 }
             ],
             "lat": 59.912215,
@@ -40,15 +37,14 @@
         },
         {
             "title": "Dinner",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://www.dinner.no"
+                    "name": "site",
+                    "URL": "https://www.dinner.no"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/dinner-oslo-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dinner-oslo-2"
                 }
             ],
             "lat": 59.913832,
@@ -58,15 +54,14 @@
         },
         {
             "title": "Oriental Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://oriental.no"
+                    "name": "site",
+                    "URL": "https://oriental.no"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/oriental-restaurant-oslo"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/oriental-restaurant-oslo"
                 }
             ],
             "lat": 59.914463,
@@ -74,7 +69,5 @@
             "city": "Oslo",
             "address": "Arbeidergata 2 0159"
         }
-
- ]
-    
+    ]
 }

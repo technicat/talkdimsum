@@ -1,18 +1,16 @@
 {
     "name": "Tuscany",
-    "places": 
-    [
+    "places": [
         {
             "title": "Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.dimsumrestaurant.it"
+                    "name": "site",
+                    "URL": "http://www.dimsumrestaurant.it"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/dim-sum-firenze"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-firenze"
                 }
             ],
             "lat": 43.768575,
@@ -20,6 +18,5 @@
             "city": "Florence",
             "address": "Via dei Neri 37R 50122"
         }
- ]
-    
+    ]
 }

@@ -1,14 +1,12 @@
 {
     "name": "Kanagawa",
-    "places": 
-    [
+    "places": [
         {
             "title": "Manchinro Tenshinpo",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/萬珍樓點心舗-横浜市"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/萬珍樓點心舗-横浜市"
                 }
             ],
             "lat": 35.444200,
@@ -16,17 +14,16 @@
             "city": "Yokohama",
             "address": "中区山下町156 Yokohama, 神奈川県 〒231-0023"
         },
-         {
+        {
             "title": "Saiko Shinkan",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://www.saikoh-shinkan.com"
+                    "name": "site",
+                    "URL": "http://www.saikoh-shinkan.com"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/菜香新館-横浜市-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/菜香新館-横浜市-2"
                 }
             ],
             "lat": 35.443325,
@@ -34,6 +31,5 @@
             "city": "Yokohama",
             "address": "中区山下町192 Yokohama, 神奈川県 〒231-0023"
         }
- ]
-    
+    ]
 }

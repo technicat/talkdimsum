@@ -1,18 +1,16 @@
 {
     "name": "Tokyo",
-    "places": 
-    [
+    "places": [
         {
             "title": "Tim Ho Wan Hibiya",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://timhowan.jp"
+                    "name": "site",
+                    "URL": "http://timhowan.jp"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/添好運-日比谷店-千代田区"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/添好運-日比谷店-千代田区"
                 }
             ],
             "lat": 35.673043,
@@ -22,15 +20,14 @@
         },
         {
             "title": "YAUMAY",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://immfoodservice.com/shops/yaumay/"
+                    "name": "site",
+                    "URL": "http://immfoodservice.com/shops/yaumay/"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/%E3%83%A4%E3%82%A6%E3%83%A1%E3%82%A4-%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/%E3%83%A4%E3%82%A6%E3%83%A1%E3%82%A4-%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA"
                 }
             ],
             "lat": 35.686235,
@@ -38,14 +35,12 @@
             "city": "Chiyoda",
             "address": "丸の内3-2-3, 二重橋スクエア 2F, Chiyoda, 東京都 〒100-0005"
         },
-
-         {
+        {
             "title": "Tsim Tsa Shui",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/尖沙咀-港区"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/尖沙咀-港区"
                 }
             ],
             "lat": 35.662814,
@@ -53,22 +48,20 @@
             "city": "Minato",
             "address": "六本木7-17-12 六本木ビジネスアパートメンツ101 Minato, 東京都 〒106-0032"
         },
-
         {
             "title": "Le Parc Ebisu",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"https://cordon-bleu.co.jp/ebisu/"
+                    "name": "site",
+                    "URL": "https://cordon-bleu.co.jp/ebisu/"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://jp.openrice.com/en/tokyo/r-le-parc-ebisu-store-ebisu-chinese-dim-sum-r256579"
+                    "name": "OpenRice",
+                    "URL": "https://jp.openrice.com/en/tokyo/r-le-parc-ebisu-store-ebisu-chinese-dim-sum-r256579"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/ル-パルク恵比寿店-渋谷区"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ル-パルク恵比寿店-渋谷区"
                 }
             ],
             "lat": 35.646903,
@@ -78,38 +71,35 @@
         },
         {
             "title": "Tim Ho Wan Shinjuku Southern Terrace",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://timhowan.jp"
+                    "name": "site",
+                    "URL": "http://timhowan.jp"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://jp.openrice.com/en/tokyo/r-tim-ho-wan-shinjuku-southern-terrace-store-shinjuku-yoyogi-chinese-dim-sum-r606277"
+                    "name": "OpenRice",
+                    "URL": "https://jp.openrice.com/en/tokyo/r-tim-ho-wan-shinjuku-southern-terrace-store-shinjuku-yoyogi-chinese-dim-sum-r606277"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/添好運-新宿サザンテラス店-渋谷区"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/添好運-新宿サザンテラス店-渋谷区"
                 }
             ],
             "lat": 35.687323,
             "lon": 139.700055,
             "city": "Shibuya",
             "address": "代々木2-2-2 新宿サザンテラス 内 Shibuya, 東京都 〒151-8583"
-        },  
-
+        },
         {
             "title": "China Doll",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://jp.openrice.com/en/tokyo/r-china-doll-shinjuku-yoyogi-chinese-dumplings-r614741"
+                    "name": "OpenRice",
+                    "URL": "https://jp.openrice.com/en/tokyo/r-china-doll-shinjuku-yoyogi-chinese-dumplings-r614741"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/china-doll-新宿区"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-doll-新宿区"
                 }
             ],
             "lat": 35.693177,
@@ -117,10 +107,5 @@
             "city": "Shinjuku",
             "address": "西新宿6-5-1 新宿アイランドタワー B1 Shinjuku, 東京都 〒160-0023"
         }
-        
-
-
-       
- ]
-    
+    ]
 }

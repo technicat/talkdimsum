@@ -1,20 +1,16 @@
 {
     "name": "Waikato",
-    "places": 
-    [
-        
-
-         {
+    "places": [
+        {
             "title": "Dragon Boat Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.dragonboatrestaurant.co.nz"
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.dragonboatrestaurant.co.nz"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dragon-boat-restaurant-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dragon-boat-restaurant-auckland"
                 }
             ],
             "lat": -36.849320,
@@ -24,15 +20,14 @@
         },
         {
             "title": "Grand Harbour",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.grandharbour.co.nz"
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.grandharbour.co.nz"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/grand-harbour-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/grand-harbour-auckland"
                 }
             ],
             "lat": -36.845010,
@@ -40,13 +35,12 @@
             "city": "Auckland",
             "address": "Pakeham St & Custom St West Viaduct Harbour"
         },
-         {
+        {
             "title": "Imperial Palace Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/imperial-palace-restaurant-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/imperial-palace-restaurant-auckland"
                 }
             ],
             "lat": -36.898027,
@@ -54,14 +48,12 @@
             "city": "Panmure",
             "address": "509 Ellerslie-Panmure Highway"
         },
-
         {
             "title": "King's House Chinese Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/kings-house-chinese-restaurant-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kings-house-chinese-restaurant-auckland"
                 }
             ],
             "lat": -36.925536,
@@ -69,15 +61,12 @@
             "city": "Burswood",
             "address": "9 Torrens Road"
         },
-
-
         {
             "title": "Golden Phoenix",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/golden-phoenix-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-phoenix-auckland"
                 }
             ],
             "lat": -36.811832,
@@ -85,15 +74,12 @@
             "city": "Birkenhead",
             "address": "63A Mokoia Road"
         },
-
         {
             "title": "Asian Wok",
-            "links":
-            [
-            
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/asian-wok-auckland-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/asian-wok-auckland-2"
                 }
             ],
             "lat": -36.864514,
@@ -101,18 +87,16 @@
             "city": "Henderson",
             "address": "130 Lincoln Rd"
         },
-
         {
             "title": "Pearl Garden",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://www.pearlgarden.co.nz"
+                    "name": "site",
+                    "URL": "https://www.pearlgarden.co.nz"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/pearl-garden-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/pearl-garden-auckland"
                 }
             ],
             "lat": -36.869276,
@@ -122,11 +106,10 @@
         },
         {
             "title": "Sun World",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/sun-world-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sun-world-auckland"
                 }
             ],
             "lat": -36.867773,
@@ -134,14 +117,12 @@
             "city": "Newmarket",
             "address": "2 York St"
         },
-
         {
             "title": "VR Baker's Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/vr-bakers-restaurant-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/vr-bakers-restaurant-auckland"
                 }
             ],
             "lat": -36.978550,
@@ -149,14 +130,12 @@
             "city": "Papatoetoe",
             "address": "15 Rangitoto Road"
         },
-
-         {
+        {
             "title": "Lucky Fortune Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/lucky-fortune-restaurant-auckland"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lucky-fortune-restaurant-auckland"
                 }
             ],
             "lat": -36.909337,
@@ -165,5 +144,4 @@
             "address": "532-536 Mt Albert Rd"
         }
     ]
-    
 }

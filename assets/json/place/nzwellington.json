@@ -1,15 +1,12 @@
 {
     "name": "Wellington",
-    "places": 
-    [
-       
+    "places": [
         {
             "title": "Big Thumb Chinese Restaurant",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://www.bigthumbchineserestaurant.co.nz"
+                    "name": "site",
+                    "URL": "https://www.bigthumbchineserestaurant.co.nz"
                 }
             ],
             "lat": -41.292890,
@@ -19,11 +16,10 @@
         },
         {
             "title": "Dragons",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://www.wellingtondragons.co.nz"
+                    "name": "site",
+                    "URL": "https://www.wellingtondragons.co.nz"
                 }
             ],
             "lat": -41.293034,
@@ -33,18 +29,16 @@
         },
         {
             "title": "Majestic Cuisine",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"http://majestic-cuisine.co.nz"
+                    "name": "site",
+                    "URL": "http://majestic-cuisine.co.nz"
                 }
             ],
             "lat": -41.294226,
             "lon": 174.782775,
             "city": "Wellington",
             "address": "11B Courtenay place, Te Aro, Wellington"
-        }               
+        }
     ]
-    
 }

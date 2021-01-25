@@ -1,31 +1,26 @@
 {
     "name": "Taoyuan",
-    "places": 
-    [
-       
+    "places": [
         {
             "title": "Beautiful Life",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taoyuan/r-美生餐室-藝文店-taoyuan-city-guangdong-cuisine-hong-kong-style-r474150"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taoyuan/r-美生餐室-藝文店-taoyuan-city-guangdong-cuisine-hong-kong-style-r474150"
+                }
             ],
             "lat": 25.019980,
             "lon": 121.299030,
             "city": "Taoyuan",
             "address": "桃園區新埔八街36號"
         },
-
         {
             "title": "Dim Sum Master",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taoyuan/r-dim-sum-master-taoyuan-city-guangdong-cuisine-hong-kong-style-fine-dining-r422630"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taoyuan/r-dim-sum-master-taoyuan-city-guangdong-cuisine-hong-kong-style-fine-dining-r422630"
+                }
             ],
             "lat": 24.966000,
             "lon": 121.204060,
@@ -34,12 +29,11 @@
         },
         {
             "title": "Fullon Hotel Tea House",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taoyuan/r-桃園福容大飯店-阿基師藝文茶樓-taoyuan-city-guangdong-cuisine-hong-kong-style-taiwanese-snacks-r227371"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taoyuan/r-桃園福容大飯店-阿基師藝文茶樓-taoyuan-city-guangdong-cuisine-hong-kong-style-taiwanese-snacks-r227371"
+                }
             ],
             "lat": 25.013870,
             "lon": 121.303230,
@@ -48,12 +42,11 @@
         },
         {
             "title": "Jia Dahong Hong Kong Dim Sum",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taoyuan/r-甲大鴻港式飲茶宴會廣場-taoyuan-city-guangdong-cuisine-hong-kong-style-r161949"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taoyuan/r-甲大鴻港式飲茶宴會廣場-taoyuan-city-guangdong-cuisine-hong-kong-style-r161949"
+                }
             ],
             "lat": 25.022670,
             "lon": 121.314140,
@@ -62,12 +55,11 @@
         },
         {
             "title": "Point One",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taoyuan/r-點壹籠茶餐廳-taoyuan-city-guangdong-cuisine-hong-kong-style-r439858"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taoyuan/r-點壹籠茶餐廳-taoyuan-city-guangdong-cuisine-hong-kong-style-r439858"
+                }
             ],
             "lat": 24.966000,
             "lon": 121.204060,
@@ -76,12 +68,11 @@
         },
         {
             "title": "Ruby Hong Kong Dim Sum",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taoyuan/r-紅寶石港式飲茶-taoyuan-city-guangdong-cuisine-hong-kong-style-chinese-noodles-r160803"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taoyuan/r-紅寶石港式飲茶-taoyuan-city-guangdong-cuisine-hong-kong-style-chinese-noodles-r160803"
+                }
             ],
             "lat": 24.989790,
             "lon": 121.292490,
@@ -90,12 +81,11 @@
         },
         {
             "title": "Star on Star",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taoyuan/r-星上星港式飲茶-taoyuan-city-guangdong-cuisine-hong-kong-style-chinese-desserts-r163959"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taoyuan/r-星上星港式飲茶-taoyuan-city-guangdong-cuisine-hong-kong-style-chinese-desserts-r163959"
+                }
             ],
             "lat": 25.022380,
             "lon": 121.303330,
@@ -103,5 +93,4 @@
             "address": "桃園區經國路288號"
         }
     ]
-    
 }

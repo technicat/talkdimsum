@@ -1,31 +1,26 @@
 {
     "name": "Selangor",
-    "places": 
-    [
-        
+    "places": [
         {
             "title": "Santai Yumcha",
-            "links":
-            [
-            {
-                "name":"OpenRice",
-                "URL":"https://my.openrice.com/en/klangvalley/r-santai-yamcha-gombak-malaysian-variety-dim-sum-r622632"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/klangvalley/r-santai-yamcha-gombak-malaysian-variety-dim-sum-r622632"
+                }
             ],
             "lat": 3.210660,
             "lon": 101.748440,
             "city": "Gombak",
             "address": "L3-06, Level 3, Melawati Mall, Jalan Sabah, Taman Melawati"
         },
-
         {
             "title": "Foo Hing Dim Sum House",
-            "links":
-            [
-            {
-                "name":"OpenRice",
-                "URL":"https://my.openrice.com/en/klangvalley/r-foo-hing-dim-sum-house-restaurant-bandar-puteri-chinese-dim-sum-r2570"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/klangvalley/r-foo-hing-dim-sum-house-restaurant-bandar-puteri-chinese-dim-sum-r2570"
+                }
             ],
             "lat": 3.022163,
             "lon": 101.617251,
@@ -33,5 +28,4 @@
             "address": "49, Jalan Puteri 2/3"
         }
     ]
-    
 }

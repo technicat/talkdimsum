@@ -1,20 +1,17 @@
 {
     "name": "Kedah",
-    "places": 
-    [
-        
+    "places": [
         {
             "title": "Dai You Bin Restaurant",
-            "links":
-            [
-            {
-                "name":"OpenRice",
-                "URL":"https://my.openrice.com/en/kedah/r-dai-you-bin-restaurant-sungai-petani-chinese-dim-sum-r315760"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dai-you-bin-restaurant-sungai-petani"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/kedah/r-dai-you-bin-restaurant-sungai-petani-chinese-dim-sum-r315760"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dai-you-bin-restaurant-sungai-petani"
+                }
             ],
             "lat": 5.636417,
             "lon": 100.473028,
@@ -23,16 +20,15 @@
         },
         {
             "title": "Koek Kee",
-            "links":
-            [
-            {
-                "name":"OpenRice",
-                "URL":"https://my.openrice.com/en/kedah/r-restoran-koek-kee-sungai-petani-chinese-dim-sum-r174520"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/koek-kee-sungai-petani"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/kedah/r-restoran-koek-kee-sungai-petani-chinese-dim-sum-r174520"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/koek-kee-sungai-petani"
+                }
             ],
             "lat": 5.640733,
             "lon": 100.487910,
@@ -41,16 +37,15 @@
         },
         {
             "title": "Ming Xuan Dim Sum Restaurant",
-            "links":
-            [
-            {
-                "name":"OpenRice",
-                "URL":"https://my.openrice.com/en/kedah/r-ming-xuan-dim-sum-restaurant-sungai-petani-chinese-dim-sum-r593099"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/ming-xuan-dim-sum-sungai-petani"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/kedah/r-ming-xuan-dim-sum-restaurant-sungai-petani-chinese-dim-sum-r593099"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ming-xuan-dim-sum-sungai-petani"
+                }
             ],
             "lat": 5.624074,
             "lon": 100.504252,
@@ -59,16 +54,15 @@
         },
         {
             "title": "Harbour Palace Resetaurant",
-            "links":
-            [
-            {
-                "name":"OpenRice",
-                "URL":"https://my.openrice.com/en/kedah/r-harbour-palace-restaurant-sungai-petani-chinese-r536739"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/restoran-harbour-palace-sungai-petani"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/kedah/r-harbour-palace-restaurant-sungai-petani-chinese-r536739"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/restoran-harbour-palace-sungai-petani"
+                }
             ],
             "lat": 5.664169,
             "lon": 100.502924,
@@ -76,5 +70,4 @@
             "address": "No.256&256, Jalan Legenda 10, Legenda Heights"
         }
     ]
-    
 }

@@ -1,18 +1,16 @@
 {
     "name": "Lazio",
-    "places": 
-    [
+    "places": [
         {
             "title": "Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
-                    "URL":"http://dimsumroma.it"
+                    "name": "site",
+                    "URL": "http://dimsumroma.it"
                 },
                 {
-                    "name":"Yelp",
-                    "URL":"https://www.yelp.com/biz/dim-sum-roma"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-roma"
                 }
             ],
             "lat": 41.910752,
@@ -20,6 +18,5 @@
             "city": "Rome",
             "address": "Via Otranto 13 00192"
         }
- ]
-    
+    ]
 }

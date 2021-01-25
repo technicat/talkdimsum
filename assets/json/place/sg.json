@@ -1,12 +1,9 @@
-
 {
-	"name":"Singapore",
-	"regions":
-	[
+	"name": "Singapore",
+	"regions": [
 		"sgcentral",
 		"sgeast",
 		"sgnorth",
 		"sgwest"
- 	]
+	]
 }
-

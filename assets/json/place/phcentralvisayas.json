@@ -1,21 +1,18 @@
 {
     "name": "Central Visayas",
-    "places": 
-    [
-    {
+    "places": [
+        {
             "title": "Dim Sum Break (IT Park)",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://harbourcitydimsum.com"
+                    "name": "site",
+                    "URL": "https://harbourcitydimsum.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dimsum-break-cebu-city-2"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-break-cebu-city-2"
                 }
-                ],
-
+            ],
             "lat": 10.329412,
             "lon": 123.906520,
             "city": "Cebu City",
@@ -23,18 +20,16 @@
         },
         {
             "title": "Dim Sum Break",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://harbourcitydimsum.com"
+                    "name": "site",
+                    "URL": "https://harbourcitydimsum.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dimsum-break-sm-city-cebu-cebu-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-break-sm-city-cebu-cebu-city"
                 }
-                ],
-
+            ],
             "lat": 10.311780,
             "lon": 123.916408,
             "city": "Cebu City",
@@ -42,33 +37,29 @@
         },
         {
             "title": "Dim Sum Break (Pavilion Mall)",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://harbourcitydimsum.com"
+                    "name": "site",
+                    "URL": "https://harbourcitydimsum.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dimsum-break-cebu-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-break-cebu-city"
                 }
-                ],
-
+            ],
             "lat": 10.306030,
             "lon": 123.875126,
             "city": "Cebu City",
             "address": "7 R. Duterte Street G/F, One Pavilion Mall"
         },
-          {
+        {
             "title": "Harbour City Dim Sum House",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/harbour-city-dimsum-house-cebu-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/harbour-city-dimsum-house-cebu-city"
                 }
-                ],
-
+            ],
             "lat": 10.318139,
             "lon": 123.904624,
             "city": "Cebu City",
@@ -76,14 +67,12 @@
         },
         {
             "title": "Harbour City Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/harbour-city-dim-sum-cebu-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/harbour-city-dim-sum-cebu-city"
                 }
-                ],
-
+            ],
             "lat": 10.324792,
             "lon": 123.908327,
             "city": "Cebu City",
@@ -91,14 +80,12 @@
         },
         {
             "title": "Luy's Classic Tea House",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/luys-classic-tea-house-cebu-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/luys-classic-tea-house-cebu-city"
                 }
-                ],
-
+            ],
             "lat": 10.313848,
             "lon": 123.917477,
             "city": "Cebu City",
@@ -106,18 +93,16 @@
         },
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"http://www.timhowan.com"
+                    "name": "site",
+                    "URL": "http://www.timhowan.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/tim-ho-wan-cebu-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tim-ho-wan-cebu-city"
                 }
-                ],
-
+            ],
             "lat": 10.260475,
             "lon": 123.872243,
             "city": "Cebu City",
@@ -125,39 +110,33 @@
         },
         {
             "title": "Tin Gow",
-            "links":
-            [
+            "links": [
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/tin-gow-cebu-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tin-gow-cebu-city"
                 }
-                ],
-
+            ],
             "lat": 10.324153,
             "lon": 123.906386,
             "city": "Cebu City",
             "address": "Waterfront Drive Waterfront Hotel and Resort"
         },
-
-         {
+        {
             "title": "Dim Sum Break",
-            "links":
-            [
+            "links": [
                 {
-                "name":"site",
-                "URL":"https://harbourcitydimsum.com"
+                    "name": "site",
+                    "URL": "https://harbourcitydimsum.com"
                 },
                 {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/dimsum-break-mandaue-city"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-break-mandaue-city"
                 }
-                ],
-
+            ],
             "lat": 10.313753,
             "lon": 123.925041,
             "city": "Mandue City",
             "address": "Enclave Building Ouano Avenue"
         }
     ]
-    
 }

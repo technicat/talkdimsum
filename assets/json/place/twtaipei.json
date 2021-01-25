@@ -1,15 +1,13 @@
 {
     "name": "Taipei",
-    "places": 
-    [
+    "places": [
         {
             "title": "1976 Authentic Hong Kong Cuisine",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/1976道地香港美食-大安區"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/1976道地香港美食-大安區"
+                }
             ],
             "lat": 25.040510,
             "lon": 121.549970,
@@ -18,16 +16,15 @@
         },
         {
             "title": "Changiu",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://常聚.tw"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/常聚-大安區-2"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://常聚.tw"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/常聚-大安區-2"
+                }
             ],
             "lat": 25.038230,
             "lon": 121.544880,
@@ -36,16 +33,15 @@
         },
         {
             "title": "Citystar Hong Kong Style Dim Sum",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.citystar.com.tw/about02.php"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/京星港式飲茶-大安區"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.citystar.com.tw/about02.php"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/京星港式飲茶-大安區"
+                }
             ],
             "lat": 25.040550,
             "lon": 121.552830,
@@ -54,12 +50,11 @@
         },
         {
             "title": "Jingxing Hong Kong Dim Sum Part 2",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-京星港式飲茶part2-daan-district-guangdong-cuisine-hong-kong-style-r79978"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-京星港式飲茶part2-daan-district-guangdong-cuisine-hong-kong-style-r79978"
+                }
             ],
             "lat": 25.0412922,
             "lon": 121.5505724,
@@ -68,89 +63,76 @@
         },
         {
             "title": "Social Place",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-socialplace-daan-district-guangdong-cuisine-hong-kong-style-r470042"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-socialplace-daan-district-guangdong-cuisine-hong-kong-style-r470042"
+                }
             ],
             "lat": 25.0445456,
             "lon": 121.550144,
             "city": "Da'an District",
             "address": "大安區市民大道四段102號1樓"
         },
-         {
+        {
             "title": "Sweet Dynasty",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-the-sweet-dynasty-daan-district-guangdong-cuisine-hong-kong-style-chinese-noodles-r84412"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-the-sweet-dynasty-daan-district-guangdong-cuisine-hong-kong-style-chinese-noodles-r84412"
+                }
             ],
             "lat": 25.04167,
             "lon": 121.55168,
             "city": "Da'an District",
             "address": "大安區忠孝東路四段197號2樓"
         },
-         {
+        {
             "title": "Three Coins Cantonese Restaurant",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-three-coins-cantonese-restaurant-zhongzheng-district-guangdong-cuisine-hong-kong-style-r15013"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-three-coins-cantonese-restaurant-zhongzheng-district-guangdong-cuisine-hong-kong-style-r15013"
+                }
             ],
             "lat": 25.0422055,
             "lon": 121.5122116,
             "city": "Da'an District",
             "address": "中正區衡陽路46號"
         },
-        
-      
-         {
+        {
             "title": "Grand Prince Hotel",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-台北君品酒店-頤宮中餐廳-datong-district-guangdong-cuisine-hong-kong-style-fine-dining-r153701"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-台北君品酒店-頤宮中餐廳-datong-district-guangdong-cuisine-hong-kong-style-fine-dining-r153701"
+                }
             ],
             "lat": 25.0494562,
             "lon": 121.5168704,
             "city": "Datong District",
             "address": "大同區承德路一段3號17樓"
         },
-      
-       
-        
         {
             "title": "Longdu Restaurant",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/龍都酒樓-內湖區"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/龍都酒樓-內湖區"
+                }
             ],
             "lat": 25.058650,
             "lon": 121.580120,
             "city": "Neihu District",
             "address": "No. 58, Section 1, Jiuzong Road 舊宗路一段58號 Neihu District, 台北市 114 Taiwan"
         },
-
-
         {
             "title": "Fight Fresh Dim Sum",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-爭鮮点心道-wanhua-district-guangdong-cuisine-hong-kong-style-r445983"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-爭鮮点心道-wanhua-district-guangdong-cuisine-hong-kong-style-r445983"
+                }
             ],
             "lat": 25.042735,
             "lon": 121.5079902,
@@ -159,29 +141,24 @@
         },
         {
             "title": "Newport Tea Restaurant",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-xinkong-cha-restaurant-wanhua-district-guangdong-cuisine-hong-kong-style-r16135"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-xinkong-cha-restaurant-wanhua-district-guangdong-cuisine-hong-kong-style-r16135"
+                }
             ],
             "lat": 25.0436289,
             "lon": 121.507094,
             "city": "Wanhua District",
             "address": "萬華區漢中街52號7樓"
         },
-
-       
-       
         {
             "title": "Dim Dim Sum",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/點點心-信義區"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/點點心-信義區"
+                }
             ],
             "lat": 25.040550,
             "lon": 121.583250,
@@ -190,12 +167,11 @@
         },
         {
             "title": "Canton 12",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-canton12-xinyi-district-guangdong-cuisine-hong-kong-style-stir-fry-r489509"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-canton12-xinyi-district-guangdong-cuisine-hong-kong-style-stir-fry-r489509"
+                }
             ],
             "lat": 25.0339639,
             "lon": 121.5644722,
@@ -204,12 +180,11 @@
         },
         {
             "title": "Hang's Cafe",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/恆之茶居-信義區-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/恆之茶居-信義區-2"
+                }
             ],
             "lat": 25.044740,
             "lon": 121.561110,
@@ -218,24 +193,23 @@
         },
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.timhowan.com.tw"
-            },
-            {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-添好運-台北信義店-xinyi-district-guangdong-cuisine-hong-kong-style-chinese-desserts-r321524"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/添好運-信義區"
-            },
-            {
-                "name":"Wikipedia",
-                "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.timhowan.com.tw"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-添好運-台北信義店-xinyi-district-guangdong-cuisine-hong-kong-style-chinese-desserts-r321524"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/添好運-信義區"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
             ],
             "lat": 25.0388997,
             "lon": 121.5667359,
@@ -244,40 +218,36 @@
         },
         {
             "title": "Tim Ho Wan (CITYLINK)",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.timhowan.com.tw"
-            },
-            {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-添好運-松山車站店-xinyi-district-guangdong-cuisine-hong-kong-style-chinese-desserts-r477871"
-            },
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/添好運-信義區"
-            },
-            {
-                "name":"Wikipedia",
-                "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.timhowan.com.tw"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-添好運-松山車站店-xinyi-district-guangdong-cuisine-hong-kong-style-chinese-desserts-r477871"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/添好運-信義區"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
             ],
             "lat": 25.0491901,
             "lon": 121.5782994,
             "city": "Xinyi District",
             "address": "信義區松山路11號2樓(CITYLINK松山壹號店)"
         },
-
-          
         {
             "title": "Dim Dim Sum",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/點點心-中正區"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/點點心-中正區"
+                }
             ],
             "lat": 25.028160,
             "lon": 121.512740,
@@ -286,12 +256,11 @@
         },
         {
             "title": "Golden Dragon Restaurant",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/金龍廳-中山區-2"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/金龍廳-中山區-2"
+                }
             ],
             "lat": 25.081020,
             "lon": 121.528170,
@@ -300,12 +269,11 @@
         },
         {
             "title": "Good Star Hong Kong Dim Sum",
-            "links":
-            [
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-吉星港式飲茶-zhongshan-district-guangdong-cuisine-hong-kong-style-taiwanese-snacks-r60102"
-            }
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-吉星港式飲茶-zhongshan-district-guangdong-cuisine-hong-kong-style-taiwanese-snacks-r60102"
+                }
             ],
             "lat": 25.051941,
             "lon": 121.525779,
@@ -314,12 +282,11 @@
         },
         {
             "title": "Hung Hom New Dim Sum",
-            "links":
-            [
-             {
-                "name":"Yelp",
-                "URL":"https://tw.openrice.com/en/taipei/r-紅磡新飲茶-zhongshan-district-guangdong-cuisine-hong-kong-style-r460162"
-            }
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://tw.openrice.com/en/taipei/r-紅磡新飲茶-zhongshan-district-guangdong-cuisine-hong-kong-style-r460162"
+                }
             ],
             "lat": 25.0544804,
             "lon": 121.5255759,
@@ -328,24 +295,23 @@
         },
         {
             "title": "Tim Ho Wan (HoyII)",
-            "links":
-            [
-             {
-                "name":"site",
-                "URL":"http://www.timhowan.com.tw"
-            },
-             {
-                "name":"OpenRice",
-                "URL":"https://tw.openrice.com/en/taipei/r-添好運-hoyii北車站店-zhongzheng-district-guangdong-cuisine-hong-kong-style-chinese-desserts-r306680"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/添好運-中正區"
-            },
-            {
-                "name":"Wikipedia",
-                "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-            }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.timhowan.com.tw"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://tw.openrice.com/en/taipei/r-添好運-hoyii北車站店-zhongzheng-district-guangdong-cuisine-hong-kong-style-chinese-desserts-r306680"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/添好運-中正區"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
             ],
             "lat": 25.0461201,
             "lon": 121.5169407,
@@ -353,5 +319,4 @@
             "address": "中正區忠孝西路一段36號 (HOYII和億生活商場)"
         }
     ]
-    
 }

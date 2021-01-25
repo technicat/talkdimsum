@@ -1,34 +1,27 @@
 {
     "name": "East",
-    "places": 
-    [
-
+    "places": [
         {
             "title": "Canton Paradise",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-canton-paradise-bedok-cantonese-hong-kong-dim-sum-r103010"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-canton-paradise-bedok-cantonese-hong-kong-dim-sum-r103010"
+                }
+            ],
             "lat": 1.324960,
             "lon": 103.929322,
             "city": "Bedok",
             "address": "Bedok Mall, 311 New Upper Changi Road #B2-10/11, 467360"
         },
-
         {
             "title": "Imperial Treasure",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-imperial-treasure-cantonese-cuisine-changi-cantonese-hong-kong-dim-sum-r8904"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-imperial-treasure-cantonese-cuisine-changi-cantonese-hong-kong-dim-sum-r8904"
+                }
+            ],
             "lat": 1.358784,
             "lon": 103.987875,
             "city": "Changi",
@@ -36,37 +29,33 @@
         },
         {
             "title": "Le Xuan Hong Kong Tim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-le-xuan-hong-kong-tim-sum-changi-cantonese-hong-kong-chinese-desserts-r11216"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-le-xuan-hong-kong-tim-sum-changi-cantonese-hong-kong-chinese-desserts-r11216"
+                }
+            ],
             "lat": 1.388503,
-            "lon":  103.986931,
+            "lon": 103.986931,
             "city": "Changi",
             "address": "5 Changi Village Road #01-2055, 500005"
         },
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-changi-cantonese-hong-kong-dim-sum-r161991"
-                    },
-                    {
-                        "name":"Wikipedia",
-                        "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-changi-cantonese-hong-kong-dim-sum-r161991"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
             "lat": 1.360153,
             "lon": 103.989050,
             "city": "Changi",
@@ -74,14 +63,12 @@
         },
         {
             "title": "Treasures Yi Dian Xin",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-treasures-yi-dian-xin-changi-cantonese-hong-kong-dim-sum-r157933"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-treasures-yi-dian-xin-changi-cantonese-hong-kong-dim-sum-r157933"
+                }
+            ],
             "lat": 1.337295,
             "lon": 103.982908,
             "city": "Changi",
@@ -89,46 +76,38 @@
         },
         {
             "title": "Yum Cha",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-yum-cha-changi-cantonese-hong-kong-dim-sum-r91083"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-yum-cha-changi-cantonese-hong-kong-dim-sum-r91083"
+                }
+            ],
             "lat": 1.335432,
             "lon": 103.963829,
             "city": "Changi",
             "address": "UE Bizhub EAST, 6 Changi Business Park Ave 1, #01-33, 486017,"
         },
-
         {
             "title": "Mongkok Kitchen",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-mongkok-kitchen-east-coast-park-cantonese-hong-kong-dim-sum-r52222"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-mongkok-kitchen-east-coast-park-cantonese-hong-kong-dim-sum-r52222"
+                }
+            ],
             "lat": 1.307232,
             "lon": 103.906445,
             "city": "East Coast Park",
             "address": "197 East Coast Road, 428901"
         },
-
         {
             "title": "Hong Kee Pau",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-ho-kee-pau-geylang-dim-sum-r22620"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-ho-kee-pau-geylang-dim-sum-r22620"
+                }
+            ],
             "lat": 1.3154078,
             "lon": 103.8836262,
             "city": "Geylang",
@@ -136,14 +115,12 @@
         },
         {
             "title": "Mongkok Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-mongkok-dim-sum-geylang-cantonese-hong-kong-dim-sum-r8404"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-mongkok-dim-sum-geylang-cantonese-hong-kong-dim-sum-r8404"
+                }
+            ],
             "lat": 1.311965,
             "lon": 103.876828,
             "city": "Geylang",
@@ -151,14 +128,12 @@
         },
         {
             "title": "Shi Wei Xian Hong Kong Tim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-shi-wei-xian-hong-kong-tim-sum-geylang-cantonese-hong-kong-dim-sum-r12638"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-shi-wei-xian-hong-kong-tim-sum-geylang-cantonese-hong-kong-dim-sum-r12638"
+                }
+            ],
             "lat": 1.319935,
             "lon": 103.886717,
             "city": "Geylang",
@@ -166,14 +141,12 @@
         },
         {
             "title": "Tim Sum - Aljunied 119 Food House",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-sum-aljunied-119-food-house-geylang-dim-sum-r12675"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-sum-aljunied-119-food-house-geylang-dim-sum-r12675"
+                }
+            ],
             "lat": 1.319206,
             "lon": 103.886377,
             "city": "Geylang",
@@ -181,116 +154,97 @@
         },
         {
             "title": "Wen Dou Sek",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-126-wen-dou-sek-geylang-cantonese-hong-kong-dim-sum-r10707"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-126-wen-dou-sek-geylang-cantonese-hong-kong-dim-sum-r10707"
+                }
+            ],
             "lat": 1.314065,
             "lon": 103.878409,
             "city": "Geylang",
             "address": "126 Sims Avenue, 387449"
         },
-
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-kallang-cantonese-hong-kong-dim-sum-r98428"
-                    },
-                    {
-                        "name":"Wikipedia",
-                        "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-kallang-cantonese-hong-kong-dim-sum-r98428"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
             "lat": 1.309726,
-            "lon":  103.863897,
+            "lon": 103.863897,
             "city": "Kailang",
             "address": "Aperia, 12 Kallang Ave, #01-01/02/03, 339511"
         },
-       
         {
             "title": "Canton Paradise",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-canton-paradise-katong-cantonese-hong-kong-dim-sum-r24899"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-canton-paradise-katong-cantonese-hong-kong-dim-sum-r24899"
+                }
+            ],
             "lat": 1.305328,
-            "lon":  103.905038,
+            "lon": 103.905038,
             "city": "Katong",
             "address": "I12 Katong, 112 East Coast Road #B1-15, 428802"
         },
         {
             "title": "Tim Ho Wan",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"site",
+                    "name": "site",
                     "URL": "http://timhowan.com"
                 },
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-tim-ho-wan-katong-cantonese-hong-kong-dim-sum-r135745"
-                    },
-                    {
-                        "name":"Wikipedia",
-                        "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-tim-ho-wan-katong-cantonese-hong-kong-dim-sum-r135745"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
             "lat": 1.305328,
-            "lon":  103.905065,
+            "lon": 103.905065,
             "city": "Katong",
             "address": "112 East Coast Road #01-04, I12 Katong, 428802"
         },
-
         {
             "title": "Imperial Treasure",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-imperial-treasure-nan-bei-restaurant-tampines-cantonese-hong-kong-dim-sum-r3721"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-imperial-treasure-nan-bei-restaurant-tampines-cantonese-hong-kong-dim-sum-r3721"
+                }
+            ],
             "lat": 1.354158,
             "lon": 103.945198,
             "city": "Tampines",
             "address": "Tampines 1, 10 Tampines Central 1 #02-04, 529536"
         },
-
         {
             "title": "Yi Dian Xin Hong Kong Dim Sum",
-            "links":
-            [
+            "links": [
                 {
-                    "name":"OpenRice",
-                    "URL":"https://sg.openrice.com/en/singapore/r-yi-dian-xin-hong-kong-dim-sum-teo-seng-eating-house-upper-serangoon-dim-sum-r53714"
-                    }
-                ],
-
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-yi-dian-xin-hong-kong-dim-sum-teo-seng-eating-house-upper-serangoon-dim-sum-r53714"
+                }
+            ],
             "lat": 1.362576,
             "lon": 103.888020,
             "city": "Upper Serangoon",
             "address": " 1012 Upper Serangoon Road, 534750"
         }
-
-      
     ]
-    
 }
