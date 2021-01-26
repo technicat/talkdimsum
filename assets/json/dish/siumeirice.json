@@ -55,5 +55,54 @@
                 "URL": "https://themissinglokness.com/2014/04/23/cantonese-style-bbq-pork-over-rice/"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "燒肉飯",
+                "Simplified": "烧肉饭",
+                "English": "pork belly rice",
+                "Yale": "sīu yuhk",
+                "Pinyin": "shāo ròu",
+                "Resources": [
+                    {
+                        "name": "燒肉",
+                        "URL": "https://en.wiktionary.org/wiki/燒肉"
+                    },
+                    {
+                        "name": "燒",
+                        "URL": "https://en.wiktionary.org/wiki/燒"
+                    },
+                    {
+                        "name": "肉",
+                        "URL": "https://en.wiktionary.org/wiki/肉"
+                    },
+                    {
+                        "name": "飯",
+                        "URL": "https://en.wiktionary.org/wiki/飯"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "porkbellyricebbqking",
+                "place": "BBQ King, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Crispy pork belly served on steamed rice.\n\n燒肉 is “pork belly” (literally “roasted meat”), and 飯 is “rice,” so it's ”pork belly rice.”",
+        "Tags": [
+            "茶餐廳",
+            "燒肉",
+            "燒味",
+            "飯",
+            "白飯"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/pork-belly-on-rice/"
+            }
+        ]
     }
 ]
