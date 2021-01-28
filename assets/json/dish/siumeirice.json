@@ -62,8 +62,8 @@
                 "Chinese": "燒肉飯",
                 "Simplified": "烧肉饭",
                 "English": "pork belly rice",
-                "Yale": "sīu yuhk",
-                "Pinyin": "shāo ròu",
+                "Yale": "sīu yuhk faahn",
+                "Pinyin": "shāo ròu fàn",
                 "Resources": [
                     {
                         "name": "燒肉",
@@ -102,6 +102,55 @@
             {
                 "name": "Pinterest",
                 "URL": "https://www.pinterest.com/technicat/dim-sum/pork-belly-on-rice/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "烤鴨飯",
+                "Simplified": "烤鸭饭",
+                "English": "roast duck rice",
+                "Yale": "sīu aap faahn",
+                "Pinyin": "shāo yā fàn",
+                "Resources": [
+                    {
+                        "name": "烤鴨",
+                        "URL": "https://en.wiktionary.org/wiki/v"
+                    },
+                    {
+                        "name": "烤",
+                        "URL": "https://en.wiktionary.org/wiki/烤"
+                    },
+                    {
+                        "name": "鴨",
+                        "URL": "https://en.wiktionary.org/wiki/鴨"
+                    },
+                    {
+                        "name": "飯",
+                        "URL": "https://en.wiktionary.org/wiki/飯"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "roastduckricebbqking",
+                "place": "BBQ King, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Crispy pork belly served on steamed rice.\n\n烤鴨 is “roast duck”, and 飯 is “rice,” so it's ”pork belly rice.”",
+        "Tags": [
+            "茶餐廳",
+            "烤鴨",
+            "燒味",
+            "飯",
+            "白飯"
+        ],
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/roast-duck-on-rice/"
             }
         ]
     }
