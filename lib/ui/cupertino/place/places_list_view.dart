@@ -39,14 +39,6 @@ class PlaceRow extends StatelessWidget {
           place.showGoogleMap();
         },
         child: Text('map'));
-    var actions = [share, map];
-    actions.addAll(place.links
-        .map((link) => CupertinoActionSheetAction(
-            onPressed: () {
-              link.goto();
-            },
-            child: Text(link.name)))
-        .toList());
     return CupertinoButton(
         onPressed: () {
           showCupertinoModalPopup(
@@ -54,12 +46,16 @@ class PlaceRow extends StatelessWidget {
               builder: (_) => CupertinoActionSheet(
                   title: Text(place.name),
                   message: Text(place.address),
-                  actions: actions
-                  /* cancelButton: CupertinoActionSheetAction(
-                        onPressed: () {
-                         // Navigator.pop(context);
-                        },
-                        child: Text('Cancel')*/
+                  actions: [
+                    share,
+                    map,
+                    ...place.links
+        .map((link) => CupertinoActionSheetAction(
+            onPressed: () {
+              link.goto();
+            },
+            child: Text(link.name)))
+        .toList()
                   ));
         },
         child: PlaceWidget(place: place));
