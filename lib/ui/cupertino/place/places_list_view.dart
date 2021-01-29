@@ -15,9 +15,9 @@ class PlacesListView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView(
-                children: region.places
-                    .map((place) => PlaceRow(region: region, place: place))
-                    .toList());
+        children: region.places
+            .map((place) => PlaceRow(region: region, place: place))
+            .toList());
   }
 }
 
@@ -44,19 +44,17 @@ class PlaceRow extends StatelessWidget {
           showCupertinoModalPopup(
               context: context,
               builder: (_) => CupertinoActionSheet(
-                  title: Text(place.name),
-                  message: Text(place.address),
-                  actions: [
-                    share,
-                    map,
-                    ...place.links
-        .map((link) => CupertinoActionSheetAction(
-            onPressed: () {
-              link.goto();
-            },
-            child: Text(link.name)))
-        .toList()
-                  ));
+                      title: Text(place.name),
+                      message: Text(place.address),
+                      actions: [
+                        share,
+                        map,
+                        ...place.links.map((link) => CupertinoActionSheetAction(
+                            onPressed: () {
+                              link.goto();
+                            },
+                            child: Text(link.name)))
+                      ]));
         },
         child: PlaceWidget(place: place));
   }
