@@ -26,7 +26,7 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
       return Scaffold(
           appBar: AppBar(
               title: phrases == null ? Text('') : Text(phrases.name),
-              actions: <Widget>[
+              actions: [
                 PopupMenuButton<Phrases>(
                   icon: Icon(Icons.menu),
                   onSelected: (value) {

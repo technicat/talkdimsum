@@ -9,9 +9,8 @@ class SpeedSlider extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<Settings>(builder: (context, settings, child) {
       return Row(mainAxisAlignment: MainAxisAlignment.center, children: [
-       // Icon(Icons.tortoise),
+        // Icon(Icons.tortoise),
         Slider(
-          
           min: 0.1,
           max: 1.9,
           value: settings.speed,
@@ -19,7 +18,7 @@ class SpeedSlider extends StatelessWidget {
             settings.speed = value;
           },
         ),
-      //  Icon(CupertinoIcons.hare)
+        //  Icon(CupertinoIcons.hare)
       ]);
     });
   }

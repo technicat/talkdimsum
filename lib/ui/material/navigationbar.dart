@@ -32,7 +32,7 @@ class NavigationBarState extends State<NavigationBar> {
     return Scaffold(
       body: _widgetOptions.elementAt(_selectedIndex),
       bottomNavigationBar: BottomNavigationBar(
-        items: <BottomNavigationBarItem>[
+        items: [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Dishes'),
           BottomNavigationBarItem(
               icon: Icon(Icons.chat_bubble_outline), label: 'Phrases'),

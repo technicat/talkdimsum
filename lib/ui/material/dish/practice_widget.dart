@@ -23,11 +23,11 @@ class PracticeWidget extends StatelessWidget {
         body: Column(children: <Widget>[
           LanguageDropdown(),
           SpeedSlider(),
-          PlayButton(word:word),
+          PlayButton(word: word),
           ChineseText(word: word),
-          PronounceText(word:word),
-           Spacer(),
-          STTWidget(word:word)
+          PronounceText(word: word),
+          Spacer(),
+          STTWidget(word: word)
         ]));
   }
 }

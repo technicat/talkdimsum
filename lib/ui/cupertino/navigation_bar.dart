@@ -13,7 +13,7 @@ class NavigationBar extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoTabScaffold(
         tabBar: CupertinoTabBar(
-          items: <BottomNavigationBarItem>[
+          items: [
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.home), label: 'Dishes'),
             BottomNavigationBarItem(

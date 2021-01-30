@@ -23,7 +23,7 @@ class PracticeWidget extends StatelessWidget {
         navigationBar: CupertinoNavigationBar(middle: Text('${word.english}')),
         child: SafeArea(
             child: Center(
-                child: Column(children: <Widget>[
+                child: Column(children: [
           LanguageSegmentControl(),
           Spacer(),
           SpeedSlider(),
@@ -31,7 +31,7 @@ class PracticeWidget extends StatelessWidget {
           ChineseText(word: word),
           PronounceText(word: word),
           Spacer(),
-          STTWidget(word:word)
+          STTWidget(word: word)
         ]))));
   }
 }

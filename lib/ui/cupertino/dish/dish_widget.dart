@@ -14,7 +14,7 @@ class DishWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(children: <Widget>[
+    return Column(children: [
       DishTapImageWidget(dish: dish),
       WordWidget(word: dish.word),
       Expanded(child: DishDescriptionWidget(dish: dish)),
@@ -22,4 +22,3 @@ class DishWidget extends StatelessWidget {
     ]);
   }
 }
-

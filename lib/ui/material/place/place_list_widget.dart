@@ -49,18 +49,18 @@ class PlaceTile extends StatelessWidget {
           }
         },
         itemBuilder: (BuildContext context) {
-          var menu = [];
-          menu.add(PopupMenuItem<String>(
-            value: 'map',
-            child: Text('map'),
-          ));
-          menu.add(PopupMenuItem<String>(
-            value: 'share',
-            child: Text('share'),
-          ));
-          menu.addAll(place.links.map((link) =>
-              PopupMenuItem<String>(value: link.url, child: Text(link.name))));
-          return menu;
+          return [
+            PopupMenuItem<String>(
+              value: 'map',
+              child: Text('map'),
+            ),
+            PopupMenuItem<String>(
+              value: 'share',
+              child: Text('share'),
+            ),
+            ...place.links.map((link) =>
+                PopupMenuItem<String>(value: link.url, child: Text(link.name)))
+          ];
         },
         child: PlaceCityTile(place: place));
   }

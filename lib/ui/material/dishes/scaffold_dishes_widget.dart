@@ -41,7 +41,7 @@ class ScaffoldDishesWidget extends StatelessWidget {
         child: ListView(
           // Important: Remove any padding from the ListView.
           padding: EdgeInsets.zero,
-          children: <Widget>[
+          children: [
             DrawerHeader(
               child: Image.asset('assets/images/icon/catgraphic.png'),
             ),

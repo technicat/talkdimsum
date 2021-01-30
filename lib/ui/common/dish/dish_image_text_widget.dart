@@ -11,7 +11,7 @@ class DishImageTextWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(children: <Widget>[
+    return Column(children: [
       DishImageWidget(dish: dish),
       Text('${dish.word.english}',
           textAlign: TextAlign.center,

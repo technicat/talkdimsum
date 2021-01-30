@@ -17,7 +17,7 @@ class WordWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(children: <Widget>[
+    return Column(children: [
       EnglishText(word:word),
       Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: <Widget>[
         PlayButton(word:word),

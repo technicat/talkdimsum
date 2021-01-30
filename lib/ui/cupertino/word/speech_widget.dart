@@ -15,7 +15,7 @@ class SpeechWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: <Widget>[
+        children: [
           PlayButton(word: word),
           ChineseText(word: word),
           PracticeButton(word: word)

@@ -40,11 +40,9 @@ class DishScaffold extends StatelessWidget {
                     launch(value);
                   },
                   itemBuilder: (BuildContext context) {
-                    var menu = [];
-                    menu.addAll(dish.word.resources.map((link) =>
+                    return dish.word.resources.map((link) =>
                         PopupMenuItem<String>(
-                            value: link.url, child: Text(link.name))));
-                    return menu;
+                            value: link.url, child: Text(link.name))).toList();
                   },
                 ),
                 PopupMenuButton<String>(
@@ -65,16 +63,15 @@ class DishScaffold extends StatelessWidget {
                     }
                   },
                   itemBuilder: (BuildContext context) {
-                    var menu = [];
-                    menu.add(PopupMenuItem<String>(
+                    return [
+                    PopupMenuItem<String>(
                       value: 'share',
                       child: Text('share'),
-                    ));
-                    /* menu.addAll(widget.dish.word.resources.map((link) => PopupMenuItem<String>(value: link.URL, child: Text(link.name)))); */
-                    menu.addAll(dish.resources.map((link) =>
+                    ),
+                    ...dish.resources.map((link) =>
                         PopupMenuItem<String>(
-                            value: link.url, child: Text(link.name))));
-                    return menu;
+                            value: link.url, child: Text(link.name)))
+                    ];
                   },
                 )
               ]),
