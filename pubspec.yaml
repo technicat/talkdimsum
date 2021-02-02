@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: ">=2.11.0 <3.0.0"
@@ -52,13 +52,17 @@ dependencies:
 
 dev_dependencies:
   flutter_launcher_icons:
+  flutter_launcher_name:
   integration_test:
     sdk: flutter
 
 flutter_icons:
   android: true 
   ios: true
-  image_path: "assets/images/icon/catgraphic.png"
+  image_path: "icons/if_dim_sum_353267_512.png"
+
+flutter_launcher_name:
+  name: "Talk Dim Sum"
 
 
 # For information on the generic Dart part of this file, see the
