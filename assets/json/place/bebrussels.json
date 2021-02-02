@@ -5,15 +5,36 @@
     "zoom": 7.0,
     "places": [
         {
-            "title": "Dam Sum",
+            "title": "Dam Sum Chatelain",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.damsum.com/"
+                }
+            ],
+            "lat": 50.853100,
+            "lon": 4.347710,
+            "city": "Bruxelles",
+            "address": "Quai au Bois à Brûler 51, 1000 Bruxelles, Belgium"
+        },
+        {
+            "title": "Dam Sum Sainte Catherine",
             "links": [
                 {
                     "name": "site",
                     "URL": "http://www.damsum.com/"
                 },
                 {
+                    "name": "Tripadvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g188644-d8504655-Reviews-Dam_Sum-Brussels.html"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dam-sum-ixelles-3"
+                },
+                {
+                    "name": "S Marks the Spot",
+                    "URL": "https://www.smarksthespots.com/dam-sum-restaurant-brussels/"
                 }
             ],
             "lat": 50.825490,
