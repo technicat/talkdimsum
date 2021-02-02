@@ -27,7 +27,6 @@ dependencies:
     sdk: flutter
   url_launcher:
   provider:
-  flutter_launcher_icons:
   flutter_tts:
   speech_to_text:
   shared_preferences:
@@ -52,6 +51,7 @@ dependencies:
 #  path: "../talk_chinese"
 
 dev_dependencies:
+  flutter_launcher_icons:
   integration_test:
     sdk: flutter
 
