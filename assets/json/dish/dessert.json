@@ -50,5 +50,69 @@
                 "URL": "https://matadornetwork.com/read/sweet-savory-delicious-chinese-desserts/"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "芒果班戟",
+                "English": "mango pancake",
+                "Yale": "mōng gwó bāan kīk",
+                "Pinyin": "máng guǒ bān jǐ",
+                "Resources": [
+                    {
+                        "name": "芒果",
+                        "URL": "https://en.wiktionary.org/wiki/芒果"
+                    },
+                    {
+                        "name": "芒",
+                        "URL": "https://en.wiktionary.org/wiki/芒"
+                    },
+                    {
+                        "name": "果",
+                        "URL": "https://en.wiktionary.org/wiki/果"
+                    },
+                    {
+                        "name": "班戟",
+                        "URL": "https://en.wiktionary.org/wiki/班戟"
+                    },
+                    {
+                        "name": "班",
+                        "URL": "https://en.wiktionary.org/wiki/班"
+                    },
+                    {
+                        "name": "戟",
+                        "URL": "https://en.wiktionary.org/wiki/戟"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "mangopancakesweettalk",
+                "place": "Sweet Talk, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A popular Hong Kong dessert, mango topped with whipped cream and wrapped in a crepe.\n\n芒果 means “mango,” and 班戟 sounds like “pancake” (in Cantonese, at least) so it's “mango pancake” (even though it's not really a pancake).",
+        "Tags": [
+            "港式",
+            "芒果",
+            "班戟",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Hot Thai Kitchen",
+                "URL": "https://hot-thai-kitchen.com/hong-kong-mango-pancake/"
+            },
+            {
+                "name": "Easy Chinese Recipes",
+                "URL": "https://www.easychineserecipes.com/hong-kong-style-mango-pancake/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/mango-pancake/"
+            }
+        ]
     }
 ]
