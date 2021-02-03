@@ -59,7 +59,7 @@ dev_dependencies:
 flutter_icons:
   android: true 
   ios: true
-  image_path: "icons/if_dim_sum_353267_512.png"
+  image_path: "icons/icons8-dim_sum.png"
 
 flutter_launcher_name:
   name: "Talk Dim Sum"

@@ -69,6 +69,12 @@ class ScaffoldDishesWidget extends StatelessWidget {
                 launch('https://github.com/technicat/talkdimsum');
               },
             ),
+             ListTile(
+              title: Text('Icons8'),
+              onTap: () {
+                launch('https://icons8.com/');
+              },
+            ),
           ],
         ),
       ),
