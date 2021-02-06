@@ -36,6 +36,7 @@ dependencies:
   path:
   path_provider:
 #  pedantic:
+  riverpod:
   share:
   bubble:
   flushbar:
