@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'country_widget.dart';
 
-class ScaffoldCountryWidget extends StatelessWidget {
+class CountryScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(

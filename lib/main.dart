@@ -45,7 +45,7 @@ class MainApp extends StatelessWidget {
     }
     return MultiProvider(providers: [
       ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
-      ChangeNotifierProvider<Countries>(create: (context) => Countries()),
+//      ChangeNotifierProvider<Countries>(create: (context) => Countries()),
 //      ChangeNotifierProvider<Conversation>(create: (context) => Conversation()),
       ChangeNotifierProvider<Settings>(create: (context) => Settings()),
       ChangeNotifierProvider<STT>(create: (context) => STT())
