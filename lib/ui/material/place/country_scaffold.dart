@@ -8,12 +8,12 @@ import 'package:talkdimsum/core/provider/countries.dart';
 
 import 'region_list_view.dart';
 
-class ScaffoldCountryWidget extends StatefulWidget {
+class CountryScaffold extends StatefulWidget {
   @override
-  ScaffoldCountryState createState() => ScaffoldCountryState();
+  CountryScaffoldState createState() => CountryScaffoldState();
 }
 
-class ScaffoldCountryState extends State<ScaffoldCountryWidget> {
+class CountryScaffoldState extends State<CountryScaffold> {
   Country country;
 
   @override

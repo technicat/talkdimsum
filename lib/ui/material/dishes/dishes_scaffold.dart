@@ -7,7 +7,7 @@ import 'categories_widget.dart';
 import 'favorite_dishes_widget.dart';
 import 'search_word_scaffold.dart';
 
-class ScaffoldDishesWidget extends StatelessWidget {
+class DishesScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

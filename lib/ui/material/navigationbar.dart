@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 
-import 'dishes/scaffold_dishes_widget.dart';
-import 'place/scaffold_country_widget.dart';
+import 'dishes/dishes_scaffold.dart';
+import 'place/country_scaffold.dart';
 import 'phrase/phrases_scaffold.dart';
 
 class NavigationBar extends StatefulWidget {
@@ -22,9 +22,9 @@ class NavigationBarState extends State<NavigationBar> {
   }
 
   final _widgetOptions = [
-    ScaffoldDishesWidget(),
+    DishesScaffold(),
     PhrasesScaffold(),
-    ScaffoldCountryWidget(),
+    CountryScaffold(),
   ];
 
   @override
