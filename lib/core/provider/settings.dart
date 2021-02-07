@@ -2,9 +2,13 @@
 
 import 'package:flutter/foundation.dart';
 
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:talkdimsum/core/model/language.dart';
+
+final settings = Provider((ref) => Settings());
 
 class Settings with ChangeNotifier {
 

@@ -3,6 +3,8 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import 'package:flutter/foundation.dart' show ChangeNotifier;
 
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
 import 'package:talkdimsum/core/model/country.dart';
 
 class Countries with ChangeNotifier {
@@ -22,3 +24,5 @@ class Countries with ChangeNotifier {
     }
   }
 }
+
+final countries = Provider((ref) => Countries());

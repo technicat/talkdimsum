@@ -10,6 +10,7 @@ import 'dart:io' show Platform;
 
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/provider/conversation.dart';
@@ -21,7 +22,7 @@ import 'ui/cupertino/app.dart' as cupertino;
 import 'ui/material/app.dart' as material;
 
 void main() async {
-  runApp(MainApp());
+  runApp(riverpod.ProviderScope(child: MainApp()));
 }
 
 // wrapper around the native (cupertino or material) versions
@@ -45,7 +46,7 @@ class MainApp extends StatelessWidget {
     return MultiProvider(providers: [
       ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
       ChangeNotifierProvider<Countries>(create: (context) => Countries()),
-      ChangeNotifierProvider<Conversation>(create: (context) => Conversation()),
+//      ChangeNotifierProvider<Conversation>(create: (context) => Conversation()),
       ChangeNotifierProvider<Settings>(create: (context) => Settings()),
       ChangeNotifierProvider<STT>(create: (context) => STT())
     ], child: app);

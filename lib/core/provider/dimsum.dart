@@ -4,6 +4,8 @@ import 'dart:convert'; // json
 import 'package:flutter/foundation.dart' show ChangeNotifier;
 import 'package:flutter/services.dart' show rootBundle;
 
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
 // for favorites
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
@@ -11,6 +13,8 @@ import 'package:sqflite/sqflite.dart';
 import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/model/tags.dart';
 import 'package:talkdimsum/core/model/word.dart';
+
+final dimsum = Provider((ref) => DimSum());
 
 class DimSum with ChangeNotifier {
   final List<Dish> _dishList = [];

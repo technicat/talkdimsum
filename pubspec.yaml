@@ -25,29 +25,32 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  url_launcher:
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons:
+
+  # more stuff
+  cupertino_search:
+    git: 
+      url: git://github.com/technicat/cupertino_search.git
   provider:
+  flutter_riverpod:
   flutter_tts:
-  speech_to_text:
-  shared_preferences:
   material_search:
     git: 
       url: git://github.com/technicat/material_search.git
   path:
   path_provider:
 #  pedantic:
-  riverpod:
   share:
+  shared_preferences:
+  speech_to_text:
   bubble:
   flushbar:
   sprintf:
   sqflite:
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons:
-  cupertino_search:
-    git: 
-      url: git://github.com/technicat/cupertino_search.git
+  url_launcher:
 #  talk_chinese:
 #  path: "../talk_chinese"
 
