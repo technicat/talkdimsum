@@ -7,28 +7,31 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/model/phrases.dart';
 
-final conversation = FutureProvider((ref) async {
+final phrasesProvider = FutureProvider((ref) async {
   var con = Conversation();
-  return con.load();
+  await con._load();
+  return con;
 });
 
 class Conversation with ChangeNotifier {
+
   List<Phrases> phrases = [];
 
-  Future<List<Phrases>> load() async {
-    if (phrases.isNotEmpty) {
-      return phrases;
-    }
-    var categories = await rootBundle
-        .loadString('assets/json/phrases/phrases.json')
-        .then((str) => List<String>.from(jsonDecode(str)));
-    var dishlists = categories.map((filename) =>
-        Phrases.loadPhraseList('assets/json/phrases/' + filename));
-    for (var list in dishlists) {
-      phrases.add(await list);
-     // notifyListeners();
-    }
-    return phrases;
-    // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
+  _load() async {
+    
+   // print("loading phrases...");
+  //  if (phrases.isEmpty) {
+      var categories = await rootBundle
+          .loadString('assets/json/phrases/phrases.json')
+          .then((str) => List<String>.from(jsonDecode(str)));
+      var dishlists = categories.map((filename) =>
+          Phrases.loadPhraseList('assets/json/phrases/' + filename));
+      for (var list in dishlists) {
+        phrases.add(await list);
+        // notifyListeners();
+      }
+      // phrases.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
+  //  }
+   // return phrases;
   }
 }

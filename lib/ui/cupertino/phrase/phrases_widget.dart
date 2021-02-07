@@ -13,12 +13,12 @@ class PhrasesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer(builder: (context, watch, child) {
-      var phrases = watch(conversation);
-      return phrases.map(
+      var  conversation = watch(phrasesProvider);
+      return conversation.map(
           data: (_) {
-            return _.value.isEmpty
+            return _.value.phrases.isEmpty
                 ? CupertinoActivityIndicator()
-                : PhrasesListView(phrases: _.value[0]);
+                : PhrasesListView(phrases: _.value.phrases[0]);
           },
           loading: (_) => CupertinoActivityIndicator(),
           error: (_) => Text(

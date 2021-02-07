@@ -8,10 +8,11 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:talkdimsum/core/model/language.dart';
 
-final settings = Provider((ref) => Settings());
+final settingsProvider = Provider((ref) {
+  var settings = Settings();
+});
 
 class Settings with ChangeNotifier {
-
   SharedPreferences prefs;
 
   Settings() {
@@ -25,7 +26,7 @@ class Settings with ChangeNotifier {
   }
 
   Chinese _language = Chinese.Cantonese;
-  
+
   Chinese get language {
     return _language;
   }
@@ -33,23 +34,22 @@ class Settings with ChangeNotifier {
   set language(Chinese language) {
     _language = language;
     notifyListeners();
-    prefs.setInt('language',language.index);
+    prefs.setInt('language', language.index);
   }
 
   double _speed = 0.5;
 
-   double get speed {
-     return _speed;
+  double get speed {
+    return _speed;
   }
 
   set speed(double speed) {
     _speed = speed;
     notifyListeners();
-    prefs.setDouble('speed',speed);
+    prefs.setDouble('speed', speed);
   }
 
   String languageName(Chinese language) {
     return describeEnum(language);
   }
-
 }

@@ -47,7 +47,7 @@ class MainApp extends StatelessWidget {
       ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
 //      ChangeNotifierProvider<Countries>(create: (context) => Countries()),
 //      ChangeNotifierProvider<Conversation>(create: (context) => Conversation()),
-      ChangeNotifierProvider<Settings>(create: (context) => Settings()),
+     ChangeNotifierProvider<Settings>(create: (context) => Settings()),
       ChangeNotifierProvider<STT>(create: (context) => STT())
     ], child: app);
   }

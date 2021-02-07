@@ -9,13 +9,14 @@ import 'package:talkdimsum/core/model/country.dart';
 
 final countryProvider = FutureProvider((ref) async {
   var con = Countries();
-  return con._load();
+  await con._load();
+  return con;
 });
 
 class Countries with ChangeNotifier {
   List<Country> countries = [];
 
-  Future<List<Country>> _load() async {
+  _load() async {
     final names = await rootBundle
         .loadString('assets/json/place/countries.json')
         .then((str) => List<String>.from(jsonDecode(str)));
@@ -23,6 +24,5 @@ class Countries with ChangeNotifier {
       countries.add(await Country.load('assets/json/place/', filename));
       //   notifyListeners();
     }
-    return countries;
   }
 }
