@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:provider/provider.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:share/share.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -18,64 +18,71 @@ class DishScaffold extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<DimSum>(builder: (context, dimsum, child) {
-      return Scaffold(
-          floatingActionButton: dimsum.isFavorite(dish)
-              ? FloatingActionButton(
-                  onPressed: () {
-                    dimsum.removeFavorite(dish);
-                  },
-                  child: Icon(Icons.favorite))
-              : FloatingActionButton(
-                  onPressed: () {
-                    dimsum.addFavorite(dish);
-                  },
-                  child: Icon(Icons.favorite_border)),
-          appBar: AppBar(
-              //   title: Text('${dish.word.English}'),
-              actions: <Widget>[
-                PopupMenuButton<String>(
-                  icon: Icon(Icons.help),
-                  onSelected: (String value) {
-                    launch(value);
-                  },
-                  itemBuilder: (BuildContext context) {
-                    return dish.word.resources.map((link) =>
-                        PopupMenuItem<String>(
-                            value: link.url, child: Text(link.name))).toList();
-                  },
-                ),
-                PopupMenuButton<String>(
-                  icon: Icon(Icons.info),
-                  onSelected: (String value) {
-                    switch (value) {
-                      case 'share':
-                        {
-                          Share.share(
-                              'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
-                              subject: 'Talk Dim Sum');
-                        }
-                        break;
-                      default:
-                        {
-                          launch(value);
-                        }
-                    }
-                  },
-                  itemBuilder: (BuildContext context) {
-                    return [
-                    PopupMenuItem<String>(
-                      value: 'share',
-                      child: Text('share'),
+    return Consumer(builder: (context, watch, child) {
+      var dimsum = watch(dimsumProvider);
+      return dimsum.map(
+          data: (_) => Scaffold(
+              floatingActionButton: _.value.isFavorite(dish)
+                  ? FloatingActionButton(
+                      onPressed: () {
+                        _.value.removeFavorite(dish);
+                      },
+                      child: Icon(Icons.favorite))
+                  : FloatingActionButton(
+                      onPressed: () {
+                        _.value.addFavorite(dish);
+                      },
+                      child: Icon(Icons.favorite_border)),
+              appBar: AppBar(
+                  //   title: Text('${dish.word.English}'),
+                  actions: <Widget>[
+                    PopupMenuButton<String>(
+                      icon: Icon(Icons.help),
+                      onSelected: (String value) {
+                        launch(value);
+                      },
+                      itemBuilder: (BuildContext context) {
+                        return dish.word.resources
+                            .map((link) => PopupMenuItem<String>(
+                                value: link.url, child: Text(link.name)))
+                            .toList();
+                      },
                     ),
-                    ...dish.resources.map((link) =>
-                        PopupMenuItem<String>(
-                            value: link.url, child: Text(link.name)))
-                    ];
-                  },
-                )
-              ]),
-          body: DishWidget(dish: dish));
+                    PopupMenuButton<String>(
+                      icon: Icon(Icons.info),
+                      onSelected: (String value) {
+                        switch (value) {
+                          case 'share':
+                            {
+                              Share.share(
+                                  'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
+                                  subject: 'Talk Dim Sum');
+                            }
+                            break;
+                          default:
+                            {
+                              launch(value);
+                            }
+                        }
+                      },
+                      itemBuilder: (BuildContext context) {
+                        return [
+                          PopupMenuItem<String>(
+                            value: 'share',
+                            child: Text('share'),
+                          ),
+                          ...dish.resources.map((link) => PopupMenuItem<String>(
+                              value: link.url, child: Text(link.name)))
+                        ];
+                      },
+                    )
+                  ]),
+              body: DishWidget(dish: dish)),
+          loading: (_) => CircularProgressIndicator(),
+          error: (_) => Text(
+                _.error.toString(),
+                style: TextStyle(color: Colors.red),
+              ));
     });
   }
 }
