@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'dishes_widget.dart';
+import 'dishes_grid.dart';
 
 class WordDishesGrid extends StatelessWidget {
   final Word word;
@@ -13,8 +13,15 @@ class WordDishesGrid extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<DimSum>(builder: (context, dimsum, child) {
-          return DishesWidget(dishes: dimsum.dishes(word));
-        });
+    return Consumer(builder: (context, watch, child) {
+      var dimsum = watch(dimsumProvider);
+      return dimsum.map(
+          data: (_) => DishesGrid(dishes: _.value.dishes(word)),
+          loading: (_) => CircularProgressIndicator(),
+          error: (_) => Text(
+                _.error.toString(),
+                style: TextStyle(color: Colors.red),
+              ));
+    });
   }
 }
