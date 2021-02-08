@@ -14,7 +14,11 @@ import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/model/tags.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
-final dimsum = Provider((ref) => DimSum());
+final dimsumProvider = FutureProvider((ref) async {
+  var dim = DimSum();
+  await(dim._load());
+  return dim;
+});
 
 class DimSum with ChangeNotifier {
   final List<Dish> _dishList = [];
@@ -50,7 +54,7 @@ class DimSum with ChangeNotifier {
 
   List<String> _categories = [];
 
-  DimSum() {
+  _load() async {
     _loadDishes();
     _loadCategories();
     _loadFavorites();

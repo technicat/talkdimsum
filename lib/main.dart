@@ -44,7 +44,7 @@ class MainApp extends StatelessWidget {
       app = material.App();
     }
     return MultiProvider(providers: [
-      ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
+  //    ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
 //      ChangeNotifierProvider<Countries>(create: (context) => Countries()),
 //      ChangeNotifierProvider<Conversation>(create: (context) => Conversation()),
      ChangeNotifierProvider<Settings>(create: (context) => Settings()),
