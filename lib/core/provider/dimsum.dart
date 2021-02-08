@@ -14,9 +14,10 @@ import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/model/tags.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
+// should split into providers for categories, favorites, etc.
 final dimsumProvider = FutureProvider((ref) async {
   var dim = DimSum();
-  await(dim._load());
+  await (dim._load());
   return dim;
 });
 
@@ -55,30 +56,29 @@ class DimSum with ChangeNotifier {
   List<String> _categories = [];
 
   _load() async {
-    _loadDishes();
-    _loadCategories();
-    _loadFavorites();
+    await _loadDishes();
+    await _loadCategories();
+    await _loadFavorites();
     Tags.load();
   }
 
-  void _loadDishes() async {
+  _loadDishes() async {
     final dishfiles = await rootBundle
         .loadString('assets/json/dish/dishes.json')
         .then((str) => List<String>.from(jsonDecode(str)));
-    dishfiles.forEach((filename) => _loadDishList('assets/json/dish/' + filename));
+    dishfiles
+        .forEach((filename) => _loadDishList('assets/json/dish/' + filename));
   }
 
-  void _loadDishList(String path) async {
-    final dishes = await rootBundle
-        .loadString(path + '.json')
-        .then((str) => List<Dish>.from(
-            jsonDecode(str).map((json) => Dish.fromJson(json))));
+  _loadDishList(String path) async {
+    final dishes = await rootBundle.loadString(path + '.json').then((str) =>
+        List<Dish>.from(jsonDecode(str).map((json) => Dish.fromJson(json))));
     dishes.forEach((dish) => dish.words.forEach((word) => Word.add(word)));
     dishes.forEach((dish) => addDish(dish));
     notifyListeners();
   }
 
-  void _loadCategories() async {
+  _loadCategories() async {
     _categories = await rootBundle
         .loadString('assets/json/dish/categories.json')
         .then((str) => List<String>.from(jsonDecode(str)));
