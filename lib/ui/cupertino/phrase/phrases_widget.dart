@@ -17,7 +17,7 @@ class PhrasesWidget extends StatelessWidget {
       return conversation.map(
           data: (_) {
             return _.value.phrases.isEmpty
-                ? CupertinoActivityIndicator()
+                ? Text('No phrases')
                 : PhrasesListView(phrases: _.value.phrases[0]);
           },
           loading: (_) => CupertinoActivityIndicator(),
