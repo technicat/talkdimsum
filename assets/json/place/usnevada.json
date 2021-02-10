@@ -117,10 +117,23 @@
       "address": "3730 Las Vegas Blvd S"
     },
     {
+      "title": "Lucky House Cafe",
+      "links": [
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/lucky-house-cafe-las-vegas"
+        }
+      ],
+      "lat": 36.126040,
+      "lon": -115.223160,
+      "city": "Las Vegas",
+      "address": "5960 W Spring Mountain Rd"
+    },
+    {
       "title": "New Asian BBQ",
       "links": [
         {
-          "name": "yelp",
+          "name": "Yelp",
           "URL": "https://www.yelp.com/biz/new-asian-bbq-tan-tung-ky-las-vegas"
         }
       ],
