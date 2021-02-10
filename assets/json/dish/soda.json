@@ -1,120 +1,184 @@
-
 [
-
- {
-    "words":
-    [
     {
-     "Chinese":"汽水",
-     "English":"soda",
-     "Yale": "hei séui",
-     "Pinyin":"qì shuǐ",
-     "Resources":
-     [
-       {"name":"汽水","URL":"https://en.wiktionary.org/wiki/汽水"},
-       {"name":"汽","URL":"https://en.wiktionary.org/wiki/汽"},
-       {"name":"水","URL":"https://en.wiktionary.org/wiki/水"}
-    ]
- }
-     ],
-     "images":
-     [
-     {
-         "image":"jarritostacoselgordo",
-         "place":"Tacos El Gordo, Las Vegas, Nevada"
-     }
-
-     ],
-"Description":
-    "汽 means “gas” or “vapor” or “steam” (hence the 氵 water radical on the left) and 水 means “water,” so it's basically “carbonated water.”",
-     "Tags":
-     [
-      "汽水",
-        "飲品"
-         ],
-     "Resources":
-     [
-     {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/Soft_drink"}
-
-    ]
- },
-
-
- {
-    "words":
-    [
-        {
-            "Chinese":"七喜",
-            "English":"7 Up",
-            "Yale": "chāt héi",
-            "Pinyin":"qī xǐ",
-             "Resources":
-     [
-        {"name":"七喜","URL":"https://en.wiktionary.org/wiki/七喜"},
-        {"name":"七","URL":"https://en.wiktionary.org/wiki/七"},
-        {"name":"喜","URL":"https://en.wiktionary.org/wiki/喜"}
-    ]
-        }
+        "words": [
+            {
+                "Chinese": "汽水",
+                "English": "soda",
+                "Yale": "hei séui",
+                "Pinyin": "qì shuǐ",
+                "Resources": [
+                    {
+                        "name": "汽水",
+                        "URL": "https://en.wiktionary.org/wiki/汽水"
+                    },
+                    {
+                        "name": "汽",
+                        "URL": "https://en.wiktionary.org/wiki/汽"
+                    },
+                    {
+                        "name": "水",
+                        "URL": "https://en.wiktionary.org/wiki/水"
+                    }
+                ]
+            }
         ],
-     "images":
-     [
-     {
-         "image":"7uptakeout",
-         "place":""
-     }
-
-     ],
-    "Description":
-        "七 is the word for number 7 and 喜 means “happiness.”\n\nOriginally it was 七起 which sounds the same as literally means “7 up” but the 起 was replaced with 喜.\n\nIn Hong Hong, 7-Up or Sprite is sometimes combined with preserved limes, to form 鹹檸七 (salted lime seven) as a cough remedy.",
-     "Tags":
-     [
-        "茶餐廳",
-        "飲品",
-        "汽水"
-    ],
-     "Resources":
-     [
-        {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/7_Up"},
-        {"name":"The Hong Kong Cookery","URL":"http://www.thehongkongcookery.com/2018/08/chinese-preserved-limes.html"}
-    ]
- },
-
- {
-    "words":
-    [
-        {
-            "Chinese":"雪碧",
-            "English":"Sprite",
-            "Yale": "syut bīk",
-            "Pinyin":"Xuě bì",
-            "Resources":
-     [
-        {"name":"雪碧","URL":"https://en.wiktionary.org/wiki/雪碧"},
-        {"name":"雪","URL":"https://en.wiktionary.org/wiki/雪碧"},
-        {"name":"碧","URL":"https://en.wiktionary.org/wiki/碧"}
-    ]
-        }
+        "images": [
+            {
+                "image": "jarritostacoselgordo",
+                "place": "Tacos El Gordo, Las Vegas, Nevada"
+            }
         ],
-     "images":
-     [
-     {
-         "image":"spritetakeout",
-         "place":""
-     }
-
-     ],
-    "Description":
-        "雪 is the word for snow and 碧 means “blue-green,” so it 雪碧 kind of sounds like Sprite and kind of looks like Sprite (known as a “phono-semantic match”).",
-     "Tags":
-     [
-        "茶餐廳",
-        "飲品",
-        "汽水"
-    ],
-     "Resources":
-     [
-        {"name":"Wikipedia","URL":"https://en.wikipedia.org/wiki/Sprite_(drink)"}
-    ]
- }
-
- ]
+        "Description": "汽 means “gas” or “vapor” or “steam” (hence the 氵 water radical on the left) and 水 means “water,” so it's basically “carbonated water.”",
+        "Tags": [
+            "汽水",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Soft_drink"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "七喜",
+                "English": "7 Up",
+                "Yale": "chāt héi",
+                "Pinyin": "qī xǐ",
+                "Resources": [
+                    {
+                        "name": "七喜",
+                        "URL": "https://en.wiktionary.org/wiki/七喜"
+                    },
+                    {
+                        "name": "七",
+                        "URL": "https://en.wiktionary.org/wiki/七"
+                    },
+                    {
+                        "name": "喜",
+                        "URL": "https://en.wiktionary.org/wiki/喜"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "7uptakeout",
+                "place": ""
+            }
+        ],
+        "Description": "七 is the word for number 7 and 喜 means “happiness.”\n\nOriginally it was 七起 which sounds the same as literally means “7 up” but the 起 was replaced with 喜.",
+        "Tags": [
+            "七喜",
+            "茶餐廳",
+            "飲品",
+            "汽水"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/7_Up"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "鹹檸七",
+                "English": "salted lime 7 Up",
+                "Yale": "hàahm nìhng chāt héi",
+                "Simplified": "咸柠七",
+                "Pinyin": "xián níng qī",
+                "Resources": [
+                    {
+                        "name": "鹹檸七",
+                        "URL": "https://en.wiktionary.org/wiki/鹹檸七"
+                    },
+                    {
+                        "name": "鹹檸",
+                        "URL": "https://en.wiktionary.org/wiki/鹹檸"
+                    },
+                    {
+                        "name": "鹹",
+                        "URL": "https://en.wiktionary.org/wiki/鹹"
+                    },
+                    {
+                        "name": "檸",
+                        "URL": "https://en.wiktionary.org/wiki/檸"
+                    },
+                    {
+                        "name": "七",
+                        "URL": "https://en.wiktionary.org/wiki/七"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "saltedlemonluckyhouse",
+                "place": "Lucky House, Las Vegas"
+            }
+        ],
+        "Description": "7-Up or Sprite combined with preserved limes is a street food and cha chaan teng drink and also popular as a cough remedy.\n\n鹹檸 is “salted lime” (鹹 is “salted” or “salty” and 檸 is “lemon” even though it's lime), and  七 is seven, short for 7up (七起), so it's “salted lime 7.”",
+        "Tags": [
+            "七喜",
+            "茶餐廳",
+            "飲品",
+            "汽水"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/7_Up#Variations"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2018/08/chinese-preserved-limes.html"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "雪碧",
+                "English": "Sprite",
+                "Yale": "syut bīk",
+                "Pinyin": "Xuě bì",
+                "Resources": [
+                    {
+                        "name": "雪碧",
+                        "URL": "https://en.wiktionary.org/wiki/雪碧"
+                    },
+                    {
+                        "name": "雪",
+                        "URL": "https://en.wiktionary.org/wiki/雪碧"
+                    },
+                    {
+                        "name": "碧",
+                        "URL": "https://en.wiktionary.org/wiki/碧"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "spritetakeout",
+                "place": ""
+            }
+        ],
+        "Description": "雪 is the word for snow and 碧 means “blue-green,” so it 雪碧 kind of sounds like Sprite and kind of looks like Sprite (known as a “phono-semantic match”).",
+        "Tags": [
+            "茶餐廳",
+            "飲品",
+            "汽水"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Sprite_(drink)"
+            }
+        ]
+    }
+]
