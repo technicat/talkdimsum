@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:cupertino_search/cupertino_search.dart'; // need cupertino version
-import 'package:provider/provider.dart';
+import 'package:cupertino_search/cupertino_search.dart'; 
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
@@ -10,39 +10,46 @@ import 'word_dishes_scaffold.dart';
 class SearchWordScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer<DimSum>(builder: (context, dimsum, child) {
-      var words = dimsum.dishWords;
-      return CupertinoPageScaffold(
-          child: //SingleChildScrollView(child:
-              CupertinoSearch<Word>(
-        results: words
-            .toSet()
-            .map((word) => CupertinoSearchResult<Word>(
-                  value: word,
-                  text: word.display(), // English,
-                  //icon: Icons.person,
-                ))
-            .toList(),
+    return CupertinoPageScaffold(child: SearchWord());
+  }
+}
 
-        filter: (dynamic value, String criteria) {
-          var crit = criteria.toLowerCase().trim();
-          if (crit.isEmpty) {
-            return dimsum.categories.contains(value.id);
-          }
-          var reg = RegExp(r'' + crit + '');
-          return value.english.toLowerCase().contains(reg) ||
-              value.chineseText().contains(reg);
-        },
-
-        onSelect: (dynamic selected) {
-          Navigator.push(
-            context,
-            CupertinoPageRoute(
-                builder: (context) => WordDishesScaffold(word: selected)),
-          );
-        },
-        //),
-      ));
+class SearchWord extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Consumer(builder: (context, watch, child) {
+      var dimsum = watch(dimsumProvider);
+      return dimsum.map(
+          data: (_) => CupertinoSearch<Word>(
+              results: _.value.dishWords
+                  .toSet()
+                  .map((word) => CupertinoSearchResult<Word>(
+                        value: word,
+                        text: word.display(), // English,
+                        //icon: Icons.person,
+                      ))
+                  .toList(),
+              filter: (dynamic value, String criteria) {
+                var crit = criteria.toLowerCase().trim();
+                if (crit.isEmpty) {
+                  return _.value.categories.contains(value.id);
+                }
+                var reg = RegExp(r'' + crit + '');
+                return value.english.toLowerCase().contains(reg) ||
+                    value.chineseText().contains(reg);
+              },
+              onSelect: (dynamic selected) {
+                Navigator.push(
+                  context,
+                  CupertinoPageRoute(
+                      builder: (context) => WordDishesScaffold(word: selected)),
+                );
+              }),
+          loading: (_) => CupertinoActivityIndicator(),
+          error: (_) => Text(
+                _.error.toString(),
+                style: TextStyle(color: CupertinoColors.destructiveRed),
+              ));
     });
   }
 }
