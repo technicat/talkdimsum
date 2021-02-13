@@ -1,6 +1,6 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter/cupertino.dart';
 
-import 'package:provider/provider.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 
@@ -9,8 +9,15 @@ import 'package:talkdimsum/ui/cupertino/dishes/dishes_grid.dart';
 class FavoritesGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer<DimSum>(
-        builder: (context, dimsum, child) =>
-            DishesGrid(dishes: dimsum.favorites));
+    return Consumer(builder: (context, watch, child) {
+      var dimsum = watch(dimsumProvider);
+      return dimsum.map(
+          data: (_) => DishesGrid(dishes: _.value.favorites),
+          loading: (_) => CupertinoActivityIndicator(),
+          error: (_) => Text(
+                _.error.toString(),
+                style: TextStyle(color: CupertinoColors.destructiveRed),
+              ));
+    });
   }
 }
