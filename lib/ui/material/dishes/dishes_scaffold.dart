@@ -18,7 +18,7 @@ class DishesScaffold extends StatelessWidget {
           onPressed: () {
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => FavoritesGrid()),
+              MaterialPageRoute(builder: (context) => FavoritesScaffold()),
             );
           },
         ),
