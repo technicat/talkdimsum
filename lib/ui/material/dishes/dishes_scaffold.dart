@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import 'categories_widget.dart';
-import 'favorite_dishes_widget.dart';
+import 'categories_grid.dart';
+import 'favorites_grid.dart';
 import 'search_word_scaffold.dart';
 
 class DishesScaffold extends StatelessWidget {
@@ -18,7 +18,7 @@ class DishesScaffold extends StatelessWidget {
           onPressed: () {
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => FavoriteDishesWidget()),
+              MaterialPageRoute(builder: (context) => FavoritesGrid()),
             );
           },
         ),
@@ -33,7 +33,7 @@ class DishesScaffold extends StatelessWidget {
           },
         ),
       ]),
-      body: CategoriesWidget(),
+      body: CategoriesGrid(),
       drawer: Drawer(
         // Add a ListView to the drawer. This ensures the user can scroll
         // through the options in the Drawer if there isn't enough vertical

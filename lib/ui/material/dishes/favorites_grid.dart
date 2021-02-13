@@ -1,18 +1,17 @@
 import 'package:flutter/material.dart';
-
-import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 
-import 'category_dishes_grid.dart';
+import 'dishes_grid.dart';
 
-class CategoriesWidget extends StatelessWidget {
+class FavoritesGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer(builder: (context, watch, child) {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
-          data: (_) => CategoryDishesGrid(dishes: _.value.categories),
+          data: (_) => DishesGrid(dishes: _.value.favorites),
           loading: (_) => CircularProgressIndicator(),
           error: (_) => Text(
                 _.error.toString(),

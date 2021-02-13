@@ -10,11 +10,16 @@ import 'word_dishes_scaffold.dart';
 class SearchWordScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    return Scaffold(body: SearchWord());
+  }
+}
+
+class SearchWord extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
     return Consumer<DimSum>(builder: (context, dimsum, child) {
       var words = dimsum.dishWords;
-      return Scaffold(
-          body: //SingleChildScrollView(child:
-              MaterialSearch<Word>(
+      return MaterialSearch<Word>(
         results: words
             .toSet()
             .map((word) => MaterialSearchResult<Word>(
@@ -42,7 +47,7 @@ class SearchWordScaffold extends StatelessWidget {
           );
         },
         //),
-      ));
+      );
     });
   }
 }
