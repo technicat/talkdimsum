@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:provider/provider.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/conversation.dart';
 import 'package:talkdimsum/core/model/phrases.dart';
@@ -19,30 +19,39 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<Conversation>(builder: (context, conversation, child) {
-      if (conversation.phrases.isNotEmpty && phrases == null) {
-        phrases = conversation.phrases[0];
-      }
-      return Scaffold(
-          appBar: AppBar(
-              title: phrases == null ? Text('') : Text(phrases.name),
-              actions: [
-                PopupMenuButton<Phrases>(
-                  icon: Icon(Icons.menu),
-                  onSelected: (value) {
-                    setState(() {
-                      phrases = value;
-                    });
-                  },
-                  itemBuilder: (BuildContext context) => conversation.phrases
-                      .map((phrases) => PopupMenuItem<Phrases>(
-                          value: phrases, child: Text(phrases.name)))
-                      .toList(),
-                ),
-              ]),
-          body: phrases == null
-              ? Center(child: CircularProgressIndicator())
-              : PhrasesListView(phrases: phrases));
+    return Consumer(builder: (context, watch, child) {
+      var conversation = watch(phrasesProvider);
+      return conversation.map(
+          data: (_) {
+            if (_.value.phrases.isNotEmpty && phrases == null) {
+              phrases = _.value.phrases[0];
+            }
+            return Scaffold(
+                appBar: AppBar(
+                    title: phrases == null ? Text('') : Text(phrases.name),
+                    actions: [
+                      PopupMenuButton<Phrases>(
+                        icon: Icon(Icons.menu),
+                        onSelected: (value) {
+                          setState(() {
+                            phrases = value;
+                          });
+                        },
+                        itemBuilder: (BuildContext context) => _.value.phrases
+                            .map((phrases) => PopupMenuItem<Phrases>(
+                                value: phrases, child: Text(phrases.name)))
+                            .toList(),
+                      ),
+                    ]),
+                body: phrases == null
+                    ? Center(child: CircularProgressIndicator())
+                    : PhrasesListView(phrases: phrases));
+          },
+          loading: (_) => CircularProgressIndicator(),
+          error: (_) => Text(
+                _.error.toString(),
+                style: TextStyle(color: Colors.red),
+              ));
     });
   }
 }
