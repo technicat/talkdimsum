@@ -1,166 +1,224 @@
 [
- {
-  "words":
-  [
-    {
-      "Chinese" : "菠蘿包",
-      "Simplified" : "菠萝包",
-      "English":"pineapple bun",
-      "Yale": "bō lòh bāau",
-      "Pinyin" : "bō luó bāo",
-      "Resources":
-      [
-        {"name":"菠蘿包","URL":"https://en.wiktionary.org/wiki/菠蘿包"},
-        {"name":"菠蘿","URL":"https://en.wiktionary.org/wiki/菠蘿"},
-        {"name":"菠","URL":"https://en.wiktionary.org/wiki/菠"},
-         {"name":"蘿","URL":"https://en.wiktionary.org/wiki/蘿"},
-        {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-      ]
-    }
-  ],
-  "images" :
-  [
-    {
-      "image":"pineapplebun168market",
-      "place":"168 Market, Las Vegas, Nevada"
-    },
-    {
-      "image":"bakedsweetcreambundimsumcafe",
-      "place":"Dim Sum Cafe"
-    }
-  ],
-  "Description":
-    "Bun with a sweet crunchy top in a crosshatch pattern reminiscent of a pineapple. Sometimes there is a filling, but it's almost never pineapple - more often custard or coconut.\n\n菠蘿 means “pineapple“ and 包 means “bun“.\n\nAdd 蜜 to 菠蘿 and you get the word for jackfruit 菠蘿蜜 (bō lòh maht)",
-      "Tags":
-      [
-        "茶餐廳",
-              "菠蘿包",
-              "菠蘿",
-              "包",
-              "椰",
-              "焗",
-              "甜品"
-            ],
-      "Resources":
-      [
-        {"name":"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/pineapple-bun/"},
-        {"name":"Wikipedia", 
-          "URL":"http://en.wikipedia.org/wiki/Pineapple_bun"},
-        {"name":"The Woks of Life", 
-          "URL":"https://thewoksoflife.com/2015/04/pineapple-buns/"},
-        {"name":"Yum of China", 
-          "URL":"https://www.yumofchina.com/pineapple-bun/"},
-        {"name":"China Sichuan Food", 
-          "URL":"https://www.chinasichuanfood.com/pineapple-bun-bolo-bao-recipe/"},
-        {"name":"Splendid Table", 
-          "URL":"https://www.splendidtable.org/recipes/pineapple-buns-bolo-bao"},
-        {"name":"Christine's Recipes", 
-          "URL":"https://en.christinesrecipes.com/2011/01/pineapple-buns-for-pig-pigs-corner.html"},
-        {"name":"Unfamiliar China", 
-          "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/pineapple-buns-bolo-bao"},
-        {"name":"Oh My Food Recipes", 
-          "URL":"https://www.ohmyfoodrecipes.com/pineapple-buns/"}
-      ]
-    },
-
-    {
-     "words":
-     [
-       {
-         "Chinese" : "菠蘿油",
-         "Simplified" : "菠萝油",
-         "English":"pineapple bun w/ butter",
-         "Yale": "bō lòh yàuh",
-         "Pinyin" : "bō luó yóu",
-         "Resources":
-         [
-           {"name":"菠蘿包","URL":"https://en.wiktionary.org/wiki/菠蘿包"},
-           {"name":"菠蘿","URL":"https://en.wiktionary.org/wiki/菠蘿"},
-           {"name":"菠","URL":"https://en.wiktionary.org/wiki/菠"},
-            {"name":"蘿","URL":"https://en.wiktionary.org/wiki/蘿"},
-           {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-         ]
-       }
-     ],
-     "images" :
-     [
-       {
-         "image":"pineapplebunwithbutterjjnoodle",
-         "place":"JJ Noodle Cafe, Las Vegas, Nevada"
-       }
-     ],
-     "Description":
-     "Pinapple buns served with butter.\n\n菠蘿 means “pineapple“ and 油 means “oil“ but is short for 奶油 (ngàuh yàuh) which is “butter.”",
-         "Tags":
-         [
-                 "菠蘿包",
-                 "菠蘿",
-                 "包",
-                 "椰",
-                 "焗",
-                 "甜品",
-                 "茶餐廳"
-               ],
-         "Resources":
-         [
-          {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/pineapple-bun-with-butter/"},
-           {"name":"Wikipedia", 
-            "URL":"http://en.wikipedia.org/wiki/Pineapple_bun"}
-         ]
-       },
-
-    {
-      "words":
-      [
+  {
+    "words": [
       {
-      "Chinese" : "菠蘿流沙包",
-      "Simplified" : "菠萝流沙包",
-      "English": "pineapple lava custard bun",
-      "Yale": "bō lòh làu sāa bāau",
-      "Pinyin" : "bō luó liú shā bāo",
-      "Resources":
-      [
-        {"name":"菠蘿","URL":"https://en.wiktionary.org/wiki/菠蘿"},
-        {"name":"菠","URL":"https://en.wiktionary.org/wiki/菠"},
-        {"name":"蘿","URL":"https://en.wiktionary.org/wiki/蘿"},
-        {"name":"流沙","URL":"https://en.wiktionary.org/wiki/流沙"},
-        {"name":"流","URL":"https://en.wiktionary.org/wiki/流"},
-        {"name":"沙","URL":"https://en.wiktionary.org/wiki/沙"},
-        {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-      ]
-      }
-      ],
-      "images" :
-      [
+        "Chinese": "菠蘿包",
+        "Simplified": "菠萝包",
+        "English": "pineapple bun",
+        "Yale": "bō lòh bāau",
+        "Pinyin": "bō luó bāo",
+        "Resources": [
           {
-              "image":"pineapplelavacakerevealedyumcha",
-              "place":"Yum Cha, Las Vegas, Nevada"
+            "name": "菠蘿包",
+            "URL": "https://en.wiktionary.org/wiki/菠蘿包"
+          },
+          {
+            "name": "菠蘿",
+            "URL": "https://en.wiktionary.org/wiki/菠蘿"
+          },
+          {
+            "name": "菠",
+            "URL": "https://en.wiktionary.org/wiki/菠"
+          },
+          {
+            "name": "蘿",
+            "URL": "https://en.wiktionary.org/wiki/蘿"
+          },
+          {
+            "name": "包",
+            "URL": "https://en.wiktionary.org/wiki/包"
           }
-      ],
-      "Description" :
-        "A pineapple bun with a molten custard filling.\n\n菠蘿 means “pineapple.” 流 means “flowing“ and 沙 means “sand“, so literally “quicksand,” and 包 means “bun.”",
-      "Tags":
-      [
-        "茶餐廳",
-        "流沙",
-        "包",
-        "菠蘿包",
-        "流沙包",
-        "菠蘿",
-        "焗",
-        "甜品",
-        "點心"
-      ],
-      "Resources":
-      [
-        {"name":"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/pineapple-lava-bun/"},
-        {"name":"Wikipedia", 
-          "URL":"http://en.wikipedia.org/wiki/Pineapple_bun"}
-      ]
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "pineapplebun168market",
+        "place": "168 Market, Las Vegas, Nevada"
+      },
+      {
+        "image": "bakedsweetcreambundimsumcafe",
+        "place": "Dim Sum Cafe"
+      }
+    ],
+    "Description": "Bun with a sweet crunchy top in a crosshatch pattern reminiscent of a pineapple. Sometimes there is a filling, but it's almost never pineapple - more often custard or coconut.\n\n菠蘿 means “pineapple“ and 包 means “bun“.\n\nAdd 蜜 to 菠蘿 and you get the word for jackfruit 菠蘿蜜 (bō lòh maht)",
+    "Tags": [
+      "港式",
+      "茶餐廳",
+      "菠蘿包",
+      "菠蘿",
+      "包",
+      "椰",
+      "焗",
+      "甜品"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/pineapple-bun/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Pineapple_bun"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/04/pineapple-buns/"
+      },
+      {
+        "name": "Yum of China",
+        "URL": "https://www.yumofchina.com/pineapple-bun/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/pineapple-bun-bolo-bao-recipe/"
+      },
+      {
+        "name": "Splendid Table",
+        "URL": "https://www.splendidtable.org/recipes/pineapple-buns-bolo-bao"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2011/01/pineapple-buns-for-pig-pigs-corner.html"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/pineapple-buns-bolo-bao"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/pineapple-buns/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "菠蘿油",
+        "Simplified": "菠萝油",
+        "English": "pineapple bun w/ butter",
+        "Yale": "bō lòh yàuh",
+        "Pinyin": "bō luó yóu",
+        "Resources": [
+          {
+            "name": "菠蘿包",
+            "URL": "https://en.wiktionary.org/wiki/菠蘿包"
+          },
+          {
+            "name": "菠蘿",
+            "URL": "https://en.wiktionary.org/wiki/菠蘿"
+          },
+          {
+            "name": "菠",
+            "URL": "https://en.wiktionary.org/wiki/菠"
+          },
+          {
+            "name": "蘿",
+            "URL": "https://en.wiktionary.org/wiki/蘿"
+          },
+          {
+            "name": "包",
+            "URL": "https://en.wiktionary.org/wiki/包"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "pineapplebunwithbutterjjnoodle",
+        "place": "JJ Noodle Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Pinapple buns served with butter.\n\n菠蘿 means “pineapple“ and 油 means “oil“ but is short for 奶油 (ngàuh yàuh) which is “butter.”",
+    "Tags": [
+      "港式",
+      "菠蘿包",
+      "菠蘿",
+      "包",
+      "椰",
+      "焗",
+      "甜品",
+      "茶餐廳"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/pineapple-bun-with-butter/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Pineapple_bun"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "菠蘿流沙包",
+        "Simplified": "菠萝流沙包",
+        "English": "pineapple lava custard bun",
+        "Yale": "bō lòh làu sāa bāau",
+        "Pinyin": "bō luó liú shā bāo",
+        "Resources": [
+          {
+            "name": "菠蘿",
+            "URL": "https://en.wiktionary.org/wiki/菠蘿"
+          },
+          {
+            "name": "菠",
+            "URL": "https://en.wiktionary.org/wiki/菠"
+          },
+          {
+            "name": "蘿",
+            "URL": "https://en.wiktionary.org/wiki/蘿"
+          },
+          {
+            "name": "流沙",
+            "URL": "https://en.wiktionary.org/wiki/流沙"
+          },
+          {
+            "name": "流",
+            "URL": "https://en.wiktionary.org/wiki/流"
+          },
+          {
+            "name": "沙",
+            "URL": "https://en.wiktionary.org/wiki/沙"
+          },
+          {
+            "name": "包",
+            "URL": "https://en.wiktionary.org/wiki/包"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "pineapplelavacakerevealedyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "A pineapple bun with a molten custard filling.\n\n菠蘿 means “pineapple.” 流 means “flowing“ and 沙 means “sand“, so literally “quicksand,” and 包 means “bun.”",
+    "Tags": [
+      "港式",
+      "茶餐廳",
+      "流沙",
+      "包",
+      "菠蘿包",
+      "流沙包",
+      "菠蘿",
+      "焗",
+      "甜品",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/pineapple-lava-bun/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Pineapple_bun"
+      }
+    ]
   }
-
-
- ]
+]

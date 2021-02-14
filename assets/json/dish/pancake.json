@@ -1,82 +1,91 @@
 [
-
     {
-        "words":
-        [
-        {
-        "Chinese":"薄餅",
-        "Simplified":"薄饼",
-        "English":"pancake",
-        "Yale": "bohk béng",
-        "Pinyin":"bǐng bǐng",
-        "Resources":
-        [
-        {"name":"薄餅","URL":"https://en.wiktionary.org/wiki/薄餅"},
-        {"name":"薄","URL":"https://en.wiktionary.org/wiki/薄"},
-        {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
-        ]
-        }
-        ],
-        "images":
-        [
+        "words": [
             {
-                "image":"pancakebigwong",
-                "place":"Big Wong, Las Vegas, Nevada"
+                "Chinese": "薄餅",
+                "Simplified": "薄饼",
+                "English": "pancake",
+                "Yale": "bohk béng",
+                "Pinyin": "bǐng bǐng",
+                "Resources": [
+                    {
+                        "name": "薄餅",
+                        "URL": "https://en.wiktionary.org/wiki/薄餅"
+                    },
+                    {
+                        "name": "薄",
+                        "URL": "https://en.wiktionary.org/wiki/薄"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
             }
         ],
-        "Description":
-            "Thin wheat flour pancakes.\n\n薄 means “thin,” and 餅 refers specifically to Chinese wheat flour breads, but also generally to circular cakes and cookies.\n\nThese are often used as wrappers with fillings, including Chinese-American mushu dishes, but also by themselves (sometimes listed as “roti.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "pancakebigwong",
+                "place": "Big Wong, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Thin wheat flour pancakes.\n\n薄 means “thin,” and 餅 refers specifically to Chinese wheat flour breads, but also generally to circular cakes and cookies.\n\nThese are often used as wrappers with fillings, including Chinese-American mushu dishes, but also by themselves (sometimes listed as “roti.”",
+        "Tags": [
             "餅",
             "素",
             "煎"
         ],
-        "Resources":
-        [
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Bing_(bread)"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Bing_(bread)"
+            }
         ]
     },
-
-    
     {
-        "words":
-        [
-        {
-        "Chinese":"蔥油餅",
-        "Simplified":"葱油饼",
-        "English":"scallion pancake",
-        "Yale": "chūng yòuh béng",
-        "Pinyin":"cōng yóu bǐng",
-        "Resources":
-        [
-        {"name":"蔥油餅","URL":"https://en.wiktionary.org/wiki/蔥油餅"},
-        {"name":"蔥","URL":"https://en.wiktionary.org/wiki/蔥"},
-         {"name":"油","URL":"https://en.wiktionary.org/wiki/油"},
-        {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
-        ]
-        }
-        ],
-        "images":
-        [
+        "words": [
             {
-                "image":"scallionpancakeeverygrain",
-                "place":"Every Grain, Las Vegas, Nevada"
-              },
- {
-                "image":"scallionpiechinamama",
-                "place":"China Mama, Las Vegas, Nevada"
-              },
-            {
-                "image":"scallionpancakechinarepublic",
-                "place":"China Republic"
+                "Chinese": "蔥油餅",
+                "Simplified": "葱油饼",
+                "English": "scallion pancake",
+                "Yale": "chūng yòuh béng",
+                "Pinyin": "cōng yóu bǐng",
+                "Resources": [
+                    {
+                        "name": "蔥油餅",
+                        "URL": "https://en.wiktionary.org/wiki/蔥油餅"
+                    },
+                    {
+                        "name": "蔥",
+                        "URL": "https://en.wiktionary.org/wiki/蔥"
+                    },
+                    {
+                        "name": "油",
+                        "URL": "https://en.wiktionary.org/wiki/油"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
             }
         ],
-        "Description":
-            "Circular pan-fried flatbreads folded with scallions and oil, found in restaurants and as street food, and in the frozen section of Asian grocery stores (very convenient, just pan-fry for a few minutes).\n\n蔥 is the word for “scallion,“ 油 means “oil,“ and 餅 is the word for “pie“ or “cookie“ or “pancake” (or really anything flat and circulary, e.g. a discus is 鐵餅 tit béng). So it's “scallion oil pancake.“\n\nThere's a theory in China that pizza was invented by Marco Polo based on scallion pancakes. This is not a popular theory in Italy.",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "scallionpancakeeverygrain",
+                "place": "Every Grain, Las Vegas, Nevada"
+            },
+            {
+                "image": "scallionpiechinamama",
+                "place": "China Mama, Las Vegas, Nevada"
+            },
+            {
+                "image": "scallionpancakechinarepublic",
+                "place": "China Republic"
+            }
+        ],
+        "Description": "Circular pan-fried flatbreads folded with scallions and oil, found in restaurants and as street food, and in the frozen section of Asian grocery stores (very convenient, just pan-fry for a few minutes).\n\n蔥 is the word for “scallion,“ 油 means “oil,“ and 餅 is the word for “pie“ or “cookie“ or “pancake” (or really anything flat and circulary, e.g. a discus is 鐵餅 tit béng). So it's “scallion oil pancake.“\n\nThere's a theory in China that pizza was invented by Marco Polo based on scallion pancakes. This is not a popular theory in Italy.",
+        "Tags": [
             "蔥",
             "油",
             "餅",
@@ -84,62 +93,87 @@
             "煎",
             "點心"
         ],
-        "Resources":
-        [
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Cong_you_bing"},
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/scallion-pancake/"},
-            {"name":"China Sichuan Food", 
-                "URL":"https://www.chinasichuanfood.com/chinese-scallion-pancakes/"},
-            {"name":"Dimsumptuous", 
-                "URL":"http://www.dimsumptuous.com/2014/04/scallion-pancakes.html"},
-            {"name":"Kirbie's Cravings", 
-                "URL":"https://kirbiecravings.com/scallion-pancakes/"},
-            {"name":"Christine's Recipes", 
-                "URL":"https://en.christinesrecipes.com/2013/05/scallion-pancakes.html"},
-            {"name":"Angel Wong's Kitchen", 
-                "URL":"https://www.angelwongskitchen.com/green-onion-scallion-pancakes--340852783339173-c333ng-yoacuteub464ng.html"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
+            },
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/scallion-pancake/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/chinese-scallion-pancakes/"
+            },
+            {
+                "name": "Dimsumptuous",
+                "URL": "http://www.dimsumptuous.com/2014/04/scallion-pancakes.html"
+            },
+            {
+                "name": "Kirbie's Cravings",
+                "URL": "https://kirbiecravings.com/scallion-pancakes/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2013/05/scallion-pancakes.html"
+            },
+            {
+                "name": "Angel Wong's Kitchen",
+                "URL": "https://www.angelwongskitchen.com/green-onion-scallion-pancakes--340852783339173-c333ng-yoacuteub464ng.html"
+            }
         ]
     },
-
-     {
-        "words":
-        [
+    {
+        "words": [
             {
-        "Chinese":"韭菜餅",
-        "Simplified":"韭菜饼",
-        "English":"chives pancake",
-        "Yale": "gáu choi béng",
-        "Pinyin":"jiǔ cài bǐng",
-        "Resources":
-        [
-        {"name":"韭菜","URL":"https://en.wiktionary.org/wiki/韭菜"},
-        {"name":"韭","URL":"https://en.wiktionary.org/wiki/韭"},
-         {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
-        {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
-        ]
-          }],
-        "images":[
-            {
-                "image":"chivespancake99ranch",
-                "place":"99 Ranch Market, Las Vegas, Nevada"
+                "Chinese": "韭菜餅",
+                "Simplified": "韭菜饼",
+                "English": "chives pancake",
+                "Yale": "gáu choi béng",
+                "Pinyin": "jiǔ cài bǐng",
+                "Resources": [
+                    {
+                        "name": "韭菜",
+                        "URL": "https://en.wiktionary.org/wiki/韭菜"
+                    },
+                    {
+                        "name": "韭",
+                        "URL": "https://en.wiktionary.org/wiki/韭"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
             }
         ],
-        "Description":
-            "Circular pan-fried flatbreads, like scallion pancakes but with Chinese chives (garlic chives) instead of scallions.\n\n韭菜 is the word for “chives,“ and 餅 is the word for “pancake.”",
-        "Tags":[
+        "images": [
+            {
+                "image": "chivespancake99ranch",
+                "place": "99 Ranch Market, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Circular pan-fried flatbreads, like scallion pancakes but with Chinese chives (garlic chives) instead of scallions.\n\n韭菜 is the word for “chives,“ and 餅 is the word for “pancake.”",
+        "Tags": [
             "韭菜",
             "餅",
             "素",
             "煎"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/chives-pancake/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Cong_you_bing"}
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/chives-pancake/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
+            }
         ]
     }
 ]
