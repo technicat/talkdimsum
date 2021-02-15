@@ -1,76 +1,105 @@
-
 [
- 
     {
-        "words":
-        [{
-            "Chinese": "煎腸粉",
-            "Simplified": "煎肠粉",
-            "English":"pan-fried rice roll",
-            "Yale": "jīn chéung fán",
-            "Pinyin":"jiān cháng fěn",
-             "Resources":
-            [
-            {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-            {"name":"腸粉","URL":"https://en.wiktionary.org/wiki/腸粉"},
-            {"name":"腸","URL":"https://en.wiktionary.org/wiki/腸"},
-            {"name":"粉","URL":"https://en.wiktionary.org/wiki/粉"}
-            ]
-        }],
-        "images":
-        [
-         {
-             "image":"panfriedriceroll",
-             "place":""
-         }
+        "words": [
+            {
+                "Chinese": "煎腸粉",
+                "Simplified": "煎肠粉",
+                "English": "pan-fried rice roll",
+                "Yale": "jīn chéung fán",
+                "Pinyin": "jiān cháng fěn",
+                "Resources": [
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "腸粉",
+                        "URL": "https://en.wiktionary.org/wiki/腸粉"
+                    },
+                    {
+                        "name": "腸",
+                        "URL": "https://en.wiktionary.org/wiki/腸"
+                    },
+                    {
+                        "name": "粉",
+                        "URL": "https://en.wiktionary.org/wiki/粉"
+                    }
+                ]
+            }
         ],
-        "Description": 
-            "Rice rolls that are typically cut into short segments and pan-fried in a sauce, such as oyster sauce or XO sauce, and coated with sesame.",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "panfriedriceroll",
+                "place": ""
+            }
+        ],
+        "Description": "Rice rolls that are typically cut into short segments and pan-fried in a sauce, such as oyster sauce or XO sauce, and coated with sesame.",
+        "Tags": [
             "煎腸粉",
             "腸粉",
             "煎",
             "粉",
             "茶餐廳"
         ],
-        "Resources":
-        [
-         {"name":"Pinterest", "URL":"https://www.pinterest.com/technicat/dim-sum/pan-fried-rice-roll/"},
-            {"name":"Dim Sum Guide", "URL":"https://dimsumguide.com/site/view/Pan-fried-Rice-roll"},
-            {"name":"Whisks and Chopsticks", "URL":"https://whisksandchopsticks.wordpress.com/2012/01/22/pan-fried-rice-rolls-dim-sum/"}
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/pan-fried-rice-roll/"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Pan-fried-Rice-roll"
+            },
+            {
+                "name": "Whisks and Chopsticks",
+                "URL": "https://whisksandchopsticks.wordpress.com/2012/01/22/pan-fried-rice-rolls-dim-sum/"
+            }
         ]
     },
-
     {
-        "words":
-        [{
-            "Chinese": "XO醬煎腸粉",
-            "Simplified": "XO酱煎肠粉",
-            "English":"pan-fried rice roll w/ XO sauce",
-            "Yale": "XO jeung jīn chéung fán",
-            "Pinyin":"XO jiàng jiān cháng fěn",
-             "Resources":
-            [
-            {"name":"XO醬","URL":"https://en.wiktionary.org/wiki/XO醬"},
-            {"name":"醬","URL":"https://en.wiktionary.org/wiki/醬"},
-            {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-            {"name":"腸粉","URL":"https://en.wiktionary.org/wiki/腸粉"},
-            {"name":"腸","URL":"https://en.wiktionary.org/wiki/腸"},
-            {"name":"粉","URL":"https://en.wiktionary.org/wiki/粉"}
-            ]
-        }],
-        "images":
-        [
-         {
-             "image":"ricerolljj",
-             "place":"JJ Noodle Cafe, Las Vegas"
-         }
+        "words": [
+            {
+                "Chinese": "XO醬煎腸粉",
+                "Simplified": "XO酱煎肠粉",
+                "English": "pan-fried rice roll w/ XO sauce",
+                "Yale": "XO jeung jīn chéung fán",
+                "Pinyin": "XO jiàng jiān cháng fěn",
+                "Resources": [
+                    {
+                        "name": "XO醬",
+                        "URL": "https://en.wiktionary.org/wiki/XO醬"
+                    },
+                    {
+                        "name": "醬",
+                        "URL": "https://en.wiktionary.org/wiki/醬"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "腸粉",
+                        "URL": "https://en.wiktionary.org/wiki/腸粉"
+                    },
+                    {
+                        "name": "腸",
+                        "URL": "https://en.wiktionary.org/wiki/腸"
+                    },
+                    {
+                        "name": "粉",
+                        "URL": "https://en.wiktionary.org/wiki/粉"
+                    }
+                ]
+            }
         ],
-        "Description": 
-            "Rice rolls that are typically cut into short segments and pan-fried in a sauce, such as oyster sauce or XO sauce, and coated with sesame.",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "ricerolljj",
+                "place": "JJ Noodle Cafe, Las Vegas"
+            }
+        ],
+        "Description": "Rice rolls that are typically cut into short segments and pan-fried in a sauce, such as oyster sauce or XO sauce, and coated with sesame.",
+        "Tags": [
             "煎腸粉",
             "腸粉",
             "XO醬",
@@ -78,12 +107,23 @@
             "粉",
             "茶餐廳"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", "URL":"https://www.pinterest.com/technicat/dim-sum/pan-fried-rice-roll-with-xo-sauce/"},
-            {"name":"Wikipedia", "URL":"https://en.wikipedia.org/wiki/XO_sauce"},
-            {"name":"The Woks of Life", "URL":"https://thewoksoflife.com/2016/10/xo-sauce-recipe/"}
+        "Resources": [
+            {
+                "name": "Pinterest",
+                "URL": "https://www.pinterest.com/technicat/dim-sum/pan-fried-rice-roll-with-xo-sauce/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/XO_sauce"
+            },
+            {
+                "name": "Food Touring",
+                "URL": "https://food-touring.com/2014/02/05/hong-kong-pan-fried-rice-roll/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2016/10/xo-sauce-recipe/"
+            }
         ]
     }
-
- ]
+]
