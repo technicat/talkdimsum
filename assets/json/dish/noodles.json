@@ -1,189 +1,241 @@
-
 [
   {
-    "words":
-    [
-    {
-      "Chinese" : "擔擔麵",
-      "Simplified" : "担担面",
-      "English" :"dandan noodles",
-      "Yale": "daam daam mihn",
-      "Pinyin":"dàn dàn miàn",
-      "Resources":
-        [
-        {"name":"擔擔麵","URL":"https://en.wiktionary.org/wiki/擔擔麵"},
-        {"name":"擔","URL":"https://en.wiktionary.org/wiki/擔"},
-        {"name":"麵","URL":"https://en.wiktionary.org/wiki/麵"}
+    "words": [
+      {
+        "Chinese": "擔擔麵",
+        "Simplified": "担担面",
+        "English": "dandan noodles",
+        "Yale": "daam daam mihn",
+        "Pinyin": "dàn dàn miàn",
+        "Resources": [
+          {
+            "name": "擔擔麵",
+            "URL": "https://en.wiktionary.org/wiki/擔擔麵"
+          },
+          {
+            "name": "擔",
+            "URL": "https://en.wiktionary.org/wiki/擔"
+          },
+          {
+            "name": "麵",
+            "URL": "https://en.wiktionary.org/wiki/麵"
+          }
         ]
-    }
+      }
     ],
-      "images" : 
-      [
-        {
-            "image":"dandannoodleseverygrain",
-            "place":"Every Grain, Las Vegas, Nevada"
-            
-        }
-      ],
-      "Description": 
-        "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.\n\n擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and 麵 is “noodles.”",
-      "Tags":
-      [
+    "images": [
+      {
+        "image": "dandannoodleseverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.\n\n擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and 麵 is “noodles.”",
+    "Tags": [
       "四川",
-          "麵"
-          ],
-      "Resources":
-      [
-      {"name":"Pinterest", 
-        "URL" :"https://www.pinterest.com/technicat/dim-sum/dan-dan-noodles/"},
-       {"name":"Wikipedia", 
-        "URL" :"https://en.wikipedia.org/wiki/Dandan_noodles"},
-      {"name":"The Woks of Life", 
-        "URL" :"https://thewoksoflife.com/dan-dan-noodles/"},
-      {"name":"China Sichuan Food", 
-        "URL" :"https://www.chinasichuanfood.com/dan-dan-noodles/"}
-      ]
-    },
-
-{
-    "words":
-    [
-    {
-      "Chinese": "麻醬麵",
-      "Simplified": "麻酱面",
-      "English":"sesame noodles",
-      "Yale": "màh jeung mihn",
-      "Pinyin":"má jiàng miàn",
-       "Resources":
-        [
-        {"name":"麻醬","URL":"https://en.wiktionary.org/wiki/麻醬"},
-        {"name":"麻","URL":"https://en.wiktionary.org/wiki/麻"},
-        {"name":"醬","URL":"https://en.wiktionary.org/wiki/醬"},
-        {"name":"麵","URL":"https://en.wiktionary.org/wiki/麵"}
-        ]
-    }
+      "麵"
     ],
-      "images": 
-      [
-        {
-            "image":"sesamenoodleseverygrain",
-            "place":"Every Grain, Las Vegas, Nevada"
-            
-        }
-      ],
-      "Description": 
-        "A Shanghai dish, noodles in a creamy sesame sauce.\n\n麻醬 is “sesame paste,” and 麵 is “noodles,” so ”sesame paste noodles.”",
-      "Tags":
-      [
-        "上海",
-        "麻醬",
-          "麵"
-      ],
-      "Resources":
-      [
-      {"name":"Pinterest", 
-        "URL" :"https://www.pinterest.com/technicat/dim-sum/sesame-noodles/"},
-      {"name":"The Woks of Life", 
-        "URL" :"https://thewoksoflife.com/sesame-noodles/"}
-      ]
-    },
-
-    {
-      "words":
-      [
-        {
-       "Chinese" : "伊麵",
-       "Simplified" : "伊面",
-       "English" :"yi mein",
-       "Yale": "yī mihn",
-         "Pinyin":"yī miàn",
-         "Resources":
-        [
-        {"name":"伊麵","URL":"https://en.wiktionary.org/wiki/伊麵"},
-        {"name":"伊","URL":"https://en.wiktionary.org/wiki/伊"},
-        {"name":"麵","URL":"https://en.wiktionary.org/wiki/麵"}
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/dan-dan-noodles/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/dan-dan-noodles/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "麻醬麵",
+        "Simplified": "麻酱面",
+        "English": "sesame noodles",
+        "Yale": "màh jeung mihn",
+        "Pinyin": "má jiàng miàn",
+        "Resources": [
+          {
+            "name": "麻醬",
+            "URL": "https://en.wiktionary.org/wiki/麻醬"
+          },
+          {
+            "name": "麻",
+            "URL": "https://en.wiktionary.org/wiki/麻"
+          },
+          {
+            "name": "醬",
+            "URL": "https://en.wiktionary.org/wiki/醬"
+          },
+          {
+            "name": "麵",
+            "URL": "https://en.wiktionary.org/wiki/麵"
+          }
         ]
-         }],
-       "images" : 
-       [
-           {
-               "image":"yimeinzenpeninsula",
-               "place":"Zen Peninsula, Millbrae, California"
-               
-           }
-       ],
-       "Description": 
-        "Thick, chewy, yellow noodles.\n\n伊 is the surname of 伊秉绶, whose household chef, as legend has it, invented this by accidentally deep-frying cooked noodles.\n\nAlso known as “long life” or ”longevity noodles” and served on birthdays.",
-       "Tags":
-       [
-          "茶餐廳",
-             "麵"
-        ],
-       "Resources":
-       [
-          {"name":"Wikipedia", 
-            "URL" :"https://en.wikipedia.org/wiki/Yi_mein"},
-          {"name":"The Woks of Life", 
-            "URL" :"https://thewoksoflife.com/2017/01/long-life-noodles-yi-mein/"}
+      }
+    ],
+    "images": [
+      {
+        "image": "sesamenoodleseverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "A Shanghai dish, noodles in a creamy sesame sauce.\n\n麻醬 is “sesame paste,” and 麵 is “noodles,” so ”sesame paste noodles.”",
+    "Tags": [
+      "上海",
+      "麻醬",
+      "麵"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/sesame-noodles/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/sesame-noodles/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "伊麵",
+        "Simplified": "伊面",
+        "English": "yi mein",
+        "Yale": "yī mihn",
+        "Pinyin": "yī miàn",
+        "Resources": [
+          {
+            "name": "伊麵",
+            "URL": "https://en.wiktionary.org/wiki/伊麵"
+          },
+          {
+            "name": "伊",
+            "URL": "https://en.wiktionary.org/wiki/伊"
+          },
+          {
+            "name": "麵",
+            "URL": "https://en.wiktionary.org/wiki/麵"
+          }
         ]
-       },
-    
-
- 
- {
-    "words":
-    [
-    {
-     "Chinese": "星洲炒米粉",
-     "English":"Singapore-style noodles",
-     "Yale": "sīng jāu cháau maih fán",
-     "Pinyin":"xīng zhōu chǎo mǐ fěn",
-     "Resources":
-        [
-          {"name":"星洲炒米","URL":"https://en.wiktionary.org/wiki/星洲炒米"},
-          {"name":"星洲","URL":"https://en.wiktionary.org/wiki/星洲"},
-        {"name":"星","URL":"https://en.wiktionary.org/wiki/星"},
-        {"name":"洲","URL":"https://en.wiktionary.org/wiki/洲"},
-        {"name":"州","URL":"https://en.wiktionary.org/wiki/州"},
-        {"name":"炒","URL":"https://en.wiktionary.org/wiki/炒"},
-        {"name":"米粉","URL":"https://en.wiktionary.org/wiki/米粉"},
-        {"name":"米","URL":"https://en.wiktionary.org/wiki/米"},
-        {"name":"粉","URL":"https://en.wiktionary.org/wiki/粉"}
+      }
+    ],
+    "images": [
+      {
+        "image": "yimeinzenpeninsula",
+        "place": "Zen Peninsula, Millbrae, California"
+      }
+    ],
+    "Description": "Thick, chewy, yellow noodles.\n\n伊 is the surname of 伊秉绶, whose household chef, as legend has it, invented this by accidentally deep-frying cooked noodles.\n\nAlso known as “long life” or ”longevity noodles” and served on birthdays.",
+    "Tags": [
+      "茶餐廳",
+      "麵"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yi_mein"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/05/26/guangdong-hong-kong-dried-fried-yee-mein/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2017/01/long-life-noodles-yi-mein/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "星洲炒米粉",
+        "English": "Singapore-style noodles",
+        "Yale": "sīng jāu cháau maih fán",
+        "Pinyin": "xīng zhōu chǎo mǐ fěn",
+        "Resources": [
+          {
+            "name": "星洲炒米",
+            "URL": "https://en.wiktionary.org/wiki/星洲炒米"
+          },
+          {
+            "name": "星洲",
+            "URL": "https://en.wiktionary.org/wiki/星洲"
+          },
+          {
+            "name": "星",
+            "URL": "https://en.wiktionary.org/wiki/星"
+          },
+          {
+            "name": "洲",
+            "URL": "https://en.wiktionary.org/wiki/洲"
+          },
+          {
+            "name": "州",
+            "URL": "https://en.wiktionary.org/wiki/州"
+          },
+          {
+            "name": "炒",
+            "URL": "https://en.wiktionary.org/wiki/炒"
+          },
+          {
+            "name": "米粉",
+            "URL": "https://en.wiktionary.org/wiki/米粉"
+          },
+          {
+            "name": "米",
+            "URL": "https://en.wiktionary.org/wiki/米"
+          },
+          {
+            "name": "粉",
+            "URL": "https://en.wiktionary.org/wiki/粉"
+          }
         ]
-     }
-     ],
-     "images": 
-     [
-         {
-             "image":"singaporenoodlescalifornianoodlehouse",
-             "place":"California Noodle House, Las Vegas, Nevada"
-         }
-     ],
-     "Description": 
-      "Thin rice nooodles flavored with curry powder, stir-fried with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n星洲 (sometimes written as 星州) is a short name for “Singapore,” 炒 is “fried,” and 米粉 is “rice noodles.” Often shortened to 星洲炒米 or even 星米.\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.",
-     "Tags":
-     [
-        "茶餐廳",
-         "星洲",
-         "炒",
-         "米",
-         "米粉",
-         "咖喱",
-         "香港",
-         "麵",
-         "點心"
-     ],
-     "Resources":
-     [
-      {"name":"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/singapore-noodles/"},
-         {"name":"Wikipedia", 
-          "URL":"http://en.wikipedia.org/wiki/Singapore-style_noodles"},
-         {"name":"Dimsumptuous", 
-          "URL":"http://www.dimsumptuous.com/2013/04/singapore-fried-rice-vermicelli-fried.html"},
-         {"name":"The Woks of Life", 
-          "URL":"https://thewoksoflife.com/2013/11/singapore-noodles-mei-fun/"}
-     ]
- }
- 
- ]
+      }
+    ],
+    "images": [
+      {
+        "image": "singaporenoodlescalifornianoodlehouse",
+        "place": "California Noodle House, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Thin rice nooodles flavored with curry powder, stir-fried with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n星洲 (sometimes written as 星州) is a short name for “Singapore,” 炒 is “fried,” and 米粉 is “rice noodles.” Often shortened to 星洲炒米 or even 星米.\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.",
+    "Tags": [
+      "茶餐廳",
+      "星洲",
+      "炒",
+      "米",
+      "米粉",
+      "咖喱",
+      "香港",
+      "麵",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/singapore-noodles/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Singapore-style_noodles"
+      },
+      {
+        "name": "Dimsumptuous",
+        "URL": "http://www.dimsumptuous.com/2013/04/singapore-fried-rice-vermicelli-fried.html"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2013/11/singapore-noodles-mei-fun/"
+      }
+    ]
+  }
+]
