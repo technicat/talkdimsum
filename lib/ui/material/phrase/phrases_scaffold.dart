@@ -47,11 +47,13 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
                     ? Center(child: CircularProgressIndicator())
                     : PhrasesListView(phrases: phrases));
           },
-          loading: (_) => CircularProgressIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: Colors.red),
-              ));
+          loading: (_) => Scaffold(
+              appBar: AppBar(title: Text('Phrases')),
+              body: CircularProgressIndicator()),
+          error: (_) => Scaffold(
+              appBar: AppBar(title: Text('Phrases')),
+              body: Text(_.error.toString(),
+                  style: TextStyle(color: Colors.red))));
     });
   }
 }
