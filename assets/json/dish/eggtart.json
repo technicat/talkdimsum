@@ -1,173 +1,222 @@
-
 [
- 
- {
-    "words":
-    [
+  {
+    "words": [
       {
         "Chinese": "蛋撻",
         "Simplified": "蛋挞",
-        "English":"egg tart",
+        "English": "egg tart",
         "Yale": "daahn tāat",
-        "Pinyin" : "dàn tà",
-          "Resources":
-        [
-        {"name":"蛋撻","URL":"https://en.wiktionary.org/wiki/蛋撻"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"},
-        {"name":"撻","URL":"https://en.wiktionary.org/wiki/撻"}
+        "Pinyin": "dàn tà",
+        "Resources": [
+          {
+            "name": "蛋撻",
+            "URL": "https://en.wiktionary.org/wiki/蛋撻"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          },
+          {
+            "name": "撻",
+            "URL": "https://en.wiktionary.org/wiki/撻"
+          }
         ]
       }
     ],
-     "images":
-     [
-         {
-             "image":"eggtartmixedmarket168",
-             "place":"Yum Cha, Las Vegas, Nevada"
-         }
-     ],
-     "Description":
-      "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\n蛋 is “egg,” and 撻 stands for “tart” (actually a loan word that sounds like “tart.”\n\nUsually 蛋撻 refers to Hong Kong-style egg tarts (see next), but it can refer to a variety of egg tarts including Portuguese-style egg tarts.",
-     "Tags":
-     [
+    "images": [
+      {
+        "image": "eggtartmixedmarket168",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\n蛋 is “egg,” and 撻 stands for “tart” (actually a loan word that sounds like “tart.”\n\nUsually 蛋撻 refers to Hong Kong-style egg tarts (see next), but it can refer to a variety of egg tarts including Portuguese-style egg tarts.",
+    "Tags": [
       "蛋撻",
-        "小食",
-        "蛋",
-        "撻",
-        "焗",
-        "素",
-        "甜品",
-        "點心"
-       ],
-     "Resources":
-     [
-        {"name":"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/egg-tarts/"},
-        {"name":"Wikipedia", 
-          "URL":"http://en.wikipedia.org/wiki/Egg_tart"},
-        {"name":"Dim Sum Central", 
-          "URL":"http://www.dimsumcentral.com/egg-tarts/"},
-        {"name":"Dim Sum Guide", 
-          "URL":"https://dimsumguide.com/site/view/Egg-Custard-Tart"},
-        {"name":"DimSumptuous", 
-          "URL":"http://www.dimsumptuous.com/2013/05/egg-tarts.html"},
-        {"name":"Oh My Food Recipes", 
-          "URL":"https://www.ohmyfoodrecipes.com/egg-tarts/"}
-      ]
- },
- 
- {
-
-    "words":
-    [
+      "小食",
+      "蛋",
+      "撻",
+      "焗",
+      "素",
+      "甜品",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/egg-tarts/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Egg_tart"
+      },
+      {
+        "name": "Dim Sum Central",
+        "URL": "http://www.dimsumcentral.com/egg-tarts/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Egg-Custard-Tart"
+      },
+      {
+        "name": "DimSumptuous",
+        "URL": "http://www.dimsumptuous.com/2013/05/egg-tarts.html"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/egg-tarts/"
+      }
+    ]
+  },
+  {
+    "words": [
       {
         "Chinese": "港式蛋撻",
         "Simplified": "港式蛋挞",
-        "English":"Hong Kong egg tart",
+        "English": "Hong Kong egg tart",
         "Yale": "góng sīk daahn tāat",
-        "Pinyin" : "Gǎng sh dàn tà",
-        "Resources":
-        [
-        {"name":"港式","URL":"https://en.wiktionary.org/wiki/港式"},
-        {"name":"港","URL":"https://en.wiktionary.org/wiki/港"},
-        {"name":"式","URL":"https://en.wiktionary.org/wiki/式"},
-        {"name":"蛋撻","URL":"https://en.wiktionary.org/wiki/蛋撻"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"},
-        {"name":"撻","URL":"https://en.wiktionary.org/wiki/撻"}
+        "Pinyin": "Gǎng sh dàn tà",
+        "Resources": [
+          {
+            "name": "港式",
+            "URL": "https://en.wiktionary.org/wiki/港式"
+          },
+          {
+            "name": "港",
+            "URL": "https://en.wiktionary.org/wiki/港"
+          },
+          {
+            "name": "式",
+            "URL": "https://en.wiktionary.org/wiki/式"
+          },
+          {
+            "name": "蛋撻",
+            "URL": "https://en.wiktionary.org/wiki/蛋撻"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          },
+          {
+            "name": "撻",
+            "URL": "https://en.wiktionary.org/wiki/撻"
+          }
         ]
       }
     ],
-    "images":
-    [
-         {
-             "image":"eggtartkj",
-             "place":"KJ Dim Sum and Seafood, Las Vegas, Nevada"
-         }
-     ],
-     "Description":
-      "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\n蛋 is “egg” and 撻 stands for “tart“ (actually a loan word that sounds like “tart.”\n\n港式 means “Hong Kong style” (the first character 港 is the second character in Hong Kong).\n\nHong Kong style egg tarts resemble British custard tarts, but there seems to be some debate whether they derived directly from British tarts or from the Portuguese style egg tarts by way of Macau (see the next dish).",
-     "Tags":
-     [
-         "蛋撻",
-         "蛋",
-         "撻",
-         "焗",
-         "黃色",
-         "素",
-         "香港",
-         "甜品",
-         "港式",
-         "點心",
-        "小食"
-     ],
-     "Resources":
-     [
-         {"name":"Dimsumptuous", 
-          "URL":"http://www.dimsumptuous.com/2013/09/egg-tarts-direct-bake-method.html"},
-         {"name":"The Hong Kong Cookery",
-          "URL":"http://www.thehongkongcookery.com/2016/01/chinese-egg-tarts.html"},
-         {"name":"The Woks of Life", 
-          "URL":"https://thewoksoflife.com/2014/07/hong-kong-egg-tarts/"},
-         {"name":"China Sichuan Food", 
-          "URL":"https://www.chinasichuanfood.com/egg-tart-recipe-hong-kong-style/"},
-         {"name":"Kirbie's Cravings", 
-          "URL":"https://kirbiecravings.com/chinese-egg-tarts-2/"},
-         {"name":"Christine's Recipes", 
-          "URL":"https://en.christinesrecipes.com/2009/03/cantonese-egg-tarts-recipe.html"}
-     ]
- },
-
- {
-   "words":
-   [
-    {
-      "Chinese":"葡撻",
-      "Simplified":"葡挞",
-      "English" :"Portuguese egg tart",
-      "Alternate": "葡式蛋挞",
-      "Yale": "pòu tāat",
-      "Pinyin" : "Pú tà",
-        "Resources":
-        [
-        {"name":"葡撻","URL":"https://en.wiktionary.org/wiki/葡撻"},
-        {"name":"葡","URL":"https://en.wiktionary.org/wiki/葡"},
-        {"name":"撻","URL":"https://en.wiktionary.org/wiki/撻"}
-        ]
-      }],
-      "images":
-      [
+    "images": [
       {
-              "image":"portugueseeggtartpingpangpong",
-              "place":"Ping Pang Pong, Las Vegas, Nevada"
+        "image": "eggtartkj",
+        "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\n蛋 is “egg” and 撻 stands for “tart“ (actually a loan word that sounds like “tart.”\n\n港式 means “Hong Kong style” (the first character 港 is the second character in Hong Kong).\n\nHong Kong style egg tarts resemble British custard tarts, but there seems to be some debate whether they derived directly from British tarts or from the Portuguese style egg tarts by way of Macau (see the next dish).",
+    "Tags": [
+      "蛋撻",
+      "蛋",
+      "撻",
+      "焗",
+      "黃色",
+      "素",
+      "香港",
+      "甜品",
+      "港式",
+      "點心",
+      "小食"
+    ],
+    "Resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/egg-tart-recipe-hong-kong-style/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2009/03/cantonese-egg-tarts-recipe.html"
+      },
+      {
+        "name": "Dimsumptuous",
+        "URL": "http://www.dimsumptuous.com/2013/09/egg-tarts-direct-bake-method.html"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2016/01/chinese-egg-tarts.html"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/09/30/hong-kong-egg-tart-tai-cheong-bakery/"
+      },
+      {
+        "name": "Kirbie's Cravings",
+        "URL": "https://kirbiecravings.com/chinese-egg-tarts-2/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2014/07/hong-kong-egg-tarts/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "葡撻",
+        "Simplified": "葡挞",
+        "English": "Portuguese egg tart",
+        "Alternate": "葡式蛋挞",
+        "Yale": "pòu tāat",
+        "Pinyin": "Pú tà",
+        "Resources": [
+          {
+            "name": "葡撻",
+            "URL": "https://en.wiktionary.org/wiki/葡撻"
           },
           {
-              "image":"portugueseeggtart"
+            "name": "葡",
+            "URL": "https://en.wiktionary.org/wiki/葡"
+          },
+          {
+            "name": "撻",
+            "URL": "https://en.wiktionary.org/wiki/撻"
           }
-      ],
-      "Description":
-      "Portuguese-style egg tarts, originating from Macau and a specialty there, feature a burnt top on the custard filling reminiscent of creme brulee. They are derived from the Portuguse pastel de nata.\n\n葡 is short for “Portugal” (the full word is 葡萄牙 pòuh tòuh ngàh) and 撻 is the same “taat” as in the regular “dan taat” (previous).\n\nPro tip: in Hong Kong you can get good Portuguese egg tarts at KFC.",
-     "Tags":
-     [
-        "小食",
-        "蛋撻",
-        "蛋",
-        "撻",
-        "焗",
-        "素",
-        "葡國",
-        "甜品",
-        "點心"
-      ],
-     "Resources":
-     [
-        {"name":"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/portuguese-egg-tarts/"},
-        {"name":"Pastel de nata", 
-          "URL":"https://en.wikipedia.org/wiki/Pastel_de_nata"},
-        {"name":"China Sichuan Food", 
-          "URL":"https://www.chinasichuanfood.com/portuguese-egg-tart-recipe/"},
-        {"name":"Dim Sum Guide", 
-          "URL":"https://dimsumguide.com/site/view/Portuguese-Egg-Tart"}
-      ]
- }
- 
- ]
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "portugueseeggtartpingpangpong",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      },
+      {
+        "image": "portugueseeggtart"
+      }
+    ],
+    "Description": "Portuguese-style egg tarts, originating from Macau and a specialty there, feature a burnt top on the custard filling reminiscent of creme brulee. They are derived from the Portuguse pastel de nata.\n\n葡 is short for “Portugal” (the full word is 葡萄牙 pòuh tòuh ngàh) and 撻 is the same “taat” as in the regular “dan taat” (previous).\n\nPro tip: in Hong Kong you can get good Portuguese egg tarts at KFC.",
+    "Tags": [
+      "小食",
+      "蛋撻",
+      "蛋",
+      "撻",
+      "焗",
+      "素",
+      "葡國",
+      "甜品",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/portuguese-egg-tarts/"
+      },
+      {
+        "name": "Pastel de nata",
+        "URL": "https://en.wikipedia.org/wiki/Pastel_de_nata"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/portuguese-egg-tart-recipe/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Portuguese-Egg-Tart"
+      }
+    ]
+  }
+]

@@ -1,245 +1,357 @@
 [
-
- {
-  "words":
-  [
-    {
-    "English" : "tofu pudding",
-    "Chinese" :"豆腐花",
-    "Yale" : "dauh fuh fā",
-    "Pinyin" : "dòu fu huā",
-    "Resources":
-        [
-        {"name":"豆腐花","URL":"https://en.wiktionary.org/wiki/豆腐花"},
-        {"name":"豆腐","URL":"https://en.wiktionary.org/wiki/豆腐"},
-        {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-        {"name":"腐","URL":"https://en.wiktionary.org/wiki/腐"},
-        {"name":"花","URL":"https://en.wiktionary.org/wiki/花"}
-        ]
-    }
-  ],
-   "names" : 
-    [
-     {
-            "Chinese" :"豆花",
-            "Yale" : "dauh fā",
-            "Pinyin" : "dòu huā"
-      }
-    ],
-    "images": 
-    [
+  {
+    "words": [
       {
-          "image":"tofupuddingpingpangpong",
-          "place":"Ping Pang Pong"
+        "English": "tofu pudding",
+        "Chinese": "豆腐花",
+        "Yale": "dauh fuh fā",
+        "Pinyin": "dòu fu huā",
+        "Resources": [
+          {
+            "name": "豆腐花",
+            "URL": "https://en.wiktionary.org/wiki/豆腐花"
+          },
+          {
+            "name": "豆腐",
+            "URL": "https://en.wiktionary.org/wiki/豆腐"
+          },
+          {
+            "name": "豆",
+            "URL": "https://en.wiktionary.org/wiki/豆"
+          },
+          {
+            "name": "腐",
+            "URL": "https://en.wiktionary.org/wiki/腐"
+          },
+          {
+            "name": "花",
+            "URL": "https://en.wiktionary.org/wiki/花"
+          }
+        ]
       }
     ],
-    "Description": 
-      "Very soft, sweet, tofu served in a bowl with syrup, for dessert.\n\n豆腐 is “tofu,” and 花 is “flower.”\n\nIn Mandarin, this is often called 豆花 (dòu huā) for short.",
-    "Tags":
-    [
-            "豆腐",
-            "花",
-            "凍",
-            "素",
-            "甜品",
-            "點心"
-            ],
-    "Resources": 
-    [
-        {"name":"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/tofu-pudding/"},
-        {"name":"Wikipedia",
-          "URL":"http://en.wikipedia.org/wiki/Douhua"},
-        {"name":"Dim Sum Central",
-          "URL":"http://www.dimsumcentral.com/sweet-tofu/"},
-        {"name":"Dim Sum Guide",
-          "URL":"https://dimsumguide.com/site/view/Sweet-Tofu-Pudding"},
-        {"name":"Christine's Recipes",
-          "URL":"https://en.christinesrecipes.com/2008/06/tofu-fa-recipe-chinese-dessert.html"},
-        {"name":"Angel Wong's Kitchen",
-          "URL":"https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"},
-        {"name":"Panda Cheffy",
-          "URL":"https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dou-hua-salt-ead48ff6f057"},
-        {"name":"Oh My Food Recipes",
-          "URL":"https://www.ohmyfoodrecipes.com/tofu-pudding-dessert/"}
-      ]
- },
- 
- {
-    "words":
-    [  
-    {
-    "Chinese" : "芒果布甸",
-    "English" : "mango pudding",
-    "Yale" : "mōng gwó bou dīn",
-    "Pinyin" : "máng guǒ bù diàn",
-    "Resources":
-    [
-      {"name":"芒果布甸","URL":"https://en.wiktionary.org/wiki/芒果布甸"},
-      {"name":"芒果","URL":"https://en.wiktionary.org/wiki/芒果"},
-      {"name":"芒","URL":"https://en.wiktionary.org/wiki/芒"},
-      {"name":"果","URL":"https://en.wiktionary.org/wiki/果"},
-      {"name":"布甸","URL":"https://en.wiktionary.org/wiki/布甸"},
-      {"name":"布","URL":"https://en.wiktionary.org/wiki/布"},
-      {"name":"甸","URL":"https://en.wiktionary.org/wiki/甸"}
+    "images": [
+      {
+        "image": "tofupuddingpingpangpong",
+        "place": "Ping Pang Pong"
+      }
+    ],
+    "Description": "Very soft, sweet, tofu served in a bowl with syrup, for dessert.\n\n豆腐 is “tofu,” and 花 is “flower.”\n\nIn Mandarin, this is often called 豆花 (dòu huā) for short.",
+    "Tags": [
+      "豆腐",
+      "花",
+      "凍",
+      "素",
+      "甜品",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/tofu-pudding/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Douhua"
+      },
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/06/tofu-fa-recipe-chinese-dessert.html"
+      },
+      {
+        "name": "Dim Sum Central",
+        "URL": "http://www.dimsumcentral.com/sweet-tofu/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Sweet-Tofu-Pudding"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/10/01/hong-kong-tofu-fa-%e5%bb%96%e5%90%8c%e5%90%88%e8%8d%b3%e5%93%81%e5%bb%a0/"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/tofu-pudding-dessert/"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dou-hua-salt-ead48ff6f057"
+      }
     ]
-    },
-    {
-    "Chinese" : "芒果布丁",
-    "English" : "mango pudding",
-    "Yale" : "mōng gwó bou dīng",
-    "Pinyin" : "máng guǒ bù dīng",
-    "Resources":
-    [
-    {"name":"芒果","URL":"https://en.wiktionary.org/wiki/芒果"},
-    {"name":"芒","URL":"https://en.wiktionary.org/wiki/芒"},
-    {"name":"果","URL":"https://en.wiktionary.org/wiki/果"},
-    {"name":"布甸","URL":"https://en.wiktionary.org/wiki/布丁"},
-    {"name":"布","URL":"https://en.wiktionary.org/wiki/布"},
-    {"name":"甸","URL":"https://en.wiktionary.org/wiki/丁"}
-    ]
-    }
-  ],  
-    "images" :
-      [
+  },
+  {
+    "words": [
+      {
+        "Chinese": "芒果布甸",
+        "English": "mango pudding",
+        "Yale": "mōng gwó bou dīn",
+        "Pinyin": "máng guǒ bù diàn",
+        "Resources": [
           {
-              "image":"mangopuddingyumcha",
-              "place":"Yum Cha, Las Vegas, Nevada"
+            "name": "芒果布甸",
+            "URL": "https://en.wiktionary.org/wiki/芒果布甸"
+          },
+          {
+            "name": "芒果",
+            "URL": "https://en.wiktionary.org/wiki/芒果"
+          },
+          {
+            "name": "芒",
+            "URL": "https://en.wiktionary.org/wiki/芒"
+          },
+          {
+            "name": "果",
+            "URL": "https://en.wiktionary.org/wiki/果"
+          },
+          {
+            "name": "布甸",
+            "URL": "https://en.wiktionary.org/wiki/布甸"
+          },
+          {
+            "name": "布",
+            "URL": "https://en.wiktionary.org/wiki/布"
+          },
+          {
+            "name": "甸",
+            "URL": "https://en.wiktionary.org/wiki/甸"
           }
-      ],
-    "Description" : 
-      "Pudding made from mango, sugar and condensed milk, thickened with agar or gelatin.\n\n芒果 means sounds like “mango,” and 布甸 smeans and sort of sounds like “pudding.” The more common Mandarin word  for “pudding” 布丁 sounds a little closer (“bou dīng” in Cantonese, “bù dīng” in Mandarin).\n\nThis dish is likely descended from an Indian mango pudding.",
-      "Tags": 
-      [
-            "芒果",
-            "布甸",
-            "果",
-            "凍",
-            "素",
-            "牛奶",
-            "甜品",
-            "點心"
-            ],
-      "Resources":
-      [
-        {"name":"Pinterest",
-          "URL":"https://www.pinterest.com/technicat/dim-sum/mango-pudding/"},
-        {"name":"Wikipedia",
-          "URL":"http://en.wikipedia.org/wiki/Mango_pudding"},
-        {"name":"China Sichuan Food",
-          "URL":"https://www.chinasichuanfood.com/chinese-mango-pudding/"},
-        {"name":"Dim Sum Central",
-          "URL":"http://www.dimsumcentral.com/mango-pudding/"},
-        {"name":"Dim Sum Guide",
-          "URL":"https://dimsumguide.com/site/view/Mango-Pudding"},
-        {"name":"The Hong Kong Cookery",
-          "URL":"http://www.thehongkongcookery.com/2016/05/hong-kong-style-mango-pudding.html"},
-        {"name":"A Kitchen Cat",
-          "URL":"https://akitchencat.com.au/mango-pudding/"},
-        {"name":"Christine's Recipes",
-          "URL":"https://en.christinesrecipes.com/2008/06/mango-pudding-chinese-style.html"},
-        {"name":"Diana's Dessert",
-          "URL":"http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/4236/Recipe.cfm"}
-                 ]
- },
-
- {
-  "words":
-  [
-    {
-    "Chinese": "西米布甸",
-    "English":"baked tapioca pudding",
-    "Yale": "sāi máih bou dīn",
-    "Pinyin" : "xī mǐ bù diàn",
-    "Resources":
-        [
-        {"name":"西米","URL":"https://en.wiktionary.org/wiki/西米"},
-        {"name":"西","URL":"https://en.wiktionary.org/wiki/西"},
-        {"name":"米","URL":"https://en.wiktionary.org/wiki/米"},
-          {"name":"布甸","URL":"https://en.wiktionary.org/wiki/布甸"},
-       {"name":"布","URL":"https://en.wiktionary.org/wiki/布"},
-       {"name":"甸","URL":"https://en.wiktionary.org/wiki/甸"}
         ]
-    }
-  ],
-    "images" : [
-       {
-           "image":"tapiocapuddingzenpeninsula2",
-           "place":"Zen Peninsula, Millbrae, California"
-       }
-   ],
-    "Description": 
-      "Baked tapioca pudding with a carmealized top and creamy center.\n\nn西 means “Western,” and 米 means “grain,“ and as with mango pudding, 布甸 more or less sounds like “pudding.”\n\n西米 is also the term for sago, which is similar to tapioca, so this dish name also refers to sago pudding.",
-    "Tags":
-    [
-        "布甸",
-        "焗",
-        "甜品",
-        "點心"
+      },
+      {
+        "Chinese": "芒果布丁",
+        "English": "mango pudding",
+        "Yale": "mōng gwó bou dīng",
+        "Pinyin": "máng guǒ bù dīng",
+        "Resources": [
+          {
+            "name": "芒果",
+            "URL": "https://en.wiktionary.org/wiki/芒果"
+          },
+          {
+            "name": "芒",
+            "URL": "https://en.wiktionary.org/wiki/芒"
+          },
+          {
+            "name": "果",
+            "URL": "https://en.wiktionary.org/wiki/果"
+          },
+          {
+            "name": "布甸",
+            "URL": "https://en.wiktionary.org/wiki/布丁"
+          },
+          {
+            "name": "布",
+            "URL": "https://en.wiktionary.org/wiki/布"
+          },
+          {
+            "name": "甸",
+            "URL": "https://en.wiktionary.org/wiki/丁"
+          }
+        ]
+      }
     ],
-    "Resources":
-    [
-        {"name":"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/tapioca-pudding/"},
-        {"name":"Wikipedia", 
-          "URL":"https://en.wikipedia.org/wiki/Tapioca_pudding"},
-        {"name":"Dim Sum Guide", 
-          "URL":"https://dimsumguide.com/site/view/Baked-Tapioca-Pudding"},
-        {"name":"Wan Tan Mien",
-          "URL":"http://wantanmien.com/baked-tapioca-custard-dim-sum-焗西米布甸/"}
+    "images": [
+      {
+        "image": "mangopuddingyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Pudding made from mango, sugar and condensed milk, thickened with agar or gelatin.\n\n芒果 means sounds like “mango,” and 布甸 smeans and sort of sounds like “pudding.” The more common Mandarin word  for “pudding” 布丁 sounds a little closer (“bou dīng” in Cantonese, “bù dīng” in Mandarin).\n\nThis dish is likely descended from an Indian mango pudding.",
+    "Tags": [
+      "芒果",
+      "布甸",
+      "果",
+      "凍",
+      "素",
+      "牛奶",
+      "甜品",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/mango-pudding/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Mango_pudding"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-mango-pudding/"
+      },
+      {
+        "name": "Dim Sum Central",
+        "URL": "http://www.dimsumcentral.com/mango-pudding/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Mango-Pudding"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2016/05/hong-kong-style-mango-pudding.html"
+      },
+      {
+        "name": "A Kitchen Cat",
+        "URL": "https://akitchencat.com.au/mango-pudding/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/06/mango-pudding-chinese-style.html"
+      },
+      {
+        "name": "Diana's Dessert",
+        "URL": "http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/4236/Recipe.cfm"
+      }
     ]
-},
- 
- 
-    {
-      "words":
-      [
-        {
-        "Chinese": "杏仁豆腐",
-        "English":"almond tofu",
-        "Yale": "hahng yàhn dauh fuh",
-        "Pinyin" : "xìng rén dòu fu",
-        "Resources":
-        [
-          {"name":"杏仁豆腐","URL":"https://en.wiktionary.org/wiki/杏仁豆腐"},
-          {"name":"杏仁","URL":"https://en.wiktionary.org/wiki/杏仁"},
-          {"name":"杏","URL":"https://en.wiktionary.org/wiki/杏"},
-          {"name":"仁","URL":"https://en.wiktionary.org/wiki/仁"},
-          {"name":"豆腐","URL":"https://en.wiktionary.org/wiki/豆腐"},
-          {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-          {"name":"腐","URL":"https://en.wiktionary.org/wiki/腐"}
+  },
+  {
+    "words": [
+      {
+        "Chinese": "西米布甸",
+        "English": "baked tapioca pudding",
+        "Yale": "sāi máih bou dīn",
+        "Pinyin": "xī mǐ bù diàn",
+        "Resources": [
+          {
+            "name": "西米",
+            "URL": "https://en.wiktionary.org/wiki/西米"
+          },
+          {
+            "name": "西",
+            "URL": "https://en.wiktionary.org/wiki/西"
+          },
+          {
+            "name": "米",
+            "URL": "https://en.wiktionary.org/wiki/米"
+          },
+          {
+            "name": "布甸",
+            "URL": "https://en.wiktionary.org/wiki/布甸"
+          },
+          {
+            "name": "布",
+            "URL": "https://en.wiktionary.org/wiki/布"
+          },
+          {
+            "name": "甸",
+            "URL": "https://en.wiktionary.org/wiki/甸"
+          }
         ]
-     }
+      }
     ],
-     "images": 
-     [
-         {
-             "image":"almondtofukirin",
-             "place":"Kirin Chinese Restaurant, Mountain View, California"
-         }
-     ],
-     "Description" : 
-      "This looks like and has the consistency of tofu, but it's actually made from sweetened almond milk.\n\n杏仁 means “almond,” and 豆腐 is “tofu.”",
-     "Tags":
-     [
-         "豆腐",
-         "杏仁",
-         "凍",
-         "甜品",
-         "點心"
-     ],
-     "Resources":
-     [
-        {"name":"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/almond-tofu/"},
-        {"name":"Wikipedia", 
-          "URL":"https://en.wikipedia.org/wiki/Annin_tofu"},
-        {"name":"China Sichuan Food", 
-          "URL":"https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/page/4/"},
-        {"name":"The Hong Kong Cookery",
-          "URL":"http://www.thehongkongcookery.com/2011/09/almond-bean-curd-easy-and-elegant.html"},
-        {"name":"Christine's Recipes", 
-          "URL": "https://en.christinesrecipes.com/2015/01/chinese-almond-dessert.html"}
-     ]
-    }
- ]
+    "images": [
+      {
+        "image": "tapiocapuddingzenpeninsula2",
+        "place": "Zen Peninsula, Millbrae, California"
+      }
+    ],
+    "Description": "Baked tapioca pudding with a carmealized top and creamy center.\n\nn西 means “Western,” and 米 means “grain,“ and as with mango pudding, 布甸 more or less sounds like “pudding.”\n\n西米 is also the term for sago, which is similar to tapioca, so this dish name also refers to sago pudding.",
+    "Tags": [
+      "布甸",
+      "焗",
+      "甜品",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/tapioca-pudding/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tapioca_pudding"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Baked-Tapioca-Pudding"
+      },
+      {
+        "name": "Wan Tan Mien",
+        "URL": "http://wantanmien.com/baked-tapioca-custard-dim-sum-焗西米布甸/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "杏仁豆腐",
+        "English": "almond tofu",
+        "Yale": "hahng yàhn dauh fuh",
+        "Pinyin": "xìng rén dòu fu",
+        "Resources": [
+          {
+            "name": "杏仁豆腐",
+            "URL": "https://en.wiktionary.org/wiki/杏仁豆腐"
+          },
+          {
+            "name": "杏仁",
+            "URL": "https://en.wiktionary.org/wiki/杏仁"
+          },
+          {
+            "name": "杏",
+            "URL": "https://en.wiktionary.org/wiki/杏"
+          },
+          {
+            "name": "仁",
+            "URL": "https://en.wiktionary.org/wiki/仁"
+          },
+          {
+            "name": "豆腐",
+            "URL": "https://en.wiktionary.org/wiki/豆腐"
+          },
+          {
+            "name": "豆",
+            "URL": "https://en.wiktionary.org/wiki/豆"
+          },
+          {
+            "name": "腐",
+            "URL": "https://en.wiktionary.org/wiki/腐"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "almondtofukirin",
+        "place": "Kirin Chinese Restaurant, Mountain View, California"
+      }
+    ],
+    "Description": "This looks like and has the consistency of tofu, but it's actually made from sweetened almond milk.\n\n杏仁 means “almond,” and 豆腐 is “tofu.”",
+    "Tags": [
+      "豆腐",
+      "杏仁",
+      "凍",
+      "甜品",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Pinterest",
+        "URL": "https://www.pinterest.com/technicat/dim-sum/almond-tofu/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Annin_tofu"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/page/4/"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2011/09/almond-bean-curd-easy-and-elegant.html"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2015/01/chinese-almond-dessert.html"
+      }
+    ]
+  }
+]
