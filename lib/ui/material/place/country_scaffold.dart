@@ -21,38 +21,36 @@ class CountryScaffoldState extends State<CountryScaffold> {
     return Consumer(builder: (context, watch, child) {
       var countries = watch(countryProvider);
       return countries.map(
-        data: (_) {
-          if (_.value.countries.isEmpty) {
-            return CircularProgressIndicator();
-          } else {
-            country ??= _.value.countries[0];
-            return Scaffold(
-                appBar: AppBar(title: Text(country.name), actions: <Widget>[
-                  PopupMenuButton<Country>(
-                    icon: Icon(Icons.public),
-                    onSelected: (value) {
-                      setState(() {
-                        country = value;
-                      });
-                    },
-                    itemBuilder: (BuildContext context) => _.value.countries
-                        .map((country) => PopupMenuItem<Country>(
-                            value: country, child: Text(country.name)))
-                        .toList(),
-                  )
-                ]),
-                body: RegionListView(country: country));
-          }
-        },
-        loading: (_) => Scaffold(
-                appBar: AppBar(title: Text('Places'),
-                body: CircularProgressIndicator())),
-        error: (_) =>
-        Scaffold(
-                appBar: AppBar(title: Text('Places'),
-                body:
-            Text(_.error.toString(), style: TextStyle(color: Colors.red))))
-      );
+          data: (_) {
+            if (_.value.countries.isEmpty) {
+              return CircularProgressIndicator();
+            } else {
+              country ??= _.value.countries[0];
+              return Scaffold(
+                  appBar: AppBar(title: Text(country.name), actions: <Widget>[
+                    PopupMenuButton<Country>(
+                      icon: Icon(Icons.public),
+                      onSelected: (value) {
+                        setState(() {
+                          country = value;
+                        });
+                      },
+                      itemBuilder: (BuildContext context) => _.value.countries
+                          .map((country) => PopupMenuItem<Country>(
+                              value: country, child: Text(country.name)))
+                          .toList(),
+                    )
+                  ]),
+                  body: RegionListView(country: country));
+            }
+          },
+          loading: (_) => Scaffold(
+              appBar: AppBar(title: Text('Places')),
+              body: CircularProgressIndicator()),
+          error: (_) => Scaffold(
+              appBar: AppBar(title: Text('Places')),
+              body: Text(_.error.toString(),
+                  style: TextStyle(color: Colors.red))));
     });
   }
 }
