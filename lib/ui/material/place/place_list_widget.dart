@@ -14,7 +14,7 @@ class PlaceScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-                  appBar: AppBar(title: Text(region.name)),
+        appBar: AppBar(title: Text(region.name)),
         body: PlaceList(region: region));
   }
 }
