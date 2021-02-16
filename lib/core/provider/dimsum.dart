@@ -87,7 +87,7 @@ class DimSum with ChangeNotifier {
 
   List<Dish> get categories {
     final tags = _categories.map((tag) => dish(tag)).toList();
-    tags.removeWhere((item) => item == null);
+ //   tags.removeWhere((item) => item == null);
     return tags;
   }
 
