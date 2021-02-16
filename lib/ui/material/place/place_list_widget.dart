@@ -6,10 +6,23 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:talkdimsum/core/model/place.dart';
 import 'package:talkdimsum/core/model/region.dart';
 
-class PlaceListWidget extends StatelessWidget {
+class PlaceScaffold extends StatelessWidget {
   final Region region;
 
-  PlaceListWidget({Key key, @required this.region}) : super(key: key);
+  PlaceScaffold({Key key, @required this.region}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+                  appBar: AppBar(title: Text(region.name)
+        child: PlaceList(region: region)));
+  }
+}
+
+class PlaceList extends StatelessWidget {
+  final Region region;
+
+  PlaceList({Key key, @required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

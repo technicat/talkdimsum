@@ -44,9 +44,14 @@ class CountryScaffoldState extends State<CountryScaffold> {
                 body: RegionListView(country: country));
           }
         },
-        loading: (_) => CircularProgressIndicator(),
+        loading: (_) => Scaffold(
+                appBar: AppBar(title: Text('Places'),
+                body: CircularProgressIndicator())),
         error: (_) =>
-            Text(_.error.toString(), style: TextStyle(color: Colors.red)),
+        Scaffold(
+                appBar: AppBar(title: Text('Places'),
+                body:
+            Text(_.error.toString(), style: TextStyle(color: Colors.red))))
       );
     });
   }

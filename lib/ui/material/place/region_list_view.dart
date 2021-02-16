@@ -7,6 +7,7 @@ import 'package:talkdimsum/core/model/country.dart';
 
 import 'place_list_widget.dart';
 
+
 class RegionListView extends StatelessWidget {
   final Country country;
 
@@ -39,7 +40,7 @@ class RegionTile extends StatelessWidget {
         Navigator.push(
           context,
           MaterialPageRoute(
-              builder: (context) => PlaceListWidget(region: region)),
+              builder: (context) => PlaceScaffold(region: region)),
         );
       },
       subtitle: region.places.length != 1
