@@ -1,7 +1,7 @@
 /* Technicat LLC */
 
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/model/country.dart';
 import 'package:talkdimsum/core/provider/countries.dart';
@@ -18,28 +18,36 @@ class CountryScaffoldState extends State<CountryScaffold> {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<Countries>(builder: (context, countries, child) {
-      if (countries.countries.isEmpty) {
-        return Center(child: CircularProgressIndicator());
-      } else {
-        country ??= countries.countries[0];
-        return Scaffold(
-            appBar: AppBar(title: Text(country.name), actions: <Widget>[
-              PopupMenuButton<Country>(
-                icon: Icon(Icons.public),
-                onSelected: (value) {
-                  setState(() {
-                    country = value;
-                  });
-                },
-                itemBuilder: (BuildContext context) => countries.countries
-                    .map((country) => PopupMenuItem<Country>(
-                        value: country, child: Text(country.name)))
-                    .toList(),
-              )
-            ]),
-            body: RegionListView(country: country));
-      }
+    return Consumer(builder: (context, watch, child) {
+      var countries = watch(countryProvider);
+      return countries.map(
+        data: (_) {
+          if (_.value.countries.isEmpty) {
+            return CircularProgressIndicator();
+          } else {
+            country ??= _.value.countries[0];
+            return Scaffold(
+                appBar: AppBar(title: Text(country.name), actions: <Widget>[
+                  PopupMenuButton<Country>(
+                    icon: Icon(Icons.public),
+                    onSelected: (value) {
+                      setState(() {
+                        country = value;
+                      });
+                    },
+                    itemBuilder: (BuildContext context) => _.value.countries
+                        .map((country) => PopupMenuItem<Country>(
+                            value: country, child: Text(country.name)))
+                        .toList(),
+                  )
+                ]),
+                body: RegionListView(country: country));
+          }
+        },
+        loading: (_) => CircularProgressIndicator(),
+        error: (_) =>
+            Text(_.error.toString(), style: TextStyle(color: Colors.red)),
+      );
     });
   }
 }
