@@ -60,6 +60,8 @@ dev_dependencies:
   flutter_launcher_icons:
   flutter_launcher_name:
 #  flutter_application_id:
+  auto_route: 0.6.9
+  auto_route_generator: 0.6.10
 
 flutter_icons:
   android: true 
