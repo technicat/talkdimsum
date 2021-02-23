@@ -2,6 +2,89 @@
   {
     "words": [
       {
+        "Chinese": "湯",
+        "Simplified": "汤",
+        "English": "soup",
+        "Yale": "tōng",
+        "Pinyin": "tāng",
+        "Resources": [
+          {
+            "name": "湯",
+            "URL": "https://en.wiktionary.org/wiki/湯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "soupbigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Soup is prevalent in Chinese cuisine, including many noodle soups and soups served as desserts.",
+    "Tags": [
+      "湯"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_soups"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "是日例湯",
+        "Simplified": "是日例汤",
+        "English": "soup of the day",
+        "Yale": "sih yaht laih tōng",
+        "Pinyin": "shì rì lì tāng",
+        "Resources": [
+          {
+            "name": "是日",
+            "URL": "https://en.wiktionary.org/wiki/是日"
+          },
+          {
+            "name": "是",
+            "URL": "https://en.wiktionary.org/wiki/是"
+          },
+          {
+            "name": "日",
+            "URL": "https://en.wiktionary.org/wiki/例"
+          },
+          {
+            "name": "日",
+            "URL": "https://en.wiktionary.org/wiki/日"
+          },
+          {
+            "name": "湯",
+            "URL": "https://en.wiktionary.org/wiki/湯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "soupjjnoodle",
+        "place": "JJ Noodle, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Soup of the day is a standard feature of Hong Kong cafes (cha chaan teng), often included in a set meal.\n\n是日 means “this day,” and 例湯 means “regular soup.”",
+    "Tags": [
+      "湯",
+      "茶餐廳"
+    ],
+    "Resources": [
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/22"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "酸辣湯",
         "Simplified": "酸辣汤",
         "English": "hot and sour soup",
