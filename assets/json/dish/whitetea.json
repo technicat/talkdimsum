@@ -1,191 +1,211 @@
-
 [
   {
-    "words":
-  [
+    "words": [
+      {
+        "Chinese": "白茶",
+        "English": "white tea",
+        "Yale": "baahk chàh",
+        "Pinyin": "bái chá",
+        "Resources": [
+          {
+            "name": "白茶",
+            "URL": "https://en.wiktionary.org/wiki/白茶"
+          },
+          {
+            "name": "白",
+            "URL": "https://en.wiktionary.org/wiki/白"
+          },
+          {
+            "name": "茶",
+            "URL": "https://en.wiktionary.org/wiki/茶"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "saumeiteapingpangpong",
+        "name": "Ping Pang Pong, Las Vegas"
+      }
+    ],
+    "Description": "A light tea made from leaves harvested in the Fujian province. It dates back at least as far as the Song Dynasty.\n\nThe first character 白 means “white“ and the second character 茶 means“tea“ and 白茶 literally means “white tea“.",
+    "Tags": [
+      "白茶",
+      "白色",
+      "中國茶",
+      "茶",
+      "熱茶",
+      "點心",
+      "飲品"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/White_tea"
+      },
+      {
+        "name": "Art of Tea",
+        "URL": "https://www.artoftea.com/what-is-tea/what-is-white-tea"
+      }
+    ]
+  },
   {
-    "Chinese":"白茶",
-    "English":"white tea",
-    "Yale": "baahk chàh",
-    "Pinyin":"bái chá",
-    "Resources":
-    [
-      {"name":"白茶",
-        "URL":"https://en.wiktionary.org/wiki/白茶"},
-      {"name":"白",
-        "URL":"https://en.wiktionary.org/wiki/白"},
-      {"name":"茶",
-        "URL":"https://en.wiktionary.org/wiki/茶"}
-    ]
-    }],
-    "images":
-    [
-        {
-            "image":"saumeiteapingpangpong",
-            "name":"Ping Pang Pong, Las Vegas"
-        }
+    "words": [
+      {
+        "Chinese": "壽眉",
+        "Simplified": "寿眉",
+        "English": "Sau-mei tea",
+        "Yale": "sauh mèih",
+        "Pinyin": "shòu méi",
+        "Resources": [
+          {
+            "name": "壽眉",
+            "URL": "https://en.wiktionary.org/wiki/壽眉"
+          },
+          {
+            "name": "壽",
+            "URL": "https://en.wiktionary.org/wiki/壽"
+          },
+          {
+            "name": "眉",
+            "URL": "https://en.wiktionary.org/wiki/眉"
+          }
+        ]
+      }
     ],
-    "Description":
-      "A light tea made from leaves harvested in the Fujian province. It dates back at least as far as the Song Dynasty.\n\nThe first character 白 means “white“ and the second character 茶 means“tea“ and 白茶 literally means “white tea“.",
-    "Tags":
-    [
-        "白茶",
-        "白色",
-        "中國茶",
-        "茶",
-        "熱茶",
-        "點心",
-        "飲品"
+    "images": [
+      {
+        "image": "saumeiteapingpangpong4",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
     ],
-    "Resources":
-    [
-        {"name":"Wikipedia", 
-          "URL":"https://en.wikipedia.org/wiki/White_tea"},
-        {"name":"Art of Tea",
-          "URL":"https://www.artoftea.com/what-is-tea/what-is-white-tea"}
+    "Description": "A white tea produced mostly in the Fujian and Gaunxi regions. If your dim sum place serves a white tea, this is probably it.\n\n壽 means “long life,” and 眉 means “eyebrow,” so besides the Cantonese and Mandarin pronunciations, sometimes this tea is referred to in English with the literal translations “long life eyebrow tea” or “longevity eyebrow tea.”\n\nThe name of this tea stems from the leaves' resemblance to the eyebrows of the Taoist deity of longevity.",
+    "Tags": [
+      "飲品",
+      "茶",
+      "熱茶",
+      "白茶",
+      "中国茶",
+      "福建省",
+      "广西壮族自治区"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Shoumei_tea"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Sau-Mei-Tea"
+      },
+      {
+        "name": "Or Tea?",
+        "URL": "http://www.or-tea.com/long-life-brows.html"
+      }
     ]
-    },
- 
- {
-    "words":
-  [
+  },
   {
-    "Chinese":"壽眉",
-    "Simplified":"寿眉",
-    "English":"Sau-mei tea",
-    "Yale": "sauh mèih",
-    "Pinyin":"shòu méi",
-    "Resources":
-    [
-      {"name":"壽眉",
-        "URL":"https://en.wiktionary.org/wiki/壽眉"},
-      {"name":"壽",
-        "URL":"https://en.wiktionary.org/wiki/壽"},
-      {"name":"眉",
-        "URL":"https://en.wiktionary.org/wiki/眉"}
-    ]
-    }],
-    "images":[
-       {
-           "image":"saumeiteapingpangpong4",
-           "place":"Ping Pang Pong, Las Vegas, Nevada"
-       }
-   ],
-    "Description":
-      "A white tea produced mostly in the Fujian and Gaunxi regions. If your dim sum place serves a white tea, this is probably it.\n\n壽 means “long life,” and 眉 means “eyebrow,” so besides the Cantonese and Mandarin pronunciations, sometimes this tea is referred to in English with the literal translations “long life eyebrow tea” or “longevity eyebrow tea.”\n\nThe name of this tea stems from the leaves' resemblance to the eyebrows of the Taoist deity of longevity.",
-    "Tags":
-    [
-        "飲品",
-        "茶",
-         "熱茶",
-          "白茶",
-        "中国茶",
-         "福建省",
-         "广西壮族自治区"
+    "words": [
+      {
+        "Chinese": "白毫銀針",
+        "Simplified": "白毫银针",
+        "English": "silver needle tea",
+        "Yale": "baahk hòuh ngàhn jām",
+        "Pinyin": "bái háo yín zhēn",
+        "Resources": [
+          {
+            "name": "白毫",
+            "URL": "https://en.wiktionary.org/wiki/白毫"
+          },
+          {
+            "name": "白",
+            "URL": "https://en.wiktionary.org/wiki/白"
+          },
+          {
+            "name": "毫",
+            "URL": "https://en.wiktionary.org/wiki/毫"
+          },
+          {
+            "name": "銀",
+            "URL": "https://en.wiktionary.org/wiki/銀"
+          },
+          {
+            "name": "針",
+            "URL": "https://en.wiktionary.org/wiki/針"
+          }
+        ]
+      }
     ],
-    "Resources":
-    [
-       {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Shoumei_tea"},
-        {"name":"Dim Sum Guide", 
-            "URL":"https://dimsumguide.com/site/view/Sau-Mei-Tea"},
-        {"name":"Or Tea?",
-            "URL":"http://www.or-tea.com/long-life-brows.html"}
+    "images": [
+      {
+        "image": "silverneedleteawikipedia",
+        "place": "Wikipedia"
+      }
+    ],
+    "Description": "This is the premium white tea, from the Fujian province.\n\n白 is “white,” 毫 means “hair,” 銀 is “silver,” and 針 is “needle,” so the full name is “white hair silver needle,” but usually it's just 銀針 (“silver needle”).",
+    "Tags": [
+      "飲品",
+      "茶",
+      "熱茶",
+      "白茶",
+      "中国茶",
+      "福建省",
+      "政和縣"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Baihao_Yinzhen"
+      }
     ]
-    },
-
-    {
-        "words":
-  [
+  },
   {
-    "Chinese":"白毫銀針",
-    "Simplified":"白毫银针",
-    "English":"silver needle tea",
-    "Yale": "baahk hòuh ngàhn jām",
-    "Pinyin":"bái háo yín zhēn",
-     "Resources":
-      [
-        {"name":"白毫",
-          "URL":"https://en.wiktionary.org/wiki/白毫"},
-        {"name":"白",
-          "URL":"https://en.wiktionary.org/wiki/白"},
-        {"name":"毫",
-          "URL":"https://en.wiktionary.org/wiki/毫"},
-        {"name":"銀",
-          "URL":"https://en.wiktionary.org/wiki/銀"},
-        {"name":"針",
-          "URL":"https://en.wiktionary.org/wiki/針"}
-      ]
-    }],
-    "images":[
-       {
-           "image":"silverneedleteawikipedia",
-           "place":"Wikipedia"
-       }
-   ],
-    "Description":
-      "This is the premium white tea, from the Fujian province.\n\n白 is “white,” 毫 means “hair,” 銀 is “silver,” and 針 is “needle,” so the full name is “white hair silver needle,” but usually it's just 銀針 (“silver needle”).",
-    "Tags":
-    [
-        "飲品",
-        "茶",
-         "熱茶",
-          "白茶",
-        "中国茶",
-         "福建省",
-         "政和縣"
+    "words": [
+      {
+        "Chinese": "白牡丹",
+        "English": "white peony tea",
+        "Yale": "baahk máauh dāan",
+        "Pinyin": "bái mǔ dan",
+        "Resources": [
+          {
+            "name": "白",
+            "URL": "https://en.wiktionary.org/wiki/白"
+          },
+          {
+            "name": "牡丹",
+            "URL": "https://en.wiktionary.org/wiki/牡丹"
+          },
+          {
+            "name": "牡",
+            "URL": "https://en.wiktionary.org/wiki/牡"
+          },
+          {
+            "name": "丹",
+            "URL": "https://en.wiktionary.org/wiki/丹"
+          }
+        ]
+      }
     ],
-    "Resources":
-    [
-       {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Baihao_Yinzhen"}
-    ]
-    },
-
-    {
-        "words":
-  [
-  {
-    "Chinese":"白牡丹",
-    "English":"white peony tea",
-    "Yale": "baahk máauh dāan",
-    "Pinyin":"bái mǔ dan",
-    "Resources":
-    [
-      {"name":"白",
-        "URL":"https://en.wiktionary.org/wiki/白"},
-      {"name":"牡丹",
-        "URL":"https://en.wiktionary.org/wiki/牡丹"},
-      {"name":"牡",
-        "URL":"https://en.wiktionary.org/wiki/牡"},
-      {"name":"丹",
-        "URL":"https://en.wiktionary.org/wiki/丹"}
-    ]
-    }],
-    "images":
-    [
-       {
-           "image":"whitepeonyteafoojoy",
-           "place":"Foo Joy"
-       }
-   ],
-"Description":
-  "A white tea from the Fujian province.\n\n白 means “white,” and 牡丹 means “peony.”",
-    "Tags":
-    [
-        "飲品",
-        "茶",
-        "熱茶",
-        "白茶",
-        "中国茶",
-        "福建省"
+    "images": [
+      {
+        "image": "whitepeonyteafoojoy",
+        "place": "Foo Joy"
+      }
     ],
-    "Resources":
-    [
-      {"name":"Pinterest",
-            "URL":"https://www.pinterest.com/technicat/dim-sum/white-peony-tea/"},
-       {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Bai_Mudan"}
+    "Description": "A white tea from the Fujian province.\n\n白 means “white,” and 牡丹 means “peony.”",
+    "Tags": [
+      "飲品",
+      "茶",
+      "熱茶",
+      "白茶",
+      "中国茶",
+      "福建省"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Bai_Mudan"
+      }
     ]
-    }
- ]
+  }
+]

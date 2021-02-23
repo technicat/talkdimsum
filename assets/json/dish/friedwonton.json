@@ -1,96 +1,118 @@
-
 [
     {
-        "words": 
-        [
-        {
-            "Chinese" : "炸雲吞",
-            "Simplified" : "炸云吞",
-            "English":"fried wonton",
-            "Yale": "ja wàhn tān",
-            "Pinyin" : "zhà yún tūn",
-            "Resources":
-            [
-            {"name":"炸","URL":"https://en.wiktionary.org/wiki/炸"},
-            {"name":"雲吞","URL":"https://en.wiktionary.org/wiki/雲吞"},
-            {"name":"雲","URL":"https://en.wiktionary.org/wiki/雲"},
-            {"name":"吞","URL":"https://en.wiktionary.org/wiki/吞"},
-            {"name":"餛飩","URL":"https://en.wiktionary.org/wiki/餛飩"}
-            ]
-            }
-        ],
-        "images":
-        [
+        "words": [
             {
-                "image":"friedwontonnorthsidecafe",
-                "place":"Northside Cafe, Las Vegas, Nevada"
+                "Chinese": "炸雲吞",
+                "Simplified": "炸云吞",
+                "English": "fried wonton",
+                "Yale": "ja wàhn tān",
+                "Pinyin": "zhà yún tūn",
+                "Resources": [
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/炸"
+                    },
+                    {
+                        "name": "雲吞",
+                        "URL": "https://en.wiktionary.org/wiki/雲吞"
+                    },
+                    {
+                        "name": "雲",
+                        "URL": "https://en.wiktionary.org/wiki/雲"
+                    },
+                    {
+                        "name": "吞",
+                        "URL": "https://en.wiktionary.org/wiki/吞"
+                    },
+                    {
+                        "name": "餛飩",
+                        "URL": "https://en.wiktionary.org/wiki/餛飩"
+                    }
+                ]
             }
         ],
-        "Description" : 
-            "Deep fried wonton (dumplings with shrimp and pork).\n\nThe first character 炸 means “fried,” (the radical 火 on the left side of the character means “fire”), and the next two characters comprise “won ton.”\n\n雲吞 is literally “cloud swallows“ which sounds descriptive, but actually the name evolved from 餛飩 which is pronounced the same in Cantonese and means “chaos.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "friedwontonnorthsidecafe",
+                "place": "Northside Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Deep fried wonton (dumplings with shrimp and pork).\n\nThe first character 炸 means “fried,” (the radical 火 on the left side of the character means “fire”), and the next two characters comprise “won ton.”\n\n雲吞 is literally “cloud swallows“ which sounds descriptive, but actually the name evolved from 餛飩 which is pronounced the same in Cantonese and means “chaos.”",
+        "Tags": [
             "炸雲吞",
             "茶餐廳",
             "雲吞",
             "炸",
             "點心"
-         ],
-         "Resources":
-         [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/wonton/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Wonton"},
-            {"name":"The Woks of Life", 
-                "URL":"https://thewoksoflife.com/fried-wontons/"}
-            ]
-    },
-   
-
- {
-     "words":
-      [{
-        "Chinese" : "炸蝦雲吞",
-        "Simplified" : "炸虾云吞",
-        "English":"fried shrimp wonton",
-        "Yale": "ja hā wàhn tān",
-        "Pinyin" : "zhà xiā yún tūn",
-        "Resources":
-         [
-           {"name":"炸","URL":"https://en.wiktionary.org/wiki/炸"},
-           {"name":"蝦","URL":"https://en.wiktionary.org/wiki/蝦"},
-           {"name":"雲吞","URL":"https://en.wiktionary.org/wiki/雲吞"},
-           {"name":"雲","URL":"https://en.wiktionary.org/wiki/雲"},
-           {"name":"吞","URL":"https://en.wiktionary.org/wiki/吞"}
-            ]
-        }],
-        "images" : [
-        {
-         "image":"friedshrimpwontonkj",
-         "place":"KJ Dim Sum and Seafood"
-        }
         ],
-    "Description" : 
-        "Fried wonton with just shrimp inside.\n\nThe first character 炸 means “fried.” The second character 蝦 means “shrimp.”",
-     "Tags":
-     [
-        "炸雲吞",
-        "茶餐廳",
-         "炸",
-         "蝦",
-         "雲吞",
-         "海鮮",
-         "點心"
-         ],
-         "Resources":
-         [
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Wonton"},
-            {"name":"The Woks of Life", 
-                "URL":"https://thewoksoflife.com/fried-wontons/"}
-            ]
- }
-
- 
- ]
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Wonton"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/fried-wontons/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "炸蝦雲吞",
+                "Simplified": "炸虾云吞",
+                "English": "fried shrimp wonton",
+                "Yale": "ja hā wàhn tān",
+                "Pinyin": "zhà xiā yún tūn",
+                "Resources": [
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/炸"
+                    },
+                    {
+                        "name": "蝦",
+                        "URL": "https://en.wiktionary.org/wiki/蝦"
+                    },
+                    {
+                        "name": "雲吞",
+                        "URL": "https://en.wiktionary.org/wiki/雲吞"
+                    },
+                    {
+                        "name": "雲",
+                        "URL": "https://en.wiktionary.org/wiki/雲"
+                    },
+                    {
+                        "name": "吞",
+                        "URL": "https://en.wiktionary.org/wiki/吞"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "friedshrimpwontonkj",
+                "place": "KJ Dim Sum and Seafood"
+            }
+        ],
+        "Description": "Fried wonton with just shrimp inside.\n\nThe first character 炸 means “fried.” The second character 蝦 means “shrimp.”",
+        "Tags": [
+            "炸雲吞",
+            "茶餐廳",
+            "炸",
+            "蝦",
+            "雲吞",
+            "海鮮",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Wonton"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/fried-wontons/"
+            }
+        ]
+    }
+]

@@ -1,106 +1,132 @@
-
 [
- {
-    "words":
-    [
     {
-    "Chinese" : "油炸鬼",
-    "Mandarin" : "油條",
-    "Simplified" : "油条",
-    "English" : "fried dough",
-    "Yale" : "yàuh ja gwái",
-    "Yale2" : "yàuh tíu",
-    "Pinyin": "yóu tiáo",
-     "Resources":
-            [
-            {"name":"油炸鬼","URL":"https://en.wiktionary.org/wiki/油炸鬼"},
-            {"name":"油炸","URL":"https://en.wiktionary.org/wiki/油炸"},
-            {"name":"油","URL":"https://en.wiktionary.org/wiki/油"},
-            {"name":"炸","URL":"https://en.wiktionary.org/wiki/炸"},
-             {"name":"鬼","URL":"https://en.wiktionary.org/wiki/鬼"},
-              {"name":"油條","URL":"https://en.wiktionary.org/wiki/油條"},
-              {"name":"條","URL":"https://en.wiktionary.org/wiki/條"}
-            ]
-    }
-    ],
-    "images" : 
-    [
-     {
-         "image":"frieddoughyumcha",
-         "place":"Yum Cha, Las Vegas, Nevada"
-     },
-     {
-         "image":"frieddoughwendys",
-         "place":"Wendy's Noodle Cafe"
-     }
-    ],
-    "Description" : 
-        "A stick of deep-fried dough, basically a long doughnut. Often served with porridge.\n\nThe Cantonese name 油炸鬼 (“oil fried ghost”) has folklore roots (check the Wikipedia link if you're curious). The Mandarin name 油條 just means 油 “oil strip“ (like a bacon strip, but just dough).",
-    "Tags": 
-    [
-           "油条",
-           "點心",
-           "素",
-           "炸"
-           ],
-    "Resources": 
-    [
-        {"name" : "Pinterest", 
-            "URL" : "https://www.pinterest.com/technicat/dim-sum/fried-dough/"},
-        {"name" : "Wikipedia", 
-            "URL" : "https://en.wikipedia.org/wiki/Youtiao"},
-        {"name" : "The Woks of Life", 
-            "URL" : "http://thewoksoflife.com/2015/08/youtiao-recipe/"},
-        {"name" : "China Sichuan Food", 
-            "URL" : "https://www.chinasichuanfood.com/youtiao-chinese-oil-stick-chinese-cruller/"},
-        {"name" : "Angel Wong's Kitchen", 
-            "URL" : "https://www.angelwongskitchen.com/chinese-doughnut-recipe-crisp-fried-breadstick--2783326781-yoacuteutiaacuteo.html"},
-        {"name" : "Panda Cheffy", 
-            "URL" : "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-youtiao-churro-cruller-74313b5c3a4c"}
-    ]
- },
- 
- {
-    "words":
-    [
-        {
-    "Chinese" : "炸兩",
-    "Simplified" : "炸两",
-    "English" : "fried dough crepe",
-    "Yale" : "ja léung",
-    "Pinyin": "zhá liǎng",
-    "Resources":
-        [
-            {"name":"炸兩","URL":"https://en.wiktionary.org/wiki/炸兩"},
-            {"name":"炸","URL":"https://en.wiktionary.org/wiki/炸"},
-            {"name":"兩","URL":"https://en.wiktionary.org/wiki/兩"}
+        "words": [
+            {
+                "Chinese": "油炸鬼",
+                "Mandarin": "油條",
+                "Simplified": "油条",
+                "English": "fried dough",
+                "Yale": "yàuh ja gwái",
+                "Yale2": "yàuh tíu",
+                "Pinyin": "yóu tiáo",
+                "Resources": [
+                    {
+                        "name": "油炸鬼",
+                        "URL": "https://en.wiktionary.org/wiki/油炸鬼"
+                    },
+                    {
+                        "name": "油炸",
+                        "URL": "https://en.wiktionary.org/wiki/油炸"
+                    },
+                    {
+                        "name": "油",
+                        "URL": "https://en.wiktionary.org/wiki/油"
+                    },
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/炸"
+                    },
+                    {
+                        "name": "鬼",
+                        "URL": "https://en.wiktionary.org/wiki/鬼"
+                    },
+                    {
+                        "name": "油條",
+                        "URL": "https://en.wiktionary.org/wiki/油條"
+                    },
+                    {
+                        "name": "條",
+                        "URL": "https://en.wiktionary.org/wiki/條"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "frieddoughyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            },
+            {
+                "image": "frieddoughwendys",
+                "place": "Wendy's Noodle Cafe"
+            }
+        ],
+        "Description": "A stick of deep-fried dough, basically a long doughnut. Often served with porridge.\n\nThe Cantonese name 油炸鬼 (“oil fried ghost”) has folklore roots (check the Wikipedia link if you're curious). The Mandarin name 油條 just means 油 “oil strip“ (like a bacon strip, but just dough).",
+        "Tags": [
+            "油条",
+            "點心",
+            "素",
+            "炸"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Youtiao"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "http://thewoksoflife.com/2015/08/youtiao-recipe/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/youtiao-chinese-oil-stick-chinese-cruller/"
+            },
+            {
+                "name": "Angel Wong's Kitchen",
+                "URL": "https://www.angelwongskitchen.com/chinese-doughnut-recipe-crisp-fried-breadstick--2783326781-yoacuteutiaacuteo.html"
+            },
+            {
+                "name": "Panda Cheffy",
+                "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-youtiao-churro-cruller-74313b5c3a4c"
+            }
         ]
-    }
-    ],
-    "images": 
-    [
-     {
-         "image":"ricerollfrieddough"
-     }
-    ],
-    "Description": 
-        "Rice roll wrapped around fried dough. Often served with porridge.\n\n炸 means “fried“ and 兩 means “two“ (as in a “couple of“) so it basically means “fried twice“.",
-    "Tags" : 
-    [
-           "油条",
-           "腸粉",
-           "點心",
+    },
+    {
+        "words": [
+            {
+                "Chinese": "炸兩",
+                "Simplified": "炸两",
+                "English": "fried dough crepe",
+                "Yale": "ja léung",
+                "Pinyin": "zhá liǎng",
+                "Resources": [
+                    {
+                        "name": "炸兩",
+                        "URL": "https://en.wiktionary.org/wiki/炸兩"
+                    },
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/炸"
+                    },
+                    {
+                        "name": "兩",
+                        "URL": "https://en.wiktionary.org/wiki/兩"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "ricerollfrieddough"
+            }
+        ],
+        "Description": "Rice roll wrapped around fried dough. Often served with porridge.\n\n炸 means “fried“ and 兩 means “two“ (as in a “couple of“) so it basically means “fried twice“.",
+        "Tags": [
+            "油条",
+            "腸粉",
+            "點心",
             "炸",
             "素"
-           ],
-    "Resources": 
-    [
-        {"name" : "Pinterest", 
-            "URL" : "https://www.pinterest.com/technicat/dim-sum/fried-dough-crepe/"},
-        {"name" : "Wikipedia", 
-            "URL" : "http://en.wikipedia.org/wiki/Zhaliang"},
-        {"name" : "Dim Sum Central", 
-            "URL" : "http://www.dimsumcentral.com/chinese-donut-noodle-rolls/"}
-    ]
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Zhaliang"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/chinese-donut-noodle-rolls/"
+            }
+        ]
     }
- ]
+]

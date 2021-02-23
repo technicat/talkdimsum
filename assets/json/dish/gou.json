@@ -1,120 +1,131 @@
-
 [
     {
-        "words": 
-        [
-        {
-        "Chinese" : "糕",
-        "English" :"cake",
-        "Yale" : "gōu",
-        "Pinyin" : "gāo",
-        "Resources":
-        [
+        "words": [
             {
-                "name":"糕",
-                "URL":"https://en.wiktionary.org/wiki/糕"
+                "Chinese": "糕",
+                "English": "cake",
+                "Yale": "gōu",
+                "Pinyin": "gāo",
+                "Resources": [
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "cakehkgarden",
+                "place": "Hong Kong Garden, Las Vegas"
+            }
+        ],
+        "Description": "This word is usually translated as “cake” but it's not just for desserts, like Western cakes (which in Chinese is “egg cake”). The term generally can refers to any dish made out of a mixture with portions carved fron slabs, including sponge cakes, jellies and cakes with a mashed consistency.",
+        "Tags": [
+            "糕"
+        ],
+        "Resources": []
+    },
+    {
+        "words": [
+            {
+                "Chinese": "年糕",
+                "English": "New Year cake",
+                "Yale": "nìhn gōu",
+                "Pinyin": "nián gāo",
+                "Resources": [
+                    {
+                        "name": "年糕",
+                        "URL": "https://en.wiktionary.org/wiki/年糕"
+                    },
+                    {
+                        "name": "年",
+                        "URL": "https://en.wiktionary.org/wiki/年"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "newyearcakeopendiamondbakery",
+                "place": "Diamond Bakery, Las Vegas"
+            },
+            {
+                "image": "newyearcakehkgarden",
+                "place": "Hong Kong Garden, Las Vegas"
+            }
+        ],
+        "Description": "A steamed cake made with sticky rice and brown sugar, often served fried or dipped in egg and fried.\n]n年 means “year,” and 糕 is “cake,\n\nPopular during New Year (Chinese New Year, of course).",
+        "Tags": [
+            "糕",
+            "甜品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Nian_gao"
+            },
+            {
+                "name": "Kirbie's Cravings",
+                "URL": "https://kirbiecravings.com/chinese-new-year-cake/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2010/02/chinese-new-years-cake-sticky-rice-cake.html"
+            },
+            {
+                "name": "Angel Wong's Kitchen",
+                "URL": "https://www.angelwongskitchen.com/chinese-new-year-cake-sweet-sticky-rice--2418031957-niaacuteng257o.html"
+            },
+            {
+                "name": "Oh My Food Recipes",
+                "URL": "https://www.ohmyfoodrecipes.com/nian-gao/"
             }
         ]
-        }
-        ],
-        "images" : 
-        [
-          {
-              "image":"cakehkgarden",
-              "place":"Hong Kong Garden, Las Vegas"
-          }
-        ],
-        "Description" : 
-            "This word is usually translated as “cake” but it's not just for desserts, like Western cakes (which in Chinese is “egg cake”). The term generally can refers to any dish made out of a mixture with portions carved fron slabs, including sponge cakes, jellies and cakes with a mashed consistency.",
-        "Tags" : 
-        [
-            "糕"
-            ],
-        "Resources" : [
-                       
-        ]
     },
-
     {
-        "words": 
-        [
-        {
-        "Chinese" : "年糕",
-        "English" :"New Year cake",
-        "Yale" : "nìhn gōu",
-        "Pinyin" : "nián gāo",
-        "Resources":
-            [
-            {"name":"年糕","URL":"https://en.wiktionary.org/wiki/年糕"},
-             {"name":"年","URL":"https://en.wiktionary.org/wiki/年"},
-            {"name":"糕","URL":"https://en.wiktionary.org/wiki/糕"}
-            ]
-        }],
-        "images" : 
-        [
-          {
-              "image":"newyearcakeopendiamondbakery",
-              "place":"Diamond Bakery, Las Vegas"
-          },
-          {
-              "image":"newyearcakehkgarden",
-              "place":"Hong Kong Garden, Las Vegas"
-          }
+        "words": [
+            {
+                "Chinese": "白糖糕",
+                "English": "sweet rice cake",
+                "Yale": "baahk tòhng gōu",
+                "Pinyin": "bái táng gāo",
+                "Resources": [
+                    {
+                        "name": "白糖糕",
+                        "URL": "https://en.wiktionary.org/wiki/白糖糕"
+                    },
+                    {
+                        "name": "白糖",
+                        "URL": "https://en.wiktionary.org/wiki/白糖"
+                    },
+                    {
+                        "name": "白",
+                        "URL": "https://en.wiktionary.org/wiki/白"
+                    },
+                    {
+                        "name": "糖",
+                        "URL": "https://en.wiktionary.org/wiki/糖"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
+            }
         ],
-        "Description" : 
-        "A steamed cake made with sticky rice and brown sugar, often served fried or dipped in egg and fried.\n]n年 means “year,” and 糕 is “cake,\n\nPopular during New Year (Chinese New Year, of course).",
-        "Tags" : 
-        [
-            "糕",
-             "甜品"
-            ],
-        "Resources" : 
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/new-year-cake/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Nian_gao"},
-            {"name":"Kirbie's Cravings", 
-                "URL":"https://kirbiecravings.com/chinese-new-year-cake/"},
-            {"name":"Christine's Recipes", 
-                "URL":"https://en.christinesrecipes.com/2010/02/chinese-new-years-cake-sticky-rice-cake.html"},
-            {"name":"Angel Wong's Kitchen", 
-                "URL":"https://www.angelwongskitchen.com/chinese-new-year-cake-sweet-sticky-rice--2418031957-niaacuteng257o.html"},
-            {"name":"Oh My Food Recipes", 
-                "URL":"https://www.ohmyfoodrecipes.com/nian-gao/"}
-                       
-        ]
-    },
-
-    {
-        "words": 
-        [
-        {
-        "Chinese" : "白糖糕",
-        "English" :"sweet rice cake",
-        "Yale" : "baahk tòhng gōu",
-        "Pinyin" : "bái táng gāo",
-        "Resources":
-            [
-            {"name":"白糖糕","URL":"https://en.wiktionary.org/wiki/白糖糕"},
-             {"name":"白糖","URL":"https://en.wiktionary.org/wiki/白糖"},
-             {"name":"白","URL":"https://en.wiktionary.org/wiki/白"},
-             {"name":"糖","URL":"https://en.wiktionary.org/wiki/糖"},
-            {"name":"糕","URL":"https://en.wiktionary.org/wiki/糕"}
-            ]
-        }
+        "images": [
+            {
+                "image": "sweetricecakeyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
         ],
-        "images" : 
-        [
-          {
-              "image":"sweetricecakeyumcha",
-              "place":"Yum Cha, Las Vegas, Nevada"
-          }
-        ],
-        "Description": 
-            "This spongy cake is made from rice flour and sugar, fermented then steamed\n\n.白 means “white.” 糖 is “sugar,” and 糕 is “cake,” so “white sugar cake.”\n\nIn English, this is also often known as “fermented rice cake” or “white honeycomb cake” because of the air gaps within the cake.",
-        "Tags": 
-        [
+        "Description": "This spongy cake is made from rice flour and sugar, fermented then steamed\n\n.白 means “white.” 糖 is “sugar,” and 糕 is “cake,” so “white sugar cake.”\n\nIn English, this is also often known as “fermented rice cake” or “white honeycomb cake” because of the air gaps within the cake.",
+        "Tags": [
             "白糖",
             "糕",
             "蒸",
@@ -122,21 +133,23 @@
             "甜品",
             "點心"
         ],
-        "Resources": 
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/sweet-rice-cake/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/White_sugar_sponge_cake"},
-            {"name":"China Sichuan Food", 
-                "URL":"http://www.chinasichuanfood.com/steamed-rice-cake/"},
-            {"name":"The Burning Kitchen", 
-                "URL":"https://www.theburningkitchen.com/bai-tang-gao-pak-tong-go-recipe/"},
-            {"name":"MyKitchen101en",
-                "URL":"https://mykitchen101en.com/classic-chinese-steamed-rice-cake-done-the-right-way/"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/White_sugar_sponge_cake"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "http://www.chinasichuanfood.com/steamed-rice-cake/"
+            },
+            {
+                "name": "The Burning Kitchen",
+                "URL": "https://www.theburningkitchen.com/bai-tang-gao-pak-tong-go-recipe/"
+            },
+            {
+                "name": "MyKitchen101en",
+                "URL": "https://mykitchen101en.com/classic-chinese-steamed-rice-cake-done-the-right-way/"
+            }
         ]
     }
- 
- 
- 
- ]
+]

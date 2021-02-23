@@ -1,62 +1,88 @@
-
 [
- {
-    "words":
-    [
     {
-     "Chinese":"麻婆豆腐",
-     "English":"mapo tofu",
-     "Yale": "màh pòh dauh fuh",
-     "Pinyin":"má pó dòu fǔ",
-     "Resources":
-    [
-        {"name":"麻婆豆腐","URL":"https://en.wiktionary.org/wiki/麻婆豆腐"},
-        {"name":"麻","URL":"https://en.wiktionary.org/wiki/麻"},
-        {"name":"婆","URL":"https://en.wiktionary.org/wiki/婆"},
-        {"name":"豆腐","URL":"https://en.wiktionary.org/wiki/豆腐"},
-        {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-        {"name":"腐","URL":"https://en.wiktionary.org/wiki/腐"}
-    ]
-     }
-     ],
-     "images": 
-     [
-        {
-            "image":"mapotofunoodleexchange",
-            "place":"Noodle Exchange, Las Vegas, Nevada"
-        }
-    ],
-     "Description":
-        "Soft tofu in a spicy sauce with minced meat.\n\nThe first character 麻 is short for 麻臉 which means “pockmarked face,” and 婆 is short for 婆婆 which means “old lady,” and 豆腐 is “tofu, so it's “pockmarked old lady tofu.”\n\nThe dish is apparently named (hopefully affectionately) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox.",
-     "Tags":
-     [
-         "豆腐",
-         "四川",
-         "川菜"
-     ],
-     "Resources":
-     [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/mapo-tofu/"},
-        {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Mapo_doufu"},
-        {"name":"Sichuan", 
-            "URL":"https://en.wikipedia.org/wiki/Sichuan"},
-        {"name":"Angel Wong's Kitchen", 
-                "URL":"https://www.angelwongskitchen.com/mapo-tofu-spicy--40635231103591033104-maacute-poacute-dograveufu.html"},
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/mapo-tofu-recipe/"},
-        {"name":"Made With Lau", 
-            "URL":"https://madewithlau.com/recipes/mapo-tofu-chicken"},
-        {"name":"Mala Food", 
-                "URL":"https://malafood.com/en/standard-mapo-tofu"},
-        {"name":"Oh My Food Recipes", 
-            "URL":"https://www.ohmyfoodrecipes.com/mapo-tofu/"},
-        {"name":"Village Voice", 
-            "URL":"https://www.villagevoice.com/2012/06/01/the-story-behind-ma-po-tofu/"},
-        {"name":"The Woks of Life", 
-            "URL":"https://thewoksoflife.com/ma-po-tofu-real-deal/"}
-     ]
- }
- 
- ]
+        "words": [
+            {
+                "Chinese": "麻婆豆腐",
+                "English": "mapo tofu",
+                "Yale": "màh pòh dauh fuh",
+                "Pinyin": "má pó dòu fǔ",
+                "Resources": [
+                    {
+                        "name": "麻婆豆腐",
+                        "URL": "https://en.wiktionary.org/wiki/麻婆豆腐"
+                    },
+                    {
+                        "name": "麻",
+                        "URL": "https://en.wiktionary.org/wiki/麻"
+                    },
+                    {
+                        "name": "婆",
+                        "URL": "https://en.wiktionary.org/wiki/婆"
+                    },
+                    {
+                        "name": "豆腐",
+                        "URL": "https://en.wiktionary.org/wiki/豆腐"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "腐",
+                        "URL": "https://en.wiktionary.org/wiki/腐"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "mapotofunoodleexchange",
+                "place": "Noodle Exchange, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Soft tofu in a spicy sauce with minced meat.\n\nThe first character 麻 is short for 麻臉 which means “pockmarked face,” and 婆 is short for 婆婆 which means “old lady,” and 豆腐 is “tofu, so it's “pockmarked old lady tofu.”\n\nThe dish is apparently named (hopefully affectionately) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox.",
+        "Tags": [
+            "豆腐",
+            "四川",
+            "川菜"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Mapo_doufu"
+            },
+            {
+                "name": "Sichuan",
+                "URL": "https://en.wikipedia.org/wiki/Sichuan"
+            },
+            {
+                "name": "Angel Wong's Kitchen",
+                "URL": "https://www.angelwongskitchen.com/mapo-tofu-spicy--40635231103591033104-maacute-poacute-dograveufu.html"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/mapo-tofu-recipe/"
+            },
+            {
+                "name": "Made With Lau",
+                "URL": "https://madewithlau.com/recipes/mapo-tofu-chicken"
+            },
+            {
+                "name": "Mala Food",
+                "URL": "https://malafood.com/en/standard-mapo-tofu"
+            },
+            {
+                "name": "Oh My Food Recipes",
+                "URL": "https://www.ohmyfoodrecipes.com/mapo-tofu/"
+            },
+            {
+                "name": "Village Voice",
+                "URL": "https://www.villagevoice.com/2012/06/01/the-story-behind-ma-po-tofu/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/ma-po-tofu-real-deal/"
+            }
+        ]
+    }
+]

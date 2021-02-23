@@ -1,47 +1,54 @@
 [
-    
   {
-    "words":
-    [
+    "words": [
       {
-        "Chinese" : "炸多春魚",
-        "Simplifid" : "炸多春鱼",
-        "English" :"fried smelt",
+        "Chinese": "炸多春魚",
+        "Simplifid": "炸多春鱼",
+        "English": "fried smelt",
         "Yale": "ja dō chēun yú",
-        "Pinyin":"zhà duō chūn yú",
-        "Resources":
-            [
-            {"name":"炸","URL":"https://en.wiktionary.org/wiki/炸"},
-            {"name":"多春魚","URL":"https://en.wiktionary.org/wiki/多春魚"},
-            {"name":"多","URL":"https://en.wiktionary.org/wiki/多"},
-            {"name":"春","URL":"https://en.wiktionary.org/wiki/春"},
-            {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"}
-            ]
+        "Pinyin": "zhà duō chūn yú",
+        "Resources": [
+          {
+            "name": "炸",
+            "URL": "https://en.wiktionary.org/wiki/炸"
+          },
+          {
+            "name": "多春魚",
+            "URL": "https://en.wiktionary.org/wiki/多春魚"
+          },
+          {
+            "name": "多",
+            "URL": "https://en.wiktionary.org/wiki/多"
+          },
+          {
+            "name": "春",
+            "URL": "https://en.wiktionary.org/wiki/春"
+          },
+          {
+            "name": "魚",
+            "URL": "https://en.wiktionary.org/wiki/魚"
+          }
+        ]
       }
     ],
-    "images" : 
-    [
+    "images": [
       {
-        "image":"friedsmeltdimsumcafe",
-        "place":"Dim Sum Cafe, Las Vegas, Nevada"
+        "image": "friedsmeltdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description":
-      "Deep-fried whole smelt.\n\n炸 means “deep-fried,” and 多春鱼 is “smelt.”",
-    "Tags":
-    [
+    "Description": "Deep-fried whole smelt.\n\n炸 means “deep-fried,” and 多春鱼 is “smelt.”",
+    "Tags": [
       "多春魚",
       "魚",
       "炸",
       "點心"
     ],
-    "Resources":
-    [
-      {"name":"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/fried-smelt/"},
-      {"name":"Wikipedia", 
-        "URL":"https://en.wikipedia.org/wiki/Smelt_(fish)"}
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Smelt_(fish)"
+      }
     ]
-    }
- 
+  }
 ]

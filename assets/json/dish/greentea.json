@@ -1,115 +1,122 @@
-
 [
     {
-        "words":
-        [
-        {
-            "Chinese":"綠茶",
-            "Simplified":"绿茶",
-            "English":"green tea",
-            "Yale": "luhk chàh",
-            "Pinyin":"lǜ chá",
-            "Resources":
-            [
-            {"name":"綠茶",
-                "URL":"https://en.wiktionary.org/wiki/綠茶"},
-            {"name":"綠",
-                "URL":"https://en.wiktionary.org/wiki/綠"},
-            {"name":"茶",
-                "URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-        }
+        "words": [
+            {
+                "Chinese": "綠茶",
+                "Simplified": "绿茶",
+                "English": "green tea",
+                "Yale": "luhk chàh",
+                "Pinyin": "lǜ chá",
+                "Resources": [
+                    {
+                        "name": "綠茶",
+                        "URL": "https://en.wiktionary.org/wiki/綠茶"
+                    },
+                    {
+                        "name": "綠",
+                        "URL": "https://en.wiktionary.org/wiki/綠"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
         ],
-        "images":
-        [
-
-         {
-             "image":"greenteaocha2",
-             "place":"Ocha Thai Cuisine, Las Vegas"
-         },
-        {
-             "image":"greentea88noodlepapa",
-             "place":"88 Noodle Papa, Las Vegas"
-         },
-         {
-             "image":"greenteaocha",
-             "place":"Ocha Thai Cuisine, Las Vegas"
-         },
-         {
-             "image":"greenteanorthsidecafe",
-             "place":"Northside Cafe, Las Vegas"
-         }
+        "images": [
+            {
+                "image": "greenteaocha2",
+                "place": "Ocha Thai Cuisine, Las Vegas"
+            },
+            {
+                "image": "greentea88noodlepapa",
+                "place": "88 Noodle Papa, Las Vegas"
+            },
+            {
+                "image": "greenteaocha",
+                "place": "Ocha Thai Cuisine, Las Vegas"
+            },
+            {
+                "image": "greenteanorthsidecafe",
+                "place": "Northside Cafe, Las Vegas"
+            }
         ],
-        "Description":
-            "Green tea is one of the original teas in China, dating back to the Han Dynasty. It is prepared (steamed or pan-fried) soon after harvesting and before fermentation (oxidation) takes place and is lightly caffeinated.\n\n綠 means “green“ and 茶 is “tea,” so the first character 綠 means“green“ and the second character 茶 means “tea,” and 綠茶 is “green tea.”\n\nGreen tea is the most widely produced tea in China, with many varieties.",
-        "Tags":
-        [
-         "綠茶",
-         "中國茶",
-        "茶",
-         "熱茶",
-          "點心",
-           "飲品"
+        "Description": "Green tea is one of the original teas in China, dating back to the Han Dynasty. It is prepared (steamed or pan-fried) soon after harvesting and before fermentation (oxidation) takes place and is lightly caffeinated.\n\n綠 means “green“ and 茶 is “tea,” so the first character 綠 means“green“ and the second character 茶 means “tea,” and 綠茶 is “green tea.”\n\nGreen tea is the most widely produced tea in China, with many varieties.",
+        "Tags": [
+            "綠茶",
+            "中國茶",
+            "茶",
+            "熱茶",
+            "點心",
+            "飲品"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/green-tea/"},
-            {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Green_tea#Chinese_green_tea"},
-            {"name":"The Chinese Tea Shop", 
-            "URL":"http://www.thechineseteashop.com/greentea.html"},
-            {"name":"Art of Tea", 
-            "URL":"https://www.artoftea.com/what-is-tea/what-is-green-tea"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Green_tea#Chinese_green_tea"
+            },
+            {
+                "name": "The Chinese Tea Shop",
+                "URL": "http://www.thechineseteashop.com/greentea.html"
+            },
+            {
+                "name": "Art of Tea",
+                "URL": "https://www.artoftea.com/what-is-tea/what-is-green-tea"
+            }
         ]
     },
- 
     {
-         "words":
-         [{
-            "Chinese":"龍井茶",
-            "Simplified":"龙井茶",
-            "English":"dragon well tea",
-            "Yale": " lùhng jéng chàh",
-            "Pinyin":"lóng jǐng chá",
-            "Resources":
-            [
-            {"name":"龍井",
-                "URL":"https://en.wiktionary.org/wiki/龍井"},
-            {"name":"龍",
-                "URL":"https://en.wiktionary.org/wiki/龍"},
-            {"name":"井",
-                "URL":"https://en.wiktionary.org/wiki/井"},
-            {"name":"茶",
-                "URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-        }],
-        "images":
-        [
-       {
-           "image":"dragonwellteastation",
-           "place":"Tea Station, Las Vegas, Nevada"
-       }
-   ],
-    "Description":
-    "A pan-roasted green tea.\n\n龍井 is Longjing (literally “dragon well”), the village from which this tea originates.",
-    "Tags":
-    [
-    "飲品",
-        "茶",
-         "熱",
-        "荔枝",
-        "綠茶",
-        "中国茶"
-    ],
-    "Resources":
-    [
-        {"name":"Pinterest",
-            "URL":"https://www.pinterest.com/technicat/dim-sum/dragonwell-tea/"},
-        {"name":"Wikipedia",
-            "URL":"https://en.wikipedia.org/wiki/Longjing_tea"},
-        {"name":"Dim Sum Guide",
-            "URL":"https://dimsumguide.com/site/view/Longjing-Tea"}
-    ]
+        "words": [
+            {
+                "Chinese": "龍井茶",
+                "Simplified": "龙井茶",
+                "English": "dragon well tea",
+                "Yale": " lùhng jéng chàh",
+                "Pinyin": "lóng jǐng chá",
+                "Resources": [
+                    {
+                        "name": "龍井",
+                        "URL": "https://en.wiktionary.org/wiki/龍井"
+                    },
+                    {
+                        "name": "龍",
+                        "URL": "https://en.wiktionary.org/wiki/龍"
+                    },
+                    {
+                        "name": "井",
+                        "URL": "https://en.wiktionary.org/wiki/井"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "dragonwellteastation",
+                "place": "Tea Station, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A pan-roasted green tea.\n\n龍井 is Longjing (literally “dragon well”), the village from which this tea originates.",
+        "Tags": [
+            "飲品",
+            "茶",
+            "熱",
+            "荔枝",
+            "綠茶",
+            "中国茶"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Longjing_tea"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Longjing-Tea"
+            }
+        ]
     }
- ]
+]

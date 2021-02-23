@@ -1,88 +1,107 @@
-
 [
- {
-    "words":
-    [
+  {
+    "words": [
       {
-        "Chinese" : "魚蛋",
-        "Simplified" : "鱼蛋",
-        "English" : "fish balls",
-        "Yale" : "yú daahn",
-        "Pinyin":"yú dàn",
-          "Resources":
-        [
-        {"name":"魚蛋","URL":"https://en.wiktionary.org/wiki/魚蛋"},
-        {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"}
+        "Chinese": "魚蛋",
+        "Simplified": "鱼蛋",
+        "English": "fish balls",
+        "Yale": "yú daahn",
+        "Pinyin": "yú dàn",
+        "Resources": [
+          {
+            "name": "魚蛋",
+            "URL": "https://en.wiktionary.org/wiki/魚蛋"
+          },
+          {
+            "name": "魚",
+            "URL": "https://en.wiktionary.org/wiki/魚"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          }
         ]
       }
     ],
-    "images":
-    [
-     {
-         "image":"fishballshkgarden",
-         "place":"Hong Kong Garden and Dim Sum Cafe, Las Vegas, Nevada"
-     }
+    "images": [
+      {
+        "image": "fishballshkgarden",
+        "place": "Hong Kong Garden and Dim Sum Cafe, Las Vegas, Nevada"
+      }
     ],
-    "Description": 
-    "Fish paste shaped into balls and boiled. \n\n魚 means “fish“ and 蛋 means “eggs“ literally “fish eggs.”\n\nDespite the Chinese name, there are no eggs involved. Basically, these are fish meatballs and popular in Southern China and Southeast Asia, served in restaurants and as street food. The restaurant version is made of higher quality white fish.",
-    "Tags" : 
-    [
-     "魚蛋",
-       "小食",
-       "魚",
-       "球",
-       "海鮮",
-       "點心"
-      ],
-    "Resources" : 
-    [
-      {"name":"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/fish-balls/"},
-      {"name" : "Wikipedia", 
-        "URL" : "http://en.wikipedia.org/wiki/Fish_ball"},
-      {"name" : "China Sichuan Food", 
-        "URL" : "https://www.chinasichuanfood.com/how-to-make-fish-balls/"}
+    "Description": "Fish paste shaped into balls and boiled. \n\n魚 means “fish“ and 蛋 means “eggs“ literally “fish eggs.”\n\nDespite the Chinese name, there are no eggs involved. Basically, these are fish meatballs and popular in Southern China and Southeast Asia, served in restaurants and as street food. The restaurant version is made of higher quality white fish.",
+    "Tags": [
+      "魚蛋",
+      "小食",
+      "魚",
+      "球",
+      "海鮮",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Fish_ball"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/how-to-make-fish-balls/"
+      }
     ]
   },
- 
   {
-      "words":
-      [
-        {
-          "Chinese" : "咖喱魚蛋",
-          "Mandarin" : "咖哩魚蛋",
-          "Simplified" : "咖哩鱼蛋",
-          "English" : "curry fish balls",
-          "Yale" : "ga lēi yú daahn",
-          "Pinyin":"kā li yú dàn",
-          "Resources":
-        [
-        {"name":"咖喱魚蛋","URL":"https://en.wiktionary.org/wiki/咖喱魚蛋"},
-        {"name":"咖喱","URL":"https://en.wiktionary.org/wiki/咖喱"},
-        {"name":"咖","URL":"https://en.wiktionary.org/wiki/咖"},
-        {"name":"喱","URL":"https://en.wiktionary.org/wiki/喱"},
-        {"name":"魚蛋","URL":"https://en.wiktionary.org/wiki/魚蛋"},
-        {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"}
+    "words": [
+      {
+        "Chinese": "咖喱魚蛋",
+        "Mandarin": "咖哩魚蛋",
+        "Simplified": "咖哩鱼蛋",
+        "English": "curry fish balls",
+        "Yale": "ga lēi yú daahn",
+        "Pinyin": "kā li yú dàn",
+        "Resources": [
+          {
+            "name": "咖喱魚蛋",
+            "URL": "https://en.wiktionary.org/wiki/咖喱魚蛋"
+          },
+          {
+            "name": "咖喱",
+            "URL": "https://en.wiktionary.org/wiki/咖喱"
+          },
+          {
+            "name": "咖",
+            "URL": "https://en.wiktionary.org/wiki/咖"
+          },
+          {
+            "name": "喱",
+            "URL": "https://en.wiktionary.org/wiki/喱"
+          },
+          {
+            "name": "魚蛋",
+            "URL": "https://en.wiktionary.org/wiki/魚蛋"
+          },
+          {
+            "name": "魚",
+            "URL": "https://en.wiktionary.org/wiki/魚"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          }
         ]
-        }
+      }
     ],
-    "images":
-    [
-     {
-         "image":"curryfishballspingpangpong3",
-         "place":"Ping Pang Pong, Las Vegas, Nevada"
-     },
-     {
-         "image":"curryfishballswendys",
-         "place":"Wendy's Noodle Cafe"
-     }
+    "images": [
+      {
+        "image": "curryfishballspingpangpong3",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      },
+      {
+        "image": "curryfishballswendys",
+        "place": "Wendy's Noodle Cafe"
+      }
     ],
-    "Description": 
-      "Fish balls (basically, fish meatballs), soaked in curry.\n\n咖哩 is the word for curry (sort of sounds like “curry,” and 魚蛋 is literally “fish eggs.” These are usually smaller and cheaper, street food, than regular fish balls.",
-    "Tags": 
-    [
+    "Description": "Fish balls (basically, fish meatballs), soaked in curry.\n\n咖哩 is the word for curry (sort of sounds like “curry,” and 魚蛋 is literally “fish eggs.” These are usually smaller and cheaper, street food, than regular fish balls.",
+    "Tags": [
       "小食",
       "咖喱",
       "魚",
@@ -91,52 +110,61 @@
       "海鮮",
       "點心"
     ],
-    "Resources": 
-    [
-      {"name" : "Pinterest",
-        "URL" : "https://www.pinterest.com/technicat/dim-sum/curry-fish-balls/"},
-      {"name" : "The Woks of Life", 
-        "URL" : "http://thewoksoflife.com/2017/02/hong-kong-curry-fish-balls/"},
-      {"name" : "China Sichuan Food", 
-        "URL" : "https://www.chinasichuanfood.com/curry-fish-balls/"},
-      {"name" : "Christin's Recipes", 
-        "URL" : "https://en.christinesrecipes.com/2016/03/curry-fish-balls-with-radish.html"}
+    "Resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "http://thewoksoflife.com/2017/02/hong-kong-curry-fish-balls/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/curry-fish-balls/"
+      },
+      {
+        "name": "Christin's Recipes",
+        "URL": "https://en.christinesrecipes.com/2016/03/curry-fish-balls-with-radish.html"
+      }
     ]
   },
-
   {
-    "words":
-    [
+    "words": [
       {
         "Chinese": "炸魚蛋",
         "Simplified": "炸鱼蛋",
-        "English":"fried fish balls",
+        "English": "fried fish balls",
         "Yale": "ja yú daahn",
-        "Pinyin":"zhá yú dàn",
-        "Resources":
-        [
-        {"name":"炸","URL":"https://en.wiktionary.org/wiki/炸"},
-        {"name":"魚蛋","URL":"https://en.wiktionary.org/wiki/魚蛋"},
-        {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"},
-        {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"}
+        "Pinyin": "zhá yú dàn",
+        "Resources": [
+          {
+            "name": "炸",
+            "URL": "https://en.wiktionary.org/wiki/炸"
+          },
+          {
+            "name": "魚蛋",
+            "URL": "https://en.wiktionary.org/wiki/魚蛋"
+          },
+          {
+            "name": "魚",
+            "URL": "https://en.wiktionary.org/wiki/魚"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/蛋"
+          }
         ]
       }
     ],
-    "images":
-    [
+    "images": [
       {
-            "image":"friedfishballscafesalina",
-            "place":"Cafe Salina, Millbrae, California"
+        "image": "friedfishballscafesalina",
+        "place": "Cafe Salina, Millbrae, California"
       },
       {
-              "image":"friedfishballsyumcha",
-              "place":"Yum Cha"
+        "image": "friedfishballsyumcha",
+        "place": "Yum Cha"
       }
     ],
-    "Description":
-      "Fish balls (basically, fish meatballs), fried.\n\n炸 is the word for fried, and 魚蛋 is literally “fish eggs.” These are usually smaller and cheaper, street food, than regular fish balls.",
-    "Tags":
-    [
+    "Description": "Fish balls (basically, fish meatballs), fried.\n\n炸 is the word for fried, and 魚蛋 is literally “fish eggs.” These are usually smaller and cheaper, street food, than regular fish balls.",
+    "Tags": [
       "小食",
       "炸",
       "魚",
@@ -145,14 +173,11 @@
       "海鮮",
       "點心"
     ],
-    "Resources":
-    [
-      {"name" : "Pinterest",
-        "URL" : "https://www.pinterest.com/technicat/dim-sum/curry-fish-balls/"},
-      {"name":"Unfamiliar China", 
-        "URL":"https://www.unfamiliarchina.com/dim-sum/meatballs/deep-fried-dace-fish-balls"}
+    "Resources": [
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/meatballs/deep-fried-dace-fish-balls"
+      }
     ]
-    }
-
-    
- ]
+  }
+]

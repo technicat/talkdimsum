@@ -1,91 +1,128 @@
-
 [
-
- {
-    "words":
-    [
     {
-     "Chinese":"高山茶",
-     "English":"high mountain tea",
-     "Yale": "gōu sāan chàh",
-     "Pinyin":"gāo shān chá",
-     "Resources":
-            [
-            {"name":"高山","URL":"https://en.wiktionary.org/wiki/高山"},
-            {"name":"高","URL":"https://en.wiktionary.org/wiki/高"},
-            {"name":"山","URL":"https://en.wiktionary.org/wiki/山"},
-            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-     }
-     ],
-     "images":[
-         {
-         "image":"highmountainteaeverygrain",
-         "place":"Every Grain, Las Vegas, Nevada"
-         }
-     ],
-    "Description": 
-        "High mountain tea is oolong tea grown, surprise, high in the mountains of central Taiwan.\n\nThe first character 高 means “high,” the second means “mountain,“ and the third character 茶 is “tea.” so it really is “high mountain tea.”\n\n",
-     "Tags":
-     [
-        "飲品",
-         "茶",
-         "熱茶",
-         "烏龍茶",
-         "高山茶",
-         "中國茶"
-     ],
-     "Resources":
-     [
-        {"name":"Pinterest", "URL":"https://www.pinterest.com/technicat/dim-sum/high-mountain-tea/"},
-        {"name":"Wikipedia", "URL":"https://en.wikipedia.org/wiki/High-mountain_tea"}
-     ]
- },
-
- {
-    "words":
-    [
+        "words": [
+            {
+                "Chinese": "高山茶",
+                "English": "high mountain tea",
+                "Yale": "gōu sāan chàh",
+                "Pinyin": "gāo shān chá",
+                "Resources": [
+                    {
+                        "name": "高山",
+                        "URL": "https://en.wiktionary.org/wiki/高山"
+                    },
+                    {
+                        "name": "高",
+                        "URL": "https://en.wiktionary.org/wiki/高"
+                    },
+                    {
+                        "name": "山",
+                        "URL": "https://en.wiktionary.org/wiki/山"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "highmountainteaeverygrain",
+                "place": "Every Grain, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "High mountain tea is oolong tea grown, surprise, high in the mountains of central Taiwan.\n\nThe first character 高 means “high,” the second means “mountain,“ and the third character 茶 is “tea.” so it really is “high mountain tea.”\n\n",
+        "Tags": [
+            "飲品",
+            "茶",
+            "熱茶",
+            "烏龍茶",
+            "高山茶",
+            "中國茶"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/High-mountain_tea"
+            }
+        ]
+    },
     {
-     "Chinese":"阿里山高山茶",
-     "English":"Alishan tea",
-     "Yale": "a léih sāan gōu sāan chàh",
-     "Pinyin":"Ā lǐ Shān gāo shān chá",
-     "Resources":
-            [
-            {"name":"阿高山","URL":"https://en.wiktionary.org/wiki/阿高山"},
-            {"name":"高","URL":"https://en.wiktionary.org/wiki/阿高山"},
-             {"name":"阿","URL":"https://en.wiktionary.org/wiki/阿"},
-            {"name":"高山","URL":"https://en.wiktionary.org/wiki/高山"},
-            {"name":"高","URL":"https://en.wiktionary.org/wiki/高"},
-            {"name":"山","URL":"https://en.wiktionary.org/wiki/山"},
-            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-     }
-     ],
-     "images":[
-         {
-         "image":"alishancupeverygrain",
-         "place":"Every Grain, Las Vegas, Nevada"
-         }
-     ],
-    "Description": 
-        "The most famous high mountain oolong tea is grown in the Alishan mountain range of Taiwan.\n\n阿里山 is the name Alishan (notice the third character is the same character for “mountain” as the second character for “high mountain” (高山).\n\n",
-     "Tags":
-     [
-        "飲品",
-         "茶",
-         "熱茶",
-         "烏龍茶",
-         "高山茶",
-         "中國茶"
-     ],
-     "Resources":
-     [
-     {"name":"Alishan", "URL":"https://en.wikipedia.org/wiki/Alishan_Range"},
-        {"name":"Spiritual Travels", "URL":"https://www.nickkembel.com/alishan-high-mountain-tea/"},
-        {"name":"Tea Culture", "URL":"https://tea-culture.net/alishan-tea-taiwan/"},
-        {"name":"Tea from Taiwan", "URL":"https://www.teafromtaiwan.com/Alishan_area"},
-         {"name":"Let's Drink Tea", "URL":"https://www.letsdrinktea.com/types-of-tea/oolong-tea/ali-mountain-tea/"}
-     ]
- }
- ]
+        "words": [
+            {
+                "Chinese": "阿里山高山茶",
+                "English": "Alishan tea",
+                "Yale": "a léih sāan gōu sāan chàh",
+                "Pinyin": "Ā lǐ Shān gāo shān chá",
+                "Resources": [
+                    {
+                        "name": "阿高山",
+                        "URL": "https://en.wiktionary.org/wiki/阿高山"
+                    },
+                    {
+                        "name": "高",
+                        "URL": "https://en.wiktionary.org/wiki/阿高山"
+                    },
+                    {
+                        "name": "阿",
+                        "URL": "https://en.wiktionary.org/wiki/阿"
+                    },
+                    {
+                        "name": "高山",
+                        "URL": "https://en.wiktionary.org/wiki/高山"
+                    },
+                    {
+                        "name": "高",
+                        "URL": "https://en.wiktionary.org/wiki/高"
+                    },
+                    {
+                        "name": "山",
+                        "URL": "https://en.wiktionary.org/wiki/山"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "alishancupeverygrain",
+                "place": "Every Grain, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "The most famous high mountain oolong tea is grown in the Alishan mountain range of Taiwan.\n\n阿里山 is the name Alishan (notice the third character is the same character for “mountain” as the second character for “high mountain” (高山).\n\n",
+        "Tags": [
+            "飲品",
+            "茶",
+            "熱茶",
+            "烏龍茶",
+            "高山茶",
+            "中國茶"
+        ],
+        "Resources": [
+            {
+                "name": "Alishan",
+                "URL": "https://en.wikipedia.org/wiki/Alishan_Range"
+            },
+            {
+                "name": "Spiritual Travels",
+                "URL": "https://www.nickkembel.com/alishan-high-mountain-tea/"
+            },
+            {
+                "name": "Tea Culture",
+                "URL": "https://tea-culture.net/alishan-tea-taiwan/"
+            },
+            {
+                "name": "Tea from Taiwan",
+                "URL": "https://www.teafromtaiwan.com/Alishan_area"
+            },
+            {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/ali-mountain-tea/"
+            }
+        ]
+    }
+]

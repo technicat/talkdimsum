@@ -1,33 +1,39 @@
-
 [
     {
-        "words":
-        [
+        "words": [
             {
-            "Chinese":"柚子茶",
-            "English":"honey citrus tea",
-            "Yale": "yáu jí chàh",
-            "Pinyin":"yòu zi chá",
-            "Resources":
-            [
-            {"name":"柚子","URL":"https://en.wiktionary.org/wiki/柚子"},
-            {"name":"柚","URL":"https://en.wiktionary.org/wiki/柚"},
-            {"name":"子","URL":"https://en.wiktionary.org/wiki/子"},
-            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
+                "Chinese": "柚子茶",
+                "English": "honey citrus tea",
+                "Yale": "yáu jí chàh",
+                "Pinyin": "yòu zi chá",
+                "Resources": [
+                    {
+                        "name": "柚子",
+                        "URL": "https://en.wiktionary.org/wiki/柚子"
+                    },
+                    {
+                        "name": "柚",
+                        "URL": "https://en.wiktionary.org/wiki/柚"
+                    },
+                    {
+                        "name": "子",
+                        "URL": "https://en.wiktionary.org/wiki/子"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
             }
         ],
-        "images":
-        [
+        "images": [
             {
-                "image":"honeycitrustea88noodlepapa",
-                "place":"88 Noodle Papa, Las Vegas"
+                "image": "honeycitrustea88noodlepapa",
+                "place": "88 Noodle Papa, Las Vegas"
             }
         ],
-        "Description":
-            "A tea made from sugar, honey and the Japanese fruit yuzu.\n\n柚子 is “yuzu,” and 茶 is “tea“, so it's literally “yuzu tea.”\n\nThis tea is a traditional Korean tea known as “yuja tea,” and while the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 (yáu jí), the latter also refers to pomelo (a fruit which resembles a large grapefruit).",
-        "Tags":
-        [
+        "Description": "A tea made from sugar, honey and the Japanese fruit yuzu.\n\n柚子 is “yuzu,” and 茶 is “tea“, so it's literally “yuzu tea.”\n\nThis tea is a traditional Korean tea known as “yuja tea,” and while the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 (yáu jí), the latter also refers to pomelo (a fruit which resembles a large grapefruit).",
+        "Tags": [
             "茶餐廳",
             "飲品",
             "蜜糖",
@@ -35,118 +41,140 @@
             "柚子",
             "熱茶",
             "中國茶"
-         ],
-        "Resources":[
-            {"name":"Pinterest",
-                "URL":"https://www.pinterest.com/technicat/dim-sum/yuzu-tea/"},
-            {"name":"Wikipedia",
-                    "URL":"https://en.wikipedia.org/wiki/Yuja_tea"},
-            {"name":"Yuzu",
-                    "URL":"https://en.wikipedia.org/wiki/Yuzu"}
-              ]
-    },
-
-    {
-        "words":
-        [
+        ],
+        "Resources": [
             {
-                "Chinese":"熱檸蜜",
-                "Simplified":"热柠蜜",
-                "English":"honey lemon tea",
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Yuja_tea"
+            },
+            {
+                "name": "Yuzu",
+                "URL": "https://en.wikipedia.org/wiki/Yuzu"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "熱檸蜜",
+                "Simplified": "热柠蜜",
+                "English": "honey lemon tea",
                 "Yale": "yiht lìhng maht",
-                "Pinyin":"rè níng mì",
-                 "Resources":
-            [
-            {"name":"熱","URL":"https://en.wiktionary.org/wiki/熱"},
-            {"name":"檸","URL":"https://en.wiktionary.org/wiki/檸"},
-            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
+                "Pinyin": "rè níng mì",
+                "Resources": [
+                    {
+                        "name": "熱",
+                        "URL": "https://en.wiktionary.org/wiki/熱"
+                    },
+                    {
+                        "name": "檸",
+                        "URL": "https://en.wiktionary.org/wiki/檸"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
             }
         ],
-        "images":
-        [
-        {
-         "image":"honeylemontea88noodlepapa",
-         "place":"88 Noodle Papa, Las Vegas, Nevada"
-        }
+        "images": [
+            {
+                "image": "honeylemontea88noodlepapa",
+                "place": "88 Noodle Papa, Las Vegas, Nevada"
+            }
         ],
-        "Description":
-            "A hot tea made from sugar, honey and lemon.\n\n熱 is “hot,” 檸 is “lemon,” and 蜜 is “honey“, so it's literally “hot lemon honey.”",
-        "Tags":
-        [
+        "Description": "A hot tea made from sugar, honey and lemon.\n\n熱 is “hot,” 檸 is “lemon,” and 蜜 is “honey“, so it's literally “hot lemon honey.”",
+        "Tags": [
             "飲品",
             "蜜糖",
             "檸檬",
             "茶",
             "熱茶"
-         ],
-        "Resources":
-        [
-            {"name":"China Sichuan Food",
-                "URL":"https://www.pinterest.com/technicat/dim-sum/honey-lemon-tea/"},
-            {"name":"China Sichuan Food",
-                "URL":"https://www.chinasichuanfood.com/honey-lemon-tea/"},
-            {"name":"Christine's Recipes",
-                "URL":"https://en.christinesrecipes.com/2015/07/lemon-ginger-honey-tea.html"}
+        ],
+        "Resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2015/07/lemon-ginger-honey-tea.html"
+            }
         ]
     },
-
     {
-        "words":
-        [
+        "words": [
             {
-                "Chinese":"仙草蜜",
-                "English":"grass jelly drink",
+                "Chinese": "仙草蜜",
+                "English": "grass jelly drink",
                 "Yale": "sīn chóu maht",
-                "Pinyin":"xiān cǎo mì",
-                 "Resources":
-            [
-            {"name":"仙草","URL":"https://en.wiktionary.org/wiki/仙草"},
-            {"name":"仙","URL":"https://en.wiktionary.org/wiki/仙"},
-            {"name":"草","URL":"https://en.wiktionary.org/wiki/草"},
-              {"name":"蜜","URL":"https://en.wiktionary.org/wiki/蜜"}
-            ]
-          },
-          {
-              "Chinese":"仙草烧",
-              "English":"grass jelly drink",
-              "Yale": "sīn chóu",
-              "Pinyin":"xiān cǎo",
-               "Resources":
-          [
-          {"name":"熱","URL":"https://en.wiktionary.org/wiki/熱"},
-          {"name":"檸","URL":"https://en.wiktionary.org/wiki/檸"},
-          {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
-          ]
-          }
+                "Pinyin": "xiān cǎo mì",
+                "Resources": [
+                    {
+                        "name": "仙草",
+                        "URL": "https://en.wiktionary.org/wiki/仙草"
+                    },
+                    {
+                        "name": "仙",
+                        "URL": "https://en.wiktionary.org/wiki/仙"
+                    },
+                    {
+                        "name": "草",
+                        "URL": "https://en.wiktionary.org/wiki/草"
+                    },
+                    {
+                        "name": "蜜",
+                        "URL": "https://en.wiktionary.org/wiki/蜜"
+                    }
+                ]
+            },
+            {
+                "Chinese": "仙草烧",
+                "English": "grass jelly drink",
+                "Yale": "sīn chóu",
+                "Pinyin": "xiān cǎo",
+                "Resources": [
+                    {
+                        "name": "熱",
+                        "URL": "https://en.wiktionary.org/wiki/熱"
+                    },
+                    {
+                        "name": "檸",
+                        "URL": "https://en.wiktionary.org/wiki/檸"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
         ],
-        "images":
-        [
-        {
-         "image":"grassjellydrink",
-         "place":"168 Market, Las Vegas, Nevada"
-        }
+        "images": [
+            {
+                "image": "grassjellydrink",
+                "place": "168 Market, Las Vegas, Nevada"
+            }
         ],
-        "Description":
-            "A syrupy cold drink with grass jelly.\n\n仙 means “divine,” and 草 is “grass,” and together 仙草 refers to both the herb and the jelly made from it. 烧 is “syrup,” also short for “honey” (蜜糖 maht tòhng).",
-        "Tags":
-        [
-          "仙草",
+        "Description": "A syrupy cold drink with grass jelly.\n\n仙 means “divine,” and 草 is “grass,” and together 仙草 refers to both the herb and the jelly made from it. 烧 is “syrup,” also short for “honey” (蜜糖 maht tòhng).",
+        "Tags": [
+            "仙草",
             "飲品",
             "茶",
             "熱茶"
-         ],
-        "Resources":
-        [
-            {"name":"Pinterest",
-                "URL":"https://www.pinterest.com/technicat/dim-sum/grass-jelly-drink/"},
-            {"name":"Wikipedia",
-                "URL":"https://en.wikipedia.org/wiki/Grass_jelly"},
-            {"name":"Asian Inspirations",
-                "URL":"https://asianinspirations.com.au/recipes/grass-jelly-drink-cincau/"},
-            {"name":"China Sichuan Food",
-                    "URL":"https://www.chinasichuanfood.com/grass-jelly-cincau/"}
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
+            },
+            {
+                "name": "Asian Inspirations",
+                "URL": "https://asianinspirations.com.au/recipes/grass-jelly-drink-cincau/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/grass-jelly-cincau/"
+            }
         ]
     }
-
- ]
+]
