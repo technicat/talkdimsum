@@ -12,14 +12,12 @@ import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
 
-import 'package:talkdimsum/core/provider/dimsum.dart';
-import 'package:talkdimsum/core/provider/conversation.dart';
-import 'package:talkdimsum/core/provider/countries.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/core/provider/stt.dart';
 
 import 'ui/cupertino/app.dart' as cupertino;
 import 'ui/material/app.dart' as material;
+
 
 void main() async {
   runApp(riverpod.ProviderScope(child: MainApp()));
