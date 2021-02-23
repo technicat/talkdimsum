@@ -37,12 +37,12 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/rice-roll/"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Rice_noodle_roll"
+            },
+            {
+                "name": "Adventures with Kake",
+                "URL": "https://kake.dreamwidth.org/46156.html"
             },
             {
                 "name": "China Sichuan Food",
@@ -53,16 +53,16 @@
                 "URL": "https://thewoksoflife.com/2015/01/cheung-fun-homemade-rice-noodles/"
             },
             {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/cheung-fun-homemade-rice-noodles/"
-            },
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/46156.html"
+                "name": "Hong Kong University",
+                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/26"
             },
             {
                 "name": "Oh My Food Recipes",
                 "URL": "https://www.ohmyfoodrecipes.com/rice-noodle-roll-cheung-fun-腸粉/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/cheung-fun-homemade-rice-noodles/"
             }
         ]
     },
@@ -111,10 +111,6 @@
             "點心"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/scallion-rice-roll/"
-            }
         ]
     },
     {
@@ -165,10 +161,6 @@
             "點心"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/shrimp-rice-roll/"
-            },
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/shrimp-noodle-rolls/"
@@ -299,10 +291,6 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/shrimp-and-chives-rice-roll/"
-            },
-            {
                 "name": "Chives",
                 "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
             }
@@ -359,10 +347,6 @@
             "牛肉"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/beef-rice-roll/"
-            },
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/beef-noodle-rolls/"
@@ -429,10 +413,6 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/cha-siu-rice-roll/"
-            },
-            {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/bbq-pork-noodle-rolls/"
             },
@@ -498,10 +478,6 @@
             "海鮮"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/salmon-rice-roll/"
-            }
         ]
     },
     {
@@ -623,10 +599,6 @@
             "點心"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/curry-shrimp-rice-roll/"
-            }
         ]
     },
     {
@@ -689,10 +661,6 @@
             "點心"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/bitter-melon-and-shredded-chicken-rice-roll/"
-            },
             {
                 "name": "bitter melon",
                 "URL": "https://en.wikipedia.org/wiki/Momordica_charantia"

@@ -1,34 +1,39 @@
 [
-   
-
     {
-        "words": 
-        [
-        {
-        "English":"red bean paste bun",
-        "Chinese":"豆沙包",
-        "Yale": "dauh sā bāau",
-        "Pinyin":"dòu shā bāo",
-         "Resources":
-        [
-            {"name":"豆沙","URL":"https://en.wiktionary.org/wiki/豆沙"},
-            {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-            {"name":"沙","URL":"https://en.wiktionary.org/wiki/沙"},
-            {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-        ]
-        }
-        ],
-        "images":
-        [
+        "words": [
             {
-                "image":"steamedredbeanbunyumcha",
-                "place":"Yum Cha, Las Vegas, Nevada"
+                "English": "red bean paste bun",
+                "Chinese": "豆沙包",
+                "Yale": "dauh sā bāau",
+                "Pinyin": "dòu shā bāo",
+                "Resources": [
+                    {
+                        "name": "豆沙",
+                        "URL": "https://en.wiktionary.org/wiki/豆沙"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "沙",
+                        "URL": "https://en.wiktionary.org/wiki/沙"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
             }
         ],
-        "Description":
-            "Fluffy steamed buns filled with red bean paste (made from adzuki beans). The paste can be chunky with fragments of beans or a smooth paste.\n\n豆沙 is “red bean paste,” and 包 is “bun.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "steamedredbeanbunyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Fluffy steamed buns filled with red bean paste (made from adzuki beans). The paste can be chunky with fragments of beans or a smooth paste.\n\n豆沙 is “red bean paste,” and 包 is “bun.”",
+        "Tags": [
             "豆沙",
             "紅色",
             "包",
@@ -36,120 +41,147 @@
             "素",
             "點心"
         ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/red-bean-paste-bun/"},
-            {"name":"Red bean paste", 
-                "URL":"http://en.wikipedia.org/wiki/Red_bean_paste#Chinese"},
-            {"name":"Adzuki beans", 
-                "URL":"https://en.wikipedia.org/wiki/Adzuki_bean"},
-            {"name":"Mary's Test Kitchen", 
-                "URL":"http://www.marystestkitchen.com/chinese-steamed-sweet-red-bean-buns-dou-sha-bao-vegan-recipe/"},
-            {"name":"China Sichuan Food", 
-                "URL":"https://www.chinasichuanfood.com/homemade-red-bean-buns/"},
-            {"name":"China Yummy Food", 
-                "URL":"https://www.chinayummyfood.com/red-bean-buns-dou-sha-bao/"},
-            {"name":"Unfamiliar China", 
-                "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/bean-paste-buns"}
+        "Resources": [
+            {
+                "name": "Red bean paste",
+                "URL": "http://en.wikipedia.org/wiki/Red_bean_paste#Chinese"
+            },
+            {
+                "name": "Adzuki beans",
+                "URL": "https://en.wikipedia.org/wiki/Adzuki_bean"
+            },
+            {
+                "name": "Mary's Test Kitchen",
+                "URL": "http://www.marystestkitchen.com/chinese-steamed-sweet-red-bean-buns-dou-sha-bao-vegan-recipe/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/homemade-red-bean-buns/"
+            },
+            {
+                "name": "China Yummy Food",
+                "URL": "https://www.chinayummyfood.com/red-bean-buns-dou-sha-bao/"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/bean-paste-buns"
+            }
         ]
     },
- 
     {
-    "words": 
-    [
-        {
-     "Chinese":"芝麻包",
-     "English":"sesame paste bun",
-     "Yale": "jī màh bāau",
-     "Pinyin":"zhī ma bāo",
-     "Resources":
-     [
-        {"name":"芝麻","URL":"https://en.wiktionary.org/wiki/芝麻"},
-        {"name":"芝","URL":"https://en.wiktionary.org/wiki/芝"},
-        {"name":"麻","URL":"https://en.wiktionary.org/wiki/麻"},
-        {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-     ]
- }
- ],
-     "images":
-     [
-         {
-             "image":"blacksesamebunkj",
-             "place":"KJ Dim Sum and Seafood, Las Vegas, Nevada"
-         },
-         {
-             "image":"blacksesamebunshenghoi",
-             "place":"Sheng Hoi Dim Sum"
-         }
-     ],
-     "Description":
-        "Fluffy steamed buns filled with black sesame seed paste.\n\n芝麻 is “sesame paste,” and 包 is “bun.”",
-     "Tags":
-     [
-        "黑芝麻",
-         "芝麻",
-         "包",
-         "蒸",
-         "素",
-         "點心"
-     ],
-     "Resources":
-     [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/black-sesame-bun/"},
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/black-sesame-buns/"
-        },
-        {"name":"One Happy Bite", 
-            "URL":"https://onehappybite.com/black-sesame-steamed-buns/"
-        },
-        {"name":"Unfamiliar China", 
-            "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/sesame-baozi"
-        }
-     ]
- },
-
- {
-    "words": [
-        {
-    "Chinese":"蓮蓉包",
-    "Simplified":"莲蓉包",
-    "English":"lotus seed bun",
-    "Yale": "lìhn yùhng bāau",
-    "Pinyin":"lián róng bāo",
-    "Resources":
-     [
-        {"name":"蓮蓉","URL":"https://en.wiktionary.org/wiki/蓮蓉"},
-        {"name":"蓮","URL":"https://en.wiktionary.org/wiki/蓮"},
-        {"name":"蓉","URL":"https://en.wiktionary.org/wiki/蓉"},
-        {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-     ]
-    }],
-    "images":[
-       {
-           "image":"sweetlotuspastebunimperialgarden",
-           "place":"Imperial Garden, Fresno, California"
-       }
-    ],
-    "Description":
-        "Steamed buns filled with lotus seed paste.\n\n蓮蓉 is “lotus seed paste“, and 包 is “bun“",
-    "Tags":
-    [
-        "點心",
-        "蓮蓉",
-        "包"
-    ],
-    "Resources":[
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/lotus-seed-bun/"},
-        {"name":"Wikipedia", 
-            "URL":"http://en.wikipedia.org/wiki/Lotus_seed_bun"},
-        {"name":"Dim Sum Guide", 
-            "URL":"https://dimsumguide.com/site/view/Lotus-Seed-Paste-Bun"},
-        {"name":"Unfamiliar China", 
-            "URL":"https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/lotus-seed-paste-buns"}
-    ]
-}
-    
- ]
+        "words": [
+            {
+                "Chinese": "芝麻包",
+                "English": "sesame paste bun",
+                "Yale": "jī màh bāau",
+                "Pinyin": "zhī ma bāo",
+                "Resources": [
+                    {
+                        "name": "芝麻",
+                        "URL": "https://en.wiktionary.org/wiki/芝麻"
+                    },
+                    {
+                        "name": "芝",
+                        "URL": "https://en.wiktionary.org/wiki/芝"
+                    },
+                    {
+                        "name": "麻",
+                        "URL": "https://en.wiktionary.org/wiki/麻"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "blacksesamebunkj",
+                "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
+            },
+            {
+                "image": "blacksesamebunshenghoi",
+                "place": "Sheng Hoi Dim Sum"
+            }
+        ],
+        "Description": "Fluffy steamed buns filled with black sesame seed paste.\n\n芝麻 is “sesame paste,” and 包 is “bun.”",
+        "Tags": [
+            "黑芝麻",
+            "芝麻",
+            "包",
+            "蒸",
+            "素",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/black-sesame-buns/"
+            },
+            {
+                "name": "One Happy Bite",
+                "URL": "https://onehappybite.com/black-sesame-steamed-buns/"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/sesame-baozi"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蓮蓉包",
+                "Simplified": "莲蓉包",
+                "English": "lotus seed bun",
+                "Yale": "lìhn yùhng bāau",
+                "Pinyin": "lián róng bāo",
+                "Resources": [
+                    {
+                        "name": "蓮蓉",
+                        "URL": "https://en.wiktionary.org/wiki/蓮蓉"
+                    },
+                    {
+                        "name": "蓮",
+                        "URL": "https://en.wiktionary.org/wiki/蓮"
+                    },
+                    {
+                        "name": "蓉",
+                        "URL": "https://en.wiktionary.org/wiki/蓉"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "sweetlotuspastebunimperialgarden",
+                "place": "Imperial Garden, Fresno, California"
+            }
+        ],
+        "Description": "Steamed buns filled with lotus seed paste.\n\n蓮蓉 is “lotus seed paste“, and 包 is “bun“",
+        "Tags": [
+            "點心",
+            "蓮蓉",
+            "包"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Lotus-Seed-Paste-Bun"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/lotus-seed-paste-buns"
+            }
+        ]
+    }
+]

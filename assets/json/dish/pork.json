@@ -1,40 +1,50 @@
 [
-    
- 
- {
-  "words":
-  [{
-    "Chinese": "片皮烤乳豬",
-    "Simplified": "片皮烤乳猪",
-    "English":"suckling pig",
-    "Yale": "pín pèih hao yú jyú",
-    "Pinyin":"piàn pí kǎo rǔ zhū",
-    "Resources":
-        [
-        {"name":"片","URL":"https://en.wiktionary.org/wiki/片"},
-        {"name":"皮","URL":"https://en.wiktionary.org/wiki/皮"},
-        {"name":"烤","URL":"https://en.wiktionary.org/wiki/烤"},
-        {"name":"乳豬","URL":"https://en.wiktionary.org/wiki/乳豬"},
-         {"name":"乳","URL":"https://en.wiktionary.org/wiki/乳"},
-          {"name":"豬","URL":"https://en.wiktionary.org/wiki/豬"}
+  {
+    "words": [
+      {
+        "Chinese": "片皮烤乳豬",
+        "Simplified": "片皮烤乳猪",
+        "English": "suckling pig",
+        "Yale": "pín pèih hao yú jyú",
+        "Pinyin": "piàn pí kǎo rǔ zhū",
+        "Resources": [
+          {
+            "name": "片",
+            "URL": "https://en.wiktionary.org/wiki/片"
+          },
+          {
+            "name": "皮",
+            "URL": "https://en.wiktionary.org/wiki/皮"
+          },
+          {
+            "name": "烤",
+            "URL": "https://en.wiktionary.org/wiki/烤"
+          },
+          {
+            "name": "乳豬",
+            "URL": "https://en.wiktionary.org/wiki/乳豬"
+          },
+          {
+            "name": "乳",
+            "URL": "https://en.wiktionary.org/wiki/乳"
+          },
+          {
+            "name": "豬",
+            "URL": "https://en.wiktionary.org/wiki/豬"
+          }
         ]
-    }],
-    "images":[
-     {
-         "image":"sucklingpig"
-     }
+      }
+    ],
+    "images": [
+      {
+        "image": "sucklingpig"
+      }
     ],
     "Description": "Slices of roast pig, with a melty fatty layer between the crispy (brittle) skin and the tender meat.\n\n",
-    "Tags":
-    [
+    "Tags": [
       "點心",
-        "豬肉"
-       ],
-       "Resources":
-       [
-        {"name" :"Pinterest", 
-          "URL":"https://www.pinterest.com/technicat/dim-sum/suckling-pig/"}
-    ]
- }
- 
-      ]
+      "豬肉"
+    ],
+    "Resources": []
+  }
+]

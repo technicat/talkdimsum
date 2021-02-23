@@ -42,10 +42,6 @@
     ],
     "Resources": [
       {
-        "name": "Pinterest",
-        "URL": "https://www.pinterest.com/technicat/dim-sum/egg-tarts/"
-      },
-      {
         "name": "Wikipedia",
         "URL": "http://en.wikipedia.org/wiki/Egg_tart"
       },
@@ -62,6 +58,10 @@
         "URL": "http://www.dimsumptuous.com/2013/05/egg-tarts.html"
       },
       {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/3"
+      },
+      {
         "name": "Oh My Food Recipes",
         "URL": "https://www.ohmyfoodrecipes.com/egg-tarts/"
       }
@@ -72,7 +72,7 @@
       {
         "Chinese": "港式蛋撻",
         "Simplified": "港式蛋挞",
-        "English": "Hong Kong egg tart",
+        "English": "Hong Kong-style egg tart",
         "Yale": "góng sīk daahn tāat",
         "Pinyin": "Gǎng sh dàn tà",
         "Resources": [
@@ -201,10 +201,6 @@
       "點心"
     ],
     "Resources": [
-      {
-        "name": "Pinterest",
-        "URL": "https://www.pinterest.com/technicat/dim-sum/portuguese-egg-tarts/"
-      },
       {
         "name": "Pastel de nata",
         "URL": "https://en.wikipedia.org/wiki/Pastel_de_nata"

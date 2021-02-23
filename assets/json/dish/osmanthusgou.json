@@ -1,33 +1,39 @@
 [
-   
     {
-        "words": 
-        [
-        {
-        "Chinese": "桂花糕",
-        "English":"osmanthus jelly",
-        "Yale": "gwai fā gōu",
-        "Pinyin" : "guì huā gāo",
-        "Resources":
-        [
-            {"name":"桂花","URL":"https://en.wiktionary.org/wiki/桂花"},
-            {"name":"桂","URL":"https://en.wiktionary.org/wiki/桂"},
-            {"name":"花","URL":"https://en.wiktionary.org/wiki/花"},
-            {"name":"糕","URL":"https://en.wiktionary.org/wiki/糕"}
-        ]
-        }
-        ],
-        "images" : 
-        [
+        "words": [
             {
-            "image":"osmanthusjellychinarepublic",
-            "place":"China Republic, Rancho Cucamonga, California"
+                "Chinese": "桂花糕",
+                "English": "osmanthus jelly",
+                "Yale": "gwai fā gōu",
+                "Pinyin": "guì huā gāo",
+                "Resources": [
+                    {
+                        "name": "桂花",
+                        "URL": "https://en.wiktionary.org/wiki/桂花"
+                    },
+                    {
+                        "name": "桂",
+                        "URL": "https://en.wiktionary.org/wiki/桂"
+                    },
+                    {
+                        "name": "花",
+                        "URL": "https://en.wiktionary.org/wiki/花"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
             }
         ],
-        "Description" : 
-        "A jelly made with dried osmanthus flowers.\n\n桂花 means “osmanthus flower,” and 糕 is “cake.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "osmanthusjellychinarepublic",
+                "place": "China Republic, Rancho Cucamonga, California"
+            }
+        ],
+        "Description": "A jelly made with dried osmanthus flowers.\n\n桂花 means “osmanthus flower,” and 糕 is “cake.”",
+        "Tags": [
             "桂花",
             "花",
             "糕",
@@ -36,75 +42,103 @@
             "甜品",
             "點心"
         ],
-        "Resources":
-        [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/osmanthus-jelly/"},
-        {"name":"The Hong Kong Cookery", 
-            "URL":"http://www.thehongkongcookery.com/2017/09/osmanthus-flower-jelly.html"},
-        {"name":"Noob Cookbook", 
-                "URL":"https://noobcook.com/osmanthus-jelly/"},
-        {"name":"Christine's Recipes", 
-            "URL":"https://en.christinesrecipes.com/2009/12/osmanthus-jelly.html"},
-        {"name":"Panda Cheffy", 
-            "URL":"https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-osmanthus-jelly-dessert-acf8c81d0184"}
-    ]
-},
-
-  {
-    "words":
-    [
-    {
-        "Chinese": "杞子桂花糕",
-        "Mandarin": "枸杞子桂花糕",
-        "English":"osmanthus jelly with goji berries",
-        "Yale": "géi jí gwai fā gōu",
-        "Pinyin" : "gǒu qǐ zi guì huā gāo",
-        "Resources":
-        [
-            {"name":"枸杞子","URL":"https://en.wiktionary.org/wiki/枸杞子"},
-            {"name":"枸杞","URL":"https://en.wiktionary.org/wiki/枸杞"},
-            {"name":"枸","URL":"https://en.wiktionary.org/wiki/枸"},
-            {"name":"杞","URL":"https://en.wiktionary.org/wiki/杞"},
-            {"name":"子","URL":"https://en.wiktionary.org/wiki/子"},
-            {"name":"桂花","URL":"https://en.wiktionary.org/wiki/桂花"},
-            {"name":"桂","URL":"https://en.wiktionary.org/wiki/桂"},
-            {"name":"花","URL":"https://en.wiktionary.org/wiki/花"},
-            {"name":"糕","URL":"https://en.wiktionary.org/wiki/糕"}
-        ]
-    }
-    ],
-        "images" : 
-        [
+        "Resources": [
             {
-            "image":"osmanthusjellygojiberrytimhowan",
-            "place":"Tim Ho Wan, Las Vegas, Nevada"
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2017/09/osmanthus-flower-jelly.html"
+            },
+            {
+                "name": "Noob Cookbook",
+                "URL": "https://noobcook.com/osmanthus-jelly/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2009/12/osmanthus-jelly.html"
+            },
+            {
+                "name": "Panda Cheffy",
+                "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-osmanthus-jelly-dessert-acf8c81d0184"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "杞子桂花糕",
+                "Mandarin": "枸杞子桂花糕",
+                "English": "osmanthus jelly with goji berries",
+                "Yale": "géi jí gwai fā gōu",
+                "Pinyin": "gǒu qǐ zi guì huā gāo",
+                "Resources": [
+                    {
+                        "name": "枸杞子",
+                        "URL": "https://en.wiktionary.org/wiki/枸杞子"
+                    },
+                    {
+                        "name": "枸杞",
+                        "URL": "https://en.wiktionary.org/wiki/枸杞"
+                    },
+                    {
+                        "name": "枸",
+                        "URL": "https://en.wiktionary.org/wiki/枸"
+                    },
+                    {
+                        "name": "杞",
+                        "URL": "https://en.wiktionary.org/wiki/杞"
+                    },
+                    {
+                        "name": "子",
+                        "URL": "https://en.wiktionary.org/wiki/子"
+                    },
+                    {
+                        "name": "桂花",
+                        "URL": "https://en.wiktionary.org/wiki/桂花"
+                    },
+                    {
+                        "name": "桂",
+                        "URL": "https://en.wiktionary.org/wiki/桂"
+                    },
+                    {
+                        "name": "花",
+                        "URL": "https://en.wiktionary.org/wiki/花"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
             }
         ],
-        "Description" : 
-        "A jelly made with dried osmanthus flowers with goji berries.\n\n杞子 is “goji berry,” 桂花 means “osmanthus flower,” and 糕 is “cake.”\n\nGoji berries are also known as “wolfberries.”",
-        "Tags":
-        [
-        "杞子",
-        "桂花",
-        "花",
-        "糕",
-        "果",
-        "素",
-        "甜品",
-        "點心"
-    ],
-    "Resources":
-    [
-    {"name":"Pinterest",
-        "URL":"https://www.pinterest.com/technicat/dim-sum/osmanthus-jelly-with-goji-berries/"},
-    {"name":"Goji Berries",
-            "URL":"https://en.wikipedia.org/wiki/Goji"},
-    {"name":"Gui Shu Shu",
-        "URL":"http://www.guaishushu1.com/osmanthus-gojiberries-jelly-桂花枸杞糕）/"},
-    {"name":"Bear Naked Food",
-        "URL":"http://www.bearnakedfood.com/2015/05/07/osmanthus-flower-jelly-with-wolfberries-2/"}
-    ]
+        "images": [
+            {
+                "image": "osmanthusjellygojiberrytimhowan",
+                "place": "Tim Ho Wan, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A jelly made with dried osmanthus flowers with goji berries.\n\n杞子 is “goji berry,” 桂花 means “osmanthus flower,” and 糕 is “cake.”\n\nGoji berries are also known as “wolfberries.”",
+        "Tags": [
+            "杞子",
+            "桂花",
+            "花",
+            "糕",
+            "果",
+            "素",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Goji Berries",
+                "URL": "https://en.wikipedia.org/wiki/Goji"
+            },
+            {
+                "name": "Gui Shu Shu",
+                "URL": "http://www.guaishushu1.com/osmanthus-gojiberries-jelly-桂花枸杞糕）/"
+            },
+            {
+                "name": "Bear Naked Food",
+                "URL": "http://www.bearnakedfood.com/2015/05/07/osmanthus-flower-jelly-with-wolfberries-2/"
+            }
+        ]
     }
- 
- ]
+]

@@ -1,32 +1,36 @@
 [
     {
-        "words":
-        [
+        "words": [
             {
-                "Chinese" : "蝦餃",
-                "Simplified":"虾饺",
-                "English" : "shrimp dumpling",
-                "Yale" : "hā gáau",
-                "Pinyin":"xiā jiǎo",
-                 "Resources":
-                [
-                {"name":"蝦餃","URL":"https://en.wiktionary.org/wiki/蝦餃"},
-                {"name":"蝦","URL":"https://en.wiktionary.org/wiki/蝦"},
-                {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
+                "Chinese": "蝦餃",
+                "Simplified": "虾饺",
+                "English": "shrimp dumpling",
+                "Yale": "hā gáau",
+                "Pinyin": "xiā jiǎo",
+                "Resources": [
+                    {
+                        "name": "蝦餃",
+                        "URL": "https://en.wiktionary.org/wiki/蝦餃"
+                    },
+                    {
+                        "name": "蝦",
+                        "URL": "https://en.wiktionary.org/wiki/蝦"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
                 ]
             }
         ],
-        "images":
-        [
+        "images": [
             {
-                "image":"hagowhkgarden",
-                "place":"Hong Kong Garden, Las Vegas, Nevada"
+                "image": "hagowhkgarden",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "Description" : 
-            "Steamed bonnet-shaped shrimp dumplings, encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called “crystal shrimp dumplings”).\n\nThe first character 蝦 means “shrimp“ and the second character 餃 is “dumpling,“ so, literally “shrimp dumpling.“\n\nThese are typically written in English as “har gow,“ but like many English spellings of Chinese words (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“ This dish, along with siu mai, is a hallmark of Cantonese dim sum  (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“).",
-        "Tags" : 
-        [
+        "Description": "Steamed bonnet-shaped shrimp dumplings, encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called “crystal shrimp dumplings”).\n\nThe first character 蝦 means “shrimp“ and the second character 餃 is “dumpling,“ so, literally “shrimp dumpling.“\n\nThese are typically written in English as “har gow,“ but like many English spellings of Chinese words (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“ This dish, along with siu mai, is a hallmark of Cantonese dim sum  (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“).",
+        "Tags": [
             "蒸",
             "蒸",
             "蝦",
@@ -34,291 +38,344 @@
             "海鮮",
             "點心"
         ],
-        "Resources" :
-        [
-            {"name":"Pinterest",
-                "URL":"https://www.pinterest.com/technicat/dim-sum/ha-gow"},
-            {"name":"Wikipedia", 
-                "URL":"http://en.wikipedia.org/wiki/Har_gow"},
-            {"name":"China Sichuan Food",
-                "URL":"https://www.chinasichuanfood.com/har-gow-dim-sum-dumplings/"},
-            {"name":"Dim Sum Central",
-                "URL":"http://www.dimsumcentral.com/shrimp-dumplings/"},
-            {"name":"Dim Sum Guide",
-                "URL":"https://dimsumguide.com/site/view/Shrimp-Dumpling"},
-            {"name":"The Woks of Life",
-                "URL":"https://thewoksoflife.com/2015/10/har-gow/"},
-            {"name":"Yan Can Cook",
-                "URL":"https://yancancook.com/home/recipe/har-gau-prawn-dumplings/"},
-            {"name":"Adventures with Kake",
-                "URL":"https://kake.dreamwidth.org/124238.html"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Har_gow"
+            },
+            {
+                "name": "Adventures with Kake",
+                "URL": "https://kake.dreamwidth.org/124238.html"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/har-gow-dim-sum-dumplings/"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/shrimp-dumplings/"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Shrimp-Dumpling"
+            },
+            {
+                "name": "Hong Kong University",
+                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/23"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2015/10/har-gow/"
+            },
+            {
+                "name": "Yan Can Cook",
+                "URL": "https://yancancook.com/home/recipe/har-gau-prawn-dumplings/"
+            }
         ]
     },
-
-     {
-        "words":
-        [
-        {
-        "Chinese" : "韭菜餃",
-        "Simplified" : "韭菜饺",
-        "English":"shrimp and chive dumpling",
-        "Yale": "gáu choi gáau",
-        "Pinyin" : "jiǔ cài jiǎo",
-        "Resources":
-        [
-        {"name":"韭菜","URL":"https://en.wiktionary.org/wiki/韭菜"},
-        {"name":"韭","URL":"https://en.wiktionary.org/wiki/韭"},
-        {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
-        {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
-        ]
-        }
-        ],
-        "images": 
-        [
-         {
-                "image":"chiveandshrimpdumplingtimhowan",
-                "place":"Tim Ho Wan, Las Vegas, Nevada"
+    {
+        "words": [
+            {
+                "Chinese": "韭菜餃",
+                "Simplified": "韭菜饺",
+                "English": "shrimp and chive dumpling",
+                "Yale": "gáu choi gáau",
+                "Pinyin": "jiǔ cài jiǎo",
+                "Resources": [
+                    {
+                        "name": "韭菜",
+                        "URL": "https://en.wiktionary.org/wiki/韭菜"
+                    },
+                    {
+                        "name": "韭",
+                        "URL": "https://en.wiktionary.org/wiki/韭"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
+                ]
             }
         ],
-        "Description": 
-            "Steamed dumplings filled with shrimp and Chinese chives.\n\nThe first two characters 韭菜 means “Chinese chives” (also known as “garlic chives”) and 餃 is “dumpling,” so “chive dumplings.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "chiveandshrimpdumplingtimhowan",
+                "place": "Tim Ho Wan, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Steamed dumplings filled with shrimp and Chinese chives.\n\nThe first two characters 韭菜 means “Chinese chives” (also known as “garlic chives”) and 餃 is “dumpling,” so “chive dumplings.”",
+        "Tags": [
             "蒸",
             "韭菜",
             "蝦",
             "餃",
             "點心"
-            ],
-        "Resources":
-        [
-            {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/steamed-shrimp-and-chive-dumplings/"},
-            {"name":"Chives", 
-                "URL":"https://en.wikipedia.org/wiki/Allium_tuberosum#China"},
-            {"name":"Dim Sum Guide",
-                "URL":"https://dimsumguide.com/site/view/Shrimp-and-Chive-Dumplings"}
+        ],
+        "Resources": [
+            {
+                "name": "Chives",
+                "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Shrimp-and-Chive-Dumplings"
+            }
         ]
     },
-
     {
-        "words":
-        [
+        "words": [
             {
-                "English":"spinach and shrimp dumpling",
-                "Chinese":"菠菜餃",
-                "Simplified":"菠菜饺",
+                "English": "spinach and shrimp dumpling",
+                "Chinese": "菠菜餃",
+                "Simplified": "菠菜饺",
                 "Yale": "bō choi gáau",
-                "Pinyin":"bō cài jiǎo",
-                 "Resources":
-                [
-                {"name":"菠菜","URL":"https://en.wiktionary.org/wiki/菠菜"},
-                {"name":"菠","URL":"https://en.wiktionary.org/wiki/菠"},
-                {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
-                {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
-        ]
+                "Pinyin": "bō cài jiǎo",
+                "Resources": [
+                    {
+                        "name": "菠菜",
+                        "URL": "https://en.wiktionary.org/wiki/菠菜"
+                    },
+                    {
+                        "name": "菠",
+                        "URL": "https://en.wiktionary.org/wiki/菠"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
+                ]
             },
             {
-                "English":"spinach and shrimp dumpling",
-                "Chinese":"蒸菠菜餃",
-                "Simplified":"蒸菠菜饺",
+                "English": "spinach and shrimp dumpling",
+                "Chinese": "蒸菠菜餃",
+                "Simplified": "蒸菠菜饺",
                 "Yale": "jīng bō choi gáau",
-                "Pinyin":"zhēng bō cài jiǎo"
+                "Pinyin": "zhēng bō cài jiǎo"
             },
             {
-                "English":"spinach and shrimp dumpling",
-                "Chinese":"鮮蝦波菜餃",
-                "Simplified":"蒸菠菜饺",
+                "English": "spinach and shrimp dumpling",
+                "Chinese": "鮮蝦波菜餃",
+                "Simplified": "蒸菠菜饺",
                 "Yale": "jīng bō choi gáau",
-                "Pinyin":"zhēng bō cài jiǎo"
+                "Pinyin": "zhēng bō cài jiǎo"
             },
             {
-                "English":"spinach and shrimp dumpling",
-                "Chinese":"波菜蝦餃",
-                "Simplified":"蒸菠菜饺",
+                "English": "spinach and shrimp dumpling",
+                "Chinese": "波菜蝦餃",
+                "Simplified": "蒸菠菜饺",
                 "Yale": "jīng bō choi gáau",
-                "Pinyin":"zhēng bō cài jiǎo"
+                "Pinyin": "zhēng bō cài jiǎo"
             }
         ],
-        "images":[
-                {
-                    "image":"steamedspinachdumplingdimsumcafe2",
-                    "place":"Dim Sum Cafe"
-                }
-        ],
-        "Description":"A sticky, translucent wrapper filled with spinach and shrimp.\n\n菠菜 is “spinach,” and 餃 is “dumpling.”",
-        "Tags":
-        [
-                    "蒸",
-                    "菠菜",
-                    "餃",
-                    "點心"
-        ],
-        "Resources":
-        [
-            {"name":"Pinterest",
-                "URL":"https://www.pinterest.com/technicat/dim-sum/spinach-and-shrimp-dumpling/"},
-            {"name":"Javaholic",
-                "URL":"http://rumahmakanmurni.blogspot.com/2010/05/spinach-and-shrimp-dumplings.html"},
-            {"name":"The Woks of Life",
-                "URL":"https://thewoksoflife.com/2018/03/steamed-crystal-dumplings/"}
-        ]
-        },
-        
-    {
-        "words":
-        [
+        "images": [
             {
-                "Chinese" : "蝦帶子餃",
-                "Simplified" : "虾带子饺",
-                "English" : "scallop and shrimp dumpling",
-                "Yale" : "hā dáai jí gáau",
-                "Pinyin" : "xiā dài zi jiǎo",
-                "Resources":
-                [
-                {"name":"蝦","URL":"https://en.wiktionary.org/wiki/蝦"},
-                {"name":"帶子","URL":"https://en.wiktionary.org/wiki/帶子"},
-                {"name":"帶","URL":"https://en.wiktionary.org/wiki/帶"},
-                {"name":"子","URL":"https://en.wiktionary.org/wiki/子"},
-                {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
+                "image": "steamedspinachdumplingdimsumcafe2",
+                "place": "Dim Sum Cafe"
+            }
+        ],
+        "Description": "A sticky, translucent wrapper filled with spinach and shrimp.\n\n菠菜 is “spinach,” and 餃 is “dumpling.”",
+        "Tags": [
+            "蒸",
+            "菠菜",
+            "餃",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Javaholic",
+                "URL": "http://rumahmakanmurni.blogspot.com/2010/05/spinach-and-shrimp-dumplings.html"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2018/03/steamed-crystal-dumplings/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蝦帶子餃",
+                "Simplified": "虾带子饺",
+                "English": "scallop and shrimp dumpling",
+                "Yale": "hā dáai jí gáau",
+                "Pinyin": "xiā dài zi jiǎo",
+                "Resources": [
+                    {
+                        "name": "蝦",
+                        "URL": "https://en.wiktionary.org/wiki/蝦"
+                    },
+                    {
+                        "name": "帶子",
+                        "URL": "https://en.wiktionary.org/wiki/帶子"
+                    },
+                    {
+                        "name": "帶",
+                        "URL": "https://en.wiktionary.org/wiki/帶"
+                    },
+                    {
+                        "name": "子",
+                        "URL": "https://en.wiktionary.org/wiki/子"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
                 ]
             }
         ],
-        "images":
-        [
+        "images": [
             {
-                "image":"scallopandshrimpdumplingchinarepublic",
-                "place":"China Republic, Rancho Cucamonga, California"
+                "image": "scallopandshrimpdumplingchinarepublic",
+                "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "Description":
-            "Like shrimp dumplings, but filled with both scallops and shrimp.\n\nThe first character 蝦 means “shrimp,“ 帶子 means “scallop“, and 餃 is “dumpling.“",
-        "Tags":
-        [
-             "蒸",
+        "Description": "Like shrimp dumplings, but filled with both scallops and shrimp.\n\nThe first character 蝦 means “shrimp,“ 帶子 means “scallop“, and 餃 is “dumpling.“",
+        "Tags": [
+            "蒸",
             "帶子",
             "蒸",
             "蝦",
             "海鮮",
             "點心"
         ],
-        "Resources":
-        [
-           
-        ]
+        "Resources": []
     },
-   
     {
-        "words":
-        [
+        "words": [
             {
-                "Chinese":"豆苗餃",
-                "Simplified":"豆苗饺",
-                "English":"pea shoot dumpling",
+                "Chinese": "豆苗餃",
+                "Simplified": "豆苗饺",
+                "English": "pea shoot dumpling",
                 "Yale": "dauh mìuh gáau",
-                "Pinyin":"dòu miáo jiǎo",
-                "Resources":
-                [
-        {"name":"豆苗","URL":"https://en.wiktionary.org/wiki/豆苗"},
-        {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-        {"name":"苗","URL":"https://en.wiktionary.org/wiki/苗"},
-        {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
-        ]
+                "Pinyin": "dòu miáo jiǎo",
+                "Resources": [
+                    {
+                        "name": "豆苗",
+                        "URL": "https://en.wiktionary.org/wiki/豆苗"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "苗",
+                        "URL": "https://en.wiktionary.org/wiki/苗"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
+                ]
             }
         ],
-        "images":
-        [
+        "images": [
             {
-                "image":"shrimpandpeadumplingmingtasty",
-                "place":"Ming Tasty, Sunnyvale, California"
+                "image": "shrimpandpeadumplingmingtasty",
+                "place": "Ming Tasty, Sunnyvale, California"
             }
         ],
-        "Description":
-        "A sticky, translucent wrapper filled with pea shoots.\n\n豆苗 is “pea sprout,” and 餃 is “dumpling.”",
-        "Tags":
-        [
+        "Description": "A sticky, translucent wrapper filled with pea shoots.\n\n豆苗 is “pea sprout,” and 餃 is “dumpling.”",
+        "Tags": [
             "點心",
             "餃",
             "豆苗",
             "蒸"
         ],
-        "Resources":
-        [
-                    
-        ]
-        },
-
+        "Resources": []
+    },
     {
-        "words":
-        [
+        "words": [
             {
-                "Chinese":"雜菇餃",
-                "Alternate":"什菇饺",
-                "English":"mushroom dumpling",
+                "Chinese": "雜菇餃",
+                "Alternate": "什菇饺",
+                "English": "mushroom dumpling",
                 "Yale": "jaahp gū gáau",
-                "Pinyin":"zá gū jiǎo",
-                "Resources":
-                [
-                {"name":"雜","URL":"https://en.wiktionary.org/wiki/雜"},
-                {"name":"菇","URL":"https://en.wiktionary.org/wiki/菇"},
-                {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
+                "Pinyin": "zá gū jiǎo",
+                "Resources": [
+                    {
+                        "name": "雜",
+                        "URL": "https://en.wiktionary.org/wiki/雜"
+                    },
+                    {
+                        "name": "菇",
+                        "URL": "https://en.wiktionary.org/wiki/菇"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
                 ]
             }
         ],
-        "images":
-        [
+        "images": [
             {
-                "image":"mushroomdumplingsdimsumcafe",
-                "place":"Dim Sum Cafe, Las Vegas, Nevada"
+                "image": "mushroomdumplingsdimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "Description":
-            "A sticky, translucent wrapper filled with mushroom.\n\n菇 is “mushroom,” and 餃 is “dumpling.”",
-        "Tags":
-        [
+        "Description": "A sticky, translucent wrapper filled with mushroom.\n\n菇 is “mushroom,” and 餃 is “dumpling.”",
+        "Tags": [
             "餃",
             "菇",
             "素",
             "蒸",
             "點心"
         ],
-        "Resources":
-        [
-        ]
-    },   
-        
+        "Resources": []
+    },
     {
-        "words":
-        [
+        "words": [
             {
-                "Chinese":"菠菜雜菇餃",
-                "Simplified":"菠菜雜菇饺",
-                "Alternate":"菠菜什菇餃",
-                "English":"spinach and mushroom dumpling",
+                "Chinese": "菠菜雜菇餃",
+                "Simplified": "菠菜雜菇饺",
+                "Alternate": "菠菜什菇餃",
+                "English": "spinach and mushroom dumpling",
                 "Yale": "bō choi jaahp gū gáau",
-                "Pinyin":" bō cài zá gū jiǎo",
-                "Resources":
-                [
-                {"name":"菠菜","URL":"https://en.wiktionary.org/wiki/菠菜"},
-                {"name":"菠","URL":"https://en.wiktionary.org/wiki/菠"},
-                {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
-                {"name":"雜","URL":"https://en.wiktionary.org/wiki/雜"},
-                {"name":"菇","URL":"https://en.wiktionary.org/wiki/菇"},
-                {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
+                "Pinyin": " bō cài zá gū jiǎo",
+                "Resources": [
+                    {
+                        "name": "菠菜",
+                        "URL": "https://en.wiktionary.org/wiki/菠菜"
+                    },
+                    {
+                        "name": "菠",
+                        "URL": "https://en.wiktionary.org/wiki/菠"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    },
+                    {
+                        "name": "雜",
+                        "URL": "https://en.wiktionary.org/wiki/雜"
+                    },
+                    {
+                        "name": "菇",
+                        "URL": "https://en.wiktionary.org/wiki/菇"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
                 ]
             }
         ],
-        "images":
-        [
+        "images": [
             {
-                "image":"steamedspinachandmushroomdumplingdimsumcafe",
-                "place":"Dim Sum Cafe, Las Vegas, Nevada"
+                "image": "steamedspinachandmushroomdumplingdimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "Description":
-            "Same as the steamed spinach dumplings, but also with mushrooms.\n\n菠菜 is “spinach,” 什菇 is “mushrooms,”  and 餃 is “dumpling.”",
-        "Tags":
-        [
+        "Description": "Same as the steamed spinach dumplings, but also with mushrooms.\n\n菠菜 is “spinach,” 什菇 is “mushrooms,”  and 餃 is “dumpling.”",
+        "Tags": [
             "蒸菠菜餃",
             "蒸",
             "菠菜",
@@ -328,6 +385,4 @@
             "點心"
         ]
     }
-
-        
- ]
+]

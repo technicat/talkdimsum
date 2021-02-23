@@ -1,162 +1,175 @@
-
 [
- 
- {
-    "words":
-    [
     {
-     "Chinese":"烏龍茶",
-     "Simplified":"乌龙茶",
-     "English":"oolong tea",
-     "Yale": "wu lùhng chàh",
-     "Pinyin":"wū lóng chá",
-     "Resources":
-            [
-            {"name":"烏龍茶",
-                "URL":"https://en.wiktionary.org/wiki/烏龍茶"},
-            {"name":"烏龍",
-                "URL":"https://en.wiktionary.org/wiki/烏龍"},
-            {"name":"烏",
-                "URL":"https://en.wiktionary.org/wiki/烏"},
-            {"name":"龍",
-                "URL":"https://en.wiktionary.org/wiki/龍"},
-            {"name":"茶",
-                "URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-     }
-     ],
-     "images":
-     [
-         {
-         "image":"oolongteanewasianbbq",
-         "place":"New Asian BBQ, Las Vegas, Nevada"
-         }
-     ],
-    "Description": 
-        "Oolong is a brown tea. The leaves are slightly fermented. The caffeine content is moderate, less than that of black tea but more than green tea.\n\nThe first two characters 烏龍 mean “black dragon“ and the third character 茶 is “tea.” so this is “black dragon tea.” “Oolong” (烏龍 wu lùhng) rhymes with the name of the peninsula area of Hong Kong, “Kowloon” (九龍 gáu lùhng). That second character 龍 is also the first character for lobster (龍蝦 lùhng hā).\n\nThere are a few origin stories for the name. One is that oolong tea evolved from a Dragon-Phoenix tribute tea and later renamed Black Dragon. Another theory for the name is that oolong tea first existed in the Wuyi Mountains region. Another story is that the tea was discovered by a man named Wu Liang, who accidentally let the tea leaves ferment (after getting distracted by a deer).",
-     "Tags":
-     [
-        "烏龍茶",
-        "中國茶",
-        "茶",
-        "熱茶",
-        "點心",
-        "飲品"
-        
-     ],
-     "Resources":
-     [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/oolong-tea/"},
-         {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Oolong"},
-         {"name":"Dim Sum Guide", 
-            "URL":"https://dimsumguide.com/site/view/Oolong-Tea"},
-         {"name":"Art of Tea", 
-            "URL":"https://www.artoftea.com/history-of-oolong-tea"},
-         {"name":"The Chinese Tea Shop", 
-            "URL":"http://www.thechineseteashop.com/oolongtea.html"},
-         {"name":"Teatulia", 
-            "URL":"https://www.teatulia.com/tea-varieties/what-is-oolong-tea.htm"},
-         {"name":"Fergus Murray",
-            "URL":"https://oolong.co.uk/tea/"}
-     ]
- },
-
- {
-        "words":
-        [
-        {
-        "Chinese":"奶香",
-        "English":"milk oolong tea",
-        "Yale": "náaih hēung",
-        "Pinyin":"nǎi xiāng",
-        "Resources":
-            [
-            {"name":"奶香",
-                "URL":"https://en.wiktionary.org/wiki/奶香"},
-            {"name":"奶",
-                "URL":"https://en.wiktionary.org/wiki/奶"},
-            {"name":"香",
-                "URL":"https://en.wiktionary.org/wiki/香"}
-            ]
-    }
-    ],
-        "images":
-        [
-           {
-               "image":"milkyoolongeverygrain",
-               "place":"Every Grain, Las Vegas, Nevada"
-           }
-       ],
-        "Description":"Not to be confused with tea that has milk added, this is an oolong tea that has a naturally milky taste.\n\n奶 is “milk,” and 香 is “fragrant.”\n\nThis specific variety of oolong originated in Taiwan and is named 金萱 (Jin Xuan in Mandarin, literally Golden Daylily), but sometimes the term “milk oolong” is more broadly applied to other varieties of oolong or even those with milk-flavored additives.",
-        "Tags":
-        [
-            "烏龍茶",
-            "茶",
-             "熱茶",
-            "荔枝",
-             "中国茶",
-            "飲品"
-           
+        "words": [
+            {
+                "Chinese": "烏龍茶",
+                "Simplified": "乌龙茶",
+                "English": "oolong tea",
+                "Yale": "wu lùhng chàh",
+                "Pinyin": "wū lóng chá",
+                "Resources": [
+                    {
+                        "name": "烏龍茶",
+                        "URL": "https://en.wiktionary.org/wiki/烏龍茶"
+                    },
+                    {
+                        "name": "烏龍",
+                        "URL": "https://en.wiktionary.org/wiki/烏龍"
+                    },
+                    {
+                        "name": "烏",
+                        "URL": "https://en.wiktionary.org/wiki/烏"
+                    },
+                    {
+                        "name": "龍",
+                        "URL": "https://en.wiktionary.org/wiki/龍"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
         ],
-        "Resources":
-        [
-         {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/milky-oolong-tea/"},
-        {"name":"Wikipedia", 
-            "URL":"https://en.wikipedia.org/wiki/Jin_Xuan_tea"},
-        {"name":"Red Blossom Tea Company", 
-            "URL":"https://redblossomtea.com/blogs/red-blossom-blog/what-is-milk-oolong-tea"}
+        "images": [
+            {
+                "image": "oolongteanewasianbbq",
+                "place": "New Asian BBQ, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Oolong is a brown tea. The leaves are slightly fermented. The caffeine content is moderate, less than that of black tea but more than green tea.\n\nThe first two characters 烏龍 mean “black dragon“ and the third character 茶 is “tea.” so this is “black dragon tea.” “Oolong” (烏龍 wu lùhng) rhymes with the name of the peninsula area of Hong Kong, “Kowloon” (九龍 gáu lùhng). That second character 龍 is also the first character for lobster (龍蝦 lùhng hā).\n\nThere are a few origin stories for the name. One is that oolong tea evolved from a Dragon-Phoenix tribute tea and later renamed Black Dragon. Another theory for the name is that oolong tea first existed in the Wuyi Mountains region. Another story is that the tea was discovered by a man named Wu Liang, who accidentally let the tea leaves ferment (after getting distracted by a deer).",
+        "Tags": [
+            "烏龍茶",
+            "中國茶",
+            "茶",
+            "熱茶",
+            "點心",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Oolong"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Oolong-Tea"
+            },
+            {
+                "name": "Art of Tea",
+                "URL": "https://www.artoftea.com/history-of-oolong-tea"
+            },
+            {
+                "name": "The Chinese Tea Shop",
+                "URL": "http://www.thechineseteashop.com/oolongtea.html"
+            },
+            {
+                "name": "Teatulia",
+                "URL": "https://www.teatulia.com/tea-varieties/what-is-oolong-tea.htm"
+            },
+            {
+                "name": "Fergus Murray",
+                "URL": "https://oolong.co.uk/tea/"
+            }
         ]
     },
-
     {
-        "words":
-        [
-        {
-        "Chinese":"包種茶",
-        "Simplified":"包种茶",
-        "English":"baozhong tea",
-        "Yale": "bāau júng chàh",
-        "Pinyin":"bāo zhǒng chá",
-        "Resources":
-            [
-            {"name":"包種茶",
-                "URL":"https://en.wiktionary.org/wiki/包種茶"},
-            {"name":"包",
-                "URL":"https://en.wiktionary.org/wiki/包"},
-            {"name":"種",
-                "URL":"https://en.wiktionary.org/wiki/種"},
-            {"name":"茶",
-                    "URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
-    }
-    ],
-        "images":[
-           {
-               "image":"pouchongteateastation",
-               "place":"Tea Station, Las Vegas, Nevada"
-           }
-       ],
-        "Description":
-            "A lightly oxidized tea, between green and oolong teas (usually classified as oolong).\n\n包種 means “wrapped kind,” referring to the traditional method of wrapping the leaves in paper during the drying process.\n\nOften listed as “pouchong tea.”",
-        "Tags":
-        [
-            "烏龍茶",
-             "中国茶",
-            "茶",
-             "熱茶",
-            "荔枝",
-             "飲品"
+        "words": [
+            {
+                "Chinese": "奶香",
+                "English": "milk oolong tea",
+                "Yale": "náaih hēung",
+                "Pinyin": "nǎi xiāng",
+                "Resources": [
+                    {
+                        "name": "奶香",
+                        "URL": "https://en.wiktionary.org/wiki/奶香"
+                    },
+                    {
+                        "name": "奶",
+                        "URL": "https://en.wiktionary.org/wiki/奶"
+                    },
+                    {
+                        "name": "香",
+                        "URL": "https://en.wiktionary.org/wiki/香"
+                    }
+                ]
+            }
         ],
-        "Resources":
-        [
-         {"name":"Pinterest", 
-                "URL":"https://www.pinterest.com/technicat/dim-sum/baozhong-tea/"},
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Baozhong_tea"}
+        "images": [
+            {
+                "image": "milkyoolongeverygrain",
+                "place": "Every Grain, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Not to be confused with tea that has milk added, this is an oolong tea that has a naturally milky taste.\n\n奶 is “milk,” and 香 is “fragrant.”\n\nThis specific variety of oolong originated in Taiwan and is named 金萱 (Jin Xuan in Mandarin, literally Golden Daylily), but sometimes the term “milk oolong” is more broadly applied to other varieties of oolong or even those with milk-flavored additives.",
+        "Tags": [
+            "烏龍茶",
+            "茶",
+            "熱茶",
+            "荔枝",
+            "中国茶",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Jin_Xuan_tea"
+            },
+            {
+                "name": "Red Blossom Tea Company",
+                "URL": "https://redblossomtea.com/blogs/red-blossom-blog/what-is-milk-oolong-tea"
+            }
         ]
-        }
-
- ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "包種茶",
+                "Simplified": "包种茶",
+                "English": "baozhong tea",
+                "Yale": "bāau júng chàh",
+                "Pinyin": "bāo zhǒng chá",
+                "Resources": [
+                    {
+                        "name": "包種茶",
+                        "URL": "https://en.wiktionary.org/wiki/包種茶"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    },
+                    {
+                        "name": "種",
+                        "URL": "https://en.wiktionary.org/wiki/種"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "pouchongteateastation",
+                "place": "Tea Station, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A lightly oxidized tea, between green and oolong teas (usually classified as oolong).\n\n包種 means “wrapped kind,” referring to the traditional method of wrapping the leaves in paper during the drying process.\n\nOften listed as “pouchong tea.”",
+        "Tags": [
+            "烏龍茶",
+            "中国茶",
+            "茶",
+            "熱茶",
+            "荔枝",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Baozhong_tea"
+            }
+        ]
+    }
+]

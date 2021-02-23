@@ -1,82 +1,106 @@
-
 [
- {
-    "words":
-    [
-    {
-    "Chinese" : "海草沙律",
-    "English" : "seaweed salad",
-    "Yale" : "hói cho sà léut",
-    "Pinyin" : "hǎi cǎo shā lǜ",
-    "Resources":
-        [
-        {"name":"海草","URL":"https://en.wiktionary.org/wiki/海草"},
-        {"name":"海","URL":"https://en.wiktionary.org/wiki/海"},
-        {"name":"草","URL":"https://en.wiktionary.org/wiki/草"},
-        {"name":"沙律","URL":"https://en.wiktionary.org/wiki/沙律"},
-        {"name":"沙","URL":"https://en.wiktionary.org/wiki/沙"},
-        {"name":"律","URL":"https://en.wiktionary.org/wiki/律"}
+  {
+    "words": [
+      {
+        "Chinese": "海草沙律",
+        "English": "seaweed salad",
+        "Yale": "hói cho sà léut",
+        "Pinyin": "hǎi cǎo shā lǜ",
+        "Resources": [
+          {
+            "name": "海草",
+            "URL": "https://en.wiktionary.org/wiki/海草"
+          },
+          {
+            "name": "海",
+            "URL": "https://en.wiktionary.org/wiki/海"
+          },
+          {
+            "name": "草",
+            "URL": "https://en.wiktionary.org/wiki/草"
+          },
+          {
+            "name": "沙律",
+            "URL": "https://en.wiktionary.org/wiki/沙律"
+          },
+          {
+            "name": "沙",
+            "URL": "https://en.wiktionary.org/wiki/沙"
+          },
+          {
+            "name": "律",
+            "URL": "https://en.wiktionary.org/wiki/律"
+          }
         ]
-    }
+      }
     ],
-    "images": 
-    [
-     {
-         "image":"seaweedsaladdimsumcafe",
-         "place":"Dim Sum Cafe, Las Vegas, Nevada"
-     }
+    "images": [
+      {
+        "image": "seaweedsaladdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
     ],
-    "Description" : 
-      "海 is “ocean” or “sea,” and 草 is “grass,” so 海草 is “sea grass,” or “seaweed.” 沙律 just sounds like “salad.”",
-    "Tags" : 
-    [
-           "菜",
-           "海草",
-           "海",
-           "草",
-           "素",
-           "沙律",
-           "海鮮",
-           "茶餐廳",
-           "點心"
+    "Description": "海 is “ocean” or “sea,” and 草 is “grass,” so 海草 is “sea grass,” or “seaweed.” 沙律 just sounds like “salad.”",
+    "Tags": [
+      "菜",
+      "海草",
+      "海",
+      "草",
+      "素",
+      "沙律",
+      "海鮮",
+      "茶餐廳",
+      "點心"
     ]
   },
- 
- {
-    "words":
-    [
-    {
-    "Chinese" : "涼拌海蜇",
-    "Simplified" : "凉拌海蜇",
-    "English" : "jellyfish salad",
-    "Yale" : "lèuhng buhn hói jit",
-    "Pinyin" : "liáng bàn hǎi lǜ",
-    "Resources":
-        [
-        {"name":"涼拌","URL":"https://en.wiktionary.org/wiki/涼拌"},
-        {"name":"涼","URL":"https://en.wiktionary.org/wiki/涼"},
-        {"name":"拌","URL":"https://en.wiktionary.org/wiki/拌"},
-        {"name":"海蜇","URL":"https://en.wiktionary.org/wiki/海蜇"},
-        {"name":"海","URL":"https://en.wiktionary.org/wiki/海"},
-        {"name":"蜇","URL":"https://en.wiktionary.org/wiki/蜇"}
+  {
+    "words": [
+      {
+        "Chinese": "涼拌海蜇",
+        "Simplified": "凉拌海蜇",
+        "English": "jellyfish salad",
+        "Yale": "lèuhng buhn hói jit",
+        "Pinyin": "liáng bàn hǎi lǜ",
+        "Resources": [
+          {
+            "name": "涼拌",
+            "URL": "https://en.wiktionary.org/wiki/涼拌"
+          },
+          {
+            "name": "涼",
+            "URL": "https://en.wiktionary.org/wiki/涼"
+          },
+          {
+            "name": "拌",
+            "URL": "https://en.wiktionary.org/wiki/拌"
+          },
+          {
+            "name": "海蜇",
+            "URL": "https://en.wiktionary.org/wiki/海蜇"
+          },
+          {
+            "name": "海",
+            "URL": "https://en.wiktionary.org/wiki/海"
+          },
+          {
+            "name": "蜇",
+            "URL": "https://en.wiktionary.org/wiki/蜇"
+          }
         ]
-    }
+      }
     ],
-    "images": 
-    [
-     {
-         "image":"jellyfishjasmine",
-         "place":"Jasmine Seafood, San Diego, California"
-     },
-     {
-         "image":"jellyfishyumcha",
-         "place":"Yum Cha"
-     }
+    "images": [
+      {
+        "image": "jellyfishjasmine",
+        "place": "Jasmine Seafood, San Diego, California"
+      },
+      {
+        "image": "jellyfishyumcha",
+        "place": "Yum Cha"
+      }
     ],
-    "Description" : 
-      "Marinated strips of jellyfish. 海 is cold and 拌 is mix or blend, so the first two characters means a cold salad, while the the last two characters 海蜇 means jellyfish (海 is sea and 蜇 is sting).",
-    "Tags": 
-    [
+    "Description": "Marinated strips of jellyfish. 海 is cold and 拌 is mix or blend, so the first two characters means a cold salad, while the the last two characters 海蜇 means jellyfish (海 is sea and 蜇 is sting).",
+    "Tags": [
       "海蜇",
       "凍",
       "沙律",
@@ -84,55 +108,72 @@
       "茶餐廳",
       "點心"
     ],
-    "Resources":
-    [
-        {"name":"Wikipedia", 
-          "URL":"https://en.wikipedia.org/wiki/Jellyfish_as_food"},
-        {"name":"The Hong Kong Cookery", 
-          "URL":"http://www.thehongkongcookery.com/2012/06/jellyfish-salad.html"},
-        {"name":"Adventures with Kake", 
-          "URL":"https://kake.dreamwidth.org/91041.html"}
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Jellyfish_as_food"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2012/06/jellyfish-salad.html"
+      },
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/91041.html"
+      }
     ]
   },
-
   {
-    "words":
-    [
+    "words": [
       {
-        "Chinese" : "涼拌黃瓜",
-        "Simplified" : "凉拌黄瓜",
-        "English" : "cucumber salad",
-        "Yale" : "lèuhng buhn wòhng gwā",
-        "Pinyin" : "liáng bàn huáng guā",
-        "Resources":
-        [
-        {"name":"涼拌","URL":"https://en.wiktionary.org/wiki/涼拌"},
-        {"name":"涼","URL":"https://en.wiktionary.org/wiki/涼"},
-        {"name":"拌","URL":"https://en.wiktionary.org/wiki/拌"},
-        {"name":"黃瓜","URL":"https://en.wiktionary.org/wiki/黃瓜"},
-        {"name":"黃","URL":"https://en.wiktionary.org/wiki/黃"},
-        {"name":"瓜","URL":"https://en.wiktionary.org/wiki/瓜"}
+        "Chinese": "涼拌黃瓜",
+        "Simplified": "凉拌黄瓜",
+        "English": "cucumber salad",
+        "Yale": "lèuhng buhn wòhng gwā",
+        "Pinyin": "liáng bàn huáng guā",
+        "Resources": [
+          {
+            "name": "涼拌",
+            "URL": "https://en.wiktionary.org/wiki/涼拌"
+          },
+          {
+            "name": "涼",
+            "URL": "https://en.wiktionary.org/wiki/涼"
+          },
+          {
+            "name": "拌",
+            "URL": "https://en.wiktionary.org/wiki/拌"
+          },
+          {
+            "name": "黃瓜",
+            "URL": "https://en.wiktionary.org/wiki/黃瓜"
+          },
+          {
+            "name": "黃",
+            "URL": "https://en.wiktionary.org/wiki/黃"
+          },
+          {
+            "name": "瓜",
+            "URL": "https://en.wiktionary.org/wiki/瓜"
+          }
         ]
       },
       {
-        "Chinese" : "涼拌青瓜",
-        "Simplified" : "凉拌青瓜",
-        "English" : "cucumber salad",
-        "Yale" : "lèuhng buhn chēng gwā",
-        "Pinyin" : "liáng bàn qīng guā"
+        "Chinese": "涼拌青瓜",
+        "Simplified": "凉拌青瓜",
+        "English": "cucumber salad",
+        "Yale": "lèuhng buhn chēng gwā",
+        "Pinyin": "liáng bàn qīng guā"
       }
     ],
-    "images": 
-    [
-        {
-         "image":"coldcucumberjjnoodle",
-         "place":"88 Noodle Papa, Las Vegas, Nevada"
-        }
+    "images": [
+      {
+        "image": "coldcucumberjjnoodle",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
     ],
-    "Description" : 
-      "涼拌 means salad (with dressing) and 黃瓜 is “cucumber” (黃 is green or blue-green and 瓜 is a melon or gourd).",
-    "Tags" : 
-    [
+    "Description": "涼拌 means salad (with dressing) and 黃瓜 is “cucumber” (黃 is green or blue-green and 瓜 is a melon or gourd).",
+    "Tags": [
       "黃瓜",
       "青色",
       "沙律",
@@ -140,48 +181,65 @@
       "素",
       "茶餐廳"
     ],
-    "Resources":
-    [
-      {"name":"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/cucumber-salad/"},
-         {"name":"The Woks of Life", 
-            "URL":"https://thewoksoflife.com/chinese-cucumber-salad/"}
+    "Resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-cucumber-salad/"
+      }
     ]
   },
-
   {
-    "words":
-    [
+    "words": [
       {
-        "Chinese" : "麻辣小黃瓜",
-        "Simplified" : "麻辣小黃瓜",
-        "English" : "chilled spicy cucumber",
-        "Yale" : "màh laaht síu wòhng gwā",
-        "Pinyin" : "má là xiǎo huáng guā",
-        "Resources":
-        [
-        {"name":"麻辣","URL":"https://en.wiktionary.org/wiki/麻辣"},
-        {"name":"麻","URL":"https://en.wiktionary.org/wiki/麻"},
-        {"name":"辣","URL":"https://en.wiktionary.org/wiki/辣"},
-        {"name":"小黃瓜","URL":"https://en.wiktionary.org/wiki/小黃瓜"},
-        {"name":"小","URL":"https://en.wiktionary.org/wiki/小"},
-        {"name":"黃瓜","URL":"https://en.wiktionary.org/wiki/黃瓜"},
-        {"name":"黃","URL":"https://en.wiktionary.org/wiki/黃"},
-        {"name":"瓜","URL":"https://en.wiktionary.org/wiki/瓜"}
+        "Chinese": "麻辣小黃瓜",
+        "Simplified": "麻辣小黃瓜",
+        "English": "chilled spicy cucumber",
+        "Yale": "màh laaht síu wòhng gwā",
+        "Pinyin": "má là xiǎo huáng guā",
+        "Resources": [
+          {
+            "name": "麻辣",
+            "URL": "https://en.wiktionary.org/wiki/麻辣"
+          },
+          {
+            "name": "麻",
+            "URL": "https://en.wiktionary.org/wiki/麻"
+          },
+          {
+            "name": "辣",
+            "URL": "https://en.wiktionary.org/wiki/辣"
+          },
+          {
+            "name": "小黃瓜",
+            "URL": "https://en.wiktionary.org/wiki/小黃瓜"
+          },
+          {
+            "name": "小",
+            "URL": "https://en.wiktionary.org/wiki/小"
+          },
+          {
+            "name": "黃瓜",
+            "URL": "https://en.wiktionary.org/wiki/黃瓜"
+          },
+          {
+            "name": "黃",
+            "URL": "https://en.wiktionary.org/wiki/黃"
+          },
+          {
+            "name": "瓜",
+            "URL": "https://en.wiktionary.org/wiki/瓜"
+          }
         ]
       }
     ],
-    "images": 
-    [
-        {
-         "image":"spicycucumber88noodlepapa",
-         "place":"88 Noodle Papa, Las Vegas, Nevada"
-        }
+    "images": [
+      {
+        "image": "spicycucumber88noodlepapa",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
     ],
-    "Description" : 
-      "麻辣 is a spicy flavor from Sichuan cuisine, 小 is “small” and 黃瓜 is “cucumber.”",
-    "Tags" : 
-    [
+    "Description": "麻辣 is a spicy flavor from Sichuan cuisine, 小 is “small” and 黃瓜 is “cucumber.”",
+    "Tags": [
       "麻辣",
       "黃瓜",
       "沙律",
@@ -191,15 +249,15 @@
       "素",
       "茶餐廳"
     ],
-    "Resources":
-    [
-      {"name":"Pinterest", 
-        "URL":"https://www.pinterest.com/technicat/dim-sum/spicy-cold-cucumber/"},
-      {"name":"Wikipedia", 
-          "URL":"https://en.wikipedia.org/wiki/Mala_(seasoning)"},
-      {"name":"China Sichuan Food", 
-        "URL":"https://www.chinasichuanfood.com/chinese-cucumber-salad/"}
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mala_(seasoning)"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-cucumber-salad/"
+      }
     ]
   }
-
- ]
+]

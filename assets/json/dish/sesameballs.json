@@ -1,238 +1,307 @@
-
 [
-
- {
-    "words":
-    [
     {
-    "Chinese" : "煎堆",
-    "English" :"sesame ball",
-    "Yale" : "jīn dēui",
-    "Pinyin" : "jiān duī",
-    "Resources":
-    [
-        {"name":"煎堆",
-            "URL":"https://en.wiktionary.org/wiki/煎堆"},
-        {"name":"煎",
-            "URL":"https://en.wiktionary.org/wiki/煎"},
-        {"name":"堆",
-            "URL":"https://en.wiktionary.org/wiki/堆"}
-    ]
-    }
-    ],
-    "images": 
-    [
-     {
-         "image":"sesameballfoods2go2",
-         "place":"Foods 2 Go, Las Vegas, Nevada"
-     },
-     {
-         "image":"sesameballsdimsumcafe",
-         "place":"Dim Sum Cafe, Las Vegas, Nevada"
-     }
-     ],
-    "Description": 
-     "A common bakery item, deep-fried hollow spheres of glutinous rice coated with sesame seeds, with a filling of lotus seed, black sesame, or red bean paste. Or sometimes nothing, just hollow.\n\n煎 means fried (although usually deep-fried) and 堆 is a heap or pile.\n\nAlso known more literally as “sesame seed balls” 芝麻球 (jī màh kàu) where 芝麻 means sesame seeds and 球 is a ball.",
-    "Tags":
-    [
-        "煎堆",
-        "芝麻",
-        "炸",
-        "素",
-	    "甜品",
-        "點心"
-    ],
-    "Resources":
-    [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/sesame-balls/"},
-        {"name":"Wikipedia", 
-            "URL":"http://en.wikipedia.org/wiki/Jin_deui"},
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/sesame-balls-jian-dui/"},
-        {"name":"Dim Sum Central", 
-            "URL":"http://www.dimsumcentral.com/fried-sesame-balls/"},
-        {"name":"The Hong Kong Cookery",
-            "URL":"http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"},
-        {"name":"Unfamiliar China",
-            "URL":"https://www.unfamiliarchina.com/dim-sum/sticky-rice/sesame-balls-jian-dui"},
-        {"name":"Panda Cheffy",
-            "URL":"https://medium.com/@pandacheffy/sesame-ball-jian-dui-麻团-a19afa2e0d95"}
-    ]
+        "words": [
+            {
+                "Chinese": "煎堆",
+                "English": "sesame ball",
+                "Yale": "jīn dēui",
+                "Pinyin": "jiān duī",
+                "Resources": [
+                    {
+                        "name": "煎堆",
+                        "URL": "https://en.wiktionary.org/wiki/煎堆"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "堆",
+                        "URL": "https://en.wiktionary.org/wiki/堆"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "sesameballfoods2go2",
+                "place": "Foods 2 Go, Las Vegas, Nevada"
+            },
+            {
+                "image": "sesameballsdimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A common bakery item, deep-fried hollow spheres of glutinous rice coated with sesame seeds, with a filling of lotus seed, black sesame, or red bean paste. Or sometimes nothing, just hollow.\n\n煎 means fried (although usually deep-fried) and 堆 is a heap or pile.\n\nAlso known more literally as “sesame seed balls” 芝麻球 (jī màh kàu) where 芝麻 means sesame seeds and 球 is a ball.",
+        "Tags": [
+            "煎堆",
+            "芝麻",
+            "炸",
+            "素",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Jin_deui"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/sesame-balls-jian-dui/"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/fried-sesame-balls/"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
+            },
+            {
+                "name": "Hong Kong University",
+                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/37"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/sticky-rice/sesame-balls-jian-dui"
+            },
+            {
+                "name": "Panda Cheffy",
+                "URL": "https://medium.com/@pandacheffy/sesame-ball-jian-dui-麻团-a19afa2e0d95"
+            }
+        ]
     },
- 
- {
-    "words":
-    [
-        {
-            "Chinese" : "蓮蓉煎堆",
-            "Simplified" : "莲蓉煎堆",
-            "Alternate" : "芝麻球",
-            "English" :"lotus seed sesame ball",
-            "Yale" : "lìhn yùhng jīn dēui",
-            "Pinyin" : "lián róng jiān duī",
-            "Resources":
-            [
-            {"name":"蓮蓉","URL":"https://en.wiktionary.org/wiki/蓮蓉"},
-            {"name":"蓮","URL":"https://en.wiktionary.org/wiki/蓮"},
-            {"name":"蓉","URL":"https://en.wiktionary.org/wiki/蓉"},   
-            {"name":"煎堆","URL":"https://en.wiktionary.org/wiki/煎堆"},
-            {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-            {"name":"堆","URL":"https://en.wiktionary.org/wiki/堆"}
-            ]
-        }
-    ],
-    "images": 
-    [
-     {
-         "image":"sesameballslotusseeddimsumcafe",
-         "place":"Dim Sum Cafe, Las Vegas, Nevada"
-     }
-     ],
-    "Description":
-        "Sesame balls filled with lotus seed paste.",
-    "Tags":
-    [
-        "煎堆",
-	    "芝麻",
-        "蓮蓉",
-        "素",
-        "炸",
-	    "甜品",
-        "點心"
-         ],
-    "Resources":
-    [
-        {"name":"Wikipedia", 
-            "URL":"http://en.wikipedia.org/wiki/Jin_deui"},
-        {"name":"Dim Sum Central", 
-            "URL":"http://www.dimsumcentral.com/fried-sesame-balls/"},
-        {"name":"The Hong Kong Cookery",
-            "URL":"http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"}
-    ]
- },
- 
     {
-    "words":
-    [
-        {
-            "Chinese" : "豆沙煎堆",
-            "English" :"red bean sesame ball",
-            "Yale" : "dauh sā jīn dēui",
-            "Pinyin" : "dòu shā jiān duī",
-            "Resources":
-            [
-                {"name":"豆沙","URL":"https://en.wiktionary.org/wiki/豆沙"},
-                {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-                {"name":"沙","URL":"https://en.wiktionary.org/wiki/沙"},
-                {"name":"煎堆","URL":"https://en.wiktionary.org/wiki/煎堆"},
-                {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-                {"name":"堆","URL":"https://en.wiktionary.org/wiki/堆"}
-            ]
-        },
-        {
-            "Chinese": "豆沙芝麻球",
-            "English" :"red bean sesame ball",
-            "Yale" : "dauh sā jīn dēui",
-            "Pinyin" : "dòu shā jiān duī",
-            "Resources":
-            [
-                {"name":"豆沙","URL":"https://en.wiktionary.org/wiki/豆沙"},
-                {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-                {"name":"沙","URL":"https://en.wiktionary.org/wiki/沙"},
-                {"name":"煎堆","URL":"https://en.wiktionary.org/wiki/煎堆"},
-                {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-                {"name":"堆","URL":"https://en.wiktionary.org/wiki/堆"}
-            ]
-        }
-    ],
-    "images": 
-    [
-     {
-         "image":"sesameballssfsupermaket",
-         "place":"SF Supermarket, Las Vegas, Nevada"
-     }
-     ],
-"Description" : 
-    "Sesame balls filled with red bean paste.\n\n豆 is “bean,” and 沙 is “sand,” so 豆沙 “bean sand,” or, in other words, “bean paste.”",
-    "Tags":
-    [
-        "煎堆",
-	    "芝麻",
-        "豆沙",
-        "紅色",
-        "素",
-        "炸",
-	    "甜品",
-        "點心"
-    ],
-    "Resources":
-    [
-        {"name":"Wikipedia", 
-            "URL":"http://en.wikipedia.org/wiki/Jin_deui"},
-        {"name":"red bean paste", 
-            "URL":"https://en.wikipedia.org/wiki/Red_bean_paste"},
-        {"name":"Dim Sum Central", 
-            "URL":"http://www.dimsumcentral.com/fried-sesame-balls/"},
-        {"name":"The Hong Kong Cookery",
-            "URL":"http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"}
-    ]
- },
-
- {
-    "words":
-    [
+        "words": [
+            {
+                "Chinese": "蓮蓉煎堆",
+                "Simplified": "莲蓉煎堆",
+                "Alternate": "芝麻球",
+                "English": "lotus seed sesame ball",
+                "Yale": "lìhn yùhng jīn dēui",
+                "Pinyin": "lián róng jiān duī",
+                "Resources": [
+                    {
+                        "name": "蓮蓉",
+                        "URL": "https://en.wiktionary.org/wiki/蓮蓉"
+                    },
+                    {
+                        "name": "蓮",
+                        "URL": "https://en.wiktionary.org/wiki/蓮"
+                    },
+                    {
+                        "name": "蓉",
+                        "URL": "https://en.wiktionary.org/wiki/蓉"
+                    },
+                    {
+                        "name": "煎堆",
+                        "URL": "https://en.wiktionary.org/wiki/煎堆"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "堆",
+                        "URL": "https://en.wiktionary.org/wiki/堆"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "sesameballslotusseeddimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Sesame balls filled with lotus seed paste.",
+        "Tags": [
+            "煎堆",
+            "芝麻",
+            "蓮蓉",
+            "素",
+            "炸",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Jin_deui"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/fried-sesame-balls/"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
+            }
+        ]
+    },
     {
-    "Chinese" : "流沙煎堆",
-    "English" :"lava custard sesame ball",
-    "Yale" : "làu sā jīn dēui",
-    "Pinyin" : "iú shā jiān duī",
-    "Resources":
-    [
-        {"name":"流沙",
-            "URL":"https://en.wiktionary.org/wiki/流沙"},
-        {"name":"流",
-            "URL":"https://en.wiktionary.org/wiki/流"},
-        {"name":"沙",
-            "URL":"https://en.wiktionary.org/wiki/沙"},
-        {"name":"煎堆",
-            "URL":"https://en.wiktionary.org/wiki/煎堆"},
-        {"name":"煎",
-            "URL":"https://en.wiktionary.org/wiki/煎"},
-        {"name":"堆",
-            "URL":"https://en.wiktionary.org/wiki/堆"}
-    ]
+        "words": [
+            {
+                "Chinese": "豆沙煎堆",
+                "English": "red bean sesame ball",
+                "Yale": "dauh sā jīn dēui",
+                "Pinyin": "dòu shā jiān duī",
+                "Resources": [
+                    {
+                        "name": "豆沙",
+                        "URL": "https://en.wiktionary.org/wiki/豆沙"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "沙",
+                        "URL": "https://en.wiktionary.org/wiki/沙"
+                    },
+                    {
+                        "name": "煎堆",
+                        "URL": "https://en.wiktionary.org/wiki/煎堆"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "堆",
+                        "URL": "https://en.wiktionary.org/wiki/堆"
+                    }
+                ]
+            },
+            {
+                "Chinese": "豆沙芝麻球",
+                "English": "red bean sesame ball",
+                "Yale": "dauh sā jīn dēui",
+                "Pinyin": "dòu shā jiān duī",
+                "Resources": [
+                    {
+                        "name": "豆沙",
+                        "URL": "https://en.wiktionary.org/wiki/豆沙"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "沙",
+                        "URL": "https://en.wiktionary.org/wiki/沙"
+                    },
+                    {
+                        "name": "煎堆",
+                        "URL": "https://en.wiktionary.org/wiki/煎堆"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "堆",
+                        "URL": "https://en.wiktionary.org/wiki/堆"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "sesameballssfsupermaket",
+                "place": "SF Supermarket, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Sesame balls filled with red bean paste.\n\n豆 is “bean,” and 沙 is “sand,” so 豆沙 “bean sand,” or, in other words, “bean paste.”",
+        "Tags": [
+            "煎堆",
+            "芝麻",
+            "豆沙",
+            "紅色",
+            "素",
+            "炸",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Jin_deui"
+            },
+            {
+                "name": "red bean paste",
+                "URL": "https://en.wikipedia.org/wiki/Red_bean_paste"
+            },
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/fried-sesame-balls/"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "流沙煎堆",
+                "English": "lava custard sesame ball",
+                "Yale": "làu sā jīn dēui",
+                "Pinyin": "iú shā jiān duī",
+                "Resources": [
+                    {
+                        "name": "流沙",
+                        "URL": "https://en.wiktionary.org/wiki/流沙"
+                    },
+                    {
+                        "name": "流",
+                        "URL": "https://en.wiktionary.org/wiki/流"
+                    },
+                    {
+                        "name": "沙",
+                        "URL": "https://en.wiktionary.org/wiki/沙"
+                    },
+                    {
+                        "name": "煎堆",
+                        "URL": "https://en.wiktionary.org/wiki/煎堆"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "堆",
+                        "URL": "https://en.wiktionary.org/wiki/堆"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "lavasesameballtimhowan",
+                "place": "Tim Ho Wan, Las Vegas, Nevada"
+            },
+            {
+                "image": "moltencustardsesameballkj",
+                "place": "KJ Dim Sum & Seafood, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Sesame balls filled with molten custard.\n\n流 is “flowing”, and 沙 is “sand”, so 流沙 “flowing sand,” which refers to a runny custard, and 煎堆 is “sesame ball.”",
+        "Tags": [
+            "煎堆",
+            "芝麻",
+            "流沙",
+            "炸",
+            "甜品",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Hakka",
+                "URL": "https://www.hakka.com.au/shop/item/chinatown-lava-sesame-balls-with-salted-egg-yolk-228g"
+            }
+        ]
     }
-    ],
-    "images" : 
-    [
-     {
-         "image":"lavasesameballtimhowan",
-         "place":"Tim Ho Wan, Las Vegas, Nevada"
-     },
-     {
-         "image":"moltencustardsesameballkj",
-         "place":"KJ Dim Sum & Seafood, Las Vegas, Nevada"
-     }
-     ],
-    "Description": 
-        "Sesame balls filled with molten custard.\n\n流 is “flowing”, and 沙 is “sand”, so 流沙 “flowing sand,” which refers to a runny custard, and 煎堆 is “sesame ball.”",
-    "Tags":
-    [
-        "煎堆",
-	    "芝麻",
-        "流沙",
-        "炸",
-	    "甜品",
-        "點心"
-    ],
-    "Resources":
-    [
-        {"name":"Pinterest", 
-            "URL":"https://www.pinterest.com/technicat/dim-sum/molten-custard-sesame-ball/"},
-        {"name":"Hakka", 
-            "URL":"https://www.hakka.com.au/shop/item/chinatown-lava-sesame-balls-with-salted-egg-yolk-228g"}
-    ]
- }
- 
- ]
+]
