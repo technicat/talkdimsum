@@ -49,10 +49,6 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/baked-bbq-pork-bun/"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Cha_siu_bao"
             },
@@ -143,10 +139,6 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/baked-bbq-pork-bun/"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/char-siu-bao-baked-buns-recipe/"
             },
@@ -207,10 +199,7 @@
             "點心"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/vegan-bbq-pork-bun/"
-            }
+            
         ]
     }
 ]

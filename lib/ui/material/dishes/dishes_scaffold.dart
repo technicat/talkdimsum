@@ -58,12 +58,6 @@ class DishesScaffold extends StatelessWidget {
               },
             ),
             ListTile(
-              title: Text('Pinterest'),
-              onTap: () {
-                launch('https://www.pinterest.com/technicat/dim-sum/');
-              },
-            ),
-            ListTile(
               title: Text('Github'),
               onTap: () {
                 launch('https://github.com/technicat/talkdimsum');

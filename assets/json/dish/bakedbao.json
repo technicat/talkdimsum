@@ -44,10 +44,6 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/cocktail-bun/"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Cocktail_bun"
             },
@@ -115,10 +111,6 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/hot-dog-bun/"
-            },
-            {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/"
             },
@@ -184,10 +176,6 @@
         ],
         "Resources": [
             {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/pork-sung-bun/"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Rousong"
             },
@@ -244,10 +232,7 @@
             "包"
         ],
         "Resources": [
-            {
-                "name": "Pinterest",
-                "URL": "https://www.pinterest.com/technicat/dim-sum/snow-mountain-bun/"
-            }
+            
         ]
     }
 ]

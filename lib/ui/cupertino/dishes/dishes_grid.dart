@@ -5,6 +5,8 @@ import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/ui/cupertino/dish/dish_scaffold.dart';
 import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
 
+import '../router.gr.dart';
+
 class DishesGrid extends StatelessWidget {
   final List<Dish> dishes;
 

@@ -5,7 +5,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'word_dishes_scaffold.dart';
+import '../router.gr.dart';
 
 class SearchWordScaffold extends StatelessWidget {
   @override
@@ -39,10 +39,10 @@ class SearchWord extends StatelessWidget {
                     value.chineseText().contains(reg);
               },
               onSelect: (dynamic selected) {
-                Navigator.push(
+                Navigator.pushNamed(
                   context,
-                  CupertinoPageRoute(
-                      builder: (context) => WordDishesScaffold(word: selected)),
+                  Routes.wordDishesScaffold,
+                  arguments: WordDishesScaffoldArguments(word: selected),
                 );
               }),
           loading: (_) => CupertinoActivityIndicator(),
