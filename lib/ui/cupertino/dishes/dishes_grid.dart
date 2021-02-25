@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
-
-import 'package:talkdimsum/ui/cupertino/dish/dish_scaffold.dart';
 import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
 
 import '../router.gr.dart';
@@ -33,9 +31,9 @@ class DishCellWidget extends StatelessWidget {
     return GestureDetector(
         onTap: () {
           // push on top of bottom tab bar
-          Navigator.of(context, rootNavigator: true).push(
-            CupertinoPageRoute(builder: (context) => DishScaffold(dish: dish)),
-          );
+          Navigator.of(context, rootNavigator: true).pushNamed(
+              Routes.dishScaffold,
+              arguments: DishScaffoldArguments(dish: dish));
         },
         child: DishImageTextWidget(dish: dish));
   }

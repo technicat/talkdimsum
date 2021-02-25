@@ -11,7 +11,11 @@ import 'package:flutter/cupertino.dart';
 
 import '../../core/model/dish.dart';
 import '../../core/model/word.dart';
+import 'dish/dish_scaffold.dart';
+import 'dish/practice_widget.dart';
+import 'dishes/categories_scaffold.dart';
 import 'dishes/dishes_grid.dart';
+import 'dishes/search_word_scaffold.dart';
 import 'dishes/word_dishes_scaffold.dart';
 import 'navigation_bar.dart';
 
@@ -19,10 +23,18 @@ class Routes {
   static const String navigationBar = '/';
   static const String wordDishesScaffold = '/word-dishes-scaffold';
   static const String dishesGrid = '/dishes-grid';
+  static const String dishScaffold = '/dish-scaffold';
+  static const String practiceWidget = '/practice-widget';
+  static const String categoriesScaffold = '/categories-scaffold';
+  static const String searchWordScaffold = '/search-word-scaffold';
   static const all = <String>{
     navigationBar,
     wordDishesScaffold,
     dishesGrid,
+    dishScaffold,
+    practiceWidget,
+    categoriesScaffold,
+    searchWordScaffold,
   };
 }
 
@@ -33,6 +45,10 @@ class AppRouter extends RouterBase {
     RouteDef(Routes.navigationBar, page: NavigationBar),
     RouteDef(Routes.wordDishesScaffold, page: WordDishesScaffold),
     RouteDef(Routes.dishesGrid, page: DishesGrid),
+    RouteDef(Routes.dishScaffold, page: DishScaffold),
+    RouteDef(Routes.practiceWidget, page: PracticeWidget),
+    RouteDef(Routes.categoriesScaffold, page: CategoriesScaffold),
+    RouteDef(Routes.searchWordScaffold, page: SearchWordScaffold),
   ];
   @override
   Map<Type, AutoRouteFactory> get pagesMap => _pagesMap;
@@ -63,6 +79,38 @@ class AppRouter extends RouterBase {
         settings: data,
       );
     },
+    DishScaffold: (data) {
+      final args = data.getArgs<DishScaffoldArguments>(nullOk: false);
+      return CupertinoPageRoute<dynamic>(
+        builder: (context) => DishScaffold(
+          key: args.key,
+          dish: args.dish,
+        ),
+        settings: data,
+      );
+    },
+    PracticeWidget: (data) {
+      final args = data.getArgs<PracticeWidgetArguments>(nullOk: false);
+      return CupertinoPageRoute<dynamic>(
+        builder: (context) => PracticeWidget(
+          key: args.key,
+          word: args.word,
+        ),
+        settings: data,
+      );
+    },
+    CategoriesScaffold: (data) {
+      return CupertinoPageRoute<dynamic>(
+        builder: (context) => CategoriesScaffold(),
+        settings: data,
+      );
+    },
+    SearchWordScaffold: (data) {
+      return CupertinoPageRoute<dynamic>(
+        builder: (context) => SearchWordScaffold(),
+        settings: data,
+      );
+    },
   };
 }
 
@@ -82,4 +130,18 @@ class DishesGridArguments {
   final Key key;
   final List<Dish> dishes;
   DishesGridArguments({this.key, @required this.dishes});
+}
+
+/// DishScaffold arguments holder class
+class DishScaffoldArguments {
+  final Key key;
+  final Dish dish;
+  DishScaffoldArguments({this.key, @required this.dish});
+}
+
+/// PracticeWidget arguments holder class
+class PracticeWidgetArguments {
+  final Key key;
+  final Word word;
+  PracticeWidgetArguments({this.key, @required this.word});
 }
