@@ -11,6 +11,7 @@ import 'dishes/categories_scaffold.dart';
 import 'dishes/search_word_scaffold.dart';
 import 'dish/dish_scaffold.dart';
 import 'dish/practice_widget.dart';
+import 'place/region_scaffold.dart';
 
 @CupertinoAutoRouter(
   routes: <AutoRoute>[
@@ -21,6 +22,7 @@ import 'dish/practice_widget.dart';
     AutoRoute(page: PracticeWidget),
     AutoRoute(page: CategoriesScaffold),
     AutoRoute(page: SearchWordScaffold),
+    AutoRoute(page: RegionScaffold),
   ],
 )
 class $AppRouter {}

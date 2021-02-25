@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/model/region.dart';
 
-import 'region_scaffold.dart';
+import '../router.gr.dart';
 
 class RegionButton extends StatelessWidget {
   final Region region;
@@ -15,11 +15,8 @@ class RegionButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoButton(
         onPressed: () {
-          Navigator.push(
-            context,
-            CupertinoPageRoute(
-                builder: (context) => RegionScaffold(region: region)),
-          );
+          Navigator.pushNamed(context, Routes.regionScaffold,
+              arguments: RegionScaffoldArguments(region: region));
         },
         child: Text(region.name,
             textAlign: TextAlign.center,

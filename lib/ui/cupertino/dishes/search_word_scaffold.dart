@@ -1,9 +1,10 @@
 import 'package:flutter/cupertino.dart';
-import 'package:cupertino_search/cupertino_search.dart'; 
+import 'package:cupertino_search/cupertino_search.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
+import 'package:talkdimsum/ui/common/error_text.dart';
 
 import '../router.gr.dart';
 
@@ -44,11 +45,8 @@ class SearchWord extends StatelessWidget {
                   arguments: WordDishesScaffoldArguments(word: selected),
                 );
               }),
-          loading: (_) => CupertinoActivityIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: CupertinoColors.destructiveRed),
-              ));
+          loading: (_) => LoadingText(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }

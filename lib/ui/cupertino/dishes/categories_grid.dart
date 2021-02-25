@@ -3,6 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/ui/common/error_text.dart';
 
 import 'category_dishes_grid.dart';
 
@@ -12,11 +13,8 @@ class CategoriesGrid extends StatelessWidget {
     return Consumer(builder: (context, watch, child) {
       return watch(dimsumProvider).map(
           data: (_) => CategoryDishesGrid(dishes: _.value.categories),
-          loading: (_) => CupertinoActivityIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: CupertinoColors.destructiveRed),
-              ));
+          loading: (_) => LoadingText(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }

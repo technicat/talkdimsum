@@ -4,6 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/provider/dimsum.dart';
+import 'package:talkdimsum/ui/common/error_text.dart';
 
 class FavoriteButton extends StatelessWidget {
   final Dish dish;
@@ -26,11 +27,8 @@ class FavoriteButton extends StatelessWidget {
                   onPressed: () {
                     _.value.addFavorite(dish);
                   }),
-          loading: (_) => CupertinoActivityIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: CupertinoColors.destructiveRed),
-              ));
+          loading: (_) => LoadingText(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }

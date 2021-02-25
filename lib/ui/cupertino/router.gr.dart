@@ -10,6 +10,7 @@ import 'package:auto_route/auto_route.dart';
 import 'package:flutter/cupertino.dart';
 
 import '../../core/model/dish.dart';
+import '../../core/model/region.dart';
 import '../../core/model/word.dart';
 import 'dish/dish_scaffold.dart';
 import 'dish/practice_widget.dart';
@@ -18,6 +19,7 @@ import 'dishes/dishes_grid.dart';
 import 'dishes/search_word_scaffold.dart';
 import 'dishes/word_dishes_scaffold.dart';
 import 'navigation_bar.dart';
+import 'place/region_scaffold.dart';
 
 class Routes {
   static const String navigationBar = '/';
@@ -27,6 +29,7 @@ class Routes {
   static const String practiceWidget = '/practice-widget';
   static const String categoriesScaffold = '/categories-scaffold';
   static const String searchWordScaffold = '/search-word-scaffold';
+  static const String regionScaffold = '/region-scaffold';
   static const all = <String>{
     navigationBar,
     wordDishesScaffold,
@@ -35,6 +38,7 @@ class Routes {
     practiceWidget,
     categoriesScaffold,
     searchWordScaffold,
+    regionScaffold,
   };
 }
 
@@ -49,6 +53,7 @@ class AppRouter extends RouterBase {
     RouteDef(Routes.practiceWidget, page: PracticeWidget),
     RouteDef(Routes.categoriesScaffold, page: CategoriesScaffold),
     RouteDef(Routes.searchWordScaffold, page: SearchWordScaffold),
+    RouteDef(Routes.regionScaffold, page: RegionScaffold),
   ];
   @override
   Map<Type, AutoRouteFactory> get pagesMap => _pagesMap;
@@ -111,6 +116,16 @@ class AppRouter extends RouterBase {
         settings: data,
       );
     },
+    RegionScaffold: (data) {
+      final args = data.getArgs<RegionScaffoldArguments>(nullOk: false);
+      return CupertinoPageRoute<dynamic>(
+        builder: (context) => RegionScaffold(
+          key: args.key,
+          region: args.region,
+        ),
+        settings: data,
+      );
+    },
   };
 }
 
@@ -144,4 +159,11 @@ class PracticeWidgetArguments {
   final Key key;
   final Word word;
   PracticeWidgetArguments({this.key, @required this.word});
+}
+
+/// RegionScaffold arguments holder class
+class RegionScaffoldArguments {
+  final Key key;
+  final Region region;
+  RegionScaffoldArguments({this.key, @required this.region});
 }

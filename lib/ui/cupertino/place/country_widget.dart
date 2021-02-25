@@ -5,6 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/countries.dart';
+import 'package:talkdimsum/ui/common/error_text.dart';
 
 import 'regions_list_view.dart';
 
@@ -18,11 +19,8 @@ class CountryWidget extends StatelessWidget {
                 ? CupertinoActivityIndicator()
                 : RegionsListView(country: _.value.countries[0]);
           },
-          loading: (_) => CupertinoActivityIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: CupertinoColors.destructiveRed),
-              ));
+          loading: (_) => LoadingText(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }
