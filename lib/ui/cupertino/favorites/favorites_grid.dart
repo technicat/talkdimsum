@@ -10,8 +10,7 @@ class FavoritesGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer(builder: (context, watch, child) {
-      var dimsum = watch(dimsumProvider);
-      return dimsum.map(
+      return watch(dimsumProvider).map(
           data: (_) => DishesGrid(dishes: _.value.favorites),
           loading: (_) => CupertinoActivityIndicator(),
           error: (_) => Text(

@@ -12,8 +12,7 @@ class PhrasesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer(builder: (context, watch, child) {
-      var  conversation = watch(phrasesProvider);
-      return conversation.map(
+      return watch(phrasesProvider).map(
           data: (_) {
             return _.value.phrases.isEmpty
                 ? Text('No phrases')

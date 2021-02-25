@@ -12,8 +12,7 @@ class CountryWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer(builder: (context, watch, child) {
-      var countries = watch(countryProvider);
-      return countries.map(
+      return watch(countryProvider).map(
           data: (_) {
             return _.value.countries.isEmpty
                 ? CupertinoActivityIndicator()
