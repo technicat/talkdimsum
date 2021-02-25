@@ -5,7 +5,6 @@ import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/common/error_text.dart';
 
-
 import 'dishes_grid.dart';
 
 class WordDishesGrid extends StatelessWidget {
@@ -18,7 +17,7 @@ class WordDishesGrid extends StatelessWidget {
     return Consumer(builder: (context, watch, child) {
       return watch(dimsumProvider).map(
           data: (_) => DishesGrid(dishes: _.value.dishes(word)),
-           loading: (_) => LoadingText(),
+          loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });
   }

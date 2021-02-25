@@ -36,6 +36,7 @@ dependencies:
   provider:
   flutter_riverpod:
   flutter_tts:
+  freezed_annotation:
   json_annotation:
   path:
   path_provider:
@@ -67,6 +68,7 @@ dev_dependencies:
   auto_route_generator:
   build_runner:
   json_serializable:
+  freezed:
 
 flutter_icons:
   android: true 
