@@ -3,8 +3,11 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
+import 'package:talkdimsum/ui/common/error_text.dart';
 
 import 'dishes_grid.dart';
+
+import '../progress.dart';
 
 class WordDishesGrid extends StatelessWidget {
   final Word word;
@@ -17,11 +20,8 @@ class WordDishesGrid extends StatelessWidget {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
           data: (_) => DishesGrid(dishes: _.value.dishes(word)),
-          loading: (_) => CircularProgressIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: Colors.red),
-              ));
+          loading: (_) => Progress(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }

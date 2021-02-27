@@ -31,8 +31,7 @@ class CategoryDishWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
         onTap: () {
-          Navigator.pushNamed(
-            context,
+          Navigator.of(context, rootNavigator: true).pushNamed(
             Routes.wordDishesScaffold,
             arguments: WordDishesScaffoldArguments(word: dish.word)
           );

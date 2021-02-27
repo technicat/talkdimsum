@@ -6,7 +6,11 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:talkdimsum/core/model/country.dart';
 import 'package:talkdimsum/core/provider/countries.dart';
 
+import 'package:talkdimsum/ui/common/error_text.dart';
+
 import 'region_list_view.dart';
+
+import '../progress.dart';
 
 class CountryScaffold extends StatefulWidget {
   @override
@@ -23,7 +27,7 @@ class CountryScaffoldState extends State<CountryScaffold> {
       return countries.map(
           data: (_) {
             if (_.value.countries.isEmpty) {
-              return CircularProgressIndicator();
+              return Progress();
             } else {
               country ??= _.value.countries[0];
               return Scaffold(
@@ -46,11 +50,10 @@ class CountryScaffoldState extends State<CountryScaffold> {
           },
           loading: (_) => Scaffold(
               appBar: AppBar(title: Text('Places')),
-              body: CircularProgressIndicator()),
+              body: Progress()),
           error: (_) => Scaffold(
               appBar: AppBar(title: Text('Places')),
-              body: Text(_.error.toString(),
-                  style: TextStyle(color: Colors.red))));
+              body: ErrorText(error: _.error.toString())));
     });
   }
 }

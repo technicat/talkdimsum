@@ -9,6 +9,8 @@ import 'package:talkdimsum/core/model/phrases.dart';
 
 import 'phrases_list_view.dart';
 
+import '../progress.dart';
+
 class PhrasesScaffold extends StatefulWidget {
   @override
   ScaffoldPhrasesState createState() => ScaffoldPhrasesState();
@@ -44,12 +46,12 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
                       ),
                     ]),
                 body: phrases == null
-                    ? Center(child: CircularProgressIndicator())
+                    ? Progress()
                     : PhrasesListView(phrases: phrases));
           },
           loading: (_) => Scaffold(
               appBar: AppBar(title: Text('Phrases')),
-              body: CircularProgressIndicator()),
+              body: Progress()),
           error: (_) => Scaffold(
               appBar: AppBar(title: Text('Phrases')),
               body: Text(_.error.toString(),

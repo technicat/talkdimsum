@@ -5,7 +5,11 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
+import 'package:talkdimsum/ui/common/error_text.dart';
+
 import 'word_dishes_scaffold.dart';
+
+import '../progress.dart';
 
 class SearchWordScaffold extends StatelessWidget {
   @override
@@ -45,13 +49,8 @@ class SearchWord extends StatelessWidget {
                       builder: (context) => WordDishesScaffold(word: selected)),
                 );
               }),
-          loading: (_) => CircularProgressIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: Colors.red),
-              ));
+          loading: (_) => Progress(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }
-
-

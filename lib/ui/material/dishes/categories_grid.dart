@@ -4,7 +4,11 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 
+import 'package:talkdimsum/ui/common/error_text.dart';
+
 import 'category_dishes_grid.dart';
+
+import '../progress.dart';
 
 class CategoriesGrid extends StatelessWidget {
   @override
@@ -13,11 +17,8 @@ class CategoriesGrid extends StatelessWidget {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
           data: (_) => CategoryDishesGrid(dishes: _.value.categories),
-          loading: (_) => CircularProgressIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: Colors.red),
-              ));
+          loading: (_) => Progress(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }

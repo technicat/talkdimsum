@@ -18,11 +18,9 @@ import 'dishes/categories_scaffold.dart';
 import 'dishes/dishes_grid.dart';
 import 'dishes/search_word_scaffold.dart';
 import 'dishes/word_dishes_scaffold.dart';
-import 'navigation_bar.dart';
 import 'place/region_scaffold.dart';
 
 class Routes {
-  static const String navigationBar = '/';
   static const String wordDishesScaffold = '/word-dishes-scaffold';
   static const String dishesGrid = '/dishes-grid';
   static const String dishScaffold = '/dish-scaffold';
@@ -31,7 +29,6 @@ class Routes {
   static const String searchWordScaffold = '/search-word-scaffold';
   static const String regionScaffold = '/region-scaffold';
   static const all = <String>{
-    navigationBar,
     wordDishesScaffold,
     dishesGrid,
     dishScaffold,
@@ -46,7 +43,6 @@ class AppRouter extends RouterBase {
   @override
   List<RouteDef> get routes => _routes;
   final _routes = <RouteDef>[
-    RouteDef(Routes.navigationBar, page: NavigationBar),
     RouteDef(Routes.wordDishesScaffold, page: WordDishesScaffold),
     RouteDef(Routes.dishesGrid, page: DishesGrid),
     RouteDef(Routes.dishScaffold, page: DishScaffold),
@@ -58,12 +54,6 @@ class AppRouter extends RouterBase {
   @override
   Map<Type, AutoRouteFactory> get pagesMap => _pagesMap;
   final _pagesMap = <Type, AutoRouteFactory>{
-    NavigationBar: (data) {
-      return CupertinoPageRoute<dynamic>(
-        builder: (context) => NavigationBar(),
-        settings: data,
-      );
-    },
     WordDishesScaffold: (data) {
       final args = data.getArgs<WordDishesScaffoldArguments>(nullOk: false);
       return CupertinoPageRoute<dynamic>(

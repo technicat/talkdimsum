@@ -16,7 +16,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoApp(
-      onGenerateRoute: AppRouter(),
+      onGenerateRoute: _appRouter,
       title: 'Talk Dim Sum',
       builder: (BuildContext context, Widget widget) => NavigationBar(),
     );

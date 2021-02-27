@@ -7,6 +7,10 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/provider/dimsum.dart';
 
+import 'package:talkdimsum/ui/common/error_text.dart';
+
+import '../progress.dart';
+
 import 'dish_widget.dart';
 
 // https://flutterrdart.com/flutter-popup-menu-button-example/
@@ -78,11 +82,8 @@ class DishScaffold extends StatelessWidget {
                     )
                   ]),
               body: DishWidget(dish: dish)),
-          loading: (_) => CircularProgressIndicator(),
-          error: (_) => Text(
-                _.error.toString(),
-                style: TextStyle(color: Colors.red),
-              ));
+          loading: (_) => Progress(),
+          error: (_) => ErrorText(error: _.error));
     });
   }
 }
