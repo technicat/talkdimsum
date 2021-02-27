@@ -67,12 +67,6 @@ class Region {
 
   Map<String, dynamic> toJson() => _$RegionToJson(this);
 
-  /* Region.fromJson(Map<String, dynamic> json)
-      : name = json['name'],
-        //zoom = json['zoom'].toDouble(),
-        places = List<Place>.from(
-            json['places'].map((json) => Place.fromJson(json))); */
-
   static Future<List<Region>> loadPaths(
       String path, List<String> filenames) async {
     //return filenames.map((filename) => _load(path+filename)).toList();

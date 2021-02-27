@@ -4,6 +4,11 @@ import 'package:talkdimsum/core/model/language.dart';
 
 import 'link.dart';
 
+import 'package:json_annotation/json_annotation.dart';
+
+part 'word.g.dart';
+
+@JsonSerializable()
 class Word {
   static HashMap<String, Word> words = HashMap<String, Word>();
 
@@ -11,19 +16,29 @@ class Word {
     Word.words[word.cantonese] = word;
     return word;
   }
-
+  @JsonKey(name: 'Chinese')
   final String cantonese;
+  @JsonKey(name: 'Mandarin')
   final String mandarin;
+  @JsonKey(name: 'Simplified')
   final String simplified;
+  @JsonKey(name: 'English')
   final String english;
+  @JsonKey(name: 'Yale')
   final String yale;
+  @JsonKey(name: 'Pinyin')
   final String pinyin;
+  @JsonKey(name: 'Resources')
   final List<Link> resources;
 
   Word(this.cantonese, this.mandarin, this.simplified, this.english, this.yale,
       this.pinyin, this.resources);
 
-  Word.fromJson(Map<String, dynamic> json)
+  factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);
+
+  Map<String, dynamic> toJson() => _$WordToJson(this);
+
+  /* Word.fromJson(Map<String, dynamic> json)
       : cantonese = json['Chinese'],
         mandarin = json['Mandarin'],
         simplified = json['Simplified'],
@@ -33,7 +48,7 @@ class Word {
         resources = json['Resources'] == null
             ? []
             : List<Link>.from(
-                json['Resources'].map((json) => Link.fromJson(json)));
+                json['Resources'].map((json) => Link.fromJson(json))); */
 
   String chineseText([Chinese lang = Chinese.Cantonese]) {
     assert(cantonese != null, 'word for $english has no Cantonese!');
