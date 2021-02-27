@@ -5,6 +5,11 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import 'place.dart';
 
+import 'package:json_annotation/json_annotation.dart';
+
+part 'region.g.dart';
+
+@JsonSerializable()
 class Region {
   final String name;
   //final double zoom;
@@ -58,17 +63,22 @@ class Region {
 
   Region(this.name, this.places);
 
-  Region.fromJson(Map<String, dynamic> json)
+  factory Region.fromJson(Map<String, dynamic> json) => _$RegionFromJson(json);
+
+  Map<String, dynamic> toJson() => _$RegionToJson(this);
+
+  /* Region.fromJson(Map<String, dynamic> json)
       : name = json['name'],
         //zoom = json['zoom'].toDouble(),
         places = List<Place>.from(
-            json['places'].map((json) => Place.fromJson(json)));
+            json['places'].map((json) => Place.fromJson(json))); */
 
-  static Future<List<Region>> loadPaths(String path, List<String> filenames) async {
+  static Future<List<Region>> loadPaths(
+      String path, List<String> filenames) async {
     //return filenames.map((filename) => _load(path+filename)).toList();
     List<Region> list = [];
     for (var filename in filenames) {
-      list.add(await _load(path+filename));
+      list.add(await _load(path + filename));
     }
     return list;
   }

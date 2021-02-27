@@ -24,16 +24,6 @@ class Place {
 
   Map<String, dynamic> toJson() => _$PlaceToJson(this);
 
-/*  Place.fromJson(Map<String, dynamic> json)
-      : name = json['title'],
-        lat = json['lat'].toDouble(),
-        lon = json['lon'].toDouble(),
-        city = json['city'],
-        links = json['links'] == null
-            ? []
-            : List<Link>.from(json['links'].map((json) => Link.fromJson(json))),
-        address = json['address']; */
-
   String get googleMapURL {
     return sprintf(
         'https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f',
