@@ -14,10 +14,5 @@ class Line {
   factory Line.fromJson(Map<String, dynamic> json) => _$LineFromJson(json);
 
   Map<String, dynamic> toJson() => _$LineToJson(this);
-
-  /*Line.fromJson(Map<String, dynamic> json)
-      : name = json['name'],
-        words =
-            List<Word>.from(json['words'].map((json) => Word.fromJson(json))); */
 }
 
