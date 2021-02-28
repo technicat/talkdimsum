@@ -1,19 +1,9 @@
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 
-import 'word.dart';
+import 'line.dart';
 
-class Line {
-  final String name;
-  final List<Word> words;
-
-  Line(this.name, this.words);
-
-  Line.fromJson(Map<String, dynamic> json)
-      : name = json['name'],
-        words =
-            List<Word>.from(json['words'].map((json) => Word.fromJson(json)));
-}
+import 'package:json_annotation/json_annotation.dart';
 
 class Phrases {
   final String name;

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:bubble/bubble.dart';
 
 import 'package:talkdimsum/core/model/phrases.dart';
+import 'package:talkdimsum/core/model/line.dart';
 
 import 'bubbles.dart';
 

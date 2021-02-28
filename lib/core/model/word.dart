@@ -38,18 +38,6 @@ class Word {
 
   Map<String, dynamic> toJson() => _$WordToJson(this);
 
-  /* Word.fromJson(Map<String, dynamic> json)
-      : cantonese = json['Chinese'],
-        mandarin = json['Mandarin'],
-        simplified = json['Simplified'],
-        english = json['English'],
-        yale = json['Yale'],
-        pinyin = json['Pinyin'],
-        resources = json['Resources'] == null
-            ? []
-            : List<Link>.from(
-                json['Resources'].map((json) => Link.fromJson(json))); */
-
   String chineseText([Chinese lang = Chinese.Cantonese]) {
     assert(cantonese != null, 'word for $english has no Cantonese!');
     switch (lang) {
