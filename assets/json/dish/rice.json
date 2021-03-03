@@ -177,6 +177,55 @@
   {
     "words": [
       {
+        "Chinese": "冬菇蒸雞飯",
+        "Simplified": "冬菇蒸鸡饭",
+        "English": "steamed chicken w/ mushrooms on rice",
+        "Yale": "dūng gū jīng gāi faahn",
+        "Pinyin": "dōng gū zhēng jī fàn",
+        "Resources": [
+          {
+            "name": "炸雞",
+            "URL": "https://en.wiktionary.org/wiki/炸雞"
+          },
+          {
+            "name": "炸",
+            "URL": "https://en.wiktionary.org/wiki/炸"
+          },
+          {
+            "name": "雞",
+            "URL": "https://en.wiktionary.org/wiki/雞"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "steamedchickenricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Steamed chicken and mushrooms served on white rice.\n\n冬菇 means “mushroom,” 蒸 means “steamed,” 雞 is “chicken,” and 飯 is “rice,” so ”mushroom steamed chicken rice.”",
+    "Tags": [
+      "冬菇",
+      "茶餐廳",
+      "雞",
+      "飯",
+      "白飯"
+    ],
+    "Resources": [
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2010/02/steamed-chicken-rice.html"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "鰻魚飯",
         "Simplified": "鳗鱼饭",
         "English": "grilled eel on rice",
