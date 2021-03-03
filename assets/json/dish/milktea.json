@@ -2,6 +2,49 @@
     {
         "words": [
             {
+                "Chinese": "奶茶",
+                "English": "milk tea",
+                "Yale": "náaih chàh",
+                "Pinyin": "nǎi chá",
+                "Resources": [
+                    {
+                        "name": "奶茶",
+                        "URL": "https://en.wiktionary.org/wiki/奶茶"
+                    },
+                    {
+                        "name": "奶",
+                        "URL": "https://en.wiktionary.org/wiki/奶"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "hkmilkteajjnoodle",
+                "place": "JJ Noodle Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Although Chinese tea is not traditionally drunk with milk added, Variations of milk tea (known in Britain as just “tea”) are popular in Asia, including Hong Kong-style milk tea, boba (bubble) milk tea (invented in Taiwan), and Thai tea.\n\n奶 is “milk“, and 茶 is “tea“, so literally “milk tea.“\n\nThe tea is traditionally strained through a sackcloth that darkens from use, so the tea is also known as 絲襪奶茶 (sī maht náaih chàh) “silk stocking milk tea.”.",
+        "Tags": [
+            "奶茶",
+            "茶",
+            "熱茶",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Milk_tea"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "港式奶茶",
                 "English": "Hong Kong-style milk tea",
                 "Yale": "góng sīk náaih chàh",
@@ -136,7 +179,7 @@
                 "Resources": [
                     {
                         "name": "波霸奶茶",
-                        "URL": "https://en.wiktionary.org/wiki/奶茶"
+                        "URL": "https://en.wiktionary.org/wiki/波霸奶茶"
                     },
                     {
                         "name": "波霸",
@@ -182,6 +225,61 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Bubble_tea"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "黑糖奶茶",
+                "English": "brown sugar milk tea",
+                "Yale": "hāk tòhng náaih chàh",
+                "Pinyin": "hēi táng nǎi chá",
+                "Resources": [
+                    {
+                        "name": "黑糖",
+                        "URL": "https://en.wiktionary.org/wiki/黑糖"
+                    },
+                    {
+                        "name": "黑",
+                        "URL": "https://en.wiktionary.org/wiki/黑"
+                    },
+                    {
+                        "name": "糖",
+                        "URL": "https://en.wiktionary.org/wiki/糖"
+                    },
+                    {
+                        "name": "奶茶",
+                        "URL": "https://en.wiktionary.org/wiki/奶茶"
+                    },
+                    {
+                        "name": "奶",
+                        "URL": "https://en.wiktionary.org/wiki/奶"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "tigersugar",
+                "place": "Tiger Sugar, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Milk tea mixed with a brown sugar syrup.\n\n黑 is “black” and 糖 is “sugar,” so 黑糖 is “black sugar,” and 奶茶 is “milk tea.”\n\nAlso known as “tiger milk tea” due to the swirl of brown sugar syrup and cream or milk.",
+        "Tags": [
+            "黑糖",
+            "茶",
+            "奶茶",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "The Fat Kid Inside",
+                "URL": "https://thefatkidinside.com/brown-sugar-milk-tea-recipe/"
             }
         ]
     }
