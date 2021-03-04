@@ -1,60 +1,79 @@
-
 [
-    
-    {
-        "words":
-        [
-        {
-        "Chinese":"滷肉飯",
-        "Simplified":"卤肉饭",
-        "English":"minced pork rice",
-        "Yale":"lóuh yuhk faahn",
-        "Pinyin":"lǔ ròu fàn",
-        "Resources":
-        [
-        {"name":"滷肉飯","URL":"https://en.wiktionary.org/wiki/滷肉飯"},
-        {"name":"滷肉","URL":"https://en.wiktionary.org/wiki/滷肉"},
-        {"name":"滷","URL":"https://en.wiktionary.org/wiki/滷"},
-        {"name":"肉","URL":"https://en.wiktionary.org/wiki/肉"},
-        {"name":"飯","URL":"https://en.wiktionary.org/wiki/飯"}
+  {
+    "words": [
+      {
+        "Chinese": "滷肉飯",
+        "Simplified": "卤肉饭",
+        "English": "minced pork rice",
+        "Yale": "lóuh yuhk faahn",
+        "Pinyin": "lǔ ròu fàn",
+        "Resources": [
+          {
+            "name": "滷肉飯",
+            "URL": "https://en.wiktionary.org/wiki/滷肉飯"
+          },
+          {
+            "name": "滷肉",
+            "URL": "https://en.wiktionary.org/wiki/滷肉"
+          },
+          {
+            "name": "滷",
+            "URL": "https://en.wiktionary.org/wiki/滷"
+          },
+          {
+            "name": "肉",
+            "URL": "https://en.wiktionary.org/wiki/肉"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
         ]
-        }
-        ],
-        "images": 
-        [
-            {
-                "image":"louroufaneverygrain",
-                "place":"Eat Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "Description": 
-          "A classic Taiwanese homestyle dish, minced pork served in a sauce on rice.\n\n滷肉 is “stewed meat,”  and 飯 is “rice,” so it's ”stewed meat rice.”",
-        "Tags":
-         [
-         "滷肉",
-          "飯",
-          "蓋飯",
-          "白飯"
-        ],
-         "Resources":
-         [
-            {"name": "Wikipedia", 
-              "URL":"https://en.wikipedia.org/wiki/Minced_pork_rice"},
-            {"name": "Wai Sik", 
-              "URL":"https://waisik.com/chunky-lu-rou-fan/"},
-            {"name": "The Woks of Life", 
-              "URL": "https://thewoksoflife.com/lu-rou-fan-taiwanese-braised-pork-rice-bowl/"},
-            {"name": "China Sichuan Food", 
-              "URL": "https://www.chinasichuanfood.com/lu-rou-fan-braised-pork-rice/"},
-            {"name": "Yi Reservation", 
-              "URL": "http://yireservation.com/recipes/taiwanese-minced-pork-sauce-over-rice/"},
-            {"name": "Nom Life", 
-              "URL": "https://www.lifeofnoms.com/blog/2018/8/7/taiwanesemincedpork"},
-            {"name": "The Missing Lok Ness", 
-              "URL": "https://themissinglokness.com/2014/05/07/taiwanese-minced-pork-rice/"}
-       ]
-    }
-
-    
- 
- ]
+      }
+    ],
+    "images": [
+      {
+        "image": "louroufaneverygrain",
+        "place": "Eat Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "A classic Taiwanese homestyle dish, minced pork served in a sauce on rice.\n\n滷肉 is “stewed meat,”  and 飯 is “rice,” so it's ”stewed meat rice.”",
+    "Tags": [
+      "臺灣",
+      "滷肉",
+      "飯",
+      "蓋飯",
+      "白飯"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Minced_pork_rice"
+      },
+      {
+        "name": "Wai Sik",
+        "URL": "https://waisik.com/chunky-lu-rou-fan/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/lu-rou-fan-taiwanese-braised-pork-rice-bowl/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/lu-rou-fan-braised-pork-rice/"
+      },
+      {
+        "name": "Yi Reservation",
+        "URL": "http://yireservation.com/recipes/taiwanese-minced-pork-sauce-over-rice/"
+      },
+      {
+        "name": "Nom Life",
+        "URL": "https://www.lifeofnoms.com/blog/2018/8/7/taiwanesemincedpork"
+      },
+      {
+        "name": "The Missing Lok Ness",
+        "URL": "https://themissinglokness.com/2014/05/07/taiwanese-minced-pork-rice/"
+      }
+    ]
+  }
+]

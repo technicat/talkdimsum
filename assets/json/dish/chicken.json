@@ -116,5 +116,47 @@
                 "URL": "https://thewoksoflife.com/kung-pao-chicken/"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "鹽酥雞",
+                "Simplified": "盐酥鸡",
+                "English": "popcorn chicken",
+                "Yale": "yìhm sōu gāi",
+                "Pinyin": "yán sū jī",
+                "Resources": [
+                    {
+                        "name": "鹽",
+                        "URL": "https://en.wiktionary.org/wiki/鹽"
+                    },
+                    {
+                        "name": "酥",
+                        "URL": "https://en.wiktionary.org/wiki/酥"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "popcornchickensweettalk",
+                "place": "Sweet Heart Dessert House, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Taiwanese popcorn chicken is a particularly crunchy and spicy (seasoned with Sichuan pepper) street food and snack.\n\n鹽 means “salty,” 酥is the same word used for flaky pastries and in this context means “crispy” or ”crunchy,” and 雞 is “chicken,” so it's “salty crunchy chicken.”",
+        "Tags": [
+            "臺灣",
+            "雞"
+        ],
+        "Resources": [
+            {
+                "name": "Wok and Kin",
+                "URL": "https://www.wokandkin.com/taiwanese-popcorn-chicken/"
+            }
+        ]
     }
 ]
