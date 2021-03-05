@@ -155,6 +155,7 @@
     },
     {
         "Chinese": "紐約",
+        "Simplified": "纽约",
         "English": "New York",
         "Yale": "náu yeuk",
         "Pinyin": "Niǔ yuē"
@@ -162,7 +163,15 @@
     {
         "Chinese": "華盛頓",
         "English": "Washington",
+        "Simplified": "华盛顿",
         "Yale": "wàa sihng deuhn",
         "Pinyin": "Huá shèng dùn"
+    },
+    {
+        "Chinese": "臺灣",
+        "Simplified": "台湾",
+        "English": "Taiwan",
+        "Yale": "tòih wāan",
+        "Pinyin": "tái wān"
     }
 ]
