@@ -3,6 +3,50 @@
     {
         "words": [
             {
+                "Chinese": "芥蘭",
+                "Simplified": "芥蘭",
+                "English": "Chinese broccoli",
+                "Yale": "gaai láan",
+                "Pinyin": "gài lán",
+                "Resources": [
+                    {
+                        "name": "芥蘭",
+                        "URL": "https://en.wiktionary.org/wiki/芥蘭"
+                    },
+                    {
+                        "name": "芥",
+                        "URL": "https://en.wiktionary.org/wiki/芥"
+                    },
+                    {
+                        "name": "蘭",
+                        "URL": "https://en.wiktionary.org/wiki/蘭"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "chinesebroccolidimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Chinese broccoli (also known as Chinese kale).",
+        "Tags": [
+            "芥蘭",
+            "菜",
+            "蒸",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Kai-lan"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "蠔油芥蘭",
                 "Simplified": "蚝油芥蘭",
                 "English": "Chinese broccoli with oyster sauce",
@@ -44,6 +88,7 @@
         ],
         "Description": "Chinese broccoli (also known as Chinese kale), boiled or steamed and served with oyster sauce.\n\n蠔油 is “oyster sauce,” and 芥蘭 is “Chinese broccoli.”",
         "Tags": [
+            "芥蘭",
             "蠔油時蔬",
             "蠔油",
             "菜",
@@ -51,10 +96,6 @@
             "點心"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Kai-lan"
-            },
             {
                 "name": "Wok & Kin",
                 "URL": "https://www.wokandkin.com/chinese-brocoli-gai-lan-with-oyster-sauce/"

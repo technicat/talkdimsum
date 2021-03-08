@@ -49,6 +49,7 @@ dependencies:
   sprintf:
   sqflite:
   url_launcher:
+  firebase_messaging:
 
   cupertino_search:
     git: 
