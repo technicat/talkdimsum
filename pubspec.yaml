@@ -81,10 +81,10 @@ flutter_launcher_name:
 
 flutter_application_id:
   android: 
-    id: "com.technicat.talkdimsum"
+    id: "com.technicat.dimsum"
     name: "Talk Dim Sum"
   ios:
-    id: "com.technicat.dimsum"
+    id: "com.technicat.dimsum.flutter"
     name: "Dim Sum"
 
 

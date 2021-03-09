@@ -19,7 +19,7 @@ class LoadingText extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  Text('Loading...)'
+    return  Center(child: Text('Loading...)')
       );
   }
 }

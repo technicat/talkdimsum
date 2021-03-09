@@ -11,13 +11,13 @@ import 'dart:io' show Platform;
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
+import 'package:firebase_messaging/firebase_messaging.dart';
 
 import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/core/provider/stt.dart';
 
 import 'ui/cupertino/app.dart' as cupertino;
 import 'ui/material/app.dart' as material;
-
 
 void main() async {
   runApp(riverpod.ProviderScope(child: MainApp()));
@@ -33,6 +33,29 @@ class MainApp extends StatelessWidget {
     Widget app;
     try {
       if (Platform.isIOS || Platform.isMacOS) {
+        FirebaseMessaging messaging = FirebaseMessaging();
+        messaging.requestNotificationPermissions();
+        messaging.configure();
+     //   String token = await messaging.getToken();
+     //   print("FirebaseMessaging token: $token");
+/*
+NotificationSettings settings = await messaging.requestPermission(
+  alert: true,
+  announcement: false,
+  badge: true,
+  carPlay: false,
+  criticalAlert: false,
+  provisional: false,
+  sound: true,
+);
+
+if (settings.authorizationStatus == AuthorizationStatus.authorized) {
+  print('User granted permission');
+} else if (settings.authorizationStatus == AuthorizationStatus.provisional) {
+  print('User granted provisional permission');
+} else {
+  print('User declined or has not accepted permission');
+} */
         app = cupertino.App();
       } else {
         app = material.App();
@@ -42,10 +65,10 @@ class MainApp extends StatelessWidget {
       app = material.App();
     }
     return MultiProvider(providers: [
-  //    ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
+      //    ChangeNotifierProvider<DimSum>(create: (context) => DimSum()),
 //      ChangeNotifierProvider<Countries>(create: (context) => Countries()),
 //      ChangeNotifierProvider<Conversation>(create: (context) => Conversation()),
-     ChangeNotifierProvider<Settings>(create: (context) => Settings()),
+      ChangeNotifierProvider<Settings>(create: (context) => Settings()),
       ChangeNotifierProvider<STT>(create: (context) => STT())
     ], child: app);
   }
