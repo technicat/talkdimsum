@@ -26,11 +26,11 @@
         ],
         "images": [
             {
-                "image": "chinesebroccolidimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+                "image": "chinesebroccolihkgardentakeout",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "Description": "Chinese broccoli (also known as Chinese kale).",
+        "Description": "Chinese broccoli (also known as Chinese kale, or “gai lan” as it's pronunciation).\n\nChinese immigrants in America had to use broccoli as a substitute, so you could call broccoli “American gai lan.”",
         "Tags": [
             "芥蘭",
             "菜",
@@ -41,6 +41,10 @@
             {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Kai-lan"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chinese-broccoli-gai-lan/"
             }
         ]
     },
