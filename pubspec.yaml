@@ -49,7 +49,9 @@ dependencies:
   sprintf:
   sqflite:
   url_launcher:
+  firebase_core:
   firebase_messaging:
+  overlay_support:
 
   cupertino_search:
     git: 

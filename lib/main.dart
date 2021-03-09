@@ -6,12 +6,13 @@
 // directory structure is similar to
 // https://github.com/jgrandchavin/flutter_provider_architecture_starter
 
+// https://blog.logrocket.com/flutter-push-notifications-with-firebase-cloud-messaging/
+
 import 'dart:io' show Platform;
 
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
-import 'package:firebase_messaging/firebase_messaging.dart';
 
 import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/core/provider/stt.dart';
@@ -28,34 +29,12 @@ void main() async {
 // https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
 
 class MainApp extends StatelessWidget {
+ 
   @override
   Widget build(BuildContext context) {
     Widget app;
     try {
       if (Platform.isIOS || Platform.isMacOS) {
-        FirebaseMessaging messaging = FirebaseMessaging();
-        messaging.requestNotificationPermissions();
-        messaging.configure();
-     //   String token = await messaging.getToken();
-     //   print("FirebaseMessaging token: $token");
-/*
-NotificationSettings settings = await messaging.requestPermission(
-  alert: true,
-  announcement: false,
-  badge: true,
-  carPlay: false,
-  criticalAlert: false,
-  provisional: false,
-  sound: true,
-);
-
-if (settings.authorizationStatus == AuthorizationStatus.authorized) {
-  print('User granted permission');
-} else if (settings.authorizationStatus == AuthorizationStatus.provisional) {
-  print('User granted provisional permission');
-} else {
-  print('User declined or has not accepted permission');
-} */
         app = cupertino.App();
       } else {
         app = material.App();
@@ -73,3 +52,5 @@ if (settings.authorizationStatus == AuthorizationStatus.authorized) {
     ], child: app);
   }
 }
+
+
