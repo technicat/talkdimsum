@@ -3,6 +3,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 
+// https://github.com/FirebaseExtended/flutterfire/issues/2088
+
 //import 'package:overlay_support/overlay_support.dart';
 
 import 'navigation_bar.dart';
