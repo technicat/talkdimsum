@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import '../router.gr.dart';
+import 'practice_widget.dart';
 
 class PracticeButton extends StatelessWidget {
   final Word word;
@@ -14,10 +14,10 @@ class PracticeButton extends StatelessWidget {
     return CupertinoButton(
       child: Icon(CupertinoIcons.mic),
       onPressed: () {
-        Navigator.pushNamed(
+        Navigator.push(
             context,
-            Routes.practiceWidget,
-            arguments: PracticeWidgetArguments(word: word));
+            CupertinoPageRoute(
+                builder: (context) => PracticeWidget(word: word)));
       },
     );
   }

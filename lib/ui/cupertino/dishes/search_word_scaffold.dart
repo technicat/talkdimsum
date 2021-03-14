@@ -6,7 +6,7 @@ import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/common/error_text.dart';
 
-import '../router.gr.dart';
+import 'word_dishes_scaffold.dart';
 
 class SearchWordScaffold extends StatelessWidget {
   @override
@@ -39,11 +39,11 @@ class SearchWord extends StatelessWidget {
                     value.chineseText().contains(reg);
               },
               onSelect: (dynamic selected) {
-                Navigator.pushNamed(
-                  context,
-                  Routes.wordDishesScaffold,
-                  arguments: WordDishesScaffoldArguments(word: selected),
-                );
+                Navigator.push(
+                    context,
+                    CupertinoPageRoute(
+                        builder: (context) =>
+                            WordDishesScaffold(word: selected)));
               }),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
