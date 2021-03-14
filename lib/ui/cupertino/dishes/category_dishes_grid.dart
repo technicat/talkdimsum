@@ -30,8 +30,7 @@ class CategoryDishWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
         onTap: () {
-          Navigator.push(
-                context,
+            Navigator.of(context, rootNavigator: true).push(
                 CupertinoPageRoute(
                     builder: (context) => WordDishesScaffold(word: dish.word)),
           );
