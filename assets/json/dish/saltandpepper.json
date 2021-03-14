@@ -390,7 +390,7 @@
                 "place": "Chef Ching's Kitchen, Las Vegas, Nevada"
             }
         ],
-        "Description": "Deep-fried pork chop strips seasoned with with salt and pepper.\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒鹽 means “pork chop.“",
+        "Description": "Deep-fried pork chop strips seasoned with with salt and pepper.\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 排骨 is “pork chop.“",
         "Tags": [
             "排骨",
             "茶餐廳",
@@ -400,6 +400,59 @@
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/cantonese-salt-pepper-pork-chops/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "椒鹽茄子",
+                "English": "salt and pepper eggplant",
+                "Yale": "jīu yìhm ké jí",
+                "Pinyin": "jiāo yán qié zi",
+                "Resources": [
+                    {
+                        "name": "椒鹽",
+                        "URL": "https://en.wiktionary.org/wiki/椒鹽"
+                    },
+                    {
+                        "name": "椒",
+                        "URL": "https://en.wiktionary.org/wiki/椒"
+                    },
+                    {
+                        "name": "鹽",
+                        "URL": "https://en.wiktionary.org/wiki/鹽"
+                    },
+                    {
+                        "name": "茄子",
+                        "URL": "https://en.wiktionary.org/wiki/茄子"
+                    },
+                    {
+                        "name": "茄",
+                        "URL": "https://en.wiktionary.org/wiki/v"
+                    },
+                    {
+                        "name": "子",
+                        "URL": "https://en.wiktionary.org/wiki/v"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "saltandpeppereggplant",
+                "place": "Orchids Garden, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Deep-fried pork chop strips seasoned with with salt and pepper.\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 茄子 is “eggplant.“",
+        "Tags": [
+            "茶餐廳",
+            "茄子",
+            "椒鹽"
+        ],
+        "Resources": [
+            {
+                
             }
         ]
     }
