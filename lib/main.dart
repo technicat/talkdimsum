@@ -14,6 +14,9 @@ import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
 
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
+
 import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/core/provider/stt.dart';
 
@@ -35,6 +38,7 @@ class MainApp extends StatelessWidget {
     Widget app;
     try {
       if (Platform.isIOS || Platform.isMacOS) {
+        registerNotifications();
         app = cupertino.App();
       } else {
         app = material.App();
@@ -51,6 +55,35 @@ class MainApp extends StatelessWidget {
       ChangeNotifierProvider<STT>(create: (context) => STT())
     ], child: app);
   }
+}
+
+// https://firebase.flutter.dev/docs/messaging/usage
+void registerNotifications() async {
+  await Firebase.initializeApp();
+  FirebaseMessaging messaging = FirebaseMessaging.instance;
+  NotificationSettings settings = await messaging.requestPermission(
+    alert: true,
+    announcement: false,
+    badge: true,
+    carPlay: false,
+    criticalAlert: false,
+    provisional: false,
+    sound: true,
+  );
+
+  if (settings.authorizationStatus == AuthorizationStatus.authorized) {
+    print('User granted permission');
+    String token = await messaging.getToken();
+    print(token);
+  } else if (settings.authorizationStatus == AuthorizationStatus.provisional) {
+    print('User granted provisional permission');
+  } else {
+    print('User declined or has not accepted permission');
+  }
+
+     // FirebaseMessaging.instance.onTokenRefresh.listen(saveTokenToDatabase);
+
+  // print('User granted permission: ${settings.authorizationStatus}');
 }
 
 

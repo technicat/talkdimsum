@@ -33,7 +33,7 @@ dependencies:
   # more stuff
   auto_route:
   get_it:
-  provider:
+  provider: 4.3.3
   flutter_riverpod:
   flutter_tts:
   freezed_annotation:
@@ -42,16 +42,18 @@ dependencies:
   path_provider:
 #  pedantic:
   share:
-  shared_preferences:
+  shared_preferences: 0.5.12
   speech_to_text:
   bubble:
   flushbar:
   sprintf:
   sqflite:
   url_launcher:
-  firebase_core:
-  firebase_messaging:
-  overlay_support:
+  firebase_core: 0.7.0
+  firebase_messaging: 8.0.0-dev.15
+  #nanopb:
+#  firebase_crashlytics: 0.4.0
+#  overlay_support:
 
   cupertino_search:
     git: 
