@@ -52,6 +52,64 @@
     {
         "words": [
             {
+                "Chinese": "左宗棠雞",
+                "Simplified": "左宗棠鸡",
+                "English": "General Tso's chicken",
+                "Yale": "jó jūng tòhng gāi",
+                "Pinyin": "zuǒ zōng táng jī",
+                "Resources": [
+                    {
+                        "name": "左",
+                        "URL": "https://en.wiktionary.org/wiki/左"
+                    },
+                    {
+                        "name": "宗",
+                        "URL": "https://en.wiktionary.org/wiki/宗"
+                    },
+                    {
+                        "name": "棠",
+                        "URL": "https://en.wiktionary.org/wiki/棠"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "generaltsochickengreatwall",
+                "place": "Great Wall, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Another battered fried chicken coated in a sweet sauce, this has to be a Chinese-American dish and in fact there are competing claims to its invention by restaurants in New York City, but General Tso was indeed a famous Chinese general, born in Hunan.\n\n左宗棠 is General Tso's full name (without the “General”), and 雞 is “chicken.”\n\nThe Search for General Tso is a documentary covering Chinese-American cuisine, the history of Chinese-American immigration, and General Tso himself.",
+        "Tags": [
+            "雞",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/General_Tso's_chicken"
+            },
+            {
+                "name": "General Tso",
+                "URL": "https://en.wikipedia.org/wiki/Zuo_Zongtang"
+            },
+            {
+                "name": "The Search for General Tso",
+                "URL": "https://en.wikipedia.org/wiki/The_Search_for_General_Tso"
+            },
+            {
+                "name": "Made With Lau",
+                "URL": "https://madewithlau.com/recipes/general-tsos-chicken"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "宮保雞丁",
                 "Simplified": "宫保鸡丁",
                 "English": "kung pao chicken",
