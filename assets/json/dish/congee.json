@@ -259,6 +259,75 @@
     {
         "words": [
             {
+                "Chinese": "生菜鯪魚球粥",
+                "Simplified": "生菜鲮鱼球粥",
+                "English": "fish ball congee",
+                "Yale": "sāang choi lèhng yùh kàuh jūk",
+                "Pinyin": "shēng cài líng yú qiú zhōu",
+                "Resources": [
+                    {
+                        "name": "生菜",
+                        "URL": "https://en.wiktionary.org/wiki/生菜"
+                    },
+                    {
+                        "name": "生",
+                        "URL": "https://en.wiktionary.org/wiki/生"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    },
+                    {
+                        "name": "鯪魚球",
+                        "URL": "https://en.wiktionary.org/wiki/鯪魚球"
+                    },
+                    {
+                        "name": "鯪魚",
+                        "URL": "https://en.wiktionary.org/wiki/鯪魚"
+                    },
+                    {
+                        "name": "鯪",
+                        "URL": "https://en.wiktionary.org/wiki/鯪"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/魚"
+                    },
+                    {
+                        "name": "球",
+                        "URL": "https://en.wiktionary.org/wiki/球"
+                    },
+                    {
+                        "name": "粥",
+                        "URL": "https://en.wiktionary.org/wiki/粥"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "fishballcongeeskseafood",
+                "place": "SK Seafood, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Rice porridge with fish balls and lettuce.\n\n生菜 is “lettuce,” 鯪魚 is Chinese mud carp, also known as “dace,” 球 is “ball” and 粥 is rice porridge.",
+        "Tags": [
+            "粥",
+            "魚",
+            "魚蛋",
+            "海鮮",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cirrhinus_molitorella"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "海鮮粥",
                 "Simplified": "海鲜粥",
                 "English": "seafood congee",
