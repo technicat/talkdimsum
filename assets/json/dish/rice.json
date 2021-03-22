@@ -164,11 +164,58 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "Description": "Deep-fried chicken served on white rice.\n\n炸 means “deep-fried,” 雞 is “chicken,” and 飯 is “rice,” so ”fried chicken rice.”",
+    "Description": "Deep-fried pork chop served on white rice.\n\n炸 means “deep-fried,” 雞 is “chicken,” and 飯 is “rice,” so ”fried chicken rice.”",
     "Tags": [
       "茶餐廳",
       "雞",
       "飯",
+      "白飯"
+    ],
+    "Resources": []
+  },
+  {
+    "words": [
+      {
+        "Chinese": "炸豬扒飯",
+        "Simplified": "炸猪扒饭",
+        "English": "deep-fried pork chop on rice",
+        "Yale": "ja jyū pàh faahn",
+        "Pinyin": "zhà zhū bā fàn",
+        "Resources": [
+          {
+            "name": "炸",
+            "URL": "https://en.wiktionary.org/wiki/炸"
+          },
+          {
+            "name": "豬扒",
+            "URL": "https://en.wiktionary.org/wiki/豬扒"
+          },
+          {
+            "name": "豬",
+            "URL": "https://en.wiktionary.org/wiki/豬"
+          },
+          {
+            "name": "扒",
+            "URL": "https://en.wiktionary.org/wiki/扒"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "porkchopricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Deep-fried pork chop served on white rice.\n\n炸 means “deep-fried,” 豬扒 is “pork chop,” and 飯 is “rice,” so ”deep-fried pork chop rice.”",
+    "Tags": [
+      "茶餐廳",
+      "豬扒",
+      "豬",
       "白飯"
     ],
     "Resources": []
