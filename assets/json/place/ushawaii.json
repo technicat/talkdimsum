@@ -206,6 +206,19 @@
             "lon": -157.835890,
             "city": "Honolulu",
             "address": "2233 Kalakaua Ave, Bldg B, Level 3, B303, Honolulu, HI 96815"
+        },
+        {
+            "title": "Yung Yee Kee Dim Sum",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yung-yee-kee-dim-sum-honolulu"
+                }
+            ],
+            "lat": 21.293280,
+            "lon": -157.843450,
+            "city": "Honolulu",
+            "address": "1411 Kapiolani Blvd  Ste 1  Honolulu, HI 96814"
         }
     ]
 }
