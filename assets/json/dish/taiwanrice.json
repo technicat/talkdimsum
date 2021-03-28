@@ -2,6 +2,61 @@
   {
     "words": [
       {
+        "Chinese": "油飯",
+        "Simplified": "油饭",
+        "English": "Taiwanese sticky rice",
+        "Yale": "yàuh faahn",
+        "Pinyin": "yóu fàn",
+        "Resources": [
+          {
+            "name": "油飯",
+            "URL": "https://en.wiktionary.org/wiki/油飯"
+          },
+          {
+            "name": "油",
+            "URL": "https://en.wiktionary.org/wiki/油"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "seasonedricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Glutinous rice stewed with soy sauce, sesame oil, and other seasonings.\n\n油 is “oil,” and 飯 is “rice,” so it's ”oil rice.”",
+    "Tags": [
+      "臺灣",
+      "飯",
+      "蓋飯"
+    ],
+    "Resources": [
+      {
+        "name": "It's My Dish",
+        "URL": "http://www.itsmydish.com/taiwanese-sticky-rice/"
+      },
+      {
+        "name": "Marilyn Meets Wes",
+        "URL": "http://www.marilynmeetswes.com/2019/02/ah-mas-taiwanese-sticky-rice.html"
+      },
+      {
+        "name": "My Golden Hour",
+        "URL": "http://www.itsmydish.com/taiwanese-sticky-rice/"
+      },
+      {
+        "name": "My Instant Pot Life",
+        "URL": "http://www.myinstantpotlife.com/sticky-rice/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "滷肉飯",
         "Simplified": "卤肉饭",
         "English": "minced pork rice",
