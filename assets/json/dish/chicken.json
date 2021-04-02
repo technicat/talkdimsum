@@ -53,6 +53,54 @@
     {
         "words": [
             {
+                "Chinese": "芝麻雞",
+                "Simplified": "芝麻鸡",
+                "English": "sesame chicken",
+                "Yale": "jī màh gāi",
+                "Pinyin": " jī",
+                "Resources": [
+                    {
+                        "name": "芝麻",
+                        "URL": "https://en.wiktionary.org/wiki/芝麻"
+                    },
+                    {
+                        "name": "芝",
+                        "URL": "https://en.wiktionary.org/wiki/芝"
+                    },
+                    {
+                        "name": "麻",
+                        "URL": "https://en.wiktionary.org/wiki/麻"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "sesamechickenchinagourmet",
+                "place": "China Gourmet, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Battered fried chicken coated in a sweet sauce and sprinkled with sesame seeds.\n\n芝麻 means “sesame” and 雞 is “chicken,” so it's “sesame chicken.”\n\nThis is a Chinese-American dish.",
+        "Tags": [
+            "芝麻",
+            "美式",
+            "雞",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Sesame_chicken"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "左宗棠雞",
                 "Simplified": "左宗棠鸡",
                 "English": "General Tso's chicken",
