@@ -57,7 +57,7 @@
                 "Simplified": "芝麻鸡",
                 "English": "sesame chicken",
                 "Yale": "jī màh gāi",
-                "Pinyin": " jī",
+                "Pinyin": "zhī ma jī",
                 "Resources": [
                     {
                         "name": "芝麻",
@@ -95,6 +95,54 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Sesame_chicken"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "檸檬雞",
+                "Simplified": "柠檬鸡",
+                "English": "lemon chicken",
+                "Yale": "nìhng mūng gāi",
+                "Pinyin": "níng méng jī",
+                "Resources": [
+                    {
+                        "name": "檸檬",
+                        "URL": "https://en.wiktionary.org/wiki/檸檬"
+                    },
+                    {
+                        "name": "檸",
+                        "URL": "https://en.wiktionary.org/wiki/檸"
+                    },
+                    {
+                        "name": "檬",
+                        "URL": "https://en.wiktionary.org/wiki/檬"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "lemonchickenchinagogo",
+                "place": "China a Go Go, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Battered fried chicken coated in a sweet lemon sauce.\n\n檸檬 means “lemon” and 雞 is “chicken,” so it's “sesame chicken.”\n\nThis is a Chinese-American (or Chinese-Canadian, or Chinese-British) dish.",
+        "Tags": [
+            "檸檬",
+            "美式",
+            "雞",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Lemon_chicken"
             }
         ]
     },
