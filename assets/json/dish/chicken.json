@@ -149,6 +149,61 @@
     {
         "words": [
             {
+                "Chinese": "腰果雞丁",
+                "Simplified": "腰果鸡丁",
+                "English": "cashew chicken",
+                "Yale": "yīu gwó gāi dīng",
+                "Pinyin": "yāo guǒ jī dīng",
+                "Resources": [
+                    {
+                        "name": "腰果",
+                        "URL": "https://en.wiktionary.org/wiki/腰果"
+                    },
+                    {
+                        "name": "腰",
+                        "URL": "https://en.wiktionary.org/wiki/腰"
+                    },
+                    {
+                        "name": "果",
+                        "URL": "https://en.wiktionary.org/wiki/果"
+                    },
+                    {
+                        "name": "雞丁",
+                        "URL": "https://en.wiktionary.org/wiki/雞丁"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    },
+                    {
+                        "name": "丁",
+                        "URL": "https://en.wiktionary.org/wiki/丁"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "cashewchickenchinagogo",
+                "place": "China a Go Go, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Stir-fried cubes of chicken mixed with cashews.\n\n腰果 means “cashew” 雞 is “chicken,” and 丁 is “cube” so it's “cashew diced chicken.”\n\nThis is a Chinese-American dish, and also a Chinese-Missouri dish (Springfield, Missouri), invented by David Leong (who immigrated from China at the age of 20 in time to enlist in the Army and storm the beaches of Normandy, then moved to Springfield and figured out the way to introduce Chinese food to Americans is to deep-fry it. He lived to 99.",
+        "Tags": [
+            "美式",
+            "雞",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cashew_chicken"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "左宗棠雞",
                 "Simplified": "左宗棠鸡",
                 "English": "General Tso's chicken",
