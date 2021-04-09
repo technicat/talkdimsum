@@ -33,7 +33,7 @@ dependencies:
   # more stuff
   auto_route:
   get_it:
-  provider: 4.3.3
+  provider:
   flutter_riverpod:
   flutter_tts:
   freezed_annotation:
@@ -42,15 +42,15 @@ dependencies:
   path_provider:
 #  pedantic:
   share:
-  shared_preferences: 0.5.12
+  shared_preferences:
   speech_to_text:
   bubble:
   flushbar:
   sprintf:
   sqflite:
   url_launcher:
-  firebase_core: 0.7.0
-  firebase_messaging: 8.0.0-dev.15
+  firebase_core:
+  firebase_messaging:
 
   cupertino_search:
     git: 
@@ -69,10 +69,11 @@ dev_dependencies:
   json_serializable:
   freezed:
 
+# flutter pub run flutter_launcher_icons:main
 flutter_icons:
   android: true 
   ios: true
-  image_path: "if_dim_sum.png"
+  image_path: "icons/if_dim_sum.png"
 #  image_path: "icons/icons8-dim_sum.png"
 
 flutter_launcher_name:

@@ -38,7 +38,7 @@ class MainApp extends StatelessWidget {
     Widget app;
     try {
       if (Platform.isIOS || Platform.isMacOS) {
-        registerNotifications();
+//        registerNotifications();
         app = cupertino.App();
       } else {
         app = material.App();
