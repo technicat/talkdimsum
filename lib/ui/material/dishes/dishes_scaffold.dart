@@ -57,12 +57,6 @@ class DishesScaffold extends StatelessWidget {
                 launch('http://talkdimsum.com/');
               },
             ),
-            ListTile(
-              title: Text('Github'),
-              onTap: () {
-                launch('https://github.com/technicat/talkdimsum');
-              },
-            ),
              ListTile(
               title: Text('Icons8'),
               onTap: () {
