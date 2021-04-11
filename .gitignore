@@ -61,18 +61,6 @@ linked_*.ds
 unlinked.ds
 unlinked_spec.ds
 
-# Android related
-**/android/**/gradle-wrapper.jar
-**/android/.gradle
-**/android/captures/
-**/android/gradlew
-**/android/gradlew.bat
-**/android/local.properties
-**/android/**/GeneratedPluginRegistrant.java
-# technicat - save these, but be careful
-#**/android/key.properties
-#*.jks
-
 # iOS/XCode related
 **/ios/**/*.mode1v3
 **/ios/**/*.mode2v3
