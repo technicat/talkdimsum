@@ -31,8 +31,8 @@ dependencies:
   cupertino_icons:
 
   # more stuff
-  auto_route:
-  get_it:
+#  auto_route:
+#  get_it:
   provider:
   flutter_riverpod:
   flutter_tts:
