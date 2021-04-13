@@ -114,5 +114,55 @@
                 "URL": "https://redhousespice.com/mango-pancake/"
             }
         ]
+    },
+    ,
+    {
+        "words": [
+            {
+                "Chinese": "龜苓膏",
+                "Simplified": "龟苓膏",
+                "English": "herbal jelly",
+                "Yale": "gwāi lìhng gōu",
+                "Pinyin": "guī líng gāo",
+                "Resources": [
+                    {
+                        "name": "龜苓膏",
+                        "URL": "https://en.wiktionary.org/wiki/龜苓膏"
+                    },
+                    {
+                        "name": "龜",
+                        "URL": "https://en.wiktionary.org/wiki/龜"
+                    },
+                    {
+                        "name": "苓",
+                        "URL": "https://en.wiktionary.org/wiki/苓"
+                    },
+                    {
+                        "name": "膏",
+                        "URL": "https://en.wiktionary.org/wiki/膏"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "herbaljellysweettalk",
+                "place": "Sweet Talk, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Offered as a medicine or dessert, this is known as tortoise jelly since it's traditionally made from the bottom of turtle shells or herbal jelly since these days it usually doesn't contain any turtle powder.",
+        "Tags": [
+            "甜品"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Guilinggao"
+            },
+            {
+                "name": "Appetite for China",
+                "URL": "https://appetiteforchina.com/recipes/blog/chinese-herbal-jelly"
+            }
+        ]
     }
 ]
