@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "939274827813",
+    "project_id": "talk-dim-sum-7bf94",
+    "storage_bucket": "talk-dim-sum-7bf94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939274827813:android:55bcd5860bc5753a2827cc",
+        "android_client_info": {
+          "package_name": "com.technicat.talkdimsum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939274827813-sje5fm14knqqm3rckvqjr7v9dmjnsq0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIw2NUoVveeTrNtiE2VcimvHJuXmpyIRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939274827813-sje5fm14knqqm3rckvqjr7v9dmjnsq0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939274827813-hcnn4fsjjpo6liet5q5r4ccnfsgj56fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.technicat.dimsum.flutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
