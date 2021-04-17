@@ -1,41 +1,97 @@
 [
- {
-    "words": 
-    [
-        {
-    "Chinese":"素菜包",
-    "English":"vegetarian bun",
-    "Yale": "sou choi bāau",
-    "Pinyin":"sù cài bāo",
-    "Resources":
-            [
-            {"name":"素菜","URL":"https://en.wiktionary.org/wiki/素菜"},
-            {"name":"素","URL":"https://en.wiktionary.org/wiki/素"},
-             {"name":"菜","URL":"https://en.wiktionary.org/wiki/菜"},
-            {"name":"包","URL":"https://en.wiktionary.org/wiki/包"}
-            ]
-    }],
-    "images":[
-     {
-         "image":"vegetarianbun"
-     }
-    ],
-    "Description":
-        "Steamed wheat buns with vegetable fillings. 素菜 means “vegetarian dish,” and 包 is “bun.” so “vegetable bun.”",
-    "Tags":
-    [
-        "素菜",
-        "包",
-        "素",
-        "蒸",
-         "點心"
-         ],
-    "Resources":
-    [
-        {"name":"The Woks of Life", 
-            "URL":"https://thewoksoflife.com/2017/01/steamed-vegetable-buns/"},
-        {"name":"China Sichuan Food", 
-            "URL":"https://www.chinasichuanfood.com/vegetarian-steamed-buns/"}
-    ]
+    {
+        "words": [
+            {
+                "Chinese": "素",
+                "English": "vegetarian",
+                "Yale": "sou",
+                "Pinyin": "sù",
+                "Resources": [
+                    {
+                        "name": "素",
+                        "URL": "https://en.wiktionary.org/wiki/素"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "chefkennysvegandimsum",
+                "place": "Chef Kenny's Vegan Dim Sum, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "With a long history of Buddhism and people just not able to afford meat, Chinese cuisine excels in flavorful and textured vegetable dishes and also “mock” meats made from tofu and wheat gluten (yes, gluten).\n\n素 is typically used in conjunction with a term, e.g. 素菜 (sou choi) is a vegetarian dish, 素餐 (sou chāan) a vegetarian meal, 素食 (sou sihk) is vegetarian food.\n\n素 also means “simple,” “plain,” or “clear,” so 素月 is a bright and clear moon, 素顏 (sou ngàah) a face without makeup, and 素數 (sou sou) a prime number.",
+        "Tags": [
+            "素"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Vegetarianism_by_country#China"
+            },
+            {
+                "name": "China Highlights",
+                "URL": "https://www.chinahighlights.com/travelguide/chinese-food/vegetarian-food.htm"
+            },
+            {
+                "name": "China Travel",
+                "URL": "https://www.chinatravel.com/facts/chinese-vegetarian-food.htm"
+            },
+            {
+                "name": "Easy Tour China",
+                "URL": "https://www.easytourchina.com/blog-v1587-vegetarian-food-culture-in-china"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "素菜包",
+                "English": "vegetarian bun",
+                "Yale": "sou choi bāau",
+                "Pinyin": "sù cài bāo",
+                "Resources": [
+                    {
+                        "name": "素菜",
+                        "URL": "https://en.wiktionary.org/wiki/素菜"
+                    },
+                    {
+                        "name": "素",
+                        "URL": "https://en.wiktionary.org/wiki/素"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "vegetarianbun"
+            }
+        ],
+        "Description": "Steamed wheat buns with vegetable fillings. 素菜 means “vegetarian dish,” and 包 is “bun.” so “vegetable bun.”",
+        "Tags": [
+            "素菜",
+            "包",
+            "素",
+            "蒸",
+            "點心"
+        ],
+        "Resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2017/01/steamed-vegetable-buns/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/vegetarian-steamed-buns/"
+            }
+        ]
     }
- ]
+]

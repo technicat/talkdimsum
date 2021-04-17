@@ -136,7 +136,7 @@
                 "Simplified": "乾炒鸡河",
                 "English": "chicken chow fun",
                 "Yale": "gōn cháau gāi hòh",
-                "Pinyin": "gān chǎo v hé",
+                "Pinyin": "gān chǎo jī hé",
                 "Resources": [
                     {
                         "name": "乾炒",
@@ -184,6 +184,62 @@
             "茶餐廳"
         ],
         "Resources": [
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "乾炒蝦河",
+                "Simplified": "乾炒虾河",
+                "English": "shrimp chow fun",
+                "Yale": "gōn cháau hā hòh",
+                "Pinyin": "gān chǎo xiā hé",
+                "Resources": [
+                    {
+                        "name": "乾炒",
+                        "URL": "https://en.wiktionary.org/wiki/乾炒"
+                    },
+                    {
+                        "name": "乾",
+                        "URL": "https://en.wiktionary.org/wiki/乾"
+                    },
+                    {
+                        "name": "炒",
+                        "URL": "https://en.wiktionary.org/wiki/炒"
+                    },
+                    {
+                        "name": "蝦",
+                        "URL": "https://en.wiktionary.org/wiki/蝦"
+                    },
+                    {
+                        "name": "河粉",
+                        "URL": "https://en.wiktionary.org/wiki/河粉"
+                    },
+                    {
+                        "name": "河",
+                        "URL": "https://en.wiktionary.org/wiki/河"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "shrimpchowfundimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Chow fun with shrimp.\n\n乾 is “dry” (there is a “wet” version with gravy) 炒 is “stir-fried” 蝦 is “shrimp,” and 河 is short for 河粉 (hòh fán) which is the flat rice noodle.",
+        "Tags": [
+            "炒",
+            "雞",
+            "河粉",
+            "粉",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Made with Lau",
+                "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"}
         ]
     }
 ]
