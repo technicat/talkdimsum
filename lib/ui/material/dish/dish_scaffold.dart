@@ -29,28 +29,32 @@ class DishScaffold extends StatelessWidget {
               floatingActionButton: _.value.isFavorite(dish)
                   ? FloatingActionButton(
                       onPressed: () {
-                        _.value.removeFavorite(dish);
-                         Fluttertoast.showToast(
-                            msg: "Removed from favorites",
-                            toastLength: Toast.LENGTH_SHORT,
-                            gravity: ToastGravity.CENTER,
-                            timeInSecForIosWeb: 1,
-                            backgroundColor: Colors.red,
-                            textColor: Colors.white,
-                            fontSize: 16.0);
+                        if (_.value.isFavorite(dish)) {
+                          _.value.removeFavorite(dish);
+                          Fluttertoast.showToast(
+                              msg: "Removed from favorites",
+                              toastLength: Toast.LENGTH_SHORT,
+                              gravity: ToastGravity.CENTER,
+                              timeInSecForIosWeb: 1,
+                              backgroundColor: Colors.red,
+                              textColor: Colors.white,
+                              fontSize: 16.0);
+                        }
                       },
                       child: Icon(Icons.favorite))
                   : FloatingActionButton(
                       onPressed: () {
-                        _.value.addFavorite(dish);
-                        Fluttertoast.showToast(
-                            msg: "Added to favorites",
-                            toastLength: Toast.LENGTH_SHORT,
-                            gravity: ToastGravity.CENTER,
-                            timeInSecForIosWeb: 1,
-                            backgroundColor: Colors.red,
-                            textColor: Colors.white,
-                            fontSize: 16.0);
+                        if (!_.value.isFavorite(dish)) {
+                          _.value.addFavorite(dish);
+                          Fluttertoast.showToast(
+                              msg: "Added to favorites",
+                              toastLength: Toast.LENGTH_SHORT,
+                              gravity: ToastGravity.CENTER,
+                              timeInSecForIosWeb: 1,
+                              backgroundColor: Colors.red,
+                              textColor: Colors.white,
+                              fontSize: 16.0);
+                        }
                       },
                       child: Icon(Icons.favorite_border)),
               appBar: AppBar(

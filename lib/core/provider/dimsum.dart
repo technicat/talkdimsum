@@ -87,7 +87,7 @@ class DimSum with ChangeNotifier {
 
   List<Dish> get categories {
     final tags = _categories.map((tag) => dish(tag)).toList();
- //   tags.removeWhere((item) => item == null);
+    //   tags.removeWhere((item) => item == null);
     return tags;
   }
 
@@ -117,26 +117,30 @@ class DimSum with ChangeNotifier {
   }
 
   void addFavorite(Dish dish) async {
-    favorites.add(dish);
-    final db = await database();
-    await db.insert(
-      table,
-      {'name': dish.word.id},
-      conflictAlgorithm: ConflictAlgorithm.replace,
-    );
-    notifyListeners();
+    if (!isFavorite(dish)) {
+      favorites.add(dish);
+      final db = await database();
+      await db.insert(
+        table,
+        {'name': dish.word.id},
+        conflictAlgorithm: ConflictAlgorithm.replace,
+      );
+      notifyListeners();
+    }
   }
 
   void removeFavorite(Dish dish) async {
-    favorites.remove(dish);
-    final db = await database();
-    await db.delete(
-      table,
-      where: 'name = ?',
-      // Pass the id as a whereArg to prevent SQL injection.
-      whereArgs: [dish.word.id],
-    );
-    notifyListeners();
+    if (isFavorite(dish)) {
+      favorites.remove(dish);
+      final db = await database();
+      await db.delete(
+        table,
+        where: 'name = ?',
+        // Pass the id as a whereArg to prevent SQL injection.
+        whereArgs: [dish.word.id],
+      );
+      notifyListeners();
+    }
   }
 
   void _loadFavorites() async {
