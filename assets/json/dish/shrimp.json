@@ -49,10 +49,6 @@
         ],
         "Resources": [
             {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2017/05/walnut-shrimp/"
-            },
-            {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/honey-walnut-shrimp--266802669134662-heacutetaacuteo-xi257.html"
             },
@@ -67,6 +63,10 @@
             {
                 "name": "Kirbie's Cravings",
                 "URL": "https://kirbiecravings.com/honey-walnut-shrimp/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2017/05/walnut-shrimp/"
             }
            
         ]
