@@ -36,6 +36,7 @@ dependencies:
   provider:
   flutter_riverpod:
   flutter_tts:
+  fluttertoast:
   freezed_annotation:
   json_annotation:
   path:

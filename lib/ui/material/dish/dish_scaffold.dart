@@ -4,13 +4,13 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:share/share.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import 'package:fluttertoast/fluttertoast.dart';
+
 import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/provider/dimsum.dart';
-
 import 'package:talkdimsum/ui/common/error_text.dart';
 
 import '../progress.dart';
-
 import 'dish_widget.dart';
 
 // https://flutterrdart.com/flutter-popup-menu-button-example/
@@ -30,11 +30,27 @@ class DishScaffold extends StatelessWidget {
                   ? FloatingActionButton(
                       onPressed: () {
                         _.value.removeFavorite(dish);
+                         Fluttertoast.showToast(
+                            msg: "Removed from favorites",
+                            toastLength: Toast.LENGTH_SHORT,
+                            gravity: ToastGravity.CENTER,
+                            timeInSecForIosWeb: 1,
+                            backgroundColor: Colors.red,
+                            textColor: Colors.white,
+                            fontSize: 16.0);
                       },
                       child: Icon(Icons.favorite))
                   : FloatingActionButton(
                       onPressed: () {
                         _.value.addFavorite(dish);
+                        Fluttertoast.showToast(
+                            msg: "Added to favorites",
+                            toastLength: Toast.LENGTH_SHORT,
+                            gravity: ToastGravity.CENTER,
+                            timeInSecForIosWeb: 1,
+                            backgroundColor: Colors.red,
+                            textColor: Colors.white,
+                            fontSize: 16.0);
                       },
                       child: Icon(Icons.favorite_border)),
               appBar: AppBar(
