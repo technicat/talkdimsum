@@ -116,7 +116,7 @@ class DimSum with ChangeNotifier {
     return favorites.contains(dish);
   }
 
-  void addFavorite(Dish dish) async {
+  addFavorite(Dish dish) async {
     if (!isFavorite(dish)) {
       favorites.add(dish);
       final db = await database();
@@ -129,7 +129,7 @@ class DimSum with ChangeNotifier {
     }
   }
 
-  void removeFavorite(Dish dish) async {
+  removeFavorite(Dish dish) async {
     if (isFavorite(dish)) {
       favorites.remove(dish);
       final db = await database();
@@ -143,7 +143,7 @@ class DimSum with ChangeNotifier {
     }
   }
 
-  void _loadFavorites() async {
+  _loadFavorites() async {
     final db = await database();
     final maps = await db.query(table);
     favorites = maps
