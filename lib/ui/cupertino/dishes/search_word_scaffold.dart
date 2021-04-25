@@ -18,9 +18,10 @@ class SearchWordScaffold extends StatelessWidget {
 class SearchWord extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
+    return Text('placeholder');
+    /*   return Consumer(builder: (context, watch, child) {
       return watch(dimsumProvider).map(
-          data: (_) => CupertinoSearch<Word>(
+          data: (_) => <Word>(
               results: _.value.dishWords
                   .toSet()
                   .map((word) => CupertinoSearchResult<Word>(
@@ -47,6 +48,6 @@ class SearchWord extends StatelessWidget {
               }),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
-    });
+    }); */
   }
 }

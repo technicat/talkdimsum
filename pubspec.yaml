@@ -55,11 +55,13 @@ dependencies:
  # store_redirect:
 
   cupertino_search:
-    git: 
-      url: git://github.com/technicat/cupertino_search.git
+    path: ../cupertino_search
+#    git: 
+#      url: git://github.com/technicat/cupertino_search.git
   material_search:
-    git: 
-      url: git://github.com/technicat/material_search.git
+    path: ../material_search
+#    git: 
+#      url: git://github.com/technicat/material_search.git
 
 # flutter pub run build_runner build --delete-conflicting-outputs
 
