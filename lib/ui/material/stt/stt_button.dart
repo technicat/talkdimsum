@@ -10,7 +10,7 @@ import 'package:talkdimsum/core/provider/stt.dart';
 class STTButton extends StatelessWidget {
   final Word word;
 
-  STTButton({Key key, @required this.word}) : super(key: key);
+  STTButton({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

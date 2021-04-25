@@ -10,7 +10,7 @@ import 'package:talkdimsum/ui/common/place/place_widget.dart';
 class PlacesListView extends StatelessWidget {
   final Region region;
 
-  PlacesListView({Key key, @required this.region}) : super(key: key);
+  PlacesListView({Key? key, required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -25,7 +25,7 @@ class PlaceRow extends StatelessWidget {
   final Region region;
   final Place place;
 
-  PlaceRow({Key key, @required this.region, this.place}) : super(key: key);
+  PlaceRow({Key? key, required this.region, required this.place}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

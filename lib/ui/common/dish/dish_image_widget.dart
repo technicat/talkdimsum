@@ -7,7 +7,7 @@ import 'package:talkdimsum/core/model/dish.dart';
 class DishImageWidget extends StatelessWidget {
   final Dish dish;
 
-  DishImageWidget({Key key, @required this.dish}) : super(key: key);
+  DishImageWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -21,7 +21,7 @@ class DishImageWidget extends StatelessWidget {
 class DishTapImageWidget extends StatelessWidget {
   final Dish dish;
 
-  DishTapImageWidget({Key key, @required this.dish}) : super(key: key);
+  DishTapImageWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

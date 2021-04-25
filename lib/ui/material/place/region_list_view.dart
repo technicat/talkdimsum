@@ -11,7 +11,7 @@ import 'place_list_widget.dart';
 class RegionListView extends StatelessWidget {
   final Country country;
 
-  RegionListView({Key key, @required this.country}) : super(key: key);
+  RegionListView({Key? key, required this.country}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -26,7 +26,7 @@ class RegionListView extends StatelessWidget {
 class RegionTile extends StatelessWidget {
   final Region region;
 
-  RegionTile({Key key, @required this.region}) : super(key: key);
+  RegionTile({Key? key, required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

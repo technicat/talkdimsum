@@ -8,7 +8,7 @@ import 'package:talkdimsum/ui/cupertino/word/word_widget.dart';
 class BubbleOther extends Bubble {
   final Word word;
 
-  BubbleOther({Key key, @required this.word}) : super();
+  BubbleOther({Key? key, required this.word}) : super();
 
   @override
   Widget build(BuildContext context) {
@@ -33,7 +33,7 @@ class BubbleOther extends Bubble {
 class BubbleMe extends Bubble {
   final Word word;
 
-  BubbleMe({Key key, @required this.word}) : super();
+  BubbleMe({Key? key, required this.word}) : super();
 
   @override
   Widget build(BuildContext context) {

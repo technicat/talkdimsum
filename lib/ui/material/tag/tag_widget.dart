@@ -6,7 +6,7 @@ import 'package:talkdimsum/ui/material/dishes/word_dishes_scaffold.dart';
 class TagWidget extends StatelessWidget {
   final Word tag;
 
-  TagWidget({Key key, @required this.tag}) : super(key: key);
+  TagWidget({Key? key, required this.tag}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

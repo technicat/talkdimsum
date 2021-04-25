@@ -5,7 +5,7 @@ import 'package:talkdimsum/core/model/dish.dart';
 class DishDescriptionWidget extends StatelessWidget {
   final Dish dish;
 
-  DishDescriptionWidget({Key key, @required this.dish}) : super(key: key);
+  DishDescriptionWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

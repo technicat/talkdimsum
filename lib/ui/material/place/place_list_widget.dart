@@ -9,7 +9,7 @@ import 'package:talkdimsum/core/model/region.dart';
 class PlaceScaffold extends StatelessWidget {
   final Region region;
 
-  PlaceScaffold({Key key, @required this.region}) : super(key: key);
+  PlaceScaffold({Key? key, required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -22,7 +22,7 @@ class PlaceScaffold extends StatelessWidget {
 class PlaceList extends StatelessWidget {
   final Region region;
 
-  PlaceList({Key key, @required this.region}) : super(key: key);
+  PlaceList({Key? key, required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -38,7 +38,7 @@ class PlaceTile extends StatelessWidget {
   final Region region;
   final Place place;
 
-  PlaceTile({Key key, @required this.region, this.place}) : super(key: key);
+  PlaceTile({Key? key, required this.region, required this.place}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -82,7 +82,7 @@ class PlaceTile extends StatelessWidget {
 class PlaceCityTile extends StatelessWidget {
   final Place place;
 
-  PlaceCityTile({Key key, @required this.place}) : super(key: key);
+  PlaceCityTile({Key? key, required this.place}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

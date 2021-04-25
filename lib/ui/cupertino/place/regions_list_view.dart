@@ -9,7 +9,7 @@ import 'region_button.dart';
 class RegionsListView extends StatelessWidget {
   final Country country;
 
-  RegionsListView({Key key, @required this.country}) : super(key: key);
+  RegionsListView({Key? key, required this.country}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

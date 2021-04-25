@@ -8,7 +8,7 @@ import 'package:talkdimsum/core/provider/settings.dart';
 class PronounceText extends StatelessWidget {
   final Word word;
 
-  PronounceText({Key key, @required this.word}) : super(key: key);
+  PronounceText({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

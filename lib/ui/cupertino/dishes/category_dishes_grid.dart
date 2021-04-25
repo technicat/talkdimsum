@@ -7,7 +7,7 @@ import 'word_dishes_scaffold.dart';
 class CategoryDishesGrid extends StatelessWidget {
   final List<Dish> dishes;
 
-  CategoryDishesGrid({Key key, @required this.dishes}) : super(key: key);
+  CategoryDishesGrid({Key? key, required this.dishes}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -24,7 +24,7 @@ class CategoryDishesGrid extends StatelessWidget {
 class CategoryDishWidget extends StatelessWidget {
   final Dish dish;
 
-  CategoryDishWidget({Key key, @required this.dish}) : super(key: key);
+  CategoryDishWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

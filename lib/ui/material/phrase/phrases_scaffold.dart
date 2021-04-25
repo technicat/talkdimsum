@@ -17,7 +17,7 @@ class PhrasesScaffold extends StatefulWidget {
 }
 
 class ScaffoldPhrasesState extends State<PhrasesScaffold> {
-  Phrases phrases;
+  Phrases? phrases;
 
   @override
   Widget build(BuildContext context) {
@@ -30,7 +30,7 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
             }
             return Scaffold(
                 appBar: AppBar(
-                    title: phrases == null ? Text('') : Text(phrases.name),
+                    title: phrases == null ? Text('') : Text(phrases!.name),
                     actions: [
                       PopupMenuButton<Phrases>(
                         icon: Icon(Icons.menu),
@@ -47,7 +47,7 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
                     ]),
                 body: phrases == null
                     ? Progress()
-                    : PhrasesListView(phrases: phrases));
+                    : PhrasesListView(phrases: phrases!));
           },
           loading: (_) => Scaffold(
               appBar: AppBar(title: Text('Phrases')),

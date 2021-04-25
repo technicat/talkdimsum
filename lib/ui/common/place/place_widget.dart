@@ -7,7 +7,7 @@ import 'package:talkdimsum/core/model/place.dart';
 class PlaceWidget extends StatelessWidget {
   final Place place;
 
-  PlaceWidget({Key key, @required this.place}) : super(key: key);
+  PlaceWidget({Key? key, required this.place}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

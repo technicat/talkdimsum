@@ -9,7 +9,7 @@ import 'package:talkdimsum/ui/common/error_text.dart';
 class FavoriteButton extends StatelessWidget {
   final Dish dish;
 
-  FavoriteButton({Key key, @required this.dish}) : super(key: key);
+  FavoriteButton({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -12,7 +12,7 @@ import 'tags_row.dart';
 class DishWidget extends StatelessWidget {
   final Dish dish;
 
-  DishWidget({Key key, @required this.dish}) : super(key: key);
+  DishWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

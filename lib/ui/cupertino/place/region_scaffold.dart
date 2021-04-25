@@ -9,7 +9,7 @@ import 'places_list_view.dart';
 class RegionScaffold extends StatelessWidget {
   final Region region;
 
-  RegionScaffold({Key key, @required this.region}) : super(key: key);
+  RegionScaffold({Key? key, required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

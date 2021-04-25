@@ -10,7 +10,7 @@ import 'dishes_grid.dart';
 class WordDishesGrid extends StatelessWidget {
   final Word word;
 
-  WordDishesGrid({Key key, @required this.word}) : super(key: key);
+  WordDishesGrid({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -9,7 +9,7 @@ import 'bubbles.dart';
 class PhrasesListView extends StatelessWidget {
   final Phrases phrases;
 
-  PhrasesListView({Key key, @required this.phrases}) : super(key: key);
+  PhrasesListView({Key? key, required this.phrases}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

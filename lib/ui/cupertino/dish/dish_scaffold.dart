@@ -7,7 +7,7 @@ import 'dish_widget.dart';
 class DishScaffold extends StatelessWidget {
   final Dish dish;
 
-  DishScaffold({Key key, @required this.dish}) : super(key: key);
+  DishScaffold({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

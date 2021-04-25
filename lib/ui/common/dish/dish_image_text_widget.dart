@@ -7,7 +7,7 @@ import 'dish_image_widget.dart';
 class DishImageTextWidget extends StatelessWidget {
   final Dish dish;
 
-  DishImageTextWidget({Key key, @required this.dish}) : super(key: key);
+  DishImageTextWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

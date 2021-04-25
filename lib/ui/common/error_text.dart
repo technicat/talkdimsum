@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 class ErrorText extends StatelessWidget {
   final Object error;
 
-  ErrorText({Key key, @required this.error}) : super();
+  ErrorText({Key? key, required this.error}) : super();
 
   @override
   Widget build(BuildContext context) {

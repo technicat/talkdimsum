@@ -18,7 +18,7 @@ class CountryScaffold extends StatefulWidget {
 }
 
 class CountryScaffoldState extends State<CountryScaffold> {
-  Country country;
+  Country? country;
 
   @override
   Widget build(BuildContext context) {
@@ -31,7 +31,7 @@ class CountryScaffoldState extends State<CountryScaffold> {
             } else {
               country ??= _.value.countries[0];
               return Scaffold(
-                  appBar: AppBar(title: Text(country.name), actions: <Widget>[
+                  appBar: AppBar(title: Text(country!.name), actions: <Widget>[
                     PopupMenuButton<Country>(
                       icon: Icon(Icons.public),
                       onSelected: (value) {
@@ -45,7 +45,7 @@ class CountryScaffoldState extends State<CountryScaffold> {
                           .toList(),
                     )
                   ]),
-                  body: RegionListView(country: country));
+                  body: RegionListView(country: country!));
             }
           },
           loading: (_) => Scaffold(

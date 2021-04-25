@@ -14,7 +14,7 @@ import 'package:talkdimsum/ui/material/stt/stt_widget.dart';
 class PracticeWidget extends StatelessWidget {
   final Word word;
 
-  PracticeWidget({Key key, @required this.word}) : super(key: key);
+  PracticeWidget({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

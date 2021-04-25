@@ -14,7 +14,7 @@ class LanguageDropdown extends StatelessWidget {
         icon: Icon(Icons.language),
         value: settings.language,
         onChanged: (value) {
-          settings.language = value;
+          settings.language = value!;
         },
         // should map Chinese.values
         items: Chinese.values.map((value) => 

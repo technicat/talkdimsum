@@ -9,7 +9,7 @@ import 'region_scaffold.dart';
 class RegionButton extends StatelessWidget {
   final Region region;
 
-  RegionButton({Key key, @required this.region}) : super(key: key);
+  RegionButton({Key? key, required this.region}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
