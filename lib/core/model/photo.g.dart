@@ -7,6 +7,7 @@ part of 'photo.dart';
 // **************************************************************************
 
 Photo _$PhotoFromJson(Map<String, dynamic> json) {
+  $checkKeys(json, requiredKeys: const ['image']);
   return Photo(
     json['image'] as String,
     json['place'] as String?,

@@ -11,8 +11,10 @@ part 'region.g.dart';
 
 @JsonSerializable()
 class Region {
+  @JsonKey(required: true)
   final String name;
   //final double zoom;
+  @JsonKey(defaultValue: [])
   final List<Place> places;
 
   double get minzoom {

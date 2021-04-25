@@ -4,7 +4,7 @@ part 'photo.g.dart';
 
 @JsonSerializable()
 class Photo {
-  @JsonKey(name: 'image')
+  @JsonKey(name: 'image', required: true)
   final String name;
   final String? place;
 

@@ -7,6 +7,8 @@ part of 'word.dart';
 // **************************************************************************
 
 Word _$WordFromJson(Map<String, dynamic> json) {
+  $checkKeys(json,
+      requiredKeys: const ['Chinese', 'English', 'Yale', 'Pinyin']);
   return Word(
     json['Chinese'] as String,
     json['Mandarin'] as String?,
@@ -15,8 +17,9 @@ Word _$WordFromJson(Map<String, dynamic> json) {
     json['Yale'] as String,
     json['Pinyin'] as String,
     (json['Resources'] as List<dynamic>?)
-        ?.map((e) => Link.fromJson(e as Map<String, dynamic>))
-        .toList(),
+            ?.map((e) => Link.fromJson(e as Map<String, dynamic>))
+            .toList() ??
+        [],
   );
 }
 

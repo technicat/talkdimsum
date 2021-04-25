@@ -10,12 +10,13 @@ part 'place.g.dart';
 
 @JsonSerializable()
 class Place {
-   @JsonKey(name: 'title')
+  @JsonKey(name: 'title', required: true)
   final String name;
   final double lat;
   final double lon;
   final String city;
   final String address;
+  @JsonKey(defaultValue: [])
   final List<Link> links;
 
   Place(this.name, this.lat, this.lon, this.city, this.links, this.address);

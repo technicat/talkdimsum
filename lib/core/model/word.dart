@@ -17,20 +17,20 @@ class Word {
     return word;
   }
 
-  @JsonKey(name: 'Chinese')
+  @JsonKey(name: 'Chinese', required: true)
   final String cantonese;
   @JsonKey(name: 'Mandarin')
   final String? mandarin;
   @JsonKey(name: 'Simplified')
   final String? simplified;
-  @JsonKey(name: 'English')
+  @JsonKey(name: 'English', required: true)
   final String english;
-  @JsonKey(name: 'Yale')
+  @JsonKey(name: 'Yale', required: true)
   final String yale;
-  @JsonKey(name: 'Pinyin')
+  @JsonKey(name: 'Pinyin', required: true)
   final String pinyin;
-  @JsonKey(name: 'Resources')
-  final List<Link>? resources;
+  @JsonKey(name: 'Resources', defaultValue: [])
+  final List<Link> resources;
 
   Word(this.cantonese, this.mandarin, this.simplified, this.english, this.yale,
       this.pinyin, this.resources);

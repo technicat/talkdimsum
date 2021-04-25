@@ -66,12 +66,10 @@ class DishScaffold extends StatelessWidget {
                         launch(value);
                       },
                       itemBuilder: (BuildContext context) {
-                        return dish.word.resources == null
-                            ? []
-                            : dish.word.resources!
-                                .map((link) => PopupMenuItem<String>(
-                                    value: link.url, child: Text(link.name)))
-                                .toList();
+                        return dish.word.resources
+                            .map((link) => PopupMenuItem<String>(
+                                value: link.url, child: Text(link.name)))
+                            .toList();
                       },
                     ),
                     PopupMenuButton<String>(
