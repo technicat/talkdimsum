@@ -31,7 +31,7 @@ class DimSum with ChangeNotifier {
     return dish;
   }
 
-  Dish dish(String name) {
+  Dish? dish(String name) {
     return _dishMap[name];
   }
 

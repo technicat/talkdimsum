@@ -16,12 +16,13 @@ class Word {
     Word.words[word.cantonese] = word;
     return word;
   }
+
   @JsonKey(name: 'Chinese')
   final String cantonese;
   @JsonKey(name: 'Mandarin')
-  final String mandarin;
+  final String? mandarin;
   @JsonKey(name: 'Simplified')
-  final String simplified;
+  final String? simplified;
   @JsonKey(name: 'English')
   final String english;
   @JsonKey(name: 'Yale')
@@ -39,7 +40,7 @@ class Word {
   Map<String, dynamic> toJson() => _$WordToJson(this);
 
   String chineseText([Chinese lang = Chinese.Cantonese]) {
-    assert(cantonese != null, 'word for $english has no Cantonese!');
+    // assert(cantonese != null, 'word for $english has no Cantonese!');
     switch (lang) {
       case Chinese.Cantonese:
         return cantonese;
@@ -53,13 +54,13 @@ class Word {
   }
 
   String get id {
-    assert(cantonese != null, 'word for $english has no Cantonese!');
+    // assert(cantonese != null, 'word for $english has no Cantonese!');
     return cantonese;
   }
 
   String pronunciation([Chinese lang = Chinese.Cantonese]) {
-    assert(yale != null, 'word for $english has no Yale!');
-    assert(pinyin != null, 'word for $english has no Pinyin!');
+    //assert(yale != null, 'word for $english has no Yale!');
+    //assert(pinyin != null, 'word for $english has no Pinyin!');
     switch (lang) {
       case Chinese.Cantonese:
         return yale;

@@ -13,7 +13,7 @@ final settingsProvider = Provider((ref) {
 }); */
 
 class Settings with ChangeNotifier {
-  SharedPreferences prefs;
+  late final SharedPreferences prefs;
 
   Settings() {
     _load();
@@ -21,7 +21,8 @@ class Settings with ChangeNotifier {
 
   void _load() async {
     prefs = await SharedPreferences.getInstance();
-    language = Chinese.values[prefs.getInt('language')] ?? Chinese.Cantonese;
+    language =
+        Chinese.values[prefs.getInt('language') ?? Chinese.Cantonese.index];
     speed = prefs.getDouble('speed') ?? 0.5;
   }
 
