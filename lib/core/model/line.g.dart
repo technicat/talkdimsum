@@ -9,10 +9,9 @@ part of 'line.dart';
 Line _$LineFromJson(Map<String, dynamic> json) {
   return Line(
     json['name'] as String,
-    (json['words'] as List)
-        ?.map(
-            (e) => e == null ? null : Word.fromJson(e as Map<String, dynamic>))
-        ?.toList(),
+    (json['words'] as List<dynamic>)
+        .map((e) => Word.fromJson(e as Map<String, dynamic>))
+        .toList(),
   );
 }
 

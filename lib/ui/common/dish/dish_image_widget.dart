@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-import 'package:flushbar/flushbar.dart';
+//import 'package:flushbar/flushbar.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 
@@ -27,11 +27,11 @@ class DishTapImageWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
         onTap: () {
-          Flushbar(
+          /*       Flushbar(
             title: 'Photo taken at',
             message: dish.images[0].place,
             duration: Duration(seconds: 3),
-          )..show(context);
+          )..show(context); */
         },
         child: DishImageWidget(dish: dish));
   }

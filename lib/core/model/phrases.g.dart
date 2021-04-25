@@ -9,10 +9,9 @@ part of 'phrases.dart';
 Phrases _$PhrasesFromJson(Map<String, dynamic> json) {
   return Phrases(
     json['name'] as String,
-    (json['lines'] as List)
-        ?.map(
-            (e) => e == null ? null : Line.fromJson(e as Map<String, dynamic>))
-        ?.toList(),
+    (json['lines'] as List<dynamic>)
+        .map((e) => Line.fromJson(e as Map<String, dynamic>))
+        .toList(),
   );
 }
 

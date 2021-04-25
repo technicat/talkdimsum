@@ -14,10 +14,9 @@ Word _$WordFromJson(Map<String, dynamic> json) {
     json['English'] as String,
     json['Yale'] as String,
     json['Pinyin'] as String,
-    (json['Resources'] as List)
-        ?.map(
-            (e) => e == null ? null : Link.fromJson(e as Map<String, dynamic>))
-        ?.toList(),
+    (json['Resources'] as List<dynamic>)
+        .map((e) => Link.fromJson(e as Map<String, dynamic>))
+        .toList(),
   );
 }
 

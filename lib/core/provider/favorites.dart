@@ -9,7 +9,9 @@ import 'package:sqflite/sqflite.dart';
 import 'package:talkdimsum/core/model/dish.dart';
 import 'dimsum.dart';
 
-class Favorites with ChangeNotifier {
+class Favorites extends StateNotifier<List<Dish>> {
+  Favorites([List<Dish>? initialTodos]) : super(initialTodos ?? []);
+
   static const table = 'favorites';
 
   List<Dish> favorites = [];

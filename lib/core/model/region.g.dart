@@ -9,10 +9,9 @@ part of 'region.dart';
 Region _$RegionFromJson(Map<String, dynamic> json) {
   return Region(
     json['name'] as String,
-    (json['places'] as List)
-        ?.map(
-            (e) => e == null ? null : Place.fromJson(e as Map<String, dynamic>))
-        ?.toList(),
+    (json['places'] as List<dynamic>)
+        .map((e) => Place.fromJson(e as Map<String, dynamic>))
+        .toList(),
   );
 }
 

@@ -32,7 +32,6 @@ void main() async {
 // https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
 
 class MainApp extends StatelessWidget {
- 
   @override
   Widget build(BuildContext context) {
     Widget app;
@@ -73,7 +72,7 @@ void registerNotifications() async {
 
   if (settings.authorizationStatus == AuthorizationStatus.authorized) {
     print('User granted permission');
-    String token = await messaging.getToken();
+    String? token = await messaging.getToken();
     print(token);
   } else if (settings.authorizationStatus == AuthorizationStatus.provisional) {
     print('User granted provisional permission');
@@ -81,9 +80,7 @@ void registerNotifications() async {
     print('User declined or has not accepted permission');
   }
 
-     // FirebaseMessaging.instance.onTokenRefresh.listen(saveTokenToDatabase);
+  // FirebaseMessaging.instance.onTokenRefresh.listen(saveTokenToDatabase);
 
   // print('User granted permission: ${settings.authorizationStatus}');
 }
-
-

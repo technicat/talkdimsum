@@ -19,7 +19,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.2+7
 
 environment:
-  sdk: ">=2.11.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.2.0"
 
 dependencies:
@@ -37,7 +37,7 @@ dependencies:
   flutter_riverpod:
   flutter_tts:
   fluttertoast:
-  freezed_annotation:
+#  freezed_annotation:
   json_annotation:
   path:
   path_provider:
@@ -46,13 +46,13 @@ dependencies:
   shared_preferences:
   speech_to_text:
   bubble:
-  flushbar:
+ # flushbar:
   sprintf:
   sqflite:
   url_launcher:
   firebase_core:
   firebase_messaging:
-  store_redirect:
+ # store_redirect:
 
   cupertino_search:
     git: 
@@ -61,15 +61,17 @@ dependencies:
     git: 
       url: git://github.com/technicat/material_search.git
 
+# flutter pub run build_runner build --delete-conflicting-outputs
+
 dev_dependencies:
-  integration_test:
-    sdk: flutter
+#  integration_test:
+#    sdk: flutter
   flutter_launcher_icons:
-  flutter_launcher_name:
+#  flutter_launcher_name:
   auto_route_generator:
-  build_runner:
+#  build_runner:
   json_serializable:
-  freezed:
+#  freezed:
 
 # flutter pub run flutter_launcher_icons:main
 flutter_icons:

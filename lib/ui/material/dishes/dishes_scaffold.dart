@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:store_redirect/store_redirect.dart'; 
+//import 'package:store_redirect/store_redirect.dart';
 
 import 'categories_grid.dart';
 import 'favorites_grid.dart';
@@ -52,15 +52,15 @@ class DishesScaffold extends StatelessWidget {
                 launch('http://technicat.com');
               },
             ),
-          
             ListTile(
               title: Text('Google Play'),
               onTap: () {
-               // launch('https://play.google.com/store/apps/details?id=com.technicat.talkdimsum');
-               StoreRedirect.redirect();
+                launch(
+                    'https://play.google.com/store/apps/details?id=com.technicat.talkdimsum');
+                // StoreRedirect.redirect();
               },
             ),
-        /*     ListTile(
+            /*     ListTile(
               title: Text('Icons8'),
               onTap: () {
                 launch('https://icons8.com/');
