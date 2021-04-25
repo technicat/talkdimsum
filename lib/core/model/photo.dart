@@ -6,12 +6,11 @@ part 'photo.g.dart';
 class Photo {
   @JsonKey(name: 'image')
   final String name;
-  final String place;
+  final String? place;
 
   Photo(this.name, this.place);
 
   factory Photo.fromJson(Map<String, dynamic> json) => _$PhotoFromJson(json);
 
   Map<String, dynamic> toJson() => _$PhotoToJson(this);
-
 }

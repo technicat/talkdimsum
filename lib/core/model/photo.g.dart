@@ -9,7 +9,7 @@ part of 'photo.dart';
 Photo _$PhotoFromJson(Map<String, dynamic> json) {
   return Photo(
     json['image'] as String,
-    json['place'] as String,
+    json['place'] as String?,
   );
 }
 

@@ -86,7 +86,8 @@ class DimSum with ChangeNotifier {
   }
 
   List<Dish> get categories {
-    final tags = _categories.map((tag) => dish(tag)).where((item) => item == null);
+    final tags =
+        _categories.map((tag) => dish(tag)).where((item) => item == null);
     return tags.toList() as List<Dish>;
   }
 
@@ -146,7 +147,7 @@ class DimSum with ChangeNotifier {
     final db = await database();
     final maps = await db.query(table);
     favorites = maps
-        .map((map) => dish(map['name']))
+        .map((map) => dish(map['name'] as String))
         .where((dish) => dish != null)
         .toList() as List<Dish>;
     notifyListeners();

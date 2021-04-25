@@ -9,13 +9,13 @@ part of 'word.dart';
 Word _$WordFromJson(Map<String, dynamic> json) {
   return Word(
     json['Chinese'] as String,
-    json['Mandarin'] as String,
-    json['Simplified'] as String,
+    json['Mandarin'] as String?,
+    json['Simplified'] as String?,
     json['English'] as String,
     json['Yale'] as String,
     json['Pinyin'] as String,
-    (json['Resources'] as List<dynamic>)
-        .map((e) => Link.fromJson(e as Map<String, dynamic>))
+    (json['Resources'] as List<dynamic>?)
+        ?.map((e) => Link.fromJson(e as Map<String, dynamic>))
         .toList(),
   );
 }

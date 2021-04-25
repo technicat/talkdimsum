@@ -30,7 +30,7 @@ class Word {
   @JsonKey(name: 'Pinyin')
   final String pinyin;
   @JsonKey(name: 'Resources')
-  final List<Link> resources;
+  final List<Link>? resources;
 
   Word(this.cantonese, this.mandarin, this.simplified, this.english, this.yale,
       this.pinyin, this.resources);
