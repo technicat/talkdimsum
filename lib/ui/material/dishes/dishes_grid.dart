@@ -9,7 +9,7 @@ import 'package:talkdimsum/ui/material/dish/dish_scaffold.dart';
 class DishesGrid extends StatelessWidget {
   final List<Dish> dishes;
 
-  DishesGrid({Key key, @required this.dishes}) : super(key: key);
+  DishesGrid({Key? key, required this.dishes}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -29,7 +29,7 @@ class DishesGrid extends StatelessWidget {
 class DishCardCellWidget extends StatelessWidget {
   final Dish dish;
 
-  DishCardCellWidget({Key key, @required this.dish}) : super(key: key);
+  DishCardCellWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -9,7 +9,7 @@ import 'word_dishes_scaffold.dart';
 class CategoryDishesGrid extends StatelessWidget {
   final List<Dish> dishes;
 
-  CategoryDishesGrid({Key key, @required this.dishes}) : super(key: key);
+  CategoryDishesGrid({Key? key, required this.dishes}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -27,7 +27,7 @@ class CategoryDishesGrid extends StatelessWidget {
 class CategoryCellWidget extends StatelessWidget {
   final Dish dish;
 
-  CategoryCellWidget({Key key, @required this.dish}) : super(key: key);
+  CategoryCellWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

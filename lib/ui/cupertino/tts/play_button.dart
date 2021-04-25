@@ -10,7 +10,7 @@ import 'package:talkdimsum/core/provider/settings.dart';
 class PlayButton extends StatelessWidget {
   final Word word;
 
-  PlayButton({Key key, @required this.word}) : super(key: key);
+  PlayButton({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -8,7 +8,7 @@ import 'package:talkdimsum/core/provider/settings.dart';
 class ChineseText extends StatelessWidget {
   final Word word;
 
-  ChineseText({Key key, @required this.word}) : super(key: key);
+  ChineseText({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

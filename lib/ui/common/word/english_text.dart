@@ -5,7 +5,7 @@ import 'package:talkdimsum/core/model/word.dart';
 class EnglishText extends StatelessWidget {
   final Word word;
 
-  EnglishText({Key key, @required this.word}) : super(key: key);
+  EnglishText({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

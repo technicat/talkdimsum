@@ -16,7 +16,7 @@ class App extends StatelessWidget {
     return CupertinoApp(
      // onGenerateRoute: _appRouter,
       title: 'Talk Dim Sum',
-      builder: (BuildContext context, Widget widget) => NavigationBar(),
+      builder: (BuildContext context, Widget? widget) => NavigationBar(),
     );
   }
 }

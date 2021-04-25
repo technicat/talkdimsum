@@ -47,7 +47,7 @@ class DimSum with ChangeNotifier {
         .map((dish) => dish.tags)
         .expand((pair) => pair)
         .map((tag) => Word.words[tag])
-        .where((word) => word != null));
+        .where((word) => word != null) as Iterable<Word>);
     return words;
   }
 
@@ -86,9 +86,8 @@ class DimSum with ChangeNotifier {
   }
 
   List<Dish> get categories {
-    final tags = _categories.map((tag) => dish(tag)).toList();
-    //   tags.removeWhere((item) => item == null);
-    return tags;
+    final tags = _categories.map((tag) => dish(tag)).where((item) => item == null);
+    return tags.toList() as List<Dish>;
   }
 
   static const table = 'favorites';
@@ -149,7 +148,7 @@ class DimSum with ChangeNotifier {
     favorites = maps
         .map((map) => dish(map['name']))
         .where((dish) => dish != null)
-        .toList();
+        .toList() as List<Dish>;
     notifyListeners();
   }
 }

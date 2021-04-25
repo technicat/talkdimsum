@@ -9,7 +9,7 @@ import 'package:talkdimsum/ui/cupertino/dish/practice_button.dart';
 class SpeechWidget extends StatelessWidget {
   final Word word;
 
-  SpeechWidget({Key key, @required this.word}) : super(key: key);
+  SpeechWidget({Key? key, required this.word}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
