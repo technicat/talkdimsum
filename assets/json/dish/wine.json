@@ -1,80 +1,79 @@
-
 [
-
-
   {
-    "words":
-    [
-    {
-      "Chinese":"酒",
-      "English":"liquor",
-      "Yale": "jáu",
-      "Pinyin":"jiǔ",
-      "Resources":
-        [
-            {"name":"酒","URL":"https://en.wiktionary.org/wiki/酒"}
-       ]
-    }
-    ],
-    "images":
-    [
-        {
-            "image":"liquor",
-            "place":"Technicat, Las Vegas, Nevada"
-        }
-    ],
-    "Description":
-        "酒 refers to any alcoholic drink, but China has its own long history of liquor, including wine and beer.\n\nLooking at the components of the character 酒, 氵 is the radical for “water,” so if you see this on a character, it probably has to do with something liquid, and 酉 resembles a wine vessel.\n\n酒 is also the Japanese (kanji) for sake.",
-       "Tags":
-       [
-          "酒",
-          "飲品"
-        ],
-       "Resources":
-        [
-            {"name":"Wikipedia",
-              "URL":"https://en.wikipedia.org/wiki/Alcoholic_drinks_in_China"}
-       ]
-    },
-
-    {
-      "words":
-      [
+    "words": [
       {
-  
-        "Chinese":"白酒",
-        "Simplified":"白酒",
-        "English":"white wine",
-        "Yale": "baahk jáu",
-        "Pinyin":"bá jiǔ",
-        "Resources":
-         [
-            {"name":"白酒","URL":"https://en.wiktionary.org/wiki/白酒"},
-            {"name":"白","URL":"https://en.wiktionary.org/wiki/白"},
-            {"name":"酒","URL":"https://en.wiktionary.org/wiki/酒"}
-         ]
-    }
-      ],
-      "images":
-      [
+        "Chinese": "酒",
+        "English": "liquor",
+        "Yale": "jáu",
+        "Pinyin": "jiǔ",
+        "Resources": [
           {
-              "image":"whitewinesprouts",
-              "place":"Sprouts, Las Vegas, Nevada"
+            "name": "酒",
+            "URL": "https://en.wiktionary.org/wiki/酒"
           }
-      ],
-      "Description":
-          "白 means “white,” and 酒 is “liquor.”",
-         "Tags":
-         [
-            "酒",
-            "白酒",
-            "白色",
-            "飲品"
-          ],
-         "Resources":
-         [
-            {"name":"Wikipedia",
-              "URL":"https://en.wikipedia.org/wiki/White_wine"}
-         ]
+        ]
       }
- ]
+    ],
+    "images": [
+      {
+        "image": "liquor",
+        "place": "Technicat, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "酒 refers to any alcoholic drink, but China has its own long history of liquor, including wine and beer.\n\nLooking at the components of the character 酒, 氵 is the radical for “water,” so if you see this on a character, it probably has to do with something liquid, and 酉 resembles a wine vessel.\n\n酒 is also the Japanese (kanji) for sake.",
+    "Tags": [
+      "酒",
+      "飲品"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Alcoholic_drinks_in_China"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "白酒",
+        "Simplified": "白酒",
+        "English": "white wine",
+        "Yale": "baahk jáu",
+        "Pinyin": "bá jiǔ",
+        "Resources": [
+          {
+            "name": "白酒",
+            "URL": "https://en.wiktionary.org/wiki/白酒"
+          },
+          {
+            "name": "白",
+            "URL": "https://en.wiktionary.org/wiki/白"
+          },
+          {
+            "name": "酒",
+            "URL": "https://en.wiktionary.org/wiki/酒"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "whitewinesprouts",
+        "place": "Sprouts, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "白 means “white,” and 酒 is “liquor.”",
+    "Tags": [
+      "酒",
+      "白酒",
+      "白色",
+      "飲品"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/White_wine"
+      }
+    ]
+  }
+]

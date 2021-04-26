@@ -1,74 +1,76 @@
-
 [
   {
-    "words":
-    [
+    "words": [
       {
         "Chinese": "冰茶",
         "Simplified": "冰茶",
         "English": "ice tea",
         "Yale": "bīng chàh",
         "Pinyin": "bīng chá",
-        "Resources":
-            [
-            {"name":"冰茶","URL":"https://en.wiktionary.org/wiki/冰茶"},
-            {"name":"冰","URL":"https://en.wiktionary.org/wiki/冰"},
-            {"name":"茶","URL":"https://en.wiktionary.org/wiki/茶"}
-            ]
+        "Resources": [
+          {
+            "name": "冰茶",
+            "URL": "https://en.wiktionary.org/wiki/冰茶"
+          },
+          {
+            "name": "冰",
+            "URL": "https://en.wiktionary.org/wiki/冰"
+          },
+          {
+            "name": "茶",
+            "URL": "https://en.wiktionary.org/wiki/茶"
+          }
+        ]
       }
     ],
-    "images":
-    [
-           {
-               "image": "iceteadimsumcafe",
-               "place": "Dim Sum Cafe, Las Vegas, Nevada"
-           }
+    "images": [
+      {
+        "image": "iceteadimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
     ],
-    "Description":
-            "冰 is “ice“,  and 茶 is “tea“, so it's “ice tea.“",
-        "Tags":
-        [
-          "冰茶",
-          "茶",
-          "茶餐廳",
-          "飲品"
-        ],
-    "Resources":
-    [
-        ]
-        },
-
+    "Description": "冰 is “ice“,  and 茶 is “tea“, so it's “ice tea.“",
+    "Tags": [
+      "冰茶",
+      "茶",
+      "茶餐廳",
+      "飲品"
+    ]
+  },
   {
-    "words":
-    [
-    {
-      "Chinese": "冰水",
-      "English": "ice water",
-      "Yale": "bīng séui",
-      "Pinyin": "bīng shuǐ",
-        "Resources":
-            [
-            {"name":"冰水","URL":"https://en.wiktionary.org/wiki/冰水"},
-            {"name":"冰","URL":"https://en.wiktionary.org/wiki/冰"},
-            {"name":"水","URL":"https://en.wiktionary.org/wiki/水"}
-            ]
-    }],
-            "images":
-            [
-           {
-               "image": "waterislandmalaysian",
-               "place": "Island Malaysian, Las Vegas, Nevada"
-           }
-       ],
-    "Description":
-            "冰 is “ice“,  and 水is “water“, so it's “ice water.“",
-        "Tags":
-        [
-          "茶餐廳",
-          "飲品",
-          "水"
-        ],
-    "Resources":[   
+    "words": [
+      {
+        "Chinese": "冰水",
+        "English": "ice water",
+        "Yale": "bīng séui",
+        "Pinyin": "bīng shuǐ",
+        "Resources": [
+          {
+            "name": "冰水",
+            "URL": "https://en.wiktionary.org/wiki/冰水"
+          },
+          {
+            "name": "冰",
+            "URL": "https://en.wiktionary.org/wiki/冰"
+          },
+          {
+            "name": "水",
+            "URL": "https://en.wiktionary.org/wiki/水"
+          }
         ]
-        }
- ]
+      }
+    ],
+    "images": [
+      {
+        "image": "waterislandmalaysian",
+        "place": "Island Malaysian, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "冰 is “ice“,  and 水is “water“, so it's “ice water.“",
+    "Tags": [
+      "茶餐廳",
+      "飲品",
+      "水"
+    ]
+  }
+]

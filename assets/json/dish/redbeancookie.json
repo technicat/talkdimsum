@@ -1,43 +1,54 @@
-
 [
-  
- {
-    "words":[
     {
-     "Chinese" : "豆沙三角餅",
-     "English" :"red bean paste triangle",
-     "Yale": "dauh sā sāam gok béng",
-     "Pinyin" : "dòu shā sān jiǎo bǐng",
-     "Resources":
-        [
-        {"name":"豆沙","URL":"https://en.wiktionary.org/wiki/豆沙"},
-        {"name":"豆","URL":"https://en.wiktionary.org/wiki/豆"},
-        {"name":"沙","URL":"https://en.wiktionary.org/wiki/沙"},
-        {"name":"三角","URL":"https://en.wiktionary.org/wiki/三角"},
-        {"name":"三","URL":"https://en.wiktionary.org/wiki/三"},
-        {"name":"角","URL":"https://en.wiktionary.org/wiki/角"},
-        {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
+        "words": [
+            {
+                "Chinese": "豆沙三角餅",
+                "English": "red bean paste triangle",
+                "Yale": "dauh sā sāam gok béng",
+                "Pinyin": "dòu shā sān jiǎo bǐng",
+                "Resources": [
+                    {
+                        "name": "豆沙",
+                        "URL": "https://en.wiktionary.org/wiki/豆沙"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "沙",
+                        "URL": "https://en.wiktionary.org/wiki/沙"
+                    },
+                    {
+                        "name": "三角",
+                        "URL": "https://en.wiktionary.org/wiki/三角"
+                    },
+                    {
+                        "name": "三",
+                        "URL": "https://en.wiktionary.org/wiki/三"
+                    },
+                    {
+                        "name": "角",
+                        "URL": "https://en.wiktionary.org/wiki/角"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "redbeantrianglediamondbakery",
+                "place": "Diamond Bakery, Las Vegas"
+            }
+        ],
+        "Description": "A red bean paste filled pastry cut into triangles like a pie.\n\n豆 is “bean,” and 沙 is “sand,” so 豆沙 “bean sand,” or, in other words, “bean paste.” The next two characters “三角“ means “triangle“ (literally “three corners,” where 角 is the “gok” used to nam horn-shaped dumpliongs), and the final character 餅 means cookie.",
+        "Tags": [
+            "豆沙",
+            "餅",
+            "甜品"
         ]
- }
- ],
-     "images":
-     [
-        {
-            "image":"redbeantrianglediamondbakery",
-            "place":"Diamond Bakery, Las Vegas"
-        }
-    ],
-     "Description" : 
-        "A red bean paste filled pastry cut into triangles like a pie.\n\n豆 is “bean,” and 沙 is “sand,” so 豆沙 “bean sand,” or, in other words, “bean paste.” The next two characters “三角“ means “triangle“ (literally “three corners,” where 角 is the “gok” used to nam horn-shaped dumpliongs), and the final character 餅 means cookie.",
-     "Tags": 
-     [
-        "豆沙",
-         "餅",
-         "甜品"
-     ],
-     "Resources":
-     [
-         
-     ]
- }
- ]
+    }
+]

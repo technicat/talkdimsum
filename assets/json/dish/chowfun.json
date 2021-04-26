@@ -183,8 +183,7 @@
             "粉",
             "茶餐廳"
         ],
-        "Resources": [
-        ]
+        "Resources": []
     },
     {
         "words": [
@@ -240,7 +239,8 @@
         "Resources": [
             {
                 "name": "Made with Lau",
-                "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"}
+                "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"
+            }
         ]
     }
 ]

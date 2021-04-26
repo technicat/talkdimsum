@@ -72,7 +72,6 @@ class DimSum with ChangeNotifier {
   }
 
   _loadDishList(String path) async {
-    print("loading dishes " + path);
     final dishes = await rootBundle.loadString(path + '.json').then((str) =>
         List<Dish>.from(jsonDecode(str).map((json) => Dish.fromJson(json))));
     dishes.forEach((dish) => dish.words.forEach((word) => Word.add(word)));

@@ -1,40 +1,47 @@
-
 [
-
     {
         "words": [
-        {
-        "Chinese":"海鮮",
-        "Simplified":"海鲜",
-        "English":"seafood",
-        "Yale": "hói sīn",
-        "Pinyin":"hǎi xiān",
-        "Resources":
-        [
-        {"name":"海鮮","URL":"https://en.wiktionary.org/wiki/海鮮"},
-        {"name":"海","URL":"https://en.wiktionary.org/wiki/海"},
-        {"name":"鮮","URL":"https://en.wiktionary.org/wiki/鮮"}
-        ]
-        }
+            {
+                "Chinese": "海鮮",
+                "Simplified": "海鲜",
+                "English": "seafood",
+                "Yale": "hói sīn",
+                "Pinyin": "hǎi xiān",
+                "Resources": [
+                    {
+                        "name": "海鮮",
+                        "URL": "https://en.wiktionary.org/wiki/海鮮"
+                    },
+                    {
+                        "name": "海",
+                        "URL": "https://en.wiktionary.org/wiki/海"
+                    },
+                    {
+                        "name": "鮮",
+                        "URL": "https://en.wiktionary.org/wiki/鮮"
+                    }
+                ]
+            }
         ],
-        "images":[
-           {
-               "image":"seafoodplatternewasianbbq",
-               "place":"New Asian BBQ, Las Vegas, Nevada"
-           }
-       ],
-        "Description":
-        "海 means “ocean,” and 鮮 means “fresh,” so seafood is “ocean fresh.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "seafoodplatternewasianbbq",
+                "place": "New Asian BBQ, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "海 means “ocean,” and 鮮 means “fresh,” so seafood is “ocean fresh.”",
+        "Tags": [
             "海鮮"
         ],
-        "Resources":
-        [
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Seafood"},
-            {"name":"Cbina Highlights", 
-                    "URL":"https://www.chinahighlights.com/travelguide/chinese-food/fish-seafood-dishes.htm"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Seafood"
+            },
+            {
+                "name": "Cbina Highlights",
+                "URL": "https://www.chinahighlights.com/travelguide/chinese-food/fish-seafood-dishes.htm"
+            }
         ]
     }
- ]
+]

@@ -1,129 +1,169 @@
-
-[ 
+[
     {
-        "words":
-        [
+        "words": [
             {
-            "Chinese":"煎魚餅",
-            "Simplified":"煎鱼饼",
-            "English":"fried fish cake",
-            "Yale": "jīn yùh béng",
-            "Pinyin":"jiān yú bǐng",
-            "Resources":
-        [
-        {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-        {"name":"魚餅","URL":"https://en.wiktionary.org/wiki/魚餅"},
-        {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"},
-        {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
-        ]
-        }],
-        "images":
-        [
-            {
-                "image":"fishcakeyumcha",
-                "place":"Yum Cha, Las Vegas, Nevada"
+                "Chinese": "煎魚餅",
+                "Simplified": "煎鱼饼",
+                "English": "fried fish cake",
+                "Yale": "jīn yùh béng",
+                "Pinyin": "jiān yú bǐng",
+                "Resources": [
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "魚餅",
+                        "URL": "https://en.wiktionary.org/wiki/魚餅"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/魚"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
             }
         ],
-        "Description":
-            "A fish paste patty breaded and pan-fried.\n\n煎 means “pan-fried,” 魚 is “fish,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "fishcakeyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A fish paste patty breaded and pan-fried.\n\n煎 means “pan-fried,” 魚 is “fish,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
+        "Tags": [
             "魚餅",
             "魚",
             "餅",
             "煎",
             "點心"
         ],
-        "Resources":
-        [
-            {"name":"Wikipedia", 
-                "URL":"https://en.wikipedia.org/wiki/Fishcake"},
-            {"name":"Aroma Asian", 
-                "URL":"http://aromasian.com/recipe/fried-fish-cake/"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Fishcake"
+            },
+            {
+                "name": "Aroma Asian",
+                "URL": "http://aromasian.com/recipe/fried-fish-cake/"
+            }
         ]
     },
-    
     {
-        "words":
-        [
+        "words": [
             {
-            "Chinese":"煎蝦餅",
-            "Simplified":"煎虾饼",
-            "English":"fried shrimp cake",
-            "Yale": "jīn hā béng",
-            "Pinyin":"jiān xiā bǐng",
-            "Resources":
-        [
-        {"name":"煎","URL":"https://en.wiktionary.org/wiki/煎"},
-        {"name":"魚","URL":"https://en.wiktionary.org/wiki/魚"},
-        {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
-        ]
-        }],
-        "images":
-        [
-            {
-                "image":"panfriedshrimpcakeimperialgarden",
-                "place":"Imperial Garden, Fresno, California"
+                "Chinese": "煎蝦餅",
+                "Simplified": "煎虾饼",
+                "English": "fried shrimp cake",
+                "Yale": "jīn hā béng",
+                "Pinyin": "jiān xiā bǐng",
+                "Resources": [
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/煎"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/魚"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
             }
         ],
-        "Description":
-            "Shrimp mixed with vegetables and pan-fried.\n\n煎 means “pan-fried,” 蝦 is “shrimp,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "panfriedshrimpcakeimperialgarden",
+                "place": "Imperial Garden, Fresno, California"
+            }
+        ],
+        "Description": "Shrimp mixed with vegetables and pan-fried.\n\n煎 means “pan-fried,” 蝦 is “shrimp,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
+        "Tags": [
             "蝦",
             "餅",
             "煎",
             "點心"
         ],
-        "Resources":
-        [
-            {"name":"The Woks of Life", 
-                "URL":"https://thewoksoflife.com/2019/01/chinese-shrimp-cakes/"}
+        "Resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2019/01/chinese-shrimp-cakes/"
+            }
         ]
     },
-
     {
-        "words":[{
-            "Chinese": "鹹蛋蒸肉餅",
-            "Simplified": "咸蛋蒸肉饼",
-            "English":"salted egg w/ minced pork",
-            "Yale": "hàahm dáan jīng yuhk béng",
-            "Pinyin":"xián dàn zhēng ròu bǐng",
-            "Resources":
-        [
-        {"name":"鹹蛋","URL":"https://en.wiktionary.org/wiki/鹹蛋"},
-        {"name":"鹹","URL":"https://en.wiktionary.org/wiki/鹹"},
-         {"name":"蛋","URL":"https://en.wiktionary.org/wiki/蛋"},
-        {"name":"蒸","URL":"https://en.wiktionary.org/wiki/蒸"},
-        {"name":"肉餅","URL":"https://en.wiktionary.org/wiki/肉餅"},
-        {"name":"肉","URL":"https://en.wiktionary.org/wiki/肉"},
-        {"name":"餅","URL":"https://en.wiktionary.org/wiki/餅"}
-        ]
-        }],
-        "images":[
-        {
-            "image":"saltedeggmincedporkyumcha",
-            "place":"Yum Cha, Las Vegas, Nevada"
-        }
+        "words": [
+            {
+                "Chinese": "鹹蛋蒸肉餅",
+                "Simplified": "咸蛋蒸肉饼",
+                "English": "salted egg w/ minced pork",
+                "Yale": "hàahm dáan jīng yuhk béng",
+                "Pinyin": "xián dàn zhēng ròu bǐng",
+                "Resources": [
+                    {
+                        "name": "鹹蛋",
+                        "URL": "https://en.wiktionary.org/wiki/鹹蛋"
+                    },
+                    {
+                        "name": "鹹",
+                        "URL": "https://en.wiktionary.org/wiki/鹹"
+                    },
+                    {
+                        "name": "蛋",
+                        "URL": "https://en.wiktionary.org/wiki/蛋"
+                    },
+                    {
+                        "name": "蒸",
+                        "URL": "https://en.wiktionary.org/wiki/蒸"
+                    },
+                    {
+                        "name": "肉餅",
+                        "URL": "https://en.wiktionary.org/wiki/肉餅"
+                    },
+                    {
+                        "name": "肉",
+                        "URL": "https://en.wiktionary.org/wiki/肉"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "saltedeggmincedporkyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
         ],
         "Description": "A steamed pork patty with salted egg on top.\n\n",
-        "Tags":
-        [
+        "Tags": [
             "肉",
             "豬肉"
-          ],
-        "Resources":
-        [
-            {"name" :"China Sichuan Food", 
-                "URL":"https://www.chinasichuanfood.com/steamed-pork-with-salted-egg/"},
-            {"name" :"The Hong Kong Cookery", 
-                "URL":"http://www.thehongkongcookery.com/2015/08/steamed-pork-patty-with-salted-duck-egg.html"},
-            {"name" :"Life is Great", 
-                "URL":"https://pickyin.blogspot.com/2014/01/hakka-salted-egg-steamed-pork.html"},
-            {"name" :"Beyond Norm", 
-                "URL":"https://beyondnorm.com/2018/11/28/meat-patty-salted-egg-recipe/"}
-       ]
+        ],
+        "Resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/steamed-pork-with-salted-egg/"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2015/08/steamed-pork-patty-with-salted-duck-egg.html"
+            },
+            {
+                "name": "Life is Great",
+                "URL": "https://pickyin.blogspot.com/2014/01/hakka-salted-egg-steamed-pork.html"
+            },
+            {
+                "name": "Beyond Norm",
+                "URL": "https://beyondnorm.com/2018/11/28/meat-patty-salted-egg-recipe/"
+            }
+        ]
     }
-    
-
- ]
+]

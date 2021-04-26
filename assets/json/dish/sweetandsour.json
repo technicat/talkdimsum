@@ -1,101 +1,128 @@
-
 [
-
- {
-   "words":
-    [
-    {
-    "Chinese":"甜酸雞捲",
-    "Simplified":"甜酸鸡卷",
-    "English":"sweet and sour chicken roll",
-    "Yale": "tìhm syūn gāi gyún",
-    "Pinyin":"tián suān jī juǎn",
-    "Resources":
-    [
-        {"name":"甜酸","URL":"https://en.wiktionary.org/wiki/甜酸"},
-        {"name":"甜","URL":"https://en.wiktionary.org/wiki/甜"},
-        {"name":"酸","URL":"https://en.wiktionary.org/wiki/酸"},
-        {"name":"雞","URL":"https://en.wiktionary.org/wiki/雞"},
-        {"name":"捲","URL":"https://en.wiktionary.org/wiki/捲"}
-    ]
-    }
+  {
+    "words": [
+      {
+        "Chinese": "甜酸雞捲",
+        "Simplified": "甜酸鸡卷",
+        "English": "sweet and sour chicken roll",
+        "Yale": "tìhm syūn gāi gyún",
+        "Pinyin": "tián suān jī juǎn",
+        "Resources": [
+          {
+            "name": "甜酸",
+            "URL": "https://en.wiktionary.org/wiki/甜酸"
+          },
+          {
+            "name": "甜",
+            "URL": "https://en.wiktionary.org/wiki/甜"
+          },
+          {
+            "name": "酸",
+            "URL": "https://en.wiktionary.org/wiki/酸"
+          },
+          {
+            "name": "雞",
+            "URL": "https://en.wiktionary.org/wiki/雞"
+          },
+          {
+            "name": "捲",
+            "URL": "https://en.wiktionary.org/wiki/捲"
+          }
+        ]
+      }
     ],
-    "images":
-    [
-        {
-            "image":"sweetandsourchickentofuskinrollyumcha",
-            "place":"Yum Cha, Las Vegas, Nevada"
-        }
+    "images": [
+      {
+        "image": "sweetandsourchickentofuskinrollyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
     ],
-    "Description":
-      "Tofu skin rolls with chicken inside, in a sweet and sour sauce.\n\n甜 means “sweet,” 酸 means “sour,”雞 is “chicken“ and 捲 is “roll,Æ so literally: “sweet and sour chicken roll.”",
-    "Tags":
-    [
-        "雞",
-            "甜酸",
-            "蒸",
-            "豆腐",
-            "酸",
-            "捲",
-            "糖醋醬",
-            "點心"
-            ],
-    "Resources":
-    [
-      {"name":"Wikipedia", 
-        "URL":"http://en.wikipedia.org/wiki/Tofu_skin_roll"},
-      {"name":"Dim Sum Central",
-        "URL":"http://www.dimsumcentral.com/tofu-skin-rolls/"},
-      {"name":"China Sichuan Food", 
-        "URL":"https://www.chinasichuanfood.com/chinese-sweet-and-sour-sauce/"}
+    "Description": "Tofu skin rolls with chicken inside, in a sweet and sour sauce.\n\n甜 means “sweet,” 酸 means “sour,”雞 is “chicken“ and 捲 is “roll,Æ so literally: “sweet and sour chicken roll.”",
+    "Tags": [
+      "雞",
+      "甜酸",
+      "蒸",
+      "豆腐",
+      "酸",
+      "捲",
+      "糖醋醬",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Tofu_skin_roll"
+      },
+      {
+        "name": "Dim Sum Central",
+        "URL": "http://www.dimsumcentral.com/tofu-skin-rolls/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-sweet-and-sour-sauce/"
+      }
     ]
   },
-
-
- {
-    "words":
-    [
-    {
-    "Chinese":"甜酸海鮮塊",
-    "Simplified":"甜酸海鲜块",
-    "English":"sweet and sour seafood nuggets",
-    "Yale": "tìhm syūn hói sīn faai",
-    "Pinyin":"tián suān hǎi xiān kuài",
-    "Resources":
-    [
-        {"name":"甜酸","URL":"https://en.wiktionary.org/wiki/甜酸"},
-        {"name":"甜","URL":"https://en.wiktionary.org/wiki/甜"},
-        {"name":"酸","URL":"https://en.wiktionary.org/wiki/酸"},
-        {"name":"海鮮","URL":"https://en.wiktionary.org/wiki/海鮮"},
-        {"name":"海","URL":"https://en.wiktionary.org/wiki/海"},
-         {"name":"鮮","URL":"https://en.wiktionary.org/wiki/鮮"},
-        {"name":"塊","URL":"https://en.wiktionary.org/wiki/塊"}
+  {
+    "words": [
+      {
+        "Chinese": "甜酸海鮮塊",
+        "Simplified": "甜酸海鲜块",
+        "English": "sweet and sour seafood nuggets",
+        "Yale": "tìhm syūn hói sīn faai",
+        "Pinyin": "tián suān hǎi xiān kuài",
+        "Resources": [
+          {
+            "name": "甜酸",
+            "URL": "https://en.wiktionary.org/wiki/甜酸"
+          },
+          {
+            "name": "甜",
+            "URL": "https://en.wiktionary.org/wiki/甜"
+          },
+          {
+            "name": "酸",
+            "URL": "https://en.wiktionary.org/wiki/酸"
+          },
+          {
+            "name": "海鮮",
+            "URL": "https://en.wiktionary.org/wiki/海鮮"
+          },
+          {
+            "name": "海",
+            "URL": "https://en.wiktionary.org/wiki/海"
+          },
+          {
+            "name": "鮮",
+            "URL": "https://en.wiktionary.org/wiki/鮮"
+          },
+          {
+            "name": "塊",
+            "URL": "https://en.wiktionary.org/wiki/塊"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "seafoodnuggetyumcha2",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Kind of like chicken nuggets, but seafood.\n\n甜 means “sweet,” 酸 means “sour,” 海鮮 is “seafood,” and 塊 is basically a “lump” or “nugget.”\n\nLikewise, chicken nuggets are called literally ”chicken nugget” 雞塊 (gāi faai).",
+    "Tags": [
+      "甜酸",
+      "蒸",
+      "酸",
+      "海鮮",
+      "糖醋醬",
+      "點心"
+    ],
+    "Resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-sweet-and-sour-sauce/"
+      }
     ]
-    }
-    ],
-    "images":
-    [
-        {
-            "image":"seafoodnuggetyumcha2",
-            "place":"Yum Cha, Las Vegas, Nevada"
-        }
-    ],
-    "Description":
-      "Kind of like chicken nuggets, but seafood.\n\n甜 means “sweet,” 酸 means “sour,” 海鮮 is “seafood,” and 塊 is basically a “lump” or “nugget.”\n\nLikewise, chicken nuggets are called literally ”chicken nugget” 雞塊 (gāi faai).",
-    "Tags":
-    [
-            "甜酸",
-            "蒸",
-            "酸",
-            "海鮮",
-            "糖醋醬",
-            "點心"
-    ],
-    "Resources":
-    [
-        {"name":"China Sichuan Food", 
-          "URL":"https://www.chinasichuanfood.com/chinese-sweet-and-sour-sauce/"}
-    ]
-    }
- 
- ]
+  }
+]

@@ -46,13 +46,11 @@ dependencies:
   shared_preferences:
   speech_to_text:
   bubble:
- # flushbar:
   sprintf:
   sqflite:
   url_launcher:
   firebase_core:
   firebase_messaging:
- # store_redirect:
 
   cupertino_search:
     path: ../cupertino_search

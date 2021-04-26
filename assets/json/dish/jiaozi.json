@@ -1,43 +1,49 @@
-
 [
     {
-        "words":
-        [
+        "words": [
             {
-            "Chinese" : "蒸餃",
-            "Simplified" : "蒸饺",
-            "English" : "steamed dumpling",
-            "Yale" : "jīng gáau",
-            "Pinyin" : "zhēng jiǎo",
-            "Resources":
-        [
-        {"name":"蒸餃","URL":"https://en.wiktionary.org/wiki/蒸餃"},
-        {"name":"蒸","URL":"https://en.wiktionary.org/wiki/蒸"},
-        {"name":"餃","URL":"https://en.wiktionary.org/wiki/餃"}
-        ]
-        }
-    ],
-        "images":
-        [
-            {
-                "image":"steameddumplingschinarepublic",
-                "place":"China Republic, Rancho Cucamonga, California"
+                "Chinese": "蒸餃",
+                "Simplified": "蒸饺",
+                "English": "steamed dumpling",
+                "Yale": "jīng gáau",
+                "Pinyin": "zhēng jiǎo",
+                "Resources": [
+                    {
+                        "name": "蒸餃",
+                        "URL": "https://en.wiktionary.org/wiki/蒸餃"
+                    },
+                    {
+                        "name": "蒸",
+                        "URL": "https://en.wiktionary.org/wiki/蒸"
+                    },
+                    {
+                        "name": "餃",
+                        "URL": "https://en.wiktionary.org/wiki/餃"
+                    }
+                ]
             }
         ],
-        "Description":
-            "These traditional Chinese dumplings are served steamed in dim sum restaurants (also pan-fried, see potstickers). They have a thick wrapper and are filled with meat and chopped vegetables.\n\n蒸 means “steamed,” and 餃 is “dumpling.”",
-        "Tags":
-        [
+        "images": [
+            {
+                "image": "steameddumplingschinarepublic",
+                "place": "China Republic, Rancho Cucamonga, California"
+            }
+        ],
+        "Description": "These traditional Chinese dumplings are served steamed in dim sum restaurants (also pan-fried, see potstickers). They have a thick wrapper and are filled with meat and chopped vegetables.\n\n蒸 means “steamed,” and 餃 is “dumpling.”",
+        "Tags": [
             "蒸",
             "餃",
             "點心"
         ],
-        "Resources":[
-            {"name":"Wikipedia",
-                 "URL":"https://en.wikipedia.org/wiki/Jiaozi"},
-            {"name":"China Sichuan Food", 
-                "URL":"https://www.chinasichuanfood.com/how-to-make-dumplings/"}
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Jiaozi"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/how-to-make-dumplings/"
+            }
         ]
     }
-
 ]

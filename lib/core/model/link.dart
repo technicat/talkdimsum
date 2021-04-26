@@ -6,9 +6,9 @@ part 'link.g.dart';
 
 @JsonSerializable()
 class Link {
-  @JsonKey(defaultValue: '')
+  @JsonKey(required: true)
   final String name;
-  @JsonKey(name: 'URL', defaultValue: '')
+  @JsonKey(name: 'URL', required: true)
   final String url;
 
   Link(this.name, this.url);

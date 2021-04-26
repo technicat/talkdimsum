@@ -1,26 +1,27 @@
 [
-
- 
- {
-     "Ignore":true,
-     "Chinese" : "豆沙煎堆",
-     "Alternate": "芝麻球",
-     "English" :"twisted egg puffs",
-     "Yale" : "dauh sā jīn dēui",
-     "Pinyin" : "dòu shā jiān duī",
-     "ImageFile" : ["sesameballssfsupermaket", "sesameballs"],
-     "Location" : "HK",
-     "Description" : "Sesame balls filled with red bean paste.\n\n豆 is \"bean\" and 沙 is \"sand\", so 豆沙 \"bean sand\" or, in other words, \"bean paste\".",
-     "Tags":[
-         "煎堆",
-         "豆沙",
-         "炸"
-     ],
-     "Resources":[
-         
-         {"name":"Dim Sum Central", "URL":"http://www.dimsumcentral.com/deep-fried-twisted-egg-puffs/"},
-         
-     ]
- }
- 
- ]
+    {
+        "Ignore": true,
+        "Chinese": "豆沙煎堆",
+        "Alternate": "芝麻球",
+        "English": "twisted egg puffs",
+        "Yale": "dauh sā jīn dēui",
+        "Pinyin": "dòu shā jiān duī",
+        "ImageFile": [
+            "sesameballssfsupermaket",
+            "sesameballs"
+        ],
+        "Location": "HK",
+        "Description": "Sesame balls filled with red bean paste.\n\n豆 is \"bean\" and 沙 is \"sand\", so 豆沙 \"bean sand\" or, in other words, \"bean paste\".",
+        "Tags": [
+            "煎堆",
+            "豆沙",
+            "炸"
+        ],
+        "Resources": [
+            {
+                "name": "Dim Sum Central",
+                "URL": "http://www.dimsumcentral.com/deep-fried-twisted-egg-puffs/"
+            }
+        ]
+    }
+]
