@@ -88,8 +88,8 @@ class DimSum with ChangeNotifier {
 
   List<Dish> get categories {
     final tags =
-        _categories.map((tag) => dish(tag)).where((item) => item == null);
-    return tags.toList() as List<Dish>;
+        _categories.map((tag) => dish(tag)).where((item) => item != null);
+    return tags.map((dish) => dish!).toList();
   }
 
   static const table = 'favorites';
@@ -150,6 +150,7 @@ class DimSum with ChangeNotifier {
     favorites = maps
         .map((map) => dish(map['name'] as String))
         .where((dish) => dish != null)
+        .map((dish) => dish!)
         .toList() as List<Dish>;
     notifyListeners();
   }
