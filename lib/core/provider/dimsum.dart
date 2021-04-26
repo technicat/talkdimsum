@@ -47,7 +47,8 @@ class DimSum with ChangeNotifier {
         .map((dish) => dish.tags)
         .expand((pair) => pair)
         .map((tag) => Word.words[tag])
-        .where((word) => word != null) as Iterable<Word>);
+        .where((word) => word != null)
+        .map((word) => word!));
     return words;
   }
 
