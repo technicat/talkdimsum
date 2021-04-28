@@ -571,14 +571,21 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "Description": "Congee with ablone and shredded chicken.\n\n雞 is “chicken,” and 粥 is “congee.”",
+        "Description": "Congee with ablone and shredded chicken.\n\n鮑魚 is abalone, 雞絲 is “shredded chicken,” and 粥 is “congee.”",
         "Tags": [
             "鮑魚",
             "雞",
             "粥"
         ],
         "Resources": [
-          
+            {
+                "name": "Edibly Asian",
+                "URL": "https://sites.google.com/site/ediblyasianprint/shredded-chicken-and-small-abalone-congee"
+            },
+            {
+                "name": "Yumbah",
+                "URL": "https://yumbah.com/recipe/chicken-abalone-congee"
+            }
         ]
     }
 ]
