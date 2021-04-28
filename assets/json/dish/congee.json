@@ -528,5 +528,53 @@
                 "URL": "https://annieliciousfood.blogspot.com/2014/01/famous-shatin-chicken-congee-aff-hk.html"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "鮑魚雞粥",
+                "Simplified": "鲍鱼鸡粥",
+                "English": "abalone w/ shredded chicken congee",
+                "Yale": " gāi jūk",
+                "Pinyin": " jī zhōu",
+                "Resources": [
+                    {
+                        "name": "鮑魚",
+                        "URL": "https://en.wiktionary.org/wiki/鮑魚"
+                    },
+                    {
+                        "name": "鮑",
+                        "URL": "https://en.wiktionary.org/wiki/沙"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/田"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/雞"
+                    },
+                    {
+                        "name": "粥",
+                        "URL": "https://en.wiktionary.org/wiki/粥"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "abaloneshreddedchickencongeehkgarden",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Congee with ablone and shredded chicken.\n\n雞 is “chicken,” and 粥 is “congee.”",
+        "Tags": [
+            "鮑魚",
+            "雞",
+            "粥"
+        ],
+        "Resources": [
+          
+        ]
     }
 ]
