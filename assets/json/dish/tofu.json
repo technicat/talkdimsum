@@ -40,7 +40,7 @@
                 "place": "Noodle Exchange, Las Vegas, Nevada"
             }
         ],
-        "Description": "Soft tofu in a spicy sauce with minced meat.\n\nThe first character 麻 is short for 麻臉 which means “pockmarked face,” and 婆 is short for 婆婆 which means “old lady,” and 豆腐 is “tofu, so it's “pockmarked old lady tofu.”\n\nThe dish is apparently named (hopefully affectionately) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox.",
+        "Description": "Soft tofu in a spicy sauce with minced meat.\n\nThe first character 麻 is short for 麻臉 which means “pockmarked face,” and 婆 is short for 婆婆 which means “old lady,” and 豆腐 is “tofu,” so it's “pockmarked old lady tofu.”\n\nThe dish is apparently named (hopefully affectionately) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox.",
         "Tags": [
             "豆腐",
             "四川",
@@ -82,6 +82,59 @@
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/ma-po-tofu-real-deal/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蛋豆腐",
+                "English": "egg tofu",
+                "Yale": "dáan dauh fuh",
+                "Pinyin": "dàn dòu fǔ",
+                "Resources": [
+                    {
+                        "name": "蛋",
+                        "URL": "https://en.wiktionary.org/wiki/蛋"
+                    },
+                    {
+                        "name": "豆腐",
+                        "URL": "https://en.wiktionary.org/wiki/豆腐"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "腐",
+                        "URL": "https://en.wiktionary.org/wiki/腐"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "eggtofuhkgarden",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Egg tofu is made from eggs and soy milk, typically packaged as a tube (so it's often called “tofu scallops” due to how it's sliced). It has the consistency of silken tofu.\n\n蛋 means “egg,” and 豆腐 is “tofu,” so it's “egg tofu.”\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name 玉子豆腐, or in Chinese as 日本豆腐 (“Japan tofu“). However, the Japanese version is made from eggs and dashi.",
+        "Tags": [
+            "豆腐",
+            "蛋"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tofu#Egg_tofu"
+            },
+            {
+                "name": "Garlic Delight",
+                "URL": "https://garlicdelight.com/egg-tofu/"
+            },
+            {
+                "name": "Just One Cookbook",
+                "URL": "https://www.justonecookbook.com/egg-tofu/"
             }
         ]
     }
