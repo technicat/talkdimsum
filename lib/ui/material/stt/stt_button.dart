@@ -7,6 +7,8 @@ import 'package:talkdimsum/core/provider/settings.dart';
 
 import 'package:talkdimsum/core/provider/stt.dart';
 
+import 'package:fluttertoast/fluttertoast.dart';
+
 class STTButton extends StatelessWidget {
   final Word word;
 
@@ -26,9 +28,19 @@ class STTButton extends StatelessWidget {
                 : MaterialButton(
                     child: Icon(Icons.mic),
                     onPressed: () {
-                      stt.listen(word, settings.language);
+                      try {
+                        stt.listen(word, settings.language);
+                      } catch (e) {
+                        Fluttertoast.showToast(
+                            msg: e.toString(),
+                            toastLength: Toast.LENGTH_SHORT,
+                            gravity: ToastGravity.CENTER,
+                            timeInSecForIosWeb: 1,
+                            backgroundColor: Colors.red,
+                            textColor: Colors.white,
+                            fontSize: 16.0);
+                      }
                     },
                   )));
   }
 }
-

@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 
 import 'package:fluttertoast/fluttertoast.dart';
 
@@ -27,19 +27,14 @@ class DishTapImageWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
         onTap: () {
-          /*   Fluttertoast.showToast(
-                              msg: 'Photo taken at '+dish.images[0].place,
+            Fluttertoast.showToast(
+                              msg: 'Photo taken at '+(dish.images[0].place ?? 'unknown'),
                               toastLength: Toast.LENGTH_SHORT,
                               gravity: ToastGravity.CENTER,
                               timeInSecForIosWeb: 1,
                               backgroundColor: Colors.red,
                               textColor: Colors.white,
-                              fontSize: 16.0); */
-          /*       Flushbar(
-            title: 'Photo taken at',
-            message: dish.images[0].place,
-            duration: Duration(seconds: 3),
-          )..show(context); */
+                              fontSize: 16.0);
         },
         child: DishImageWidget(dish: dish));
   }

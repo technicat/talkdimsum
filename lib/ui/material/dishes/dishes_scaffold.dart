@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-//import 'package:store_redirect/store_redirect.dart';
+import 'package:app_settings/app_settings.dart';
 
 import 'categories_grid.dart';
 import 'favorites_grid.dart';
@@ -52,12 +52,24 @@ class DishesScaffold extends StatelessWidget {
                 launch('http://technicat.com');
               },
             ),
+             ListTile(
+              title: Text('Talk Dim Sum'),
+              onTap: () {
+                launch('http://talkdimsum.com');
+              },
+            ),
             ListTile(
               title: Text('Google Play'),
               onTap: () {
                 launch(
                     'https://play.google.com/store/apps/details?id=com.technicat.talkdimsum');
                 // StoreRedirect.redirect();
+              },
+            ),
+               ListTile(
+              title: Text('Settings'),
+              onTap: () {
+                AppSettings.openAppSettings();
               },
             ),
             /*     ListTile(
