@@ -1,4 +1,5 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
+import 'package:app_settings/app_settings.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
@@ -15,10 +16,14 @@ class STTWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(children: [
-        STTStatusText(),
-        STTText(),
-        STTButton(word: word)
-    ]
-    );
+      STTStatusText(),
+      STTText(),
+      STTButton(word: word),
+      MaterialButton(
+          child: Text('Permissions'),
+          onPressed: () {
+            AppSettings.openAppSettings();
+          })
+    ]);
   }
 }

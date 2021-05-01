@@ -48,7 +48,7 @@ class STT with ChangeNotifier {
           listenFor: Duration(seconds: 10),
           localeId: Language.locale(lang),
           //    onSoundLevelChange: _soundLevelListener,
-          cancelOnError: true,
+          cancelOnError: false, // true,
           partialResults: true);
     } else {
       print('The user has denied the use of speech recognition.');
@@ -76,10 +76,13 @@ class STT with ChangeNotifier {
   }
 
   void _errorListener(SpeechRecognitionError error) {
-   // print("Received error status: $error, listening: ${speech.isListening}");
-    _status = STTStatus.Error;
-    lastError = '${error.errorMsg} - ${error.permanent}';
-    notifyListeners();
+    print("speech recognition error: $error");
+    if (error.permanent) {
+      _speech.cancel();
+      _status = STTStatus.Error;
+      lastError = '${error.errorMsg}'; //- ${error.permanent}';
+      notifyListeners();
+    }
   }
 
   void _statusListener(String status) {
