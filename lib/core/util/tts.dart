@@ -14,9 +14,9 @@ class TTS {
       // Platform check fails on web
       if (Platform.isIOS || Platform.isMacOS) {
         await flutterTts
-            .setSpeechRate(speed / 2.0); // tts plays back fast on ios
+            .setSpeechRate(speed * 0.35); // tts plays back fast on ios
       } else {
-        await flutterTts.setSpeechRate(speed);
+        await flutterTts.setSpeechRate(speed * 0.8);
       }
     } catch (e) {
       await flutterTts.setSpeechRate(speed);
