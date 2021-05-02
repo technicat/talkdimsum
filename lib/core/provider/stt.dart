@@ -48,7 +48,7 @@ class STT with ChangeNotifier {
           listenFor: Duration(seconds: 10),
           localeId: Language.locale(lang),
           //    onSoundLevelChange: _soundLevelListener,
-          cancelOnError: false, // true,
+          cancelOnError: true,
           partialResults: true);
     } else {
       print('The user has denied the use of speech recognition.');
@@ -76,13 +76,40 @@ class STT with ChangeNotifier {
   }
 
   void _errorListener(SpeechRecognitionError error) {
-    print("speech recognition error: $error");
-    if (error.permanent) {
-      _speech.cancel();
-      _status = STTStatus.Error;
-      lastError = '${error.errorMsg}'; //- ${error.permanent}';
-      notifyListeners();
+    //print("speech recognition error: $error");
+    // if (error.permanent) {
+    //  _speech.cancel();
+    _status = STTStatus.Error;
+    switch (error.errorMsg) {
+      case 'error_audio_error':
+        lastError = 'audio error';
+        break;
+      case 'error_client':
+        lastError = 'client error';
+        break;
+      case 'error_permission':
+        lastError = 'permission not granted';
+        break;
+      case 'error_network':
+        lastError = 'network error';
+        break;
+      case 'error_network_timeout':
+        lastError = "network timed out";
+        break;
+      case 'error_no_match':
+        lastError = 'no match found';
+        break;
+      case 'error_server':
+        lastError = 'server error';
+        break;
+      case 'error_speech_timeout':
+        lastError = 'timed out';
+        break;
+      default:
+        lastError = error.errorMsg;
     }
+    notifyListeners();
+    //}
   }
 
   void _statusListener(String status) {
