@@ -81,6 +81,7 @@ class STT with ChangeNotifier {
     //  _speech.cancel();
     _status = STTStatus.Error;
     switch (error.errorMsg) {
+      // Android
       case 'error_audio_error':
         lastError = 'audio error';
         break;
