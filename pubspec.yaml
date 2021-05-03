@@ -50,8 +50,8 @@ dependencies:
   sprintf:
   sqflite:
   url_launcher:
-  firebase_core:
-  firebase_messaging:
+ # firebase_core:
+ # firebase_messaging:
 
   cupertino_search:
     path: ../cupertino_search

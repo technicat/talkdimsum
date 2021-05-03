@@ -14,8 +14,8 @@ import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
 
-import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_messaging/firebase_messaging.dart';
+// import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_messaging/firebase_messaging.dart';
 
 import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/core/provider/stt.dart';
@@ -57,7 +57,7 @@ class MainApp extends StatelessWidget {
 }
 
 // https://firebase.flutter.dev/docs/messaging/usage
-void registerNotifications() async {
+/* void registerNotifications() async {
   await Firebase.initializeApp();
   FirebaseMessaging messaging = FirebaseMessaging.instance;
   NotificationSettings settings = await messaging.requestPermission(
@@ -83,4 +83,4 @@ void registerNotifications() async {
   // FirebaseMessaging.instance.onTokenRefresh.listen(saveTokenToDatabase);
 
   // print('User granted permission: ${settings.authorizationStatus}');
-}
+} */
