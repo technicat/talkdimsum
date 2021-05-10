@@ -1,0 +1,110 @@
+[
+    {
+        "words": [
+            {
+                "Chinese": "公司三文治",
+                "English": "club sandwich",
+                "Yale": "gūng sī sāam màhn jih",
+                "Pinyin": "gōng sī sān wén zhì",
+                "Resources": [
+                    {
+                        "name": "公司",
+                        "URL": "https://en.wiktionary.org/wiki/公司"
+                    },
+                    {
+                        "name": "公",
+                        "URL": "https://en.wiktionary.org/wiki/公"
+                    },
+                    {
+                        "name": "司",
+                        "URL": "https://en.wiktionary.org/wiki/司"
+                    },
+                    {
+                        "name": "三文治",
+                        "URL": "https://en.wiktionary.org/wiki/三文治"
+                    },
+                    {
+                        "name": "三",
+                        "URL": "https://en.wiktionary.org/wiki/三"
+                    },
+                    {
+                        "name": "文",
+                        "URL": "https://en.wiktionary.org/wiki/文"
+                    },
+                    {
+                        "name": "治",
+                        "URL": "https://en.wiktionary.org/wiki/治"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "clubsandwichhorizontalluckyhouse",
+                "place": "Lucky House Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A Hong Kong-style club sandwich.\n\n公司 is a “company” and 三文治 sounds sort of like “sandwich” (the first two characters are also used for “salmon” 三文魚 “sāam màhn yùh”). So it's a “company sandwich.”",
+        "Tags": [
+            "港式",
+            "三文治",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蛋牛治",
+                "English": "corned beef egg sandwich",
+                "Yale": "dáan ngàuh jih",
+                "Pinyin": "dàn niú zhì",
+                "Resources": [
+                    {
+                        "name": "蛋",
+                        "URL": "https://en.wiktionary.org/wiki/蛋"
+                    },
+                    {
+                        "name": "牛",
+                        "URL": "https://en.wiktionary.org/wiki/牛"
+                    },
+                    {
+                        "name": "治",
+                        "URL": "https://en.wiktionary.org/wiki/治"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "cornedbeefeggsandwichluckyhouse",
+                "place": "Lucky House Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A Hong Kong-style sandwich with corned beef and scrambled egg.\n\n蛋is a “egg, ” 牛 is short for beef, and 治 is short for sandwich (三文治)",
+        "Tags": [
+            "港式",
+            "三文治",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "https://www.thehongkongcookery.com/2019/02/corned-beef-egg-sandwich.html"
+            },
+            {
+                "name": "Le Plain Canvas",
+                "URL": "https://www.leplaincanvas.com/2021/01/corned-beef-egg-sandwich-%e8%9b%8b%e7%89%9b%e6%b2%bb/#:~:text=%20Method%20%201%20Whisk%20the%20egg%20and,the%20side%20or%20not.%20Enjoy%20them...%20More%20"
+            }
+        ]
+    }
+]
