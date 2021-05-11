@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-
+import 'package:get/get.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:share/share.dart';
 import 'package:url_launcher/url_launcher.dart';
-
-import 'package:fluttertoast/fluttertoast.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/provider/dimsum.dart';
@@ -31,14 +29,7 @@ class DishScaffold extends StatelessWidget {
                       onPressed: () {
                         if (_.value.isFavorite(dish)) {
                           _.value.removeFavorite(dish);
-                          Fluttertoast.showToast(
-                              msg: "Removed from favorites",
-                              toastLength: Toast.LENGTH_SHORT,
-                              gravity: ToastGravity.CENTER,
-                              timeInSecForIosWeb: 1,
-                              backgroundColor: Colors.red,
-                              textColor: Colors.white,
-                              fontSize: 16.0);
+                          Get.snackbar('', "Removed from favorites");
                         }
                       },
                       child: Icon(Icons.favorite))
@@ -46,14 +37,7 @@ class DishScaffold extends StatelessWidget {
                       onPressed: () {
                         if (!_.value.isFavorite(dish)) {
                           _.value.addFavorite(dish);
-                          Fluttertoast.showToast(
-                              msg: "Added to favorites",
-                              toastLength: Toast.LENGTH_SHORT,
-                              gravity: ToastGravity.CENTER,
-                              timeInSecForIosWeb: 1,
-                              backgroundColor: Colors.red,
-                              textColor: Colors.white,
-                              fontSize: 16.0);
+                          Get.snackbar('', "Added to favorites");
                         }
                       },
                       child: Icon(Icons.favorite_border)),

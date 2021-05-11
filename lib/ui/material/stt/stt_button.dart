@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
-
+import 'package:get/get.dart';
 import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/core/provider/settings.dart';
 
 import 'package:talkdimsum/core/provider/stt.dart';
-
-import 'package:fluttertoast/fluttertoast.dart';
 
 class STTButton extends StatelessWidget {
   final Word word;
@@ -31,16 +29,8 @@ class STTButton extends StatelessWidget {
                       try {
                         stt.listen(word, settings.language);
                       } catch (e) {
-                        Fluttertoast.showToast(
-                            msg: e.toString(),
-                            toastLength: Toast.LENGTH_SHORT,
-                            gravity: ToastGravity.CENTER,
-                            timeInSecForIosWeb: 1,
-                            backgroundColor: Colors.red,
-                            textColor: Colors.white,
-                            fontSize: 16.0);
+                        Get.snackbar('Speech-to-text error', e.toString());
                       }
-                    },
-                  )));
+                    })));
   }
 }

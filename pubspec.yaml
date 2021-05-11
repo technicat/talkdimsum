@@ -31,13 +31,11 @@ dependencies:
   cupertino_icons:
 
   # more stuff
-#  auto_route:
-#  get_it:
   app_settings:
   provider:
   flutter_riverpod:
   flutter_tts:
-  fluttertoast:
+#  fluttertoast:
   freezed_annotation:
   get:
   json_annotation:
