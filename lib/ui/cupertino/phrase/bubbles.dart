@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:get/get.dart';
 import 'package:bubble/bubble.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
@@ -37,7 +38,7 @@ class BubbleMe extends Bubble {
 
   @override
   Widget build(BuildContext context) {
-    var pixelRatio = MediaQuery.of(context).devicePixelRatio;
+    var pixelRatio = context.devicePixelRatio;
     var px = 1 / pixelRatio;
 
     var style = BubbleStyle(
