@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Progress extends StatelessWidget {
+class Progressor extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:get/get.dart';
 import 'package:talkdimsum/core/model/word.dart';
 import 'package:talkdimsum/ui/material/dishes/word_dishes_scaffold.dart';
 
@@ -11,13 +11,13 @@ class TagWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-        onTap: () {
+        onTap: () /* {
           Navigator.push(
             context,
             MaterialPageRoute(
-                builder: (context) => WordDishesScaffold(word: tag)),
-          );
-        },
+                builder: (context) */ => WordDishesScaffold(word: tag),
+         // );
+      //  },
         child: Chip(
           /* avatar: CircleAvatar(
         backgroundColor: Colors.grey.shade800,

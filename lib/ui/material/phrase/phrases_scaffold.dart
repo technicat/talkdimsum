@@ -46,12 +46,12 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
                       ),
                     ]),
                 body: phrases == null
-                    ? Progress()
+                    ? Progressor()
                     : PhrasesListView(phrases: phrases!));
           },
           loading: (_) => Scaffold(
               appBar: AppBar(title: Text('Phrases')),
-              body: Progress()),
+              body: Progressor()),
           error: (_) => Scaffold(
               appBar: AppBar(title: Text('Phrases')),
               body: Text(_.error.toString(),

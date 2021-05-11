@@ -27,7 +27,7 @@ class CountryScaffoldState extends State<CountryScaffold> {
       return countries.map(
           data: (_) {
             if (_.value.countries.isEmpty) {
-              return Progress();
+              return Progressor();
             } else {
               country ??= _.value.countries[0];
               return Scaffold(
@@ -50,7 +50,7 @@ class CountryScaffoldState extends State<CountryScaffold> {
           },
           loading: (_) => Scaffold(
               appBar: AppBar(title: Text('Places')),
-              body: Progress()),
+              body: Progressor()),
           error: (_) => Scaffold(
               appBar: AppBar(title: Text('Places')),
               body: ErrorText(error: _.error.toString())));

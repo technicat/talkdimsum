@@ -3,6 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:app_settings/app_settings.dart';
+import 'package:get/get.dart';
 
 import 'categories_grid.dart';
 import 'favorites_grid.dart';
@@ -16,22 +17,22 @@ class DishesScaffold extends StatelessWidget {
         IconButton(
           icon: Icon(Icons.favorite_border),
           tooltip: 'Favorites',
-          onPressed: () {
+          onPressed: () => Get.to(FavoritesScaffold()), /* {
             Navigator.push(
               context,
               MaterialPageRoute(builder: (context) => FavoritesScaffold()),
             );
-          },
+          }, */
         ),
         IconButton(
           icon: Icon(Icons.search),
           tooltip: 'Search',
-          onPressed: () {
+          onPressed: () => Get.to(SearchWordScaffold()), /*{
             Navigator.push(
               context,
               MaterialPageRoute(builder: (context) => SearchWordScaffold()),
             );
-          },
+          }, */
         ),
       ]),
       body: CategoriesGrid(),

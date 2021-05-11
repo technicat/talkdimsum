@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 
@@ -35,12 +36,12 @@ class DishCardCellWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
         child: InkWell(
-            onTap: () {
+            onTap: () => Get.to(DishScaffold(dish: dish)), /*{
               Navigator.push(
                 context,
                 MaterialPageRoute(builder: (context) => DishScaffold(dish: dish)),
               );
-            },
+            }, */
             child: DishImageTextWidget(dish: dish)));
   }
 }

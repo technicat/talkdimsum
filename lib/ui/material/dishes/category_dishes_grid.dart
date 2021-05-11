@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 
@@ -33,13 +34,13 @@ class CategoryCellWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
         child: InkWell(
-            onTap: () {
+            onTap: () => Get.to(WordDishesScaffold(word: dish.word)), /*{
               Navigator.push(
                 context,
                 MaterialPageRoute(
                     builder: (context) => WordDishesScaffold(word: dish.word)),
               );
-            },
+            }, */
             child: DishImageTextWidget(dish: dish)));
   }
 }

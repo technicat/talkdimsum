@@ -102,7 +102,7 @@ class DishScaffold extends StatelessWidget {
                     )
                   ]),
               body: DishWidget(dish: dish)),
-          loading: (_) => Progress(),
+          loading: (_) => Progressor(),
           error: (_) => ErrorText(error: _.error));
     });
   }

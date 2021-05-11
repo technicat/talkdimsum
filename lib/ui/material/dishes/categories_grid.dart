@@ -17,7 +17,7 @@ class CategoriesGrid extends StatelessWidget {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
           data: (_) => CategoryDishesGrid(dishes: _.value.categories),
-          loading: (_) => Progress(),
+          loading: (_) => Progressor(),
           error: (_) => ErrorText(error: _.error));
     });
   }

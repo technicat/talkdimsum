@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
 
 import 'package:talkdimsum/core/model/word.dart';
 
@@ -25,12 +27,12 @@ class WordWidget extends StatelessWidget {
         IconButton(
           icon: Icon(Icons.mic),
           tooltip: 'Play and practice this word',
-          onPressed: () {
+          onPressed: () => Get.to(PracticeWidget(word: word)), /*{
             Navigator.push(
                 context,
                 MaterialPageRoute(
                     builder: (context) => PracticeWidget(word: word)));
-          },
+          }, */
         ),
       ]),
       PronounceText(word:word)

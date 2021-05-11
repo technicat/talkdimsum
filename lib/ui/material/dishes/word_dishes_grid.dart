@@ -20,7 +20,7 @@ class WordDishesGrid extends StatelessWidget {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
           data: (_) => DishesGrid(dishes: _.value.dishes(word)),
-          loading: (_) => Progress(),
+          loading: (_) => Progressor(),
           error: (_) => ErrorText(error: _.error));
     });
   }
