@@ -246,6 +246,23 @@
             "address": "50 N La Cienega Blvd, Ste 13, Beverly Hills, CA 90211"
         },
         {
+            "title": "Da Chef Noodle",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dachefnoodlebd.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/da-chef-noodle-bermuda-dunes-3"
+                }
+            ],
+            "lat": 33.756340,
+            "lon": -116.303160,
+            "city": "Bermuda Dunes",
+            "address": "40100 Washington St Ste 141 Bermuda Dunes, CA 92203"
+        },
+        {
             "title": "Grand Harbor",
             "links": [
                 {
