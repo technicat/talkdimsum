@@ -36,12 +36,7 @@ class DishCardCellWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
         child: InkWell(
-            onTap: () => Get.to(DishScaffold(dish: dish)), /*{
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => DishScaffold(dish: dish)),
-              );
-            }, */
+            onTap: () => Get.to(DishScaffold(dish: dish)),
             child: DishImageTextWidget(dish: dish)));
   }
 }

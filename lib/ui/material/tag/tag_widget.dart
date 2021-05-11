@@ -11,13 +11,7 @@ class TagWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-        onTap: () /* {
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-                builder: (context) */ => WordDishesScaffold(word: tag),
-         // );
-      //  },
+        onTap: () => WordDishesScaffold(word: tag),
         child: Chip(
           /* avatar: CircleAvatar(
         backgroundColor: Colors.grey.shade800,

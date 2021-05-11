@@ -43,13 +43,7 @@ class SearchWord extends StatelessWidget {
                 return value.english.toLowerCase().contains(reg) ||
                     value.chineseText().contains(reg);
               },
-              onSelect: (dynamic selected) => Get.to(WordDishesScaffold(word: selected))), /* {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => WordDishesScaffold(word: selected)),
-                );
-              }), */
+              onSelect: (dynamic selected) => Get.to(WordDishesScaffold(word: selected))),
           loading: (_) => Progressor(),
           error: (_) => ErrorText(error: _.error));
     });

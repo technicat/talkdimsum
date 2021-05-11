@@ -17,22 +17,12 @@ class DishesScaffold extends StatelessWidget {
         IconButton(
           icon: Icon(Icons.favorite_border),
           tooltip: 'Favorites',
-          onPressed: () => Get.to(FavoritesScaffold()), /* {
-            Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => FavoritesScaffold()),
-            );
-          }, */
+          onPressed: () => Get.to(FavoritesScaffold()),
         ),
         IconButton(
           icon: Icon(Icons.search),
           tooltip: 'Search',
-          onPressed: () => Get.to(SearchWordScaffold()), /*{
-            Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => SearchWordScaffold()),
-            );
-          }, */
+          onPressed: () => Get.to(SearchWordScaffold()),
         ),
       ]),
       body: CategoriesGrid(),
