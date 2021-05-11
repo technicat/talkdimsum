@@ -8,11 +8,10 @@
 
 // https://blog.logrocket.com/flutter-push-notifications-with-firebase-cloud-messaging/
 
-import 'dart:io' show Platform;
-
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
+import 'package:get/get.dart';
 
 // import 'package:firebase_core/firebase_core.dart';
 // import 'package:firebase_messaging/firebase_messaging.dart';
@@ -35,15 +34,10 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Widget app;
-    try {
-      if (Platform.isIOS || Platform.isMacOS) {
+    if (GetPlatform.isIOS || GetPlatform.isMacOS) {
 //        registerNotifications();
-        app = cupertino.App();
-      } else {
-        app = material.App();
-      }
-    } catch (e) {
-      // Platform check above breaks on web
+      app = cupertino.App();
+    } else {
       app = material.App();
     }
     return MultiProvider(providers: [
