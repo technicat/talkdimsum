@@ -2,17 +2,33 @@
     "name": "Missouri",
     "places": [
         {
+            "title": "Bo Lings",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://bolings.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/bo-lings-kansas-city-7"
+                }
+            ],
+            "lat": 39.042112,
+            "lon": -94.594334,
+            "city": "Kansas City",
+            "address": "4701 Jefferson St Kansas City, MO 64112"
+        },
+        {
             "title": "Lu Lu Asian Kitchen",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.luluasiankitchenolive.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/lu-lu-seafood-saint-louis"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.luluasiankitchenolive.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lu-lu-seafood-saint-louis"
+                }
             ],
             "lat": 38.673290,
             "lon": -90.386300,
@@ -21,16 +37,15 @@
         },
         {
             "title": "Lu Lu Seafood",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.luluseafood.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/lu-lu-seafood-saint-louis"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.luluseafood.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lu-lu-seafood-saint-louis"
+                }
             ],
             "lat": 38.673490,
             "lon": -90.349790,
@@ -39,16 +54,15 @@
         },
         {
             "title": "Wei Hong Seafood Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://www.weihongolive.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/wei-hong-seafood-restaurant-saint-louis"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.weihongolive.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/wei-hong-seafood-restaurant-saint-louis"
+                }
             ],
             "lat": 38.671630,
             "lon": -90.337060,
@@ -57,43 +71,37 @@
         },
         {
             "title": "Wonton King",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"http://www.wontonkingstl.com"
-             },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/wonton-king-saint-louis-2"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.wontonkingstl.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/wonton-king-saint-louis-2"
+                }
             ],
             "lat": 38.673010,
             "lon": -90.346560,
             "city": "Saint Louis",
             "address": "8116 Olive Blvd, Saint Louis, MO 63130"
         },
-
         {
             "title": "Mandarin House Restaurant",
-            "links":
-            [
-            {
-                "name":"site",
-                "URL":"https://mandarinhousestlouis.com"
-            },
-            {
-                "name":"Yelp",
-                "URL":"https://www.yelp.com/biz/mandarin-house-restaurant-university-city"
-             }
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://mandarinhousestlouis.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mandarin-house-restaurant-university-city"
+                }
             ],
             "lat": 38.673020,
             "lon": -90.342580,
             "city": "University City",
             "address": "8004 Olive Blvd University City, MO 63130"
         }
-        
-       
- ]
-    
+    ]
 }
