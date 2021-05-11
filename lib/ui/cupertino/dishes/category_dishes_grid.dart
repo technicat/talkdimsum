@@ -1,5 +1,7 @@
 import 'package:flutter/cupertino.dart';
 
+import 'package:get/get.dart';
+
 import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/ui/common/dish/dish_image_text_widget.dart';
 import 'word_dishes_scaffold.dart';
@@ -29,12 +31,8 @@ class CategoryDishWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-        onTap: () {
-            Navigator.of(context, rootNavigator: true).push(
-                CupertinoPageRoute(
-                    builder: (context) => WordDishesScaffold(word: dish.word)),
-          );
-        },
+        onTap: () =>
+          Get.to(WordDishesScaffold(word: dish.word)),
         child: DishImageTextWidget(dish: dish));
   }
 }

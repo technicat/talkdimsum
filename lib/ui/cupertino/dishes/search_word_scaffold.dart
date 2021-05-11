@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:cupertino_search/cupertino_search.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/core/model/word.dart';
@@ -39,13 +40,7 @@ class SearchWord extends StatelessWidget {
                 return value.english.toLowerCase().contains(reg) ||
                     value.chineseText().contains(reg);
               },
-              onSelect: (dynamic selected) {
-                Navigator.push(
-                    context,
-                    CupertinoPageRoute(
-                        builder: (context) =>
-                            WordDishesScaffold(word: selected)));
-              }),
+              onSelect: (dynamic selected) => Get.to( WordDishesScaffold(word: selected))),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });

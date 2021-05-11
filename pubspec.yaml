@@ -39,6 +39,7 @@ dependencies:
   flutter_tts:
   fluttertoast:
   freezed_annotation:
+  get:
   json_annotation:
   path:
   path_provider:
