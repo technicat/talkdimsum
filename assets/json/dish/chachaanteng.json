@@ -250,5 +250,56 @@
                 "URL": "https://rasamalaysia.com/fried-cuttlefish-balls/"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "炸薯條",
+                "Simplified": "炸薯条",
+                "English": "french fries",
+                "Yale": "ja syùh tíu",
+                "Pinyin": "zhá shǔ tiáo",
+                "Resources": [
+                    {
+                        "name": "炸薯條",
+                        "URL": "https://en.wiktionary.org/wiki/炸薯條"
+                    },
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/炸"
+                    },
+                    {
+                        "name": "薯條",
+                        "URL": "https://en.wiktionary.org/wiki/薯條"
+                    },
+                    {
+                        "name": "薯",
+                        "URL": "https://en.wiktionary.org/wiki/薯"
+                    },
+                    {
+                        "name": "條",
+                        "URL": "https://en.wiktionary.org/wiki/條"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "frenchfriesluckyhouse",
+                "place": "Lucky House Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Hong Kong cafes serve sandwiches, so why not french fries\n\n炸 means “deep-fried,” 薯 is “potato” (also sweet potato), and 條 is a strip (also used as a classifier for something long and thin, e.g. “a river” is 一條河).",
+        "Tags": [
+            "炸",
+            "薯",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/French_fries"
+            }
+        ]
     }
 ]
