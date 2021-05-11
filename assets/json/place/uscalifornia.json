@@ -53,23 +53,6 @@
             "address": "1051 Pacific Marina, Alameda, CA 94501"
         },
         {
-            "title": "King Hua Restaurant",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://kinghuarestaurant.com"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/king-hua-restaurant-alhambra"
-                }
-            ],
-            "lat": 34.090880,
-            "lon": -118.145400,
-            "city": "Alhambra",
-            "address": "2000 W Main St, Alhambra, CA 91801"
-        },
-        {
             "title": "Lunasia Chinese Cuisine",
             "links": [
                 {
@@ -325,19 +308,6 @@
             "lon": -119.700560,
             "city": "Clovis",
             "address": "342 N Clovis Ave, Clovis, CA 93612"
-        },
-        {
-            "title": "Leisure Dessert",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/leisure-dessert-concord"
-                }
-            ],
-            "lat": 37.978020,
-            "lon": -122.034740,
-            "city": "Concord",
-            "address": "2151 Salvio St, Ste E, Concord, CA 94520"
         },
         {
             "title": "Dim Sum King",
