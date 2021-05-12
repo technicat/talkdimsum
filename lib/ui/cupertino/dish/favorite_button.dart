@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-
+import 'package:get/get.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
@@ -16,7 +16,7 @@ class FavoriteButton extends StatelessWidget {
     return Consumer(builder: (context, watch, child) {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
-          data: (_) => _.value.favorites.contains(dish)
+          data: (_) => Obx(() => _.value.favorites.contains(dish)
               ? CupertinoButton(
                   child: Icon(CupertinoIcons.heart_fill),
                   onPressed: () {
@@ -26,7 +26,7 @@ class FavoriteButton extends StatelessWidget {
                   child: Icon(CupertinoIcons.heart),
                   onPressed: () {
                     _.value.addFavorite(dish);
-                  }),
+                  })),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });
