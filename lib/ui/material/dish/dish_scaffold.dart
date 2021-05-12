@@ -24,7 +24,7 @@ class DishScaffold extends StatelessWidget {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
           data: (_) => Scaffold(
-              floatingActionButton: _.value.favorites.contains(dish)
+              floatingActionButton: Obx(() => _.value.favorites.contains(dish)
                   ? FloatingActionButton(
                       onPressed: () {
                         if (_.value.favorites.contains(dish)) {
@@ -44,7 +44,7 @@ class DishScaffold extends StatelessWidget {
                               snackPosition: SnackPosition.BOTTOM);
                         }
                       },
-                      child: Icon(Icons.favorite_border)),
+                      child: Icon(Icons.favorite_border))),
               appBar: AppBar(
                   //   title: Text('${dish.word.English}'),
                   actions: <Widget>[
