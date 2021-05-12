@@ -2,23 +2,6 @@
     "name": "Connecticut",
     "places": [
         {
-            "title": "Great Wall",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://greatwallnewhaven.com"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/great-wall-restaurant-new-haven"
-                }
-            ],
-            "lat": 41.312308,
-            "lon": -72.921907,
-            "city": "New Haven",
-            "address": "67 Whitney Ave New Haven, CT 06510"
-        },
-        {
             "title": "Steamed",
             "links": [
                 {
