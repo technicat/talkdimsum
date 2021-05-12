@@ -1,5 +1,6 @@
 import 'dart:collection'; // Map
 import 'dart:convert'; // json
+import 'package:get/get.dart';
 
 import 'package:flutter/foundation.dart' show ChangeNotifier;
 import 'package:flutter/services.dart' show rootBundle;
@@ -52,7 +53,9 @@ class DimSum with ChangeNotifier {
     return words;
   }
 
-  List<Dish> favorites = [];
+  //List<Dish> favorites = [];
+
+  var favorites = <Dish>[].obs;
 
   List<String> _categories = [];
 
@@ -147,11 +150,11 @@ class DimSum with ChangeNotifier {
   _loadFavorites() async {
     final db = await database();
     final maps = await db.query(table);
-    favorites = maps
+    favorites = RxList(maps
         .map((map) => dish(map['name'] as String))
         .where((dish) => dish != null)
         .map((dish) => dish!)
-        .toList() as List<Dish>;
+        .toList());
     notifyListeners();
   }
 }

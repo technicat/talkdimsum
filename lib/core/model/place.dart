@@ -6,8 +6,13 @@ import 'link.dart';
 
 import 'package:json_annotation/json_annotation.dart';
 
+//import 'package:freezed_annotation/freezed_annotation.dart';
+
 part 'place.g.dart';
 
+//part 'place.freezed.dart';
+
+//@freezed
 @JsonSerializable()
 class Place {
   @JsonKey(name: 'title', required: true)
@@ -25,14 +30,11 @@ class Place {
 
   Map<String, dynamic> toJson() => _$PlaceToJson(this);
 
-  String get googleMapURL {
-    return sprintf(
+  void showGoogleMap() {
+    var url = sprintf(
         'https://www.google.com/maps/search/?api=1&query=%2.2f,%2.2f',
         [lat, lon]);
-  }
-
-  void showGoogleMap() {
-    launch(googleMapURL);
+    launch(url);
   }
 
   void share() {
