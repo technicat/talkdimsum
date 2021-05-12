@@ -29,9 +29,9 @@ class DishScaffold extends StatelessWidget {
                       onPressed: () {
                         if (_.value.favorites.contains(dish)) {
                           _.value.removeFavorite(dish);
-                          Get.snackbar('', "Removed from favorites",
+                       /*   Get.snackbar('', "Removed from favorites",
                               backgroundColor: Colors.white,
-                              snackPosition: SnackPosition.BOTTOM);
+                              snackPosition: SnackPosition.BOTTOM); */
                         }
                       },
                       child: Icon(Icons.favorite))
@@ -39,9 +39,9 @@ class DishScaffold extends StatelessWidget {
                       onPressed: () {
                         if (!_.value.favorites.contains(dish)) {
                           _.value.addFavorite(dish);
-                          Get.snackbar('', "Added to favorites",
+                       /*   Get.snackbar('', "Added to favorites",
                               backgroundColor: Colors.white,
-                              snackPosition: SnackPosition.BOTTOM);
+                              snackPosition: SnackPosition.BOTTOM); */
                         }
                       },
                       child: Icon(Icons.favorite_border))),
