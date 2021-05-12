@@ -53,8 +53,6 @@ class DimSum with ChangeNotifier {
     return words;
   }
 
-  //List<Dish> favorites = [];
-
   var favorites = <Dish>[].obs;
 
   List<String> _categories = [];

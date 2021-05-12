@@ -29,7 +29,8 @@ class DishScaffold extends StatelessWidget {
                       onPressed: () {
                         if (_.value.isFavorite(dish)) {
                           _.value.removeFavorite(dish);
-                          Get.snackbar('', "Removed from favorites");
+                          Get.snackbar('', "Removed from favorites",
+                              snackPosition: SnackPosition.BOTTOM);
                         }
                       },
                       child: Icon(Icons.favorite))
@@ -37,7 +38,8 @@ class DishScaffold extends StatelessWidget {
                       onPressed: () {
                         if (!_.value.isFavorite(dish)) {
                           _.value.addFavorite(dish);
-                          Get.snackbar('', "Added to favorites");
+                          Get.snackbar('', "Added to favorites",
+                              snackPosition: SnackPosition.BOTTOM);
                         }
                       },
                       child: Icon(Icons.favorite_border)),
