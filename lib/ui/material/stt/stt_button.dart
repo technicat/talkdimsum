@@ -30,6 +30,7 @@ class STTButton extends StatelessWidget {
                         stt.listen(word, settings.language);
                       } catch (e) {
                         Get.snackbar('Speech-to-text error', e.toString(),
+                            backgroundColor: Colors.white,
                             snackPosition: SnackPosition.BOTTOM);
                       }
                     })));

@@ -114,12 +114,12 @@ class DimSum with ChangeNotifier {
     );
   }
 
-  bool isFavorite(Dish dish) {
+ /* bool isFavorite(Dish dish) {
     return favorites.contains(dish);
-  }
+  } */
 
   addFavorite(Dish dish) async {
-    if (!isFavorite(dish)) {
+    if (!favorites.contains(dish)) {
       favorites.add(dish);
       final db = await database();
       await db.insert(
@@ -132,7 +132,7 @@ class DimSum with ChangeNotifier {
   }
 
   removeFavorite(Dish dish) async {
-    if (isFavorite(dish)) {
+    if (favorites.contains(dish)) {
       favorites.remove(dish);
       final db = await database();
       await db.delete(

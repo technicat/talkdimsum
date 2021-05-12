@@ -24,21 +24,23 @@ class DishScaffold extends StatelessWidget {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
           data: (_) => Scaffold(
-              floatingActionButton: _.value.isFavorite(dish)
+              floatingActionButton: _.value.favorites.contains(dish)
                   ? FloatingActionButton(
                       onPressed: () {
-                        if (_.value.isFavorite(dish)) {
+                        if (_.value.favorites.contains(dish)) {
                           _.value.removeFavorite(dish);
                           Get.snackbar('', "Removed from favorites",
+                              backgroundColor: Colors.white,
                               snackPosition: SnackPosition.BOTTOM);
                         }
                       },
                       child: Icon(Icons.favorite))
                   : FloatingActionButton(
                       onPressed: () {
-                        if (!_.value.isFavorite(dish)) {
+                        if (!_.value.favorites.contains(dish)) {
                           _.value.addFavorite(dish);
                           Get.snackbar('', "Added to favorites",
+                              backgroundColor: Colors.white,
                               snackPosition: SnackPosition.BOTTOM);
                         }
                       },

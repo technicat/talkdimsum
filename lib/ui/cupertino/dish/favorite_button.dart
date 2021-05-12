@@ -16,7 +16,7 @@ class FavoriteButton extends StatelessWidget {
     return Consumer(builder: (context, watch, child) {
       var dimsum = watch(dimsumProvider);
       return dimsum.map(
-          data: (_) => _.value.isFavorite(dish)
+          data: (_) => _.value.favorites.contains(dish)
               ? CupertinoButton(
                   child: Icon(CupertinoIcons.heart_fill),
                   onPressed: () {
@@ -32,3 +32,6 @@ class FavoriteButton extends StatelessWidget {
     });
   }
 }
+
+    
+

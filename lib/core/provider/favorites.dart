@@ -1,4 +1,4 @@
-import 'package:flutter/foundation.dart' show ChangeNotifier;
+/* import 'package:flutter/foundation.dart' show ChangeNotifier;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -40,7 +40,7 @@ class Favorites extends StateNotifier<List<Dish>> {
   }
 
   addFavorite(Dish dish) async {
-    if (!isFavorite(dish)) {
+    if (!favorites.contains(dish)) {
       favorites.add(dish);
       final db = await database();
       await db.insert(
@@ -53,7 +53,7 @@ class Favorites extends StateNotifier<List<Dish>> {
   }
 
   removeFavorite(Dish dish) async {
-    if (isFavorite(dish)) {
+    if (favorites.contains(dish)) {
       favorites.remove(dish);
       final db = await database();
       await db.delete(
@@ -77,3 +77,4 @@ class Favorites extends StateNotifier<List<Dish>> {
     notifyListeners();
   }ß */
 }
+*/
