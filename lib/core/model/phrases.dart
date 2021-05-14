@@ -16,7 +16,7 @@ class Phrases {
 
   factory Phrases.fromJson(Map<String, dynamic> json) => _$PhrasesFromJson(json);
 
-  Map<String, dynamic> toJson() => _$PhrasesToJson(this);
+//  Map<String, dynamic> toJson() => _$PhrasesToJson(this);
 
   static Future<Phrases> loadPhraseList(String path) async {
     var phrases = await rootBundle

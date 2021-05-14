@@ -27,7 +27,7 @@ class Dish {
 
   factory Dish.fromJson(Map<String, dynamic> json) => _$DishFromJson(json);
 
-  Map<String, dynamic> toJson() => _$DishToJson(this);
+ // Map<String, dynamic> toJson() => _$DishToJson(this);
 
   bool hasTag(Word tag) {
     return tags.contains(tag.id);

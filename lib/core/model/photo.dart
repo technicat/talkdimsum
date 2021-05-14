@@ -12,5 +12,5 @@ class Photo {
 
   factory Photo.fromJson(Map<String, dynamic> json) => _$PhotoFromJson(json);
 
-  Map<String, dynamic> toJson() => _$PhotoToJson(this);
+//  Map<String, dynamic> toJson() => _$PhotoToJson(this);
 }

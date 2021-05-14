@@ -1,5 +1,6 @@
 import 'package:url_launcher/url_launcher.dart';
-
+import 'package:flutter/foundation.dart';
+import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'link.g.dart';
@@ -15,7 +16,7 @@ class Link {
 
   factory Link.fromJson(Map<String, dynamic> json) => _$LinkFromJson(json);
 
-  Map<String, dynamic> toJson() => _$LinkToJson(this);
+//  Map<String, dynamic> toJson() => _$LinkToJson(this);
 
   void goto() {
     launch(url);

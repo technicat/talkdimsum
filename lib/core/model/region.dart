@@ -67,7 +67,7 @@ class Region {
 
   factory Region.fromJson(Map<String, dynamic> json) => _$RegionFromJson(json);
 
-  Map<String, dynamic> toJson() => _$RegionToJson(this);
+  //Map<String, dynamic> toJson() => _$RegionToJson(this);
 
   static Future<List<Region>> loadPaths(
       String path, List<String> filenames) async {

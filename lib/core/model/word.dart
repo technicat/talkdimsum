@@ -37,7 +37,7 @@ class Word {
 
   factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);
 
-  Map<String, dynamic> toJson() => _$WordToJson(this);
+ // Map<String, dynamic> toJson() => _$WordToJson(this);
 
   String chineseText([Chinese lang = Chinese.Cantonese]) {
     // assert(cantonese != null, 'word for $english has no Cantonese!');
