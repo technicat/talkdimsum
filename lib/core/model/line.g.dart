@@ -6,8 +6,8 @@ part of 'line.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-Line _$LineFromJson(Map<String, dynamic> json) {
-  return Line(
+_$_Line _$_$_LineFromJson(Map<String, dynamic> json) {
+  return _$_Line(
     json['name'] as String,
     (json['words'] as List<dynamic>)
         .map((e) => Word.fromJson(e as Map<String, dynamic>))
@@ -15,7 +15,7 @@ Line _$LineFromJson(Map<String, dynamic> json) {
   );
 }
 
-Map<String, dynamic> _$LineToJson(Line instance) => <String, dynamic>{
+Map<String, dynamic> _$_$_LineToJson(_$_Line instance) => <String, dynamic>{
       'name': instance.name,
       'words': instance.words,
     };
