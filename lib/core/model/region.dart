@@ -6,6 +6,8 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'place.dart';
 
 import 'package:json_annotation/json_annotation.dart';
+import 'package:freezed_annotation/freezed_annotation.dart';
+
 
 part 'region.g.dart';
 
