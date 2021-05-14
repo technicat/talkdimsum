@@ -25,7 +25,8 @@ class DishTapImageWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-        onTap: () =>  Get.snackbar('Photo taken at ',(dish.images[0].place ?? 'unknown'),snackPosition: SnackPosition.BOTTOM),
+        onTap: () => Get.snackbar('Photo taken at ', dish.images[0].place,
+            snackPosition: SnackPosition.BOTTOM),
         child: DishImageWidget(dish: dish));
   }
 }
