@@ -1,7 +1,8 @@
 /* Technicat LLC */
-import 'dart:io' show Platform;
+//import 'dart:io' show Platform;
 
 import 'package:flutter_tts/flutter_tts.dart';
+import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/model/language.dart';
 import 'package:talkdimsum/core/model/word.dart';
@@ -12,7 +13,7 @@ class TTS {
   static Future _say(String text, Chinese lang, double speed) async {
     try {
       // Platform check fails on web
-      if (Platform.isIOS || Platform.isMacOS) {
+      if (GetPlatform.isIOS || GetPlatform.isMacOS) {
         await flutterTts
             .setSpeechRate(speed * 0.35); // tts plays back fast on ios
       } else {

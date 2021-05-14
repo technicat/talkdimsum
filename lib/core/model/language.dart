@@ -1,12 +1,14 @@
 /* Technicat LLC */
 
-import 'dart:io' show Platform;
+//import 'dart:io' show Platform;
+
+import 'package:get/get.dart';
 
 class Language {
 // this could be a Map
   static String locale(Chinese lang) {
     try {
-      if (Platform.isIOS || Platform.isMacOS) {
+      if (GetPlatform.isIOS || GetPlatform.isMacOS) {
         switch (lang) {
           case Chinese.Cantonese:
             return 'zh-HK';
@@ -18,7 +20,7 @@ class Language {
             return 'zh-HK';
         }
       }
-      if (Platform.isAndroid) {
+      if (GetPlatform.isAndroid) {
         switch (lang) {
           case Chinese.Cantonese:
             return 'yue-HK';
@@ -30,7 +32,7 @@ class Language {
             return 'yue-HK';
         }
       }
-      if (Platform.isWindows) {
+      if (GetPlatform.isWindows) {
         switch (lang) {
           case Chinese.Cantonese:
             return 'zh-HK';
