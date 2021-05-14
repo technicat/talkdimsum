@@ -6,8 +6,8 @@ part of 'phrases.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-Phrases _$PhrasesFromJson(Map<String, dynamic> json) {
-  return Phrases(
+_$_Phrases _$_$_PhrasesFromJson(Map<String, dynamic> json) {
+  return _$_Phrases(
     json['name'] as String,
     (json['lines'] as List<dynamic>)
         .map((e) => Line.fromJson(e as Map<String, dynamic>))
@@ -15,7 +15,8 @@ Phrases _$PhrasesFromJson(Map<String, dynamic> json) {
   );
 }
 
-Map<String, dynamic> _$PhrasesToJson(Phrases instance) => <String, dynamic>{
+Map<String, dynamic> _$_$_PhrasesToJson(_$_Phrases instance) =>
+    <String, dynamic>{
       'name': instance.name,
       'lines': instance.lines,
     };
