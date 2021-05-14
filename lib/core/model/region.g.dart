@@ -6,18 +6,16 @@ part of 'region.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-Region _$RegionFromJson(Map<String, dynamic> json) {
-  $checkKeys(json, requiredKeys: const ['name']);
-  return Region(
+_$_Region _$_$_RegionFromJson(Map<String, dynamic> json) {
+  return _$_Region(
     json['name'] as String,
-    (json['places'] as List<dynamic>?)
-            ?.map((e) => Place.fromJson(e as Map<String, dynamic>))
-            .toList() ??
-        [],
+    (json['places'] as List<dynamic>)
+        .map((e) => Place.fromJson(e as Map<String, dynamic>))
+        .toList(),
   );
 }
 
-Map<String, dynamic> _$RegionToJson(Region instance) => <String, dynamic>{
+Map<String, dynamic> _$_$_RegionToJson(_$_Region instance) => <String, dynamic>{
       'name': instance.name,
       'places': instance.places,
     };

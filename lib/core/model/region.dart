@@ -10,14 +10,19 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 
 
 part 'region.g.dart';
+part 'region.freezed.dart';
 
-@JsonSerializable()
-class Region {
+//@JsonSerializable()
+@freezed
+class Region with _$Region {
+  Region._(); /* {
   @JsonKey(required: true)
   final String name;
   //final double zoom;
   @JsonKey(defaultValue: [])
-  final List<Place> places;
+  final List<Place> places; */
+
+  factory Region(@required String name, @required List<Place> places) = _Region;
 
   double get minzoom {
     return min(latzoom, lonzoom);
@@ -65,7 +70,7 @@ class Region {
     return places.map((place) => place.lon).reduce((a, b) => max(a, b));
   }
 
-  Region(this.name, this.places);
+  //Region(this.name, this.places);
 
   factory Region.fromJson(Map<String, dynamic> json) => _$RegionFromJson(json);
 
