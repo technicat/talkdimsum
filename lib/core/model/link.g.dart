@@ -6,15 +6,14 @@ part of 'link.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-Link _$LinkFromJson(Map<String, dynamic> json) {
-  $checkKeys(json, requiredKeys: const ['name', 'URL']);
-  return Link(
+_$_Link _$_$_LinkFromJson(Map<String, dynamic> json) {
+  return _$_Link(
     json['name'] as String,
     json['URL'] as String,
   );
 }
 
-Map<String, dynamic> _$LinkToJson(Link instance) => <String, dynamic>{
+Map<String, dynamic> _$_$_LinkToJson(_$_Link instance) => <String, dynamic>{
       'name': instance.name,
       'URL': instance.url,
     };
