@@ -19,17 +19,20 @@ class WordWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(children: [
-      EnglishText(word:word),
+      EnglishText(word: word),
       Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: <Widget>[
-        PlayButton(word:word),
-        ChineseText(word:word),
+        PlayButton(word: word),
+        ChineseText(word: word),
         IconButton(
-          icon: Icon(Icons.mic),
+          icon: Icon(
+            Icons.mic,
+            semanticLabel: 'Play and practice this word',
+          ),
           tooltip: 'Play and practice this word',
           onPressed: () => Get.to(PracticeWidget(word: word)),
         ),
       ]),
-      PronounceText(word:word)
+      PronounceText(word: word)
     ]);
   }
 }

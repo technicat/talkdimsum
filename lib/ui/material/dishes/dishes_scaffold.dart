@@ -15,12 +15,12 @@ class DishesScaffold extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: Text('Talk Dim Sum'), actions: <Widget>[
         IconButton(
-          icon: Icon(Icons.favorite_border),
+          icon: Icon(Icons.favorite_border, semanticLabel: 'Favorites'),
           tooltip: 'Favorites',
           onPressed: () => Get.to(FavoritesScaffold()),
         ),
         IconButton(
-          icon: Icon(Icons.search),
+          icon: Icon(Icons.search, semanticLabel: 'Search'),
           tooltip: 'Search',
           onPressed: () => Get.to(SearchWordScaffold()),
         ),
@@ -43,7 +43,7 @@ class DishesScaffold extends StatelessWidget {
                 launch('http://technicat.com');
               },
             ),
-             ListTile(
+            ListTile(
               title: Text('Talk Dim Sum'),
               onTap: () {
                 launch('http://talkdimsum.com');
@@ -57,7 +57,7 @@ class DishesScaffold extends StatelessWidget {
                 // StoreRedirect.redirect();
               },
             ),
-               ListTile(
+            ListTile(
               title: Text('Settings'),
               onTap: () {
                 AppSettings.openAppSettings();

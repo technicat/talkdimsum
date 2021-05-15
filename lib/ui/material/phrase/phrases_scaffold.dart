@@ -33,7 +33,8 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
                     title: phrases == null ? Text('') : Text(phrases!.name),
                     actions: [
                       PopupMenuButton<Phrases>(
-                        icon: Icon(Icons.menu),
+                        icon: Icon(Icons.menu,
+                        semanticLabel: 'Choose phrases'),
                         onSelected: (value) {
                           setState(() {
                             phrases = value;

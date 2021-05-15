@@ -29,27 +29,24 @@ class DishScaffold extends StatelessWidget {
                       onPressed: () {
                         if (_.value.favorites.contains(dish)) {
                           _.value.removeFavorite(dish);
-                       /*   Get.snackbar('', "Removed from favorites",
-                              backgroundColor: Colors.white,
-                              snackPosition: SnackPosition.BOTTOM); */
                         }
                       },
-                      child: Icon(Icons.favorite))
+                      child: Icon(Icons.favorite,
+                          semanticLabel: 'Remove this dish from favorites'))
                   : FloatingActionButton(
                       onPressed: () {
                         if (!_.value.favorites.contains(dish)) {
                           _.value.addFavorite(dish);
-                       /*   Get.snackbar('', "Added to favorites",
-                              backgroundColor: Colors.white,
-                              snackPosition: SnackPosition.BOTTOM); */
                         }
                       },
-                      child: Icon(Icons.favorite_border))),
+                      child: Icon(Icons.favorite_border,
+                          semanticLabel: 'Add this dish to favorites'))),
               appBar: AppBar(
                   //   title: Text('${dish.word.English}'),
                   actions: <Widget>[
                     PopupMenuButton<String>(
-                      icon: Icon(Icons.help),
+                      icon: Icon(Icons.help,
+                          semanticLabel: 'Learn the characters'),
                       onSelected: (String value) {
                         launch(value);
                       },
@@ -61,7 +58,7 @@ class DishScaffold extends StatelessWidget {
                       },
                     ),
                     PopupMenuButton<String>(
-                      icon: Icon(Icons.info),
+                      icon: Icon(Icons.info, semanticLabel: 'Share and learn about this dish'),
                       onSelected: (String value) {
                         switch (value) {
                           case 'share':

@@ -18,13 +18,15 @@ class STTButton extends StatelessWidget {
         builder: (context, settings, child) => Consumer<STT>(
             builder: (context, stt, child) => stt.status == STTStatus.Listening
                 ? MaterialButton(
-                    child: Icon(Icons.pause),
+                    child: Icon(Icons.pause,
+                    semanticLabel: 'Stop listening to me'),
                     onPressed: () {
                       stt.stop();
                     },
                   )
                 : MaterialButton(
-                    child: Icon(Icons.mic),
+                    child: Icon(Icons.mic,
+                    semanticLabel: 'Start listening to me'),
                     onPressed: () {
                       try {
                         stt.listen(word, settings.language);

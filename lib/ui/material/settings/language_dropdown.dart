@@ -11,18 +11,16 @@ class LanguageDropdown extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<Settings>(builder: (context, settings, child) {
       return DropdownButton<Chinese>(
-        icon: Icon(Icons.language),
-        value: settings.language,
-        onChanged: (value) {
-          settings.language = value!;
-        },
-        // should map Chinese.values
-        items: Chinese.values.map((value) => 
-          DropdownMenuItem<Chinese>(
-            value: value, child: Text(settings.languageName(value))))
-      .toList());
-    }
-    );
+          icon: Icon(Icons.language, semanticLabel: 'Choose a language'),
+          value: settings.language,
+          onChanged: (value) {
+            settings.language = value!;
+          },
+          // should map Chinese.values
+          items: Chinese.values
+              .map((value) => DropdownMenuItem<Chinese>(
+                  value: value, child: Text(settings.languageName(value))))
+              .toList());
+    });
   }
 }
-
