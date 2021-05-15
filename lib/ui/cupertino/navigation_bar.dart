@@ -15,15 +15,24 @@ class NavigationBar extends StatelessWidget {
         tabBar: CupertinoTabBar(
           items: [
             BottomNavigationBarItem(
-                icon: Icon(CupertinoIcons.home), label: 'Dishes'),
+                icon: Icon(CupertinoIcons.home, semanticLabel: 'Browse dishes'),
+                label: 'Dishes'),
             BottomNavigationBarItem(
-                icon: Icon(CupertinoIcons.search), label: 'Search'),
+                icon:
+                    Icon(CupertinoIcons.search, semanticLabel: 'Search dishes'),
+                label: 'Search'),
             BottomNavigationBarItem(
-                icon: Icon(CupertinoIcons.heart), label: 'Favorites'),
+                icon: Icon(CupertinoIcons.heart,
+                    semanticLabel: 'Browse your favorite dishes'),
+                label: 'Favorites'),
             BottomNavigationBarItem(
-                icon: Icon(CupertinoIcons.chat_bubble), label: 'Phrases'),
+                icon: Icon(CupertinoIcons.chat_bubble,
+                    semanticLabel: 'Learn Chinese phrases'),
+                label: 'Phrases'),
             BottomNavigationBarItem(
-                icon: Icon(CupertinoIcons.map), label: 'Places'),
+                icon: Icon(CupertinoIcons.map,
+                    semanticLabel: 'Find dim sum restaurants'),
+                label: 'Places'),
           ],
         ),
         tabBuilder: (BuildContext context, int index) {
