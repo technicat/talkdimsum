@@ -33,11 +33,17 @@ class NavigationBarState extends State<NavigationBar> {
       body: _widgetOptions.elementAt(_selectedIndex),
       bottomNavigationBar: BottomNavigationBar(
         items: [
-          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Dishes'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.chat_bubble_outline), label: 'Phrases'),
+              icon: Icon(Icons.home, semanticLabel: 'Browse dishes'),
+              label: 'Dishes'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.restaurant_menu), label: 'Places'),
+              icon: Icon(Icons.chat_bubble_outline,
+                  semanticLabel: 'Learn Chinese phrases'),
+              label: 'Phrases'),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.restaurant_menu,
+                  semanticLabel: 'Find dim sum restaurants'),
+              label: 'Places'),
         ],
         currentIndex: _selectedIndex,
         //  fixedColor: Colors.deepPurple,

@@ -16,7 +16,7 @@ class PlayButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<Settings>(builder: (context, settings, child) {
       return CupertinoButton(
-        child: Icon(CupertinoIcons.volume_up),
+        child: Icon(CupertinoIcons.volume_up,semanticLabel: 'Pronounce this word'),
         onPressed: () {
           TTS.say(word, settings.language, settings.speed);
         },

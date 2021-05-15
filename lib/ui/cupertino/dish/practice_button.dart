@@ -13,7 +13,8 @@ class PracticeButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoButton(
-      child: Icon(CupertinoIcons.mic),
+      child: Icon(CupertinoIcons.mic,
+          semanticLabel: 'Practice pronouncing this word'),
       onPressed: () => Get.to(PracticeWidget(word: word)),
     );
   }

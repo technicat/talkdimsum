@@ -18,17 +18,18 @@ class STTButton extends StatelessWidget {
         builder: (context, settings, child) => Consumer<STT>(
             builder: (context, stt, child) => stt.status == STTStatus.Listening
                 ? CupertinoButton(
-                    child: Icon(CupertinoIcons.pause),
+                    child: Icon(CupertinoIcons.pause,
+                        semanticLabel: 'Stop listening to me'),
                     onPressed: () {
                       stt.stop();
                     },
                   )
                 : CupertinoButton(
-                    child: Icon(CupertinoIcons.mic),
+                    child: Icon(CupertinoIcons.mic,
+                        semanticLabel: 'Start listening to me'),
                     onPressed: () {
                       stt.listen(word, settings.language);
                     },
                   )));
   }
 }
-
