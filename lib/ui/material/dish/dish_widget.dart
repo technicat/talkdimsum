@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:talkdimsum/core/model/dish.dart';
 
 import 'package:talkdimsum/ui/common/dish/dish_description_widget.dart';
-import 'package:talkdimsum/ui/common/dish/dish_image_widget.dart';
+import 'package:talkdimsum/ui/common/dish/dish_tap_image_widget.dart';
 
 import '../word/word_widget.dart';
 

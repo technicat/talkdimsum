@@ -16,17 +16,3 @@ class DishImageWidget extends StatelessWidget {
             fit: BoxFit.fill));
   }
 }
-
-class DishTapImageWidget extends StatelessWidget {
-  final Dish dish;
-
-  DishTapImageWidget({Key? key, required this.dish}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return GestureDetector(
-        onTap: () => Get.snackbar('Photo taken at ', dish.images[0].place,
-            snackPosition: SnackPosition.BOTTOM),
-        child: DishImageWidget(dish: dish));
-  }
-}

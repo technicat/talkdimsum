@@ -117,8 +117,12 @@
       "address": "3730 Las Vegas Blvd S"
     },
     {
-      "title": "Lucky House Cafe",
+      "title": "Lucky House Asian Cafe",
       "links": [
+        {
+          "name": "site",
+          "URL": "https://www.chineserestaurantlasvegas.com/"
+        },
         {
           "name": "Yelp",
           "URL": "https://www.yelp.com/biz/lucky-house-cafe-las-vegas"
