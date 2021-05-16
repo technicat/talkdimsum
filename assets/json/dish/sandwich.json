@@ -2,6 +2,52 @@
     {
         "words": [
             {
+                "Chinese": "三文治",
+                "English": "sandwich",
+                "Yale": "sāam màhn jih",
+                "Pinyin": "sān wén zhì",
+                "Resources": [
+                    {
+                        "name": "三文治",
+                        "URL": "https://en.wiktionary.org/wiki/三文治"
+                    },
+                    {
+                        "name": "三",
+                        "URL": "https://en.wiktionary.org/wiki/三"
+                    },
+                    {
+                        "name": "文",
+                        "URL": "https://en.wiktionary.org/wiki/文"
+                    },
+                    {
+                        "name": "治",
+                        "URL": "https://en.wiktionary.org/wiki/治"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "clubsandwichhorizontalluckyhouse",
+                "place": "Lucky House Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "A Hong Kong-style sandwich.\n\n三文治 sounds sort of like “sandwich” (the first two characters are also used for “salmon” 三文魚 “sāam màhn yùh”).",
+        "Tags": [
+            "港式",
+            "三文治",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "公司三文治",
                 "English": "club sandwich",
                 "Yale": "gūng sī sāam màhn jih",
