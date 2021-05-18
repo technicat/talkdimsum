@@ -27,10 +27,7 @@ class Phrases with _$Phrases {
 
 //  Map<String, dynamic> toJson() => _$PhrasesToJson(this);
 
-  static Future<Phrases> loadPhraseList(String path) async {
-    var phrases = await rootBundle
-        .loadString(path + '.json')
-        .then((str) => Phrases.fromJson(jsonDecode(str)));
-    return phrases;
-  }
+  static Future<Phrases> loadPhraseList(String path) async => await rootBundle
+      .loadString(path + '.json')
+      .then((str) => Phrases.fromJson(jsonDecode(str)));
 }
