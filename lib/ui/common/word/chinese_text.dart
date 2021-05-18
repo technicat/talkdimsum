@@ -13,9 +13,9 @@ class ChineseText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<Settings>(
-        builder: (context, settings, child) => Text(
+        builder: (context, settings, child) => ExcludeSemantics(child: Text(
             '${word.chineseText(settings.language)}',
             textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 24)));
+            style: TextStyle(fontSize: 24))));
   }
 }
