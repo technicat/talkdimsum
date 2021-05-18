@@ -29,7 +29,5 @@ class Dish {
 
  // Map<String, dynamic> toJson() => _$DishToJson(this);
 
-  bool hasTag(Word tag) {
-    return tags.contains(tag.id);
-  }
+  bool hasTag(Word tag) => tags.contains(tag.id);
 }

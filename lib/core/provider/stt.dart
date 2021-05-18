@@ -26,9 +26,7 @@ class STT with ChangeNotifier {
 
   STTStatus _status = STTStatus.NotListening;
 
-  STTStatus get status {
-    return _status;
-  }
+  STTStatus get status => _status;
 
   String lastWords = '';
   String lastError = '';

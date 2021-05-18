@@ -28,9 +28,7 @@ class Settings with ChangeNotifier {
 
   Chinese _language = Chinese.Cantonese;
 
-  Chinese get language {
-    return _language;
-  }
+  Chinese get language => _language;
 
   set language(Chinese language) {
     _language = language;
@@ -40,9 +38,7 @@ class Settings with ChangeNotifier {
 
   double _speed = 0.5;
 
-  double get speed {
-    return _speed;
-  }
+  double get speed => _speed;
 
   set speed(double speed) {
     _speed = speed;
@@ -50,7 +46,5 @@ class Settings with ChangeNotifier {
     prefs.setDouble('speed', speed);
   }
 
-  String languageName(Chinese language) {
-    return describeEnum(language);
-  }
+  String languageName(Chinese language) => describeEnum(language);
 }

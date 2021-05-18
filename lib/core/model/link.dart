@@ -25,7 +25,5 @@ class Link with _$Link {
 
 //  Map<String, dynamic> toJson() => _$LinkToJson(this);
 
-  void goto() {
-    launch(url);
-  }
+  goto() => launch(url);
 }
