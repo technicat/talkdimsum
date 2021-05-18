@@ -73,7 +73,5 @@ class Word {
     }
   }
 
-  String display() {
-    return '$english ${chineseText(Chinese.Cantonese)}';
-  }
+  String display() => '$english ${chineseText(Chinese.Cantonese)}';
 }

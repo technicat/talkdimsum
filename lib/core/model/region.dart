@@ -24,9 +24,7 @@ class Region with _$Region {
 
   factory Region(@required String name, @required List<Place> places) = _Region;
 
-  double get minzoom {
-    return min(latzoom, lonzoom);
-  }
+/*  double get minzoom => min(latzoom, lonzoom);
 
   double get latzoom {
     var len = latlen;
@@ -69,7 +67,7 @@ class Region with _$Region {
   double get lonmax {
     return places.map((place) => place.lon).reduce((a, b) => max(a, b));
   }
-
+*/
   //Region(this.name, this.places);
 
   factory Region.fromJson(Map<String, dynamic> json) => _$RegionFromJson(json);
