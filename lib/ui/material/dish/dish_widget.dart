@@ -15,12 +15,10 @@ class DishWidget extends StatelessWidget {
   DishWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Column(children: [
-      WordWidget(word: dish.word),
-      Expanded(child: DishDescriptionWidget(dish: dish)),
-      TagsRow(dish: dish),
-      DishTapImageWidget(dish: dish)
-    ]);
-  }
+  Widget build(BuildContext context) => Column(children: [
+        WordWidget(word: dish.word),
+        Expanded(child: DishDescriptionWidget(dish: dish)),
+        TagsRow(dish: dish),
+        DishTapImageWidget(dish: dish)
+      ]);
 }

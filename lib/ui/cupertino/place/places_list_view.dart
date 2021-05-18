@@ -13,19 +13,18 @@ class PlacesListView extends StatelessWidget {
   PlacesListView({Key? key, required this.region}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return ListView(
-        children: region.places
-            .map((place) => PlaceRow(region: region, place: place))
-            .toList());
-  }
+  Widget build(BuildContext context) => ListView(
+      children: region.places
+          .map((place) => PlaceRow(region: region, place: place))
+          .toList());
 }
 
 class PlaceRow extends StatelessWidget {
   final Region region;
   final Place place;
 
-  PlaceRow({Key? key, required this.region, required this.place}) : super(key: key);
+  PlaceRow({Key? key, required this.region, required this.place})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {

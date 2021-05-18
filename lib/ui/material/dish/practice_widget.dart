@@ -17,17 +17,15 @@ class PracticeWidget extends StatelessWidget {
   PracticeWidget({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        appBar: AppBar(title: Text('${word.english}')),
-        body: Column(children: <Widget>[
-          LanguageDropdown(),
-          SpeedSlider(),
-          PlayButton(word: word),
-          ChineseText(word: word),
-          PronounceText(word: word),
-          Spacer(),
-          STTWidget(word: word)
-        ]));
-  }
+  Widget build(BuildContext context) => Scaffold(
+      appBar: AppBar(title: Text('${word.english}')),
+      body: Column(children: <Widget>[
+        LanguageDropdown(),
+        SpeedSlider(),
+        PlayButton(word: word),
+        ChineseText(word: word),
+        PronounceText(word: word),
+        Spacer(),
+        STTWidget(word: word)
+      ]));
 }

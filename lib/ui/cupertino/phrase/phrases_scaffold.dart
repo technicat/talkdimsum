@@ -6,12 +6,9 @@ import 'phrases_widget.dart';
 
 class PhrasesScaffold extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    return CupertinoPageScaffold(
-        navigationBar: CupertinoNavigationBar(
-          middle: Text('Phrases'),
-        ),
-        child: PhrasesWidget());
-  }
+  Widget build(BuildContext context) => CupertinoPageScaffold(
+      navigationBar: CupertinoNavigationBar(
+        middle: Text('Phrases'),
+      ),
+      child: PhrasesWidget());
 }
-

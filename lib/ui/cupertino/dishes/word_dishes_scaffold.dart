@@ -10,12 +10,9 @@ class WordDishesScaffold extends StatelessWidget {
   WordDishesScaffold({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return CupertinoPageScaffold(
-        navigationBar: CupertinoNavigationBar(
-          middle: Text(word.display()),
-        ),
-        child: SafeArea(child: WordDishesGrid(word: word)));
-  }
+  Widget build(BuildContext context) => CupertinoPageScaffold(
+      navigationBar: CupertinoNavigationBar(
+        middle: Text(word.display()),
+      ),
+      child: SafeArea(child: WordDishesGrid(word: word)));
 }
-

@@ -4,14 +4,9 @@ import 'favorites_grid.dart';
 
 class FavoritesScaffold extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    return CupertinoPageScaffold(
-        navigationBar: CupertinoNavigationBar(
-          middle: Text('Favorites'),
-        ),
-        child: SafeArea(
-            child: FavoritesGrid()));
-  }
+  Widget build(BuildContext context) => CupertinoPageScaffold(
+      navigationBar: CupertinoNavigationBar(
+        middle: Text('Favorites'),
+      ),
+      child: SafeArea(child: FavoritesGrid()));
 }
-
-

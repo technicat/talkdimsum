@@ -11,14 +11,12 @@ class TagsRow extends StatelessWidget {
   TagsRow({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return SingleChildScrollView(
-        scrollDirection: Axis.horizontal,
-        child: Row(
-            children: dish.tags
-                .map((tag) => Word.words[tag])
-                .where((word) => word != null)
-                .map((word) => TagWidget(tag: word!))
-                .toList()));
-  }
+  Widget build(BuildContext context) => SingleChildScrollView(
+      scrollDirection: Axis.horizontal,
+      child: Row(
+          children: dish.tags
+              .map((tag) => Word.words[tag])
+              .where((word) => word != null)
+              .map((word) => TagWidget(tag: word!))
+              .toList()));
 }

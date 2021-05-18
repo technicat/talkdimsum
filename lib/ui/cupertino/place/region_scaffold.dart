@@ -12,10 +12,7 @@ class RegionScaffold extends StatelessWidget {
   RegionScaffold({Key? key, required this.region}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return CupertinoPageScaffold(
-        navigationBar: CupertinoNavigationBar(middle: Text(region.name)),
-        child: SafeArea(
-            child: PlacesListView(region: region)));
-  }
+  Widget build(BuildContext context) => CupertinoPageScaffold(
+      navigationBar: CupertinoNavigationBar(middle: Text(region.name)),
+      child: SafeArea(child: PlacesListView(region: region)));
 }

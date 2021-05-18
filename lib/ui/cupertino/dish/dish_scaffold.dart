@@ -10,11 +10,9 @@ class DishScaffold extends StatelessWidget {
   DishScaffold({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return CupertinoPageScaffold(
-        navigationBar: CupertinoNavigationBar(
-            middle: Text('Talk Dim Sum') // for lack of anything better
-            ),
-        child: SafeArea(child: DishWidget(dish: dish)));
-  }
+  Widget build(BuildContext context) => CupertinoPageScaffold(
+      navigationBar: CupertinoNavigationBar(
+          middle: Text('Talk Dim Sum') // for lack of anything better
+          ),
+      child: SafeArea(child: DishWidget(dish: dish)));
 }

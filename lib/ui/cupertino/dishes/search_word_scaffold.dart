@@ -11,9 +11,8 @@ import 'word_dishes_scaffold.dart';
 
 class SearchWordScaffold extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    return CupertinoPageScaffold(child: SearchWord());
-  }
+  Widget build(BuildContext context) =>
+      CupertinoPageScaffold(child: SearchWord());
 }
 
 class SearchWord extends StatelessWidget {
@@ -40,7 +39,8 @@ class SearchWord extends StatelessWidget {
                 return value.english.toLowerCase().contains(reg) ||
                     value.chineseText().contains(reg);
               },
-              onSelect: (dynamic selected) => Get.to( WordDishesScaffold(word: selected))),
+              onSelect: (dynamic selected) =>
+                  Get.to(WordDishesScaffold(word: selected))),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });

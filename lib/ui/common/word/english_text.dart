@@ -8,10 +8,7 @@ class EnglishText extends StatelessWidget {
   EnglishText({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Text('${word.english}',
-        textAlign: TextAlign.center,
-        style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold));
-  }
+  Widget build(BuildContext context) => Text('${word.english}',
+      textAlign: TextAlign.center,
+      style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold));
 }
-

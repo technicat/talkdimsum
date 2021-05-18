@@ -12,12 +12,9 @@ class RegionsListView extends StatelessWidget {
   RegionsListView({Key? key, required this.country}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Center(
-        child: ListView(
-            children: country.regions
-                .map((region) => RegionButton(region: region))
-                .toList()));
-  }
+  Widget build(BuildContext context) => Center(
+      child: ListView(
+          children: country.regions
+              .map((region) => RegionButton(region: region))
+              .toList()));
 }
-

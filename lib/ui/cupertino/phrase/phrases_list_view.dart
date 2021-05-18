@@ -12,12 +12,9 @@ class PhrasesListView extends StatelessWidget {
   PhrasesListView({Key? key, required this.phrases}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return ListView(
-        children: phrases.lines
-            .expand((line) => makeBubbles(context, line))
-            .toList());
-  }
+  Widget build(BuildContext context) => ListView(
+      children:
+          phrases.lines.expand((line) => makeBubbles(context, line)).toList());
 
   List<Bubble> makeBubbles(BuildContext context, Line line) {
     if (line.name == 'a') {

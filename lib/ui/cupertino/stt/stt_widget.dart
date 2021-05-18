@@ -13,12 +13,6 @@ class STTWidget extends StatelessWidget {
   STTWidget({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Column(children: [
-        STTStatusText(),
-        STTText(),
-        STTButton(word: word)
-    ]
-    );
-  }
+  Widget build(BuildContext context) =>
+      Column(children: [STTStatusText(), STTText(), STTButton(word: word)]);
 }
