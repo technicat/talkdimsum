@@ -119,5 +119,34 @@
         "English": "lobster",
         "Yale": "lùhng hā",
         "Pinyin": "lóng xiā"
+    },
+    {
+        "Chinese": "午餐肉",
+        "Simplified": "午餐肉",
+        "English": "spam",
+        "Yale": "ńgh chāan yuhk",
+        "Pinyin": "wǔ cān ròu",
+        "Resources": [
+          {
+            "name": "午餐肉",
+            "URL": "https://en.wiktionary.org/wiki/午餐肉"
+          },
+          {
+            "name": "午餐",
+            "URL": "https://en.wiktionary.org/wiki/午餐"
+          },
+          {
+            "name": "午",
+            "URL": "https://en.wiktionary.org/wiki/午"
+          },
+          {
+            "name": "餐",
+            "URL": "https://en.wiktionary.org/wiki/餐"
+          },
+          {
+            "name": "肉",
+            "URL": "https://en.wiktionary.org/wiki/肉"
+          }
+        ]
     }
 ]

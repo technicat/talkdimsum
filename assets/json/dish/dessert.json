@@ -163,5 +163,53 @@
                 "URL": "https://appetiteforchina.com/recipes/blog/chinese-herbal-jelly"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "炸鮮奶",
+                "Simplified": "炸鲜奶",
+                "English": "fried milk",
+                "Yale": "ja sīn náaih",
+                "Pinyin": "zhá xiān nǎi",
+                "Resources": [
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/炸"
+                    },
+                    {
+                        "name": "鮮",
+                        "URL": "https://en.wiktionary.org/wiki/鮮"
+                    },
+                    {
+                        "name": "奶",
+                        "URL": "https://en.wiktionary.org/wiki/奶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "friedmilksweetheart",
+                "place": "Sweet Heart, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.\n\n炸 means “deep-fried,” 鮮 is “fresh”, and 奶 is “milk,” so it's “deep-fried fresh milk” (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n鮮奶 is part of the name for latte, “fresh milk coffee” (鮮奶咖啡).",
+        "Tags": [
+            "炸",
+            "奶",
+            "甜品",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/fried-milk/"
+            },
+            {
+                "name": "Red Cook",
+                "URL": "https://redcook.net/2014/07/08/fried-milk-custard/"
+            }
+        ]
     }
 ]
