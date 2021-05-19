@@ -11,7 +11,7 @@ class TagWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-        onTap: () => WordDishesScaffold(word: tag),
+        onTap: () => Get.to(WordDishesScaffold(word: tag)),
         child: Chip(
           /* avatar: CircleAvatar(
         backgroundColor: Colors.grey.shade800,
