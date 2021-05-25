@@ -2,19 +2,6 @@
     "name": "Queensland",
     "places": [
         {
-            "title": "7 Palace",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.7palace.com.au"
-                }
-            ],
-            "lat": -27.598117,
-            "lon": 152.974078,
-            "city": "Brisbane",
-            "address": "156 Inala Ave. Inala"
-        },
-        {
             "title": "Aspley Oriental Restaurant",
             "links": [
                 {
@@ -96,8 +83,8 @@
             "title": "Yum Cha Carindale",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.yumchacuisine.com"
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/yum-cha-cuisine-carindale"
                 }
             ],
             "lat": -27.503627,
@@ -109,8 +96,8 @@
             "title": "Yum Cha Indooroopilly",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.yumchacuisine.com"
+                    "name": "The Weekend Edition",
+                    "URL": "https://theweekendedition.com.au/food-drink/best-yum-cha-brisbane/"
                 }
             ],
             "lat": -27.499720,
@@ -123,7 +110,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "https://www.yumchacuisine.com"
+                    "URL": "https://harbourtowngoldcoast.com.au/stores/yum-cha-cuisine?location=B01A"
                 }
             ],
             "lat": -27.931057,
@@ -136,7 +123,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "https://www.yumchacuisine.com"
+                    "URL": "https://www.yumcharobina.com/"
                 }
             ],
             "lat": -28.077791,
@@ -149,13 +136,30 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "https://www.yumchacuisine.com"
+                    "URL": "https://www.yumchapf.com.au/"
                 }
             ],
             "lat": -28.036491,
             "lon": 153.427537,
             "city": "Gold Coast",
             "address": "Pacific Fair, 2-32 Hooker Blvd, Broadbeach Qld 4218"
+        },
+        {
+            "title": "Yum Cha Sunshine Plaza",
+            "links": [
+                {
+                    "name": "Sunshine Plaza",
+                    "URL": "https://www.sunshineplaza.com/store-directory/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g499672-d9595645-Reviews-Yum_Cha_Cuisine-Maroochydore_Sunshine_Coast_Queensland.html"
+                }
+            ],
+            "lat": 26.6541964,
+            "lon": 153.090167,
+            "city": "Sunshine Coast",
+            "address": "Sunshine Plaza, GD178 Horton Parade, Maroochydore, Queensland 4558 Australia"
         }
     ]
 }

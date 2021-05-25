@@ -44,6 +44,7 @@ dependencies:
   share:
   shared_preferences:
   speech_to_text:
+    path: ../speech_to_text/speecH_to_text
   bubble:
   sprintf:
   sqflite:
