@@ -668,6 +668,23 @@
             "address": "8256 Beverly Blvd, Los Angeles, CA 90048"
         },
         {
+            "title": "Iron Teapot",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.iron-teapot.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/iron-teapot-dim-sum-and-bar-opening-soon-los-angeles"
+                }
+            ],
+            "lat": 34.0207715,
+            "lon": -118.4050632,
+            "city": "Los Angeles",
+            "address": "10306 Venice Blvd Los Angeles, CA 90034"
+        },
+        {
             "title": "ixlb Dim Sum Eats",
             "links": [
                 {
