@@ -2,6 +2,19 @@
     "name": "Phnom Penh",
     "places": [
         {
+            "title": "Dim Sum Emperors",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumemperors.com/tk-avenue/"
+                }
+            ],
+            "lat": 11.5837533,
+            "lon": 104.8969876,
+            "city": "Phnom Penh",
+            "address": "TK Avenue, Street 315 corner Street 516, BeoungKak 1, Phnom Penh"
+        },
+        {
             "title": "Fortune Palace",
             "links": [
                 {
