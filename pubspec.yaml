@@ -67,6 +67,7 @@ dev_dependencies:
 #    sdk: flutter
   flutter_launcher_icons:
 #  flutter_launcher_name:
+  flutter_native_splash:
   auto_route_generator:
   build_runner:
   json_serializable:
