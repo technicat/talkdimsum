@@ -22,10 +22,23 @@
                     "URL": "https://dimsumemperors.com/tk-avenue/"
                 }
             ],
-            "lat": 11.5797679325375, 
+            "lat": 11.5797679325375,
             "lon": 104.89372896858573,
             "city": "Phnom Penh",
             "address": "25, St 317 corner of St 566, Phnom Penh 12152"
+        },
+        {
+            "title": "Emperors of China",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://emperors-of-china.business.site/"
+                }
+            ],
+            "lat": 11.556992318248904,
+            "lon": 104.91466339729178,
+            "city": "Phnom Penh",
+            "address": "No.19 Street 163 Sangkat Veal Vong, Khan Makara 7 Phnom Penh Cambodia"
         },
         {
             "title": "Fortune Palace",
@@ -56,7 +69,7 @@
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g293940-d2416976-Reviews-Fu_Lu_Zu-Phnom_Penh.html"
                 }
             ],
-            "lat": 11.546491555075836, 
+            "lat": 11.546491555075836,
             "lon": 104.93318062058472,
             "city": "Phnom Penh",
             "address": "26 Old August Site Sothearos Boulevard Sangkat Tonle Bassac, 12301 Phnom Penh Cambodia"
