@@ -28,11 +28,11 @@
             "address": "Mall Ciputra, Lower Ground Floor, Unit LG - 52, Jl. Arteri S. Parman, Grogol, , 11470"
         },
         {
-            "title": "Sense",
+            "title": "Golden Sense",
             "links": [
                 {
-                    "name": "OpenRice",
-                    "URL": "https://id.openrice.com/en/jakarta/r-sense-gunung-sahari-chinese-dim-sum-r15133"
+                    "name": "Zomato",
+                    "URL": "https://www.zomato.com/jakarta/golden-sense-mangga-dua"
                 }
             ],
             "lat": -6.138663,
@@ -44,8 +44,8 @@
             "title": "Sun City",
             "links": [
                 {
-                    "name": "OpenRice",
-                    "URL": "https://id.openrice.com/en/jakarta/r-sun-city-hayam-wuruk-chinese-dim-sum-r15263"
+                    "name": "FourSquare",
+                    "URL": "https://foursquare.com/v/sun-city-restaurant-and-luxury-club/4d5118c09b27721e1722b446"
                 }
             ],
             "lat": -6.155221,
@@ -83,8 +83,8 @@
             "title": "May Star",
             "links": [
                 {
-                    "name": "OpenRice",
-                    "URL": "https://id.openrice.com/en/jakarta/r-may-star-restaurant-mangga-dua-chinese-dim-sum-r15167"
+                    "name": "site",
+                    "URL": "http://maystargroup.com/"
                 }
             ],
             "lat": -6.136032,
@@ -96,8 +96,8 @@
             "title": "May Star",
             "links": [
                 {
-                    "name": "OpenRice",
-                    "URL": "https://id.openrice.com/en/jakarta/r-may-star-restaurant-pluit-chinese-dim-sum-r5521"
+                    "name": "site",
+                    "URL": "http://maystargroup.com/"
                 }
             ],
             "lat": -6.127366,
@@ -109,8 +109,8 @@
             "title": "May Star",
             "links": [
                 {
-                    "name": "OpenRice",
-                    "URL": "https://id.openrice.com/en/jakarta/r-may-star-restaurant-slipi-chinese-dim-sum-r3967"
+                    "name": "site",
+                    "URL": "http://maystargroup.com/"
                 }
             ],
             "lat": 6.176609,
@@ -124,10 +124,6 @@
                 {
                     "name": "site",
                     "URL": "http://timhowan.com"
-                },
-                {
-                    "name": "OpenRice",
-                    "URL": "https://id.openrice.com/en/jakarta/r-tim-ho-wan-thamrin-chinese-dim-sum-r718229"
                 },
                 {
                     "name": "Tripadvisor",
