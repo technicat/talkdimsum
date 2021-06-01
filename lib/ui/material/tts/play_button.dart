@@ -12,15 +12,12 @@ class PlayButton extends StatelessWidget {
   PlayButton({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Consumer<Settings>(builder: (context, settings, child) {
-      return Consumer<TTS>(builder: (context, tts, child) {
-        return IconButton(
-            icon: Icon(Icons.volume_up,
-                semanticLabel: 'Hear how this dish is pronounced in Chinese'),
-            tooltip: 'Hear how this dish is pronounced in Chinese',
-            onPressed: () => tts.say(word, settings.language, settings.speed));
-      });
-    });
-  }
+  Widget build(BuildContext context) => Consumer<Settings>(
+      builder: (context, settings, child) => Consumer<TTS>(
+          builder: (context, tts, child) => IconButton(
+              icon: Icon(Icons.volume_up,
+                  semanticLabel: 'Hear how this dish is pronounced in Chinese'),
+              tooltip: 'Hear how this dish is pronounced in Chinese',
+              onPressed: () =>
+                  tts.say(word, settings.language, settings.speed))));
 }
