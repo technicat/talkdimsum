@@ -47,6 +47,7 @@ dependencies:
   bubble:
   sprintf:
   sqflite:
+  substring_highlight:
   url_launcher:
  # firebase_core:
  # firebase_messaging:
