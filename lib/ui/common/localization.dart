@@ -5,7 +5,7 @@ class Localization extends Translations {
   Map<String, Map<String, String>> get keys => {
         'de_DE': {
           'title': 'Dim Sum Reden',
-          'search': 'suchen',
+          'search': 'Suchen',
           'favorites': 'Favoriten'
         },
         'en_US': {
@@ -15,19 +15,20 @@ class Localization extends Translations {
         },
         'es_MX': {
           'title': 'Hablar Dim Sum',
-          'search': 'buscar',
+          'search': 'Buscar',
+          'favorites': 'Favoritos'
         },
         'fr_FR': {
           'title': 'Parler Dim Sum',
-          'search': 'recherche',
+          'search': 'Recherche',
         },
         'it_IT': {
           'title': 'Parlere Dim Sum',
-          'search': 'recirca',
+          'search': 'Recirca',
         },
         'pt_PT': {
           'title': 'Falar Dim Sum',
-          'search': 'buscar',
+          'search': 'Buscar',
         },
       };
 }
