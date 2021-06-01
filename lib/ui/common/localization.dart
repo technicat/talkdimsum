@@ -6,9 +6,11 @@ class Localization extends Translations {
         'de_DE': {
           'title': 'Dim Sum Reden',
           'search': 'suchen',
+          'favorites': 'Favoriten'
         },
         'en_US': {
           'title': 'Talk Dim Sum',
+          'favorites': 'Favorites',
           'search': 'Search',
         },
         'es_MX': {
