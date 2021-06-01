@@ -5,10 +5,6 @@ import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:talkdimsum/core/model/language.dart';
-/*
-final settingsProvider = Provider((ref) {
-  var settings = Settings();
-}); */
 
 class Settings with ChangeNotifier {
   late final SharedPreferences prefs;
