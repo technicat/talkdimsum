@@ -20,10 +20,9 @@ class STTWidget extends StatelessWidget {
       STTText(),
       STTButton(word: word),
       MaterialButton(
-          child: Text('Permissions'),
-          onPressed: () {
-            AppSettings.openAppSettings();
-          })
+        onPressed: () => AppSettings.openAppSettings(),
+        child: Text('Permissions'),
+      )
     ]);
   }
 }

@@ -15,13 +15,12 @@ class WordDishesGrid extends StatelessWidget {
   WordDishesGrid({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      var dimsum = watch(dimsumProvider);
-      return dimsum.map(
-          data: (_) => DishesGrid(dishes: _.value.dishes(word)),
-          loading: (_) => Progressor(),
-          error: (_) => ErrorText(error: _.error));
-    });
-  }
+  Widget build(BuildContext context) =>
+      Consumer(builder: (context, watch, child) {
+        var dimsum = watch(dimsumProvider);
+        return dimsum.map(
+            data: (_) => DishesGrid(dishes: _.value.dishes(word)),
+            loading: (_) => Progressor(),
+            error: (_) => ErrorText(error: _.error));
+      });
 }

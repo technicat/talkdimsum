@@ -21,39 +21,38 @@ class CountryScaffoldState extends State<CountryScaffold> {
   Country? country;
 
   @override
-  Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      var countries = watch(countryProvider);
-      return countries.map(
-          data: (_) {
-            if (_.value.countries.isEmpty) {
-              return Progressor();
-            } else {
-              country ??= _.value.countries[0];
-              return Scaffold(
-                  appBar: AppBar(title: Text(country!.name), actions: <Widget>[
-                    PopupMenuButton<Country>(
-                      icon: Icon(Icons.public),
-                      onSelected: (value) {
-                        setState(() {
-                          country = value;
-                        });
-                      },
-                      itemBuilder: (BuildContext context) => _.value.countries
-                          .map((country) => PopupMenuItem<Country>(
-                              value: country, child: Text(country.name)))
-                          .toList(),
-                    )
-                  ]),
-                  body: RegionListView(country: country!));
-            }
-          },
-          loading: (_) => Scaffold(
-              appBar: AppBar(title: Text('Places')),
-              body: Progressor()),
-          error: (_) => Scaffold(
-              appBar: AppBar(title: Text('Places')),
-              body: ErrorText(error: _.error.toString())));
-    });
-  }
+  Widget build(BuildContext context) =>
+      Consumer(builder: (context, watch, child) {
+        var countries = watch(countryProvider);
+        return countries.map(
+            data: (_) {
+              if (_.value.countries.isEmpty) {
+                return Progressor();
+              } else {
+                country ??= _.value.countries[0];
+                return Scaffold(
+                    appBar:
+                        AppBar(title: Text(country!.name), actions: <Widget>[
+                      PopupMenuButton<Country>(
+                        icon: Icon(Icons.public),
+                        onSelected: (value) {
+                          setState(() {
+                            country = value;
+                          });
+                        },
+                        itemBuilder: (BuildContext context) => _.value.countries
+                            .map((country) => PopupMenuItem<Country>(
+                                value: country, child: Text(country.name)))
+                            .toList(),
+                      )
+                    ]),
+                    body: RegionListView(country: country!));
+              }
+            },
+            loading: (_) => Scaffold(
+                appBar: AppBar(title: Text('Places')), body: Progressor()),
+            error: (_) => Scaffold(
+                appBar: AppBar(title: Text('Places')),
+                body: ErrorText(error: _.error.toString())));
+      });
 }

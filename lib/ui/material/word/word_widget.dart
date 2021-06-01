@@ -17,22 +17,22 @@ class WordWidget extends StatelessWidget {
   WordWidget({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Column(children: [
-      EnglishText(word: word),
-      Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: <Widget>[
-        PlayButton(word: word),
-        ChineseText(word: word),
-        IconButton(
-          icon: Icon(
-            Icons.mic,
-            semanticLabel: 'Play and practice this word',
-          ),
-          tooltip: 'Play and practice this word',
-          onPressed: () => Get.to(PracticeWidget(word: word)),
-        ),
-      ]),
-      PronounceText(word: word)
-    ]);
-  }
+  Widget build(BuildContext context) => Column(children: [
+        EnglishText(word: word),
+        Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: <Widget>[
+              PlayButton(word: word),
+              ChineseText(word: word),
+              IconButton(
+                icon: Icon(
+                  Icons.mic,
+                  semanticLabel: 'Play and practice this word',
+                ),
+                tooltip: 'Play and practice this word',
+                onPressed: () => Get.to(PracticeWidget(word: word)),
+              ),
+            ]),
+        PronounceText(word: word)
+      ]);
 }

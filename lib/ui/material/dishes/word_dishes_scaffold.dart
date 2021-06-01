@@ -10,12 +10,9 @@ class WordDishesScaffold extends StatelessWidget {
   WordDishesScaffold({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        appBar: AppBar(
-          title: Text(word.display()),
-        ),
-        body: WordDishesGrid(word: word));
-  }
+  Widget build(BuildContext context) => Scaffold(
+      appBar: AppBar(
+        title: Text(word.display()),
+      ),
+      body: WordDishesGrid(word: word));
 }
-

@@ -28,27 +28,25 @@ class NavigationBarState extends State<NavigationBar> {
   ];
 
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: _widgetOptions.elementAt(_selectedIndex),
-      bottomNavigationBar: BottomNavigationBar(
-        items: [
-          BottomNavigationBarItem(
-              icon: Icon(Icons.home, semanticLabel: 'Browse dishes'),
-              label: 'Dishes'),
-          BottomNavigationBarItem(
-              icon: Icon(Icons.chat_bubble_outline,
-                  semanticLabel: 'Learn Chinese phrases'),
-              label: 'Phrases'),
-          BottomNavigationBarItem(
-              icon: Icon(Icons.restaurant_menu,
-                  semanticLabel: 'Find dim sum restaurants'),
-              label: 'Places'),
-        ],
-        currentIndex: _selectedIndex,
-        //  fixedColor: Colors.deepPurple,
-        onTap: _onItemTapped,
-      ),
-    );
-  }
+  Widget build(BuildContext context) => Scaffold(
+        body: _widgetOptions.elementAt(_selectedIndex),
+        bottomNavigationBar: BottomNavigationBar(
+          items: [
+            BottomNavigationBarItem(
+                icon: Icon(Icons.home, semanticLabel: 'Browse dishes'),
+                label: 'Dishes'),
+            BottomNavigationBarItem(
+                icon: Icon(Icons.chat_bubble_outline,
+                    semanticLabel: 'Learn Chinese phrases'),
+                label: 'Phrases'),
+            BottomNavigationBarItem(
+                icon: Icon(Icons.restaurant_menu,
+                    semanticLabel: 'Find dim sum restaurants'),
+                label: 'Places'),
+          ],
+          currentIndex: _selectedIndex,
+          //  fixedColor: Colors.deepPurple,
+          onTap: _onItemTapped,
+        ),
+      );
 }

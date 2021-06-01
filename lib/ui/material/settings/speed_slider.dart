@@ -14,9 +14,7 @@ class SpeedSlider extends StatelessWidget {
           min: 0.1,
           max: 1.9,
           value: settings.speed,
-          onChanged: (value) {
-            settings.speed = value;
-          },
+          onChanged: (value) => settings.speed = value,
         ),
         //  Icon(CupertinoIcons.hare)
       ]);

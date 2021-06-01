@@ -9,18 +9,15 @@ import 'package:talkdimsum/core/provider/settings.dart';
 class LanguageDropdown extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer<Settings>(builder: (context, settings, child) {
-      return DropdownButton<Chinese>(
-          icon: Icon(Icons.language, semanticLabel: 'Choose a language'),
-          value: settings.language,
-          onChanged: (value) {
-            settings.language = value!;
-          },
-          // should map Chinese.values
-          items: Chinese.values
-              .map((value) => DropdownMenuItem<Chinese>(
-                  value: value, child: Text(settings.languageName(value))))
-              .toList());
-    });
+    return Consumer<Settings>(
+        builder: (context, settings, child) => DropdownButton<Chinese>(
+            icon: Icon(Icons.language, semanticLabel: 'Choose a language'),
+            value: settings.language,
+            onChanged: (value) => settings.language = value ?? Chinese.Cantonese,
+            // should map Chinese.values
+            items: Chinese.values
+                .map((value) => DropdownMenuItem<Chinese>(
+                    value: value, child: Text(settings.languageName(value))))
+                .toList()));
   }
 }

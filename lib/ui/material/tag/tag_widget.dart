@@ -9,15 +9,13 @@ class TagWidget extends StatelessWidget {
   TagWidget({Key? key, required this.tag}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return GestureDetector(
-        onTap: () => Get.to(WordDishesScaffold(word: tag)),
-        child: Chip(
-          /* avatar: CircleAvatar(
+  Widget build(BuildContext context) => GestureDetector(
+      onTap: () => Get.to(WordDishesScaffold(word: tag)),
+      child: Chip(
+        /* avatar: CircleAvatar(
         backgroundColor: Colors.grey.shade800,
         child: Text(tag.Chinese),
       ), */
-          label: Text(tag.display()),
-        ));
-  }
+        label: Text(tag.display()),
+      ));
 }

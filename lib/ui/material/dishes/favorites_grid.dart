@@ -11,21 +11,18 @@ import '../progress.dart';
 
 class FavoritesScaffold extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        appBar: AppBar(title: Text('favorites'.tr)), body: FavoritesGrid());
-  }
+  Widget build(BuildContext context) => Scaffold(
+      appBar: AppBar(title: Text('favorites'.tr)), body: FavoritesGrid());
 }
 
 class FavoritesGrid extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      var dimsum = watch(dimsumProvider);
-      return dimsum.map(
-          data: (_) => DishesGrid(dishes: _.value.favorites),
-          loading: (_) => Progressor(),
-          error: (_) => ErrorText(error: _.error));
-    });
-  }
+  Widget build(BuildContext context) =>
+      Consumer(builder: (context, watch, child) {
+        var dimsum = watch(dimsumProvider);
+        return dimsum.map(
+            data: (_) => DishesGrid(dishes: _.value.favorites),
+            loading: (_) => Progressor(),
+            error: (_) => ErrorText(error: _.error));
+      });
 }

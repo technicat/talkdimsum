@@ -13,16 +13,14 @@ class CategoryDishesGrid extends StatelessWidget {
   CategoryDishesGrid({Key? key, required this.dishes}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return GridView.extent(
-        maxCrossAxisExtent: 150,
-        padding: const EdgeInsets.all(4),
-        mainAxisSpacing: 4,
-        crossAxisSpacing: 4,
-        children: dishes
-            .map((dish) => GridTile(child: CategoryCellWidget(dish: dish)))
-            .toList());
-  }
+  Widget build(BuildContext context) => GridView.extent(
+      maxCrossAxisExtent: 150,
+      padding: const EdgeInsets.all(4),
+      mainAxisSpacing: 4,
+      crossAxisSpacing: 4,
+      children: dishes
+          .map((dish) => GridTile(child: CategoryCellWidget(dish: dish)))
+          .toList());
 }
 
 class CategoryCellWidget extends StatelessWidget {
@@ -31,10 +29,8 @@ class CategoryCellWidget extends StatelessWidget {
   CategoryCellWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Card(
-        child: InkWell(
-            onTap: () => Get.to(WordDishesScaffold(word: dish.word)),
-            child: DishImageTextWidget(dish: dish)));
-  }
+  Widget build(BuildContext context) => Card(
+      child: InkWell(
+          onTap: () => Get.to(WordDishesScaffold(word: dish.word)),
+          child: DishImageTextWidget(dish: dish)));
 }

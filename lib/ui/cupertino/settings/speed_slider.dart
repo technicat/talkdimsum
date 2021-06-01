@@ -10,16 +10,15 @@ class SpeedSlider extends StatelessWidget {
     return Consumer<Settings>(
         builder: (context, settings, child) =>
             Row(mainAxisAlignment: MainAxisAlignment.center, children: [
-              Icon(CupertinoIcons.tortoise,semanticLabel: 'Really slow speech'),
+              Icon(CupertinoIcons.tortoise,
+                  semanticLabel: 'Really slow speech'),
               CupertinoSlider(
                 min: 0.1,
                 max: 1.9,
                 value: settings.speed,
-                onChanged: (value) {
-                  settings.speed = value;
-                },
+                onChanged: (value) => settings.speed = value,
               ),
-              Icon(CupertinoIcons.hare,semanticLabel: 'Really fast speech')
+              Icon(CupertinoIcons.hare, semanticLabel: 'Really fast speech')
             ]));
   }
 }

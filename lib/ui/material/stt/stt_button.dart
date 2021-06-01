@@ -13,28 +13,25 @@ class STTButton extends StatelessWidget {
   STTButton({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Consumer<Settings>(
-        builder: (context, settings, child) => Consumer<STT>(
-            builder: (context, stt, child) => stt.status == STTStatus.Listening
-                ? MaterialButton(
-                    child: Icon(Icons.pause,
-                    semanticLabel: 'Stop listening to me'),
-                    onPressed: () {
-                      stt.stop();
-                    },
-                  )
-                : MaterialButton(
-                    child: Icon(Icons.mic,
-                    semanticLabel: 'Start listening to me'),
-                    onPressed: () {
-                      try {
-                        stt.listen(word, settings.language);
-                      } catch (e) {
-                        Get.snackbar('Speech-to-text error', e.toString(),
-                            backgroundColor: Colors.white,
-                            snackPosition: SnackPosition.BOTTOM);
-                      }
-                    })));
-  }
+  Widget build(BuildContext context) => Consumer<Settings>(
+      builder: (context, settings, child) => Consumer<STT>(
+          builder: (context, stt, child) => stt.status == STTStatus.Listening
+              ? MaterialButton(
+                  onPressed: () => stt.stop(),
+                  child:
+                      Icon(Icons.pause, semanticLabel: 'Stop listening to me'),
+                )
+              : MaterialButton(
+                  onPressed: () {
+                    try {
+                      stt.listen(word, settings.language);
+                    } catch (e) {
+                      Get.snackbar('Speech-to-text error', e.toString(),
+                          backgroundColor: Colors.white,
+                          snackPosition: SnackPosition.BOTTOM);
+                    }
+                  },
+                  child:
+                      Icon(Icons.mic, semanticLabel: 'Start listening to me'),
+                )));
 }

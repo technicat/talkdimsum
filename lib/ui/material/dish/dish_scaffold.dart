@@ -19,76 +19,77 @@ class DishScaffold extends StatelessWidget {
   DishScaffold({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      var dimsum = watch(dimsumProvider);
-      return dimsum.map(
-          data: (_) => Scaffold(
-              floatingActionButton: Obx(() => _.value.favorites.contains(dish)
-                  ? FloatingActionButton(
-                      onPressed: () {
-                        if (_.value.favorites.contains(dish)) {
-                          _.value.removeFavorite(dish);
-                        }
-                      },
-                      child: Icon(Icons.favorite,
-                          semanticLabel: 'Remove this dish from favorites'))
-                  : FloatingActionButton(
-                      onPressed: () {
-                        if (!_.value.favorites.contains(dish)) {
-                          _.value.addFavorite(dish);
-                        }
-                      },
-                      child: Icon(Icons.favorite_border,
-                          semanticLabel: 'Add this dish to favorites'))),
-              appBar: AppBar(
-                  //   title: Text('${dish.word.English}'),
-                  actions: <Widget>[
-                    PopupMenuButton<String>(
-                      icon: Icon(Icons.help,
-                          semanticLabel: 'Learn the characters'),
-                      onSelected: (String value) {
-                        launch(value);
-                      },
-                      itemBuilder: (BuildContext context) {
-                        return dish.word.resources
-                            .map((link) => PopupMenuItem<String>(
-                                value: link.url, child: Text(link.name)))
-                            .toList();
-                      },
-                    ),
-                    PopupMenuButton<String>(
-                      icon: Icon(Icons.info, semanticLabel: 'Share and learn about this dish'),
-                      onSelected: (String value) {
-                        switch (value) {
-                          case 'share':
-                            {
-                              Share.share(
-                                  'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
-                                  subject: 'Talk Dim Sum');
-                            }
-                            break;
-                          default:
-                            {
-                              launch(value);
-                            }
-                        }
-                      },
-                      itemBuilder: (BuildContext context) {
-                        return [
-                          PopupMenuItem<String>(
-                            value: 'share',
-                            child: Text('share'),
-                          ),
-                          ...dish.resources.map((link) => PopupMenuItem<String>(
-                              value: link.url, child: Text(link.name)))
-                        ];
-                      },
-                    )
-                  ]),
-              body: DishWidget(dish: dish)),
-          loading: (_) => Progressor(),
-          error: (_) => ErrorText(error: _.error));
-    });
-  }
+  Widget build(BuildContext context) =>
+      Consumer(builder: (context, watch, child) {
+        var dimsum = watch(dimsumProvider);
+        return dimsum.map(
+            data: (_) => Scaffold(
+                floatingActionButton: Obx(() => _.value.favorites.contains(dish)
+                    ? FloatingActionButton(
+                        onPressed: () {
+                          if (_.value.favorites.contains(dish)) {
+                            _.value.removeFavorite(dish);
+                          }
+                        },
+                        child: Icon(Icons.favorite,
+                            semanticLabel: 'Remove this dish from favorites'))
+                    : FloatingActionButton(
+                        onPressed: () {
+                          if (!_.value.favorites.contains(dish)) {
+                            _.value.addFavorite(dish);
+                          }
+                        },
+                        child: Icon(Icons.favorite_border,
+                            semanticLabel: 'Add this dish to favorites'))),
+                appBar: AppBar(
+                    //   title: Text('${dish.word.English}'),
+                    actions: <Widget>[
+                      PopupMenuButton<String>(
+                        icon: Icon(Icons.help,
+                            semanticLabel: 'Learn the characters'),
+                        onSelected: (String value) {
+                          launch(value);
+                        },
+                        itemBuilder: (BuildContext context) {
+                          return dish.word.resources
+                              .map((link) => PopupMenuItem<String>(
+                                  value: link.url, child: Text(link.name)))
+                              .toList();
+                        },
+                      ),
+                      PopupMenuButton<String>(
+                        icon: Icon(Icons.info,
+                            semanticLabel: 'Share and learn about this dish'),
+                        onSelected: (String value) {
+                          switch (value) {
+                            case 'share':
+                              {
+                                Share.share(
+                                    'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
+                                    subject: 'Talk Dim Sum');
+                              }
+                              break;
+                            default:
+                              {
+                                launch(value);
+                              }
+                          }
+                        },
+                        itemBuilder: (BuildContext context) {
+                          return [
+                            PopupMenuItem<String>(
+                              value: 'share',
+                              child: Text('share'),
+                            ),
+                            ...dish.resources.map((link) =>
+                                PopupMenuItem<String>(
+                                    value: link.url, child: Text(link.name)))
+                          ];
+                        },
+                      )
+                    ]),
+                body: DishWidget(dish: dish)),
+            loading: (_) => Progressor(),
+            error: (_) => ErrorText(error: _.error));
+      });
 }
