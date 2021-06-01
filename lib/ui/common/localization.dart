@@ -7,6 +7,7 @@ class Localization extends Translations {
         'de_US': tr_de,
         'en_UK': tr_us,
         'en_US': tr_us,
+        'es_ES': tr_es,
         'es_MX': tr_es,
         'es_US': tr_es,
         'fr_CA': tr_fr,
@@ -22,35 +23,47 @@ class Localization extends Translations {
 var tr_de = {
   'title': 'Dim Sum Reden',
   'search': 'Suchen',
-  'favorites': 'Favoriten'
+  'favorites': 'Favoriten',
+  'phrases': 'Sätze',
+  'places': 'Setzt',
 };
 
 var tr_es = {
   'title': 'Hablar Dim Sum',
   'search': 'Buscar',
-  'favorites': 'Favoritos'
+  'favorites': 'Favoritos',
+  'phrases': 'Frases',
+  'places': 'Lugares',
 };
 
 var tr_fr = {
   'title': 'Parler Dim Sum',
   'search': 'Recherche',
-  'favorites': 'Favoris'
+  'favorites': 'Favoris',
+  'phrases': 'Phrases',
+  'places': 'Des endroits',
 };
 
 var tr_it = {
   'title': 'Parlere Dim Sum',
   'search': 'Recirca',
-  'favorites': 'Preferiti'
+  'favorites': 'Preferiti',
+  'phrases': 'Frasi',
+  'places': 'Posti',
 };
 
 var tr_pt = {
   'title': 'Falar Dim Sum',
   'search': 'Buscar',
-  'favorites': 'Favoritos'
+  'favorites': 'Favoritos',
+  'phrases': 'Frases',
+  'places': 'Locais',
 };
 
 var tr_us = {
   'title': 'Talk Dim Sum',
   'favorites': 'Favorites',
   'search': 'Search',
+  'phrases': 'Phrases',
+  'places': 'Places',
 };

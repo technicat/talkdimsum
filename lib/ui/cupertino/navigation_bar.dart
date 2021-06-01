@@ -29,11 +29,11 @@ class NavigationBar extends StatelessWidget {
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.chat_bubble,
                     semanticLabel: 'Learn Chinese phrases'),
-                label: 'Phrases'),
+                label: 'phrases'.tr),
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.map,
                     semanticLabel: 'Find dim sum restaurants'),
-                label: 'Places'),
+                label: 'places'.tr),
           ],
         ),
         tabBuilder: (BuildContext context, int index) {

@@ -1,7 +1,5 @@
 import 'package:flutter/foundation.dart' show ChangeNotifier;
 
-import 'package:flutter_riverpod/flutter_riverpod.dart';
-
 import 'package:speech_to_text/speech_to_text.dart';
 import 'package:speech_to_text/speech_recognition_error.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
@@ -18,8 +16,6 @@ enum STTStatus {
   Error,
   Stopped
 }
-
-final stt = Provider((ref) => STT());
 
 class STT with ChangeNotifier {
   final SpeechToText _speech = SpeechToText();
