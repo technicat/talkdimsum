@@ -40,4 +40,49 @@ class TTS {
   static Future say(Word word, Chinese lang, double speed) async {
     await _say(word.chineseText(lang), lang, speed);
   }
+
+  /*
+  flutterTts.setStartHandler(() {
+  setState(() {
+    ttsState = TtsState.playing;
+  });
+});
+
+flutterTts.setCompletionHandler(() {
+  setState(() {
+    ttsState = TtsState.stopped;
+  });
+});
+
+flutterTts.setProgressHandler((String text, int startOffset, int endOffset, String word) {
+  setState(() {
+    _currentWord = word;
+  });
+});
+
+flutterTts.setErrorHandler((msg) {
+  setState(() {
+    ttsState = TtsState.stopped;
+  });
+});
+
+flutterTts.setCancelHandler((msg) {
+  setState(() {
+    ttsState = TtsState.stopped;
+  });
+});
+
+// iOS and Web
+flutterTts.setPauseHandler((msg) {
+  setState(() {
+    ttsState = TtsState.paused;
+  });
+});
+
+flutterTts.setContinueHandler((msg) {
+  setState(() {
+    ttsState = TtsState.continued;
+  });
+});
+*/
 }

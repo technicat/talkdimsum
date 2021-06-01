@@ -1,6 +1,7 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
+import 'package:get/get.dart';
 
 import 'dishes/categories_scaffold.dart';
 import 'dishes/search_word_scaffold.dart';
@@ -20,7 +21,7 @@ class NavigationBar extends StatelessWidget {
             BottomNavigationBarItem(
                 icon:
                     Icon(CupertinoIcons.search, semanticLabel: 'Search dishes'),
-                label: 'Search'),
+                label: 'search'.tr),
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.heart,
                     semanticLabel: 'Browse your favorite dishes'),
