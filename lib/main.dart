@@ -18,6 +18,7 @@ import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/core/provider/stt.dart';
+import 'package:talkdimsum/core/provider/tts.dart';
 
 import 'ui/cupertino/app.dart' as cupertino;
 import 'ui/material/app.dart' as material;
@@ -45,7 +46,8 @@ class MainApp extends StatelessWidget {
 //      ChangeNotifierProvider<Countries>(create: (context) => Countries()),
 //      ChangeNotifierProvider<Conversation>(create: (context) => Conversation()),
       ChangeNotifierProvider<Settings>(create: (context) => Settings()),
-      ChangeNotifierProvider<STT>(create: (context) => STT())
+      ChangeNotifierProvider<STT>(create: (context) => STT()),
+      ChangeNotifierProvider<TTS>(create: (context) => TTS())
     ], child: app);
   }
 }
