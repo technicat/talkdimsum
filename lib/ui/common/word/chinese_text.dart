@@ -32,8 +32,9 @@ class HighlightChineseText extends StatelessWidget {
     return Consumer<Settings>(
         builder: (context, settings, child) => Directionality(textDirection: TextDirection.ltr, child: SubstringHighlight(
             text: '${word.chineseText(settings.language)}',
+            term: '',
             textAlign: TextAlign.center,
-           // style: TextStyle(fontSize: 24)
+            textStyle: TextStyle(fontSize: 24)
             )));
   }
 }
