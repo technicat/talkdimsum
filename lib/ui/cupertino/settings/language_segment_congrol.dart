@@ -14,9 +14,8 @@ class LanguageSegmentControl extends StatelessWidget {
         builder: (context, settings, child) =>
             CupertinoSegmentedControl<Chinese>(
               groupValue: settings.language,
-              onValueChanged: (value) {
-                settings.language = value;
-              },
+              onValueChanged: (value) =>
+                settings.language = value,
               children: {
                 for (var v in Chinese.values) v: Text(describeEnum(v))
               },

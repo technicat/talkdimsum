@@ -14,11 +14,9 @@ class PhrasesWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer(builder: (context, watch, child) {
       return watch(phrasesProvider).map(
-          data: (_) {
-            return _.value.phrases.isEmpty
-                ? Text('No phrases')
-                : PhrasesListView(phrases: _.value.phrases[0]);
-          },
+          data: (_) => _.value.phrases.isEmpty
+              ? Text('No phrases')
+              : PhrasesListView(phrases: _.value.phrases[0]),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });

@@ -29,15 +29,9 @@ class PlaceRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var share = CupertinoActionSheetAction(
-        onPressed: () {
-          place.share();
-        },
-        child: Text('share'));
+        onPressed: () => place.share(), child: Text('share'));
     var map = CupertinoActionSheetAction(
-        onPressed: () {
-          place.showGoogleMap();
-        },
-        child: Text('map'));
+        onPressed: () => place.showGoogleMap(), child: Text('map'));
     return CupertinoButton(
         onPressed: () {
           showCupertinoModalPopup(
@@ -49,9 +43,7 @@ class PlaceRow extends StatelessWidget {
                         share,
                         map,
                         ...place.links.map((link) => CupertinoActionSheetAction(
-                            onPressed: () {
-                              link.goto();
-                            },
+                            onPressed: () => link.goto(),
                             child: Text(link.name)))
                       ]));
         },

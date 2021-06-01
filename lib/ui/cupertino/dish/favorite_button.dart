@@ -18,19 +18,17 @@ class FavoriteButton extends StatelessWidget {
       return dimsum.map(
           data: (_) => Obx(() => _.value.favorites.contains(dish)
               ? CupertinoButton(
+                  onPressed: () => _.value.removeFavorite(dish),
                   child: Icon(
                     CupertinoIcons.heart_fill,
                     semanticLabel: 'Remove this dish from favorites',
                   ),
-                  onPressed: () {
-                    _.value.removeFavorite(dish);
-                  })
+                )
               : CupertinoButton(
+                  onPressed: () => _.value.addFavorite(dish),
                   child: Icon(CupertinoIcons.heart,
                       semanticLabel: 'Add this dish to favorites'),
-                  onPressed: () {
-                    _.value.addFavorite(dish);
-                  })),
+                )),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });

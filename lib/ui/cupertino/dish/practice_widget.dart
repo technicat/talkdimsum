@@ -18,20 +18,18 @@ class PracticeWidget extends StatelessWidget {
   PracticeWidget({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return CupertinoPageScaffold(
-        navigationBar: CupertinoNavigationBar(middle: Text('${word.english}')),
-        child: SafeArea(
-            child: Center(
-                child: Column(children: [
-          LanguageSegmentControl(),
-          Spacer(),
-          SpeedSlider(),
-          PlayButton(word: word),
-          ChineseText(word: word),
-          PronounceText(word: word),
-          Spacer(),
-          STTWidget(word: word)
-        ]))));
-  }
+  Widget build(BuildContext context) => CupertinoPageScaffold(
+      navigationBar: CupertinoNavigationBar(middle: Text('${word.english}')),
+      child: SafeArea(
+          child: Center(
+              child: Column(children: [
+        LanguageSegmentControl(),
+        Spacer(),
+        SpeedSlider(),
+        PlayButton(word: word),
+        ChineseText(word: word),
+        PronounceText(word: word),
+        Spacer(),
+        STTWidget(word: word)
+      ]))));
 }

@@ -14,11 +14,9 @@ class CountryWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer(builder: (context, watch, child) {
       return watch(countryProvider).map(
-          data: (_) {
-            return _.value.countries.isEmpty
-                ? CupertinoActivityIndicator()
-                : RegionsListView(country: _.value.countries[0]);
-          },
+          data: (_) => _.value.countries.isEmpty
+              ? CupertinoActivityIndicator()
+              : RegionsListView(country: _.value.countries[0]),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });

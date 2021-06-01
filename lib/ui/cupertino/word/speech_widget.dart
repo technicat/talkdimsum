@@ -12,15 +12,10 @@ class SpeechWidget extends StatelessWidget {
   SpeechWidget({Key? key, required this.word}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          PlayButton(word: word),
-          ChineseText(word: word),
-          PracticeButton(word: word)
-        ]);
-  }
+  Widget build(BuildContext context) =>
+      Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
+        PlayButton(word: word),
+        ChineseText(word: word),
+        PracticeButton(word: word)
+      ]);
 }
-
-
