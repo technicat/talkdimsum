@@ -17,7 +17,7 @@ class App extends StatelessWidget {
       locale:
           Locale('en', 'US'), // translations will be displayed in that locale
       fallbackLocale: Locale('en', 'UK'), //
-      title: 'Talk Dim Sum',
+      title: 'title'.tr,
       //  theme: ThemeData.light(),
       home: NavigationBar(),
     );

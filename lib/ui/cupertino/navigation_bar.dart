@@ -25,7 +25,7 @@ class NavigationBar extends StatelessWidget {
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.heart,
                     semanticLabel: 'Browse your favorite dishes'),
-                label: 'Favorites'),
+                label: 'favorites'.tr),
             BottomNavigationBarItem(
                 icon: Icon(CupertinoIcons.chat_bubble,
                     semanticLabel: 'Learn Chinese phrases'),

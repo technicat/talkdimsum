@@ -13,14 +13,14 @@ class DishesScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Talk Dim Sum'), actions: <Widget>[
+      appBar: AppBar(title: Text('title'.tr), actions: <Widget>[
         IconButton(
           icon: Icon(Icons.favorite_border, semanticLabel: 'Favorites'),
           tooltip: 'Favorites',
           onPressed: () => Get.to(FavoritesScaffold()),
         ),
         IconButton(
-          icon: Icon(Icons.search, semanticLabel: 'Search'),
+          icon: Icon(Icons.search, semanticLabel: 'search'.tr),
           tooltip: 'Search',
           onPressed: () => Get.to(SearchWordScaffold()),
         ),
@@ -44,7 +44,7 @@ class DishesScaffold extends StatelessWidget {
               },
             ),
             ListTile(
-              title: Text('Talk Dim Sum'),
+              title: Text('title'.tr),
               onTap: () {
                 launch('http://talkdimsum.com');
               },

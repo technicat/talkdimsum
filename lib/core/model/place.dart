@@ -4,6 +4,7 @@ import 'package:sprintf/sprintf.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
+import 'package:get/get.dart';
 
 import 'link.dart';
 
@@ -48,6 +49,6 @@ class Place with _$Place {
   void share() {
     Share.share(
         'I dined at $name in $city #dimsum #yumcha #talkdimsum talkdimsum.com',
-        subject: 'Talk Dim Sum');
+        subject:  'title'.tr);
   }
 }
