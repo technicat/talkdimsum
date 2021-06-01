@@ -10,12 +10,10 @@ class DishImageTextWidget extends StatelessWidget {
   DishImageTextWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Column(children: [
-      DishImageWidget(dish: dish),
-      Text('${dish.word.english}',
-          textAlign: TextAlign.center,
-          style: TextStyle(fontSize: 10, fontWeight: FontWeight.bold))
-    ]);
-  }
+  Widget build(BuildContext context) => Column(children: [
+        DishImageWidget(dish: dish),
+        Text('${dish.word.english}',
+            textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 10, fontWeight: FontWeight.bold))
+      ]);
 }

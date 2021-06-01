@@ -89,7 +89,7 @@ class STT with ChangeNotifier {
         lastError = 'network error';
         break;
       case 'error_network_timeout':
-        lastError = "network timed out";
+        lastError = 'network timed out';
         break;
       case 'error_no_match':
         lastError = 'no match found';

@@ -10,14 +10,12 @@ class DishTapImageWidget extends StatelessWidget {
   DishTapImageWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    return Semantics(
-        label: 'Photo',
-        hint: 'Tap for info on where this photo was taken.',
-        value: dish.word.english,
-        child: GestureDetector(
-            onTap: () => Get.snackbar('Photo taken at ', dish.images[0].place,
-                snackPosition: SnackPosition.BOTTOM),
-            child: ExcludeSemantics(child: DishImageWidget(dish: dish))));
-  }
+  Widget build(BuildContext context) => Semantics(
+      label: 'Photo',
+      hint: 'Tap for info on where this photo was taken.',
+      value: dish.word.english,
+      child: GestureDetector(
+          onTap: () => Get.snackbar('Photo taken at ', dish.images[0].place,
+              snackPosition: SnackPosition.BOTTOM),
+          child: ExcludeSemantics(child: DishImageWidget(dish: dish))));
 }
