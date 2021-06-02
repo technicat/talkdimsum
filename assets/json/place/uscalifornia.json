@@ -603,7 +603,8 @@
             "title": "Furiwa To Go",
             "links": [
                 {
-                    "name": "https://furiwa-togo.square.site/"
+                    "name": "site",
+                    "URL": "https://furiwa-togo.square.site/"
                 },
                 {
                     "name": "Yelp",
@@ -2483,7 +2484,8 @@
             "title": "Furiwa To Go",
             "links": [
                 {
-                    "name": "https://furiwa-togo.square.site/"
+                    "name": "site",
+                    "URL": "https://furiwa-togo.square.site/"
                 },
                 {
                     "name": "Yelp",
@@ -2492,7 +2494,7 @@
             ],
             "lat": 33.74326615887352, 
             "lon": -117.9899791312346, 
-            "city": "Irvine",
+            "city": "Westminster",
             "address": "15111 Beach Boulevard Westminster, CA 92683"
         },
         {
