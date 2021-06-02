@@ -600,6 +600,22 @@
             "address": "320 Jackson St, Hayward, CA 94544"
         },
         {
+            "title": "Furiwa To Go",
+            "links": [
+                {
+                    "name": "https://furiwa-togo.square.site/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/furiwa-togo-irvine"
+                }
+            ],
+            "lat": 33.65965374289795, 
+            "lon": -117.86013743123632,
+            "city": "Irvine",
+            "address": "19530 Jamboree Road Irvine, CA 92612"
+        },
+        {
             "title": "Tim Ho Wan",
             "links": [
                 {

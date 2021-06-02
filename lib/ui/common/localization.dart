@@ -15,6 +15,7 @@ class Localization extends Translations {
         'fr_US': tr_fr,
         'it_IT': tr_it,
         'it_US': tr_it,
+        'pt_BR': tr_pt,
         'pt_PT': tr_pt,
         'pt_US': tr_pt,
       };
