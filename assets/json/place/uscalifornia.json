@@ -2496,6 +2496,19 @@
             "address": "15111 Beach Boulevard Westminster, CA 92683"
         },
         {
+            "title": "Gia Phat Food Company",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/giai-phat-food-company-westminster"
+                }
+            ],
+            "lat": 33.744810,
+            "lon": -117.962650,
+            "city": "Westminster",
+            "address": "9550 Bolsa Ave, Ste 123, Westminster, CA 92683"
+        },
+        {
             "title": "Seafood Paradise Restaurant",
             "links": [
                 {
@@ -2524,19 +2537,6 @@
             "lon": -117.967975,
             "city": "Westminster",
             "address": "9211 Bolsa Ave, Westminster, CA 92683"
-        },
-        {
-            "title": "Gia Phat Food Company",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/giai-phat-food-company-westminster"
-                }
-            ],
-            "lat": 33.744810,
-            "lon": -117.962650,
-            "city": "Westminster",
-            "address": "9550 Bolsa Ave, Ste 123, Westminster, CA 92683"
         },
         {
             "title": "Seafood World",
