@@ -16,7 +16,7 @@ class App extends StatelessWidget {
         locale: Get.deviceLocale,
         //     Locale('en', 'US'), // translations will be displayed in that locale
         fallbackLocale: Locale('en', 'UK'), //
-        title: 'title'.tr,
+        title: 'title',
         //  theme: ThemeData.light(),
         home: NavigationBar(),
       );

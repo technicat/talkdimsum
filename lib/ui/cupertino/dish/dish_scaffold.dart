@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 
@@ -12,7 +13,7 @@ class DishScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) => CupertinoPageScaffold(
       navigationBar: CupertinoNavigationBar(
-          middle: Text('Talk Dim Sum') // for lack of anything better
+          middle: Text(AppLocalizations.of(context)!.talkdimsum) // for lack of anything better
           ),
       child: SafeArea(child: DishWidget(dish: dish)));
 }

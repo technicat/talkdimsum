@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:get/get.dart';
+//import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/ui/common/error_text.dart';
@@ -12,7 +12,7 @@ import '../progress.dart';
 class FavoritesScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
-      appBar: AppBar(title: Text('favorites'.tr)), body: FavoritesGrid());
+      appBar: AppBar(title: Text('favorites')), body: FavoritesGrid());
 }
 
 class FavoritesGrid extends StatelessWidget {

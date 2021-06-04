@@ -12,14 +12,14 @@ import 'search_word_scaffold.dart';
 class DishesScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
-        appBar: AppBar(title: Text('title'.tr), actions: <Widget>[
+        appBar: AppBar(title: Text('title'), actions: <Widget>[
           IconButton(
             icon: Icon(Icons.favorite_border, semanticLabel: 'Favorites'),
             tooltip: 'Favorites',
             onPressed: () => Get.to(FavoritesScaffold()),
           ),
           IconButton(
-            icon: Icon(Icons.search, semanticLabel: 'search'.tr),
+            icon: Icon(Icons.search, semanticLabel: 'search'),
             tooltip: 'Search',
             onPressed: () => Get.to(SearchWordScaffold()),
           ),
@@ -43,7 +43,7 @@ class DishesScaffold extends StatelessWidget {
                 },
               ),
               ListTile(
-                title: Text('title'.tr),
+                title: Text('title'),
                 onTap: () {
                   launch('http://talkdimsum.com');
                 },
