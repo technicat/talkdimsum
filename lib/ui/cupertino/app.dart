@@ -8,6 +8,8 @@ import 'navigation_bar.dart';
 
 //import '../common/localization.dart';
 
+//https://flutter.dev/docs/development/accessibility-and-localization/internationalization
+
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) => GetCupertinoApp(
@@ -25,6 +27,7 @@ class App extends StatelessWidget {
       //  locale: Get.deviceLocale,
       //  fallbackLocale: Locale('en', 'US'), //
         home: NavigationBar(),
-        title: 'Talk Dim Sum', //AppLocalizations.of(context)!.talkdimsum, // 'title', // .tr,
+        onGenerateTitle: (BuildContext context) => AppLocalizations.of(context)!.talkdimsum,
+       // title: 'Talk Dim Sum', //AppLocalizations.of(context)!.talkdimsum, // 'title', // .tr,
       );
 }
