@@ -1,7 +1,7 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
-import 'package:get/get.dart';
+//import 'package:get/get.dart';
 
 import 'dishes/categories_scaffold.dart';
 import 'dishes/search_word_scaffold.dart';
@@ -19,19 +19,19 @@ class NavigationBar extends StatelessWidget {
               label: 'Dishes'),
           BottomNavigationBarItem(
               icon: Icon(CupertinoIcons.search, semanticLabel: 'Search dishes'),
-              label: 'search'.tr),
+              label: 'search'),
           BottomNavigationBarItem(
               icon: Icon(CupertinoIcons.heart,
                   semanticLabel: 'Browse your favorite dishes'),
-              label: 'favorites'.tr),
+              label: 'favorites'),
           BottomNavigationBarItem(
               icon: Icon(CupertinoIcons.chat_bubble,
                   semanticLabel: 'Learn Chinese phrases'),
-              label: 'phrases'.tr),
+              label: 'phrases'),
           BottomNavigationBarItem(
               icon: Icon(CupertinoIcons.map,
                   semanticLabel: 'Find dim sum restaurants'),
-              label: 'places'.tr),
+              label: 'places'),
         ],
       ),
       tabBuilder: (BuildContext context, int index) {
