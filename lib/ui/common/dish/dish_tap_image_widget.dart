@@ -15,7 +15,7 @@ class DishTapImageWidget extends StatelessWidget {
       hint: 'Tap for info on where this photo was taken.',
       value: dish.word.english,
       child: GestureDetector(
-          onTap: () => Get.snackbar('Photo taken at ', dish.images[0].place,
+          onTap: () => Get.snackbar('Photo taken at ', dish.images.first.place,
               snackPosition: SnackPosition.BOTTOM),
           child: ExcludeSemantics(child: DishImageWidget(dish: dish))));
 }
