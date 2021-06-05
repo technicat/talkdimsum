@@ -1,6 +1,26 @@
 {
-    "talkdimsum": "Talk Dim Sum",
-    "@talkdimsum": {
-      "description": "The conventional newborn programmer greeting"
-    }
+  "talkdimsum": "Talk Dim Sum",
+  "@talkdimsum": {
+    "description": "The app name"
+  },
+  "dishes": "Dishes",
+  "@dishes": {
+    "description": "List of dishes"
+  },
+  "phrases": "Phrases",
+  "@phrases": {
+    "description": "Chinese phrases"
+  },
+  "places": "Places",
+  "@places": {
+    "description": "Restaurants"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search for dishes"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Favorited dishes"
+  }
 }
