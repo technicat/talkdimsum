@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:app_settings/app_settings.dart';
 import 'package:get/get.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 import 'categories_grid.dart';
 import 'favorites_grid.dart';
@@ -12,18 +13,22 @@ import 'search_word_scaffold.dart';
 class DishesScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
-        appBar: AppBar(title: Text('title'), actions: <Widget>[
-          IconButton(
-            icon: Icon(Icons.favorite_border, semanticLabel: 'Favorites'),
-            tooltip: 'Favorites',
-            onPressed: () => Get.to(FavoritesScaffold()),
-          ),
-          IconButton(
-            icon: Icon(Icons.search, semanticLabel: 'search'),
-            tooltip: 'Search',
-            onPressed: () => Get.to(SearchWordScaffold()),
-          ),
-        ]),
+        appBar: AppBar(
+            title: Text(AppLocalizations.of(context)!.dishes),
+            actions: <Widget>[
+              IconButton(
+                icon: Icon(Icons.favorite_border,
+                    semanticLabel: AppLocalizations.of(context)!.favorites),
+                tooltip: AppLocalizations.of(context)!.favorites,
+                onPressed: () => Get.to(FavoritesScaffold()),
+              ),
+              IconButton(
+                icon: Icon(Icons.search,
+                    semanticLabel: AppLocalizations.of(context)!.search),
+                tooltip: AppLocalizations.of(context)!.search,
+                onPressed: () => Get.to(SearchWordScaffold()),
+              ),
+            ]),
         body: CategoriesGrid(),
         drawer: Drawer(
           // Add a ListView to the drawer. This ensures the user can scroll
