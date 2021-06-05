@@ -1,6 +1,8 @@
 /* Technicat LLC */
 
 import 'package:flutter/material.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+
 
 import 'dishes/dishes_scaffold.dart';
 import 'place/country_scaffold.dart';
@@ -34,15 +36,15 @@ class NavigationBarState extends State<NavigationBar> {
           items: [
             BottomNavigationBarItem(
                 icon: Icon(Icons.home, semanticLabel: 'Browse dishes'),
-                label: 'Dishes'),
+                label: AppLocalizations.of(context)!.dishes),
             BottomNavigationBarItem(
                 icon: Icon(Icons.chat_bubble_outline,
                     semanticLabel: 'Learn Chinese phrases'),
-                label: 'Phrases'),
+                label: AppLocalizations.of(context)!.phrases),
             BottomNavigationBarItem(
                 icon: Icon(Icons.restaurant_menu,
                     semanticLabel: 'Find dim sum restaurants'),
-                label: 'Places'),
+                label: AppLocalizations.of(context)!.places),
           ],
           currentIndex: _selectedIndex,
           //  fixedColor: Colors.deepPurple,

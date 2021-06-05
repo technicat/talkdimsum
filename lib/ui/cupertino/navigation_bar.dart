@@ -2,7 +2,6 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-//import 'package:get/get.dart';
 
 import 'dishes/categories_scaffold.dart';
 import 'dishes/search_word_scaffold.dart';
@@ -22,16 +21,19 @@ class NavigationBar extends StatelessWidget {
               icon: Icon(CupertinoIcons.search, semanticLabel: 'Search dishes'),
               label: AppLocalizations.of(context)!.search),
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.heart,
-                  semanticLabel: 'Browse your favorite dishes'),
+            tooltip: 'Browse your favorite dishes',
+              icon: Icon(CupertinoIcons.heart,),
+                //  semanticLabel: 'Browse your favorite dishes'),
               label: AppLocalizations.of(context)!.favorites),
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.chat_bubble,
-                  semanticLabel: 'Learn Chinese phrases'),
+            tooltip: 'Learn Chinese phrases',
+              icon: Icon(CupertinoIcons.chat_bubble,),
+                 // semanticLabel: 'Learn Chinese phrases'),
               label: AppLocalizations.of(context)!.phrases),
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.map,
-                  semanticLabel: 'Find dim sum restaurants'),
+            tooltip: 'Find dim sum restaurants',
+              icon: Icon(CupertinoIcons.map),
+                //  semanticLabel: 'Find dim sum restaurants'),
               label: AppLocalizations.of(context)!.places),
         ],
       ),
