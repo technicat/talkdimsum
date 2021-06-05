@@ -15,25 +15,31 @@ class NavigationBar extends StatelessWidget {
       tabBar: CupertinoTabBar(
         items: [
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.home, semanticLabel: 'Browse dishes'),
+            tooltip: 'Browse dishes',
+              icon: Icon(CupertinoIcons.home,), // semanticLabel: 'Browse dishes'),
               label: AppLocalizations.of(context)!.dishes),
           BottomNavigationBarItem(
-              icon: Icon(CupertinoIcons.search, semanticLabel: 'Search dishes'),
+            tooltip: 'Search dishes',
+              icon: Icon(CupertinoIcons.search), //semanticLabel: 'Search dishes'),
               label: AppLocalizations.of(context)!.search),
           BottomNavigationBarItem(
-            tooltip: 'Browse your favorite dishes',
-              icon: Icon(CupertinoIcons.heart,),
-                //  semanticLabel: 'Browse your favorite dishes'),
+              tooltip: 'Browse your favorite dishes',
+              icon: Icon(
+                CupertinoIcons.heart,
+              ),
+              //  semanticLabel: 'Browse your favorite dishes'),
               label: AppLocalizations.of(context)!.favorites),
           BottomNavigationBarItem(
-            tooltip: 'Learn Chinese phrases',
-              icon: Icon(CupertinoIcons.chat_bubble,),
-                 // semanticLabel: 'Learn Chinese phrases'),
+              tooltip: 'Learn Chinese phrases',
+              icon: Icon(
+                CupertinoIcons.chat_bubble,
+              ),
+              // semanticLabel: 'Learn Chinese phrases'),
               label: AppLocalizations.of(context)!.phrases),
           BottomNavigationBarItem(
-            tooltip: 'Find dim sum restaurants',
+              tooltip: 'Find dim sum restaurants',
               icon: Icon(CupertinoIcons.map),
-                //  semanticLabel: 'Find dim sum restaurants'),
+              //  semanticLabel: 'Find dim sum restaurants'),
               label: AppLocalizations.of(context)!.places),
         ],
       ),
