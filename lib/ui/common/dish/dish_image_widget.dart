@@ -1,5 +1,4 @@
 import 'package:flutter/widgets.dart';
-import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 
