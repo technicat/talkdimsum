@@ -2,6 +2,19 @@
     "name": "Trinidad",
     "places": [
         {
+            "title": "Kam Wah",
+            "links": [
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g147389-d4886760-Reviews-Kam_Wah-Port_of_Spain_Trinidad_Trinidad_and_Tobago.html"
+                }
+            ],
+            "lat": 10.668260,
+            "lon": -61.518900,
+            "city": "Port of Spain",
+            "address": "Maraval Rd, Port of Spain Trinidad"
+        },
+        {
             "title": "Tiki Village",
             "links": [
                 {
