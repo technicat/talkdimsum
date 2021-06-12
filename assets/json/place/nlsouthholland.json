@@ -51,6 +51,23 @@
             "lon": 4.275195856071056,
             "city": "The Hague",
             "address": "Frederik Hendriklaan 286 2585bn, 2582 BN, The Hague The Netherlands"
+        },
+        {
+            "title": "Wong Kee",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.wong-kee.nl/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g188633-d3812352-Reviews-Wong_Kee_Den_Haag-The_Hague_South_Holland_Province.html"
+                }
+            ],
+            "lat": 52.076356555166264,
+            "lon": 4.314113084906686,
+            "city": "The Hague",
+            "address": "Gedempte Gracht 319, 2512 AM, The Hague The Netherlands"
         }
     ]
 }
