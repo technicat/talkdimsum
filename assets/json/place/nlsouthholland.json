@@ -19,6 +19,23 @@
             "address": "Achter Raamstraat 75, 2512 BW, The Hague The Netherlands"
         },
         {
+            "title": "Kee Lun Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.kee-lun-palace-den-haag.nl/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g188633-d887347-Reviews-Kee_Lun_Palace-The_Hague_South_Holland_Province.html"
+                }
+            ],
+            "lat": 52.075439,
+            "lon": 4.3092302,
+            "city": "The Hague",
+            "address": "Wagenstraat 95, The Hague The Netherlands"
+        },
+        {
             "title": "Mandarin Palace",
             "links": [
                 {
@@ -34,6 +51,19 @@
             "lon": 4.311709284906611,
             "city": "The Hague",
             "address": "Nicolaistraat 35, 2517 SZ, The Hague The Netherlands"
+        },
+        {
+            "title": "Ming Dynasty",
+            "links": [
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g188633-d5288129-Reviews-Mandarin_Palace-The_Hague_South_Holland_Province.html"
+                }
+            ],
+            "lat": 52.07678991792647,
+            "lon": 4.317507556070611,
+            "city": "The Hague",
+            "address": "Spui 170, The Hague The Netherlands"
         },
         {
             "title": "Walong",
