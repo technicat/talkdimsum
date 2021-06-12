@@ -13,7 +13,7 @@
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g188633-d7180095-Reviews-Full_Moon_City-The_Hague_South_Holland_Province.html"
                 }
             ],
-            "lat": 52.07545865795135, 
+            "lat": 52.07545865795135,
             "lon": 4.311698556070538,
             "city": "The Hague",
             "address": "Achter Raamstraat 75, 2512 BW, The Hague The Netherlands"
@@ -30,10 +30,27 @@
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g188633-d5288129-Reviews-Mandarin_Palace-The_Hague_South_Holland_Province.html"
                 }
             ],
-            "lat": 52.07543887537496, 
-            "lon": 4.311709284906611, 
+            "lat": 52.07543887537496,
+            "lon": 4.311709284906611,
             "city": "The Hague",
             "address": "Nicolaistraat 35, 2517 SZ, The Hague The Netherlands"
+        },
+        {
+            "title": "Walong",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.restaurantwalong.nl/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g188633-d1111400-Reviews-Walong-The_Hague_South_Holland_Province.html"
+                }
+            ],
+            "lat": 52.08959689834133,
+            "lon": 4.275195856071056,
+            "city": "The Hague",
+            "address": "Frederik Hendriklaan 286 2585bn, 2582 BN, The Hague The Netherlands"
         }
     ]
 }
