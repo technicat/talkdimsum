@@ -44,7 +44,6 @@ dependencies:
   json_annotation:
   path:
   path_provider:
-  pedantic:
   share:
   shared_preferences:
   speech_to_text:
@@ -78,6 +77,7 @@ dev_dependencies:
   build_runner:
   json_serializable:
   freezed:
+  lints:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
