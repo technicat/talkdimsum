@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 
 import 'package:provider/provider.dart';
 
@@ -16,7 +16,7 @@ class ChineseText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<Settings>(
         builder: (context, settings, child) => ExcludeSemantics(
-            child: Text(word.chineseText(settings.language),
+            child: SelectableText(word.chineseText(settings.language),
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24))));
   }
 }

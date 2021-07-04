@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
-import 'package:talkdimsum/ui/common/word/chinese_text.dart';
+import 'chinese_text.dart';
 import 'package:talkdimsum/ui/common/word/english_text.dart';
 import 'package:talkdimsum/ui/common/word/pronounce_text.dart';
 
