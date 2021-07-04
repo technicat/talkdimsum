@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 
 import 'package:provider/provider.dart';
 
@@ -15,10 +15,9 @@ class ChineseText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<Settings>(
-        builder: (context, settings, child) => ExcludeSemantics(child: Text(
-            '${word.chineseText(settings.language)}',
-            textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 24))));
+        builder: (context, settings, child) => ExcludeSemantics(
+            child: SelectableText(word.chineseText(settings.language),
+                textAlign: TextAlign.center, style: TextStyle(fontSize: 24))));
   }
 }
 
@@ -30,11 +29,12 @@ class HighlightChineseText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Consumer<Settings>(
-        builder: (context, settings, child) => Directionality(textDirection: TextDirection.ltr, child: SubstringHighlight(
-            text: '${word.chineseText(settings.language)}',
-            term: '',
-            textAlign: TextAlign.center,
-            textStyle: TextStyle(fontSize: 24)
-            )));
+        builder: (context, settings, child) => Directionality(
+            textDirection: TextDirection.ltr,
+            child: SubstringHighlight(
+                text: '${word.chineseText(settings.language)}',
+                term: '',
+                textAlign: TextAlign.center,
+                textStyle: TextStyle(fontSize: 24))));
   }
 }
