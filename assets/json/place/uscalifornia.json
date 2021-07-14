@@ -611,7 +611,7 @@
                     "URL": "https://www.yelp.com/biz/furiwa-togo-irvine"
                 }
             ],
-            "lat": 33.65965374289795, 
+            "lat": 33.65965374289795,
             "lon": -117.86013743123632,
             "city": "Irvine",
             "address": "19530 Jamboree Road Irvine, CA 92612"
@@ -1958,6 +1958,23 @@
             "address": "1416 Powell St, San Francisco, CA 94133"
         },
         {
+            "title": "Lee's Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://leesdimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lees-dim-sum-san-francisco"
+                }
+            ],
+            "lat": 37.78584526120646,
+            "lon": -122.39583257339228,
+            "city": "San Francisco",
+            "address": "303 2nd St San Francisco, CA 94107"
+        },
+        {
             "title": "Mama Ji's",
             "links": [
                 {
@@ -2505,8 +2522,8 @@
                     "URL": "https://www.yelp.com/biz/furiwa-catering-westminster-2"
                 }
             ],
-            "lat": 33.74326615887352, 
-            "lon": -117.9899791312346, 
+            "lat": 33.74326615887352,
+            "lon": -117.9899791312346,
             "city": "Westminster",
             "address": "15111 Beach Boulevard Westminster, CA 92683"
         },
