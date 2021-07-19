@@ -56,13 +56,13 @@ dependencies:
  # firebase_messaging:
 
   cupertino_search:
-    path: ../cupertino_search
-#    git: 
-#      url: git://github.com/technicat/cupertino_search.git
+#    path: ../cupertino_search
+    git: 
+      url: git://github.com/technicat/cupertino_search.git
   material_search:
-    path: ../material_search
-#    git: 
-#      url: git://github.com/technicat/material_search.git
+#    path: ../material_search
+    git: 
+      url: git://github.com/technicat/material_search.git
 
 # flutter pub run build_runner build --delete-conflicting-outputs
 
@@ -136,7 +136,7 @@ flutter:
 flutter_icons:
   android: true 
   ios: true
-  image_path: "icons/if_dim_sum.png"
+  image_path: "../dimsumicons/if_dim_sum.png"
 #  image_path: "icons/icons8-dim_sum.png"
 
 flutter_launcher_name:
@@ -165,7 +165,7 @@ flutter_native_splash:
 
   # The image parameter allows you to specify an image used in the splash screen.  It must be a 
   # png file.  
-  image: icons/catgraphic.png
+  image: ../dimsumicons/catgraphic.png
 
   # The color_dark, background_image_dark, and image_dark are parameters that set the background
   # and image when the device is in dark mode. If they are not specified, the app will use the
