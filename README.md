@@ -2,8 +2,5 @@ This is the flutter project for [Talk Dim Sum](http://talkdimsum.com) (download 
 
 The Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) has more features/polish than the Android build from this project but shares the same data (images and JSON)
 
-Everything is MIT-licensed except the logos:
+Everything is MIT-licensed except graphics (logos, splash screen, icons...)
 
-technicat logo created by [Dakota Snow](http://espressyourself.coffee/)
-
-dim sum icon from [Icons8](https://icons8.com)
