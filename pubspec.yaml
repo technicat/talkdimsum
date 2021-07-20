@@ -37,7 +37,6 @@ dependencies:
   app_settings:
   provider:
   flutter_riverpod:
-#  flutter_sheet_localization:
   flutter_tts:
   freezed_annotation:
   get:
@@ -47,15 +46,11 @@ dependencies:
   share:
   shared_preferences:
   speech_to_text:
-    git:
-      url: git://github.com/technicat/speech_to_text.git
   bubble:
   sprintf:
   sqflite:
   substring_highlight:
   url_launcher:
- # firebase_core:
- # firebase_messaging:
 
   cupertino_search:
 #    path: ../cupertino_search
@@ -69,12 +64,7 @@ dependencies:
 # flutter pub run build_runner build --delete-conflicting-outputs
 
 dev_dependencies:
-#  integration_test:
-#    sdk: flutter
   flutter_launcher_icons:
-#  flutter_launcher_name:
-#  flutter_native_splash:
-#  flutter_sheet_localization_generator:
   auto_route_generator:
   build_runner:
   json_serializable:
