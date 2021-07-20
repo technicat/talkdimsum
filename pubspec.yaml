@@ -61,6 +61,7 @@ dependencies:
     git: 
       url: git://github.com/technicat/material_search.git
 
+# run this first
 # flutter pub run build_runner build --delete-conflicting-outputs
 
 dev_dependencies:
