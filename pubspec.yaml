@@ -48,7 +48,7 @@ dependencies:
   shared_preferences:
   speech_to_text:
     git:
-      url: git://github.com/technicat/speech_to_text
+      url: git://github.com/technicat/speech_to_text.git
   bubble:
   sprintf:
   sqflite:
