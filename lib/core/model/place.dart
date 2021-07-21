@@ -4,7 +4,6 @@ import 'package:sprintf/sprintf.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
-//import 'package:get/get.dart';
 
 import 'link.dart';
 
@@ -13,17 +12,8 @@ part 'place.g.dart';
 part 'place.freezed.dart';
 
 @freezed
-//@JsonSerializable()
 class Place with _$Place {
   Place._();
-  /* @JsonKey(name: 'title', required: true)
-  final String name;
-  final double lat;
-  final double lon;
-  final String city;
-  final String address;
-  @JsonKey(defaultValue: [])
-  final List<Link> links; */
 
   factory Place(
       @required @JsonKey(name: 'title') String name,
@@ -33,11 +23,7 @@ class Place with _$Place {
       @required String address,
       [@Default([]) List<Link> links]) = _Place;
 
-  //Place(this.name, this.lat, this.lon, this.city, this.links, this.address);
-
   factory Place.fromJson(Map<String, dynamic> json) => _$PlaceFromJson(json);
-
-  //Map<String, dynamic> toJson() => _$PlaceToJson(this);
 
   void showGoogleMap() {
     var url = sprintf(
