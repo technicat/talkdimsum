@@ -35,14 +35,24 @@ dependencies:
 
   # more stuff
   app_settings:
-  provider:
+  cupertino_search:
+#    path: ../cupertino_search
+    git: 
+      url: git://github.com/technicat/cupertino_search.git
   flutter_riverpod:
   flutter_tts:
+    git: 
+      url: git://github.com/technicat/flutter_tts.git
   freezed_annotation:
   get:
   json_annotation:
+  material_search:
+#    path: ../material_search
+    git: 
+      url: git://github.com/technicat/material_search.git
   path:
   path_provider:
+  provider:
   share:
   shared_preferences:
   speech_to_text:
@@ -51,15 +61,6 @@ dependencies:
   sqflite:
   substring_highlight:
   url_launcher:
-
-  cupertino_search:
-#    path: ../cupertino_search
-    git: 
-      url: git://github.com/technicat/cupertino_search.git
-  material_search:
-#    path: ../material_search
-    git: 
-      url: git://github.com/technicat/material_search.git
 
 # run this first
 # flutter pub run build_runner build --delete-conflicting-outputs
