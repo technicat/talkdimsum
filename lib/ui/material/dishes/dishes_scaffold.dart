@@ -54,25 +54,11 @@ class DishesScaffold extends StatelessWidget {
                 },
               ),
               ListTile(
-                title: Text('Google Play'),
-                onTap: () {
-                  launch(
-                      'https://play.google.com/store/apps/details?id=com.technicat.talkdimsum');
-                  // StoreRedirect.redirect();
-                },
-              ),
-              ListTile(
                 title: Text('Settings'),
                 onTap: () {
                   AppSettings.openAppSettings();
                 },
               ),
-              /*     ListTile(
-              title: Text('Icons8'),
-              onTap: () {
-                launch('https://icons8.com/');
-              },
-            ), */
             ],
           ),
         ),
