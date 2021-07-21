@@ -21,11 +21,10 @@ class TTS with ChangeNotifier {
     if (flutterTts.progressHandler == null) {
       flutterTts.setProgressHandler(
           (String text, int start, int end, String word) {
-            print(word);
             uttering = word;
           });
     }
-    // language change not working on iOS
+    // language change not always working on iOS
     // need to call setVoice?
     // List<dynamic> languages = await flutterTts.getLanguages;
     // print(languages);
@@ -34,7 +33,7 @@ class TTS with ChangeNotifier {
     //await flutterTts.setVoice({"locale": loc});
     var result = await flutterTts.speak(text);
     if (result == 1) {
-      print('speaking ' + loc);
+      print('speaking in ' + loc);
     } else {
       print("didn't speak for some reason");
     }
@@ -43,50 +42,5 @@ class TTS with ChangeNotifier {
   Future say(Word word, Chinese lang, double speed) async {
     await _say(word.chineseText(lang), lang, speed);
   }
-
-  /*
-  flutterTts.setStartHandler(() {
-  setState(() {
-    ttsState = TtsState.playing;
-  });
-});
-
-flutterTts.setCompletionHandler(() {
-  setState(() {
-    ttsState = TtsState.stopped;
-  });
-});
-
-flutterTts.setProgressHandler((String text, int startOffset, int endOffset, String word) {
-  setState(() {
-    _currentWord = word;
-  });
-});
-
-flutterTts.setErrorHandler((msg) {
-  setState(() {
-    ttsState = TtsState.stopped;
-  });
-});
-
-flutterTts.setCancelHandler((msg) {
-  setState(() {
-    ttsState = TtsState.stopped;
-  });
-});
-
-// iOS and Web
-flutterTts.setPauseHandler((msg) {
-  setState(() {
-    ttsState = TtsState.paused;
-  });
-});
-
-flutterTts.setContinueHandler((msg) {
-  setState(() {
-    ttsState = TtsState.continued;
-  });
-});
-*/
 
 }
