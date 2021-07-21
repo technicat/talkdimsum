@@ -38,9 +38,9 @@ class DishesScaffold extends StatelessWidget {
             // Important: Remove any padding from the ListView.
             padding: EdgeInsets.zero,
             children: [
-              DrawerHeader(
+             /* DrawerHeader(
                 child: Image.asset('assets/images/icon/catgraphic.png'),
-              ),
+              ),*/ 
               ListTile(
                 title: Text('Technicat'),
                 onTap: () {
