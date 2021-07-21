@@ -99,12 +99,56 @@
                 "URL": "https://medium.com/@fluentup/the-origin-of-the-hong-kong-cha-chaan-teng-5c998aa26e6"
             },
             {
+                "name": "Hong Kong Cheapo",
+                "URL": "https://hongkongcheapo.com/eating-and-drinking/cha-chaan-teng/"
+            },
+            {
                 "name": "Hong Kong Tourism Board",
                 "URL": "https://www.discoverhongkong.com/in/explore/dining/hong-kong-must-try-traditional-diners.html"
             },
             {
                 "name": "Hong Kong University",
                 "URL": "https://learning.hku.hk/ccch9051/group-19/cha-chaan-teng-info"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "早餐",
+                "English": "breakfast",
+                "Yale": "jóu chāan",
+                "Pinyin": "zǎo cān",
+                "Resources": [
+                    {
+                        "name": "早餐",
+                        "URL": "https://en.wiktionary.org/wiki/早餐"
+                    },
+                    {
+                        "name": "早",
+                        "URL": "https://en.wiktionary.org/wiki/早"
+                    },
+                    {
+                        "name": "餐",
+                        "URL": "https://en.wiktionary.org/wiki/餐"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "luckyhouseasiancafebreakfast",
+                "place": "Lucky House Asian Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Traditional Chinese breakfasts tend to be simple, featuring congee for example, but in Hong Kong breakfast can include Western items (with a Hong Kong twist). For example, a cha chaan teng breakfast set can include congee, condensed milk toast, and coffee (with unlimited refills).\n\n早 means “early,” and 餐 is “meal,” so 早餐 is “early meal.”",
+        "Tags": [
+            "早餐"
+        ],
+        "Resources": [
+            {
+                "name": "China Highlights",
+                "URL": "https://www.chinahighlights.com/travelguide/article-what-chinese-eat-for-breakfast.htm"
             }
         ]
     },
@@ -159,6 +203,7 @@
         ],
         "Description": "Hong Kong-style French toast is a heart-attack inducing combination made from thick-sliced white bread deep-fried in egg batter, topped with some combination of butter, condensed milk, jam or syrup and typically presented in sandwich form with peanut butter or other filling.\n\n港式 means “Hong Kong-style” (港 the second character of Hong Kong and 式 is style, so it's literally “Kong-style”). 西 is West or Western and 多士 is toast (the Cantonese “dō sih” sounds like toast), so French toast is referred to as “Western toast” (which is a better name, as French toast dates back to the Roman Empire).",
         "Tags": [
+            "早餐",
             "港式",
             "西多士",
             "多士",
