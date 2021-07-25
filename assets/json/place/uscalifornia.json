@@ -297,6 +297,23 @@
             "address": "330 N Lantana St, Ste 31, Camarillo, CA 93010"
         },
         {
+            "title": "Tasty Dim Sum House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.tastydimsumhouse.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tasty-dim-sum-house-chino-hills"
+                }
+            ],
+            "lat": 34.00977873959505, 
+            "lon": -117.74183918698809,
+            "city": "Chino Hills",
+            "address": "2923 Chino Ave. H4, Chino Hills, CA 91709 "
+        },
+        {
             "title": "Four Seasons Chinese Restaurant",
             "links": [
                 {
