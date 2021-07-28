@@ -35,11 +35,12 @@ dependencies:
 
   # more stuff
   app_settings:
+    git: 
+      url: git://github.com/technicat/app_settings.git
   bubble:
     git: 
       url: git://github.com/technicat/bubble.git
   cupertino_search:
-#    path: ../cupertino_search
     git: 
       url: git://github.com/technicat/cupertino_search.git
   flutter_riverpod:
@@ -50,7 +51,6 @@ dependencies:
   get:
   json_annotation:
   material_search:
-#    path: ../material_search
     git: 
       url: git://github.com/technicat/material_search.git
   path:
