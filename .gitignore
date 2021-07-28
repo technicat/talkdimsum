@@ -1,3 +1,11 @@
+# not saving build directories
+
+android
+macos
+web
+windows
+
+
 # https://github.com/flutter/flutter/blob/master/.gitignore
 
 # Miscellaneous
