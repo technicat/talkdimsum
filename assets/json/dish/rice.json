@@ -364,5 +364,52 @@
         "URL": "https://www.wokandkin.com/taiwanese-popcorn-chicken/"
       }
     ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "香腸飯",
+        "Simplified": "香肠饭",
+        "English": "Taiwanese sausage rice",
+        "Yale": "hēung chéung faahn",
+        "Pinyin": "xiāng cháng fàn",
+        "Resources": [
+          {
+            "name": "香腸",
+            "URL": "https://en.wiktionary.org/wiki/香腸"
+          },
+          {
+            "name": "香",
+            "URL": "https://en.wiktionary.org/wiki/香"
+          },
+          {
+            "name": "腸",
+            "URL": "https://en.wiktionary.org/wiki/腸"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "taiwanesesausagerice",
+        "place": "Taiwan Deli, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Taiwanese sausage on white rice. Taiwanese sausage is similar to Cantonese sausage but plump instead of dried.\n\n香腸 is Chinese sausage (香 means “fragrant,” 腸 is “sausage”)",
+    "Tags": [
+      "香腸",
+      "飯",
+      "白飯"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chinese_sausage#Taiwan"
+      }
+    ]
   }
 ]
