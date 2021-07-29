@@ -31,16 +31,8 @@ class DishesScaffold extends StatelessWidget {
             ]),
         body: CategoriesGrid(),
         drawer: Drawer(
-          // Add a ListView to the drawer. This ensures the user can scroll
-          // through the options in the Drawer if there isn't enough vertical
-          // space to fit everything.
           child: ListView(
-            // Important: Remove any padding from the ListView.
-            padding: EdgeInsets.zero,
             children: [
-             /* DrawerHeader(
-                child: Image.asset('assets/images/icon/catgraphic.png'),
-              ),*/ 
               ListTile(
                 title: Text('Technicat'),
                 onTap: () {
@@ -48,7 +40,7 @@ class DishesScaffold extends StatelessWidget {
                 },
               ),
               ListTile(
-                title: Text('title'),
+                title: Text('Talk Dim Sum'),
                 onTap: () {
                   launch('http://talkdimsum.com');
                 },
