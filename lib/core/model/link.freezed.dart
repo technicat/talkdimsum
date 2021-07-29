@@ -114,8 +114,9 @@ class __$LinkCopyWithImpl<$Res> extends _$LinkCopyWithImpl<$Res>
   }
 }
 
-/// @nodoc
 @JsonSerializable()
+
+/// @nodoc
 class _$_Link extends _Link with DiagnosticableTreeMixin {
   _$_Link(this.name, @JsonKey(name: 'URL') this.url) : super._();
 

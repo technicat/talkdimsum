@@ -176,8 +176,9 @@ class __$PlaceCopyWithImpl<$Res> extends _$PlaceCopyWithImpl<$Res>
   }
 }
 
-/// @nodoc
 @JsonSerializable()
+
+/// @nodoc
 class _$_Place extends _Place with DiagnosticableTreeMixin {
   _$_Place(@JsonKey(name: 'title') this.name, this.lat, this.lon, this.city,
       this.address,
