@@ -59,6 +59,9 @@ dependencies:
   share:
   shared_preferences:
   speech_to_text:
+    git: 
+      url: git://github.com/technicat/speech_to_text.git
+      path: speech_to_text
   sprintf:
   sqflite:
   url_launcher:
