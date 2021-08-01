@@ -65,6 +65,10 @@ dependencies:
   sprintf:
   sqflite:
   url_launcher:
+  window_size:
+     git: 
+      url: git://github.com/technicat/flutter-desktop-embedding.git
+      path: plugins/window_size
 
 # run this first
 # flutter pub run build_runner build --delete-conflicting-outputs
