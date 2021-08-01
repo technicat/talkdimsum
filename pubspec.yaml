@@ -54,7 +54,6 @@ dependencies:
     git: 
       url: git://github.com/technicat/material_search.git
   path:
-  path_provider:
   provider:
   share:
   shared_preferences:
