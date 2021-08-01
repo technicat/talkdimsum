@@ -24,7 +24,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Widget app;
-    if (GetPlatform.isMacOS) {
+    if (GetPlatform.isDesktop) {
       setWindowFrame(Rect.fromLTRB(0,0,400,600));
     }
     if (GetPlatform.isIOS || GetPlatform.isMacOS) {
