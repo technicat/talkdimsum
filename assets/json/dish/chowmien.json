@@ -101,7 +101,7 @@
         "place": "Tim Ho Wan, Las Vegas, Nevada"
       }
     ],
-    "Description": "Thin, crispy, pan-fried noodles tossed in soy sauce.\n\n豉油 is “soy sauce,” 皇 means “king” or “royal” or “supreme,” (often listed as “supreme soy sauce noodles”) and 炒麵 is “stir-fried noodles” (chow mein).",
+    "Description": "Thin, crispy, pan-fried noodles tossed in soy sauce.\n\n豉油 is “soy sauce,” 皇 means “king” or “royal” or “supreme,” (often listed as “supreme soy sauce noodles”) and 炒麵 is “stir-fried noodles” (chow mein).\n\nAlso a breakfast item.",
     "Tags": [
       "早餐",
       "豉油",
@@ -125,6 +125,82 @@
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "豉油皇炒麵",
+        "Simplified": "豉油皇炒面",
+        "English": "Hong Kong crispy noodles",
+        "Yale": "sih yàuh wòhng cháau mihn",
+        "Pinyin": "chǐ yóu huáng chǎo miàn",
+        "Resources": [
+          {
+            "name": "豉油",
+            "URL": "https://en.wiktionary.org/wiki/豉油"
+          },
+          {
+            "name": "豉",
+            "URL": "https://en.wiktionary.org/wiki/豉"
+          },
+          {
+            "name": "油",
+            "URL": "https://en.wiktionary.org/wiki/油"
+          },
+          {
+            "name": "皇",
+            "URL": "https://en.wiktionary.org/wiki/v"
+          },
+          {
+            "name": "炒麵",
+            "URL": "https://en.wiktionary.org/wiki/炒麵"
+          },
+          {
+            "name": "炒",
+            "URL": "https://en.wiktionary.org/wiki/炒"
+          },
+          {
+            "name": "麵",
+            "URL": "https://en.wiktionary.org/wiki/麵"
+          }
+        ]
+      },
+      {
+        "Chinese": "豉油王炒麵",
+        "Simplified": "豉油王炒面",
+        "English": "soy sauce pan-fried noodles",
+        "Yale": "sih yàuh wòhng cháau mihn",
+        "Pinyin": "chǐ yóu huáng chǎo miàn"
+      }
+    ],
+    "images": [
+      {
+        "image": "soysaucenoodlestimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Thin, crispy, pan-fried noodles tossed in soy sauce.\n\n豉油 is “soy sauce,” 皇 means “king” or “royal” or “supreme,” (often listed as “supreme soy sauce noodles”) and 炒麵 is “stir-fried noodles” (chow mein).\n\nAlso a breakfast item.",
+    "Tags": [
+      "早餐",
+      "豉油",
+      "炒麵",
+      "炒",
+      "麵"
+    ],
+    "Resources": [
+      {
+        "name": "Chow Fun Foods",
+        "URL": "https://chowfunfoods.com/hong-kong-crispy-noodles-the-simple-way/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/hong-kong-style-chow-mein"
+      },
+      {
+        "name": "Serious Eats",
+        "URL": "https://www.seriouseats.com/chinese-noodle-101-noodle-cake-seafood-sauce"
       }
     ]
   }
