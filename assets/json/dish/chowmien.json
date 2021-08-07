@@ -30,7 +30,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description": "Stir-fried noodles.\n\n炒 is “fried,” and 麵 is “noodles” (noodles made from wheat flour, not rice flour).\n\nAlthough the word for Chinese noodles is typically spelled “mein” and pronounced like “Main Street,” spelling it as “mien” would be closer to the Cantonese pronunciation, like “mean streets.”",
+    "Description": "Stir-fried noodles.\n\n炒 is “stir-fried,” and 麵 is “noodles” (noodles made from wheat flour, not rice flour).\n\nAlthough the word for Chinese noodles is typically spelled “mein” and pronounced like “Main Street,” spelling it as “mien” would be closer to the Cantonese pronunciation, like “mean streets.”",
     "Tags": [
       "炒麵",
       "炒",
@@ -53,7 +53,7 @@
       {
         "Chinese": "豉油皇炒麵",
         "Simplified": "豉油皇炒面",
-        "English": "soy sauce pan-fried noodles",
+        "English": "soy sauce stir-fried noodles",
         "Yale": "sih yàuh wòhng cháau mihn",
         "Pinyin": "chǐ yóu huáng chǎo miàn",
         "Resources": [
@@ -114,10 +114,6 @@
       {
         "name": "Made with Lau",
         "URL": "https://madewithlau.com/recipes/cantonese-chow-mein"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles/"
       }
     ]
   }
