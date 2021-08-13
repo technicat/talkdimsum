@@ -19,6 +19,23 @@
             "address": "11105 Resort Road, Ellicott City, MD 21042"
         },
         {
+            "title": "China Garden",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://chinagardenhg.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-garden-han-gong-rockville"
+                }
+            ],
+            "lat": 39.043820530217275,
+            "lon": -77.11302023121347,
+            "city": "Rockville",
+            "address": "11333 Woodglen Dr Rockville, MD 20852"
+        },
+        {
             "title": "Chopstix Gourmet",
             "links": [
                 {
