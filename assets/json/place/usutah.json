@@ -2,6 +2,23 @@
     "name": "Utah",
     "places": [
         {
+            "title": "China Town Eatery",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://chinatowneatery12.wixsite.com/chinatowneateryslc"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-town-eatery-salt-lake-city"
+                }
+            ],
+            "lat": 40.69824529593155,
+            "lon": -111.88905464466228,
+            "city": "Salt Lake City",
+            "address": "3370 S State St Ste 3 Salt Lake City, UT 84115"
+        },
+        {
             "title": "Dim Sum House",
             "links": [
                 {
