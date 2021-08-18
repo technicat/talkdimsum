@@ -79,6 +79,19 @@
             "address": "1716 S State St, Salt Lake City, UT 84115"
         },
         {
+            "title": "Cafe Anh Hong",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/cafe-anh-hong-sandy-2"
+                }
+            ],
+            "lat": 40.581620,
+            "lon": -111.851480,
+            "city": "Sandy",
+            "address": "8650 S 1300th E Sandy, UT 84094"
+        },
+        {
             "title": "China Town Eatery",
             "links": [
                 {
