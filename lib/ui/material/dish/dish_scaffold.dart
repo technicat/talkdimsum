@@ -42,7 +42,6 @@ class DishScaffold extends StatelessWidget {
                         child: Icon(Icons.favorite_border,
                             semanticLabel: 'Add this dish to favorites'))),
                 appBar: AppBar(
-                    //   title: Text('${dish.word.English}'),
                     actions: <Widget>[
                       PopupMenuButton<String>(
                         icon: Icon(Icons.help,
