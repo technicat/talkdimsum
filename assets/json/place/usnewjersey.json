@@ -45,6 +45,23 @@
             "address": "100 Rt 22 W, Green Brook Township, NJ 08812"
         },
         {
+            "title": "Dim Sum Station",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumstations.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-station-hackensack"
+                }
+            ],
+            "lat": 40.889540,
+            "lon": -74.038630,
+            "city": "Hackensack",
+            "address": "366 River Street, Hackensack, New Jersey 07601"
+        },
+        {
             "title": "Qin Dynasty",
             "links": [
                 {
