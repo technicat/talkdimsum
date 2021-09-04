@@ -2,6 +2,23 @@
     "name": "New Jersey",
     "places": [
         {
+            "title": "Dim Sum II",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumllcranford.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-ii-chinese-restaurant-cranford"
+                }
+            ],
+            "lat": 40.65591480094676, 
+            "lon": -74.3055163734987,
+            "city": "Cranford",
+            "address": "17 Eastman Street Second Floor Cranford, NJ 07016"
+        },
+        {
             "title": "Wonder Seafood Restaurant",
             "links": [
                 {
