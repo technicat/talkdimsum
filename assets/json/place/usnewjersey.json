@@ -130,6 +130,23 @@
             "address": "216 W Main St, Somerville, NJ 08876"
         },
         {
+            "title": "Dim Sum and Then Some!",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumventnor.com/home"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-and-then-some-ventnor-city"
+                }
+            ],
+            "lat": 39.333420,
+            "lon": -74.492588,
+            "city": "Ventnor City",
+            "address": "7317 Ventnor Avenue, Ventnor City, New Jersey 08406"
+        },
+        {
             "title": "DimSum Seafood Restaurant",
             "links": [
                 {
