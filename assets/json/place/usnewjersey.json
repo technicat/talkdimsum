@@ -32,6 +32,23 @@
             "address": "1984 State Route 27 Edison, NJ 08817"
         },
         {
+            "title": "Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.ezordernow.com/dimsumnj"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-east-brunswick"
+                }
+            ],
+            "lat": 40.410955,
+            "lon": -74.371446,
+            "city": "East Brunswick",
+            "address": "100 Main St, East Brunswick, NJ 08816"
+        },
+        {
             "title": "Aquarius Seafood Restaurant",
             "links": [
                 {
