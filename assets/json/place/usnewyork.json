@@ -1,670 +1,624 @@
 {
-    "name":"New York",
-    "places":
-[
-    {
-        "title": "Hong Kong Bakery & Bistro",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.hkbakerybistro.us"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/hong-kong-bakery-and-bistro-albany"
-            }
-        ],
-        "lat": 42.709620,
-        "lon": -73.821960,
-        "city": "Albany",
-        "address": "8 Wolf Rd Albany, NY 12205"
-    },
-    {
-        "title": "Ocean Palace",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/ocean-palace-albany-2"
-            }
-        ],
-        "lat": 42.658871,
-        "lon": -73.766197,
-         "city": "Albany",
-        "address": "68 Wolf Rd Albany, NY 12205"
-    },
-    {
-        "title": "Rain Modern Chinese",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://rainalbany.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/rain-modern-chinese-albany"
-            }
-        ],
-        "lat": 42.654140,
-        "lon": -73.766403,
-        "city": "Albany",
-        "address": "259 Lark St Albany, NY 12210"
-    },
-    {
-        "title": "Shining Rainbow Restaurant",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"https://www.shiningrainbowny.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/shining-rainbow-restaurant-albany"
-            }
-        ],
-        "lat": 42.662320,
-        "lon": -73.769250,
-         "city": "Albany",
-        "address": "209 Central Ave Albany, NY 12206"
-    },
-    
-    {
-        "title": "007 Chinese Food",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/007-chinese-food-buffalo"
-            }
-        ],
-        "lat": 42.927731,
-        "lon": -78.889389,
-        "city": "Buffalo",
-        "address": "25 Grant St West Side Bazaar Buffalo, NY 14213"
-    },
-
-    
-
-    {
-        "title": "The Orient Restaurant",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/the-orient-restaurant-bethpage"
-            }
-        ],
-        "lat": 40.741610,
-        "lon": -73.496890,
-        "city": "Bethpage",
-        "address": "623 Hicksville Rd Bethpage, NY 11714"
-    },
-
-     {
-        "title": "Dim Sum Bar",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-bar-brooklyn"
-            }
-        ],
-        "lat": 40.714750,
-        "lon": -73.961370,
-        "city": "Brooklyn",
-        "address": "167 Grand St, Brooklyn, NY 11249"
-    },
-    {
-        "title": "East Harbor Seafood Palace",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn"
-            }
-        ],
-        "lat": 40.633390,
-        "lon": -74.014440,
-        "city": "Brooklyn",
-        "address": "714 65th St, Brooklyn, NY 11220"
-    },
-    {
-        "title": "Pacific Palace",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"https://pacific-palace.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/pacific-palace-brooklyn-2"
-            }
-        ],
-        "lat": 40.638240,
-        "lon": -74.006020,
-         "city": "Brooklyn",
-        "address": "813 55th St Brooklyn, NY 11220"
-    },
-
-    {
-        "title": "Northern Manor Restaurant",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.northernmanor.us"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/northern-manor-restaurant-douglaston"
-            }
-        ],
-        "lat": 40.761960,
-        "lon": -73.758470,
-        "city": "Douglaston",
-        "address": "251-15 Northern Blvd Douglaston, NY 11362"
-    },
-
-    {
-        "title": "Asian Jewels Seafood Restaurant",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://www.asianjewelsny.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/asian-jewels-seafood-restaurant-flushing-2"
-            }
-        ],
-        "lat": 40.759240,
-        "lon": -73.833380,
-        "city": "Flushing",
-        "address": "13330 39th Ave, Flushing, NY 11354"
-    },
-    {
-        "title": "East Buffet & Restaurant",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://www.eastbuffet.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/east-buffet-and-restaurant-flushing"
-            }
-        ],
-        "lat": 40.737171,
-        "lon": -73.824982,
-        "city": "Flushing",
-        "address": "4207 Main St Flushing, NY 11355"
-    },
-    {
-        "title": "Good Fortune Restaurant",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://goodfortunerestaurants.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/good-fortune-restaurant-flushing"
-            }
-        ],
-        "lat": 40.741380,
-        "lon": -73.814820,
-        "city": "Flushing",
-        "address": "46-45 Kissena Blvd Flushing, NY 11355"
-    },
-    {
-        "title": "Grand Restaurant",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/grand-restaurant-flushing"
-            }
-        ],
-        "lat": 40.759030,
-        "lon": -73.829580,
-        "city": "Flushing",
-        "address": "4021 Main St Fl 3 Flushing, NY 11354"
-    },
-    {
-        "title": "New Lake Pavilion",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://lakepavilion.net/"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/new-lake-pavilion-flushing"
-            }
-        ],
-        "lat": 40.7425401,
-        "lon": -73.8250104,
-        "city": "Flushing",
-        "address": "6015 Main St, Flushing, NY 11355"
-    },
-    {
-        "title": "New Mulan Seafood Restaurant",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/new-mulan-seafood-restaurant-flushing"
-            }
-        ],
-        "lat": 40.760151,
-        "lon": -73.830841,
-        "city": "Flushing",
-        "address": "136-17 39th Ave Fl 2 Flushing, NY 11354"
-    },
-    {
-        "title": "Royal Queen",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"https://www.royalqueennyc.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/royal-queen-flushing"
-            }
-        ],
-        "lat": 40.758289,
-        "lon": -73.834244,
-        "city": "Flushing",
-        "address": "136-20 Roosevelt Ave 3F Flushing, NY 11354"
-    },
-    
-    {
-        "title": "Central Seafood",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/central-seafood-hartsdale"
-            }
-        ],
-        "lat": 41.026870,
-        "lon": -73.793210,
-        "city": "Hartsdale",
-        "address": "285 N Central Ave Hartsdale, NY 10530"
-    },
-    {
-        "title": "Fantasy Cuisine",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.fantasycuisine.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/fantasy-cuisine-hartsdale-4"
-            }
-        ],
-        "lat": 41.019330,
-        "lon": -73.797460,
-        "city": "Hartsdale",
-        "address": "20 N Central Ave, Hartsdale, NY 10530"
-    },
-
-    {
-        "title": "Orient Odyssey",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://orientodysseyny.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/orient-odyssey-jericho-2"
-            }
-        ],
-        "lat": 40.790500,
-        "lon": -73.537650,
-        "city": "Jericho",
-        "address": "511 N Broadway Jericho, NY 11753"
-    },
-
-    {
-        "title": "Fortune Wheel",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/fortune-wheel-levittown"
-            }
-        ],
-        "lat": 40.727360,
-        "lon": -73.501930,
-        "city": "Levittown",
-        "address": "3601 Hempstead Tpke Levittown, NY 11756"
-    },
-    
-    {
-        "title": "LN1380",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"https://www.ln1380.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/ln1380-little-neck-2"
-            }
-        ],
-        "lat": 40.761960,
-        "lon": -73.758470,
-        "city": "Little Neck",
-        "address": "251-03 Northern Blvd, Little Neck, NY 11362"
-    },
-    
-     
-    {
-        "title": "Bia Vietnamese Restaurant & Bar",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.bia.city/"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/bia-vietnamese-restaurant-and-bar-new-hyde-park-2"
-            }
-        ],
-        "lat": 40.751259,
-        "lon": -73.703850,
-        "city": "New Hyde Park",
-        "address": "271-12 Union Tpke New Hyde Park, NY 11040"
-    },
-
-    {
-        "title": "Awesome Dim Sum",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://www.awesumdimsum.us/"
-            },
-            {
-                "name":"Dining on a Shoestring",
-                "URL": "https://diningonashoestringinnyc.wordpress.com/2020/11/15/awesum-dim-sum-160-east-23rd-street-new-york-city-ny-10010/"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/awesum-dimsum-new-york-2"
-            }
-        ],
-        "lat": 40.738850,
-        "lon": -73.983643,
-        "city": "New York",
-        "address": "160 E 23rd St  New York, NY 10010"
-    },
-    {
-        "title": "Dim Sum Palace",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "https://www.dimsumpalace.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-8"
-            }
-        ],
-        "lat": 40.760140,
-        "lon": -73.989380,
-        "city": "New York",
-        "address": "334 W 46th St, New York, NY 10036"
-    },
-    {
-        "title": "Dynasty Dim Sum",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "https://www.dynastydimsum.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/dynasty-dim-sum-new-york-2"
-            }
-        ],
-        "lat": 40.741480,
-        "lon": -73.980880,
-        "city": "New York",
-        "address": "381 3rd Ave, New York, NY 10016"
-    },
-    {
-        "title": "Golden Unicorn",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.goldenunicornrestaurant.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-unicorn-new-york"
-            }
-        ],
-        "lat": 40.713684,
-        "lon": -73.997185,
-        "city": "New York",
-        "address": "18 E Broadway, New York, NY 10002"
-    },
-    {
-        "title": "Jing Fong Restaurant",
-         "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://jingfongny.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/jing-fong-restaurant-new-york"
-            }
-        ],
-        "lat": 40.715939,
-        "lon": -73.997139,
-        "city": "New York",
-        "address": "20 Elizabeth St, New York, NY 10013"
-    },
-    {
-        "title": "Nom Wah Tea Parlor",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "https://nomwah.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/nom-wah-tea-parlor-new-york"
-            }
-        ],
-        "lat": 40.714470,
-        "lon": -73.998190,
-        "city": "New York",
-        "address": "13 Doyers St, New York, NY 10013"
-    },
-    {
-        "title": "Tim Ho Wan (East Village)",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://timhowanusa.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/tim-ho-wan-new-york-2"
-            },
-            {
-                "name":"Wikipedia",
-                "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-            }
-        ],
-        "lat": 40.731500,
-        "lon": -73.989910,
-        "city": "New York",
-        "address": "85 4th Ave, New York, NY 10003"
-    },
-     {
-        "title": "Tim Ho Wan (Hell's Kitchen)",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://timhowanusa.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/tim-ho-wan-hells-kitchen-new-york"
-            },
-            {
-                "name":"Wikipedia",
-                "URL":"https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-            }
-        ],
-        "lat": 40.759278,
-        "lon": -73.991601,
-        "city": "New York",
-        "address": "610 9th Ave., New York, NY 10036"
-    },
-    
-    {
-        "title": "Jade Asian Bistro",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/jade-asian-bistro-queens-2"
-          }
-        ],
-        "lat": 40.760330,
-        "lon": -73.731670,
-        "city": "Queens",
-        "address": "249-36 Horace Harding Expy Queens, NY 11362"
-    },
-
-    {
-        "title": "Canton House",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/canton-house-rochester"
-          }
-        ],
-        "lat": 43.080120,
-        "lon": -77.644730,
-         "city": "Rochester",
-        "address": "85 Commerce Dr Rochester, NY 14623"
-    },
-    {
-        "title": "Golden Port Dim Sum",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-port-dim-sum-rochester"
-          }
-        ],
-        "lat": 43.156480,
-        "lon": -77.601430,
-        "city": "Rochester",
-        "address": "105 East Ave Rochester, NY 14604"
-    },
-    
-    {
-        "title": "Tao's Bakery",
-        "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/taos-bakery-stony-brook"
-          }
-        ],
-        "lat": 40.878010,
-        "lon": -73.117220,
-        "city": "Stony Brook",
-        "address": "2460 Unit 2 Nesconset Hwy Stony Brook, NY 11790"
-    },
-
-    {
-        "title": "Aberdeen Seafood and Dim Sum",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.aberdeenwhiteplains.com/index.html"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/aberdeen-seafood-and-dim-sum-white-plains"
-            }
-        ],
-        "lat": 41.035410,
-        "lon": -73.770200,
-         "city": "White Plains",
-        "address": "3 Barker Ave White Plains, NY 10601"
-    },
-
-    {
-        "title": "Finger Lakes Tea Company",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL": "http://fingerlakestea.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/finger-lakes-tea-company-waterloo"
-            }
-        ],
-        "lat": 42.958070,
-        "lon": -76.879150,
-         "city": "Waterloo",
-        "address": "678 State Route 318 Waterloo, NY 13165"
-    },
-    
-    {
-        "title": "Golden Duck",
-        "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://www.goldenduckrestaurant.com"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/golden-duck-williamsville"
-            }
-        ],
-        "lat": 42.991990,
-        "lon": -78.718710,
-        "city": "Williamsville",
-        "address": "1840 Maple Rd Williamsville, NY 14221"
-    }
- ]
+    "name": "New York",
+    "places": [
+        {
+            "title": "Hong Kong Bakery & Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.hkbakerybistro.us"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-bakery-and-bistro-albany"
+                }
+            ],
+            "lat": 42.709620,
+            "lon": -73.821960,
+            "city": "Albany",
+            "address": "8 Wolf Rd Albany, NY 12205"
+        },
+        {
+            "title": "Ocean Palace",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ocean-palace-albany-2"
+                }
+            ],
+            "lat": 42.658871,
+            "lon": -73.766197,
+            "city": "Albany",
+            "address": "68 Wolf Rd Albany, NY 12205"
+        },
+        {
+            "title": "Rain Modern Chinese",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://rainalbany.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/rain-modern-chinese-albany"
+                }
+            ],
+            "lat": 42.654140,
+            "lon": -73.766403,
+            "city": "Albany",
+            "address": "259 Lark St Albany, NY 12210"
+        },
+        {
+            "title": "Shining Rainbow Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.shiningrainbowny.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shining-rainbow-restaurant-albany"
+                }
+            ],
+            "lat": 42.662320,
+            "lon": -73.769250,
+            "city": "Albany",
+            "address": "209 Central Ave Albany, NY 12206"
+        },
+        {
+            "title": "007 Chinese Food",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/007-chinese-food-buffalo"
+                }
+            ],
+            "lat": 42.927731,
+            "lon": -78.889389,
+            "city": "Buffalo",
+            "address": "25 Grant St West Side Bazaar Buffalo, NY 14213"
+        },
+        {
+            "title": "The Orient Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-orient-restaurant-bethpage"
+                }
+            ],
+            "lat": 40.741610,
+            "lon": -73.496890,
+            "city": "Bethpage",
+            "address": "623 Hicksville Rd Bethpage, NY 11714"
+        },
+        {
+            "title": "Dim Sum Bar",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-bar-brooklyn"
+                }
+            ],
+            "lat": 40.714750,
+            "lon": -73.961370,
+            "city": "Brooklyn",
+            "address": "167 Grand St, Brooklyn, NY 11249"
+        },
+        {
+            "title": "East Harbor Seafood Palace",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/east-harbor-seafood-palace-brooklyn"
+                }
+            ],
+            "lat": 40.633390,
+            "lon": -74.014440,
+            "city": "Brooklyn",
+            "address": "714 65th St, Brooklyn, NY 11220"
+        },
+        {
+            "title": "Pacific Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://pacific-palace.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/pacific-palace-brooklyn-2"
+                }
+            ],
+            "lat": 40.638240,
+            "lon": -74.006020,
+            "city": "Brooklyn",
+            "address": "813 55th St Brooklyn, NY 11220"
+        },
+        {
+            "title": "Northern Manor Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.northernmanor.us"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/northern-manor-restaurant-douglaston"
+                }
+            ],
+            "lat": 40.761960,
+            "lon": -73.758470,
+            "city": "Douglaston",
+            "address": "251-15 Northern Blvd Douglaston, NY 11362"
+        },
+        {
+            "title": "Asian Jewels Seafood Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.asianjewelsny.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/asian-jewels-seafood-restaurant-flushing-2"
+                }
+            ],
+            "lat": 40.759240,
+            "lon": -73.833380,
+            "city": "Flushing",
+            "address": "13330 39th Ave, Flushing, NY 11354"
+        },
+        {
+            "title": "East Buffet & Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.eastbuffet.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/east-buffet-and-restaurant-flushing"
+                }
+            ],
+            "lat": 40.737171,
+            "lon": -73.824982,
+            "city": "Flushing",
+            "address": "4207 Main St Flushing, NY 11355"
+        },
+        {
+            "title": "Good Fortune Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://goodfortunerestaurants.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/good-fortune-restaurant-flushing"
+                }
+            ],
+            "lat": 40.741380,
+            "lon": -73.814820,
+            "city": "Flushing",
+            "address": "46-45 Kissena Blvd Flushing, NY 11355"
+        },
+        {
+            "title": "Grand Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/grand-restaurant-flushing"
+                }
+            ],
+            "lat": 40.759030,
+            "lon": -73.829580,
+            "city": "Flushing",
+            "address": "4021 Main St Fl 3 Flushing, NY 11354"
+        },
+        {
+            "title": "New Lake Pavilion",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://lakepavilion.net/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-lake-pavilion-flushing"
+                }
+            ],
+            "lat": 40.7425401,
+            "lon": -73.8250104,
+            "city": "Flushing",
+            "address": "6015 Main St, Flushing, NY 11355"
+        },
+        {
+            "title": "New Mulan Seafood Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-mulan-seafood-restaurant-flushing"
+                }
+            ],
+            "lat": 40.760151,
+            "lon": -73.830841,
+            "city": "Flushing",
+            "address": "136-17 39th Ave Fl 2 Flushing, NY 11354"
+        },
+        {
+            "title": "Royal Queen",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.royalqueennyc.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/royal-queen-flushing"
+                }
+            ],
+            "lat": 40.758289,
+            "lon": -73.834244,
+            "city": "Flushing",
+            "address": "136-20 Roosevelt Ave 3F Flushing, NY 11354"
+        },
+        {
+            "title": "Central Seafood",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/central-seafood-hartsdale"
+                }
+            ],
+            "lat": 41.026870,
+            "lon": -73.793210,
+            "city": "Hartsdale",
+            "address": "285 N Central Ave Hartsdale, NY 10530"
+        },
+        {
+            "title": "Fantasy Cuisine",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.fantasycuisine.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fantasy-cuisine-hartsdale-4"
+                }
+            ],
+            "lat": 41.019330,
+            "lon": -73.797460,
+            "city": "Hartsdale",
+            "address": "20 N Central Ave, Hartsdale, NY 10530"
+        },
+        {
+            "title": "Orient Odyssey",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://orientodysseyny.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/orient-odyssey-jericho-2"
+                }
+            ],
+            "lat": 40.790500,
+            "lon": -73.537650,
+            "city": "Jericho",
+            "address": "511 N Broadway Jericho, NY 11753"
+        },
+        {
+            "title": "Fortune Wheel",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fortune-wheel-levittown"
+                }
+            ],
+            "lat": 40.727360,
+            "lon": -73.501930,
+            "city": "Levittown",
+            "address": "3601 Hempstead Tpke Levittown, NY 11756"
+        },
+        {
+            "title": "LN1380",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.ln1380.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ln1380-little-neck-2"
+                }
+            ],
+            "lat": 40.761960,
+            "lon": -73.758470,
+            "city": "Little Neck",
+            "address": "251-03 Northern Blvd, Little Neck, NY 11362"
+        },
+        {
+            "title": "Bia Vietnamese Restaurant & Bar",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.bia.city/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/bia-vietnamese-restaurant-and-bar-new-hyde-park-2"
+                }
+            ],
+            "lat": 40.751259,
+            "lon": -73.703850,
+            "city": "New Hyde Park",
+            "address": "271-12 Union Tpke New Hyde Park, NY 11040"
+        },
+        {
+            "title": "Awesome Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.awesumdimsum.us/"
+                },
+                {
+                    "name": "Dining on a Shoestring",
+                    "URL": "https://diningonashoestringinnyc.wordpress.com/2020/11/15/awesum-dim-sum-160-east-23rd-street-new-york-city-ny-10010/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/awesum-dimsum-new-york-2"
+                }
+            ],
+            "lat": 40.738850,
+            "lon": -73.983643,
+            "city": "New York",
+            "address": "160 E 23rd St  New York, NY 10010"
+        },
+        {
+            "title": "Dim Sum Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumpalace.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-8"
+                }
+            ],
+            "lat": 40.760140,
+            "lon": -73.989380,
+            "city": "New York",
+            "address": "334 W 46th St, New York, NY 10036"
+        },
+        {
+            "title": "Dynasty Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dynastydimsum.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dynasty-dim-sum-new-york-2"
+                }
+            ],
+            "lat": 40.741480,
+            "lon": -73.980880,
+            "city": "New York",
+            "address": "381 3rd Ave, New York, NY 10016"
+        },
+        {
+            "title": "Golden Unicorn",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldenunicornrestaurant.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-unicorn-new-york"
+                }
+            ],
+            "lat": 40.713684,
+            "lon": -73.997185,
+            "city": "New York",
+            "address": "18 E Broadway, New York, NY 10002"
+        },
+        {
+            "title": "Jing Fong Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://jingfongny.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jing-fong-restaurant-new-york"
+                }
+            ],
+            "lat": 40.715939,
+            "lon": -73.997139,
+            "city": "New York",
+            "address": "20 Elizabeth St, New York, NY 10013"
+        },
+        {
+            "title": "Nom Wah Tea Parlor",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://nomwah.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/nom-wah-tea-parlor-new-york"
+                }
+            ],
+            "lat": 40.714470,
+            "lon": -73.998190,
+            "city": "New York",
+            "address": "13 Doyers St, New York, NY 10013"
+        },
+        {
+            "title": "Tim Ho Wan (East Village)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://timhowanusa.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tim-ho-wan-new-york-2"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
+            "lat": 40.731500,
+            "lon": -73.989910,
+            "city": "New York",
+            "address": "85 4th Ave, New York, NY 10003"
+        },
+        {
+            "title": "Tim Ho Wan (Hell's Kitchen)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://timhowanusa.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tim-ho-wan-hells-kitchen-new-york"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
+                }
+            ],
+            "lat": 40.759278,
+            "lon": -73.991601,
+            "city": "New York",
+            "address": "610 9th Ave., New York, NY 10036"
+        },
+        {
+            "title": "Crown One",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/crown-one-queens-2"
+                }
+            ],
+            "lat": 40.765858,
+            "lon": -73.831283,
+            "city": "Queens",
+            "address": "34-20 Linden Pl, Queens, NY 11354"
+        },
+        {
+            "title": "Jade Asian Bistro",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jade-asian-bistro-queens-2"
+                }
+            ],
+            "lat": 40.760330,
+            "lon": -73.731670,
+            "city": "Queens",
+            "address": "249-36 Horace Harding Expy Queens, NY 11362"
+        },
+        {
+            "title": "Canton House",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/canton-house-rochester"
+                }
+            ],
+            "lat": 43.080120,
+            "lon": -77.644730,
+            "city": "Rochester",
+            "address": "85 Commerce Dr Rochester, NY 14623"
+        },
+        {
+            "title": "Golden Port Dim Sum",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-port-dim-sum-rochester"
+                }
+            ],
+            "lat": 43.156480,
+            "lon": -77.601430,
+            "city": "Rochester",
+            "address": "105 East Ave Rochester, NY 14604"
+        },
+        {
+            "title": "Tao's Bakery",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/taos-bakery-stony-brook"
+                }
+            ],
+            "lat": 40.878010,
+            "lon": -73.117220,
+            "city": "Stony Brook",
+            "address": "2460 Unit 2 Nesconset Hwy Stony Brook, NY 11790"
+        },
+        {
+            "title": "Aberdeen Seafood and Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.aberdeenwhiteplains.com/index.html"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/aberdeen-seafood-and-dim-sum-white-plains"
+                }
+            ],
+            "lat": 41.035410,
+            "lon": -73.770200,
+            "city": "White Plains",
+            "address": "3 Barker Ave White Plains, NY 10601"
+        },
+        {
+            "title": "Finger Lakes Tea Company",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://fingerlakestea.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/finger-lakes-tea-company-waterloo"
+                }
+            ],
+            "lat": 42.958070,
+            "lon": -76.879150,
+            "city": "Waterloo",
+            "address": "678 State Route 318 Waterloo, NY 13165"
+        },
+        {
+            "title": "Golden Duck",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldenduckrestaurant.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-duck-williamsville"
+                }
+            ],
+            "lat": 42.991990,
+            "lon": -78.718710,
+            "city": "Williamsville",
+            "address": "1840 Maple Rd Williamsville, NY 14221"
+        }
+    ]
 }
