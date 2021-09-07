@@ -19,19 +19,6 @@
             "address": "17 Eastman Street Second Floor Cranford, NJ 07016"
         },
         {
-            "title": "Wonder Seafood Restaurant",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/wonder-seafood-restaurant-edison"
-                }
-            ],
-            "lat": 40.520933,
-            "lon": -74.394100,
-            "city": "Edison",
-            "address": "1984 State Route 27 Edison, NJ 08817"
-        },
-        {
             "title": "Dim Sum",
             "links": [
                 {
@@ -47,6 +34,19 @@
             "lon": -74.371446,
             "city": "East Brunswick",
             "address": "100 Main St, East Brunswick, NJ 08816"
+        },
+        {
+            "title": "Wonder Seafood Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/wonder-seafood-restaurant-edison"
+                }
+            ],
+            "lat": 40.520933,
+            "lon": -74.394100,
+            "city": "Edison",
+            "address": "1984 State Route 27 Edison, NJ 08817"
         },
         {
             "title": "Aquarius Seafood Restaurant",
