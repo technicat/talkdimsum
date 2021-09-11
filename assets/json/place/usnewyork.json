@@ -489,10 +489,6 @@
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tim-ho-wan-new-york-2"
-                },
-                {
-                    "name": "Wikipedia",
-                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
                 }
             ],
             "lat": 40.731500,
@@ -510,10 +506,6 @@
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tim-ho-wan-hells-kitchen-new-york"
-                },
-                {
-                    "name": "Wikipedia",
-                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
                 }
             ],
             "lat": 40.759278,
@@ -559,19 +551,6 @@
             "lon": -77.644730,
             "city": "Rochester",
             "address": "85 Commerce Dr Rochester, NY 14623"
-        },
-        {
-            "title": "Golden Port Dim Sum",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/golden-port-dim-sum-rochester"
-                }
-            ],
-            "lat": 43.156480,
-            "lon": -77.601430,
-            "city": "Rochester",
-            "address": "105 East Ave Rochester, NY 14604"
         },
         {
             "title": "Tao's Bakery",
