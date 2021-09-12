@@ -829,10 +829,6 @@
             "title": "New Hong Kwok",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://new-hwong-kok-milpitas.sites.tablehero.com"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/new-hwong-kok-milpitas"
                 }
@@ -1107,19 +1103,6 @@
             "lon": -122.271840,
             "city": "Oakland",
             "address": "388 9th St, Ste 288, Oakland, CA 94607"
-        },
-        {
-            "title": "Sum Yee Pastry",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/sum-yee-pastry-oakland"
-                }
-            ],
-            "lat": 37.800250,
-            "lon": -122.270680,
-            "city": "Oakland",
-            "address": "918 Webster St, Oakland, CA 94607"
         },
         {
             "title": "Tao Yuen Pastry",
