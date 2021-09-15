@@ -185,6 +185,23 @@
             "address": "1925 NE 163rd St North Miami Beach, FL 33162"
         },
         {
+            "title": "Ming's Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.mingsbistro.net/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mings-bistro-orlando"
+                }
+            ],
+            "lat": 28.553900,
+            "lon": -81.363830,
+            "city": "Orlando",
+            "address": "1212 Woodward St #6, Orlando, FL 32803 "
+        },
+        {
             "title": "China Pavilion",
             "links": [
                 {
