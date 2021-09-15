@@ -2,6 +2,23 @@
     "name": "Utah",
     "places": [
         {
+            "title": "Dim Sum Kitchen",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumkitchen.godaddysites.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-kitchen-orem"
+                }
+            ],
+            "lat": 40.262757,
+            "lon": -111.677566,
+            "city": "Orem",
+            "address": "2005 s state street Orem Utah 84097"
+        },
+        {
             "title": "China Town Eatery",
             "links": [
                 {
