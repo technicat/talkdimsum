@@ -49,20 +49,16 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tieguanyin"
-            },
-            {
                 "name": "Ten Famous Teas",
                 "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas"
             },
             {
-                "name": "Guanyin",
-                "URL": "https://en.wikipedia.org/wiki/Guanyin"
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/tieguanyin-iron-goddess-tea/"
             },
             {
-                "name": "Anxi",
-                "URL": "https://en.wikipedia.org/wiki/Anxi_County"
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tieguanyin"
             }
         ]
     }
