@@ -48,12 +48,16 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Jasmine_tea"
-            },
-            {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Jasmine-Tea"
+            },
+            {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/green-tea/jasmine-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Jasmine_tea"
             }
         ]
     },
@@ -110,12 +114,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Chrysanthemum_tea"
-            },
-            {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Chrysanthemum-Tea"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chrysanthemum_tea"
             },
             {
                 "name": "The Woks of Life",
@@ -175,10 +179,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Pu%27er_tea"
-            },
-            {
                 "name": "Art of Tea",
                 "URL": "https://www.artoftea.com/what-is-tea/what-is-puerh-tea"
             },
@@ -195,8 +195,16 @@
                 "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/29"
             },
             {
+                "name": "Hong Kong University",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/pu-erh-tea/"
+            },
+            {
                 "name": "NPR",
                 "URL": "https://www.npr.org/sections/thesalt/2017/03/14/518792925/why-puer-a-complex-tea-draws-rapt-fans-and-big-dollars"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Pu%27er_tea"
             }
         ]
     },
@@ -291,12 +299,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Lychee"
-            },
-            {
                 "name": "The Tao of Tea",
                 "URL": "https://taooftea.com/product/lychee/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Lychee"
             }
         ]
     }
