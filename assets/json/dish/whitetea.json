@@ -145,7 +145,7 @@
         "place": "Wikipedia"
       }
     ],
-    "Description": "This is the premium white tea, from the Fujian province.\n\n白 is “white,” 毫 means “hair,” 銀 is “silver,” and 針 is “needle,” so the full name is “white hair silver needle,” but usually it's just 銀針 (“silver needle”).",
+    "Description": "This is the premium, meaning more expensive, white tea, harvested early, before the buds have opened.\n\n白 is “white,” 毫 means “hair,” 銀 is “silver,” and 針 is “needle,” so the full name is “white hair silver needle,” but usually it's just 銀針 (“silver needle”), where the white hair describes the downy exterior of the buds, while silver needle refers to the shape of the buds.",
     "Tags": [
       "飲品",
       "茶",
@@ -159,6 +159,18 @@
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Baihao_Yinzhen"
+      },
+      {
+        "name": "Art of Tea",
+        "URL": "https://www.artoftea.com/products/silver-needle"
+      },
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/white-tea/white-hair-silver-needle-tea/"
+      },
+      {
+        "name": "Tea Curious",
+        "URL": "https://teacurious.com/guide-silver-needle/"
       }
     ]
   },
@@ -195,7 +207,7 @@
         "place": "Foo Joy"
       }
     ],
-    "Description": "A white tea from the Fujian province that is harvested with two leaves for each bud. The name white peony describes how the leaves unfurl when brewed.\n\n白 means “white,” and 牡丹 means “peony.”",
+    "Description": "A white tea that is harvested with two leaves for each bud. The name white peony describes how the leaves unfurl when brewed.\n\n白 means “white,” and 牡丹 means “peony.”",
     "Tags": [
       "飲品",
       "茶",
