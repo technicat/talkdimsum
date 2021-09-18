@@ -195,19 +195,31 @@
         "place": "Foo Joy"
       }
     ],
-    "Description": "A white tea from the Fujian province.\n\n白 means “white,” and 牡丹 means “peony.”",
+    "Description": "A white tea from the Fujian province that is harvested with two leaves for each bud. The name white peony describes how the leaves unfurl when brewed.\n\n白 means “white,” and 牡丹 means “peony.”",
     "Tags": [
       "飲品",
       "茶",
       "熱茶",
       "白茶",
       "中國茶",
-      "福建省"
+      "福建"
     ],
     "Resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Bai_Mudan"
+      },
+      {
+        "name": "Last Tea",
+        "URL": "https://lastea.com/white-peony-tea/"
+      },
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/white-tea/white-peony-tea/"
+      },
+      {
+        "name": "Sencha Tea Bar",
+        "URL": "https://senchateabar.com/blogs/blog/white-peony-tea"
       }
     ]
   }
