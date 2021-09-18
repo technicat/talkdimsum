@@ -762,6 +762,23 @@
             "address": "750 N Hill St, Los Angeles, CA 90012"
         },
         {
+            "title": "Palace Seafood & Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.thepalaceseafooddimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-palace-seafood-and-dim-sum-los-angeles"
+                }
+            ],
+            "lat": 34.049440,
+            "lon": -118.461470,
+            "city": "Los Angeles",
+            "address": "11701 Wilshire Blvd Los Angeles, CA 90025"
+        },
+        {
             "title": "Tian's Dim Sum & Fast Food",
             "links": [
                 {
