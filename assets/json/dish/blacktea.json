@@ -41,16 +41,67 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Black_tea"
-            },
-            {
                 "name": "Art of Tea",
                 "URL": "https://www.artoftea.com/what-is-tea/what-is-black-tea"
             },
             {
                 "name": "The Chinese Tea Shop",
                 "URL": "http://www.thechineseteashop.com/blacktea.html)"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Black_tea"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "金猴茶",
+                "Simplified": "金猴茶",
+                "English": "golden monkey tea",
+                "Yale": " chàh",
+                "Pinyin": " chá",
+                "Resources": [
+                    {
+                        "name": "金",
+                        "URL": "https://en.wiktionary.org/wiki/金"
+                    },
+                    {
+                        "name": "猴",
+                        "URL": "https://en.wiktionary.org/wiki/猴"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "goldmonkeyteagrotto",
+                "place": "Tea Grotto, Salt Lake City, Utah"
+            }
+        ],
+        "Description": "Golden Monkey tea is a black tea featuring golden tips and resembling the shape of a monkey paw, hence the name (also Monkey Paw tea)\n\n金 is “gold”, 猴 is short for “monkey,” and 茶 is tea.",
+        "Tags": [
+            "紅茶",
+            "紅色",
+            "茶",
+            "熱茶",
+            "中國茶",
+            "點心",
+            "飲品"
+        ],
+        "Resources": [
+            {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/golden-monkey-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Golden_Monkey_tea"
             }
         ]
     },
@@ -96,7 +147,7 @@
                 "place": "Tea Grotto, Salt Lake City, Utah"
             }
         ],
-        "Description": "Keemun is a well-known black tea, one of the Chinese Ten Famous Teas\n\n祁門 is Qimen (Keemun is an old Anglicization), the county in Anhui province of China where the tea is producted, and 紅茶 is black tea (literally“red tea”).\n\nKeemun black tea is often used in English breakfast tea (which is any black tea drunk with breakfast).å",
+        "Description": "Keemun is a well-known black tea, one of the Chinese Ten Famous Teas\n\n祁門 is Qimen (Keemun is an old Anglicization), the county in Anhui province of China where the tea is producted, and 紅茶 is black tea (literally“red tea”).\n\nKeemun black tea is often used in English breakfast tea (which is any black tea drunk with breakfast).",
         "Tags": [
             "紅茶",
             "紅色",
@@ -110,10 +161,6 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Keemun"
-            },
-            {
-                "name": "Ten Famous Teas",
-                "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas"
             }
         ]
     },
@@ -193,10 +240,6 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Lapsang_souchong"
-            },
-            {
-                "name": "Wuyi tea",
-                "URL": "https://en.wikipedia.org/wiki/Wuyi_tea"
             }
         ]
     }
