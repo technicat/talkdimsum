@@ -52,10 +52,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Green_tea#Chinese_green_tea"
-            },
-            {
                 "name": "Art of Tea",
                 "URL": "https://www.artoftea.com/what-is-tea/what-is-green-tea"
             },
@@ -66,6 +62,10 @@
             {
                 "name": "Let's Drink Tea",
                 "URL": "https://www.letsdrinktea.com/types-of-tea/green-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Green_tea#Chinese_green_tea"
             }
         ]
     },
@@ -110,13 +110,10 @@
             "熱",
             "荔枝",
             "綠茶",
-            "中国茶"
+            "中国茶",
+            "中國十大名茶"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Longjing_tea"
-            },
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Longjing-Tea"
@@ -126,8 +123,51 @@
                 "URL": " https://www.letsdrinktea.com/types-of-tea/green-tea/dragon-well-tea/"
             },
             {
-                "name": "Ten Famous Teas",
-                "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas"
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Longjing_tea"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "珠茶",
+                "English": "gunpowder tea",
+                "Yale": "jyū chàh",
+                "Pinyin": "zhū chá",
+                "Resources": [
+                    {
+                        "name": "珠",
+                        "URL": "https://en.wiktionary.org/wiki/珠"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "gunpowderteafoojoy",
+                "place": "Foo Joy"
+            }
+        ],
+        "Description": "Tea, usually green or oolong, that is prepared by rolling the leaves into small pellets.\n\n珠 means “bead“ or “pearl”, and 茶 is “tea“, so this is sometimes called “pearl tea“ (not to be confused with boba tea!)\n\nThe English name “gunpowder” might be based on the round shape, or the smoky flavor, or the Madarin pronunciation of 剛泡的 (gāng pào de), which means “fresh brewed.”",
+        "Tags": [
+            "飲品",
+            "茶",
+            "熱茶",
+            "中國茶"
+        ],
+        "Resources": [
+            {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/green-tea/gunpowder-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Gunpowder_tea"
             }
         ]
     }

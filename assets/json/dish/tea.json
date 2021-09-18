@@ -95,14 +95,39 @@
     {
         "words": [
             {
-                "Chinese": "珠茶",
-                "English": "gunpowder tea",
-                "Yale": "jyū chàh",
-                "Pinyin": "zhū chá",
+                "Chinese": "中國十大名茶",
+                "Simplified": "中國十大名茶",
+                "English": "Chinese famous teas",
+                "Yale": " chàh",
+                "Pinyin": " chá",
                 "Resources": [
                     {
-                        "name": "珠",
-                        "URL": "https://en.wiktionary.org/wiki/珠"
+                        "name": "中國",
+                        "URL": "https://en.wiktionary.org/wiki/中國"
+                    },
+                    {
+                        "name": "中",
+                        "URL": "https://en.wiktionary.org/wiki/中"
+                    },
+                    {
+                        "name": "國",
+                        "URL": "https://en.wiktionary.org/wiki/國"
+                    },
+                    {
+                        "name": "十",
+                        "URL": "https://en.wiktionary.org/wiki/十"
+                    },
+                    {
+                        "name": "大名",
+                        "URL": "https://en.wiktionary.org/wiki/大名"
+                    },
+                    {
+                        "name": "大",
+                        "URL": "https://en.wiktionary.org/wiki/大"
+                    },
+                    {
+                        "name": "名",
+                        "URL": "https://en.wiktionary.org/wiki/名"
                     },
                     {
                         "name": "茶",
@@ -113,25 +138,25 @@
         ],
         "images": [
             {
-                "image": "gunpowderteafoojoy",
-                "place": "Foo Joy"
+                "image": "",
+                "place": ""
             }
         ],
-        "Description": "Tea, usually green or oolong, that is prepared by rolling the leaves into small pellets.\n\n珠 means “bead“ or “pearl”, and 茶 is “tea“, so this is sometimes called “pearl tea“ (not to be confused with boba tea!)\n\nThe English name “gunpowder” might be based on the round shape, or the smoky flavor, or the Madarin pronunciation of 剛泡的 (gāng pào de), which means “fresh brewed.”",
+        "Description": "There has long been floated a list of top ten Chinese teas, but if you combine all the different lists, it's more than ten.\n\n中國 means “China“ or “Chinese”, 十 is the number ten, 大 is “big,” 名 is “name”, and 茶 is “tea“, so altogether it's “Chinese top ten big-named (famous) teas“.",
         "Tags": [
-            "飲品",
+            "中國十大名茶",
             "茶",
             "熱茶",
             "中國茶"
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Gunpowder_tea"
+                "name": "Seven Cups",
+                "URL": "https://sevencups.com/learn-about-tea/famous-chinese-tea/"
             },
             {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/green-tea/gunpowder-tea/"
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas"
             }
         ]
     },
