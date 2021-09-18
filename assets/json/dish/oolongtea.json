@@ -48,14 +48,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Oolong"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Oolong-Tea"
-            },
-            {
                 "name": "Art of Tea",
                 "URL": "https://www.artoftea.com/history-of-oolong-tea"
             },
@@ -64,12 +56,24 @@
                 "URL": "http://www.thechineseteashop.com/oolongtea.html"
             },
             {
-                "name": "Teatulia",
-                "URL": "https://www.teatulia.com/tea-varieties/what-is-oolong-tea.htm"
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Oolong-Tea"
             },
             {
                 "name": "Fergus Murray",
                 "URL": "https://oolong.co.uk/tea/"
+            },
+            {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/"
+            },
+            {
+                "name": "Teatulia",
+                "URL": "https://www.teatulia.com/tea-varieties/what-is-oolong-tea.htm"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Oolong"
             }
         ]
     },
@@ -114,12 +118,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Jin_Xuan_tea"
-            },
-            {
                 "name": "Red Blossom Tea Company",
                 "URL": "https://redblossomtea.com/blogs/red-blossom-blog/what-is-milk-oolong-tea"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Jin_Xuan_tea"
             }
         ]
     },
