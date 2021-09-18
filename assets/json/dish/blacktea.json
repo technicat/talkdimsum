@@ -163,6 +163,10 @@
         ],
         "Resources": [
             {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/keemun-tea/"
+            },
+            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Keemun"
             }
@@ -241,6 +245,10 @@
             "中國茶"
         ],
         "Resources": [
+            {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/lapsang-souchong-tea/"
+            },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Lapsang_souchong"
