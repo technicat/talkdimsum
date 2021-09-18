@@ -446,6 +446,19 @@
             "address": "18 E Broadway, New York, NY 10002"
         },
         {
+            "title": "House of Joy",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/house-of-joy-new-york"
+                }
+            ],
+            "lat": 40.714890,
+            "lon": -73.998110,
+            "city": "New York",
+            "address": "28 Pell St, New York, NY 10013"
+        },
+        {
             "title": "Jing Fong Restaurant",
             "links": [
                 {
