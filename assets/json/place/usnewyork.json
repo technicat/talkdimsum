@@ -382,6 +382,27 @@
             "address": "160 E 23rd St  New York, NY 10010"
         },
         {
+            "title": "Buddha Bodai",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.buddha-bodai.com/"
+                },
+                {
+                    "name": "TimeOut",
+                    "URL": "https://www.timeout.com/newyork/restaurants/buddha-bodai"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-original-buddha-bodai-kosher-vegetarian-restaurant-new-york-4"
+                }
+            ],
+            "lat": 40.713850,
+            "lon": -73.998947,
+            "city": "New York",
+            "address": "5 Mott St New York, NY 10013"
+        },
+        {
             "title": "Dim Sum Go Go",
             "links": [
                 {
