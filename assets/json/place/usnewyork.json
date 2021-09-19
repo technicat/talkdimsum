@@ -497,6 +497,27 @@
             "address": "13 Doyers St, New York, NY 10013"
         },
         {
+            "title": "Ping's Seafood",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.timeout.com/newyork/restaurants/pings-seafood"
+                },
+                {
+                    "name": "TimeOut",
+                    "URL":  "https://www.timeout.com/newyork/restaurants/pings-seafood"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/pings-seafood-new-york"
+                }
+            ],
+            "lat": 40.714450,
+            "lon": -73.998510,
+            "city": "New York",
+            "address": "22 Mott St New York, NY 10013"
+        },
+        {
             "title": "Tim Ho Wan (East Village)",
             "links": [
                 {
