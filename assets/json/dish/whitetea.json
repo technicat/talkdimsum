@@ -40,16 +40,16 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/White_tea"
-      },
-      {
         "name": "Art of Tea",
         "URL": "https://www.artoftea.com/what-is-tea/what-is-white-tea"
       },
       {
         "name": "Teatulia",
         "URL": "https://www.teatulia.com/tea-varieties/what-is-white-tea.htm"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/White_tea"
       }
     ]
   },
@@ -94,16 +94,16 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Shoumei_tea"
-      },
-      {
         "name": "Dim Sum Guide",
         "URL": "https://dimsumguide.com/site/view/Sau-Mei-Tea"
       },
       {
         "name": "Or Tea?",
         "URL": "http://www.or-tea.com/long-life-brows.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Shoumei_tea"
       }
     ]
   },
@@ -157,10 +157,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Baihao_Yinzhen"
-      },
-      {
         "name": "Art of Tea",
         "URL": "https://www.artoftea.com/products/silver-needle"
       },
@@ -169,8 +165,16 @@
         "URL": "https://www.letsdrinktea.com/types-of-tea/white-tea/white-hair-silver-needle-tea/"
       },
       {
+        "name": "Seven Cups",
+        "URL": "https://sevencups.com/learn-about-tea/famous-chinese-tea/about-silver-needle/"
+      },
+      {
         "name": "Tea Curious",
         "URL": "https://teacurious.com/guide-silver-needle/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Baihao_Yinzhen"
       }
     ]
   },
@@ -218,10 +222,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Bai_Mudan"
-      },
-      {
         "name": "Last Tea",
         "URL": "https://lastea.com/white-peony-tea/"
       },
@@ -232,6 +232,10 @@
       {
         "name": "Sencha Tea Bar",
         "URL": "https://senchateabar.com/blogs/blog/white-peony-tea"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Bai_Mudan"
       }
     ]
   }
