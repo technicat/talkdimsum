@@ -43,6 +43,57 @@
   {
     "words": [
       {
+        "Chinese": "海鮮醬",
+        "Simplified": "海鮮酱",
+        "English": "hoisin sauce",
+        "Yale": "hói sīn jeung",
+        "Pinyin": "Hǎi xiān jiàng",
+        "Resources": [
+          {
+            "name": "海鮮醬",
+            "URL": "https://en.wiktionary.org/wiki/海鮮醬"
+          },
+          {
+            "name": "海鮮",
+            "URL": "https://en.wiktionary.org/wiki/海鮮"
+          },
+          {
+            "name": "海",
+            "URL": "https://en.wiktionary.org/wiki/海"
+          },
+          {
+            "name": "鮮",
+            "URL": "https://en.wiktionary.org/wiki/鮮"
+          },
+          {
+            "name": "醬",
+            "URL": "https://en.wiktionary.org/wiki/醬"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "hoisinsauce",
+        "place": "Las Vegas, Nevada"
+      }
+    ],
+    "Description": "Hoisin sauce is a dark, thick sauce made from sugar, salt, and oyster extracts, thickened with corn starch.\n\n海鮮 means “seafood,” and 醬 is “sauce,” so it's “seafood sauce,” though it's not made from seafood or applied specifically with seafood.",
+    "Tags": [
+      "蠔油",
+      "蠔",
+      "油"
+    ],
+    "Resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hoisin_sauce"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "蠔油",
         "Simplified": "蚝油",
         "English": "oyster sauce",
