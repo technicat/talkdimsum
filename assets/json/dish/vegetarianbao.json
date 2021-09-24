@@ -33,7 +33,6 @@
         ],
         "Description": "Steamed wheat buns with vegetable fillings. 素菜 means “vegetarian dish,” and 包 is “bun.” so “vegetable bun.”",
         "Tags": [
-            "素菜",
             "包",
             "素",
             "蒸",
@@ -41,12 +40,12 @@
         ],
         "Resources": [
             {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2017/01/steamed-vegetable-buns/"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/vegetarian-steamed-buns/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2017/01/steamed-vegetable-buns/"
             }
         ]
     }

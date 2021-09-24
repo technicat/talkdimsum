@@ -41,14 +41,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Spring_roll"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Egg_roll"
-            },
-            {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/spring-rolls/"
             },
@@ -71,8 +63,11 @@
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2015/09/homemade-spring-rolls/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Spring_roll"
             }
-            
         ]
     },
     {

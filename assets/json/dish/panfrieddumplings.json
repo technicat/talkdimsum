@@ -222,10 +222,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Jiaozi#Guoties"
-            },
-            {
                 "name": "Dimsumptuous",
                 "URL": "http://www.dimsumptuous.com/2013/08/pan-fried-dumplings-potstickers.html"
             },
@@ -236,6 +232,10 @@
             {
                 "name": "NPR",
                 "URL": "https://www.npr.org/sections/thesalt/2016/03/30/472147018/peking-ravioli-and-other-chinese-dishes-youll-only-find-in-boston"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Jiaozi#Guoties"
             }
         ]
     }
