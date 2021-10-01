@@ -44,12 +44,112 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Walnut_soup"
-      },
-      {
         "name": "East Meets Kitchen",
         "URL": "http://eastmeetskitchen.com/videos/recipes/chinese-walnut-dessert-soup/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Walnut_soup"
+      }
+    ]
+  },
+  ,
+  {
+    "words": [
+      {
+        "Chinese": "黑芝麻",
+        "English": "black sesame seed",
+        "Yale": "hāk jī màh",
+        "Pinyin": "hēi zhī má",
+        "Resources": [
+          {
+            "name": "黑芝麻",
+            "URL": "https://en.wiktionary.org/wiki/黑芝麻"
+          },
+          {
+            "name": "黑",
+            "URL": "https://en.wiktionary.org/wiki/黑"
+          },
+          {
+            "name": "芝麻",
+            "URL": "https://en.wiktionary.org/wiki/芝麻"
+          },
+          {
+            "name": "芝麻",
+            "URL": "https://en.wiktionary.org/wiki/芝"
+          },
+          {
+            "name": "麻",
+            "URL": "https://en.wiktionary.org/wiki/麻"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "blacksesamejam",
+        "place": "Las Vegas, Nevada"
+      }
+    ],
+    "Description": "",
+    "Resources": [
+      {
+        "name": "Miss Chinese Food",
+        "URL": "https://misschinesefood.com/black-sesame-paste/"
+      },
+      {
+        "name": "Onolicious",
+        "URL": "https://onolicioushawaii.com/black-sesame-paste/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "黑芝麻糊",
+        "English": "black sesame soup",
+        "Yale": "hāk jī màh wùh",
+        "Pinyin": "hēi zhī má  hù",
+        "Resources": [
+          {
+            "name": "黑芝麻",
+            "URL": "https://en.wiktionary.org/wiki/黑芝麻"
+          },
+          {
+            "name": "黑",
+            "URL": "https://en.wiktionary.org/wiki/黑"
+          },
+          {
+            "name": "芝麻",
+            "URL": "https://en.wiktionary.org/wiki/芝麻"
+          },
+          {
+            "name": "芝麻",
+            "URL": "https://en.wiktionary.org/wiki/芝"
+          },
+          {
+            "name": "糊",
+            "URL": "https://en.wiktionary.org/wiki/糊"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "",
+        "place": "Las Vegas, Nevada"
+      }
+    ],
+    "Description": "A dessert made with black sesame.\n\n means “black sesame” and 糊 is “cream,” so it's really “black sesame cream.”",
+    "Tags": [
+      "湯",
+      "黑芝麻",
+      "甜品"
+    ],
+    "Resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/black-sesame-pastesoup/"
       }
     ]
   }

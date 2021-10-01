@@ -34,10 +34,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Chinese_desserts"
-            },
-            {
                 "name": "Chinese Dessert Recipes",
                 "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/"
             },
@@ -48,6 +44,10 @@
             {
                 "name": "Matador",
                 "URL": "https://matadornetwork.com/read/sweet-savory-delicious-chinese-desserts/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chinese_desserts"
             }
         ]
     },
