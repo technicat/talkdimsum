@@ -27,20 +27,28 @@ class Word {
   final String english;
   @JsonKey(name: 'Yale', required: true)
   final String yale;
-  @JsonKey(name: 'Pinyin', required: true)
+  @JsonKey(name: 'Jyutping', required: true)
+  final String jyutping;
+  @JsonKey(name: 'Pinyin')
   final String pinyin;
   @JsonKey(name: 'Resources', defaultValue: [])
   final List<Link> resources;
 
-  Word(this.cantonese, this.mandarin, this.simplified, this.english, this.yale,
-      this.pinyin, this.resources);
+  Word(
+      this.cantonese,
+      this.mandarin,
+      this.simplified,
+      this.english,
+      this.yale,
+      this.jyutping,
+      this.pinyin,
+      this.resources);
 
   factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);
 
- // Map<String, dynamic> toJson() => _$WordToJson(this);
+  // Map<String, dynamic> toJson() => _$WordToJson(this);
 
   String chineseText([Chinese lang = Chinese.Cantonese]) {
-    // assert(cantonese != null, 'word for $english has no Cantonese!');
     switch (lang) {
       case Chinese.Cantonese:
         return cantonese;
@@ -54,16 +62,13 @@ class Word {
   }
 
   String get id {
-    // assert(cantonese != null, 'word for $english has no Cantonese!');
     return cantonese;
   }
 
   String pronunciation([Chinese lang = Chinese.Cantonese]) {
-    //assert(yale != null, 'word for $english has no Yale!');
-    //assert(pinyin != null, 'word for $english has no Pinyin!');
     switch (lang) {
       case Chinese.Cantonese:
-        return yale;
+        return yale; // todo - add switch for jyutping
       case Chinese.Mandarin:
         return pinyin;
       case Chinese.Simplified:
