@@ -27,9 +27,9 @@ class Word {
   final String english;
   @JsonKey(name: 'Yale', required: true)
   final String yale;
-  @JsonKey(name: 'Jyutping', required: true)
-  final String jyutping;
-  @JsonKey(name: 'Pinyin')
+  @JsonKey(name: 'Jyutping')
+  final String? jyutping;
+  @JsonKey(name: 'Pinyin', required: true)
   final String pinyin;
   @JsonKey(name: 'Resources', defaultValue: [])
   final List<Link> resources;

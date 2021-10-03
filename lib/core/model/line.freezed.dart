@@ -113,9 +113,8 @@ class __$LineCopyWithImpl<$Res> extends _$LineCopyWithImpl<$Res>
   }
 }
 
-@JsonSerializable()
-
 /// @nodoc
+@JsonSerializable()
 class _$_Line extends _Line with DiagnosticableTreeMixin {
   _$_Line(this.name, this.words) : super._();
 

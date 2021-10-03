@@ -113,9 +113,8 @@ class __$PhrasesCopyWithImpl<$Res> extends _$PhrasesCopyWithImpl<$Res>
   }
 }
 
-@JsonSerializable()
-
 /// @nodoc
+@JsonSerializable()
 class _$_Phrases extends _Phrases with DiagnosticableTreeMixin {
   _$_Phrases(this.name, this.lines) : super._();
 

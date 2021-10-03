@@ -114,9 +114,8 @@ class __$PhotoCopyWithImpl<$Res> extends _$PhotoCopyWithImpl<$Res>
   }
 }
 
-@JsonSerializable()
-
 /// @nodoc
+@JsonSerializable()
 class _$_Photo extends _Photo with DiagnosticableTreeMixin {
   _$_Photo(@JsonKey(name: 'image') this.name, [this.place = ""]) : super._();
 

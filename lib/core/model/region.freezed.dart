@@ -113,9 +113,8 @@ class __$RegionCopyWithImpl<$Res> extends _$RegionCopyWithImpl<$Res>
   }
 }
 
-@JsonSerializable()
-
 /// @nodoc
+@JsonSerializable()
 class _$_Region extends _Region {
   _$_Region(this.name, this.places) : super._();
 
