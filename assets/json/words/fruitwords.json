@@ -1,15 +1,24 @@
 [
     {
-        "Chinese": "生果",
-        "Mandarin": "水果",
-        "English": "fruit",
-        "Yale": "sāang gwó",
-        "Pinyin": "shuǐ guǒ"
+        "Chinese": "檸檬",
+        "Simplified": "柠檬",
+        "English": "lemon",
+        "Yale": "nìhng mūng",
+        "Jyutping": "ning4 mung1",
+        "Pinyin": "níng méng"
+    },
+    {
+        "Chinese": "香蕉",
+        "English": "banana",
+        "Yale": "hēung jīu",
+        "Jyutping": "heong1 ziu1",
+        "Pinyin": "xiāng jiāo"
     },
     {
         "Chinese": "水果",
         "English": "fruit",
         "Yale": "séui gwó",
+        "Jyutping": "seoi2 gwo2",
         "Pinyin": "shuǐ guǒ"
     },
     {
@@ -17,104 +26,121 @@
         "Simplified": "苹果",
         "English": "apple",
         "Yale": "pìhng gwó",
+        "Jyutping": "ping4 gwo2",
         "Pinyin": "píng guǒ"
     },
     {
-        "Chinese": "檸檬",
-        "Simplified": "柠檬",
-        "English": "lemon",
-        "Yale": "nìhng mūng",
-        "Pinyin": "níng méng"
-    },
-    {
-        "Chinese": "香蕉",
-        "English": "banana",
-        "Yale": "hēung jīu",
-        "Pinyin": "xiāng jiāo"
+        "Chinese": "芒果",
+        "English": "mango",
+        "Yale": "mōng gwó",
+        "Jyutping": "mong1 gwo2",
+        "Pinyin": "máng guǒ"
     },
     {
         "Chinese": "無花果",
         "Simplified": "无花果",
         "English": "fig",
-        "Yale": "mò fā gwó",
+        "Yale": "mòuh fā gwó",
+        "Jyutping": "mou4 faa1 gwo2",
         "Pinyin": "wú huā guǒ"
     },
     {
         "Chinese": "奇異果",
         "English": "kiwi",
         "Yale": "kèi yih gwó",
+        "Jyutping": "kei4 ji6 gwo2",
         "Pinyin": "qí yì guǒ"
     },
     {
         "Chinese": "瓜",
         "English": "melon",
         "Yale": "gwā",
+        "Jyutping": "gwaa1",
         "Pinyin": "guā"
     },
     {
         "Chinese": "蜜瓜",
         "English": "honeydew melon",
         "Yale": "maht gwā",
+        "Jyutping": "mat6 gwaa1",
         "Pinyin": "mì guā"
     },
     {
         "Chinese": "西瓜",
         "English": "watermelon",
         "Yale": "sāi gwā",
+        "Jyutping": "sai1 gwaa1",
         "Pinyin": "xī guā"
+    },
+    {
+        "Chinese": "冬瓜",
+        "English": "winter melon",
+        "Yale": "dūng gwā",
+        "Jyutping": "dung1 gwaa1",
+        "Pinyin": "dōng guā"
     },
     {
         "Chinese": "哈蜜瓜",
         "English": "canteloupe",
-        "Yale": "hāa maht gwā",
-        "Pinyin": "guā"
+        "Yale": "hā maht gwā",
+        "Jyutping": "haa1 mat6 gwaa1",
+        "Pinyin": "hā mì guā"
     },
     {
         "Chinese": "木瓜",
         "English": "papaya",
         "Yale": "muhk gwā",
+        "Jyutping": "muk6 gwaa1",
         "Pinyin": "mù guā"
     },
     {
         "Chinese": "提子",
         "English": "grapes",
         "Yale": "tàih ji",
-        "Pinyin": "guā"
+        "Jyutping": "tai4 zi2",
+        "Pinyin": "tí zǐ"
     },
     {
-        "Chinese": "車厘子",
+        "Chinese": "車釐子",
+        "Simplified": "车厘子",
         "English": "cherry",
-        "Yale": "che lei ji",
-        "Pinyin": "guā"
+        "Yale": "chē lèih jí",
+        "Jyutping": "ce lei4 zi2",
+        "Pinyin": "chē lí zi"
     },
     {
         "Chinese": "橙",
         "English": "orange",
         "Yale": "cháang",
-        "Pinyin": "guā"
+        "Jyutping": "caang2",
+        "Pinyin": "chéng"
     },
     {
         "Chinese": "梨",
         "English": "pear",
-        "Yale": "lèi",
-        "Pinyin": "guā"
+        "Yale": "lèih",
+        "Jyutping": "lei4",
+        "Pinyin": "lí"
     },
     {
         "Chinese": "桃",
         "English": "peach",
-        "Yale": "tò",
+        "Yale": "tòuh",
+        "Jyutping": "tou4",
         "Pinyin": "táo"
     },
     {
         "Chinese": "李",
         "English": "plum",
         "Yale": "léih",
+        "Jyutping": "lei5",
         "Pinyin": "lǐ"
     },
     {
         "Chinese": "柑",
         "English": "tangerine",
         "Yale": "gām",
+        "Jyutping": "gam1",
         "Pinyin": "gān"
     },
     {
@@ -122,6 +148,7 @@
         "Mandarin": "草莓",
         "English": "strawberry",
         "Yale": "sih dō bē léi",
+        "Jyutping": "si6 do1 be1 lei2",
         "Pinyin": "cǎo mé"
     },
     {
@@ -129,12 +156,14 @@
         "Simplified": "青柠",
         "English": "lime",
         "Yale": "chēng nìng",
-        "Pinyin": "qīng nín"
+        "Jyutping": "ceng1 ning2",
+        "Pinyin": "qīng níng"
     },
     {
         "Chinese": "西柚",
         "English": "grapefruit",
         "Yale": "sāi yàu",
+        "Jyutping": "sai2 jau4",
         "Pinyin": "xī yòu"
     },
     {
@@ -142,12 +171,7 @@
         "Simplified": "龙眼",
         "English": "longan",
         "Yale": "lùhng ngáan",
-        "Pinyin": "lóng yǎ"
-    },
-    {
-        "Chinese": "芒果",
-        "English": "mango",
-        "Yale": "mōng gwó",
-        "Pinyin": "máng guǒ"
+        "Jyutping": "lung4 ngaan5",
+        "Pinyin": "lóng yǎn"
     }
 ]
