@@ -5,7 +5,7 @@
                 "Chinese": "水果茶",
                 "English": "fruit tea",
                 "Yale": "séui gwó chàh",
-                "Jyutping": " caa4",
+                "Jyutping": "seoi2 gwo2 caa4",
                 "Pinyin": "shuǐ guǒ chá",
                 "Resources": [
                     {
@@ -29,12 +29,13 @@
         ],
         "images": [
             {
-                "image": "mangogreenteameetfresh",
-                "place": "Meet Fresh, Las Vegas, Nevada"
+                "image": "fourseasonsfruitteawayplus",
+                "place": "Tea Way Plus, Las Vegas, Nevada"
             }
         ],
         "Description": "Black or green tea brewed with fruit. 水果 is “fruit“, and 茶 is “tea“, so “fruit tea“.",
         "Tags": [
+            "水果茶",
             "飲品",
             "水果",
             "茶"
@@ -44,6 +45,53 @@
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/taiwanese-style-hot-fruit-tea--277002652433590-shu464gu466-chaacute.html"
             }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "芒果綠茶",
+                "Simplified": "芒果绿茶",
+                "English": "mango green tea",
+                "Yale": "mōng gwó luhk chàh",
+                "Jyutping": "mong1 gwo2 luk6 caa4",
+                "Pinyin": "máng guǒ lǜ chá",
+                "Resources": [
+                    {
+                        "name": "芒果",
+                        "URL": "https://en.wiktionary.org/wiki/芒果"
+                    },
+                    {
+                        "name": "芒",
+                        "URL": "https://en.wiktionary.org/wiki/芒"
+                    },
+                    {
+                        "name": "果",
+                        "URL": "https://en.wiktionary.org/wiki/果"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "mangogreenteameetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Green tea brewed with mango. 芒果 is “nango“, and 綠茶 is “green tea“, so “mango green tea“.",
+        "Tags": [
+            "水果茶",
+            "飲品",
+            "綠茶",
+            "芒果",
+            "水果",
+            "茶"
+        ],
+        "Resources": [
         ]
     }
 ]
