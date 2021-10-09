@@ -159,7 +159,7 @@
                     },
                     {
                         "name": "雪",
-                        "URL": "https://en.wiktionary.org/wiki/雪碧"
+                        "URL": "https://en.wiktionary.org/wiki/雪"
                     },
                     {
                         "name": "碧",
@@ -185,6 +185,47 @@
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Sprite_(drink)"
             }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "芬達",
+                "Simplified": "芬达",
+                "English": "Fanta",
+                "Yale": "fēn daaht",
+                "Jyutping": "fan1 daat6",
+                "Pinyin": "fēn dá",
+                "Resources": [
+                    {
+                        "name": "芬達",
+                        "URL": "https://en.wiktionary.org/wiki/芬達"
+                    },
+                    {
+                        "name": "芬",
+                        "URL": "https://en.wiktionary.org/wiki/芬"
+                    },
+                    {
+                        "name": "達",
+                        "URL": "https://en.wiktionary.org/wiki/達"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "fantatacostand",
+                "place": "The Taco Stand, Las Vegas"
+            }
+        ],
+        "Description": "",
+        "Tags": [
+            "茶餐廳",
+            "飲品",
+            "汽水"
+        ],
+        "Resources": [
+            
         ]
     }
 ]
