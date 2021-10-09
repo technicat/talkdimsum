@@ -70,6 +70,14 @@
                         "URL": "https://en.wiktionary.org/wiki/果"
                     },
                     {
+                        "name": "綠茶",
+                        "URL": "https://en.wiktionary.org/wiki/綠茶"
+                    },
+                    {
+                        "name": "綠",
+                        "URL": "https://en.wiktionary.org/wiki/綠"
+                    },
+                    {
                         "name": "茶",
                         "URL": "https://en.wiktionary.org/wiki/茶"
                     }
@@ -88,6 +96,65 @@
             "飲品",
             "綠茶",
             "芒果",
+            "水果",
+            "茶"
+        ],
+        "Resources": [
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "百香果綠茶",
+                "Simplified": "百香果绿茶",
+                "English": "passion fruit green tea",
+                "Yale": "baak hēung gwó luhk chàh",
+                "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
+                "Pinyin": "bǎi xiāng guǒ lǜ chá",
+                "Resources": [
+                    {
+                        "name": "百香果",
+                        "URL": "https://en.wiktionary.org/wiki/百香果"
+                    },
+                    {
+                        "name": "百",
+                        "URL": "https://en.wiktionary.org/wiki/百"
+                    },
+                    {
+                        "name": "香",
+                        "URL": "https://en.wiktionary.org/wiki/香"
+                    },
+                    {
+                        "name": "果",
+                        "URL": "https://en.wiktionary.org/wiki/果"
+                    },
+                    {
+                        "name": "綠茶",
+                        "URL": "https://en.wiktionary.org/wiki/綠茶"
+                    },
+                    {
+                        "name": "綠",
+                        "URL": "https://en.wiktionary.org/wiki/綠"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "passionfruitgreenteameetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Green tea brewed with passion fruit. 百香果 is “passion fruit“, and 綠茶 is “green tea“, so “passion fruit green tea“.",
+        "Tags": [
+            "水果茶",
+            "飲品",
+            "綠茶",
+            "百香果",
             "水果",
             "茶"
         ],
