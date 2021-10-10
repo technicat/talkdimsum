@@ -48,28 +48,28 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Water_chestnut_cake"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Water-Chestnut-Cake"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/water-chestnut-cake/"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2017/01/chinese-water-chestnut-cake.html"
             },
             {
                 "name": "Christine's Recipes",
                 "URL": "https://en.christinesrecipes.com/2013/01/water-chestnut-cake.html"
             },
             {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Water-Chestnut-Cake"
+            },
+            {
+                "name": "The Hong Kong Cookery",
+                "URL": "http://www.thehongkongcookery.com/2017/01/chinese-water-chestnut-cake.html"
+            },
+            {
                 "name": "Taste Hong Kong",
                 "URL": "http://www.tastehongkong.com/recipes/featured/water-chestnut-cake-for-chinese-new-year-and-valentines-day/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Water_chestnut_cake"
             }
         ]
     },
@@ -121,16 +121,8 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Coconut_bar"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/coconut-milk-pudding/"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-13-coconut-milk-pudding-2/"
             },
             {
                 "name": "Christine's Recipes",
@@ -147,6 +139,14 @@
             {
                 "name": "Sally's Temple",
                 "URL": "http://sallytemple.com/coconutmilkpudding/"
+            },
+            {
+                "name": "Thirsty for Tea",
+                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-13-coconut-milk-pudding-2/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Coconut_bar"
             }
         ]
     },
@@ -180,7 +180,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "A cake filled with mung bean paste.\n\n綠 is “green,” and 豆 is “bean,” so 綠豆 is literally “green bean,” which is actually “mung bean.” And 糕 is “cake.”",
+        "Description": "A cake filled with mung bean paste.\n\n綠 is “green” and 豆 is “bean” so 綠豆 is “green bean” (actually “mung bean”) and 糕 is “cake”, this 綠豆糕 is “green bean cake” or “mung bean cake”.",
         "Tags": [
             "綠豆",
             "糕",
@@ -189,8 +189,16 @@
         ],
         "Resources": [
             {
+                "name": "Ariel's Love Kitchen",
+                "URL": "http://ariels-love-kitchen.com/?p=449"
+            },
+            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/mung-bean-cake/"
+            },
+            {
+                "name": "Ellina's Life Space",
+                "URL": "https://www.ellinaguo.com/recipe/green-bean-cake/"
             },
             {
                 "name": "The Hong Kong Cookery",
@@ -199,14 +207,6 @@
             {
                 "name": "Yum of China",
                 "URL": "https://www.yumofchina.com/mung-bean-cake/"
-            },
-            {
-                "name": "Ellina's Life Space",
-                "URL": "https://www.ellinaguo.com/recipe/green-bean-cake/"
-            },
-            {
-                "name": "Ariel's Love Kitchen",
-                "URL": "http://ariels-love-kitchen.com/?p=449"
             }
         ]
     }
