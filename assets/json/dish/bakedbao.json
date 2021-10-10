@@ -111,10 +111,6 @@
         ],
         "Resources": [
             {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/"
-            },
-            {
                 "name": "Bread Babe",
                 "URL": "http://www.breadbabe.com/home/2016/5/31/chinese-hot-dog-rolls"
             },
@@ -129,6 +125,10 @@
             {
                 "name": "Wai Sek Mao",
                 "URL": "https://waisekmao.typepad.com/blog/2009/05/chinese-bakery-style-hot-dog-buns.html"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/"
             }
         ]
     },
@@ -176,16 +176,16 @@
         ],
         "Resources": [
             {
+                "name": "85C Bakery Cafe",
+                "URL": "http://www.85cbakerycafe.com/menu/pork-sung-bun/"
+            },
+            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Rousong"
             },
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2016/03/pork-sung-buns/"
-            },
-            {
-                "name": "85C Bakery Cafe",
-                "URL": "http://www.85cbakerycafe.com/menu/pork-sung-bun/"
             },
             {
                 "name": "Yum of China",
