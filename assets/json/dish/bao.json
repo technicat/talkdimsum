@@ -127,7 +127,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "Description": "A thick pan-fried bun with a juicy pork mixture inside.\n\nThe first character 生 means “raw,” and the second character 煎 is “pan-fried,” so it's literally “raw-fried bun.”\n\nAlso known as Shengjian bun or Shengian mantou.",
+        "Description": "A thick pan-fried bun with a juicy pork mixture inside.\n\nThe first character 生 means “raw,” and the second character 煎 is “pan-fried,” so it's “raw-fried bun.”\n\nAlso known as Shengjian bun or Shengian mantou.",
         "Tags": [
             "點心",
             "上海",
@@ -136,16 +136,16 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Shengjian_mantou"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/pan-fried-pork-buns-sheng-jian-bao-recipe/"
             },
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/sheng-jian-bao"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Shengjian_mantou"
             }
         ]
     },
@@ -190,10 +190,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Gua_bao"
-            },
-            {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
             },
@@ -212,6 +208,10 @@
             {
                 "name": "The Informal Chef",
                 "URL": "http://theinformalchef.blogspot.com/2016/03/gua-bao-with-braised-pork-belly.html"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Gua_bao"
             },
             {
                 "name": "Wok & Kin",
