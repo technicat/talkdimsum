@@ -52,12 +52,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Black_sesame_roll"
-            },
-            {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Black-Sesame-Roll"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Black_sesame_roll"
             }
         ]
     },
@@ -95,7 +95,7 @@
                 "place": "Dim Sum Cafe"
             }
         ],
-        "Description": "Rolls with shredded coconut.\n\nThe first character 椰 means “coconut,” and the second character 絲 means “shreds,” so the first two characters literally mean “shredded coconut.” The third character 捲 is “roll.”",
+        "Description": "Rolls with shredded coconut.\n\nThe first character 椰 means “coconut,” and the second character 絲 means “shreds,” so the first two characters mean “coconut shreds.” The third character 捲 is “roll.”",
         "Tags": [
             "茶餐廳",
             "港式",
