@@ -43,6 +43,7 @@ dependencies:
   cupertino_search:
     git: 
       url: git://github.com/technicat/cupertino_search.git
+  flutter_markdown:
   flutter_riverpod:
   flutter_tts:
     git: 
