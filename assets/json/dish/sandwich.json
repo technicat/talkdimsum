@@ -140,10 +140,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
-            },
-            {
                 "name": "The Hong Kong Cookery",
                 "URL": "https://www.thehongkongcookery.com/2019/02/corned-beef-egg-sandwich.html"
             },
@@ -218,7 +214,7 @@
                 "place": "Sweet Heart, Las Vegas, Nevada"
             }
         ],
-        "Description": "A Hong Kong-style sandwich with pan-fried spam and scrambled egg.\n\n午餐肉 is literally “lunch meat,” 蛋is “egg,” and 三文治 is “sandwich.”",
+        "Description": "A Hong Kong-style sandwich with pan-fried spam and scrambled egg.\n\n午餐 is “lunch” (“noon meal”), and 肉 is “meat”, so 午餐肉 is literally “lunch meat”, i.e. spam. 蛋 is “egg,” and 三文治 is “sandwich”, so in total it's “lunch meat and egg sandwich”.",
         "Tags": [
             "午餐肉",
             "港式",
@@ -228,12 +224,8 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
-            },
-            {
                 "name": "The Missing Lokness",
-                "URL": "https://themissinglokness.com/2021/02/04/spam-and-egg-sandwiches/#:~:text=Instructions%201%20Remove%20the%20spam%20from%20the%20can.,good%20amount%20of%20mayo%20on%20each%20bun.%20"
+                "URL": "https://themissinglokness.com/2021/02/04/spam-and-egg-sandwiches/"
             }
         ]
     }
