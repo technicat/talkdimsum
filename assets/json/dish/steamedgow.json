@@ -29,7 +29,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "Description": "Steamed bonnet-shaped shrimp dumplings, encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called “crystal shrimp dumplings”).\n\nThe first character 蝦 means “shrimp“ and the second character 餃 is “dumpling,“ so, literally “shrimp dumpling.“\n\nThese are typically written in English as “har gow,“ but like many English spellings of Chinese words (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“ This dish, along with siu mai, is a hallmark of Cantonese dim sum  (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“).",
+        "Description": "Steamed bonnet-shaped shrimp dumplings, encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called “crystal shrimp dumplings”).\n\nThe first character 蝦 means “shrimp“ and the second character 餃 is “dumpling,“ so 蝦餃 is “shrimp dumpling.“\n\nThese are typically written in English as “har gow,“ but like many English spellings of Chinese pronunciation (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“ This dish, along with siu mai, is a hallmark of Cantonese dim sum (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“).",
         "Tags": [
             "蒸",
             "蒸",
@@ -39,10 +39,6 @@
             "點心"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Har_gow"
-            },
             {
                 "name": "Adventures with Kake",
                 "URL": "https://kake.dreamwidth.org/124238.html"
@@ -62,6 +58,10 @@
             {
                 "name": "Hong Kong University",
                 "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/23"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Har_gow"
             },
             {
                 "name": "The Woks of Life",
@@ -107,7 +107,7 @@
                 "place": "Tim Ho Wan, Las Vegas, Nevada"
             }
         ],
-        "Description": "Steamed dumplings filled with shrimp and Chinese chives.\n\nThe first two characters 韭菜 means “Chinese chives” (also known as “garlic chives”) and 餃 is “dumpling,” so “chive dumplings.”",
+        "Description": "Steamed dumplings filled with shrimp and Chinese chives.\n\nThe first two characters 韭菜 means “Chinese chives” (also known as “garlic chives”) and 餃 is “dumpling,” so 韭菜餃 is “chive dumplings.”",
         "Tags": [
             "蒸",
             "韭菜",
@@ -152,27 +152,6 @@
                         "URL": "https://en.wiktionary.org/wiki/餃"
                     }
                 ]
-            },
-            {
-                "English": "spinach and shrimp dumpling",
-                "Chinese": "蒸菠菜餃",
-                "Simplified": "蒸菠菜饺",
-                "Yale": "jīng bō choi gáau",
-                "Pinyin": "zhēng bō cài jiǎo"
-            },
-            {
-                "English": "spinach and shrimp dumpling",
-                "Chinese": "鮮蝦波菜餃",
-                "Simplified": "蒸菠菜饺",
-                "Yale": "jīng bō choi gáau",
-                "Pinyin": "zhēng bō cài jiǎo"
-            },
-            {
-                "English": "spinach and shrimp dumpling",
-                "Chinese": "波菜蝦餃",
-                "Simplified": "蒸菠菜饺",
-                "Yale": "jīng bō choi gáau",
-                "Pinyin": "zhēng bō cài jiǎo"
             }
         ],
         "images": [

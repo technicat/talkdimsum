@@ -186,7 +186,7 @@
         "place": "Pad Thai"
       }
     ],
-    "Description": "Beaten eggs mixed (dropped) into chicken broth.\n\nThe first character 蛋 is “egg,” the second character 花 means “flower,” and the third character 湯 is the word for “soup,” so it's literally “egg flower soup.”",
+    "Description": "Beaten eggs mixed (dropped) into chicken broth.\n\nThe first character 蛋 is “egg,” the second character 花 means “flower,” and the third character 湯 is the word for “soup,” so it's “egg flower soup.”",
     "Tags": [
       "湯",
       "花",
@@ -194,10 +194,7 @@
       "熱"
     ],
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Egg_drop_soup"
-      },
+
       {
         "name": "Kirbie's Cravings",
         "URL": "https://kirbiecravings.com/egg-drop-soup/"
@@ -205,6 +202,10 @@
       {
         "name": "Made With Lau",
         "URL": "https://madewithlau.com/recipes/egg-flower-soup"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Egg_drop_soup"
       },
       {
         "name": "The Woks of Life",
@@ -258,10 +259,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Hong_dou_tang"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/red-bean-soup-recipe/"
       },
@@ -276,6 +273,10 @@
       {
         "name": "Oh My Food Recipes",
         "URL": "https://www.ohmyfoodrecipes.com/red-bean-soup/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hong_dou_tang"
       }
     ]
   },
@@ -320,12 +321,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Oxtail_soup"
-      },
-      {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/oxtail-soup/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Oxtail_soup"
       }
     ]
   },
@@ -372,8 +373,8 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Sweet_potato_soup"
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/06/sweet-potato-dessert-hong-kong-style.html"
       },
       {
         "name": "The Hong Kong Cookery",
@@ -384,8 +385,8 @@
         "URL": "http://www.mrspskitchen.net/sweet-potato-sweet-soup-蕃薯糖水/"
       },
       {
-        "name": "Christine's Recipes",
-        "URL": "https://en.christinesrecipes.com/2008/06/sweet-potato-dessert-hong-kong-style.html"
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Sweet_potato_soup"
       }
     ]
   },
