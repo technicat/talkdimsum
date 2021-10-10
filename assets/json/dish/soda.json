@@ -218,14 +218,17 @@
                 "place": "The Taco Stand, Las Vegas"
             }
         ],
-        "Description": "",
+        "Description": "芬達 sort of sounds like Fanta, especially the Mandarin pronunciation (fēn dá)",
         "Tags": [
             "茶餐廳",
             "飲品",
             "汽水"
         ],
         "Resources": [
-            
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Fanta"
+            }
         ]
     }
 ]
