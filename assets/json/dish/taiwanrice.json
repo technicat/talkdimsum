@@ -102,10 +102,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Minced_pork_rice"
-      },
-      {
         "name": "Wai Sik",
         "URL": "https://waisik.com/chunky-lu-rou-fan/"
       },
@@ -116,6 +112,10 @@
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/lu-rou-fan-braised-pork-rice/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Minced_pork_rice"
       },
       {
         "name": "Yi Reservation",

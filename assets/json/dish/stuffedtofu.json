@@ -48,20 +48,20 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Yong_tau_foo"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/2013/10/stuffed-tofu-hakka-style/"
-      },
-      {
         "name": "Saucy Spatula",
         "URL": "http://www.saucy-spatula.com/recipes/stuffed-tofu/"
       },
       {
         "name": "Mrs. P's Kitchen",
         "URL": "http://www.mrspskitchen.net/stuffed-tofu-釀豆腐/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yong_tau_foo"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2013/10/stuffed-tofu-hakka-style/"
       }
     ]
   },

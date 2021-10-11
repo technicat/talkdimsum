@@ -46,23 +46,12 @@
             "URL": "https://en.wiktionary.org/wiki/角"
           }
         ]
-      },
-      {
-        "Chinese": "芋頭角",
-        "Simplified": "芋头角",
-        "English": "taro dumpling",
-        "Yale": "wuh táu gok",
-        "Pinyin": "yù tou jiǎo"
       }
     ],
     "images": [
       {
         "image": "tarodumplingcafesalina",
         "place": "Cafe Salina, Millbrae, California"
-      },
-      {
-        "image": "tarodumplingyumcha",
-        "place": "Yum Cha, Las Vegas, Nevada"
       }
     ],
     "Description": "Mashed taro with a pork filling, deep-fried so the shell is fluffy and crispy.\n\nThe first character 芋 is short for 芋頭 (wuh táu), the word for “taro”, so sometimes this dish is referred to by its full name 芋頭角 (wuh táu gok). The last character 角 means “corner,” “angle,” or “horn,” and in this context indicates a horn-shaped dumpling.\n\nSometimes these are called “yam puffs.”",
@@ -116,10 +105,6 @@
       {
         "image": "deepfrieddumplingkj",
         "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
-      },
-      {
-        "image": "deepfrieddumplingyumcha",
-        "place": "Yum Cha, Las Vegas, Nevada"
       }
     ],
     "Description": "Deep-fried dumplings with a sticky rice-flour shell and filled with pork.\n\nThe first character 鹹 is the word for ”salty,” the second character 水 is the word for “water,” and the third character 角 literally means “horn-shaped.”\n\nAt a dim sum shop in a Vietnamese supermarket, I heard a customer refer to these dumplings as “footballs” (and the server understood). Indeed, they are football-shaped.",
@@ -188,12 +173,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Curry_puff"
-      },
-      {
         "name": "Dimsumptuous",
         "URL": "http://www.dimsumptuous.com/2013/08/curry-puff.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Curry_puff"
       },
       {
         "name": "The Woks of Life",
@@ -253,12 +238,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Curry_puff"
-      },
-      {
         "name": "Dimsumptuous",
         "URL": "http://www.dimsumptuous.com/2013/08/curry-puff.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Curry_puff"
       },
       {
         "name": "The Woks of Life",
@@ -300,12 +285,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Crab_Rangoon"
-      },
-      {
         "name": "Rasamalaysia",
         "URL": "https://rasamalaysia.com/crab-rangoon-recipe/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Crab_Rangoon"
       }
     ]
   }

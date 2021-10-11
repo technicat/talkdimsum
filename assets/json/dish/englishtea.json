@@ -44,12 +44,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Earl_Grey_tea"
-            },
-            {
                 "name": "Bergamot",
                 "URL": "https://en.wikipedia.org/wiki/Bergamot_orange"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Earl_Grey_tea"
             }
         ]
     }

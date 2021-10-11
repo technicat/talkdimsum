@@ -38,10 +38,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Rice_noodle_roll"
-            },
-            {
                 "name": "Adventures with Kake",
                 "URL": "https://kake.dreamwidth.org/46156.html"
             },
@@ -64,6 +60,10 @@
             {
                 "name": "Oh My Food Recipes",
                 "URL": "https://www.ohmyfoodrecipes.com/rice-noodle-roll-cheung-fun-腸粉/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Rice_noodle_roll"
             },
             {
                 "name": "The Woks of Life",

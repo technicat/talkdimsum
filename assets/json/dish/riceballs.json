@@ -45,10 +45,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tangyuan_(food)"
-            },
-            {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/steamed-sesame-balls/"
             },
@@ -67,6 +63,10 @@
             {
                 "name": "Serious Eats",
                 "URL": "https://www.seriouseats.com/recipes/2011/05/glutinous-rice-balls-tang-yuan.html"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tangyuan_(food)"
             },
             {
                 "name": "The Woks of Life",

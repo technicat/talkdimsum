@@ -44,14 +44,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Wonton_noodles"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/cantonese-wonton-noodle-soup/"
-            },
-            {
                 "name": "Appetite for China",
                 "URL": "http://appetiteforchina.com/recipes/making-hong-kong-style-wonton-noodle-soup"
             },
@@ -66,6 +58,14 @@
             {
                 "name": "Oh My Food Recipes",
                 "URL": "https://www.ohmyfoodrecipes.com/wonton-noodle-soup/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Wonton_noodles"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/cantonese-wonton-noodle-soup/"
             }
         ]
     },

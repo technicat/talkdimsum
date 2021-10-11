@@ -37,12 +37,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Jiaozi"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/how-to-make-dumplings/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Jiaozi"
             }
         ]
     }

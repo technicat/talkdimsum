@@ -43,10 +43,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Jin_deui"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/sesame-balls-jian-dui/"
             },
@@ -69,6 +65,10 @@
             {
                 "name": "Panda Cheffy",
                 "URL": "https://medium.com/@pandacheffy/sesame-ball-jian-dui-麻团-a19afa2e0d95"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Jin_deui"
             }
         ]
     },

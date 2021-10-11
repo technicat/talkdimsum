@@ -54,10 +54,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Pineapple_bun"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/pineapple-bun-bolo-bao-recipe/"
       },
@@ -84,6 +80,10 @@
       {
         "name": "Unfamiliar China",
         "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/pineapple-buns-bolo-bao"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Pineapple_bun"
       },
       {
         "name": "The Woks of Life",

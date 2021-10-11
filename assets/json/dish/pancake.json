@@ -95,10 +95,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
-            },
-            {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/green-onion-scallion-pancakes--340852783339173-c333ng-yoacuteub464ng.html"
             },
@@ -121,6 +117,10 @@
             {
                 "name": "Kirbie's Cravings",
                 "URL": "https://kirbiecravings.com/scallion-pancakes/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
             }
         ]
     },

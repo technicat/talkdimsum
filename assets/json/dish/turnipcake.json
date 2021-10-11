@@ -49,10 +49,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Turnip_cake"
-      },
-      {
         "name": "Angel Wong's Kitchen",
         "URL": "https://www.angelwongskitchen.com/turnip-cakes-dim-sum-style--343673406831957-luoacutebo-g257o.html"
       },
@@ -87,6 +83,10 @@
       {
         "name": "Unfamiliar China",
         "URL": "https://www.unfamiliarchina.com/dim-sum/deep-fried-cakes/turnip-cake-lo-bak-go"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Turnip_cake"
       },
       {
         "name": "The Woks of Life",

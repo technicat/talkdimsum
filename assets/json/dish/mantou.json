@@ -40,18 +40,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Mantou"
-      },
-      {
-        "name": "Mary's Test Kitchen",
-        "URL": "http://www.marystestkitchen.com/make-chinese-steamed-buns-mantou/"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/2018/01/whole-wheat-mantou/"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-steamed-buns/"
       },
@@ -64,8 +52,20 @@
         "URL": "https://kirbiecravings.com/homemade-steamed-buns-mantou/"
       },
       {
+        "name": "Mary's Test Kitchen",
+        "URL": "http://www.marystestkitchen.com/make-chinese-steamed-buns-mantou/"
+      },
+      {
         "name": "Panda Cheffy",
         "URL": "https://medium.com/@pandacheffy/mantou-馒头-453bf9ff7908"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Mantou"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2018/01/whole-wheat-mantou/"
       }
     ]
   },

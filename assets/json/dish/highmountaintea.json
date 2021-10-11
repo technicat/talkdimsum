@@ -112,6 +112,10 @@
         ],
         "Resources": [
             {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/ali-mountain-tea/"
+            },
+            {
                 "name": "Spiritual Travels",
                 "URL": "https://www.nickkembel.com/alishan-high-mountain-tea/"
             },
@@ -122,10 +126,6 @@
             {
                 "name": "Tea from Taiwan",
                 "URL": "https://www.teafromtaiwan.com/Alishan_area"
-            },
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/ali-mountain-tea/"
             }
         ]
     }

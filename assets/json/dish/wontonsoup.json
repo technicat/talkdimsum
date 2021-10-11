@@ -47,14 +47,6 @@
     ],
     "Resources": [
       {
-        "name": "The Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Wonton"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/wonton-soup-recipe/"
-      },
-      {
         "name": "Angel Wong's Kitchen",
         "URL": "https://www.angelwongskitchen.com/classic-wonton-soup-grandmas-recipe.html"
       },
@@ -69,6 +61,14 @@
       {
         "name": "Oh My Food Recipes",
         "URL": "https://www.ohmyfoodrecipes.com/wonton-soup/"
+      },
+      {
+        "name": "The Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Wonton"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/wonton-soup-recipe/"
       }
     ]
   },

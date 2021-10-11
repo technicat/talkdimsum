@@ -24,12 +24,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Blanching_(cooking)"
-            },
-            {
                 "name": "My Chinese Recipes",
                 "URL": "https://www.mychineserecipes.com/recipe/chinese-lettuce-garlic-oil-recipe/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Blanching_(cooking)"
             }
         ]
     }

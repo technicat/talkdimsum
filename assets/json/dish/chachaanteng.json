@@ -86,10 +86,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng"
-            },
-            {
                 "name": "Culture Trip",
                 "URL": "https://theculturetrip.com/asia/china/hong-kong/articles/how-to-order-at-a-cha-chaan-teng-in-hong-kong/"
             },
@@ -112,6 +108,10 @@
             {
                 "name": "Hong Kong University",
                 "URL": "https://learning.hku.hk/ccch9051/group-19/cha-chaan-teng-info"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng"
             }
         ]
     },
@@ -214,10 +214,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/French_toast#Hong_Kong"
-            },
-            {
                 "name": "Chinese-American Family",
                 "URL": "https://www.chineseamericanfamily.com/how-to-make-hong-kong-style-french-toast/"
             },
@@ -232,6 +228,10 @@
             {
                 "name": "Steven's Kitchen",
                 "URL": "https://steves-kitchen.com/hong-kong-style-french-toast/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/French_toast#Hong_Kong"
             },
             {
                 "name": "Vicky Tales",

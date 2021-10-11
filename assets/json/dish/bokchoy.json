@@ -28,16 +28,12 @@
                 "place": "Big Wong, Las Vegas, Nevada"
             }
         ],
-        "Description": "A leafy green vegetable similar to Chinese broccoli.\n\n白 is “white,” and 菜 is “vegetable.“ so it's “white vegetable.”\n\nBok choy is usually 小白菜 “small” or “baby” bok choy, or 上海白菜 “Shanghai” bok choy, as opposed to 大白菜 “big” bok choy, otherwise known as Chinese or Napa cabbage.",
+        "Description": "*Bok choy* is aleafy green vegetable similar to Chinese broccoli.\n\n白 is “white,” and 菜 is “vegetable.“ so it's “white vegetable.”\n\nBok choy is usually 小白菜 “small” or “baby” bok choy, or 上海白菜 “Shanghai” bok choy, as opposed to 大白菜 “big” bok choy, otherwise known as Chinese or Napa cabbage.",
         "Tags": [
             "白菜",
             "菜"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Bok_choy"
-            },
             {
                 "name": "Napa cabbage",
                 "URL": "https://en.wikipedia.org/wiki/Napa_cabbage"
@@ -49,6 +45,10 @@
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/vegetables/choy-sum-with-oyster-sauce"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Bok_choy"
             }
         ]
     },
@@ -159,7 +159,7 @@
                 "place": "Chef Ching's Kitchen, Las Vegas, Nevada"
             }
         ],
-        "Description": "Bok choy stir-fried with mushroom.\n\n冬菇 is “mushroom,” and 白菜 is “bok choy” or “white vegetable.”",
+        "Description": "*Bok choy* stir-fried with mushroom.\n\n冬菇 is “mushroom,” and 白菜 is “bok choy” or “white vegetable.”",
         "Tags": [
             "冬菇",
             "白菜",
@@ -212,7 +212,7 @@
                 "place": "SK Seafood, Las Vegas, Nevada"
             }
         ],
-        "Description": "Taiwanese cabbage are large and somewhat flat, so they are also listed as “flat cabbage.”",
+        "Description": "*Taiwanese cabbage* are large and somewhat flat, so they are also listed as “flat cabbage.”",
         "Tags": [
             "菜",
             "臺灣"

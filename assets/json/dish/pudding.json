@@ -47,10 +47,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Douhua"
-      },
-      {
         "name": "Angel Wong's Kitchen",
         "URL": "https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"
       },
@@ -77,6 +73,10 @@
       {
         "name": "Panda Cheffy",
         "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dou-hua-salt-ead48ff6f057"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Douhua"
       }
     ]
   },

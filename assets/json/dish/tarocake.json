@@ -48,10 +48,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Taro_cake"
-      },
-      {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2009/01/chinese-new-year-taro-cake.html"
       },
@@ -66,6 +62,10 @@
       {
         "name": "Unfamiliar China",
         "URL": "https://www.unfamiliarchina.com/dim-sum/deep-fried-cakes/taro-cake"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Taro_cake"
       },
       {
         "name": "The Woks of Life",
