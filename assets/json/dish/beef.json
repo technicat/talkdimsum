@@ -38,10 +38,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Tendon_as_food#China"
-      },
-      {
         "name": "Ang Sarap",
         "URL": "https://www.angsarap.net/2017/01/02/yum-cha-style-beef-tendons/"
       },
@@ -52,6 +48,10 @@
       {
         "name": "Sybaritica",
         "URL": "https://sybaritica.me/2016/10/24/dim-sum-beef-tendon/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tendon_as_food#China"
       }
     ]
   },
@@ -94,28 +94,28 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Beef_shank"
-      },
-      {
-        "name": "The Hong Kong Cookery",
-        "URL": "http://www.thehongkongcookery.com/2013/07/chinese-spiced-beef-shin.html"
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/taiwanese-braised-beef-shank.html"
       },
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-braised-beef-shank/"
       },
       {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/2017/05/braised-beef-shank/"
-      },
-      {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2009/10/spiced-beef-shin-chinese-cuisine.html"
       },
       {
-        "name": "Angel Wong's Kitchen",
-        "URL": "https://www.angelwongskitchen.com/taiwanese-braised-beef-shank.html"
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2013/07/chinese-spiced-beef-shin.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Beef_shank"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2017/05/braised-beef-shank/"
       }
     ]
   }
