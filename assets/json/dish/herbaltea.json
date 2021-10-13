@@ -32,7 +32,7 @@
                 "place": "88 Noodle Papa, Las Vegas"
             }
         ],
-        "Description": "A tea made from sugar, honey and the Japanese fruit yuzu.\n\n柚子 is “yuzu,” and 茶 is “tea“, so it's literally “yuzu tea.”\n\nThis tea is a traditional Korean tea known as “yuja tea,” and while the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 (yáu jí), the latter also refers to pomelo (a fruit which resembles a large grapefruit).",
+        "Description": "A tea made from sugar, honey and the Japanese fruit yuzu. This is a traditional Korean tea known as “yuja tea,” and while the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 (yáu jí), the latter also refers to pomelo (a fruit which resembles a large grapefruit).\n\n**Characters**\n\n柚子 is “yuzu,” and 茶 is “tea“, so it's literally “yuzu tea.”",
         "Tags": [
             "茶餐廳",
             "飲品",
@@ -83,7 +83,7 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "Description": "A hot tea made from sugar, honey and lemon.\n\n熱 is “hot,” 檸 is “lemon,” and 蜜 is “honey“, so it's literally “hot lemon honey.”",
+        "Description": "A hot tea made from sugar, honey and lemon.\n\n**Characters**\n\n熱 is “hot,” 檸 is “lemon,” and 蜜 is “honey“, so it's literally “hot lemon honey.”",
         "Tags": [
             "飲品",
             "蜜",
@@ -135,7 +135,7 @@
                 "place": "168 Market, Las Vegas, Nevada"
             }
         ],
-        "Description": "A syrupy cold drink with grass jelly.\n\n仙 means “divine,” and 草 is “grass,” and together 仙草 refers to both the herb and the jelly made from it. 烧 is “syrup,” also short for “honey” (蜜糖 maht tòhng).",
+        "Description": "A syrupy cold drink with grass jelly.\n\n**Characters**\n\n仙 means “divine,” and 草 is “grass,” and together 仙草 refers to both the herb and the jelly made from it. 烧 is “syrup,” also short for “honey” (蜜糖 maht tòhng).",
         "Tags": [
             "仙草",
             "飲品"
@@ -193,7 +193,7 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "Description": "Popular in Taiwan, this ddrink is made with winter melon and brown sugar. 冬瓜 is “winter melon“, and 茶 is “tea“, so “winter melon tea“.",
+        "Description": "Popular in Taiwan, this drink is a brew of winter melon and brown sugar.\n\n**Characters**\n\n冬瓜 is *winter melon*, and 茶 is *tea*, so it's *winter melon tea*.",
         "Tags": [
             "飲品",
             "冬瓜",
@@ -213,6 +213,69 @@
                 "name": "Miss Chinese Food",
                 "URL": "https://misschinesefood.com/winter-melon-tea-2/"
             }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "檸檬冬瓜茶",
+                "Simplified": "柠檬冬瓜茶",
+                "English": "lemon winter melon tea",
+                "Yale": "nìhng mūng dūng gwā chàh",
+                "Jyutping": "ning4 mung1 dung1 gwaa1 caa4",
+                "Pinyin": "níng méng dōng guā chá",
+                "Resources": [
+                    {
+                        "name": "檸檬",
+                        "URL": "https://en.wiktionary.org/wiki/檸檬"
+                    },
+                    {
+                        "name": "檸",
+                        "URL": "https://en.wiktionary.org/wiki/檸"
+                    },
+                    {
+                        "name": "檬",
+                        "URL": "https://en.wiktionary.org/wiki/檬"
+                    },
+                    {
+                        "name": "冬瓜茶",
+                        "URL": "https://en.wiktionary.org/wiki/冬瓜茶"
+                    },
+                    {
+                        "name": "冬瓜",
+                        "URL": "https://en.wiktionary.org/wiki/冬瓜"
+                    },
+                    {
+                        "name": "冬",
+                        "URL": "https://en.wiktionary.org/wiki/冬"
+                    },
+                    {
+                        "name": "瓜",
+                        "URL": "https://en.wiktionary.org/wiki/瓜"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "lemonwintermelonteameetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Winter melon tea with lemon.\n\n**Characters**\n\n檸檬is *lemon* and 冬瓜茶 is *winter melon tea*.",
+        "Tags": [
+            "飲品",
+            "冬瓜",
+            "水果",
+            "檸檬",
+            "茶"
+        ],
+        "Resources": [
+           
         ]
     }
 ]
