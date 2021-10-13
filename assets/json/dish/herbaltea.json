@@ -266,7 +266,7 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "Description": "Winter melon tea with lemon.\n\n**Characters**\n\n檸檬is *lemon* and 冬瓜茶 is *winter melon tea*.",
+        "Description": "Winter melon tea with lemon.\n\n**Characters**\n\n[檸檬](https://en.wiktionary.org/wiki/檸檬) is *lemon*, and [冬瓜茶](https://en.wiktionary.org/wiki/冬瓜茶) is *winter melon tea*, so 檸檬冬瓜茶 is *lemon winter melon tea*.",
         "Tags": [
             "飲品",
             "冬瓜",
@@ -274,8 +274,6 @@
             "檸檬",
             "茶"
         ],
-        "Resources": [
-           
-        ]
+        "Resources": []
     }
 ]
