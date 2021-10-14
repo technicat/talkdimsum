@@ -65,6 +65,7 @@
                 "Chinese": "蒜茸菜心",
                 "English": "choy sum in garlic",
                 "Yale": "syun yùhng choi sām",
+                "Jyutping": "syun3 jung4 coi3 sam1",
                 "Pinyin": "suàn róng cài xīn",
                 "Resources": [
                     {
@@ -112,6 +113,69 @@
                 "name": "Serious Eats",
                 "URL": "https://www.seriouseats.com/recipes/2014/05/stir-fried-choy-sum-minced-garlic-recipe.html"
             }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蒜茸蕹菜",
+                "English": "ong choy in garlic",
+                "Yale": "syun yùhng ung choi",
+                "Jyutping": "syun3 jung4 ung3 coi3",
+                "Pinyin": "uàn róng wèng cài",
+                "Resources": [
+                    {
+                        "name": "蒜蓉",
+                        "URL": "https://en.wiktionary.org/wiki/蒜蓉"
+                    },
+                    {
+                        "name": "蒜",
+                        "URL": "https://en.wiktionary.org/wiki/蒜"
+                    },
+                    {
+                        "name": "蓉",
+                        "URL": "https://en.wiktionary.org/wiki/蓉"
+                    },
+                    {
+                        "name": "蕹菜",
+                        "URL": "https://en.wiktionary.org/wiki/蕹菜"
+                    },
+                    {
+                        "name": "蕹",
+                        "URL": "https://en.wiktionary.org/wiki/蕹"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    }   
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "ongchoykungfuthai",
+                "place": "Kung Fu Thai and Chinese, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Also known as Chinese water spinach. featuringlong hollow stems. Typically stir-fried, with garlic, for example.",
+        "Tags": [
+            "素",
+            "菜"
+        ],
+        "Resources": [
+            {
+                "name": "Onolicious",
+                "URL": "https://onolicioushawaii.com/ong-choy/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Stir_fried_water_spinach"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/ong-choy-xo-sauce/"
+            }
+           
         ]
     }
 ]
