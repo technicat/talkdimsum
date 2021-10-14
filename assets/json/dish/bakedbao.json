@@ -33,7 +33,7 @@
                 "image": "cocktailbun"
             }
         ],
-        "Description": "An elongated bun with a buttery shredded coconut filling.\n\nThe first character 雞 means “chicken,” and the second character 尾 means “tail,” so the first two characters literally mean “cocktail.” The third character 包 means “bun.”\n\nCocktail buns were invented in the 1950s as a way to recycle day-old buns by turning them into a “cocktail mix” of fillings for new buns",
+        "Description": "An elongated bun with a buttery shredded coconut filling, the [cocktail bun](http://en.wikipedia.org/wiki/Cocktail_bun) was invented in the 1950s as a way to recycle day-old buns by turning them into a “cocktail mix” of fillings for new buns\n\n**Characters**\n\nThe first character 雞 means *chicken*, and the second character 尾 means *tail*, so the first two characters are literally *cocktail*. The third character 包 means *bun*.",
         "Tags": [
             "雞",
             "尾",
@@ -45,14 +45,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Cocktail_bun"
-            },
-            {
-                "name": "Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/07/coconut-buns-cocktail-buns/"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/coconut-buns-cocktail-buns/"
             },
@@ -63,6 +55,14 @@
             {
                 "name": "Oh My Food Recipes",
                 "URL": "https://www.ohmyfoodrecipes.com/cocktail-bun/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Cocktail_bun"
+            },
+            {
+                "name": "Woks of Life",
+                "URL": "https://thewoksoflife.com/2015/07/coconut-buns-cocktail-buns/"
             }
         ]
     },
@@ -104,7 +104,7 @@
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "Description": "A popular bakery item, This is a hot dog baked in a roll.\n\n腸仔 means “sausage” and 包 is a bun.\n\nThe Chinese word for “hot dog” is 熱狗 (yiht gáu), literally “hot dog.”",
+        "Description": "A popular bakery item, This is a hot dog baked in a roll.\n\n**Characters**\n\n**Characters**\n\n腸仔 means “sausage” and 包 is a bun.\n\nThe Chinese word for “hot dog” is 熱狗 (yiht gáu), literally “hot dog.”",
         "Tags": [
             "包",
             "焗",
@@ -167,7 +167,7 @@
                 "place": "99 Ranch Market, Las Vegas, Nevada"
             }
         ],
-        "Description": "A bun topped with dried shredded pork.\n\n肉 is “meat,” and 鬆 means “loose,” so 肉鬆 is “loose meat.” 面包 is “bread,” so in total, “loose meat bread.”",
+        "Description": "A bun topped with dried shredded pork.\n\n**Characters**\n\n肉 is “meat,” and 鬆 means “loose,” so 肉鬆 is “loose meat.” 面包 is “bread,” so in total, “loose meat bread.”",
         "Tags": [
             "肉鬆",
             "豬肉",
@@ -227,7 +227,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "Description": "Baked buns with a white crisp coating on top. Like steamed buns, typically filled with cha siu or something sweet like custard or red bean.\n\n雪 is “snow,” 山 is “mountain,” and 包 is “bun.”\n\nSometimes called “snow-topped bun.”",
+        "Description": "Baked buns with a white crisp coating on top. Like steamed buns, typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters\n\n雪 is “snow,” 山 is “mountain,” and 包 is “bun.”\n\nSometimes called “snow-topped bun.”",
         "Tags": [
             "雞",
             "包"
