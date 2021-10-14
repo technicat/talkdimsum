@@ -20,15 +20,11 @@
                 "place": "Chef Kenny's Vegan Dim Sum, Las Vegas, Nevada"
             }
         ],
-        "Description": "With a long history of Buddhism and people just not able to afford meat, Chinese cuisine excels in flavorful and textured vegetable dishes and also “mock” meats made from tofu and wheat gluten (yes, gluten).\n\n素 is typically used in conjunction with a term, e.g. 素菜 (sou choi) is a vegetarian dish, 素餐 (sou chāan) a vegetarian meal, 素食 (sou sihk) is vegetarian food.\n\n素 also means “simple,” “plain,” or “clear,” so 素月 is a bright and clear moon, 素顏 (sou ngàah) a face without makeup, and 素數 (sou sou) a prime number.",
+        "Description": "With a long history of Buddhism and people just not able to afford meat, Chinese cuisine excels in flavorful and textured vegetable dishes and also “mock” meats made from tofu and wheat gluten (yes, gluten).\n\n**Characters**\n\n素 is typically used in conjunction with a term, e.g. 素菜 (sou choi) is a vegetarian dish, 素餐 (sou chāan) a vegetarian meal, 素食 (sou sihk) is vegetarian food.\n\n素 also means “simple,” “plain,” or “clear,” so 素月 is a bright and clear moon, 素顏 (sou ngàah) a face without makeup, and 素數 (sou sou) a prime number.",
         "Tags": [
             "素"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Vegetarianism_by_country#China"
-            },
             {
                 "name": "China Highlights",
                 "URL": "https://www.chinahighlights.com/travelguide/chinese-food/vegetarian-food.htm"
@@ -40,6 +36,10 @@
             {
                 "name": "Easy Tour China",
                 "URL": "https://www.easytourchina.com/blog-v1587-vegetarian-food-culture-in-china"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Vegetarianism_by_country#China"
             }
         ]
     },
@@ -85,7 +85,7 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "Description": "Seasonal vegetables, boiled or steamed and served with oyster sauce.\n\n蠔油 is “oyster sauce,” 時 is “time” or “season,” and 蔬  is “vegetable.”",
+        "Description": "Seasonal vegetables, boiled or steamed and served with oyster sauce.\n\n**Characters**\n\n蠔油 is “oyster sauce,” 時 is “time” or “season,” and 蔬  is “vegetable.”",
         "Tags": [
             "蠔油時菜",
             "蠔油",
@@ -198,66 +198,6 @@
                 "URL": "https://thewoksoflife.com/ong-choy-xo-sauce/"
             }
            
-        ]
-    },
-    {
-        "words": [
-            {
-                "Chinese": "蒜蓉菠菜",
-                "English": "spinach in garlic",
-                "Yale": "syun yùhng bō choi",
-                "Jyutping": "syun3 jung4 bo1 coi3",
-                "Pinyin": "suàn róng bō cài",
-                "Resources": [
-                    {
-                        "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蒜蓉"
-                    },
-                    {
-                        "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/蒜蓉"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蓉"
-                    },
-                    {
-                        "name": "菠菜",
-                        "URL": "https://en.wiktionary.org/wiki/菠菜"
-                    },
-                    {
-                        "name": "菠",
-                        "URL": "https://en.wiktionary.org/wiki/菠"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/菜"
-                    }     
-                ]
-            }
-        ],
-        "images": [
-            {
-                "image": "garlicspinachxiaolongbao",
-                "place": "Xiao Long Bao Dumplings, Las Vegas, Nevada"
-            }
-        ],
-        "Description": "Spinach stir-fried in minced garlic.\n\n**Characters**\n\n蒜蓉 is *minced garlic*, and 菠菜 is *spinach.*",
-        "Tags": [
-            "蒜蓉",
-            "菠菜",
-            "素",
-            "菜"
-        ],
-        "Resources": [
-            {
-                "name": "China Travel Guide",
-                "URL": "https://www.travelchinaguide.com/tour/food/chinese-cooking/garlic-spinach.htm"
-            }
-            {
-                "name": "Traditional Chinese Recipes",
-                "URL": "https://traditionalchineserecipes.blogspot.com/2011/05/suan-bo-cai-garlic-spinach.html"
-            }
         ]
     }
 ]
