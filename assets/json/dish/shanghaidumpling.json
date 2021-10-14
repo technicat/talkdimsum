@@ -29,7 +29,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "Description": "Steamed buns filled with soup.\n\n湯 is “soup,” and 包 is “dumpling.”\n\nThere are many varieties of soup dumplings. The most common one in dim sum restaurants is Shanghai dumplings.",
+        "Description": "Steamed buns filled with soup. There are many varieties of soup dumplings. The most common one in dim sum restaurants is Shanghai dumplings.\n\n**Characters**\n\n湯 is *soup*, and 包 is *dumpling*.",
         "Tags": [
             "湯包",
             "蒸",
@@ -83,7 +83,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "These steamed, broth-filled dumplings originate from Shanghai, so they are often known as Shanghai dumplings, or soup dumplings, or Shanghai soup dumplings. They typically have a pork filling encased in a thin delicate skin (so it's a challenge to plop them in your mouth without breaking the skin and spilling the broth). The skin is pinched at the top creating vertical ripples all around.\n\nThe three characters 小籠包 are “small,” “envelope” and “bao” (bun).\n\nIn Shanghainese, they are known as 小籠饅頭 (ending with mantou, the old name for dumplings, instead of bao).",
+        "Description": "These steamed, broth-filled dumplings originate from Shanghai, so they are often known as Shanghai dumplings, or soup dumplings, or Shanghai soup dumplings. They typically have a pork filling encased in a thin delicate skin (so it's a challenge to plop them in your mouth without breaking the skin and spilling the broth). The skin is pinched at the top creating vertical ripples all around.\n\n**Characters**\n\nThe three characters 小籠包 are “small,” “envelope” and “bao” (bun).\n\nIn Shanghainese, they are known as 小籠饅頭 (ending with mantou, the old name for dumplings, instead of bao).",
         "Tags": [
             "湯包",
             "豬肉",
@@ -94,8 +94,8 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Xiaolongbao"
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/xiao-long-bao-soup-dumplings/"
             },
             {
                 "name": "Dim Sum Central",
@@ -106,16 +106,16 @@
                 "URL": "https://dimsumguide.com/site/view/Xiaolongbao"
             },
             {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/xiao-long-bao-soup-dumplings/"
+                "name": "Unusual China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/xiao-long-bao"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Xiaolongbao"
             },
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2014/09/steamed-shanghai-soup-dumplings-xiaolongbao/"
-            },
-            {
-                "name": "Unusual China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/xiao-long-bao"
             }
         ]
     }
