@@ -61,7 +61,45 @@
             }
         ],
         "Description": "飲 means “to drink,” and 品 is “item,” so it's basically “drink items.”",
-        "Tags": [],
+        "Tags": [
+            "水",
+            "飲品"
+        ],
         "Resources": []
-    }
+    },
+  {
+    "words": [
+      {
+        "Chinese": "冰水",
+        "English": "ice water",
+        "Yale": "bīng séui",
+        "Pinyin": "bīng shuǐ",
+        "Resources": [
+          {
+            "name": "冰水",
+            "URL": "https://en.wiktionary.org/wiki/冰水"
+          },
+          {
+            "name": "冰",
+            "URL": "https://en.wiktionary.org/wiki/冰"
+          },
+          {
+            "name": "水",
+            "URL": "https://en.wiktionary.org/wiki/水"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "waterislandmalaysian",
+        "place": "Island Malaysian, Las Vegas, Nevada"
+      }
+    ],
+    "Description": "冰 is “ice“,  and 水is “water“, so it's “ice water.“",
+    "Tags": [
+      "飲品",
+      "水"
+    ]
+  }
 ]
