@@ -110,7 +110,7 @@
         "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
       }
     ],
-    "Description": "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\n蛋 is “egg” and 撻 stands for “tart“ (actually a loan word that sounds like “tart.”\n\n港式 means “Hong Kong style” (the first character 港 is the second character in Hong Kong).\n\nHong Kong style egg tarts resemble British custard tarts, but there seems to be some debate whether they derived directly from British tarts or from the Portuguese style egg tarts by way of Macau (see the next dish).",
+    "Description": "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\n**History**\n\nHong Kong style egg tarts resemble British custard tarts, but there seems to be some debate whether they derived directly from British tarts or from the Portuguese style egg tarts by way of Macau (see the next dish).\n\n**Characters**\n\n蛋 is “egg” and 撻 stands for “tart“ (actually a loan word that sounds like “tart.”\n\n港式 means “Hong Kong style” (the first character 港 is the second character in Hong Kong).",
     "Tags": [
       "蛋撻",
       "蛋",
@@ -189,7 +189,7 @@
         "image": "portugueseeggtart"
       }
     ],
-    "Description": "Portuguese-style egg tarts, originating from Macau and a specialty there, feature a burnt top on the custard filling reminiscent of creme brulee. They are derived from the Portuguse pastel de nata.\n\n葡 is short for “Portugal” (the full word is 葡萄牙 pòuh tòuh ngàh) and 撻 is the same “taat” as in the regular “dan taat” (previous).\n\nPro tip: in Hong Kong you can get good Portuguese egg tarts at KFC.",
+    "Description": "Portuguese-style egg tarts, originating from Macau and a specialty there, feature a burnt top on the custard filling reminiscent of creme brulee.\n\n**History**\n\nThey are derived from the Portuguse [pastel de nata](https://en.wikipedia.org/wiki/Pastel_de_nata).\n\n**Pro Tip**\n\nIn Hong Kong you can get good Portuguese egg tarts at KFC.\n\n**Characters**\n\n葡 is short for “Portugal” (the full word is 葡萄牙 pòuh tòuh ngàh) and 撻 is the same “taat” as in the regular “dan taat” (previous).",
     "Tags": [
       "小食",
       "蛋撻",
@@ -203,10 +203,6 @@
     ],
     "Resources": [
       {
-        "name": "Pastel de nata",
-        "URL": "https://en.wikipedia.org/wiki/Pastel_de_nata"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/portuguese-egg-tart-recipe/"
       },
@@ -217,7 +213,11 @@
       {
         "name": "Food Touring",
         "URL": "https://food-touring.com/2014/01/12/macau-portuguese-egg-tart/"
-      }
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Pastel_de_nata"
+      },
     ]
   }
 ]
