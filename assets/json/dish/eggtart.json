@@ -6,6 +6,7 @@
         "Simplified": "蛋挞",
         "English": "egg tart",
         "Yale": "daahn tāat",
+        "Jyutping": "daan6 taat1",
         "Pinyin": "dàn tà",
         "Resources": [
           {
@@ -29,7 +30,7 @@
         "place": "Yum Cha, Las Vegas, Nevada"
       }
     ],
-    "Description": "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\n蛋 is “egg,” and 撻 stands for “tart” (actually a loan word that sounds like “tart.”\n\nUsually 蛋撻 refers to Hong Kong-style egg tarts (see next), but it can refer to a variety of egg tarts including Portuguese-style egg tarts.",
+    "Description": "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\nUsually 蛋撻 refers to Hong Kong-style egg tarts, but it can refer to a variety of egg tarts including Portuguese-style egg tarts.\n\n**Characters**\n\n蛋 is “egg,” and 撻 stands for “tart” (actually a loan word that sounds like “tart.”",
     "Tags": [
       "蛋撻",
       "小食",
@@ -41,10 +42,6 @@
       "點心"
     ],
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Egg_tart"
-      },
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/egg-tarts/"
@@ -64,6 +61,10 @@
       {
         "name": "Oh My Food Recipes",
         "URL": "https://www.ohmyfoodrecipes.com/egg-tarts/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Egg_tart"
       }
     ]
   },
