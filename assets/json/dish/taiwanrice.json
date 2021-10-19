@@ -6,6 +6,7 @@
         "Simplified": "油饭",
         "English": "Taiwanese sticky rice",
         "Yale": "yàuh faahn",
+        "Jyutping": "jau4 faan6",
         "Pinyin": "yóu fàn",
         "Resources": [
           {
@@ -29,7 +30,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "Description": "Glutinous rice stewed with soy sauce, sesame oil, and other seasonings.\n\n油 is “oil,” and 飯 is “rice,” so it's ”oil rice.”",
+    "Description": "Glutinous rice stewed with soy sauce, sesame oil, and other seasonings.\n\n**Characters**\n\n油 is “oil,” and 飯 is “rice,” so it's ”oil rice.”",
     "Tags": [
       "臺灣",
       "飯",
@@ -61,6 +62,7 @@
         "Simplified": "卤肉饭",
         "English": "minced pork rice",
         "Yale": "lóuh yuhk faahn",
+        "Jyutping": "lo5 juk6 faan6",
         "Pinyin": "lǔ ròu fàn",
         "Resources": [
           {
@@ -102,33 +104,33 @@
     ],
     "Resources": [
       {
-        "name": "Wai Sik",
-        "URL": "https://waisik.com/chunky-lu-rou-fan/"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/lu-rou-fan-taiwanese-braised-pork-rice-bowl/"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/lu-rou-fan-braised-pork-rice/"
       },
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Minced_pork_rice"
-      },
-      {
-        "name": "Yi Reservation",
-        "URL": "http://yireservation.com/recipes/taiwanese-minced-pork-sauce-over-rice/"
+        "name": "The Missing Lok Ness",
+        "URL": "https://themissinglokness.com/2014/05/07/taiwanese-minced-pork-rice/"
       },
       {
         "name": "Nom Life",
         "URL": "https://www.lifeofnoms.com/blog/2018/8/7/taiwanesemincedpork"
       },
       {
-        "name": "The Missing Lok Ness",
-        "URL": "https://themissinglokness.com/2014/05/07/taiwanese-minced-pork-rice/"
-      }
+        "name": "Wai Sik",
+        "URL": "https://waisik.com/chunky-lu-rou-fan/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Minced_pork_rice"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/lu-rou-fan-taiwanese-braised-pork-rice-bowl/"
+      },
+      {
+        "name": "Yi Reservation",
+        "URL": "http://yireservation.com/recipes/taiwanese-minced-pork-sauce-over-rice/"
+      },
     ]
   }
 ]
