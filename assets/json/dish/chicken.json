@@ -243,7 +243,7 @@
                 "place": "Great Wall, Las Vegas, Nevada"
             }
         ],
-        "Description": "Another battered fried chicken coated in a sweet sauce, this has to be a Chinese-American dish and in fact there are competing claims to its invention by restaurants in New York City, but General Tso was indeed a famous Chinese general, born in Hunan.\n\n左宗棠 is General Tso's full name (without the “General”), and 雞 is “chicken.”\n\nThe Search for General Tso is a documentary covering Chinese-American cuisine, the history of Chinese-American immigration, and General Tso himself.",
+        "Description": "Another battered fried chicken coated in a sweet sauce, [General Tso's chicken](https://en.wikipedia.org/wiki/General_Tso's_chicken) just has to be a Chinese-American dish (and in fact there are competing claims to its invention by restaurants in New York City). But [General Tso](https://en.wikipedia.org/wiki/Zuo_Zongtang) was indeed a famous Chinese general, born in Hunan, so somtimes this is claimed to be a Hunan dish.\n\n[The Search for General Tso](https://en.wikipedia.org/wiki/The_Search_for_General_Tso) is a documentary covering Chinese-American cuisine, the history of Chinese-American immigration, and General Tso himself.\n\n**Characters*\n\n左宗棠 is General Tso's full name (sans “General”), and 雞 is *chicken*.",
         "Tags": [
             "美式",
             "雞",
@@ -251,20 +251,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/General_Tso's_chicken"
-            },
-            {
-                "name": "General Tso",
-                "URL": "https://en.wikipedia.org/wiki/Zuo_Zongtang"
-            },
-            {
-                "name": "The Search for General Tso",
-                "URL": "https://en.wikipedia.org/wiki/The_Search_for_General_Tso"
-            },
-            {
                 "name": "Made With Lau",
                 "URL": "https://madewithlau.com/recipes/general-tsos-chicken"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/General_Tso's_chicken"
             }
         ]
     },
