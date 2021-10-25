@@ -4,9 +4,9 @@
       {
         "Chinese": "炒麵",
         "Simplified": "炒面",
-        "Alternate": "豉油王炒麵",
         "English": "stir-fried noodles",
         "Yale": "cháau mihn",
+        "Jyutping": "caau2 min6",
         "Pinyin": "chǎo miàn",
         "Resources": [
           {
@@ -30,7 +30,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description": "Stir-fried noodles.\n\n**Characters**\n\n炒 is “stir-fried,” and 麵 is “noodles” (noodles made from wheat flour, not rice flour).\n\nAlthough the word for Chinese noodles is typically spelled “mein” and pronounced like “Main Street,” spelling it as “mien” would be closer to the Cantonese pronunciation, like “mean streets.”",
+    "Description": "Stir-fried noodles.\n\n**Characters**\n\n[炒](https://en.wiktionary.org/wiki/炒) is *stir-fried* and [麵](https://en.wiktionary.org/wiki/麵) is *noodles*(noodles made from wheat flour, not rice flour).\n\nAlthough the word for Chinese noodles is typically spelled “mein” and pronounced like “Main Street,” spelling it as “mien” would be closer to the Cantonese pronunciation, like “mean streets.”",
     "Tags": [
       "炒麵",
       "炒",
@@ -39,12 +39,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Chow_mein"
-      },
-      {
         "name": "Oh My Food Recipes",
         "URL": "https://www.ohmyfoodrecipes.com/homemade-chow-mein/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Chow_mein"
       }
     ]
   },
