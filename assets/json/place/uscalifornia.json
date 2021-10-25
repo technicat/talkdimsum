@@ -1572,7 +1572,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://www.begonibistro.com/"
+                    "URL": "http://www.begoni-bistro.com/"
                 },
                 {
                     "name": "Yelp",
@@ -1583,19 +1583,6 @@
             "lon": -122.405550,
             "city": "San Francisco",
             "address": "615 Jackson St San Francisco, CA 94133"
-        },
-        {
-            "title": "Canton Seafood & Dim Sum",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/canton-seafood-and-dim-sum-restaurant-san-francisco"
-                }
-            ],
-            "lat": 37.784370,
-            "lon": -122.397770,
-            "city": "San Francisco",
-            "address": "655 Folsom St, San Francisco, CA 94107"
         },
         {
             "title": "Chase Luck Bakery",
