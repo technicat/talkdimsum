@@ -6,7 +6,7 @@
             "links": [
                 {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-cafe-mesa-5"
+                    "URL": "http://www.yelp.com/biz/dim-sum-cafe-mesa-5"
                 }
             ],
             "lat": 33.365240,
@@ -17,6 +17,10 @@
         {
             "title": "Mekong Palace",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.mekongpalace.com"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/mekong-palace-mesa"
