@@ -35,6 +35,10 @@
             "title": "Star Kitchen",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://starkitchenco.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/star-kitchen-denver"
                 }
@@ -47,6 +51,10 @@
         {
             "title": "Super Star Asian Cuisine",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "http://superstarasiancuisineco.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/super-star-asian-cuisine-denver-2"
