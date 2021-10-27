@@ -38,8 +38,9 @@
         "place": "88 Noodle Papa, Las Vegas"
       }
     ],
-    "Description": "Wonton dumplings served in a clear soup.\n\n雲吞 is “wonton,” and 湯 is “soup.”",
+    "Description": "Wonton dumplings served in a clear soup.\n\n**Characters**\n\n雲吞 is “wonton,” and 湯 is “soup.”",
     "Tags": [
+      "雲吞",
       "茶餐廳",
       "雲吞",
       "雲吞湯",
@@ -110,74 +111,14 @@
         "place": "Chinos Locos, Las Vegas, Nevada"
       }
     ],
-    "Description": "Wonton dumplings served in a clear soup with other ingredients, such as vegetables.\n\n窩 means “everything,” 雲吞 is “wonton,” and 湯 is “soup,” so it means wonton soup with all the fixings.",
+    "Description": "Wonton dumplings served in a clear soup with other ingredients, such as vegetables.\n\n**Characters**\n\n窩 means “everything,” 雲吞 is “wonton,” and 湯 is “soup,” so it means wonton soup with all the fixings.",
     "Tags": [
+      "雲吞",
       "茶餐廳",
       "窩",
       "雲吞",
       "雲吞湯",
       "湯"
-    ]
-  },
-  {
-    "words": [
-      {
-        "Chinese": "水餃湯",
-        "Simplified": "水饺汤",
-        "English": "dumpling soup",
-        "Yale": "séui gáau tōng",
-        "Pinyin": "shuǐ jiǎo tāng",
-        "Resources": [
-          {
-             "name": "水餃",
-             "URL": "https://en.wiktionary.org/wiki/水餃"
-          },
-          {
-             "name": "水",
-             "URL": "https://en.wiktionary.org/wiki/水"
-          },
-          {
-             "name": "餃",
-             "URL": "https://en.wiktionary.org/wiki/餃"
-          },
-          {
-             "name": "湯",
-             "URL": "https://en.wiktionary.org/wiki/湯"
-          }
-       ]
-      },
-      {
-        "Chinese": "上湯水餃",
-        "Simplified": "上汤水饺",
-        "English": "dumpling soup",
-        "Yale": "seuhng tōng séui gáau",
-        "Pinyin": "shàng tāng shuǐ jiǎo"
-      },
-      {
-        "Chinese": "鮮蝦水餃湯",
-        "Simplified": "鲜虾水饺汤",
-        "English": "fresh shrimp dumpling soup",
-        "Yale": "sīn hā séui gáau tōng",
-        "Pinyin": "xiān xiā shuǐ jiǎo tāng"
-      }
-    ],
-    "images": [
-      {
-        "image": "seuigowsoupnoodlepapa",
-        "place": "88 Noodle Papa, Las Vegas, Nevada"
-      }
-    ],
-    "Description": "Boiled dumplings served in a soup.\n\n水 is “water,” and 餃 is “dumpling,” and together 水餃 is “boiled dumpling.” The third character 湯 is the word for “soup,“ so the whole thing is “boiled dumpling soup.”",
-    "Tags": [
-      "水餃",
-      "餃",
-      "湯"
-    ],
-    "Resources": [
-      {
-        "name": "Christine's Recipes",
-        "URL": "https://en.christinesrecipes.com/2013/10/chinese-dumpling-soup.html"
-      }
     ]
   }
 ]
