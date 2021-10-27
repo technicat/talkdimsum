@@ -1,41 +1,15 @@
 [
     {
-        "Chinese": "菜",
-        "English": "vegetable",
-        "Yale": "choi",
-        "Pinyin": "cài"
-    },
-    {
         "Chinese": "竹",
         "English": "bamboo",
         "Yale": "jūk",
-        "Pinyin": "zhú"
-    },
-    {
-        "Chinese": "韭菜",
-        "English": "chives",
-        "Yale": "gáu choi",
-        "Pinyin": "jiǔ cài"
-    },
-    {
-        "Chinese": "生菜",
-        "English": "lettuce",
-        "Yale": "sāang choi",
-        "Pinyin": "shēng cài"
-    },
-    {
-        "Chinese": "蕹菜",
-        "English": "ong choy",
-        "Yale": "ung choi",
-        "Jyutping": "ung3 coi3",
-        "Pinyin": "wèng cài"
-    },
-    {
-        "Chinese": "菠菜",
-        "English": "spinach",
-        "Yale": "bō choi",
-        "Jyutping": "bo1 coi3",
-        "Pinyin": "bō cài"
+        "Pinyin": "zhú",
+        "Resources": [
+            {
+                "name": "竹",
+                "URL": "https://en.wiktionary.org/wiki/竹"
+            }
+        ]
     },
     {
         "Chinese": "西蘭花",
