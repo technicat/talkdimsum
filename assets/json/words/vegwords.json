@@ -33,12 +33,6 @@
         "Pinyin": "yáng cōng"
     },
     {
-        "Chinese": "菇",
-        "English": "mushroom",
-        "Yale": "gū",
-        "Pinyin": "gū"
-    },
-    {
         "Chinese": "茄子",
         "English": "eggplant",
         "Yale": "ké jí",
@@ -101,13 +95,21 @@
         "Simplified": "冬笋",
         "English": "winter bamboo shoots",
         "Yale": "dūng séun",
-        "Pinyin": "dōng sǔn"
-    },
-    {
-        "Chinese": "冬菇",
-        "English": "dried mushrooms",
-        "Yale": "dūng gū",
-        "Pinyin": "dōng gū"
+        "Pinyin": "dōng sǔn",
+        "Resources": [
+            {
+                "name": "冬筍",
+                "URL": "https://en.wiktionary.org/wiki/冬筍"
+            },
+            {
+                "name": "冬",
+                "URL": "https://en.wiktionary.org/wiki/冬"
+            },
+            {
+                "name": "筍",
+                "URL": "https://en.wiktionary.org/wiki/筍"
+            }
+        ]
     },
     {
         "Chinese": "薯",
