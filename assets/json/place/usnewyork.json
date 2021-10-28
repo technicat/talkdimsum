@@ -82,6 +82,10 @@
             "title": "The Orient Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://theorientbethpage.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/the-orient-restaurant-bethpage"
                 }
@@ -108,6 +112,10 @@
             "title": "East Harbor Seafood Palace",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.eastharborseafoodpalace.com/"
+                },
+                {
                     "name": "TimeOut",
                     "URL": "https://www.timeout.com/newyork/restaurants/east-harbor-seafood-palace"
                 },
@@ -125,10 +133,6 @@
             "title": "Pacific Palace",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://pacific-palace.com"
-                },
-                {
                     "name": "TimeOut",
                     "URL": "https://www.timeout.com/newyork/restaurants/pacificana"
                 },
@@ -145,10 +149,6 @@
         {
             "title": "Northern Manor Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.northernmanor.us"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/northern-manor-restaurant-douglaston"
@@ -201,10 +201,6 @@
             "title": "New Lake Pavilion",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://lakepavilion.net/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/new-lake-pavilion-flushing"
                 }
@@ -232,7 +228,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "https://www.royalqueennyc.com"
+                    "URL": "https://www.royalqueenrestaurantnyc.com"
                 },
                 {
                     "name": "Yelp",
@@ -294,6 +290,10 @@
         {
             "title": "Fortune Wheel",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.fortunewheelrestaurant.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/fortune-wheel-levittown"
