@@ -5,6 +5,7 @@
                 "Chinese": "甜品",
                 "English": "dessert",
                 "Yale": "tìhm bán",
+                "Jyutping": "tim4 ban2",
                 "Pinyin": "tián pǐn",
                 "Resources": [
                     {
@@ -28,7 +29,7 @@
                 "place": "Sweet Honey Desserts, Las Vegas, Nevada"
             }
         ],
-        "Description": "Chinese desserts include pastries, candies, cakes, jellies and puddings.\n\n甜 means “sweet,” and 品 is “item,” so it's basically “sweets.”\n\nEven though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!",
+        "Description": "[Chinese desserts](https://en.wikipedia.org/wiki/Chinese_desserts) include pastries, candies, cakes, jellies and puddings. Even though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!\n\n[甜](https://en.wiktionary.org/wiki/甜) means *sweet*, and [品](https://en.wiktionary.org/wiki/品) is *item*, so it's basically *sweets*.",
         "Tags": [
             "甜品"
         ],
@@ -102,12 +103,12 @@
         ],
         "Resources": [
             {
-                "name": "Hot Thai Kitchen",
-                "URL": "https://hot-thai-kitchen.com/hong-kong-mango-pancake/"
-            },
-            {
                 "name": "Easy Chinese Recipes",
                 "URL": "https://www.easychineserecipes.com/hong-kong-style-mango-pancake/"
+            },
+            {
+                "name": "Hot Thai Kitchen",
+                "URL": "https://hot-thai-kitchen.com/hong-kong-mango-pancake/"
             },
             {
                 "name": "Red House Spice",
@@ -155,12 +156,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Guilinggao"
-            },
-            {
                 "name": "Appetite for China",
                 "URL": "https://appetiteforchina.com/recipes/blog/chinese-herbal-jelly"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Guilinggao"
             }
         ]
     },
@@ -194,7 +195,7 @@
                 "place": "Sweet Heart, Las Vegas, Nevada"
             }
         ],
-        "Description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.\n\n炸 means “deep-fried,” 鮮 is “fresh”, and 奶 is “milk,” so it's “deep-fried fresh milk” (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n鮮奶 is part of the name for latte, “fresh milk coffee” (鮮奶咖啡).",
+        "Description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.\n\n**Characters**\n\n炸 means “deep-fried,” 鮮 is “fresh”, and 奶 is “milk,” so it's “deep-fried fresh milk” (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n鮮奶 is part of the name for latte, “fresh milk coffee” (鮮奶咖啡).",
         "Tags": [
             "炸",
             "奶",
