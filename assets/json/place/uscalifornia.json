@@ -2051,10 +2051,6 @@
             "title": "S&T Hong Kong Seafood",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.sweetdelightbakerysf.com"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/s-and-t-hong-kong-seafood-san-francisco"
                 }
@@ -2067,10 +2063,6 @@
         {
             "title": "Shai Lai Seafood Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.shailaiseafood.com/location.aspx"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/shai-lai-seafood-restaurant-san-francisco"
@@ -2359,6 +2351,10 @@
             "title": "New Port Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "httpss://www.newport-restaurant.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/new-port-restaurant-sunnyvale"
                 }
@@ -2437,7 +2433,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://www.eastoceanseafoodrestaurant.com"
+                    "URL": "https://www.creekhousedimsum.com"
                 },
                 {
                     "name": "Yelp",
@@ -2453,6 +2449,10 @@
             "title": "Sheng Hui Dim Sum",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://www.shenghuidimsum.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/sheng-hui-dim-sum-west-covina-2"
                 }
@@ -2465,6 +2465,10 @@
         {
             "title": "Dim Sum House",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumhousela.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dim-sum-house-west-los-angeles-2"
@@ -2526,6 +2530,10 @@
             "title": "Seafood Paradise Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://seafoodparadiserestaurant.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/seafood-paradise-restaurant-westminster"
                 }
@@ -2540,7 +2548,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://seafoodcove.com/"
+                    "URL": "https://www.seafood-cove.com/"
                 },
                 {
                     "name": "Yelp",
