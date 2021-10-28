@@ -6,7 +6,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://chefs-wok.com"
+                    "URL": "https://www.alamedachefswok.com/"
                 },
                 {
                     "name": "Yelp",
@@ -56,6 +56,10 @@
             "title": "Lunasia Chinese Cuisine",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://lunasiadimsum.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lunasia-chinese-cuisine-alhambra-3"
                 }
@@ -68,6 +72,10 @@
         {
             "title": "Top Island Seafood Restaurant",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://topislandtogo.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/top-island-seafood-restaurant-alhambra"
@@ -111,10 +119,6 @@
         {
             "title": "Capital Seafood",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.capitalseafoodarcadia.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/capital-seafood-arcadia"
@@ -232,10 +236,6 @@
             "title": "Da Chef Noodle",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://dachefnoodlebd.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/da-chef-noodle-bermuda-dunes-3"
                 }
@@ -267,7 +267,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://grandharborsf.com/"
+                    "URL": "https://www.hlpeninsula.com/"
                 },
                 {
                     "name": "Yelp",
@@ -509,10 +509,6 @@
             "title": "New City Chinese Cuisine",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://dimsuminn.com"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/new-city-chinese-cuisine-fresno"
                 }
@@ -557,7 +553,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://seafoodcove.com/"
+                    "URL": "https://www.seafood-cove.com/"
                 },
                 {
                     "name": "Yelp",
@@ -572,6 +568,10 @@
         {
             "title": "Sea Empress Seafood Restaurant",
             "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.seaempressrestaurant.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/sea-empress-seafood-restaurant-gardena"
@@ -653,6 +653,10 @@
         {
             "title": "Irvine China Garden",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://irvinechinagarden.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/irvine-china-garden-irvine-2"
@@ -747,10 +751,6 @@
         {
             "title": "Ocean Seafood Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.oceanseafoodchinatown.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ocean-seafood-restaurant-los-angeles-2"
@@ -859,6 +859,10 @@
             "title": "Asian Pearl Seafood Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.newasianpearlmillbrae.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/asian-pearl-seafood-restaurant-millbrae"
                 }
@@ -901,10 +905,6 @@
         {
             "title": "Tai Wu Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://taiwurestaurants.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tai-wu-restaurant-millbrae-2"
@@ -1056,6 +1056,10 @@
             "title": "Fu Lam Mum",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://www.fulammummountainview.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/fu-lam-mum-mountain-view"
                 }
@@ -1099,6 +1103,10 @@
             "title": "Ming's Tasty Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://www.mingstastyres.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/mings-tasty-restaurant-oakland"
                 }
@@ -1111,6 +1119,10 @@
         {
             "title": "Restaurant Peony",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://peonyrestaurant.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/restaurant-peony-oakland"
@@ -1163,19 +1175,6 @@
             "lon": -118.134500,
             "city": "Pasadena",
             "address": "239 E Colorado Blvd, Pasadena, CA 91101"
-        },
-        {
-            "title": "Golden Bakery",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/golden-bakery-pittsburg"
-                }
-            ],
-            "lat": 38.015850,
-            "lon": -121.889950,
-            "city": "Pittsburg",
-            "address": "2229 Railroad Ave, Pittsburg, CA 94565"
         },
         {
             "title": "King Wah",
@@ -1254,6 +1253,10 @@
             "title": "Lucky 1 Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.lucky1restaurant.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lucky-1-restaurant-rosemead-2"
                 }
@@ -1297,6 +1300,10 @@
             "title": "Ming Dynasty",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.mingdynastysac.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ming-dynasty-sacramento-4"
                 }
@@ -1323,10 +1330,6 @@
             "title": "Hong Kong Islander",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://www.hongkongislander.com"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hong-kong-islander-sacramento"
                 }
@@ -1339,10 +1342,6 @@
         {
             "title": "Happy Garden",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://sachappygarden.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/happy-garden-sacramento-2"
@@ -1443,10 +1442,6 @@
             "title": "Rice Bowl Restaurant",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.ricebowlrestaurant.net"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/rice-bowl-restaurant-sacramento"
                 }
@@ -1460,10 +1455,6 @@
             "title": "Emerald Chinese Cuisine",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://sdchinesecuisine.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/emerald-chinese-cuisine-san-diego"
                 }
@@ -1476,10 +1467,6 @@
         {
             "title": "Imperial Mandarin Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.imperial-mandarin.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/imperial-mandarin-restaurant-san-diego"
@@ -1677,6 +1664,10 @@
         {
             "title": "Dim Sum Kitchen",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsum-kitchen.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dim-sum-kitchen-san-francisco"
