@@ -5,10 +5,6 @@
             "title": "Chef's Wok",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.alamedachefswok.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/chefs-wok-alameda"
                 }
@@ -2204,6 +2200,10 @@
         {
             "title": "Jade Cathay",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.jadecathay.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/jade-cathay-san-jose"
