@@ -22,7 +22,7 @@
                 "image": "jook"
             }
         ],
-        "Description": "Rice porridge, also known as congee. It is prepared by boiling rice in water for a long time, until the rice is thick and soft. A staple of Chinese breakfasts, it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\nCongee is popular around Asia, and in fact the English name “congee” originated from Tamil word for rice porridge, “kanji.”\n\n煲電話粥 (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally “cooking telephone congee,” is slang for a long telephone conversation.",
+        "Description": "Rice porridge, also known as [congee](http://en.wikipedia.org/wiki/Congee) (originating from the Tamil word for rice porridge, *kanji*), is prepared by boiling rice in water for a long time, until the rice is thick and soft. A staple of Chinese breakfasts (and popular throughout Asia), it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\n**Trivia**\n\n煲電話粥 (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally “cooking telephone congee,” is slang for a long telephone conversation.",
         "Tags": [
             "早餐",
             "粥",
@@ -32,10 +32,6 @@
             "茶餐廳"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Congee"
-            },
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/how-to-make-congee-rice-porridge/"
@@ -55,6 +51,10 @@
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/congee/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Congee"
             },
             {
                 "name": "Year of Congee",
