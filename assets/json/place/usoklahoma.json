@@ -7,10 +7,6 @@
          "links":
         [
             {
-                "name":"site",
-                "URL":"http://www.fungskitchenboulevard.com"
-            },
-            {
                 "name":"Yelp",
                 "URL": "https://www.yelp.com/biz/fungs-kitchen-oklahoma-city"
             }
@@ -38,21 +34,6 @@
         "lon": -97.534830,
         "city": "Oklahoma City",
         "address": "2701 N Classen Blvd, Oklahoma City, OK 73106"
-    },
-    
-    {
-        "title": "Guang Zhou Dim Sum",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/guang-zhou-dim-sum-tulsa"
-            }
-        ],
-        "lat": 36.148180,
-        "lon": -95.932230,
-        "city": "Tulsa",
-        "address": "4003 E 11th St, Tulsa, OK 74112"
     }
     ]
 }

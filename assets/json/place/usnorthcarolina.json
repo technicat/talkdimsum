@@ -38,15 +38,10 @@
         "city": "Durham",
         "address": "3003 Guess Rd Durham, NC 27705"
     },
-
     {
         "title": "Dim Sum House",
         "links":
         [
-            {
-                "name":"site",
-                "URL": "http://dimsumhousemorrisville.com"
-            },
             {
                 "name":"Yelp",
                 "URL": "https://www.yelp.com/biz/dim-sum-house-morrisville"
