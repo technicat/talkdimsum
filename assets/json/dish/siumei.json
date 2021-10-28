@@ -109,6 +109,7 @@
                 "Simplified": "叉烧",
                 "English": "BBQ pork",
                 "Yale": "chā sīu",
+                "Jyutping": "caa1 siu1",
                 "Pinyin": "chā shāo",
                 "Resources": [
                     {
@@ -132,7 +133,7 @@
                 "place": "Kitchen, Millbrae, California"
             }
         ],
-        "Description": "Boneless pork oven-roasted with a sweet coating.\n\nThe first character 叉 means “fork,“  and the second character 燒 means “roasted,” referring to how the meat was originally roasted on a skewer.\n\nFor mals, the slices of meat are often served on a plate arrayed with other appetizers. Chunks of cha siu are ingredients in many dim sum dishes. And hunks of cha siu are available for takeout at restaurants and meat shops.",
+        "Description": "Boneless pork oven-roasted with a sweet coating. For meals, the slices of meat are often served on a plate arrayed with other appetizers. Chunks of cha siu are ingredients in many dim sum dishes. Hunks of cha siu are available for takeout at restaurants and meat shops.\n\n**Characters**\n\nThe first character 叉 means “fork,“  and the second character 燒 means “roasted,” referring to how the meat was originally roasted on a skewer.",
         "Tags": [
             "燒味",
             "肉",
@@ -141,10 +142,6 @@
             "豬肉"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Char_siu"
-            },
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"
@@ -164,6 +161,10 @@
             {
                 "name": "Oh My Food Recipes",
                 "URL": "https://www.ohmyfoodrecipes.com/char-siu-chinese-bbq-pork/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Char_siu"
             }
         ]
     },
