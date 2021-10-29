@@ -6,6 +6,7 @@
         "Simplified": "凤爪",
         "English": "chicken feet",
         "Yale": "fuhng jáau",
+        "Jyutping": "fung6 zaau2",
         "Pinyin": "fèng zhǎo",
         "Resources": [
           {
@@ -41,7 +42,7 @@
         "place": "KJ Seafood and Dim Sum, Las Vegas"
       }
     ],
-    "Description": "Deep fried and boiled chicken feet, marinated in black bean sauce and then steamed.\n\nThe first character 鳳 means “phoenix” and the second character 爪 means “claw,” so these are called “phoenix claws. They're also known more literally as “chicken feet” 雞腳 (“gāi geuk” in Cantonese, “jī jiǎo” in Mandarin).",
+    "Description": "Deep fried and boiled c[hicken feet](http://en.wikipedia.org/wiki/Chicken_feet), marinated in black bean sauce and then steamed.\n\n**Characters**\n\nThe first character 鳳 means *phoenix* and the second character 爪 means *claw*, so these are called *phoenix claws*. They're also known more literally as *chicken feet* 雞腳 (“gāi geuk” in Cantonese, “jī jiǎo” in Mandarin).",
     "Tags": [
       "鳳爪",
       "雞腳",
@@ -51,10 +52,6 @@
       "點心"
     ],
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Chicken_feet"
-      },
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/steamed-chicken-feet/"
@@ -70,6 +67,10 @@
       {
         "name": "Unfamiliar China",
         "URL": "https://www.unfamiliarchina.com/dim-sum/chicken-feet/dim-sum-chicken-feet"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Chicken_feet"
       }
     ]
   },
