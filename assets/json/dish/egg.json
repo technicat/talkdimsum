@@ -48,8 +48,9 @@
         "place": "99 Ranch Market, Las Vegas, Nevada"
       }
     ],
-    "Description": "Duck eggs preserved by soaking in brine and then packing in charcoal, often eaten with congee.\n\n鹹 is “salty,” 鴨 is “duck,” and 蛋 is “egg.”\n\nThe yolk is used as the molten custard in “lava” (流沙) buns.",
+    "Description": "[Salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg) are preserved by soaking in brine and then packing in charcoal, often eaten with congee. The yolk is used as the molten custard in “lava” (流沙) buns.\n\n**Characters**\n\n鹹 is *salty*, 鴨 is *duck*, and 蛋 is *egg*.",
     "Tags": [
+      "廣東菜",
       "流沙",
       "鹹鴨蛋",
       "鴨",
@@ -57,12 +58,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Salted_duck_egg"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/salted-duck-egg/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Salted_duck_egg"
       },
       {
         "name": "The Woks of Life",
