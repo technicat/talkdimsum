@@ -36,9 +36,13 @@
       ],
       "Resources": [
         {
-          "name": "Wikipedia",
-          "URL": "https://en.wikipedia.org/wiki/Wonton"
-        }
+          "name": "Made with Lau",
+          "URL": "https://madewithlau.com/recipes/"
+        },
+        {
+         "name": "Wikipedia",
+         "URL": "https://en.wikipedia.org/wiki/Wonton"
+       }
       ]
     },
    {
