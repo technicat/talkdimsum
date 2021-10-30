@@ -51,7 +51,7 @@
         "Resources": [
           {
             "name": "海鮮醬",
-            "URL": "https://en.wiktionary.org/wiki/海鮮醬"
+            "URL": "c"
           },
           {
             "name": "海鮮",
@@ -78,8 +78,9 @@
         "place": "Las Vegas, Nevada"
       }
     ],
-    "Description": "Hoisin sauce is a dark, thick sauce made from soybeans and other flavors and spices.\n\n海鮮 means “seafood” (literally “ocean fresh”), and 醬 is “sauce,” so it's “seafood sauce,” though it's not made from seafood or applied specifically with seafood.",
+    "Description": "[Hoisin sauce](https://en.wikipedia.org/wiki/Hoisin_sauce) is a dark, thick sauce made from soybeans and other flavors and spices.\n\n**Characters**\n\n[海鮮](https://en.wiktionary.org/wiki/海鮮) means *seafood* (literally *ocean fresh*), and [醬](https://en.wiktionary.org/wiki/醬) is *sauce*, so [海鮮醬](海鮮醬) is *seafood sauce*. However, it's not made from seafood or applied specifically with seafood.",
     "Tags": [
+      "廣東菜",
       "海鮮醬",
       "海鮮",
       "油"
@@ -121,8 +122,9 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description": "Oyster sauce is a thick sweet sauce made from sugar, salt, and oyster extracts, thickened with corn starch.\n\n蠔 means “oyster,” and 油 is “oil” or “sauce,”",
+    "Description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce)\n\n**Characters**\n\n蠔 means *oyster*, and 油 is *oil*, so 蠔油 is *oyster oil*.",
     "Tags": [
+      "廣東菜",
       "蠔油",
       "蠔",
       "油"
