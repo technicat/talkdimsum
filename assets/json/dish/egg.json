@@ -108,13 +108,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Soy_egg"
-      },
-      {
         "name": "China Sichuan Food",
-        "URL": "https://www.chinasichuanfood.com/soy-sauce-eggs/"
-      }
+        "U,
+        {
+          "name": "Wikipedia",
+          "URL": "https://en.wikipedia.org/wiki/Soy_egg"
+        }
     ]
   },
   {
@@ -155,20 +154,12 @@
         "place": "99 Ranch Market, Las Vegas"
       }
     ],
-    "Description": "Boiled eggs cracked then boiled again or soaked in a mixture of soy sauce and spices.\n\n茶 means “tea,” 葉 is “leaf,” and 蛋 is “egg,” so it's tea leaf egg.\n\nAlso known as “marble egg” as the cracked shells create a marbled appearance.",
+    "Description": "[Tea eggs](https://en.wikipedia.org/wiki/Tea_egg) are boiled then cracked then boiled again or soaked in a mixture of soy sauce and spices. Also known as “marble egg” as the cracked shells create a marbled appearance.\n\n**Characters**\n\n[茶葉](https://en.wiktionary.org/wiki/茶葉) is *tea leaves*([茶](https://en.wiktionary.org/wiki/茶) means *tea*, [葉](https://en.wiktionary.org/wiki/葉) is *leaf*), and [蛋](https://en.wiktionary.org/wiki/蛋) is “*egg*, so [茶葉蛋](https://en.wiktionary.org/wiki/茶葉蛋) is *tea leaves egg*.",
     "Tags": [
       "茶",
       "蛋"
     ],
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Tea_egg"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/chinese-tea-eggs/"
-      },
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-tea-eggs-marbled-eggs/"
@@ -176,6 +167,14 @@
       {
         "name": "Chinese Grandma",
         "URL": "https://chinesegrandma.com/recipes/tea-eggs/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tea_egg"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-tea-eggs/"
       }
     ]
   }
