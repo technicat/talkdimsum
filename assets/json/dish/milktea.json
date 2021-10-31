@@ -156,16 +156,16 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Yuenyeung"
-            },
-            {
                 "name": "Mandarin Ducks",
                 "URL": "https://en.wikipedia.org/wiki/Mandarin_duck"
             },
             {
                 "name": "Hong Kong University",
                 "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/15"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Yuenyeung"
             },
             {
                 "name": "The Woks of Life",
