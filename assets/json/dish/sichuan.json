@@ -47,5 +47,67 @@
                 "URL": "https://en.wikipedia.org/wiki/Sichuan_cuisine"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "粵菜",
+                "Simplified": "粤菜",
+                "English": "Cantonese cuisine",
+                "Yale": "yuht  choi",
+                "Jyutping": "jyut6 coi3",
+                "Pinyin": "yuè cà",
+                "Resources": [
+                    {
+                        "name": "粵菜",
+                        "URL": "https://en.wiktionary.org/wiki/粵菜"
+                    },
+                    {
+                        "name": "粵",
+                        "URL": "https://en.wiktionary.org/wiki/粵"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "",
+                "place": "Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Cantonese cuisine, one of the great eight cuisines of China (Cantonese is another), is the food of Guangdong province.\n\n**Characters**\n\nThe Chinese for Sichuan, 四川, literally means “three rivers”, and 菜 means *vegetables* but also more generally type of *dish* or *cuisine*, so 四川菜 is *Sichuan cuisineI, but it's generally shortened to 川菜.",
+        "Tags": [
+            "粵菜"
+        ],
+        "Resources": [
+            {
+                "name": "China Highlights",
+                "URL": "https://www.chinahighlights.com/travelguide/chinese-food/yue-cuisine.htm"
+            },
+            {
+                "name": "China Tours",
+                "URL": "https://www.chinatours.com/catonese-cuisine/"
+            },
+            {
+                "name": "China Travel",
+                "URL": "https://www.chinatravel.com/chinese-food/guangdong-cuisine"
+            },
+            {
+                "name": "China Travel Guide",
+                "URL": "https://www.travelchinaguide.com/cantonese-cuisine.htm"
+            },
+            {
+                "name": "Travel China Guide",
+                "URL": "https://www.travelchinaguide.com/cantonese-food.htm"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+            }
+        ]
     }
 ]
