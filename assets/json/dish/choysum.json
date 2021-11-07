@@ -83,21 +83,22 @@
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
-        "Description": "Choy sum, boiled or steamed and served with oyster sauce.\n\n蠔油 is “oyster sauce,” and 菜心 is “choy sum.“",
+        "Description": "[Choy sum](https://en.wikipedia.org/wiki/Choy_sum) boiled or steamed and served with [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce).\n\n**Characters**\n\n蠔油 is *oyster sauce* (蠔 is *oyster* aand 油 is *oil*, so more specifically *oyster oil*) and [菜心](https://en.wiktionary.org/wiki/菜心) is *choy sum*.",
         "Tags": [
             "蠔油時蔬",
+            "蠔油",
             "菜心",
             "菜",
             "蒸"
         ],
         "Resources": [
             {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2016/01/yu-choy-recipe/"
-            },
-            {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/vegetables/choy-sum-with-oyster-sauce"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2016/01/yu-choy-recipe/"
             }
         ]
     }
