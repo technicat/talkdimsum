@@ -63,7 +63,26 @@
         },
         {
             
-            "title": "Dim Sum House",
+            "title": "Dim Sum House Rittenhouse",
+            "links":
+            [
+            {
+                "name":"site",
+                "URL":"http://dimsum.house"
+             },
+            {
+                "name":"Yelp",
+                "URL": "https://www.yelp.com/biz/dim-sum-house-philadelphia-3"
+            }
+            ],
+            "lat": 39.955956,
+            "lon": -75.201645,
+            "city": "Philadelphia",
+            "address":"1930 Chestnut St, Philadelphia, PA 19102"
+        },
+        {
+            
+            "title": "Dim Sum House University City",
             "links":
             [
             {
