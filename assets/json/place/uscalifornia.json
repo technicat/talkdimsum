@@ -126,6 +126,23 @@
             "address": "333 E Huntington Dr, Arcadia, CA 91006"
         },
         {
+            "title": "Chef Tony",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.cheftonyarcadia.com/"
+                },
+                {
+                    "name": "Eater LA",
+                    "URL": "https://la.eater.com/2021/9/22/22688701/chef-tony-arcadia-dim-sum-restaurant-opening"
+                }
+            ],
+            "lat": 34.12752299295816,
+            "lon": -118.05423980228818,
+            "city": "Arcadia",
+            "address": "1108 S Baldwin Ave b5 Arcadia, CA 91007"
+        },
+        {
             "title": "China Red",
             "links": [
                 {
@@ -304,7 +321,7 @@
                     "URL": "https://www.yelp.com/biz/tasty-dim-sum-house-chino-hills"
                 }
             ],
-            "lat": 34.00977873959505, 
+            "lat": 34.00977873959505,
             "lon": -117.74183918698809,
             "city": "Chino Hills",
             "address": "2923 Chino Ave. H4, Chino Hills, CA 91709 "
