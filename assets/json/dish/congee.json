@@ -247,6 +247,10 @@
         ],
         "Resources": [
             {
+                "name": "Asian Cooking Mom",
+                "URL": "https://www.asiancookingmom.com/fish-fillet-congee-using-instant-pot-%E7%94%B5%E5%8E%8B%E9%94%85%E7%89%88%E7%94%9F%E6%BB%9A%E9%B1%BC%E7%89%87%E7%B2%A5-sheng-gun-yu-pian-zhou/"
+            },
+            {
                 "name": "Asian Inspirations",
                 "URL": "https://asianinspirations.com.au/recipes/fish-congee/"
             },
@@ -255,8 +259,16 @@
                 "URL": "https://www.unfamiliarchina.com/congee/fish-congee"
             },
             {
+                "name": "Unfamiliar China",
+                "URL": "https://salu-salo.com/fish-congee/"
+            },
+            {
                 "name": "Wok and Kin",
                 "URL": "https://www.wokandkin.com/fish-congee/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/fish-congee/"
             }
         ]
     },
