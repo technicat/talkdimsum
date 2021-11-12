@@ -37,12 +37,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Milk_tea"
-            },
-            {
                 "name": "Milk Tea Alliance",
                 "URL": "https://en.wikipedia.org/wiki/Milk_Tea_Alliance"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Milk_tea"
             }
         ]
     },
