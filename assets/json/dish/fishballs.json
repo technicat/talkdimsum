@@ -29,7 +29,7 @@
         "place": "Hong Kong Garden and Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fish paste shaped into balls and boiled. \n\n魚 means “fish“ and 蛋 means “eggs“ literally “fish eggs.”\n\nDespite the Chinese name, there are no eggs involved. Basically, these are fish meatballs and popular in Southern China and Southeast Asia, served in restaurants and as street food. The restaurant version is made of higher quality white fish.",
+    "Description": "Fish paste shaped into balls and boiled.\n\n**Characters**\n\n魚 means “fish“ and 蛋 means “eggs“ literally “fish eggs.”\n\nDespite the Chinese name, there are no eggs involved. Basically, these are fish meatballs and popular in Southern China and Southeast Asia, served in restaurants and as street food. The restaurant version is made of higher quality white fish.",
     "Tags": [
       "魚蛋",
       "小食",
@@ -104,7 +104,7 @@
         "place": "Wendy's Noodle Cafe"
       }
     ],
-    "Description": "Fish balls (basically, fish meatballs), soaked in curry.\n\n咖哩 is the word for curry (sort of sounds like “curry,” and 魚蛋 is literally “fish eggs.” These are usually smaller and cheaper, street food, than regular fish balls.",
+    "Description": "Fish balls (basically, fish meatballs), soaked in curry.\n\n**Characters**\n\n咖哩 is the word for curry (sort of sounds like “curry,” and 魚蛋 is literally “fish eggs.” These are usually smaller and cheaper, street food, than regular fish balls.",
     "Tags": [
       "小食",
       "咖喱",
@@ -152,7 +152,7 @@
           },
           {
             "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/蛋"
+            "URL": "x"
           }
         ]
       }
@@ -161,13 +161,9 @@
       {
         "image": "friedfishballscafesalina",
         "place": "Cafe Salina, Millbrae, California"
-      },
-      {
-        "image": "friedfishballsyumcha",
-        "place": "Yum Cha"
       }
     ],
-    "Description": "Fish balls (basically, fish meatballs), fried.\n\n炸 is the word for fried, and 魚蛋 is literally “fish eggs.” These are usually smaller and cheaper, street food, than regular fish balls.",
+    "Description": "Deep-fried fish balls (fish meatballs), a street food, usually smaller and cheaper, than regular fish balls.\n\n**Characters**\n\n[炸] means *deep-fried*, and [魚蛋](https://en.wiktionary.org/wiki/魚蛋) is *fish balls* (literally *fish eggs* --  [魚](https://en.wiktionary.org/wiki/魚) is *fish* and [蛋](https://en.wiktionary.org/wiki/魚) is *egg*).",
     "Tags": [
       "小食",
       "炸",
