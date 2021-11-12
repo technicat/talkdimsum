@@ -36,7 +36,7 @@
         "place": "Ping Pang Pong"
       }
     ],
-    "Description": "Very soft, sweet, tofu served in a bowl with syrup, for dessert.\n\n豆腐 is “tofu,” and 花 is “flower.”\n\nIn Mandarin, this is often called 豆花 (dòu huā) for short.",
+    "Description": "Very soft, sweet, tofu served in a bowl with syrup, for dessert.\n\n**Character**\n\n豆腐 is “tofu,” and 花 is “flower.”\n\nIn Mandarin, this is often called 豆花 (dòu huā) for short.",
     "Tags": [
       "粵菜",
       "豆腐",
@@ -171,12 +171,16 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Mango_pudding"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-mango-pudding/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/06/mango-pudding-chinese-style.html"
+      },
+      {
+        "name": "Diana's Dessert",
+        "URL": "http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/4236/Recipe.cfm"
       },
       {
         "name": "Dim Sum Central",
@@ -195,12 +199,8 @@
         "URL": "https://akitchencat.com.au/mango-pudding/"
       },
       {
-        "name": "Christine's Recipes",
-        "URL": "https://en.christinesrecipes.com/2008/06/mango-pudding-chinese-style.html"
-      },
-      {
-        "name": "Diana's Dessert",
-        "URL": "http://www.dianasdesserts.com/index.cfm/fuseaction/recipes.recipeListing/filter/dianas/recipeID/4236/Recipe.cfm"
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Mango_pudding"
       }
     ]
   },
@@ -245,7 +245,7 @@
         "place": "Zen Peninsula, Millbrae, California"
       }
     ],
-    "Description": "Baked tapioca pudding with a carmealized top and creamy center.\n\nn西 means “Western,” and 米 means “grain,“ and as with mango pudding, 布甸 more or less sounds like “pudding.”\n\n西米 is also the term for sago, which is similar to tapioca, so this dish name also refers to sago pudding.",
+    "Description": "Baked tapioca pudding with a carmealized top and creamy center.\n\n**Characters**\n\n西 means “Western,” and 米 means “grain,“ and as with mango pudding, 布甸 more or less sounds like “pudding.”\n\n西米 is also the term for sago, which is similar to tapioca, so this dish name also refers to sago pudding.",
     "Tags": [
       "布甸",
       "焗",
@@ -254,16 +254,16 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Tapioca_pudding"
-      },
-      {
         "name": "Dim Sum Guide",
         "URL": "https://dimsumguide.com/site/view/Baked-Tapioca-Pudding"
       },
       {
         "name": "Wan Tan Mien",
         "URL": "http://wantanmien.com/baked-tapioca-custard-dim-sum-焗西米布甸/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tapioca_pudding"
       }
     ]
   },
@@ -312,7 +312,7 @@
         "place": "Kirin Chinese Restaurant, Mountain View, California"
       }
     ],
-    "Description": "This looks like and has the consistency of tofu, but it's actually made from sweetened almond milk.\n\n杏仁 means “almond,” and 豆腐 is “tofu.”",
+    "Description": "This looks like and has the consistency of tofu, but it's actually made from sweetened almond milk.\n\n**Characters**\n\n杏仁 means “almond,” and 豆腐 is “tofu.”",
     "Tags": [
       "豆腐",
       "杏仁",
@@ -321,10 +321,6 @@
       "點心"
     ],
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Annin_tofu"
-      },
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/page/4/"
@@ -336,6 +332,10 @@
       {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2015/01/chinese-almond-dessert.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Annin_tofu"
       }
     ]
   }
