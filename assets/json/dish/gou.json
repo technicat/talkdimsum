@@ -58,17 +58,13 @@
                 "place": "Hong Kong Garden, Las Vegas"
             }
         ],
-        "Description": "A steamed cake made with sticky rice and brown sugar, often served fried or dipped in egg and fried.\n]n年 means “year,” and 糕 is “cake,\n\nPopular during New Year (Chinese New Year, of course).",
+        "Description": "New Year cake is a steamed cake made with sticky rice and brown sugar, often served fried or dipped in egg and fried. Popular during New Year (Chinese New Year, of course).\n\n**Characters**\n\n年 means *year*, and 糕 is *cake*.",
         "Tags": [
             "黑糖",
             "糕",
             "甜品"
         ],
         "Resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Nian_gao"
-            },
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/chinese-new-year-cake-sweet-sticky-rice--2418031957-niaacuteng257o.html"
@@ -88,6 +84,10 @@
             {
                 "name": "Oh My Food Recipes",
                 "URL": "https://www.ohmyfoodrecipes.com/nian-gao/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Nian_gao"
             }
         ]
     },
@@ -128,7 +128,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "This spongy cake is made from rice flour and sugar, fermented then steamed\n\n.白 means “white.” 糖 is “sugar,” and 糕 is “cake,” so “white sugar cake.”\n\nIn English, this is also often known as “fermented rice cake” or “white honeycomb cake” because of the air gaps within the cake.",
+        "Description": "This spongy cake is made from rice flour and sugar, fermented then steamed. In English, this is also often known as “fermented rice cake” or “white honeycomb cake” because of the air gaps within the cake.\n\n**Characters**\n\n[白](https://en.wiktionary.org/wiki/白) means *white*, [糖](https://en.wiktionary.org/wiki/糖) is *sugar*, and [糕](https://en.wiktionary.org/wiki/糖) is *cake*, so [白糖糕](https://en.wiktionary.org/wiki/白糖糕) is *white sugar cake*.",
         "Tags": [
             "白糖",
             "糕",
@@ -139,16 +139,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/White_sugar_sponge_cake"
+                "name": "The Burning Kitchen",
+                "URL": "https://www.theburningkitchen.com/bai-tang-gao-pak-tong-go-recipe/"
             },
             {
                 "name": "China Sichuan Food",
                 "URL": "http://www.chinasichuanfood.com/steamed-rice-cake/"
-            },
-            {
-                "name": "The Burning Kitchen",
-                "URL": "https://www.theburningkitchen.com/bai-tang-gao-pak-tong-go-recipe/"
             },
             {
                 "name": "Huang Kitchen",
@@ -157,6 +153,10 @@
             {
                 "name": "MyKitchen101en",
                 "URL": "https://mykitchen101en.com/classic-chinese-steamed-rice-cake-done-the-right-way/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/White_sugar_sponge_cake"
             }
         ]
     }
