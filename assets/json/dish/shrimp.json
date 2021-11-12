@@ -34,13 +34,9 @@
             {
                 "image": "honeywalnutshrimpkj",
                 "place": "KJ Seafood and Dim Sum, Las Vegas, Nevada"
-            },
-            {
-                "image": "honeywalnutshrimpzenpeninsula",
-                "place": "Zen Peninsula, Millbrae, California"
             }
         ],
-        "Description": "Lightly-battered fried shrimp tossed with candy-glazed walnuts and a creamy sauce.\n\n西 means “Western,” 汁 means “sauce,” and 蝦 means “shrimp,” so “Western sauce shrimp.”\n\nThe honey in the English name refers to the walnut glaze, but sometimes it's just a sugary syrup.",
+        "Description": "Lightly-battered fried shrimp tossed with candy-glazed walnuts and a creamy sauce.\n\n**Characters**\n\n西 means “Western,” 汁 means “sauce,” and 蝦 means “shrimp,” so “Western sauce shrimp.”\n\nThe honey in the English name refers to the walnut glaze, but sometimes it's just a sugary syrup.",
         "Tags": [
             "炸",
             "蝦",
@@ -140,7 +136,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "fried shrimp with a taro coating, similar to taro dumplings.\n\nThe first character 芋 is short for 芋頭 (wuh táu), the word for “taro”, and 蝦 is “shrimp.”",
+        "Description": "Fried shrimp with a taro coating, similar to taro dumplings.\n\n**Characters**\n\nThe first character 芋 is short for 芋頭 (wuh táu), the word for “taro”, and 蝦 is “shrimp.”",
         "Tags": [
             "芋",
             "炸",
@@ -179,7 +175,7 @@
                 "place": "California Noodle House, Las Vegas, Nevada"
             }
         ],
-        "Description": "Deep-fried shrimp-flavored chips, similar to potato chips (there's also a version shaped more like french fries).\n\n蝦 is “shrimp,” and 片 is “slice.”\n\nLike potato chips, shrimp chips are a snack food you can buy in little (and big) bags at the grocery store, and sometimes used to garnish restaurant dishes.",
+        "Description": "Deep-fried shrimp-flavored chips, similar to potato chips (there's also a version shaped more like french fries). Also known as [prawn crackers](https://en.wikipedia.org/wiki/Prawn_cracker).\n\nLike potato chips, shrimp chips are a snack food you can buy in little (and big) bags at the grocery store, and sometimes used to garnish restaurant dishes.\n\n**Characters**\n\n[蝦](https://en.wiktionary.org/wiki/蝦) is *shrimp*, and [片](https://en.wiktionary.org/wiki/片) is *slice* (same word used in fish fillet), so 蝦片 is *shrimp slices*.",
         "Tags": [
             "炸",
             "蝦",
@@ -188,16 +184,16 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Prawn_cracker"
-            },
-            {
                 "name": "Kirbie's Cravings",
                 "URL": "https://kirbiecravings.com/shrimp-chips-2/"
             },
             {
                 "name": "Oh My Food Recipes",
                 "URL": "https://www.ohmyfoodrecipes.com/shrimp-chips/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Prawn_cracker"
             }
         ]
     }
