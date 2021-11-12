@@ -32,7 +32,7 @@
                 "place": "88 Noodle Papa, Las Vegas"
             }
         ],
-        "Description": "A tea made from sugar, honey and the Japanese fruit yuzu. This is a traditional Korean tea known as “yuja tea,” and while the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 (yáu jí), the latter also refers to pomelo (a fruit which resembles a large grapefruit).\n\n**Characters**\n\n柚子 is “yuzu,” and 茶 is “tea“, so it's literally “yuzu tea.”",
+        "Description": "A tea made from sugar, honey and the Japanese fruit [yuzu](https://en.wikipedia.org/wiki/Yuzu). This is a traditional Korean tea known as [yuja tea](https://en.wikipedia.org/wiki/Yuja_tea)(the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 yáu jí).\n\n**Characters**\n\n[柚子](https://en.wiktionary.org/wiki/柚子) is *yuzu* (and also refers to pomelo, a fruit which resembles a large grapefruit). [茶](https://en.wiktionary.org/wiki/茶) is *tea*, so 柚子茶 *yuzu tea*.",
         "Tags": [
             "茶餐廳",
             "飲品",
@@ -46,10 +46,6 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Yuja_tea"
-            },
-            {
-                "name": "Yuzu",
-                "URL": "https://en.wikipedia.org/wiki/Yuzu"
             }
         ]
     },
