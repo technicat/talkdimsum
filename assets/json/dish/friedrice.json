@@ -89,7 +89,7 @@
         "place": "Island Malaysian Cuisine, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fried rice with scrambled egg, shrimp and barbequed pork or Chinese sausage.\n\n**Characters**\n\n揚州 is Yangzhou, a city in China. 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “Yangzhou fried rice.”\n\nThis dish is often listed as “Yang Chow fried rice” or just the restaurant's “house fried rice” (or in the UK, “special fried rice”).",
+    "Description": "Fried rice with scrambled egg, shrimp and barbequed pork or Chinese sausage.\n\n**Characters**\n\n[揚州](https://en.wiktionary.org/wiki/揚州) is Yangzhou, a city in China. [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so it's *Yangzhou stir-fried rice*.\n\nThis dish is often listed as “Yang Chow fried rice” or just the restaurant's “house fried rice” (or in the UK, “special fried rice”).",
     "Resources": [
       {
         "name": "China Sichuan Food",
@@ -166,16 +166,8 @@
         "place": "Shin's Chinese Gourmet, Temecula"
       }
     ],
-    "Description": "Fried rice with Chinese sausage.\n\n**Characters**\n\n臘腸 is Chinese sausage, 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “Chinese sausage fried rice.”",
+    "Description": "Fried rice with Chinese sausage.\n\n**Characters**\n\n[臘腸](https://en.wiktionary.org/wiki/臘腸) is *Chinese sausage*, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so it's *Chinese sausage stir-fried rice*.",
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Chinese_sausage"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/2018/11/chinese-sausage-fried-rice/"
-      },
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/sausage-fried-rice/"
@@ -183,6 +175,14 @@
       {
         "name": "Red House Spice",
         "URL": "https://redhousespice.com/chinese-sausage-fried-rice/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chinese_sausage"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2018/11/chinese-sausage-fried-rice/"
       }
     ],
     "Tags": [
@@ -228,7 +228,7 @@
         "place": "Strat Cafe and Wok, Las Vegas"
       }
     ],
-    "Description": "Fried rice with chicken.\n\n**Characters**\n\n雞 is “chicken,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “chicken fried rice.”",
+    "Description": "Fried rice with chicken.\n\n**Characters**\n\n[雞](https://en.wiktionary.org/wiki/雞) is *chicken*, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and 飯 is “rice” (specifically, cooked rice), so it's “chicken fried rice.”",
     "Resources": [
       {
         "name": "China Sichuan Food",
