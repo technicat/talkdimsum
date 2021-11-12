@@ -29,7 +29,7 @@
         "place": "Every Grain, Las Vegas, Nevada"
       }
     ],
-    "Description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.\n\n擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and 麵 is “noodles.”",
+    "Description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.\n\n**Characters**\n\n擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and 麵 is “noodles.”",
     "Tags": [
       "四川",
       "川菜",
@@ -37,16 +37,16 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
-      },
-      {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/dan-dan-noodles/"
       },
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
       }
     ]
   },
@@ -84,7 +84,7 @@
         "place": "Every Grain, Las Vegas, Nevada"
       }
     ],
-    "Description": "A Shanghai dish, noodles in a creamy sesame sauce.\n\n麻醬 is “sesame paste,” and 麵 is “noodles,” so ”sesame paste noodles.”",
+    "Description": "A Shanghai dish, noodles in a creamy sesame sauce.\n\n**Characters**\n\n麻醬 is *sesame paste*, and 麵 is *noodles*, so 麻醬麵 is *sesame paste noodles*.",
     "Tags": [
       "上海",
       "麻醬",
@@ -127,7 +127,7 @@
         "place": "Zen Peninsula, Millbrae, California"
       }
     ],
-    "Description": "Thick, chewy, yellow noodles.\n\n伊 is the surname of 伊秉绶, whose household chef, as legend has it, invented this by accidentally deep-frying cooked noodles.\n\nAlso known as “long life” or ”longevity noodles” and served on birthdays.",
+    "Description": "[Yi mein](https://en.wikipedia.org/wiki/Yi_mein) are thick, chewy, yellow noodles, also known as “long life” or ”longevity noodles” and served on birthdays.\n\n**Characters**\n\n伊 is the surname of 伊秉绶, whose household chef, as legend has it, invented this dish by accidentally deep-frying cooked noodles.",
     "Tags": [
       "粵菜",
       "茶餐廳",
@@ -139,12 +139,12 @@
         "URL": "https://food-touring.com/2014/05/26/guangdong-hong-kong-dried-fried-yee-mein/"
       },
       {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/2017/01/long-life-noodles-yi-mein/"
-      },
-      {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Yi_mein"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2017/01/long-life-noodles-yi-mein/"
       }
     ]
   },
@@ -201,7 +201,7 @@
         "place": "California Noodle House, Las Vegas, Nevada"
       }
     ],
-    "Description": "Thin rice nooodles flavored with curry powder, stir-fried with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n星洲 (sometimes written as 星州) is a short name for “Singapore,” 炒 is “fried,” and 米粉 is “rice noodles.” Often shortened to 星洲炒米 or even 星米.\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.",
+    "Description": "Thin rice nooodles flavored with curry powder, stir-fried with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n**Origin**\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.\n\n**Characters**\n\n星洲 (sometimes written as 星州) is a short name for “Singapore,” 炒 is “fried,” and 米粉 is “rice noodles.” Often shortened to 星洲炒米 or even 星米.",
     "Tags": [
       "茶餐廳",
       "星洲",
@@ -215,10 +215,6 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Singapore-style_noodles"
-      },
-      {
         "name": "Dimsumptuous",
         "URL": "http://www.dimsumptuous.com/2013/04/singapore-fried-rice-vermicelli-fried.html"
       },
@@ -229,6 +225,10 @@
       {
         "name": "Made With Lau",
         "URL": "https://madewithlau.com/recipes/singapore-noodles"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Singapore-style_noodles"
       },
       {
         "name": "The Woks of Life",
@@ -270,7 +270,7 @@
         "place": "Lucky House Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description": "Egg noodles pan-fried into a crispy pillow (sometimes called “crispy noodle pillow”) and typically served with gravy and seafood.T\n\n兩面 means “two face,” and 黃 means “yellow”. So it's “two-faced yellow” noodles referring to how it's yellow on top and bottom.",
+    "Description": "Egg noodles pan-fried into a crispy pillow (sometimes called “crispy noodle pillow”) and typically served with gravy and seafood.\n\n**Characters**\n\n[兩面](https://en.wiktionary.org/wiki/兩面) means *two face* and [黃](https://en.wiktionary.org/wiki/黃) means *yellow*. So it's *two-faced yellow noodles* characterizing how it's yellow on top and bottom.",
     "Tags": [
       "茶餐廳",
       "港式",
