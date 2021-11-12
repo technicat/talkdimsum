@@ -45,13 +45,9 @@
             {
                 "image": "frieddoughyumcha",
                 "place": "Yum Cha, Las Vegas, Nevada"
-            },
-            {
-                "image": "frieddoughwendys",
-                "place": "Wendy's Noodle Cafe"
             }
         ],
-        "Description": "A stick of deep-fried dough, basically a long doughnut. Often served with porridge.\n\nThe Cantonese name 油炸鬼 (“oil fried ghost”) has folklore roots (check the Wikipedia link if you're curious). The Mandarin name 油條 just means 油 “oil strip“ (like a bacon strip, but just dough).",
+        "Description": "A stick of deep-fried dough, basically a long doughnut. Often served with porridge.\n\n**Characters**\n\nThe Cantonese name 油炸鬼 (“oil fried ghost”) has folklore roots (check the [Wikipedia link](https://en.wikipedia.org/wiki/Youtiao) if you're curious). The Mandarin name 油條 just means 油 “oil strip“ (like a bacon strip, but just dough).",
         "Tags": [
             "早餐",
             "油条",
@@ -61,24 +57,24 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Youtiao"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "http://thewoksoflife.com/2015/08/youtiao-recipe/"
+                "name": "Angel Wong's Kitchen",
+                "URL": "https://www.angelwongskitchen.com/chinese-doughnut-recipe-crisp-fried-breadstick--2783326781-yoacuteutiaacuteo.html"
             },
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/youtiao-chinese-oil-stick-chinese-cruller/"
             },
             {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/chinese-doughnut-recipe-crisp-fried-breadstick--2783326781-yoacuteutiaacuteo.html"
-            },
-            {
                 "name": "Panda Cheffy",
                 "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-youtiao-churro-cruller-74313b5c3a4c"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Youtiao"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "http://thewoksoflife.com/2015/08/youtiao-recipe/"
             }
         ]
     },
@@ -111,7 +107,7 @@
                 "image": "ricerollfrieddough"
             }
         ],
-        "Description": "Rice roll wrapped around fried dough. Often served with porridge.\n\n炸 means “fried“ and 兩 means “two“ (as in a “couple of“) so it basically means “fried twice“.",
+        "Description": "Rice roll wrapped around fried dough. Often served with porridge.\n\n**Characters**\n\n炸 means *deep-fried* and 兩 means *two* (as in a *couple of*) so it basically means *deep-fried twice*.",
         "Tags": [
             "油条",
             "腸粉",
@@ -121,12 +117,12 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Zhaliang"
-            },
-            {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/chinese-donut-noodle-rolls/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Zhaliang"
             }
         ]
     }
