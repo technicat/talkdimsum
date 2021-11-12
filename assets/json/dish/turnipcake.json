@@ -35,10 +35,6 @@
       {
         "image": "turnipcakedimsumco",
         "place": "The Dim Sum Company, Westminster, California"
-      },
-      {
-        "image": "turnipcakehkgarden",
-        "place": "Hong Kong Garden Seafood and Dim Sum Cafe"
       }
     ],
     "Description": "Known as turnip cake, it's really made of Chinese radish or daikon, cut into squares and steamed or pan-fried.\n\n**Characters**\n\n蘿蔔 means “radish,” while 糕 is “cake.”",
@@ -136,7 +132,7 @@
         "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
       }
     ],
-    "Description": "Pan-fried turnip cake.\n\n煎 means “pan-fried,” 蘿蔔 means “radish“, and 糕 is “cake.”",
+    "Description": "Pan-fried turnip cake.\n\n**Characters**\n\n煎 means “pan-fried,” 蘿蔔 means “radish“, and 糕 is “cake.”",
     "Tags": [
       "蘿蔔糕",
       "煎",
@@ -205,7 +201,7 @@
         "place": "Ping Pang Pong"
       }
     ],
-    "Description": "Steamed turnip cake.\n\n蒸 means “steamed,” 蘿蔔 means “radish“, and 糕 is “cake.”",
+    "Description": "Steamed turnip cake.\n\n**Characters**\n\n蒸 means “steamed,” 蘿蔔 means “radish“, and 糕 is “cake.”",
     "Tags": [
       "蘿蔔糕",
       "蒸",
@@ -347,12 +343,12 @@
     ],
     "Resources": [
       {
-        "name": "The Missing Lok Ness",
-        "URL": "https://themissinglokness.com/2018/02/28/pan-fried-turnip-cake-xo-sauce/"
-      },
-      {
         "name": "Mike's Food Archives",
         "URL": "http://dingoozatfood.blogspot.com/2016/03/pan-fried-xo-sauce-radish-cake-xo.html"
+      },
+      {
+        "name": "The Missing Lok Ness",
+        "URL": "https://themissinglokness.com/2018/02/28/pan-fried-turnip-cake-xo-sauce/"
       }
     ]
   }
