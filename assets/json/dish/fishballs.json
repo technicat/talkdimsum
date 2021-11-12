@@ -29,7 +29,7 @@
         "place": "Hong Kong Garden and Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fish paste shaped into balls and boiled.\n\n**Characters**\n\n魚 means “fish“ and 蛋 means “eggs“ literally “fish eggs.”\n\nDespite the Chinese name, there are no eggs involved. Basically, these are fish meatballs and popular in Southern China and Southeast Asia, served in restaurants and as street food. The restaurant version is made of higher quality white fish.",
+    "Description": "Fish paste shaped into balls and boiled. Basically, these are fish meatballs, popular in Southern China and Southeast Asia, served in restaurants and as street food. The restaurant version is made of higher quality white fish.\n\n**Characters**\n\n魚 means “fish“ and 蛋 means “eggs“ literally “fish eggs.”\n\nDespite the Chinese name, there are no eggs involved. ",
     "Tags": [
       "魚蛋",
       "小食",
@@ -40,16 +40,16 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "http://en.wikipedia.org/wiki/Fish_ball"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/how-to-make-fish-balls/"
       },
       {
         "name": "Made With Lau",
         "URL": "https://madewithlau.com/recipes/homemade-fish-balls"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Fish_ball"
       }
     ]
   },
@@ -116,16 +116,16 @@
     ],
     "Resources": [
       {
-        "name": "The Woks of Life",
-        "URL": "http://thewoksoflife.com/2017/02/hong-kong-curry-fish-balls/"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/curry-fish-balls/"
       },
       {
-        "name": "Christin's Recipes",
+        "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2016/03/curry-fish-balls-with-radish.html"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "http://thewoksoflife.com/2017/02/hong-kong-curry-fish-balls/"
       }
     ]
   },
