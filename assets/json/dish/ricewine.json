@@ -28,7 +28,7 @@
         "place": "Las Vegas, Nevada"
       }
     ],
-    "Description": "Wine made from fermented rice.\n\n米 means “rice,” (uncooked) and 酒 is “liquor.”",
+    "Description": "Wine made from fermented rice.\n\n**Characters**\n\n米 means “rice,” (uncooked) and 酒 is “liquor.”",
     "Tags": [
       "米酒",
       "酒",
@@ -36,16 +36,16 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Mijiu"
-      },
-      {
         "name": "China Travel Guide",
         "URL": "https://www.travelchinaguide.com/chinese-rice-wine.htm"
       },
       {
         "name": "Mala Food",
         "URL": "https://malafood.com/en/the-ultimate-guide-to-chinese-cooking-wines"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mijiu"
       }
     ]
   },
@@ -92,7 +92,7 @@
         "place": "Las Vegas, Nevada"
       }
     ],
-    "Description": "Shaoxing wine is one of the best known traditional Chinese rice wines, dating back over two thousand years, and is widely used as a cooking wine.\n\n紹酒 is short for 紹興酒 where 紹興 is Shaoxing, the city in the Zhejiang province where this wine originated, and 酒 is “liquor.”",
+    "Description": "Shaoxing wine is one of the best known traditional Chinese rice wines, dating back over two thousand years, and is widely used as a cooking wine.\n\n**Characters**\n\n紹酒 is short for 紹興酒 where 紹興 is Shaoxing, the city in the Zhejiang province where this wine originated, and 酒 is “liquor.”",
     "Tags": [
       "米酒",
       "酒",
@@ -101,12 +101,12 @@
     ],
     "Resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Shaoxing_wine"
-      },
-      {
         "name": "Shaoxing",
         "URL": "https://en.wikipedia.org/wiki/Shaoxing"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mijiu"
       },
       {
         "name": "The Woks of Life",
