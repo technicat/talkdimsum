@@ -27,17 +27,9 @@
       {
         "image": "yangchowfriedricetimhowan",
         "place": "Tim Ho Wan, Las Vegas, Nevada"
-      },
-      {
-        "image": "saltyfishchickenfriedriceislandmalaysian",
-        "place": "Island Malaysian Cuisine, Las Vegas, Nevada"
-      },
-      {
-        "image": "shrimpfriedriceocha",
-        "place": "Ocha Thai Cuisine, Las Vegas"
       }
     ],
-    "Description": "Cooked rice that has been cooled and stir-fied rice with meats and vegetables (often leftovers).**Cooking Tips**\n\nUse day-old refrigerated rice (rice spoils quickly, so don't leave it out at room temperature too long), which has dried out somewhat and won't be a sticky clump like freshly-cooked rice.\n\n**Characters**\n\n炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's literally “fried rice.”\n\nDon't feel obligated to try eating fried rice with chopsticks. In Asia, fried rice is often eaten with a spoon. It's a lot easier!",
+    "Description": "[Chinese fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) is cooked rice that has been cooled and then stir-fied rice with meats and vegetables (often leftovers).\n\n**Eating Tips**\n\nDon't feel obligated to try eating fried rice with chopsticks. In Asia, fried rice is often eaten with a spoon. It's a lot easier!\n\n**Cooking Tips**\n\nUse day-old refrigerated rice (rice spoils quickly, so don't leave it out at room temperature too long), which has dried out somewhat and won't be a sticky clump like freshly-cooked rice.\n\n**Characters**\n\n[炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so [炒飯](https://en.wiktionary.org/wiki/炒飯) is *stir-fried rice*.",
     "Resources": [
       {
         "name": "Wikipedia",
@@ -97,8 +89,16 @@
         "place": "Island Malaysian Cuisine, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fried rice with scrambled egg, shrimp and barbequed pork or Chinese sausage.\n\n揚州 is Yangzhou, a city in China. 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “Yangzhou fried rice.”\n\nThis dish is often listed as “Yang Chow fried rice” or just the restaurant's “house fried rice” (or in the UK, “special fried rice”).",
+    "Description": "Fried rice with scrambled egg, shrimp and barbequed pork or Chinese sausage.\n\n**Characters**\n\n揚州 is Yangzhou, a city in China. 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “Yangzhou fried rice.”\n\nThis dish is often listed as “Yang Chow fried rice” or just the restaurant's “house fried rice” (or in the UK, “special fried rice”).",
     "Resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-fried-rice-yangzhou-fried-rice/"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/yangzhou-fried-rice-扬州炒饭-1a7a8db7d6e0"
+      },
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Yangzhou_fried_rice"
@@ -108,16 +108,8 @@
         "URL": "https://thewoksoflife.com/young-chow-fried-rice/"
       },
       {
-        "name": "China Sichuan Food",
-        "URL": "https://www.chinasichuanfood.com/chinese-fried-rice-yangzhou-fried-rice/"
-      },
-      {
         "name": "Yan Can Cook",
         "URL": "https://yancancook.com/home/recipe/yang-chow-fried-rice/"
-      },
-      {
-        "name": "Panda Cheffy",
-        "URL": "https://medium.com/@pandacheffy/yangzhou-fried-rice-扬州炒饭-1a7a8db7d6e0"
       }
     ],
     "Tags": [
@@ -174,7 +166,7 @@
         "place": "Shin's Chinese Gourmet, Temecula"
       }
     ],
-    "Description": "Fried rice with Chinese sausage.\n\n臘腸 is Chinese sausage, 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “Chinese sausage fried rice.”",
+    "Description": "Fried rice with Chinese sausage.\n\n**Characters**\n\n臘腸 is Chinese sausage, 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “Chinese sausage fried rice.”",
     "Resources": [
       {
         "name": "Wikipedia",
@@ -236,7 +228,7 @@
         "place": "Strat Cafe and Wok, Las Vegas"
       }
     ],
-    "Description": "Fried rice with chicken.\n\n雞 is “chicken,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “chicken fried rice.”",
+    "Description": "Fried rice with chicken.\n\n**Characters**\n\n雞 is “chicken,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “chicken fried rice.”",
     "Resources": [
       {
         "name": "China Sichuan Food",
@@ -293,7 +285,7 @@
         "place": "Ocha Thai Cuisine, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fried rice with shrimp.\n\n蝦 is “shrimp,” 蝦仁 means “shrimp meat,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “shrimp fried rice.”",
+    "Description": "Fried rice with shrimp.\n\n**Characters**\n\n蝦 is “shrimp,” 蝦仁 means “shrimp meat,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “shrimp fried rice.”",
     "Resources": [
       {
         "name": "The Woks of Life",
@@ -349,13 +341,9 @@
       {
         "image": "chasiufriedricezenpeninsula",
         "place": "Zen Peninsula, Millbrae, California"
-      },
-      {
-        "image": "bbqporkfriedricelillies",
-        "place": "Lillie's Asian Cuisine, Las Vegas"
       }
     ],
-    "Description": "Fried rice with chunks of BBQ pork, and typically with scrambled eggs and peas.\n\n叉燒 is “BBQ pork,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “BBQ pork fried rice.”\n\nOften listed as “pork fried rice.”",
+    "Description": "Fried rice with chunks of BBQ pork, and typically with scrambled eggs and peas.\n\n**Characters**\n\n叉燒 is “BBQ pork,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “BBQ pork fried rice.”\n\nOften listed as “pork fried rice.”",
     "Tags": [
       "炒飯",
       "炒",
@@ -365,12 +353,12 @@
     ],
     "Resources": [
       {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/classic-pork-fried-rice/"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/pork-fried-rice/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/classic-pork-fried-rice/"
       }
     ]
   },
@@ -424,12 +412,8 @@
         "place": "Island Malaysian Cuisine, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fried rice with chicken and salted fish.\n\n鹹 is “salty,” 魚 is “fish,” 雞 is “chicken,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “salty fish chicken fried rice.”",
+    "Description": "Fried rice with chicken and salted fish.\n\n**Characters**\n\n鹹 is “salty,” 魚 is “fish,” 雞 is “chicken,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “salty fish chicken fried rice.”",
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Cantonese_salted_fish"
-      },
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/2014/07/cantonese-chicken-salted-fish-fried-rice/"
@@ -437,6 +421,10 @@
       {
         "name": "Ang Sarap",
         "URL": "https://www.angsarap.net/2011/12/08/chicken-and-salted-fish-fried-rice/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cantonese_salted_fish"
       }
     ],
     "Tags": [
@@ -499,7 +487,7 @@
         "place": "Island 2, Las Vegas"
       }
     ],
-    "Description": "Fried rice with small chunks of spam.\n\n午餐 is “lunch,” and 肉 is “meat,” so 午餐肉 is literally “lunch meat.” So basically, it's “luncheon meat fried rice.”",
+    "Description": "Fried rice with small chunks of spam.\n\n**Characters**\n\n午餐 is “lunch,” and 肉 is “meat,” so 午餐肉 is literally “lunch meat.” So basically, it's “luncheon meat fried rice.”",
     "Tags": [
       "炒飯",
       "炒",
@@ -602,7 +590,7 @@
         "place": "Shanghai Taste, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fried rice mixed with scrambled egg.\n\n蛋 is “egg,” and 炒飯 is “fried rice.”",
+    "Description": "Fried rice mixed with scrambled egg.\n\n**Characters**\n\n蛋 is “egg,” and 炒飯 is “fried rice.”",
     "Resources": [
       {
         "name": "The Woks of Life",
@@ -659,7 +647,7 @@
         "place": "JJ Noodle Cafe, Las Vegas, Nevada"
       }
     ],
-    "Description": "Fried rice with dried scallops and egg whites.\n\n瑤柱 is “dried scallops,” 蛋白 is “egg white,” and 炒飯 is “fried rice.”\n\nThis dish is named or nicknamed billionaire fried rice after a Hong Kong billionaire who wanted a healthy fried rice recipe.",
+    "Description": "Fried rice with dried scallops and egg whites.\n\n**Characters**\n\n瑤柱 is “dried scallops,” 蛋白 is “egg white,” and 炒飯 is “fried rice.”\n\nThis dish is named or nicknamed billionaire fried rice after a Hong Kong billionaire who wanted a healthy fried rice recipe.",
     "Resources": [
       {
         "name": "Get Cracking",
@@ -721,12 +709,8 @@
         "place": "C&K Chinese Kitchen, Las Vegas, Nevada"
       }
     ],
-    "Description": "A thick gravy typicallly containing seafood, poultry, mushroom, and vegetables, poured over fried rice with scrambled egg.\n\n福建 is Fujian, a province on the southeast coast of China.\n\nAlso commonly known as “Hokkien fried rice.”",
+    "Description": "A thick gravy typicallly containing seafood, poultry, mushroom, and vegetables, poured over fried rice with scrambled egg.\n\n**Characters**\n\n福建 is Fujian, a province on the southeast coast of China.\n\nAlso commonly known as “Hokkien fried rice.”",
     "Resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Hokkien_fried_rice"
-      },
       {
         "name": "The Food Dictator",
         "URL": "https://www.thefooddictator.com/hirshon-fujianese-fried-rice-%E7%A6%8F%E5%BB%BA%E7%82%92%E9%A3%AF/"
@@ -734,6 +718,10 @@
       {
         "name": "Food Touring",
         "URL": "https://food-touring.com/2015/04/18/hong-kong-fujian-fried-rice-aka-hokkien-fried-rice/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hokkien_fried_rice"
       }
     ],
     "Tags": [
