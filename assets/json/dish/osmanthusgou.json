@@ -32,7 +32,7 @@
                 "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "Description": "A jelly made with dried osmanthus flowers.\n\n桂花 means “osmanthus flower,” and 糕 is “cake.”",
+        "Description": "A jelly made with dried osmanthus flowers.\n\n**Characters**\n\n桂花 means “osmanthus flower,” and 糕 is “cake.”",
         "Tags": [
             "桂花",
             "花",
@@ -44,16 +44,16 @@
         ],
         "Resources": [
             {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2009/12/osmanthus-jelly.html"
+            },
+            {
                 "name": "The Hong Kong Cookery",
                 "URL": "http://www.thehongkongcookery.com/2017/09/osmanthus-flower-jelly.html"
             },
             {
                 "name": "Noob Cookbook",
                 "URL": "https://noobcook.com/osmanthus-jelly/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2009/12/osmanthus-jelly.html"
             },
             {
                 "name": "Panda Cheffy",
@@ -115,7 +115,7 @@
                 "place": "Tim Ho Wan, Las Vegas, Nevada"
             }
         ],
-        "Description": "A jelly made with dried osmanthus flowers with goji berries.\n\n杞子 is “goji berry,” 桂花 means “osmanthus flower,” and 糕 is “cake.”\n\nGoji berries are also known as “wolfberries.”",
+        "Description": "A jelly made with dried osmanthus flowers with goji berries. Goji berries are also known as “wolfberries.”\n\n**Characters**\n\n杞子 is “goji berry,” 桂花 means “osmanthus flower,” and 糕 is “cake.”",
         "Tags": [
             "杞子",
             "桂花",
@@ -128,16 +128,16 @@
         ],
         "Resources": [
             {
+                "name": "Bear Naked Food",
+                "URL": "http://www.bearnakedfood.com/2015/05/07/osmanthus-flower-jelly-with-wolfberries-2/"
+            },
+            {
                 "name": "Goji Berries",
                 "URL": "https://en.wikipedia.org/wiki/Goji"
             },
             {
                 "name": "Gui Shu Shu",
                 "URL": "http://www.guaishushu1.com/osmanthus-gojiberries-jelly-桂花枸杞糕）/"
-            },
-            {
-                "name": "Bear Naked Food",
-                "URL": "http://www.bearnakedfood.com/2015/05/07/osmanthus-flower-jelly-with-wolfberries-2/"
             }
         ]
     }
