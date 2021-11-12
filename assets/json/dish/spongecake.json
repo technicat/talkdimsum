@@ -36,13 +36,9 @@
             {
                 "image": "malaycakeyumcha",
                 "place": "Yum Cha, Las Vegas, Nevada"
-            },
-            {
-                "image": "malaycakechangs",
-                "place": "Chang's Hong Kong Cuisine"
             }
         ],
-        "Description": "A steamed sponge cake made with brown sugar.\n\n馬拉 sounds like “Malay,” and 糕 means “cake.”\n\nIt's a Hong Kong dessert, not actually Malaysian, but possibly of Singaporean derivation (and therefore possibly inspired by British sponge cakes).",
+        "Description": "A steamed sponge cake made with brown sugar.\n\n**Characters**\n\n馬拉 sounds like “Malay,” and 糕 means “cake.”\n\nIt's a Hong Kong dessert, not actually Malaysian, but possibly of Singaporean derivation (and therefore possibly inspired by British sponge cakes).",
         "Tags": [
             "黑糖",
             "糕",
@@ -128,7 +124,7 @@
                 "place": "BF Bakery, Las Vegas, Nevada"
             }
         ],
-        "Description": "Muffin-sized cake baked in a paper wrappings, common in Hong Kong and Chinatown bakeries.\n\n纸 is “paper,” 包 means “wrapping,” (the same bao for buns and bags), so 纸包 means “paper-wrapped. 蛋 is “egg,” and 糕 is “cake,” so 蛋糕 is literally “egg cake,” or in other words, a real cake batter type of cake.\n\nSometimes called “paper-wrapped sponge cake” or just “sponge cake” or ”cupcake.”",
+        "Description": "Muffin-sized cake baked in a paper wrappings, common in Hong Kong and Chinatown bakeries.\n\n**Characters**\n\n纸 is “paper,” 包 means “wrapping,” (the same bao for buns and bags), so 纸包 means “paper-wrapped. 蛋 is “egg,” and 糕 is “cake,” so 蛋糕 is literally “egg cake,” or in other words, a real cake batter type of cake.\n\nSometimes called “paper-wrapped sponge cake” or just “sponge cake” or ”cupcake.”",
         "Tags": [
             "纸包",
             "馬拉",
@@ -140,10 +136,6 @@
         ],
         "Resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Paper_wrapped_cake"
-            },
-            {
                 "name": "Christine's Recipes",
                 "URL": "https://en.christinesrecipes.com/2008/08/cake-wrapped-in-paper-hong-kong.html"
             },
@@ -154,6 +146,10 @@
             {
                 "name": "O&O Eats",
                 "URL": "https://www.oandoeats.com/home/2016/2/8/paper-wrapped-sponge-cake"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Paper_wrapped_cake"
             }
         ]
     }
