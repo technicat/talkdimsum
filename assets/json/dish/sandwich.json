@@ -52,6 +52,7 @@
                 "Chinese": "公司三文治",
                 "English": "club sandwich",
                 "Yale": "gūng sī sāam màhn jih",
+                "Jyutping": "gung1 si1 saam1 man4 zi6",
                 "Pinyin": "gōng sī sān wén zhì",
                 "Resources": [
                     {
@@ -111,6 +112,7 @@
                 "Chinese": "蛋牛治",
                 "English": "corned beef egg sandwich",
                 "Yale": "dáan ngàuh jih",
+                "Jyutping": "daan2 ngau4 zi6",
                 "Pinyin": "dàn niú zhì",
                 "Resources": [
                     {
@@ -134,7 +136,7 @@
                 "place": "Lucky House Cafe, Las Vegas, Nevada"
             }
         ],
-        "Description": "A Hong Kong-style sandwich with corned beef and scrambled egg.\n\n**Characters**\n\n蛋is “egg, ” 牛 is short for beef (牛肉), and 治 is short for sandwich (三文治)",
+        "Description": "A Hong Kong-style sandwich with corned beef and scrambled egg.\n\n**Characters**\n\n蛋 is *egg*, 牛 is short for beef (牛肉), and 治 is the tail end of sandwich (三文治)",
         "Tags": [
             "港式",
             "三文治",
