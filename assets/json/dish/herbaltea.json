@@ -79,7 +79,60 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "Description": "A hot tea made from sugar, honey and lemon.\n\n**Characters**\n\n熱 is “hot,” 檸 is “lemon,” and 蜜 is “honey“, so it's literally “hot lemon honey.”",
+        "Description": "A hot tea made from sugar, honey and lemon.\n\n**Characters**\n\n熱 is *hot*, 檸 is *lemon*, and 蜜 is *honey*, so it's literally *hot lemon honey*.",
+        "Tags": [
+            "飲品",
+            "蜜",
+            "檸檬",
+            "茶",
+            "熱茶"
+        ],
+        "Resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2015/07/lemon-ginger-honey-tea.html"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "凍檸蜜",
+                "Simplified": "冻柠蜜",
+                "English": "ice honey lemon tea",
+                "Yale": "dung lìhng maht",
+                "Pinyin": "dòng níng mì",
+                "Resources": [
+                    {
+                        "name": "凍",
+                        "URL": "https://en.wiktionary.org/wiki/凍"
+                    },
+                    {
+                        "name": "熱",
+                        "URL": "https://en.wiktionary.org/wiki/熱"
+                    },
+                    {
+                        "name": "檸",
+                        "URL": "https://en.wiktionary.org/wiki/檸"
+                    },
+                    {
+                        "name": "蜜",
+                        "URL": "https://en.wiktionary.org/wiki/蜜"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "icehoneylemonteacafeorchid",
+                "place": "Cafe Orchid, Millbrae, California"
+            }
+        ],
+        "Description": "An iced tea made from sugar, honey and lemon.\n\n**Characters**\n\n凍 is *cold*, 檸 is *lemon*, and 蜜 is *honey*, so 凍檸蜜 is *cod lemon honey*.",
         "Tags": [
             "飲品",
             "蜜",
