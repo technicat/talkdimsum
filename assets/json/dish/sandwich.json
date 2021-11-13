@@ -116,6 +116,42 @@
                 "Pinyin": "yān ròu shēng cài fān qié sān wén zhì",
                 "Resources": [
                     {
+                        "name": "煙肉",
+                        "URL": "https://en.wiktionary.org/wiki/煙肉"
+                    },
+                    {
+                        "name": "煙",
+                        "URL": "https://en.wiktionary.org/wiki/煙"
+                    },
+                    {
+                        "name": "肉",
+                        "URL": "https://en.wiktionary.org/wiki/肉"
+                    },
+                    {
+                        "name": "生菜",
+                        "URL": "https://en.wiktionary.org/wiki/生菜"
+                    },
+                    {
+                        "name": "生",
+                        "URL": "https://en.wiktionary.org/wiki/生"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    },
+                    {
+                        "name": "番茄",
+                        "URL": "https://en.wiktionary.org/wiki/番茄"
+                    },
+                    {
+                        "name": "番",
+                        "URL": "https://en.wiktionary.org/wiki/番"
+                    },
+                    {
+                        "name": "茄",
+                        "URL": "https://en.wiktionary.org/wiki/茄"
+                    },
+                    {
                         "name": "三文治",
                         "URL": "https://en.wiktionary.org/wiki/三文治"
                     },
@@ -140,8 +176,10 @@
                 "place": "Cafe Orchid, Millbrae, California"
             }
         ],
-        "Description": "\n\n**Characters**\n\n[公司](https://en.wiktionary.org/wiki/公司) is *company* (the corporate kind), and [三文治](https://en.wiktionary.org/wiki/三文治) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich*. So 公司三文治 is *company sandwich*.",
+        "Description": "A [BLT](https://en.wikipedia.org/wiki/BLT).\n\n**Characters**\n\n[煙肉](https://en.wiktionary.org/wiki/煙肉) is *bacon*, [生菜](https://en.wiktionary.org/wiki/生菜) is *lettuce*, [番茄](https://en.wiktionary.org/wiki/番茄) is *tomato*, and [三文治](https://en.wiktionary.org/wiki/三文治) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich*. So 煙肉生菜番茄三文治 is *bacon lettuce tomato sandwich*.",
         "Tags": [
+            "煙肉",
+            "生菜",
             "番茄",
             "港式",
             "三文治",
@@ -150,7 +188,7 @@
         "Resources": [
             {
                 "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
+                "URL": "https://en.wikipedia.org/wiki/BLT"
             }
         ]
     },
