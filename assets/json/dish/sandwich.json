@@ -109,6 +109,54 @@
     {
         "words": [
             {
+                "Chinese": "煙肉生菜番茄三文治",
+                "English": "BLT",
+                "Yale": "yīn yuhk sāang choi fāan ké sāam màhn jih",
+                "Jyutping": "jin1 juk6 saang1 coi3 faan1 ke2 saam1 man4 zi6",
+                "Pinyin": "yān ròu shēng cài fān qié sān wén zhì",
+                "Resources": [
+                    {
+                        "name": "三文治",
+                        "URL": "https://en.wiktionary.org/wiki/三文治"
+                    },
+                    {
+                        "name": "三",
+                        "URL": "https://en.wiktionary.org/wiki/三"
+                    },
+                    {
+                        "name": "文",
+                        "URL": "https://en.wiktionary.org/wiki/文"
+                    },
+                    {
+                        "name": "治",
+                        "URL": "https://en.wiktionary.org/wiki/治"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "bltcafeorchid",
+                "place": "Cafe Orchid, Millbrae, California"
+            }
+        ],
+        "Description": "\n\n**Characters**\n\n[公司](https://en.wiktionary.org/wiki/公司) is *company* (the corporate kind), and [三文治](https://en.wiktionary.org/wiki/三文治) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich*. So 公司三文治 is *company sandwich*.",
+        "Tags": [
+            "番茄",
+            "港式",
+            "三文治",
+            "茶餐廳"
+        ],
+        "Resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "蛋牛治",
                 "English": "corned beef egg sandwich",
                 "Yale": "dáan ngàuh jih",
