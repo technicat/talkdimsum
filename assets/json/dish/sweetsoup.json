@@ -32,6 +32,7 @@
         ],
         "Description": "In Cantonese cuisine, sweet soups are served as dessert at the end of meals or in dessert shops.\n\n**Characters**\n\n糖 is *sugar*, and 水 is *water*, so 糖水 is *sugar water*.",
         "Tags": [
+            "甜品",
             "糖水",
             "粵菜",
             "湯"
@@ -254,6 +255,57 @@
             {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Douhua"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "龜苓膏",
+                "Simplified": "龟苓膏",
+                "English": "herbal jelly",
+                "Yale": "gwāi lìhng gōu",
+                "Pinyin": "guī líng gāo",
+                "Resources": [
+                    {
+                        "name": "龜苓膏",
+                        "URL": "https://en.wiktionary.org/wiki/龜苓膏"
+                    },
+                    {
+                        "name": "龜",
+                        "URL": "https://en.wiktionary.org/wiki/龜"
+                    },
+                    {
+                        "name": "苓",
+                        "URL": "https://en.wiktionary.org/wiki/苓"
+                    },
+                    {
+                        "name": "膏",
+                        "URL": "https://en.wiktionary.org/wiki/膏"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "herbaljellysweettalk",
+                "place": "Sweet Talk, Las Vegas, Nevada"
+            }
+        ],
+        "Description": "Offered as a medicine or dessert (a very bitter dessert), this traditionally incorporates a powder made from the bottom of turtle shells (the Chinese name means “turtle paste”), but these days it usually doesn't contain any turtle, so it's often listed in English as “herbal jelly.” (I asked what's in the herbal jelly in the photo, and the answer was “herb.”\n\n**Characters**\n\n[龜](https://en.wiktionary.org/wiki/龜) means *turtle*, [苓](https://en.wiktionary.org/wiki/苓) means *used in*, and [膏](https://en.wiktionary.org/wiki/膏) is *paste* or *oil*, so [龜苓膏(https://en.wiktionary.org/wiki/龜苓膏) is *turtle used in paste*.",
+        "Tags": [
+            "糖水",
+            "粵菜",
+            "甜品"
+        ],
+        "Resources": [
+            {
+                "name": "Appetite for China",
+                "URL": "https://appetiteforchina.com/recipes/blog/chinese-herbal-jelly"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Guilinggao"
             }
         ]
     }
