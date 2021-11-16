@@ -7,7 +7,7 @@
         "English": "turnip cake",
         "Yale": "lò baahk gōu",
         "Pinyin": "luó bo gāo",
-        "Resources": [
+        "resources": [
           {
             "name": "蘿蔔糕",
             "URL": "https://en.wiktionary.org/wiki/蘿蔔糕"
@@ -38,12 +38,12 @@
       }
     ],
     "description": "Known as turnip cake, it's really made of Chinese radish or daikon, cut into squares and steamed or pan-fried.\n\n**Characters**\n\n蘿蔔 means *radish*, while 糕 is *cake*.",
-    "Tags": [
+    "tags": [
       "蘿蔔糕",
       "蘿蔔",
       "糕"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Angel Wong's Kitchen",
         "URL": "https://www.angelwongskitchen.com/turnip-cakes-dim-sum-style--343673406831957-luoacutebo-g257o.html"
@@ -98,7 +98,7 @@
         "English": "pan-fried turnip cake",
         "Yale": "jīn lò baahk gōu",
         "Pinyin": "jiān luó bo gāo",
-        "Resources": [
+        "resources": [
           {
             "name": "煎",
             "URL": "https://en.wiktionary.org/wiki/煎"
@@ -133,14 +133,14 @@
       }
     ],
     "description": "Pan-fried turnip cake.\n\n**Characters**\n\n煎 means “pan-fried,” 蘿蔔 means “radish“, and 糕 is “cake.”",
-    "Tags": [
+    "tags": [
       "蘿蔔糕",
       "煎",
       "蘿蔔",
       "糕",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/pan-fried-turnip-cake/"
@@ -167,7 +167,7 @@
         "English": "steamed turnip cake",
         "Yale": "jīng lò baahk gōu",
         "Pinyin": "zhēng luó bo gāo",
-        "Resources": [
+        "resources": [
           {
             "name": "蒸",
             "URL": "https://en.wiktionary.org/wiki/蒸"
@@ -202,14 +202,14 @@
       }
     ],
     "description": "Steamed turnip cake.\n\n**Characters**\n\n蒸 means *steamed*, 蘿蔔 means *radish*, and 糕 is *cake*.",
-    "Tags": [
+    "tags": [
       "蘿蔔糕",
       "蒸",
       "蘿蔔",
       "糕",
       "點心"
     ],
-    "Resources": [
+    "resources": [
     ]
   },
   {
@@ -221,7 +221,7 @@
         "English": "Singapore-style turnip cake",
         "Yale": "sīng jāu cháau lò baahk gōu",
         "Pinyin": "cài tóu guǒ",
-        "Resources": [
+        "resources": [
           {
             "name": "星洲",
             "URL": "https://en.wiktionary.org/wiki/星洲"
@@ -268,14 +268,14 @@
       }
     ],
     "description": "Singapore style turnip cake. Similar to “lo baak go” (previous) but sliced into cubes and stir-fried.",
-    "Tags": [
+    "tags": [
       "星洲",
       "蘿蔔糕",
       "炒",
       "蘿蔔",
       "糕"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Chai_tow_kway"
@@ -290,7 +290,7 @@
         "English": "stir-fried turnip cake w/ XO sauce",
         "Yale": "XO jeung cháau lò baahk gōu",
         "Pinyin": "XO jiàng chǎo luó bo gāo",
-        "Resources": [
+        "resources": [
           {
             "name": "XO醬",
             "URL": "https://en.wiktionary.org/wiki/XO醬"
@@ -333,7 +333,7 @@
       }
     ],
     "description": "Small cubes of turnip cake stir-fried with XO sauce.",
-    "Tags": [
+    "tags": [
       "點心",
       "蘿蔔糕",
       "XO醬",
@@ -341,7 +341,7 @@
       "蘿蔔",
       "糕"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Mike's Food Archives",
         "URL": "http://dingoozatfood.blogspot.com/2016/03/pan-fried-xo-sauce-radish-cake-xo.html"

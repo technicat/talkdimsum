@@ -7,7 +7,7 @@
                 "English": "tofu skin roll",
                 "Yale": "sīn juk gyún",
                 "Pinyin": "xiān zhú juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鮮竹捲",
                         "URL": "https://en.wiktionary.org/wiki/鮮竹捲"
@@ -34,7 +34,7 @@
             }
         ],
         "description": "Dried tofu skin wrapped around bamboo shoots and other vegetable or meat fillings and steamed.\n\n**Characters**\n\n鮮 means “fresh,” 竹 is “bamboo,” and 卷 is “roll,’ so literally: “fresh bamboo roll.”",
-        "Tags": [
+        "tags": [
             "竹捲",
             "蒸",
             "豆腐",
@@ -42,7 +42,7 @@
             "捲",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/tofu-skin-rolls/"
@@ -65,7 +65,7 @@
                 "English": "fried tofu skin roll",
                 "Yale": "fuh pèih gyún",
                 "Pinyin": "fǔ pí juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "腐皮捲",
                         "URL": "https://en.wiktionary.org/wiki/腐皮捲"
@@ -96,7 +96,7 @@
             }
         ],
         "description": "A pan-fried tofu skin roll, where the skin is made from fermented bean curd wrapped around vegetable or meat fillings and steamed.\n\n**Characters**\n\n腐皮 refers to the skin made out of fermented bean curd (腐 means “stinky” and 皮 means “skin,” but don't worry, it's not stinky) and 卷 is “roll,” so it's “fermented bean curd skin roll.”",
-        "Tags": [
+        "tags": [
             "腐皮捲",
             "腐皮",
             "蒸",
@@ -104,7 +104,7 @@
             "捲",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/tofu-skin-rolls/"
@@ -131,7 +131,7 @@
                 "English": "fried tofu skin roll w/ shrimp",
                 "Yale": "sīn hā fuh pèih gyún",
                 "Pinyin": "xiān xiā fǔ pí juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鮮",
                         "URL": "https://en.wiktionary.org/wiki/鮮"
@@ -170,7 +170,7 @@
             }
         ],
         "description": "Pan-fried tofu skin rolls filled with shrimp.\n\n**Characters**\n\n鮮蝦 means “fresh shrimp,” 腐皮 refers to the skin made out of fermented bean curd (腐 means “stinky” and 皮 means “skin,” but don't worry, it's not stinky) and 卷 is “roll,” so it's “fresh shrimp fermented bean curd skin roll.”",
-        "Tags": [
+        "tags": [
             "點心",
             "腐皮捲",
             "腐皮",
@@ -178,7 +178,7 @@
             "豆腐",
             "捲"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Asian Inspirations",
                 "URL": "https://asianinspirations.com.au/recipes/prawn-beancurd-skin-rolls-fu-pei-guen/"

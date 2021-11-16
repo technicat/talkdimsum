@@ -6,7 +6,7 @@
                 "English": "tripe",
                 "Yale": "ngàuh tóuh",
                 "Pinyin": "niú dǔ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "牛肚",
                         "URL": "https://en.wiktionary.org/wiki/牛肚"
@@ -28,14 +28,14 @@
             }
         ],
         "description": "Beef tripe, steamed with garlic and ginger.\n\n**Characters**\n\nThe first character is the word for “cow,” the second is the word for “stomach,” and the third is “bone.”. Taken together, “牛肚“ is “cow stomach” or “tripe.”",
-        "Tags": [
+        "tags": [
             "蒸",
             "肉",
             "牛肉",
             "牛肚",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/steamed-beef-tripe/"
@@ -58,7 +58,7 @@
                 "English": "tripe stew",
                 "Yale": "ngàuh jaahp",
                 "Pinyin": "niú zá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "牛雜",
                         "URL": "https://en.wiktionary.org/wiki/牛雜"
@@ -81,12 +81,12 @@
             }
         ],
         "description": "Tripe stewed with Chinese turnips.\n\n**Characters**\n\nThe first character is the word for “cow,” the second is the word for “mix.” Taken together, 牛雜 is basically “beef stew.”",
-        "Tags": [
+        "tags": [
             "肉",
             "牛肉",
             "牛肚"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Woks of Life",
                 "URL": "http://thewoksoflife.com/2014/11/dim-sum-tripe-stew/"

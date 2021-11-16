@@ -8,7 +8,7 @@
                 "English": "rice balls",
                 "Yale": "tōng yún",
                 "Pinyin": "tāng yuán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "湯圓",
                         "URL": "https://en.wiktionary.org/wiki/湯圓"
@@ -35,7 +35,7 @@
             }
         ],
         "description": "Boiled balls of glutinous rice with a sweet filling, such as black sesame seeds or crushed peanuts.\n\n**Characters**\n\n湯 means “soup” or “boiling water,” and 圓 means “ball” (sometimes 丸 is used with the same pronunciation and meaning).\n\nThese are easy to find frozen in Asian grocery stores. To prepare, just boil a few minutes until they float!",
-        "Tags": [
+        "tags": [
             "湯丸",
             "湯圓",
             "湯",
@@ -43,7 +43,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/steamed-sesame-balls/"
@@ -83,7 +83,7 @@
                 "English": "sesame rice balls",
                 "Yale": "hāk jī màh tōng yún",
                 "Pinyin": "hēi zhī ma tāng yuán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "黑芝麻",
                         "URL": "https://en.wiktionary.org/wiki/黑芝麻"
@@ -126,7 +126,7 @@
             }
         ],
         "description": "Rice balls with a black sesame seed filling.\n\n**Characters**\n\n黑 is “black,” and 芝麻 is “sesame,” so 黑芝麻 is “black sesame.”",
-        "Tags": [
+        "tags": [
             "芝麻",
             "黑芝麻",
             "湯圓",
@@ -134,7 +134,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/tang-yuan-recipe-black-sesame-filling/"
@@ -157,7 +157,7 @@
                 "English": "peanut rice balls",
                 "Yale": "fā sāng tōng yún",
                 "Pinyin": "huā shēng tāng yuán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "花生",
                         "URL": "https://en.wiktionary.org/wiki/花生"
@@ -192,13 +192,13 @@
             }
         ],
         "description": "Rice balls filled with crushed peanuts or peanut butter.\n\n**Characters**\n\n花生 is “peanut.”",
-        "Tags": [
+        "tags": [
             "花生",
             "湯丸",
             "湯",
             "甜品"
         ],
-        "Resources": []
+        "resources": []
     },
     {
         "words": [
@@ -209,7 +209,7 @@
                 "Simplified": "豆沙汤圆",
                 "Yale": "dauh sā tōng yún",
                 "Pinyin": "dòu shā tāng yuán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豆沙",
                         "URL": "https://en.wiktionary.org/wiki/豆沙"
@@ -244,14 +244,14 @@
             }
         ],
         "description": "Rice balls with red bean paste filling.\n\n**Characters**\n\n豆沙 is “bean paste.”",
-        "Tags": [
+        "tags": [
             "湯圓",
             "豆沙",
             "紅色",
             "湯",
             "甜品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Roti n Rice",
                 "URL": "https://www.rotinrice.com/tang-yuan-glutinous-rice-balls-with-red-bean-paste-filling/"
@@ -267,7 +267,7 @@
                 "Simplified": "绿茶炸汤圓",
                 "Yale": "luhk chàh ja tōng yún",
                 "Pinyin": "lǜ chá zhà tāng yuán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "綠茶",
                         "URL": "https://en.wiktionary.org/wiki/綠茶"
@@ -306,7 +306,7 @@
             }
         ],
         "description": "Deep-fried green-tea mixed glutinous rice balls with black sesame paste inside.\n\n**Characters**\n\n綠茶 means “grean tea,” and 炸 means “deep-fried.”",
-        "Tags": [
+        "tags": [
             "湯圓",
             "綠茶",
             "素",

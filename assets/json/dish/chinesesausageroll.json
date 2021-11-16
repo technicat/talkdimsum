@@ -8,7 +8,7 @@
                 "Yale": "laahp chéung",
                 "Jyutping": "laap6 ceung2",
                 "Pinyin": "là cháng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "臘腸",
                         "URL": "https://en.wiktionary.org/wiki/臘腸"
@@ -31,11 +31,11 @@
             }
         ],
         "description": "Hong Kong style [Chinese sausage](https://en.wikipedia.org/wiki/Chinese_sausage) is a smoked fatty soy sauce-flavored pork sausage used in a variety of dishes, often in small slices or bits like bacon bits.\n\n**Characters**\n\n[腊](https://en.wiktionary.org/wiki/臘) is *preserved meat*, and [腸](https://en.wiktionary.org/wiki/腸) means *sausage*.",
-        "Tags": [
+        "tags": [
             "豬肉",
             "臘腸"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Ice or Rice",
                 "URL": "https://www.iceorrice.com/what-is-chinese-sausage/"
@@ -58,7 +58,7 @@
                 "English": "Chinese sausage bun",
                 "Yale": "laahp chéung gyún",
                 "Pinyin": "là cháng juàn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "臘腸",
                         "URL": "https://en.wiktionary.org/wiki/臘腸"
@@ -85,7 +85,7 @@
             }
         ],
         "description": "This is a [Chinese sausage](https://en.wikipedia.org/wiki/Chinese_sausage) wrapped in a steamed wheat bun.\n\n**Characters**\n\n[腊腸](https://en.wiktionary.org/wiki/臘腸) is *Chinese sausage*, and [卷](https://en.wiktionary.org/wiki/卷) is a roll (same roll as in spring roll).",
-        "Tags": [
+        "tags": [
             "豬肉",
             "饅頭",
             "臘腸",
@@ -93,7 +93,7 @@
             "卷",
             "蒸"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Christine's Recipes",
                 "URL": "https://www.christinesrecipes.com/2013/11/steamed-chinese-sausage-rolls.html"

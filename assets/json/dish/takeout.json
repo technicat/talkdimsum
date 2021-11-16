@@ -7,7 +7,7 @@
         "English": "takeout",
         "Yale": "ngoih maaih",
         "Pinyin": "wài mài",
-        "Resources": [
+        "resources": [
           {
             "name": "外賣",
             "URL": "https://en.wiktionary.org/wiki/外賣"
@@ -30,7 +30,7 @@
       }
     ],
     "description": "Refers to takeout (carryout, takeaway..) and delivery food. These days a lot of dim sum restaurants are closed, but some have takeout and delivery options, and Asian grocery stores often have takeout dim sum.\n\n外 means “outside,” and 賣 means “sell.”\n\nThere are other ways to specify takeout depending on context and region, for example 拎走 (līng jáu) is literally “carry to go,” 帶走 (daai jáu) is “bring to go,” and 打包 (dá bāau) generally means “to wrap” or “to pack” (literally “tie up in a bag”) and is how you'd ask to bag up leftovers.",
-    "Tags": [
+    "tags": [
       "外賣"
     ]
   },
@@ -42,7 +42,7 @@
         "English": "takeout cup",
         "Yale": "ngoih maaih būi",
         "Pinyin": "wài mài bēi",
-        "Resources": [
+        "resources": [
           {
             "name": "外賣",
             "URL": "https://en.wiktionary.org/wiki/外賣"
@@ -69,7 +69,7 @@
       }
     ],
     "description": "外賣 means “takeout,” and 杯 is “cup.”",
-    "Tags": [
+    "tags": [
       "外賣",
       "飲品"
     ]

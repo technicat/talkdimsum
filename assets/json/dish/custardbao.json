@@ -7,7 +7,7 @@
                 "English": "custard bun",
                 "Yale": "náaih wòhng bāau",
                 "Pinyin": "nǎi huáng bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "奶黃包",
                         "URL": "https://en.wiktionary.org/wiki/奶黃包"
@@ -38,7 +38,7 @@
             }
         ],
         "description": "Steamed buns with a custard filling.\n\n**Characters**\n\n奶 is the word for *milk*, the second character 黃 is *yellow*, and together 嬭黃 means *custard*. So [嬭黃包](https://en.wiktionary.org/wiki/奶黃包) is *custard bun*.\n\nStrictly speaking, the custard in this bun is thick, almost crumbly, and the molten custard variety goes by a different name, 流沙包, but 嬭黃包 is often used to refer to both versions.",
-        "Tags": [
+        "tags": [
             "奶皇",
             "包",
             "蒸",
@@ -46,7 +46,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/custard-bun-milk-yolk-buns/"
@@ -77,7 +77,7 @@
                 "English": "bunny custard bun",
                 "Yale": "síu tou náaih wòhng bāau",
                 "Pinyin": "xiǎo tù nǎi huáng bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "小兔",
                         "URL": "https://en.wiktionary.org/wiki/小兔"
@@ -120,7 +120,7 @@
             }
         ],
         "description": "Steamed custard buns shaped to look like small rabbits.\n\n**Characters**\n\n小 is “small,” 兔 is the word for “rabbit,” 奶 is the word for “milk,”  黃 is “yellow,” and together 嬭黃 means “custard.” So it's “small rabbit custard bun.”",
-        "Tags": [
+        "tags": [
             "奶皇",
             "包",
             "蒸",
@@ -128,7 +128,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/vegetarian-dumplings/custard-dumplings"
@@ -143,7 +143,7 @@
                 "English": "piglet custard bun",
                 "Yale": "síu jyū náaih wòhng bāau",
                 "Pinyin": "xiǎo zhū nǎi huáng bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "小豬",
                         "URL": "https://en.wiktionary.org/wiki/小豬"
@@ -186,7 +186,7 @@
             }
         ],
         "description": "Steamed custard buns shaped to look like piglets.\n\n**Characters**\n\n小 is “small,” 豬 is the word for “pig,” 奶 is the word for “milk,”  黃 is “yellow,” and together 嬭黃 means “custard.” So it's “piglet custard bun.”",
-        "Tags": [
+        "tags": [
             "奶皇",
             "包",
             "蒸",
@@ -194,7 +194,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/vegetarian-dumplings/custard-dumplings"
@@ -208,7 +208,7 @@
                 "English": "lava custard bun",
                 "Yale": "làu sā bāau",
                 "Pinyin": "liú shā bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "流沙",
                         "URL": "https://en.wiktionary.org/wiki/流沙"
@@ -235,7 +235,7 @@
             }
         ],
         "description": "Steamed buns with a molten custard filling. The custard is typically made from the yolk of salted duck eggs, so it's often called “salted egg custard”.\n\n**Characters**\n\n[流](https://en.wiktionary.org/wiki/流) means *flowing* and [沙](https://en.wiktionary.org/wiki/沙) means *sand*. Together [流沙](https://en.wiktionary.org/wiki/流沙) means *quicksand*, so 流沙包 is *quicksand bun*. But usually it's listed as *molten custard bun* or *lava bun* (or *lava custard bun* or *molten lava bun*...).\n\nBy the way, if you leave out the first character so it's just 沙包 (sā bāau) and literally “sand bag,” that refers to punching bags used in gyms.”",
-        "Tags": [
+        "tags": [
             "流沙包",
             "流沙",
             "包",
@@ -244,7 +244,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The 350 Degree Oven",
                 "URL": "http://www.the350degreeoven.com/2012/10/chinese-taiwanese/liu-sa-bao-chinese-salted-egg-custard-steamed-bun/"

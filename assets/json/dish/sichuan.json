@@ -6,7 +6,7 @@
                 "English": "Sichuan cuisine",
                 "Yale": "chyūn choi",
                 "Pinyin": "chuān cà",
-                "Resources": [
+                "resources": [
                     {
                         "name": "四川",
                         "URL": "https://en.wiktionary.org/wiki/四川"
@@ -37,11 +37,11 @@
             }
         ],
         "description": "[Sichuan cuisine](https://en.wikipedia.org/wiki/Sichuan_cuisine), one of the great eight cuisines of China (Cantonese is another), is the food of Sichuan provice (otherwise known in English as Szechuan). It's famous, or notorious, for its spiciness.\n\n**Characters**\n\nThe Chinese for Sichuan, [四川](https://en.wiktionary.org/wiki/四川), means *four rivers* ([四](https://en.wiktionary.org/wiki/四) is *four* and [川](https://en.wiktionary.org/wiki/川) means (and looks like) *river*). [菜](https://en.wiktionary.org/wiki/菜) means *vegetables* but also more generally type of *dish* or *cuisine*, so 四川菜 is *Sichuan cuisine*. But it's generally shortened to 川菜.",
-        "Tags": [
+        "tags": [
             "川菜",
             "四川"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/"
@@ -65,7 +65,7 @@
                 "Yale": "yuht choi",
                 "Jyutping": "jyut6 coi3",
                 "Pinyin": "yuè cà",
-                "Resources": [
+                "resources": [
                     {
                         "name": "粵菜",
                         "URL": "https://en.wiktionary.org/wiki/粵菜"
@@ -88,10 +88,10 @@
             }
         ],
         "description": "[Cantonese cuisine](https://en.wikipedia.org/wiki/Cantonese_cuisine), one of the great eight cuisines of China, is the food of Guangdong province.\n\n**Characters**\n\nLiterally translated, Cantonese cuisine is 廣東菜, but 粵菜 is used.",
-        "Tags": [
+        "tags": [
             "粵菜"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Highlights",
                 "URL": "https://www.chinahighlights.com/travelguide/chinese-food/yue-cuisine.htm"

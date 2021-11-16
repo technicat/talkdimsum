@@ -7,7 +7,7 @@
                 "Yale": "séui gwó chàh",
                 "Jyutping": "seoi2 gwo2 caa4",
                 "Pinyin": "shuǐ guǒ chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "水果",
                         "URL": "https://en.wiktionary.org/wiki/水果"
@@ -34,13 +34,13 @@
             }
         ],
         "description": "Black or green tea brewed with fruit. 水果 is “fruit“, and 茶 is “tea“, so “fruit tea“.",
-        "Tags": [
+        "tags": [
             "水果茶",
             "飲品",
             "水果",
             "茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/taiwanese-style-hot-fruit-tea--277002652433590-shu464gu466-chaacute.html"
@@ -56,7 +56,7 @@
                 "Yale": "mōng gwó luhk chàh",
                 "Jyutping": "mong1 gwo2 luk6 caa4",
                 "Pinyin": "máng guǒ lǜ chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "芒果",
                         "URL": "https://en.wiktionary.org/wiki/芒果"
@@ -91,7 +91,7 @@
             }
         ],
         "description": "Green tea brewed with mango. 芒果 is “nango“, and 綠茶 is “green tea“, so “mango green tea“.",
-        "Tags": [
+        "tags": [
             "水果茶",
             "飲品",
             "綠茶",
@@ -99,7 +99,7 @@
             "水果",
             "茶"
         ],
-        "Resources": [
+        "resources": [
         ]
     },
     {
@@ -111,7 +111,7 @@
                 "Yale": "baak hēung gwó luhk chàh",
                 "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
                 "Pinyin": "bǎi xiāng guǒ lǜ chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "百香果",
                         "URL": "https://en.wiktionary.org/wiki/百香果"
@@ -150,7 +150,7 @@
             }
         ],
         "description": "Green tea brewed with passion fruit. 百香果 is “passion fruit“, and 綠茶 is “green tea“, so “passion fruit green tea“.",
-        "Tags": [
+        "tags": [
             "水果茶",
             "飲品",
             "綠茶",
@@ -158,7 +158,7 @@
             "水果",
             "茶"
         ],
-        "Resources": [
+        "resources": [
         ]
     }
 ]

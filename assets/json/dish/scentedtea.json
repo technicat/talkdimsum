@@ -7,7 +7,7 @@
                 "English": "jasmine tea",
                 "Yale": "hēung pín",
                 "Pinyin": "mò li huā chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "香片",
                         "URL": "https://en.wiktionary.org/wiki/香片"
@@ -30,7 +30,7 @@
             }
         ],
         "description": "[Jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) is green tea scented with jasmine blossoms.\n\n**Characters**\n\nIn Mandarin, jasmine tea is 茉莉花茶, where 茉莉花 is *jasmine flower* and 茶 is *tea*. But in Cantonese it's more often referred to as 香片, where the first character [香](https://en.wiktionary.org/wiki/香) means *fragrant* (same as the first character in Hong Kong 香港, *fragrant harbor*) and the second character [片](https://en.wiktionary.org/wiki/片) means *piece* or in this case specifically *flake* as in flakes of tea, so [香片](https://en.wiktionary.org/wiki/香片) is *fragrant flakes of tea*.",
-        "Tags": [
+        "tags": [
             "中國茶",
             "茶",
             "熱茶",
@@ -42,7 +42,7 @@
             "點心",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Jasmine-Tea"
@@ -64,7 +64,7 @@
                 "English": "chrysanthemum tea",
                 "Yale": "gūk fā chàh",
                 "Pinyin": "jú huā chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "菊花茶",
                         "URL": "https://en.wiktionary.org/wiki/菊花茶"
@@ -95,7 +95,7 @@
             }
         ],
         "description": "A light sweet herbal tea brewed with chyrsanthemum flower blossoms, [chrysanthmum tea](https://en.wikipedia.org/wiki/Chrysanthemum_tea) is the standard non-caffeinated tea option in dim sum restaurants.\n\n**Characters**\n\n[菊花](https://en.wiktionary.org/wiki/菊花) is *chrysanthemum flower* ([菊](https://en.wiktionary.org/wiki/菊) is *chrysanthemum* and [花](https://en.wiktionary.org/wiki/花) is *flower*), and 茶 is *tea*, so [菊花茶](https://en.wiktionary.org/wiki/菊花茶) is *chrysanthemum flower tea*.",
-        "Tags": [
+        "tags": [
             "中國茶",
             "茶",
             "熱茶",
@@ -104,7 +104,7 @@
             "點心",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Chrysanthemum-Tea"
@@ -126,7 +126,7 @@
                 "English": "Pu'er tea",
                 "Yale": "póu néi chàh",
                 "Pinyin": "pǔ ěr chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "普洱茶",
                         "URL": "https://en.wiktionary.org/wiki/普洱茶"
@@ -161,7 +161,7 @@
             }
         ],
         "description": "A dark, fully fermented tea grown in the Yunnan province of China. It is “post-fermented,” where the leaves age even after drying.\n\n**Characters**\n\nThe first two characters 普洱 is Pu'er, the city in Yunnan associated with the tea. And the final character 茶 is “tea.”\n\nThe English spelling is patterned after the Mandarin pronunciation.",
-        "Tags": [
+        "tags": [
             "中國茶",
             "茶",
             "熱茶",
@@ -169,7 +169,7 @@
             "點心",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Art of Tea",
                 "URL": "https://www.artoftea.com/what-is-tea/what-is-puerh-tea"
@@ -207,7 +207,7 @@
                 "English": "chrysanthemum Pu'er tea",
                 "Yale": "gūk póu chàh",
                 "Pinyin": "jú pǔ chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "菊",
                         "URL": "https://en.wiktionary.org/wiki/菊"
@@ -230,7 +230,7 @@
             }
         ],
         "description": "Pu'er tea blended with chrysanthemum to add a lighter flavor and fragrance.\n\n**Characters**\n\n菊 is the first character for chrysanthemum tea, and 普 is the first character for Pu'er tea, so 菊普 is mashup of the two names. And 茶 is the word for tea.",
-        "Tags": [
+        "tags": [
             "中國茶",
             "茶",
             "菊",
@@ -240,7 +240,7 @@
             "點心",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Pu%27er_tea"
@@ -254,7 +254,7 @@
                 "English": "lychee tea",
                 "Yale": "laih jī chàh",
                 "Pinyin": "lì zhī chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "荔枝",
                         "URL": "https://en.wiktionary.org/wiki/荔枝"
@@ -281,7 +281,7 @@
             }
         ],
         "description": "Black tea scented with lychee peels, so it's got a fruity taste.\n\n**Characters**\n\n荔枝 is “lychee“, and 茶 is “tea“, so literally “lychee tea“.",
-        "Tags": [
+        "tags": [
             "茶",
             "荔枝",
             "熱茶",
@@ -289,7 +289,7 @@
             "茶餐廳",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Tao of Tea",
                 "URL": "https://taooftea.com/product/lychee/"

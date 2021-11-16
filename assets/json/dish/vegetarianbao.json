@@ -6,7 +6,7 @@
                 "English": "vegetarian bun",
                 "Yale": "sou choi bāau",
                 "Pinyin": "sù cài bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "素菜",
                         "URL": "https://en.wiktionary.org/wiki/素菜"
@@ -32,13 +32,13 @@
             }
         ],
         "description": "Steamed wheat buns with vegetable fillings.\n\n**Characters**\n\n素菜 means “vegetarian dish,” and 包 is “bun.” so “vegetable bun.”",
-        "Tags": [
+        "tags": [
             "包",
             "素",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/vegetarian-steamed-buns/"

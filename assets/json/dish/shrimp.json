@@ -7,7 +7,7 @@
                 "Simplified": "西汁虾",
                 "Yale": "sāi jāp hā",
                 "Pinyin": "xī zhī xiā",
-                "Resources": [
+                "resources": [
                     {
                         "name": "西",
                         "URL": "https://en.wiktionary.org/wiki/西"
@@ -37,14 +37,14 @@
             }
         ],
         "description": "Lightly-battered fried shrimp tossed with candy-glazed walnuts and a creamy sauce.\n\n**Characters**\n\n西 means “Western,” 汁 means “sauce,” and 蝦 means “shrimp,” so “Western sauce shrimp.”\n\nThe honey in the English name refers to the walnut glaze, but sometimes it's just a sugary syrup.",
-        "Tags": [
+        "tags": [
             "炸",
             "蝦",
             "蜜",
             "海鮮",
             "美式"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/honey-walnut-shrimp--266802669134662-heacutetaacuteo-xi257.html"
@@ -80,7 +80,7 @@
                 "English": "fried shrimp",
                 "Yale": "ja hā jái",
                 "Pinyin": "zhà xiā zǐ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸",
                         "URL": "https://en.wiktionary.org/wiki/炸"
@@ -103,7 +103,7 @@
             }
         ],
         "description": "Deep-fried shrimp.",
-        "Tags": [
+        "tags": [
             "炸",
             "蝦",
             "海鮮",
@@ -118,7 +118,7 @@
                 "English": "taro shrimp",
                 "Yale": "wuh hā",
                 "Pinyin": "yù xiā",
-                "Resources": [
+                "resources": [
                     {
                         "name": "芋",
                         "URL": "https://en.wiktionary.org/wiki/芋"
@@ -137,7 +137,7 @@
             }
         ],
         "description": "Fried shrimp with a taro coating, similar to taro dumplings.\n\n**Characters**\n\nThe first character 芋 is short for 芋頭 (wuh táu), the word for “taro”, and 蝦 is “shrimp.”",
-        "Tags": [
+        "tags": [
             "芋",
             "炸",
             "蝦",
@@ -153,7 +153,7 @@
                 "English": "shrimp chips",
                 "Yale": "hā pi",
                 "Pinyin": "xiā piàn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蝦片",
                         "URL": "https://en.wiktionary.org/wiki/蝦片"
@@ -176,13 +176,13 @@
             }
         ],
         "description": "Deep-fried shrimp-flavored chips, similar to potato chips (there's also a version shaped more like french fries). Also known as [prawn crackers](https://en.wikipedia.org/wiki/Prawn_cracker).\n\nLike potato chips, shrimp chips are a snack food you can buy in little (and big) bags at the grocery store, and sometimes used to garnish restaurant dishes.\n\n**Characters**\n\n[蝦](https://en.wiktionary.org/wiki/蝦) is *shrimp*, and [片](https://en.wiktionary.org/wiki/片) is *slice* (same word used in fish fillet), so 蝦片 is *shrimp slices*.",
-        "Tags": [
+        "tags": [
             "炸",
             "蝦",
             "片",
             "海鮮"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Kirbie's Cravings",
                 "URL": "https://kirbiecravings.com/shrimp-chips-2/"

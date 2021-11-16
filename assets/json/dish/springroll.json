@@ -7,7 +7,7 @@
                 "English": "spring roll",
                 "Yale": "chēun gyún",
                 "Pinyin": "chūn juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "春捲",
                         "URL": "https://en.wiktionary.org/wiki/春捲"
@@ -30,7 +30,7 @@
             }
         ],
         "description": "Cantonese spring rolls are deep-fried with a thin crispy wrapper and filled with minced pork, bean sprouts, and other vegetables. Not to be confused with the deep-fried cabbage-filled burritos known as “egg rolls” in Chinese-American restaurants.\n\nIn mainland China, where Spring rolls originated (in fried and non-fried incarnations), they are traditionally eaten during the Spring (Chinese New Year) Festival, hence the name.\n\n**Characters**\n\nThe first character 春 is the word for “Spring“ and the second character 捲 is the word for “roll“ so, literally, “Spring roll.“",
-        "Tags": [
+        "tags": [
             "春捲",
             "茶餐廳",
             "豬肉",
@@ -39,7 +39,7 @@
             "捲",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/spring-rolls/"
@@ -78,7 +78,7 @@
                 "English": "vegetable spring roll",
                 "Yale": "sou chēun gyún",
                 "Pinyin": "sù chūn juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "素",
                         "URL": "https://en.wiktionary.org/wiki/素"
@@ -105,7 +105,7 @@
             }
         ],
         "description": "Spring rolls with no meat, just vegetables.\n\n**Characters**\n\nThe first character 素 is “vegetable“, the second character 春 is the word for “Spring“ and the third character 捲 is the word for “roll“ so 素春捲 is “vegetable Spring roll.”",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "春捲",
             "素",
@@ -114,7 +114,7 @@
             "捲",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dimsumptuous",
                 "URL": "http://www.dimsumptuous.com/2013/04/vegetable-spring-rolls.html"
@@ -129,7 +129,7 @@
                 "English": "egg white and shrimp spring roll",
                 "Yale": "dáan baahk hā chēun gyún",
                 "Pinyin": "dàn bái xiā chūn juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蛋白",
                         "URL": "https://en.wiktionary.org/wiki/蛋白"
@@ -168,7 +168,7 @@
             }
         ],
         "description": "Spring rolls containing shrimp and egg white.\n\n*Characters**\n\nThe first character 蛋 is “egg“, the second character 白 is “white,” and the third character 蝦 is “shrimp,” so it's “egg white shrimp Spring roll.”",
-        "Tags": [
+        "tags": [
             "春捲",
             "蛋白",
             "蝦",
@@ -178,7 +178,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Tim Ho Wan",
                 "URL": "http://timhowanusa.com/menus/deep-fried-spring-roll-with-egg-white-and-shrimp/"
@@ -193,7 +193,7 @@
                 "English": "fried shrimp roll",
                 "Yale": "ja hā gyún",
                 "Pinyin": "zhà xiā juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸",
                         "URL": "https://en.wiktionary.org/wiki/炸"
@@ -216,7 +216,7 @@
             }
         ],
         "description": "Spring rolls with just shrimp inside.\n\n*Characters**\n\nThe first character 炸 is the word for “deep-fried,” the second character 蝦 is “shrimp,” and the third character 捲 is the word for “roll,” so, “deep-fried shrimp roll.”",
-        "Tags": [
+        "tags": [
             "春捲",
             "炸",
             "蝦",
@@ -224,7 +224,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Simple Comfort Food",
                 "URL": "http://www.simplecomfortfood.com/2012/06/05/shrimp-egg-rolls/"
@@ -239,7 +239,7 @@
                 "English": "deep-fried seaweed roll",
                 "Yale": "ja hói choi gyún",
                 "Pinyin": "zhà hǎi cài juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸",
                         "URL": "https://en.wiktionary.org/wiki/炸"
@@ -270,7 +270,7 @@
             }
         ],
         "description": "Deep-fried rolls with a seaweed wrapper, typically with shrimp inside.\n\n*Characters**\n\nThe first character 炸 is the word for “deep-fried,” 海菜 means “seaweed“, and the final character 捲 is the word for “roll,” so, “deep-fried seaweed roll.”",
-        "Tags": [
+        "tags": [
             "海菜",
             "炸",
             "蝦",
@@ -278,7 +278,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Hawaii Magazine",
                 "URL": "http://https://www.hawaiimagazine.com/content/recipe-jade-dynastys-fried-seaweed-nori-roll"

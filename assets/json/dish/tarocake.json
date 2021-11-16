@@ -7,7 +7,7 @@
         "English": "taro cake",
         "Yale": "wuh táu gōu",
         "Pinyin": "yù tou gāo",
-        "Resources": [
+        "resources": [
           {
             "name": "芋頭糕",
             "URL": "https://en.wiktionary.org/wiki/芋頭糕"
@@ -38,7 +38,7 @@
       }
     ],
     "description": "Similar to turnip cakes 蘿蔔糕 (lò baahk gōu) but made with taro mixed with rice flour and tidbits like Chinese sausage. It's cut into squares and steamed or pan-fried.\n\n芋頭 means “taro“, while 糕 is “cake.”\n\nTaro cake is sometimes known as “yam cake” in Malaysia and Singapore, but it's not yam as in sweet potatoes, it's really taro.",
-    "Tags": [
+    "tags": [
       "蘿蔔糕",
       "蒸",
       "煎",
@@ -46,7 +46,7 @@
       "糕",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2009/01/chinese-new-year-taro-cake.html"

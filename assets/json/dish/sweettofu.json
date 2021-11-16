@@ -6,7 +6,7 @@
                 "Chinese": "豆腐花",
                 "Yale": "dauh fuh fā",
                 "Pinyin": "dòu fu huā",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豆腐花",
                         "URL": "https://en.wiktionary.org/wiki/豆腐花"
@@ -37,7 +37,7 @@
             }
         ],
         "description": "Very soft, sweet, tofu served in a bowl with syrup, for dessert.\n\n**Character**\n\n豆腐 is “tofu,” and 花 is “flower.”\n\nIn Mandarin, this is often called 豆花 (dòu huā) for short.",
-        "Tags": [
+        "tags": [
             "糖水",
             "粵菜",
             "豆腐",
@@ -47,7 +47,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"
@@ -89,7 +89,7 @@
                 "English": "almond tofu",
                 "Yale": "hahng yàhn dauh fuh",
                 "Pinyin": "xìng rén dòu fu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "杏仁豆腐",
                         "URL": "https://en.wiktionary.org/wiki/杏仁豆腐"
@@ -128,7 +128,7 @@
             }
         ],
         "description": "This looks like and has the consistency of tofu, but it's actually made from sweetened almond milk.\n\n**Characters**\n\n杏仁 means “almond,” and 豆腐 is “tofu.”",
-        "Tags": [
+        "tags": [
             "糖水",
             "豆腐",
             "杏仁",
@@ -136,7 +136,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/page/4/"

@@ -7,7 +7,7 @@
                 "Yale": "sāam màhn jih",
                 "Jyutping": "saam1 man4 zi6",
                 "Pinyin": "sān wén zhì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "三文治",
                         "URL": "https://en.wiktionary.org/wiki/三文治"
@@ -34,12 +34,12 @@
             }
         ],
         "description": "A Hong Kong-style sandwich. Sandwiches are a standard offering of Hong Kong-style cafes, 茶餐廳 (cha chaan teng).\n\n**Characters**\n\n[三文治](https://en.wiktionary.org/wiki/三文治) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich*, and also similar to the loanword for *salmon* (三文魚 *sāam màhn yùh*).",
-        "Tags": [
+        "tags": [
             "港式",
             "三文治",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
@@ -54,7 +54,7 @@
                 "Yale": "gūng sī sāam màhn jih",
                 "Jyutping": "gung1 si1 saam1 man4 zi6",
                 "Pinyin": "gōng sī sān wén zhì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "公司",
                         "URL": "https://en.wiktionary.org/wiki/公司"
@@ -93,13 +93,13 @@
             }
         ],
         "description": "A Hong Kong-style club sandwich.\n\n**Characters**\n\n[公司](https://en.wiktionary.org/wiki/公司) is *company* (the corporate kind), and [三文治](https://en.wiktionary.org/wiki/三文治) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich*. So 公司三文治 is *company sandwich*.",
-        "Tags": [
+        "tags": [
             "番茄",
             "港式",
             "三文治",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng#Food_and_drinks"
@@ -114,7 +114,7 @@
                 "Yale": "yīn yuhk sāang choi fāan ké sāam màhn jih",
                 "Jyutping": "jin1 juk6 saang1 coi3 faan1 ke2 saam1 man4 zi6",
                 "Pinyin": "yān ròu shēng cài fān qié sān wén zhì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "煙肉",
                         "URL": "https://en.wiktionary.org/wiki/煙肉"
@@ -177,7 +177,7 @@
             }
         ],
         "description": "A bacon, lettuce, tomato sandwich..\n\n**Characters**\n\nFor a sandwich with a short English name, a [BLT](https://en.wikipedia.org/wiki/BLT) has a really long Chinese name. [煙肉](https://en.wiktionary.org/wiki/煙肉) is *bacon*, [生菜](https://en.wiktionary.org/wiki/生菜) is *lettuce*, [番茄](https://en.wiktionary.org/wiki/番茄) is *tomato*, and [三文治](https://en.wiktionary.org/wiki/三文治) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich*. So 煙肉生菜番茄三文治 is *bacon lettuce tomato sandwich*.",
-        "Tags": [
+        "tags": [
             "煙肉",
             "生菜",
             "番茄",
@@ -185,7 +185,7 @@
             "三文治",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/BLT"
@@ -200,7 +200,7 @@
                 "Yale": "dáan ngàuh jih",
                 "Jyutping": "daan2 ngau4 zi6",
                 "Pinyin": "dàn niú zhì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蛋",
                         "URL": "https://en.wiktionary.org/wiki/蛋"
@@ -223,12 +223,12 @@
             }
         ],
         "description": "A Hong Kong-style sandwich with corned beef and scrambled egg.\n\n**Characters**\n\n蛋 is *egg*, 牛 is short for beef (牛肉), and 治 is the tail end of loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich* ([三文治](https://en.wiktionary.org/wiki/三文治)).",
-        "Tags": [
+        "tags": [
             "港式",
             "三文治",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Hong Kong Cookery",
                 "URL": "https://www.thehongkongcookery.com/2019/02/corned-beef-egg-sandwich.html"
@@ -247,7 +247,7 @@
                 "Yale": "ńgh chāan yuhk dáan sāam màhn jih",
                 "Jyutping": "ng5 caan1 juk6 daan2 saam1 man4 zi6",
                 "Pinyin": "wǔ cān ròu dàn sān wén zhì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "午餐肉",
                         "URL": "https://en.wiktionary.org/wiki/午餐肉"
@@ -298,14 +298,14 @@
             }
         ],
         "description": "A Hong Kong-style sandwich with pan-fried spam and scrambled egg.\n\n**Characters**\n\n午餐 is “lunch” (“noon meal”), and 肉 is “meat”, so 午餐肉 is “lunch meat”, i.e. spam. 蛋 is “egg,” and [三文治](https://en.wiktionary.org/wiki/三文治) is the loanword](https://en.wikipedia.org/wiki/Loanword) for *sandwich*, so 午餐肉蛋三文治 is *lunch meat and egg sandwich*.",
-        "Tags": [
+        "tags": [
             "午餐肉",
             "港式",
             "蛋",
             "三文治",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Missing Lokness",
                 "URL": "https://themissinglokness.com/2021/02/04/spam-and-egg-sandwiches/"

@@ -7,7 +7,7 @@
                 "English": "siu mai",
                 "Yale": "sīu maaih",
                 "Pinyin": "shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "燒賣",
                         "URL": "https://en.wiktionary.org/wiki/燒賣"
@@ -34,14 +34,14 @@
             }
         ],
         "description": "Steamed dumplings, typically pork mixed with shrimp, but there are variations with other fillings. Features a thin wrapping around the side and often dotted with a little orange carrot, crab roe, or green pea on top.\n\n**Characters**\n\nThe first character 燒 means “burn/bake/sear“ and the second is “sell,“ so you can think “bake sale“ as a mnemonic.\n\nOften paired with 蝦餃 (shrimp dumplings), so in dim sum restaurants, the servers pushing the carts often announce “hā gáau, sīu maaih.“",
-        "Tags": [
+        "tags": [
             "燒賣",
             "豬肉",
             "蝦",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Adventures with Kake",
                 "URL": "https://kake.dreamwidth.org/44844.html"
@@ -72,7 +72,7 @@
                 "English": "pork siu mai",
                 "Yale": "jyū yuhk sīu maaih",
                 "Pinyin": "zhū ròu shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豬肉",
                         "URL": "https://en.wiktionary.org/wiki/豬肉"
@@ -107,13 +107,13 @@
             }
         ],
         "description": "Siu mai 燒賣 filled with pork.\n\n**Characters**\n\nThe first two characters 豬 is “pig,“ and the second character 肉 is “meat, so together they mean “pork.“",
-        "Tags": [
+        "tags": [
             "燒賣",
             "豬肉",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/pork-siu-mai/"
@@ -128,7 +128,7 @@
                 "English": "shrimp siu mai",
                 "Yale": "hā sīu maaih",
                 "Pinyin": "xiā shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蝦",
                         "URL": "https://en.wiktionary.org/wiki/蝦"
@@ -155,13 +155,13 @@
             }
         ],
         "description": "Siu mai 燒賣 filled with shrimp.\n\n**Characters**\n\nThe first character 蝦 is “shrimp.“\n\nAlthough shrimp siu mai doesn't have a pork filling, the shrimp is often mixed with pork fat to keep the wrapper from drying out.",
-        "Tags": [
+        "tags": [
             "蝦",
             "燒賣",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/shumai/shrimp-shumai"
@@ -176,7 +176,7 @@
                 "English": "shrimp and pork siu mai",
                 "Yale": "sīn hā jyū yuhk sīu maaih",
                 "Pinyin": "xiān xiā hū ròu shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鮮",
                         "URL": "https://en.wiktionary.org/wiki/鮮"
@@ -219,13 +219,13 @@
             }
         ],
         "description": "Siu mai 燒賣 filled with shrimp and pork.\n\n**Characters**\n\nThe first two characters 鮮蝦 mean “fresh shrimp,“ the middle two characters 豬肉 means “pork,” and the final two characters 燒賣 is “siu mai.”\n\nThis is the most typical form of siu mai, so if you just order “siu mai” this is what you're likely to get.",
-        "Tags": [
+        "tags": [
             "蝦",
             "燒賣",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Stuffed-Pork-and-Shrimp-Dumplings"
@@ -240,7 +240,7 @@
                 "English": "scallop siu mai",
                 "Yale": "dáai jí sīu maaih",
                 "Pinyin": "dài zi shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "帶子",
                         "URL": "https://en.wiktionary.org/wiki/帶子"
@@ -275,13 +275,13 @@
             }
         ],
         "description": "Siu mai 燒賣 topped with scallop.\n\n**Characters**\n\nThe first two characters 帶子 mean “scallop,“ and the final two characters 燒賣 is “siu mai.”",
-        "Tags": [
+        "tags": [
             "帶子",
             "燒賣",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "BBC Food",
                 "URL": "https://www.bbc.co.uk/food/recipes/scallopandporksiumai_91216"
@@ -300,7 +300,7 @@
                 "English": "quail egg siu mai",
                 "Yale": "ām sèuhn dáan sīu maaih",
                 "Pinyin": "ān chún dàn shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鵪鶉蛋",
                         "URL": "https://en.wiktionary.org/wiki/鵪鶉蛋"
@@ -338,13 +338,13 @@
             }
         ],
         "description": "This siu mai 燒賣 has a quail egg embedded in the pork and is entirely enclosed by the wrapper.\n\n**Characters**\n\nThe first two characters 鵪鶉 mean “quail,“ and the third character 蛋 is “egg.“",
-        "Tags": [
+        "tags": [
             "點心",
             "燒賣",
             "鵪鶉蛋",
             "蒸"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "CNN Travel",
                 "URL": "https://www.cnn.com/travel/article/hong-kong-classic-dim-sum/index.html"
@@ -359,7 +359,7 @@
                 "English": "mushroom siu mai",
                 "Yale": "dūng gū sīu maaih",
                 "Pinyin": "dōng gū shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "冬菇",
                         "URL": "https://en.wiktionary.org/wiki/冬菇"
@@ -394,13 +394,13 @@
             }
         ],
         "description": "Siu mai 燒賣 without the traditional wrapper, but instead the filling rests on a large mushroom.\n\n**Characters**\n\nThe first two characters 冬菇 mean “mushroom.“",
-        "Tags": [
+        "tags": [
             "燒賣",
             "冬菇",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
         ]
     },
     {
@@ -411,7 +411,7 @@
                 "English": "chicken siu mai",
                 "Yale": "gāi sīu maaih",
                 "Pinyin": "jī shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "雞",
                         "URL": "https://en.wiktionary.org/wiki/雞"
@@ -438,13 +438,13 @@
             }
         ],
         "description": "Siu mai 燒賣 filled with chicken.\n\nThe first character 雞 is “chicken.“",
-        "Tags": [
+        "tags": [
             "燒賣",
             "雞",
             "蒸",
             "點心"
         ],
-        "Resources": []
+        "resources": []
     },
     {
         "words": [
@@ -454,7 +454,7 @@
                 "English": "fish siu mai",
                 "Yale": "yùh yuhk sīu maaih",
                 "Pinyin": "yú ròu shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "魚肉",
                         "URL": "https://en.wiktionary.org/wiki/魚肉"
@@ -489,13 +489,13 @@
             }
         ],
         "description": "Siu mai 燒賣 filled with minced fish.\n\nThe first two characters 魚肉 means “fish meat.”\n\nFish siu mai is a popular street snack.",
-        "Tags": [
+        "tags": [
             "燒賣",
             "魚肉",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Mrs's P's Kitchn",
                 "URL": "http://www.mrspskitchen.net/hong-kong-style-fish-shumai-siu-mai-港式魚肉燒賣/"
@@ -510,7 +510,7 @@
                 "English": "vegan siu mai",
                 "Yale": "fóng yuhk sīu maaih",
                 "Pinyin": "fǎng ròu shāo mài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "仿",
                         "URL": "https://en.wiktionary.org/wiki/仿"
@@ -541,7 +541,7 @@
             }
         ],
         "description": "Siu mai 燒賣 filled with imitation meat.\n\n**Characters**\n\nThe first two characters 仿肉 means “imitation meat.”",
-        "Tags": [
+        "tags": [
             "燒賣",
             "仿肉",
             "素",

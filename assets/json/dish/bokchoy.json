@@ -6,7 +6,7 @@
                 "English": "bok choy",
                 "Yale": "baahk choi",
                 "Pinyin": "bái cài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "白菜",
                         "URL": "https://en.wiktionary.org/wiki/白菜"
@@ -29,11 +29,11 @@
             }
         ],
         "description": "[Bok choy](https://en.wikipedia.org/wiki/Bok_choy)  is aleafy green vegetable similar to Chinese broccoli.\n\n**Characters**\n\n白 is “white,” and 菜 is “vegetable.“ so it's “white vegetable.”\n\nBok choy is usually 小白菜 “small” or “baby” bok choy, or 上海白菜 “Shanghai” bok choy, as opposed to 大白菜 “big” bok choy, otherwise known as Chinese or Napa cabbage.",
-        "Tags": [
+        "tags": [
             "白菜",
             "菜"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Napa cabbage",
                 "URL": "https://en.wikipedia.org/wiki/Napa_cabbage"
@@ -59,7 +59,7 @@
                 "English": "bok choy with mushrooms",
                 "Yale": "dūng gū baahk choi",
                 "Pinyin": "dōng gū bái cài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "冬菇",
                         "URL": "https://en.wiktionary.org/wiki/冬菇"
@@ -94,7 +94,7 @@
             }
         ],
         "description": "[Bok choy](https://en.wikipedia.org/wiki/Bok_choy) stir-fried with mushroom.\n\n**Characters**\n\n冬菇 is “mushroom,” and 白菜 is “bok choy” or “white vegetable.”",
-        "Tags": [
+        "tags": [
             "冬菇",
             "白菜",
             "炒",
@@ -102,7 +102,7 @@
             "素",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/bok-choy-and-mushroom/"
@@ -117,7 +117,7 @@
                 "Yale": "gōu laih choi",
                 "Simplified": "高丽菜",
                 "Pinyin": "gāo lí cài",
-                "Resources": [
+                "resources": [
                     {
                         "name": "高麗菜",
                         "URL": "https://en.wiktionary.org/wiki/高麗菜"
@@ -148,11 +148,11 @@
             }
         ],
         "description": "*Taiwanese cabbage* are large and somewhat flat, so they are also listed as “flat cabbage.”",
-        "Tags": [
+        "tags": [
             "菜",
             "臺灣"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Tainong Seeds",
                 "URL": "https://www.tainongseeds.com/cabbage-flat-types/"

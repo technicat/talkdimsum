@@ -7,7 +7,7 @@
                 "English": "fried fish cake",
                 "Yale": "jīn yùh béng",
                 "Pinyin": "jiān yú bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "煎",
                         "URL": "https://en.wiktionary.org/wiki/煎"
@@ -34,14 +34,14 @@
             }
         ],
         "description": "A fish paste patty breaded and pan-fried.\n\n煎 means “pan-fried,” 魚 is “fish,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
-        "Tags": [
+        "tags": [
             "魚餅",
             "魚",
             "餅",
             "煎",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Aroma Asian",
                 "URL": "http://aromasian.com/recipe/fried-fish-cake/"
@@ -60,7 +60,7 @@
                 "English": "fried shrimp cake",
                 "Yale": "jīn hā béng",
                 "Pinyin": "jiān xiā bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "煎",
                         "URL": "https://en.wiktionary.org/wiki/煎"
@@ -83,13 +83,13 @@
             }
         ],
         "description": "Shrimp mixed with vegetables and pan-fried.\n\n煎 means “pan-fried,” 蝦 is “shrimp,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
-        "Tags": [
+        "tags": [
             "蝦",
             "餅",
             "煎",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2019/01/chinese-shrimp-cakes/"
@@ -104,7 +104,7 @@
                 "English": "salted egg w/ minced pork",
                 "Yale": "hàahm dáan jīng yuhk béng",
                 "Pinyin": "xián dàn zhēng ròu bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鹹蛋",
                         "URL": "https://en.wiktionary.org/wiki/鹹蛋"
@@ -143,11 +143,11 @@
             }
         ],
         "description": "A steamed pork patty with salted egg on top.\n\n",
-        "Tags": [
+        "tags": [
             "肉",
             "豬肉"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Beyond Norm",
                 "URL": "https://beyondnorm.com/2018/11/28/meat-patty-salted-egg-recipe/"

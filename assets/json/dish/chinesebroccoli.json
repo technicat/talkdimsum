@@ -8,7 +8,7 @@
                 "English": "Chinese broccoli",
                 "Yale": "gaai láan",
                 "Pinyin": "gài lán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "芥蘭",
                         "URL": "https://en.wiktionary.org/wiki/芥蘭"
@@ -31,13 +31,13 @@
             }
         ],
         "description": "Chinese broccoli (also known as Chinese kale, or “gai lan” as it's pronunciation).\n\nChinese immigrants in America had to use broccoli as a substitute, so you could call broccoli “American gai lan.”",
-        "Tags": [
+        "tags": [
             "芥蘭",
             "菜",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Kai-lan"
@@ -56,7 +56,7 @@
                 "English": "Chinese broccoli with oyster sauce",
                 "Yale": "hòuh yàuh gaai láan",
                 "Pinyin": "háo yóu gài lán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蠔油",
                         "URL": "https://en.wiktionary.org/wiki/蠔油"
@@ -91,7 +91,7 @@
             }
         ],
         "description": "Chinese broccoli, boiled or steamed and served with oyster sauce.\n\n**Characters**\n\n蠔油 is “oyster sauce,” and 芥蘭 is “Chinese broccoli.”",
-        "Tags": [
+        "tags": [
             "芥蘭",
             "蠔油時蔬",
             "蠔油",
@@ -99,7 +99,7 @@
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Made with Lau",
                 "URL": "https://madewithlau.com/recipes/chinese-broccoli-oyster-sauce"

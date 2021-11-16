@@ -6,7 +6,7 @@
                 "English": "honey citrus tea",
                 "Yale": "yáu jí chàh",
                 "Pinyin": "yòu zi chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "柚子",
                         "URL": "https://en.wiktionary.org/wiki/柚子"
@@ -33,7 +33,7 @@
             }
         ],
         "description": "A tea made from sugar, honey and the Japanese fruit [yuzu](https://en.wikipedia.org/wiki/Yuzu). This is a traditional Korean tea known as [yuja tea](https://en.wikipedia.org/wiki/Yuja_tea)(the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 yáu jí).\n\n**Characters**\n\n[柚子](https://en.wiktionary.org/wiki/柚子) is *yuzu* (and also refers to pomelo, a fruit which resembles a large grapefruit). [茶](https://en.wiktionary.org/wiki/茶) is *tea*, so 柚子茶 *yuzu tea*.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "飲品",
             "蜜",
@@ -42,7 +42,7 @@
             "熱茶",
             "中國茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Yuja_tea"
@@ -57,7 +57,7 @@
                 "English": "honey lemon tea",
                 "Yale": "yiht lìhng maht",
                 "Pinyin": "rè níng mì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "熱",
                         "URL": "https://en.wiktionary.org/wiki/熱"
@@ -80,14 +80,14 @@
             }
         ],
         "description": "A hot tea made from sugar, honey and lemon.\n\n**Characters**\n\n熱 is *hot*, 檸 is *lemon*, and 蜜 is *honey*, so 熱檸蜜 is *hot lemon honey*.",
-        "Tags": [
+        "tags": [
             "飲品",
             "蜜",
             "檸檬",
             "茶",
             "熱茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
@@ -106,7 +106,7 @@
                 "English": "ice honey lemon tea",
                 "Yale": "dung lìhng maht",
                 "Pinyin": "dòng níng mì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "凍",
                         "URL": "https://en.wiktionary.org/wiki/凍"
@@ -133,14 +133,14 @@
             }
         ],
         "description": "An iced tea made from sugar, honey and lemon.\n\n**Characters**\n\n凍 is *cold*, 檸 is *lemon*, and 蜜 is *honey*, so 凍檸蜜 is *iced lemon honey*.",
-        "Tags": [
+        "tags": [
             "飲品",
             "蜜",
             "檸檬",
             "茶",
             "熱茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
@@ -158,7 +158,7 @@
                 "English": "grass jelly drink",
                 "Yale": "sīn chóu maht",
                 "Pinyin": "xiān cǎo mì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "仙草",
                         "URL": "https://en.wiktionary.org/wiki/仙草"
@@ -185,11 +185,11 @@
             }
         ],
         "description": "A syrupy cold drink with grass jelly.\n\n**Characters**\n\n仙 means “divine,” and 草 is “grass,” and together 仙草 refers to both the herb and the jelly made from it. 烧 is “syrup,” also short for “honey” (蜜糖 maht tòhng).",
-        "Tags": [
+        "tags": [
             "仙草",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Asian Inspirations",
                 "URL": "https://asianinspirations.com.au/recipes/grass-jelly-drink-cincau/"

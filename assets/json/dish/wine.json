@@ -7,7 +7,7 @@
         "Yale": "jáu",
         "Jyutping": "jaau2",
         "Pinyin": "jiǔ",
-        "Resources": [
+        "resources": [
           {
             "name": "酒",
             "URL": "https://en.wiktionary.org/wiki/酒"
@@ -22,11 +22,11 @@
       }
     ],
     "description": "[酒](https://en.wiktionary.org/wiki/酒) refers to any alcoholic drink, but China has its own long history of liquor, including wine and beer.\n\n**Characters**\n\nLooking at the components of the character 酒, 氵 is the radical for “water,” so if you see this on a character, it probably has to do with something liquid, and 酉 resembles a wine vessel.\n\n酒 is also the Japanese (kanji) for sake.",
-    "Tags": [
+    "tags": [
       "酒",
       "飲品"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Alcoholic_drinks_in_China"
@@ -41,7 +41,7 @@
         "English": "white wine",
         "Yale": "baahk jáu",
         "Pinyin": "bá jiǔ",
-        "Resources": [
+        "resources": [
           {
             "name": "白酒",
             "URL": "https://en.wiktionary.org/wiki/白酒"
@@ -64,13 +64,13 @@
       }
     ],
     "description": "[白](https://en.wiktionary.org/wiki/白) means *white*, and [酒](https://en.wiktionary.org/wiki/酒) is *liquor*.",
-    "Tags": [
+    "tags": [
       "酒",
       "白酒",
       "白色",
       "飲品"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/White_wine"

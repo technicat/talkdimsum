@@ -6,7 +6,7 @@
                 "English": "tofu",
                 "Yale": "dauh fuh",
                 "Pinyin": "dòu fǔ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豆腐",
                         "URL": "https://en.wiktionary.org/wiki/豆腐"
@@ -29,10 +29,10 @@
             }
         ],
         "description": "Tofu is generally known as bean curd but in Chinese cuisine also refers to a variety of tofu-like dishes and desserts with a gelatin consistency.",
-        "Tags": [
+        "tags": [
             "豆腐"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Tofu"
@@ -46,7 +46,7 @@
                 "English": "mapo tofu",
                 "Yale": "màh pòh dauh fuh",
                 "Pinyin": "má pó dòu fǔ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "麻婆豆腐",
                         "URL": "https://en.wiktionary.org/wiki/麻婆豆腐"
@@ -81,12 +81,12 @@
             }
         ],
         "description": "Soft tofu in a spicy sauce with minced meat.\n\nThe first character 麻 is short for 麻臉 which means “pockmarked face,” and 婆 is short for 婆婆 which means “old lady,” and 豆腐 is “tofu,” so it's “pockmarked old lady tofu.”\n\nThe dish is apparently named (hopefully affectionately) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox.",
-        "Tags": [
+        "tags": [
             "豆腐",
             "四川",
             "川菜"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Mapo_doufu"
@@ -132,7 +132,7 @@
                 "English": "egg tofu",
                 "Yale": "dáan dauh fuh",
                 "Pinyin": "dàn dòu fǔ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蛋",
                         "URL": "https://en.wiktionary.org/wiki/蛋"
@@ -159,11 +159,11 @@
             }
         ],
         "description": "Egg tofu is made from eggs and soy milk, typically packaged as a tube (so it's often called “tofu scallops” due to how it's sliced). It has the consistency of silken tofu.\n\n蛋 means “egg,” and 豆腐 is “tofu,” so it's “egg tofu.”\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name 玉子豆腐, or in Chinese as 日本豆腐 (“Japan tofu“). However, the Japanese version is made from eggs and dashi.",
-        "Tags": [
+        "tags": [
             "豆腐",
             "蛋"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Tofu#Egg_tofu"

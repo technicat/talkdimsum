@@ -7,7 +7,7 @@
                 "English": "water chestnut cake",
                 "Yale": "máh tàih gōu",
                 "Pinyin": "mǎ tí gāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "馬蹄糕",
                         "URL": "https://en.wiktionary.org/wiki/馬蹄糕"
@@ -38,7 +38,7 @@
             }
         ],
         "description": "A translucent jelly made from shredded water chestnuts.““馬蹄 means “water chestnut“ and 糕 is “cake“.",
-        "Tags": [
+        "tags": [
             "馬蹄",
             "糕",
             "凍",
@@ -46,7 +46,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/water-chestnut-cake/"
@@ -80,7 +80,7 @@
                 "English": "coconut pudding",
                 "Yale": "yèh jāp gōu",
                 "Pinyin": "yē zhī gāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椰汁",
                         "URL": "https://en.wiktionary.org/wiki/椰汁"
@@ -107,7 +107,7 @@
             }
         ],
         "description": "Coconut pudding is really a chilled jelly made with coconut milk and either gelatin or cornstarch.\n\n椰 means “coconut,” 汁 means “juice,” and 糕 is “cake,” so the name is essentially “coconut milk cake.”",
-        "Tags": [
+        "tags": [
             "粵菜",
             "椰汁",
             "椰",
@@ -120,7 +120,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/coconut-milk-pudding/"
@@ -159,7 +159,7 @@
                 "English": "mung bean cake",
                 "Yale": "luhk dáu gōu",
                 "Pinyin": "lǜ dòu gāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "綠豆",
                         "URL": "https://en.wiktionary.org/wiki/綠豆"
@@ -182,13 +182,13 @@
             }
         ],
         "description": "A cake filled with mung bean paste.\n\n綠 is “green” and 豆 is “bean” so 綠豆 is “green bean” (actually “mung bean”) and 糕 is “cake”, this 綠豆糕 is “green bean cake” or “mung bean cake”.",
-        "Tags": [
+        "tags": [
             "綠豆",
             "糕",
             "煎",
             "甜品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Ariel's Love Kitchen",
                 "URL": "http://ariels-love-kitchen.com/?p=449"

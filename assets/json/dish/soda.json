@@ -6,7 +6,7 @@
                 "English": "soda",
                 "Yale": "hei séui",
                 "Pinyin": "qì shuǐ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "汽水",
                         "URL": "https://en.wiktionary.org/wiki/汽水"
@@ -29,11 +29,11 @@
             }
         ],
         "description": "[汽](https://en.wiktionary.org/wiki/汽) is the mystical vital energy *qi* you often hear about, as in [Qigong](https://en.wikipedia.org/wiki/Qigong) ([氣功](https://en.wiktionary.org/wiki/%E6%B0%A3%E5%8A%9F)), but more generally it just means *gas* or *vapor* or *steam* (hence the [氵](https://en.wiktionary.org/wiki/%E6%B0%B5) water radical on the left), included in many common words like [汽車](https://en.wiktionary.org/wiki/%E6%B1%BD%E8%BB%8A) (car) and [天氣](https://en.wiktionary.org/wiki/%E5%A4%A9%E6%B0%A3) (weather). In this case, [水](https://en.wiktionary.org/wiki/水) means *water* so [汽水](https://en.wiktionary.org/wiki/汽水) is *vapor water*.",
-        "Tags": [
+        "tags": [
             "汽水",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Soft_drink"
@@ -47,7 +47,7 @@
                 "English": "7 Up",
                 "Yale": "chāt héi",
                 "Pinyin": "qī xǐ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "七喜",
                         "URL": "https://en.wiktionary.org/wiki/七喜"
@@ -70,13 +70,13 @@
             }
         ],
         "description": "**Characters**\n\n七 is the word for number 7 and 喜 means “happiness.”\n\nOriginally it was 七起 which sounds the same as literally means “7 up” but the 起 was replaced with 喜.",
-        "Tags": [
+        "tags": [
             "七喜",
             "茶餐廳",
             "飲品",
             "汽水"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/7_Up"
@@ -91,7 +91,7 @@
                 "Yale": "hàahm nìhng chāt héi",
                 "Simplified": "咸柠七",
                 "Pinyin": "xián níng qī",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鹹檸七",
                         "URL": "https://en.wiktionary.org/wiki/鹹檸七"
@@ -122,7 +122,7 @@
             }
         ],
         "description": "7-Up or Sprite combined with preserved limes is a street food and cha chaan teng drink and also popular as a cough remedy.\n\n*Characters**\n\n[鹹檸](https://en.wiktionary.org/wiki/鹹檸) is *salted lime* (鹹 is *salted* or *salty* and 檸 is *lemon* even though it's lime), and [七](https://en.wiktionary.org/wiki/) is seven, short for 7up (七起), so [鹹檸七}(https://en.wiktionary.org/wiki/鹹檸七( is *salted lime 7*.",
-        "Tags": [
+        "tags": [
             "檸檬",
             "港式",
             "七喜",
@@ -130,7 +130,7 @@
             "飲品",
             "汽水"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Hong Kong Cookery",
                 "URL": "http://www.thehongkongcookery.com/2018/08/chinese-preserved-limes.html"
@@ -152,7 +152,7 @@
                 "English": "Sprite",
                 "Yale": "syut bīk",
                 "Pinyin": "Xuě bì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "雪碧",
                         "URL": "https://en.wiktionary.org/wiki/雪碧"
@@ -175,12 +175,12 @@
             }
         ],
         "description": "雪 is the word for snow and 碧 means “blue-green,” so it 雪碧 kind of sounds like Sprite and kind of looks like [Sprite](https://en.wikipedia.org/wiki/Sprite_(drink)) (known as a [phono-semantic match](https://en.wikipedia.org/wiki/Phono-semantic_matching)).",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "飲品",
             "汽水"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Sprite_(drink)"
@@ -196,7 +196,7 @@
                 "Yale": "fēn daaht",
                 "Jyutping": "fan1 daat6",
                 "Pinyin": "fēn dá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "芬達",
                         "URL": "https://en.wiktionary.org/wiki/芬達"
@@ -219,12 +219,12 @@
             }
         ],
         "description": "芬達 is a [loanword](https://en.wikipedia.org/wiki/Loanword) for [Fanta](https://en.wikipedia.org/wiki/Fanta) (the Mandarin pronunciation (fēn dá) sounds especially close).",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "飲品",
             "汽水"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Fanta"

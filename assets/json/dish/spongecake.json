@@ -8,7 +8,7 @@
                 "Yale": "máh lāai gōu",
                 "Pinyin": "mǎ lā gāo",
                 "Other": "馬來糕",
-                "Resources": [
+                "resources": [
                     {
                         "name": "馬拉糕",
                         "URL": "https://en.wiktionary.org/wiki/馬拉糕"
@@ -39,7 +39,7 @@
             }
         ],
         "description": "A steamed sponge cake made with brown sugar.\n\n**Characters**\n\n馬拉 sounds like “Malay,” and 糕 means “cake.”\n\nIt's a Hong Kong dessert, not actually Malaysian, but possibly of Singaporean derivation (and therefore possibly inspired by British sponge cakes).",
-        "Tags": [
+        "tags": [
             "黑糖",
             "糕",
             "蒸",
@@ -47,7 +47,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Adventures with Kake",
                 "URL": "https://kake.dreamwidth.org/48053.html"
@@ -94,7 +94,7 @@
                 "English": "paper-wrapped cake",
                 "Yale": "jí bāau daahn gōu",
                 "Pinyin": "zhǐ bāo dàn gāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "纸",
                         "URL": "https://en.wiktionary.org/wiki/纸"
@@ -125,7 +125,7 @@
             }
         ],
         "description": "Muffin-sized cake baked in a paper wrappings, common in Hong Kong and Chinatown bakeries.\n\n**Characters**\n\n纸 is “paper,” 包 means “wrapping,” (the same bao for buns and bags), so 纸包 means “paper-wrapped. 蛋 is “egg,” and 糕 is “cake,” so 蛋糕 is literally “egg cake,” or in other words, a real cake batter type of cake.\n\nSometimes called “paper-wrapped sponge cake” or just “sponge cake” or ”cupcake.”",
-        "Tags": [
+        "tags": [
             "纸包",
             "馬拉",
             "蛋糕",
@@ -134,7 +134,7 @@
             "素",
             "小食"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Christine's Recipes",
                 "URL": "https://en.christinesrecipes.com/2008/08/cake-wrapped-in-paper-hong-kong.html"

@@ -13,11 +13,11 @@ Dish _$DishFromJson(Map<String, dynamic> json) {
     (json['images'] as List<dynamic>)
         .map((e) => Photo.fromJson(e as Map<String, dynamic>))
         .toList(),
-    (json['Tags'] as List<dynamic>?)?.map((e) => e as String).toList() ?? [],
+    (json['tags'] as List<dynamic>?)?.map((e) => e as String).toList() ?? [],
     (json['words'] as List<dynamic>)
         .map((e) => Word.fromJson(e as Map<String, dynamic>))
         .toList(),
-    (json['Resources'] as List<dynamic>?)
+    (json['resources'] as List<dynamic>?)
             ?.map((e) => Link.fromJson(e as Map<String, dynamic>))
             .toList() ??
         [],
@@ -27,7 +27,7 @@ Dish _$DishFromJson(Map<String, dynamic> json) {
 Map<String, dynamic> _$DishToJson(Dish instance) => <String, dynamic>{
       'description': instance.description,
       'images': instance.images,
-      'Tags': instance.tags,
+      'tags': instance.tags,
       'words': instance.words,
-      'Resources': instance.resources,
+      'resources': instance.resources,
     };

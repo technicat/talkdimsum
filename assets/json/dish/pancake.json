@@ -7,7 +7,7 @@
                 "English": "pancake",
                 "Yale": "bohk béng",
                 "Pinyin": "bǐng bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "薄餅",
                         "URL": "https://en.wiktionary.org/wiki/薄餅"
@@ -30,12 +30,12 @@
             }
         ],
         "description": "Thin wheat flour pancakes. These are often used as wrappers with fillings, including Chinese-American mushu dishes, but also by themselves (sometimes listed as “roti.”\n\n**Characters**\n\n[薄](https://en.wiktionary.org/wiki/薄) means “thin,” and [餅](https://en.wiktionary.org/wiki/薄) refers specifically to Chinese wheat flour breads, but also generally to flat and circular foods like cakes and cookies (and not just foods, e.g. a discus is 鐵餅 tit béng). So [薄餅](https://en.wiktionary.org/wiki/薄餅) is *thin pancake*.",
-        "Tags": [
+        "tags": [
             "餅",
             "素",
             "煎"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Bing_(bread)"
@@ -50,7 +50,7 @@
                 "English": "scallion pancake",
                 "Yale": "chūng yòuh béng",
                 "Pinyin": "cōng yóu bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蔥油餅",
                         "URL": "https://en.wiktionary.org/wiki/蔥油餅"
@@ -77,7 +77,7 @@
             }
         ],
         "description": "Circular pan-fried flatbreads folded with scallions and oil, found in restaurants and as street food, and in the frozen section of Asian grocery stores (very convenient, just pan-fry for a few minutes).\n\n**Historial Note**\n\nThere's a theory in China that pizza was invented by Marco Polo based on scallion pancakes. This is not a popular theory in Italy.\n\n**Personal Note\n\nWhen I was a kid in Southern California, my mom made scallion pancakes using tortillas. I was so surprised when I finally had the real thing. The tortilla version was pretty good, though.\n\n**Characters**\n\n[蔥](https://en.wiktionary.org/wiki/蔥) is the word for *scallion*, [油](https://en.wiktionary.org/wiki/油) is *oil*, and [餅](https://en.wiktionary.org/wiki/餅) for *pie* (or *cookie* or *pancake* or really anything flat and circular). So [蔥油餅](https://en.wiktionary.org/wiki/蔥油餅) is *scallion oil pancake*.",
-        "Tags": [
+        "tags": [
             "蔥",
             "油",
             "餅",
@@ -85,7 +85,7 @@
             "煎",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/green-onion-scallion-pancakes--340852783339173-c333ng-yoacuteub464ng.html"
@@ -124,7 +124,7 @@
                 "English": "chives pancake",
                 "Yale": "gáu choi béng",
                 "Pinyin": "jiǔ cài bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "韭菜",
                         "URL": "https://en.wiktionary.org/wiki/韭菜"
@@ -151,13 +151,13 @@
             }
         ],
         "description": "Circular pan-fried flatbreads, like scallion pancakes but with Chinese chives (garlic chives) instead of scallions.\n\n韭菜 is the word for “chives,“ and 餅 is the word for “pancake.”",
-        "Tags": [
+        "tags": [
             "韭菜",
             "餅",
             "素",
             "煎"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"

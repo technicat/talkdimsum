@@ -7,7 +7,7 @@
                 "English": "rice roll",
                 "Yale": "chéung fán",
                 "Pinyin": "cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "腸粉",
                         "URL": "https://en.wiktionary.org/wiki/腸粉"
@@ -30,14 +30,14 @@
             }
         ],
         "description": "Rice rolls, also known as [rice noodle rolls](http://en.wikipedia.org/wiki/Rice_noodle_roll) are steamed sheets of rice flour dough rolled up and typically filled with shrimp, beef or BBQ pork (cha siu), although the plain variety (just the noodles, doused in soy sauce, for example) is a popular street food.\n\n**Characters**\n\nThe first character [腸](https://en.wiktionary.org/wiki/腸) is the word for *intestine* (as in sausage), and the second character [粉](https://en.wiktionary.org/wiki/粉) means *flour* (as in rice flour), so you can think of [腸粉](https://en.wiktionary.org/wiki/腸粉) as *sausage of rice flour*.\n\nIn longer variations of this dish name, the last character is often omitted in speech, for example “hā chéung fán” (shrimp rice roll) is often called “hā chéung.”",
-        "Tags": [
+        "tags": [
             "粵菜",
             "早餐",
             "腸粉",
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Adventures with Kake",
                 "URL": "https://kake.dreamwidth.org/46156.html"
@@ -80,7 +80,7 @@
                 "English": "scallion rice roll",
                 "Yale": "chūng chéung fán",
                 "Pinyin": "cōng cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蔥",
                         "URL": "https://en.wiktionary.org/wiki/蔥"
@@ -107,7 +107,7 @@
             }
         ],
         "description": "Plain rice rolls served with scallions.\n\n**Characters**\n\n蔥 is “scallions,” and 腸粉 is “rice roll.”",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "豉油",
@@ -117,7 +117,7 @@
             "素",
             "點心"
         ],
-        "Resources": [
+        "resources": [
         ]
     },
     {
@@ -128,7 +128,7 @@
                 "Simplified": "鲜虾肠粉",
                 "Yale": "sīn hā chéung fán",
                 "Pinyin": "xiān xiā cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鮮",
                         "URL": "https://en.wiktionary.org/wiki/鮮"
@@ -159,7 +159,7 @@
             }
         ],
         "description": "Rice noodle sheets wrapped around shrimp, and steamed, then served with soy sauce.\n\n**Characters**\n\nThe first  characters 鮮 means “fresh,” and 蝦 means “shrimp,” so the whole thing is ”fresh shrimp rice roll,”\n\n鮮蝦 (sīn hā) is a commonly-used fancy name for shrimp, so sometimes you'll see just 蝦腸粉 (hā chéung fán), but when ordering, you usually say the even shorter 蝦腸 (hā chéung).",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "豉油",
@@ -168,7 +168,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/shrimp-noodle-rolls/"
@@ -191,7 +191,7 @@
                 "Simplified": "虾米肠粉",
                 "Yale": "hā máih chéung fán",
                 "Pinyin": "xiā mǐ cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蝦米",
                         "URL": "https://en.wiktionary.org/wiki/蝦米"
@@ -230,7 +230,7 @@
             }
         ],
         "description": "Rice noodle rolls with tiny dried shrimp.\n\n**Characters**\n\n蝦 is shrimp and 米 normally refers to grains of rice, so 蝦米 is like grains of shrimp. And 腸粉 means rice rolls.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "蝦米",
             "腸粉",
@@ -249,7 +249,7 @@
                 "Simplified": "韭黄鲜虾肠粉",
                 "Yale": "gáu wòhng sīn hā chéung fán",
                 "Pinyin": "jiǔ huáng xiān xiā cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "韮",
                         "URL": "https://en.wiktionary.org/wiki/韮"
@@ -288,7 +288,7 @@
             }
         ],
         "description": "Rice roll with shrimp and Chinese chives\n\n**Characters**\n\nThe first two characters 韮黃 mean “Chinese chives” (also known as “garlic chives”), specifically chive sprouts. 鮮 means “fresh,” and 蝦 means “shrimp,” so the whole thing is ”chives and fresh shrimp rice roll,”\n\nRice rolls with shrimp are standard dim sum, but I've only seen this variation with Chinese chives at Tim Ho Wan.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "豉油",
@@ -298,7 +298,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Chives",
                 "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
@@ -313,7 +313,7 @@
                 "English": "beef rice roll",
                 "Yale": "ngàuh yuhk chéung fán",
                 "Pinyin": "niú ròu cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "牛肉",
                         "URL": "https://en.wiktionary.org/wiki/牛肉"
@@ -348,7 +348,7 @@
             }
         ],
         "description": "Rice roll will with beef inside.\n\n**Characters**\n\nThe first two characters 牛肉 means “beef” (first character 牛 means “cow,” and the second character 肉 means “meat”).\n\nWhen ordering, you typically use the abbreviated 牛肉腸 (ngàuh yuhk chéung).",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "豉油",
@@ -356,7 +356,7 @@
             "蒸",
             "牛肉"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/beef-noodle-rolls/"
@@ -379,7 +379,7 @@
                 "English": "BBQ pork rice roll",
                 "Yale": "chā sīu chéung fán",
                 "Pinyin": "chā shāo cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "叉燒",
                         "URL": "https://en.wiktionary.org/wiki/叉燒"
@@ -414,7 +414,7 @@
             }
         ],
         "description": "Rice roll will with BBQ pork inside.\n\n**Characters**\n\nThe first two characters 叉燒 stand for “BBQ pork.”\n]nWhen ordering, you typically use the abbreviated 叉燒腸 (hā sīu chéung).",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "叉燒",
@@ -422,7 +422,7 @@
             "蒸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/bbq-pork-noodle-rolls/"
@@ -441,7 +441,7 @@
                 "English": "salmon rice roll",
                 "Yale": "sāam màhn yùh chéung fán",
                 "Pinyin": "sān wén yú cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "三文魚",
                         "URL": "https://en.wiktionary.org/wiki/三文魚"
@@ -480,7 +480,7 @@
             }
         ],
         "description": "Rice roll will with salmon inside.\n\n**Characters**\n\nThe first three characters 三文魚 means “salmon.” (三文 sounds like is “salmon,” and  魚 is “fish”)\n\nI've only seen this at Ming Tasty in Sunnyvale, California.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "豉油",
@@ -489,7 +489,7 @@
             "蒸",
             "海鮮"
         ],
-        "Resources": [
+        "resources": [
         ]
     },
     {
@@ -500,7 +500,7 @@
                 "English": "rice roll w/ lobster in black bean sauce",
                 "Yale": "sih jāp lùhng hā chéung fán",
                 "Pinyin": "chǐ zhī lóng xiā cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豉",
                         "URL": "https://en.wiktionary.org/wiki/豉"
@@ -543,7 +543,7 @@
             }
         ],
         "description": "Rice roll will with lobster and black bean sauce inside. This is a gourmet item I've only seen this at [Tim Ho Wan](http://www.timhowanusa.com/) in Las Vegas. A version with water chestnuts is available at Lung King Heen at the Four Seasons in Hong Kong.\n\n**Characters**\n\nThe first two characters 豉汁 means “black bean sauce,” 龍蝦 is “lobster,” and [腸粉](https://en.wiktionary.org/wiki/腸粉) is *rice roll*.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "豉油",
@@ -553,7 +553,7 @@
             "蒸",
             "海鮮"
         ],
-        "Resources": []
+        "resources": []
     },
     {
         "words": [
@@ -564,7 +564,7 @@
                 "English": "curry shrimp rice roll",
                 "Yale": "ga lēi hā chéung fán",
                 "Pinyin": "gā lí xiā cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "咖喱",
                         "URL": "https://en.wiktionary.org/wiki/咖喱"
@@ -603,7 +603,7 @@
             }
         ],
         "description": "Shrimp rice rolls in a curry sauce.\n\n**Characters**\n\n[咖喱](https://en.wiktionary.org/wiki/咖喱) is the loan word for *curry*, 蝦 is *shrimp*, and [腸粉](https://en.wiktionary.org/wiki/腸粉) is *rice roll*.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "咖喱",
@@ -612,7 +612,7 @@
             "粉",
             "點心"
         ],
-        "Resources": [
+        "resources": [
         ]
     },
     {
@@ -623,7 +623,7 @@
                 "English": "shredded chicken w/ bitter melon rice roll",
                 "Yale": "lèuhng gwā gāi sī chéung fán",
                 "Pinyin": "liáng guā jī sī cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "涼瓜",
                         "URL": "https://en.wiktionary.org/wiki/涼瓜"
@@ -666,7 +666,7 @@
             }
         ],
         "description": "Rice roll will with shredded chicken and [bitter melon](https://en.wikipedia.org/wiki/Momordica_charantia) inside.\n\n**Characters**\n\nThe first two characters [涼瓜](https://en.wiktionary.org/wiki/涼瓜) mean *bitter melon*, and 雞絲 means *shredded chicken*.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "腸粉",
             "豉油",
@@ -675,7 +675,7 @@
             "粉",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Rice-Flour-Roll-with-Shredded-Chicken"

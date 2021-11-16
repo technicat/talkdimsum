@@ -6,7 +6,7 @@
         "Chinese": "米酒",
         "Yale": "máih jáu",
         "Pinyin": "mǐ jiǔ",
-        "Resources": [
+        "resources": [
           {
             "name": "米酒",
             "URL": "https://en.wiktionary.org/wiki/米酒"
@@ -29,12 +29,12 @@
       }
     ],
     "description": "Wine made from fermented rice.\n\n**Characters**\n\n米 means “rice,” (uncooked) and 酒 is “liquor.”",
-    "Tags": [
+    "tags": [
       "米酒",
       "酒",
       "飲品"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Travel Guide",
         "URL": "https://www.travelchinaguide.com/chinese-rice-wine.htm"
@@ -58,7 +58,7 @@
         "Mandarin": "紹興酒",
         "Simplified": "绍兴酒",
         "Pinyin": "shào xīng jiǔ",
-        "Resources": [
+        "resources": [
           {
             "name": "紹興酒",
             "URL": "https://en.wiktionary.org/wiki/紹興酒"
@@ -93,13 +93,13 @@
       }
     ],
     "description": "Shaoxing wine is one of the best known traditional Chinese rice wines, dating back over two thousand years, and is widely used as a cooking wine.\n\n**Characters**\n\n紹酒 is short for 紹興酒 where 紹興 is Shaoxing, the city in the Zhejiang province where this wine originated, and 酒 is “liquor.”",
-    "Tags": [
+    "tags": [
       "米酒",
       "酒",
       "飲品",
       "绍兴"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Shaoxing",
         "URL": "https://en.wikipedia.org/wiki/Shaoxing"

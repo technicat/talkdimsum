@@ -7,7 +7,7 @@
                 "English": "black sesame roll",
                 "Yale": "jī màh gyún",
                 "Pinyin": "zhī ma juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "黑芝麻",
                         "URL": "https://en.wiktionary.org/wiki/黑芝麻"
@@ -42,7 +42,7 @@
             }
         ],
         "description": "[Black sesame rolls](https://en.wikipedia.org/wiki/Black_sesame_rollBlack) consist of sesame paste chilled in sheets and then rolled up.\n\n**Characters**\n\n[芝麻](https://en.wiktionary.org/wiki/芝麻) is *sesame*, and 卷 is *roll*, so [黑芝麻](https://en.wiktionary.org/wiki/黑芝麻) is *sesame roll*.",
-        "Tags": [
+        "tags": [
             "港式",
             "茶餐廳",
             "黑芝麻",
@@ -50,7 +50,7 @@
             "卷",
             "甜品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Black-Sesame-Roll"
@@ -69,7 +69,7 @@
                 "English": "coconut roll",
                 "Yale": "yèh sī gyún",
                 "Pinyin": "yē sī juàn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椰絲",
                         "URL": "https://en.wiktionary.org/wiki/椰絲"
@@ -96,7 +96,7 @@
             }
         ],
         "description": "Rolls with shredded coconut.\n\n**Characters**\n\nThe first character 椰 means “coconut,” and the second character 絲 means “shreds,” so the first two characters mean “coconut shreds.” The third character 捲 is “roll.”",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "港式",
             "椰",
@@ -104,7 +104,7 @@
             "捲",
             "甜品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2014/07/inside-hong-kong-coconut-buns/"
@@ -119,7 +119,7 @@
                 "English": "biscuit roll",
                 "Yale": "daahn gyún",
                 "Pinyin": "dàn juǎn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蛋捲",
                         "URL": "https://en.wiktionary.org/wiki/蛋捲"
@@ -141,7 +141,7 @@
             }
         ],
         "description": "[Biscuit rolls](https://en.wikipedia.org/wiki/Biscuit_roll) are crispy tubes made of flour, butter, egg and sugar. This is a bakery and snack item easily found in Chinese grocery stores stacked inside large square tins.\n\n**Characters**\n\nThe first character [蛋](https://en.wiktionary.org/wiki/蛋) is *egg*, and the second character [卷](https://en.wiktionary.org/wiki/捲) means *roll*, so literally this is *egg roll (never mind the Chinese-American version of spring rolls are often called egg rolls).",
-        "Tags": [
+        "tags": [
             "港式",
             "蛋",
             "捲",
@@ -149,7 +149,7 @@
             "素",
             "甜品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Biscuit_roll"

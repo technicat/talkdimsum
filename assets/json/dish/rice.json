@@ -7,7 +7,7 @@
         "English": "white rice",
         "Yale": "baahk faahn",
         "Pinyin": "bái fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "白飯",
             "URL": "https://en.wiktionary.org/wiki/白飯"
@@ -30,7 +30,7 @@
       }
     ],
     "description": "Plain steamed white rice, usually served in small bowls (or a big bowl from which it is served in small bowls.\n\n白 is “white,” and 飯 is “rice” (cooked rice), so it's literally “white rice.”\n\nRice is so intrinsic to Chinese cuisine that 食飯 (sihk faahn) which literally means “eat rice,” generally means to have a meal (specifically, a Chinese meal).",
-    "Resources": [
+    "resources": [
      
       {
         "name": "China Sichuan Food",
@@ -53,7 +53,7 @@
         "URL": "https://en.wikipedia.org/wiki/Cooked_rice"
       }
     ],
-    "Tags": [
+    "tags": [
       "白飯",
       "白色",
       "茶餐廳",
@@ -70,7 +70,7 @@
         "English": "Hainanese chicken rice",
         "Yale": "hói nàahm gāi faahn",
         "Pinyin": "Hǎi nán jī fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "海南",
             "URL": "https://en.wiktionary.org/wiki/海南"
@@ -101,7 +101,7 @@
       }
     ],
     "description": "Poached chicken combined with rice seasoned from the chicken stock.\n\n海南 is Hainan, a southern province in China. 雞 is “chicken,” and 飯 is “rice,” so ”Hainan chicken rice.”\n\nThis dish originated from Hainan immigrants who spread the dish throughout Asia. It is so popular in Singapore that it's considered a national dish there.",
-    "Resources": [
+    "resources": [
       {
         "name": "Angel Wong's Kitchen",
         "URL": "https://www.angelwongskitchen.com/hainanese-chicken-rice--28023213353862239151-h462inaacuten-j299-fagraven.html"
@@ -119,7 +119,7 @@
         "URL": "https://thewoksoflife.com/hainanese-chicken-rice-海南鸡/"
       }
     ],
-    "Tags": [
+    "tags": [
       "茶餐廳",
       "海南",
       "雞",
@@ -135,7 +135,7 @@
         "English": "fried chicken on rice",
         "Yale": "ja gāi faahn",
         "Pinyin": "zhà jī fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "炸雞",
             "URL": "https://en.wiktionary.org/wiki/炸雞"
@@ -162,7 +162,7 @@
       }
     ],
     "description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n炸 means “deep-fried,” 雞 is “chicken,” and 飯 is “rice,” so ”fried chicken rice.”",
-    "Tags": [
+    "tags": [
       "茶餐廳",
       "雞",
       "飯",
@@ -177,7 +177,7 @@
         "English": "fried pork chop on rice",
         "Yale": "ja jyū pàh faahn",
         "Pinyin": "zhà zhū bā fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "炸",
             "URL": "https://en.wiktionary.org/wiki/炸"
@@ -208,7 +208,7 @@
       }
     ],
     "description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n炸 means “deep-fried,” 豬扒 is “pork chop,” and 飯 is “rice,” so ”deep-fried pork chop rice.”",
-    "Tags": [
+    "tags": [
       "茶餐廳",
       "豬扒",
       "豬",
@@ -223,7 +223,7 @@
         "English": "steamed chicken w/ mushrooms on rice",
         "Yale": "dūng gū jīng gāi faahn",
         "Pinyin": "dōng gū zhēng jī fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "炸雞",
             "URL": "https://en.wiktionary.org/wiki/炸雞"
@@ -250,14 +250,14 @@
       }
     ],
     "description": "Steamed chicken and mushrooms served on white rice.\n\n**Characters**\n\n冬菇 means “mushroom,” 蒸 means “steamed,” 雞 is “chicken,” and 飯 is “rice,” so ”mushroom steamed chicken rice.”",
-    "Tags": [
+    "tags": [
       "冬菇",
       "茶餐廳",
       "雞",
       "飯",
       "白飯"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2010/02/steamed-chicken-rice.html"
@@ -272,7 +272,7 @@
         "English": "grilled eel on rice",
         "Yale": "màahn yú faahn",
         "Pinyin": "mán yú fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "鰻魚",
             "URL": "https://en.wiktionary.org/wiki/鰻魚"
@@ -299,14 +299,14 @@
       }
     ],
     "description": "Grilled eel served on white rice.\n\n**Characters**\n\n鰻魚 means “eel,” and 飯 is “rice,” so ”eel rice.”",
-    "Tags": [
+    "tags": [
       "茶餐廳",
       "鰻魚",
       "魚",
       "飯",
       "白飯"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Learn Chinese Food",
         "URL": "https://learnchinesefood.com/detail%3D9261"
@@ -321,7 +321,7 @@
         "English": "popcorn chicken rice",
         "Yale": "yìhm sōu gāi faahn",
         "Pinyin": "yán sū jī fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "鹽",
             "URL": "https://en.wiktionary.org/wiki/鹽"
@@ -348,14 +348,14 @@
       }
     ],
     "description": "Taiwanese popcorn chicken is a particularly crunchy and spicy (seasoned with Sichuan pepper) street food and snack.\n\n**Characters**\n\n鹽 means “salty,” 酥 is the same word used for flaky pastries and in this context means “crispy” or ”crunchy,” and 雞 is “chicken,” so it's “salty crunchy chicken.”",
-    "Tags": [
+    "tags": [
       "茶餐廳",
       "臺灣",
       "雞",
       "飯",
       "白飯"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wok and Kin",
         "URL": "https://www.wokandkin.com/taiwanese-popcorn-chicken/"
@@ -370,7 +370,7 @@
         "English": "Taiwanese sausage rice",
         "Yale": "hēung chéung faahn",
         "Pinyin": "xiāng cháng fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "香腸",
             "URL": "https://en.wiktionary.org/wiki/香腸"
@@ -397,12 +397,12 @@
       }
     ],
     "description": "Taiwanese sausage on white rice. Taiwanese sausage is similar to Cantonese sausage but plump instead of dried.\n\n**Characters**\n\n香腸 is Chinese sausage (香 means “fragrant,” 腸 is “sausage”)",
-    "Tags": [
+    "tags": [
       "臺灣",
       "飯",
       "白飯"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Chinese_sausage#Taiwan"

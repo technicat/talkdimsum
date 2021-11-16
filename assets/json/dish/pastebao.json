@@ -6,7 +6,7 @@
                 "Chinese": "豆沙包",
                 "Yale": "dauh sā bāau",
                 "Pinyin": "dòu shā bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豆沙",
                         "URL": "https://en.wiktionary.org/wiki/豆沙"
@@ -33,7 +33,7 @@
             }
         ],
         "description": "Fluffy steamed buns filled with red bean paste (made from adzuki beans). The paste can be chunky with fragments of beans or a smooth paste.\n\n豆沙 is “red bean paste,” and 包 is “bun.”",
-        "Tags": [
+        "tags": [
             "豆沙",
             "紅色",
             "包",
@@ -41,7 +41,7 @@
             "素",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Adzuki beans",
                 "URL": "https://en.wikipedia.org/wiki/Adzuki_bean"
@@ -75,7 +75,7 @@
                 "English": "sesame paste bun",
                 "Yale": "jī màh bāau",
                 "Pinyin": "zhī ma bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "芝麻",
                         "URL": "https://en.wiktionary.org/wiki/芝麻"
@@ -106,7 +106,7 @@
             }
         ],
         "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n芝麻 is “sesame paste,” and 包 is “bun.”",
-        "Tags": [
+        "tags": [
             "黑芝麻",
             "芝麻",
             "包",
@@ -114,7 +114,7 @@
             "素",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/black-sesame-buns/"
@@ -137,7 +137,7 @@
                 "English": "lotus seed bun",
                 "Yale": "lìhn yùhng bāau",
                 "Pinyin": "lián róng bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蓮蓉",
                         "URL": "https://en.wiktionary.org/wiki/蓮蓉"
@@ -164,12 +164,12 @@
             }
         ],
         "description": "Steamed buns filled with lotus seed paste.\n\n蓮蓉 is “lotus seed paste“, and 包 is “bun“",
-        "Tags": [
+        "tags": [
             "點心",
             "蓮蓉",
             "包"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"

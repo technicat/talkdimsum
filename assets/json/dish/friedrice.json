@@ -7,7 +7,7 @@
         "English": "fried rice",
         "Yale": "cháau faahn",
         "Pinyin": "chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "炒飯",
             "URL": "https://en.wiktionary.org/wiki/炒飯"
@@ -30,13 +30,13 @@
       }
     ],
     "description": "[Chinese fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) is cooked rice that has been cooled and then stir-fied rice with meats and vegetables (often leftovers).\n\n**Eating Tips**\n\nDon't feel obligated to try eating fried rice with chopsticks. In Asia, fried rice is often eaten with a spoon. It's a lot easier!\n\n**Cooking Tips**\n\nUse day-old refrigerated rice (rice spoils quickly, so don't leave it out at room temperature too long), which has dried out somewhat and won't be a sticky clump like freshly-cooked rice.\n\n**Characters**\n\n[炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so [炒飯](https://en.wiktionary.org/wiki/炒飯) is *stir-fried rice*.",
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Chinese_fried_rice"
       }
     ],
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
@@ -51,7 +51,7 @@
         "English": "Yangzhou fried rice",
         "Yale": "yèuhng jāu cháau faahn",
         "Pinyin": "Yáng zhōu chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "揚州",
             "URL": "https://en.wiktionary.org/wiki/揚州"
@@ -90,7 +90,7 @@
       }
     ],
     "description": "Fried rice with scrambled egg, shrimp and barbequed pork or Chinese sausage.\n\n**Characters**\n\n[揚州](https://en.wiktionary.org/wiki/揚州) is Yangzhou, a city in China. [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so it's *Yangzhou stir-fried rice*.\n\nThis dish is often listed as “Yang Chow fried rice” or just the restaurant's “house fried rice” (or in the UK, “special fried rice”).",
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-fried-rice-yangzhou-fried-rice/"
@@ -112,7 +112,7 @@
         "URL": "https://yancancook.com/home/recipe/yang-chow-fried-rice/"
       }
     ],
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
@@ -132,7 +132,7 @@
         "English": "Chinese sausage fried rice",
         "Yale": "laahp chéung cháau faahn",
         "Pinyin": "là cháng chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "臘腸",
             "URL": "https://en.wiktionary.org/wiki/臘腸"
@@ -167,7 +167,7 @@
       }
     ],
     "description": "Fried rice with Chinese sausage.\n\n**Characters**\n\n[臘腸](https://en.wiktionary.org/wiki/臘腸) is *Chinese sausage*, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so it's *Chinese sausage stir-fried rice*.",
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/sausage-fried-rice/"
@@ -185,7 +185,7 @@
         "URL": "https://thewoksoflife.com/2018/11/chinese-sausage-fried-rice/"
       }
     ],
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
@@ -202,7 +202,7 @@
         "English": "chicken fried rice",
         "Yale": "gāi cháau faahn",
         "Pinyin": "jī chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "雞",
             "URL": "https://en.wiktionary.org/wiki/雞"
@@ -229,13 +229,13 @@
       }
     ],
     "description": "Fried rice with chicken.\n\n**Characters**\n\n[雞](https://en.wiktionary.org/wiki/雞) is *chicken*, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and 飯 is “rice” (specifically, cooked rice), so it's “chicken fried rice.”",
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chicken-fried-rice/"
       }
     ],
-    "Tags": [
+    "tags": [
       "雞",
       "炒飯",
       "炒",
@@ -251,7 +251,7 @@
         "English": "shrimp fried rice",
         "Yale": "hā yàhn cháau faahn",
         "Pinyin": "xiā rén chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "蝦仁",
             "URL": "https://en.wiktionary.org/wiki/蝦仁"
@@ -286,13 +286,13 @@
       }
     ],
     "description": "Fried rice with shrimp.\n\n**Characters**\n\n蝦 is “shrimp,” 蝦仁 means “shrimp meat,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “shrimp fried rice.”",
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/2017/01/shrimp-fried-rice/"
       }
     ],
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
@@ -309,7 +309,7 @@
         "English": "BBQ pork fried rice",
         "Yale": "chā sīu cháau faahn",
         "Pinyin": "chā shāo chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "叉燒",
             "URL": "https://en.wiktionary.org/wiki/叉燒"
@@ -344,14 +344,14 @@
       }
     ],
     "description": "Fried rice with chunks of BBQ pork, and typically with scrambled eggs and peas.\n\n**Characters**\n\n叉燒 is “BBQ pork,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “BBQ pork fried rice.”\n\nOften listed as “pork fried rice.”",
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
       "叉燒",
       "茶餐廳"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/pork-fried-rice/"
@@ -370,7 +370,7 @@
         "English": "chicken w/ salted fish fried rice",
         "Yale": "hàahm yú gāi cháau faahn",
         "Pinyin": "xián yú jī chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "鹹魚",
             "URL": "https://en.wiktionary.org/wiki/鹹魚"
@@ -413,7 +413,7 @@
       }
     ],
     "description": "Fried rice with chicken and salted fish.\n\n**Characters**\n\n鹹 is “salty,” 魚 is “fish,” 雞 is “chicken,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “salty fish chicken fried rice.”",
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/2014/07/cantonese-chicken-salted-fish-fried-rice/"
@@ -427,7 +427,7 @@
         "URL": "https://en.wikipedia.org/wiki/Cantonese_salted_fish"
       }
     ],
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
@@ -445,7 +445,7 @@
         "English": "spam fried rice",
         "Yale": "ńgh chāan yuhk cháau faahn",
         "Pinyin": "wǔ cān ròu chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "午餐肉",
             "URL": "https://en.wiktionary.org/wiki/午餐肉"
@@ -488,14 +488,14 @@
       }
     ],
     "description": "Fried rice with small chunks of spam.\n\n**Characters**\n\n午餐 is “lunch,” and 肉 is “meat,” so 午餐肉 is literally “lunch meat.” So basically, it's “luncheon meat fried rice.”",
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
       "午餐肉",
       "茶餐廳"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/2018/03/spam-fried-rice/"
@@ -510,7 +510,7 @@
         "Simplified": "素炒饭",
         "Yale": "sou cháau faahn",
         "Pinyin": "sù chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "素",
             "URL": "https://en.wiktionary.org/wiki/素"
@@ -537,7 +537,7 @@
       }
     ],
     "description": "Fried rice with just vegetables.\n\n素 means “vegetarian,” so 素炒飯 is “vegetarian fried rice.”",
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/veggie-fried-rice/"
@@ -547,7 +547,7 @@
         "URL": "https://thewoksoflife.com/vegetable-fried-rice/"
       }
     ],
-    "Tags": [
+    "tags": [
       "炒飯",
       "炒",
       "飯",
@@ -564,7 +564,7 @@
         "Simplified": "蛋炒饭",
         "Yale": "dáan cháau faahn",
         "Pinyin": "dàn chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "蛋",
             "URL": "https://en.wiktionary.org/wiki/蛋"
@@ -591,13 +591,13 @@
       }
     ],
     "description": "Fried rice mixed with scrambled egg.\n\n**Characters**\n\n蛋 is “egg,” and 炒飯 is “fried rice.”",
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/egg-fried-rice/"
       }
     ],
-    "Tags": [
+    "tags": [
       "蛋炒飯",
       "炒飯",
       "炒",
@@ -613,7 +613,7 @@
         "Simplified": "瑶柱蛋白炒饭",
         "Yale": "yìuh chyúh dáan baahk cháau faahn",
         "Pinyin": "yáo zhù dàn bái chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "瑤柱",
             "URL": "https://en.wiktionary.org/wiki/瑤柱"
@@ -648,7 +648,7 @@
       }
     ],
     "description": "Fried rice with dried scallops and egg whites.\n\n**Characters**\n\n瑤柱 is “dried scallops,” 蛋白 is “egg white,” and 炒飯 is “fried rice.”\n\nThis dish is named or nicknamed billionaire fried rice after a Hong Kong billionaire who wanted a healthy fried rice recipe.",
-    "Resources": [
+    "resources": [
       {
         "name": "Get Cracking",
         "URL": "https://www.eggs.ca/recipes/billionaire-fried-rice-with-egg-whites#"
@@ -658,7 +658,7 @@
         "URL": "https://www.wokandkin.com/dried-scallop-and-egg-white-fried-rice/"
       }
     ],
-    "Tags": [
+    "tags": [
       "瑤柱",
       "炒飯",
       "蛋白",
@@ -675,7 +675,7 @@
         "English": "Fujian fried rice",
         "Yale": "fūk gin cháau faahn",
         "Pinyin": "Fú jiàn chǎo fàn",
-        "Resources": [
+        "resources": [
           {
             "name": "福建",
             "URL": "https://en.wiktionary.org/wiki/福建"
@@ -710,7 +710,7 @@
       }
     ],
     "description": "A thick gravy typicallly containing seafood, poultry, mushroom, and vegetables, poured over fried rice with scrambled egg.\n\n**Characters**\n\n福建 is Fujian, a province on the southeast coast of China.\n\nAlso commonly known as “Hokkien fried rice.”",
-    "Resources": [
+    "resources": [
       {
         "name": "The Food Dictator",
         "URL": "https://www.thefooddictator.com/hirshon-fujianese-fried-rice-%E7%A6%8F%E5%BB%BA%E7%82%92%E9%A3%AF/"
@@ -724,7 +724,7 @@
         "URL": "https://en.wikipedia.org/wiki/Hokkien_fried_rice"
       }
     ],
-    "Tags": [
+    "tags": [
       "福建",
       "炒飯",
       "炒",

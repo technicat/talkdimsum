@@ -7,7 +7,7 @@
         "Yale": "baahk chàh",
         "Jyutping": "baak6 caa4",
         "Pinyin": "bái chá",
-        "Resources": [
+        "resources": [
           {
             "name": "白茶",
             "URL": "https://en.wiktionary.org/wiki/白茶"
@@ -30,7 +30,7 @@
       }
     ],
     "description": "A light, minimally processed, tea made from leaves harvested traditionally in the Fujian province, dating back at least as long ago as the Song Dynasty. White tea is harvested in the spring, when the the buds are still unopened and covered with white hairs, hence the name. Varieties of white tea include white peony, silver needle, and sau mei (otherwise known as *longevity eyebrows*ß).\n\n**Characters**\n\nThe first character [白](https://en.wiktionary.org/wiki/白) means *white* and the second character [茶](https://en.wiktionary.org/wiki/茶) means *tea*, so [白茶](https://en.wiktionary.org/wiki/白茶) is *white tea*.",
-    "Tags": [
+    "tags": [
       "白茶",
       "白色",
       "中國茶",
@@ -39,7 +39,7 @@
       "點心",
       "飲品"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Art of Tea",
         "URL": "https://www.artoftea.com/what-is-tea/what-is-white-tea"
@@ -63,7 +63,7 @@
         "Yale": "sauh mèih",
         "Jyutping": "saau6 mei4",
         "Pinyin": "shòu méi",
-        "Resources": [
+        "resources": [
           {
             "name": "壽眉",
             "URL": "https://en.wiktionary.org/wiki/壽眉"
@@ -86,7 +86,7 @@
       }
     ],
     "description": "A white tea produced mostly in the Fujian and Gaunxi regions. If your dim sum place serves a white tea, this is probably it. The name of this tea stems from the leaves' resemblance to the eyebrows of the Taoist deity of longevity.\n\n**Characters**\n\n[壽](https://en.wiktionary.org/wiki/壽) means *long life*, and [眉](https://en.wiktionary.org/wiki/眉) means *eyebrow*, so besides the Cantonese and Mandarin pronunciations, sometimes this tea is referred to in English with the literal translations *long life eyebrow tea* or *longevity eyebrow tea*.",
-    "Tags": [
+    "tags": [
       "飲品",
       "茶",
       "熱茶",
@@ -94,7 +94,7 @@
       "中國茶",
       "福建"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dim Sum Guide",
         "URL": "https://dimsumguide.com/site/view/Sau-Mei-Tea"
@@ -122,7 +122,7 @@
         "Yale": "baahk hòuh ngàhn jām",
         "Jyutping": "baak6 ho4 ngaan4 zam1",
         "Pinyin": "bái háo yín zhēn",
-        "Resources": [
+        "resources": [
           {
             "name": "白毫",
             "URL": "https://en.wiktionary.org/wiki/白毫"
@@ -153,7 +153,7 @@
       }
     ],
     "description": "Silver needle tea, also listed by its Mandarin pronunciation [baihao yinzhen](https://en.wikipedia.org/wiki/Baihao_Yinzhen), is the premium, meaning more expensive, white tea. It's harvested early, before the buds have opened.\n\n**Characters**\n\n[白](https://en.wiktionary.org/wiki/白) is *white*, [毫](https://en.wiktionary.org/wiki/毫) means *hair*, [銀](https://en.wiktionary.org/wiki/銀) is *silver*, and [針](https://en.wiktionary.org/wiki/針) is *needle*, so the full name is *white hair silver needle*. *White hair* describes the downy exterior of the buds, while *silver needle* refers to the shape of the buds. But usually it's just 銀針 (*silver needle*).",
-    "Tags": [
+    "tags": [
       "飲品",
       "茶",
       "熱茶",
@@ -162,7 +162,7 @@
       "福建省",
       "政和縣"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Art of Tea",
         "URL": "https://www.artoftea.com/products/silver-needle"
@@ -193,7 +193,7 @@
         "Yale": "baahk máauh dāan",
         "Jyutping": "baak6 maau5 daan1",
         "Pinyin": "bái mǔ dan",
-        "Resources": [
+        "resources": [
           {
             "name": "白",
             "URL": "https://en.wiktionary.org/wiki/白"
@@ -220,7 +220,7 @@
       }
     ],
     "description": "White peony tea, also listed by its Mandarin pronunciation [bai mudan](https://en.wikipedia.org/wiki/Bai_Mudan), is a white tea that is harvested with two leaves for each bud. The name *white peony* describes how the leaves unfurl when brewed.\n\n**Characters**\n\n[白](https://en.wiktionary.org/wiki/白) means *white*, and [牡丹](https://en.wiktionary.org/wiki/牡丹) means *peony*.",
-    "Tags": [
+    "tags": [
       "飲品",
       "茶",
       "熱茶",
@@ -228,7 +228,7 @@
       "中國茶",
       "福建"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Last Tea",
         "URL": "https://lastea.com/white-peony-tea/"

@@ -6,7 +6,7 @@
         "English": "seaweed salad",
         "Yale": "hói cho sà léut",
         "Pinyin": "hǎi cǎo shā lǜ",
-        "Resources": [
+        "resources": [
           {
             "name": "海草",
             "URL": "https://en.wiktionary.org/wiki/海草"
@@ -41,7 +41,7 @@
       }
     ],
     "description": "海 is “ocean” or “sea,” and 草 is “grass,” so 海草 is “sea grass,” or “seaweed.” 沙律 just sounds like “salad.”",
-    "Tags": [
+    "tags": [
       "菜",
       "海草",
       "海",
@@ -61,7 +61,7 @@
         "English": "jellyfish salad",
         "Yale": "lèuhng buhn hói jit",
         "Pinyin": "liáng bàn hǎi lǜ",
-        "Resources": [
+        "resources": [
           {
             "name": "涼拌",
             "URL": "https://en.wiktionary.org/wiki/涼拌"
@@ -96,7 +96,7 @@
       }
     ],
     "description": "Marinated strips of jellyfish.\n\n**Characters**\n\n海 is cold and 拌 is mix or blend, so the first two characters means a cold salad, while the the last two characters 海蜇 means jellyfish (海 is sea and 蜇 is sting).",
-    "Tags": [
+    "tags": [
       "海蜇",
       "凍",
       "沙律",
@@ -104,7 +104,7 @@
       "茶餐廳",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Adventures with Kake",
         "URL": "https://kake.dreamwidth.org/91041.html"
@@ -127,7 +127,7 @@
         "English": "cucumber salad",
         "Yale": "lèuhng buhn wòhng gwā",
         "Pinyin": "liáng bàn huáng guā",
-        "Resources": [
+        "resources": [
           {
             "name": "涼拌",
             "URL": "https://en.wiktionary.org/wiki/涼拌"
@@ -169,7 +169,7 @@
       }
     ],
     "description": "涼拌 means salad (with dressing) and 黃瓜 is “cucumber” (黃 is green or blue-green and 瓜 is a melon or gourd).",
-    "Tags": [
+    "tags": [
       "黃瓜",
       "青色",
       "沙律",
@@ -177,7 +177,7 @@
       "素",
       "茶餐廳"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/chinese-cucumber-salad/"
@@ -192,7 +192,7 @@
         "English": "chilled spicy cucumber",
         "Yale": "màh laaht síu wòhng gwā",
         "Pinyin": "má là xiǎo huáng guā",
-        "Resources": [
+        "resources": [
           {
             "name": "麻辣",
             "URL": "https://en.wiktionary.org/wiki/麻辣"
@@ -235,7 +235,7 @@
       }
     ],
     "description": "麻辣 is [Mala](https://en.wikipedia.org/wiki/Mala_(seasoning)), a spicy flavor from Sichuan cuisine, 小 is “small” and 黃瓜 is “cucumber.”",
-    "Tags": [
+    "tags": [
       "麻辣",
       "黃瓜",
       "沙律",
@@ -244,7 +244,7 @@
       "素",
       "茶餐廳"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-cucumber-salad/"

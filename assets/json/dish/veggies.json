@@ -6,7 +6,7 @@
                 "English": "vegetarian",
                 "Yale": "sou",
                 "Pinyin": "sù",
-                "Resources": [
+                "resources": [
                     {
                         "name": "素",
                         "URL": "https://en.wiktionary.org/wiki/素"
@@ -21,10 +21,10 @@
             }
         ],
         "description": "With a long history of Buddhism and people just not able to afford meat, Chinese cuisine traditionally excels in flavorful and textured vegetable dishes and also “mock” meats made from tofu and wheat gluten (yes, gluten).\n\n**Characters**\n\n素 is typically used in conjunction with a term, e.g. 素菜 (sou choi) is a vegetarian dish, 素餐 (sou chāan) a vegetarian meal, 素食 (sou sihk) is vegetarian food.\n\n素 also means “simple,” “plain,” or “clear,” so 素月 is a bright and clear moon, 素顏 (sou ngàah) a face without makeup, and 素數 (sou sou) a prime number.",
-        "Tags": [
+        "tags": [
             "素"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Highlights",
                 "URL": "https://www.chinahighlights.com/travelguide/chinese-food/vegetarian-food.htm"
@@ -51,7 +51,7 @@
                 "English": "Seasonal vegetables with oyster sauce",
                 "Yale": "hòuh yàuh sìh sō",
                 "Pinyin": "háo yóu shí shū",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蠔油",
                         "URL": "https://en.wiktionary.org/wiki/蠔油"
@@ -86,14 +86,14 @@
             }
         ],
         "description": "Seasonal vegetables, boiled or steamed and served with oyster sauce.\n\n**Characters**\n\n蠔油 is “oyster sauce,” 時 is “time” or “season,” and 蔬  is “vegetable.”",
-        "Tags": [
+        "tags": [
             "蠔油時菜",
             "蠔油",
             "菜",
             "蒸",
             "茶餐廳"
         ],
-        "Resources": []
+        "resources": []
     },
     {
         "words": [
@@ -103,7 +103,7 @@
                 "English": "Buddha's delight",
                 "Yale": "lòh hon jāai",
                 "Pinyin": "luó hàn zhā",
-                "Resources": [
+                "resources": [
                     {
                         "name": "羅漢齋",
                         "URL": "https://en.wiktionary.org/wiki/羅漢齋"
@@ -135,11 +135,11 @@
             }
         ],
         "description": "[Buddha's Delight](https://en.wikipedia.org/wiki/Buddha's_delight) is a vegetarian dish consisting of tofu and a variety of vegetables stewed in a thick soy-sauce based sauce. This really is a Chinese Buddhist dish, but it's popular in Chinese restaurants around the world.\n\n[羅漢](https://en.wiktionary.org/wiki/羅漢) is an enlightened individual on the path to Buddhahood (known as [arhat](https://en.wikipedia.org/wiki/Arhat) in Sanskrit), and [齋](https://en.wiktionary.org/wiki/齋) means *vegetarian*.",
-        "Tags": [
+        "tags": [
             "素",
             "菜"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Buddha's_delight"

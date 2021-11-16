@@ -16,18 +16,16 @@ class Dish {
   final String description;
   @JsonKey(required: true)
   final List<Photo> images;
-  @JsonKey(name: 'Tags', defaultValue: [])
+  @JsonKey(defaultValue: [])
   final List<String> tags;
   @JsonKey(required: true)
   final List<Word> words;
-  @JsonKey(name: 'Resources', defaultValue: [])
+  @JsonKey(defaultValue: [])
   final List<Link> resources;
 
   Dish(this.description, this.images, this.tags, this.words, this.resources);
 
   factory Dish.fromJson(Map<String, dynamic> json) => _$DishFromJson(json);
-
- // Map<String, dynamic> toJson() => _$DishToJson(this);
 
   bool hasTag(Word tag) => tags.contains(tag.id);
 }

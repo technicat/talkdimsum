@@ -6,7 +6,7 @@
                 "English": "biluochun",
                 "Yale": "bīk lòh chēun",
                 "Pinyin": "{bì luó chūn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "碧螺春",
                         "URL": "https://en.wiktionary.org/wiki/碧螺春"
@@ -33,7 +33,7 @@
             }
         ],
         "description": "Also listed as Pi Lo Chun, this is a green tea grown in the Dongting Moutnain region in the Jiangsu pronvice of China.\n\n碧 means “green,” 螺 means “snail,” and 春 means “spring,” (same word used in “spring roll”), so it “green snail spring,” referring to how the dried green leaves are curled into snail-like spirals.\n\nThis tea is considered one of China's “Ten Famous Teas.”",
-        "Tags": [
+        "tags": [
             "飲品",
             "茶",
             "熱",
@@ -41,7 +41,7 @@
             "綠茶",
             "中国茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Biluochun"

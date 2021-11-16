@@ -7,7 +7,7 @@
                 "English": "pan-fried vegetable dumpling",
                 "Yale": "jīn sou choi gáau",
                 "Pinyin": "jiān sù cài jiǎo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "煎",
                         "URL": "https://en.wiktionary.org/wiki/煎"
@@ -38,14 +38,14 @@
             }
         ],
         "description": "Pan-fried dumplings filled with minced vegetables such as cabbage and carrots.\n\n**Characters**\n\n煎 means “pan fried,” 素菜 means it is a vegetable dish, and 餃 is “dumpling.”",
-        "Tags": [
+        "tags": [
             "煎",
             "素菜",
             "餃",
             "素",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Serious Eats",
                 "URL": "http://www.seriouseats.com/2014/03/how-to-make-pan-fried-vegetable-dumplings.html"
@@ -64,7 +64,7 @@
                 "English": "pan-fried chive dumpling",
                 "Yale": "jīn gáu choi gáau",
                 "Pinyin": "jiān jiǔ cài jiǎo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "煎",
                         "URL": "https://en.wiktionary.org/wiki/煎"
@@ -95,7 +95,7 @@
             }
         ],
         "description": "Pan-fried dumplings filled with shrimp and Chinese chives.\n\n**Characters**\n\n[煎](https://en.wiktionary.org/wiki/煎) means *pan-fried*, [韭菜](https://en.wiktionary.org/wiki/煎) means *Chinese chives* (also known as *garlic chives*) and [餃](https://en.wiktionary.org/wiki/餃) is *dumpling*, so it's *chive dumplings*.",
-        "Tags": [
+        "tags": [
             "餃",
             "煎",
             "韭菜",
@@ -103,7 +103,7 @@
             "韭菜餃",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Chinese chives",
                 "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
@@ -122,7 +122,7 @@
                 "English": "vegan chive dumpling",
                 "Yale": "fóng yuhk gáu choi gáau",
                 "Pinyin": "ǎng ròu jiǔ cài jiǎo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "仿肉",
                         "URL": "https://en.wiktionary.org/wiki/仿肉"
@@ -161,7 +161,7 @@
             }
         ],
         "description": "Pan-fried dumplings filled with chives and imitation meat instead of shrimp.\n\n**Characters**\n\nThe first two characters 仿肉 means “imitation meat,” 韭菜 means “chives“ and 餃 is “dumpling,” so “imitation meat chive dumplings.”",
-        "Tags": [
+        "tags": [
             "仿肉",
             "煎",
             "韭菜",
@@ -169,7 +169,7 @@
             "餃",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Shrimp-and-Chive-Dumplings"
@@ -188,7 +188,7 @@
                 "English": "potstickers",
                 "Yale": "wō tip",
                 "Pinyin": "guō tiē",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鍋貼",
                         "URL": "https://en.wiktionary.org/wiki/鍋貼"
@@ -211,12 +211,12 @@
             }
         ],
         "description": "Oddly known as *potstickers* in English (and in Boston, even more oddly known as *Peking ravioli*), these thick-skinned dumplings from northern China are steamed and then pan-fried, with a meat filling.\n\n**Trivia**\n\nAs you may have guessed, the name [Peking ravioli](https://www.npr.org/sections/thesalt/2016/03/30/472147018/peking-ravioli-and-other-chinese-dishes-youll-only-find-in-boston) was coined to appeal to the large Italian community in Boston.\n\n**Characters**\n\nThe first character [鍋](https://en.wiktionary.org/wiki/鍋) is the word for *pot* and the second character [貼](https://en.wiktionary.org/wiki/貼) is *stick*, so, yeah, [鍋貼](https://en.wiktionary.org/wiki/鍋貼) does mean *potstickers*.",
-        "Tags": [
+        "tags": [
             "蒸",
             "煎",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dimsumptuous",
                 "URL": "http://www.dimsumptuous.com/2013/08/pan-fried-dumplings-potstickers.html"

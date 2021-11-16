@@ -7,7 +7,7 @@
         "English": "ice tea",
         "Yale": "bīng chàh",
         "Pinyin": "bīng chá",
-        "Resources": [
+        "resources": [
           {
             "name": "冰茶",
             "URL": "https://en.wiktionary.org/wiki/冰茶"
@@ -30,7 +30,7 @@
       }
     ],
     "description": "冰 is “ice“,  and 茶 is “tea“, so it's “ice tea.“",
-    "Tags": [
+    "tags": [
       "冰茶",
       "茶",
       "茶餐廳",

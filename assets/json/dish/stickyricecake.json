@@ -7,7 +7,7 @@
                 "English": "sticky rice cake w/ red bean paste",
                 "Yale": "dauh sā béng",
                 "Pinyin": "dòushā bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豆沙",
                         "URL": "https://en.wiktionary.org/wiki/豆沙"
@@ -34,14 +34,14 @@
             }
         ],
         "description": "Glutinous rice with a red bean paste filling, pan-fried.\n\n**Characters**\n\nThe first two characters 豆沙 mean “red bean paste,” and the third character 餅 means “cookie” or “cake.”",
-        "Tags": [
+        "tags": [
             "豆沙",
             "餅",
             "素",
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "No Frills Recipes",
                 "URL": "https://www.nofrillsrecipes.com/2015/10/sticky-rice-cake-with-red-bean-paste.html"
@@ -56,7 +56,7 @@
                 "English": "sticky rice cake w/ black sesame paste",
                 "Yale": "hāk jī màh béng",
                 "Pinyin": "hēi zhī ma bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "黑芝麻",
                         "URL": "https://en.wiktionary.org/wiki/黑芝麻"
@@ -98,7 +98,7 @@
             }
         ],
         "description": "Glutinous rice with a black sesame paste filling, pan-fried.\n\n**Characters**\n\n黑 us “black,” and 芝麻 is “sesame seed,” and together 黑芝麻 is “black sesame seed paste.” The final character 餅 means “cookie” or “cake.”",
-        "Tags": [
+        "tags": [
             "黑芝麻",
             "芝麻",
             "餅",
@@ -106,7 +106,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/sticky-rice-cake-with-black-sesame-filling/"
@@ -121,7 +121,7 @@
                 "English": "sticky rice cake w/ green tea paste",
                 "Yale": "luhk chàh béng",
                 "Pinyin": "lǜ chá bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "綠茶",
                         "URL": "https://en.wiktionary.org/wiki/綠茶"
@@ -148,7 +148,7 @@
             }
         ],
         "description": "Glutinous rice with a green tea paste filling.\n\n**Characters**\n\nThe first two characters 綠茶 mean “green tea,” and the third character 餅 means “cookie” or “cake.”",
-        "Tags": [
+        "tags": [
             "綠茶",
             "餅",
             "素",

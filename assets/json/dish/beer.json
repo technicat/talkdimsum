@@ -6,7 +6,7 @@
         "English": "beer",
         "Yale": "bē jáu",
         "Pinyin": "pí jiǔ",
-        "Resources": [
+        "resources": [
           {
             "name": "啤酒",
             "URL": "https://en.wiktionary.org/wiki/啤酒"
@@ -29,11 +29,11 @@
       }
     ],
     "description": "啤 sounds like “beer,” and 酒 is “liquor.”",
-    "Tags": [
+    "tags": [
       "酒",
       "飲品"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Beer_in_China"

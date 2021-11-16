@@ -7,7 +7,7 @@
                 "English": "salt and pepper",
                 "Yale": "jīu yìhm",
                 "Pinyin": "jiāo yán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -30,14 +30,14 @@
             }
         ],
         "description": "A salt and pepper mixture used to season deep-fried dishes. [Sichuan pepper](https://en.wikipedia.org/wiki/Sichuan_pepper) (花椒 “flower pepper”) is traditionally used, but black and white pepper is common, too (possibly due to the former US import restrictions on Sichuan pepper).\n\n**Characters**\n\n椒 is “pepper,” and 椒 is “salt,” so 椒椒 means seasoned by salt and pepper.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "花椒",
             "川菜",
             "炸",
             "椒鹽"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Sichuan pepper",
                 "URL": "https://en.wikipedia.org/wiki/Sichuan_pepper"
@@ -52,7 +52,7 @@
                 "English": "salt and pepper shrimp",
                 "Yale": "jīu yìhm hā",
                 "Pinyin": "jiāo yán xiā",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -79,7 +79,7 @@
             }
         ],
         "description": "Whole shrimp fried with the shells still on, then sprinkled with salt and pepper.\n\n**Characters**\n\n椒 is “pepper,” and 椒 is “salt,” so 椒椒 means seasoned by salt and pepper, and 蝦 means “shrimp.”, so salt and pepper shrimp.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "炸",
             "椒鹽",
@@ -87,7 +87,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/chinese-salt-and-pepper-shrimp/"
@@ -118,7 +118,7 @@
                 "English": "salt and pepper squid",
                 "Yale": "jīu yìhm yàuh yú",
                 "Pinyin": "jiāo yán xyóu yú",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -153,7 +153,7 @@
             }
         ],
         "description": "Fried squid sprinkled with salt and pepper.\n\n**Characters**\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 魷魚 means “squid,“ so salt and pepper squid.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "炸",
             "椒鹽",
@@ -161,7 +161,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/salt-and-pepper-squid/"
@@ -180,7 +180,7 @@
                 "English": "salt and pepper chicken wings",
                 "Yale": "jīu yìhm gāi chi",
                 "Pinyin": "jiāo yán jī ch",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -215,7 +215,7 @@
             }
         ],
         "description": "Fried chicken wings sprinkled with salt and pepper.\n\n**Characters**\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 雞翅means “chicken wing,“ so salt and pepper chicken wings.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "炸",
             "椒鹽",
@@ -223,7 +223,7 @@
             "雞翅",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/salt-and-pepper-chicken-wings/"
@@ -246,7 +246,7 @@
                 "English": "salt and pepper fish",
                 "Yale": "jīu yìhm yú pín",
                 "Pinyin": "jiāo yán yú piàn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -277,14 +277,14 @@
             }
         ],
         "description": "Fish fillets fried then sprinked with salt and pepper.\n\n**Characters**\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 魚 is “fish,“ and 片 is “slice,” so it's salt and pepper slices of fish.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "炸",
             "椒鹽",
             "魚",
             "魚片"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Asian Inspirations",
                 "URL": "https://asianinspirations.com.au/recipes/salt-and-pepper-fish/"
@@ -298,7 +298,7 @@
                 "English": "salt and pepper tofu",
                 "Yale": "jīu yìhm dauh fuh",
                 "Pinyin": "jiāo yán dòu fu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -333,13 +333,13 @@
             }
         ],
         "description": "Pan-fried cubes of tofu seasoned with with salt and pepper.\n\n**Characters**\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 豆腐 is “tofu.“",
-        "Tags": [
+        "tags": [
             "豆腐",
             "素",
             "茶餐廳",
             "椒鹽"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/salt-and-pepper-tofu/"
@@ -357,7 +357,7 @@
                 "English": "salt and pepper pork chop",
                 "Yale": "jīu yìhm pàaih gwāt",
                 "Pinyin": "jiāo yán pái gǔ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -392,12 +392,12 @@
             }
         ],
         "description": "Deep-fried pork chop strips seasoned with with salt and pepper.\n\n**Characters**\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 排骨 is “pork chop.“",
-        "Tags": [
+        "tags": [
             "排骨",
             "茶餐廳",
             "椒鹽"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/cantonese-salt-pepper-pork-chops/"
@@ -411,7 +411,7 @@
                 "English": "salt and pepper eggplant",
                 "Yale": "jīu yìhm ké jí",
                 "Pinyin": "jiāo yán qié zi",
-                "Resources": [
+                "resources": [
                     {
                         "name": "椒鹽",
                         "URL": "https://en.wiktionary.org/wiki/椒鹽"
@@ -446,7 +446,7 @@
             }
         ],
         "description": "Deep-fried pork chop strips seasoned with with salt and pepper.\n\n**Characters**\n\n椒 is “pepper“ and 椒 is “salt,“ so 椒椒 means seasoned by salt and pepper, and 茄子 is “eggplant.“",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "茄子",
             "素",

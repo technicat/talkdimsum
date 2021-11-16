@@ -6,7 +6,7 @@
                 "English": "Earl Grey tea",
                 "Yale": "baak jeuk chàh",
                 "Pinyin": "bó jué chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "伯爵茶",
                         "URL": "https://en.wiktionary.org/wiki/伯爵茶"
@@ -37,12 +37,12 @@
             }
         ],
         "description": "Earl Grey is an English tea (though legend has it that it was a Chinese gift to the second Earl of Grey, Charles Grey), flavored with oil of bergamot, an orange-like citrus grown in France and Italy\n\n**Characters**\n\n伯爵 means “earl” or “count,” and 茶 is “tea.”\n\nEarl Grey is one of the more popular teas in the West and occasionally can be found as an option in dim sum restaurants. And of course, it is the favorite tea of Jun-Luc Picard.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "飲品",
             "茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Bergamot",
                 "URL": "https://en.wikipedia.org/wiki/Bergamot_orange"

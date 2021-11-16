@@ -7,7 +7,7 @@
             "English": "red wine",
             "Yale": "hùhng jáu",
             "Pinyin": "hóng jiǔ",
-            "Resources": [
+            "resources": [
                {
                   "name": "紅酒",
                   "URL": "https://en.wiktionary.org/wiki/紅酒"
@@ -30,13 +30,13 @@
          }
       ],
       "description": "紅 means “red,” and 酒 is “liquor.”",
-      "Tags": [
+      "tags": [
          "酒",
          "紅酒",
          "紅色",
          "飲品"
       ],
-      "Resources": [
+      "resources": [
          {
             "name": "Wikipedia",
             "URL": "https://en.wikipedia.org/wiki/Red_wine"
@@ -51,7 +51,7 @@
             "English": "merlot",
             "Yale": "méih lohk",
             "Pinyin": "měi lè",
-            "Resources": [
+            "resources": [
                {
                   "name": "美",
                   "URL": "https://en.wiktionary.org/wiki/美"
@@ -70,12 +70,12 @@
          }
       ],
       "description": "The Chinese characters for Merlot sound like “merlot,” “méih lohk” in Cantonese, and “měi lè” in Mandarin.",
-      "Tags": [
+      "tags": [
          "酒",
          "紅酒",
          "飲品"
       ],
-      "Resources": [
+      "resources": [
          {
             "name": "Wikipedia",
             "URL": "https://en.wikipedia.org/wiki/Merlot"
@@ -90,7 +90,7 @@
             "English": "pinot noir",
             "Yale": "hāk béi nohk",
             "Pinyin": "Hēi bǐ nuò",
-            "Resources": [
+            "resources": [
                {
                   "name": "黑比諾",
                   "URL": "https://en.wiktionary.org/wiki/黑比諾"
@@ -115,7 +115,7 @@
             "English": "pinot noir",
             "Yale": "hāk pèih nohk",
             "Pinyin": "Hēi pí nuò",
-            "Resources": [
+            "resources": [
                {
                   "name": "黑皮諾",
                   "URL": "https://en.wiktionary.org/wiki/黑皮諾"
@@ -142,12 +142,12 @@
          }
       ],
       "description": "黑 means “black,” and 比諾 sort of sounds like “pinot” (the alternate 皮諾 even more so).",
-      "Tags": [
+      "tags": [
          "酒",
          "紅酒",
          "飲品"
       ],
-      "Resources": [
+      "resources": [
          {
             "name": "Wikipedia",
             "URL": "https://en.wikipedia.org/wiki/Pinot_noir"

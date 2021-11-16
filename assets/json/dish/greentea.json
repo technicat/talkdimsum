@@ -8,7 +8,7 @@
                 "Yale": "luhk chàh",
                 "Jyutping": "luk6 caa4",
                 "Pinyin": "lǜ chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "綠茶",
                         "URL": "https://en.wiktionary.org/wiki/綠茶"
@@ -43,7 +43,7 @@
             }
         ],
         "description": "[Green tea](https://en.wikipedia.org/wiki/Green_tea#Chinese_green_tea) is one of the original teas in China, dating back to the Han Dynasty. It is prepared (steamed or pan-fried) soon after harvesting and before fermentation (oxidation) takes place and is lightly caffeinated. Green tea is the most widely produced tea in China, with many varieties, such as Dragon Well, Biluochun, and Gunpowder.\n\n**Characters**\n\n綠 means “green“ and 茶 is “tea,” so the first character 綠 means“green“ and the second character 茶 means “tea,” and 綠茶 is “green tea.”",
-        "Tags": [
+        "tags": [
             "綠茶",
             "中國茶",
             "茶",
@@ -51,7 +51,7 @@
             "點心",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Art of Tea",
                 "URL": "https://www.artoftea.com/what-is-tea/what-is-green-tea"
@@ -78,7 +78,7 @@
                 "English": "dragon well tea",
                 "Yale": " lùhng jéng chàh",
                 "Pinyin": "lóng jǐng chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "龍井",
                         "URL": "https://en.wiktionary.org/wiki/龍井"
@@ -105,7 +105,7 @@
             }
         ],
         "description": "A pan-roasted green tea.\n\n龍井 is Longjing (literally “dragon well”), the village from which this tea originates, so it's often listed as “Longjing” (or “lung ching”) tea.\n\nDragon Well tea is considered one of China's “Ten Famous Teas.”",
-        "Tags": [
+        "tags": [
             "飲品",
             "茶",
             "熱",
@@ -114,7 +114,7 @@
             "中国茶",
             "中國十大名茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Longjing-Tea"
@@ -137,7 +137,7 @@
                 "Yale": "jyū chàh",
                 "Jyutping": " caa4",
                 "Pinyin": "zhū chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "珠",
                         "URL": "https://en.wiktionary.org/wiki/珠"
@@ -156,13 +156,13 @@
             }
         ],
         "description": "Tea, usually green or oolong, that is prepared by rolling the leaves into small pellets.\n\n珠 means “bead“ or “pearl”, and 茶 is “tea“, so this is sometimes called “pearl tea“ (not to be confused with boba tea!)\n\nThe English name “gunpowder” might be based on the round shape, or the smoky flavor, or the Madarin pronunciation of 剛泡的 (gāng pào de), which means “fresh brewed.”",
-        "Tags": [
+        "tags": [
             "飲品",
             "茶",
             "熱茶",
             "中國茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Let's Drink Tea",
                 "URL": "https://www.letsdrinktea.com/types-of-tea/green-tea/gunpowder-tea/"

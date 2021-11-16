@@ -7,7 +7,7 @@
                 "Yale": "tìhm bán",
                 "Jyutping": "tim4 ban2",
                 "Pinyin": "tián pǐn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "甜品",
                         "URL": "https://en.wiktionary.org/wiki/甜品"
@@ -30,10 +30,10 @@
             }
         ],
         "description": "[Chinese desserts](https://en.wikipedia.org/wiki/Chinese_desserts) include pastries, candies, cakes, jellies and puddings. Even though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!\n\n[甜](https://en.wiktionary.org/wiki/甜) means *sweet*, and [品](https://en.wiktionary.org/wiki/品) is *item*, so it's basically *sweets*.",
-        "Tags": [
+        "tags": [
             "甜品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Chinese Dessert Recipes",
                 "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/"
@@ -59,7 +59,7 @@
                 "English": "mango pancake",
                 "Yale": "mōng gwó bāan kīk",
                 "Pinyin": "máng guǒ bān jǐ",
-                "Resources": [
+                "resources": [
                     {
                         "name": "芒果",
                         "URL": "https://en.wiktionary.org/wiki/芒果"
@@ -94,14 +94,14 @@
             }
         ],
         "description": "A popular Hong Kong dessert, mango topped with whipped cream and wrapped in a crepe.\n\n芒果 means “mango,” and 班戟 sounds like “pancake” (in Cantonese, at least) so it's “mango pancake” (even though it's not really a pancake).",
-        "Tags": [
+        "tags": [
             "港式",
             "芒果",
             "班戟",
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Easy Chinese Recipes",
                 "URL": "https://www.easychineserecipes.com/hong-kong-style-mango-pancake/"
@@ -124,7 +124,7 @@
                 "English": "fried milk",
                 "Yale": "ja sīn náaih",
                 "Pinyin": "zhá xiān nǎi",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸",
                         "URL": "https://en.wiktionary.org/wiki/炸"
@@ -147,13 +147,13 @@
             }
         ],
         "description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.\n\n**Characters**\n\n炸 means “deep-fried,” 鮮 is “fresh”, and 奶 is “milk,” so it's “deep-fried fresh milk” (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n鮮奶 is part of the name for latte, “fresh milk coffee” (鮮奶咖啡).",
-        "Tags": [
+        "tags": [
             "炸",
             "奶",
             "甜品",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/fried-milk/"

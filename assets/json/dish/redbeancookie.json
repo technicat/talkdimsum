@@ -6,7 +6,7 @@
                 "English": "red bean paste triangle",
                 "Yale": "dauh sā sāam gok béng",
                 "Pinyin": "dòu shā sān jiǎo bǐng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "豆沙",
                         "URL": "https://en.wiktionary.org/wiki/豆沙"
@@ -45,7 +45,7 @@
             }
         ],
         "description": "A red bean paste filled pastry cut into triangles like a pie.\n\n**Characters**\n\n豆 is “bean,” and 沙 is “sand,” so 豆沙 “bean sand,” or, in other words, “bean paste.” The next two characters “三角“ means “triangle“ (literally “three corners,” where 角 is the “gok” used to nam horn-shaped dumpliongs), and the final character 餅 means cookie.",
-        "Tags": [
+        "tags": [
             "豆沙",
             "餅",
             "甜品"

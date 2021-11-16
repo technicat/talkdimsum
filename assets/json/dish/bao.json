@@ -8,7 +8,7 @@
                 "Yale": "bāau",
                 "Jyutping": "baau1",
                 "Pinyin": "bāo zi",
-                "Resources": [
+                "resources": [
                     {
                         "name": "包子",
                         "URL": "https://en.wiktionary.org/wiki/包子"
@@ -31,11 +31,11 @@
             }
         ],
         "description": "A large portion of classic dim sum consists of wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings.\n\n**Characters**\n\n包 means “bun,” and more generally means “package“ or “bag” (which the character kind of looks like, right?).\n\nIn Mandarin it is suffixed with 子, which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n包 is also part of 打包 (dá bāau) which you say to indicate you want leftovers wrapped up to go.",
-        "Tags": [
+        "tags": [
             "包",
             "蒸"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou-buns"
@@ -55,7 +55,7 @@
                 "Yale": "gāi bāau",
                 "Jyupting": "gai1 baau1",
                 "Pinyin": "jī bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "雞",
                         "URL": "https://en.wiktionary.org/wiki/雞"
@@ -74,13 +74,13 @@
             }
         ],
         "description": "Thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom.\n\n**History**\n\nOriginated in northern China.\n\n**Characters**\n\nThe first character 雞 means “chicken,” and the second character 包 is “bun.”",
-        "Tags": [
+        "tags": [
             "點心",
             "雞",
             "蒸",
             "包"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Chicken-Bun"
@@ -100,7 +100,7 @@
                 "Yale": "sāang jīn bāau",
                 "Jyutping": "saang1 jin1 baau1",
                 "Pinyin": "shēng jiān bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "生煎包",
                         "URL": "https://en.wiktionary.org/wiki/生煎包"
@@ -131,13 +131,13 @@
             }
         ],
         "description": "A thick pan-fried bun with a juicy pork mixture inside.\n\n**Other Names**\n\nAlso known as Shengjian bun or Shengian mantou.\n\n**Characters**\n\nThe first character 生 means “raw,” and the second character 煎 is “pan-fried,” so it's “raw-fried bun.”",
-        "Tags": [
+        "tags": [
             "點心",
             "上海",
             "煎",
             "包"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/pan-fried-pork-buns-sheng-jian-bao-recipe/"
@@ -161,7 +161,7 @@
                 "Yale": "chā bāau",
                 "Jyutping": "caa1 baau1",
                 "Pinyin": "gē bāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "叉",
                         "URL": "https://en.wiktionary.org/wiki/叉"
@@ -188,11 +188,11 @@
             }
         ],
         "description": "Meat, usually pork belly, served taco-like in a soft doughy bao wrapper. Originating from Fuzhou, this is a popular street food in Taiwan.\n\n**Characters**\n\nKnown as 叉包 (chā bāau in Cantonese) in Hong Kong, 割包 (gē bāo in Mandarin) elsewhere and similarly “gua bao” in English.",
-        "Tags": [
+        "tags": [
             "包",
             "蒸"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"

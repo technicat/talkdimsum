@@ -8,7 +8,7 @@
                 "Yale": "hùhng chàh",
                 "Jyutping": "hung4 caa4",
                 "Pinyin": "hóng chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "紅茶",
                         "URL": "https://en.wiktionary.org/wiki/紅茶"
@@ -31,7 +31,7 @@
             }
         ],
         "description": "*Black tea* is one of the more fermented and stronger-tasting teas.\n\n**Characters**\n\nChinese black tea has a reddish hue, so the first character 紅 means “red,” and the second character 茶 means “tea,” and 紅茶 literally means “red tea” (the literal Chinese for “black tea” refers to post-fermented teas like Pu'er tea).\n\n紅茶 in Japanese refers to non-Japanese tea.\n\nThe tea was called “black tea” by European traders, who named it after the color of the leaves. Black tea was invented relatively recently in the seventeenth centure, according to legend, after traveling soldiers interrupted production at a tea factory, prompting the producers to dry the leaves over pine-cone fires.",
-        "Tags": [
+        "tags": [
             "紅茶",
             "紅色",
             "茶",
@@ -40,7 +40,7 @@
             "點心",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Art of Tea",
                 "URL": "https://www.artoftea.com/what-is-tea/what-is-black-tea"
@@ -68,7 +68,7 @@
                 "Yale": "gām hàuh chàh",
                 "Jyutping": "gam1 hau4 caa4",
                 "Pinyin": "jīn hóuchá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "金",
                         "URL": "https://en.wiktionary.org/wiki/金"
@@ -91,7 +91,7 @@
             }
         ],
         "description": "Golden Monkey tea is a black tea featuring golden tips and resembling the shape of a monkey paw, hence the name (also Monkey Paw tea)\n\n**Characters**\n\n金 is “gold”, 猴 is short for “monkey,” and 茶 is tea.",
-        "Tags": [
+        "tags": [
             "紅茶",
             "紅色",
             "茶",
@@ -100,7 +100,7 @@
             "點心",
             "飲品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Let's Drink Tea",
                 "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/golden-monkey-tea/"
@@ -120,7 +120,7 @@
                 "Yale": "kèih mùhn hùhng chàh",
                 "Jyutping": "kei4 mun4 hung4 caa4",
                 "Pinyin": "qí mén hóng chá",
-                "Resources": [
+                "resources": [
                     {
                         "name": "祁門",
                         "URL": "https://en.wiktionary.org/wiki/祁門"
@@ -155,7 +155,7 @@
             }
         ],
         "description": "Keemun is a well-known black tea, one of the Chinese Ten Famous Teas.\n\nKeemun black tea is often used in English breakfast tea (which is any black tea drunk with breakfast).\n\n**Characters**\n\n祁門 is Qimen (Keemun is an old Anglicization), the county in Anhui province of China where the tea is producted, and 紅茶 is black tea (“red tea”).",
-        "Tags": [
+        "tags": [
             "紅茶",
             "紅色",
             "茶",
@@ -165,7 +165,7 @@
             "飲品",
             "中國十大名茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Let's Drink Tea",
                 "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/keemun-tea/"
@@ -185,7 +185,7 @@
                 "Yale": "laahp sāan síu júng",
                 "Jyutping": "laap6 saan1 siu2 zung2",
                 "Pinyin": "lì shān xiǎo zhǒng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "立山小種",
                         "URL": "https://en.wiktionary.org/wiki/立山小種"
@@ -228,14 +228,14 @@
             }
         ],
         "description": "*Lapsang souchong*, also known as “smoked tea” due to its smoke-fired preparation that lends to its flavor, is a black tea from the Wuyi region of the Fujian province in China.\n\n**Trivia***\n\nSir Patrick Stewart initially suggested lapsang souchong as his character Jean-Luc Picard's preferred tea, but it was decided that Earl Grey was more safely recognizable by the Star Trek audience. However, Lapsang Souchong is the preferred tea of Sherlock Holmes.",
-        "Tags": [
+        "tags": [
             "飲品",
             "茶",
             "熱茶",
             "紅茶",
             "中國茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Let's Drink Tea",
                 "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/lapsang-souchong-tea/"

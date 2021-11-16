@@ -7,7 +7,7 @@
                 "English": "siu mei",
                 "Yale": "sīu meih",
                 "Pinyin": "shāowèi",
-                "Resources": [
+                "resources": [
                     {
                         "name": "燒味",
                         "URL": "https://en.wiktionary.org/wiki/燒味"
@@ -30,13 +30,13 @@
             }
         ],
         "description": "[Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats.\n\nThe first character 燒 means “roasted,” and 味 is “flavor” or “smell.”\n\nSiu mei is also known as 燒臘 (sīu laahp), “roasted cured meat.”",
-        "Tags": [
+        "tags": [
             "粵菜",
             "燒味",
             "肉",
             "燒"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Siu_mei"
@@ -55,7 +55,7 @@
                 "English": "roast duck",
                 "Yale": "sīu aap",
                 "Pinyin": "shāo yā",
-                "Resources": [
+                "resources": [
                     {
                         "name": "燒鴨",
                         "URL": "https://en.wiktionary.org/wiki/燒鴨"
@@ -76,7 +76,7 @@
                 "English": "roast duck",
                 "Yale": "hāau aap",
                 "Pinyin": "kǎo yā",
-                "Resources": []
+                "resources": []
             }
         ],
         "images": [
@@ -86,13 +86,13 @@
             }
         ],
         "description": "Cantonese-style roasted duck.\n\nThe first character 燒 means “roasted,” and 鴨 is “duck.”",
-        "Tags": [
+        "tags": [
             "燒鴨",
             "燒味",
             "鴨",
             "燒"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Oh My Food",
                 "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
@@ -112,7 +112,7 @@
                 "Yale": "chā sīu",
                 "Jyutping": "caa1 siu1",
                 "Pinyin": "chā shāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "叉燒",
                         "URL": "https://en.wiktionary.org/wiki/叉燒"
@@ -135,14 +135,14 @@
             }
         ],
         "description": "Boneless pork oven-roasted with a sweet coating. For meals, the slices of meat are often served on a plate arrayed with other appetizers. Chunks of cha siu are ingredients in many dim sum dishes. Hunks of cha siu are available for takeout at restaurants and meat shops.\n\n**Characters**\n\nThe first character 叉 means “fork,“  and the second character 燒 means “roasted,” referring to how the meat was originally roasted on a skewer.",
-        "Tags": [
+        "tags": [
             "燒味",
             "肉",
             "叉燒",
             "燒",
             "豬肉"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"
@@ -177,7 +177,7 @@
                 "English": "pork belly",
                 "Yale": "sīu yuhk",
                 "Pinyin": "shāo ròu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "燒肉",
                         "URL": "https://en.wiktionary.org/wiki/燒肉"
@@ -200,7 +200,7 @@
             }
         ],
         "description": "Juicy roast pork with a crispy golden skin.\n\n燒 means “roasted” and 肉 is “meat,” so it's literally “roasted meat.”\n\nPork belly is cut into squares or strips so that each piece includes a strip of the crunchy skin.",
-        "Tags": [
+        "tags": [
             "燒肉",
             "燒味",
             "肉",
@@ -208,7 +208,7 @@
             "豬肉",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/crispy-pork-belly-siu-yuk/"

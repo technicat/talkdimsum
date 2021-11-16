@@ -8,7 +8,7 @@
                 "English": "shark fin dumpling",
                 "Yale": "yùh chi gáau",
                 "Pinyin": "yú chì jiǎo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "魚翅",
                         "URL": "https://en.wiktionary.org/wiki/魚翅"
@@ -35,7 +35,7 @@
             }
         ],
         "description": "Same as the steamed spinach dumplings, but also with mushrooms.\n\n菠菜 is “spinach,” 什菇 is “mushrooms,”  and 餃 is “dumpling.”",
-        "Tags": [
+        "tags": [
             "蒸",
             "魚翅",
             "魚",
@@ -43,7 +43,7 @@
             "素",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Shark_fin_dumpling"

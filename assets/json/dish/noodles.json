@@ -7,7 +7,7 @@
         "English": "dandan noodles",
         "Yale": "daam daam mihn",
         "Pinyin": "dàn dàn miàn",
-        "Resources": [
+        "resources": [
           {
             "name": "擔擔麵",
             "URL": "https://en.wiktionary.org/wiki/擔擔麵"
@@ -30,12 +30,12 @@
       }
     ],
     "description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.\n\n**Characters**\n\n擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and 麵 is “noodles.”",
-    "Tags": [
+    "tags": [
       "四川",
       "川菜",
       "麵"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/dan-dan-noodles/"
@@ -58,7 +58,7 @@
         "English": "sesame noodles",
         "Yale": "màh jeung mihn",
         "Pinyin": "má jiàng miàn",
-        "Resources": [
+        "resources": [
           {
             "name": "麻醬",
             "URL": "https://en.wiktionary.org/wiki/麻醬"
@@ -85,12 +85,12 @@
       }
     ],
     "description": "A Shanghai dish, noodles in a creamy sesame sauce.\n\n**Characters**\n\n麻醬 is *sesame paste*, and 麵 is *noodles*, so 麻醬麵 is *sesame paste noodles*.",
-    "Tags": [
+    "tags": [
       "上海",
       "麻醬",
       "麵"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/sesame-noodles/"
@@ -105,7 +105,7 @@
         "English": "yi mein",
         "Yale": "yī mihn",
         "Pinyin": "yī miàn",
-        "Resources": [
+        "resources": [
           {
             "name": "伊麵",
             "URL": "https://en.wiktionary.org/wiki/伊麵"
@@ -128,12 +128,12 @@
       }
     ],
     "description": "[Yi mein](https://en.wikipedia.org/wiki/Yi_mein) are thick, chewy, yellow noodles, also known as “long life” or ”longevity noodles” and served on birthdays.\n\n**Characters**\n\n伊 is the surname of 伊秉绶, whose household chef, as legend has it, invented this dish by accidentally deep-frying cooked noodles.",
-    "Tags": [
+    "tags": [
       "粵菜",
       "茶餐廳",
       "麵"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Food Touring",
         "URL": "https://food-touring.com/2014/05/26/guangdong-hong-kong-dried-fried-yee-mein/"
@@ -155,7 +155,7 @@
         "English": "Singapore-style noodles",
         "Yale": "sīng jāu cháau maih fán",
         "Pinyin": "xīng zhōu chǎo mǐ fěn",
-        "Resources": [
+        "resources": [
           {
             "name": "星洲炒米",
             "URL": "https://en.wiktionary.org/wiki/星洲炒米"
@@ -202,7 +202,7 @@
       }
     ],
     "description": "Thin rice nooodles flavored with curry powder, stir-fried with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n**Origin**\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.\n\n**Characters**\n\n星洲 (sometimes written as 星州) is a short name for “Singapore,” 炒 is “fried,” and 米粉 is “rice noodles.” Often shortened to 星洲炒米 or even 星米.",
-    "Tags": [
+    "tags": [
       "茶餐廳",
       "星洲",
       "炒",
@@ -213,7 +213,7 @@
       "麵",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dimsumptuous",
         "URL": "http://www.dimsumptuous.com/2013/04/singapore-fried-rice-vermicelli-fried.html"
@@ -244,7 +244,7 @@
         "English": "Hong Kong-style crispy noodles",
         "Yale": "léuhng mihn wòhng",
         "Pinyin": "liǎng miàn huáng",
-        "Resources": [
+        "resources": [
           {
             "name": "兩面",
             "URL": "https://en.wiktionary.org/wiki/兩面"
@@ -271,13 +271,13 @@
       }
     ],
     "description": "Egg noodles pan-fried into a crispy pillow (sometimes called “crispy noodle pillow”) and typically served with gravy and seafood.\n\n**Characters**\n\n[兩面](https://en.wiktionary.org/wiki/兩面) means *two face* and [黃](https://en.wiktionary.org/wiki/黃) means *yellow*. So it's *two-faced yellow noodles* characterizing how it's yellow on top and bottom.",
-    "Tags": [
+    "tags": [
       "茶餐廳",
       "港式",
       "煎",
       "麵"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Chow Fun Foods",
         "URL": "https://chowfunfoods.com/hong-kong-crispy-noodles-the-simple-way/"

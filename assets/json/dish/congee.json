@@ -6,7 +6,7 @@
                 "English": "congee",
                 "Yale": "jūk",
                 "Pinyin": "zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "粥",
                         "URL": "https://en.wiktionary.org/wiki/粥"
@@ -23,7 +23,7 @@
             }
         ],
         "description": "Rice porridge, also known as [congee](http://en.wikipedia.org/wiki/Congee) (originating from the Tamil word for rice porridge, *kanji*), is prepared by boiling rice in water for a long time, until the rice is thick and soft. A staple of Chinese breakfasts (and popular throughout Asia), it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\n**Trivia**\n\n煲電話粥 (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally “cooking telephone congee,” is slang for a long telephone conversation.",
-        "Tags": [
+        "tags": [
             "早餐",
             "粥",
             "豬",
@@ -31,7 +31,7 @@
             "熱",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/how-to-make-congee-rice-porridge/"
@@ -69,7 +69,7 @@
                 "English": "plain congee",
                 "Yale": "baahk jūk",
                 "Pinyin": "bái zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "白粥",
                         "URL": "https://en.wiktionary.org/wiki/白粥"
@@ -94,7 +94,7 @@
             }
         ],
         "description": "Plain congee, with nothing mixed in.\n\n.白 means “white,” and 粥 is “congee,” so 白粥 is literally “white congee.”",
-        "Tags": [
+        "tags": [
             "早餐",
             "茶餐廳",
             "粥",
@@ -102,7 +102,7 @@
             "素",
             "熱"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Plain-Congee"
@@ -116,7 +116,7 @@
                 "English": "pork w/ preserved egg congee",
                 "Yale": "pèih daahn sau yuhk jūk",
                 "Pinyin": "pí dàn shòu ròu zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "皮蛋",
                         "URL": "https://en.wiktionary.org/wiki/皮蛋"
@@ -155,7 +155,7 @@
             }
         ],
         "description": "Rice porridge with salty pork and preserved egg.\n\nThe first two characters 皮蛋 mean “preserved egg,” which are eggs that jelly while encased in clay mixture for weeks to months. They are also known (exaggeratedly) as “hundred-year egg,” “thousand-year egg,” “thousand-year-old egg,” or “millennium egg.”\n\n瘦肉 is “pork,” where 瘦 is “pig,” and 肉 is “meat,” so literally “pig meat.”\nAnd finally, 粥 is “congee“ or “rice porridge“, as in the previous entry.",
-        "Tags": [
+        "tags": [
             "早餐",
             "粥",
             "豬",
@@ -164,7 +164,7 @@
             "茶餐廳",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Adventures with Kake",
                 "URL": "https://kake.dreamwidth.org/57176.html"
@@ -215,7 +215,7 @@
                 "English": "fish congee",
                 "Yale": "yú pín jūk",
                 "Pinyin": "yú piàn zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "魚",
                         "URL": "https://en.wiktionary.org/wiki/魚"
@@ -238,14 +238,14 @@
             }
         ],
         "description": "Rice porridge with slices of fish fillet.\n\n**Characters**\n\n[魚](https://en.wiktionary.org/wiki/魚) is *fish*, and [片](https://en.wiktionary.org/wiki/片) is *slice* or *piece*, so 魚片 is *fish fillet*, and 粥 is *congee* (rice porridge).",
-        "Tags": [
+        "tags": [
             "早餐",
             "粥",
             "魚",
             "海鮮",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Asian Cooking Mom",
                 "URL": "https://www.asiancookingmom.com/fish-fillet-congee-using-instant-pot-%E7%94%B5%E5%8E%8B%E9%94%85%E7%89%88%E7%94%9F%E6%BB%9A%E9%B1%BC%E7%89%87%E7%B2%A5-sheng-gun-yu-pian-zhou/"
@@ -281,7 +281,7 @@
                 "Yale": "sāang choi lèhng yùh kàuh jūk",
                 "Jyutping": "saang1 coi3 lehng4 yu4 kau4 jūk",
                 "Pinyin": "shēng cài líng yú qiú zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "生菜",
                         "URL": "https://en.wiktionary.org/wiki/生菜"
@@ -328,14 +328,14 @@
             }
         ],
         "description": "Rice porridge with fish balls and lettuce.\n\n生菜 is “lettuce,” 鯪魚 is Chinese mud carp, also known as “dace,” 球 is “ball” and 粥 is rice porridge.",
-        "Tags": [
+        "tags": [
             "粥",
             "魚",
             "魚蛋",
             "海鮮",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Cirrhinus_molitorella"
@@ -350,7 +350,7 @@
                 "English": "seafood congee",
                 "Yale": "hói sīn jūk",
                 "Pinyin": "hǎi xiān zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "海鮮",
                         "URL": "https://en.wiktionary.org/wiki/海鮮"
@@ -377,13 +377,13 @@
             }
         ],
         "description": "Rice porridge with a variety of seafood.\n\n海 mans “ocean“ and “鲜 is “fresh.” Together 海鲜 refers to “seafood,”  and 粥 is rice porridge, so 海鲜粥 is “seafood porridge.”",
-        "Tags": [
+        "tags": [
             "海鮮",
             "粥",
             "魚",
             "海鮮"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "http://en.wikipedia.org/wiki/Congee"
@@ -410,7 +410,7 @@
                 "English": "shredded roast duck congee",
                 "Yale": "ngaap si jūk",
                 "Pinyin": "yā sī zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鴨",
                         "URL": "https://en.wiktionary.org/wiki/鴨"
@@ -433,13 +433,13 @@
             }
         ],
         "description": "Rice porridge with shreds of roast duck.\n\n鴨 is “duck,” and 絲 is “wire” or “thread,” so 鴨絲 is literally “duck threads,” and 粥 is “rice porridge.”",
-        "Tags": [
+        "tags": [
             "粥",
             "鴨",
             "鴨絲",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/congee/duck-congee"
@@ -454,7 +454,7 @@
                 "English": "chicken congee",
                 "Yale": "gāi yuhk jūk",
                 "Pinyin": "jī ròu zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "雞肉",
                         "URL": "https://en.wiktionary.org/wiki/雞肉"
@@ -481,12 +481,12 @@
             }
         ],
         "description": "Rice porridge with chicken.\n\n雞 is “chicken,” 肉 is “meat,” and 粥 is “rice porridge.”",
-        "Tags": [
+        "tags": [
             "粥",
             "雞肉",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/chinese-chicken-congee/"
@@ -505,7 +505,7 @@
                 "English": "Sha Tin chicken congee",
                 "Yale": "sā tìhn gāi jūk",
                 "Pinyin": "shā tián jī zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "沙田",
                         "URL": "https://en.wiktionary.org/wiki/沙田"
@@ -536,10 +536,10 @@
             }
         ],
         "description": "Congee with pieces of chicken.\n\n沙田 is Sha Tin. a town in Hong Kong, 雞 is “chicken,” and 粥 is “congee.”",
-        "Tags": [
+        "tags": [
             "粥"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Annielicious",
                 "URL": "https://annieliciousfood.blogspot.com/2014/01/famous-shatin-chicken-congee-aff-hk.html"
@@ -554,7 +554,7 @@
                 "English": "abalone w/ shredded chicken congee",
                 "Yale": "bāau yùh gāi sī jūk",
                 "Pinyin": "bào yú jī sī zhōu",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鮑魚",
                         "URL": "https://en.wiktionary.org/wiki/鮑魚"
@@ -589,12 +589,12 @@
             }
         ],
         "description": "Congee with ablone and shredded chicken.\n\n鮑魚 is abalone, 雞絲 is “shredded chicken,” and 粥 is “congee.”",
-        "Tags": [
+        "tags": [
             "鮑魚",
             "雞",
             "粥"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Edibly Asian",
                 "URL": "https://sites.google.com/site/ediblyasianprint/shredded-chicken-and-small-abalone-congee"

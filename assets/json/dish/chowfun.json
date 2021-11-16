@@ -6,7 +6,7 @@
                 "English": "chow fun",
                 "Yale": "hòh fán",
                 "Pinyin": "hé fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "河粉",
                         "URL": "https://en.wiktionary.org/wiki/河粉"
@@ -25,11 +25,11 @@
             }
         ],
         "description": "[Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) wide flat rice noodles.\n\n**Characters**\n\n河粉 is short for 沙河粉 (sā hòh fán), where 沙河 is the town where these noodles are believed to have originated and 粉 (fán) is “rice noodles.”",
-        "Tags": [
+        "tags": [
             "粵菜",
             "河粉"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Shahe_fen"
@@ -43,7 +43,7 @@
                 "English": "beef chow fun",
                 "Yale": "gōn cháau ngàuh hòh",
                 "Pinyin": "gān chǎo niú hé",
-                "Resources": [
+                "resources": [
                     {
                         "name": "乾炒牛河",
                         "URL": "https://en.wiktionary.org/wiki/乾炒牛河"
@@ -86,7 +86,7 @@
             }
         ],
         "description": "A [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) classic, [beef chow fun](https://en.wikipedia.org/wiki/Beef_chow_fun)  consists of wide flat rice noodles stir-fried with beef and bean sprouts.\n\n**Characters**\n\n乾炒 means “dry-fried” (乾 is “dry” and 炒 is “stir-fried”) which refers to the technique of stir-frying with only oil, no or little additional liquids are sauces added, 牛 is short for 牛肉 (ngàuh yuhk) which is “beef,” and 河 is short for 河粉 (hòh fán) which is the flat rice noodle.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "炒",
             "河粉",
@@ -94,7 +94,7 @@
             "茶餐廳",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/beef-rice-noodles-stir-fry.html"
@@ -137,7 +137,7 @@
                 "English": "chicken chow fun",
                 "Yale": "gōn cháau gāi hòh",
                 "Pinyin": "gān chǎo jī hé",
-                "Resources": [
+                "resources": [
                     {
                         "name": "乾炒",
                         "URL": "https://en.wiktionary.org/wiki/乾炒"
@@ -176,14 +176,14 @@
             }
         ],
         "description": "Chow fun with chicken.\n\n**Characters**\n\n乾 is “dry” (there is a “wet” version with gravy) 炒 is “stir-fried” 雞 is “chicken,” and 河 is short for 河粉 (hòh fán) which is the flat rice noodle.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "炒",
             "雞",
             "河粉",
             "茶餐廳"
         ],
-        "Resources": []
+        "resources": []
     },
     {
         "words": [
@@ -193,7 +193,7 @@
                 "English": "shrimp chow fun",
                 "Yale": "gōn cháau hā hòh",
                 "Pinyin": "gān chǎo xiā hé",
-                "Resources": [
+                "resources": [
                     {
                         "name": "乾炒",
                         "URL": "https://en.wiktionary.org/wiki/乾炒"
@@ -228,7 +228,7 @@
             }
         ],
         "description": "Chow fun with shrimp.\n\n**Characters**\n\n乾 is “dry” (there is a “wet” version with gravy) 炒 is “stir-fried” 蝦 is “shrimp,” and 河 is short for 河粉 (hòh fán) which is the flat rice noodle.",
-        "Tags": [
+        "tags": [
             "粵菜",
             "炒",
             "海鮮",
@@ -236,7 +236,7 @@
             "河粉",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Made with Lau",
                 "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"

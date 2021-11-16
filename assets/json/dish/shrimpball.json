@@ -7,7 +7,7 @@
         "English": "fried shrimp ball",
         "Yale": "ja hā kàu",
         "Pinyin": "zhà xiā qiú",
-        "Resources": [
+        "resources": [
           {
             "name": "炸",
             "URL": "https://en.wiktionary.org/wiki/炸"
@@ -30,7 +30,7 @@
       }
     ],
     "description": "Deep-fried balls of shrimp paste.\n\n**Characters**\n\nThe first character 炸 means “fried.” The second character 蝦 means “shrimp.” The third character 球 means “ball.”",
-    "Tags": [
+    "tags": [
       "蝦球",
       "炸",
       "蝦",
@@ -38,7 +38,7 @@
       "海鮮",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/deep-fried-shrimp-balls/"
@@ -53,7 +53,7 @@
         "English": "frizzy shrimp ball",
         "Yale": "gām si baahk fā hā kàu",
         "Pinyin": "jīn sī bái huā xiā qiú",
-        "Resources": [
+        "resources": [
           {
             "name": "金",
             "URL": "https://en.wiktionary.org/wiki/金"
@@ -92,7 +92,7 @@
       }
     ],
     "description": "Shrimp balls encased by wonton strips and deep-fried.\n\n**Characters**\n\nThe first character 金 means “gold,” and the second character 絲 means “wire” or “strip.” The third character 白 means “white,” 花 means “flower,” and 球 means “ball.” So, literally, “gold strip white flower ball.”",
-    "Tags": [
+    "tags": [
       "蝦球",
       "炸",
       "雲吞",
@@ -103,7 +103,7 @@
       "海鮮",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/deep-fried-shrimp-balls/"
@@ -118,7 +118,7 @@
         "English": "pearl shrimp ball",
         "Yale": "jān jyū hā kàu",
         "Pinyin": "zhēn zhū xiā qiú",
-        "Resources": [
+        "resources": [
           {
             "name": "珍珠",
             "URL": "https://en.wiktionary.org/wiki/珍珠"
@@ -149,7 +149,7 @@
       }
     ],
     "description": "Deep-fhrimp balls coated with sticky rice.\n\n**Characters**\n\n珍珠 means “pearl,” 蝦 means “shrimp,” and 球 means “ball.”",
-    "Tags": [
+    "tags": [
       "珍珠",
       "蝦球",
       "炸",
@@ -158,7 +158,7 @@
       "海鮮",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "More Than Bread",
         "URL": "http://www.morethanbread.net/2013/02/pearl-shrimp-balls.html"
@@ -173,7 +173,7 @@
         "English": "sugarcane shrimp",
         "Yale": "ja je hā",
         "Pinyin": "zhà zhè xiā",
-        "Resources": [
+        "resources": [
           {
             "name": "炸",
             "URL": "https://en.wiktionary.org/wiki/炸"
@@ -196,14 +196,14 @@
       }
     ],
     "description": "Shrimp balls on sugarcane sticks.\n\n**Characters**\n\nThe first character 炸 means “fried.” The second character 蔗 means “sugarcane.” The third character 蝦 means “shrimp.”",
-    "Tags": [
+    "tags": [
       "炸",
       "蝦",
       "蔗",
       "海鮮",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/deep-fried-shrimp-balls/"
@@ -218,7 +218,7 @@
         "English": "almond shrimp ball",
         "Yale": "hahng yàhn hā kàu",
         "Pinyin": "xìng rén xiā qiú",
-        "Resources": [
+        "resources": [
           {
             "name": "杏仁",
             "URL": "https://en.wiktionary.org/wiki/杏仁"
@@ -249,7 +249,7 @@
       }
     ],
     "description": "Deep-fried shrimp balls coated with almonds.",
-    "Tags": [
+    "tags": [
       "杏仁",
       "蝦球",
       "炸",
@@ -258,7 +258,7 @@
       "海鮮",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Egg Wan's Food Odyssey",
         "URL": "https://eggwansfoododyssey.com/2014/11/01/deep-fried-prawn-balls-with-almond-flakes/"

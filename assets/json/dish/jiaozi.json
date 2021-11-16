@@ -7,7 +7,7 @@
                 "English": "steamed dumpling",
                 "Yale": "jīng gáau",
                 "Pinyin": "zhēng jiǎo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "蒸餃",
                         "URL": "https://en.wiktionary.org/wiki/蒸餃"
@@ -30,12 +30,12 @@
             }
         ],
         "description": "These traditional Chinese dumplings are served steamed in dim sum restaurants (also pan-fried, see potstickers). They have a thick wrapper and are filled with meat and chopped vegetables.\n\n蒸 means “steamed,” and 餃 is “dumpling.”",
-        "Tags": [
+        "tags": [
             "蒸",
             "餃",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/how-to-make-dumplings/"

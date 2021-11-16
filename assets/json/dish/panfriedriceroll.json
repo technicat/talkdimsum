@@ -7,7 +7,7 @@
                 "English": "pan-fried rice roll",
                 "Yale": "jīn chéung fán",
                 "Pinyin": "jiān cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "煎",
                         "URL": "https://en.wiktionary.org/wiki/煎"
@@ -34,13 +34,13 @@
             }
         ],
         "description": "Rice rolls that are typically cut into short segments and pan-fried in a sauce, such as oyster sauce or XO sauce, and coated with sesame.",
-        "Tags": [
+        "tags": [
             "煎腸粉",
             "腸粉",
             "煎",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Pan-fried-Rice-roll"
@@ -59,7 +59,7 @@
                 "English": "pan-fried rice roll w/ XO sauce",
                 "Yale": "XO jeung jīn chéung fán",
                 "Pinyin": "XO jiàng jiān cháng fěn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "XO醬",
                         "URL": "https://en.wiktionary.org/wiki/XO醬"
@@ -94,14 +94,14 @@
             }
         ],
         "description": "Rice rolls that are typically cut into short segments and pan-fried in [XO sauce](https://en.wikipedia.org/wiki/XO_sauce), and coated with sesame.",
-        "Tags": [
+        "tags": [
             "煎腸粉",
             "腸粉",
             "XO醬",
             "煎",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Food Touring",
                 "URL": "https://food-touring.com/2014/02/05/hong-kong-pan-fried-rice-roll/"

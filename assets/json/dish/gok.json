@@ -6,7 +6,7 @@
         "English": "horn-shaped dumpling",
         "Yale": "gok",
         "Pinyin": "jiǎo",
-        "Resources": [
+        "resources": [
           {
             "name": "角",
             "URL": "https://en.wiktionary.org/wiki/角"
@@ -21,7 +21,7 @@
       }
     ],
     "description": "The character 角 means “corner,” “angle,” or “horn,” and in this context indicates a horn-shaped dumpling.",
-    "Tags": [
+    "tags": [
       "角"
     ]
   },
@@ -32,7 +32,7 @@
         "English": "taro dumpling",
         "Yale": "wuh gok",
         "Pinyin": "yù jiǎo",
-        "Resources": [
+        "resources": [
           {
             "name": "芋角",
             "URL": "https://en.wiktionary.org/wiki/芋角"
@@ -55,14 +55,14 @@
       }
     ],
     "description": "Mashed taro with a pork filling, deep-fried so the shell is fluffy and crispy. Sometimes these are called “yam puffs.”\n\n**Characters**\n\nThe first character 芋 is short for 芋頭 (wuh táu), the word for “taro”, so sometimes this dish is referred to by its full name 芋頭角 (wuh táu gok). The last character 角 means “corner,” “angle,” or “horn,” and in this context indicates a horn-shaped dumpling.",
-    "Tags": [
+    "tags": [
       "芋頭",
       "豬肉",
       "炸",
       "角",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/taro-root-dumplings/"
@@ -85,7 +85,7 @@
         "English": "deep-fried dumpling",
         "Yale": "hàahm séui gok",
         "Pinyin": "xián shuǐ jiǎo",
-        "Resources": [
+        "resources": [
           {
             "name": "鹹水角",
             "URL": "https://en.wiktionary.org/wiki/鹹水角"
@@ -108,13 +108,13 @@
       }
     ],
     "description": "Deep-fried dumplings with a sticky rice-flour shell and filled with pork.\n\n**Characters**\n\nThe first character 鹹 is the word for ”salty,” the second character 水 is the word for “water,” and the third character 角 literally means “horn-shaped.”\n\nAt a dim sum shop in a Vietnamese supermarket, I heard a customer refer to these dumplings as “footballs” (and the server understood). Indeed, they are football-shaped.",
-    "Tags": [
+    "tags": [
       "豬肉",
       "炸",
       "角",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dim Sum Central",
         "URL": "http://www.dimsumcentral.com/glutinous-rice-dumplings/"
@@ -133,7 +133,7 @@
         "English": "curry turnovers",
         "Yale": "ga lēi gok",
         "Pinyin": "kā li jiǎo",
-        "Resources": [
+        "resources": [
           {
             "name": "咖喱",
             "URL": "https://en.wiktionary.org/wiki/咖喱"
@@ -160,14 +160,14 @@
       }
     ],
     "description": "A flaky puff pastry filled with curry and beef or potatoes.\n\n**Characters**\n\n咖哩 is “curry” (sort of sounds like it), and 角 is “horn” or turnover.",
-    "Tags": [
+    "tags": [
       "咖喱角",
       "咖喱",
       "焗",
       "角",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dimsumptuous",
         "URL": "http://www.dimsumptuous.com/2013/08/curry-puff.html"
@@ -190,7 +190,7 @@
         "English": "BBQ chicken turnover",
         "Yale": " gāi chā sīu gok",
         "Pinyin": "jī chā shāo jiǎo",
-        "Resources": [
+        "resources": [
           {
             "name": "雞",
             "URL": "https://en.wiktionary.org/wiki/雞"
@@ -225,14 +225,14 @@
       }
     ],
     "description": "A flaky puff pastry filled with BBQ chicken.",
-    "Tags": [
+    "tags": [
       "咖喱角",
       "咖喱",
       "焗",
       "角",
       "點心"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Dimsumptuous",
         "URL": "http://www.dimsumptuous.com/2013/08/curry-puff.html"
@@ -254,7 +254,7 @@
         "English": "crab rangoon",
         "Yale": "háaih gok",
         "Pinyin": "xiè jiǎo",
-        "Resources": [
+        "resources": [
           {
             "name": "蟹",
             "URL": "https://en.wiktionary.org/wiki/蟹"
@@ -273,14 +273,14 @@
       }
     ],
     "description": "A deep-fried wonton filled with cream cheese and (often imitation) crab meat.\n\n**Characters**\n\n蟹 is “crab,” and 角 is “horn” or turnover.\n\nThis is an American invention (the cream cheese is a tip-off), popular in Chinese-American restaurants.",
-    "Tags": [
+    "tags": [
       "炸雲吞",
       "茶餐廳",
       "蟹",
       "角",
       "美式"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Rasamalaysia",
         "URL": "https://rasamalaysia.com/crab-rangoon-recipe/"

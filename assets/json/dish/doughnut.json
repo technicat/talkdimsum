@@ -6,7 +6,7 @@
                 "English": "Chinese sugar doughnut",
                 "Yale": "baahk tòhng sā yūng",
                 "Pinyin": "bái táng shā wēng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "白糖",
                         "URL": "https://en.wiktionary.org/wiki/白糖"
@@ -41,7 +41,7 @@
             }
         ],
         "description": "A fluffy, deep-fried spherical pastry coated in sugar (白糖 is “white sugar”). Also known as Chinese donuts, Chinese doughnuts, Chinese egg puffs, Chinese sugar egg puffs, and even Chinese beignet.",
-        "Tags": [
+        "tags": [
             "白糖沙翁",
             "白糖",
             "沙翁",
@@ -49,7 +49,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Dessert First Girl",
                 "URL": "https://dessertfirstgirl.com/2015/02/sugar-egg-puffs.html"
@@ -68,7 +68,7 @@
                 "English": "pumpkin custard ball",
                 "Yale": "náaih wòhng nàahm gwā sā yūng",
                 "Pinyin": "nǎi huáng nán guā shā wēng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "奶黃",
                         "URL": "https://en.wiktionary.org/wiki/奶黃"
@@ -115,7 +115,7 @@
             }
         ],
         "description": "A pumpkin-flavored Chinese doughnut with a custard filling. I've only seen these at [Tim Ho Wan](http://www.timhowanusa.com/), listed in English as *pumpkin roll*.\n\n**Characters**\n\n奶 is the word for “milk,” the second character 黃 is “yellow,” and together 嬭黃 means “custard.” 南瓜 is “pumpkin.” 沙翁 is a Chinese doughnut. So it's “custard pumpkin doughnut.”",
-        "Tags": [
+        "tags": [
             "白糖沙翁",
             "白糖",
             "素",

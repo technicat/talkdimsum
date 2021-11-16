@@ -7,7 +7,7 @@
         "English": "curry",
         "Yale": "ga lēi",
         "Pinyin": "kā li",
-        "Resources": [
+        "resources": [
           {
             "name": "咖喱",
             "URL": "https://en.wiktionary.org/wiki/咖喱"
@@ -30,10 +30,10 @@
       }
     ],
     "description": "Curry is not part of traditional Chinese cuisine but appears in some popular Hong Kong dishes, mostly as curry sauce (curry fish balls, curry chicken and curry beef on rice) and as curry powder (Singapore-style noodles).\n\nThe Chinese pronunciation (“ga lēi” in Cantonese, “kā li” in Mandarin) sounds like “curry.”",
-    "Tags": [
+    "tags": [
       "咖喱"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Curry#China"
@@ -48,7 +48,7 @@
         "English": "hoisin sauce",
         "Yale": "hói sīn jeung",
         "Pinyin": "Hǎi xiān jiàng",
-        "Resources": [
+        "resources": [
           {
             "name": "海鮮醬",
             "URL": "c"
@@ -79,13 +79,13 @@
       }
     ],
     "description": "[Hoisin sauce](https://en.wikipedia.org/wiki/Hoisin_sauce) is a dark, thick sauce made from soybeans and other flavors and spices.\n\n**Characters**\n\n[海鮮](https://en.wiktionary.org/wiki/海鮮) means *seafood* (literally *ocean fresh*), and [醬](https://en.wiktionary.org/wiki/醬) is *sauce*, so [海鮮醬](海鮮醬) is *seafood sauce*. However, it's not made from seafood or applied specifically with seafood.",
-    "Tags": [
+    "tags": [
       "粵菜",
       "海鮮醬",
       "海鮮",
       "油"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Hoisin_sauce"
@@ -100,7 +100,7 @@
         "English": "oyster sauce",
         "Yale": "hòuh yàuh",
         "Pinyin": "háo yóu",
-        "Resources": [
+        "resources": [
           {
             "name": "蠔油",
             "URL": "https://en.wiktionary.org/wiki/蠔油"
@@ -123,13 +123,13 @@
       }
     ],
     "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce)\n\n**Characters**\n\n蠔 means *oyster*, and 油 is *oil*, so 蠔油 is *oyster oil*.",
-    "Tags": [
+    "tags": [
       "粵菜",
       "蠔油",
       "蠔",
       "油"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Oyster_sauce"
@@ -143,7 +143,7 @@
         "English": "rice vinegar",
         "Yale": "máih chou",
         "Pinyin": "mǐ cù",
-        "Resources": [
+        "resources": [
           {
             "name": "米醋",
             "URL": "https://en.wiktionary.org/wiki/米醋"
@@ -166,7 +166,7 @@
       }
     ],
     "description": "Vinegar made from rice wine.\n\n米 means “rice,” and 醋 is “vinegar.”\n\n**Characters**\n\nChinese rice vinegar comes in a variety of colors, and clear, but red vinegar is often used as a dipping sauce.",
-    "Resources": [
+    "resources": [
 
       {
         "name": "Red House Spice",

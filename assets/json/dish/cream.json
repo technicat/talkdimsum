@@ -7,7 +7,7 @@
         "Yale": "haht tòuh wùh",
         "Jyutping": "hat6 to2 wu4",
         "Pinyin": "hé tao hù",
-        "Resources": [
+        "resources": [
           {
             "name": "核桃糊",
             "URL": "https://en.wiktionary.org/wiki/核桃糊"
@@ -38,14 +38,14 @@
       }
     ],
     "description": "[Walnut soup](https://en.wikipedia.org/wiki/Walnut_soup) is a dessert made with water, finely ground walnuts, rice flour, and sugar.\n\n[核桃](https://en.wiktionary.org/wiki/核桃) means *walnut(, and [糊](https://en.wiktionary.org/wiki/糊) is *cream*, so, aptly, it is *walnut cream*.",
-    "Tags": [
+    "tags": [
       "糖水",
       "糊",
       "湯",
       "核桃",
       "甜品"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "East Meets Kitchen",
         "URL": "http://eastmeetskitchen.com/videos/recipes/chinese-walnut-dessert-soup/"
@@ -63,7 +63,7 @@
         "English": "black sesame seed",
         "Yale": "hāk jī màh",
         "Pinyin": "hēi zhī má",
-        "Resources": [
+        "resources": [
           {
             "name": "黑芝麻",
             "URL": "https://en.wiktionary.org/wiki/黑芝麻"
@@ -94,7 +94,7 @@
       }
     ],
     "description": "",
-    "Resources": [
+    "resources": [
       {
         "name": "Miss Chinese Food",
         "URL": "https://misschinesefood.com/black-sesame-paste/"
@@ -112,7 +112,7 @@
         "English": "black sesame soup",
         "Yale": "hāk jī màh wùh",
         "Pinyin": "hēi zhī má hù",
-        "Resources": [
+        "resources": [
           {
             "name": "黑芝麻",
             "URL": "https://en.wiktionary.org/wiki/黑芝麻"
@@ -147,7 +147,7 @@
       }
     ],
     "description": "A dessert made with black sesame.\n\n[黑芝麻](https://en.wiktionary.org/wiki/黑芝麻) means “*black sesame* ([黑](https://en.wiktionary.org/wiki/黑) is *black*, and [芝麻](https://en.wiktionary.org/wiki/芝麻) is *sesame*), and 糊 is *cream*, so 黑芝麻糊 is really *black sesame cream*.",
-    "Tags": [
+    "tags": [
       "糖水",
       "粵菜",
       "糊",
@@ -155,7 +155,7 @@
       "黑芝麻",
       "甜品"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/black-sesame-pastesoup/"

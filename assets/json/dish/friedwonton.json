@@ -7,7 +7,7 @@
                 "English": "fried wonton",
                 "Yale": "ja wàhn tān",
                 "Pinyin": "zhà yún tūn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸",
                         "URL": "https://en.wiktionary.org/wiki/炸"
@@ -38,14 +38,14 @@
             }
         ],
         "description": "Deep fried wonton (dumplings with shrimp and pork).\n\n**Characters**\n\nThe first character 炸 means “fried,” (the radical 火 on the left side of the character means “fire”), and the next two characters comprise “won ton.”",
-        "Tags": [
+        "tags": [
             "炸雲吞",
             "茶餐廳",
             "雲吞",
             "炸",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Wonton"
@@ -64,7 +64,7 @@
                 "English": "fried shrimp wonton",
                 "Yale": "ja hā wàhn tān",
                 "Pinyin": "zhà xiā yún tūn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸",
                         "URL": "https://en.wiktionary.org/wiki/炸"
@@ -95,7 +95,7 @@
             }
         ],
         "description": "Fried wonton with just shrimp inside.\n\nThe first character 炸 means “fried.” The second character 蝦 means “shrimp.”",
-        "Tags": [
+        "tags": [
             "炸雲吞",
             "茶餐廳",
             "炸",
@@ -104,7 +104,7 @@
             "海鮮",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Wonton"

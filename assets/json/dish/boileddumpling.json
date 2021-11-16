@@ -7,7 +7,7 @@
                 "English": "dumpling noodle soup",
                 "Yale": "séui gáau mihn",
                 "Pinyin": "shuǐ jiǎo miàn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "水餃",
                         "URL": "https://en.wiktionary.org/wiki/水餃"
@@ -34,14 +34,14 @@
             }
         ],
         "description": "Boiled dumplings served with thin noodles in a soup.\n\n水 is “water,” and 餃 is “dumpling,” and together 水餃 is “boiled dumpling.” The third character 麵 is the word for “noodles,“ so the whole thing is “boiled dumpling noodles.”",
-        "Tags": [
+        "tags": [
             "湯",
             "茶餐廳",
             "水餃",
             "麵",
             "餃"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Jiaozi"
@@ -56,7 +56,7 @@
             "English": "dumpling soup",
             "Yale": "séui gáau tōng",
             "Pinyin": "shuǐ jiǎo tāng",
-            "Resources": [
+            "resources": [
               {
                  "name": "水餃",
                  "URL": "https://en.wiktionary.org/wiki/水餃"
@@ -97,12 +97,12 @@
           }
         ],
         "description": "Boiled dumplings served in a soup.\n\n**Characters**\n\n水 is “water,” and 餃 is “dumpling,” and together 水餃 is “boiled dumpling.” The third character 湯 is the word for “soup,“ so the whole thing is “boiled dumpling soup.”",
-        "Tags": [
+        "tags": [
           "水餃",
           "餃",
           "湯"
         ],
-        "Resources": [
+        "resources": [
           {
             "name": "Christine's Recipes",
             "URL": "https://en.christinesrecipes.com/2013/10/chinese-dumpling-soup.html"

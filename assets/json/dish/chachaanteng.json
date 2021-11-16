@@ -7,7 +7,7 @@
                 "Yale": "góng sīk",
                 "Jyutping": "gong2 sik1",
                 "Pinyin": "gǎng shì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "港式",
                         "URL": "https://en.wiktionary.org/wiki/港式"
@@ -30,10 +30,10 @@
             }
         ],
         "description": "[Hong Kong cuisine](https://en.wikipedia.org/wiki/Hong_Kong_cuisine) is of course largely Chinese (in particular, Cantonese) but it has benefited from a continuing influx of other Asian and Western influences, resulting in some original takes, like Hong Kong-style French toast, Hong Kong-style iced lemon tea, Hong Kong-style egg tarts...\n\n**Characters**\n\n港式 means “Hong Kong-style” (港 the second character of Hong Kong and 式 is style, so it's literally “Kong-style”).",
-        "Tags": [
+        "tags": [
             "港式"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Hong_Kong_cuisine"
@@ -49,7 +49,7 @@
                 "Yale": "chàh chāan tēng",
                 "Jyutping": "caa4 caan1 teng1",
                 "Pinyin": "chá cān tīng",
-                "Resources": [
+                "resources": [
                     {
                         "name": "茶餐廳",
                         "URL": "https://en.wiktionary.org/wiki/茶餐廳"
@@ -80,11 +80,11 @@
             }
         ],
         "description": "Hong Kong style cafes, known as [cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng), arising from the hustle and bustle of post-WWII Hong Kong, serve a mixture of Hong Kong style Western foods (e.g. Hong Kong-style sandwiches) and Chinese food.\n\n**Characters**\n\n[茶](https://en.wiktionary.org/wiki/茶) is *tea*, [餐](https://en.wiktionary.org/wiki/餐) is *meal* (e.g. 早餐 is *early meal* aka *breakfast*) and [廳](https://en.wiktionary.org/wiki/廳) is *hall*, so it's *tea dining hall* or *tea restaurant*.",
-        "Tags": [
+        "tags": [
             "茶餐廳",
             "港式"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Culture Trip",
                 "URL": "https://theculturetrip.com/asia/china/hong-kong/articles/how-to-order-at-a-cha-chaan-teng-in-hong-kong/"
@@ -122,7 +122,7 @@
                 "English": "breakfast",
                 "Yale": "jóu chāan",
                 "Pinyin": "zǎo cān",
-                "Resources": [
+                "resources": [
                     {
                         "name": "早餐",
                         "URL": "https://en.wiktionary.org/wiki/早餐"
@@ -145,10 +145,10 @@
             }
         ],
         "description": "Traditional Chinese breakfasts tend to be simple, featuring congee, rice rolls, and dumplings, but in Hong Kong breakfast can include Western items (with a Hong Kong twist). For example, a cha chaan teng breakfast set can include congee, condensed milk toast, and coffee (with unlimited refills).\n\n**Characters**\n\n[早](https://en.wiktionary.org/wiki/早) means *early* and [餐](https://en.wiktionary.org/wiki/餐) is *meal* so 早餐 is *early meal*.",
-        "Tags": [
+        "tags": [
             "早餐"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "China Highlights",
                 "URL": "https://www.chinahighlights.com/travelguide/article-what-chinese-eat-for-breakfast.htm"
@@ -162,7 +162,7 @@
                 "English": "Hong Kong-style French toast",
                 "Yale": "góng sīk sāi dō sih",
                 "Pinyin": "gǎng shì xī duō shì",
-                "Resources": [
+                "resources": [
                     {
                         "name": "港式",
                         "URL": "https://en.wiktionary.org/wiki/港式"
@@ -205,14 +205,14 @@
             }
         ],
         "description": "Hong Kong-style French toast is a heart-attack inducing combination made from thick-sliced white bread deep-fried in egg batter, topped with some combination of butter, condensed milk, jam or syrup and typically presented in sandwich form with peanut butter or other filling.\n\n**Characters**\n\n港式 means *Hong Kong-style* (港 the second character of Hong Kong and 式 is style, so it's literally *Kong-style*). 西 is West or Western and 多士 is toast (the Cantonese *dō sih* sounds like toast), so French toast is referred to as *Western toast* (which is a better name, as French toast dates back to the Roman Empire).",
-        "Tags": [
+        "tags": [
             "早餐",
             "港式",
             "西多士",
             "多士",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Chinese-American Family",
                 "URL": "https://www.chineseamericanfamily.com/how-to-make-hong-kong-style-french-toast/"
@@ -251,7 +251,7 @@
                 "English": "fried cuttlefish ball",
                 "Yale": "ja mahk yùh yún",
                 "Pinyin": "hà mò yú wán",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸",
                         "URL": "https://en.wiktionary.org/wiki/炸"
@@ -286,13 +286,13 @@
             }
         ],
         "description": "Deep-fried cuttlefish balls.\n\n炸 means “deep-fried,” 墨魚 is “cuttlefish,” (墨 is “ink,” 魚 is “fish”) and 丸 is “ball.”",
-        "Tags": [
+        "tags": [
             "炸",
             "墨魚",
             "丸",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Rasa Malaysia",
                 "URL": "https://rasamalaysia.com/fried-cuttlefish-balls/"
@@ -308,7 +308,7 @@
                 "Yale": "ja syùh tíu",
                 "Jyutping": "zaa3 syu4 tiu2",
                 "Pinyin": "zhá shǔ tiáo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "炸薯條",
                         "URL": "https://en.wiktionary.org/wiki/炸薯條"
@@ -339,12 +339,12 @@
             }
         ],
         "description": "Hong Kong cafes serve sandwiches, so why not [french fries](https://en.wikipedia.org/wiki/French_fries)?\n\n**Characters**\n\n炸 means “deep-fried,” 薯 is “potato” (also sweet potato), and 條 is a strip (also used as a classifier for something long and thin, e.g. “a river” is 一條河).",
-        "Tags": [
+        "tags": [
             "炸",
             "薯",
             "茶餐廳"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/French_fries"

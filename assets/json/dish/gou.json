@@ -6,7 +6,7 @@
                 "English": "cake",
                 "Yale": "gōu",
                 "Pinyin": "gāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "糕",
                         "URL": "https://en.wiktionary.org/wiki/糕"
@@ -21,7 +21,7 @@
             }
         ],
         "description": "This word is usually translated as “cake” but it's not just for desserts, like Western cakes (which in Chinese is “egg cake”). The term generally can refers to any dish made out of a mixture with portions carved fron slabs, including sponge cakes, jellies and cakes with a mashed consistency.",
-        "Tags": [
+        "tags": [
             "糕"
         ]
     },
@@ -32,7 +32,7 @@
                 "English": "New Year cake",
                 "Yale": "nìhn gōu",
                 "Pinyin": "nián gāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "年糕",
                         "URL": "https://en.wiktionary.org/wiki/年糕"
@@ -59,12 +59,12 @@
             }
         ],
         "description": "New Year cake is a steamed cake made with sticky rice and brown sugar, often served fried or dipped in egg and fried. Popular during New Year (Chinese New Year, of course).\n\n**Characters**\n\n年 means *year*, and 糕 is *cake*.",
-        "Tags": [
+        "tags": [
             "黑糖",
             "糕",
             "甜品"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Angel Wong's Kitchen",
                 "URL": "https://www.angelwongskitchen.com/chinese-new-year-cake-sweet-sticky-rice--2418031957-niaacuteng257o.html"
@@ -98,7 +98,7 @@
                 "English": "sweet rice cake",
                 "Yale": "baahk tòhng gōu",
                 "Pinyin": "bái táng gāo",
-                "Resources": [
+                "resources": [
                     {
                         "name": "白糖糕",
                         "URL": "https://en.wiktionary.org/wiki/白糖糕"
@@ -129,7 +129,7 @@
             }
         ],
         "description": "This spongy cake is made from rice flour and sugar, fermented then steamed. In English, this is also often known as [steamed rice cake](http://www.chinasichuanfood.com/steamed-rice-cake/), [white sugar sponge cake](https://en.wikipedia.org/wiki/White_sugar_sponge_cake), “fermented rice cake” or “white honeycomb cake” because of the air gaps within the cake.\n\n**Characters**\n\n[白糖](https://en.wiktionary.org/wiki/白糖) is *white sugar* ([白](https://en.wiktionary.org/wiki/白) means *white* and [糖](https://en.wiktionary.org/wiki/糖) is *sugar*), and [糕](https://en.wiktionary.org/wiki/糖) is *cake*, so [白糖糕](https://en.wiktionary.org/wiki/白糖糕) is *white sugar cake*.",
-        "Tags": [
+        "tags": [
             "白糖",
             "糕",
             "蒸",
@@ -137,7 +137,7 @@
             "甜品",
             "點心"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "The Burning Kitchen",
                 "URL": "https://www.theburningkitchen.com/bai-tang-gao-pak-tong-go-recipe/"

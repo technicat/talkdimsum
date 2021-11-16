@@ -8,7 +8,7 @@
                 "Yale": "tit gūn yām",
                 "Jyutping": "tit gūn yām",
                 "Pinyin": "Tiě guān yīn",
-                "Resources": [
+                "resources": [
                     {
                         "name": "鐵觀音",
                         "URL": "https://en.wiktionary.org/wiki/鐵觀音"
@@ -39,7 +39,7 @@
             }
         ],
         "description": "The most popular oolong tea from Anxi (often listed as one of the [Chinese Top Ten Famous Teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas)), a county in Fujian province known for oolong teas.\n\n**Characters**\n\n鐵 means “iron,” and 觀音 is the Chinese name for the Buddhist goddess of mercy.",
-        "Tags": [
+        "tags": [
             "飲品",
             "茶",
             "熱茶",
@@ -49,7 +49,7 @@
             "中国茶",
             "中國十大名茶"
         ],
-        "Resources": [
+        "resources": [
             {
                 "name": "Let's Drink Tea",
                 "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/tieguanyin-iron-goddess-tea/"

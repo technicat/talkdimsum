@@ -7,7 +7,7 @@
         "English": "salted duck egg",
         "Yale": "hàahm aap dáan",
         "Pinyin": "xián yā dàn",
-        "Resources": [
+        "resources": [
           {
             "name": "鹹鴨蛋",
             "URL": "https://en.wiktionary.org/wiki/鹹鴨蛋"
@@ -49,14 +49,14 @@
       }
     ],
     "description": "[Salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg) are preserved by soaking in brine and then packing in charcoal, often eaten with congee. The yolk is used as the molten custard in “lava” (流沙) buns.\n\n**Characters**\n\n[鹹(https://en.wiktionary.org/wiki/鹹) is *salty*, and [鴨蛋](https://en.wiktionary.org/wiki/鴨蛋) is *duck egg* ([鴨](https://en.wiktionary.org/wiki/鴨) is *duck*, and [蛋](https://en.wiktionary.org/wiki/蛋) is *egg*).",
-    "Tags": [
+    "tags": [
       "粵菜",
       "流沙",
       "鹹鴨蛋",
       "鴨",
       "蛋"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/salted-duck-egg/"
@@ -79,7 +79,7 @@
         "English": "soy egg",
         "Yale": "lóuh dáan",
         "Pinyin": "lǔ dàn",
-        "Resources": [
+        "resources": [
           {
             "name": "滷蛋",
             "URL": "https://en.wiktionary.org/wiki/滷蛋"
@@ -102,11 +102,11 @@
       }
     ],
     "description": "[Soy eggs](https://en.wikipedia.org/wiki/Soy_egg) are boiled and then soaked in a soy sauce mixture, sometimes served with congee or with rice.\n\n滷 refers to stewing in a mixture of soy sauce and spices and 蛋 is “egg.”",
-    "Tags": [
+    "tags": [
       "滷",
       "蛋"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/soy-sauce-eggs/"
@@ -125,7 +125,7 @@
         "English": "tea egg",
         "Yale": "chàh yihp dáan",
         "Pinyin": "chá yè dàn",
-        "Resources": [
+        "resources": [
           {
             "name": "茶葉蛋",
             "URL": "https://en.wiktionary.org/wiki/茶葉蛋"
@@ -156,11 +156,11 @@
       }
     ],
     "description": "[Tea eggs](https://en.wikipedia.org/wiki/Tea_egg) are boiled then cracked then boiled again or soaked in a mixture of soy sauce and spices. Also known as “marble egg” as the cracked shells create a marbled appearance.\n\n**Characters**\n\n[茶葉](https://en.wiktionary.org/wiki/茶葉) is *tea leaves*([茶](https://en.wiktionary.org/wiki/茶) means *tea*, [葉](https://en.wiktionary.org/wiki/葉) is *leaf*), and [蛋](https://en.wiktionary.org/wiki/蛋) is “*egg*, so [茶葉蛋](https://en.wiktionary.org/wiki/茶葉蛋) is *tea leaves egg*.",
-    "Tags": [
+    "tags": [
       "茶",
       "蛋"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-tea-eggs-marbled-eggs/"

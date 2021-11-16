@@ -8,7 +8,7 @@
         "Yale": "tōng",
         "Jyupting": "tong1",
         "Pinyin": "tāng",
-        "Resources": [
+        "resources": [
           {
             "name": "湯",
             "URL": "https://en.wiktionary.org/wiki/湯"
@@ -23,10 +23,10 @@
       }
     ],
     "description": "Soup is prevalent in Chinese cuisine, including many noodle soups and soups served as desserts.",
-    "Tags": [
+    "tags": [
       "湯"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_soups"
@@ -42,7 +42,7 @@
         "Yale": "sih yaht laih tōng",
         "Jyupting": "tong1",
         "Pinyin": "shì rì lì tāng",
-        "Resources": [
+        "resources": [
           {
             "name": "是日",
             "URL": "https://en.wiktionary.org/wiki/是日"
@@ -73,11 +73,11 @@
       }
     ],
     "description": "*Soup of the day* is a standard feature of Hong Kong cafes (cha chaan teng), often included in a set meal.\n\n**Characters**\n\n是日 means “this day,” and 例湯 means “regular soup.”",
-    "Tags": [
+    "tags": [
       "湯",
       "茶餐廳"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Hong Kong University",
         "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/22"
@@ -93,7 +93,7 @@
         "Yale": "syūn laaht tōng",
         "Jyupting": "syun1 laat6 tong1",
         "Pinyin": "suān là tāng",
-        "Resources": [
+        "resources": [
           {
             "name": "酸辣湯",
             "URL": "https://en.wiktionary.org/wiki/酸辣湯"
@@ -120,11 +120,11 @@
       }
     ],
     "description": "A thick, spicy and sour soup containing bamboo shoots and tofu.\n\n**Characters**\n\nThe first character 酸 means “sour“, the second character 辣 means “hot“ (as in spicy or pungent), and the third character 湯 is the word for “soup.“",
-    "Tags": [
+    "tags": [
       "湯",
       "熱"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2013/05/hot-and-sour-soup.html"
@@ -156,7 +156,7 @@
         "Yale": "dáan fā tōng",
         "Jyupting": "daan2 faa1 tong1",
         "Pinyin": "dàn huā tāng",
-        "Resources": [
+        "resources": [
           {
             "name": "蛋花湯",
             "URL": "https://en.wiktionary.org/wiki/蛋花湯"
@@ -191,13 +191,13 @@
       }
     ],
     "description": "Beaten eggs mixed (dropped) into chicken broth.\n\nThe first character 蛋 is “egg,” the second character 花 means “flower,” and the third character 湯 is the word for “soup,” so it's “egg flower soup.”",
-    "Tags": [
+    "tags": [
       "湯",
       "花",
       "蛋",
       "熱"
     ],
-    "Resources": [
+    "resources": [
 
       {
         "name": "Kirbie's Cravings",
@@ -226,7 +226,7 @@
         "Yale": "ngàuh méih tōng",
         "Jyupting": "tong1",
         "Pinyin": "niú wěi tāng",
-        "Resources": [
+        "resources": [
           {
             "name": "牛尾",
             "URL": "https://en.wiktionary.org/wiki/牛尾"
@@ -253,11 +253,11 @@
       }
     ],
     "description": "",
-    "Tags": [
+    "tags": [
       "湯",
       "牛尾"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/oxtail-soup/"
@@ -275,7 +275,7 @@
         "English": "west lake beef soup",
         "Yale": "sāi wùh ngàuh yuhk gāng",
         "Pinyin": "Xī hú niú ròu gēng",
-        "Resources": [
+        "resources": [
           {
             "name": "西湖",
             "URL": "https://en.wiktionary.org/wiki/西湖"
@@ -314,12 +314,12 @@
       }
     ],
     "description": "A soup containing beef, cornstarch, tofu and mushrooms.\n\n**Characters**\n\n西 is west and 湖 is lake, so the first two characters is *West Lake*, a famous lake in China. 牛肉 is *beef*, and 羹 is *soup* or *broth*.",
-    "Tags": [
+    "tags": [
       "湯",
       "牛肉",
       "熱"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/west-lake-beef-soup/"
@@ -338,7 +338,7 @@
         "English": "beef brisket in clear broth",
         "Yale": "chīng tōng ngàuh náahm",
         "Pinyin": "qīng tāng niú nǎn",
-        "Resources": [
+        "resources": [
           {
             "name": "清湯",
             "URL": "https://en.wiktionary.org/wiki/清湯"
@@ -380,14 +380,14 @@
       }
     ],
     "description": "Slices of brisket and chunks of daikon in a clear soup.\n\n清 is “clear,” and 湯 is “soup,” so together it's “clear soup,” and 牛腩 is “brisket,” so it's “clear soup beef brisket.”",
-    "Tags": [
+    "tags": [
       "湯",
       "清湯",
       "牛肉",
       "牛腩",
       "蘿蔔"
     ],
-    "Resources": [
+    "resources": [
       {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2015/03/beef-brisket-in-clear-broth.html"
