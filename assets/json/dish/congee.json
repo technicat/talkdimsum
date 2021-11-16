@@ -22,7 +22,7 @@
                 "image": "jook"
             }
         ],
-        "Description": "Rice porridge, also known as [congee](http://en.wikipedia.org/wiki/Congee) (originating from the Tamil word for rice porridge, *kanji*), is prepared by boiling rice in water for a long time, until the rice is thick and soft. A staple of Chinese breakfasts (and popular throughout Asia), it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\n**Trivia**\n\n煲電話粥 (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally “cooking telephone congee,” is slang for a long telephone conversation.",
+        "description": "Rice porridge, also known as [congee](http://en.wikipedia.org/wiki/Congee) (originating from the Tamil word for rice porridge, *kanji*), is prepared by boiling rice in water for a long time, until the rice is thick and soft. A staple of Chinese breakfasts (and popular throughout Asia), it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\n**Trivia**\n\n煲電話粥 (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally “cooking telephone congee,” is slang for a long telephone conversation.",
         "Tags": [
             "早餐",
             "粥",
@@ -93,7 +93,7 @@
                 "image": "jook"
             }
         ],
-        "Description": "Plain congee, with nothing mixed in.\n\n.白 means “white,” and 粥 is “congee,” so 白粥 is literally “white congee.”",
+        "description": "Plain congee, with nothing mixed in.\n\n.白 means “white,” and 粥 is “congee,” so 白粥 is literally “white congee.”",
         "Tags": [
             "早餐",
             "茶餐廳",
@@ -154,7 +154,7 @@
                 "place": "New Asian BBQ, Las Vegas, Nevada"
             }
         ],
-        "Description": "Rice porridge with salty pork and preserved egg.\n\nThe first two characters 皮蛋 mean “preserved egg,” which are eggs that jelly while encased in clay mixture for weeks to months. They are also known (exaggeratedly) as “hundred-year egg,” “thousand-year egg,” “thousand-year-old egg,” or “millennium egg.”\n\n瘦肉 is “pork,” where 瘦 is “pig,” and 肉 is “meat,” so literally “pig meat.”\nAnd finally, 粥 is “congee“ or “rice porridge“, as in the previous entry.",
+        "description": "Rice porridge with salty pork and preserved egg.\n\nThe first two characters 皮蛋 mean “preserved egg,” which are eggs that jelly while encased in clay mixture for weeks to months. They are also known (exaggeratedly) as “hundred-year egg,” “thousand-year egg,” “thousand-year-old egg,” or “millennium egg.”\n\n瘦肉 is “pork,” where 瘦 is “pig,” and 肉 is “meat,” so literally “pig meat.”\nAnd finally, 粥 is “congee“ or “rice porridge“, as in the previous entry.",
         "Tags": [
             "早餐",
             "粥",
@@ -237,7 +237,7 @@
                 "place": "Golden Horse Seafood, Portland, Oregon"
             }
         ],
-        "Description": "Rice porridge with slices of fish fillet.\n\n**Characters**\n\n[魚](https://en.wiktionary.org/wiki/魚) is *fish*, and [片](https://en.wiktionary.org/wiki/片) is *slice* or *piece*, so 魚片 is *fish fillet*, and 粥 is *congee* (rice porridge).",
+        "description": "Rice porridge with slices of fish fillet.\n\n**Characters**\n\n[魚](https://en.wiktionary.org/wiki/魚) is *fish*, and [片](https://en.wiktionary.org/wiki/片) is *slice* or *piece*, so 魚片 is *fish fillet*, and 粥 is *congee* (rice porridge).",
         "Tags": [
             "早餐",
             "粥",
@@ -327,7 +327,7 @@
                 "place": "SK Seafood, Las Vegas, Nevada"
             }
         ],
-        "Description": "Rice porridge with fish balls and lettuce.\n\n生菜 is “lettuce,” 鯪魚 is Chinese mud carp, also known as “dace,” 球 is “ball” and 粥 is rice porridge.",
+        "description": "Rice porridge with fish balls and lettuce.\n\n生菜 is “lettuce,” 鯪魚 is Chinese mud carp, also known as “dace,” 球 is “ball” and 粥 is rice porridge.",
         "Tags": [
             "粥",
             "魚",
@@ -376,7 +376,7 @@
                 "place": "Island Malaysian, Las Vegas, Nevada"
             }
         ],
-        "Description": "Rice porridge with a variety of seafood.\n\n海 mans “ocean“ and “鲜 is “fresh.” Together 海鲜 refers to “seafood,”  and 粥 is rice porridge, so 海鲜粥 is “seafood porridge.”",
+        "description": "Rice porridge with a variety of seafood.\n\n海 mans “ocean“ and “鲜 is “fresh.” Together 海鲜 refers to “seafood,”  and 粥 is rice porridge, so 海鲜粥 is “seafood porridge.”",
         "Tags": [
             "海鮮",
             "粥",
@@ -432,7 +432,7 @@
                 "place": "Broadway Bistro, Millbrae, California"
             }
         ],
-        "Description": "Rice porridge with shreds of roast duck.\n\n鴨 is “duck,” and 絲 is “wire” or “thread,” so 鴨絲 is literally “duck threads,” and 粥 is “rice porridge.”",
+        "description": "Rice porridge with shreds of roast duck.\n\n鴨 is “duck,” and 絲 is “wire” or “thread,” so 鴨絲 is literally “duck threads,” and 粥 is “rice porridge.”",
         "Tags": [
             "粥",
             "鴨",
@@ -480,7 +480,7 @@
                 "place": "Las Vegas, Nevada"
             }
         ],
-        "Description": "Rice porridge with chicken.\n\n雞 is “chicken,” 肉 is “meat,” and 粥 is “rice porridge.”",
+        "description": "Rice porridge with chicken.\n\n雞 is “chicken,” 肉 is “meat,” and 粥 is “rice porridge.”",
         "Tags": [
             "粥",
             "雞肉",
@@ -535,7 +535,7 @@
                 "place": "SK Seafood, Las Vegas, Nevada"
             }
         ],
-        "Description": "Congee with pieces of chicken.\n\n沙田 is Sha Tin. a town in Hong Kong, 雞 is “chicken,” and 粥 is “congee.”",
+        "description": "Congee with pieces of chicken.\n\n沙田 is Sha Tin. a town in Hong Kong, 雞 is “chicken,” and 粥 is “congee.”",
         "Tags": [
             "粥"
         ],
@@ -588,7 +588,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "Description": "Congee with ablone and shredded chicken.\n\n鮑魚 is abalone, 雞絲 is “shredded chicken,” and 粥 is “congee.”",
+        "description": "Congee with ablone and shredded chicken.\n\n鮑魚 is abalone, 雞絲 is “shredded chicken,” and 粥 is “congee.”",
         "Tags": [
             "鮑魚",
             "雞",

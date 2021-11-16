@@ -12,7 +12,7 @@ class Dish {
     return words[0];
   }
 
-  @JsonKey(name: 'Description', required: true)
+  @JsonKey(required: true)
   final String description;
   @JsonKey(required: true)
   final List<Photo> images;

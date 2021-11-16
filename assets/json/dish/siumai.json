@@ -33,7 +33,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "Steamed dumplings, typically pork mixed with shrimp, but there are variations with other fillings. Features a thin wrapping around the side and often dotted with a little orange carrot, crab roe, or green pea on top.\n\n**Characters**\n\nThe first character 燒 means “burn/bake/sear“ and the second is “sell,“ so you can think “bake sale“ as a mnemonic.\n\nOften paired with 蝦餃 (shrimp dumplings), so in dim sum restaurants, the servers pushing the carts often announce “hā gáau, sīu maaih.“",
+        "description": "Steamed dumplings, typically pork mixed with shrimp, but there are variations with other fillings. Features a thin wrapping around the side and often dotted with a little orange carrot, crab roe, or green pea on top.\n\n**Characters**\n\nThe first character 燒 means “burn/bake/sear“ and the second is “sell,“ so you can think “bake sale“ as a mnemonic.\n\nOften paired with 蝦餃 (shrimp dumplings), so in dim sum restaurants, the servers pushing the carts often announce “hā gáau, sīu maaih.“",
         "Tags": [
             "燒賣",
             "豬肉",
@@ -106,7 +106,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 filled with pork.\n\n**Characters**\n\nThe first two characters 豬 is “pig,“ and the second character 肉 is “meat, so together they mean “pork.“",
+        "description": "Siu mai 燒賣 filled with pork.\n\n**Characters**\n\nThe first two characters 豬 is “pig,“ and the second character 肉 is “meat, so together they mean “pork.“",
         "Tags": [
             "燒賣",
             "豬肉",
@@ -154,7 +154,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 filled with shrimp.\n\n**Characters**\n\nThe first character 蝦 is “shrimp.“\n\nAlthough shrimp siu mai doesn't have a pork filling, the shrimp is often mixed with pork fat to keep the wrapper from drying out.",
+        "description": "Siu mai 燒賣 filled with shrimp.\n\n**Characters**\n\nThe first character 蝦 is “shrimp.“\n\nAlthough shrimp siu mai doesn't have a pork filling, the shrimp is often mixed with pork fat to keep the wrapper from drying out.",
         "Tags": [
             "蝦",
             "燒賣",
@@ -218,7 +218,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 filled with shrimp and pork.\n\n**Characters**\n\nThe first two characters 鮮蝦 mean “fresh shrimp,“ the middle two characters 豬肉 means “pork,” and the final two characters 燒賣 is “siu mai.”\n\nThis is the most typical form of siu mai, so if you just order “siu mai” this is what you're likely to get.",
+        "description": "Siu mai 燒賣 filled with shrimp and pork.\n\n**Characters**\n\nThe first two characters 鮮蝦 mean “fresh shrimp,“ the middle two characters 豬肉 means “pork,” and the final two characters 燒賣 is “siu mai.”\n\nThis is the most typical form of siu mai, so if you just order “siu mai” this is what you're likely to get.",
         "Tags": [
             "蝦",
             "燒賣",
@@ -274,7 +274,7 @@
                 "place": "KJ Dim Sum & Seafood, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 topped with scallop.\n\n**Characters**\n\nThe first two characters 帶子 mean “scallop,“ and the final two characters 燒賣 is “siu mai.”",
+        "description": "Siu mai 燒賣 topped with scallop.\n\n**Characters**\n\nThe first two characters 帶子 mean “scallop,“ and the final two characters 燒賣 is “siu mai.”",
         "Tags": [
             "帶子",
             "燒賣",
@@ -337,7 +337,7 @@
                 "image": "quaileggsiumai"
             }
         ],
-        "Description": "This siu mai 燒賣 has a quail egg embedded in the pork and is entirely enclosed by the wrapper.\n\n**Characters**\n\nThe first two characters 鵪鶉 mean “quail,“ and the third character 蛋 is “egg.“",
+        "description": "This siu mai 燒賣 has a quail egg embedded in the pork and is entirely enclosed by the wrapper.\n\n**Characters**\n\nThe first two characters 鵪鶉 mean “quail,“ and the third character 蛋 is “egg.“",
         "Tags": [
             "點心",
             "燒賣",
@@ -393,7 +393,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 without the traditional wrapper, but instead the filling rests on a large mushroom.\n\n**Characters**\n\nThe first two characters 冬菇 mean “mushroom.“",
+        "description": "Siu mai 燒賣 without the traditional wrapper, but instead the filling rests on a large mushroom.\n\n**Characters**\n\nThe first two characters 冬菇 mean “mushroom.“",
         "Tags": [
             "燒賣",
             "冬菇",
@@ -437,7 +437,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 filled with chicken.\n\nThe first character 雞 is “chicken.“",
+        "description": "Siu mai 燒賣 filled with chicken.\n\nThe first character 雞 is “chicken.“",
         "Tags": [
             "燒賣",
             "雞",
@@ -488,7 +488,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 filled with minced fish.\n\nThe first two characters 魚肉 means “fish meat.”\n\nFish siu mai is a popular street snack.",
+        "description": "Siu mai 燒賣 filled with minced fish.\n\nThe first two characters 魚肉 means “fish meat.”\n\nFish siu mai is a popular street snack.",
         "Tags": [
             "燒賣",
             "魚肉",
@@ -540,7 +540,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "Siu mai 燒賣 filled with imitation meat.\n\n**Characters**\n\nThe first two characters 仿肉 means “imitation meat.”",
+        "description": "Siu mai 燒賣 filled with imitation meat.\n\n**Characters**\n\nThe first two characters 仿肉 means “imitation meat.”",
         "Tags": [
             "燒賣",
             "仿肉",

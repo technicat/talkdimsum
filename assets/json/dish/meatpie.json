@@ -33,7 +33,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "A fish paste patty breaded and pan-fried.\n\n煎 means “pan-fried,” 魚 is “fish,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
+        "description": "A fish paste patty breaded and pan-fried.\n\n煎 means “pan-fried,” 魚 is “fish,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
         "Tags": [
             "魚餅",
             "魚",
@@ -82,7 +82,7 @@
                 "place": "Imperial Garden, Fresno, California"
             }
         ],
-        "Description": "Shrimp mixed with vegetables and pan-fried.\n\n煎 means “pan-fried,” 蝦 is “shrimp,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
+        "description": "Shrimp mixed with vegetables and pan-fried.\n\n煎 means “pan-fried,” 蝦 is “shrimp,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
         "Tags": [
             "蝦",
             "餅",
@@ -142,7 +142,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "Description": "A steamed pork patty with salted egg on top.\n\n",
+        "description": "A steamed pork patty with salted egg on top.\n\n",
         "Tags": [
             "肉",
             "豬肉"

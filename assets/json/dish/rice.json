@@ -29,7 +29,7 @@
         "place": "Dim Sum Cafe, Las Vegas"
       }
     ],
-    "Description": "Plain steamed white rice, usually served in small bowls (or a big bowl from which it is served in small bowls.\n\n白 is “white,” and 飯 is “rice” (cooked rice), so it's literally “white rice.”\n\nRice is so intrinsic to Chinese cuisine that 食飯 (sihk faahn) which literally means “eat rice,” generally means to have a meal (specifically, a Chinese meal).",
+    "description": "Plain steamed white rice, usually served in small bowls (or a big bowl from which it is served in small bowls.\n\n白 is “white,” and 飯 is “rice” (cooked rice), so it's literally “white rice.”\n\nRice is so intrinsic to Chinese cuisine that 食飯 (sihk faahn) which literally means “eat rice,” generally means to have a meal (specifically, a Chinese meal).",
     "Resources": [
      
       {
@@ -100,7 +100,7 @@
         "place": "Flock and Fowl, Las Vegas, Nevada"
       }
     ],
-    "Description": "Poached chicken combined with rice seasoned from the chicken stock.\n\n海南 is Hainan, a southern province in China. 雞 is “chicken,” and 飯 is “rice,” so ”Hainan chicken rice.”\n\nThis dish originated from Hainan immigrants who spread the dish throughout Asia. It is so popular in Singapore that it's considered a national dish there.",
+    "description": "Poached chicken combined with rice seasoned from the chicken stock.\n\n海南 is Hainan, a southern province in China. 雞 is “chicken,” and 飯 is “rice,” so ”Hainan chicken rice.”\n\nThis dish originated from Hainan immigrants who spread the dish throughout Asia. It is so popular in Singapore that it's considered a national dish there.",
     "Resources": [
       {
         "name": "Angel Wong's Kitchen",
@@ -161,7 +161,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "Description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n炸 means “deep-fried,” 雞 is “chicken,” and 飯 is “rice,” so ”fried chicken rice.”",
+    "description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n炸 means “deep-fried,” 雞 is “chicken,” and 飯 is “rice,” so ”fried chicken rice.”",
     "Tags": [
       "茶餐廳",
       "雞",
@@ -207,7 +207,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "Description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n炸 means “deep-fried,” 豬扒 is “pork chop,” and 飯 is “rice,” so ”deep-fried pork chop rice.”",
+    "description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n炸 means “deep-fried,” 豬扒 is “pork chop,” and 飯 is “rice,” so ”deep-fried pork chop rice.”",
     "Tags": [
       "茶餐廳",
       "豬扒",
@@ -249,7 +249,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "Description": "Steamed chicken and mushrooms served on white rice.\n\n**Characters**\n\n冬菇 means “mushroom,” 蒸 means “steamed,” 雞 is “chicken,” and 飯 is “rice,” so ”mushroom steamed chicken rice.”",
+    "description": "Steamed chicken and mushrooms served on white rice.\n\n**Characters**\n\n冬菇 means “mushroom,” 蒸 means “steamed,” 雞 is “chicken,” and 飯 is “rice,” so ”mushroom steamed chicken rice.”",
     "Tags": [
       "冬菇",
       "茶餐廳",
@@ -298,7 +298,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "Description": "Grilled eel served on white rice.\n\n**Characters**\n\n鰻魚 means “eel,” and 飯 is “rice,” so ”eel rice.”",
+    "description": "Grilled eel served on white rice.\n\n**Characters**\n\n鰻魚 means “eel,” and 飯 is “rice,” so ”eel rice.”",
     "Tags": [
       "茶餐廳",
       "鰻魚",
@@ -347,7 +347,7 @@
         "place": "Sweet Heart Dessert House, Las Vegas, Nevada"
       }
     ],
-    "Description": "Taiwanese popcorn chicken is a particularly crunchy and spicy (seasoned with Sichuan pepper) street food and snack.\n\n**Characters**\n\n鹽 means “salty,” 酥 is the same word used for flaky pastries and in this context means “crispy” or ”crunchy,” and 雞 is “chicken,” so it's “salty crunchy chicken.”",
+    "description": "Taiwanese popcorn chicken is a particularly crunchy and spicy (seasoned with Sichuan pepper) street food and snack.\n\n**Characters**\n\n鹽 means “salty,” 酥 is the same word used for flaky pastries and in this context means “crispy” or ”crunchy,” and 雞 is “chicken,” so it's “salty crunchy chicken.”",
     "Tags": [
       "茶餐廳",
       "臺灣",
@@ -396,7 +396,7 @@
         "place": "Taiwan Deli, Las Vegas, Nevada"
       }
     ],
-    "Description": "Taiwanese sausage on white rice. Taiwanese sausage is similar to Cantonese sausage but plump instead of dried.\n\n**Characters**\n\n香腸 is Chinese sausage (香 means “fragrant,” 腸 is “sausage”)",
+    "description": "Taiwanese sausage on white rice. Taiwanese sausage is similar to Cantonese sausage but plump instead of dried.\n\n**Characters**\n\n香腸 is Chinese sausage (香 means “fragrant,” 腸 is “sausage”)",
     "Tags": [
       "臺灣",
       "飯",

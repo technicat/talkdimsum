@@ -7,9 +7,9 @@ part of 'dish.dart';
 // **************************************************************************
 
 Dish _$DishFromJson(Map<String, dynamic> json) {
-  $checkKeys(json, requiredKeys: const ['Description', 'images', 'words']);
+  $checkKeys(json, requiredKeys: const ['description', 'images', 'words']);
   return Dish(
-    json['Description'] as String,
+    json['description'] as String,
     (json['images'] as List<dynamic>)
         .map((e) => Photo.fromJson(e as Map<String, dynamic>))
         .toList(),
@@ -25,7 +25,7 @@ Dish _$DishFromJson(Map<String, dynamic> json) {
 }
 
 Map<String, dynamic> _$DishToJson(Dish instance) => <String, dynamic>{
-      'Description': instance.description,
+      'description': instance.description,
       'images': instance.images,
       'Tags': instance.tags,
       'words': instance.words,

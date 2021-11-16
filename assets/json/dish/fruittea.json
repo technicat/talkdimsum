@@ -33,7 +33,7 @@
                 "place": "Sweet Talk, Las Vegas, Nevada"
             }
         ],
-        "Description": "Black or green tea brewed with fruit. 水果 is “fruit“, and 茶 is “tea“, so “fruit tea“.",
+        "description": "Black or green tea brewed with fruit. 水果 is “fruit“, and 茶 is “tea“, so “fruit tea“.",
         "Tags": [
             "水果茶",
             "飲品",
@@ -90,7 +90,7 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "Description": "Green tea brewed with mango. 芒果 is “nango“, and 綠茶 is “green tea“, so “mango green tea“.",
+        "description": "Green tea brewed with mango. 芒果 is “nango“, and 綠茶 is “green tea“, so “mango green tea“.",
         "Tags": [
             "水果茶",
             "飲品",
@@ -149,7 +149,7 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "Description": "Green tea brewed with passion fruit. 百香果 is “passion fruit“, and 綠茶 is “green tea“, so “passion fruit green tea“.",
+        "description": "Green tea brewed with passion fruit. 百香果 is “passion fruit“, and 綠茶 is “green tea“, so “passion fruit green tea“.",
         "Tags": [
             "水果茶",
             "飲品",
