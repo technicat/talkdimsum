@@ -23,7 +23,6 @@ class Tags {
   static Future<List<Word>> loadWords(String path) async {
     var words = await rootBundle.loadString(Path + path + '.json').then((str) =>
         List<Word>.from(jsonDecode(str).map((json) => Word.fromJson(json))));
-    // words.removeWhere((dish) => dish.ignore);
     return words;
   }
 }

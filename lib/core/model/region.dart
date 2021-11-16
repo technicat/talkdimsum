@@ -7,71 +7,16 @@ import 'place.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-
 part 'region.g.dart';
 part 'region.freezed.dart';
 
-//@JsonSerializable()
 @freezed
 class Region with _$Region {
-  Region._(); /* {
-  @JsonKey(required: true)
-  final String name;
-  //final double zoom;
-  @JsonKey(defaultValue: [])
-  final List<Place> places; */
+  Region._();
 
   factory Region(@required String name, @required List<Place> places) = _Region;
 
-/*  double get minzoom => min(latzoom, lonzoom);
-
-  double get latzoom {
-    var len = latlen;
-    return len == 0 ? 15 : 9.0 / len;
-  }
-
-  double get lonzoom {
-    var len = lonlen;
-    return len == 0 ? 15 : 8.0 / len;
-  }
-
-  double get latlen {
-    return latmax - latmin;
-  }
-
-  double get lonlen {
-    return lonmax - lonmin;
-  }
-
-  double get lat {
-    return (latmin + latmax) / 2;
-  }
-
-  double get lon {
-    return (lonmin + lonmax) / 2;
-  }
-
-  double get latmin {
-    return places.map((place) => place.lat).reduce((a, b) => min(a, b));
-  }
-
-  double get lonmin {
-    return places.map((place) => place.lon).reduce((a, b) => min(a, b));
-  }
-
-  double get latmax {
-    return places.map((place) => place.lat).reduce((a, b) => max(a, b));
-  }
-
-  double get lonmax {
-    return places.map((place) => place.lon).reduce((a, b) => max(a, b));
-  }
-*/
-  //Region(this.name, this.places);
-
   factory Region.fromJson(Map<String, dynamic> json) => _$RegionFromJson(json);
-
-  //Map<String, dynamic> toJson() => _$RegionToJson(this);
 
   static Future<List<Region>> loadPaths(
       String path, List<String> filenames) async {
