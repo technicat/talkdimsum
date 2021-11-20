@@ -1,0 +1,54 @@
+{
+    "name": "Ordering Tea",
+    "lines": [
+        {
+            "name": "b",
+            "words": [
+                {
+                    "Chinese": "我想要一杯葡萄汁",
+                    "English": "I'd like Chinese tea.",
+                    "Yale": "ngóh séung yiu jūng gwok chàh",
+                    "Pinyin": "Wǒ xiǎng yào zhōng guó chá"
+                }
+            ]
+        },
+        {
+            "name": "a",
+            "words": [
+                {
+                    "Chinese": "你想飲乜嘢茶呀",
+                    "English": "What tea would you like to drink?",
+                    "Yale": "Néih séung yám māt yéh chàh ā",
+                    "Mandarin": "你想喝什么茶",
+                    "Pinyin": "Nǐ xiǎng hē shénme chá"
+                }
+            ]
+        },
+        {
+            "name": "b",
+            "words": [
+                {
+                    "English": "Do you have oolong tea?",
+                    "Chinese": "你有冇烏龍茶",
+                    "Yale": "Néih yáuh móuh wū lúng chàh",
+                    "Mandarin": "你有烏龍茶嗎",
+                    "Simplified": "你有烏龍茶嗎",
+                    "Pinyin": "Nǐ yǒu wū lóng chá ma"
+                }
+            ]
+        },
+        {
+            "name": "b",
+            "words": [
+                {
+                    "English": "Do you have oolong tea?",
+                    "Chinese": "你有冇烏龍茶",
+                    "Yale": "Néih yáuh móuh wū lúng chàh",
+                    "Mandarin": "你有烏龍茶嗎",
+                    "Simplified": "你有烏龍茶嗎",
+                    "Pinyin": "Nǐ yǒu wū lóng chá ma"
+                }
+            ]
+        }
+    ]
+}
