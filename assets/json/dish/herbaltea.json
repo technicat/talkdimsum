@@ -79,7 +79,7 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "description": "A hot tea made from sugar, honey and lemon.\n\n**Characters**\n\n熱 is *hot*, 檸 is *lemon*, and 蜜 is *honey*, so 熱檸蜜 is *hot lemon honey*.",
+        "description": "A hot tea made from sugar, honey and lemon.\n\n**Characters**\n\n[熱](https://en.wiktionary.org/wiki/熱) is *hot*, [檸](https://en.wiktionary.org/wiki/檸) is *lemon*, and [蜜](https://en.wiktionary.org/wiki/蜜) is *honey*, so 熱檸蜜 is *hot lemon honey*.",
         "tags": [
             "飲品",
             "蜜",
@@ -112,10 +112,6 @@
                         "URL": "https://en.wiktionary.org/wiki/凍"
                     },
                     {
-                        "name": "熱",
-                        "URL": "https://en.wiktionary.org/wiki/熱"
-                    },
-                    {
                         "name": "檸",
                         "URL": "https://en.wiktionary.org/wiki/檸"
                     },
@@ -132,7 +128,7 @@
                 "place": "Cafe Orchid, Millbrae, California"
             }
         ],
-        "description": "An iced tea made from sugar, honey and lemon.\n\n**Characters**\n\n凍 is *cold*, 檸 is *lemon*, and 蜜 is *honey*, so 凍檸蜜 is *iced lemon honey*.",
+        "description": "An iced tea made from sugar, honey and lemon.\n\n**Characters**\n\n[凍](https://en.wiktionary.org/wiki/凍) is *cold*, [檸](https://en.wiktionary.org/wiki/檸) is *lemon*, and [蜜](https://en.wiktionary.org/wiki/蜜) is *honey*, so 凍檸蜜 is *iced lemon honey*.",
         "tags": [
             "飲品",
             "蜜",
