@@ -42,6 +42,46 @@
     {
         "words": [
             {
+                "Chinese": "豆腐",
+                "English": "marinated tofu",
+                "Yale": "dauh fuh",
+                "Pinyin": "dòu fǔ",
+                "resources": [
+                    {
+                        "name": "豆腐",
+                        "URL": "https://en.wiktionary.org/wiki/豆腐"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/豆"
+                    },
+                    {
+                        "name": "腐",
+                        "URL": "https://en.wiktionary.org/wiki/腐"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "marinatedtofupearlbay",
+                "place": "Pearl Bay, Fremont, California"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "豆腐"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tofu"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "麻婆豆腐",
                 "English": "mapo tofu",
                 "Yale": "màh pòh dauh fuh",
