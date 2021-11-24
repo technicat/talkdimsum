@@ -42,11 +42,24 @@
     {
         "words": [
             {
-                "Chinese": "豆腐",
+                "Chinese": "滷汁豆腐",
+                "Simplified": "卤汁豆腐",
                 "English": "marinated tofu",
-                "Yale": "dauh fuh",
-                "Pinyin": "dòu fǔ",
+                "Yale": "lóuh jāp dauh fuh",
+                "Pinyin": "lǔ zhī dòu fǔ",
                 "resources": [
+                    {
+                        "name": "滷汁",
+                        "URL": "https://en.wiktionary.org/wiki/滷汁"
+                    },
+                    {
+                        "name": "滷",
+                        "URL": "https://en.wiktionary.org/wiki/滷"
+                    },
+                    {
+                        "name": "汁",
+                        "URL": "https://en.wiktionary.org/wiki/汁"
+                    },
                     {
                         "name": "豆腐",
                         "URL": "https://en.wiktionary.org/wiki/豆腐"
@@ -74,8 +87,8 @@
         ],
         "resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tofu"
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/marinated-tofu/"
             }
         ]
     },
