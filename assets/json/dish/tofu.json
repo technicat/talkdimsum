@@ -206,16 +206,12 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "Egg tofu is made from eggs and soy milk, typically packaged as a tube (so it's often called “tofu scallops” due to how it's sliced). It has the consistency of silken tofu.\n\n蛋 means “egg,” and 豆腐 is “tofu,” so it's “egg tofu.”\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name 玉子豆腐, or in Chinese as 日本豆腐 (“Japan tofu“). However, the Japanese version is made from eggs and dashi.",
+        "description": "[Egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu) is made from eggs and soy milk, typically packaged as a tube (so it's often called *tofu scallops* due to how it's sliced). It has the consistency of silken tofu.\n\n**Origin**\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name 玉子豆腐, or in Chinese as 日本豆腐 (*Japan tofu*). However, the Japanese version is made from eggs and dashi.\n\n**Characters**\n\n[蛋](https://en.wiktionary.org/wiki/蛋) means *egg*, and [豆腐](https://en.wiktionary.org/wiki/豆腐) is *tofu*, so 蛋豆腐 is *egg tofu*.",
         "tags": [
             "豆腐",
             "蛋"
         ],
         "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tofu#Egg_tofu"
-            },
             {
                 "name": "Garlic Delight",
                 "URL": "https://garlicdelight.com/egg-tofu/"
@@ -223,6 +219,10 @@
             {
                 "name": "Just One Cookbook",
                 "URL": "https://www.justonecookbook.com/egg-tofu/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tofu#Egg_tofu"
             }
         ]
     }
