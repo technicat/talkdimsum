@@ -31,7 +31,7 @@ class Word {
   final String? jyutping;
   @JsonKey(name: 'Pinyin', required: true)
   final String pinyin;
-  @JsonKey(name: 'Resources', defaultValue: [])
+  @JsonKey(name: 'resources', defaultValue: [])
   final List<Link> resources;
 
   Word(
