@@ -62,6 +62,75 @@
     {
         "words": [
             {
+                "Chinese": "冬瓜仙草茶",
+                "English": "grass jelly winter melon tea",
+                "Yale": "dūng gwā sīn chóu chàh",
+                "Jyutping": "dung1 gwaa1 sin1 cho2 caa4",
+                "Pinyin": "shuǐ guǒ xiān cǎo chá",
+                "resources": [
+                    {
+                        "name": "冬瓜",
+                        "URL": "https://en.wiktionary.org/wiki/冬瓜"
+                    },
+                    {
+                        "name": "冬",
+                        "URL": "https://en.wiktionary.org/wiki/冬"
+                    },
+                    {
+                        "name": "瓜",
+                        "URL": "https://en.wiktionary.org/wiki/瓜"
+                    },
+                    {
+                        "name": "仙草",
+                        "URL": "https://en.wiktionary.org/wiki/仙草"
+                    },
+                    {
+                        "name": "仙",
+                        "URL": "https://en.wiktionary.org/wiki/仙"
+                    },
+                    {
+                        "name": "草",
+                        "URL": "https://en.wiktionary.org/wiki/草"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "grassjellywintermelonteameetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Winter melon tea mixed with [grass jelly](https://en.wikipedia.org/wiki/Grass_jelly).\n\n**Characters**\n\n[冬](https://en.wiktionary.org/wiki/冬) means *winter* and [瓜](https://en.wiktionary.org/wiki/瓜) is *melon*, so [冬瓜](https://en.wiktionary.org/wiki/冬瓜) is *winter melon*. 仙](https://en.wiktionary.org/wiki/仙) means *divine*, and [草(https://en.wiktionary.org/wiki/蜜) is *grass*, and together [仙草](https://en.wiktionary.org/wiki/仙草) refers to both the herb and the jelly made from it. [茶](https://en.wiktionary.org/wiki/茶) is *tea*, so 冬瓜仙草茶 is *winter melon grass jelly tea*.",
+        "tags": [
+            "飲品",
+            "仙草",
+            "冬瓜",
+            "水果",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/winter-melon-tea/"
+            },
+            {
+                "name": "China Yummy Food",
+                "URL": "https://www.chinayummyfood.com/winter-melon-tea/"
+            },
+            {
+                "name": "Miss Chinese Food",
+                "URL": "https://misschinesefood.com/winter-melon-tea-2/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "QQ 冬瓜茶",
                 "English": "QQ winter melon tea",
                 "Yale": "QQ dūng gwā chàh",
