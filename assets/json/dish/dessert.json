@@ -163,5 +163,50 @@
                 "URL": "https://redcook.net/2014/07/08/fried-milk-custard/"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "仙草",
+                "English": "grass jelly",
+                "Yale": "sīn chóu",
+                "Pinyin": "xiān cǎo",
+                "resources": [
+                    {
+                        "name": "仙草",
+                        "URL": "https://en.wiktionary.org/wiki/仙草"
+                    },
+                    {
+                        "name": "仙",
+                        "URL": "https://en.wiktionary.org/wiki/仙"
+                    },
+                    {
+                        "name": "草",
+                        "URL": "https://en.wiktionary.org/wiki/草"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "icygrassjellysignaturemeetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Grass jelly](https://en.wikipedia.org/wiki/Grass_jelly).\n\n**Characters**\n\n[仙](https://en.wiktionary.org/wiki/仙) means *divine*, and [草(https://en.wiktionary.org/wiki/蜜) is *grass*, and together [仙草](https://en.wiktionary.org/wiki/仙草) refers to both the herb and the jelly made from it.",
+        "tags": [
+            "仙草",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/grass-jelly-cincau/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
+            }
+        ]
     }
 ]
