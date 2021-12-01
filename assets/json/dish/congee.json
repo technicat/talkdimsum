@@ -93,7 +93,65 @@
                 "image": "jook"
             }
         ],
-        "description": "Plain congee, with nothing mixed in.\n\n.白 means “white,” and 粥 is “congee,” so 白粥 is literally “white congee.”",
+        "description": "Plain congee, with nothing mixed in.\n\n.[白](https://en.wiktionary.org/wiki/白) means *white*, or in this case, *plain*, and [粥](https://en.wiktionary.org/wiki/粥) is *congee*, so [白粥](https://en.wiktionary.org/wiki/白粥) is *plain congee*.",
+        "tags": [
+            "早餐",
+            "茶餐廳",
+            "粥",
+            "豬",
+            "素",
+            "熱"
+        ],
+        "resources": [
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Plain-Congee"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "瑤柱白粥",
+                "Simplified": "瑶柱白粥",
+                "English": "congee w/ dried scallops",
+                "Yale": "yìuh chyúh baahk jūk",
+                "Pinyin": "yáo zhù bái zhōu",
+                "resources": [
+                    {
+                        "name": "瑤柱",
+                        "URL": "https://en.wiktionary.org/wiki/瑤柱"
+                    },
+                    {
+                        "name": "瑤",
+                        "URL": "https://en.wiktionary.org/wiki/瑤"
+                    },
+                    {
+                        "name": "柱",
+                        "URL": "https://en.wiktionary.org/wiki/柱"
+                    },
+                    {
+                        "name": "白粥",
+                        "URL": "https://en.wiktionary.org/wiki/白粥"
+                    },
+                    {
+                        "name": "白",
+                        "URL": "https://en.wiktionary.org/wiki/白"
+                    },
+                    {
+                        "name": "粥",
+                        "URL": "https://en.wiktionary.org/wiki/粥"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "dryscallopcongeeyummyrice",
+                "place": "Yummy Rice, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Congee with dried scallops.\n\n.**Characters**\n\n[瑤柱](https://en.wiktionary.org/wiki/炒飯) is *dried scallops*, 白 means *white* or *plain*, and 粥 is *congee*, so 瑤柱白粥 is “dried scallops plain congee.”",
         "tags": [
             "早餐",
             "茶餐廳",
