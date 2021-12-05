@@ -49,6 +49,49 @@
     {
         "words": [
             {
+                "English": "taro bun",
+                "Chinese": "芋頭包",
+                "Mandarin": "芋头包",
+                "Yale": "wuh táu bāau",
+                "Jyutping": "wu6 tau2 baau1",
+                "Pinyin": "yù tou bāo",
+                "resources": [
+                    {
+                        "name": "芋頭",
+                        "URL": "https://en.wiktionary.org/wiki/芋頭"
+                    },
+                    {
+                        "name": "芋",
+                        "URL": "https://en.wiktionary.org/wiki/芋"
+                    },
+                    {
+                        "name": "頭",
+                        "URL": "https://en.wiktionary.org/wiki/頭"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "tarobunkj",
+                "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A bun containing taro paste.\n\n**Characters**\n\n[芋頭](https://en.wiktionary.org/wiki/芋頭) means *taro* and [包](https://en.wiktionary.org/wiki/包) means *bun*, so 芋頭包 is *taro bun*.",
+        "tags": [
+            "芋頭",
+            "包",
+            "蒸"
+        ],
+        "resources": []
+    },
+    {
+        "words": [
+            {
                 "Chinese": "雞包",
                 "Simplified": "鸡包",
                 "English": "chicken bun",
@@ -73,7 +116,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom.\n\n**History**\n\nOriginated in northern China.\n\n**Characters**\n\nThe first character 雞 means “chicken,” and the second character 包 is “bun.”",
+        "description": "Thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom.\n\n**History**\n\nOriginated in northern China.\n\n**Characters**\n\nThe first character [雞](https://en.wiktionary.org/wiki/雞) means *chicken*, and the second character [包](https://en.wiktionary.org/wiki/包) is *bun*, so 雞包 is *chicken bun*.",
         "tags": [
             "點心",
             "雞",
@@ -130,7 +173,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "description": "A thick pan-fried bun with a juicy pork mixture inside.\n\n**Other Names**\n\nAlso known as Shengjian bun or Shengian mantou.\n\n**Characters**\n\nThe first character 生 means “raw,” and the second character 煎 is “pan-fried,” so it's “raw-fried bun.”",
+        "description": "A thick pan-fried bun with a juicy pork mixture inside, also known as Shengjian bun or [Shengian mantou](https://en.wikipedia.org/wiki/Shengjian_mantou).\n\n**Characters**\n\nThe first character [生](https://en.wiktionary.org/wiki/生) means *raw*, and the second character [煎](https://en.wiktionary.org/wiki/煎) is *pan-fried,*, so [生煎包](https://en.wiktionary.org/wiki/生煎包) is *raw-fried bun*.",
         "tags": [
             "點心",
             "上海",
