@@ -1,17 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:share/share.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 import 'package:talkdimsum/core/model/dish.dart';
 import 'package:talkdimsum/core/provider/dimsum.dart';
 import 'package:talkdimsum/ui/common/error_text.dart';
 
 import '../progress.dart';
+import 'dish_character_menu_button.dart';
+import 'dish_info_menu_button.dart';
 import 'dish_widget.dart';
 
-// https://flutterrdart.com/flutter-popup-menu-button-example/
 
 class DishScaffold extends StatelessWidget {
   final Dish dish;
@@ -51,59 +50,3 @@ class DishScaffold extends StatelessWidget {
       });
 }
 
-class DishCharacterMenuButton extends StatelessWidget {
-  final Dish dish;
-
-  DishCharacterMenuButton({Key? key, required this.dish}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) => PopupMenuButton<String>(
-        icon: Icon(Icons.help, semanticLabel: 'Learn the characters'),
-        onSelected: (String value) {
-          launch(value);
-        },
-        itemBuilder: (BuildContext context) {
-          return dish.word.resources
-              .map((link) => PopupMenuItem<String>(
-                  value: link.url, child: Text(link.name)))
-              .toList();
-        },
-      );
-}
-
-class DishInfoMenuButton extends StatelessWidget {
-  final Dish dish;
-
-  DishInfoMenuButton({Key? key, required this.dish}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) => PopupMenuButton<String>(
-        icon:
-            Icon(Icons.info, semanticLabel: 'Share and learn about this dish'),
-        onSelected: (String value) {
-          switch (value) {
-            case 'share':
-              {
-                Share.share(
-                    'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
-                    subject: 'Talk Dim Sum');
-              }
-              break;
-            default:
-              {
-                launch(value);
-              }
-          }
-        },
-        itemBuilder: (BuildContext context) {
-          return [
-            PopupMenuItem<String>(
-              value: 'share',
-              child: Text('share'),
-            ),
-            ...dish.resources.map((link) =>
-                PopupMenuItem<String>(value: link.url, child: Text(link.name)))
-          ];
-        },
-      );
-}
