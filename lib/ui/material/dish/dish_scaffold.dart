@@ -41,54 +41,69 @@ class DishScaffold extends StatelessWidget {
                         },
                         child: Icon(Icons.favorite_border,
                             semanticLabel: 'Add this dish to favorites'))),
-                appBar: AppBar(
-                    actions: <Widget>[
-                      PopupMenuButton<String>(
-                        icon: Icon(Icons.help,
-                            semanticLabel: 'Learn the characters'),
-                        onSelected: (String value) {
-                          launch(value);
-                        },
-                        itemBuilder: (BuildContext context) {
-                          return dish.word.resources
-                              .map((link) => PopupMenuItem<String>(
-                                  value: link.url, child: Text(link.name)))
-                              .toList();
-                        },
-                      ),
-                      PopupMenuButton<String>(
-                        icon: Icon(Icons.info,
-                            semanticLabel: 'Share and learn about this dish'),
-                        onSelected: (String value) {
-                          switch (value) {
-                            case 'share':
-                              {
-                                Share.share(
-                                    'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
-                                    subject: 'Talk Dim Sum');
-                              }
-                              break;
-                            default:
-                              {
-                                launch(value);
-                              }
-                          }
-                        },
-                        itemBuilder: (BuildContext context) {
-                          return [
-                            PopupMenuItem<String>(
-                              value: 'share',
-                              child: Text('share'),
-                            ),
-                            ...dish.resources.map((link) =>
-                                PopupMenuItem<String>(
-                                    value: link.url, child: Text(link.name)))
-                          ];
-                        },
-                      )
-                    ]),
+                appBar: AppBar(actions: <Widget>[
+                  DishCharacterMenuButton(dish: dish),
+                  DishInfoMenuButton(dish: dish)
+                ]),
                 body: DishWidget(dish: dish)),
             loading: (_) => Progressor(),
             error: (_) => ErrorText(error: _.error));
       });
+}
+
+class DishCharacterMenuButton extends StatelessWidget {
+  final Dish dish;
+
+  DishCharacterMenuButton({Key? key, required this.dish}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) => PopupMenuButton<String>(
+        icon: Icon(Icons.help, semanticLabel: 'Learn the characters'),
+        onSelected: (String value) {
+          launch(value);
+        },
+        itemBuilder: (BuildContext context) {
+          return dish.word.resources
+              .map((link) => PopupMenuItem<String>(
+                  value: link.url, child: Text(link.name)))
+              .toList();
+        },
+      );
+}
+
+class DishInfoMenuButton extends StatelessWidget {
+  final Dish dish;
+
+  DishInfoMenuButton({Key? key, required this.dish}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) => PopupMenuButton<String>(
+        icon:
+            Icon(Icons.info, semanticLabel: 'Share and learn about this dish'),
+        onSelected: (String value) {
+          switch (value) {
+            case 'share':
+              {
+                Share.share(
+                    'I had ${dish.word.chineseText()} #dimsum #yumcha #talkdimsum talkdimsum.com',
+                    subject: 'Talk Dim Sum');
+              }
+              break;
+            default:
+              {
+                launch(value);
+              }
+          }
+        },
+        itemBuilder: (BuildContext context) {
+          return [
+            PopupMenuItem<String>(
+              value: 'share',
+              child: Text('share'),
+            ),
+            ...dish.resources.map((link) =>
+                PopupMenuItem<String>(value: link.url, child: Text(link.name)))
+          ];
+        },
+      );
 }
