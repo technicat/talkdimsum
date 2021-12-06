@@ -17,7 +17,7 @@ Word _$WordFromJson(Map<String, dynamic> json) {
     json['Yale'] as String,
     json['Jyutping'] as String?,
     json['Pinyin'] as String,
-    (json['Resources'] as List<dynamic>?)
+    (json['resources'] as List<dynamic>?)
             ?.map((e) => Link.fromJson(e as Map<String, dynamic>))
             .toList() ??
         [],
@@ -32,5 +32,5 @@ Map<String, dynamic> _$WordToJson(Word instance) => <String, dynamic>{
       'Yale': instance.yale,
       'Jyutping': instance.jyutping,
       'Pinyin': instance.pinyin,
-      'Resources': instance.resources,
+      'resources': instance.resources,
     };
