@@ -5,6 +5,10 @@ import 'package:talkdimsum/ui/common/dish/dish_description_widget.dart';
 import 'package:talkdimsum/ui/common/dish/dish_tap_image_widget.dart';
 import 'package:talkdimsum/ui/cupertino/word/word_widget.dart';
 
+// todo - cupertino version
+import 'package:talkdimsum/ui/material/dish/dish_character_menu_button.dart';
+import 'package:talkdimsum/ui/material/dish/dish_info_menu_button.dart';
+
 import 'favorite_button.dart';
 
 class DishWidget extends StatelessWidget {
@@ -17,6 +21,12 @@ class DishWidget extends StatelessWidget {
         DishTapImageWidget(dish: dish),
         WordWidget(word: dish.word),
         Expanded(child: DishDescriptionWidget(dish: dish)),
-        Row(children: [Spacer(),FavoriteButton(dish: dish),Spacer()])
+        Row(children: [
+        //  DishInfoMenuButton(dish: dish),
+          Spacer(),
+          FavoriteButton(dish: dish),
+          Spacer(),
+      //    DishCharacterMenuButton(dish: dish),
+        ])
       ]);
 }
