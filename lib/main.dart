@@ -25,7 +25,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     Widget app;
     if (GetPlatform.isDesktop) {
-      setWindowFrame(Rect.fromLTRB(0,0,400,600));
+      setWindowFrame(Rect.fromLTRB(0,0,600,800));
     }
     if (GetPlatform.isIOS || GetPlatform.isMacOS) {
       app = cupertino.App();

@@ -17,6 +17,6 @@ class DishWidget extends StatelessWidget {
         DishTapImageWidget(dish: dish),
         WordWidget(word: dish.word),
         Expanded(child: DishDescriptionWidget(dish: dish)),
-        FavoriteButton(dish: dish)
+        Row(children: [Spacer(),FavoriteButton(dish: dish),Spacer()])
       ]);
 }
