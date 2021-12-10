@@ -26,7 +26,7 @@ class DishWidget extends StatelessWidget {
           Spacer(),
           FavoriteButton(dish: dish),
           Spacer(),
-          //    DishCharacterMenuButton(dish: dish),
+          DishCharactersButton(dish: dish),
         ])
       ]);
 }
@@ -54,5 +54,31 @@ class DishInfoButton extends StatelessWidget {
         },
         child:
             Icon(CupertinoIcons.info, semanticLabel: 'Links to web resources'));
+  }
+}
+
+class DishCharactersButton extends StatelessWidget {
+  final Dish dish;
+
+  DishCharactersButton({Key? key, required this.dish}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return CupertinoButton(
+        onPressed: () {
+          showCupertinoModalPopup(
+              context: context,
+              builder: (_) => CupertinoActionSheet(
+                      title: Text('Characters in...'),
+                      message: Text(dish.word.english),
+                      actions: [
+                        ...dish.word.resources.map((link) =>
+                            CupertinoActionSheetAction(
+                                onPressed: () => link.goto(),
+                                child: Text(link.name)))
+                      ]));
+        },
+        child:
+            Icon(CupertinoIcons.book, semanticLabel: 'Links to wiktionary'));
   }
 }
