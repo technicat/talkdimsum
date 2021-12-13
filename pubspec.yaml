@@ -131,10 +131,11 @@ flutter:
     - assets/json/place/
     - assets/json/words/
     - assets/json/phrases/
+    - graphics/
 
 # flutter pub run flutter_launcher_icons:main
 flutter_icons:
   android: true 
   ios: true
-  image_path: "../dimsumicons/if_dim_sum.png"
+  image_path: "graphics/if_dim_sum.png"
 #  image_path: "icons/icons8-dim_sum.png"

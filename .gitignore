@@ -1,4 +1,4 @@
-# not saving build directories
+# not saving build stuff
 
 android
 ios
@@ -7,6 +7,7 @@ macos
 web
 windows
 publish.sh
+graphics
 
 
 # https://github.com/flutter/flutter/blob/master/.gitignore
