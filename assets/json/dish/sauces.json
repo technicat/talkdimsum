@@ -139,11 +139,20 @@
   {
     "words": [
       {
-        "Chinese": "辣椒油",
-        "English": "chili oil",
-        "Yale": "laaht jīu yàuh",
-        "Pinyin": "là jiāo yóu",
+        "Chinese": "紅油",
+        "Simplified": "红油",
+        "English": "red oil",
+        "Yale": "hùhng yàuh",
+        "Pinyin": "hóng yóu",
         "resources": [
+          {
+            "name": "紅油",
+            "URL": "https://en.wiktionary.org/wiki/紅油"
+          },
+          {
+            "name": "紅",
+            "URL": "https://en.wiktionary.org/wiki/紅"
+          },
           {
             "name": "油",
             "URL": "https://en.wiktionary.org/wiki/油"
@@ -157,9 +166,11 @@
         "place": "Chengdu Taste, Las Vegas, Nevada"
       }
     ],
-    "description": "\n\n**Characters**\n\n辣椒 is *chili pepper*, and 油 is *oil*,.",
+    "description": "Red oil is chili oil (traditionally made from Sichuan peppers), which, naturally, looks red. It's as spicy as it looks.\n\n**Characters**\n\n[紅](https://en.wiktionary.org/wiki/紅) is *red*, and [油](https://en.wiktionary.org/wiki/油) is *oil*, so [紅油](https://en.wiktionary.org/wiki/紅油) is *red oil*.",
     "tags": [
-      "辣椒油",
+      "四川",
+      "川菜",
+      "紅油",
       "油"
     ],
     "resources": [
@@ -200,7 +211,6 @@
     ],
     "description": "Vinegar made from rice wine.\n\n米 means “rice,” and 醋 is “vinegar.”\n\n**Characters**\n\nChinese rice vinegar comes in a variety of colors, and clear, but red vinegar is often used as a dipping sauce.",
     "resources": [
-
       {
         "name": "Red House Spice",
         "URL": "https://redhousespice.com/chinese-rice-vinegar/"
