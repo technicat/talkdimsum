@@ -122,7 +122,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce)\n\n**Characters**\n\n蠔 means *oyster*, and 油 is *oil*, so 蠔油 is *oyster oil*.",
+    "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce)\n\n**Characters**\n\n[蠔](https://en.wiktionary.org/wiki/蠔) is *oyster*, and [油](https://en.wiktionary.org/wiki/油) is *oil*, so 蠔油 is *oyster oil*.",
     "tags": [
       "粵菜",
       "蠔油",
@@ -133,6 +133,39 @@
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Oyster_sauce"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "辣椒油",
+        "English": "chili oil",
+        "Yale": "laaht jīu yàuh",
+        "Pinyin": "là jiāo yóu",
+        "resources": [
+          {
+            "name": "油",
+            "URL": "https://en.wiktionary.org/wiki/油"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "chilioilchengdutaste",
+        "place": "Chengdu Taste, Las Vegas, Nevada"
+      }
+    ],
+    "description": "\n\n**Characters**\n\n辣椒 is *chili pepper*, and 油 is *oil*,.",
+    "tags": [
+      "辣椒油",
+      "油"
+    ],
+    "resources": [
+      {
+        "name": "Omnivore's Cookbook",
+        "URL": "https://omnivorescookbook.com/how-to-make-chili-oil/"
       }
     ]
   },
