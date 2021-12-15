@@ -12,7 +12,7 @@ import 'navigationbar.dart';
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) => GetMaterialApp(
-        home: NavigationBar(),
+        home: MyNavigationBar(),
         //https://flutter.dev/docs/development/accessibility-and-localization/internationalization
 
         localizationsDelegates: AppLocalizations.localizationsDelegates,

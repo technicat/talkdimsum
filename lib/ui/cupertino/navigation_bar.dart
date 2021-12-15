@@ -9,7 +9,7 @@ import 'place/country_scaffold.dart';
 import 'phrase/phrases_scaffold.dart';
 import 'favorites/favorites_scaffold.dart';
 
-class NavigationBar extends StatelessWidget {
+class MyNavigationBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) => CupertinoTabScaffold(
       tabBar: CupertinoTabBar(

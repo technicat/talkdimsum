@@ -8,12 +8,12 @@ import 'dishes/dishes_scaffold.dart';
 import 'place/country_scaffold.dart';
 import 'phrase/phrases_scaffold.dart';
 
-class NavigationBar extends StatefulWidget {
+class MyNavigationBar extends StatefulWidget {
   @override
   NavigationBarState createState() => NavigationBarState();
 }
 
-class NavigationBarState extends State<NavigationBar> {
+class NavigationBarState extends State<MyNavigationBar> {
   int _selectedIndex = 0;
 
   // tab selection

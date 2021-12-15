@@ -8,7 +8,7 @@ import 'navigation_bar.dart';
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) => GetCupertinoApp(
-        home: NavigationBar(),
+        home: MyNavigationBar(),
         //https://flutter.dev/docs/development/accessibility-and-localization/internationalization
 
         localizationsDelegates: AppLocalizations.localizationsDelegates,
