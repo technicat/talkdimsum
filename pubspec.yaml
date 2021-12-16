@@ -137,5 +137,6 @@ flutter:
 flutter_icons:
   android: true 
   ios: true
+  remove_alpha_ios: true
   image_path: "graphics/if_dim_sum.png"
 #  image_path: "icons/icons8-dim_sum.png"
