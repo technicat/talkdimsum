@@ -152,6 +152,66 @@
   {
     "words": [
       {
+        "Chinese": "龍蝦伊麵",
+        "Simplified": "龙虾伊面",
+        "English": "lobster yi mein",
+        "Yale": "lùhng hā yī mihn",
+        "Pinyin": "lóng xiā yī miàn",
+        "resources": [
+          {
+            "name": "龍蝦",
+            "URL": "https://en.wiktionary.org/wiki/龍蝦"
+          },
+          {
+            "name": "龍",
+            "URL": "https://en.wiktionary.org/wiki/龍"
+          },
+          {
+            "name": "蝦",
+            "URL": "https://en.wiktionary.org/wiki/蝦"
+          },
+          {
+            "name": "伊麵",
+            "URL": "https://en.wiktionary.org/wiki/伊麵"
+          },
+          {
+            "name": "伊",
+            "URL": "https://en.wiktionary.org/wiki/伊"
+          },
+          {
+            "name": "麵",
+            "URL": "https://en.wiktionary.org/wiki/麵"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "lobsteryimeinzenpeninsula",
+        "place": "Zen Peninsula, Millbrae, California"
+      }
+    ],
+    "description": "Lobster served with [yi mein](https://en.wikipedia.org/wiki/Yi_mein) is a classic celebratory dish in Chinese retaurants.\n\n**Characters**\n\n[龍蝦](https://en.wiktionary.org/wiki/龍蝦) is *lobster*, and [伊麵](https://en.wiktionary.org/wiki/伊麵) is *yi mein*.",
+    "tags": [
+      "龍蝦",
+      "粵菜",
+      "茶餐廳",
+      "麵"
+    ],
+    "resources": [
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/lobster-yee-mein"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/lobster-yee-mein-lobster-noodles-recipe/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "星洲炒米粉",
         "English": "Singapore-style noodles",
         "Yale": "sīng jāu cháau maih fán",
