@@ -160,5 +160,53 @@
         ],
         "resources": [
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "杏仁茶",
+                "English": "almond tea",
+                "Yale": "hahng yàhn chàh",
+                "Pinyin": "xìng rén chá",
+                "resources": [
+                    {
+                        "name": "杏仁豆腐",
+                        "URL": "https://en.wiktionary.org/wiki/杏仁豆腐"
+                    },
+                    {
+                        "name": "杏仁",
+                        "URL": "https://en.wiktionary.org/wiki/杏仁"
+                    },
+                    {
+                        "name": "杏",
+                        "URL": "https://en.wiktionary.org/wiki/杏"
+                    },
+                    {
+                        "name": "仁",
+                        "URL": "https://en.wiktionary.org/wiki/仁"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/茶"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "almondteameetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Almond tea is made from a mixture of water, almond seeds (Chinese almonds, which are actually apricot kernels) and sticky rice.\n\n**Characters**\n\n[杏仁](https://en.wiktionary.org/wiki/杏仁) means *almond* or in this case *apricot kernel*, and [茶](https://en.wiktionary.org/wiki/茶) is *tea*.",
+        "tags": [
+            "水果茶",
+            "水果",
+            "杏仁",
+            "茶"
+        ],
+        "resources": [
+           
+        ]
     }
 ]
