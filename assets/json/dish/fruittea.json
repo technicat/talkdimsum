@@ -206,7 +206,18 @@
             "茶"
         ],
         "resources": [
-           
+            {
+                "name": "A Dollop of History",
+                "URL": "https://historydollop.com/2020/09/02/chinese-almond-tea-1792/"
+            },
+            {
+                "name": "Living in C Major",
+                "URL": "http://livingincmajor.com/how-to-make-chinese-almond-tea-from-scratch-5-steps-with-pictures"
+            },
+            {
+                "name": "No-Frills Recipes",
+                "URL": "https://www.nofrillsrecipes.com/2015/04/chinese-almond-tea.html"
+            }
         ]
     }
 ]
