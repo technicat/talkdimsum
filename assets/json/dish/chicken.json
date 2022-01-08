@@ -85,7 +85,7 @@
                 "place": "China Gourmet, Las Vegas, Nevada"
             }
         ],
-        "description": "Battered fried chicken coated in a sweet sauce and sprinkled with sesame seeds. This is a Chinese-American dish.\n\n**Characters**\n\n[芝麻](https://en.wiktionary.org/wiki/芝麻) means *sesame* and [雞](https://en.wiktionary.org/wiki/雞) is *chicken*, so it's *sesame chicken*.",
+        "description": "Battered fried chicken coated in a sweet sauce and sprinkled with sesame seeds. This is a Chinese-American dish.\n\n**Characters**\n\n[芝麻](https://en.wiktionary.org/wiki/芝麻) means *sesame* and [雞](https://en.wiktionary.org/wiki/雞) is *chicken*, so 芝麻雞 is *sesame chicken*.",
         "tags": [
             "芝麻",
             "美式",
@@ -93,6 +93,10 @@
             "茶餐廳"
         ],
         "resources": [
+            {
+                "name": "Adora's Box",
+                "URL": "http://www.adorasbox.com/2011/03/sesame-and-cashew-chicken.html"
+            },
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/sesame-chicken/"
