@@ -99,6 +99,27 @@
         "Pinyin": "yú"
     },
     {
+        "Chinese": "鹹魚蒸肉餅",
+        "Simplified": "咸鱼蒸肉饼",
+        "English": "salted fish",
+        "Yale": "hàahm yùh",
+        "Pinyin": "xián yú",
+        "resources": [
+            {
+                "name": "鹹魚",
+                "URL": "https://en.wiktionary.org/wiki/鹹魚"
+            },
+            {
+                "name": "鹹",
+                "URL": "https://en.wiktionary.org/wiki/鹹"
+            },
+            {
+                "name": "魚",
+                "URL": "https://en.wiktionary.org/wiki/蒸"
+            }
+        ]
+    },
+    {
         "Chinese": "魷魚",
         "Simplified": "鱿鱼",
         "English": "squid",
