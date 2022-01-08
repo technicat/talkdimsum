@@ -169,5 +169,76 @@
                 "URL": "https://madewithlau.com/recipes/steamed-pork-patty"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "鹹魚蒸肉餅",
+                "Simplified": "咸鱼蒸肉饼",
+                "English": "salted fish w/ minced pork",
+                "Yale": "hàahm yùh jīng yuhk béng",
+                "Pinyin": "xián yú zhēng ròu bǐng",
+                "resources": [
+                    {
+                        "name": "鹹魚",
+                        "URL": "https://en.wiktionary.org/wiki/鹹魚"
+                    },
+                    {
+                        "name": "鹹",
+                        "URL": "https://en.wiktionary.org/wiki/鹹"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/蒸"
+                    },
+                    {
+                        "name": "蒸",
+                        "URL": "https://en.wiktionary.org/wiki/蒸"
+                    },
+                    {
+                        "name": "肉餅",
+                        "URL": "https://en.wiktionary.org/wiki/肉餅"
+                    },
+                    {
+                        "name": "肉",
+                        "URL": "https://en.wiktionary.org/wiki/肉"
+                    },
+                    {
+                        "name": "餅",
+                        "URL": "https://en.wiktionary.org/wiki/餅"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "saltedfishmincedporkyummyrice",
+                "place": "Yummy Rice, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A steamed pork patty mixed with salted fish.\n\n",
+        "tags": [
+            "鹹魚",
+            "肉",
+            "豬肉"
+        ],
+        "resources": [
+            {
+                "name": "Huang's Kitchen",
+                "URL": "https://www.huangkitchen.com/steamed-minced-pork-with-salted-fish/"
+            },
+            {
+                "name": "NOMSS.COM",
+                "URL": "https://www.nomss.com/steamed-minced-pork-with-salted-fish/"
+            },
+            {
+                "name": "Wok & Kin",
+                "URL": "https://www.wokandkin.com/steamed-pork-mince-salted-fish/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/steamed-pork-salted-fish/"
+            }
+        ]
     }
 ]
