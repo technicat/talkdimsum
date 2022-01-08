@@ -38,12 +38,12 @@
         ],
         "resources": [
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Siu_mei"
-            },
-            {
                 "name": "The Culture Trip",
                 "URL": "https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Siu_mei"
             }
         ]
     },
@@ -94,12 +94,12 @@
         ],
         "resources": [
             {
-                "name": "Oh My Food",
-                "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
-            },
-            {
                 "name": "Like a Chinese",
                 "URL": "https://likeachinese.com/cantonese-roast-duck/"
+            },
+            {
+                "name": "Oh My Food",
+                "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
             }
         ]
     },
@@ -144,16 +144,12 @@
         ],
         "resources": [
             {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2008/08/juicy-barbecued-pork-cantonese-classic.html"
             },
             {
                 "name": "Kirbie's Cravings",
                 "URL": "https://kirbiecravings.com/char-siu-chinese-bbq-pork/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2008/08/juicy-barbecued-pork-cantonese-classic.html"
             },
             {
                 "name": "Made with Lau",
@@ -166,6 +162,10 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Char_siu"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"
             }
         ]
     },
