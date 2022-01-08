@@ -29,6 +29,27 @@
         "Pinyin": "bǐng"
     },
     {
+        "Chinese": "肉餅",
+        "Simplified": "肉饼",
+        "English": "meat patty",
+        "Yale": "yuhk béng",
+        "Pinyin": "ròu bǐng",
+        "resources": [
+            {
+                "name": "肉餅",
+                "URL": "https://en.wiktionary.org/wiki/肉餅"
+            },
+            {
+                "name": "肉",
+                "URL": "https://en.wiktionary.org/wiki/肉"
+            },
+            {
+                "name": "餅",
+                "URL": "https://en.wiktionary.org/wiki/餅"
+            }
+        ]
+    },
+    {
         "Chinese": "撻",
         "Simplified": "挞",
         "English": "tart",
