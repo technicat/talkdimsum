@@ -135,6 +135,152 @@
   {
     "words": [
       {
+        "Chinese": "海鮮炒飯",
+        "Simplified": "海鮮炒饭",
+        "English": "seafood fried rice",
+        "Yale": "cháau faahn",
+        "Pinyin": "chǎo fàn",
+        "resources": [
+          {
+            "name": "海鮮",
+            "URL": "https://en.wiktionary.org/wiki/海鮮"
+          },
+          {
+            "name": "海",
+            "URL": "https://en.wiktionary.org/wiki/海"
+          },
+          {
+            "name": "鮮",
+            "URL": "https://en.wiktionary.org/wiki/鮮"
+          },
+          {
+            "name": "炒飯",
+            "URL": "https://en.wiktionary.org/wiki/炒飯"
+          },
+          {
+            "name": "炒",
+            "URL": "https://en.wiktionary.org/wiki/炒"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "seafoodfriedricebananaleafcafe",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Chinese fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) is cooked rice that has been cooled and then stir-fied rice with meats and vegetables (often leftovers).\n\n**Eating Tips**\n\nDon't feel obligated to try eating fried rice with chopsticks. In Asia, fried rice is often eaten with a spoon. It's a lot easier!\n\n**Cooking Tips**\n\nUse day-old refrigerated rice (rice spoils quickly, so don't leave it out at room temperature too long), which has dried out somewhat and won't be a sticky clump like freshly-cooked rice.\n\n**Characters**\n\n[炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so [炒飯](https://en.wiktionary.org/wiki/炒飯) is *stir-fried rice*.",
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chinese_fried_rice"
+      }
+    ],
+    "tags": [
+      "海鮮",
+      "炒飯",
+      "炒",
+      "飯",
+      "茶餐廳"
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "揚州炒飯",
+        "Simplified": "扬州炒饭",
+        "English": "Yangzhou fried rice",
+        "Yale": "yèuhng jāu cháau faahn",
+        "Pinyin": "Yáng zhōu chǎo fàn",
+        "resources": [
+          {
+            "name": "揚州",
+            "URL": "https://en.wiktionary.org/wiki/揚州"
+          },
+          {
+            "name": "揚",
+            "URL": "https://en.wiktionary.org/wiki/揚"
+          },
+          {
+            "name": "州",
+            "URL": "https://en.wiktionary.org/wiki/州"
+          },
+          {
+            "name": "炒飯",
+            "URL": "https://en.wiktionary.org/wiki/炒飯"
+          },
+          {
+            "name": "炒",
+            "URL": "https://en.wiktionary.org/wiki/炒"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "yangchowfriedricenorthsidecafe",
+        "place": "Northside Cafe, Las Vegas, Nevada"
+      },
+      {
+        "image": "youngchowfriedriceislandmalaysian",
+        "place": "Island Malaysian Cuisine, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Fried rice with scrambled egg, shrimp and barbequed pork or Chinese sausage.\n\n**Characters**\n\n[揚州](https://en.wiktionary.org/wiki/揚州) is Yangzhou, a city in China. [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so it's *Yangzhou stir-fried rice*.\n\nThis dish is often listed as “Yang Chow fried rice” or just the restaurant's “house fried rice” (or in the UK, “special fried rice”).",
+    "resources": [
+      {
+        "name": "Adora's Box",
+        "URL": "http://www.adorasbox.com/2011/11/yang-chow-fried-rice.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-fried-rice-yangzhou-fried-rice/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/yangzhou-fried-rice"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/yangzhou-fried-rice-扬州炒饭-1a7a8db7d6e0"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yangzhou_fried_rice"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/young-chow-fried-rice/"
+      },
+      {
+        "name": "Yan Can Cook",
+        "URL": "https://yancancook.com/home/recipe/yang-chow-fried-rice/"
+      }
+    ],
+    "tags": [
+      "炒飯",
+      "炒",
+      "飯",
+      "蛋",
+      "叉燒",
+      "揚州",
+      "臘腸",
+      "茶餐廳",
+      "點心"
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "臘腸炒飯",
         "Simplified": "腊肠炒饭",
         "English": "Chinese sausage fried rice",
