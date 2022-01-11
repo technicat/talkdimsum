@@ -28,8 +28,9 @@
                 "place": "Diamond Bakery, Las Vegas"
             }
         ],
-        "description": "New Year cake is a steamed cake made with sticky rice and brown sugar, often served fried or dipped in egg and fried. Popular during New Year (Chinese New Year, of course).\n\n**Characters**\n\n年 means *year*, and 糕 is *cake*.",
+        "description": "[New Year cake](https://en.wikipedia.org/wiki/Nian_gao) is a steamed cake made with sticky rice and brown sugar, often served fried or dipped in egg and fried. Popular during New Year (Chinese New Year, of course).\n\n**Characters**\n\n年 means *year*, and 糕 is *cake*.",
         "tags": [
+            "年糕",
             "黑糖",
             "糕",
             "甜品"
@@ -58,6 +59,53 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Nian_gao"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "炒年糕",
+                "English": "stir-fried rice cake",
+                "Yale": "nìhn gōu",
+                "Pinyin": "nián gāo",
+                "resources": [
+                    {
+                        "name": "炒",
+                        "URL": "https://en.wiktionary.org/wiki/炒"
+                    },
+                    {
+                        "name": "年糕",
+                        "URL": "https://en.wiktionary.org/wiki/年糕"
+                    },
+                    {
+                        "name": "年",
+                        "URL": "https://en.wiktionary.org/wiki/年"
+                    },
+                    {
+                        "name": "糕",
+                        "URL": "https://en.wiktionary.org/wiki/糕"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "stirfriedricecakexiaolongbao",
+                "place": "Xiaolongbao, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Same rice cake used to make [New Year cake](https://en.wikipedia.org/wiki/Nian_gao), but sliced and stir-fried\n\n**Characters**\n\n年 means *year*, and 糕 is *cake*.",
+        "tags": [
+            "年糕",
+            "炒",
+            "黑糖",
+            "糕"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/"
             }
         ]
     }
