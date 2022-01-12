@@ -104,8 +104,20 @@
         ],
         "resources": [
             {
+                "name": "Auntie Emily's Kitchen",
+                "URL": "https://auntieemily.com/shanghai-fried-rice-cake/"
+            },
+            {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/stir-fried-sticky-rice-cakes-nian-gao/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/spicy-stir-fried-rice-cakes/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/shanghai-rice-cake-stir-fry-w-greens/"
             }
         ]
     }
