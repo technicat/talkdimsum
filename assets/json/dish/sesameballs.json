@@ -131,7 +131,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Sesame balls filled with lotus seed paste.\n\n**Characters**\n\n[蓮蓉](https://en.wiktionary.org/wiki/蓮蓉) is *lotus seed*, and [](https://en.wiktionary.org/wiki/煎堆) is *sesame ball*, so 蓮蓉煎堆 is *lotus seed sesame ball.*",
+        "description": "[Sesame balls](http://en.wikipedia.org/wiki/Jin_deui) filled with lotus seed paste.\n\n**Characters**\n\n[蓮蓉](https://en.wiktionary.org/wiki/蓮蓉) is *lotus seed*, and [煎堆](https://en.wiktionary.org/wiki/煎堆) is *sesame ball*, so 蓮蓉煎堆 is *lotus seed sesame ball.*",
         "tags": [
             "煎堆",
             "芝麻",
@@ -225,7 +225,7 @@
                 "place": "SF Supermarket, Las Vegas, Nevada"
             }
         ],
-        "description": "Sesame balls filled with red bean paste.\n\n**Characters**\n\n豆 is “bean,” and 沙 is “sand,” so 豆沙 “bean sand,” or, in other words, “bean paste.”",
+        "description": "[Sesame balls](http://en.wikipedia.org/wiki/Jin_deui) filled with [red bean paste](https://en.wikipedia.org/wiki/Red_bean_paste).\n\n**Characters**\n\n豆 is “bean,” and 沙 is “sand,” so 豆沙 “bean sand,” or, in other words, “bean paste.”",
         "tags": [
             "煎堆",
             "芝麻",
@@ -237,10 +237,6 @@
             "點心"
         ],
         "resources": [
-            {
-                "name": "red bean paste",
-                "URL": "https://en.wikipedia.org/wiki/Red_bean_paste"
-            },
             {
                 "name": "Dim Sum Central",
                 "URL": "http://www.dimsumcentral.com/fried-sesame-balls/"
@@ -290,13 +286,9 @@
             {
                 "image": "lavasesameballtimhowan",
                 "place": "Tim Ho Wan, Las Vegas, Nevada"
-            },
-            {
-                "image": "moltencustardsesameballkj",
-                "place": "KJ Dim Sum & Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "Sesame balls filled with molten custard.\n\n**Characters**\n\n流 is “flowing”, and 沙 is “sand”, so 流沙 “flowing sand,” which refers to a runny custard, and 煎堆 is “sesame ball.”",
+        "description": "[Sesame balls]((http://en.wikipedia.org/wiki/Jin_deui)) filled with molten custard.\n\n**Characters**\n\n流 is “flowing”, and 沙 is “sand”, so 流沙 “flowing sand,” which refers to a runny custard, and 煎堆 is “sesame ball.”",
         "tags": [
             "煎堆",
             "芝麻",
