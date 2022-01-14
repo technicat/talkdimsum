@@ -18,6 +18,22 @@
                     {
                         "name": "堆",
                         "URL": "https://en.wiktionary.org/wiki/堆"
+                    },
+                    {
+                        "name": "芝麻",
+                        "URL": "https://en.wiktionary.org/wiki/芝麻"
+                    },
+                    {
+                        "name": "芝",
+                        "URL": "https://en.wiktionary.org/wiki/芝"
+                    },
+                    {
+                        "name": "麻",
+                        "URL": "https://en.wiktionary.org/wiki/麻"
+                    },
+                    {
+                        "name": "球",
+                        "URL": "https://en.wiktionary.org/wiki/球"
                     }
                 ]
             }
@@ -28,10 +44,11 @@
                 "place": "Foods 2 Go, Las Vegas, Nevada"
             }
         ],
-        "description": "A common bakery item, deep-fried hollow spheres of glutinous rice coated with sesame seeds, with a filling of lotus seed, black sesame, or red bean paste. Or sometimes nothing, just hollow.\n\n**Characters**\n\n煎 means fried (although usually deep-fried) and 堆 is a heap or pile.\n\nAlso known more literally as “sesame seed balls” 芝麻球 (jī màh kàu) where 芝麻 means sesame seeds and 球 is a ball.",
+        "description": "A common bakery item, deep-fried hollow spheres of glutinous rice coated with sesame seeds, with a filling of lotus seed, black sesame, or red bean paste. Or sometimes nothing, just hollow.\n\n**Characters**\n\n[煎](https://en.wiktionary.org/wiki/煎) means fried (actually pan-fried, even though sesame balls are usually deep-fried) and [堆](https://en.wiktionary.org/wiki/堆) is a heap or pile.\n\nAlso known more literally as “sesame seed ball” 芝麻球 (jī màh kàu in Cantonese) where 芝麻 is *sesame seed* and [球](https://en.wiktionary.org/wiki/球) is *ball*.",
         "tags": [
             "煎堆",
             "芝麻",
+            "球",
             "炸",
             "素",
             "甜品",
@@ -55,12 +72,12 @@
                 "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/37"
             },
             {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/sticky-rice/sesame-balls-jian-dui"
-            },
-            {
                 "name": "Panda Cheffy",
                 "URL": "https://medium.com/@pandacheffy/sesame-ball-jian-dui-麻团-a19afa2e0d95"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/sticky-rice/sesame-balls-jian-dui"
             },
             {
                 "name": "Wikipedia",
