@@ -461,5 +461,46 @@
             "素",
             "椒鹽"
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "椒鹽鉗",
+                "English": "salt and pepper crab",
+                "Yale": "jīu yìhm háaih",
+                "Pinyin": "jiāo yán xiè",
+                "resources": [
+                    {
+                        "name": "椒鹽",
+                        "URL": "https://en.wiktionary.org/wiki/椒鹽"
+                    },
+                    {
+                        "name": "椒",
+                        "URL": "https://en.wiktionary.org/wiki/椒"
+                    },
+                    {
+                        "name": "鹽",
+                        "URL": "https://en.wiktionary.org/wiki/鹽"
+                    },
+                    {
+                        "name": "鉗",
+                        "URL": "https://en.wiktionary.org/wiki/鉗"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "saltandpeppercrabbananaleafcafe",
+                "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Deep-fried crab seasoned with with salt and pepper.\n\n**Characters**\n\n椒 is *pepper*, and 椒 is *salt*, so 椒椒 means seasoned by salt and pepper, and 鉗 is *crab*.",
+        "tags": [
+            "茶餐廳",
+            "海鮮",
+            "鉗",
+            "椒鹽"
+        ]
     }
 ]
