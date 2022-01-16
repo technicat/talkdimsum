@@ -179,5 +179,66 @@
                 "URL": "https://3thanwong.com/hong-kong-beef-brisket-noodles/"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "叻沙",
+                "English": "laksa",
+                "Yale": "lahk sā",
+                "Pinyin": "lè shā",
+                "resources": [
+                    {
+                        "name": "叻沙",
+                        "URL": "https://en.wiktionary.org/wiki/叻沙"
+                    },
+                    {
+                        "name": "叻",
+                        "URL": "https://en.wiktionary.org/wiki/叻"
+                    },
+                    {
+                        "name": "沙",
+                        "URL": "https://en.wiktionary.org/wiki/沙"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "laksanoodlepapa",
+                "place": "88 Noodle Papa, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Laksa](https://en.wikipedia.org/wiki/Laksa) is a spicy noodle soup of Chinese and Malaysian origin, popular in Southeast Asia.",
+        "tags": [
+            "湯",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "196 Flavors",
+                "URL": "https://www.196flavors.com/malaysia-laksa/"
+            },
+            {
+                "name": "The Guardian",
+                "URL": "https://www.theguardian.com/food/2019/jul/24/how-to-cook-the-perfect-laksa-recipe"
+            },
+            {
+                "name": "Rasa Malaysia",
+                "URL": "https://rasamalaysia.com/laksa-recipe/"
+            },
+            {
+                "name": "The Spruce Eats",
+                "URL": "https://www.thespruceeats.com/laksa-soup-recipe-4172623"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Laksa"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/laksa/"
+            }
+        ]
     }
 ]
