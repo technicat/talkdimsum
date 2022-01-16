@@ -495,12 +495,18 @@
                 "place": "Banana Leaf Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Deep-fried crab seasoned with with salt and pepper.\n\n**Characters**\n\n椒 is *pepper*, and 椒 is *salt*, so 椒椒 means seasoned by salt and pepper, and 鉗 is *crab*.",
+        "description": "Deep-fried soft shell crab seasoned with with salt and pepper.\n\n**Characters**\n\n椒 is *pepper*, and 椒 is *salt*, so 椒椒 means seasoned by salt and pepper, and 鉗 is *crab*.",
         "tags": [
             "茶餐廳",
             "海鮮",
             "鉗",
             "椒鹽"
+        ],
+        "resources": [
+            {
+                "name": "Asian Inspirations",
+                "URL": "https://asianinspirations.com.au/recipes/salt-and-pepper-soft-shell-crab/"
+            }
         ]
     }
 ]
