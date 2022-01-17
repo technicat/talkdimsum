@@ -497,7 +497,7 @@
         "place": "Zen Peninsula, Millbrae, California"
       }
     ],
-    "description": "Fried rice with chunks of BBQ pork, and typically with scrambled eggs and peas.\n\n**Characters**\n\n叉燒 is “BBQ pork,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “BBQ pork fried rice.”\n\nOften listed as “pork fried rice.”",
+    "description": "Fried rice with chunks of BBQ pork, and typically with scrambled eggs and peas. Often listed as “pork fried rice.”\n\n**Characters**\n\n[叉燒](https://en.wiktionary.org/wiki/叉燒) is *BBQ pork*, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so 叉燒炒飯 is *BBQ pork stir-fried rice*.",
     "tags": [
       "炒飯",
       "炒",
@@ -560,18 +560,10 @@
       {
         "image": "saltedfishchickenfriedricedimsumcafe",
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
-      },
-      {
-        "image": "saltedfishchickenfriedriceislandmalaysian",
-        "place": "Island Malaysian Cuisine, Las Vegas, Nevada"
       }
     ],
-    "description": "Fried rice with chicken and salted fish.\n\n**Characters**\n\n鹹 is “salty,” 魚 is “fish,” 雞 is “chicken,” 炒 is “fried,” and 飯 is “rice” (specifically, cooked rice), so it's “salty fish chicken fried rice.”",
+    "description": "Fried rice with chicken and salted fish.\n\n**Characters**\n\n[鹹](https://en.wiktionary.org/wiki/鹹) is *salty*, [魚](https://en.wiktionary.org/wiki/魚) is *fish*, [雞](https://en.wiktionary.org/wiki/雞) is *chicken*, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so 鹹魚雞炒飯 is *salty fish chicken stir-fried rice.*",
     "resources": [
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/2014/07/cantonese-chicken-salted-fish-fried-rice/"
-      },
       {
         "name": "Ang Sarap",
         "URL": "https://www.angsarap.net/2011/12/08/chicken-and-salted-fish-fried-rice/"
@@ -579,6 +571,10 @@
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Cantonese_salted_fish"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2014/07/cantonese-chicken-salted-fish-fried-rice/"
       }
     ],
     "tags": [
