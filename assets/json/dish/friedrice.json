@@ -875,7 +875,7 @@
         "place": "C&K Chinese Kitchen, Las Vegas, Nevada"
       }
     ],
-    "description": "A thick gravy typicallly containing seafood, poultry, mushroom, and vegetables, poured over fried rice with scrambled egg.\n\n**Characters**\n\n福建 is Fujian, a province on the southeast coast of China.\n\nAlso commonly known as “Hokkien fried rice.”",
+    "description": "Also known as [Hokkien fried rice](https://en.wikipedia.org/wiki/Hokkien_fried_rice), this is fried rice with scrambled egg, covered with thick gravy typically containing seafood, poultry, mushroom, and vegetables.\n\n**Characters**\n\n福建 is Fujian, a province on the southeast coast of China.",
     "resources": [
       {
         "name": "The Food Dictator",
@@ -894,8 +894,50 @@
       "福建",
       "炒飯",
       "炒",
-      "飯",
-      "茶餐廳"
+      "飯"
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "炒飯",
+        "Simplified": "炒饭",
+        "English": "pineapple fried rice",
+        "Yale": " cháau faahn",
+        "Pinyin": " chǎo fàn",
+        "resources": [
+          {
+            "name": "炒飯",
+            "URL": "https://en.wiktionary.org/wiki/炒飯"
+          },
+          {
+            "name": "炒",
+            "URL": "https://en.wiktionary.org/wiki/炒"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "pineapplefriedricebananaleafcafe",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Thai fried rice, made with pineapple, peanuts, and curry.",
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/pineapple-fried-rice/"
+      }
+    ],
+    "tags": [
+      "炒飯",
+      "炒",
+      "飯"
     ]
   }
 ]
