@@ -900,12 +900,24 @@
   {
     "words": [
       {
-        "Chinese": "炒飯",
-        "Simplified": "炒饭",
+        "Chinese": "菠蘿炒飯",
+        "Simplified": "菠萝炒饭",
         "English": "pineapple fried rice",
-        "Yale": " cháau faahn",
-        "Pinyin": " chǎo fàn",
+        "Yale": "bō lòh cháau faahn",
+        "Pinyin": "bō luó  chǎo fàn",
         "resources": [
+          {
+            "name": "菠蘿",
+            "URL": "https://en.wiktionary.org/wiki/菠蘿"
+          },
+          {
+            "name": "菠",
+            "URL": "https://en.wiktionary.org/wiki/菠"
+          },
+          {
+            "name": "蘿",
+            "URL": "https://en.wiktionary.org/wiki/蘿"
+          },
           {
             "name": "炒飯",
             "URL": "https://en.wiktionary.org/wiki/炒飯"
@@ -927,7 +939,7 @@
         "place": "Banana Leaf Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "A Thai fried rice, made with pineapple, peanuts, and curry.",
+    "description": "A Thai fried rice, made with pineapple, peanuts, and curry.\n\n**Characters**\n\n[菠蘿](https://en.wiktionary.org/wiki/菠蘿) is *pineapple*, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so 菠蘿炒飯 is *pineapple stir-fried rice*.",
     "resources": [
       {
         "name": "The Woks of Life",
