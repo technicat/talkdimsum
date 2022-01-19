@@ -900,7 +900,7 @@
         "Simplified": "菠萝炒饭",
         "English": "pineapple fried rice",
         "Yale": "bō lòh cháau faahn",
-        "Pinyin": "bō luó  chǎo fàn",
+        "Pinyin": "bō luó chǎo fàn",
         "resources": [
           {
             "name": "菠蘿",
@@ -943,6 +943,59 @@
       }
     ],
     "tags": [
+      "菠蘿",
+      "炒飯",
+      "炒",
+      "飯"
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "XO醬炒飯",
+        "Simplified": "XO酱炒饭",
+        "English": "XO fried rice",
+        "Yale": "XO jeung cháau faahn",
+        "Pinyin": "XO jiàng chǎo fàn",
+        "resources": [
+          {
+            "name": "XO醬",
+            "URL": "https://en.wiktionary.org/wiki/XO醬"
+          },
+          {
+            "name": "醬",
+            "URL": "https://en.wiktionary.org/wiki/醬"
+          },
+          {
+            "name": "炒飯",
+            "URL": "https://en.wiktionary.org/wiki/炒飯"
+          },
+          {
+            "name": "炒",
+            "URL": "https://en.wiktionary.org/wiki/炒"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/飯"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "xofriedricexialongbao",
+        "place": "Xiaolongbao, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A fried rice mixed with XO sauce.\n\n**Characters**\n\n[XO醬](https://en.wiktionary.org/wiki/XO醬) is XO sauce, [炒](https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/飯) is *rice* (specifically, cooked rice), so 蘿炒飯 is *stir-fried rice*.",
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/xo-sauce-fried-rice-chicken/"
+      }
+    ],
+    "tags": [
+      "XO醬",
       "炒飯",
       "炒",
       "飯"
