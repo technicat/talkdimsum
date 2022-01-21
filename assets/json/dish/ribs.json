@@ -103,10 +103,23 @@
         "words": [
             {
                 "Chinese": "芋頭蒸排骨",
+                "Simplified": "芋头蒸排骨",
                 "English": "spare ribs w/ taro",
-                "Yale": " jīng pàaih gwāt",
-                "Pinyin": " zhēng pái gǔ",
+                "Yale": "wuh táu jīng pàaih gwāt",
+                "Pinyin": "yù tou zhēng pái gǔ",
                 "resources": [
+                    {
+                        "name": "芋頭",
+                        "URL": "https://en.wiktionary.org/wiki/芋頭"
+                    },
+                    {
+                        "name": "芋",
+                        "URL": "https://en.wiktionary.org/wiki/芋"
+                    },
+                    {
+                        "name": "頭",
+                        "URL": "https://en.wiktionary.org/wiki/頭"
+                    },
                     {
                         "name": "排骨",
                         "URL": "https://en.wiktionary.org/wiki/排骨"
@@ -128,7 +141,7 @@
                 "place": "Zen Peninsula, Millbrae, California"
             }
         ],
-        "description": "Steamed pork ribs served with taro in black bean sauce.\n\n**Characters**\n\n[排骨](https://en.wiktionary.org/wiki/排骨) is *spare ribs*.",
+        "description": "Steamed pork ribs served with taro in black bean sauce.\n\n**Characters**\n\n[芋頭](https://en.wiktionary.org/wiki/芋頭) is *taro*, and [排骨](https://en.wiktionary.org/wiki/排骨) is *spare ribs*.",
         "tags": [
             "排骨",
             "豬肉",
