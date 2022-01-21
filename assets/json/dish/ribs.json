@@ -102,6 +102,49 @@
     {
         "words": [
             {
+                "Chinese": "芋頭蒸排骨",
+                "English": "spare ribs w/ taro",
+                "Yale": " jīng pàaih gwāt",
+                "Pinyin": " zhēng pái gǔ",
+                "resources": [
+                    {
+                        "name": "排骨",
+                        "URL": "https://en.wiktionary.org/wiki/排骨"
+                    },
+                    {
+                        "name": "排",
+                        "URL": "https://en.wiktionary.org/wiki/排"
+                    },
+                    {
+                        "name": "骨",
+                        "URL": "https://en.wiktionary.org/wiki/骨"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "porkribstarozenpeninsula2",
+                "place": "Zen Peninsula, Millbrae, California"
+            }
+        ],
+        "description": "Steamed pork ribs served with taro in black bean sauce.\n\n**Characters**\n\n[排骨](https://en.wiktionary.org/wiki/排骨) is *spare ribs*.",
+        "tags": [
+            "排骨",
+            "豬肉",
+            "蒸",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Made With Lau",
+                "URL": "https://madewithlau.com/recipes/taro-steamed-spare-ribs"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "炸排骨",
                 "English": "fried pork chop",
                 "Yale": "ja pàaih gwāt",
