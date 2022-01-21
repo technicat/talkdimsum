@@ -44,6 +44,18 @@
                 "Pinyin": "chǐ zhī zhēng pái gǔ",
                 "resources": [
                     {
+                        "name": "豉汁",
+                        "URL": "https://en.wiktionary.org/wiki/豉汁"
+                    },
+                    {
+                        "name": "豉",
+                        "URL": "https://en.wiktionary.org/wiki/豉"
+                    },
+                    {
+                        "name": "汁",
+                        "URL": "https://en.wiktionary.org/wiki/汁"
+                    },
+                    {
                         "name": "排骨",
                         "URL": "https://en.wiktionary.org/wiki/排骨"
                     },
@@ -64,7 +76,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "description": "Steamed pork ribs served in black bean sauce.\n\n**Characters**\n\nThe first character 豉 is “salted fermented black bean,” 汁 is “sauce,” 蒸 means “steamed,” and [排骨](https://en.wiktionary.org/wiki/排骨) is *spare ribs*.",
+        "description": "Steamed pork ribs served in black bean sauce.\n\n**Characters**\n\n[豉](https://en.wiktionary.org/wiki/豉) is *salted fermented black bean*, [汁](https://en.wiktionary.org/wiki/汁) is *sauce*, [蒸](https://en.wiktionary.org/wiki/排) is *steamed*, and [排骨](https://en.wiktionary.org/wiki/排骨) is *spare ribs*, so 豉汁蒸排骨is *black bean sauce steamed spare ribs*.",
         "tags": [
             "豉汁",
             "排骨",
@@ -141,7 +153,7 @@
                 "place": "Zen Peninsula, Millbrae, California"
             }
         ],
-        "description": "Steamed pork ribs served with taro in black bean sauce.\n\n**Characters**\n\n[芋頭](https://en.wiktionary.org/wiki/芋頭) is *taro*, and [排骨](https://en.wiktionary.org/wiki/排骨) is *spare ribs*.",
+        "description": "Steamed pork ribs mixed with cubes of taro.\n\n**Characters**\n\n[芋頭](https://en.wiktionary.org/wiki/芋頭) is *taro*, [蒸](https://en.wiktionary.org/wiki/排) is *steamed*, and [排骨](https://en.wiktionary.org/wiki/排骨) is *spare ribs*.",
         "tags": [
             "新菜",
             "芋頭",
@@ -153,7 +165,15 @@
         "resources": [
             {
                 "name": "Made With Lau",
+                "URL": "https://cooklikeasian.com/taro-root-steamed-pork-ribs/"
+            },
+            {
+                "name": "Made With Lau",
                 "URL": "https://madewithlau.com/recipes/taro-steamed-spare-ribs"
+            },
+            {
+                "name": "Serious Eats",
+                "URL": "https://www.seriouseats.com/seriously-asian-steamed-taro-and-pork-in-black-bean-sauce-recipe"
             }
         ]
     },

@@ -117,8 +117,7 @@
             "素",
             "點心"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
@@ -489,8 +488,7 @@
             "蒸",
             "海鮮"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
@@ -501,6 +499,10 @@
                 "Yale": "sih jāp lùhng hā chéung fán",
                 "Pinyin": "chǐ zhī lóng xiā cháng fěn",
                 "resources": [
+                    {
+                        "name": "豉汁",
+                        "URL": "https://en.wiktionary.org/wiki/豉汁"
+                    },
                     {
                         "name": "豉",
                         "URL": "https://en.wiktionary.org/wiki/豉"
@@ -612,8 +614,7 @@
             "粉",
             "點心"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
