@@ -1,127 +1,213 @@
 [
-  {
-    "words": [
-      {
-        "Chinese": "涼拌黃瓜",
-        "Simplified": "凉拌黄瓜",
-        "English": "cucumber salad",
-        "Yale": "lèuhng buhn wòhng gwā",
-        "Pinyin": "liáng bàn huáng guā",
+    {
+        "words": [
+            {
+                "Chinese": "涼拌黃瓜",
+                "Simplified": "凉拌黄瓜",
+                "English": "cucumber salad",
+                "Yale": "lèuhng buhn wòhng gwā",
+                "Pinyin": "liáng bàn huáng guā",
+                "resources": [
+                    {
+                        "name": "涼拌",
+                        "URL": "https://en.wiktionary.org/wiki/涼拌"
+                    },
+                    {
+                        "name": "涼",
+                        "URL": "https://en.wiktionary.org/wiki/涼"
+                    },
+                    {
+                        "name": "拌",
+                        "URL": "https://en.wiktionary.org/wiki/拌"
+                    },
+                    {
+                        "name": "黃瓜",
+                        "URL": "https://en.wiktionary.org/wiki/黃瓜"
+                    },
+                    {
+                        "name": "黃",
+                        "URL": "https://en.wiktionary.org/wiki/黃"
+                    },
+                    {
+                        "name": "瓜",
+                        "URL": "https://en.wiktionary.org/wiki/瓜"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "coldcucumberjjnoodle",
+                "place": "JJ Noodle, Las Vegas, Nevada"
+            }
+        ],
+        "description": "涼拌 means salad (with dressing) and 黃瓜 is “cucumber” (黃 is green or blue-green and 瓜 is a melon or gourd).",
+        "tags": [
+            "黃瓜",
+            "青色",
+            "沙律",
+            "菜",
+            "素",
+            "茶餐廳"
+        ],
         "resources": [
-          {
-            "name": "涼拌",
-            "URL": "https://en.wiktionary.org/wiki/涼拌"
-          },
-          {
-            "name": "涼",
-            "URL": "https://en.wiktionary.org/wiki/涼"
-          },
-          {
-            "name": "拌",
-            "URL": "https://en.wiktionary.org/wiki/拌"
-          },
-          {
-            "name": "黃瓜",
-            "URL": "https://en.wiktionary.org/wiki/黃瓜"
-          },
-          {
-            "name": "黃",
-            "URL": "https://en.wiktionary.org/wiki/黃"
-          },
-          {
-            "name": "瓜",
-            "URL": "https://en.wiktionary.org/wiki/瓜"
-          }
+            {
+                "name": "Healthy Nibbles",
+                "URL": "https://healthynibblesandbits.com/chinese-garlic-cucumber-salad/"
+            },
+            {
+                "name": "Way2Wok",
+                "URL": "http://www.way2wok.com/recipe/garlic-cucumber-salad/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chinese-cucumber-salad/"
+            }
         ]
-      }
-    ],
-    "images": [
-      {
-        "image": "coldcucumberjjnoodle",
-        "place": "JJ Noodle, Las Vegas, Nevada"
-      }
-    ],
-    "description": "涼拌 means salad (with dressing) and 黃瓜 is “cucumber” (黃 is green or blue-green and 瓜 is a melon or gourd).",
-    "tags": [
-      "黃瓜",
-      "青色",
-      "沙律",
-      "菜",
-      "素",
-      "茶餐廳"
-    ],
-    "resources": [
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/chinese-cucumber-salad/"
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "Chinese": "麻辣小黃瓜",
-        "Simplified": "麻辣小黃瓜",
-        "English": "spicy cucumber salad",
-        "Yale": "màh laaht síu wòhng gwā",
-        "Pinyin": "má là xiǎo huáng guā",
+    },
+    {
+        "words": [
+            {
+                "Chinese": "麻辣小黃瓜",
+                "Simplified": "麻辣小黃瓜",
+                "English": "spicy cucumber salad",
+                "Yale": "màh laaht síu wòhng gwā",
+                "Pinyin": "má là xiǎo huáng guā",
+                "resources": [
+                    {
+                        "name": "麻辣",
+                        "URL": "https://en.wiktionary.org/wiki/麻辣"
+                    },
+                    {
+                        "name": "麻",
+                        "URL": "https://en.wiktionary.org/wiki/麻"
+                    },
+                    {
+                        "name": "辣",
+                        "URL": "https://en.wiktionary.org/wiki/辣"
+                    },
+                    {
+                        "name": "小黃瓜",
+                        "URL": "https://en.wiktionary.org/wiki/小黃瓜"
+                    },
+                    {
+                        "name": "小",
+                        "URL": "https://en.wiktionary.org/wiki/小"
+                    },
+                    {
+                        "name": "黃瓜",
+                        "URL": "https://en.wiktionary.org/wiki/黃瓜"
+                    },
+                    {
+                        "name": "黃",
+                        "URL": "https://en.wiktionary.org/wiki/黃"
+                    },
+                    {
+                        "name": "瓜",
+                        "URL": "https://en.wiktionary.org/wiki/瓜"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "spicycucumber88noodlepapa",
+                "place": "88 Noodle Papa, Las Vegas, Nevada"
+            }
+        ],
+        "description": "麻辣 is [Mala](https://en.wikipedia.org/wiki/Mala_(seasoning)), a spicy flavor from Sichuan cuisine, 小 is “small” and 黃瓜 is “cucumber.”",
+        "tags": [
+            "麻辣",
+            "黃瓜",
+            "沙律",
+            "川菜",
+            "菜",
+            "素",
+            "茶餐廳"
+        ],
         "resources": [
-          {
-            "name": "麻辣",
-            "URL": "https://en.wiktionary.org/wiki/麻辣"
-          },
-          {
-            "name": "麻",
-            "URL": "https://en.wiktionary.org/wiki/麻"
-          },
-          {
-            "name": "辣",
-            "URL": "https://en.wiktionary.org/wiki/辣"
-          },
-          {
-            "name": "小黃瓜",
-            "URL": "https://en.wiktionary.org/wiki/小黃瓜"
-          },
-          {
-            "name": "小",
-            "URL": "https://en.wiktionary.org/wiki/小"
-          },
-          {
-            "name": "黃瓜",
-            "URL": "https://en.wiktionary.org/wiki/黃瓜"
-          },
-          {
-            "name": "黃",
-            "URL": "https://en.wiktionary.org/wiki/黃"
-          },
-          {
-            "name": "瓜",
-            "URL": "https://en.wiktionary.org/wiki/瓜"
-          }
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/chinese-cucumber-salad/"
+            }
         ]
-      }
-    ],
-    "images": [
-      {
-        "image": "spicycucumber88noodlepapa",
-        "place": "88 Noodle Papa, Las Vegas, Nevada"
-      }
-    ],
-    "description": "麻辣 is [Mala](https://en.wikipedia.org/wiki/Mala_(seasoning)), a spicy flavor from Sichuan cuisine, 小 is “small” and 黃瓜 is “cucumber.”",
-    "tags": [
-      "麻辣",
-      "黃瓜",
-      "沙律",
-      "川菜",
-      "菜",
-      "素",
-      "茶餐廳"
-    ],
-    "resources": [
-      {
-        "name": "China Sichuan Food",
-        "URL": "https://www.chinasichuanfood.com/chinese-cucumber-salad/"
-      }
-    ]
-  }
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蒜泥黃瓜",
+                "English": "garlic cucumber salad",
+                "Yale": " wòhng gwā",
+                "Pinyin": " huáng guā",
+                "resources": [
+                    {
+                        "name": "麻辣",
+                        "URL": "https://en.wiktionary.org/wiki/麻辣"
+                    },
+                    {
+                        "name": "麻",
+                        "URL": "https://en.wiktionary.org/wiki/麻"
+                    },
+                    {
+                        "name": "辣",
+                        "URL": "https://en.wiktionary.org/wiki/辣"
+                    },
+                    {
+                        "name": "小黃瓜",
+                        "URL": "https://en.wiktionary.org/wiki/小黃瓜"
+                    },
+                    {
+                        "name": "小",
+                        "URL": "https://en.wiktionary.org/wiki/小"
+                    },
+                    {
+                        "name": "黃瓜",
+                        "URL": "https://en.wiktionary.org/wiki/黃瓜"
+                    },
+                    {
+                        "name": "黃",
+                        "URL": "https://en.wiktionary.org/wiki/黃"
+                    },
+                    {
+                        "name": "瓜",
+                        "URL": "https://en.wiktionary.org/wiki/瓜"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "garliccucumbersaladwishfuldumpling",
+                "place": "Wishful Dumpling, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A Sichuan cucumber salad mixed with garlic.\n\n**Characters**\n\n黃瓜 is “cucumber.”",
+        "tags": [
+            "麻辣",
+            "黃瓜",
+            "沙律",
+            "川菜",
+            "菜",
+            "素",
+            "茶餐廳"
+        ],
+        "resources": [
+            {
+                "name": "Ahead of Thyme",
+                "URL": "https://www.aheadofthyme.com/chinese-garlic-cucumber-salad/"
+            },
+            {
+                "name": "The Passport Kitchen",
+                "URL": "https://thepassportkitchen.com/spicy-sichuan-cucumber-salad/"
+            },
+            {
+                "name": "Travel China Guide",
+                "URL": "https://www.travelchinaguide.com/tour/food/chinese-cooking/mashed-garlic-cucumber.htm"
+            },
+            {
+                "name": "YI Reservation",
+                "URL": "http://yireservation.com/recipes/cucumber-salad-in-chinese-garlic-dressing/"
+            }
+        ]
+    }
 ]
