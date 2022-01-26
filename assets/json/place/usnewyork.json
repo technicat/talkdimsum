@@ -415,6 +415,19 @@
             "address": "334 W 46th St, New York, NY 10036"
         },
         {
+            "title": "Dim Sum Sam",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-sam-new-york"
+                }
+            ],
+            "lat": 40.740540,
+            "lon": -73.987870,
+            "city": "New York",
+            "address": "28 E 23rd St New York, NY 10010"
+        },
+        {
             "title": "Dynasty Dim Sum",
             "links": [
                 {
