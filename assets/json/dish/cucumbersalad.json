@@ -142,15 +142,15 @@
                 "resources": [
                     {
                         "name": "黃瓜",
-                        "URL": "https://en.wiktionary.org/wiki/黃瓜"
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83%E7%93%9C"
                     },
                     {
                         "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/黃"
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
                     },
                     {
                         "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/瓜"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
                     }
                 ]
             }
@@ -161,8 +161,10 @@
                 "place": "Wishful Dumpling, Las Vegas, Nevada"
             }
         ],
-        "description": "A Sichuan cucumber salad mixed with garlic.\n\n**Characters**\n\n黃瓜 is “cucumber.”",
+        "description": "A Sichuan cucumber salad mixed with garlic.\n\n**Characters**\n\n[黃瓜](https://en.wiktionary.org/wiki/%E9%BB%83%E7%93%9C) is *cucumber*.",
         "tags": [
+            "四川",
+            "川菜",
             "麻辣",
             "黃瓜",
             "沙律",
