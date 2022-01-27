@@ -36,6 +36,19 @@
             "address": "100 Main St, East Brunswick, NJ 08816"
         },
         {
+            "title": "Golden Seafood Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-seafood-restaurant-edison-2"
+                }
+            ],
+            "lat": 40.516070,
+            "lon": -74.376720,
+            "city": "Edison",
+            "address": "518 Old Post Rd Ste 3 Edison, NJ 08817"
+        },
+        {
             "title": "Wonder Seafood Restaurant",
             "links": [
                 {
