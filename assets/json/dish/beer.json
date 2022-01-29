@@ -9,15 +9,15 @@
         "resources": [
           {
             "name": "啤酒",
-            "URL": "https://en.wiktionary.org/wiki/啤酒"
+            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4%E9%85%92"
           },
           {
             "name": "啤",
-            "URL": "https://en.wiktionary.org/wiki/啤"
+            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4"
           },
           {
             "name": "酒",
-            "URL": "https://en.wiktionary.org/wiki/酒"
+            "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
           }
         ]
       }
@@ -28,7 +28,7 @@
         "place": "Technicat, Las Vegas, Nevada"
       }
     ],
-    "description": "啤 sounds like “beer,” and 酒 is “liquor.”",
+    "description": "[啤](https://en.wiktionary.org/wiki/%E5%95%A4) sounds like *beer*, and [酒](https://en.wiktionary.org/wiki/%E9%85%92) is *liquor*, so [啤酒](https://en.wiktionary.org/wiki/%E5%95%A4%E9%85%92) is *beer liquor*.",
     "tags": [
       "酒",
       "飲品"
