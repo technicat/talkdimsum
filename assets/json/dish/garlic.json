@@ -31,7 +31,7 @@
                     {
                         "name": "菜",
                         "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }     
+                    }
                 ]
             }
         ],
@@ -92,7 +92,7 @@
                     {
                         "name": "菜",
                         "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }     
+                    }
                 ]
             }
         ],
@@ -110,8 +110,7 @@
             "素",
             "菜"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
@@ -181,28 +180,28 @@
                 "resources": [
                     {
                         "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蒜蓉"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
                     },
                     {
                         "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/蒜"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C"
                     },
                     {
                         "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蓉"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
                     },
                     {
                         "name": "蕹菜",
-                        "URL": "https://en.wiktionary.org/wiki/蕹菜"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%95%B9%E8%8F%9C"
                     },
                     {
                         "name": "蕹",
-                        "URL": "https://en.wiktionary.org/wiki/蕹"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%95%B9"
                     },
                     {
                         "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/菜"
-                    }   
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    }
                 ]
             }
         ],
@@ -212,7 +211,7 @@
                 "place": "Kung Fu Thai and Chinese, Las Vegas, Nevada"
             }
         ],
-        "description": "Also known as Chinese water spinach. featuring long hollow stems, ong choy is typically stir-fried, with garlic, for example.\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/蒜蓉) is *minced garlic*, and [蕹菜](https://en.wiktionary.org/wiki/蕹菜) is *ong choy*.",
+        "description": "Also known as Chinese water spinach. featuring long hollow stems, ong choy is typically stir-fried, with garlic, for example.\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *minced garlic*, and [蕹菜](https://en.wiktionary.org/wiki/%E8%95%B9%E8%8F%9C) is *ong choy*.",
         "tags": [
             "蒜蓉",
             "蕹菜",
@@ -233,7 +232,6 @@
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/ong-choy-xo-sauce/"
             }
-           
         ]
     }
 ]
