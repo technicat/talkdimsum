@@ -41,7 +41,7 @@
                 "place": "Xiao Long Bao Dumplings, Las Vegas, Nevada"
             }
         ],
-        "description": "Spinach stir-fried in minced garlic.\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *minced garlic*, and [菠菜](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *spinach.*",
+        "description": "Spinach stir-fried in minced garlic.\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *minced garlic*, and [菠菜](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *spinach*.",
         "tags": [
             "蒜蓉",
             "菠菜",
@@ -63,6 +63,59 @@
     {
         "words": [
             {
+                "Chinese": "蒜蓉白菜",
+                "English": "bok choy in garlic",
+                "Yale": "syun yùhng baahk choi",
+                "Jyutping": "syun3 jung4 baak6 coi3",
+                "Pinyin": "suàn róng bái cài",
+                "resources": [
+                    {
+                        "name": "蒜蓉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
+                    },
+                    {
+                        "name": "蒜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
+                    },
+                    {
+                        "name": "蓉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
+                    },
+                    {
+                        "name": "白菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E8%93%89"
+                    },
+                    {
+                        "name": "白",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    }     
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "garlicbokchoywishfuldumpling",
+                "place": "Wishful Dumpling, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Bok choy stir-fried in minced garlic.\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *minced garlic*, and [白菜](https://en.wiktionary.org/wiki/%E7%99%BD%E8%93%89) is *bok choy*.",
+        "tags": [
+            "蒜蓉",
+            "菠菜",
+            "炒",
+            "素",
+            "菜"
+        ],
+        "resources": [
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "蒜蓉菜心",
                 "English": "choy sum in garlic",
                 "Yale": "syun yùhng choi sām",
@@ -71,27 +124,27 @@
                 "resources": [
                     {
                         "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蒜蓉"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
                     },
                     {
                         "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/蒜"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C"
                     },
                     {
                         "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蓉"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
                     },
                     {
                         "name": "菜心",
-                        "URL": "https://en.wiktionary.org/wiki/菜心"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C%E5%BF%83"
                     },
                     {
                         "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/菜"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
                     },
                     {
                         "name": "心",
-                        "URL": "https://en.wiktionary.org/wiki/心"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%BF%83"
                     }
                 ]
             }
@@ -102,7 +155,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "Choy sum stir-fried in garlic.\n\n**Characters**\n\n蒜蓉 is *minced garlic*, and 菜心 is *choy sum*.",
+        "description": "Choy sum stir-fried in garlic.\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *minced garlic*, and [菜心](https://en.wiktionary.org/wiki/%E8%8F%9C%E5%BF%83) is *choy sum*.",
         "tags": [
             "蒜蓉",
             "菜心",
