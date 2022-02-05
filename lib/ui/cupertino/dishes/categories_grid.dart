@@ -10,8 +10,8 @@ import 'category_dishes_grid.dart';
 class CategoriesGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      return watch(dimsumProvider).map(
+    return Consumer(builder: (context, ref, child) {
+      return ref.watch(dimsumProvider).map(
           data: (_) => CategoryDishesGrid(dishes: _.value.categories),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));

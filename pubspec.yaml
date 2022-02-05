@@ -7,7 +7,7 @@ version: 1.0.7+25
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.2.0"
+  flutter: ">=2.10.0"
 
 dependencies:
   flutter:
@@ -32,6 +32,9 @@ dependencies:
       url: git://github.com/technicat/cupertino_search.git
   flutter_markdown:
   flutter_riverpod:
+    git: 
+      url: git://github.com/technicat/river_pod.git
+      path: packages/flutter_riverpod
   flutter_tts:
     git: 
       url: git://github.com/technicat/flutter_tts.git
@@ -53,7 +56,7 @@ dependencies:
   sqflite:
   url_launcher:
   window_size:
-     git: 
+    git: 
       url: git://github.com/technicat/flutter-desktop-embedding.git
       path: plugins/window_size
 

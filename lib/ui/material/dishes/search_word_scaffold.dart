@@ -20,8 +20,8 @@ class SearchWordScaffold extends StatelessWidget {
 class SearchWord extends StatelessWidget {
   @override
   Widget build(BuildContext context) =>
-      Consumer(builder: (context, watch, child) {
-        var dimsum = watch(dimsumProvider);
+      Consumer(builder: (context, ref, child) {
+        var dimsum = ref.watch(dimsumProvider);
         return dimsum.map(
             data: (_) => MaterialSearch<Word>(
                 results: _.value.dishWords

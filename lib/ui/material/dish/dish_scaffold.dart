@@ -19,8 +19,8 @@ class DishScaffold extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) =>
-      Consumer(builder: (context, watch, child) {
-        var dimsum = watch(dimsumProvider);
+      Consumer(builder: (context, ref, child) {
+        var dimsum = ref.watch(dimsumProvider);
         return dimsum.map(
             data: (_) => Scaffold(
                 floatingActionButton: Obx(() => _.value.favorites.contains(dish)

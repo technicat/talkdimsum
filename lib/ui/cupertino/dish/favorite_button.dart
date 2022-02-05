@@ -13,8 +13,8 @@ class FavoriteButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      var dimsum = watch(dimsumProvider);
+    return Consumer(builder: (context, ref, child) {
+      var dimsum = ref.watch(dimsumProvider);
       return dimsum.map(
           data: (_) => Obx(() => _.value.favorites.contains(dish)
               ? CupertinoButton(

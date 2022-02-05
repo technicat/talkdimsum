@@ -14,7 +14,7 @@ class WordDishesGrid extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => Consumer(
-      builder: (context, watch, child) => watch(dimsumProvider).map(
+      builder: (context, ref, child) => ref.watch(dimsumProvider).map(
           data: (_) => DishesGrid(dishes: _.value.dishes(word)),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error)));

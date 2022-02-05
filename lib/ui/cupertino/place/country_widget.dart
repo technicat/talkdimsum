@@ -12,8 +12,8 @@ import 'regions_list_view.dart';
 class CountryWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      return watch(countryProvider).map(
+    return Consumer(builder: (context, ref, child) {
+      return ref.watch(countryProvider).map(
           data: (_) => _.value.countries.isEmpty
               ? CupertinoActivityIndicator()
               : RegionsListView(country: _.value.countries[0]),

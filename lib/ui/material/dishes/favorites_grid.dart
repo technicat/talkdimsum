@@ -18,8 +18,8 @@ class FavoritesScaffold extends StatelessWidget {
 class FavoritesGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) =>
-      Consumer(builder: (context, watch, child) {
-        var dimsum = watch(dimsumProvider);
+      Consumer(builder: (context, ref, child) {
+        var dimsum = ref.watch(dimsumProvider);
         return dimsum.map(
             data: (_) => DishesGrid(dishes: _.value.favorites),
             loading: (_) => Progressor(),

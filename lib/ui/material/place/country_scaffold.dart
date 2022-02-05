@@ -22,8 +22,8 @@ class CountryScaffoldState extends State<CountryScaffold> {
 
   @override
   Widget build(BuildContext context) =>
-      Consumer(builder: (context, watch, child) {
-        var countries = watch(countryProvider);
+      Consumer(builder: (context, ref, child) {
+        var countries = ref.watch(countryProvider);
         return countries.map(
             data: (_) {
               if (_.value.countries.isEmpty) {

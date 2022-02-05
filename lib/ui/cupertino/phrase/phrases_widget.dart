@@ -12,8 +12,8 @@ import 'phrases_list_view.dart';
 class PhrasesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Consumer(builder: (context, watch, child) {
-      return watch(phrasesProvider).map(
+    return Consumer(builder: (context, ref, child) {
+      return ref.watch(phrasesProvider).map(
           data: (_) => _.value.phrases.isEmpty
               ? Text('No phrases')
               : PhrasesListView(phrases: _.value.phrases[0]),

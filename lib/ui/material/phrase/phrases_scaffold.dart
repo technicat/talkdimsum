@@ -21,8 +21,8 @@ class ScaffoldPhrasesState extends State<PhrasesScaffold> {
 
   @override
   Widget build(BuildContext context) =>
-      Consumer(builder: (context, watch, child) {
-        var conversation = watch(phrasesProvider);
+      Consumer(builder: (context, ref, child) {
+        var conversation = ref.watch(phrasesProvider);
         return conversation.map(
             data: (_) {
               if (_.value.phrases.isNotEmpty && phrases == null) {

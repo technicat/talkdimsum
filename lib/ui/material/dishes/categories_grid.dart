@@ -12,8 +12,8 @@ import '../progress.dart';
 
 class CategoriesGrid extends StatelessWidget {
   @override
-  Widget build(BuildContext context) => Consumer(builder: (context, watch, child) {
-      var dimsum = watch(dimsumProvider);
+  Widget build(BuildContext context) => Consumer(builder: (context, ref, child) {
+      var dimsum = ref.watch(dimsumProvider);
       return dimsum.map(
           data: (_) => CategoryDishesGrid(dishes: _.value.categories),
           loading: (_) => Progressor(),
