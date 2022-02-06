@@ -9,15 +9,15 @@
                 "resources": [
                     {
                         "name": "牛肚",
-                        "URL": "https://en.wiktionary.org/wiki/牛肚"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%9A"
                     },
                     {
                         "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/牛"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
                     },
                     {
                         "name": "肚",
-                        "URL": "https://en.wiktionary.org/wiki/肚"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%82%9A"
                     }
                 ]
             }
@@ -27,7 +27,7 @@
                 "image": "tripe"
             }
         ],
-        "description": "Beef tripe, steamed with garlic and ginger.\n\n**Characters**\n\nThe first character is the word for “cow,” the second is the word for “stomach,” and the third is “bone.”. Taken together, “牛肚“ is “cow stomach” or “tripe.”",
+        "description": "Beef tripe, steamed with garlic and ginger.\n\n**Characters**\n\n[牛](https://en.wiktionary.org/wiki/%E7%89%9B) is *cow*, [肚](https://en.wiktionary.org/wiki/%E8%82%9A) is *stomach*, so [牛肚](https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%9A) is *cow stomach*.",
         "tags": [
             "蒸",
             "肉",
