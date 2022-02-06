@@ -10,15 +10,15 @@
         "resources": [
           {
             "name": "咖喱",
-            "URL": "https://en.wiktionary.org/wiki/咖喱"
+            "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1"
           },
           {
             "name": "咖",
-            "URL": "https://en.wiktionary.org/wiki/咖"
+            "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
           },
           {
             "name": "喱",
-            "URL": "https://en.wiktionary.org/wiki/喱"
+            "URL": "https://en.wiktionary.org/wiki/%E5%96%B1"
           }
         ]
       }
@@ -51,23 +51,23 @@
         "resources": [
           {
             "name": "海鮮醬",
-            "URL": "https://en.wiktionary.org/wiki/海鮮醬"
+            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE%E9%86%AC"
           },
           {
             "name": "海鮮",
-            "URL": "https://en.wiktionary.org/wiki/海鮮"
+            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE"
           },
           {
             "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/海"
+            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
           },
           {
             "name": "鮮",
-            "URL": "https://en.wiktionary.org/wiki/鮮"
+            "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
           },
           {
             "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/醬"
+            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
           }
         ]
       }
@@ -78,7 +78,7 @@
         "place": "Las Vegas, Nevada"
       }
     ],
-    "description": "[Hoisin sauce](https://en.wikipedia.org/wiki/Hoisin_sauce) is a dark, thick sauce made from soybeans and other flavors and spices.\n\n**Characters**\n\n[海鮮](https://en.wiktionary.org/wiki/海鮮) means *seafood* (literally *ocean fresh*), and [醬](https://en.wiktionary.org/wiki/醬) is *sauce*, so [海鮮醬](海鮮醬) is *seafood sauce*. However, it's not made from seafood or applied specifically to seafood.",
+    "description": "[Hoisin sauce](https://en.wikipedia.org/wiki/Hoisin_sauce) is a dark, thick sauce made from soybeans and other flavors and spices.\n\n**Characters**\n\n[海鮮](https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE) is *seafood* (literally *ocean fresh*), and [醬](https://en.wiktionary.org/wiki/醬) is *sauce*, so [海鮮醬](https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE%E9%86%AC) is *seafood sauce*, even though it's not made from seafood or used only with seafood.",
     "tags": [
       "粵菜",
       "海鮮醬",
