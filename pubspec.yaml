@@ -64,6 +64,7 @@ dependencies:
 # flutter pub run build_runner build --delete-conflicting-outputs
 
 dev_dependencies:
+  flutter_test:
   flutter_launcher_icons:
   build_runner:
   json_serializable:
