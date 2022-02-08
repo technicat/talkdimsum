@@ -27,7 +27,7 @@
         "images": [
             {
                 "image": "moltencustardbunkj",
-                "place": "KJ Dim Sum and Seafood"
+                "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
         "description": "A large portion of classic dim sum consists of wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings.\n\n**Characters**\n\n[包](https://en.wiktionary.org/wiki/包) means *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)). More generally 包 is a *package* or *bag*, which the character resembles.\n\nIn Mandarin it is suffixed with [子](https://en.wiktionary.org/wiki/子), which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n包 is also part of 打包 (dá bāau) which you say to indicate you want leftovers wrapped up to go.",
@@ -43,6 +43,43 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Baozi"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "English": "big bao",
+                "Chinese": "大包",
+                "Yale": "bāau",
+                "Pinyin": "bāo",
+                "resources": [
+                    {
+                        "name": "大",
+                        "URL": "https://en.wiktionary.org/wiki/大"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/包"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "porkbunwishfuldumpling",
+                "place": "Wishful Dumpling, Las Vegas, Nevada"
+            }
+        ],
+        "description": "An extra large steamed bun (a meal in itself)typically filled with minced pork or chicken, Chinese sausage,boiled egg, or alterntively vegetables.\n\n**Characters**\n\n[大](https://en.wiktionary.org/wiki/大) is *big*, and [包](https://en.wiktionary.org/wiki/包) is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)), so 大包 is *big bun*.",
+        "tags": [
+            "包",
+            "蒸"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Da_Bao"
             }
         ]
     },
