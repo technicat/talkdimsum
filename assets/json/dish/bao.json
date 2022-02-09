@@ -11,15 +11,15 @@
                 "resources": [
                     {
                         "name": "包子",
-                        "URL": "https://en.wiktionary.org/wiki/包子"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85%E5%AD%90"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
                     },
                     {
                         "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/子"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
                     }
                 ]
             }
@@ -30,7 +30,7 @@
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "A large portion of classic dim sum consists of wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings.\n\n**Characters**\n\n[包](https://en.wiktionary.org/wiki/包) is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)). More generally 包 is a *package* or *bag*, which the character resembles.\n\nIn Mandarin it is suffixed with [子](https://en.wiktionary.org/wiki/子), which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n包 is also part of 打包 (dá bāau) which you say to indicate you want leftovers wrapped up to go.",
+        "description": "A large portion of classic dim sum consists of wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings.\n\n**Characters**\n\n[包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)). More generally 包 is a *package* or *bag*, which the character resembles.\n\nIn Mandarin it is suffixed with [子](https://en.wiktionary.org/wiki/%E5%AD%90), which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n[包](https://en.wiktionary.org/wiki/%E5%8C%85) is also part of 打包 (dá bāau), which you say to indicate you want leftovers wrapped up to go.",
         "tags": [
             "包",
             "蒸"
@@ -71,7 +71,7 @@
                 "place": "Wishful Dumpling, Las Vegas, Nevada"
             }
         ],
-        "description": "An [extra large](https://en.wikipedia.org/wiki/Da_Bao) steamed [bao](https://en.wikipedia.org/wiki/Baozi) (a meal in itself)typically filled with minced pork or chicken, Chinese sausage,boiled egg, or alterntively vegetables.\n\n**Characters**\n\n[大](https://en.wiktionary.org/wiki/大) is *big* (the character looks like a person with arms spread), and [包](https://en.wiktionary.org/wiki/包) is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)), so 大包 is *big bun*.",
+        "description": "An [extra large](https://en.wikipedia.org/wiki/Da_Bao) steamed [bao](https://en.wikipedia.org/wiki/Baozi) (a meal in itself) typically filled with minced pork or chicken, Chinese sausage,boiled egg, or alterntively vegetables.\n\n**Characters**\n\n[大](https://en.wiktionary.org/wiki/大) is *big* (the character looks like a person with arms spread), and [包](https://en.wiktionary.org/wiki/包) is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)), so 大包 is *big bun*.\n\nNot to be confused with 打包 (dá bāau), which you say to indicate you want leftovers wrapped up to go.",
         "tags": [
             "新菜",
             "包",
@@ -96,19 +96,19 @@
                 "resources": [
                     {
                         "name": "芋頭",
-                        "URL": "https://en.wiktionary.org/wiki/芋頭"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
                     },
                     {
                         "name": "芋",
-                        "URL": "https://en.wiktionary.org/wiki/芋"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
                     },
                     {
                         "name": "頭",
-                        "URL": "https://en.wiktionary.org/wiki/頭"
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
                     }
                 ]
             }
@@ -119,7 +119,7 @@
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "A bun containing taro paste.\n\n**Characters**\n\n[芋頭](https://en.wiktionary.org/wiki/芋頭) is *taro* and [包](https://en.wiktionary.org/wiki/包) is *bun*, so 芋頭包 is *taro bun*.",
+        "description": "A steamed [bao](https://en.wikipedia.org/wiki/Baozi) containing taro paste.\n\n**Characters**\n\n[芋頭](https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD) is *taro* and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so 芋頭包 is *taro bun*.",
         "tags": [
             "芋頭",
             "包",
@@ -139,11 +139,11 @@
                 "resources": [
                     {
                         "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/雞"
+                        "URL": "https://en.wiktionary.org/wiki/s"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/s"
                     }
                 ]
             }
@@ -154,7 +154,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom.\n\n**History**\n\nOriginated in northern China.\n\n**Characters**\n\nThe first character [雞](https://en.wiktionary.org/wiki/雞) means *chicken*, and the second character [包](https://en.wiktionary.org/wiki/包) is *bun*, so 雞包 is *chicken bun*.",
+        "description": "Thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom.\n\n**History**\n\nOriginated in northern China.\n\n**Characters**\n\nThe first character [雞](https://en.wiktionary.org/wiki/%E9%9B%9E) means *chicken*, and the second character [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so 雞包 is *chicken bun*.",
         "tags": [
             "點心",
             "雞",
@@ -184,23 +184,23 @@
                 "resources": [
                     {
                         "name": "生煎包",
-                        "URL": "https://en.wiktionary.org/wiki/生煎包"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E7%85%8E%E5%8C%85"
                     },
                     {
                         "name": "生煎",
-                        "URL": "https://en.wiktionary.org/wiki/生煎"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E7%85%8E"
                     },
                     {
                         "name": "生",
-                        "URL": "https://en.wiktionary.org/wiki/生"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
                     },
                     {
                         "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/煎"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
                     }
                 ]
             }
@@ -211,7 +211,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "description": "A thick pan-fried bun with a juicy pork mixture inside, also known as Shengjian bun or [Shengian mantou](https://en.wikipedia.org/wiki/Shengjian_mantou).\n\n**Characters**\n\nThe first character [生](https://en.wiktionary.org/wiki/生) means *raw*, and the second character [煎](https://en.wiktionary.org/wiki/煎) is *pan-fried,*, so [生煎包](https://en.wiktionary.org/wiki/生煎包) is *raw-fried bun*.",
+        "description": "A thick pan-fried bun with a juicy pork mixture inside, also known as Shengjian bun or [Shengian mantou](https://en.wikipedia.org/wiki/Shengjian_mantou).\n\n**Characters**\n\nThe first character [生](https://en.wiktionary.org/wiki/%E7%94%9F) means *raw*, and the second character [煎](https://en.wiktionary.org/wiki/%E7%85%8E) is *pan-fried,*, so [生煎包](https://en.wiktionary.org/wiki/%E7%94%9F%E7%85%8E%E5%8C%85) is *raw-fried bun*.",
         "tags": [
             "點心",
             "上海",
@@ -245,19 +245,19 @@
                 "resources": [
                     {
                         "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/叉"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
                     },
                     {
                         "name": "割包",
-                        "URL": "https://en.wiktionary.org/wiki/割包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%89%B2%E5%8C%85"
                     },
                     {
                         "name": "割",
-                        "URL": "https://en.wiktionary.org/wiki/割"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%89%B2"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
                     }
                 ]
             }
