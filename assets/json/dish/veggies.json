@@ -145,5 +145,71 @@
                 "URL": "https://en.wikipedia.org/wiki/Buddha's_delight"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "乾煸四季豆",
+                "Simplified": "干煸四季豆",
+                "English": "stir-fried string beans w/ minced pork",
+                "Yale": "gōn bīn sei gwai dáu",
+                "Pinyin": "gān biān sì jì dòu",
+                "resources": [
+                    {
+                        "name": "乾",
+                        "URL": "https://en.wiktionary.org/wiki/乾"
+                    },
+                    {
+                        "name": "煸",
+                        "URL": "https://en.wiktionary.org/wiki/煸"
+                    },
+                    {
+                        "name": "四季豆",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3%E8%B1%86"
+                    },
+                    {
+                        "name": "四季",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3"
+                    },
+                    {
+                        "name": "四",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B"
+                    },
+                    {
+                        "name": "季",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%A3"
+                    },
+                    {
+                        "name": "四季豆",
+                        "URL": "https://en.wiktionary.org/wiki/四季豆"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "stringbeansmincedporkphokimlong",
+                "place": "Pho Kim Long, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A Sichuan dish, dry-fried string beans with garic and minced pork\n\n**Characters**\n\n乾煸 is *dry-fried*, referring to the technique of stir-frying with only oil, no or little additional liquids or sauces added, and 四季豆 is *string bean* (*four seasons bean*).",
+        "tags": [
+            "乾炒",
+            "炒"
+        ],
+        "resources": [
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2009/04/stir-fried-green-beans-with-minced-pork.html"
+            },
+            {
+                "name": "Cooking to Entertain",
+                "URL": "https://cookingtoentertain.com/chinese-fried-garlic-pork-string-beans-%E5%B9%B2%E7%85%B8%E5%9B%9B%E5%AD%A3%E8%B1%86/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/sichuan-dry-fried-green-beans/"
+            }
+        ]
     }
 ]
