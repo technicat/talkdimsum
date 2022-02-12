@@ -1,26 +1,22 @@
 [
     {
-        "words": [
+        "Chinese": "豆苗",
+        "Simplified": "豆苗",
+        "English": "pea shoot",
+        "Yale": "dauh mìuh",
+        "Pinyin": "dòu miáo",
+        "resources": [
             {
-                "Chinese": "豆苗",
-                "Simplified": "豆苗",
-                "English": "pea shoot",
-                "Yale": "dauh mìuh",
-                "Pinyin": "dòu miáo",
-                "resources": [
-                    {
-                        "name": "豆苗",
-                        "URL": "https://en.wiktionary.org/wiki/豆苗"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/豆"
-                    },
-                    {
-                        "name": "苗",
-                        "URL": "https://en.wiktionary.org/wiki/苗"
-                    }
-                ]
+                "name": "豆苗",
+                "URL": "https://en.wiktionary.org/wiki/豆苗"
+            },
+            {
+                "name": "豆",
+                "URL": "https://en.wiktionary.org/wiki/豆"
+            },
+            {
+                "name": "苗",
+                "URL": "https://en.wiktionary.org/wiki/苗"
             }
         ]
     },
