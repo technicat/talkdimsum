@@ -32,7 +32,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Fluffy steamed buns filled with red bean paste (made from adzuki beans). The paste can be chunky with fragments of beans or a smooth paste.\n\n豆沙 is “red bean paste,” and 包 is “bun.”",
+        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n豆沙 is “red bean paste,” and 包 is “bun.”",
         "tags": [
             "豆沙",
             "紅色",
@@ -43,8 +43,8 @@
         ],
         "resources": [
             {
-                "name": "Adzuki beans",
-                "URL": "https://en.wikipedia.org/wiki/Adzuki_bean"
+                "name": "China Yummy Food",
+                "URL": "https://www.chinayummyfood.com/red-bean-buns-dou-sha-bao/"
             },
             {
                 "name": "Mary's Test Kitchen",
