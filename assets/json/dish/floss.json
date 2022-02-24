@@ -1,5 +1,43 @@
 [
-    
+    {
+        "words": [
+            {
+                "Chinese": "肉鬆",
+                "Simplified": "肉松",
+                "English": "pork sung",
+                "Yale": "yuhk sūng",
+                "Pinyin": "ròu sōng",
+                "resources": [
+                    {
+                        "name": "肉鬆",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%AC%86"
+                    },
+                    {
+                        "name": "肉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "porksungranch99",
+                "place": "99 Ranch Market, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Dried shredded pork.\n\n**Characters**\n\n[肉](https://en.wiktionary.org/wiki/%E8%82%89) is *meat*, and [鬆](https://en.wiktionary.org/wiki/%E9%AC%86) is *loose*, so 肉鬆 is *loose meat*.",
+        "tags": [
+            "肉鬆",
+            "豬肉",
+            "肉"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Rousong"
+            }
+        ]
+    },
     {
         "words": [
             {
@@ -42,7 +80,7 @@
                 "place": "99 Ranch Market, Las Vegas, Nevada"
             }
         ],
-        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with dried shredded pork.\n\n**Characters**\n\n[肉](https://en.wiktionary.org/wiki/%E8%82%89) is *meat*, and [鬆](https://en.wiktionary.org/wiki/%E9%AC%86) is *loose*, so 肉鬆 is *loose meat*. [面包](https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85) is *bread*,  so 肉鬆麵包 is *loose meat bread*.",
+        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with [dried shredded pork](https://en.wikipedia.org/wiki/Rousong).\n\n**Characters**\n\n[肉](https://en.wiktionary.org/wiki/%E8%82%89) is *meat*, and [鬆](https://en.wiktionary.org/wiki/%E9%AC%86) is *loose*, so 肉鬆 is *loose meat*. [面包](https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85) is *bread*,  so 肉鬆麵包 is *loose meat bread*.",
         "tags": [
             "肉鬆",
             "豬肉",
@@ -54,10 +92,6 @@
             {
                 "name": "85C Bakery Cafe",
                 "URL": "http://www.85cbakerycafe.com/menu/pork-sung-bun/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Rousong"
             },
             {
                 "name": "The Woks of Life",
