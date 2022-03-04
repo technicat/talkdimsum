@@ -402,5 +402,42 @@
         "URL": "https://en.wikipedia.org/wiki/Chinese_sausage#Taiwan"
       }
     ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "薑蔥鴨飯",
+        "Simplified": "姜蔥鸭饭",
+        "English": "ginger duck w/ scallions on rice",
+        "Yale": "gēung chūng aap faahn",
+        "Pinyin": "jiāng cōng yā fàn",
+        "resources": [
+          {
+            "name": "薑",
+            "URL": "https://en.wiktionary.org/wiki/%E8%96%91"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "gingerduckscallionrice",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "蔥",
+      "鴨",
+      "薑",
+      "飯",
+      "白飯"
+    ],
+    "resources": [
+    ]
   }
 ]
