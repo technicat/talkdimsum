@@ -191,7 +191,7 @@
         "place": "Zen Peninsula, Millbrae, California"
       }
     ],
-    "description": "Lobster served with [yi mein](https://en.wikipedia.org/wiki/Yi_mein) is a classic celebratory dish in Chinese retaurants.\n\n**Characters**\n\n[龍蝦](https://en.wiktionary.org/wiki/龍蝦) is *lobster*, and [伊麵](https://en.wiktionary.org/wiki/伊麵) is *yi mein*.",
+    "description": "Lobster served with [yi mein](https://en.wikipedia.org/wiki/Yi_mein) is a classic celebratory dish in Chinese retaurants.\n\n**Characters**\n\n[龍蝦](https://en.wiktionary.org/wiki/%E9%BE%8D%E8%9D%A6) is *lobster*, and [伊麵](https://en.wiktionary.org/wiki/%E4%BC%8A%E9%BA%B5) is *yi mein*.",
     "tags": [
       "龍蝦",
       "粵菜",
@@ -262,7 +262,7 @@
         "place": "California Noodle House, Las Vegas, Nevada"
       }
     ],
-    "description": "Thin rice nooodles flavored with curry powder, stir-fried with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n**Origin**\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.\n\n**Characters**\n\n[星洲]((https://en.wiktionary.org/wiki/星洲) (sometimes written as 星州) is a short name for *Singapore*. [炒(https://en.wiktionary.org/wiki/炒) is *stir-fried*, and [米粉](https://en.wiktionary.org/wiki/米粉) is *rice noodles*. Often shortened to [星洲炒米](https://en.wiktionary.org/wiki/星洲炒米) or even 星米.",
+    "description": "Thin rice nooodles flavored with curry powder, stir-fried with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n**Origin**\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.\n\n**Characters**\n\n[星洲]((https://en.wiktionary.org/wiki/%E6%98%9F%E6%B4%B2) (sometimes written as 星州) is a short name for *Singapore*. [炒(https://en.wiktionary.org/wiki/%E7%82%92) is *stir-fried*, and [米粉](https://en.wiktionary.org/wiki/%E7%B1%B3粉) is *rice noodles*. Often shortened to [星洲炒米](https://en.wiktionary.org/wiki/%E6%98%9F%E6%B4%B2%E7%82%92%E7%B1%B3) or even 星米.",
     "tags": [
       "茶餐廳",
       "星洲",
@@ -360,60 +360,59 @@
   {
     "words": [
       {
-        "Chinese": "兩面黃",
-        "Simplified": "两面黄",
+        "Chinese": "螺螄粉",
+        "Simplified": "螺蛳粉",
         "English": "snail noodles",
-        "Yale": "léuhng mihn wòhng",
-        "Pinyin": "liǎng miàn huáng",
+        "Yale": "lòh sī fán",
+        "Pinyin": "luó sī fěn",
         "resources": [
           {
-            "name": "兩面",
-            "URL": "https://en.wiktionary.org/wiki/兩面"
+            "name": "螺螄粉",
+            "URL": "https://en.wiktionary.org/wiki/螺螄粉"
           },
           {
-            "name": "兩",
-            "URL": "https://en.wiktionary.org/wiki/兩"
+            "name": "螺螄",
+            "URL": "https://en.wiktionary.org/wiki/螺螄"
           },
           {
-            "name": "面",
-            "URL": "https://en.wiktionary.org/wiki/面"
+            "name": "螺",
+            "URL": "https://en.wiktionary.org/wiki/螺"
           },
           {
-            "name": "黃",
-            "URL": "https://en.wiktionary.org/wiki/黃"
+            "name": "螄",
+            "URL": "https://en.wiktionary.org/wiki/螄"
+          },
+          {
+            "name": "粉",
+            "URL": "https://en.wiktionary.org/wiki/粉"
           }
         ]
       }
     ],
     "images": [
       {
-        "image": "hkcrispynoodlesluckyhosue",
-        "place": "Lucky House Cafe, Las Vegas, Nevada"
+        "image": "snailnoodles99ranch",
+        "place": "99 Ranch, Las Vegas, Nevada"
       }
     ],
-    "description": "Egg noodles pan-fried into a crispy pillow (sometimes called “crispy noodle pillow”) and typically served with gravy and seafood (for takeout, the gravy and seafood are in a separate container so the crispy noodles stay crispy until you get home).\n\n**Characters**\n\n[兩面](https://en.wiktionary.org/wiki/兩面) means *two face* and [黃](https://en.wiktionary.org/wiki/黃) means *yellow*. So it's *two-faced yellow noodles* characterizing how it's yellow on top and bottom.",
+    "description": "",
     "tags": [
-      "茶餐廳",
-      "港式",
-      "煎",
+      "螺螄",
+      "新菜",
       "麵"
     ],
     "resources": [
       {
-        "name": "Chow Fun Foods",
-        "URL": "https://chowfunfoods.com/hong-kong-crispy-noodles-the-simple-way/"
+        "name": "NPR",
+        "URL": "https://www.npr.org/sections/goatsandsoda/2022/01/16/1072218612/snail-noodles-go-viral-in-china-during-the-pandemic-but-the-dish-is-a-bit-funky"
       },
       {
-        "name": "Made with Lau",
-        "URL": "https://madewithlau.com/recipes/hong-kong-style-chow-mein"
+        "name": "Week in China",
+        "URL": "https://www.weekinchina.com/2020/03/luosifen/"
       },
       {
-        "name": "Serious Eats",
-        "URL": "https://www.seriouseats.com/chinese-noodle-101-noodle-cake-seafood-sauce"
-      },
-      {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles/"
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Luosifen"
       }
     ]
   }
