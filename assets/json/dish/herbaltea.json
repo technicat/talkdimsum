@@ -203,5 +203,34 @@
                 "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "香茅大麦茶",
+                "English": "lemongrass barley tea",
+                "Yale": "",
+                "Pinyin": "",
+                "resources": [
+                    
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "lemongrassbarleytea",
+                "place": "Noodlehead, Las Vegas, Nevada"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "No Frills Inspirations",
+                "URL": "https://www.nofrillsrecipes.com/2018/09/lemon-grass-barley-drink.html"
+            }
+        ]
     }
 ]
