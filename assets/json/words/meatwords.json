@@ -11,7 +11,13 @@
         "English": "meat",
         "Yale": "yuhk",
         "Jyutping": "juk6",
-        "Pinyin": "ròu"
+        "Pinyin": "ròu",
+        "resources": [
+            {
+                "name": "肉",
+                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+            }
+        ]
     },
     {
         "Chinese": "牛",
@@ -25,14 +31,26 @@
         "English": "beef",
         "Yale": "ngàuh yuhk",
         "Jyutping": "ngau4 juk6",
-        "Pinyin": "niú ròu"
+        "Pinyin": "niú ròu",
+        "resources": [
+            {
+                "name": "肉",
+                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+            }
+        ]
     },
     {
         "Chinese": "仿肉",
         "English": "imitation meat",
         "Yale": "fóng yuhk",
         "Jyutping": "fong2 juk6",
-        "Pinyin": "ǎng ròu"
+        "Pinyin": "ǎng ròu",
+        "resources": [
+            {
+                "name": "肉",
+                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+            }
+        ]
     },
     {
         "Chinese": "豬",
@@ -48,31 +66,13 @@
         "English": "pork",
         "Yale": "jyú yuhk",
         "Jyutping": "zyu1 juk6",
-        "Pinyin": "zhū ròu"
-    },
-    {
-        "Chinese": "雞",
-        "Simplified": "鸡",
-        "English": "chicken",
-        "Yale": "gāi",
-        "Jyutping": "gai1",
-        "Pinyin": "jī"
-    },
-    {
-        "Chinese": "鴨",
-        "Simplified": "鸭",
-        "English": "duck",
-        "Yale": "aap",
-        "Jyutping": "aap3",
-        "Pinyin": "yā"
-    },
-    {
-        "Chinese": "鵪鶉",
-        "Simplified": "鹌鹑",
-        "English": "quail",
-        "Yale": "ām chēun",
-        "Jyutping": "am1 ceon1",
-        "Pinyin": "ān chún"
+        "Pinyin": "zhū ròu",
+        "resources": [
+            {
+                "name": "肉",
+                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+            }
+        ]
     },
     {
         "Chinese": "午餐肉",
@@ -84,23 +84,23 @@
         "resources": [
             {
                 "name": "午餐肉",
-                "URL": "https://en.wiktionary.org/wiki/午餐肉"
+                "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90%E8%82%89"
             },
             {
                 "name": "午餐",
-                "URL": "https://en.wiktionary.org/wiki/午餐"
+                "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90"
             },
             {
                 "name": "午",
-                "URL": "https://en.wiktionary.org/wiki/午"
+                "URL": "https://en.wiktionary.org/wiki/%E5%8D%88"
             },
             {
                 "name": "餐",
-                "URL": "https://en.wiktionary.org/wiki/餐"
+                "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
             },
             {
                 "name": "肉",
-                "URL": "https://en.wiktionary.org/wiki/肉"
+                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
             }
         ]
     }
