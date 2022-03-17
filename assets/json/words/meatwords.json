@@ -21,14 +21,6 @@
         "Pinyin": "niú"
     },
     {
-        "Chinese": "鴨",
-        "Simplified": "鸭",
-        "English": "duck",
-        "Yale": "aap",
-        "Jyutping": "aap3",
-        "Pinyin": "yā"
-    },
-    {
         "Chinese": "牛肉",
         "English": "beef",
         "Yale": "ngàuh yuhk",
@@ -67,109 +59,20 @@
         "Pinyin": "jī"
     },
     {
+        "Chinese": "鴨",
+        "Simplified": "鸭",
+        "English": "duck",
+        "Yale": "aap",
+        "Jyutping": "aap3",
+        "Pinyin": "yā"
+    },
+    {
         "Chinese": "鵪鶉",
         "Simplified": "鹌鹑",
         "English": "quail",
         "Yale": "ām chēun",
         "Jyutping": "am1 ceon1",
         "Pinyin": "ān chún"
-    },
-    {
-        "Chinese": "蝦",
-        "Simplified": "虾",
-        "English": "shrimp",
-        "Yale": "hā",
-        "Jyutping": "haa1",
-        "Pinyin": "xiā"
-    },
-    {
-        "Chinese": "蟹",
-        "English": "crab",
-        "Yale": "háaih",
-        "Pinyin": "xiè",
-        "resources": [
-            {
-                "name": "蟹",
-                "URL": "https://en.wiktionary.org/wiki/%E8%9F%B9"
-            }
-        ]
-    },
-    {
-        "Chinese": "龍蝦",
-        "Simplified": "龙虾",
-        "English": "lobster",
-        "Yale": "lùhng hā",
-        "Jyutping": "lung4 haa1",
-        "Pinyin": "lóng xiā"
-    },
-    {
-        "Chinese": "魚",
-        "Simplified": "鱼",
-        "English": "fish",
-        "Yale": "yú",
-        "Jyutping": "ju2",
-        "Pinyin": "yú"
-    },
-    {
-        "Chinese": "鹹魚",
-        "Simplified": "咸鱼",
-        "English": "salted fish",
-        "Yale": "hàahm yùh",
-        "Pinyin": "xián yú",
-        "resources": [
-            {
-                "name": "鹹魚",
-                "URL": "https://en.wiktionary.org/wiki/鹹魚"
-            },
-            {
-                "name": "鹹",
-                "URL": "https://en.wiktionary.org/wiki/鹹"
-            },
-            {
-                "name": "魚",
-                "URL": "https://en.wiktionary.org/wiki/蒸"
-            }
-        ]
-    },
-    {
-        "Chinese": "魷魚",
-        "Simplified": "鱿鱼",
-        "English": "squid",
-        "Yale": "yàuh yú",
-        "Jyutping": "jau4 ju2",
-        "Pinyin": "yóu yú"
-    },
-    {
-        "Chinese": "吞拿魚",
-        "Simplifid": "吞拿鱼",
-        "English": "tuna",
-        "Yale": "tān nàh yú",
-        "Jyutping": "tan1 naa4 ju2",
-        "Pinyin": "tūn ná yú"
-    },
-    {
-        "Chinese": "三文魚",
-        "Simplified": "三文鱼",
-        "English": "salmon",
-        "Yale": "sāam màhn yùh",
-        "Jyutping": "saam1 man4 ju4",
-        "Pinyin": "sān wén yú"
-    },
-    {
-        "English": "milkfish",
-        "Chinese": "虱目魚",
-        "Simplified": "虱目鱼",
-        "Yale": "sāt muhk yú",
-        "Jyutping": "sat1 muk6 ju2",
-        "Pinyin": "shī mù yú"
-    },
-    {
-        "English": "abalone",
-        "Chinese": "鮑魚",
-        "Simplified": "鮑鱼",
-        "Yale": "bāau yùh",
-        "Jyutping": "bau1 ju4",
-        "Pinyin": "bào yú"
     },
     {
         "Chinese": "午餐肉",
