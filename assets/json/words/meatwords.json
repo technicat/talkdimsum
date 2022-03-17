@@ -83,6 +83,18 @@
         "Pinyin": "xiā"
     },
     {
+        "Chinese": "蟹",
+        "English": "crab",
+        "Yale": "háaih",
+        "Pinyin": "xiè",
+        "resources": [
+            {
+                "name": "蟹",
+                "URL": "https://en.wiktionary.org/wiki/%E8%9F%B9"
+            }
+        ]
+    },
+    {
         "Chinese": "龍蝦",
         "Simplified": "龙虾",
         "English": "lobster",
@@ -167,26 +179,26 @@
         "Jyutping": "ng5 caan1 juk4",
         "Pinyin": "wǔ cān ròu",
         "resources": [
-          {
-            "name": "午餐肉",
-            "URL": "https://en.wiktionary.org/wiki/午餐肉"
-          },
-          {
-            "name": "午餐",
-            "URL": "https://en.wiktionary.org/wiki/午餐"
-          },
-          {
-            "name": "午",
-            "URL": "https://en.wiktionary.org/wiki/午"
-          },
-          {
-            "name": "餐",
-            "URL": "https://en.wiktionary.org/wiki/餐"
-          },
-          {
-            "name": "肉",
-            "URL": "https://en.wiktionary.org/wiki/肉"
-          }
+            {
+                "name": "午餐肉",
+                "URL": "https://en.wiktionary.org/wiki/午餐肉"
+            },
+            {
+                "name": "午餐",
+                "URL": "https://en.wiktionary.org/wiki/午餐"
+            },
+            {
+                "name": "午",
+                "URL": "https://en.wiktionary.org/wiki/午"
+            },
+            {
+                "name": "餐",
+                "URL": "https://en.wiktionary.org/wiki/餐"
+            },
+            {
+                "name": "肉",
+                "URL": "https://en.wiktionary.org/wiki/肉"
+            }
         ]
     }
 ]
