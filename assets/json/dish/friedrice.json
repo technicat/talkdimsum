@@ -922,12 +922,16 @@
   {
     "words": [
       {
-        "Chinese": "炒飯",
-        "Simplified": "炒饭",
+        "Chinese": "新加坡炒飯",
+        "Simplified": "新加坡炒饭",
         "English": "Singapore fried rice",
-        "Yale": " cháau faahn",
-        "Pinyin": " chǎo fàn",
+        "Yale": "sān ga bō cháau faahn",
+        "Pinyin": "Xīn jiā pō chǎo fàn",
         "resources": [
+          {
+            "name": "新加坡",
+            "URL": "https://en.wiktionary.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1"
+          },
           {
             "name": "炒飯",
             "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
@@ -949,11 +953,27 @@
         "place": "Banana Leaf Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "A [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice).\n\n**Characters**\n\n[炒飯](https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF) is *stir-fried rice* ([炒](https://en.wiktionary.org/wiki/%E7%82%92) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice*).",
+    "description": "Like Singapore-style noodles, this [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) is not from Singapore but is distinguished by curry powder.\n\n**Characters**\n\n[炒飯](https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF) is *stir-fried rice* ([炒](https://en.wiktionary.org/wiki/%E7%82%92) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice*).",
     "resources": [
+      {
+        "name": "Frugal Feeding",
+        "URL": "https://frugalfeeding.com/2015/04/12/singapore-fried-rice/"
+      },
+      {
+        "name": "Good Food",
+        "URL": "https://www.goodfood.com.au/recipes/singapore-fried-rice-20210629-h1wtin"
+      },
       {
         "name": "Honest Food Talks",
         "URL": "https://www.honestfoodtalks.com/singapore-fried-rice-recipe/"
+      },
+      {
+        "name": "Khin's Kitchen",
+        "URL": "https://khinskitchen.com/singapore-fried-rice/"
+      },
+      {
+        "name": "Tarladal",
+        "URL": "https://www.tarladalal.com/singapore-fried-rice-veg-singapore-fried-rice-40937r"
       }
     ],
     "tags": [
