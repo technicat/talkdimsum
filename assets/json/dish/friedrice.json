@@ -904,7 +904,7 @@
         "place": "Xiaolongbao, Las Vegas, Nevada"
       }
     ],
-    "description": "A [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) mixed with [XO sauce](https://en.wikipedia.org/wiki/XO_sauce).\n\n**Characters**\n\n[XO醬](https://en.wiktionary.org/wiki/XO%E9%86%AC) is XO sauce, [炒飯](https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF) is *stir-fried rice* ([炒](https://en.wiktionary.org/wiki/%E7%82%92) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice*), so 蘿炒飯 is *stir-fried rice*.",
+    "description": "A [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) mixed with [XO sauce](https://en.wikipedia.org/wiki/XO_sauce).\n\n**Characters**\n\n[XO醬](https://en.wiktionary.org/wiki/XO%E9%86%AC) is XO sauce, [炒飯](https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF) is *stir-fried rice* ([炒](https://en.wiktionary.org/wiki/%E7%82%92) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice*), so XO醬炒飯 is *XO saucestir-fried rice*.",
     "resources": [
       {
         "name": "The Woks of Life",
@@ -914,6 +914,50 @@
     "tags": [
       "新菜",
       "XO醬",
+      "炒飯",
+      "炒",
+      "飯"
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "炒飯",
+        "Simplified": "炒饭",
+        "English": "Singapore fried rice",
+        "Yale": " cháau faahn",
+        "Pinyin": " chǎo fàn",
+        "resources": [
+          {
+            "name": "炒飯",
+            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
+          },
+          {
+            "name": "炒",
+            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "singaporefriedricebanaleafcafe",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice).\n\n**Characters**\n\n[炒飯](https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF) is *stir-fried rice* ([炒](https://en.wiktionary.org/wiki/%E7%82%92) is *stir-fried*, and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice*).",
+    "resources": [
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/singapore-fried-rice-recipe/"
+      }
+    ],
+    "tags": [
+      "新菜",
       "炒飯",
       "炒",
       "飯"
