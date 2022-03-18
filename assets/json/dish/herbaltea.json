@@ -32,7 +32,7 @@
                 "place": "88 Noodle Papa, Las Vegas"
             }
         ],
-        "description": "A tea made from sugar, honey and the Japanese fruit [yuzu](https://en.wikipedia.org/wiki/Yuzu). This is a traditional Korean tea known as [yuja tea](https://en.wikipedia.org/wiki/Yuja_tea)(the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 yáu jí).\n\n**Characters**\n\n[柚子](https://en.wiktionary.org/wiki/%E6%9F%9A%E5%AD%90) is *yuzu* (and also refers to pomelo, a fruit which resembles a large grapefruit). [茶](https://en.wiktionary.org/wiki/%E8%8C%B6) is *tea*, so 柚子茶 *yuzu tea*.",
+        "description": "A tea made from sugar, honey and the Japanese fruit [yuzu](https://en.wikipedia.org/wiki/Yuzu). This is a traditional Korean tea known as [yuja tea](https://en.wikipedia.org/wiki/Yuja_tea)(the Japanese and Korean words “yuzu” and “yuja” derive from the Chinese word 柚子 yáu jí).\n\n**Characters**\n\n[柚子](https://en.wiktionary.org/wiki/%E6%9F%9A%E5%AD%90) is *yuzu* (and also refers to pomelo, a fruit which resembles a large grapefruit), and [茶](https://en.wiktionary.org/wiki/%E8%8C%B6) is *tea*, so 柚子茶 *yuzu tea*.",
         "tags": [
             "茶餐廳",
             "飲品",
@@ -250,8 +250,10 @@
                 "place": "Noodlehead, Las Vegas, Nevada"
             }
         ],
-        "description": "A drink made with lemongrass and barley pearls.",
+        "description": "An herbal tea made with [lemongrass](https://en.wikipedia.org/wiki/Cymbopogon) and barley pearls.\n\n**Characters**\n\n[香茅](https://en.wiktionary.org/wiki/%E9%A6%99%E8%8C%85) is *lemongrass*, [大麥](https://en.wiktionary.org/wiki/%E5%A4%A7%E9%BA%A5) is *barley*, and [茶](https://en.wiktionary.org/wiki/%E8%8C%B6) is *tea*, so 香茅大麥茶 is *lemongrass barley tea*.",
         "tags": [
+            "香茅",
+            "大麥",
             "新菜",
             "飲品"
         ],
