@@ -207,12 +207,40 @@
     {
         "words": [
             {
-                "Chinese": "香茅大麦茶",
+                "Chinese": "香茅大麥茶",
+                "Simplified": "香茅大麦茶",
                 "English": "lemongrass barley tea",
-                "Yale": "",
-                "Pinyin": "",
+                "Yale": "hēung màauh daaih mahk chàh",
+                "Pinyin": "xiāng máo dà mài chá",
                 "resources": [
-                    
+                    {
+                        "name": "香茅",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%8C%85"
+                    },
+                    {
+                        "name": "香",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
+                    },
+                    {
+                        "name": "茅",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%85"
+                    },
+                    {
+                        "name": "大麥",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7%E9%BA%A5"
+                    },
+                    {
+                        "name": "大",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7"
+                    },
+                    {
+                        "name": "麥",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%A5"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
+                    }
                 ]
             }
         ],
