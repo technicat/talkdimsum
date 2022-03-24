@@ -18,7 +18,7 @@ class DishesScaffold extends StatelessWidget {
             actions: <Widget>[
                IconButton(
                 icon: Icon(Icons.camera_alt_outlined,
-                    semanticLabel: AppLocalizations.of(context)!.favorites),
+                    semanticLabel: AppLocalizations.of(context)!.ai),
                 tooltip: AppLocalizations.of(context)!.favorites,
                 onPressed: () => Get.to(FavoritesScaffold()),
               ),
