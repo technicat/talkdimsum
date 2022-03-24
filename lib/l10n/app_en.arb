@@ -22,5 +22,9 @@
   "favorites": "Favorites",
   "@favorites": {
     "description": "Favorited dishes"
+  },
+  "ai": "AI",
+  "@ai": {
+    "description": "Recognize dim sum"
   }
 }

@@ -7,8 +7,10 @@ part of 'word.dart';
 // **************************************************************************
 
 Word _$WordFromJson(Map<String, dynamic> json) {
-  $checkKeys(json,
-      requiredKeys: const ['Chinese', 'English', 'Yale', 'Pinyin']);
+  $checkKeys(
+    json,
+    requiredKeys: const ['Chinese', 'English', 'Yale', 'Pinyin'],
+  );
   return Word(
     json['Chinese'] as String,
     json['Mandarin'] as String?,

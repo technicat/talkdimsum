@@ -1,5 +1,7 @@
+// coverage:ignore-file
 // GENERATED CODE - DO NOT MODIFY BY HAND
-// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides
+// ignore_for_file: type=lint
+// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides, invalid_annotation_target
 
 part of 'phrases.dart';
 
@@ -27,7 +29,7 @@ class _$PhrasesTearOff {
     );
   }
 
-  Phrases fromJson(Map<String, Object> json) {
+  Phrases fromJson(Map<String, Object?> json) {
     return Phrases.fromJson(json);
   }
 }
@@ -119,7 +121,7 @@ class _$_Phrases extends _Phrases with DiagnosticableTreeMixin {
   _$_Phrases(this.name, this.lines) : super._();
 
   factory _$_Phrases.fromJson(Map<String, dynamic> json) =>
-      _$_$_PhrasesFromJson(json);
+      _$$_PhrasesFromJson(json);
 
   @override
   final String name;
@@ -143,18 +145,17 @@ class _$_Phrases extends _Phrases with DiagnosticableTreeMixin {
   @override
   bool operator ==(dynamic other) {
     return identical(this, other) ||
-        (other is _Phrases &&
-            (identical(other.name, name) ||
-                const DeepCollectionEquality().equals(other.name, name)) &&
-            (identical(other.lines, lines) ||
-                const DeepCollectionEquality().equals(other.lines, lines)));
+        (other.runtimeType == runtimeType &&
+            other is _Phrases &&
+            const DeepCollectionEquality().equals(other.name, name) &&
+            const DeepCollectionEquality().equals(other.lines, lines));
   }
 
   @override
-  int get hashCode =>
-      runtimeType.hashCode ^
-      const DeepCollectionEquality().hash(name) ^
-      const DeepCollectionEquality().hash(lines);
+  int get hashCode => Object.hash(
+      runtimeType,
+      const DeepCollectionEquality().hash(name),
+      const DeepCollectionEquality().hash(lines));
 
   @JsonKey(ignore: true)
   @override
@@ -163,7 +164,7 @@ class _$_Phrases extends _Phrases with DiagnosticableTreeMixin {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$_$_PhrasesToJson(this);
+    return _$$_PhrasesToJson(this);
   }
 }
 
@@ -174,9 +175,9 @@ abstract class _Phrases extends Phrases {
   factory _Phrases.fromJson(Map<String, dynamic> json) = _$_Phrases.fromJson;
 
   @override
-  String get name => throw _privateConstructorUsedError;
+  String get name;
   @override
-  List<Line> get lines => throw _privateConstructorUsedError;
+  List<Line> get lines;
   @override
   @JsonKey(ignore: true)
   _$PhrasesCopyWith<_Phrases> get copyWith =>

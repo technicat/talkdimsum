@@ -1,5 +1,7 @@
+// coverage:ignore-file
 // GENERATED CODE - DO NOT MODIFY BY HAND
-// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides
+// ignore_for_file: type=lint
+// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides, invalid_annotation_target
 
 part of 'place.dart';
 
@@ -33,7 +35,7 @@ class _$PlaceTearOff {
     );
   }
 
-  Place fromJson(Map<String, Object> json) {
+  Place fromJson(Map<String, Object?> json) {
     return Place.fromJson(json);
   }
 }
@@ -185,7 +187,7 @@ class _$_Place extends _Place with DiagnosticableTreeMixin {
       : super._();
 
   factory _$_Place.fromJson(Map<String, dynamic> json) =>
-      _$_$_PlaceFromJson(json);
+      _$$_PlaceFromJson(json);
 
   @override
   @JsonKey(name: 'title')
@@ -198,7 +200,7 @@ class _$_Place extends _Place with DiagnosticableTreeMixin {
   final String city;
   @override
   final String address;
-  @JsonKey(defaultValue: const [])
+  @JsonKey()
   @override
   final List<Link> links;
 
@@ -223,31 +225,25 @@ class _$_Place extends _Place with DiagnosticableTreeMixin {
   @override
   bool operator ==(dynamic other) {
     return identical(this, other) ||
-        (other is _Place &&
-            (identical(other.name, name) ||
-                const DeepCollectionEquality().equals(other.name, name)) &&
-            (identical(other.lat, lat) ||
-                const DeepCollectionEquality().equals(other.lat, lat)) &&
-            (identical(other.lon, lon) ||
-                const DeepCollectionEquality().equals(other.lon, lon)) &&
-            (identical(other.city, city) ||
-                const DeepCollectionEquality().equals(other.city, city)) &&
-            (identical(other.address, address) ||
-                const DeepCollectionEquality()
-                    .equals(other.address, address)) &&
-            (identical(other.links, links) ||
-                const DeepCollectionEquality().equals(other.links, links)));
+        (other.runtimeType == runtimeType &&
+            other is _Place &&
+            const DeepCollectionEquality().equals(other.name, name) &&
+            const DeepCollectionEquality().equals(other.lat, lat) &&
+            const DeepCollectionEquality().equals(other.lon, lon) &&
+            const DeepCollectionEquality().equals(other.city, city) &&
+            const DeepCollectionEquality().equals(other.address, address) &&
+            const DeepCollectionEquality().equals(other.links, links));
   }
 
   @override
-  int get hashCode =>
-      runtimeType.hashCode ^
-      const DeepCollectionEquality().hash(name) ^
-      const DeepCollectionEquality().hash(lat) ^
-      const DeepCollectionEquality().hash(lon) ^
-      const DeepCollectionEquality().hash(city) ^
-      const DeepCollectionEquality().hash(address) ^
-      const DeepCollectionEquality().hash(links);
+  int get hashCode => Object.hash(
+      runtimeType,
+      const DeepCollectionEquality().hash(name),
+      const DeepCollectionEquality().hash(lat),
+      const DeepCollectionEquality().hash(lon),
+      const DeepCollectionEquality().hash(city),
+      const DeepCollectionEquality().hash(address),
+      const DeepCollectionEquality().hash(links));
 
   @JsonKey(ignore: true)
   @override
@@ -256,7 +252,7 @@ class _$_Place extends _Place with DiagnosticableTreeMixin {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$_$_PlaceToJson(this);
+    return _$$_PlaceToJson(this);
   }
 }
 
@@ -270,17 +266,17 @@ abstract class _Place extends Place {
 
   @override
   @JsonKey(name: 'title')
-  String get name => throw _privateConstructorUsedError;
+  String get name;
   @override
-  double get lat => throw _privateConstructorUsedError;
+  double get lat;
   @override
-  double get lon => throw _privateConstructorUsedError;
+  double get lon;
   @override
-  String get city => throw _privateConstructorUsedError;
+  String get city;
   @override
-  String get address => throw _privateConstructorUsedError;
+  String get address;
   @override
-  List<Link> get links => throw _privateConstructorUsedError;
+  List<Link> get links;
   @override
   @JsonKey(ignore: true)
   _$PlaceCopyWith<_Place> get copyWith => throw _privateConstructorUsedError;

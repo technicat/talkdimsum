@@ -1,5 +1,7 @@
+// coverage:ignore-file
 // GENERATED CODE - DO NOT MODIFY BY HAND
-// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides
+// ignore_for_file: type=lint
+// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides, invalid_annotation_target
 
 part of 'link.dart';
 
@@ -27,7 +29,7 @@ class _$LinkTearOff {
     );
   }
 
-  Link fromJson(Map<String, Object> json) {
+  Link fromJson(Map<String, Object?> json) {
     return Link.fromJson(json);
   }
 }
@@ -119,8 +121,7 @@ class __$LinkCopyWithImpl<$Res> extends _$LinkCopyWithImpl<$Res>
 class _$_Link extends _Link with DiagnosticableTreeMixin {
   _$_Link(this.name, @JsonKey(name: 'URL') this.url) : super._();
 
-  factory _$_Link.fromJson(Map<String, dynamic> json) =>
-      _$_$_LinkFromJson(json);
+  factory _$_Link.fromJson(Map<String, dynamic> json) => _$$_LinkFromJson(json);
 
   @override
   final String name;
@@ -145,18 +146,17 @@ class _$_Link extends _Link with DiagnosticableTreeMixin {
   @override
   bool operator ==(dynamic other) {
     return identical(this, other) ||
-        (other is _Link &&
-            (identical(other.name, name) ||
-                const DeepCollectionEquality().equals(other.name, name)) &&
-            (identical(other.url, url) ||
-                const DeepCollectionEquality().equals(other.url, url)));
+        (other.runtimeType == runtimeType &&
+            other is _Link &&
+            const DeepCollectionEquality().equals(other.name, name) &&
+            const DeepCollectionEquality().equals(other.url, url));
   }
 
   @override
-  int get hashCode =>
-      runtimeType.hashCode ^
-      const DeepCollectionEquality().hash(name) ^
-      const DeepCollectionEquality().hash(url);
+  int get hashCode => Object.hash(
+      runtimeType,
+      const DeepCollectionEquality().hash(name),
+      const DeepCollectionEquality().hash(url));
 
   @JsonKey(ignore: true)
   @override
@@ -165,7 +165,7 @@ class _$_Link extends _Link with DiagnosticableTreeMixin {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$_$_LinkToJson(this);
+    return _$$_LinkToJson(this);
   }
 }
 
@@ -176,10 +176,10 @@ abstract class _Link extends Link {
   factory _Link.fromJson(Map<String, dynamic> json) = _$_Link.fromJson;
 
   @override
-  String get name => throw _privateConstructorUsedError;
+  String get name;
   @override
   @JsonKey(name: 'URL')
-  String get url => throw _privateConstructorUsedError;
+  String get url;
   @override
   @JsonKey(ignore: true)
   _$LinkCopyWith<_Link> get copyWith => throw _privateConstructorUsedError;

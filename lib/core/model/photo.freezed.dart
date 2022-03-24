@@ -1,5 +1,7 @@
+// coverage:ignore-file
 // GENERATED CODE - DO NOT MODIFY BY HAND
-// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides
+// ignore_for_file: type=lint
+// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides, invalid_annotation_target
 
 part of 'photo.dart';
 
@@ -27,7 +29,7 @@ class _$PhotoTearOff {
     );
   }
 
-  Photo fromJson(Map<String, Object> json) {
+  Photo fromJson(Map<String, Object?> json) {
     return Photo.fromJson(json);
   }
 }
@@ -120,12 +122,12 @@ class _$_Photo extends _Photo with DiagnosticableTreeMixin {
   _$_Photo(@JsonKey(name: 'image') this.name, [this.place = ""]) : super._();
 
   factory _$_Photo.fromJson(Map<String, dynamic> json) =>
-      _$_$_PhotoFromJson(json);
+      _$$_PhotoFromJson(json);
 
   @override
   @JsonKey(name: 'image')
   final String name;
-  @JsonKey(defaultValue: "")
+  @JsonKey()
   @override
   final String place;
 
@@ -146,18 +148,17 @@ class _$_Photo extends _Photo with DiagnosticableTreeMixin {
   @override
   bool operator ==(dynamic other) {
     return identical(this, other) ||
-        (other is _Photo &&
-            (identical(other.name, name) ||
-                const DeepCollectionEquality().equals(other.name, name)) &&
-            (identical(other.place, place) ||
-                const DeepCollectionEquality().equals(other.place, place)));
+        (other.runtimeType == runtimeType &&
+            other is _Photo &&
+            const DeepCollectionEquality().equals(other.name, name) &&
+            const DeepCollectionEquality().equals(other.place, place));
   }
 
   @override
-  int get hashCode =>
-      runtimeType.hashCode ^
-      const DeepCollectionEquality().hash(name) ^
-      const DeepCollectionEquality().hash(place);
+  int get hashCode => Object.hash(
+      runtimeType,
+      const DeepCollectionEquality().hash(name),
+      const DeepCollectionEquality().hash(place));
 
   @JsonKey(ignore: true)
   @override
@@ -166,7 +167,7 @@ class _$_Photo extends _Photo with DiagnosticableTreeMixin {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$_$_PhotoToJson(this);
+    return _$$_PhotoToJson(this);
   }
 }
 
@@ -179,9 +180,9 @@ abstract class _Photo extends Photo {
 
   @override
   @JsonKey(name: 'image')
-  String get name => throw _privateConstructorUsedError;
+  String get name;
   @override
-  String get place => throw _privateConstructorUsedError;
+  String get place;
   @override
   @JsonKey(ignore: true)
   _$PhotoCopyWith<_Photo> get copyWith => throw _privateConstructorUsedError;

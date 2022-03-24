@@ -6,16 +6,14 @@ part of 'phrases.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-_$_Phrases _$_$_PhrasesFromJson(Map<String, dynamic> json) {
-  return _$_Phrases(
-    json['name'] as String,
-    (json['lines'] as List<dynamic>)
-        .map((e) => Line.fromJson(e as Map<String, dynamic>))
-        .toList(),
-  );
-}
+_$_Phrases _$$_PhrasesFromJson(Map<String, dynamic> json) => _$_Phrases(
+      json['name'] as String,
+      (json['lines'] as List<dynamic>)
+          .map((e) => Line.fromJson(e as Map<String, dynamic>))
+          .toList(),
+    );
 
-Map<String, dynamic> _$_$_PhrasesToJson(_$_Phrases instance) =>
+Map<String, dynamic> _$$_PhrasesToJson(_$_Phrases instance) =>
     <String, dynamic>{
       'name': instance.name,
       'lines': instance.lines,

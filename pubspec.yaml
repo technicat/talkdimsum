@@ -27,6 +27,7 @@ dependencies:
   bubble:
     git: 
       url: git://github.com/technicat/bubble.git
+  camera:
   cupertino_search:
     git: 
       url: git://github.com/technicat/cupertino_search.git
@@ -41,7 +42,7 @@ dependencies:
   freezed_annotation:
   get:
   google_ml_kit:
-  json_annotation:
+  json_annotation: ">=4.4.0"
   material_search:
     git: 
       url: git://github.com/technicat/material_search.git

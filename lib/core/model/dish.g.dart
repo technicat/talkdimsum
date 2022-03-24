@@ -7,7 +7,10 @@ part of 'dish.dart';
 // **************************************************************************
 
 Dish _$DishFromJson(Map<String, dynamic> json) {
-  $checkKeys(json, requiredKeys: const ['description', 'images', 'words']);
+  $checkKeys(
+    json,
+    requiredKeys: const ['description', 'images', 'words'],
+  );
   return Dish(
     json['description'] as String,
     (json['images'] as List<dynamic>)

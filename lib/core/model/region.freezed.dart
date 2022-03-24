@@ -1,5 +1,7 @@
+// coverage:ignore-file
 // GENERATED CODE - DO NOT MODIFY BY HAND
-// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides
+// ignore_for_file: type=lint
+// ignore_for_file: unused_element, deprecated_member_use, deprecated_member_use_from_same_package, use_function_type_syntax_for_parameters, unnecessary_const, avoid_init_to_null, invalid_override_different_default_values_named, prefer_expression_function_bodies, annotate_overrides, invalid_annotation_target
 
 part of 'region.dart';
 
@@ -27,7 +29,7 @@ class _$RegionTearOff {
     );
   }
 
-  Region fromJson(Map<String, Object> json) {
+  Region fromJson(Map<String, Object?> json) {
     return Region.fromJson(json);
   }
 }
@@ -119,7 +121,7 @@ class _$_Region extends _Region {
   _$_Region(this.name, this.places) : super._();
 
   factory _$_Region.fromJson(Map<String, dynamic> json) =>
-      _$_$_RegionFromJson(json);
+      _$$_RegionFromJson(json);
 
   @override
   final String name;
@@ -134,18 +136,17 @@ class _$_Region extends _Region {
   @override
   bool operator ==(dynamic other) {
     return identical(this, other) ||
-        (other is _Region &&
-            (identical(other.name, name) ||
-                const DeepCollectionEquality().equals(other.name, name)) &&
-            (identical(other.places, places) ||
-                const DeepCollectionEquality().equals(other.places, places)));
+        (other.runtimeType == runtimeType &&
+            other is _Region &&
+            const DeepCollectionEquality().equals(other.name, name) &&
+            const DeepCollectionEquality().equals(other.places, places));
   }
 
   @override
-  int get hashCode =>
-      runtimeType.hashCode ^
-      const DeepCollectionEquality().hash(name) ^
-      const DeepCollectionEquality().hash(places);
+  int get hashCode => Object.hash(
+      runtimeType,
+      const DeepCollectionEquality().hash(name),
+      const DeepCollectionEquality().hash(places));
 
   @JsonKey(ignore: true)
   @override
@@ -154,7 +155,7 @@ class _$_Region extends _Region {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$_$_RegionToJson(this);
+    return _$$_RegionToJson(this);
   }
 }
 
@@ -165,9 +166,9 @@ abstract class _Region extends Region {
   factory _Region.fromJson(Map<String, dynamic> json) = _$_Region.fromJson;
 
   @override
-  String get name => throw _privateConstructorUsedError;
+  String get name;
   @override
-  List<Place> get places => throw _privateConstructorUsedError;
+  List<Place> get places;
   @override
   @JsonKey(ignore: true)
   _$RegionCopyWith<_Region> get copyWith => throw _privateConstructorUsedError;
