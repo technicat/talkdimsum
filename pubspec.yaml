@@ -40,6 +40,7 @@ dependencies:
       url: git://github.com/technicat/flutter_tts.git
   freezed_annotation:
   get:
+  google_ml_kit:
   json_annotation:
   material_search:
     git: 
