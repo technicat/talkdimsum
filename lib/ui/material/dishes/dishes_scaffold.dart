@@ -6,6 +6,7 @@ import 'package:app_settings/app_settings.dart';
 import 'package:get/get.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import 'ai_scaffold.dart';
 import 'categories_grid.dart';
 import 'favorites_grid.dart';
 import 'search_word_scaffold.dart';
@@ -20,7 +21,7 @@ class DishesScaffold extends StatelessWidget {
                 icon: Icon(Icons.camera_alt_outlined,
                     semanticLabel: AppLocalizations.of(context)!.ai),
                 tooltip: AppLocalizations.of(context)!.favorites,
-                onPressed: () => Get.to(FavoritesScaffold()),
+                onPressed: () => Get.to(AIScaffold()),
               ),
               IconButton(
                 icon: Icon(Icons.favorite_border,
