@@ -6,7 +6,7 @@ import 'package:app_settings/app_settings.dart';
 import 'package:get/get.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-import 'ai_scaffold.dart';
+import '../ai/ai_scaffold.dart';
 import 'categories_grid.dart';
 import 'favorites_grid.dart';
 import 'search_word_scaffold.dart';

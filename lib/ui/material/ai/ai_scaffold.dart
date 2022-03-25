@@ -11,7 +11,6 @@ class AIScaffold extends StatelessWidget {
             actions: <Widget>[
              
             ]),
-       //sx body: CategoriesGrid(),
       
       );
 }
