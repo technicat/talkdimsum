@@ -3,8 +3,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-import '../dishes/categories_grid.dart';
-
 class AIScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
@@ -13,7 +11,7 @@ class AIScaffold extends StatelessWidget {
             actions: <Widget>[
              
             ]),
-        body: CategoriesGrid(),
+       //sx body: CategoriesGrid(),
       
       );
 }
