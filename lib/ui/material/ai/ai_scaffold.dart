@@ -26,7 +26,7 @@ Future<void> main() async {
   runApp(CameraApp());
 }
 */
-
+/*
 class CameraApp extends StatefulWidget {
   @override
   _CameraAppState createState() => _CameraAppState();
@@ -65,3 +65,4 @@ List<CameraDescription> cameras = [];
     );
   }
 }
+*/
