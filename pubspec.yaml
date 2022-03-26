@@ -23,43 +23,45 @@ dependencies:
   # more stuff
   app_settings:
     git: 
-      url: git://github.com/technicat/app_settings.git
+      url: https://github.com/technicat/app_settings
   bubble:
     git: 
-      url: git://github.com/technicat/bubble.git
+      url: https://github.com/technicat/bubble
   camera:
   cupertino_search:
     git: 
-      url: git://github.com/technicat/cupertino_search.git
+      url: https://github.com/technicat/cupertino_search
   flutter_markdown:
   flutter_riverpod:
     git: 
-      url: git://github.com/technicat/river_pod.git
+      url: https://github.com/technicat/river_pod
       path: packages/flutter_riverpod
   flutter_tts:
     git: 
-      url: git://github.com/technicat/flutter_tts.git
+      url: https://github.com/technicat/flutter_tts
   freezed_annotation:
   get:
+    git: 
+      url: https://github.com/technicat/getx
   google_ml_kit:
   json_annotation: ">=4.4.0"
   material_search:
     git: 
-      url: git://github.com/technicat/material_search.git
+      url: https://github.com/technicat/material_search
   path:
   provider:
   share:
   shared_preferences:
   speech_to_text:
     git: 
-      url: git://github.com/technicat/speech_to_text.git
+      url: https://github.com/technicat/speech_to_text
       path: speech_to_text
   sprintf:
   sqflite:
   url_launcher:
   window_size:
     git: 
-      url: git://github.com/technicat/flutter-desktop-embedding.git
+      url: https://github.com/technicat/flutter-desktop-embedding
       path: plugins/window_size
 
 # run this first
