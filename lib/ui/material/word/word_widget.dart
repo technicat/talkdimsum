@@ -30,7 +30,7 @@ class WordWidget extends StatelessWidget {
                   semanticLabel: 'Play and practice this word',
                 ),
                 tooltip: 'Play and practice this word',
-                onPressed: () => Get.to(PracticeWidget(word: word)),
+                onPressed: () => Get.to (() =>  PracticeWidget(word: word)),
               ),
             ]),
         PronounceText(word: word)

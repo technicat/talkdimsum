@@ -27,6 +27,6 @@ class CategoryDishWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => GestureDetector(
-      onTap: () => Get.to(WordDishesScaffold(word: dish.word)),
+      onTap: () => Get.to (() =>  WordDishesScaffold(word: dish.word)),
       child: DishImageTextWidget(dish: dish));
 }

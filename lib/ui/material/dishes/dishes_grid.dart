@@ -33,6 +33,6 @@ class DishCardCellWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Card(
       child: InkWell(
-          onTap: () => Get.to(DishScaffold(dish: dish)),
+          onTap: () => Get.to(() => DishScaffold(dish: dish)),
           child: DishImageTextWidget(dish: dish)));
 }

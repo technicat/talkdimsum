@@ -14,7 +14,7 @@ class RegionButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => CupertinoButton(
-      onPressed: () => Get.to(RegionScaffold(region: region)),
+      onPressed: () => Get.to(() => RegionScaffold(region: region)),
       child: Text(region.name,
           textAlign: TextAlign.center,
           style: TextStyle(fontWeight: FontWeight.w500, fontSize: 18)));

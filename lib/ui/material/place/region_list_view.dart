@@ -33,7 +33,7 @@ class RegionTile extends StatelessWidget {
               fontWeight: FontWeight.w500,
               fontSize: 20,
             )),
-        onTap: () => Get.to(PlaceScaffold(region: region)),
+        onTap: () => Get.to(() => PlaceScaffold(region: region)),
         subtitle: region.places.length != 1
             ? Text('${region.places.length} restaurants')
             : Text('${region.places.length} restaurant'),

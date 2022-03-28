@@ -40,7 +40,7 @@ class SearchWord extends StatelessWidget {
                     value.chineseText().contains(reg);
               },
               onSelect: (dynamic selected) =>
-                  Get.to(WordDishesScaffold(word: selected))),
+                  Get.to(() => WordDishesScaffold(word: selected))),
           loading: (_) => LoadingText(),
           error: (_) => ErrorText(error: _.error));
     });
