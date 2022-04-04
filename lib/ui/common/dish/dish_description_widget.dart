@@ -10,6 +10,5 @@ class DishDescriptionWidget extends StatelessWidget {
   DishDescriptionWidget({Key? key, required this.dish}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) =>  Markdown(data: dish.description);
+  Widget build(BuildContext context) => Markdown(data: dish.description);
 }
-
