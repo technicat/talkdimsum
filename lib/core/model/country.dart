@@ -12,7 +12,7 @@ class Country {
 
   static Future<Country> load(String path, String filename) async {
     final json = await rootBundle
-        .loadString(path+filename + '.json')
+        .loadString(path + filename + '.json')
         .then((str) => jsonDecode(str));
     final country = Country(json['name']);
     country.regions =
