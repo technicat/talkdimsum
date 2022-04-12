@@ -36,7 +36,21 @@
         "Chinese": "茄子",
         "English": "eggplant",
         "Yale": "ké jí",
-        "Pinyin": "qié zi"
+        "Pinyin": "qié zi",
+        "resources": [
+            {
+                "name": "茄子",
+                "URL": "https://en.wiktionary.org/wiki/茄子"
+            },
+            {
+                "name": "茄",
+                "URL": "https://en.wiktionary.org/wiki/茄"
+            },
+            {
+                "name": "子",
+                "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
+            }
+        ]
     },
     {
         "Chinese": "蓮蓉",
@@ -143,7 +157,7 @@
         "resources": [
             {
                 "name": "薑",
-                "URL": "https://en.wiktionary.org/wiki/%E8%96%91"
+                "URL": "https://en.wiktionary.org/wiki/薑"
             }
         ]
     }

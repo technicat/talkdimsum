@@ -215,8 +215,68 @@
                 "URL": "https://cookingtoentertain.com/chinese-fried-garlic-pork-string-beans-%E5%B9%B2%E7%85%B8%E5%9B%9B%E5%AD%A3%E8%B1%86/"
             },
             {
+                "name": "The Rice Lover",
+                "URL": "https://www.thericelover.com/dry-fried-green-beans/"
+            },
+            {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/sichuan-dry-fried-green-beans/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "魚香茄子",
+                "Simplified": "鱼香茄子",
+                "English": "fish fragrant eggplant",
+                "Yale": "yùh hēung ké jí",
+                "Pinyin": "yú xiāng qié z",
+                "resources": [
+                    {
+                        "name": "魚香",
+                        "URL": "https://en.wiktionary.org/wiki/魚香"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/魚"
+                    },
+                    {
+                        "name": "香",
+                        "URL": "https://en.wiktionary.org/wiki/香"
+                    },
+                    {
+                        "name": "茄子",
+                        "URL": "https://en.wiktionary.org/wiki/茄子"
+                    },
+                    {
+                        "name": "茄",
+                        "URL": "https://en.wiktionary.org/wiki/茄"
+                    },
+                    {
+                        "name": "子",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "eggplantgarlic2xialongbao",
+                "place": "Pho Kim Long, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A Sichuan dish, this has no fish in it despite the name.\n\n**Characters**\n\n",
+        "tags": [
+            "新菜",
+            "素",
+            "魚香",
+            "茄子"
+        ],
+        "resources": [
+            {
+                "name": "The Rice Lover",
+                "URL": "https://www.thericelover.com/yuxiang-eggplant/"
             }
         ]
     }
