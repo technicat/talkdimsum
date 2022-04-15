@@ -32,6 +32,23 @@
       "address": "5570 W Flamingo Rd Las Vegas, NV 89103"
     },
     {
+      "title": "China Poblano",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.chinapoblano.com/"
+        },
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/china-poblano-las-vegas-6"
+        }
+      ],
+      "lat": 36.109940,
+      "lon": -115.173380,
+      "city": "Las Vegas",
+      "address": "3708 Las Vegas Blvd S Fl 2 Boulevard Tower Las Vegas, NV 89109"
+    },
+    {
       "title": "Dim Sum Cafe",
       "links": [
         {
@@ -46,7 +63,7 @@
       "lat": 36.1219621,
       "lon": -115.3141464,
       "city": "Las Vegas",
-      "address": "3700 S Hualapai Way"
+      "address": "3700 S Hualapai Way, Las Vegas, Nevada"
     },
     {
       "title": "Foods 2 Go",
