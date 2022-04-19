@@ -82,6 +82,10 @@
             "title": "Shanghai Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.dimsumshanghai.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/shanghai-restaurant-austin"
                 }
