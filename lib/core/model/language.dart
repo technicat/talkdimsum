@@ -1,7 +1,5 @@
 /* Technicat LLC */
 
-//import 'dart:io' show Platform;
-
 import 'package:get/get.dart';
 
 class Language {
@@ -9,11 +7,11 @@ class Language {
   static String locale(Chinese lang) {
     if (GetPlatform.isIOS || GetPlatform.isMacOS) {
       switch (lang) {
-        case Chinese.Cantonese:
+        case Chinese.cantonese:
           return 'zh-HK';
-        case Chinese.Mandarin:
+        case Chinese.mandarin:
           return 'zh-TW';
-        case Chinese.Simplified:
+        case Chinese.simplified:
           return 'zh-CN';
         default:
           return 'zh-HK';
@@ -21,11 +19,11 @@ class Language {
     }
     if (GetPlatform.isAndroid) {
       switch (lang) {
-        case Chinese.Cantonese:
+        case Chinese.cantonese:
           return 'yue-HK';
-        case Chinese.Mandarin:
+        case Chinese.mandarin:
           return 'zh-TW';
-        case Chinese.Simplified:
+        case Chinese.simplified:
           return 'zh-CN';
         default:
           return 'yue-HK';
@@ -33,11 +31,11 @@ class Language {
     }
     if (GetPlatform.isWindows) {
       switch (lang) {
-        case Chinese.Cantonese:
+        case Chinese.cantonese:
           return 'zh-HK';
-        case Chinese.Mandarin:
+        case Chinese.mandarin:
           return 'zh-TW';
-        case Chinese.Simplified:
+        case Chinese.simplified:
           return 'zh-CN';
         default:
           return 'zh-HK';
@@ -46,22 +44,22 @@ class Language {
     // https://www.metamodpro.com/browser-language-codes
     if (GetPlatform.isWeb) {
       switch (lang) {
-        case Chinese.Cantonese:
+        case Chinese.cantonese:
           return 'zh-hk';
-        case Chinese.Mandarin:
+        case Chinese.mandarin:
           return 'zh-tw';
-        case Chinese.Simplified:
+        case Chinese.simplified:
           return 'zh-cn';
         default:
           return 'zh-hk';
       }
     }
     switch (lang) {
-      case Chinese.Cantonese:
+      case Chinese.cantonese:
         return 'zh-hk';
-      case Chinese.Mandarin:
+      case Chinese.mandarin:
         return 'zh-tw';
-      case Chinese.Simplified:
+      case Chinese.simplified:
         return 'zh-cn';
       default:
         return 'zh-hk';
@@ -70,7 +68,7 @@ class Language {
 }
 
 enum Chinese {
-  Cantonese,
-  Mandarin,
-  Simplified,
+  cantonese,
+  mandarin,
+  simplified,
 }

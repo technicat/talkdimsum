@@ -1,7 +1,5 @@
 import 'package:flutter/cupertino.dart';
-
 import 'package:provider/provider.dart';
-
 import 'package:talkdimsum/core/provider/settings.dart';
 
 class SpeedSlider extends StatelessWidget {

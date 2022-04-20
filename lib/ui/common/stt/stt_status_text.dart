@@ -1,7 +1,5 @@
 import 'package:flutter/widgets.dart';
-
 import 'package:provider/provider.dart';
-
 import 'package:talkdimsum/core/provider/stt.dart';
 
 class STTStatusText extends StatelessWidget {

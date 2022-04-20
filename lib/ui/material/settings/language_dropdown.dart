@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-
 import 'package:provider/provider.dart';
-
 import 'package:talkdimsum/core/model/language.dart';
-
 import 'package:talkdimsum/core/provider/settings.dart';
 
 class LanguageDropdown extends StatelessWidget {
@@ -13,7 +10,8 @@ class LanguageDropdown extends StatelessWidget {
         builder: (context, settings, child) => DropdownButton<Chinese>(
             icon: Icon(Icons.language, semanticLabel: 'Choose a language'),
             value: settings.language,
-            onChanged: (value) => settings.language = value ?? Chinese.Cantonese,
+            onChanged: (value) =>
+                settings.language = value ?? Chinese.cantonese,
             // should map Chinese.values
             items: Chinese.values
                 .map((value) => DropdownMenuItem<Chinese>(

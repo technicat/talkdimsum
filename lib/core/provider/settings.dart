@@ -1,9 +1,7 @@
 /* Technicat LLC */
 
 import 'package:flutter/foundation.dart';
-
 import 'package:shared_preferences/shared_preferences.dart';
-
 import 'package:talkdimsum/core/model/language.dart';
 
 class Settings with ChangeNotifier {
@@ -16,11 +14,11 @@ class Settings with ChangeNotifier {
   void _load() async {
     prefs = await SharedPreferences.getInstance();
     language =
-        Chinese.values[prefs.getInt('language') ?? Chinese.Cantonese.index];
+        Chinese.values[prefs.getInt('language') ?? Chinese.cantonese.index];
     speed = prefs.getDouble('speed') ?? 0.5;
   }
 
-  Chinese _language = Chinese.Cantonese;
+  Chinese _language = Chinese.cantonese;
 
   Chinese get language => _language;
 

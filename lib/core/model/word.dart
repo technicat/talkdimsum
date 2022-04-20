@@ -36,13 +36,13 @@ class Word {
 
   factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);
 
-  String chineseText([Chinese lang = Chinese.Cantonese]) {
+  String chineseText([Chinese lang = Chinese.cantonese]) {
     switch (lang) {
-      case Chinese.Cantonese:
+      case Chinese.cantonese:
         return cantonese;
-      case Chinese.Mandarin:
+      case Chinese.mandarin:
         return mandarin ?? cantonese;
-      case Chinese.Simplified:
+      case Chinese.simplified:
         return simplified ?? mandarin ?? cantonese;
       default:
         return cantonese;
@@ -53,18 +53,18 @@ class Word {
     return cantonese;
   }
 
-  String pronunciation([Chinese lang = Chinese.Cantonese]) {
+  String pronunciation([Chinese lang = Chinese.cantonese]) {
     switch (lang) {
-      case Chinese.Cantonese:
+      case Chinese.cantonese:
         return yale; // todo - add switch for jyutping
-      case Chinese.Mandarin:
+      case Chinese.mandarin:
         return pinyin;
-      case Chinese.Simplified:
+      case Chinese.simplified:
         return pinyin;
       default:
         return yale;
     }
   }
 
-  String display() => '$english ${chineseText(Chinese.Cantonese)}';
+  String display() => '$english ${chineseText(Chinese.cantonese)}';
 }
