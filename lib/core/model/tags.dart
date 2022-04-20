@@ -5,7 +5,7 @@ import 'word.dart';
 
 // rename this?
 class Tags {
-  static const Path = 'assets/json/words/';
+  static const pre = 'assets/json/words/';
 
   static List<Word> words = [];
 
@@ -21,7 +21,7 @@ class Tags {
   }
 
   static Future<List<Word>> loadWords(String path) async {
-    var words = await rootBundle.loadString(Path + path + '.json').then((str) =>
+    var words = await rootBundle.loadString(pre + path + '.json').then((str) =>
         List<Word>.from(jsonDecode(str).map((json) => Word.fromJson(json))));
     return words;
   }

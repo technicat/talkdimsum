@@ -1,7 +1,6 @@
 import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter/foundation.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:json_annotation/json_annotation.dart';
 
 part 'link.g.dart';
 part 'link.freezed.dart';

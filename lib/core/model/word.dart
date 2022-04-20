@@ -1,10 +1,7 @@
 import 'dart:collection';
-
 import 'package:talkdimsum/core/model/language.dart';
-
-import 'link.dart';
-
 import 'package:json_annotation/json_annotation.dart';
+import 'link.dart';
 
 part 'word.g.dart';
 
@@ -34,15 +31,8 @@ class Word {
   @JsonKey(name: 'resources', defaultValue: [])
   final List<Link> resources;
 
-  Word(
-      this.cantonese,
-      this.mandarin,
-      this.simplified,
-      this.english,
-      this.yale,
-      this.jyutping,
-      this.pinyin,
-      this.resources);
+  Word(this.cantonese, this.mandarin, this.simplified, this.english, this.yale,
+      this.jyutping, this.pinyin, this.resources);
 
   factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);
 
