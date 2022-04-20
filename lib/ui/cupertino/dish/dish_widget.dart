@@ -5,10 +5,6 @@ import 'package:talkdimsum/ui/common/dish/dish_description_widget.dart';
 import 'package:talkdimsum/ui/common/dish/dish_tap_image_widget.dart';
 import 'package:talkdimsum/ui/cupertino/word/word_widget.dart';
 
-// todo - cupertino version
-//import 'package:talkdimsum/ui/material/dish/dish_character_menu_button.dart';
-//import 'package:talkdimsum/ui/material/dish/dish_info_menu_button.dart';
-
 import 'favorite_button.dart';
 
 class DishWidget extends StatelessWidget {
@@ -78,7 +74,6 @@ class DishCharactersButton extends StatelessWidget {
                                 child: Text(link.name)))
                       ]));
         },
-        child:
-            Icon(CupertinoIcons.book, semanticLabel: 'Links to wiktionary'));
+        child: Icon(CupertinoIcons.book, semanticLabel: 'Links to wiktionary'));
   }
 }

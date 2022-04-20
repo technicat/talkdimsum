@@ -19,7 +19,7 @@ class PracticeWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => CupertinoPageScaffold(
-      navigationBar: CupertinoNavigationBar(middle: Text('${word.english}')),
+      navigationBar: CupertinoNavigationBar(middle: Text(word.english)),
       child: SafeArea(
           child: Center(
               child: Column(children: [

@@ -12,7 +12,7 @@ class PronounceText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<Settings>(
         builder: (context, settings, child) => ExcludeSemantics(
-            child: Text('${word.pronunciation(settings.language)}',
+            child: Text(word.pronunciation(settings.language),
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 20))));
   }
 }
