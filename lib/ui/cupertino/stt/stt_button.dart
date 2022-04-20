@@ -16,7 +16,7 @@ class STTButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<Settings>(
         builder: (context, settings, child) => Consumer<STT>(
-            builder: (context, stt, child) => stt.status == STTStatus.Listening
+            builder: (context, stt, child) => stt.status == STTStatus.listening
                 ? CupertinoButton(
                     onPressed: () => stt.stop(),
                     child: Icon(CupertinoIcons.pause,

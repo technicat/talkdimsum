@@ -9,27 +9,27 @@ class STTStatusText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<STT>(builder: (context, stt, child) {
       switch (stt.status) {
-        case STTStatus.Listening:
+        case STTStatus.listening:
           {
             return Text('Listening...',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
           }
-        case STTStatus.Match:
+        case STTStatus.match:
           {
             return Text('Correct!',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
           }
-        case STTStatus.Mismatch:
+        case STTStatus.mismatch:
           {
             return Text('Wrong!',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
           }
-        case STTStatus.Stopped:
+        case STTStatus.stopped:
           {
             return Text('',
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));
           }
-        case STTStatus.Error:
+        case STTStatus.error:
           {
             return Text(stt.lastError,
                 textAlign: TextAlign.center, style: TextStyle(fontSize: 24));

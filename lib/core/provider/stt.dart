@@ -9,19 +9,19 @@ import 'package:talkdimsum/core/model/language.dart';
 import 'package:talkdimsum/core/model/word.dart';
 
 enum STTStatus {
-  NotListening,
-  Listening,
-  Match,
-  Mismatch,
-  Timeout,
-  Error,
-  Stopped
+  notListening,
+  listening,
+  match,
+  mismatch,
+  timeout,
+  error,
+  stopped
 }
 
 class STT with ChangeNotifier {
   final SpeechToText _speech = SpeechToText();
 
-  STTStatus _status = STTStatus.NotListening;
+  STTStatus _status = STTStatus.notListening;
 
   STTStatus get status => _status;
 
@@ -51,7 +51,7 @@ class STT with ChangeNotifier {
       }
     }
     if (_initialized) {
-      _status = STTStatus.Listening;
+      _status = STTStatus.listening;
       await _speech.listen(
           onResult: _resultListener,
           listenFor: Duration(seconds: 10),
@@ -67,19 +67,19 @@ class STT with ChangeNotifier {
   }
 
   void stop() {
-    _status = STTStatus.Stopped;
+    _status = STTStatus.stopped;
     _speech.stop();
     notifyListeners();
   }
 
   void _resultListener(SpeechRecognitionResult result) {
-    lastWords = '${result.recognizedWords}'; //  - ${result.finalResult}";
+    lastWords = result.recognizedWords; //  - ${result.finalResult}";
     if (lastWords == target) {
-      _status = STTStatus.Match;
+      _status = STTStatus.match;
       _speech.stop();
     }
     if (!target.startsWith(lastWords)) {
-      _status = STTStatus.Mismatch;
+      _status = STTStatus.mismatch;
       _speech.stop();
     }
     notifyListeners();
@@ -89,7 +89,7 @@ class STT with ChangeNotifier {
     //print("speech recognition error: $error");
     // if (error.permanent) {
     //  _speech.cancel();
-    _status = STTStatus.Error;
+    _status = STTStatus.error;
     switch (error.errorMsg) {
       // Android
       case 'error_audio_error':
@@ -126,7 +126,7 @@ class STT with ChangeNotifier {
   void _statusListener(String status) {
     // print(
     // "Received listener status: $status, listening: ${speech.isListening}");
-    lastStatus = '$status';
+    lastStatus = status;
     notifyListeners();
   }
 

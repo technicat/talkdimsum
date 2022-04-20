@@ -15,7 +15,7 @@ class STTButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Consumer<Settings>(
       builder: (context, settings, child) => Consumer<STT>(
-          builder: (context, stt, child) => stt.status == STTStatus.Listening
+          builder: (context, stt, child) => stt.status == STTStatus.listening
               ? MaterialButton(
                   onPressed: () => stt.stop(),
                   child:
