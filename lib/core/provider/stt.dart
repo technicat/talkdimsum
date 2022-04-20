@@ -37,7 +37,10 @@ class STT with ChangeNotifier {
     target = word.chineseText(lang);
     if (!_initialized) {
       _initialized = await _speech.initialize(
-          onStatus: _statusListener, onError: _errorListener);
+          onStatus: _statusListener,
+          onError: _errorListener,
+          debugLogging: true);
+      //  options: [SpeechToText.androidIntentLookup]);
     }
     if (_initialized) {
       _status = STTStatus.Listening;
