@@ -1,4 +1,5 @@
 import 'package:flutter/foundation.dart' show ChangeNotifier;
+import 'package:flutter/services.dart';
 
 import 'package:speech_to_text/speech_to_text.dart';
 import 'package:speech_to_text/speech_recognition_error.dart';
@@ -36,11 +37,17 @@ class STT with ChangeNotifier {
     lastWords = '';
     target = word.chineseText(lang);
     if (!_initialized) {
-      _initialized = await _speech.initialize(
-          onStatus: _statusListener,
-          onError: _errorListener,
-          debugLogging: true);
-      //  options: [SpeechToText.androidIntentLookup]);
+      try {
+        _initialized = await _speech.initialize(
+            onStatus: _statusListener,
+            onError: _errorListener,
+            debugLogging: true,
+            options: [SpeechToText.androidIntentLookup]);
+      } on PlatformException catch (e) {
+        print(e.message);
+        notifyListeners();
+        return;
+      }
     }
     if (_initialized) {
       _status = STTStatus.Listening;
