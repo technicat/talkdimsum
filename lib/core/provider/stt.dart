@@ -45,6 +45,7 @@ class STT with ChangeNotifier {
             options: [SpeechToText.androidIntentLookup]);
       } on PlatformException catch (e) {
         print(e.message);
+        lastError = e.message ?? 'platform error';
         notifyListeners();
         return;
       }
@@ -59,6 +60,7 @@ class STT with ChangeNotifier {
           cancelOnError: true,
           partialResults: true);
     } else {
+      lastError = 'Speech recognition not initialized';
       print('The user has denied the use of speech recognition.');
     }
     notifyListeners();
