@@ -4,8 +4,8 @@ import 'package:flutter_sheet_localization/flutter_sheet_localization.dart';
 
 part 'localization.g.dart';
 
-@SheetLocalization('1YfO00hGOWH4mFy5yuRXAxZ1-4WEMESyN26Sz0aWJkg8', 
-'0', 2) // <- See 1. to get DOCID and SHEETID
+@SheetLocalization('1YfO00hGOWH4mFy5yuRXAxZ1-4WEMESyN26Sz0aWJkg8', '0',
+    3) // <- See 1. to get DOCID and SHEETID
 // the `1` is the generated version. You must increment it each time you want to regenerate
 // a new version of the labels.
 class AppLocalizationsDelegate

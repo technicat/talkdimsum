@@ -26,5 +26,9 @@
   "ai": "AI",
   "@ai": {
     "description": "Recognize dim sum"
+  },
+  "listening": "Listening...",
+  "@listen": {
+    "description": "Listening for speech to text"
   }
 }
