@@ -38,16 +38,20 @@
     ],
     "resources": [
       {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/dan-dan-noodles/"
-      },
-      {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
       },
       {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/dan-dan-noodles/"
+      },
+      {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/dan-dan-noodles/"
       }
     ]
   },
