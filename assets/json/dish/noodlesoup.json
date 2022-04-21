@@ -325,6 +325,18 @@
                         "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
                     },
                     {
+                        "name": "煎蛋",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E8%9B%8B"
+                    },
+                    {
+                        "name": "煎",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
+                    },
+                    {
+                        "name": "蛋",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
+                    },
+                    {
                         "name": "麵",
                         "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
                     }
@@ -337,8 +349,9 @@
                 "place": "Noodlehead, Las Vegas, Nevada"
             }
         ],
-        "description": "**Characters**\n\n[番茄](https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E) is *wonton*, and [麵](https://en.wiktionary.org/wiki/%E9%BA%B5) is *noodles*,",
+        "description": "**Characters**\n\n[番茄](https://en.wiktionary.org/wiki/%E7%95%AA%E8%8C%84) is *eggplant*, [煎蛋](https://en.wiktionary.org/wiki/%E7%85%8E%E8%9B%8B) is *fried egg*, and [麵](https://en.wiktionary.org/wiki/%E9%BA%B5) is *noodles*,",
         "tags": [
+            "煎蛋",
             "番茄",
             "新菜",
             "湯",
