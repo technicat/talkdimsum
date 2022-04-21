@@ -8,21 +8,21 @@ import 'package:talkdimsum/core/model/word.dart';
 class TTS with ChangeNotifier {
   FlutterTts flutterTts = FlutterTts();
 
-  String uttering = '';
+  //String uttering = '';
 
   Future _say(String text, Chinese lang, double speed) async {
     await flutterTts.setSpeechRate(speed * 0.5);
     if (flutterTts.progressHandler == null) {
       flutterTts
           .setProgressHandler((String text, int start, int end, String word) {
-        uttering = word;
+        // uttering = word;
       });
     }
     var loc = Language.locale(lang);
     await flutterTts.setLanguage(loc);
     var result = await flutterTts.speak(text);
     if (result == 1) {
-      print('speaking in ' + loc);
+      //print('speaking in ' + loc);
     } else {
       print("didn't speak for some reason");
     }
