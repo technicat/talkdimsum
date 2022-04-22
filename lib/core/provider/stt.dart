@@ -21,9 +21,7 @@ enum STTStatus {
 class STT with ChangeNotifier {
   final SpeechToText _speech = SpeechToText();
 
-  STTStatus _status = STTStatus.notListening;
-
-  STTStatus get status => _status;
+  STTStatus status = STTStatus.notListening;
 
   String lastWords = '';
   String lastError = '';
@@ -45,13 +43,14 @@ class STT with ChangeNotifier {
             options: [SpeechToText.androidIntentLookup]);
       } on PlatformException catch (e) {
         print(e.message);
+        status = STTStatus.error;
         lastError = e.message ?? 'platform error';
         notifyListeners();
         return;
       }
     }
     if (_initialized) {
-      _status = STTStatus.listening;
+      status = STTStatus.listening;
       await _speech.listen(
           onResult: _resultListener,
           listenFor: Duration(seconds: 10),
@@ -67,7 +66,7 @@ class STT with ChangeNotifier {
   }
 
   void stop() {
-    _status = STTStatus.stopped;
+    status = STTStatus.stopped;
     _speech.stop();
     notifyListeners();
   }
@@ -75,11 +74,11 @@ class STT with ChangeNotifier {
   void _resultListener(SpeechRecognitionResult result) {
     lastWords = result.recognizedWords; //  - ${result.finalResult}";
     if (lastWords == target) {
-      _status = STTStatus.match;
+      status = STTStatus.match;
       _speech.stop();
     }
     if (!target.startsWith(lastWords)) {
-      _status = STTStatus.mismatch;
+      status = STTStatus.mismatch;
       _speech.stop();
     }
     notifyListeners();
@@ -89,7 +88,7 @@ class STT with ChangeNotifier {
     //print("speech recognition error: $error");
     // if (error.permanent) {
     //  _speech.cancel();
-    _status = STTStatus.error;
+    status = STTStatus.error;
     switch (error.errorMsg) {
       // Android
       case 'error_audio_error':
