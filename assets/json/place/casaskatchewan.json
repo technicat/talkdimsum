@@ -5,6 +5,10 @@
             "title": "Dragon Boat Dim Sum House",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://dragonboatdimsumhouse.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dragonboat-dimsum-house-regina"
                 }
@@ -30,10 +34,6 @@
         {
             "title": "Yip Hong's Dim Sum Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.yiphongssaskatoon.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/yip-hongs-dim-sum-restaurant-saskatoon-2"
