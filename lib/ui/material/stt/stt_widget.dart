@@ -19,6 +19,7 @@ class STTWidget extends StatelessWidget {
       STTStatusText(),
       STTText(),
       STTButton(word: word),
+      // todo - add link to Google app to install/enable
       MaterialButton(
         onPressed: () => AppSettings.openAppSettings(),
         child: Text('Permissions'),
