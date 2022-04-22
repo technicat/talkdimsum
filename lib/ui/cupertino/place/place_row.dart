@@ -1,10 +1,8 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
-
 import 'package:talkdimsum/core/model/place.dart';
 import 'package:talkdimsum/core/model/region.dart';
-
 import 'package:talkdimsum/ui/common/place/place_widget.dart';
 
 class PlaceRow extends StatelessWidget {

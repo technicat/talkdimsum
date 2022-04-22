@@ -2,7 +2,6 @@ import 'package:flutter/foundation.dart';
 import 'package:share/share.dart';
 import 'package:sprintf/sprintf.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:json_annotation/json_annotation.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 import 'link.dart';
