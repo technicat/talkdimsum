@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:app_settings/app_settings.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
 
@@ -7,6 +6,7 @@ import 'package:talkdimsum/ui/common/stt/stt_text.dart';
 import 'package:talkdimsum/ui/common/stt/stt_status_text.dart';
 
 import 'stt_button.dart';
+import 'permissions_button.dart';
 
 class STTWidget extends StatelessWidget {
   final Word word;
@@ -20,10 +20,7 @@ class STTWidget extends StatelessWidget {
       STTText(),
       STTButton(word: word),
       // todo - add link to Google app to install/enable
-      MaterialButton(
-        onPressed: () => AppSettings.openAppSettings(),
-        child: Text('Permissions'),
-      )
+      PermissionsButton()
     ]);
   }
 }
