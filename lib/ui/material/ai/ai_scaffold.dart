@@ -1,20 +1,14 @@
 /* Technicat LLC */
 
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-import 'dart:async';
-import 'package:camera/camera.dart';
+//import 'dart:async';
+//import 'package:camera/camera.dart';
 
 class AIScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
-        appBar: AppBar(
-            title: Text(AppLocalizations.of(context)!.ai),
-            actions: <Widget>[
-             
-            ]),
-      
+        appBar: AppBar(title: Text('AI'), actions: <Widget>[]),
       );
 }
 

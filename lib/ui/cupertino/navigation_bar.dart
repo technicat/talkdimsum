@@ -1,7 +1,6 @@
 /* Technicat LLC */
 
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 import 'dishes/categories_scaffold.dart';
 import 'dishes/search_word_scaffold.dart';
@@ -15,32 +14,35 @@ class MyNavigationBar extends StatelessWidget {
       tabBar: CupertinoTabBar(
         items: [
           BottomNavigationBarItem(
-            tooltip: 'Browse dishes',
-              icon: Icon(CupertinoIcons.home,), // semanticLabel: 'Browse dishes'),
-              label: AppLocalizations.of(context)!.dishes),
+              tooltip: 'Browse dishes',
+              icon: Icon(
+                CupertinoIcons.home,
+              ), // semanticLabel: 'Browse dishes'),
+              label: 'Dishes'),
           BottomNavigationBarItem(
-            tooltip: 'Search dishes',
-              icon: Icon(CupertinoIcons.search), //semanticLabel: 'Search dishes'),
-              label: AppLocalizations.of(context)!.search),
+              tooltip: 'Search dishes',
+              icon: Icon(
+                  CupertinoIcons.search), //semanticLabel: 'Search dishes'),
+              label: 'Search'),
           BottomNavigationBarItem(
               tooltip: 'Browse your favorite dishes',
               icon: Icon(
                 CupertinoIcons.heart,
               ),
               //  semanticLabel: 'Browse your favorite dishes'),
-              label: AppLocalizations.of(context)!.favorites),
+              label: 'Favorites'),
           BottomNavigationBarItem(
               tooltip: 'Learn Chinese phrases',
               icon: Icon(
                 CupertinoIcons.chat_bubble,
               ),
               // semanticLabel: 'Learn Chinese phrases'),
-              label: AppLocalizations.of(context)!.phrases),
+              label: 'Phrases'),
           BottomNavigationBarItem(
               tooltip: 'Find dim sum restaurants',
               icon: Icon(CupertinoIcons.map),
               //  semanticLabel: 'Find dim sum restaurants'),
-              label: AppLocalizations.of(context)!.places),
+              label: 'Places'),
         ],
       ),
       tabBuilder: (BuildContext context, int index) {
