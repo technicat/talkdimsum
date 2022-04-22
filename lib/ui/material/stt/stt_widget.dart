@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
 import 'package:talkdimsum/core/model/word.dart';
-
 import 'package:talkdimsum/ui/common/stt/stt_text.dart';
 import 'package:talkdimsum/ui/common/stt/stt_status_text.dart';
 
 import 'stt_button.dart';
 import 'permissions_button.dart';
+import 'google_button.dart';
 
 class STTWidget extends StatelessWidget {
   final Word word;
@@ -19,8 +19,8 @@ class STTWidget extends StatelessWidget {
       STTStatusText(),
       STTText(),
       STTButton(word: word),
-      // todo - add link to Google app to install/enable
-      PermissionsButton()
+      PermissionsButton(),
+      GoogleButton()
     ]);
   }
 }

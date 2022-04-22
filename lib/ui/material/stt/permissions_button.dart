@@ -6,7 +6,7 @@ class PermissionsButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialButton(
       onPressed: () => AppSettings.openAppSettings(),
-      child: Text('Permissions'),
+      child: Text('Enable permissions'),
     );
   }
 }
