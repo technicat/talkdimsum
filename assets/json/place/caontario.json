@@ -339,6 +339,10 @@
             "title": "Hung Sum Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.hungsum.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hung-sum-restaurant-ottawa-2"
                 }
@@ -364,23 +368,6 @@
             "lon": -75.704500,
             "city": "Ottawa",
             "address": "625 Somerset Street W, Ottawa, ON K1R 5K3"
-        },
-        {
-            "title": "Oriental Chu Shing Restaurant",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://orientalchushing.com"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/oriental-chu-shing-restaurant-ottawa-2"
-                }
-            ],
-            "lat": 45.411140,
-            "lon": -75.707000,
-            "city": "Ottawa",
-            "address": "691 Somerset Street W, Ottawa, ON K1R 6P5"
         },
         {
             "title": "Sea King Shark Fin Seafood",
@@ -430,23 +417,6 @@
             "address": "870 Somerset Street W, Ottawa, ON K1R 6R7"
         },
         {
-            "title": "Yimin Dim Sum House",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.yimindimsumhouse.com"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/yimin-dim-sum-house-ottawa-2"
-                }
-            ],
-            "lat": 45.408540,
-            "lon": -75.712790,
-            "city": "Ottawa",
-            "address": "870 Somerset Street W, Ottawa, ON K1R 6R7"
-        },
-        {
             "title": "Golden Court Restaurant",
             "links": [
                 {
@@ -466,6 +436,10 @@
         {
             "title": "Lobster Port No.1",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.lobsterportone.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lobster-port-no1-richmond-hill"
@@ -510,10 +484,6 @@
             "title": "Ma Chinese Cuisine",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://machinesecuisine.com"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ma-chinese-cuisine-saint-catharines"
                 }
@@ -526,10 +496,6 @@
         {
             "title": "Casa Deluz Banquet Hall",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://casa.casadeluzveryfair.com/gallery/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.ca/biz/casa-deluz-banquet-hall-toronto"
@@ -560,10 +526,6 @@
         {
             "title": "Fountain Cuisine",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.fountaincuisine.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.ca/biz/fountain-cuisine-scarborough"
