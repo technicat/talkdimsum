@@ -78,6 +78,10 @@
             "title": "Westview Oriental Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.westviewchinese.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/westview-oriental-restaurant-north-vancouver"
                 }
@@ -108,10 +112,6 @@
             "title": "Clubone Cafe",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.clubonecafe.com"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/clubone-cafe-richmond"
                 }
@@ -124,6 +124,10 @@
         {
             "title": "Continental Seafood Restaurant",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.continentalrestaurant.ca/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/continental-seafood-restaurant-richmond"
