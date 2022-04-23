@@ -641,29 +641,8 @@
             "address": "1895 Hastings Street E, Vancouver, BC V5L 1T3"
         },
         {
-            "title": "Peninsula Seafood Restaurant",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.bandao.ca"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/peninsula-seafood-restaurant-vancouver-2"
-                }
-            ],
-            "lat": 49.232070,
-            "lon": -123.118850,
-            "city": "Vancouver",
-            "address": "650 W 41st Avenue Unit 140 Vancouver, BC V5Z 2M9"
-        },
-        {
             "title": "Pink Pearl Chinese Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.pinkpearl.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/pink-pearl-chinese-restaurant-vancouver"
@@ -721,6 +700,10 @@
             "title": "Sun Sui Wah Seafood Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://www.sunsuiwah.ca/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/sun-sui-wah-seafood-restaurant-vancouver-2"
                 }
@@ -759,6 +742,10 @@
         {
             "title": "Victoria Chinese Restaurant",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.victoriachineserestaurant.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/victoria-chinese-restaurant-vancouver-2"
