@@ -588,6 +588,10 @@
             "title": "Kam Wai Dim Sum",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://www.kamwaidimsum.ca/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/kam-wai-dim-sum-vancouver"
                 }
@@ -611,19 +615,6 @@
             "address": "1172 Alberni Street Vancouver, BC V6E 3Z3"
         },
         {
-            "title": "Lucky Dragon Palace Restaurant",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/lucky-dragon-palace-restaurant-vancouver"
-                }
-            ],
-            "lat": 49.230670,
-            "lon": -123.065770,
-            "city": "Vancouver",
-            "address": "5822 Victoria Drive Vancouver, BC V5P 3W5"
-        },
-        {
             "title": "New Mandarin Seafood Restaurant",
             "links": [
                 {
@@ -639,10 +630,6 @@
         {
             "title": "Pelican Seafood Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.pelican-restaurant.com"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/pelican-seafood-restaurant-vancouver"
