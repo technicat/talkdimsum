@@ -630,10 +630,6 @@
             "title": "Dim Sum Queen",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://www.dimsumqueen.ca"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dim-sum-queen-toronto-2"
                 }
@@ -708,7 +704,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://kwandimsum.ca"
+                    "URL": "http://kwan-dimsum.ca"
                 },
                 {
                     "name": "Yelp",
@@ -719,23 +715,6 @@
             "lon": -79.394660,
             "city": "Toronto",
             "address": "1496 Yonge Street, Toronto, ON M4T 1Z6"
-        },
-        {
-            "title": "Kwan Dim Sum Express",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.kwan-dimsum.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.ca/biz/kwan-dim-sum-express-toronto-2"
-                }
-            ],
-            "lat": 43.776300,
-            "lon": -79.258020,
-            "city": "Toronto",
-            "address": "300 Borough Drive, Toronto, ON M1P 4P5"
         },
         {
             "title": "Kwan at York Mills",
@@ -757,6 +736,10 @@
         {
             "title": "Lai Wah Heen",
             "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.laiwahheen.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lai-wah-heen-toronto"
