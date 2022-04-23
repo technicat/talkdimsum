@@ -18,7 +18,7 @@
             "title": "Bill's Peking House",
             "links": [
                 {
-                    "name": "Yelp",
+                    "name": "site",
                     "URL": "http://billspeking.ca/"
                 },
                 {
@@ -87,6 +87,10 @@
             "title": "Forbidden City Dim Sum & Seafood",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "http://www.tasteofasiagroup.ca/#forbidden"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/forbidden-city-dim-sum-and-seafood-restaurant-calgary"
                 }
@@ -99,6 +103,10 @@
         {
             "title": "Ginger Beef Bistro House",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.gingerbeef.com/our-locations/ginger-beef-bistro-house/country-hills"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ginger-beef-bistro-house-calgary"
