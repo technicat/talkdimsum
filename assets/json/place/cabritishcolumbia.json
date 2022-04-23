@@ -281,21 +281,12 @@
             "address": "8171 Ackroyd Road Suite 100 Richmond, BC V6X 3K1"
         },
         {
-            "title": "Parklane Chinese Restaurant",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/parklane-chinese-restaurant-richmond"
-                }
-            ],
-            "lat": 49.170170,
-            "lon": -123.136390,
-            "city": "Richmond",
-            "address": "7997 Westminster Hwy Richmond, BC V6X 1A4"
-        },
-        {
             "title": "Red Star Seafood Restaurant",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.redstarvancouver.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/red-star-seafood-restaurant-richmond"
