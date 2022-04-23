@@ -118,19 +118,6 @@
             "address": "400-388 Country Hills Blvd NW Calgary, AB T3K 5J6"
         },
         {
-            "title": "Golden Central",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/golden-central-calgary"
-                }
-            ],
-            "lat": 51.109110,
-            "lon": -114.062530,
-            "city": "Calgary",
-            "address": "5016 Centre Street NE Calgary, AB T2K"
-        },
-        {
             "title": "U & Me Restaurant",
             "links": [
                 {
@@ -146,6 +133,10 @@
         {
             "title": "Central Grand Restaurant",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.centralgrand.ca/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/central-grand-restaurant-calgary"
