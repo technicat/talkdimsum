@@ -161,23 +161,6 @@
             "address": "10400 Macleod Trail SE Calgary, AB T2J 0P8"
         },
         {
-            "title": "Phoenix Kitchen Lounge",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.phoenixkitchen.ca"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/phoenix-kitchen-lounge-calgary-2"
-                }
-            ],
-            "lat": 51.115980,
-            "lon": -114.205440,
-            "city": "Calgary",
-            "address": "8060 Silver Springs Boulevard NW Suite 140 Calgary, AB T3B 5K1"
-        },
-        {
             "title": "T. Pot China Bistro",
             "links": [
                 {
@@ -257,6 +240,10 @@
         {
             "title": "Golden Rice Bowl",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://goldenricebowl.ca/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/golden-rice-bowl-edmonton"
