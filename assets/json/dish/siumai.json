@@ -10,15 +10,15 @@
                 "resources": [
                     {
                         "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/燒賣"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
                     },
                     {
                         "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/燒"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
                     },
                     {
                         "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/賣"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
                     }
                 ]
             }
@@ -49,6 +49,10 @@
             {
                 "name": "No Recipes",
                 "URL": "https://norecipes.com/shumai-recipe/"
+            },
+            {
+                "name": "Nom Life",
+                "URL": "https://www.lifeofnoms.com/blog/siumai"
             },
             {
                 "name": "Wikipedia",
