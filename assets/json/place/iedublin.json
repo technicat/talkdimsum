@@ -7,6 +7,10 @@
                 {
                     "name": "site",
                     "URL": "https://www.goodworld.ie/"
+                },
+                {
+                    "name": "Restaurant Guru",
+                    "URL": "https://restaurantguru.com/Good-World-Restaurant-Dublin"
                 }
             ],
             "lat": 53.342830,
@@ -17,6 +21,10 @@
         {
             "title": "Kashing",
             "links": [
+                {
+                    "name": "Restaurant Guru",
+                    "URL": "https://restaurantguru.com/Ka-Shing-Dublin"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ka-shing-dublin"
