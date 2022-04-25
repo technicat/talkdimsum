@@ -2,6 +2,19 @@
     "name": "Dublin",
     "places": [
         {
+            "title": "Goodworld",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.goodworld.ie/"
+                }
+            ],
+            "lat": 53.342830,
+            "lon": -6.264200,
+            "city": "Dublin",
+            "address": "18 South Great George's Street, Dublin 2, D02 AE10"
+        },
+        {
             "title": "Kashing",
             "links": [
                 {
