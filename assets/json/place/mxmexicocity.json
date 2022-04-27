@@ -5,6 +5,10 @@
             "title": "Asian Bay",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.asian-bay.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/asian-bay-méxico"
                 }
@@ -22,6 +26,10 @@
                     "URL": "https://www.goodfoodmexico.com/home/orient-express-dim-sum-at-jing-teng"
                 },
                 {
+                    "name": "Tripadvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g150800-d15632386-Reviews-Jing_Teng-Mexico_City_Central_Mexico_and_Gulf_Coast.html"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/jing-teng-méxico"
                 }
@@ -34,6 +42,10 @@
         {
             "title": "Ka Won Seng",
             "links": [
+                {
+                    "name": "Restaurant Guru",
+                    "URL": "https://restaurantguru.com/Ka-Won-Seng-Mexico-City"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ka-won-seng-méxico"
