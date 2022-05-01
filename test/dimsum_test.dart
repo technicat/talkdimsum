@@ -7,7 +7,6 @@ void main() {
   test('loading dim sum', () async {
     var dim = DimSum();
     await dim.loadDishes();
-    expect(dim.dishes.isNotEmpty, true);
     await dim.loadCategories();
     expect(dim.categories.isNotEmpty, true);
   });

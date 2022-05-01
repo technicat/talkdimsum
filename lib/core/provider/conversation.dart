@@ -9,14 +9,14 @@ import 'package:talkdimsum/core/model/phrases.dart';
 
 final phrasesProvider = FutureProvider((ref) async {
   var con = Conversation();
-  await con._load();
+  await con.load();
   return con;
 });
 
 class Conversation with ChangeNotifier {
   List<Phrases> phrases = [];
 
-  _load() async {
+  load() async {
     // print("loading phrases...");
     //  if (phrases.isEmpty) {
     var categories = await rootBundle
