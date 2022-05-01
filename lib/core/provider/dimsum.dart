@@ -18,7 +18,7 @@ import 'package:talkdimsum/core/model/word.dart';
 // should split into providers for categories, favorites, etc.
 final dimsumProvider = FutureProvider((ref) async {
   var dim = DimSum();
-  await (dim._load());
+  await (dim.load());
   return dim;
 });
 
@@ -57,14 +57,14 @@ class DimSum with ChangeNotifier {
 
   List<String> _categories = [];
 
-  _load() async {
-    await _loadDishes();
-    await _loadCategories();
-    await _loadFavorites();
+  load() async {
+    await loadDishes();
+    await loadCategories();
+    await loadFavorites();
     Tags.load();
   }
 
-  _loadDishes() async {
+  loadDishes() async {
     final dishfiles = await rootBundle
         .loadString('assets/json/dish/dishes.json')
         .then((str) => List<String>.from(jsonDecode(str)));
@@ -80,7 +80,7 @@ class DimSum with ChangeNotifier {
     notifyListeners();
   }
 
-  _loadCategories() async {
+  loadCategories() async {
     _categories = await rootBundle
         .loadString('assets/json/dish/categories.json')
         .then((str) => List<String>.from(jsonDecode(str)));
@@ -114,7 +114,7 @@ class DimSum with ChangeNotifier {
     );
   }
 
- /* bool isFavorite(Dish dish) {
+  /* bool isFavorite(Dish dish) {
     return favorites.contains(dish);
   } */
 
@@ -145,7 +145,7 @@ class DimSum with ChangeNotifier {
     }
   }
 
-  _loadFavorites() async {
+  loadFavorites() async {
     final db = await database();
     final maps = await db.query(table);
     favorites = RxList(maps
