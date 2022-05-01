@@ -69,6 +69,8 @@ dependencies:
 # flutter pub run build_runner build --delete-conflicting-outputs
 
 dev_dependencies:
+  flutter_test:
+    sdk: flutter
 #  flutter_sheet_localization_generator:  ">=5.1.7"
   flutter_launcher_icons:
   build_runner:
