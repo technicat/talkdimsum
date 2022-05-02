@@ -17,7 +17,9 @@ class Tags {
     for (var list in dishlists) {
       words.addAll(await list);
     }
-    words.forEach((word) => Word.add(word));
+    for (var word in words) {
+      Word.add(word);
+    }
   }
 
   static Future<List<Word>> loadWords(String path) async {
