@@ -2,6 +2,19 @@
     "name": "East Java",
     "places": [
         {
+            "title": "Imperial Kitchen & Dimsum, Pakuwon Mall",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -7.285358978765293,
+            "lon":  112.67528537157978,
+            "city": "Surabaya",
+            "address": "Pakuwon Mall LT. 2M, Unit 08, Jl. Puncak Indah Lontar No.2 Babatan, Wiyung, Surabaya 60261"
+        },
+        {
             "title": "Imperial Kitchen & Dimsum, Tunjungan Plaza",
             "links": [
                 {
