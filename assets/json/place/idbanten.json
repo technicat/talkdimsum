@@ -26,6 +26,19 @@
             "lon": 106.60735442028057,
             "city": "Tangerang",
             "address": "Supermal Karawaci, UG Unit UG #21, 105 Boulevard Diponogoro Lippo Karawaci, Tangerang 15810"
+        },
+        {
+            "title": "Imperial Kitchen",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.285348579921379, 
+            "lon": 106.72802108391502, 
+            "city": "Tangerang Selatan",
+            "address": "Bintaro Xchange, 1st Floor No. 414, Jl. Boulevard Blok 2, Bintaro Jaya Sektor 7, Tangerang Selatan 15227"
         }
     ]
 }
