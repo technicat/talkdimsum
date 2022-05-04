@@ -1,0 +1,31 @@
+{
+    "name": "West Java",
+    "places": [
+        {
+            "title": "Imperial Kitchen & Dimsum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.38594469361968, 
+            "lon": 106.826224041216, 
+            "city": "Depok",
+            "address": "D-Mall Depok, GF Unit G.5, Jl. Margonda Raya Kav.88, Kota Depok 16243"
+        },
+        {
+            "title": "Imperial Kitchen & Dimsum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.371187905049732, 
+            "lon": 106.83480711007472, 
+            "city": "Depok",
+            "address": "Margo City Depok 2nd Floor Unit Fl 2-09, Jl. Margonda Raya No.358, Depok"
+        }
+    ]
+}
