@@ -16,7 +16,7 @@
             "lat": -6.304903,
             "lon": 106.643641,
             "city": "BSD City",
-            "address": "Aeon Mall, 3rd Floor, Unit 3F No. 41-42, Food Carnival, Jl. BSD Raya Utama, BSD City, , 15345"
+            "address": "Aeon Mall, 3rd Floor, Unit 3F No. 41-42, Food Carnival, Jl. BSD Raya Utama, BSD City, 15345"
         },
         {
             "title": "Imperial Kitchen",
@@ -107,7 +107,20 @@
             "lat": -6.136032,
             "lon": 106.826205,
             "city": "Mangga Dua",
-            "address": "Hotel Le Grandeur Lt 3, Jl. Mangga Dua Raya , Mangga Dua, , 10730"
+            "address": "Hotel Le Grandeur Lt 3, Jl. Mangga Dua Raya , Mangga Dua, 10730"
+        },
+        {
+            "title": "Imperial Kitchen",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.268982,
+            "lon": 106.832082,
+            "city": "Pejaten Village",
+            "address": "2nd Floor Unit 2-57, Jl. Warung jati Barat No.39, Pasar Minggu, Jakarta Selatan"
         },
         {
             "title": "May Star",
