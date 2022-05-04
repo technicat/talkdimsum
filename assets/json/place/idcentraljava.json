@@ -2,7 +2,20 @@
     "name": "Central Java",
     "places": [
         {
-            "title": "Imperial Kitchen & Dimsum, Pakuwon Mall",
+            "title": "Imperial Kitchen & Dimsum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -7.599347266088231, 
+            "lon": 110.8165764858304,
+            "city": "Sukoharjo Solo",
+            "address": "The Park Solo Unit F#33 dan FO#30, Jl. Ir. Soekarno Solo Baru, Sukoharjo Solo, Jawa Tengah"
+        },
+        {
+            "title": "Imperial Kitchen & Dimsum",
             "links": [
                 {
                     "name": "site",
