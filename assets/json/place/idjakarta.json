@@ -2,6 +2,71 @@
     "name": "Jakarta",
     "places": [
         {
+            "title": "Golden Sense",
+            "links": [
+                {
+                    "name": "Zomato",
+                    "URL": "https://www.zomato.com/jakarta/golden-sense-mangga-dua"
+                }
+            ],
+            "lat": -6.138663,
+            "lon": 106.831741,
+            "city": "Central Jakarta",
+            "address": "Mangga Dua Square, Jl. Gunung Sahari No. 1, Gunung Sahari"
+        },
+        {
+            "title": "Imperial Kitchen, Transmart Carrefour Cempaka Putih",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.16741766849537,
+            "lon": 106.87745577669611,
+            "city": "Central Jakarta",
+            "address": "Transmart Carrefour Cempaka Putih GF 08 & 09, Jl. Jend. Ahmad Yani, No.83, Cempaka Putih, Jakarta Pusat 10510"
+        },
+        {
+            "title": "Imperial Kitchen, Citywalk Duriman",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.209150,
+            "lon": 106.818148,
+            "city": "Central Jakarta",
+            "address": "GF #10-12, Jl. Jend. Sudirman Kav. 21, Jakarta 12920"
+        },
+        {
+            "title": "Imperial Kitchen, Plaza Atrium",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.175639651376204, 
+            "lon": 106.84158789860196,
+            "city": "Central Jakarta",
+            "address": "Plaza Atrium GF - 32, Jl. Senen Raya No.135, Jakarta 10410"
+        },
+        {
+            "title": "Sun City",
+            "links": [
+                {
+                    "name": "FourSquare",
+                    "URL": "https://foursquare.com/v/sun-city-restaurant-and-luxury-club/4d5118c09b27721e1722b446"
+                }
+            ],
+            "lat": -6.155221,
+            "lon": 106.818225,
+            "city": "Central Jakarta",
+            "address": "Lindeteves Trade Centre, 5th Floor, Jl. Hayam Wuruk No. 127, Hayam Wuruk, 11180"
+        },
+        {
             "title": "Tim Ho Wan",
             "links": [
                 {
@@ -23,73 +88,47 @@
             ],
             "lat": -6.195236,
             "lon": 106.819940,
-            "city": "Jakarta",
+            "city": "Central Jakarta",
             "address": "Ruko Crown Golf, Blok D No. 8 - 10, Bukit Golf Mediterania, Jl. Cluster Marina Indah Raya, Pantai Indah Kapuk, 14470"
         },
         {
-            "title": "Imperial Kitchen & Dimsum, Mall Ciputra",
+            "title": "Imperial Kitchen & Dimsum, Cibubur Junction",
             "links": [
                 {
                     "name": "site",
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.168179,
-            "lon": 106.786799,
-            "city": "Grogol",
-            "address": "Mall Ciputra, Lower Ground Floor, Unit LG - 52, Jl. Arteri S. Parman, Grogol, Jakarta Barat, 11470"
+            "lat": -6.366188716557903,
+            "lon": 106.88895702624332,
+            "city": "East Jakarta",
+            "address": "Flavor Junction GF Unit AE 1#T 05 & 06, Jl. Jambore No. 1 Cibubur"
         },
         {
-            "title": "Golden Sense",
-            "links": [
-                {
-                    "name": "Zomato",
-                    "URL": "https://www.zomato.com/jakarta/golden-sense-mangga-dua"
-                }
-            ],
-            "lat": -6.138663,
-            "lon": 106.831741,
-            "city": "Gunung Sahari",
-            "address": "Mangga Dua Square, Jl. Gunung Sahari No. 1, Gunung Sahari"
-        },
-        {
-            "title": "Sun City",
-            "links": [
-                {
-                    "name": "FourSquare",
-                    "URL": "https://foursquare.com/v/sun-city-restaurant-and-luxury-club/4d5118c09b27721e1722b446"
-                }
-            ],
-            "lat": -6.155221,
-            "lon": 106.818225,
-            "city": "Hayam Wuruk",
-            "address": "Lindeteves Trade Centre, 5th Floor, Jl. Hayam Wuruk No. 127, Hayam Wuruk, 11180"
-        },
-        {
-            "title": "Imperial Kitchen, Citywalk Duriman",
+            "title": "Imperial Kitchen & Dimsum, Lulu Hypermarket",
             "links": [
                 {
                     "name": "site",
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.209150,
-            "lon": 106.818148,
-            "city": "Karet",
-            "address": "Citywalk Sudirman, GF, Jl. KH. Mas Mansyur No. 121, Karet"
+            "lat": -6.186545059099387,
+            "lon": 106.94937491305924,
+            "city": "East Jakarta",
+            "address": "Lulu Hypermarket Blok G - 02, Plaza Taman Modern, Jl. Raya Bekasi KM 24, Ujung Menteng Cakung"
         },
         {
-            "title": "Imperial Kitchen",
+            "title": "Imperial Kitchen & Dimsum, Mall@Basura",
             "links": [
                 {
                     "name": "site",
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.224862,
-            "lon": 106.830604,
-            "city": "Kuningan",
-            "address": "Kuningan City, 3rd Floor, Unit L3 - 05, Jl. Prof. Dr. Satrio Kav. 18, Kuningan"
+            "lat": -6.223633644015336,
+            "lon": 106.87809212077197,
+            "city": "East Jakarta",
+            "address": "Mall @ Basura GF Unit RE 30 - 32, Jalan Basuki Rahmat No 1A, Jakarta Timur 13410"
         },
         {
             "title": "May Star",
@@ -101,7 +140,7 @@
             ],
             "lat": -6.136032,
             "lon": 106.826205,
-            "city": "Mangga Dua",
+            "city": "North Jakarta",
             "address": "Hotel Le Grandeur Lt 3, Jl. Mangga Dua Raya , Mangga Dua, 10730"
         },
         {
@@ -114,7 +153,7 @@
             ],
             "lat": -6.127366,
             "lon": 106.791023,
-            "city": "Pluit",
+            "city": "North Jakarta",
             "address": "Emporium Pluit Mall, Lantai 4, Jl. Pluit Selatan Raya Blok S - 6 Kawasan CBD, Pluit, 14440"
         },
         {
@@ -131,19 +170,6 @@
             "address": "Central Park, LG, No. 103 - 103 A, Jl. Letjen. S. Parman Kav. 28, Slipi, 11470"
         },
         {
-            "title": "Imperial Kitchen, Transmart Carrefour Cempaka Putih",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
-                }
-            ],
-            "lat": -6.16741766849537, 
-            "lon": 106.87745577669611,
-            "city": "Jakarta Pusat",
-            "address": "Transmart Carrefour Cempaka Putih GF 08 & 09, Jl. Jend. Ahmad Yani, No.83, Cempaka Putih, Jakarta Pusat 10510"
-        },
-        {
             "title": "Imperial Kitchen, Town Square Cilandak",
             "links": [
                 {
@@ -151,9 +177,9 @@
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.2918848300993755, 
+            "lat": -6.2918848300993755,
             "lon": 106.80095686666549,
-            "city": "Jakarta Selatan",
+            "city": "South Jakarta",
             "address": "Town Square Cilandak GF Unit B.046 A & B, Jl. TB Simatupang Kav.17, Jakarta Selatan"
         },
         {
@@ -164,9 +190,9 @@
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.28761949529739, 
-            "lon": 106.77635798075202, 
-            "city": "Jakarta Selatan",
+            "lat": -6.28761949529739,
+            "lon": 106.77635798075202,
+            "city": "South Jakarta",
             "address": "Carrefour Lebak Bulus GF Unit G-09, Jl. Lebak Bulus Raya No.8, Jakarta Selatan"
         },
         {
@@ -177,9 +203,9 @@
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.244213783886514, 
+            "lat": -6.244213783886514,
             "lon": 106.78201082619697,
-            "city": "Jakarta Selatan",
+            "city": "South Jakarta",
             "address": "Gandaria City Mall #LG 37-39 Jl. Sultan Iskandar Muda Kav. 5-8, Kebayoran Lama Utara, Jakarta Selatan 12240"
         },
         {
@@ -190,9 +216,9 @@
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.220929803966762, 
+            "lat": -6.220929803966762,
             "lon": 106.84326904650264,
-            "city": "Jakarta Selatan",
+            "city": "South Jakarta",
             "address": "Kota Kasablanka LG Floor Unit 3A & 32C, Jl. Casablanca Raya Kav. 88, Jakarta Selatan 12870"
         },
         {
@@ -203,9 +229,9 @@
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.303830121781868, 
+            "lat": -6.303830121781868,
             "lon": 106.79506577396667,
-            "city": "Jakarta Selatan",
+            "city": "South Jakarta",
             "address": "One Belpark 1st Floor Unit 12 Jl. RS. Fatmawati No.1, Pondok Labu Cilandak Jakarta Selatan 12450"
         },
         {
@@ -218,7 +244,7 @@
             ],
             "lat": -6.268982,
             "lon": 106.832082,
-            "city": "Jakarta Selatan",
+            "city": "South Jakarta",
             "address": "Pejaten Village, 2nd Floor Unit 2-57, Jl. Warung jati Barat No.39, Pasar Minggu, Jakarta Selatan"
         },
         {
@@ -229,49 +255,23 @@
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.300662452157576, 
+            "lat": -6.300662452157576,
             "lon": 106.81426488671734,
-            "city": "Jakarta Selatan",
+            "city": "South Jakarta",
             "address": "Transmart Cilandak, 1st Floor Unit 19 & 20, Jl.Raya Cilandak KKO, Jakarta Selatan"
         },
         {
-            "title": "Imperial Kitchen & Dimsum, Cibubur Junction",
+            "title": "Imperial Kitchen & Dimsum, Mall Ciputra",
             "links": [
                 {
                     "name": "site",
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.366188716557903, 
-            "lon": 106.88895702624332,
-            "city": "Jakarta Timur",
-            "address": "Flavor Junction GF Unit AE 1#T 05 & 06, Jl. Jambore No. 1 Cibubur"
-        },
-        {
-            "title": "Imperial Kitchen & Dimsum, Lulu Hypermarket",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
-                }
-            ],
-            "lat": -6.186545059099387, 
-            "lon": 106.94937491305924, 
-            "city": "Jakarta Timur",
-            "address": "Lulu Hypermarket Blok G - 02, Plaza Taman Modern, Jl. Raya Bekasi KM 24, Ujung Menteng Cakung"
-        },
-        {
-            "title": "Imperial Kitchen & Dimsum, Mall@Basura",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
-                }
-            ],
-            "lat": -6.223633644015336, 
-            "lon": 106.87809212077197,
-            "city": "Jakarta Timur",
-            "address": "Mall @ Basura GF Unit RE 30 - 32, Jalan Basuki Rahmat No 1A, Jakarta Timur 13410"
+            "lat": -6.168179,
+            "lon": 106.786799,
+            "city": "West Jakarta",
+            "address": "Mall Ciputra, Lower Ground Floor, Unit LG - 52, Jl. Arteri S. Parman, Grogol, Jakarta Barat, 11470"
         }
     ]
 }
