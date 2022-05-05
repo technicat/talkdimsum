@@ -273,6 +273,32 @@
             "lon": 106.83480711007472, 
             "city": "Depok",
             "address": "Margo City Depok 2nd Floor Unit Fl 2-09, Jl. Margonda Raya No.358, Depok"
+        },
+        {
+            "title": "Imperial Kitchen & Dimsum, Karawang Central Plaza",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.326221559754655, 
+            "lon": 107.29288096192771,
+            "city": "Karawang",
+            "address": "Karawang Central Plaza GF Unit A-08, Jl. Galuh Mas Raya, Sukaharja Karawang 41361"
+        },
+        {
+            "title": "Imperial Kitchen & Dimsum, Resinda Park Mall",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.301217588983022, 
+            "lon": 107.27754811698047, 
+            "city": "Karawang",
+            "address": "Resinda Park Mall 2nd Floor Unit 5 - 6, Jl. Resinda Raya No.2 Purwadana Karawang"
         }
     ]
 }
