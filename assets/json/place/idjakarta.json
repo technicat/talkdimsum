@@ -2,7 +2,7 @@
     "name": "Jakarta",
     "places": [
         {
-            "title": "Imperial Kitchen",
+            "title": "Imperial Kitchen & Dimsum",
             "links": [
                 {
                     "name": "site",
@@ -15,7 +15,7 @@
             "address": "Flavor Junction GF Unit AE 1#T 05 & 06, Jl. Jambore No. 1 Cibubur"
         },
         {
-            "title": "Imperial Kitchen",
+            "title": "Imperial Kitchen & Dimsum, Mall Ciputra",
             "links": [
                 {
                     "name": "site",
@@ -220,6 +220,32 @@
             "lon": 106.832082,
             "city": "Jakarta Selatan",
             "address": "Pejaten Village, 2nd Floor Unit 2-57, Jl. Warung jati Barat No.39, Pasar Minggu, Jakarta Selatan"
+        },
+        {
+            "title": "Imperial Kitchen, Transmart Cilandak",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.300662452157576, 
+            "lon": 106.81426488671734,
+            "city": "Jakarta Selatan",
+            "address": "Transmart Cilandak, 1st Floor Unit 19 & 20, Jl.Raya Cilandak KKO, Jakarta Selatan"
+        },
+        {
+            "title": "Imperial Kitchen & Dimsum, Mall@Basura",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.223633644015336, 
+            "lon": 106.87809212077197,
+            "city": "Jakarta Timur",
+            "address": "Mall @ Basura GF Unit RE 30 - 32, Jalan Basuki Rahmat No 1A, Jakarta Timur 13410"
         }
     ]
 }
