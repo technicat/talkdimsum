@@ -22,19 +22,6 @@
                     "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
                 }
             ],
-            "lat": -6.2918848300993755, 
-            "lon": 106.80095686666549,
-            "city": "Cilandek",
-            "address": "Town Square Cilandak GF Unit B.046 A & B, Jl. TB Simatupang Kav.17, Jakarta Selatan"
-        },
-        {
-            "title": "Imperial Kitchen",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
-                }
-            ],
             "lat": -6.168179,
             "lon": 106.786799,
             "city": "Grogol",
@@ -106,19 +93,6 @@
             "address": "Hotel Le Grandeur Lt 3, Jl. Mangga Dua Raya , Mangga Dua, 10730"
         },
         {
-            "title": "Imperial Kitchen",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
-                }
-            ],
-            "lat": -6.268982,
-            "lon": 106.832082,
-            "city": "Pejaten Village",
-            "address": "2nd Floor Unit 2-57, Jl. Warung jati Barat No.39, Pasar Minggu, Jakarta Selatan"
-        },
-        {
             "title": "May Star",
             "links": [
                 {
@@ -168,6 +142,45 @@
             "lon": 106.819940,
             "city": "Thamrin",
             "address": "Ruko Crown Golf, Blok D No. 8 - 10, Bukit Golf Mediterania, Jl. Cluster Marina Indah Raya, Pantai Indah Kapuk, 14470"
+        },
+        {
+            "title": "Imperial Kitchen, Town Square Cilandak",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.2918848300993755, 
+            "lon": 106.80095686666549,
+            "city": "Jakarta Selatan",
+            "address": "Town Square Cilandak GF Unit B.046 A & B, Jl. TB Simatupang Kav.17, Jakarta Selatan"
+        },
+        {
+            "title": "Imperial Kitchen, Carrefour Lebak Bulus",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.28761949529739, 
+            "lon": 106.77635798075202, 
+            "city": "Jakarta Selatan",
+            "address": "Carrefour Lebak Bulus GF Unit G-09, Jl. Lebak Bulus Raya No.8, Jakarta Selatan"
+        },
+        {
+            "title": "Imperial Kitchen, Pejaten Village",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.268982,
+            "lon": 106.832082,
+            "city": "Jakarta Selatan",
+            "address": "Pejaten Village, 2nd Floor Unit 2-57, Jl. Warung jati Barat No.39, Pasar Minggu, Jakarta Selatan"
         }
     ]
 }
