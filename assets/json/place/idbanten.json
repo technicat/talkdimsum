@@ -199,6 +199,19 @@
             "lon": 106.67540025429248, 
             "city": "Tangerang Selatan",
             "address": "Transmart Graha Bintaro, GF Unit 02, Jl. Raya Graha Raya Boulevard Pakujaya, Serpong Utara, Tangerang Selatan"
+        },
+        {
+            "title": "May Star",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://maystargroup.com/"
+                }
+            ],
+            "lat": -6.280991544149985, 
+            "lon": 106.65435009119787,
+            "city": "Tangerang Regency",
+            "address": "Jl. Grand Boulevard, BSD City, Lengkong Kulon, Pagedangan, Tangerang Regency, Banten 15336, Indonesia"
         }
     ]
 }
