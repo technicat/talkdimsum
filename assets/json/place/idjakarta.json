@@ -157,7 +157,20 @@
             "address": "Mall Cijantung Jl. Pendidikan I No. 1, Cijantung, Kec. Pasar Rebo, Jakarta Timur, DKI Jakarta 13770"
         },
         {
-            "title": "Imperial Kitchen & Dimsum",
+            "title": "Imperial Kitchen & Dimsum, Mall of Indonesia",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.15078802118309, 
+            "lon":  106.89276224158655,
+            "city": "North Jakarta",
+            "address": "Mall of Indonesia 1st Floor Unit C - 18, Jl. Boulevard Barat Raya, Kelapa Gading, Jakarta Utara 14240"
+        },
+        {
+            "title": "Imperial Kitchen & Dimsum, Sunter Mall",
             "links": [
                 {
                     "name": "site",
