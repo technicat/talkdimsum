@@ -2,17 +2,29 @@
     "name": "Jakarta",
     "places": [
         {
-            "title": "Imperial Kitchen & Dimsum",
+            "title": "Tim Ho Wan",
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                    "URL": "http://timhowan.com"
+                },
+                {
+                    "name": "Tripadvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g294229-d8867131-Reviews-Tim_Ho_Wan_Grand_Indonesia-Jakarta_Java.html"
+                },
+                {
+                    "name": "Zomato",
+                    "URL": "https://www.zomato.com/jakarta/tim-ho-wan-thamrin"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
                 }
             ],
-            "lat": -6.366188716557903, 
-            "lon": 106.88895702624332,
-            "city": "Cibubur",
-            "address": "Flavor Junction GF Unit AE 1#T 05 & 06, Jl. Jambore No. 1 Cibubur"
+            "lat": -6.195236,
+            "lon": 106.819940,
+            "city": "Jakarta",
+            "address": "Ruko Crown Golf, Blok D No. 8 - 10, Bukit Golf Mediterania, Jl. Cluster Marina Indah Raya, Pantai Indah Kapuk, 14470"
         },
         {
             "title": "Imperial Kitchen & Dimsum, Mall Ciputra",
@@ -119,31 +131,6 @@
             "address": "Central Park, LG, No. 103 - 103 A, Jl. Letjen. S. Parman Kav. 28, Slipi, 11470"
         },
         {
-            "title": "Tim Ho Wan",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://timhowan.com"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g294229-d8867131-Reviews-Tim_Ho_Wan_Grand_Indonesia-Jakarta_Java.html"
-                },
-                {
-                    "name": "Zomato",
-                    "URL": "https://www.zomato.com/jakarta/tim-ho-wan-thamrin"
-                },
-                {
-                    "name": "Wikipedia",
-                    "URL": "https://en.wikipedia.org/wiki/Tim_Ho_Wan"
-                }
-            ],
-            "lat": -6.195236,
-            "lon": 106.819940,
-            "city": "Thamrin",
-            "address": "Ruko Crown Golf, Blok D No. 8 - 10, Bukit Golf Mediterania, Jl. Cluster Marina Indah Raya, Pantai Indah Kapuk, 14470"
-        },
-        {
             "title": "Imperial Kitchen, Transmart Carrefour Cempaka Putih",
             "links": [
                 {
@@ -181,6 +168,19 @@
             "lon": 106.77635798075202, 
             "city": "Jakarta Selatan",
             "address": "Carrefour Lebak Bulus GF Unit G-09, Jl. Lebak Bulus Raya No.8, Jakarta Selatan"
+        },
+        {
+            "title": "Imperial Kitchen, Gandaria City",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.244213783886514, 
+            "lon": 106.78201082619697,
+            "city": "Jakarta Selatan",
+            "address": "Gandaria City Mall #LG 37-39 Jl. Sultan Iskandar Muda Kav. 5-8, Kebayoran Lama Utara, Jakarta Selatan 12240"
         },
         {
             "title": "Imperial Kitchen, Kota Kasablanka",
@@ -233,6 +233,19 @@
             "lon": 106.81426488671734,
             "city": "Jakarta Selatan",
             "address": "Transmart Cilandak, 1st Floor Unit 19 & 20, Jl.Raya Cilandak KKO, Jakarta Selatan"
+        },
+        {
+            "title": "Imperial Kitchen & Dimsum, Cibubur Junction",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.366188716557903, 
+            "lon": 106.88895702624332,
+            "city": "Jakarta Timur",
+            "address": "Flavor Junction GF Unit AE 1#T 05 & 06, Jl. Jambore No. 1 Cibubur"
         },
         {
             "title": "Imperial Kitchen & Dimsum, Lulu Hypermarket",
