@@ -54,7 +54,7 @@
             "address": "Lindeteves Trade Centre, 5th Floor, Jl. Hayam Wuruk No. 127, Hayam Wuruk, 11180"
         },
         {
-            "title": "Imperial Kitchen",
+            "title": "Imperial Kitchen, Citywalk Duriman",
             "links": [
                 {
                     "name": "site",
@@ -168,6 +168,19 @@
             "lon": 106.77635798075202, 
             "city": "Jakarta Selatan",
             "address": "Carrefour Lebak Bulus GF Unit G-09, Jl. Lebak Bulus Raya No.8, Jakarta Selatan"
+        },
+        {
+            "title": "Imperial Kitchen, Kota Kasablanka",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://impgroup.co.id/our_brands/details/imperial-kitchen-dimsum"
+                }
+            ],
+            "lat": -6.220929803966762, 
+            "lon": 106.84326904650264,
+            "city": "Jakarta Selatan",
+            "address": "Kota Kasablanka LG Floor Unit 3A & 32C, Jl. Casablanca Raya Kav. 88, Jakarta Selatan 12870"
         },
         {
             "title": "Imperial Kitchen, Pejaten Village",
