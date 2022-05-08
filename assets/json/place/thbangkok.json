@@ -117,6 +117,19 @@
             "lon": 100.535819,
             "city": "Thanon Phaya Thai",
             "address": "Sukosol Hotel, 477, Si Ayutthaya Road, Ratchathewi, Bangkok, Thanon Phaya Thai, 10400 "
-        }
+        },
+        {
+            "title": "Tim Ho Wan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://timhowan.com/"
+                }
+            ],
+            "lat": 13.736828,
+            "lon": 100.551880,
+            "city": "Watthana",
+            "address": "88 Sukhumvit Rd, Khlong Toei Nuea, Watthana, Bangkok 10110"
+        },
     ]
 }
