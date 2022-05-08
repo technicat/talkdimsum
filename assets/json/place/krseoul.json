@@ -19,7 +19,7 @@
             "address": "B1-1F, 30, Bongeunsa-ro 86-gil, Gangnam-gu, Seoul, 06165, Republic of Korea"
         },
         {
-            "title": "Tim Ho Wan, Lotte Department Store",
+            "title": "Tim Ho Wan, Sangpa-Gu",
             "links": [
                 {
                     "name": "site",
@@ -30,6 +30,19 @@
             "lon": 127.09800594025953,
             "city": "Seoul",
             "address": "2F, 240, Olympic-ro, Songpa-gu, Seoul, Republic of Korea"
+        },
+        {
+            "title": "Tim Ho Wan, Yongsan-Gu",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.timhowan.com/"
+                }
+            ],
+            "lat": 37.528729, 
+            "lon": 126.965856,
+            "city": "Seoul",
+            "address": "1F, 55, Hangang-daero 23-gil, Yongsan-gu, Seoul, Republic of Korea"
         }
     ]
 }
