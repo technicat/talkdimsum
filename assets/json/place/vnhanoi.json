@@ -21,6 +21,27 @@
             "lon": 105.812750,
             "city": "Hanoi",
             "address": "54 Lieu Giai, Cong Vi Ward, Ba Dinh District, Hanoi"
+        },
+        {
+            "title": "Ming Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.panpacific.com/en/hotels-and-resorts/pp-hanoi/dining/ming.html"
+                },
+                {
+                    "name": "Vietnam Online",
+                    "URL": "https://www.vietnamonline.com/destination/hanoi/food/6-best-places-dim-sum-hanoi.html#ming-restaurant"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g293924-d4587064-Reviews-Ming_Restaurant-Hanoi.html"
+                }
+            ],
+            "lat": 21.050130,
+            "lon": 105.839640,
+            "city": "Hanoi",
+            "address": "2nd floor, Pan Pacific Hanoi, No.1, Thanh Nien Street, Ba Dinh District, Hanoi"
         }
     ]
 }
