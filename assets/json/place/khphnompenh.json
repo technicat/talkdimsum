@@ -86,6 +86,27 @@
             "lon": 104.93318062058472,
             "city": "Phnom Penh",
             "address": "26 Old August Site Sothearos Boulevard Sangkat Tonle Bassac, 12301 Phnom Penh Cambodia"
+        },
+        {
+            "title": "Tim Ho Wan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.timhowan.com/menu/cambodia/"
+                },
+                {
+                    "name": "Khmer Times",
+                    "URL": "https://www.khmertimeskh.com/77802/tim-ho-wan-grand-opening-aeon-mall/"
+                },
+                {
+                    "name": "Phnom Penh Post",
+                    "URL": "https://phnompenhpost.com/business/michelin-starred-dim-sum-chain-opens-phnom-penh-branch"
+                }
+            ],
+            "lat": 11.562450,
+            "lon": 104.916010,
+            "city": "Phnom Penh",
+            "address": "o.132, Street Sothearos, Sangkat Tonle Bassac, Khan Chamkarmon, Lot E0016, Aeon Mall, Phnom Penh, Cambodia"
         }
     ]
 }
