@@ -2,6 +2,19 @@
     "name": "Bangkok",
     "places": [
         {
+            "title": "Tim Ho Wan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://timhowan.com/"
+                }
+            ],
+            "lat": 13.722537,
+            "lon": 100.503840,
+            "city": "Khlong San",
+            "address": "299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600"
+        },
+        {
             "title": "Man Ho",
             "links": [
                 {
