@@ -2,27 +2,6 @@
     "name": "Hanoi",
     "places": [
         {
-            "title": "Nani",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://timhowan.com/"
-                },
-                {
-                    "name": "Lotte Hotel",
-                    "URL": "https://www.lottehotel.com/hanoi-hotel/en/dining/restaurant-tim-ho-wan.html"
-                },
-                {
-                    "name": "TripAdvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g293924-d7112316-Reviews-Tim_Ho_Wan-Hanoi.html"
-                }
-            ],
-            "lat": 21.031940,
-            "lon": 105.812750,
-            "city": "Hanoi",
-            "address": "54 Lieu Giai, Cong Vi Ward, Ba Dinh District, Hanoi"
-        },
-        {
             "title": "Ming Restaurant",
             "links": [
                 {
@@ -42,6 +21,31 @@
             "lon": 105.839640,
             "city": "Hanoi",
             "address": "2nd floor, Pan Pacific Hanoi, No.1, Thanh Nien Street, Ba Dinh District, Hanoi"
+        },
+        {
+            "title": "Tim Ho Wan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://timhowan.com/"
+                },
+                {
+                    "name": "Lotte Hotel",
+                    "URL": "https://www.lottehotel.com/hanoi-hotel/en/dining/restaurant-tim-ho-wan.html"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g293924-d7112316-Reviews-Tim_Ho_Wan-Hanoi.html"
+                },
+                {
+                    "name": "Vietnam Online",
+                    "URL": "https://www.vietnamonline.com/destination/hanoi/food/6-best-places-dim-sum-hanoi.html#ming-restaurant"
+                }
+            ],
+            "lat": 21.031940,
+            "lon": 105.812750,
+            "city": "Hanoi",
+            "address": "54 Lieu Giai, Cong Vi Ward, Ba Dinh District, Hanoi"
         }
     ]
 }
