@@ -64,6 +64,27 @@
             "lon": 144.966644,
             "city": "Melbourne",
             "address": "Red Emperor Chinese Restaurant, M10 Mid Level / Level 2, Southgate Restaurant & Shopping Precinct, 3 Southgate Avenue, Southbank"
+        },
+        {
+            "title": "Tim Ho Wan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.timhowanaustralia.com/"
+                },
+                {
+                    "name": "City of Melbourne",
+                    "URL": "https://whatson.melbourne.vic.gov.au/eat-and-drink/tim-ho-wan"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tim-ho-wan-melbourne"
+                }
+            ],
+            "lat": -37.812910,
+            "lon": 144.967020,
+            "city": "Melbourne",
+            "address": "206 Bourke Street, Melbourne VIC"
         }
     ]
 }
