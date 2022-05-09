@@ -822,53 +822,6 @@
             "address": "1039 El Camino Real, Menlo Park, CA 94025"
         },
         {
-            "title": "Koi Palace",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://koipalace.com"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/koi-palace-milpitas"
-                }
-            ],
-            "lat": 37.419220,
-            "lon": -121.915820,
-            "city": "Milpitas",
-            "address": "768 Barber Ln, Milpitas, CA 95035"
-        },
-        {
-            "title": "Mayflower Restaurant",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://mayflower-seafood.com"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/mayflower-restaurant-milpitas"
-                }
-            ],
-            "lat": 37.421669,
-            "lon": -121.916397,
-            "city": "Milpitas",
-            "address": "428 Barber Ln, Milpitas, CA 95035"
-        },
-        {
-            "title": "New Hong Kwok",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/new-hwong-kok-milpitas"
-                }
-            ],
-            "lat": 37.455280,
-            "lon": -121.911640,
-            "city": "Milpitas",
-            "address": "1705 N Milpitas Blvd, Milpitas, CA 95035"
-        },
-        {
             "title": "Asian Pearl Seafood Restaurant",
             "links": [
                 {
@@ -944,6 +897,53 @@
             "lon": -122.398332,
             "city": "Millbrae",
             "address": "1180 El Camino Real, Millbrae, CA 94030"
+        },
+        {
+            "title": "Koi Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://koipalace.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/koi-palace-milpitas"
+                }
+            ],
+            "lat": 37.419220,
+            "lon": -121.915820,
+            "city": "Milpitas",
+            "address": "768 Barber Ln, Milpitas, CA 95035"
+        },
+        {
+            "title": "Mayflower Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://mayflower-seafood.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mayflower-restaurant-milpitas"
+                }
+            ],
+            "lat": 37.421669,
+            "lon": -121.916397,
+            "city": "Milpitas",
+            "address": "428 Barber Ln, Milpitas, CA 95035"
+        },
+        {
+            "title": "New Hong Kwok",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-hwong-kok-milpitas"
+                }
+            ],
+            "lat": 37.455280,
+            "lon": -121.911640,
+            "city": "Milpitas",
+            "address": "1705 N Milpitas Blvd, Milpitas, CA 95035"
         },
         {
             "title": "Dynasty Garden",
