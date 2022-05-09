@@ -1671,6 +1671,23 @@
             "address": "675 Broadway St San Francisco, CA 94133"
         },
         {
+            "title": "Dim Sum Club",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://dimsumclub-sf.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-club-san-francisco-3"
+                }
+            ],
+            "lat": 37.742380,
+            "lon": -122.490050,
+            "city": "San Francisco",
+            "address": "2237 Taraval St San Francisco, CA "
+        },
+        {
             "title": "Dim Sum Corner",
             "links": [
                 {
