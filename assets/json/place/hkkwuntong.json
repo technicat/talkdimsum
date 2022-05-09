@@ -41,6 +41,23 @@
             "address": "6/F, Crocodile Center, 79 Hoi Yuen Road"
         },
         {
+            "title": "Heichinrou",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.heichinrou.com/en/location_mc6.html"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://www.openrice.com/en/hongkong/r-heichinrou-kwun-tong-guangdong-seafood-r26183"
+                }
+            ],
+            "lat": 22.313343,
+            "lon": 114.222033,
+            "city": "Kwun Tong",
+            "address": "Level 6,mMillennium City 6, 392 Kwun Tong Road, Kwun Tong, Kowloon, Hong Kong"
+        },
+        {
             "title": "Huang Ting Kobo Dim Sum",
             "links": [
                 {
