@@ -220,10 +220,10 @@
     {
         "words": [
             {
-                "Chinese": "",
+                "Chinese": "蒸水蛋",
                 "English": "steamed egg",
-                "Yale": "",
-                "Pinyin": "",
+                "Yale": "jīng séui dáan",
+                "Pinyin": "zhēng shuǐ dàn",
                 "resources": [
                 ]
             }
@@ -236,6 +236,8 @@
         ],
         "description": "",
         "tags": [
+            "蒸",
+            "蛋",
             "飲品"
         ],
         "resources": [
@@ -258,6 +260,10 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Chinese_steamed_eggs"
+            },
+            {
+                "name": "Wok and Kin",
+                "URL": "https://www.wokandkin.com/chinese-steamed-egg/"
             },
             {
                 "name": "The Woks of Life",
