@@ -263,5 +263,60 @@
                 "URL": "https://www.nofrillsrecipes.com/2018/09/lemon-grass-barley-drink.html"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "八寶茶",
+                "Simplified": "八宝茶",
+                "English": "eight treasures tea",
+                "Yale": "baat bóu chàh",
+                "Pinyin": "bā bǎo chá",
+                "resources": [
+                    {
+                        "name": "八寶",
+                        "URL": "https://en.wiktionary.org/wiki/八寶"
+                    },
+                    {
+                        "name": "八",
+                        "URL": "https://en.wiktionary.org/wiki/八"
+                    },
+                    {
+                        "name": "寶",
+                        "URL": "https://en.wiktionary.org/wiki/寶"
+                    },
+                    {
+                        "name": "茶",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "eighttreausurestea8east",
+                "place": "8 East, Las Vegas, Nevada"
+            }
+        ],
+        "description": "An herbal tea (although sometimes it contains green tea) consisting of eight ingredients which may vary (and sometimes it's not exactly eight), but typically includes rock sugar, jujube...\n\n**Characters**\n\n八寶 is *eight treasure* (八 is *eight* and 寶 is *treasure*), so 八寶茶 is *eight treasure tea*.",
+        "tags": [
+            "八寶",
+            "新菜",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Kitchn",
+                "URL": "https://www.thekitchn.com/try-this-eight-treasure-tea-111728"
+            },
+            {
+                "name": "The Tea Horse Caravan",
+                "URL": "http://www.theteahorsecaravan.com/2013/05/ba-bao-cha-eight-treasure-tisanes.html"
+            },
+            {
+                "name": "Travel Branyik",
+                "URL": "https://travelbranyik.com/how-to-make-chinese-eight-treasures-tea-at-home-%E5%85%AB%E5%AE%9D%E8%8C%B6-ba-bao-cha/"
+            }
+        ]
     }
 ]
