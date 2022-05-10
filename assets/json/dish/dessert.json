@@ -216,5 +216,57 @@
                 "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "",
+                "English": "steamed egg",
+                "Yale": "",
+                "Pinyin": "",
+                "resources": [
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "steamedegg8east",
+                "place": "8 East, Las Vegas, Nevada"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/chinese-steamed-egg/"
+            },
+            {
+                "name": "Hong Kong Recipe",
+                "URL": "https://hongkongrecipe.com/chinese-steamed-eggs-recipe/"
+            },
+            {
+                "name": "Huang Kitchen",
+                "URL": "https://www.huangkitchen.com/chinese-steamed-egg/"
+            },
+            {
+                "name": "Onolicious",
+                "URL": "https://onolicioushawaii.com/chinese-steamed-egg/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chinese_steamed_eggs"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/steamed-egg/"
+            },
+            {
+                "name": "The Worktop",
+                "URL": "https://www.theworktop.com/breakfast-brunch-recipes/chinese-steamed-egg/"
+            }
+        ]
     }
 ]
