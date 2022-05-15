@@ -23,14 +23,34 @@
         "Simplified": "葱",
         "English": "scallion",
         "Yale": "chūng",
-        "Pinyin": "cōng"
+        "Pinyin": "cōng",
+        "resources": [
+            {
+                "name": "蔥",
+                "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
+            }
+        ]
     },
     {
         "Chinese": "洋蔥",
         "Simplified": "洋葱",
         "English": "onion",
         "Yale": "yèuhng chūng",
-        "Pinyin": "yáng cōng"
+        "Pinyin": "yáng cōng",
+        "resources": [
+            {
+                "name": "洋蔥",
+                "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B%E8%94%A5"
+            },
+            {
+                "name": "洋",
+                "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B"
+            },
+            {
+                "name": "蔥",
+                "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
+            }
+        ]
     },
     {
         "Chinese": "茄子",

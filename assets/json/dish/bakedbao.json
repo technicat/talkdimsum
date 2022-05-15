@@ -168,8 +168,49 @@
         ],
         "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters\n\n[雪](https://en.wiktionary.org/wiki/%E9%9B%AA) is *snow*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*.",
         "tags": [
-            "雞",
+            "焗",
             "包"
+        ],
+        "resources": [
+           
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蔥花麵包",
+                "English": "green onion bun",
+                "Yale": " bāau",
+                "Pinyin": " bāo",
+                "resources": [
+                    
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "greenonionbundiamondbakery",
+                "place": "Diamond Bakery, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters\n\n[雪](https://en.wiktionary.org/wiki/%E9%9B%AA) is *snow*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*.",
+        "tags": [
+            "焗",
+            "包"
+        ],
+        "resources": [
+            {
+                "name": "Dimsumptuous",
+                "URL": "http://www.dimsumptuous.com/2013/10/green-onion-bread-buns.html"
+            },
+            {
+                "name": "One simple dish",
+                "URL": "https://www.onesimpledish.com/chinese-green-onion-buns/"
+            }
         ]
     }
 ]
