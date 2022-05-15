@@ -41,6 +41,9 @@ dependencies:
     git: 
       url: https://github.com/technicat/flutter_tts
   freezed_annotation:
+ #   git: 
+ #     url: https://github.com/technicat/freezed
+ #     path: packages/freezed_annotation
   get:
     git: 
       url: https://github.com/technicat/getx
@@ -76,6 +79,9 @@ dev_dependencies:
   build_runner:
   json_serializable:
   freezed:
+ #   git: 
+ #     url: https://github.com/technicat/freezed
+ #     path: packages/freezed
   lints:
 
 # For information on the generic Dart part of this file, see the
