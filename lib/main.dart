@@ -6,7 +6,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart' as riverpod;
 import 'package:get/get.dart';
-import 'package:provider/provider.dart';ß
+import 'package:provider/provider.dart';
 
 import 'package:talkdimsum/core/provider/settings.dart';
 import 'package:talkdimsum/core/provider/stt.dart';
