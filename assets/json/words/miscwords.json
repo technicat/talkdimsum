@@ -21,14 +21,14 @@
         "Pinyin": "shuǐ jiǎo",
         "resources": [
             {
-               "name": "水餃",
-               "URL": "https://en.wiktionary.org/wiki/水餃"
+                "name": "水餃",
+                "URL": "https://en.wiktionary.org/wiki/水餃"
             },
             {
-               "name": "水",
-               "URL": "https://en.wiktionary.org/wiki/水"
+                "name": "水",
+                "URL": "https://en.wiktionary.org/wiki/水"
             }
-         ]
+        ]
     },
     {
         "Chinese": "角",
@@ -68,5 +68,25 @@
         "English": "flower",
         "Yale": "fā",
         "Pinyin": "huā"
+    },
+    {
+        "Chinese": "麵包",
+        "English": "bread",
+        "Yale": "mihn bāau",
+        "Pinyin": "miàn bāo",
+        "resources": [
+            {
+                "name": "麵包",
+                "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
+            },
+            {
+                "name": "麵",
+                "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
+            },
+            {
+                "name": "包",
+                "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+            }
+        ]
     }
 ]
