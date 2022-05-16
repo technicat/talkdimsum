@@ -19,7 +19,21 @@
         "English": "grapes",
         "Yale": "tàih ji",
         "Jyutping": "tai4 zi2",
-        "Pinyin": "tí zǐ"
+        "Pinyin": "tí zǐ",
+        "resources": [
+            {
+                "name": "提子",
+                "URL": "https://en.wiktionary.org/wiki/%E6%8F%90%E5%AD%90"
+            },
+            {
+                "name": "提",
+                "URL": "https://en.wiktionary.org/wiki/%E6%8F%90"
+            },
+            {
+                "name": "子",
+                "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
+            }
+        ]
     },
     {
         "Chinese": "車釐子",
