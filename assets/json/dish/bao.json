@@ -125,7 +125,24 @@
             "包",
             "蒸"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "Rasa Malaysia",
+                "URL": "https://rasamalaysia.com/taro-bun/"
+            },
+            {
+                "name": "Runaway Rice",
+                "URL": "https://runawayrice.com/desserts/taro-buns/"
+            },
+            {
+                "name": "Sift and Simmer",
+                "URL": "https://www.siftandsimmer.com/steamed-taro-buns/"
+            },
+            {
+                "name": "Simple Chinese Food",
+                "URL": "https://simplechinesefood.com/recipe/taro-buns"
+            }
+        ]
     },
     {
         "words": [
