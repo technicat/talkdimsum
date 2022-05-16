@@ -1,0 +1,119 @@
+[
+    {
+        "words": [
+            {
+                "Chinese": "肉鬆麵包",
+                "Simplified": "肉松面包",
+                "English": "pork sung bun",
+                "Yale": "yuhk sūng mihn bāau",
+                "Pinyin": "ròu sōng miàn bāo",
+                "resources": [
+                    {
+                        "name": "肉鬆",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%AC%86"
+                    },
+                    {
+                        "name": "肉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                    },
+                    {
+                        "name": "鬆",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AC%86"
+                    },
+                    {
+                        "name": "麵包",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
+                    },
+                    {
+                        "name": "麵",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "porksungbunranch99",
+                "place": "99 Ranch Market, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with [dried shredded pork](https://en.wikipedia.org/wiki/Rousong).\n\n**Characters**\n\n[肉](https://en.wiktionary.org/wiki/%E8%82%89) is *meat*, and [鬆](https://en.wiktionary.org/wiki/%E9%AC%86) is *loose*, so 肉鬆 is *loose meat*. [面包](https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85) is *bread*,  so 肉鬆麵包 is *loose meat bread*.",
+        "tags": [
+            "肉鬆",
+            "豬肉",
+            "包",
+            "面包",
+            "焗",
+            "甜品"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2016/03/pork-sung-buns/"
+            }
+        ]
+    },
+    ,
+    {
+        "words": [
+            {
+                "Chinese": "蔥花麵包",
+                "English": "green onion bun",
+                "Yale": "chūng fā bāau",
+                "Pinyin": "cōng huā bāo",
+                "resources": [
+                    {
+                        "name": "蔥花",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5%E8%8A%B1"
+                    },
+                    {
+                        "name": "蔥",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
+                    },
+                    {
+                        "name": "花",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "greenonionbundiamondbakery",
+                "place": "Diamond Bakery, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters\n\n[雪](https://en.wiktionary.org/wiki/%E9%9B%AA) is *snow*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*.",
+        "tags": [
+            "焗",
+            "面包",
+            "包"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/green-onion-bread/"
+            },
+            {
+                "name": "Dimsumptuous",
+                "URL": "http://www.dimsumptuous.com/2013/10/green-onion-bread-buns.html"
+            },
+            {
+                "name": "One simple dish",
+                "URL": "https://www.onesimpledish.com/chinese-green-onion-buns/"
+            },
+            {
+                "name": "Woon Heng",
+                "URL": "https://woonheng.com/baked-scallion-green-onion-bread/"
+            }
+        ]
+    }
+]
