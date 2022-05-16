@@ -180,10 +180,21 @@
             {
                 "Chinese": "蔥花麵包",
                 "English": "green onion bun",
-                "Yale": " bāau",
-                "Pinyin": " bāo",
+                "Yale": "chūng fā bāau",
+                "Pinyin": "cōng huā bāo",
                 "resources": [
-                    
+                    {
+                        "name": "蔥花",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5%E8%8A%B1"
+                    },
+                    {
+                        "name": "蔥",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
+                    },
+                    {
+                        "name": "花",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
+                    },
                     {
                         "name": "包",
                         "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
