@@ -57,7 +57,6 @@
             }
         ]
     },
-    ,
     {
         "words": [
             {
@@ -77,6 +76,14 @@
                     {
                         "name": "花",
                         "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
+                    },
+                    {
+                        "name": "麵包",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
+                    },
+                    {
+                        "name": "麵",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
                     },
                     {
                         "name": "包",
@@ -113,6 +120,52 @@
             {
                 "name": "Woon Heng",
                 "URL": "https://woonheng.com/baked-scallion-green-onion-bread/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "麵包",
+                "English": "raisin bread",
+                "Yale": " bāau",
+                "Pinyin": " bāo",
+                "resources": [
+                    {
+                        "name": "麵包",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
+                    },
+                    {
+                        "name": "麵",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "greenonionbundiamondbakery",
+                "place": "Diamond Bakery, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters\n\n[雪](https://en.wiktionary.org/wiki/%E9%9B%AA) is *snow*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*.",
+        "tags": [
+            "焗",
+            "面包",
+            "包"
+        ],
+        "resources": [
+            {
+                "name": "Kirbie Cravings",
+                "URL": "https://kirbiecravings.com/raisin-bread-2/"
+            },
+            {
+                "name": "Miss Chinese Food",
+                "URL": "https://misschinesefood.com/soft-raisin-bread/"
             }
         ]
     }
