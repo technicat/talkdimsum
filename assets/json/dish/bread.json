@@ -41,7 +41,7 @@
                 "place": "99 Ranch Market, Las Vegas, Nevada"
             }
         ],
-        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with [dried shredded pork](https://en.wikipedia.org/wiki/Rousong).\n\n**Characters**\n\n[肉](https://en.wiktionary.org/wiki/%E8%82%89) is *meat*, and [鬆](https://en.wiktionary.org/wiki/%E9%AC%86) is *loose*, so 肉鬆 is *loose meat*. [面包](https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85) is *bread*,  so 肉鬆麵包 is *loose meat bread*.",
+        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with [dried shredded pork](https://en.wikipedia.org/wiki/Rousong).\n\n**Characters**\n\n[肉](https://en.wiktionary.org/wiki/%E8%82%89) is *meat*, and [鬆](https://en.wiktionary.org/wiki/%E9%AC%86) is *loose*, so [肉鬆](https://en.wiktionary.org/wiki/%E8%82%89%E9%AC%86) is *loose meat*. [麵包](https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85) is *bread* (麵 is *flour* and also *noodles*, 包 is *bun*, so *bread* is *flour bun*). Altogether 肉鬆麵包 is *loose meat bread*.",
         "tags": [
             "肉鬆",
             "豬肉",
@@ -98,7 +98,7 @@
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters\n\n[雪](https://en.wiktionary.org/wiki/%E9%9B%AA) is *snow*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*.",
+        "description": "\n\n**Characters\n\n[麵包](https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85) is *bread* (麵 is *flour* and also *noodles*, 包 is *bun*, so *bread* is *flour bun*). Altogether 蔥花麵包 is *chopped scallion bread*.",
         "tags": [
             "焗",
             "面包",
@@ -126,11 +126,23 @@
     {
         "words": [
             {
-                "Chinese": "麵包",
+                "Chinese": "提子麵包",
                 "English": "raisin bread",
-                "Yale": " bāau",
-                "Pinyin": " bāo",
+                "Yale": "tàih jí bāau",
+                "Pinyin": "tí zi bāo",
                 "resources": [
+                    {
+                        "name": "提子",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8F%90%E5%AD%90"
+                    },
+                    {
+                        "name": "提",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8F%90"
+                    },
+                    {
+                        "name": "子",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
+                    },
                     {
                         "name": "麵包",
                         "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
@@ -148,12 +160,13 @@
         ],
         "images": [
             {
-                "image": "greenonionbundiamondbakery",
+                "image": "raisinbreaddiamondbakery",
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters\n\n[雪](https://en.wiktionary.org/wiki/%E9%9B%AA) is *snow*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*.",
+        "description": "Raisin bread is a standard Chinese bakery offering.\n\n**Characters\n\n提子 is *raisin*. [麵包](https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85) is *bread* (麵 is *flour* and also *noodles*, 包 is *bun*, so *bread* is *flour bun*). Altogether 提子麵包 is *raisin bread*.",
         "tags": [
+            "提子",
             "焗",
             "面包",
             "包"
