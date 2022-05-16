@@ -23,12 +23,13 @@ dependencies:
 
   # more stuff
   app_settings:
-    git: 
-      url: https://github.com/technicat/app_settings
+#    path: ../app_settings
+#    git: 
+#      url: https://github.com/technicat/app_settings
   bubble:
     git: 
       url: https://github.com/technicat/bubble
-  camera:
+#  camera:
   cupertino_search:
     git: 
       url: https://github.com/technicat/cupertino_search
@@ -54,16 +55,17 @@ dependencies:
   share:
   shared_preferences:
   speech_to_text:
-    git: 
-      url: https://github.com/technicat/speech_to_text
-      path: speech_to_text
+ #     path: ../speech_to_text/speech_to_text
+#    git: 
+ #     url: https://github.com/technicat/speech_to_text
+ #     path: speech_to_text
   sprintf:
   sqflite:
   url_launcher:
-  window_size:
-    git: 
-      url: https://github.com/technicat/flutter-desktop-embedding
-      path: plugins/window_size
+#  window_size:
+#   git: 
+#      url: https://github.com/technicat/flutter-desktop-embedding
+ #     path: plugins/window_size
 
 # run this first
 # flutter pub run build_runner build --delete-conflicting-outputs
