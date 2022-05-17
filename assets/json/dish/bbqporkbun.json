@@ -131,9 +131,6 @@
             {
                 "image": "bakedchasiubaohkgarden",
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
-            },
-            {
-                "image": "bakedbbqporkbun"
             }
         ],
         "description": "A baked version of the BBQ pork bun, with the same filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and glazed on top.\n\n**Characters**\n\nThe first character 焗 means “baked” and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is *BBQ pork bun*.",
@@ -179,6 +176,18 @@
                 "Pinyin": "sū pí jú chā shāo bāo",
                 "resources": [
                     {
+                        "name": "酥皮",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%85%A5%E7%9A%AE"
+                    },
+                    {
+                        "name": "酥",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
+                    },
+                    {
+                        "name": "皮",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
+                    },
+                    {
                         "name": "焗",
                         "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
                     },
@@ -203,14 +212,11 @@
         ],
         "images": [
             {
-                "image": "bakedchasiubaohkgarden",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            },
-            {
-                "image": "bakedbbqporkbun"
+                "image": "cirpsybakedchasiubaotimhowan",
+                "place": "Tim Ho Wan, Las Vegas, Nevada"
             }
         ],
-        "description": "A baked version of the BBQ pork bun, with the same filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and glazed on top.\n\n**Characters**\n\nThe first character 焗 means “baked” and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is *BBQ pork bun*.",
+        "description": "This baked BBQ pork bun is a signature dish of the Tim Ho Wan dim sum chain, distinguished by it's crispy toast-like outer texture.\n\n**Characters**\n\n酥皮 is *flaky skin*, 焗 is *baked*, and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is *BBQ pork bun*.",
         "tags": [
             "叉燒包",
             "豬",
