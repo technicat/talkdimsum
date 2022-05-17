@@ -172,6 +172,80 @@
     {
         "words": [
             {
+                "Chinese": "酥皮焗叉燒包",
+                "Simplified": "酥皮焗叉烧包",
+                "English": "crispy baked BBQ pork bun",
+                "Yale": "sōu pèih guhk chā sīu bāau",
+                "Pinyin": "sū pí jú chā shāo bāo",
+                "resources": [
+                    {
+                        "name": "焗",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
+                    },
+                    {
+                        "name": "叉燒包",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
+                    },
+                    {
+                        "name": "叉燒",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
+                    },
+                    {
+                        "name": "叉",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
+                    },
+                    {
+                        "name": "包",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "bakedchasiubaohkgarden",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
+            },
+            {
+                "image": "bakedbbqporkbun"
+            }
+        ],
+        "description": "A baked version of the BBQ pork bun, with the same filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and glazed on top.\n\n**Characters**\n\nThe first character 焗 means “baked” and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is *BBQ pork bun*.",
+        "tags": [
+            "叉燒包",
+            "豬",
+            "豬肉",
+            "焗",
+            "叉燒",
+            "包",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/char-siu-bao-baked-buns-recipe/"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2008/09/incredible-baked-cha-shao-bao-chinese.html"
+            },
+            {
+                "name": "Thirsty for Tea",
+                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-2-honeyed-pork-buns-baked-char-siu-bao/"
+            },
+            {
+                "name": "Unfamiliar China",
+                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/baked-char-siu-bao"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chinese-bbq-pork-buns-cha-siu-bao/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "仿肉叉燒包",
                 "Simplified": "仿肉叉烧包",
                 "English": "vegan BBQ pork bun",
