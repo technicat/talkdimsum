@@ -177,6 +177,23 @@
       "address": "5150 Spring Mountain Rd Ste 6"
     },
     {
+      "title": "Noodle Asia",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.venetianlasvegas.com/restaurants/noodle-asia.html"
+        },
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/noodle-asia-las-vegas"
+        }
+      ],
+      "lat": 36.121160,
+      "lon": -115.170230,
+      "city": "Las Vegas",
+      "address": "3355 Las Vegas Blvd S Las Vegas, NV 89109"
+    },
+    {
       "title": "Noodle House Chinese Restaurant",
       "links": [
         {
