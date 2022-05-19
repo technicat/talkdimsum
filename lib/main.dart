@@ -14,7 +14,7 @@ import 'package:talkdimsum/core/provider/tts.dart';
 
 import 'ui/cupertino/app.dart' as cupertino;
 import 'ui/material/app.dart' as material;
-import 'ui/macos/app.dart' as macos;
+import 'ui/mac/app.dart' as macos;
 
 void main() async {
   runApp(riverpod.ProviderScope(child: MainApp()));
