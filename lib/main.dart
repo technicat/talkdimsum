@@ -14,6 +14,7 @@ import 'package:talkdimsum/core/provider/tts.dart';
 
 import 'ui/cupertino/app.dart' as cupertino;
 import 'ui/material/app.dart' as material;
+import 'ui/macos/app.dart' as macos;
 
 void main() async {
   runApp(riverpod.ProviderScope(child: MainApp()));
@@ -23,10 +24,10 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Widget app;
-    if (GetPlatform.isMacOS) {
+    if (GetPlatform.isIOS) {
       app = cupertino.App();
     } else if (GetPlatform.isMacOS) {
-      app = cupertino.App();
+      app = macos.App();
     } else {
       app = material.App();
     }
