@@ -23,7 +23,9 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Widget app;
-    if (GetPlatform.isIOS || GetPlatform.isMacOS) {
+    if (GetPlatform.isMacOS) {
+      app = cupertino.App();
+    } else if (GetPlatform.isMacOS) {
       app = cupertino.App();
     } else {
       app = material.App();
