@@ -23,9 +23,8 @@ dependencies:
 
   # more stuff
   app_settings:
-#    path: ../app_settings
-#    git: 
-#      url: https://github.com/technicat/app_settings
+    git: 
+      url: https://github.com/technicat/app_settings
   bubble:
     git: 
       url: https://github.com/technicat/bubble

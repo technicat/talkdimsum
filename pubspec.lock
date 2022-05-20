@@ -18,9 +18,11 @@ packages:
   app_settings:
     dependency: "direct main"
     description:
-      name: app_settings
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: bd4e1f77da989f865c6233b501217a571adc7257
+      url: "https://github.com/technicat/app_settings"
+    source: git
     version: "4.1.6"
   archive:
     dependency: transitive
