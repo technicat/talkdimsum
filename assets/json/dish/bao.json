@@ -55,6 +55,10 @@
                 "Pinyin": "dà bāo",
                 "resources": [
                     {
+                        "name": "大包",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7%E5%8C%85"
+                    },
+                    {
                         "name": "大",
                         "URL": "https://en.wiktionary.org/wiki/大"
                     },
@@ -71,7 +75,7 @@
                 "place": "Wishful Dumpling, Las Vegas, Nevada"
             }
         ],
-        "description": "An [extra large](https://en.wikipedia.org/wiki/Da_Bao) steamed [bao](https://en.wikipedia.org/wiki/Baozi) (a meal in itself) typically filled with minced pork or chicken, Chinese sausage,boiled egg, or alterntively vegetables.\n\n**Characters**\n\n[大](https://en.wiktionary.org/wiki/大) is *big* (the character looks like a person with arms spread), and [包](https://en.wiktionary.org/wiki/包) is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)), so 大包 is *big bun*.\n\nNot to be confused with 打包 (dá bāau), which you say to indicate you want leftovers wrapped up to go.",
+        "description": "An [extra large](https://en.wikipedia.org/wiki/Da_Bao) steamed [bao](https://en.wikipedia.org/wiki/Baozi) (a meal in itself) typically filled with minced pork or chicken, Chinese sausage,boiled egg, or alterntively vegetables.\n\n**Characters**\n\n[大](https://en.wiktionary.org/wiki/%E5%A4%A7) is *big* (the character looks like a person with arms spread), and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)), so [大包](https://en.wiktionary.org/wiki/%E5%A4%A7%E5%8C%85) is *big bun*.\n\nNot to be confused with [打包](https://en.wiktionary.org/wiki/%E6%89%93%E5%8C%85) (dá bāau), which you say to indicate you want leftovers wrapped/boxed/bagged to go.",
         "tags": [
             "新菜",
             "包",
