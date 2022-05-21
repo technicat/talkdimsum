@@ -51,19 +51,25 @@ class _MyMenuBarAppState extends State<MyMenuBarApp> {
   Widget build(BuildContext context) {
     return PlatformMenuBar(
       menus: <MenuItem>[
+        PlatformMenu(label: 'Flutter API Sample', menus: <MenuItem>[
+          PlatformMenuItemGroup(
+            members: <MenuItem>[
+              PlatformMenuItem(
+                label: 'About',
+                onSelected: () {
+                  _handleMenuSelection(MenuSelection.about);
+                },
+              )
+            ],
+          ),
+          if (PlatformProvidedMenuItem.hasMenu(
+              PlatformProvidedMenuItemType.quit))
+            const PlatformProvidedMenuItem(
+                type: PlatformProvidedMenuItemType.quit),
+        ]),
         PlatformMenu(
           label: 'Flutter API Sample',
           menus: <MenuItem>[
-            PlatformMenuItemGroup(
-              members: <MenuItem>[
-                PlatformMenuItem(
-                  label: 'About',
-                  onSelected: () {
-                    _handleMenuSelection(MenuSelection.about);
-                  },
-                )
-              ],
-            ),
             PlatformMenuItemGroup(
               members: <MenuItem>[
                 PlatformMenuItem(
@@ -102,10 +108,6 @@ class _MyMenuBarAppState extends State<MyMenuBarApp> {
                 )
               ],
             ),
-            if (PlatformProvidedMenuItem.hasMenu(
-                PlatformProvidedMenuItemType.quit))
-              const PlatformProvidedMenuItem(
-                  type: PlatformProvidedMenuItemType.quit),
           ],
         ),
       ],
