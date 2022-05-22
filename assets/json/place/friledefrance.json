@@ -2,6 +2,36 @@
     "name": "Île-de-France",
     "places": [
         {
+            "title": "Bar a Dim Sum",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/bar-a-dim-sum-paris"
+                }
+            ],
+            "lat": 48.873642,
+            "lon": 2.332095,
+            "city": "Paris",
+            "address": "Galeries Lafayette 35 bd Haussmann 75009"
+        },
+        {
+            "title": "Diep",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://restaurant-diep.business.site/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d715050-Reviews-Diep-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.869576,
+            "lon": 2.303033,
+            "city": "Paris",
+            "address": "55 rue Pierre Charron, 75008 Paris France"
+        },
+        {
             "title": "Ducky's",
             "links": [
                 {
@@ -22,19 +52,7 @@
             "city": "Paris",
             "address": "157 boulevard du Montparnasse 75006"
         },
-        {
-            "title": "Bar a Dim Sum",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/bar-a-dim-sum-paris"
-                }
-            ],
-            "lat": 48.873642,
-            "lon": 2.332095,
-            "city": "Paris",
-            "address": "Galeries Lafayette 35 bd Haussmann 75009"
-        },
+        
         {
             "title": "La Maison du Dim Sum",
             "links": [
