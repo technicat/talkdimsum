@@ -112,6 +112,23 @@
             "address": "19 avenue Kléber 75016"
         },
         {
+            "title": "Shang Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.shangri-la.com/paris/shangrila/dining/restaurants/shang-palace/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2334042-Reviews-Shang_Palace-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.863740,
+            "lon": 2.293310,
+            "city": "Paris",
+            "address": "10 Avenue d Iena, 75116 Paris France"
+        },
+        {
             "title": "Yoom",
             "links": [
                 {
