@@ -99,7 +99,6 @@
             "city": "Paris",
             "address": "157 boulevard du Montparnasse 75006"
         },
-        
         {
             "title": "La Maison du Dim Sum",
             "links": [
@@ -213,6 +212,23 @@
             "lon": 2.331190,
             "city": "Paris",
             "address": "23 boulevard des Capucines, 75002 Paris France"
+        },
+        {
+            "title": "Palais du Bonheur",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://palaisdubonheur.com/"
+                },
+                {
+                    "name": "Tripadvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2044612-Reviews-Palais_du_Bonheur-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.839076,
+            "lon": 2.257760,
+            "city": "Paris",
+            "address": "131 rue Michel Ange, 75016 Paris France"
         },
         {
             "title": "Shang Palace",
