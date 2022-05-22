@@ -121,6 +121,23 @@
             "address": "4 Rue Des Fossés Saint Jacques 75005"
         },
         {
+            "title": "Le China",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.lechina.eu/"
+                },
+                {
+                    "name": "Tripadvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1467742-Reviews-Le_China-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.849958,
+            "lon": 2.373786,
+            "city": "Paris",
+            "address": "50 rue de Charenton, 75012 Paris France"
+        },
+        {
             "title": "Le Royal China",
             "links": [
                 {
