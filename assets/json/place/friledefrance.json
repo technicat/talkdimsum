@@ -146,6 +146,23 @@
             "address": "10 Avenue d Iena, 75116 Paris France"
         },
         {
+            "title": "Taokan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.taokan.fr/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d9607961-Reviews-Taokan_Saint_Honore-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.865321,
+            "lon": 2.329565,
+            "city": "Paris",
+            "address": "1 rue du Mont Thabor, 75001 Paris France"
+        },
+        {
             "title": "Yoom",
             "links": [
                 {
