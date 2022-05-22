@@ -151,6 +151,23 @@
             "address": "19 avenue Kléber 75016"
         },
         {
+            "title": "Mum Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://mumdimsum.com/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d3171597-Reviews-Mum_Dim_Sum-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.881171,
+            "lon": 2.313785,
+            "city": "Paris",
+            "address": "14 boulevard de Courcelles, 75017 Paris France"
+        },
+        {
             "title": "Opera Mandarin",
             "links": [
                 {
