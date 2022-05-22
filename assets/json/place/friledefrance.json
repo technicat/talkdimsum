@@ -15,6 +15,23 @@
             "address": "Galeries Lafayette 35 bd Haussmann 75009"
         },
         {
+            "title": "China Masséna",
+            "links": [
+                {
+                    "name": "Restaurant Guru",
+                    "URL": "https://restaurantguru.com/Chine-Massena-Paris"
+                },
+                {
+                    "name": "Tripadvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d939129-Reviews-Chine_Massena-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.821592,
+            "lon": 2.365013,
+            "city": "Paris",
+            "address": "13 Place de Venetie, 75013 Paris France"
+        },
+        {
             "title": "Chinatown Olympiades",
             "links": [
                 {
@@ -22,7 +39,7 @@
                     "URL": "https://www.chinatownolympiades.com/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1035103-Reviews-Chinatown_Olympiades-Paris_Ile_de_France.html"
                 }
             ],
@@ -39,7 +56,7 @@
                     "URL": "https://restaurant-diep.business.site/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d715050-Reviews-Diep-Paris_Ile_de_France.html"
                 }
             ],
@@ -56,7 +73,7 @@
                     "URL": "https://www.duckys.fr/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d12207618-Reviews-Ducky_s-Paris_Ile_de_France.html"
                 },
                 {
@@ -99,7 +116,7 @@
                     "URL": "https://royalchina.fr/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d11932421-Reviews-Le_Royal_China-Paris_Ile_de_France.html"
                 },
                 {
@@ -137,7 +154,7 @@
                     "URL": "https://www.liliparis.fr/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d7795574-Reviews-LiLi-Paris_Ile_de_France.html"
                 },
                 {
@@ -158,7 +175,7 @@
                     "URL": "https://mumdimsum.com/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d3171597-Reviews-Mum_Dim_Sum-Paris_Ile_de_France.html"
                 }
             ],
@@ -175,7 +192,7 @@
                     "URL": "https://operamandarin.fr/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1744012-Reviews-Opera_Mandarin-Paris_Ile_de_France.html"
                 }
             ],
@@ -209,7 +226,7 @@
                     "URL": "https://www.taokan.fr/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d9607961-Reviews-Taokan_Saint_Honore-Paris_Ile_de_France.html"
                 }
             ],
@@ -226,7 +243,7 @@
                     "URL": "https://www.taokan.fr/"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d3542765-Reviews-Taokan-Paris_Ile_de_France.html"
                 }
             ],
@@ -247,7 +264,7 @@
                     "URL": "https://restaurantguru.com/Tricotin-Paris"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d719877-Reviews-Tricotin-Paris_Ile_de_France.html"
                 },
                 {
@@ -289,7 +306,7 @@
                     "URL": "https://www.yoom.fr"
                 },
                 {
-                    "name": "TripAdvisor",
+                    "name": "Tripadvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2215426-Reviews-Yoom-Paris_Ile_de_France.html"
                 },
                 {
