@@ -112,6 +112,23 @@
             "address": "19 avenue Kléber 75016"
         },
         {
+            "title": "Opera Mandarin",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://operamandarin.fr/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1744012-Reviews-Opera_Mandarin-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.870280,
+            "lon": 2.331190,
+            "city": "Paris",
+            "address": "23 boulevard des Capucines, 75002 Paris France"
+        },
+        {
             "title": "Shang Palace",
             "links": [
                 {
@@ -119,7 +136,7 @@
                     "URL": "https://www.shangri-la.com/paris/shangrila/dining/restaurants/shang-palace/"
                 },
                 {
-                    "name": "Yelp",
+                    "name": "TripAdvisor",
                     "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2334042-Reviews-Shang_Palace-Paris_Ile_de_France.html"
                 }
             ],
