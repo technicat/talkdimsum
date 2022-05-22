@@ -163,6 +163,23 @@
             "address": "1 rue du Mont Thabor, 75001 Paris France"
         },
         {
+            "title": "Taokan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.taokan.fr/"
+                },
+                {
+                    "name": "TripAdvisor",
+                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d3542765-Reviews-Taokan-Paris_Ile_de_France.html"
+                }
+            ],
+            "lat": 48.852667,
+            "lon": 2.331464,
+            "city": "Paris",
+            "address": "8 rue du Sabot, 75006 Paris France"
+        },
+        {
             "title": "Yoom",
             "links": [
                 {
