@@ -25,7 +25,13 @@
         "Simplified": "饺",
         "English": "dumpling",
         "Yale": "gáau",
-        "Pinyin": "jiǎo"
+        "Pinyin": "jiǎo",
+        "resources": [
+            {
+                "name": "餃",
+                "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
+            }
+        ]
     },
     {
         "Chinese": "水餃",
@@ -41,6 +47,10 @@
             {
                 "name": "水",
                 "URL": "https://en.wiktionary.org/wiki/水"
+            },
+            {
+                "name": "餃",
+                "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
             }
         ]
     },
@@ -48,7 +58,15 @@
         "Chinese": "角",
         "English": "horn-shaped",
         "Yale": "gok",
-        "Pinyin": "jiǎo"
+        "Pinyin": "jiǎo",
+        "resources": [
+            {
+              "name": "角",
+              "URL": "https://en.wiktionary.org/wiki/角"
+            }
+          ]
+        }
+      ]
     },
     {
         "Chinese": "捲",
