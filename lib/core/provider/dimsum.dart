@@ -1,5 +1,6 @@
 import 'dart:collection'; // Map
 import 'dart:convert'; // json
+import 'dart:io';
 import 'package:get/get.dart';
 
 import 'package:flutter/foundation.dart' show ChangeNotifier;
@@ -74,19 +75,24 @@ class DimSum with ChangeNotifier {
   }
 
   _loadDishList(String path) async {
-    final dishes = await rootBundle.loadString(path + '.json').then((str) =>
-        List<Dish>.from(jsonDecode(str).map((json) => Dish.fromJson(json))));
-    for (var dish in dishes) {
-      for (var word in dish.words) {
-        // although we only really use the first word
-        Word.add(word);
+    try {
+      final dishes = await rootBundle.loadString(path + '.json').then((str) =>
+          List<Dish>.from(jsonDecode(str).map((json) => Dish.fromJson(json))));
+      for (var dish in dishes) {
+        for (var word in dish.words) {
+          // although we only really use the first word
+          Word.add(word);
+        }
+        addDish(dish);
       }
-      addDish(dish);
+      //  for (var dish in dishes) {
+      //    addDish(dish);
+      //  }
+      notifyListeners();
+    } catch (e) {
+      print("Error reading json " + path);
+      print(e);
     }
-    //  for (var dish in dishes) {
-    //    addDish(dish);
-    //  }
-    notifyListeners();
   }
 
   loadCategories() async {

@@ -12,30 +12,11 @@ part of 'phrases.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more informations: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
 
 Phrases _$PhrasesFromJson(Map<String, dynamic> json) {
   return _Phrases.fromJson(json);
 }
-
-/// @nodoc
-class _$PhrasesTearOff {
-  const _$PhrasesTearOff();
-
-  _Phrases call(String name, List<Line> lines) {
-    return _Phrases(
-      name,
-      lines,
-    );
-  }
-
-  Phrases fromJson(Map<String, Object?> json) {
-    return Phrases.fromJson(json);
-  }
-}
-
-/// @nodoc
-const $Phrases = _$PhrasesTearOff();
 
 /// @nodoc
 mixin _$Phrases {
@@ -81,34 +62,35 @@ class _$PhrasesCopyWithImpl<$Res> implements $PhrasesCopyWith<$Res> {
 }
 
 /// @nodoc
-abstract class _$PhrasesCopyWith<$Res> implements $PhrasesCopyWith<$Res> {
-  factory _$PhrasesCopyWith(_Phrases value, $Res Function(_Phrases) then) =
-      __$PhrasesCopyWithImpl<$Res>;
+abstract class _$$_PhrasesCopyWith<$Res> implements $PhrasesCopyWith<$Res> {
+  factory _$$_PhrasesCopyWith(
+          _$_Phrases value, $Res Function(_$_Phrases) then) =
+      __$$_PhrasesCopyWithImpl<$Res>;
   @override
   $Res call({String name, List<Line> lines});
 }
 
 /// @nodoc
-class __$PhrasesCopyWithImpl<$Res> extends _$PhrasesCopyWithImpl<$Res>
-    implements _$PhrasesCopyWith<$Res> {
-  __$PhrasesCopyWithImpl(_Phrases _value, $Res Function(_Phrases) _then)
-      : super(_value, (v) => _then(v as _Phrases));
+class __$$_PhrasesCopyWithImpl<$Res> extends _$PhrasesCopyWithImpl<$Res>
+    implements _$$_PhrasesCopyWith<$Res> {
+  __$$_PhrasesCopyWithImpl(_$_Phrases _value, $Res Function(_$_Phrases) _then)
+      : super(_value, (v) => _then(v as _$_Phrases));
 
   @override
-  _Phrases get _value => super._value as _Phrases;
+  _$_Phrases get _value => super._value as _$_Phrases;
 
   @override
   $Res call({
     Object? name = freezed,
     Object? lines = freezed,
   }) {
-    return _then(_Phrases(
+    return _then(_$_Phrases(
       name == freezed
           ? _value.name
           : name // ignore: cast_nullable_to_non_nullable
               as String,
       lines == freezed
-          ? _value.lines
+          ? _value._lines
           : lines // ignore: cast_nullable_to_non_nullable
               as List<Line>,
     ));
@@ -118,15 +100,21 @@ class __$PhrasesCopyWithImpl<$Res> extends _$PhrasesCopyWithImpl<$Res>
 /// @nodoc
 @JsonSerializable()
 class _$_Phrases extends _Phrases with DiagnosticableTreeMixin {
-  _$_Phrases(this.name, this.lines) : super._();
+  _$_Phrases(this.name, final List<Line> lines)
+      : _lines = lines,
+        super._();
 
   factory _$_Phrases.fromJson(Map<String, dynamic> json) =>
       _$$_PhrasesFromJson(json);
 
   @override
   final String name;
+  final List<Line> _lines;
   @override
-  final List<Line> lines;
+  List<Line> get lines {
+    // ignore: implicit_dynamic_type
+    return EqualUnmodifiableListView(_lines);
+  }
 
   @override
   String toString({DiagnosticLevel minLevel = DiagnosticLevel.info}) {
@@ -146,21 +134,22 @@ class _$_Phrases extends _Phrases with DiagnosticableTreeMixin {
   bool operator ==(dynamic other) {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
-            other is _Phrases &&
+            other is _$_Phrases &&
             const DeepCollectionEquality().equals(other.name, name) &&
-            const DeepCollectionEquality().equals(other.lines, lines));
+            const DeepCollectionEquality().equals(other._lines, _lines));
   }
 
+  @JsonKey(ignore: true)
   @override
   int get hashCode => Object.hash(
       runtimeType,
       const DeepCollectionEquality().hash(name),
-      const DeepCollectionEquality().hash(lines));
+      const DeepCollectionEquality().hash(_lines));
 
   @JsonKey(ignore: true)
   @override
-  _$PhrasesCopyWith<_Phrases> get copyWith =>
-      __$PhrasesCopyWithImpl<_Phrases>(this, _$identity);
+  _$$_PhrasesCopyWith<_$_Phrases> get copyWith =>
+      __$$_PhrasesCopyWithImpl<_$_Phrases>(this, _$identity);
 
   @override
   Map<String, dynamic> toJson() {
@@ -169,17 +158,17 @@ class _$_Phrases extends _Phrases with DiagnosticableTreeMixin {
 }
 
 abstract class _Phrases extends Phrases {
-  factory _Phrases(String name, List<Line> lines) = _$_Phrases;
+  factory _Phrases(final String name, final List<Line> lines) = _$_Phrases;
   _Phrases._() : super._();
 
   factory _Phrases.fromJson(Map<String, dynamic> json) = _$_Phrases.fromJson;
 
   @override
-  String get name;
+  String get name => throw _privateConstructorUsedError;
   @override
-  List<Line> get lines;
+  List<Line> get lines => throw _privateConstructorUsedError;
   @override
   @JsonKey(ignore: true)
-  _$PhrasesCopyWith<_Phrases> get copyWith =>
+  _$$_PhrasesCopyWith<_$_Phrases> get copyWith =>
       throw _privateConstructorUsedError;
 }

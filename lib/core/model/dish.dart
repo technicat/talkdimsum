@@ -20,7 +20,7 @@ class Dish {
   final List<String> tags;
   @JsonKey(required: true)
   final List<Word> words;
-  @JsonKey(defaultValue: [])
+  @JsonKey(required: true)
   final List<Link> resources;
 
   Dish(this.description, this.images, this.tags, this.words, this.resources);

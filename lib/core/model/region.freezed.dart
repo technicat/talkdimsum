@@ -12,30 +12,11 @@ part of 'region.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more informations: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
 
 Region _$RegionFromJson(Map<String, dynamic> json) {
   return _Region.fromJson(json);
 }
-
-/// @nodoc
-class _$RegionTearOff {
-  const _$RegionTearOff();
-
-  _Region call(String name, List<Place> places) {
-    return _Region(
-      name,
-      places,
-    );
-  }
-
-  Region fromJson(Map<String, Object?> json) {
-    return Region.fromJson(json);
-  }
-}
-
-/// @nodoc
-const $Region = _$RegionTearOff();
 
 /// @nodoc
 mixin _$Region {
@@ -81,34 +62,34 @@ class _$RegionCopyWithImpl<$Res> implements $RegionCopyWith<$Res> {
 }
 
 /// @nodoc
-abstract class _$RegionCopyWith<$Res> implements $RegionCopyWith<$Res> {
-  factory _$RegionCopyWith(_Region value, $Res Function(_Region) then) =
-      __$RegionCopyWithImpl<$Res>;
+abstract class _$$_RegionCopyWith<$Res> implements $RegionCopyWith<$Res> {
+  factory _$$_RegionCopyWith(_$_Region value, $Res Function(_$_Region) then) =
+      __$$_RegionCopyWithImpl<$Res>;
   @override
   $Res call({String name, List<Place> places});
 }
 
 /// @nodoc
-class __$RegionCopyWithImpl<$Res> extends _$RegionCopyWithImpl<$Res>
-    implements _$RegionCopyWith<$Res> {
-  __$RegionCopyWithImpl(_Region _value, $Res Function(_Region) _then)
-      : super(_value, (v) => _then(v as _Region));
+class __$$_RegionCopyWithImpl<$Res> extends _$RegionCopyWithImpl<$Res>
+    implements _$$_RegionCopyWith<$Res> {
+  __$$_RegionCopyWithImpl(_$_Region _value, $Res Function(_$_Region) _then)
+      : super(_value, (v) => _then(v as _$_Region));
 
   @override
-  _Region get _value => super._value as _Region;
+  _$_Region get _value => super._value as _$_Region;
 
   @override
   $Res call({
     Object? name = freezed,
     Object? places = freezed,
   }) {
-    return _then(_Region(
+    return _then(_$_Region(
       name == freezed
           ? _value.name
           : name // ignore: cast_nullable_to_non_nullable
               as String,
       places == freezed
-          ? _value.places
+          ? _value._places
           : places // ignore: cast_nullable_to_non_nullable
               as List<Place>,
     ));
@@ -118,15 +99,21 @@ class __$RegionCopyWithImpl<$Res> extends _$RegionCopyWithImpl<$Res>
 /// @nodoc
 @JsonSerializable()
 class _$_Region extends _Region {
-  _$_Region(this.name, this.places) : super._();
+  _$_Region(this.name, final List<Place> places)
+      : _places = places,
+        super._();
 
   factory _$_Region.fromJson(Map<String, dynamic> json) =>
       _$$_RegionFromJson(json);
 
   @override
   final String name;
+  final List<Place> _places;
   @override
-  final List<Place> places;
+  List<Place> get places {
+    // ignore: implicit_dynamic_type
+    return EqualUnmodifiableListView(_places);
+  }
 
   @override
   String toString() {
@@ -137,21 +124,22 @@ class _$_Region extends _Region {
   bool operator ==(dynamic other) {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
-            other is _Region &&
+            other is _$_Region &&
             const DeepCollectionEquality().equals(other.name, name) &&
-            const DeepCollectionEquality().equals(other.places, places));
+            const DeepCollectionEquality().equals(other._places, _places));
   }
 
+  @JsonKey(ignore: true)
   @override
   int get hashCode => Object.hash(
       runtimeType,
       const DeepCollectionEquality().hash(name),
-      const DeepCollectionEquality().hash(places));
+      const DeepCollectionEquality().hash(_places));
 
   @JsonKey(ignore: true)
   @override
-  _$RegionCopyWith<_Region> get copyWith =>
-      __$RegionCopyWithImpl<_Region>(this, _$identity);
+  _$$_RegionCopyWith<_$_Region> get copyWith =>
+      __$$_RegionCopyWithImpl<_$_Region>(this, _$identity);
 
   @override
   Map<String, dynamic> toJson() {
@@ -160,16 +148,17 @@ class _$_Region extends _Region {
 }
 
 abstract class _Region extends Region {
-  factory _Region(String name, List<Place> places) = _$_Region;
+  factory _Region(final String name, final List<Place> places) = _$_Region;
   _Region._() : super._();
 
   factory _Region.fromJson(Map<String, dynamic> json) = _$_Region.fromJson;
 
   @override
-  String get name;
+  String get name => throw _privateConstructorUsedError;
   @override
-  List<Place> get places;
+  List<Place> get places => throw _privateConstructorUsedError;
   @override
   @JsonKey(ignore: true)
-  _$RegionCopyWith<_Region> get copyWith => throw _privateConstructorUsedError;
+  _$$_RegionCopyWith<_$_Region> get copyWith =>
+      throw _privateConstructorUsedError;
 }

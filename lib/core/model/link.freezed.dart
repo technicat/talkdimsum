@@ -12,30 +12,11 @@ part of 'link.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more informations: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
 
 Link _$LinkFromJson(Map<String, dynamic> json) {
   return _Link.fromJson(json);
 }
-
-/// @nodoc
-class _$LinkTearOff {
-  const _$LinkTearOff();
-
-  _Link call(String name, @JsonKey(name: 'URL') String url) {
-    return _Link(
-      name,
-      url,
-    );
-  }
-
-  Link fromJson(Map<String, Object?> json) {
-    return Link.fromJson(json);
-  }
-}
-
-/// @nodoc
-const $Link = _$LinkTearOff();
 
 /// @nodoc
 mixin _$Link {
@@ -82,28 +63,28 @@ class _$LinkCopyWithImpl<$Res> implements $LinkCopyWith<$Res> {
 }
 
 /// @nodoc
-abstract class _$LinkCopyWith<$Res> implements $LinkCopyWith<$Res> {
-  factory _$LinkCopyWith(_Link value, $Res Function(_Link) then) =
-      __$LinkCopyWithImpl<$Res>;
+abstract class _$$_LinkCopyWith<$Res> implements $LinkCopyWith<$Res> {
+  factory _$$_LinkCopyWith(_$_Link value, $Res Function(_$_Link) then) =
+      __$$_LinkCopyWithImpl<$Res>;
   @override
   $Res call({String name, @JsonKey(name: 'URL') String url});
 }
 
 /// @nodoc
-class __$LinkCopyWithImpl<$Res> extends _$LinkCopyWithImpl<$Res>
-    implements _$LinkCopyWith<$Res> {
-  __$LinkCopyWithImpl(_Link _value, $Res Function(_Link) _then)
-      : super(_value, (v) => _then(v as _Link));
+class __$$_LinkCopyWithImpl<$Res> extends _$LinkCopyWithImpl<$Res>
+    implements _$$_LinkCopyWith<$Res> {
+  __$$_LinkCopyWithImpl(_$_Link _value, $Res Function(_$_Link) _then)
+      : super(_value, (v) => _then(v as _$_Link));
 
   @override
-  _Link get _value => super._value as _Link;
+  _$_Link get _value => super._value as _$_Link;
 
   @override
   $Res call({
     Object? name = freezed,
     Object? url = freezed,
   }) {
-    return _then(_Link(
+    return _then(_$_Link(
       name == freezed
           ? _value.name
           : name // ignore: cast_nullable_to_non_nullable
@@ -147,11 +128,12 @@ class _$_Link extends _Link with DiagnosticableTreeMixin {
   bool operator ==(dynamic other) {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
-            other is _Link &&
+            other is _$_Link &&
             const DeepCollectionEquality().equals(other.name, name) &&
             const DeepCollectionEquality().equals(other.url, url));
   }
 
+  @JsonKey(ignore: true)
   @override
   int get hashCode => Object.hash(
       runtimeType,
@@ -160,8 +142,8 @@ class _$_Link extends _Link with DiagnosticableTreeMixin {
 
   @JsonKey(ignore: true)
   @override
-  _$LinkCopyWith<_Link> get copyWith =>
-      __$LinkCopyWithImpl<_Link>(this, _$identity);
+  _$$_LinkCopyWith<_$_Link> get copyWith =>
+      __$$_LinkCopyWithImpl<_$_Link>(this, _$identity);
 
   @override
   Map<String, dynamic> toJson() {
@@ -170,17 +152,18 @@ class _$_Link extends _Link with DiagnosticableTreeMixin {
 }
 
 abstract class _Link extends Link {
-  factory _Link(String name, @JsonKey(name: 'URL') String url) = _$_Link;
+  factory _Link(final String name, @JsonKey(name: 'URL') final String url) =
+      _$_Link;
   _Link._() : super._();
 
   factory _Link.fromJson(Map<String, dynamic> json) = _$_Link.fromJson;
 
   @override
-  String get name;
+  String get name => throw _privateConstructorUsedError;
   @override
   @JsonKey(name: 'URL')
-  String get url;
+  String get url => throw _privateConstructorUsedError;
   @override
   @JsonKey(ignore: true)
-  _$LinkCopyWith<_Link> get copyWith => throw _privateConstructorUsedError;
+  _$$_LinkCopyWith<_$_Link> get copyWith => throw _privateConstructorUsedError;
 }

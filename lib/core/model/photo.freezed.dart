@@ -12,30 +12,11 @@ part of 'photo.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more informations: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
 
 Photo _$PhotoFromJson(Map<String, dynamic> json) {
   return _Photo.fromJson(json);
 }
-
-/// @nodoc
-class _$PhotoTearOff {
-  const _$PhotoTearOff();
-
-  _Photo call(@JsonKey(name: 'image') String name, [String place = ""]) {
-    return _Photo(
-      name,
-      place,
-    );
-  }
-
-  Photo fromJson(Map<String, Object?> json) {
-    return Photo.fromJson(json);
-  }
-}
-
-/// @nodoc
-const $Photo = _$PhotoTearOff();
 
 /// @nodoc
 mixin _$Photo {
@@ -82,28 +63,28 @@ class _$PhotoCopyWithImpl<$Res> implements $PhotoCopyWith<$Res> {
 }
 
 /// @nodoc
-abstract class _$PhotoCopyWith<$Res> implements $PhotoCopyWith<$Res> {
-  factory _$PhotoCopyWith(_Photo value, $Res Function(_Photo) then) =
-      __$PhotoCopyWithImpl<$Res>;
+abstract class _$$_PhotoCopyWith<$Res> implements $PhotoCopyWith<$Res> {
+  factory _$$_PhotoCopyWith(_$_Photo value, $Res Function(_$_Photo) then) =
+      __$$_PhotoCopyWithImpl<$Res>;
   @override
   $Res call({@JsonKey(name: 'image') String name, String place});
 }
 
 /// @nodoc
-class __$PhotoCopyWithImpl<$Res> extends _$PhotoCopyWithImpl<$Res>
-    implements _$PhotoCopyWith<$Res> {
-  __$PhotoCopyWithImpl(_Photo _value, $Res Function(_Photo) _then)
-      : super(_value, (v) => _then(v as _Photo));
+class __$$_PhotoCopyWithImpl<$Res> extends _$PhotoCopyWithImpl<$Res>
+    implements _$$_PhotoCopyWith<$Res> {
+  __$$_PhotoCopyWithImpl(_$_Photo _value, $Res Function(_$_Photo) _then)
+      : super(_value, (v) => _then(v as _$_Photo));
 
   @override
-  _Photo get _value => super._value as _Photo;
+  _$_Photo get _value => super._value as _$_Photo;
 
   @override
   $Res call({
     Object? name = freezed,
     Object? place = freezed,
   }) {
-    return _then(_Photo(
+    return _then(_$_Photo(
       name == freezed
           ? _value.name
           : name // ignore: cast_nullable_to_non_nullable
@@ -127,8 +108,8 @@ class _$_Photo extends _Photo with DiagnosticableTreeMixin {
   @override
   @JsonKey(name: 'image')
   final String name;
-  @JsonKey()
   @override
+  @JsonKey()
   final String place;
 
   @override
@@ -149,11 +130,12 @@ class _$_Photo extends _Photo with DiagnosticableTreeMixin {
   bool operator ==(dynamic other) {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
-            other is _Photo &&
+            other is _$_Photo &&
             const DeepCollectionEquality().equals(other.name, name) &&
             const DeepCollectionEquality().equals(other.place, place));
   }
 
+  @JsonKey(ignore: true)
   @override
   int get hashCode => Object.hash(
       runtimeType,
@@ -162,8 +144,8 @@ class _$_Photo extends _Photo with DiagnosticableTreeMixin {
 
   @JsonKey(ignore: true)
   @override
-  _$PhotoCopyWith<_Photo> get copyWith =>
-      __$PhotoCopyWithImpl<_Photo>(this, _$identity);
+  _$$_PhotoCopyWith<_$_Photo> get copyWith =>
+      __$$_PhotoCopyWithImpl<_$_Photo>(this, _$identity);
 
   @override
   Map<String, dynamic> toJson() {
@@ -172,18 +154,19 @@ class _$_Photo extends _Photo with DiagnosticableTreeMixin {
 }
 
 abstract class _Photo extends Photo {
-  factory _Photo(@JsonKey(name: 'image') String name, [String place]) =
-      _$_Photo;
+  factory _Photo(@JsonKey(name: 'image') final String name,
+      [final String place]) = _$_Photo;
   _Photo._() : super._();
 
   factory _Photo.fromJson(Map<String, dynamic> json) = _$_Photo.fromJson;
 
   @override
   @JsonKey(name: 'image')
-  String get name;
+  String get name => throw _privateConstructorUsedError;
   @override
-  String get place;
+  String get place => throw _privateConstructorUsedError;
   @override
   @JsonKey(ignore: true)
-  _$PhotoCopyWith<_Photo> get copyWith => throw _privateConstructorUsedError;
+  _$$_PhotoCopyWith<_$_Photo> get copyWith =>
+      throw _privateConstructorUsedError;
 }

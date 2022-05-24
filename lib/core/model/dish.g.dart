@@ -9,7 +9,7 @@ part of 'dish.dart';
 Dish _$DishFromJson(Map<String, dynamic> json) {
   $checkKeys(
     json,
-    requiredKeys: const ['description', 'images', 'words'],
+    requiredKeys: const ['description', 'images', 'words', 'resources'],
   );
   return Dish(
     json['description'] as String,
@@ -20,10 +20,9 @@ Dish _$DishFromJson(Map<String, dynamic> json) {
     (json['words'] as List<dynamic>)
         .map((e) => Word.fromJson(e as Map<String, dynamic>))
         .toList(),
-    (json['resources'] as List<dynamic>?)
-            ?.map((e) => Link.fromJson(e as Map<String, dynamic>))
-            .toList() ??
-        [],
+    (json['resources'] as List<dynamic>)
+        .map((e) => Link.fromJson(e as Map<String, dynamic>))
+        .toList(),
   );
 }
 
