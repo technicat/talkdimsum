@@ -32,7 +32,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n[豆](https://en.wiktionary.org/wiki/%E8%B1%86) is *bean*, and [沙](https://en.wiktionary.org/wiki/%E6%B2%99) is *sand*, so [豆沙](https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99) is *bean sand* (bean paste). 包 is “bun.”",
+        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n[豆](https://en.wiktionary.org/wiki/%E8%B1%86) is *bean*, and [沙](https://en.wiktionary.org/wiki/%E6%B2%99) is *sand*, so [豆沙](https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99) is *bean sand* (bean paste). [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*",
         "tags": [
             "豆沙",
             "紅色",
@@ -82,19 +82,19 @@
                 "resources": [
                     {
                         "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/芝麻"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
                     },
                     {
                         "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/芝"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
                     },
                     {
                         "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/麻"
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
                     }
                 ]
             }
@@ -103,13 +103,9 @@
             {
                 "image": "blacksesamebunkj",
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
-            },
-            {
-                "image": "blacksesamebunshenghoi",
-                "place": "Sheng Hoi Dim Sum"
             }
         ],
-        "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n芝麻 is “sesame paste,” and 包 is “bun.”",
+        "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n[芝麻](https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB) is *sesame paste*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*",
         "tags": [
             "黑芝麻",
             "芝麻",
@@ -144,19 +140,19 @@
                 "resources": [
                     {
                         "name": "蓮蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蓮蓉"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
                     },
                     {
                         "name": "蓮",
-                        "URL": "https://en.wiktionary.org/wiki/蓮"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
                     },
                     {
                         "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/蓉"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
                     }
                 ]
             }
@@ -167,7 +163,7 @@
                 "place": "Imperial Garden, Fresno, California"
             }
         ],
-        "description": "Steamed buns filled with lotus seed paste.\n\n蓮蓉 is “lotus seed paste“, and 包 is “bun“",
+        "description": "Steamed buns filled with lotus seed paste.\n\n蓮蓉 is “lotus seed paste“, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*",
         "tags": [
             "點心",
             "蓮蓉",
