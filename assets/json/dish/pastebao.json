@@ -9,19 +9,19 @@
                 "resources": [
                     {
                         "name": "豆沙",
-                        "URL": "https://en.wiktionary.org/wiki/豆沙"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99"
                     },
                     {
                         "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/豆"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
                     },
                     {
                         "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/沙"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/包"
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
                     }
                 ]
             }
@@ -32,7 +32,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n[豆](https://en.wiktionary.org/wiki/豆) is *bean*, and [沙](https://en.wiktionary.org/wiki/沙) is *sand*, so [豆沙](https://en.wiktionary.org/wiki/豆沙) is *bean sand* (bean paste). 包 is “bun.”",
+        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n[豆](https://en.wiktionary.org/wiki/%E8%B1%86) is *bean*, and [沙](https://en.wiktionary.org/wiki/%E6%B2%99) is *sand*, so [豆沙](https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99) is *bean sand* (bean paste). 包 is “bun.”",
         "tags": [
             "豆沙",
             "紅色",
@@ -82,19 +82,19 @@
                 "resources": [
                     {
                         "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
+                        "URL": "https://en.wiktionary.org/wiki/芝麻"
                     },
                     {
                         "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
+                        "URL": "https://en.wiktionary.org/wiki/芝"
                     },
                     {
                         "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
+                        "URL": "https://en.wiktionary.org/wiki/麻"
                     },
                     {
                         "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        "URL": "https://en.wiktionary.org/wiki/包"
                     }
                 ]
             }
@@ -103,9 +103,13 @@
             {
                 "image": "blacksesamebunkj",
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
+            },
+            {
+                "image": "blacksesamebunshenghoi",
+                "place": "Sheng Hoi Dim Sum"
             }
         ],
-        "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n[芝麻](https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB) is *sesame paste*, and 包 is “bun.”",
+        "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n芝麻 is “sesame paste,” and 包 is “bun.”",
         "tags": [
             "黑芝麻",
             "芝麻",
