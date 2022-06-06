@@ -32,7 +32,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n[豆](https://en.wiktionary.org/wiki/%E8%B1%86) is *bean*, and [沙](https://en.wiktionary.org/wiki/%E6%B2%99) is *sand*, so [豆沙](https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99) is *bean sand* (bean paste). [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*",
+        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n[豆](https://en.wiktionary.org/wiki/%E8%B1%86) is *bean*, and [沙](https://en.wiktionary.org/wiki/%E6%B2%99) is *sand*, so [豆沙](https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99) is *bean sand* (bean paste). [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so 豆沙包 is *bean paste bun*.",
         "tags": [
             "豆沙",
             "紅色",
@@ -43,20 +43,16 @@
         ],
         "resources": [
             {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/red-bean-buns-dou-sha-bao/"
-            },
-            {
-                "name": "Mary's Test Kitchen",
-                "URL": "http://www.marystestkitchen.com/chinese-steamed-sweet-red-bean-buns-dou-sha-bao-vegan-recipe/"
-            },
-            {
                 "name": "China Sichuan Food",
                 "URL": "https://www.chinasichuanfood.com/homemade-red-bean-buns/"
             },
             {
                 "name": "China Yummy Food",
                 "URL": "https://www.chinayummyfood.com/red-bean-buns-dou-sha-bao/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
             },
             {
                 "name": "Red House Spice",
@@ -105,7 +101,7 @@
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n[芝麻](https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB) is *sesame paste*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*",
+        "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n[芝麻](https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB) is *sesame paste*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so 芝麻包 is *sesame paste bun*.",
         "tags": [
             "黑芝麻",
             "芝麻",
@@ -163,7 +159,7 @@
                 "place": "Imperial Garden, Fresno, California"
             }
         ],
-        "description": "Steamed buns filled with lotus seed paste.\n\n蓮蓉 is “lotus seed paste“, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*",
+        "description": "Steamed buns filled with lotus seed paste.\n\n[蓮蓉](https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89) is *lotus seed paste*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so 蓮蓉包 is *lotus seed paste bun*.",
         "tags": [
             "點心",
             "蓮蓉",
@@ -171,16 +167,16 @@
         ],
         "resources": [
             {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
-            },
-            {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Lotus-Seed-Paste-Bun"
             },
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/lotus-seed-paste-buns"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
             }
         ]
     }
