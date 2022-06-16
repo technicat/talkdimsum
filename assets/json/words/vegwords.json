@@ -99,6 +99,27 @@
         "Pinyin": "xìng rén"
     },
     {
+        "Chinese": "核桃",
+        "English": "walnut",
+        "Yale": "haht tòuh",
+        "Jyutping": "hat6 to2",
+        "Pinyin": "hé tao",
+        "resources": [
+            {
+                "name": "核桃",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A0%B8%E6%A1%83"
+            },
+            {
+                "name": "核",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A0%B8"
+            },
+            {
+                "name": "桃",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A1%83"
+            }
+        ]
+    },
+    {
         "Chinese": "芋頭",
         "Simplified": "芋头",
         "English": "taro",
