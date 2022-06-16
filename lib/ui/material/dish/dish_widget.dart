@@ -7,7 +7,7 @@ import 'package:talkdimsum/ui/common/dish/dish_tap_image_widget.dart';
 
 import '../word/word_widget.dart';
 
-//import 'tags_row.dart';
+import 'tags_row.dart';
 
 class DishWidget extends StatelessWidget {
   final Dish dish;
@@ -19,7 +19,7 @@ class DishWidget extends StatelessWidget {
         WordWidget(word: dish.word),
         Expanded(child: DishDescriptionWidget(dish: dish)),
         // broken navigation
-        //      TagsRow(dish: dish),
+        // TagsRow(dish: dish),
         DishTapImageWidget(dish: dish)
       ]);
 }
