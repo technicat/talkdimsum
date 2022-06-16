@@ -1,47 +1,108 @@
 [
- 
-  {
-    "words": [
-      {
-        "Chinese": "蠔油",
-        "Simplified": "蚝油",
-        "English": "oyster sauce",
-        "Yale": "hòuh yàuh",
-        "Pinyin": "háo yóu",
+    {
+        "words": [
+            {
+                "Chinese": "蠔油",
+                "Simplified": "蚝油",
+                "English": "oyster sauce",
+                "Yale": "hòuh yàuh",
+                "Pinyin": "háo yóu",
+                "resources": [
+                    {
+                        "name": "蠔油",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9"
+                    },
+                    {
+                        "name": "蠔",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94"
+                    },
+                    {
+                        "name": "油",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "oystersaucedimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) is a thick dark brown sauce made from oyster extracts, particularly popular in Cantoneses dishes, added to vegetables and noodles.\n\nVegetarian oyster sauce is available, made with mushrooms.\n\n**Characters**\n\n[蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*.",
+        "tags": [
+            "粵菜",
+            "蠔油",
+            "蠔",
+            "油"
+        ],
         "resources": [
-          {
-            "name": "蠔油",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9"
-          },
-          {
-            "name": "蠔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A0%94"
-          },
-          {
-            "name": "油",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-          }
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Oyster_sauce"
+            }
         ]
-      }
-    ],
-    "images": [
-      {
-        "image": "oystersaucedimsumcafe",
-        "place": "Dim Sum Cafe, Las Vegas, Nevada"
-      }
-    ],
-    "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) is a thick dark brown sauce made from oyster extracts, particularly popular in Cantoneses dishes, added to vegetables and noodles.\n\nVegetarian oyster sauce is available, made with mushrooms.\n\n**Characters**\n\n[蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*.",
-    "tags": [
-      "粵菜",
-      "蠔油",
-      "蠔",
-      "油"
-    ],
-    "resources": [
-      {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Oyster_sauce"
-      }
-    ]
-  }
+    },
+    {
+        "words": [
+            {
+                "Chinese": "純素蠔油",
+                "Simplified": "纯素蚝油",
+                "English": "vegan oyster sauce",
+                "Yale": "sèuhn sou hòuh yàuh",
+                "Pinyin": "chún sù háo yóu",
+                "resources": [
+                    {
+                        "name": "純素",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%94%E7%B4%A0"
+                    },
+                    {
+                        "name": "純",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%94"
+                    },
+                    {
+                        "name": "素",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
+                    },
+                    {
+                        "name": "蠔",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94"
+                    },
+                    {
+                        "name": "油",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "oystersaucedimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Vegan [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) typically substitutes mushrooms for oysters.\n\n**Characters**\n\n[純素](https://en.wiktionary.org/wiki/%E7%B4%94%E7%B4%A0) is *vegan*, [蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*.",
+        "tags": [
+            "純素",
+            "粵菜",
+            "蠔油",
+            "蠔",
+            "油"
+        ],
+        "resources": [
+            {
+                "name": "Living My Veg Life",
+                "URL": "https://www.livingmyveglife.com/vegan-oyster-sauce/"
+            },
+            {
+                "name": "Rabbits and Wolves",
+                "URL": "https://www.rabbitandwolves.com/vegan-oyster-sauce/"
+            },
+            
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Oyster_sauce"
+            }
+        ]
+    }
 ]
