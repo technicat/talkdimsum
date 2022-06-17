@@ -50,23 +50,27 @@
     {
         "words": [
             {
-                "Chinese": "純素蠔油",
-                "Simplified": "纯素蚝油",
+                "Chinese": "素食蠔油",
+                "Simplified": "素食蚝油",
                 "English": "vegan oyster sauce",
                 "Yale": "sèuhn sou hòuh yàuh",
                 "Pinyin": "chún sù háo yóu",
                 "resources": [
                     {
-                        "name": "純素",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%94%E7%B4%A0"
-                    },
-                    {
-                        "name": "純",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%94"
+                        "name": "素食",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F"
                     },
                     {
                         "name": "素",
                         "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
+                    },
+                    {
+                        "name": "食",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%9F"
+                    },
+                    {
+                        "name": "蠔油",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9"
                     },
                     {
                         "name": "蠔",
@@ -85,7 +89,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Vegan [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) typically substitutes mushrooms for oysters.\n\n**Characters**\n\n[純素](https://en.wiktionary.org/wiki/%E7%B4%94%E7%B4%A0) is *vegan*, [蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*.",
+        "description": "Vegan [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) typically substitutes mushrooms for oysters.\n\n**Characters**\n\n[素食](https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F) is *vegetarian*. [蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*, and 素食蠔油 is *vegetarian oyster oil*.",
         "tags": [
             "純素",
             "粵菜",
@@ -101,6 +105,10 @@
             {
                 "name": "Living My Veg Life",
                 "URL": "https://www.livingmyveglife.com/vegan-oyster-sauce/"
+            },
+            {
+                "name": "Okinomi Kitchen",
+                "URL": "https://www.okonomikitchen.com/vegetarian-oyster-sauce/"
             },
             {
                 "name": "Rabbits and Wolves",
