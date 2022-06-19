@@ -401,6 +401,19 @@
             "lon": -98.567840,
             "city": "San Antonio",
             "address": "8822 Wurzbach Rd San Antonio, TX 78240"
+        },
+        {
+            "title": "New Palace",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-palace-restaurant-stafford-2"
+                }
+            ],
+            "lat": 29.634292419676214, 
+            "lon": -95.58505975808659,
+            "city": "Stafford",
+            "address": "12755 Sw Fwy Stafford, TX 77477"
         }
     ]
 }
