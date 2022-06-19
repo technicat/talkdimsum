@@ -199,7 +199,7 @@
             "lat": 28.553900,
             "lon": -81.363830,
             "city": "Orlando",
-            "address": "1212 Woodward St #6, Orlando, FL 32803 "
+            "address": "1212 Woodward St #6, Orlando, FL 32803"
         },
         {
             "title": "China Pavilion",
@@ -281,6 +281,23 @@
             "lon": -80.111730,
             "city": "West Palm Beach",
             "address": "2845 N Military Trl West Palm Beach, FL 33409"
+        },
+        {
+            "title": "Dim Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.dimdimsumorlando.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mings-bistro-orlando"
+                }
+            ],
+            "lat": 28.492430,
+            "lon": -81.511360,
+            "city": "Windermere",
+            "address": "4750 The Grove Drive Ste 100, Windermere, FL 34786"
         }
     ]
 }
