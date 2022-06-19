@@ -320,7 +320,7 @@
             "lat": 1.305343,
             "lon": 103.832938,
             "city": "Orchard",
-            "address": " Singapore Marriott Hotel, 320 Orchard Road Level 3, 238865"
+            "address": "Singapore Marriott Hotel, 320 Orchard Road Level 3, 238865"
         },
         {
             "title": "Tim Ho Wan (Great World City)",
@@ -359,6 +359,27 @@
             "lon": 103.849280,
             "city": "Raffles Place",
             "address": "OCBC Centre, 65 Chulia St #33-01, 049513"
+        },
+        {
+            "title": "JU Signatures",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://jusignatures.com/"
+                },
+                {
+                    "name": "Daniel Food Diary",
+                    "URL": "https://danielfooddiary.com/2022/06/12/jusignatures/"
+                }
+                {
+                    "name": "Great New Places",
+                    "URL": "https://greatnewplaces.com/culinary/ju-signatures/"
+                }
+            ],
+            "lat": 1.3649554664293917,
+            "lon": 103.86570785506414,
+            "city": "Serangoon Gardens",
+            "address": "4 Maju Avenue Singapore 556682 "
         },
         {
             "title": "Dim Sum",
