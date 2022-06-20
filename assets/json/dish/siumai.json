@@ -227,6 +227,10 @@
                 "URL": "https://dimsumguide.com/site/view/Stuffed-Pork-and-Shrimp-Dumplings"
             },
             {
+                "name": "Made with Lau",
+                "URL": "https://www.madewithlau.com/recipes/siu-mai"
+            },
+            {
                 "name": "Thirsty for Tea",
                 "URL": "http://www.thirstyfortea.com/recipes/siu-mai-dumplings/"
             }
@@ -556,6 +560,11 @@
             "蒸",
             "點心"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "Great British Chefs",
+                "URL": "https://www.greatbritishchefs.com/recipes/vegan-dumpling-tofu-recipe"
+            }
+        ]
     }
 ]
