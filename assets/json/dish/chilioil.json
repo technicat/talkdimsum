@@ -74,11 +74,23 @@
     {
         "words": [
             {
-                "Chinese": "辣椒油",
-                "English": "chiu chow chili oil",
-                "Yale": "laaht jīu yàuh",
-                "Pinyin": "là jiāo yóu",
+                "Chinese": "潮州辣椒油",
+                "English": "Chaozhou chili oil",
+                "Yale": "chìuh jāu laaht jīu yàuh",
+                "Pinyin": "cháo zhōu là jiāo yóu",
                 "resources": [
+                    {
+                        "name": "潮州",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
+                    },
+                    {
+                        "name": "潮",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
+                    },
+                    {
+                        "name": "州",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
+                    },
                     {
                         "name": "紅油",
                         "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E6%B2%B9"
@@ -100,7 +112,7 @@
                 "place": "168 Market, Las Vegas, Nevada"
             }
         ],
-        "description": "[Chiu chow ](https://en.wikipedia.org/wiki/Chaozhou) style chili oil contains garlic and soy sauce.",
+        "description": "[Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) style chili oil contains garlic and soy sauce.\n\n",
         "tags": [
             "潮州",
             "紅油",

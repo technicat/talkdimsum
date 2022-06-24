@@ -91,7 +91,21 @@
         "Chinese": "潮州",
         "English": "Chaozhou",
         "Yale": "chìuh jāu",
-        "Pinyin": "Cháo zhōu"
+        "Pinyin": "cháo zhōu",
+        "resources": [
+            {
+                "name": "潮州",
+                "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
+            },
+            {
+                "name": "潮",
+                "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
+            },
+            {
+                "name": "州",
+                "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
+            }
+        ]
     },
     {
         "Chinese": "揚州",
