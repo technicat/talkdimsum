@@ -8,6 +8,30 @@
         "resources": [
             {
                 "name": "菜",
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+            }
+        ]
+    },
+    {
+        "Chinese": "潮州菜",
+        "English": "Chaozhao cuisine",
+        "Yale": "chìuh jāu choi",
+        "Pinyin": "cháo zhōu cài",
+        "resources": [
+            {
+                "name": "潮州",
+                "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
+            },
+            {
+                "name": "潮",
+                "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
+            },
+            {
+                "name": "州",
+                "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
+            },
+            {
+                "name": "菜",
                 "URL": "https://en.wiktionary.org/wiki/菜"
             }
         ]
@@ -21,19 +45,19 @@
         "resources": [
             {
                 "name": "湖南",
-                "URL": "https://en.wiktionary.org/wiki/湖南"
+                "URL": "https://en.wiktionary.org/wiki/%E6%B9%96%E5%8D%97"
             },
             {
                 "name": "湖",
-                "URL": "https://en.wiktionary.org/wiki/湖"
+                "URL": "https://en.wiktionary.org/wiki/%E6%B9%96"
             },
             {
                 "name": "南",
-                "URL": "https://en.wiktionary.org/wiki/南"
+                "URL": "https://en.wiktionary.org/wiki/%E5%8D%97"
             },
             {
                 "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/菜"
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
             }
         ]
     },
@@ -46,15 +70,15 @@
         "resources": [
             {
                 "name": "韭菜",
-                "URL": "https://en.wiktionary.org/wiki/韭菜"
+                "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
             },
             {
                 "name": "韭",
-                "URL": "https://en.wiktionary.org/wiki/韭"
+                "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
             },
             {
                 "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/菜"
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
             }
         ]
     },
@@ -67,15 +91,15 @@
         "resources": [
             {
                 "name": "生菜",
-                "URL": "https://en.wiktionary.org/wiki/生菜"
+                "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E8%8F%9C"
             },
             {
                 "name": "生",
-                "URL": "https://en.wiktionary.org/wiki/生"
+                "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
             },
             {
                 "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/菜"
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
             }
         ]
     },
@@ -88,15 +112,15 @@
         "resources": [
             {
                 "name": "蕹菜",
-                "URL": "https://en.wiktionary.org/wiki/蕹菜"
+                "URL": "https://en.wiktionary.org/wiki/%E8%95%B9%E8%8F%9C"
             },
             {
                 "name": "蕹",
-                "URL": "https://en.wiktionary.org/wiki/蕹"
+                "URL": "https://en.wiktionary.org/wiki/%E8%95%B9"
             },
             {
                 "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/菜"
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
             }
         ]
     },
@@ -109,15 +133,15 @@
         "resources": [
             {
                 "name": "菠菜",
-                "URL": "https://en.wiktionary.org/wiki/菠菜"
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%8F%9C"
             },
             {
                 "name": "菠",
-                "URL": "https://en.wiktionary.org/wiki/菠"
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
             },
             {
                 "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/菜"
+                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
             }
         ]
     }
