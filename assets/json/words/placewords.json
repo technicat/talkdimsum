@@ -72,7 +72,17 @@
         "Chinese": "四川",
         "English": "Sichuan",
         "Yale": "sei chyūn",
-        "Pinyin": "sì chuān"
+        "Pinyin": "sì chuān",
+        "resources": [
+            {
+                "name": "四川",
+                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%B7%9D"
+            },
+            {
+                "name": "四",
+                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B"
+            }
+        ]
     },
     {
         "Chinese": "福建",
