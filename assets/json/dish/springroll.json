@@ -29,7 +29,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Cantonese spring rolls are deep-fried with a thin crispy wrapper and filled with minced pork, bean sprouts, and other vegetables. Not to be confused with the deep-fried cabbage-filled burritos known as “egg rolls” in Chinese-American restaurants.\n\nIn mainland China, where Spring rolls originated (in fried and non-fried incarnations), they are traditionally eaten during the Spring (Chinese New Year) Festival, hence the name.\n\n**Characters**\n\n[春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so, [春捲](https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2) is *Spring roll*.",
+        "description": "Cantonese [spring rolls](http://en.wikipedia.org/wiki/Spring_roll) are deep-fried with a thin crispy wrapper and filled with minced pork, bean sprouts, and other vegetables. Not to be confused with the deep-fried cabbage-filled burritos known as “egg rolls” in Chinese-American restaurants.\n\nIn mainland China, where Spring rolls originated (in fried and non-fried incarnations), they are traditionally eaten during the Spring (Chinese New Year) Festival, hence the name.\n\n**Characters**\n\n[春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so, [春捲](https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2) is *Spring roll*.",
         "tags": [
             "春捲",
             "茶餐廳",
@@ -104,7 +104,7 @@
                 "place": "Northside Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Spring rolls with no meat, just vegetables.\n\n**Characters**\n\nThe first character [素](https://en.wiktionary.org/wiki/%E7%B4%A0) is *vegetable*, [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 素春捲 is *vegetable Spring roll*.",
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) with no meat, just vegetables.\n\n**Characters**\n\nThe first character [素](https://en.wiktionary.org/wiki/%E7%B4%A0) is *vegetable*, [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 素春捲 is *vegetable Spring roll*.",
         "tags": [
             "茶餐廳",
             "春捲",
@@ -118,6 +118,10 @@
             {
                 "name": "Dimsumptuous",
                 "URL": "http://www.dimsumptuous.com/2013/04/vegetable-spring-rolls.html"
+            },
+            {
+                "name": "Made with Lau",
+                "URL": "https://www.madewithlau.com/recipes/egg-rolls"
             },
             {
                 "name": "Thirsty for Tea",
@@ -140,31 +144,31 @@
                 "resources": [
                     {
                         "name": "蛋白",
-                        "URL": "https://en.wiktionary.org/wiki/蛋白"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E7%99%BD"
                     },
                     {
                         "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/蛋"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
                     },
                     {
                         "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/白"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
                     },
                     {
                         "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/蝦"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
                     },
                     {
                         "name": "春捲",
-                        "URL": "https://en.wiktionary.org/wiki/春捲"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2"
                     },
                     {
                         "name": "春",
-                        "URL": "https://en.wiktionary.org/wiki/春"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
                     },
                     {
                         "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/捲"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
                     }
                 ]
             }
@@ -175,7 +179,7 @@
                 "place": "Tim Ho Wan, Las Vegas, Nevada"
             }
         ],
-        "description": "Spring rolls containing shrimp and egg white.\n\n*Characters**\n\nThe first character 蛋 is “egg“, the second character 白 is “white,” and the third character 蝦 is “shrimp,” so it's “egg white shrimp Spring roll.”",
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp and egg white.\n\n*Characters**\n\nThe first character 蛋 is “egg“, the second character 白 is “white,” and the third character 蝦 is “shrimp,” so it's “egg white shrimp Spring roll.”",
         "tags": [
             "春捲",
             "蛋白",
@@ -204,15 +208,15 @@
                 "resources": [
                     {
                         "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/炸"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
                     },
                     {
                         "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/蝦"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
                     },
                     {
                         "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/捲"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
                     }
                 ]
             }
@@ -223,7 +227,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Spring rolls with just shrimp inside.\n\n*Characters**\n\nThe first character 炸 is the word for “deep-fried,” the second character 蝦 is “shrimp,” and the third character 捲 is the word for “roll,” so, “deep-fried shrimp roll.”",
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) with just shrimp inside.\n\n*Characters**\n\nThe first character 炸 is the word for “deep-fried,” the second character 蝦 is “shrimp,” and the third character 捲 is the word for “roll,” so, “deep-fried shrimp roll.”",
         "tags": [
             "春捲",
             "炸",
@@ -250,23 +254,23 @@
                 "resources": [
                     {
                         "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/炸"
+                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
                     },
                     {
                         "name": "海菜",
-                        "URL": "https://en.wiktionary.org/wiki/海菜"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E8%8F%9C"
                     },
                     {
                         "name": "海",
-                        "URL": "https://en.wiktionary.org/wiki/海"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
                     },
                     {
                         "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/菜"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
                     },
                     {
                         "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/捲"
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
                     }
                 ]
             }
@@ -277,7 +281,7 @@
                 "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "description": "Deep-fried rolls with a seaweed wrapper, typically with shrimp inside.\n\n*Characters**\n\nThe first character 炸 is the word for “deep-fried,” 海菜 means “seaweed“, and the final character 捲 is the word for “roll,” so, “deep-fried seaweed roll.”",
+        "description": "Deep-fried rolls with a seaweed wrapper, typically with shrimp inside.\n\n*Characters**\n\n[炸](https://en.wiktionary.org/wiki/%E7%82%B8) is *deep-fried*, 海菜 means “seaweed“, and the final character 捲 is the word for “roll,” so, “deep-fried seaweed roll.”",
         "tags": [
             "海菜",
             "炸",

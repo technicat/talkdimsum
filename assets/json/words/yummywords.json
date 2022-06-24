@@ -26,7 +26,13 @@
         "English": "deep-fried",
         "Yale": "ja",
         "Jyutping": "zaa3",
-        "Pinyin": "zhà"
+        "Pinyin": "zhà",
+        "resources": [
+            {
+                "name": "炸",
+                "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
+            }
+        ]
     },
     {
         "Chinese": "煎",
