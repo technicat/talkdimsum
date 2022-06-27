@@ -108,5 +108,37 @@
                 "URL": "https://en.wikipedia.org/wiki/Cantonese_cuisine"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "新菜",
+                "English": "new dishes",
+                "Yale": "sān choi",
+                "Pinyin": "xīn cài",
+                "resources": [
+                    {
+                        "name": "鮮",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%8F%9C"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "hkgardenassorted2",
+                "place": "Hong Kong Garden, Las Vegas, Nevada"
+            }
+        ],
+        "description": "This category is updated with the latest dishes added to this app.\n\n**Characters**\n\n[新](https://en.wiktionary.org/wiki/%E6%96%B0) means *new*, and [菜](https://en.wiktionary.org/wiki/%E8%8F%9C) is *dish* (or *vegetable* or *cuisine*), so 新菜 is *new dish*.",
+        "tags": [
+            "新菜"
+        ],
+        "resources": [
+        ]
     }
 ]
