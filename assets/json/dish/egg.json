@@ -175,5 +175,74 @@
         "URL": "https://thewoksoflife.com/chinese-tea-eggs/"
       }
     ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "芙蓉蛋",
+        "English": "egg foo young",
+        "Yale": "fùh yùhng dáan",
+        "Pinyin": "fú róng dàn",
+        "resources": [
+          {
+            "name": "芙蓉蛋",
+            "URL": "https://en.wiktionary.org/wiki/芙蓉蛋"
+          },
+          {
+            "name": "芙蓉",
+            "URL": "https://en.wiktionary.org/wiki/芙蓉"
+          },
+          {
+            "name": "芙",
+            "URL": "https://en.wiktionary.org/wiki/芙"
+          },
+          {
+            "name": "蓉",
+            "URL": "https://en.wiktionary.org/wiki/蓉"
+          },
+          {
+            "name": "蛋",
+            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "eggfooyoungredshrimp",
+        "place": "Red Shrimp, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Egg foo young (or egg foo yung, or egg fu yung...you get the idea) is a pan-fried, or sometimes even deep-fried, omelet containing crisp vegetables and sometimes meta. Among the differences with between the Chinese-American version and the original Cantonese version (honestly, I only discovered recently there is a real Chinese version), is the addition of gravy.",
+    "tags": [
+      "粵菜",
+      "蛋"
+    ],
+    "resources": [
+      {
+        "name": "Aunt Emily's Kitchen",
+        "URL": "https://auntieemily.com/egg-foo-young/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/egg-foo-young/"
+      },
+      {
+        "name": "Taste Asian Food",
+        "URL": "https://www.tasteasianfood.com/egg-foo-young/"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/egg-foo-young/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Egg_foo_young"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/egg-foo-young-chicken/"
+      }
+    ]
   }
 ]
