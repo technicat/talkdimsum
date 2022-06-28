@@ -315,5 +315,50 @@
                 "URL": "https://en.wikipedia.org/wiki/Vegetarianism_by_country#China"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "海鮮",
+                "Simplified": "海鲜",
+                "English": "seafood",
+                "Yale": "hói sīn",
+                "Pinyin": "hǎi xiān",
+                "resources": [
+                    {
+                        "name": "海鮮",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE"
+                    },
+                    {
+                        "name": "海",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
+                    },
+                    {
+                        "name": "鮮",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "seafoodplatternewasianbbq",
+                "place": "New Asian BBQ, Las Vegas, Nevada"
+            }
+        ],
+        "description": "\n\n**Characters**\n\n[海鮮](https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE) means *seafood* ([海](https://en.wiktionary.org/wiki/%E6%B5%B7) is *ocean* and [鮮](https://en.wiktionary.org/wiki/%E9%AE%AE) is *fresh*, so *seafood* is literally *ocean fresh*).",
+        "tags": [
+            "海鮮"
+        ],
+        "resources": [
+            {
+                "name": "Cbina Highlights",
+                "URL": "https://www.chinahighlights.com/travelguide/chinese-food/fish-seafood-dishes.htm"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Seafood"
+            }
+        ]
     }
 ]
