@@ -247,5 +247,73 @@
                 "URL": "https://en.wikipedia.org/wiki/Hong_Kong_cuisine"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "素",
+                "English": "vegetarian",
+                "Yale": "sou",
+                "Pinyin": "sù",
+                "resources": [
+                    {
+                        "name": "素",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
+                    },
+                    {
+                        "name": "素餐",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A4%90"
+                    },
+                    {
+                        "name": "素菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E8%8F%9C"
+                    },
+                    {
+                        "name": "素食",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F"
+                    },
+                    {
+                        "name": "素月",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E6%9C%88"
+                    },
+                    {
+                        "name": "素顏",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A1%8F"
+                    },
+                    {
+                        "name": "素數",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E6%95%B8"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "chefkennysvegandimsum",
+                "place": "Chef Kenny's Vegan Dim Sum, Las Vegas, Nevada"
+            }
+        ],
+        "description": "With a long history of Buddhism and people just not able to afford meat, Chinese cuisine traditionally excels in flavorful and textured vegetable dishes and also “mock” meats made from tofu and wheat gluten (yes, gluten).\n\n**Characters**\n\n[素](https://en.wiktionary.org/wiki/%E7%B4%A0) is typically used in conjunction with a term to mean *vegetarian*, e.g. [素菜](https://en.wiktionary.org/wiki/%E7%B4%A0%E8%8F%9C) (sou choi) is *vegetarian dish*, [素餐](https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A4%90) is *vegetarian meal*, [素食](https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F) is *vegetarian food*.\n\n[素]((https://en.wiktionary.org/wiki/%E7%B4%A0)) also means *simple*, *plain*, or *clear*, so [素月](https://en.wiktionary.org/wiki/%E7%B4%A0%E6%9C%88) is a bright and clear moon, [素顏](https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A1%8F) is *face without makeup*, and [素數](https://en.wiktionary.org/wiki/%E7%B4%A0%E6%95%B8) is *prime number*.",
+        "tags": [
+            "素"
+        ],
+        "resources": [
+            {
+                "name": "China Highlights",
+                "URL": "https://www.chinahighlights.com/travelguide/chinese-food/vegetarian-food.htm"
+            },
+            {
+                "name": "China Travel",
+                "URL": "https://www.chinatravel.com/facts/chinese-vegetarian-food.htm"
+            },
+            {
+                "name": "Easy Tour China",
+                "URL": "https://www.easytourchina.com/blog-v1587-vegetarian-food-culture-in-china"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Vegetarianism_by_country#China"
+            }
+        ]
     }
 ]
