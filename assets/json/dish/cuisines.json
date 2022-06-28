@@ -206,5 +206,46 @@
                 "URL": "http://en.wikipedia.org/wiki/Dim_sum"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "港式",
+                "English": "Hong Kong-style",
+                "Yale": "góng sīk",
+                "Jyutping": "gong2 sik1",
+                "Pinyin": "gǎng shì",
+                "resources": [
+                    {
+                        "name": "港式",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF%E5%BC%8F"
+                    },
+                    {
+                        "name": "港",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF"
+                    },
+                    {
+                        "name": "式",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "assortedluckyhouse",
+                "place": "Lucky House Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Hong Kong cuisine](https://en.wikipedia.org/wiki/Hong_Kong_cuisine) is of course largely Chinese (in particular, Cantonese) but it has benefited from a continuing influx of other Asian and Western influences, resulting in some original takes, like Hong Kong-style French toast, Hong Kong-style iced lemon tea, Hong Kong-style egg tarts...\n\n**Characters**\n\n港式 means “Hong Kong-style” (港 the second character of Hong Kong and 式 is style, so it's literally “Kong-style”).",
+        "tags": [
+            "港式"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Hong_Kong_cuisine"
+            }
+        ]
     }
 ]
