@@ -193,10 +193,6 @@
       {
         "image": "eggflowersoupnoodleexchange",
         "place": "Noodle Exchange, Las Vegas, Nevada"
-      },
-      {
-        "image": "eggdropsouppadthai",
-        "place": "Pad Thai"
       }
     ],
     "description": "Beaten eggs mixed (dropped) into chicken broth.\n\nThe first character 蛋 is “egg,” the second character 花 means “flower,” and the third character 湯 is the word for “soup,” so it's “egg flower soup.”",
@@ -207,7 +203,10 @@
       "熱"
     ],
     "resources": [
-
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/chinese-egg-drop-soup/"
+      },
       {
         "name": "Kirbie's Cravings",
         "URL": "https://kirbiecravings.com/egg-drop-soup/"
