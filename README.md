@@ -6,3 +6,7 @@ Everything in this flutter project is MIT-licensed except graphics (logos, splas
 
 Maps for regional cuisines are from Wikipedia, licensed under the Creative Commons ShareAlike Attribution license.
 
+**Graphics Credit**
+
+[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangdong_in_China_(%2Ball_claims_hatched).svg)
+
