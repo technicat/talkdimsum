@@ -33,6 +33,141 @@
     {
         "words": [
             {
+                "Chinese": "潮州菜",
+                "English": "Chaozhou cuisine",
+                "Yale": "chìuh jāu choi",
+                "Pinyin": "cháo zhōu cài",
+                "resources": [
+                    {
+                        "name": "潮州",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
+                    },
+                    {
+                        "name": "潮",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
+                    },
+                    {
+                        "name": "州",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/菜"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "chaozhou",
+                "place": "Wikipedia"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "潮州菜"
+        ],
+        "resources": [
+           
+            {
+                "name": "Wikimedia",
+                "URL": "https://commons.wikimedia.org/wiki/File:Chaozhou_in_China_(%2Ball_claims_hatched).svg)"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chaozhou_cuisine"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "滬菜",
+                "Simplified": "沪菜",
+                "English": "Shanghai cuisine",
+                "Yale": "lóuh choi",
+                "Pinyin": "lǔ cài",
+                "resources": [
+                    {
+                        "name": "滬菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%BB%AC%E8%8F%9C"
+                    },
+                    {
+                        "name": "滬",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%BB%AC"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "shanghai",
+                "place": "Wikipedia"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "滬菜"
+        ],
+        "resources": [
+           
+            {
+                "name": "Wikimedia",
+                "URL": "https://commons.wikimedia.org/wiki/File:Shanghai_in_China_(%2Ball_claims_hatched).svg)"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "秦菜",
+                "English": "Shaanxi cuisine",
+                "Yale": "chèuhn choi",
+                "Pinyin": "qín cài",
+                "resources": [
+                    {
+                        "name": "秦",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%A7%A6"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "shaanxi",
+                "place": "Wikipedia"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "秦菜"
+        ],
+        "resources": [
+            {
+                "name": "Wikimedia",
+                "URL": "https://commons.wikimedia.org/wiki/File:Shaanxi_in_China_(%2Ball_claims_hatched).svg)"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "川菜",
                 "English": "Sichuan cuisine",
                 "Yale": "chyūn choi",
