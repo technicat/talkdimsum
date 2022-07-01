@@ -10,6 +10,6 @@ class DishImageWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) => AspectRatio(
       aspectRatio: 4 / 3,
-      child: Image.asset('assets/images/dish/${dish.images[0].name}.jpg',
+      child: Image.asset('assets/images/${dish.images[0].name}.jpg',
           fit: BoxFit.fill));
 }
