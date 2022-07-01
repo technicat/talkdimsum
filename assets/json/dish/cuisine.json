@@ -161,6 +161,50 @@
     {
         "words": [
             {
+                "Chinese": "湘菜",
+                "English": "Hunan cuisine",
+                "Yale": "sēung choi",
+                "Pinyin": "xiāng cài",
+                "resources": [
+                    {
+                        "name": "湘菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%98%E8%8F%9C"
+                    },
+                    {
+                        "name": "湘",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%98"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "hunan",
+                "place": "Wikipedia"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "潮州菜"
+        ],
+        "resources": [
+            {
+                "name": "Wikimedia",
+                "URL": "https://commons.wikimedia.org/wiki/File:Hunan_in_China_(%2Ball_claims_hatched).svg)"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Hunan_cuisine"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "秦菜",
                 "English": "Shaanxi cuisine",
                 "Yale": "chèuhn choi",
