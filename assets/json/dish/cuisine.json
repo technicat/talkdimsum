@@ -98,14 +98,22 @@
                 "place": "Wikipedia"
             }
         ],
-        "description": "",
+        "description": "[Chaozhou cuisine](https://en.wikipedia.org/wiki/Chaozhou_cuisine)is also known as Chiuchow cuisine or Teochow cuisine or Chaoshan cuisine (Chaoshan is the area surrounding the city of Chaozhou on the eastern end of Guangdong provice).\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangdong_subdivisions_-_Chaozhou.svg)",
         "tags": [
             "潮州菜"
         ],
         "resources": [
             {
+                "name": "Slightly Astray",
+                "URL": "https://www.slightlyastray.com/a-sampling-of-chaozhou-cuisine/"
+            },
+            {
+                "name": "Travel China Guide",
+                "URL": "https://www.travelchinaguide.com/chaoshan-cuisine.html"
+            },
+            {
                 "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Chaozhou_in_China_(%2Ball_claims_hatched).svg)"
+                "URL": "https://commons.wikimedia.org/wiki/File:Guangdong_subdivisions_-_Chaozhou.svg"
             },
             {
                 "name": "Wikipedia",
@@ -132,7 +140,7 @@
                     },
                     {
                         "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/菜"
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
                     }
                 ]
             }
@@ -145,7 +153,7 @@
         ],
         "description": "",
         "tags": [
-            "潮州菜"
+            "閩菜"
         ],
         "resources": [
             {
@@ -189,7 +197,7 @@
         ],
         "description": "\n\n**Books**\n\nThe Revolutionary Chinese Cookbook: Recipes from Hunan Province by [Fuschia Dunlop](http://www.fuchsiadunlop.com/)",
         "tags": [
-            "潮州菜"
+           
         ],
         "resources": [
             {
