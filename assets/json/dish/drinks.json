@@ -72,5 +72,41 @@
             "URL": "https://en.wikipedia.org/wiki/Alcoholic_drinks_in_China"
           }
         ]
-      }
-]
+      },
+      {
+        "words": [
+            {
+                "Chinese": "飲",
+                "English": "cold drinks",
+                "Yale": "yám",
+                "Pinyin": "yǐn",
+                "resources": [
+                    {
+                        "name": "飲",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%B2"
+                    },
+                    {
+                        "name": "飲",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%B2"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "colddrinksdragonalley",
+                "place": "Dragon Alley, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[飲](https://en.wiktionary.org/wiki/飲) means *to drink*",
+        "tags": [
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Category:Chinese_drinks"
+            }
+        ]
+    }
+  ]
