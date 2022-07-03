@@ -2,6 +2,50 @@
     {
         "words": [
             {
+                "Chinese": "京菜",
+                "English": "Beijing cuisine",
+                "Yale": "gīng choi",
+                "Pinyin": "jīng cà",
+                "resources": [
+                    {
+                        "name": "京菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E4%BA%AC%E8%8F%9C"
+                    },
+                    {
+                        "name": "京",
+                        "URL": "https://en.wiktionary.org/wiki/%E4%BA%AC"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "beijing",
+                "place": "Wikipedia"
+            }
+        ],
+        "description": "[Beijing cuisine](https://en.wikipedia.org/wiki/Beijing_cuisine)\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)",
+        "tags": [
+            "粵菜"
+        ],
+        "resources": [
+            {
+                "name": "Wikimedia",
+                "URL": "https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Beijing_cuisine"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "粵菜",
                 "Simplified": "粤菜",
                 "English": "Cantonese cuisine",
