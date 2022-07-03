@@ -28,11 +28,19 @@
                 "place": "Wikipedia"
             }
         ],
-        "description": "[Beijing cuisine](https://en.wikipedia.org/wiki/Beijing_cuisine)\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)",
+        "description": "[Beijing cuisine](https://en.wikipedia.org/wiki/Beijing_cuisine) is influenced both by the imperial court menus (the most famous probably is [Peking duck](https://en.wikipedia.org/wiki/Peking_duck)) and food of the surrounding provices.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)",
         "tags": [
             "粵菜"
         ],
         "resources": [
+            {
+                "name": "China Travel",
+                "URL": "https://www.chinatravel.com/beijing/food"
+            },
+            {
+                "name": "Travel China Guide",
+                "URL": "https://www.travelchinaguide.com/beijing-cuisine.htm"
+            },
             {
                 "name": "Wikimedia",
                 "URL": "https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)"
