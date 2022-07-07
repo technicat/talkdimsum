@@ -34,8 +34,6 @@
             "中國茶",
             "茶",
             "熱茶",
-            "香",
-            "香",
             "熱",
             "綠",
             "綠茶",
@@ -54,6 +52,40 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Jasmine_tea"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "茉莉蜜茶",
+                "English": "jasmine honey tea",
+                "Yale": "muht léi maht chàh",
+                "Pinyin": "mò li mì chá",
+                "resources": [
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "jasminehoneytea168market",
+                "place": "168 Market, Las Vegas, Nevada"
+            }
+        ],
+        "description": "This is a [jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) with honey, served cold.",
+        "tags": [
+            "中國茶",
+            "茶",
+            "熱茶",
+            "綠",
+            "綠茶",
+            "點心",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Simple Chinese Food",
+                "URL": "https://simplechinesefood.com/recipe/jasmine-honey-cold-brew-tea"
             }
         ]
     },

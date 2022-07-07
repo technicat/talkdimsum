@@ -79,7 +79,7 @@
       {
         "Chinese": "冷飲",
         "Simplified": "冷饮",
-        "English": "cold drinks",
+        "English": "cold drink",
         "Yale": "láahng yám",
         "Pinyin": "lěng yǐn",
         "resources": [
@@ -104,7 +104,48 @@
         "place": "Dragon Alley, Las Vegas, Nevada"
       }
     ],
-    "description": "Usually refers to non-alcholic cold drinks.\n\n**Characters**\n\n[冷](https://en.wiktionary.org/wiki/%E5%86%B7) is *cold*, and [飲](https://en.wiktionary.org/wiki/%E9%A3%B2) is *drink*, so 冷飲 is *cold drink*.",
+    "description": "Usually refers to non-alcholic cold drinks.\n\n**Characters**\n\n[冷](https://en.wiktionary.org/wiki/%E5%86%B7) is *cold*, and [飲](https://en.wiktionary.org/wiki/%E9%A3%B2) is *drink*, so [冷飲](https://en.wiktionary.org/wiki/%E5%86%B7%E9%A3%B2) is *cold drink*.",
+    "tags": [
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Category:Chinese_drinks"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "熱飲",
+        "Simplified": "热饮",
+        "English": "hot drinks",
+        "Yale": "yiht yám",
+        "Pinyin": "rè yǐn",
+        "resources": [
+          {
+            "name": "熱飲",
+            "URL": "https://en.wiktionary.org/wiki/%E7%86%B1%E9%A3%B2"
+          },
+          {
+            "name": "熱",
+            "URL": "https://en.wiktionary.org/wiki/%E7%86%B1"
+          },
+          {
+            "name": "飲",
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%B2"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "",
+        "place": "Las Vegas, Nevada"
+      }
+    ],
+    "description": "**Characters**\n\n[熱](https://en.wiktionary.org/wiki/%E7%86%B1) is *hot*, and [飲](https://en.wiktionary.org/wiki/%E9%A3%B2) is *drink*, so [熱飲](https://en.wiktionary.org/wiki/%E7%86%B1%E9%A3%B2) is *hot drink*.",
     "tags": [
       "飲品"
     ],
