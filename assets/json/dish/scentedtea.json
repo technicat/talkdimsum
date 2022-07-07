@@ -31,6 +31,7 @@
         ],
         "description": "[Jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) is green tea scented with jasmine blossoms.\n\n**Characters**\n\nIn Mandarin, jasmine tea is 茉莉花茶, where 茉莉花 is *jasmine flower* and 茶 is *tea*. But in Cantonese it's more often referred to as [香片](https://en.wiktionary.org/wiki/%E9%A6%99%E7%89%87), where the first character [香](https://en.wiktionary.org/wiki/%E9%A6%99) means *fragrant* (same as the first character in Hong Kong 香港, *fragrant harbor*) and the second character [片](https://en.wiktionary.org/wiki/%E7%89%87) means *piece* or in this case specifically *flake* as in flakes of tea, so [香片](https://en.wiktionary.org/wiki/%E9%A6%99%E7%89%87) is *fragrant flakes of tea*.",
         "tags": [
+            "熱飲",
             "茉莉",
             "中國茶",
             "茶",
@@ -148,6 +149,7 @@
         ],
         "description": "A light sweet herbal tea brewed with chyrsanthemum flower blossoms, [chrysanthmum tea](https://en.wikipedia.org/wiki/Chrysanthemum_tea) is the standard non-caffeinated tea option in dim sum restaurants.\n\n**Characters**\n\n[菊花](https://en.wiktionary.org/wiki/%E8%8F%8A%E8%8A%B1) is *chrysanthemum flower* ([菊](https://en.wiktionary.org/wiki/%E8%8F%8A) is *chrysanthemum* and [花](https://en.wiktionary.org/wiki/%E8%8A%B1) is *flower*), and 茶 is *tea*, so [菊花茶](https://en.wiktionary.org/wiki/%E8%8F%8A%E8%8A%B1%E8%8C%B6) is *chrysanthemum flower tea*.",
         "tags": [
+            "熱飲",
             "中國茶",
             "茶",
             "熱茶",
@@ -210,6 +212,7 @@
         ],
         "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) is a dark, fully fermented tea grown in the Yunnan province of China. It is *post-fermented*, where the leaves age even after drying.\n\n**Characters**\n\nThe first two characters [普洱](https://en.wiktionary.org/wiki/普洱) is *Pu'er* (the English spelling is patterned after the Mandarin pronunciation), the city in Yunnan associated with the tea. And the final character [茶](https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1) is *tea*. So [普洱茶](https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1%E8%8C%B6) is *Pu'er tea.*",
         "tags": [
+            "熱飲",
             "中國茶",
             "茶",
             "熱茶",
@@ -257,6 +260,10 @@
                 "Pinyin": "jú pǔ chá",
                 "resources": [
                     {
+                        "name": "菊普",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%8A%E6%99%AE"
+                    },
+                    {
                         "name": "菊",
                         "URL": "https://en.wiktionary.org/wiki/%E8%8F%8A"
                     },
@@ -277,8 +284,9 @@
                 "place": "Cafe Salina, Millbrae, California"
             }
         ],
-        "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) blended with chrysanthemum to add a lighter flavor and fragrance.\n\n**Characters**\n\n[菊](https://en.wiktionary.org/wiki/%E8%8F%8A) is the first character for *chrysanthemum*, and [普](https://en.wiktionary.org/wiki/%E6%99%AE) is the first character for *Pu'er tea*, so 菊普 is a mashup of the two names. And [茶](https://en.wiktionary.org/wiki/茶) is *tea*, so 菊普茶 is *chrysanthemum Pu'er tea*.",
+        "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) blended with chrysanthemum to add a lighter flavor and fragrance.\n\n**Characters**\n\n[菊](https://en.wiktionary.org/wiki/%E8%8F%8A) is the first character for *chrysanthemum*, and [普](https://en.wiktionary.org/wiki/%E6%99%AE) is the first character for *Pu'er tea*, so 菊普 is a mashup of the two names. And [茶](https://en.wiktionary.org/wiki/%E8%8C%B6) is *tea*, so 菊普茶 is *chrysanthemum Pu'er tea*.",
         "tags": [
+            "熱飲",
             "中國茶",
             "茶",
             "菊",
