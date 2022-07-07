@@ -34,8 +34,7 @@
             "中國茶",
             "茶",
             "熱茶",
-            "熱",
-            "綠",
+            "熱飲",
             "綠茶",
             "點心",
             "飲品"
@@ -72,14 +71,12 @@
                 "place": "168 Market, Las Vegas, Nevada"
             }
         ],
-        "description": "This is a [jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) with honey, served cold.",
+        "description": "This is a [jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) mixed with honey, served cold.",
         "tags": [
+            "香片",
             "中國茶",
             "茶",
-            "熱茶",
-            "綠",
             "綠茶",
-            "點心",
             "飲品"
         ],
         "resources": [
@@ -186,10 +183,6 @@
             {
                 "image": "puerteanewasian2",
                 "place": "New Asian Cuisine, Fresno, California"
-            },
-            {
-                "image": "puerteavestacoffee",
-                "place": "Vesta Coffee"
             }
         ],
         "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) is a dark, fully fermented tea grown in the Yunnan province of China. It is *post-fermented*, where the leaves age even after drying.\n\n**Characters**\n\nThe first two characters [普洱](https://en.wiktionary.org/wiki/普洱) is *Pu'er* (the English spelling is patterned after the Mandarin pronunciation), the city in Yunnan associated with the tea. And the final character [茶](https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1) is *tea*. So [普洱茶](https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1%E8%8C%B6) is *Pu'er tea.*",
