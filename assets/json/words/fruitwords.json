@@ -44,47 +44,11 @@
         "Pinyin": "chē lí zi"
     },
     {
-        "Chinese": "橙",
-        "English": "orange",
-        "Yale": "cháang",
-        "Jyutping": "caang2",
-        "Pinyin": "chéng"
-    },
-    {
-        "Chinese": "梨",
-        "English": "pear",
-        "Yale": "lèih",
-        "Jyutping": "lei4",
-        "Pinyin": "lí"
-    },
-    {
-        "Chinese": "桃",
-        "English": "peach",
-        "Yale": "tòuh",
-        "Jyutping": "tou4",
-        "Pinyin": "táo"
-    },
-    {
-        "Chinese": "李",
-        "English": "plum",
-        "Yale": "léih",
-        "Jyutping": "lei5",
-        "Pinyin": "lǐ"
-    },
-    {
-        "Chinese": "柑",
-        "English": "tangerine",
-        "Yale": "gām",
-        "Jyutping": "gam1",
-        "Pinyin": "gān"
-    },
-    {
-        "Chinese": "士多啤梨",
-        "Mandarin": "草莓",
-        "English": "strawberry",
-        "Yale": "sih dō bē léi",
-        "Jyutping": "si6 do1 be1 lei2",
-        "Pinyin": "cǎo mé"
+        "Chinese": "西柚",
+        "English": "grapefruit",
+        "Yale": "sāi yàu",
+        "Jyutping": "sai2 jau4",
+        "Pinyin": "xī yòu"
     },
     {
         "Chinese": "青檸",
@@ -95,18 +59,74 @@
         "Pinyin": "qīng níng"
     },
     {
-        "Chinese": "西柚",
-        "English": "grapefruit",
-        "Yale": "sāi yàu",
-        "Jyutping": "sai2 jau4",
-        "Pinyin": "xī yòu"
-    },
-    {
         "Chinese": "龍眼",
         "Simplified": "龙眼",
         "English": "longan",
         "Yale": "lùhng ngáan",
         "Jyutping": "lung4 ngaan5",
         "Pinyin": "lóng yǎn"
+    },
+    {
+        "Chinese": "荔枝",
+        "English": "lychee",
+        "Yale": "laih jī",
+        "Pinyin": "lì zhī",
+        "resources": [
+            {
+                "name": "荔枝",
+                "URL": "https://en.wiktionary.org/wiki/%E8%8D%94%E6%9E%9D"
+            },
+            {
+                "name": "荔",
+                "URL": "https://en.wiktionary.org/wiki/%E8%8D%94"
+            },
+            {
+                "name": "枝",
+                "URL": "https://en.wiktionary.org/wiki/%E6%9E%9D"
+            }
+        ]
+    },
+    {
+        "Chinese": "橙",
+        "English": "orange",
+        "Yale": "cháang",
+        "Jyutping": "caang2",
+        "Pinyin": "chéng"
+    },
+    {
+        "Chinese": "桃",
+        "English": "peach",
+        "Yale": "tòuh",
+        "Jyutping": "tou4",
+        "Pinyin": "táo"
+    },
+    {
+        "Chinese": "梨",
+        "English": "pear",
+        "Yale": "lèih",
+        "Jyutping": "lei4",
+        "Pinyin": "lí"
+    },
+    {
+        "Chinese": "李",
+        "English": "plum",
+        "Yale": "léih",
+        "Jyutping": "lei5",
+        "Pinyin": "lǐ"
+    },
+    {
+        "Chinese": "士多啤梨",
+        "Mandarin": "草莓",
+        "English": "strawberry",
+        "Yale": "sih dō bē léi",
+        "Jyutping": "si6 do1 be1 lei2",
+        "Pinyin": "cǎo mé"
+    },
+    {
+        "Chinese": "柑",
+        "English": "tangerine",
+        "Yale": "gām",
+        "Jyutping": "gam1",
+        "Pinyin": "gān"
     }
 ]
