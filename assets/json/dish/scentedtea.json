@@ -31,15 +31,14 @@
         ],
         "description": "[Jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) is green tea scented with jasmine blossoms.\n\n**Characters**\n\nIn Mandarin, jasmine tea is 茉莉花茶, where 茉莉花 is *jasmine flower* and 茶 is *tea*. But in Cantonese it's more often referred to as [香片](https://en.wiktionary.org/wiki/%E9%A6%99%E7%89%87), where the first character [香](https://en.wiktionary.org/wiki/%E9%A6%99) means *fragrant* (same as the first character in Hong Kong 香港, *fragrant harbor*) and the second character [片](https://en.wiktionary.org/wiki/%E7%89%87) means *piece* or in this case specifically *flake* as in flakes of tea, so [香片](https://en.wiktionary.org/wiki/%E9%A6%99%E7%89%87) is *fragrant flakes of tea*.",
         "tags": [
+            "飲品",
             "熱飲",
-            "茉莉",
+            "熱茶",
             "中國茶",
             "茶",
-            "熱茶",
-            "熱飲",
+            "茉莉",
             "綠茶",
-            "點心",
-            "飲品"
+            "點心"
         ],
         "resources": [
             {
@@ -95,13 +94,13 @@
         ],
         "description": "This is a [jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) mixed with honey, served cold.",
         "tags": [
+            "飲品",
             "冷飲",
-            "茉莉",
-            "香片",
             "中國茶",
             "茶",
-            "綠茶",
-            "飲品"
+            "茉莉",
+            "香片",
+            "綠茶"
         ],
         "resources": [
             {
@@ -149,14 +148,14 @@
         ],
         "description": "A light sweet herbal tea brewed with chyrsanthemum flower blossoms, [chrysanthmum tea](https://en.wikipedia.org/wiki/Chrysanthemum_tea) is the standard non-caffeinated tea option in dim sum restaurants.\n\n**Characters**\n\n[菊花](https://en.wiktionary.org/wiki/%E8%8F%8A%E8%8A%B1) is *chrysanthemum flower* ([菊](https://en.wiktionary.org/wiki/%E8%8F%8A) is *chrysanthemum* and [花](https://en.wiktionary.org/wiki/%E8%8A%B1) is *flower*), and 茶 is *tea*, so [菊花茶](https://en.wiktionary.org/wiki/%E8%8F%8A%E8%8A%B1%E8%8C%B6) is *chrysanthemum flower tea*.",
         "tags": [
+            "飲品",
             "熱飲",
+            "熱茶",
             "中國茶",
             "茶",
-            "熱茶",
             "菊",
             "花",
-            "點心",
-            "飲品"
+            "點心"
         ],
         "resources": [
             {
@@ -212,13 +211,13 @@
         ],
         "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) is a dark, fully fermented tea grown in the Yunnan province of China. It is *post-fermented*, where the leaves age even after drying.\n\n**Characters**\n\n[普洱](https://en.wiktionary.org/wiki/普洱) is *Pu'er* (the English spelling is patterned after the Mandarin pronunciation), the city in Yunnan associated with the tea. And [茶](https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1) is *tea*, so [普洱茶](https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1%E8%8C%B6) is *Pu'er tea*.",
         "tags": [
+            "飲品",
             "熱飲",
+            "熱茶",
             "中國茶",
             "茶",
-            "熱茶",
             "普洱",
-            "點心",
-            "飲品"
+            "點心"
         ],
         "resources": [
             {
@@ -338,12 +337,13 @@
         ],
         "description": "Black tea scented with [lychee](https://en.wikipedia.org/wiki/Lychee) peels, so it's got a fruity taste.\n\n**Characters**\n\n[荔枝](https://en.wiktionary.org/wiki/%E8%8D%94%E6%9E%9D) is *lychee*, and [茶](https://en.wiktionary.org/wiki/%E8%8C%B6) is *tea*, so 荔枝茶 is *lychee tea*.",
         "tags": [
-            "茶",
-            "荔枝",
+            "飲品",
+            "熱飲",
             "熱茶",
             "中國茶",
-            "茶餐廳",
-            "飲品"
+            "茶",
+            "荔枝",
+            "茶餐廳"
         ],
         "resources": [
             {
