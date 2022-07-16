@@ -573,6 +573,19 @@
             "address": "22 Mott St New York, NY 10013"
         },
         {
+            "title": "Royal Seafood",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/royal-seafood-restaurant-new-york"
+                }
+            ],
+            "lat": 40.714450,
+            "lon": -73.998510,
+            "city": "New York",
+            "address": "22 Mott St New York, NY 10013"
+        },
+        {
             "title": "Tim Ho Wan (East Village)",
             "links": [
                 {
