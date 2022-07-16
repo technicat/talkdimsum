@@ -492,6 +492,19 @@
             "address": "380 Amsterdam Avenue, New York, NY 10024"
         },
         {
+            "title": "Mee Sum",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mee-sum-cafe-new-york"
+                }
+            ],
+            "lat": 40.7152230523845, 
+            "lon": -73.99828221546794,
+            "city": "New York",
+            "address": "26 Pell St New York, NY 10013"
+        },
+        {
             "title": "Nom Wah Tea Parlor",
             "links": [
                 {
