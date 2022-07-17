@@ -194,6 +194,19 @@
             "address": "13330 39th Ave, Flushing, NY 11354"
         },
         {
+            "title": "Dim Sum Garden Express",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-garden-express-flushing"
+                }
+            ],
+            "lat": 40.760487868877796,
+            "lon": -73.82814798663048,
+            "city": "Flushing",
+            "address": "136 - 55 Roosevelt Ave, Booth A1, Flushing, NY 11354"
+        },
+        {
             "title": "East Buffet & Restaurant",
             "links": [
                 {
@@ -426,6 +439,57 @@
             "lon": -73.989380,
             "city": "New York",
             "address": "334 W 46th St, New York, NY 10036"
+        },
+        {
+            "title": "Dim Sum Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumpalace.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-7?osq=dim+sum+palace"
+                }
+            ],
+            "lat": 40.76299228714489,
+            "lon": -73.97605561546652,
+            "city": "New York",
+            "address": "28 W 56th St, New York, NY 10019"
+        },
+        {
+            "title": "Dim Sum Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumpalace.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-9?osq=dim+sum+palace"
+                }
+            ],
+            "lat": 40.72609767083801,
+            "lon":  -73.99001831546768,
+            "city": "New York",
+            "address": "59 2nd Ave, New York, NY 10003"
+        },
+        {
+            "title": "Dim Sum Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumpalace.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-11?osq=dim+sum+palace"
+                }
+            ],
+            "lat": 40.748794150120226,
+            "lon": -73.98677213081123,
+            "city": "New York",
+            "address": "33 W 33rd St, New York, NY 10001"
         },
         {
             "title": "Dim Sum Sam",
