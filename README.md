@@ -1,4 +1,6 @@
-This is the data for [Talk Dim Sum](http://talkdimsum.com)
+This is the data for [Talk Dim Sum](http://talkdimsum.com).
+
+I'm gradually splitting the Swift and Flutter code into various libraries and packages.
 
 Everything is MIT-licensed except for the regional map images from Wikipedia, licensed from Wikimedia under [TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
 
