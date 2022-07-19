@@ -10,15 +10,15 @@
         "resources": [
           {
             "name": "白飯",
-            "URL": "https://en.wiktionary.org/wiki/白飯"
+            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E9%A3%AF"
           },
           {
             "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/白"
+            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
           },
           {
             "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/飯"
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
           }
         ]
       }
@@ -75,23 +75,23 @@
         "resources": [
           {
             "name": "海南",
-            "URL": "https://en.wiktionary.org/wiki/海南"
+            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E5%8D%97"
           },
           {
             "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/海"
+            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
           },
           {
             "name": "南",
-            "URL": "https://en.wiktionary.org/wiki/南"
+            "URL": "https://en.wiktionary.org/wiki/%E5%8D%97"
           },
           {
             "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/雞"
+            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
           },
           {
             "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/飯"
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
           }
         ]
       }
@@ -136,19 +136,19 @@
         "resources": [
           {
             "name": "炸雞",
-            "URL": "https://en.wiktionary.org/wiki/炸雞"
+            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8%E9%9B%9E"
           },
           {
             "name": "炸",
-            "URL": "https://en.wiktionary.org/wiki/炸"
+            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
           },
           {
             "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/雞"
+            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
           },
           {
             "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/飯"
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
           }
         ]
       }
@@ -179,23 +179,23 @@
         "resources": [
           {
             "name": "炸",
-            "URL": "https://en.wiktionary.org/wiki/炸"
+            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
           },
           {
             "name": "豬扒",
-            "URL": "https://en.wiktionary.org/wiki/豬扒"
+            "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC%E6%89%92"
           },
           {
             "name": "豬",
-            "URL": "https://en.wiktionary.org/wiki/豬"
+            "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
           },
           {
             "name": "扒",
-            "URL": "https://en.wiktionary.org/wiki/扒"
+            "URL": "https://en.wiktionary.org/wiki/%E6%89%92"
           },
           {
             "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/飯"
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
           }
         ]
       }
@@ -283,19 +283,19 @@
         "resources": [
           {
             "name": "鰻魚",
-            "URL": "https://en.wiktionary.org/wiki/鰻魚"
+            "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A"
           },
           {
             "name": "鰻",
-            "URL": "https://en.wiktionary.org/wiki/鰻"
+            "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB"
           },
           {
             "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/魚"
+            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
           },
           {
             "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/飯"
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
           }
         ]
       }
@@ -361,5 +361,63 @@
       "白飯"
     ],
     "resources": []
+  },
+  {
+    "words": [
+      {
+        "Chinese": "煲仔飯",
+        "Simplified": "煲仔饭",
+        "English": "clay pot rice",
+        "Yale": "bōu jái faahn",
+        "Pinyin": "bāo zǐ fàn",
+        "resources": [
+          {
+            "name": "煲仔飯",
+            "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
+          },
+          {
+            "name": "煲仔",
+            "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94"
+          },
+          {
+            "name": "煲",
+            "URL": "https://en.wiktionary.org/wiki/%E7%85%B2"
+          },
+          {
+            "name": "仔",
+            "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
+          },
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "chickenclaypotyummyrice",
+        "place": "Yummy Rice, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "新菜",
+      "蔥",
+      "鴨",
+      "薑",
+      "飯",
+      "白飯"
+    ],
+    "resources": [
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/clay-pot-rice"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/hong-kong-style-clay-pot-rice/"
+      }
+    ]
   }
 ]
