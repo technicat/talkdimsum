@@ -411,8 +411,16 @@
     ],
     "resources": [
       {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/clay-pot-rice/"
+      },
+      {
         "name": "Made with Lau",
         "URL": "https://www.madewithlau.com/recipes/clay-pot-rice"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Claypot_rice"
       },
       {
         "name": "The Woks of Life",
