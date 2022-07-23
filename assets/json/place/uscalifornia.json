@@ -698,6 +698,23 @@
             "address": "15333 Culver Dr, Ste 720, Irvine, CA 92604"
         },
         {
+            "title": "Dim Sum 101",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsum101lomita.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-101-lomita"
+                }
+            ],
+            "lat": 33.804842610711454,
+            "lon": -118.32601893100288,
+            "city": "Lomita",
+            "address": "2418 Lomita Blvd #A Lomita, CA 90717"
+        },
+        {
             "title": "Bao Dim Sum House",
             "links": [
                 {
