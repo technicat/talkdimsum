@@ -1,4 +1,4 @@
-[![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsum.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
 [![talkdimsum review](/images/talkdimsum/appstore/appstore-2022-5-6.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/1-3-2022.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
