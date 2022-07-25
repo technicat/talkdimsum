@@ -1,7 +1,5 @@
 This is the data for [Talk Dim Sum](http://talkdimsum.com).
 
-See also [SwiftChinese](http://github.com/technicat/swiftchinese).
-
 JSON formatting is done in Visual Studio Code.
 
 Everything is MIT-licensed except for the regional map images from Wikipedia, licensed from Wikimedia under [TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
