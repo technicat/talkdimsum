@@ -2,6 +2,23 @@
     "name": "Oregon",
     "places": [
         {
+            "title": "East Harbor",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.eastharborrestaurant.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/east-harbor-aloha-2"
+                }
+            ],
+            "lat": 45.494773212731154,
+            "lon": -122.87154989997468,
+            "city": "Aloha",
+            "address": "18855 SW Tualatin Valley Hwy Aloha, OR 97006"
+        },
+        {
             "title": "China Town Restaurant",
             "links": [
                 {
