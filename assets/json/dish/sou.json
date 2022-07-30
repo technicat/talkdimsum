@@ -494,5 +494,52 @@
         "URL": "https://www.mychineserecipes.com/recipe/preserved-egg-pastry-recipe/"
       }
     ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "蓮蓉酥",
+        "Simplified": "蓮蓉酥",
+        "English": "lotus seed pastry",
+        "Yale": "lìhn yùhng sōu",
+        "Pinyin": "lián róng sū",
+        "resources": [
+          {
+            "name": "蓮蓉",
+            "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
+          },
+          {
+            "name": "蓮",
+            "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
+          },
+          {
+            "name": "蓉",
+            "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
+          },
+          {
+            "name": "酥",
+            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "lotusseedcakediamondbakery",
+        "place": "Diamond Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Flaky pastry filled with [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste).\n\n**Characters**\n\n[蓮蓉](https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89) is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ([蓮](https://en.wiktionary.org/wiki/%E8%93%AE) is *lotus*, and [蓉](https://en.wiktionary.org/wiki/%E8%93%89 is *paste*)), and [酥](https://en.wiktionary.org/wiki/%E9%85%A5) is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蓮蓉酥 is *lotus seed paste pastry*.",
+    "tags": [
+      "小食",
+      "蛋黃",
+      "酥"
+    ],
+    "resources": [
+      {
+        "name": "My Chinese Recipes",
+        "URL": "https://www.mychineserecipes.com/recipe/preserved-egg-pastry-recipe/"
+      }
+    ]
   }
 ]
