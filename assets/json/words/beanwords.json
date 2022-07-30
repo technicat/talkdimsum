@@ -30,7 +30,21 @@
         "Chinese": "綠豆",
         "English": "mung bean",
         "Yale": "luhk dauh",
-        "Pinyin": "lǜ dòu"
+        "Pinyin": "lǜ dòu",
+        "resources": [
+            {
+                "name": "綠豆",
+                "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86"
+            },
+            {
+                "name": "綠",
+                "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
+            },
+            {
+                "name": "豆",
+                "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
+            }
+        ]
     },
     {
         "Chinese": "四季豆",

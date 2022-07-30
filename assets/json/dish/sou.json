@@ -407,7 +407,6 @@
     "words": [
       {
         "Chinese": "皮蛋酥",
-        "Simplified": "皮蛋酥",
         "English": "preserved egg pastry",
         "Yale": "pèih dáan sōu",
         "Pinyin": "pí dàn sū",
@@ -423,7 +422,7 @@
           {
             "name": "蛋",
             "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
+          },
           {
             "name": "酥",
             "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
@@ -433,11 +432,57 @@
     ],
     "images": [
       {
-        "image": "preservedeggyastrydiamondbakery",
+        "image": "preservedeggpastrydiamondbakery",
         "place": "Diamond Bakery, Las Vegas, Nevada"
       }
     ],
     "description": "Flaky pastry filled with preserved egg.\n\n[酥](https://en.wiktionary.org/wiki/%E9%85%A5) is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蛋黃酥 is *egg yolk pastry*.",
+    "tags": [
+      "小食",
+      "蛋黃",
+      "酥"
+    ],
+    "resources": [
+      {
+        "name": "My Chinese Recipes",
+        "URL": "https://www.mychineserecipes.com/recipe/preserved-egg-pastry-recipe/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "綠豆酥",
+        "English": "mung bean pastry",
+        "Yale": "luhk dauh sōu",
+        "Pinyin": "lǜ dòu sū",
+        "resources": [
+          {
+            "name": "綠豆",
+            "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86"
+          },
+          {
+            "name": "綠",
+            "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
+          },
+          {
+            "name": "豆",
+            "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
+          },
+          {
+            "name": "酥",
+            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "mungbeanpastrydiamondbakery",
+        "place": "Diamond Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Flaky pastry filled with mung bean.\n\n綠豆](https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86) is *mung bean* ([綠](https://en.wiktionary.org/wiki/%E7%B6%A0) is *green*, and [豆](https://en.wiktionary.org/wiki/%E8%B1%86) is *bean*, but *green bean* is actually *mung bean*), and [酥](https://en.wiktionary.org/wiki/%E9%85%A5) is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蛋黃酥 is *egg yolk pastry*.",
     "tags": [
       "小食",
       "蛋黃",
