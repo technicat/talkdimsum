@@ -1,6 +1,6 @@
-This is the data for [Talk Dim Sum](http://talkdimsum.com).
+This is the [Flutter](http://flutter.dev/) project for [Talk Dim Sum](http://talkdimsum.com).
 
-JSON formatting is done in Visual Studio Code.
+Editing and formatting in Visual Studio Code.
 
 Everything is MIT-licensed except for the regional map images from Wikipedia, licensed from Wikimedia under [TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
 
