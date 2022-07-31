@@ -1,4 +1,4 @@
-This is the [Flutter](http://flutter.dev/) project for [Talk Dim Sum](http://talkdimsum.com).
+This is the [Flutter](http://flutter.dev/) project for [Talk Dim Sum](http://talkdimsum.com) (a Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066))
 
 Editing and formatting in Visual Studio Code.
 
