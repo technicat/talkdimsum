@@ -186,6 +186,23 @@
             "address": "18329 S Pioneer Blvd, Artesia, CA 90701"
         },
         {
+            "title": "New Fusion Dim Sum & BBQ",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.newfusiondimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-fusion-azusa-2"
+                }
+            ],
+            "lat": 34.13388379206391,
+            "lon": -117.90393854448634,
+            "city": "Asuza",
+            "address": "353 E Foothill Blvd Azusa, CA 91702"
+        },
+        {
             "title": "Phoenix Café",
             "links": [
                 {
@@ -1977,7 +1994,7 @@
                     "URL": "https://www.yelp.com/biz/koi-palace-express-san-francisco-3"
                 }
             ],
-            "lat": 37.618293692331285, 
+            "lat": 37.618293692331285,
             "lon": -122.38900855683416,
             "city": "San Francisco",
             "address": "Sfo International Airport International Terminal G San Francisco, CA 94128"
