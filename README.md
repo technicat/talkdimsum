@@ -2,7 +2,9 @@ This is the [Flutter](http://flutter.dev/) project for [Talk Dim Sum](http://tal
 
 The JSON files are also used in the Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066)).
 
-All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and barely Chinese restaurants like PF Chang's). The restaurant's own website is preferred, but no Facebook (because, Facebook), and no food order sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, OpenRice is better in Asia), Travelocity is omitted because it hangs my link checker.
+All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and barely Chinese restaurants like PF Chang's).
+
+The restaurant's own website is preferred, but no Facebook (because, Facebook), and no food order sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, OpenRice is better in Asia), Travelocity is omitted because it hangs my link checker.
 
 I edit and format these files in Visual Studio Code, and run JSON and link checks with some [scripts](http://github.com/technicat/schematic) written in [Gauche].
 
