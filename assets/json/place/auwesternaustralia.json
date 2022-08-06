@@ -157,23 +157,6 @@
             "address": "91 Aberdeen St Northbridge"
         },
         {
-            "title": "Shy John",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://shyjohn.com.au/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/shy-john-perth"
-                }
-            ],
-            "lat": -31.957063,
-            "lon": 115.855439,
-            "city": "Perth",
-            "address": "William St"
-        },
-        {
             "title": "Silver Moon",
             "links": [
                 {
@@ -185,23 +168,6 @@
             "lon": 115.871483,
             "city": "Perth",
             "address": "Shop 1 155 Adelaide Tce East Perth"
-        },
-        {
-            "title": "Ying",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://yingrestaurant.com.au/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/hoka-restaurant-perth"
-                }
-            ],
-            "lat": -31.947670,
-            "lon": 115.858231,
-            "city": "Perth",
-            "address": "71 Francis St, Northbridge"
         }
     ]
 }
