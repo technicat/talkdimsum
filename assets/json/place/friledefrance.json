@@ -20,10 +20,6 @@
                 {
                     "name": "Restaurant Guru",
                     "URL": "https://restaurantguru.com/Chine-Massena-Paris"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d939129-Reviews-Chine_Massena-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.821592,
@@ -37,10 +33,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.chinatownolympiades.com/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1035103-Reviews-Chinatown_Olympiades-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.823583,
@@ -54,10 +46,6 @@
                 {
                     "name": "site",
                     "URL": "https://restaurant-diep.business.site/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d715050-Reviews-Diep-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.869576,
@@ -73,10 +61,6 @@
                     "URL": "https://www.duckys.fr/"
                 },
                 {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d12207618-Reviews-Ducky_s-Paris_Ile_de_France.html"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/duckys-paris-4"
                 }
@@ -90,14 +74,18 @@
             "title": "Hao Long",
             "links": [
                 {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d10092380-Reviews-Hao_Long-Paris_Ile_de_France.html"
+                    "name": "site",
+                    "URL": "https://haolong.fr/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hao-long-paris"
                 }
             ],
-            "lat": 48.865671,
-            "lon": 2.336939,
+            "lat": 48.865772625759874, 
+            "lon": 2.337027277121584,
             "city": "Paris",
-            "address": "157 boulevard du Montparnasse 75006"
+            "address": "36 RUE DE RICHELIEU, PARIS 1ER"
         },
         {
             "title": "La Maison du Dim Sum",
@@ -105,10 +93,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.lamaisondudimsum.com/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d4794613-Reviews-La_Maison_du_Dim_Sum-Paris_Ile_de_France.html"
                 },
                 {
                     "name": "Yelp",
@@ -126,10 +110,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.lechina.eu/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1467742-Reviews-Le_China-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.849958,
@@ -143,10 +123,6 @@
                 {
                     "name": "site",
                     "URL": "https://royalchina.fr/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d11932421-Reviews-Le_Royal_China-Paris_Ile_de_France.html"
                 },
                 {
                     "name": "Yelp",
@@ -183,10 +159,6 @@
                     "URL": "https://www.liliparis.fr/"
                 },
                 {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d7795574-Reviews-LiLi-Paris_Ile_de_France.html"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/lili-paris-2"
                 }
@@ -202,10 +174,6 @@
                 {
                     "name": "site",
                     "URL": "https://mumdimsum.com/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d3171597-Reviews-Mum_Dim_Sum-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.881171,
@@ -219,10 +187,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.restaurant-chinois-paris.net/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d790476-Reviews-New_hoa_khoan-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.824454490471574,
@@ -236,10 +200,6 @@
                 {
                     "name": "site",
                     "URL": "https://operamandarin.fr/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1744012-Reviews-Opera_Mandarin-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.870280,
@@ -253,10 +213,6 @@
                 {
                     "name": "site",
                     "URL": "https://palaisdubonheur.com/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2044612-Reviews-Palais_du_Bonheur-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.839076,
@@ -270,10 +226,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.shangri-la.com/paris/shangrila/dining/restaurants/shang-palace/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2334042-Reviews-Shang_Palace-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.863740,
@@ -287,10 +239,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.taokan.fr/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d9607961-Reviews-Taokan_Saint_Honore-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.865321,
@@ -304,10 +252,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.taokan.fr/"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d3542765-Reviews-Taokan-Paris_Ile_de_France.html"
                 }
             ],
             "lat": 48.852667,
@@ -327,10 +271,6 @@
                     "URL": "https://restaurantguru.com/Tricotin-Paris"
                 },
                 {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d719877-Reviews-Tricotin-Paris_Ile_de_France.html"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tricotin-paris-3"
                 }
@@ -348,10 +288,6 @@
                     "URL": "https://www.yoom.fr"
                 },
                 {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2623679-Reviews-Yoom-Paris_Ile_de_France.html"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/yoom-paris-2"
                 }
@@ -367,10 +303,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.yoom.fr"
-                },
-                {
-                    "name": "Tripadvisor",
-                    "URL": "https://www.tripadvisor.com/Restaurant_Review-g187147-d2215426-Reviews-Yoom-Paris_Ile_de_France.html"
                 },
                 {
                     "name": "Yelp",
