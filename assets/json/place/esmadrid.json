@@ -31,8 +31,12 @@
             "title": "Royal Cantonés",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://royalcantonesmadrid.com/"
+                },
+                {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/royal-cantonés-madrid-2"
+                    "URL": "https://www.yelp.com/biz/royal-canton%C3%A9s-madrid-2"
                 }
             ],
             "lat": 40.383041,
