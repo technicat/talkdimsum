@@ -19,6 +19,23 @@
             "address": "11105 Resort Road, Ellicott City, MD 21042"
         },
         {
+            "title": "New Fortune",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.newfortunedimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/new-fortune-gaithersburg"
+                }
+            ],
+            "lat": 39.12766809020397,
+            "lon": -77.18289048667836,
+            "city": "Gaithersburg",
+            "address": "16515 S. Frederick Ave. Gaithersburg, MD 20877"
+        },
+        {
             "title": "China Garden",
             "links": [
                 {
