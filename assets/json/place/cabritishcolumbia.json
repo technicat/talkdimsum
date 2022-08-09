@@ -58,6 +58,23 @@
             "address": "6401 Kingsway Suite 110 Burnaby, BC V5E 0A6"
         },
         {
+            "title": "Neptune Seafood Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.neptunegroup.ca/burnaby"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.ca/biz/neptune-seafood-restaurant-burnaby"
+                }
+            ],
+            "lat": 49.22658102638902,
+            "lon":  -123.00406641519376,
+            "city": "Burnaby",
+            "address": "2nd Floor 4405 Central Blvd Burnaby BC"
+        },
+        {
             "title": "Spring Garden Chinese Restaurant",
             "links": [
                 {
@@ -268,8 +285,12 @@
             "address": "7900 Westminster Hwy 2nd Fl Richmond, BC V6X 1A5"
         },
         {
-            "title": "Neptune Safood Restaurant",
+            "title": "Neptune Seafood Restaurant",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.neptunegroup.ca/sf-richmond"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/neptune-seafood-restaurant-richmond"
