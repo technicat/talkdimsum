@@ -58,6 +58,67 @@
   {
     "words": [
       {
+        "Chinese": "牛肉乾",
+        "Simplified": "牛肉干",
+        "English": "beef jerky",
+        "Yale": "ngàuh yuhk gōn",
+        "Pinyin": "niú ròu gān",
+        "resources": [
+          {
+            "name": "牛肉乾",
+            "URL": "https://en.wiktionary.org/wiki/牛肉乾"
+          },
+          {
+            "name": "牛肉",
+            "URL": "https://en.wiktionary.org/wiki/牛肉"
+          },
+          {
+            "name": "牛",
+            "URL": "https://en.wiktionary.org/wiki/牛"
+          },
+           {
+            "name": "肉",
+            "URL": "https://en.wiktionary.org/wiki/肉"
+          },
+          {
+            "name": "乾",
+            "URL": "https://en.wiktionary.org/wiki/乾"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "",
+        "place": "168 Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "\n\n**Characters**\n\n[牛](https://en.wiktionary.org/wiki/%E7%89%9B) *cow*",
+    "tags": [
+      "牛肉"
+    ],
+    "resources": [
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "https://www.thehongkongcookery.com/2015/02/homemade-chinese-pork-jerky-bakkwa.html"
+      },
+      {
+        "name": "The Spruce Eats",
+        "URL": "https://www.thespruceeats.com/chinese-style-beef-jerky-recipe-1806024"
+      },
+      {
+        "name": "SCMP",
+        "URL": "https://www.scmp.com/yp/discover/article/3157761/learn-cantonese-slang-how-ride-hong-kongs-public-transport-pro"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Bakkwa"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "滷牛腱",
         "Simplified": "卤牛腱",
         "Alternate": "卤牛肉",
