@@ -293,6 +293,7 @@
     ],
     "description": "Pineapple cakes, small butter shortcakes with a pineapple filling, are a Taiwanese specialty.\n\n[鳳梨](https://en.wiktionary.org/wiki/%E9%B3%B3%E6%A2%A8) is *pineapple*, and [酥](https://en.wiktionary.org/wiki/%E9%85%A5) is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so [鳳梨酥](https://en.wiktionary.org/wiki/%E9%B3%B3%E6%A2%A8%E9%85%A5) is *pineapple pastry*.",
     "tags": [
+      "台菜",
       "菠蘿",
       "臺灣",
       "小食",
@@ -300,16 +301,16 @@
     ],
     "resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Pineapple_cake"
-      },
-      {
         "name": "Angel Wong's Kitchen",
         "URL": "https://www.angelwongskitchen.com/taiwanese-pineapple-cakes--401792679237221-fegravengliacute-s363.html"
       },
       {
         "name": "Kirbie's Cravings",
         "URL": "hhttps://kirbiecravings.com/chinese-pineapple-cakes/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Pineapple_cake"
       }
     ]
   },
