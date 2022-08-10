@@ -34,10 +34,6 @@
         ],
         "resources": [
             {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Beijing_cuisine"
             }  
@@ -79,10 +75,6 @@
             "粵菜"
         ],
         "resources": [
-            {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Guangdong_in_China_(%2Ball_claims_hatched).svg)"
-            },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Cantonese_cuisine"
@@ -132,10 +124,6 @@
                 "URL": "https://www.slightlyastray.com/a-sampling-of-chaozhou-cuisine/"
             },
             {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Guangdong_subdivisions_-_Chaozhou.svg"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Chaozhou_cuisine"
             }
@@ -179,10 +167,6 @@
             {
                 "name": "Cchatty",
                 "URL": "https://www.cchatty.com/Fujian-Cuisine-g-100031?hl=en"
-            },
-            {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Fujian_in_China_(%2Ball_claims_hatched).svg)"
             },
             {
                 "name": "Wikipedia",
@@ -229,10 +213,6 @@
         ],
         "resources": [
             {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Hunan_in_China_(%2Ball_claims_hatched).svg)"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Hunan_cuisine"
             }
@@ -268,10 +248,6 @@
             "秦菜"
         ],
         "resources": [
-            {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Shaanxi_in_China_(%2Ball_claims_hatched).svg)"
-            },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
@@ -313,10 +289,6 @@
             "滬菜"
         ],
         "resources": [
-            {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Shanghai_in_China_(%2Ball_claims_hatched).svg)"
-            },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Shanghai_cuisine"
@@ -366,10 +338,6 @@
                 "URL": "https://malafood.com/en/"
             },
             {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Guangdong_in_China_(%2Ball_claims_hatched).svg)"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Sichuan_cuisine"
             }
@@ -410,8 +378,8 @@
                 "URL": "https://www.chinesefoodwiki.org/Yunnan_Food"
             },
             {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Yunnan_in_China_(%2Ball_claims_hatched).svg)"
+                "name": "Chinese Food Wiki",
+                "URL": "https://www.eater.com/2019/3/6/18241036/what-is-taiwanese-food-traditional-cuisine"
             },
             {
                 "name": "Wikipedia",
@@ -452,10 +420,6 @@
             {
                 "name": "Chinese Food Wiki",
                 "URL": "https://www.chinesefoodwiki.org/Yunnan_Food"
-            },
-            {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Yunnan_in_China_(%2Ball_claims_hatched).svg)"
             },
             {
                 "name": "Wikipedia",
