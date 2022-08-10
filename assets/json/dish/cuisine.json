@@ -378,6 +378,50 @@
     {
         "words": [
             {
+                "Chinese": "台菜",
+                "English": "Taiwan cuisine",
+                "Yale": "tòih choi",
+                "Pinyin": "tái cà",
+                "resources": [
+                    {
+                        "name": "台",
+                        "URL": "https://en.wiktionary.org/wiki/台"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "taiwan",
+                "place": "Wikipedia"
+            }
+        ],
+        "description": "\n\n**Characters**\n\n[台](https://en.wiktionary.org/wiki/%E6%BB%87) is an abbreviation for Taiwan, and [菜](https://en.wiktionary.org/wiki/%E8%8F%9C) is *vegetables* but also more generally type of *dish* or *cuisine*, so 滇菜 is *Yunnan cuisine* or *Dian cuisine*.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yunnan_in_China_(%2Ball_claims_hatched).svg)",
+        "tags": [
+            "滇菜"
+        ],
+        "resources": [
+            {
+                "name": "Chinese Food Wiki",
+                "URL": "https://www.chinesefoodwiki.org/Yunnan_Food"
+            },
+            {
+                "name": "Wikimedia",
+                "URL": "https://commons.wikimedia.org/wiki/File:Yunnan_in_China_(%2Ball_claims_hatched).svg)"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Yunnan_cuisine"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "滇菜",
                 "English": "Yunnan cuisine",
                 "Yale": "tìhn choi",
