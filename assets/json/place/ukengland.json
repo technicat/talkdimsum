@@ -483,10 +483,6 @@
             "title": "Plum Valley",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://plumvalleyrestaurant.co.uk/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/joy-king-lau-london"
                 }
@@ -646,7 +642,7 @@
             "links": [
                 {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/fus-chinese-restaurant-café-manchester-2"
+                    "URL": "https://www.yelp.com/biz/fus-chinese-restaurant-caf%C3%A9-manchester-2"
                 }
             ],
             "lat": 53.478320,
@@ -760,10 +756,6 @@
         {
             "title": "Tai Pan",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.taipanmanchester.co.uk/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tai-pan-restaurant-manchester"
