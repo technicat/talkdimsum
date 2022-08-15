@@ -361,5 +361,51 @@
       "白飯"
     ],
     "resources": []
+  },
+  {
+    "words": [
+      {
+        "Chinese": "飯",
+        "Simplified": "饭",
+        "English": "minced beef on rice",
+        "Yale": " faahn",
+        "Pinyin": " fàn",
+        "resources": [
+          {
+            "name": "飯",
+            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "mincedbeeffriedeggricetimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "\n\n**Characters**\n\n[飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice* (cooked).",
+    "tags": [
+      "新菜",
+      "蔥",
+      "鴨",
+      "薑",
+      "飯",
+      "白飯"
+    ],
+    "resources": [
+      {
+        "name": "Cook Eat Share",
+        "URL": "https://cookeatshare.com/recipes/steamed-beef-mince-on-rice-778501/external"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2015/05/steamed-beef-mince-on-rice.html"
+      },
+      {
+        "name": "Jackie M",
+        "URL": "https://jackiem.com.au/2019/08/15/steamed-minced-beef-with-rice-yum-cha-recipe/"
+      }
+    ]
   }
 ]
