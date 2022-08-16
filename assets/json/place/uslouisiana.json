@@ -2,7 +2,24 @@
     "name": "Louisiana",
     "places": [
         {
-            "title": "Royal China Restaurant",
+            "title": "Panda King",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.pandakinggretna.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/panda-king-gretna"
+                }
+            ],
+            "lat": 29.891012418046717,
+            "lon":  -90.01810085993326,
+            "city": "Gretna",
+            "address": "925 Behrman Hwy Ste 1 Gretna, LA 70056"
+        },
+        {
+            "title": "Royal China",
             "links": [
                 {
                     "name": "Yelp",
