@@ -2,6 +2,19 @@
     "name": "Panamá",
     "places": [
         {
+            "title": "Golden Unicorn",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.goldenunicornpanama.com/"
+                }
+            ],
+            "lat": 8.992321160575155,
+            "lon":  -79.49971464119952,
+            "city": "Panama City",
+            "address": "Edificio Evergreen, Piso 4, San Francisco"
+        },
+        {
             "title": "Lung Fung",
             "links": [
                 {
