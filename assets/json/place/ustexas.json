@@ -45,6 +45,23 @@
             "address": "9710 N Lamar Blvd Austin, TX 78753"
         },
         {
+            "title": "Chinatown North",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.austinchinatown.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/chinatown-north-austin"
+                }
+            ],
+            "lat": 30.356773754921992,
+            "lon": -97.74749497341438,
+            "city": "Austin",
+            "address": "3407 Greystone Dr Austin, TX 78731"
+        },
+        {
             "title": "Chinatown Westlake",
             "links": [
                 {
