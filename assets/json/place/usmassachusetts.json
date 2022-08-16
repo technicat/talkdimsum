@@ -2,6 +2,19 @@
     "name": "Massachusetts",
     "places": [
         {
+            "title": "Bubor",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/bubor-cha-cha-boston-5"
+                }
+            ],
+            "lat": 42.35148358608224,
+            "lon": -71.06089381541845,
+            "city": "Boston",
+            "address": "45 Beach St Boston, MA 02111"
+        },
+        {
             "title": "China Pearl Restaurant",
             "links": [
                 {
