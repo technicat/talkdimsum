@@ -81,7 +81,7 @@
                     "URL": "https://www.yelp.com/biz/hong-kong-wok-n-grill-jupiter"
                 }
             ],
-            "lat": 26.93526927740075, 
+            "lat": 26.93526927740075,
             "lon": -80.089738215817,
             "city": "Jupiter",
             "address": "185 E Indiantown Rd Ste 217 Jupiter, FL 33477"
@@ -119,6 +119,23 @@
             "lon": -80.325820,
             "city": "Miami",
             "address": "7980 SW 8th St Miami, FL 33144"
+        },
+        {
+            "title": "Gold Marquess Fine Chinese Cuisine",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldmarquess.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
+                }
+            ],
+            "lat": 26.009550,
+            "lon": -80.256650,
+            "city": "Miami",
+            "address": "8525 Pines Blvd Pembroke Pines, FL 33024"
         },
         {
             "title": "Kon Chau Restaurant",
@@ -232,23 +249,6 @@
             "address": "10041 Pines Blvd Pembroke Pines, FL 33024"
         },
         {
-            "title": "Gold Marquess Fine Chinese Cuisine",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.goldmarquess.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
-                }
-            ],
-            "lat": 26.009550,
-            "lon": -80.256650,
-            "city": "Miami",
-            "address": "8525 Pines Blvd Pembroke Pines, FL 33024"
-        },
-        {
             "title": "Toa Toa Chinese Restaurant",
             "links": [
                 {
@@ -264,6 +264,23 @@
             "lon": -80.268270,
             "city": "Sunrise",
             "address": "4145 NW 88th Ave Sunrise, FL 33351"
+        },
+        {
+            "title": "Hong Kong City BBQ",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.hkcitybbq.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-city-bbq-tamarac"
+                }
+            ],
+            "lat": 26.191444360288738,
+            "lon": -80.20455115604544,
+            "city": "Tamarac",
+            "address": "5301 N State Rd 7 Tamarac, FL 33319"
         },
         {
             "title": "Grand Lake Chinese Restaurant",
