@@ -2,12 +2,25 @@
     "name": "Panamá",
     "places": [
         {
+            "title": "Lung Fung",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.palaciolungfung.com/"
+                }
+            ],
+            "lat": 9.007017234324502,
+            "lon":  -79.53446960000001
+            "city": "Panama City",
+            "address": "El Dorado, Plaza Felicidad"
+        },
+        {
             "title": "Wah Kee",
             "links": [
                 {
                     "name": "site",
                     "URL": "https://wahkeepty.com/en/home/"
-                }
+                },
                 {
                     "name": "CN Traveler",
                     "URL": "https://www.cntraveler.com/story/tracing-the-roots-of-dim-sum-in-panama-city"
