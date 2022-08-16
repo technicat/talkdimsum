@@ -32,6 +32,23 @@
             "address": "5399 New Peachtree Rd Chamblee, GA 30341"
         },
         {
+            "title": "Dim Sum Heaven",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://dimsumheaven.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-heaven-doraville"
+                }
+            ],
+            "lat": 33.89442031647519,
+            "lon":  -84.28253781565645,
+            "city": "Doraville",
+            "address": "5203 Buford Hwy NE Doraville, GA 30340"
+        },
+        {
             "title": "East Pearl Seafood",
             "links": [
                 {
