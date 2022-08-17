@@ -676,6 +676,23 @@
             "address": "103 Mott St, New York, NY 10013"
         },
         {
+            "title": "Shun Lee Cafe",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.shunleerestaurants.com/location/shun-lee-cafe/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shun-lee-west-and-cafe-new-york-2"
+                }
+            ],
+            "lat": 40.77305237893898,
+            "lon":  -73.9814680443023,
+            "city": "New York",
+            "address": "43 W 65th St New York, NY 10023"
+        },
+        {
             "title": "Shun Lee West",
             "links": [
                 {
