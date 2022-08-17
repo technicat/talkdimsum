@@ -365,12 +365,32 @@
   {
     "words": [
       {
-        "Chinese": "飯",
-        "Simplified": "饭",
+        "Chinese": "蒸冬菜牛肉餅飯",
+        "Simplified": "蒸冬菜牛肉餅饭",
         "English": "minced beef on rice",
-        "Yale": " faahn",
-        "Pinyin": " fàn",
+        "Yale": "jīng dūng choi ngàuh yuhk faahn",
+        "Pinyin": "zhēng dōng cài niú ròu fàn",
         "resources": [
+          {
+            "name": "蒸",
+            "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
+          },
+          {
+            "name": "冬菜",
+            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%9C"
+          },
+          {
+            "name": "冬",
+            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
+          },
+          {
+            "name": "菜",
+            "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+          },
+          {
+            "name": "菜",
+            "URL": "https://en.wiktionary.org/wiki/E8%8F%9C"
+          },
           {
             "name": "飯",
             "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
