@@ -62,6 +62,23 @@
             "address": "3446 W Camelback Rd, Ste 155, Phoenix, AZ 85017"
         },
         {
+            "title": "China Phoenix",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.chinaphoenixrest.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/china-phoenix-restaurant-tucson"
+                }
+            ],
+            "lat": 32.33549985344388,
+            "lon": -110.97542871569527,
+            "city": "Tucson",
+            "address": "7090 N Oracle Rd Ste 172 Tucson, AZ 85704"
+        },
+        {
             "title": "Go Dim Sum",
             "links": [
                 {
