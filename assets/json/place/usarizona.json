@@ -62,6 +62,27 @@
             "address": "3446 W Camelback Rd, Ste 155, Phoenix, AZ 85017"
         },
         {
+            "title": "Go Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.godimsum.com/"
+                },
+                {
+                    "name": "This is Tuscon",
+                    "URL": "https://thisistucson.com/eat/a-new-dim-sum-spot-just-opened-in-tucsons-midtown/article_06be57f0-1a6c-11ed-934a-0f917740a85c.html"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/go-dim-sum-tucson-2"
+                }
+            ],
+            "lat": 32.25037397503899,
+            "lon":  -110.91806704453334,
+            "city": "Tucson",
+            "address": "3504 E Grant Road, Tucson, AZ 85716"
+        },
+        {
             "title": "Sushi Lounge",
             "links": [
                 {
