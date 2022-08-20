@@ -73,6 +73,57 @@
   {
     "words": [
       {
+        "Chinese": "豉油",
+        "Mandarin": "醬油",
+        "Simplified": "酱油",
+        "English": "sweet soy sauce",
+        "Yale": "sih yàuh",
+        "Pinyin": "jiàng yóu",
+        "resources": [
+          {
+            "name": "豉油",
+            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B2%B9"
+          },
+          {
+            "name": "豉",
+            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
+          },
+          {
+            "name": "醬油",
+            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC%E6%B2%B9"
+          },
+          {
+            "name": "醬",
+            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
+          },
+          {
+            "name": "油",
+            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "sweetsoysauce168market",
+        "place": "168market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Sweet soy sauce](https://en.wikipedia.org/wiki/Sweet_soy_sauce) is a dark, syrupy, sweet soy sauce originating from Indonesia and a staple of Indonesian cuisine.\n\n**Characters**\n\n[豉](https://en.wiktionary.org/wiki/%E8%B1%89) is *salted fermented beans* and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil* (also used in [香油](https://en.wiktionary.org/wiki/%E9%A6%99%E6%B2%B9) *sesame oil*), so [豉油](https://en.wiktionary.org/wiki/%E8%B1%89%E6%B2%B9) is *salted fermented bean oil*.",
+    "tags": [
+      "豉油",
+      "油"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Sweet_soy_sauce"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "蘑菇老抽",
         "English": "mushroom soy sauce",
         "Yale": "mòh gū lóuh chāu",
