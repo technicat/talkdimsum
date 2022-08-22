@@ -1,4 +1,4 @@
-The JSONS files for [Talk Dim Sum](http://talkdimsum.com).
+The JSON files for [Talk Dim Sum](http://talkdimsum.com).
 
 All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and barely Chinese restaurants like PF Chang's).
 
