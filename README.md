@@ -1,5 +1,7 @@
 The JSON files for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in the release downloads, for Android and macOS. Feel free to file reports on the apps in Issues here.
 
+The images are landscape but precisely not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin).
+
 All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and barely Chinese restaurants like PF Chang's).
 
 For the restaurant links, the restaurant's own website is preferred, but no Facebook (because, Facebook), and no food order sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (though OpenRice is better in Asia), Travelocity is omitted because it hangs my link checker.
