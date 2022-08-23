@@ -1,4 +1,4 @@
-The JSON files for [Talk Dim Sum](http://talkdimsum.com).
+The JSON files for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in THE release downloads, for Android and macOS.
 
 All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and barely Chinese restaurants like PF Chang's).
 
