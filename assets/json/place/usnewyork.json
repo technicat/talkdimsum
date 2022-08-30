@@ -425,6 +425,23 @@
             "address": "5 Mott St New York, NY 10013"
         },
         {
+            "title": "Congee Dim Sum House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://congeenyc.com/"
+                }
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/congee-dim-sum-house-new-york"
+                }
+            ],
+            "lat": 40.721432836454355,
+            "lon":  -73.99337755964818,
+            "city": "New York",
+            "address": "207 Bowery New York, NY 10002"
+        },
+        {
             "title": "Dim Sum Go Go",
             "links": [
                 {
