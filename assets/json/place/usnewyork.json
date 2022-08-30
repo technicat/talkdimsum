@@ -436,10 +436,44 @@
                     "URL": "https://www.yelp.com/biz/congee-dim-sum-house-new-york"
                 }
             ],
+            "lat": 40.71883711149485,
+            "lon":   -73.99038013081207,
+            "city": "New York",
+            "address": "100 Allen Street New York, NY 10002"
+        },
+        {
+            "title": "Congee Dim Sum House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://congeenyc.com/"
+                }
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/congee-dim-sum-house-new-york"
+                }
+            ],
             "lat": 40.721432836454355,
             "lon":  -73.99337755964818,
             "city": "New York",
             "address": "207 Bowery New York, NY 10002"
+        },
+        {
+            "title": "Congee Dim Sum House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://congeenyc.com/"
+                }
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/congee-dim-sum-house-new-york"
+                }
+            ],
+            "lat": 40.76127031351562,
+            "lon": -73.83310031546658,
+            "city": "New York",
+            "address": "36-36 Prince Street Flushing, NY 11354"
         },
         {
             "title": "Dim Sum Go Go",
