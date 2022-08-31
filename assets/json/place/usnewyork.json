@@ -207,6 +207,23 @@
             "address": "13330 39th Ave, Flushing, NY 11354"
         },
         {
+            "title": "Congee Village",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://congeenyc.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/congee-village-flushing-2"
+                }
+            ],
+            "lat": 40.76127031351562,
+            "lon": -73.83310031546658,
+            "city": "New York",
+            "address": "36-36 Prince Street Flushing, NY 11354"
+        },
+        {
             "title": "Dim Sum Garden Express",
             "links": [
                 {
@@ -425,12 +442,12 @@
             "address": "5 Mott St New York, NY 10013"
         },
         {
-            "title": "Congee Dim Sum House",
+            "title": "Congee Village",
             "links": [
                 {
                     "name": "site",
                     "URL": "https://congeenyc.com/"
-                }
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/congee-village-new-york"
@@ -447,7 +464,11 @@
                 {
                     "name": "site",
                     "URL": "https://congeenyc.com/"
-                }
+                },
+                {
+                    "name": "Bowery Boogie",
+                    "URL": "https://boweryboogie.com/2022/08/congee-bowery-returns-with-dim-sum-house/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/congee-dim-sum-house-new-york"
@@ -457,23 +478,6 @@
             "lon":  -73.99337755964818,
             "city": "New York",
             "address": "207 Bowery New York, NY 10002"
-        },
-        {
-            "title": "Congee Dim Sum House",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://congeenyc.com/"
-                }
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/congee-village-flushing-2"
-                }
-            ],
-            "lat": 40.76127031351562,
-            "lon": -73.83310031546658,
-            "city": "New York",
-            "address": "36-36 Prince Street Flushing, NY 11354"
         },
         {
             "title": "Dim Sum Go Go",
