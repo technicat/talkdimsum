@@ -2,14 +2,35 @@
     "name": "Songkhla",
     "places": [
         {
+            "title": "Ama Dim Sum",
+            "links": [
+                {
+                    "name": "Places and Foods",
+                    "URL": "https://www.placesandfoods.com/2018/01/top-5-places-dim-sum-hatyai-thailand.html"
+                },
+                {
+                    "name": "Wong Nai",
+                    "URL": "https://www.wongnai.com/articles/ama-dim-sum-hatyai"
+                }
+            ],
+            "lat": 7.005122267524999,
+            "lon": 100.48967635767212,
+            "city": "Hat Yai",
+            "address": "542, Thumnoonvithi Rd, Tambon Hat Yai, Amphoe Hat Yai, Chang Wat Songkhla 90110, Thailand"
+        },
+        {
             "title": "Chok Dee Dim Sum",
             "links": [
                 {
                     "name": "site",
                     "URL": "https://www.chokdeedimsum.com/"
-                }
+                },
                 {
-                    "name": "site",
+                    "name": "Places and Foods",
+                    "URL": "https://www.placesandfoods.com/2018/01/top-5-places-dim-sum-hatyai-thailand.html"
+                },
+                {
+                    "name": "RestaurantGuru",
                     "URL": "https://restaurantguru.com/Chok-Dee-Dim-Sum-Bangkok"
                 },
                 {
