@@ -53,6 +53,9 @@
       {% endif %}
       <p />
       <p>{{ site.description | default: site.github.project_tagline }}</p>
+      {% if site.privacy %}
+      {{site.privacy}}
+      {% endif %}
     </header>
 
     <section>
