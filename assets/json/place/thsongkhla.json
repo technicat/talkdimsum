@@ -1,0 +1,26 @@
+{
+    "name": "Songkhla",
+    "places": [
+        {
+            "title": "Chok Dee Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.chokdeedimsum.com/"
+                }
+                {
+                    "name": "site",
+                    "URL": "https://restaurantguru.com/Chok-Dee-Dim-Sum-Bangkok"
+                },
+                {
+                    "name": "Trip.com",
+                    "URL": "https://www.trip.com/travel-guide/foods/hat-yai-24603-restaurant/chokdee-dim-sum-17426949/"
+                }
+            ],
+            "lat": 7.002204071616317,
+            "lon": 100.47579033068858,
+            "city": "Hat Yai",
+            "address": "58 25 Soi Lamai Songkraw 1, Hat Yai, Songkhla, Thailand, 58"
+        }
+    ]
+}
