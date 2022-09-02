@@ -855,11 +855,15 @@
             "address": "85 Commerce Dr Rochester, NY 14623"
         },
         {
-            "title": "Tao's Bakery",
+            "title": "Tao's Dim Sum & Noodle",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.taosdimsum.com/"
+                },
+                {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/taos-bakery-stony-brook"
+                    "URL": "https://www.yelp.com/biz/taos-dim-sum-and-noodle-stony-brook"
                 }
             ],
             "lat": 40.878010,
