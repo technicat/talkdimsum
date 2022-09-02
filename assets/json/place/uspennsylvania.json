@@ -197,6 +197,27 @@
             "lon": -75.148140,
             "city": "Philadelphia",
             "address": "1100 Washington Ave Philadelphia, PA 19147"
+        },
+        {
+            "title": "Parlor Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://theparlordimsum.com/"
+                },
+                {
+                    "name": "Post-Gazette",
+                    "URL": "https://www.post-gazette.com/life/dining/2022/08/29/parlor-dim-sum-lawrenceville-open/stories/202208260100"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/the-parlor-dim-sum-and-cantonese-bbq-pittsburgh"
+                }
+            ],
+            "lat": 40.47183495174677,
+            "lon":  -79.95984741587239,
+            "city": "Pittsburgh",
+            "address": "401 Butler St, Pittsburgh, PA 1520"
         }
     ]
 }
