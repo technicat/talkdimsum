@@ -41,6 +41,23 @@
             "address": "2216-4500 Kingsway Burnaby, BC V5H 2A9"
         },
         {
+            "title": "Jade Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://jadepalaceburnaby.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jade-palace-chinese-restaurant-burnaby"
+                }
+            ],
+            "lat": 49.28096616074421,
+            "lon":  -123.00215678635588,
+            "city": "Burnaby",
+            "address": "4524 E Hastings Street Burnaby, BC V5C 2K4 Canada"
+        },
+        {
             "title": "Lee Garden Seafood Restaurant",
             "links": [
                 {
