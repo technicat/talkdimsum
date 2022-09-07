@@ -1,4 +1,4 @@
-The JSON files for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in the release downloads, for Android and macOS. Feel free to file reports on the apps in Issues here.
+The JSON files for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in the release downloads, for Android and macOS. Feel free to file reports on the apps in Issues here (including if you want a new Flutter build - I don't update the releases often).
 
 The images are landscape but precisely not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin).
 
