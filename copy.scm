@@ -7,3 +7,5 @@
 (copy-directory* "assets" "../dartdimsum/assets" :if-exists :supersede)
 
 (copy-directory* "assets/json/dish" "../swiftdimsum/Fugu Dim Sum/dishes" :if-exists :supersede)
+
+(copy-directory* "assets/json/resources/" "../swiftdimsum/Fugu Dim Sum/resources" :if-exists :supersede)
