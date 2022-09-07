@@ -1,11 +1,15 @@
 #!/usr/local/bin/gosh
 
-; copy assets to flutter and swift projects
-
 (use file.util)
+
+; copy assets to flutter project
 
 (copy-directory* "assets" "../dartdimsum/assets" :if-exists :supersede)
 
+; copy assets to swift project
+
 (copy-directory* "assets/json/dish" "../swiftdimsum/Fugu Dim Sum/dishes" :if-exists :supersede)
+
+(copy-directory* "assets/json/place" "../swiftdimsum/Fugu Dim Sum/places" :if-exists :supersede)
 
 (copy-directory* "assets/json/resources/" "../swiftdimsum/Fugu Dim Sum/resources" :if-exists :supersede)
