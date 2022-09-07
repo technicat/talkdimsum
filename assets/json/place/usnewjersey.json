@@ -92,6 +92,19 @@
             "address": "100 Rt 22 W, Green Brook Township, NJ 08812"
         },
         {
+            "title": "Green Lake",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/green-lake-restaurant-green-brook-township"
+                }
+            ],
+            "lat": 40.609039024470384,
+            "lon":  -74.46464465779894,
+            "city": "Green Brook Township",
+            "address": "19 US-22 Green Brook Township, NJ 08812"
+        },
+        {
             "title": "Dim Sum Station",
             "links": [
                 {
