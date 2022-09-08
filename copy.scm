@@ -12,4 +12,8 @@
 
 (copy-directory* "assets/json/place" "../swiftdimsum/Fugu Dim Sum/places" :if-exists :supersede)
 
-(copy-directory* "assets/json/resources/" "../swiftdimsum/Fugu Dim Sum/resources" :if-exists :supersede)
+(copy-directory* "assets/json/resources" "../swiftdimsum/Fugu Dim Sum/resources" :if-exists :supersede)
+
+(copy-directory* "assets/json/words" "../swiftdimsum/Fugu Dim Sum/words" :if-exists :supersede)
+
+(copy-directory* "assets/json/phrases" "../swiftdimsum/Fugu Dim Sum/phrases" :if-exists :supersede)
