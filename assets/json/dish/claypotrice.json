@@ -86,12 +86,36 @@
     {
         "words": [
             {
-                "Chinese": "煲仔飯",
-                "Simplified": "煲仔饭",
+                "Chinese": "日式鰻魚煲仔飯",
+                "Simplified": "日式鳗鱼煲仔饭",
                 "English": "eel clay pot rice",
-                "Yale": "bōu jái faahn",
-                "Pinyin": "bāo zǐ fàn",
+                "Yale": "yaht sīk màahn yú bōu jái faahn",
+                "Pinyin": "Rì shì mán yú bāo zǐ fàn",
                 "resources": [
+                    {
+                        "name": "日式",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%97%A5%E5%BC%8F"
+                    },
+                    {
+                        "name": "日",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%97%A5"
+                    },
+                    {
+                        "name": "式",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
+                    },
+                    {
+                        "name": "鰻魚",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A"
+                    },
+                    {
+                        "name": "鰻",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB"
+                    },
+                    {
+                        "name": "魚",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+                    },
                     {
                         "name": "煲仔飯",
                         "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
