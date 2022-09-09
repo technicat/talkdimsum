@@ -11,5 +11,26 @@
         "English": "Korean style",
         "Yale": "hòhn sīk",
         "Pinyin": "Hán shì"
+    },
+    {
+        "Chinese": "日式",
+        "Simplified": "日式",
+        "English": "Japanese-style",
+        "Yale": "yaht sīk",
+        "Pinyin": "rì shì",
+        "resources": [
+            {
+                "name": "日式",
+                "URL": "https://en.wiktionary.org/wiki/%E6%97%A5%E5%BC%8F"
+            },
+            {
+                "name": "日",
+                "URL": "https://en.wiktionary.org/wiki/%E6%97%A5"
+            },
+            {
+                "name": "式",
+                "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
+            }
+        ]
     }
 ]
