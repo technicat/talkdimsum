@@ -2,6 +2,23 @@
     "name": "Florida",
     "places": [
         {
+            "title": "Dim Sum King",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.dimsumsarasota.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-king-bradenton"
+                }
+            ],
+            "lat": 27.389794957428585,
+            "lon":  -82.45792825998795,
+            "city": "Bradenton",
+            "address": "8194 Tourist Center Dr Bradenton, FL 34201"
+        },
+        {
             "title": "Hong Kong Dim Sum",
             "links": [
                 {
