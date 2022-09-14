@@ -126,6 +126,23 @@
             "address": "Millennium Hotels & Resorts 4-18 Harrington Gardens London SW7 4LH United Kingdom"
         },
         {
+            "title": "Bun House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://bun.house/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/bun-house-london"
+                }
+            ],
+            "lat": 51.51189217639077,
+            "lon":  -0.1298840727857261,
+            "city": "London",
+            "address": "26-27 Lisle Street London WC2H 7BA United Kingdom"
+        },
+        {
             "title": "Canton Element",
             "links": [
                 {
