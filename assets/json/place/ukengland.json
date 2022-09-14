@@ -207,6 +207,27 @@
             "address": "9A St Thomas Street London SE1 9RY United Kingdom"
         },
         {
+            "title": "Dumpling's Legend",
+            "links": [
+                {
+                    "name": "Chinatown London",
+                    "URL": "https://chinatown.co.uk/en/restaurant/dumplings-legend/"
+                },
+                {
+                    "name": "Timeout",
+                    "URL": "https://www.timeout.com/london/restaurants/dumplings-legend"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dumplings-legend-london"
+                }
+            ],
+            "lat": 51.51183517657448,
+            "lon": -0.13156698627748117,
+            "city": "London",
+            "address": "15-16 Gerrard St, London W1D 6JE"
+        },
+        {
             "title": "Golden Dragon",
             "links": [
                 {
@@ -795,7 +816,7 @@
                     "URL": "https://tasteofmanchester.com/news/gallery-yum-cha-opens-at-kampus-manchester/"
                 }
             ],
-            "lat": 53.47751006817634, 
+            "lat": 53.47751006817634,
             "lon": -2.2341344862063712,
             "city": "Manchester",
             "address": "Yum Cha, KAMPUS, 44 Aytoun St, Manchester M1 3GL"
