@@ -718,6 +718,40 @@
             "address": "22 Mott St New York, NY 10013"
         },
         {
+            "title": "Red Farm (Upper West Side)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.redfarmnyc.com/location/upper-west-side/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/redfarm-new-york-2"
+                }
+            ],
+            "lat": 40.78233730078418,
+            "lon": -73.9805984846557,
+            "city": "New York",
+            "address": "2170 Broadway, New York, NY 10024"
+        },
+        {
+            "title": "Red Farm (West Village)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.redfarmnyc.com/location/west-village/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/redfarm-new-york"
+                }
+            ],
+            "lat": 40.73440351300079,
+            "lon": -74.00650464232785,
+            "city": "New York",
+            "address": "529 Hudson St New York, NY 10014"
+        },
+        {
             "title": "Royal Seafood",
             "links": [
                 {
