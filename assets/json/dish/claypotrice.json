@@ -171,12 +171,24 @@
     {
         "words": [
             {
-                "Chinese": "滑雞煲仔飯",
-                "Simplified": "滑鸡煲仔饭",
+                "Chinese": "香菇滑雞煲仔飯",
+                "Simplified": "香菇滑鸡煲仔饭",
                 "English": "mushroom chicken clay pot rice",
-                "Yale": " bōu jái faahn",
-                "Pinyin": " bāo zǐ fàn",
+                "Yale": "hēung gū bōu jái faahn",
+                "Pinyin": "xiāng gū bāo zǐ fàn",
                 "resources": [
+                    {
+                        "name": "香菇",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%8F%87"
+                    },
+                    {
+                        "name": "香",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
+                    },
+                    {
+                        "name": "菇",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
+                    },
                     {
                         "name": "煲仔飯",
                         "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
