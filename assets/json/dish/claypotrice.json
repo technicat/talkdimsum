@@ -167,5 +167,61 @@
                 "URL": "https://simplechinesefood.com/recipe/rice-eel-in-clay-pot"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "煲仔飯",
+                "Simplified": "煲仔饭",
+                "English": "mushroom chicken clay pot rice",
+                "Yale": " bōu jái faahn",
+                "Pinyin": " bāo zǐ fàn",
+                "resources": [
+                    {
+                        "name": "煲仔飯",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
+                    },
+                    {
+                        "name": "煲仔",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94"
+                    },
+                    {
+                        "name": "煲",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2"
+                    },
+                    {
+                        "name": "仔",
+                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
+                    },
+                    {
+                        "name": "飯",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "eelclaypotriceyummyrice",
+                "place": "Yummy Rice, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Clay pot rice topped with Japanese-style eel.\n\n**Characters**\n\n[日式](https://en.wiktionary.org/wiki/%E6%97%A5%E5%BC%8F) is *Japanese-style*, [鰻魚](https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A) is *eel*, [煲仔](https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94) is *clay pot* ([煲](https://en.wiktionary.org/wiki/%E7%85%B2) is *pot*, and [仔](https://en.wiktionary.org/wiki/%E4%BB%94) is *small* or *child*), and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice* (cooked), so 日式鰻魚煲仔飯 is *Japense-style eel clay pot rice*.",
+        "tags": [
+            "新菜",
+            "煲仔飯",
+            "粵菜",
+            "蔥",
+            "鴨",
+            "薑",
+            "飯",
+            "白飯"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chicken-mushroom-clay-pot-rice/"
+            }
+        ]
     }
 ]
