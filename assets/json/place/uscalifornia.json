@@ -1314,21 +1314,17 @@
             "address": "1500 Eureka Rd  Roseville, CA 95661"
         },
         {
-            "title": "Ming Dynasty",
+            "title": "Dim Dim Food",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.mingdynastysac.com/"
-                },
-                {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/ming-dynasty-sacramento-4"
+                    "URL": "https://www.yelp.com/biz/dim-dim-food-sacramento"
                 }
             ],
-            "lat": 38.563190,
-            "lon": -121.497270,
+            "lat": 38.485844533048834,
+            "lon":  -121.53456064436882,
             "city": "Sacramento",
-            "address": "1211 Broadway, Sacramento, CA 95818"
+            "address": "7585 Rush River Dr Ste 680 The Promenade Shopping Center Sacramento, CA 95831"
         },
         {
             "title": "Dim Sum House",
@@ -1370,19 +1366,6 @@
             "address": "5731 Stockton Blvd, Sacramento, CA 95824"
         },
         {
-            "title": "Ming Hui Dim Sum 2",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/ming-hui-dim-sum-2-sacramento-2"
-                }
-            ],
-            "lat": 38.529590,
-            "lon": -121.495750,
-            "city": "Sacramaneto",
-            "address": "4940 Freeport Blvd Sacramento, CA 95822"
-        },
-        {
             "title": "Lam Kwong Market",
             "links": [
                 {
@@ -1398,6 +1381,36 @@
             "lon": -121.495797,
             "city": "Sacramento",
             "address": "2031 12th St, Sacramento, CA 95818"
+        },
+        {
+            "title": "Ming Dynasty",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.mingdynastysac.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ming-dynasty-sacramento-4"
+                }
+            ],
+            "lat": 38.563190,
+            "lon": -121.497270,
+            "city": "Sacramento",
+            "address": "1211 Broadway, Sacramento, CA 95818"
+        },
+        {
+            "title": "Ming Hui Dim Sum 2",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ming-hui-dim-sum-2-sacramento-2"
+                }
+            ],
+            "lat": 38.529590,
+            "lon": -121.495750,
+            "city": "Sacramaneto",
+            "address": "4940 Freeport Blvd Sacramento, CA 95822"
         },
         {
             "title": "Yue Huang",
@@ -1417,7 +1430,7 @@
             "address": "3860 Truxel Rd, Sacramento, CA 95834"
         },
         {
-            "title": "Asian Pearl Restaurant",
+            "title": "Asian Pearl",
             "links": [
                 {
                     "name": "Yelp",
@@ -1443,7 +1456,7 @@
             "address": "1614 21st St, Sacramento, CA 95811"
         },
         {
-            "title": "King Palace Restaurant",
+            "title": "King Palace",
             "links": [
                 {
                     "name": "Yelp",
