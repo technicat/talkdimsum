@@ -253,6 +253,23 @@
             "address": "4441 Collins Ave Miami Beach, FL 33140"
         },
         {
+            "title": "Tanuki",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.tanukimiami.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tanuki-miami-beach-4"
+                }
+            ],
+            "lat": 25.781780600918623,
+            "lon": -80.14121251584041,
+            "city": "Miami Beach",
+            "address": "1080 Alton Rd Miami Beach, FL 33139"
+        },
+        {
             "title": "Sang's Chinese Food",
             "links": [
                 {
