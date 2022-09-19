@@ -151,23 +151,6 @@
             "address": "7980 SW 8th St Miami, FL 33144"
         },
         {
-            "title": "Gold Marquess Fine Chinese Cuisine",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.goldmarquess.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
-                }
-            ],
-            "lat": 26.009550,
-            "lon": -80.256650,
-            "city": "Miami",
-            "address": "8525 Pines Blvd Pembroke Pines, FL 33024"
-        },
-        {
             "title": "Kon Chau",
             "links": [
                 {
@@ -311,6 +294,23 @@
             "lon": -80.278500,
             "city": "Pembroke Pines",
             "address": "10041 Pines Blvd Pembroke Pines, FL 33024"
+        },
+        {
+            "title": "Gold Marquess Fine Chinese Cuisine",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldmarquess.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
+                }
+            ],
+            "lat": 26.009550,
+            "lon": -80.256650,
+            "city": "Miami",
+            "address": "8525 Pines Blvd Pembroke Pines, FL 33024"
         },
         {
             "title": "Toa Toa",
