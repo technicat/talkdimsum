@@ -236,6 +236,23 @@
             "address": "143 NW 23rd Street  Miami, Florida 33127"
         },
         {
+            "title": "Hakkasan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://hakkasan.com/miami/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hakkasan-miami-miami-beach"
+                }
+            ],
+            "lat": 25.818018789364075,
+            "lon":  -80.12242611583976,
+            "city": "Miami Beach",
+            "address": "4441 Collins Ave Miami Beach, FL 33140"
+        },
+        {
             "title": "Sang's Chinese Food",
             "links": [
                 {
