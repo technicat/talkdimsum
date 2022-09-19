@@ -134,7 +134,7 @@
             "address": "4640 Hypoluxo Rd Ste 5 Lake Worth, FL 33463"
         },
         {
-            "title": "Canton Palace Chinese Restaurant",
+            "title": "Canton Palace",
             "links": [
                 {
                     "name": "site",
@@ -149,6 +149,23 @@
             "lon": -80.325820,
             "city": "Miami",
             "address": "7980 SW 8th St Miami, FL 33144"
+        },
+        {
+            "title": "Da Tang Zhen Wei",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://datangzhenwei.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/datangzhenwei-miami"
+                }
+            ],
+            "lat": 25.765577176085092,
+            "lon": -80.18900758700468,
+            "city": "Miami",
+            "address": "801 Brickell Bay Dr Miami, FL 33131"
         },
         {
             "title": "Kon Chau",
