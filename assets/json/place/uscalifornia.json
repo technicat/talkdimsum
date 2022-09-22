@@ -1314,6 +1314,23 @@
             "address": "1500 Eureka Rd  Roseville, CA 95661"
         },
         {
+            "title": "ABC Bakery",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://abcbakerysac.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/abc-bakery-sacramento"
+                }
+            ],
+            "lat": 38.496969519537295,
+            "lon":   -121.50941268669641,
+            "city": "Sacramento",
+            "address": "1309 Florin Rd Ste F Sacramento, CA 95831"
+        },
+        {
             "title": "Dim Dim Food",
             "links": [
                 {
