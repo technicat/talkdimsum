@@ -51,6 +51,23 @@
         "Pinyin": "yú"
     },
     {
+        "Chinese": "魚片",
+        "Simplified": "鱼片",
+        "English": "fish fillet",
+        "Yale": "yú pín",
+        "Pinyin": "yú piàn",
+        "resources": [
+            {
+                "name": "魚",
+                "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+            },
+            {
+                "name": "片",
+                "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
+            }
+        ]
+    },
+    {
         "English": "milkfish",
         "Chinese": "虱目魚",
         "Simplified": "虱目鱼",

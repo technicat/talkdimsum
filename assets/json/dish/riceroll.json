@@ -687,5 +687,56 @@
                 "URL": "https://dimsumguide.com/site/view/Rice-Flour-Roll-with-Shredded-Chicken"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "魚片腸粉",
+                "Simplified": "鱼片肠粉",
+                "English": "fish fillet rice roll",
+                "Yale": "yú pín chéung fán",
+                "Pinyin": "yú piàn cháng fěn",
+                "resources": [
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                    },
+                    {
+                        "name": "絲",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B5%B2"
+                    },
+                    {
+                        "name": "腸粉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
+                    },
+                    {
+                        "name": "腸",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
+                    },
+                    {
+                        "name": "粉",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "fishricerolldimsumlicious",
+                "place": "Las Vegas, Nevada"
+            }
+        ],
+        "description": "Rice roll containing slices of fish.\n\n**Characters**\n\n[魚](https://en.wiktionary.org/wiki/%E9%AD%9A) is *fish*, and [片](https://en.wiktionary.org/wiki/%E7%89%87) is *slice* or *piece*, so 魚片 is *fish fillet*, and [腸粉](https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89) is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll).",
+        "tags": [
+            "魚片",
+            "粵菜",
+            "腸粉",
+            "豉油",
+            "粉",
+            "點心"
+        ],
+        "resources": [
+           
+        ]
     }
 ]
