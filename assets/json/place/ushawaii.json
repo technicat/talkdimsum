@@ -199,6 +199,24 @@
             "city": "Honolulu",
             "address": "1425 Liliha St, Ste 2-5, Honolulu, HI 96817"
         },
+
+        "title": "Royal Kitchen",
+        "links": [
+            {
+                "name": "site",
+                "URL": "https://royalkitchenhawaii.com/"
+            },
+            {
+                "name": "Yelp",
+                "URL": "https://www.yelp.com/biz/royal-kitchen-honolulu"
+            }
+        ],
+        "lat": 21.315677851979192,
+        "lon": -157.86062175075057,
+        "city": "Honolulu",
+        "address": "100 N Beretania St Ste 175 Honolulu, HI 96817"
+    },
+        
         {
             "title": "Sing Cheong Yuan Bakery",
             "links": [
