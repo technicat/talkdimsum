@@ -28,6 +28,19 @@
             "address": "1111 Bishop St, Ste 2, Honolulu, HI 96813"
         },
         {
+            "title": "Dim Sum Village",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-village-honolulu"
+                }
+            ],
+            "lat": 21.313376581147722,
+            "lon":  -157.86262536242558,
+            "city": "Honolulu",
+            "address": "1120 Maunakea St Honolulu, HI 96817"
+        },
+        {
             "title": "Fook Lam",
             "links": [
                 {
