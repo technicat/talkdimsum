@@ -32,19 +32,6 @@
             "address": "21-19 Cameron Street Kitchener, ON N2G 3N1"
         },
         {
-            "title": "Hong Ping Restaurant",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/hong-ping-restaurant-london"
-                }
-            ],
-            "lat": 42.982050,
-            "lon": -81.236020,
-            "city": "London",
-            "address": "339 Horton Street London, ON N6B 1L4"
-        },
-        {
             "title": "London Chinese Restaurant",
             "links": [
                 {
@@ -60,10 +47,6 @@
         {
             "title": "Tak Sun Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.taksunrestaurant.ca/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/tak-sun-restaurant-london"
@@ -131,19 +114,6 @@
             "address": "7750 Kennedy Road, Unit 2-2A, Markham, ON L3R 0A7"
         },
         {
-            "title": "Noble Seafood",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.ca/biz/noble-seafood-markham"
-                }
-            ],
-            "lat": 43.831821,
-            "lon": -79.307220,
-            "city": "Markham",
-            "address": "7220 Kennedy Road, Unit 18, Markham, ON L3R 0N4"
-        },
-        {
             "title": "Skyview Cuisine Fusion Cuisine",
             "links": [
                 {
@@ -161,23 +131,6 @@
             "address": "8261 Woodbine Avenue, Markham, ON L3R 8Z5"
         },
         {
-            "title": "Blue Lagoon Seafood Master",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.bluelagoonseafoodmaster.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.ca/biz/blue-lagoon-seafood-master-mississauga"
-                }
-            ],
-            "lat": 43.603740,
-            "lon": -79.590100,
-            "city": "Mississauga",
-            "address": "888 Dundas Street E, Unit C3&4, Mississauga, ON L4Y 4G6"
-        },
-        {
             "title": "Emerald Chinese Restaurant",
             "links": [
                 {
@@ -191,19 +144,6 @@
             "address": "30 Eglinton Avenue W, Mississauga, ON L5R 3E7"
         },
         {
-            "title": "Golden Fountain Chinese Restaurant",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/golden-fountain-chinese-restaurant-mississauga"
-                }
-            ],
-            "lat": 43.578630,
-            "lon": -79.683720,
-            "city": "Mississauga",
-            "address": "1250 Eglinton Avenue W, Mississauga, ON L5V 1N3"
-        },
-        {
             "title": "Happy Dim Sum Bakery",
             "links": [
                 {
@@ -215,23 +155,6 @@
             "lon": -79.602810,
             "city": "Mississauga",
             "address": "680 Silver Creek Boulevard, Unit 3, Mississauga, ON L5A 3Z1"
-        },
-        {
-            "title": "JAM House Seafood Restaurant",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.jamhouseseafood.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.ca/biz/jam-house-seafood-restaurant-mississauga"
-                }
-            ],
-            "lat": 43.603740,
-            "lon": -79.590100,
-            "city": "Mississauga",
-            "address": "1425 Dundas Street E, Suite 3, Mississauga, ON L4X 2W4"
         },
         {
             "title": "Jade Dim Sum",
