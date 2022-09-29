@@ -238,7 +238,7 @@
             "address": "808 Somerset Street W, Ottawa, ON K1R 6R5"
         },
         {
-            "title": "Hung Sum Restaurant",
+            "title": "Hung Sum",
             "links": [
                 {
                     "name": "site",
@@ -465,19 +465,6 @@
             "address": "4188 Finch Avenue E, Unit 1A, Scarborough, ON M1S"
         },
         {
-            "title": "Landmark Seafood Cuisine",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.ca/biz/landmark-seafood-cuisine-scarborough"
-                }
-            ],
-            "lat": 43.803660,
-            "lon": -79.335690,
-            "city": "Scarborough",
-            "address": "3601 Victoria Park Ave, Unit 101, Scarborough, ON M1W 3Y3"
-        },
-        {
             "title": "Lotus Pond Vegetarian Restaurant",
             "links": [
                 {
@@ -527,10 +514,6 @@
         {
             "title": "Dim Sum King Restaurant",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.dimsumkingrestaurant.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dim-sum-king-seafood-restaurant-toronto"
@@ -729,19 +712,6 @@
             "lon": -79.293820,
             "city": "Toronto",
             "address": "17 Milliken Boulevard, Toronto, ON M1V 1V3"
-        },
-        {
-            "title": "May Wah Inn Chinese Cuisine",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/may-wah-inn-chinese-cuisine-windsor"
-                }
-            ],
-            "lat": 42.311350,
-            "lon": -83.058180,
-            "city": "Windsor",
-            "address": "1689 University Avenue W Windsor, ON N9B 1C3"
         }
     ]
 }
