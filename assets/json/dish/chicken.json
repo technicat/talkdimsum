@@ -468,5 +468,63 @@
                 "URL": "https://www.wokandkin.com/taiwanese-popcorn-chicken/"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "可樂雞翅",
+                "Simplified": "可乐鸡翅",
+                "English": "cola chicken wings",
+                "Yale": "hó lohk gāi chi",
+                "Pinyin": "kě lè jī ch",
+                "resources": [
+                    {
+                        "name": "可樂",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF%E6%A8%82"
+                    },
+                    {
+                        "name": "可",
+                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF"
+                    },
+                    {
+                        "name": "樂",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%A8%82"
+                    },
+                    {
+                        "name": "雞翅",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E7%BF%85"
+                    },
+                    {
+                        "name": "雞",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                    },
+                    {
+                        "name": "翅",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%BF%85"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "colachickenwingsluckyhousecafe",
+                "place": "Lucky House Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Chicken wings marinaded in a sauce with cola.\n\n**Characters**\n\n[可樂](https://en.wiktionary.org/wiki/%E5%8F%AF%E6%A8%82) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cola* (especially the Mandarin pronunciation *kě lè*), and [雞翅](https://en.wiktionary.org/wiki/%E9%9B%9E%E7%BF%85) is *chicken wing*, so 雞翅 is (cola chicken wings*.",
+        "tags": [
+            "新菜",
+            "茶餐廳",
+            "炸",
+            "雞",
+            "雞翅",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": ""
+            }
+        ]
     }
 ]
