@@ -476,7 +476,7 @@
                 "Simplified": "可乐鸡翅",
                 "English": "cola chicken wings",
                 "Yale": "hó lohk gāi chi",
-                "Pinyin": "kě lè jī ch",
+                "Pinyin": "kě lè jī chì",
                 "resources": [
                     {
                         "name": "可樂",
@@ -511,7 +511,7 @@
                 "place": "Lucky House Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Chicken wings marinaded in a sauce with cola.\n\n**Characters**\n\n[可樂](https://en.wiktionary.org/wiki/%E5%8F%AF%E6%A8%82) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cola* (especially the Mandarin pronunciation *kě lè*), and [雞翅](https://en.wiktionary.org/wiki/%E9%9B%9E%E7%BF%85) is *chicken wing*, so 雞翅 is (cola chicken wings*.",
+        "description": "Chicken wings marinaded in a sauce with cola.\n\n**Characters**\n\n[可樂](https://en.wiktionary.org/wiki/%E5%8F%AF%E6%A8%82) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cola* (especially the Mandarin pronunciation *kě lè*), and [雞翅](https://en.wiktionary.org/wiki/%E9%9B%9E%E7%BF%85) is *chicken wing*, so 可樂雞翅 is (cola chicken wings*.",
         "tags": [
             "新菜",
             "茶餐廳",
@@ -521,6 +521,10 @@
             "點心"
         ],
         "resources": [
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/coca-cola-chicken-wings/"
+            },
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/coca-cola-chicken-wings/"
