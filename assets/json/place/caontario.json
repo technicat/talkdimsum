@@ -353,17 +353,21 @@
             "address": "9-9021 Leslie Street, Richmond Hill, ON L4B 0B2"
         },
         {
-            "title": "The One Fusion",
+            "title": "The One Fusion Cuisine",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://theonefusioncuisine.com/"
+                },
+                {
                     "name": "Yelp",
-                    "URL": ""
+                    "URL": "https://www.yelp.com/biz/the-one-fusion-cuisine-%E8%81%9A%E9%BE%8D%E8%BB%92-richmond-hill"
                 }
             ],
-            "lat": 0,
-            "lon": 0,
+            "lat": 43.85110169381625,
+            "lon":  -79.40821260187994,
             "city": "Richmond Hill",
-            "address": ""
+            "address": "9019 Bayview Ave. Richmond Hill, ON L4B 1Y3 Canada"
         },
         {
             "title": "Orient Bistro",
