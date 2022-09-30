@@ -352,6 +352,23 @@
             "address": "510 Gray Street, Houston, TX 77072"
         },
         {
+            "title": "Dim Sum Box",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumboxkaty.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-box-katy"
+                }
+            ],
+            "lat": 29.789768847786853,
+            "lon":  -95.77070064459123,
+            "city": "Katy",
+            "address": "1223 Grand W Blvd Bldg B, Unit B-107 Katy, TX 77449"
+        },
+        {
             "title": "JS Chen's Dim Sum & BBQ",
             "links": [
                 {
