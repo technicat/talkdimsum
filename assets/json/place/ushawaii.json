@@ -36,7 +36,7 @@
                 }
             ],
             "lat": 21.313376581147722,
-            "lon":  -157.86262536242558,
+            "lon": -157.86262536242558,
             "city": "Honolulu",
             "address": "1120 Maunakea St Honolulu, HI 96817"
         },
@@ -182,7 +182,7 @@
                 }
             ],
             "lat": 21.31395163866796,
-            "lon":  -157.86339907402908,
+            "lon": -157.86339907402908,
             "city": "Honolulu",
             "address": "162 N Hotel St Honolulu, HI 96817"
         },
@@ -199,24 +199,23 @@
             "city": "Honolulu",
             "address": "1425 Liliha St, Ste 2-5, Honolulu, HI 96817"
         },
-
-        "title": "Royal Kitchen",
-        "links": [
-            {
-                "name": "site",
-                "URL": "https://royalkitchenhawaii.com/"
-            },
-            {
-                "name": "Yelp",
-                "URL": "https://www.yelp.com/biz/royal-kitchen-honolulu"
-            }
-        ],
-        "lat": 21.315677851979192,
-        "lon": -157.86062175075057,
-        "city": "Honolulu",
-        "address": "100 N Beretania St Ste 175 Honolulu, HI 96817"
-    },
-        
+        {
+            "title": "Royal Kitchen",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://royalkitchenhawaii.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/royal-kitchen-honolulu"
+                }
+            ],
+            "lat": 21.315677851979192,
+            "lon": -157.86062175075057,
+            "city": "Honolulu",
+            "address": "100 N Beretania St Ste 175 Honolulu, HI 96817"
+        },
         {
             "title": "Sing Cheong Yuan Bakery",
             "links": [
@@ -226,7 +225,7 @@
                 }
             ],
             "lat": 21.312921858541856,
-            "lon":  -157.86322820471764,
+            "lon": -157.86322820471764,
             "city": "Honolulu",
             "address": "1027 Maunakea St Honolulu, HI 96817"
         },
