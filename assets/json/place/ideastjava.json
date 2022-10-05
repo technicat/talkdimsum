@@ -2,6 +2,23 @@
     "name": "East Java",
     "places": [
         {
+            "title": "Djaman Doeloe Resto & Bar",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.djamandoeloeresto.com/"
+                },
+                {
+                    "name": "Yahoo Finance",
+                    "URL": "https://finance.yahoo.com/news/relive-family-dim-sum-eating-084000686.html"
+                }
+            ],
+            "lat": -7.288459667565966,
+            "lon":   112.6767038839206,
+            "city": "Surabaya",
+            "address": "Jl. Puncak Indah Lontar No.2, Four Points by Sheraton Surabaya, Pakuwon Indah, Surabaya, Jawa Timur 60216"
+        },
+        {
             "title": "Imperial Kitchen & Dimsum, Pakuwon Mall",
             "links": [
                 {
