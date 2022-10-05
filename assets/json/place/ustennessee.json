@@ -2,6 +2,23 @@
     "name": "Tennessee",
     "places": [
         {
+            "title": "Dim Sum King",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumkingmemphis.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lucky-bamboo-china-bistro-nashville-4"
+                }
+            ],
+            "lat": 35.157150686502604,
+            "lon": , -89.88865037329592,
+            "city": "Memphis",
+            "address": "5266 Summer Ave #65, Memphis TN 38122"
+        },
+        {
             "title": "Lucky Bamboo China Bistro",
             "links": [
                 {
