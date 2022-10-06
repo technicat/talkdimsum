@@ -1,0 +1,26 @@
+{
+    "name": "Perak",
+    "places": [
+        {
+            "title": "Chooi Yue Dim Sum",
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/perak/r-restoran-chooi-yue-dim-sum-ipoh-town-chinese-dim-sum-r198430"
+                },
+                {
+                    "name": "Mimi's Dining Room",
+                    "URL": "http://www.choiyen.com/chooi-yue-dim-sum-ipoh/"
+                },
+                {
+                    "name": "Travels with Sun",
+                    "URL": "https://www.travelswithsun.com/ipoh-chooi-yue-dim-sum/"
+                }
+            ],
+            "lat": 4.608494131037484,
+            "lon":  101.11962601535556,
+            "city": "Ipoh",
+            "address": "2, Tingkat Taman Ipoh 12, Ipoh Garden South, Ipoh Garden, Perak, Ipoh Town, 31400 "
+        }
+    ]
+}
