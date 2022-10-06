@@ -96,9 +96,22 @@
                 }
             ],
             "lat": 4.598662059834957,
-            "lon":  101.09429872623559,
+            "lon": 101.09429872623559,
             "city": "Ipoh",
             "address": "74, Persiaran Greentown 1, Greentown Business Centre, Greentown, Perak, Ipoh Town, 30450"
+        },
+        {
+            "title": "Sun Sok Kee",
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/perak/r-sun-kok-kee-dim-sun-restaurant-ipoh-town-chinese-dim-sum-r498154"
+                }
+            ],
+            "lat": 4.639428248334765,
+            "lon": 101.13024063880171,
+            "city": "Ipoh",
+            "address": "7-11, Persiaran Bercham Baru Timur 1, Taman Bercham Baru, Ipoh Town, 31400"
         }
     ]
 }
