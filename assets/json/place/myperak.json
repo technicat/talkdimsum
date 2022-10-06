@@ -20,7 +20,20 @@
             "lat": 4.608494131037484,
             "lon":  101.11962601535556,
             "city": "Ipoh",
-            "address": "2, Tingkat Taman Ipoh 12, Ipoh Garden South, Ipoh Garden, Perak, Ipoh Town, 31400 "
+            "address": "2, Tingkat Taman Ipoh 12, Ipoh Garden South, Ipoh Garden, Perak, Ipoh Town, 31400"
+        },
+        {
+            "title": "Foh San",
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/perak/r-foh-san-restaurant-ipoh-town-chinese-dim-sum-r197657"
+                }
+            ],
+            "lat": 4.5971632092932175,
+            "lon": 101.08602621274385,
+            "city": "Ipoh",
+            "address": "51, Jalan Leong Sin Nam, Pusat Bandaraya, Perak, Ipoh Town, 30300 "
         }
     ]
 }
