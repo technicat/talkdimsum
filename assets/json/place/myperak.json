@@ -18,7 +18,7 @@
                 }
             ],
             "lat": 4.608494131037484,
-            "lon":  101.11962601535556,
+            "lon": 101.11962601535556,
             "city": "Ipoh",
             "address": "2, Tingkat Taman Ipoh 12, Ipoh Garden South, Ipoh Garden, Perak, Ipoh Town, 31400"
         },
@@ -36,6 +36,19 @@
             "address": "51, Jalan Leong Sin Nam, Pusat Bandaraya, Perak, Ipoh Town, 30300 "
         },
         {
+            "title": "Greentown Dim Sum",
+            "links": [
+                {
+                    "name": "OpenRice",
+                    "URL": "https://my.openrice.com/en/perak/r-greentown-dimsum-cafe-ipoh-town-chinese-dim-sum-r506118"
+                }
+            ],
+            "lat": 4.599306559602246,
+            "lon": 101.09247926856352,
+            "city": "Ipoh",
+            "address": "10, Persiaran Greentown 4, Greentown Avenue, Perak, Ipoh Town, 30450"
+        },
+        {
             "title": "Kedai Makanan Nam Heong",
             "links": [
                 {
@@ -44,7 +57,7 @@
                 }
             ],
             "lat": 4.593391972976846,
-            "lon":  101.07719018390775,
+            "lon": 101.07719018390775,
             "city": "Ipoh",
             "address": "2, Jalan Bandar Timah, Ipoh Town, 30000"
         },
