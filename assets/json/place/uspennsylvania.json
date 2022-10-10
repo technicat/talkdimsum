@@ -2,6 +2,23 @@
     "name": "Pennsylvania",
     "places": [
         {
+            "title": "Noval Kitchen",
+            "links": [
+                {
+                    "name": "NPR",
+                    "URL": "https://wlvr.org/2022/08/new-bethlehem-restaurant-offers-authentic-asian-eats-including-cantonese-cuisine-and-dim-sum/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/noval-kitchen-bethlehem"
+                }
+            ],
+            "lat": 40.64211754470242,
+            "lon":  -75.35100111547021,
+            "city": "Bethelehem",
+            "address": "2342 Easton Ave Bethlehem, PA 18017"
+        },
+        {
             "title": "Tom's Dim Sum",
             "links": [
                 {
