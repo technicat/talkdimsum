@@ -336,6 +336,23 @@
             "address": "Singapore Marriott Hotel, 320 Orchard Road Level 3, 238865"
         },
         {
+            "title": "Peach Garden",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.peachgarden.com.sg/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-peach-garden-raffles-place-cantonese-hong-kong-r14825"
+                }
+            ],
+            "lat": 1.285177,
+            "lon": 103.849280,
+            "city": "Raffles Place",
+            "address": "OCBC Centre, 65 Chulia St #33-01, 049513"
+        },
+        {
             "title": "Tim Ho Wan (Great World City)",
             "links": [
                 {
@@ -357,21 +374,30 @@
             "address": "Great World City, 1 Kim Seng Promenade, #01-139, 23799"
         },
         {
-            "title": "Peach Garden",
+            "title": "Dim Sum Haus",
             "links": [
                 {
                     "name": "site",
-                    "URL": "https://www.peachgarden.com.sg/"
-                },
-                {
-                    "name": "OpenRice",
-                    "URL": "https://sg.openrice.com/en/singapore/r-peach-garden-raffles-place-cantonese-hong-kong-r14825"
+                    "URL": "https://dimsumhaus.com.sg/"
                 }
             ],
-            "lat": 1.285177,
-            "lon": 103.849280,
-            "city": "Raffles Place",
-            "address": "OCBC Centre, 65 Chulia St #33-01, 049513"
+            "lat": 1.3052249461525292,
+            "lon": 103.85494055506398,
+            "city": "Rochor",
+            "address": "57 Jin Besar, Singapore 208809"
+        },
+        {
+            "title": "Dim Sum Haus",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumhaus.com.sg/"
+                }
+            ],
+            "lat": 1.305834176350483,
+            "lon":  103.854777955064,
+            "city": "Rochor",
+            "address": "19 Upper Weld Rd, Singapore 207376"
         },
         {
             "title": "JU Signatures",
