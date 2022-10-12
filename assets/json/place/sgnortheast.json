@@ -1,4 +1,22 @@
 {
     "name": "Northeast",
-    "places": []
+    "places": [
+        {
+            "title": "Hong Kong Kowloon Tim Sum",
+            "links": [
+                {
+                    "name": "Miss Tam Chiak",
+                    "URL": "https://www.misstamchiak.com/kow-loon-hong-kong-tim-sum/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-kow-loon-hong-kong-tim-sum-ang-mo-kio-cantonese-hong-kong-dim-sum-r73076"
+                }
+            ],
+            "lat": 1.37699969392727,
+            "lon":  103.84149511273618,
+            "city": "Ang Mo Kio",
+            "address": " Blk 151 Ang Mo Kio Ave 5 #01-3030, 560151"
+        }
+    ]
 }
