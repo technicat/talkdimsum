@@ -516,6 +516,23 @@
             "address": "19 Upper Weld Rd, Singapore 207376"
         },
         {
+            "title": "East Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://eastbistro.sg/"
+                },
+                {
+                    "name": "OpenRice",
+                    "URL": "https://sg.openrice.com/en/singapore/r-east-bistro-sembawang-cantonese-hong-kong-dim-sum-r110765"
+                }
+            ],
+            "lat": 1.441932,
+            "lon": 103.823328,
+            "city": "Serangoon Gardens",
+            "address": "1 MAJU AVE #02-01 Singapore 556679"
+        },
+        {
             "title": "JU Signatures",
             "links": [
                 {
@@ -534,7 +551,7 @@
             "lat": 1.3649554664293917,
             "lon": 103.86570785506414,
             "city": "Serangoon Gardens",
-            "address": "4 Maju Avenue Singapore 556682 "
+            "address": "4 Maju Avenue Singapore 556682"
         },
         {
             "title": "Dim Sum",
