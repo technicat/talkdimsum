@@ -565,6 +565,23 @@
             "lon": 103.842985,
             "city": "Tanjong Pegar",
             "address": "Tanjong Pagar Plaza, 1 Tanjong Pagar, 082001"
+        },
+        {
+            "title": "Five Star Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.fivestardimsum.com/"
+                },
+                {
+                    "name": "Miss Tam Chiak",
+                    "URL": "https://www.misstamchiak.com/5-star-mooncake/"
+                }
+            ],
+            "lat": 1.3375990730613387,
+            "lon": 103.8652200404272,
+            "city": "Toa Payoh",
+            "address": "137 Potong Pasir Ave 3, Singapore 350137 20th"
         }
     ]
 }

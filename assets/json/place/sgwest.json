@@ -58,6 +58,23 @@
             "address": "West Mall, 1 Bukit Batok Central Link #02-04, 658713"
         },
         {
+            "title": "Five Star Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.fivestardimsum.com/"
+                },
+                {
+                    "name": "Miss Tam Chiak",
+                    "URL": "https://www.misstamchiak.com/5-star-mooncake/"
+                }
+            ],
+            "lat": 1.3786262494506012,
+            "lon":  103.75467117377242,
+            "city": "Choa Chu Kang",
+            "address": "16 Teck Whye Lane, #01-101, Singapore 680016"
+        },
+        {
             "title": "Crystal Jade Kitchen",
             "links": [
                 {
