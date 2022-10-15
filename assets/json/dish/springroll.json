@@ -281,12 +281,16 @@
     {
         "words": [
             {
-                "Chinese": "黑椒蝦春捲",
-                "Simplified": "黑椒虾春卷",
+                "Chinese": "黑椒汁鮮蝦春捲",
+                "Simplified": "黑椒汁鲜虾春卷",
                 "English": "black pepper shrimp spring roll",
-                "Yale": "hāk jīu hā chēun gyún",
-                "Pinyin": "hēi jiāo xiā chūn juǎn",
+                "Yale": "hāk jīu jāp sīn hā chēun gyún",
+                "Pinyin": "hēi jiāo zhī xiān xiā chūn juǎn",
                 "resources": [
+                    {
+                        "name": "黑椒汁",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92%E6%B1%81"
+                    },
                     {
                         "name": "黑椒",
                         "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92"
@@ -294,6 +298,14 @@
                     {
                         "name": "黑",
                         "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
+                    },
+                    {
+                        "name": "鮮蝦",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
+                    },
+                    {
+                        "name": "鮮",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
                     },
                     {
                         "name": "椒",
@@ -320,11 +332,11 @@
         ],
         "images": [
             {
-                "image": "eggrollchinarepublic",
+                "image": "blackpeppershrimpspringrollchinarepublic",
                 "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp and black pepper.\n\n*Characters**\n\n[黑椒](https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92) is *black pepper*, [蝦](https://en.wiktionary.org/wiki/%E8%9D%A6) is *shrimp*, [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 黑椒蝦春捲 is *black pepper shrimp Spring roll*.",
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp and a black pepper sauce.\n\n*Characters**\n\n[黑椒](https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92) is *black pepper*, [蝦](https://en.wiktionary.org/wiki/%E8%9D%A6) is *shrimp*, [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 黑椒蝦春捲 is *black pepper shrimp Spring roll*.",
         "tags": [
             "春捲",
             "黑椒",
@@ -337,8 +349,8 @@
         ],
         "resources": [
             {
-                "name": "Simple Comfort Food",
-                "URL": "http://www.simplecomfortfood.com/2012/06/05/shrimp-egg-rolls/"
+                "name": "Oh My Food Recipes",
+                "URL": "'https://www.ohmyfoodrecipes.com/black-pepper-sauce/'"
             }
         ]
     },
@@ -382,6 +394,10 @@
             "點心"
         ],
         "resources": [
+            {
+                "name": "Simple Comfort Food",
+                "URL": "http://www.simplecomfortfood.com/2012/06/05/shrimp-egg-rolls/"
+            }
         ]
     },
     {
