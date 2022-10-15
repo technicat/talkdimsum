@@ -3,12 +3,52 @@
         "Chinese": "椒",
         "English": "pepper",
         "Yale": "jīu",
-        "Pinyin": "jiāo"
+        "Pinyin": "jiāo",
+        "resources": [
+            {
+                "name": "椒",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
+            }
+        ]
     },
     {
         "Chinese": "花椒",
         "English": "Sichuan pepper",
         "Yale": "fā jīu",
-        "Pinyin": "huā jiāo"
+        "Pinyin": "huā jiāo",
+        "resources": [
+            {
+                "name": "花椒",
+                "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1%E6%A4%92"
+            },
+            {
+                "name": "花",
+                "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
+            },
+            {
+                "name": "椒",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
+            }
+        ]
+    },
+    {
+        "Chinese": "黑椒",
+        "English": "black pepper",
+        "Yale": "hāk jīu",
+        "Pinyin": "hēi jiāo",
+        "resources": [
+            {
+                "name": "黑椒",
+                "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92"
+            },
+            {
+                "name": "黑",
+                "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
+            },
+            {
+                "name": "椒",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
+            }
+        ]
     }
 ]
