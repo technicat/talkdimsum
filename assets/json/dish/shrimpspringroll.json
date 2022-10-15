@@ -2,6 +2,70 @@
     {
         "words": [
             {
+                "Chinese": "鮮蝦春捲",
+                "Simplified": "鲜虾春卷",
+                "English": "shrimp spring roll",
+                "Yale": "sīn hā chēun gyún",
+                "Pinyin": "xiān xiā chūn juǎn",
+                "resources": [
+                    {
+                        "name": "鮮蝦",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
+                    },
+                    {
+                        "name": "鮮",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
+                    },
+                    {
+                        "name": "椒",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
+                    },
+                    {
+                        "name": "蝦",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
+                    },
+                    {
+                        "name": "春捲",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2"
+                    },
+                    {
+                        "name": "春",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
+                    },
+                    {
+                        "name": "捲",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "eggrollchinarepublic",
+                "place": "China Republic, Rancho Cucamonga, California"
+            }
+        ],
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp and a black pepper sauce.\n\n*Characters**\n\n[鮮蝦](https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6) is *fresh shrimp* ([鮮](https://en.wiktionary.org/wiki/鮮) is *fresh* and [蝦](https://en.wiktionary.org/wiki/蝦) is *shrimp*), [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 黑椒蝦春捲 is *black pepper shrimp Spring roll*.",
+        "tags": [
+            "春捲",
+            "黑椒",
+            "蝦",
+            "炸",
+            "春",
+            "捲",
+            "海鮮",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Oh My Food Recipes",
+                "URL": "'https://www.ohmyfoodrecipes.com/black-pepper-sauce/'"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "蛋白蝦春捲",
                 "Simplified": "蛋白虾春卷",
                 "English": "egg white and shrimp spring roll",
