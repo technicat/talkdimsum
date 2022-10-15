@@ -1,0 +1,102 @@
+[
+    {
+        "words": [
+            {
+                "Chinese": "炸蝦捲",
+                "Simplified": "炸虾卷",
+                "English": "fried shrimp roll",
+                "Yale": "ja hā gyún",
+                "Pinyin": "zhà xiā juǎn",
+                "resources": [
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
+                    },
+                    {
+                        "name": "蝦",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
+                    },
+                    {
+                        "name": "捲",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "shrimprollsyumcha",
+                "place": "Yum Cha, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) with just shrimp inside.\n\n*Characters**\n\nThe first character 炸 is the word for “deep-fried,” the second character 蝦 is “shrimp,” and the third character 捲 is the word for “roll,” so, “deep-fried shrimp roll.”",
+        "tags": [
+            "春捲",
+            "炸",
+            "蝦",
+            "捲",
+            "海鮮",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Simple Comfort Food",
+                "URL": "http://www.simplecomfortfood.com/2012/06/05/shrimp-egg-rolls/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "炸海菜捲",
+                "Simplified": "炸海菜卷",
+                "English": "deep-fried seaweed roll",
+                "Yale": "ja hói choi gyún",
+                "Pinyin": "zhà hǎi cài juǎn",
+                "resources": [
+                    {
+                        "name": "炸",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
+                    },
+                    {
+                        "name": "海菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E8%8F%9C"
+                    },
+                    {
+                        "name": "海",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
+                    },
+                    {
+                        "name": "菜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                    },
+                    {
+                        "name": "捲",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "seaweedrollchinarepublic",
+                "place": "China Republic, Rancho Cucamonga, California"
+            }
+        ],
+        "description": "Deep-fried rolls with a seaweed wrapper, typically with shrimp inside.\n\n*Characters**\n\n[炸](https://en.wiktionary.org/wiki/%E7%82%B8) is *deep-fried*, [海菜](https://en.wiktionary.org/wiki/%E6%B5%B7%E8%8F%9C) is *seaweed*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 炸海菜捲 is *deep-fried seaweed roll*.",
+        "tags": [
+            "海菜",
+            "炸",
+            "蝦",
+            "捲",
+            "海鮮",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Hawaii Magazine",
+                "URL": "https://www.hawaiimagazine.com/content/recipe-jade-dynastys-fried-seaweed-nori-roll"
+            }
+        ]
+    }
+]
