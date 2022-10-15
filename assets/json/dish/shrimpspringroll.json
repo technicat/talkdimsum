@@ -45,13 +45,12 @@
                 "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp and a black pepper sauce.\n\n*Characters**\n\n[鮮蝦](https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6) is *fresh shrimp* ([鮮](https://en.wiktionary.org/wiki/鮮) is *fresh* and [蝦](https://en.wiktionary.org/wiki/蝦) is *shrimp*), [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 黑椒蝦春捲 is *black pepper shrimp Spring roll*.",
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp.\n\n*Characters**\n\n[鮮蝦](https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6) is *fresh shrimp* ([鮮](https://en.wiktionary.org/wiki/鮮) is *fresh* and [蝦](https://en.wiktionary.org/wiki/蝦) is *shrimp*), [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 鮮蝦春捲 is *fresg shrimp Spring roll*.",
         "tags": [
+            "新菜",
             "春捲",
-            "黑椒",
             "蝦",
             "炸",
-            "春",
             "捲",
             "海鮮",
             "點心"
@@ -59,7 +58,7 @@
         "resources": [
             {
                 "name": "Oh My Food Recipes",
-                "URL": "'https://www.ohmyfoodrecipes.com/black-pepper-sauce/'"
+                "URL": "https://www.ohmyfoodrecipes.com/black-pepper-sauce/"
             }
         ]
     },
@@ -115,7 +114,6 @@
             "蛋白",
             "蝦",
             "炸",
-            "春",
             "捲",
             "海鮮",
             "點心"
@@ -149,16 +147,20 @@
                         "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
                     },
                     {
+                        "name": "椒",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
+                    },
+                    {
+                        "name": "汁",
+                        "URL": "https://en.wiktionary.org/wiki/%E6%B1%81"
+                    },
+                    {
                         "name": "鮮蝦",
                         "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
                     },
                     {
                         "name": "鮮",
                         "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
                     },
                     {
                         "name": "蝦",
@@ -185,13 +187,13 @@
                 "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp and a black pepper sauce.\n\n*Characters**\n\n[黑椒](https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92) is *black pepper*, [蝦](https://en.wiktionary.org/wiki/%E8%9D%A6) is *shrimp*, [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 黑椒蝦春捲 is *black pepper shrimp Spring roll*.",
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) containing shrimp and a black pepper sauce.\n\n*Characters**\n\n[黑椒](https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92) is *black pepper*, [汁](https://en.wiktionary.org/wiki/%E6%B1%81) is *sauce*, [蝦](https://en.wiktionary.org/wiki/%E8%9D%A6) is *shrimp*, [春](https://en.wiktionary.org/wiki/%E6%98%A5) is *Spring*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 黑椒蝦春捲 is *black pepper sauce fresh shrimp Spring roll*.",
         "tags": [
+            "新菜",
             "春捲",
             "黑椒",
             "蝦",
             "炸",
-            "春",
             "捲",
             "海鮮",
             "點心"
