@@ -860,6 +860,23 @@
             "lon": -123.065780,
             "city": "Vancouver",
             "address": "4989 Victoria Drive, Vancouver, BC V5P 3T7"
+        },
+        {
+            "title": "Jade Fountain",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.jadefountain.ca/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jade-fountain-restaurant-victoria"
+                }
+            ],
+            "lat": 48.45153285031327,
+            "lon": -123.37541545754826,
+            "city": "Victoria",
+            "address": "3366 Douglas Street Victoria, BC V8Z 3L3 Canada"
         }
     ]
 }
