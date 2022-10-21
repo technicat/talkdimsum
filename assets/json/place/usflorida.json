@@ -70,6 +70,23 @@
             "address": "155 Ne 4th Ave Delray Beach, FL 33483"
         },
         {
+            "title": "Ginger Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://gingerbistrousa.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ginger-bistro-fort-myers"
+                }
+            ],
+            "lat": 26.59371965863786,
+            "lon": -81.87400555815191,
+            "city": "Fort Myers",
+            "address": "4650 Cleveland Ave. #8, Fort Myers, FL 33907"
+        },
+        {
             "title": "Hong Kong Bistro",
             "links": [
                 {
