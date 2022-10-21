@@ -630,6 +630,23 @@
             "address": "320 Jackson St, Hayward, CA 94544"
         },
         {
+            "title": "Capital Seafood",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://spectrum.capital-seafood.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/capital-seafood-restaurant-irvine-4"
+                }
+            ],
+            "lat": 33.649594259325504,
+            "lon": -117.74332244264612,
+            "city": "Irvine",
+            "address": "770 Spectrum Center Dr, Irvine, CA"
+        },
+        {
             "title": "Furiwa To Go",
             "links": [
                 {
