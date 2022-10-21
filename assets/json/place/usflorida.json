@@ -19,6 +19,23 @@
             "address": "8194 Tourist Center Dr Bradenton, FL 34201"
         },
         {
+            "title": "Ginger Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://gingerbistrousa.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ginger-bistro-cape-coral"
+                }
+            ],
+            "lat": 26.608280041659203,
+            "lon": -82.0260245446598,
+            "city": "Cape Coral",
+            "address": "2366 Surfside Boulevard C-101 Cape Coral, FL 33991"
+        },
+        {
             "title": "Hong Kong Dim Sum",
             "links": [
                 {
