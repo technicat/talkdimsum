@@ -2,6 +2,47 @@
   {
     "words": [
       {
+        "Chinese": "蔥油拌麵",
+        "Simplified": "葱油拌面",
+        "English": "scallion oil noodles",
+        "Yale": "daam daam mihn",
+        "Pinyin": "dàn dàn miàn",
+        "resources": [
+          {
+            "name": "麵",
+            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "scallionoilnoodle168market",
+        "place": "168 Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A simple Shanghai noodle dish consisting of noodles, oil, scallions,sugar, and soy sauce.\n\n**Characters**\n\n[麵](https://en.wiktionary.org/wiki/%E9%BA%B5) is *noodles*.",
+    "tags": [
+      "麵"
+    ],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/scallion-oil-noodles/"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/taiwanese-scallion-oil-noodles-recipe/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/soy-scallion-noodles-cong-ban-mian/"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
         "Chinese": "擔擔麵",
         "Simplified": "担担面",
         "English": "dandan noodles",
