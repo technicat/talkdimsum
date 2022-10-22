@@ -36,6 +36,10 @@
         ],
         "resources": [
             {
+                "name": "Cooking in Chinglish",
+                "URL": "https://cookinginchinglish.com/milk-tea-for-boba/"
+            },
+            {
                 "name": "Honest Food Talks",
                 "URL": "https://www.honestfoodtalks.com/jasmine-milk-tea-recipe-boba/"
             },
@@ -86,7 +90,7 @@
                 "place": "JJ Noodle Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Hong Kong-style milk tea, made with loads of black tea (so this is strong stuff) and evaporated or condensed milk.\n\n港式 is “Hong Kong-style,” 奶 is “milk“, and 茶 is “tea“, so literally “Hong Kong milk tea.“\n\nThe tea is traditionally strained through a sackcloth that darkens from use, so the tea is also known as 絲襪奶茶 (sī maht náaih chàh) “silk stocking milk tea.”.",
+        "description": "Hong Kong-style milk tea, made with loads of black tea (so this is strong stuff) and evaporated or condensed milk.\n\n**Characters**\n\n[港式](https://en.wiktionary.org/wiki/%E6%B8%AF%E5%BC%8F) is *Hong Kong-style*, 奶 is “milk“, and 茶 is “tea“, so 港式奶茶 is *Hong Kong-style milk tea*.\n\nThe tea is traditionally strained through a sackcloth that darkens from use, so the tea is also known as 絲襪奶茶 (sī maht náaih chàh) *silk stocking milk tea*",
         "tags": [
             "港式",
             "飲品",
