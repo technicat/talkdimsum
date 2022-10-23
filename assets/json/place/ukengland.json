@@ -262,6 +262,40 @@
             "address": "28-29 Gerrard Street London W1D 6JW United Kingdom"
         },
         {
+            "title": "Golden Phoenix",
+            "links": [
+                {
+                    "name": "Chinatown London",
+                    "URL": "https://chinatown.co.uk/en/restaurant/golden-phoenix/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-phoenix-london"
+                }
+            ],
+            "lat": 51.511888384956876,
+            "lon": -0.13078251511357414,
+            "city": "London",
+            "address": "37-38 Gerrard Street London W1D 5QB United Kingdom"
+        },
+        {
+            "title": "Gourmet Kitchen",
+            "links": [
+                {
+                    "name": "London Chinatown",
+                    "URL": "https://chinatown.co.uk/en/restaurant/gourmet-kitchen/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/gourmet-kitchen-london"
+                }
+            ],
+            "lat": 51.51175017684856,
+            "lon": -0.12984773045785544,
+            "city": "London",
+            "address": "34 Lisle St, London WC2H 7BD"
+        },
+        {
             "title": "Hakkasan",
             "links": [
                 {
@@ -655,6 +689,10 @@
                 {
                     "name": "site",
                     "URL": "https://www.taotaoju.co.uk/"
+                },
+                {
+                    "name": "Chinatown London",
+                    "URL": "https://chinatown.co.uk/en/restaurant/tao-tao-ju/"
                 },
                 {
                     "name": "Yelp",
