@@ -273,6 +273,14 @@
             "title": "Golden Dragon",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://www.gdlondon.co.uk/"
+                },
+                {
+                    "name": "Chinatown London",
+                    "URL": "https://chinatown.co.uk/en/restaurant/golden-dragon/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/golden-dragon-london"
                 }
@@ -281,6 +289,23 @@
             "lon": -0.131400,
             "city": "London",
             "address": "28-29 Gerrard Street London W1D 6JW United Kingdom"
+        },
+        {
+            "title": "Golden Dragon",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.gdlondon.co.uk/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-dragon-restaurant-colindale"
+                }
+            ],
+            "lat": 51.59288871085737,
+            "lon":  -0.2584636016189026,
+            "city": "London",
+            "address": "399 Edgware Road, Colindale, London, NW9 0FH"
         },
         {
             "title": "Golden Phoenix",
@@ -430,6 +455,27 @@
             "lon": -0.015580,
             "city": "London",
             "address": "9 Oakland Quay Inner Millwall Dock London E14 9EA United Kingdom"
+        },
+        {
+            "title": "Lotus Garden",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.lotusgardenchinatown.co.uk/"
+                },
+                {
+                    "name": "Chinatown London",
+                    "URL": "https://chinatown.co.uk/en/restaurant/lotus-garden/"
+                }
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lotus-garden-london-2"
+                }
+            ],
+            "lat": 51.51190025349994,
+            "lon":  -0.131360330457834,
+            "city": "London",
+            "address": "15A Gerrard St, London W1D 6JD"
         },
         {
             "title": "Min Jiang",
