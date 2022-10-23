@@ -1,10 +1,10 @@
-The JSON files for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in the release downloads (source is in the dartdimsum repo), for Android and macOS. Feel free to file reports on the apps in Issues here (including if you want a new Flutter build - I don't update the releases often).
+These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in the release downloads (source is in the dartdimsum repo), for Android and macOS. Feel free to file reports on the apps in Issues here (including if you want a new Flutter build - I don't update the releases often).
 
 The images are landscape but not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin).
 
 All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and PF Chang's).
 
-For the restaurant links, the restaurant's own website is preferred, but no Facebook (because, Facebook), and no food order sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (though OpenRice is better in Asia), Travelocity is omitted because it hangs my link checker.
+For the restaurant links, the restaurant's own website is listed first if available, but no Facebook (because, Facebook), and other links are listed aphabetically by site name. I try to avoid any foor ordering sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, not so much in Europe, and OpenRice is better in Asia) and typically has enough photos so I can tell if it's real dim sum, Travelocity is omitted because it hangs my link checker. 
 
 I edit and format these files in Visual Studio Code, and run JSON and [link checks](https://datatracker.ietf.org/doc/html/rfc1738) with some [scripts](http://github.com/technicat/schematic) written in [Gauche](https://practical-scheme.net/gauche/).
 
