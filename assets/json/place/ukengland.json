@@ -249,6 +249,27 @@
             "address": "15-16 Gerrard St, London W1D 6JE"
         },
         {
+            "title": "Feng Shui Inn",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.fengshuiinn.co.uk/"
+                },
+                {
+                    "name": "Chinatown London",
+                    "URL": "https://chinatown.co.uk/en/restaurant/feng-shui-inn/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/feng-shui-inn-london"
+                }
+            ],
+            "lat": 51.51231963746998,
+            "lon": -0.13035358627747656,
+            "city": "London",
+            "address": "15-16 Gerrard St, London W1D 6JE"
+        },
+        {
             "title": "Gerrard's Corner",
             "links": [
                 {
@@ -530,6 +551,10 @@
                 {
                     "name": "site",
                     "URL": "https://www.orientlondon.com/"
+                },
+                {
+                    "name": "Chinatown London",
+                    "URL": "https://chinatown.co.uk/en/restaurant/orient-london/"
                 },
                 {
                     "name": "Yelp",
