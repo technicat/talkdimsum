@@ -69,5 +69,44 @@
         "URL": "https://en.wikipedia.org/wiki/Peking_duck"
       }
     ]
+  },
+  {
+    "words": [
+      {
+        "Chinese": "素鴨",
+        "Simplified": "素鸭",
+        "English": "vegetarian duck",
+        "Yale": "sou ngaap",
+        "Pinyin": "sù yā",
+        "resources": [
+          {
+            "name": "素",
+            "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
+          },
+          {
+            "name": "鴨",
+            "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "vegetarianducknewasianbbq",
+        "place": "New Asian BBQ, Las Vegas, Nevada"
+      }
+    ],
+    "description": "\n\n**Characters**\n\n[素](https://en.wiktionary.org/wiki/%E7%B4%A0) is *vegetarian*, and [鴨](https://en.wiktionary.org/wiki/%E9%B4%A8) is *duck*, so [鴨](https://en.wiktionary.org/wiki/北京烤鴨) is *vegetarian duck*.",
+    "tags": [
+      "京菜",
+      "海鮮醬",
+      "鴨"
+    ],
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-vegetarian-duck/"
+      }
+    ]
   }
 ]
