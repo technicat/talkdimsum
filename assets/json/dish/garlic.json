@@ -2,6 +2,63 @@
     {
         "words": [
             {
+                "Chinese": "蒜蓉炒豆苗",
+                "English": "stir-fried pea shoots in garlic",
+                "Yale": "syun yùhng dauh mìuh",
+                "Pinyin": "suàn róng dòu miáo",
+                "resources": [
+                    {
+                        "name": "蒜蓉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
+                    },
+                    {
+                        "name": "蒜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
+                    },
+                    {
+                        "name": "蓉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
+                    },
+                    {
+                        "name": "豆苗",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%8B%97"
+                    },
+                    {
+                        "name": "豆",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
+                    },
+                    {
+                        "name": "苗",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8B%97"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "daowunewasianbbq",
+                "place": "New Asian BBQ, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Pea shoots [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) in minced garlic.\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *minced garlic*, [炒](https://en.wiktionary.org/wiki/%E7%82%92) is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and [豆苗](https://en.wiktionary.org/wiki/%E8%B1%86%E8%8B%97) is *pea sprout* (豆 is *bean*, and 苗 is *shoot* or *sprout*), so 蒜蓉炒豆苗 is *minced garlic stir-fried pea shoots*.",
+        "tags": [
+            "新菜",
+            "豆苗",
+            "蒜蓉",
+            "炒",
+            "素",
+            "菜"
+        ],
+        "resources": [
+            {
+                "name": "Omnivore's Cookbook",
+                "URL": "https://omnivorescookbook.com/stir-fried-pea-shoots/"
+            }
+        ]
+    },
+    {
+        "words": [
+            {
                 "Chinese": "蒜蓉菠菜",
                 "English": "spinach in garlic",
                 "Yale": "syun yùhng bō choi",
