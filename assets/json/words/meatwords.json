@@ -30,7 +30,13 @@
         "English": "cow",
         "Yale": "ngàuh",
         "Jyutping": "ngau4",
-        "Pinyin": "niú"
+        "Pinyin": "niú",
+        "resources": [
+            {
+                "name": "牛",
+                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
+            }
+        ]
     },
     {
         "Chinese": "牛肉",
@@ -39,6 +45,14 @@
         "Jyutping": "ngau4 juk6",
         "Pinyin": "niú ròu",
         "resources": [
+            {
+                "name": "牛肉",
+                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
+            },
+            {
+                "name": "牛",
+                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
+            },
             {
                 "name": "肉",
                 "URL": "https://en.wiktionary.org/wiki/%E8%82%89"

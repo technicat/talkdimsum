@@ -26,7 +26,13 @@
         "English": "cookie/cake/pancake",
         "Yale": "béng",
         "Jyutping": "beng2",
-        "Pinyin": "bǐng"
+        "Pinyin": "bǐng",
+        "resources": [
+            {
+                "name": "餅",
+                "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
+            }
+        ]
     },
     {
         "Chinese": "肉餅",
