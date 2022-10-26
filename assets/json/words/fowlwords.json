@@ -30,14 +30,26 @@
         "English": "duck",
         "Yale": "aap",
         "Jyutping": "aap3",
-        "Pinyin": "yā"
+        "Pinyin": "yā",
+        "resources": [
+            {
+                "name": "鴨",
+                "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
+            }
+        ]
     },
     {
         "Chinese": "鵝",
         "Simplified": "鹅",
         "English": "goose",
         "Yale": "ngòh",
-        "Pinyin": "é"
+        "Pinyin": "é",
+        "resources": [
+            {
+                "name": "鵝",
+                "URL": " https://en.wiktionary.org/wiki/%E9%B5%9D"
+            }
+        ]
     },
     {
         "Chinese": "鵪鶉",
@@ -45,6 +57,20 @@
         "English": "quail",
         "Yale": "ām chēun",
         "Jyutping": "am1 ceon1",
-        "Pinyin": "ān chún"
+        "Pinyin": "ān chún",
+        "resources": [
+            {
+                "name": "鵪",
+                "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA"
+            },
+            {
+                "name": "鶉",
+                "URL": "https://en.wiktionary.org/wiki/%E9%B6%89"
+            },
+            {
+                "name": "鵪鶉",
+                "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA%E9%B6%89"
+            }
+        ]
     }
 ]
