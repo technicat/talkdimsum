@@ -96,13 +96,17 @@
         "place": "New Asian BBQ, Las Vegas, Nevada"
       }
     ],
-    "description": "\n\n**Characters**\n\n[素](https://en.wiktionary.org/wiki/%E7%B4%A0) is *vegetarian*, and [鴨](https://en.wiktionary.org/wiki/%E9%B4%A8) is *duck*, so 素鴨 is *vegetarian duck*.",
+    "description": "Mock duck meat made from layered sheets of tofu skin.\n\n**Characters**\n\n[素](https://en.wiktionary.org/wiki/%E7%B4%A0) is *vegetarian*, and [鴨](https://en.wiktionary.org/wiki/%E9%B4%A8) is *duck*, so 素鴨 is *vegetarian duck*.",
     "tags": [
       "京菜",
       "海鮮醬",
       "鴨"
     ],
     "resources": [
+      {
+        "name": "Omnivore's Cookbook",
+        "URL": "https://omnivorescookbook.com/vegetarian-duck/"
+      },
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/chinese-vegetarian-duck/"
