@@ -4,7 +4,13 @@
         "English": "ball",
         "Yale": "kàuh",
         "Jyutping": "kau4",
-        "Pinyin": "qiú"
+        "Pinyin": "qiú",
+        "resources": [
+            {
+                "name": "球",
+                "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
+            }
+        ]
     },
     {
         "Chinese": "肉",
@@ -79,7 +85,13 @@
         "English": "pig",
         "Yale": "jyū",
         "Jyutping": "zyu1",
-        "Pinyin": "zhū"
+        "Pinyin": "zhū",
+         "resources": [
+            {
+                "name": "豬",
+                "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
+            }
+        ]
     },
     {
         "Chinese": "豬肉",
