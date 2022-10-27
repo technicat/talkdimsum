@@ -71,6 +71,10 @@
                 "URL": "http://www.dimsumptuous.com/2014/01/char-siew-bao-steamed-bun.html"
             },
             {
+                "name": "#Legend",
+                "URL": "https://hashtaglegend.com/culture/secret-life-char-siu-bao/"
+            },
+            {
                 "name": "Hong Kong University",
                 "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/1"
             },
@@ -138,7 +142,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "A baked version of the BBQ pork bun, with the same filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and glazed on top.\n\n**Characters**\n\n[焗](https://en.wiktionary.org/wiki/%E7%84%97) is *baked*, and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is *BBQ pork bun*.",
+        "description": "A baked version of the BBQ pork bun, with the same filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and glazed on top.\n\n**Characters**\n\n[焗](https://en.wiktionary.org/wiki/%E7%84%97) is *baked*, and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao).",
         "tags": [
             "粵菜",
             "叉燒包",
@@ -237,28 +241,8 @@
         ],
         "resources": [
             {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/char-siu-bao-baked-buns-recipe/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2008/09/incredible-baked-cha-shao-bao-chinese.html"
-            },
-            {
-                "name": "Madam Huang",
-                "URL": "https://www.madamehuang.com/blog/blog-post-five-6fz8p"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-2-honeyed-pork-buns-baked-char-siu-bao/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/baked-char-siu-bao"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/chinese-bbq-pork-buns-cha-siu-bao/"
+                "name": "The Plant-Based Wok",
+                "URL": "https://www.namethedish.com/bread/snow-mountain-char-siu-bao/"
             }
         ]
     },
