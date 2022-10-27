@@ -408,10 +408,49 @@
       {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2015/03/beef-brisket-in-clear-broth.html"
-      },
+      }
+    ]
+  },
+  {
+    "words": [
       {
-        "name": "The Hong Kong Cookery",
-        "URL": "https://en.christinesrecipes.com/2015/03/beef-brisket-in-clear-broth.html"
+        "Chinese": "蘿蔔牛坑腩",
+        "Simplified": "萝卜牛坑腩",
+        "English": "daikon brisket stew",
+        "Yale": "lòh baahk ngàuh hāang náahm",
+        "Pinyin": "luó bo niú kēng nǎn",
+        "resources": [
+          {
+            "name": "牛腩",
+            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%A9"
+          },
+          {
+            "name": "牛",
+            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
+          },
+          {
+            "name": "腩",
+            "URL": "https://en.wiktionary.org/wiki/%E8%85%A9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "image": "beefbrisketturniptimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Slices of brisket and chunks of daikon.\n\n**Characters**\n\n[牛腩](https://en.wiktionary.org/wiki/牛腩) is *beef brisket* ([牛](https://en.wiktionary.org/wiki/%E7%89%9B) is *beef*, and [腩](https://en.wiktionary.org/wiki/%E8%85%A9) is *brisket*), so 蘿蔔牛坑腩 is *diakon beef brisket*.",
+    "tags": [
+      "牛肉",
+      "牛腩",
+      "蘿蔔"
+    ],
+    "resources": [
+      {
+        "name": "Cooking with Team J",
+        "URL": "https://cookingwithteamj.com/chinese-beef-brisket-with-daikon-recipe/"
       }
     ]
   }
