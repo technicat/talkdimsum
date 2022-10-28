@@ -2,11 +2,11 @@
   {
     "words": [
       {
-        "Chinese": "蘿蔔牛坑腩",
-        "Simplified": "萝卜牛坑腩",
+        "Chinese": "蘿蔔牛腩",
+        "Simplified": "萝卜牛腩",
         "English": "daikon brisket stew",
-        "Yale": "lòh baahk ngàuh hāang náahm",
-        "Pinyin": "luó bo niú kēng nǎn",
+        "Yale": "lòh baahk ngàuh náahm",
+        "Pinyin": "luó bo niú nǎn",
         "resources": [
           {
             "name": "牛腩",
@@ -29,7 +29,7 @@
         "place": "Tim Ho Wan, Las Vegas, Nevada"
       }
     ],
-    "description": "Slices of brisket and chunks of daikon.\n\n**Characters**\n\n[蘿蔔](https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94) is [daikon](https://en.wikipedia.org/wiki/Daikon), [牛腩](https://en.wiktionary.org/wiki/牛腩) is *beef brisket* ([牛](https://en.wiktionary.org/wiki/%E7%89%9B) is *beef*, and [腩](https://en.wiktionary.org/wiki/%E8%85%A9) is *brisket*), so 蘿蔔牛坑腩 is *daikon beef brisket*.",
+    "description": "Slices of brisket and chunks of daikon.\n\n**Characters**\n\n[蘿蔔](https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94) is [daikon](https://en.wikipedia.org/wiki/Daikon), [牛腩](https://en.wiktionary.org/wiki/牛腩) is *beef brisket* ([牛](https://en.wiktionary.org/wiki/%E7%89%9B) is *beef*, and [腩](https://en.wiktionary.org/wiki/%E8%85%A9) is *brisket*), so 蘿蔔牛腩 is *daikon beef brisket*.",
     "tags": [
       "新菜",
       "牛肉",
@@ -40,6 +40,14 @@
       {
         "name": "Cooking with Team J",
         "URL": "https://cookingwithteamj.com/chinese-beef-brisket-with-daikon-recipe/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-braised-beef-turnips/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/instant-pot-braised-beef-radish/"
       }
     ]
   },
