@@ -729,6 +729,23 @@
             "lon": -79.293820,
             "city": "Toronto",
             "address": "17 Milliken Boulevard, Toronto, ON M1V 1V3"
+        },
+        {
+            "title": "mi'korner",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.mikorner.ca/"
+                },
+                {
+                    "name": "Toronto Star",
+                    "URL": "https://www.thestar.com/local-whitby/life/food-wine/2022/07/02/i-was-so-excited-to-see-this-open-brooklin-has-a-new-dim-sum-takeout-spot.html"
+                }
+            ],
+            "lat": 43.955124196654,
+            "lon": -78.95337255954881,
+            "city": "Whitby",
+            "address": "93 Winchester Rd East, Whitby, Ontario L1M1B4"
         }
     ]
 }
