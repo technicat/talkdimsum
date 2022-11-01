@@ -117,6 +117,27 @@
             "address": "3939 Chestnut St, Fl 2, Philadelphia, PA 19104"
         },
         {
+            "title": "Grand Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.grandpalacechineserestaurant.com/"
+                },
+                {
+                    "name": "Philadelphia Inquirer",
+                    "URL": "https://www.inquirer.com/food/dim-sum-cart-philadelphia-20221028.html"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/grand-palace-restaurant-philadelphia"
+                }
+            ],
+            "lat": 39.93467269201024,
+            "lon": -75.15500483083531,
+            "city": "Philadelphia",
+            "address": "600 Washington Ave Philadelphia, PA 19147"
+        },
+        {
             "title": "Jade Harbor",
             "links": [
                 {
