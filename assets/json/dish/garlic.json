@@ -243,7 +243,7 @@
                 "English": "ong choy in garlic",
                 "Yale": "syun yùhng ung choi",
                 "Jyutping": "syun3 jung4 ung3 coi3",
-                "Pinyin": "uàn róng wèng cài",
+                "Pinyin": "suàn róng wèng cài",
                 "resources": [
                     {
                         "name": "蒜蓉",
@@ -315,6 +315,59 @@
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/ong-choy-xo-sauce/"
             }
+        ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "蒜蓉芥蘭",
+                "Simplified": "蒜蓉芥蘭",
+                "English": "Chinese broccoli in garlic",
+                "Yale": "syun yùhng gaai láan",
+                "Pinyin": "suàn róng gài lán",
+                "resources": [
+                    {
+                        "name": "蒜蓉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
+                    },
+                    {
+                        "name": "蒜",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C"
+                    },
+                    {
+                        "name": "蓉",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
+                    },
+                    {
+                        "name": "芥蘭",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5%E8%98%AD"
+                    },
+                    {
+                        "name": "芥",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5"
+                    },
+                    {
+                        "name": "蘭",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%98%AD"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "chinesebroccolimincedgarlicbigwong",
+                "place": "Big Wong, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan) stir-fried in garlic..\n\n**Characters**\n\n[蒜蓉](https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89) is *minced garlic*, and [芥蘭](https://en.wiktionary.org/wiki/%E8%8A%A5%E8%98%AD) is [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan), so 蒜蓉芥蘭 is *minced garlic Chinese broccoli*.",
+        "tags": [
+            "蒜蓉",
+            "蕹菜",
+            "炒",
+            "菜"
+        ],
+        "resources": [
+            
         ]
     }
 ]
