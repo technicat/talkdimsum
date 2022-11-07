@@ -136,7 +136,7 @@
                     },
                     {
                         "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/麵"
+                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
                     }
                 ]
             }
@@ -288,7 +288,10 @@
             "麵"
         ],
         "resources": [
-          
+            {
+                "name": "Foodie and Baker",
+                "URL": "https://www.foodiebaker.com/chinese-tomato-egg-noodle-soup/"
+            }
         ]
     }
 ]

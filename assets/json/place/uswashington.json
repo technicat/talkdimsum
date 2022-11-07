@@ -147,6 +147,23 @@
             "address": "317 E Smith St Kent, WA 98030t"
         },
         {
+            "title": "Early Bird Cafe",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://cafekirkland.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/early-bird-cafe-kirkland"
+                }
+            ],
+            "lat": 47.66712200846537,
+            "lon": -122.19689673059133,
+            "city": "Kirkland",
+            "address": "967 6th St S Kirkland, WA 98033"
+        },
+        {
             "title": "U Lin Asian Bistro",
             "links": [
                 {
