@@ -1,14 +1,26 @@
-These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in the release downloads (source is in the dartdimsum repo), for Android and macOS. Feel free to file reports on the apps in Issues here (including if you want a new Flutter build - I don't update the releases often).
+These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com). The Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the Flutter version is available here in the release downloads (source is in the dartdimsum repo), for Android and macOS (copy.scm is a Gauche script that copies these files to my local copies of those repos). Feel free to file reports on the apps in Issues here (including if you want a new Flutter build - I don't update the releases often).
+
+## Images
 
 The images are landscape but not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin).
+
+## Restaurants
 
 All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and PF Chang's).
 
 For the restaurant links, the restaurant's own website is listed first if available, but no Facebook (because, Facebook), and other links are listed aphabetically by site name. I try to avoid any foor ordering sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, not so much in Europe, and OpenRice is better in Asia) and typically has enough photos so I can tell if it's real dim sum, Travelocity is omitted because it hangs my link checker.
 
+## URLs
+
 Links are urlencoded, both in the resource lists and the markdown text.
 
+## Formatting
+
 I edit and format these files in Visual Studio Code, and run JSON and [link checks](https://datatracker.ietf.org/doc/html/rfc1738) with some [scripts](http://github.com/technicat/schematic) written in [Gauche](https://practical-scheme.net/gauche/).
+
+This is not a hard and fast rule, but I try to make the categories (categories.json) and new dishes (everything tagged with the first entry in categories.json) multiples of three, as the apps have three-column thumbnail views and it looks better to have an even bottom.
+
+## License
 
 Everything is MIT-licensed except for the regional map images from Wikipedia, licensed from Wikimedia under [TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
 
