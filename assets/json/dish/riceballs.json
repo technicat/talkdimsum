@@ -331,5 +331,55 @@
             "點心"
         ],
         "resources": []
+    },
+    {
+        "words": [
+            {
+                "Chinese": "糖不甩",
+                "English": "rice balls in syrup",
+                "Yale": "tòhng bāt lāt",
+                "Pinyin": "táng bù shuǎi",
+                "resources": [
+                    {
+                        "name": "糖不甩",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96%E4%B8%8D%E7%94%A9"
+                    },
+                    {
+                        "name": "糖",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
+                    },
+                    {
+                        "name": "不",
+                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%8D"
+                    },
+                    {
+                        "name": "甩",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%94%A9"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "peanutcoatedriceballssweethoneydessert",
+                "place": "SweetHoney Dessert, Garden Grove, California"
+            }
+        ],
+        "description": "These rice balls have no filling, but instead are doused in syrup and topped with crushed peanuts.\n\n[糖](https://en.wiktionary.org/wiki/%E7%B3%96) is *sugar*, and 不甩 means “cannot detach,” so basically, really syrupy!",
+        "tags": [
+            "糖",
+            "花生",
+            "甜品"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/glutinous-rice-ball-with-crushed-peanuts/"
+            },
+            {
+                "name": "Christine's Rcipes",
+                "URL": "https://en.christinesrecipes.com/2010/02/glutinous-rice-balls-with-peanuts.html#more"
+            }
+        ]
     }
 ]
