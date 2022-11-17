@@ -91,28 +91,52 @@
         "English": "orange",
         "Yale": "cháang",
         "Jyutping": "caang2",
-        "Pinyin": "chéng"
+        "Pinyin": "chéng",
+        "resources": [
+            {
+                "name": "橙",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A9%99"
+            }
+        ]
     },
     {
         "Chinese": "桃",
         "English": "peach",
         "Yale": "tòuh",
         "Jyutping": "tou4",
-        "Pinyin": "táo"
+        "Pinyin": "táo",
+        "resources": [
+            {
+                "name": "桃",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A1%83"
+            }
+        ]
     },
     {
         "Chinese": "梨",
         "English": "pear",
         "Yale": "lèih",
         "Jyutping": "lei4",
-        "Pinyin": "lí"
+        "Pinyin": "lí",
+        "resources": [
+            {
+                "name": "梨",
+                "URL": "https://en.wiktionary.org/wiki/%E6%A2%A8"
+            }
+        ]
     },
     {
         "Chinese": "李",
         "English": "plum",
         "Yale": "léih",
         "Jyutping": "lei5",
-        "Pinyin": "lǐ"
+        "Pinyin": "lǐ",
+        "resources": [
+            {
+                "name": "李",
+                "URL": "https://en.wiktionary.org/wiki/%E6%9D%8E"
+            }
+        ]
     },
     {
         "Chinese": "士多啤梨",
@@ -120,13 +144,45 @@
         "English": "strawberry",
         "Yale": "sih dō bē léi",
         "Jyutping": "si6 do1 be1 lei2",
-        "Pinyin": "cǎo mé"
+        "Pinyin": "cǎo mé",
+        "resources": [
+        {
+            "name": "士多啤梨",
+            "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8"
+        },
+        {
+            "name": "士",
+            "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB"
+        },
+        {
+            "name": "多",
+            "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
+        },
+        {
+            "name": "啤梨",
+            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4%E6%A2%A8"
+        },
+        {
+            "name": "啤",
+            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4"
+        },
+        {
+            "name": "梨",
+            "URL": "https://en.wiktionary.org/wiki/E6%A2%A8"
+        }
+    ]
     },
     {
         "Chinese": "柑",
         "English": "tangerine",
         "Yale": "gām",
         "Jyutping": "gam1",
-        "Pinyin": "gān"
+        "Pinyin": "gān",
+        "resources": [
+            {
+                "name": "李",
+                "URL": "https://en.wiktionary.org/wiki/%E6%9F%91"
+            }
+        ]
     }
 ]
