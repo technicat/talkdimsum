@@ -7,7 +7,23 @@
         "Pinyin": "xiǎo shí"
     },
     {
-        "Cantonese": "布甸",
+        "Cantonese": {
+            "text": "布甸",
+            "refs": [
+                {
+                    "name": "布甸",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83%E7%94%B8"
+                },
+                {
+                    "name": "布",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83"
+                },
+                {
+                    "name": "甸",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%94%B8"
+                }
+            ]
+        },
         "English": "pudding",
         "Yale": "bou dīn",
         "Jyutping": "bou3 din1",

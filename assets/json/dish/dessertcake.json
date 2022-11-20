@@ -72,28 +72,30 @@
     {
         "words": [
             {
-                "Cantonese": "椰汁糕",
+                "Cantonese": {
+                    "text": "椰汁糕",
+                    "refs": [
+                        {
+                            "name": "椰汁",
+                            "URL": "https://en.wiktionary.org/wiki/%25E6%25A4%25B0%25E6%25B1%2581"
+                        },
+                        {
+                            "name": "椰",
+                            "URL": "https://en.wiktionary.org/wiki/%25E6%25A4%25B0"
+                        },
+                        {
+                            "name": "汁",
+                            "URL": "https://en.wiktionary.org/wiki/%25E6%25B1%2581"
+                        },
+                        {
+                            "name": "糕",
+                            "URL": "https://en.wiktionary.org/wiki/%25E7%25B3%2595"
+                        }
+                    ]
+                },
                 "English": "coconut pudding",
                 "Yale": "yèh jāp gōu",
-                "Pinyin": "yē zhī gāo",
-                "resources": [
-                    {
-                        "name": "椰汁",
-                        "URL": "https://en.wiktionary.org/wiki/%25E6%25A4%25B0%25E6%25B1%2581"
-                    },
-                    {
-                        "name": "椰",
-                        "URL": "https://en.wiktionary.org/wiki/%25E6%25A4%25B0"
-                    },
-                    {
-                        "name": "汁",
-                        "URL": "https://en.wiktionary.org/wiki/%25E6%25B1%2581"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%25E7%25B3%2595"
-                    }
-                ]
+                "Pinyin": "yē zhī gāo"
             }
         ],
         "images": [
@@ -200,7 +202,7 @@
             {
                 "name": "Chinatownology",
                 "URL": "https://www.chinatownology.com/Chinese_pastry_guide.html#greenbean"
-             },
+            },
             {
                 "name": "Ellina's Life Space",
                 "URL": "https://www.ellinaguo.com/recipe/green-bean-cake/"
