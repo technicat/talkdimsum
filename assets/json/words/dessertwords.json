@@ -54,6 +54,7 @@
         "Pinyin": "hù"
     },
     {
+        "English": "cookie/cake/pancake",
         "Cantonese": {
             "text": "餅",
             "refs": [
@@ -63,7 +64,9 @@
                 }
             ]
         },
-        "Simplified":  {
+        "Yale": "béng",
+        "Jyutping": "beng2",
+        "Simplified": {
             "text": "饼",
             "refs": [
                 {
@@ -72,31 +75,46 @@
                 }
             ]
         },
-        "English": "cookie/cake/pancake",
-        "Yale": "béng",
-        "Jyutping": "beng2",
         "Pinyin": "bǐng"
     },
     {
-        "Cantonese": "肉餅",
-        "Simplified": "肉饼",
+        "Cantonese": {
+            "text": "肉餅",
+            "refs": [
+                {
+                    "name": "肉餅",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%A4%85"
+                },
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                },
+                {
+                    "name": "餅",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
+                }
+            ]
+        },
+        "Simplified": {
+            "text": "肉饼",
+            "refs": [
+                {
+                    "name": "肉饼",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%A5%BC"
+                },
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                },
+                {
+                    "name": "饼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A5%BC"
+                }
+            ]
+        },
         "English": "meat patty",
         "Yale": "yuhk béng",
-        "Pinyin": "ròu bǐng",
-        "resources": [
-            {
-                "name": "肉餅",
-                "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%A4%85"
-            },
-            {
-                "name": "肉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-            },
-            {
-                "name": "餅",
-                "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-            }
-        ]
+        "Pinyin": "ròu bǐng"
     },
     {
         "Cantonese": "撻",
