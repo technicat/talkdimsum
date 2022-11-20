@@ -1,6 +1,6 @@
 [
     {
-        "Cantonese": { 
+        "Cantonese": {
             "text": "豆腐皮",
             "refs": [
                 {
@@ -22,7 +22,7 @@
         "Pinyin": "dòu fǔ pí"
     },
     {
-        "Cantonese":  { 
+        "Cantonese": {
             "text": "蓮蓉",
             "refs": [
                 {
@@ -45,7 +45,7 @@
         "Pinyin": "lián róng"
     },
     {
-        "Cantonese": { 
+        "Cantonese": {
             "text": "豆苗",
             "refs": [
                 {
@@ -67,7 +67,23 @@
         "Pinyin": "dòu miáo"
     },
     {
-        "Cantonese": "豆沙",
+        "Cantonese": {
+            "text": "豆沙",
+            "refs": [
+                {
+                    "name": "豆沙",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99"
+                },
+                {
+                    "name": "豆",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
+                },
+                {
+                    "name": "沙",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
+                }
+            ]
+        },
         "English": "red bean paste",
         "Yale": "dauh sā",
         "Pinyin": "dòu shā"
