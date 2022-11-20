@@ -117,8 +117,24 @@
         "Pinyin": "ròu bǐng"
     },
     {
-        "Cantonese": "撻",
-        "Simplified": "挞",
+        "Cantonese":  {
+            "text": "撻",
+            "refs": [
+                {
+                    "name": "撻",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%92%BB"
+                }
+            ]
+        },
+        "Simplified": {
+            "text": "挞",
+            "refs": [
+                {
+                    "name": "挞",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%8C%9E"
+                }
+            ]
+        },
         "English": "tart",
         "Yale": "taat",
         "Jyutping": "taat3",
