@@ -54,18 +54,28 @@
         "Pinyin": "hù"
     },
     {
-        "Cantonese": "餅",
-        "Simplified": "饼",
+        "Cantonese": {
+            "text": "餅",
+            "refs": [
+                {
+                    "name": "餅",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
+                }
+            ]
+        },
+        "Simplified":  {
+            "text": "饼",
+            "refs": [
+                {
+                    "name": "饼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A5%BC"
+                }
+            ]
+        },
         "English": "cookie/cake/pancake",
         "Yale": "béng",
         "Jyutping": "beng2",
-        "Pinyin": "bǐng",
-        "resources": [
-            {
-                "name": "餅",
-                "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-            }
-        ]
+        "Pinyin": "bǐng"
     },
     {
         "Cantonese": "肉餅",
