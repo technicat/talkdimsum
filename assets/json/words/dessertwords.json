@@ -47,8 +47,16 @@
         "Pinyin": "bù dīng"
     },
     {
-        "Cantonese": "糊",
         "English": "cream",
+        "Cantonese":  {
+            "text": "糊",
+            "refs": [
+                {
+                    "name": "糊",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%B3%8A"
+                }
+            ]
+        },
         "Yale": "wùh",
         "Jyutping": "wu4",
         "Pinyin": "hù"
@@ -78,6 +86,7 @@
         "Pinyin": "bǐng"
     },
     {
+        "English": "meat patty",
         "Cantonese": {
             "text": "肉餅",
             "refs": [
@@ -95,6 +104,7 @@
                 }
             ]
         },
+        "Yale": "yuhk béng",
         "Simplified": {
             "text": "肉饼",
             "refs": [
@@ -112,11 +122,10 @@
                 }
             ]
         },
-        "English": "meat patty",
-        "Yale": "yuhk béng",
         "Pinyin": "ròu bǐng"
     },
     {
+        "English": "tart",
         "Cantonese":  {
             "text": "撻",
             "refs": [
@@ -126,6 +135,8 @@
                 }
             ]
         },
+        "Yale": "taat",
+        "Jyutping": "taat3",
         "Simplified": {
             "text": "挞",
             "refs": [
@@ -135,9 +146,6 @@
                 }
             ]
         },
-        "English": "tart",
-        "Yale": "taat",
-        "Jyutping": "taat3",
         "Pinyin": "tà"
     }
 ]
