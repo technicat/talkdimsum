@@ -109,32 +109,34 @@
         ]
     },
     {
-        "Cantonese": "四季豆",
+        "Cantonese": {
+            "text": "四季豆",
+            "resources": [
+                {
+                    "name": "四季豆",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3%E8%B1%86"
+                },
+                {
+                    "name": "四季",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3"
+                },
+                {
+                    "name": "四",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B"
+                },
+                {
+                    "name": "季",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%AD%A3"
+                },
+                {
+                    "name": "豆",
+                    "URL": "%E8%B1%86"
+                }
+            ]
+        },
         "Simplified": "四季豆",
         "English": "string beans",
         "Yale": "sei gwai dáu",
-        "Pinyin": "sì jì dòu",
-        "resources": [
-            {
-                "name": "四季豆",
-                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3%E8%B1%86"
-            },
-            {
-                "name": "四季",
-                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3"
-            },
-            {
-                "name": "四",
-                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B"
-            },
-            {
-                "name": "季",
-                "URL": "https://en.wiktionary.org/wiki/%E5%AD%A3"
-            },
-            {
-                "name": "四季豆",
-                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3%E8%B1%86"
-            }
-        ]
+        "Pinyin": "sì jì dòu"
     }
 ]
