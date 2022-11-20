@@ -1,7 +1,23 @@
 [
     {
-        "Cantonese": "小食",
         "English": "snack",
+        "Cantonese": {
+            "text": "小食",
+            "refs": [
+                {
+                    "name": "小食",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F%E9%A3%9F"
+                },
+                {
+                    "name": "小",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F"
+                },
+                {
+                    "name": "食",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A3%9F"
+                }
+            ]
+        },
         "Yale": "síu sihk",
         "Jyutping": "siu2 sihk6",
         "Pinyin": "xiǎo shí"
@@ -48,7 +64,7 @@
     },
     {
         "English": "cream",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "糊",
             "refs": [
                 {
@@ -126,7 +142,7 @@
     },
     {
         "English": "tart",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "撻",
             "refs": [
                 {
