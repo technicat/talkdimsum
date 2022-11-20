@@ -39,7 +39,23 @@
                 }
             ]
         },
-        "Simplified": "莲蓉",
+        "Simplified": {
+            "text": "莲蓉",
+            "refs": [
+                {
+                    "name": "莲蓉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8E%B2%E8%93%89"
+                },
+                {
+                    "name": "莲",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8E%B2"
+                },
+                {
+                    "name": "蓉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
+                }
+            ]
+        },
         "English": "lotus seed paste",
         "Yale": "lìhn yùhng",
         "Pinyin": "lián róng"
@@ -89,24 +105,26 @@
         "Pinyin": "dòu shā"
     },
     {
-        "Cantonese": "綠豆",
+        "Cantonese":  {
+            "text": "綠豆",
+            "refs": [
+                {
+                    "name": "綠豆",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86"
+                },
+                {
+                    "name": "綠",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
+                },
+                {
+                    "name": "豆",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
+                }
+            ]
+        },
         "English": "mung bean",
         "Yale": "luhk dauh",
-        "Pinyin": "lǜ dòu",
-        "refs": [
-            {
-                "name": "綠豆",
-                "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86"
-            },
-            {
-                "name": "綠",
-                "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-            },
-            {
-                "name": "豆",
-                "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-            }
-        ]
+        "Pinyin": "lǜ dòu"
     },
     {
         "Cantonese": {
