@@ -1,124 +1,132 @@
 [
     {
-        "Cantonese": "菜",
+        "Cantonese": {
+            "text": "菜",
+            "refs": [
+                {
+                    "name": "菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                }
+            ]
+        },
         "English": "vegetable",
         "Yale": "choi",
         "Jyutping": "coi3",
-        "Pinyin": "cài",
-        "resources": [
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Pinyin": "cài"
     },
     {
-        "Cantonese": "冬菜",
+        "Cantonese": {
+            "text": "冬菜",
+            "refs": [
+                {
+                    "name": "冬菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%9C"
+                },
+                {
+                    "name": "冬",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
+                },
+                {
+                    "name": "菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                }
+            ]
+        },
         "Simplified": "冬菜",
         "English": "mustard greens",
         "Yale": "dūng choi",
-        "Pinyin": "dōng cài",
-        "resources": [
-          {
-            "name": "冬菜",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%9C"
-          },
-          {
-            "name": "冬",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-          },
-          {
-            "name": "菜",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-          },
-          {
-            "name": "菜",
-            "URL": "https://en.wiktionary.org/wiki/E8%8F%9C"
-          }
-        ]
+        "Pinyin": "dōng cài"
     },
     {
-        "Cantonese": "韭菜",
+        "Cantonese": {
+            "text": "韭菜",
+            "refs": [
+                {
+                    "name": "韭菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
+                },
+                {
+                    "name": "韭",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
+                },
+                {
+                    "name": "菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                }
+            ]
+        },
         "English": "chives",
         "Yale": "gáu choi",
         "Jyutping": "zyu2 coi3",
-        "Pinyin": "jiǔ cài",
-        "resources": [
-            {
-                "name": "韭菜",
-                "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
-            },
-            {
-                "name": "韭",
-                "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
-            },
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Pinyin": "jiǔ cài"
     },
     {
-        "Cantonese": "生菜",
+        "Cantonese": {
+            "text": "生菜",
+            "refs": [
+                {
+                    "name": "生菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E8%8F%9C"
+                },
+                {
+                    "name": "生",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
+                },
+                {
+                    "name": "菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                }
+            ]
+        },
         "English": "lettuce",
         "Yale": "sāang choi",
         "Jyutping": "saang1 coi3",
-        "Pinyin": "shēng cài",
-        "resources": [
-            {
-                "name": "生菜",
-                "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E8%8F%9C"
-            },
-            {
-                "name": "生",
-                "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
-            },
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Pinyin": "shēng cài"
     },
     {
-        "Cantonese": "蕹菜",
+        "Cantonese": {
+            "text": "蕹菜",
+            "refs": [
+                {
+                    "name": "蕹菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%95%B9%E8%8F%9C"
+                },
+                {
+                    "name": "蕹",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%95%B9"
+                },
+                {
+                    "name": "菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                }
+            ]
+        },
         "English": "ong choy",
         "Yale": "ung choi",
         "Jyutping": "ung3 coi3",
-        "Pinyin": "wèng cài",
-        "resources": [
-            {
-                "name": "蕹菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%95%B9%E8%8F%9C"
-            },
-            {
-                "name": "蕹",
-                "URL": "https://en.wiktionary.org/wiki/%E8%95%B9"
-            },
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Pinyin": "wèng cài"
     },
     {
-        "Cantonese": "菠菜",
+        "Cantonese": {
+            "text": "菠菜",
+            "refs": [
+                {
+                    "name": "菠菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%8F%9C"
+                },
+                {
+                    "name": "菠",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
+                },
+                {
+                    "name": "菜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
+                }
+            ]
+        },
         "English": "spinach",
         "Yale": "bō choi",
         "Jyutping": "bo1 coi3",
-        "Pinyin": "bō cài",
-        "resources": [
-            {
-                "name": "菠菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%8F%9C"
-            },
-            {
-                "name": "菠",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-            },
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Pinyin": "bō cài"
     }
 ]
