@@ -22,45 +22,49 @@
         "Pinyin": "dòu fǔ pí"
     },
     {
-        "Cantonese": "蓮蓉",
+        "Cantonese":  { 
+            "text": "蓮蓉",
+            "refs": [
+                {
+                    "name": "蓮蓉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
+                },
+                {
+                    "name": "蓮",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
+                },
+                {
+                    "name": "蓉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
+                }
+            ]
+        },
         "Simplified": "莲蓉",
         "English": "lotus seed paste",
         "Yale": "lìhn yùhng",
-        "Pinyin": "lián róng",
-        "resources": [
-            {
-                "name": "蓮蓉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
-            },
-            {
-                "name": "蓮",
-                "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-            },
-            {
-                "name": "蓉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-            }
-        ]
+        "Pinyin": "lián róng"
     },
     {
-        "Cantonese": "豆苗",
+        "Cantonese": { 
+            "text": "豆苗",
+            "refs": [
+                {
+                    "name": "豆苗",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%8B%97"
+                },
+                {
+                    "name": "豆",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
+                },
+                {
+                    "name": "苗",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8B%97"
+                }
+            ]
+        },
         "English": "pea shoot",
         "Yale": "dauh mìuh",
-        "Pinyin": "dòu miáo",
-        "resources": [
-            {
-                "name": "豆苗",
-                "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%8B%97"
-            },
-            {
-                "name": "豆",
-                "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-            },
-            {
-                "name": "苗",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8B%97"
-            }
-        ]
+        "Pinyin": "dòu miáo"
     },
     {
         "Cantonese": "豆沙",
