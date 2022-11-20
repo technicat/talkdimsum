@@ -7,6 +7,7 @@
         "Pinyin": "xiǎo shí"
     },
     {
+        "English": "pudding",
         "Cantonese": {
             "text": "布甸",
             "refs": [
@@ -24,10 +25,26 @@
                 }
             ]
         },
-        "English": "pudding",
         "Yale": "bou dīn",
         "Jyutping": "bou3 din1",
-        "Pinyin": "bù diàn"
+        "Mandarin": {
+            "text": "布丁",
+            "refs": [
+                {
+                    "name": "布丁",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83%E4%B8%81"
+                },
+                {
+                    "name": "布",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83"
+                },
+                {
+                    "name": "丁",
+                    "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
+                }
+            ]
+        },
+        "Pinyin": "bù dīng"
     },
     {
         "Cantonese": "糊",
