@@ -20,8 +20,24 @@
         },
         "Yale": "nìhng mūng",
         "Jyutping": "ning4 mung1",
-        "Simplified": "柠檬",
-        "Pinyin": "níng méng"
+        "Pinyin": "níng méng",
+        "Simplified": {
+            "text": "柠檬",
+            "refs": [
+                {
+                    "name": "柠檬",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9F%A0%E6%AA%AC"
+                },
+                {
+                    "name": "柠",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9F%A0"
+                },
+                {
+                    "name": "檬",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%AC"
+                }
+            ]
+        }
     },
     {
         "Cantonese": "香蕉",
