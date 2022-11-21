@@ -37,17 +37,19 @@
         "Pinyin": "zhà"
     },
     {
-        "Cantonese": "煎",
         "English": "pan-fried",
+        "Cantonese":  {
+            "text": "煎",
+            "refs": [
+                {
+                    "name": "煎",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
+                }
+            ]
+        },
         "Yale": "jīn",
         "Jyutping": "zin1",
-        "Pinyin": "jiān",
-        "resources": [
-            {
-              "name": "煎",
-              "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-            }
-        ]
+        "Pinyin": "jiān"
     },
     {
         "Cantonese": "炒",
