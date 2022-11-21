@@ -22,17 +22,19 @@
         "Pinyin": "niàng"
     },
     {
-        "Cantonese": "炸",
         "English": "deep-fried",
+        "Cantonese": {
+            "text": "炸",
+            "refs": [
+                {
+                    "name": "炸",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
+                }
+            ]
+        },
         "Yale": "ja",
         "Jyutping": "zaa3",
-        "Pinyin": "zhà",
-        "resources": [
-            {
-                "name": "炸",
-                "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-            }
-        ]
+        "Pinyin": "zhà"
     },
     {
         "Cantonese": "煎",
