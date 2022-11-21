@@ -7,8 +7,16 @@
         "Pinyin": "xiāng"
     },
     {
-        "Cantonese": "蒸",
         "English": "steamed",
+        "Cantonese": {
+            "text": "蒸",
+            "refs": [
+                {
+                    "name": "蒸",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
+                }
+            ]
+        },
         "Yale": "jīng",
         "Jyutping": "zing1",
         "Pinyin": "zhēng"
@@ -94,7 +102,7 @@
         },
         "Yale": "sīn",
         "Jyutping": "sin1",
-        "Simplified":  {
+        "Simplified": {
             "text": "鲜",
             "refs": [
                 {
