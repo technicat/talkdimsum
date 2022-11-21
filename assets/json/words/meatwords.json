@@ -91,17 +91,23 @@
         "Pinyin": "niú nǎn"
     },
     {
-        "Cantonese": "仿肉",
         "English": "imitation meat",
+        "Cantonese": {
+            "text": "仿肉",
+            "refs": [
+                {
+                    "name": "仿",
+                    "URL": "https://en.wiktionary.org/wiki/%E4%BB%BF"
+                },
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                }
+            ]
+        },
         "Yale": "fóng yuhk",
         "Jyutping": "fong2 juk6",
-        "Pinyin": "ǎng ròu",
-        "resources": [
-            {
-                "name": "肉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-            }
-        ]
+        "Pinyin": "ǎng ròu"
     },
     {
         "English": "pig",
