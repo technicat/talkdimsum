@@ -128,18 +128,28 @@
         "Pinyin": "zhū"
     },
     {
-        "Cantonese": "豬肉",
-        "Simplified": "猪肉",
         "English": "pork",
+        "Cantonese": {
+            "text": "豬肉",
+            "refs": [
+                {
+                    "name": "豬肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC%E8%82%89"
+                },
+                {
+                    "name": "豬",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
+                },
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                }
+            ]
+        },
+        "Simplified": "猪肉",
         "Yale": "jyú yuhk",
         "Jyutping": "zyu1 juk6",
-        "Pinyin": "zhū ròu",
-        "resources": [
-            {
-                "name": "肉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-            }
-        ]
+        "Pinyin": "zhū ròu"
     },
     {
         "Cantonese": "午餐肉",
