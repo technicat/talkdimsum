@@ -1,7 +1,15 @@
 [
     {
-        "Cantonese": "奶",
         "English": "milk",
+        "Cantonese": {
+            "text": "奶",
+            "refs": [
+                {
+                    "name": "奶",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
+                }
+            ]
+        },
         "Yale": "náaih",
         "Pinyin": "nǎi"
     },
@@ -12,23 +20,25 @@
         "Pinyin": "niú nǎi"
     },
     {
-        "Cantonese": "奶皇",
         "English": "custard",
+        "Cantonese": {
+            "text": "奶皇",
+            "refs": [
+                {
+                    "name": "奶黃",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83"
+                },
+                {
+                    "name": "奶",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
+                },
+                {
+                    "name": "黃",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
+                }
+            ]
+        },
         "Yale": "náaih wòhng",
-        "Pinyin": "nǎi huáng",
-        "resources": [
-            {
-                "name": "奶黃",
-                "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83"
-            },
-            {
-                "name": "奶",
-                "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-            },
-            {
-                "name": "黃",
-                "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-            }
-        ]
+        "Pinyin": "nǎi huáng"
     }
 ]
