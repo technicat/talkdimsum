@@ -1,7 +1,15 @@
 [
     {
-        "Cantonese": "香",
         "English": "fragrant",
+        "Cantonese": {
+            "text": "香",
+            "refs": [
+                {
+                    "name": "香",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
+                }
+            ]
+        },
         "Yale": "hēung",
         "Jyutping": "hoeng1",
         "Pinyin": "xiāng"
