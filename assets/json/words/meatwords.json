@@ -148,7 +148,7 @@
         },
         "Yale": "jyú yuhk",
         "Jyutping": "zyu1 juk6",
-        "Simplified":  {
+        "Simplified": {
             "text": "猪肉",
             "refs": [
                 {
@@ -168,33 +168,34 @@
         "Pinyin": "zhū ròu"
     },
     {
-        "Cantonese": "午餐肉",
-        "Simplified": "午餐肉",
         "English": "spam",
+        "Cantonese": {
+            "text": "午餐肉",
+            "refs": [
+                {
+                    "name": "午餐肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90%E8%82%89"
+                },
+                {
+                    "name": "午餐",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90"
+                },
+                {
+                    "name": "午",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%88"
+                },
+                {
+                    "name": "餐",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
+                },
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                }
+            ]
+        },
         "Yale": "ńgh chāan yuhk",
         "Jyutping": "ng5 caan1 juk4",
-        "Pinyin": "wǔ cān ròu",
-        "resources": [
-            {
-                "name": "午餐肉",
-                "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90%E8%82%89"
-            },
-            {
-                "name": "午餐",
-                "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90"
-            },
-            {
-                "name": "午",
-                "URL": "https://en.wiktionary.org/wiki/%E5%8D%88"
-            },
-            {
-                "name": "餐",
-                "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
-            },
-            {
-                "name": "肉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-            }
-        ]
+        "Pinyin": "wǔ cān ròu"
     }
 ]
