@@ -30,11 +30,27 @@
         "Pinyin": "zhēng"
     },
     {
-        "Cantonese": "釀",
-        "Simplified": "酿",
         "English": "stuffed",
+        "Cantonese": {
+            "text": "釀",
+            "refs": [
+                {
+                    "name": "釀",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%87%80"
+                }
+            ]
+        },
         "Yale": "yeuhng",
         "Jyutping": "joeng6",
+        "Simplified": {
+            "text": "酿",
+            "refs": [
+                {
+                    "name": "釀",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%85%BF"
+                }
+            ]
+        },
         "Pinyin": "niàng"
     },
     {
