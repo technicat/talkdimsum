@@ -68,7 +68,7 @@
         "Pinyin": "niú ròu"
     },
     {
-        "Cantonese":  {
+        "Cantonese": {
             "text": "牛腩",
             "refs": [
                 {
@@ -116,7 +116,7 @@
         },
         "Yale": "jyū",
         "Jyutping": "zyu1",
-        "Simplified":  {
+        "Simplified": {
             "text": "猪",
             "refs": [
                 {
@@ -146,9 +146,25 @@
                 }
             ]
         },
-        "Simplified": "猪肉",
         "Yale": "jyú yuhk",
         "Jyutping": "zyu1 juk6",
+        "Simplified":  {
+            "text": "猪肉",
+            "refs": [
+                {
+                    "name": "猪肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%8C%AA%E8%82%89"
+                },
+                {
+                    "name": "豬",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%8C%AA"
+                },
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                }
+            ]
+        },
         "Pinyin": "zhū ròu"
     },
     {
