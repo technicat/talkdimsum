@@ -38,7 +38,7 @@
     },
     {
         "English": "pan-fried",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "煎",
             "refs": [
                 {
@@ -52,10 +52,18 @@
         "Pinyin": "jiān"
     },
     {
-        "Cantonese": "炒",
         "English": "stir-fried",
+        "Cantonese": {
+            "text": "炒",
+            "refs": [
+                {
+                    "name": "炒",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
+                }
+            ]
+        },
         "Yale": "cháu",
-        "Jyutping":"caau2",
+        "Jyutping": "caau2",
         "Pinyin": "chǎo"
     },
     {
