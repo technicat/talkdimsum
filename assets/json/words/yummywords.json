@@ -67,8 +67,16 @@
         "Pinyin": "chǎo"
     },
     {
-        "Cantonese": "焗",
         "English": "baked",
+        "Cantonese": {
+            "text": "焗",
+            "refs": [
+                {
+                    "name": "焗",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
+                }
+            ]
+        },
         "Yale": "guhk",
         "Jyutping": "guk6",
         "Pinyin": "jú"
