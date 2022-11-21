@@ -1,84 +1,94 @@
 [
     {
-        "Cantonese": "球",
         "English": "ball",
+        "Cantonese": {
+            "text": "球",
+            "refs": [
+                {
+                    "name": "球",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
+                }
+            ]
+        },
         "Yale": "kàuh",
         "Jyutping": "kau4",
-        "Pinyin": "qiú",
-        "resources": [
-            {
-                "name": "球",
-                "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-            }
-        ]
+        "Pinyin": "qiú"
     },
     {
-        "Cantonese": "肉",
         "English": "meat",
+        "Cantonese": {
+            "text": "肉",
+            "refs": [
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                }
+            ]
+        },
         "Yale": "yuhk",
         "Jyutping": "juk6",
-        "Pinyin": "ròu",
-        "resources": [
-            {
-                "name": "肉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-            }
-        ]
+        "Pinyin": "ròu"
     },
     {
-        "Cantonese": "牛",
         "English": "cow",
+        "Cantonese": {
+            "text": "牛",
+            "refs": [
+                {
+                    "name": "牛",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
+                }
+            ]
+        },
         "Yale": "ngàuh",
         "Jyutping": "ngau4",
-        "Pinyin": "niú",
-        "resources": [
-            {
-                "name": "牛",
-                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-            }
-        ]
+        "Pinyin": "niú"
     },
     {
-        "Cantonese": "牛肉",
         "English": "beef",
+        "Cantonese": {
+            "text": "牛肉",
+            "refs": [
+                {
+                    "name": "牛肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
+                },
+                {
+                    "name": "牛",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
+                },
+                {
+                    "name": "肉",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
+                }
+            ]
+        },
         "Yale": "ngàuh yuhk",
         "Jyutping": "ngau4 juk6",
-        "Pinyin": "niú ròu",
-        "resources": [
-            {
-                "name": "牛肉",
-                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-            },
-            {
-                "name": "牛",
-                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-            },
-            {
-                "name": "肉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-            }
-        ]
+        "Pinyin": "niú ròu"
     },
     {
-        "Cantonese": "牛腩",
+        "Cantonese":  {
+            "text": "牛腩",
+            "refs": [
+                {
+                    "name": "牛腩",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%A9"
+                },
+                {
+                    "name": "牛",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
+                },
+                {
+                    "name": "腩",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%85%A9"
+                }
+            ]
+        },
         "Simplified": "牛腩",
         "English": "beef brisket",
         "Yale": "ngàuh náahm",
-        "Pinyin": "niú nǎn",
-        "resources": [
-            {
-                "name": "牛腩",
-                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%A9"
-            },
-            {
-                "name": "牛",
-                "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-            },
-            {
-                "name": "腩",
-                "URL": "https://en.wiktionary.org/wiki/%E8%85%A9"
-            }
-        ]
+        "Pinyin": "niú nǎn"
     },
     {
         "Cantonese": "仿肉",
