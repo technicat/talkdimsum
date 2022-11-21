@@ -104,18 +104,28 @@
         ]
     },
     {
-        "Cantonese": "豬",
-        "Simplified": "猪",
         "English": "pig",
+        "Cantonese": {
+            "text": "豬",
+            "refs": [
+                {
+                    "name": "豬",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
+                }
+            ]
+        },
         "Yale": "jyū",
         "Jyutping": "zyu1",
-        "Pinyin": "zhū",
-         "resources": [
-            {
-                "name": "豬",
-                "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-            }
-        ]
+        "Simplified":  {
+            "text": "猪",
+            "refs": [
+                {
+                    "name": "猪",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%8C%AA"
+                }
+            ]
+        },
+        "Pinyin": "zhū"
     },
     {
         "Cantonese": "豬肉",
