@@ -1,10 +1,26 @@
 [
     {
-        "Cantonese": "檸檬",
-        "Simplified": "柠檬",
         "English": "lemon",
+        "Cantonese": {
+            "text": "檸檬",
+            "refs": [
+                {
+                    "name": "檸檬",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8%E6%AA%AC"
+                },
+                {
+                    "name": "檸",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
+                },
+                {
+                    "name": "檬",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%AC"
+                }
+            ]
+        },
         "Yale": "nìhng mūng",
         "Jyutping": "ning4 mung1",
+        "Simplified": "柠檬",
         "Pinyin": "níng méng"
     },
     {
@@ -15,25 +31,27 @@
         "Pinyin": "xiāng jiāo"
     },
     {
-        "Cantonese": "提子",
         "English": "grapes",
+        "Cantonese": {
+            "text": "提子",
+            "refs": [
+                {
+                    "name": "提子",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%8F%90%E5%AD%90"
+                },
+                {
+                    "name": "提",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%8F%90"
+                },
+                {
+                    "name": "子",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
+                }
+            ]
+        },
         "Yale": "tàih ji",
         "Jyutping": "tai4 zi2",
-        "Pinyin": "tí zǐ",
-        "resources": [
-            {
-                "name": "提子",
-                "URL": "https://en.wiktionary.org/wiki/%E6%8F%90%E5%AD%90"
-            },
-            {
-                "name": "提",
-                "URL": "https://en.wiktionary.org/wiki/%E6%8F%90"
-            },
-            {
-                "name": "子",
-                "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-            }
-        ]
+        "Pinyin": "tí zǐ"
     },
     {
         "Cantonese": "車釐子",
@@ -67,122 +85,136 @@
         "Pinyin": "lóng yǎn"
     },
     {
-        "Cantonese": "荔枝",
+        "Cantonese": {
+            "text": "荔枝",
+            "refs": [
+                {
+                    "name": "荔枝",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%94%E6%9E%9D"
+                },
+                {
+                    "name": "荔",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%94"
+                },
+                {
+                    "name": "枝",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9D"
+                }
+            ]
+        },
         "English": "lychee",
         "Yale": "laih jī",
-        "Pinyin": "lì zhī",
-        "resources": [
-            {
-                "name": "荔枝",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8D%94%E6%9E%9D"
-            },
-            {
-                "name": "荔",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8D%94"
-            },
-            {
-                "name": "枝",
-                "URL": "https://en.wiktionary.org/wiki/%E6%9E%9D"
-            }
-        ]
+        "Pinyin": "lì zhī"
     },
     {
-        "Cantonese": "橙",
         "English": "orange",
+        "Cantonese": {
+            "text": "橙",
+            "refs": [
+                {
+                    "name": "橙",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%A9%99"
+                }
+            ]
+        },
         "Yale": "cháang",
         "Jyutping": "caang2",
-        "Pinyin": "chéng",
-        "resources": [
-            {
-                "name": "橙",
-                "URL": "https://en.wiktionary.org/wiki/%E6%A9%99"
-            }
-        ]
+        "Pinyin": "chéng"
     },
     {
-        "Cantonese": "桃",
         "English": "peach",
+        "Cantonese": {
+            "text": "桃",
+            "refs": [
+                {
+                    "name": "桃",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%A1%83"
+                }
+            ]
+        },
         "Yale": "tòuh",
         "Jyutping": "tou4",
-        "Pinyin": "táo",
-        "resources": [
-            {
-                "name": "桃",
-                "URL": "https://en.wiktionary.org/wiki/%E6%A1%83"
-            }
-        ]
+        "Pinyin": "táo"
     },
     {
-        "Cantonese": "梨",
         "English": "pear",
+        "Cantonese": {
+            "text": "梨",
+            "refs": [
+                {
+                    "name": "梨",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%A2%A8"
+                }
+            ]
+        },
         "Yale": "lèih",
         "Jyutping": "lei4",
-        "Pinyin": "lí",
-        "resources": [
-            {
-                "name": "梨",
-                "URL": "https://en.wiktionary.org/wiki/%E6%A2%A8"
-            }
-        ]
+        "Pinyin": "lí"
     },
     {
-        "Cantonese": "李",
         "English": "plum",
+        "Cantonese": {
+            "text": "李",
+            "refs": [
+                {
+                    "name": "李",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9D%8E"
+                }
+            ]
+        },
         "Yale": "léih",
         "Jyutping": "lei5",
-        "Pinyin": "lǐ",
-        "resources": [
-            {
-                "name": "李",
-                "URL": "https://en.wiktionary.org/wiki/%E6%9D%8E"
-            }
-        ]
+        "Pinyin": "lǐ"
     },
     {
-        "Cantonese": "士多啤梨",
-        "Mandarin": "草莓",
         "English": "strawberry",
+        "Cantonese":  {
+            "text": "士多啤梨",
+            "refs": [
+                {
+                    "name": "士多啤梨",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8"
+                },
+                {
+                    "name": "士",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB"
+                },
+                {
+                    "name": "多",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
+                },
+                {
+                    "name": "啤梨",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%95%A4%E6%A2%A8"
+                },
+                {
+                    "name": "啤",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%95%A4"
+                },
+                {
+                    "name": "梨",
+                    "URL": "https://en.wiktionary.org/wiki/E6%A2%A8"
+                }
+            ]
+        },
+        "Mandarin": "草莓",
         "Yale": "sih dō bē léi",
         "Jyutping": "si6 do1 be1 lei2",
-        "Pinyin": "cǎo mé",
-        "resources": [
-        {
-            "name": "士多啤梨",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8"
-        },
-        {
-            "name": "士",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB"
-        },
-        {
-            "name": "多",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
-        },
-        {
-            "name": "啤梨",
-            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4%E6%A2%A8"
-        },
-        {
-            "name": "啤",
-            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4"
-        },
-        {
-            "name": "梨",
-            "URL": "https://en.wiktionary.org/wiki/E6%A2%A8"
-        }
-    ]
+        "Pinyin": "cǎo mé"
     },
     {
-        "Cantonese": "柑",
         "English": "tangerine",
+        "Cantonese": {
+            "text": "柑",
+            "refs": [
+                {
+                    "name": "李",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9F%91"
+                }
+            ]
+        },
         "Yale": "gām",
         "Jyutping": "gam1",
-        "Pinyin": "gān",
-        "resources": [
-            {
-                "name": "李",
-                "URL": "https://en.wiktionary.org/wiki/%E6%9F%91"
-            }
-        ]
+        "Pinyin": "gān"
     }
 ]
