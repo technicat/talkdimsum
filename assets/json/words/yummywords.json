@@ -82,11 +82,27 @@
         "Pinyin": "jú"
     },
     {
-        "Cantonese": "鮮",
-        "Simplified": "鲜",
         "English": "fresh",
+        "Cantonese": {
+            "text": "鮮",
+            "refs": [
+                {
+                    "name": "鮮",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
+                }
+            ]
+        },
         "Yale": "sīn",
         "Jyutping": "sin1",
+        "Simplified":  {
+            "text": "鲜",
+            "refs": [
+                {
+                    "name": "鲜",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%9C"
+                }
+            ]
+        },
         "Pinyin": "xiān"
     }
 ]
