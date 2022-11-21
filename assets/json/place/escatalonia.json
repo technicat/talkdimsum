@@ -15,6 +15,23 @@
             "address": "Passeig de Sant Joan, 44 08010"
         },
         {
+            "title": "Dim Sum House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumhouse.es/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-house-barcelona"
+                }
+            ],
+            "lat": 41.386561316637284,
+            "lon":  2.1680562115357196,
+            "city": "Barcelona",
+            "address": "Carrer de Bergara, 9 08002"
+        },
+        {
             "title": "Kao Dim Sum",
             "links": [
                 {
