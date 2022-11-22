@@ -22,8 +22,24 @@
         "Pinyin": "chǐ zhī"
     },
     {
-        "Cantonese": "甜酸",
         "English": "sweet and sour",
+        "Cantonese": {
+            "text": "甜酸",
+            "refs": [
+                {
+                    "name": "甜酸",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9C%E9%85%B8"
+                },
+                {
+                    "name": "甜",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9C"
+                },
+                {
+                    "name": "酸",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%85%B8"
+                }
+            ]
+        },
         "Yale": "tìhm syūn",
         "Pinyin": "tián suān"
     },
