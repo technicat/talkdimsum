@@ -131,21 +131,43 @@
         "Pinyin": "hé tao"
     },
     {
-        "Cantonese": "芋頭",
-        "Simplified": "芋头",
         "English": "taro",
+        "Cantonese": {
+            "text": "芋頭",
+            "refs": [
+                {
+                    "name": "芋頭",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
+                },
+                {
+                    "name": "芋",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
+                },
+                {
+                    "name": "頭",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
+                }
+            ]
+        },
+        "Simplified":  {
+            "text": "芋头",
+            "refs": [
+                {
+                    "name": "芋头",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E5%A4%B4"
+                },
+                {
+                    "name": "芋",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
+                },
+                {
+                    "name": "头",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%B4"
+                }
+            ]
+        },
         "Yale": "wuh táu",
-        "Pinyin": "yù tou",
-        "resources": [
-            {
-                "name": "芋頭",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-            },
-            {
-                "name": "芋",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-            }
-        ]
+        "Pinyin": "yù tou"
     },
     {
         "Cantonese": "蘿蔔",
