@@ -2,16 +2,18 @@
     {
         "words": [
             {
-                "Cantonese": "粥",
+                "Cantonese": {
+                    "text": "粥",
+                    "refs": [
+                        {
+                            "name": "粥",
+                            "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
+                        }
+                    ]
+                },
                 "English": "congee",
                 "Yale": "jūk",
-                "Pinyin": "zhōu",
-                "resources": [
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Pinyin": "zhōu"
             }
         ],
         "images": [
@@ -664,7 +666,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with abalone and shredded chicken.\n\n[鮑魚](https://en.wiktionary.org/wiki/%E9%AE%91%E9%AD%9A) is abalone, 雞絲 is *chicken thread*, and [粥](https://en.wiktionary.org/wiki/%E7%B2%A5) is *congee*, so 鮑魚雞絲粥 is *abalone chicken thread congee*.",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with abalone and shredded chicken.\n\n[鮑魚](https://en.wiktionary.org/wiki/%E9%AE%91%E9%AD%9A) is [abalone](https://en.wikipedia.org/wiki/Abalone), 雞絲 is *chicken thread*, and [congee](http://en.wikipedia.org/wiki/Congee), so 鮑魚雞絲粥 is *abalone chicken thread congee*.",
         "tags": [
             "鮑魚",
             "雞",
