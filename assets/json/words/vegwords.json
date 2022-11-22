@@ -134,8 +134,24 @@
         "Pinyin": "mǎ tí"
     },
     {
-        "Cantonese": "杏仁",
         "English": "almond",
+        "Cantonese": {
+            "text": "杏仁",
+            "refs": [
+                {
+                    "name": "杏仁",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81"
+                },
+                {
+                    "name": "杏",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F"
+                },
+                {
+                    "name": "仁",
+                    "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
+                }
+            ]
+        },
         "Yale": "hahng yàhn",
         "Pinyin": "xìng rén"
     },
