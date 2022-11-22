@@ -35,24 +35,26 @@
         ]
     },
     {
-        "Cantonese": "流沙",
         "English": "lava custard",
+        "Cantonese": {
+            "text": "流沙",
+            "refs": [
+                {
+                    "name": "流沙",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B5%81%E6%B2%99"
+                },
+                {
+                    "name": "流",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B5%81"
+                },
+                {
+                    "name": "沙",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
+                }
+            ]
+        },
         "Yale": "làu sā",
         "Jyutping": "lau4 saa1",
-        "Pinyin": "liú shā",
-        "resources": [
-            {
-                "name": "流沙",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B5%81%E6%B2%99"
-            },
-            {
-                "name": "流",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B5%81"
-            },
-            {
-                "name": "沙",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-            }
-        ]
+        "Pinyin": "liú shā"
     }
 ]
