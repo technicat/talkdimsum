@@ -231,7 +231,8 @@
         "Pinyin": "shǔ"
     },
     {
-        "Cantonese":  {
+        "English": "tomato",
+        "Cantonese": {
             "text": "番茄",
             "refs": [
                 {
@@ -248,22 +249,31 @@
                 }
             ]
         },
-        "English": "tomato",
         "Yale": "fāan ké",
         "Jyutping": "faan1 ke2",
         "Pinyin": "fān qié"
     },
     {
-        "Cantonese": "薑",
-        "Simplified": "姜",
         "English": "ginger",
+        "Cantonese": {
+            "text": "薑",
+            "refs": [
+                {
+                    "name": "薑",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%96%91"
+                }
+            ]
+        },
+        "Simplified":  {
+            "text": "姜",
+            "refs": [
+                {
+                    "name": "姜",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A7%9C"
+                }
+            ]
+        },
         "Yale": "gēung",
-        "Pinyin": "jiāng",
-        "resources": [
-            {
-                "name": "薑",
-                "URL": "https://en.wiktionary.org/wiki/%E8%96%91"
-            }
-        ]
+        "Pinyin": "jiāng"
     }
 ]
