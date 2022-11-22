@@ -55,6 +55,7 @@
         "Pinyin": "huá jī"
     },
     {
+        "English": "duck",
         "Cantonese": {
             "text": "鴨",
             "refs": [
@@ -64,6 +65,8 @@
                 }
             ]
         },
+        "Yale": "aap",
+        "Jyutping": "aap3",
         "Simplified": {
             "text": "鸭",
             "refs": [
@@ -73,23 +76,30 @@
                 }
             ]
         },
-        "English": "duck",
-        "Yale": "aap",
-        "Jyutping": "aap3",
         "Pinyin": "yā"
     },
     {
-        "Cantonese": "鵝",
-        "Simplified": "鹅",
         "English": "goose",
+        "Cantonese": {
+            "text": "鵝",
+            "refs": [
+                {
+                    "name": "鵝",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B5%9D"
+                }
+            ]
+        },
         "Yale": "ngòh",
-        "Pinyin": "é",
-        "resources": [
-            {
-                "name": "鵝",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B5%9D"
-            }
-        ]
+        "Simplified": {
+            "text": "鹅",
+            "refs": [
+                {
+                    "name": "鹅",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%85"
+                }
+            ]
+        },
+        "Pinyin": "é"
     },
     {
         "Cantonese": "鵪鶉",
