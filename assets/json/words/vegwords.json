@@ -105,7 +105,23 @@
         "Pinyin": "qié zi"
     },
     {
-        "Cantonese": "芝麻",
+        "Cantonese": {
+            "text": "芝麻",
+            "refs": [
+                {
+                    "name": "芝麻",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
+                },
+                {
+                    "name": "芝",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
+                },
+                {
+                    "name": "麻",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
+                }
+            ]
+        },
         "English": "sesame seed",
         "Yale": "jī màh",
         "Pinyin": "zhī má"
@@ -280,7 +296,7 @@
                 }
             ]
         },
-        "Simplified":  {
+        "Simplified": {
             "text": "姜",
             "refs": [
                 {
