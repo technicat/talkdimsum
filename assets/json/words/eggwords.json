@@ -1,7 +1,15 @@
 [
     {
-        "Cantonese": "蛋",
         "English": "egg",
+        "Cantonese": {
+            "text": "蛋",
+            "refs": [
+                {
+                    "name": "蛋",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
+                }
+            ]
+        },
         "Yale": "dáan",
         "Jyutping": "daan2",
         "Pinyin": "dàn"
