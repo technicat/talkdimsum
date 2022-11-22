@@ -1,5 +1,6 @@
 [
     {
+        "English": "tofu skin",
         "Cantonese": {
             "text": "豆腐皮",
             "refs": [
@@ -17,11 +18,11 @@
                 }
             ]
         },
-        "English": "tofu skin",
         "Yale": "dauh fuh pèih",
         "Pinyin": "dòu fǔ pí"
     },
     {
+        "English": "lotus seed paste",
         "Cantonese": {
             "text": "蓮蓉",
             "refs": [
@@ -39,6 +40,7 @@
                 }
             ]
         },
+        "Yale": "lìhn yùhng",
         "Simplified": {
             "text": "莲蓉",
             "refs": [
@@ -56,11 +58,10 @@
                 }
             ]
         },
-        "English": "lotus seed paste",
-        "Yale": "lìhn yùhng",
         "Pinyin": "lián róng"
     },
     {
+        "English": "pea shoot",
         "Cantonese": {
             "text": "豆苗",
             "refs": [
@@ -78,11 +79,11 @@
                 }
             ]
         },
-        "English": "pea shoot",
         "Yale": "dauh mìuh",
         "Pinyin": "dòu miáo"
     },
     {
+        "English": "red bean paste",
         "Cantonese": {
             "text": "豆沙",
             "refs": [
@@ -100,12 +101,12 @@
                 }
             ]
         },
-        "English": "red bean paste",
         "Yale": "dauh sā",
         "Pinyin": "dòu shā"
     },
     {
-        "Cantonese":  {
+        "English": "mung bean",
+        "Cantonese": {
             "text": "綠豆",
             "refs": [
                 {
@@ -122,11 +123,11 @@
                 }
             ]
         },
-        "English": "mung bean",
         "Yale": "luhk dauh",
         "Pinyin": "lǜ dòu"
     },
     {
+        "English": "string beans",
         "Cantonese": {
             "text": "四季豆",
             "refs": [
@@ -152,8 +153,6 @@
                 }
             ]
         },
-        "Simplified": "四季豆",
-        "English": "string beans",
         "Yale": "sei gwai dáu",
         "Pinyin": "sì jì dòu"
     }
