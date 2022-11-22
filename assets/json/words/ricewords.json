@@ -1,7 +1,23 @@
 [
     {
-        "Cantonese": "飯",
-        "Simplified": "饭",
+        "Cantonese": {
+            "text": "飯",
+            "refs": [
+                {
+                    "name": "飯",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
+                }
+            ]
+        },
+        "Simplified": {
+            "text": "饭",
+            "refs": [
+                {
+                    "name": "饭",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A5%AD"
+                }
+            ]
+        },
         "English": "cooked rice",
         "Yale": "faahn",
         "Jyutping": "faan6",
