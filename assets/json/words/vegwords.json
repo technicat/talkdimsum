@@ -32,7 +32,7 @@
             ]
         },
         "Yale": "chūng",
-        "Simplified":  {
+        "Simplified": {
             "text": "葱",
             "refs": [
                 {
@@ -44,7 +44,7 @@
         "Pinyin": "cōng"
     },
     {
-        "Cantonese":  {
+        "Cantonese": {
             "text": "洋蔥",
             "refs": [
                 {
@@ -67,24 +67,26 @@
         "Pinyin": "yáng cōng"
     },
     {
-        "Cantonese": "茄子",
         "English": "eggplant",
+        "Cantonese": {
+            "text": "茄子",
+            "refs": [
+                {
+                    "name": "茄子",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8C%84%E5%AD%90"
+                },
+                {
+                    "name": "茄",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
+                },
+                {
+                    "name": "子",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
+                }
+            ]
+        },
         "Yale": "ké jí",
-        "Pinyin": "qié zi",
-        "resources": [
-            {
-                "name": "茄子",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8C%84%E5%AD%90"
-            },
-            {
-                "name": "茄",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-            },
-            {
-                "name": "子",
-                "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-            }
-        ]
+        "Pinyin": "qié zi"
     },
     {
         "Cantonese": "芝麻",
