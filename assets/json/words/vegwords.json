@@ -149,7 +149,7 @@
                 }
             ]
         },
-        "Simplified":  {
+        "Simplified": {
             "text": "芋头",
             "refs": [
                 {
@@ -178,7 +178,7 @@
     },
     {
         "English": "winter bamboo shoots",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "冬筍",
             "refs": [
                 {
@@ -195,7 +195,7 @@
                 }
             ]
         },
-        "Simplified":  {
+        "Simplified": {
             "text": "冬笋",
             "refs": [
                 {
@@ -216,18 +216,19 @@
         "Pinyin": "dōng sǔn"
     },
     {
-        "Cantonese": "薯",
-        "Simplified": "薯",
         "English": "potato",
+        "Cantonese": {
+            "text": "薯",
+            "refs": [
+                {
+                    "name": "薯",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%96%AF"
+                }
+            ]
+        },
         "Yale": "syùh",
         "Jyutping": "syu4",
-        "Pinyin": "shǔ",
-        "resources": [
-            {
-                "name": "薯",
-                "URL": "https://en.wiktionary.org/wiki/%E8%96%AF"
-            }
-        ]
+        "Pinyin": "shǔ"
     },
     {
         "Cantonese": "番茄",
