@@ -231,25 +231,27 @@
         "Pinyin": "shǔ"
     },
     {
-        "Cantonese": "番茄",
+        "Cantonese":  {
+            "text": "番茄",
+            "refs": [
+                {
+                    "name": "番茄",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%95%AA%E8%8C%84"
+                },
+                {
+                    "name": "番",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%95%AA"
+                },
+                {
+                    "name": "茄",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
+                }
+            ]
+        },
         "English": "tomato",
         "Yale": "fāan ké",
         "Jyutping": "faan1 ke2",
-        "Pinyin": "fān qié",
-        "resources": [
-            {
-                "name": "番茄",
-                "URL": "https://en.wiktionary.org/wiki/%E7%95%AA%E8%8C%84"
-            },
-            {
-                "name": "番",
-                "URL": "https://en.wiktionary.org/wiki/%E7%95%AA"
-            },
-            {
-                "name": "茄",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-            }
-        ]
+        "Pinyin": "fān qié"
     },
     {
         "Cantonese": "薑",
