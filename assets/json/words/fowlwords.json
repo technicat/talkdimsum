@@ -64,7 +64,15 @@
                 }
             ]
         },
-        "Simplified": "鸭",
+        "Simplified": {
+            "text": "鸭",
+            "refs": [
+                {
+                    "name": "鸭",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%AD"
+                }
+            ]
+        },
         "English": "duck",
         "Yale": "aap",
         "Jyutping": "aap3",
