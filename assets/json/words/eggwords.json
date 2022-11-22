@@ -15,32 +15,42 @@
         "Pinyin": "dàn"
     },
     {
-        "Cantonese": "蛋白",
         "English": "egg white",
+        "Cantonese": {
+            "text": "蛋白",
+            "refs": [
+                {
+                    "name": "蛋白",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E7%99%BD"
+                }
+            ]
+        },
         "Yale": "dáan baahk",
         "Jyutping": "daan2 baak6",
         "Pinyin": "dàn bái"
     },
     {
-        "Cantonese": "煎蛋",
         "English": "fried egg",
+        "Cantonese": {
+            "text": "煎蛋",
+            "refs": [
+                {
+                    "name": "煎蛋",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E8%9B%8B"
+                },
+                {
+                    "name": "煎",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
+                },
+                {
+                    "name": "蛋",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
+                }
+            ]
+        },
         "Yale": "jīn dáan",
         "Jyutping": "zin1 daan2 ",
-        "Pinyin": "jiān dàn",
-        "resources": [
-            {
-                "name": "煎蛋",
-                "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E8%9B%8B"
-            },
-            {
-                "name": "煎",
-                "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-            },
-            {
-                "name": "蛋",
-                "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-            }
-        ]
+        "Pinyin": "jiān dàn"
     },
     {
         "English": "lava custard",
