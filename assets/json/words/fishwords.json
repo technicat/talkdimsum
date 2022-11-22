@@ -1,25 +1,43 @@
 [
     {
         "English": "abalone",
-        "Cantonese": "鮑魚",
-        "Simplified": "鮑鱼",
+        "Cantonese":  {
+            "text": "鮑魚",
+            "refs": [
+                {
+                    "name": "鮑魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AE%91%E9%AD%9A"
+                },
+                {
+                    "name": "鮑",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AE%91"
+                },
+                {
+                    "name": "魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+                }
+            ]
+        },
         "Yale": "bāau yùh",
         "Jyutping": "bau1 ju4",
-        "Pinyin": "bào yú",
-        "resources": [
-            {
-                "name": "鮑魚",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AE%91%E9%AD%9A"
-            },
-            {
-                "name": "鮑",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AE%91"
-            },
-            {
-                "name": "魚",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-            }
-        ]
+        "Simplified": {
+            "text": "鲍鱼",
+            "refs": [
+                {
+                    "name": "鲍鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D%E9%B1%BC"
+                },
+                {
+                    "name": "鲍",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D"
+                },
+                {
+                    "name": "鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
+                }
+            ]
+        },
+        "Pinyin": "bào yú"
     },
     {
         "Cantonese": "鰻魚",
