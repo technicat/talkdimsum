@@ -14,11 +14,43 @@
         "Pinyin": "xiè"
     },
     {
-        "Cantonese": "龍蝦",
-        "Simplified": "龙虾",
         "English": "lobster",
+        "Cantonese": {
+            "text": "龍蝦",
+            "refs": [
+                {
+                    "name": "龍蝦",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%BE%8D%E8%9D%A6"
+                },
+                {
+                    "name": "龍",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%BE%8D"
+                },
+                {
+                    "name": "蝦",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
+                }
+            ]
+        },
         "Yale": "lùhng hā",
         "Jyutping": "lung4 haa1",
+        "Simplified": {
+            "text": "龙虾",
+            "refs": [
+                {
+                    "name": "龙虾",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%BE%99%E8%99%BE"
+                },
+                {
+                    "name": "龙",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%BE%99"
+                },
+                {
+                    "name": "虾",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%99%BE"
+                }
+            ]
+        },
         "Pinyin": "lóng xiā"
     },
     {
