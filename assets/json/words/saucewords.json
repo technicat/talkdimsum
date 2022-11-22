@@ -56,8 +56,16 @@
         "Pinyin": "tián"
     },
     {
-        "Cantonese": "蜜",
         "English": "honey",
+        "Cantonese": {
+            "text": "蜜",
+            "refs": [
+                {
+                    "name": "蜜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%9C%9C"
+                }
+            ]
+        },
         "Yale": "maht",
         "Jyutping": "mut6",
         "Pinyin": "mì"
