@@ -2,19 +2,6 @@
     "name": "Texas",
     "places": [
         {
-            "title": "Kowloon Chinese Seafood",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/kowloon-chinese-seafood-restaurant-arlington"
-                }
-            ],
-            "lat": 32.707250,
-            "lon": -97.109050,
-            "city": "Arlington",
-            "address": "100 W Pioneer Pkwy, Ste 146, Arlington, TX 76010"
-        },
-        {
             "title": "ABC Seafood Chinese Restaurant",
             "links": [
                 {
@@ -28,28 +15,24 @@
             "address": "2420 E Arkansas Ln, Ste 216, Arlington, TX 76014"
         },
         {
-            "title": "China Spice Seafood Retaurant",
+            "title": "Kowloon Chinese Seafood",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://chinaspice777.com/"
-                },
-                {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/china-spice-seafood-restaurant-austin"
+                    "URL": "https://www.yelp.com/biz/kowloon-chinese-seafood-restaurant-arlington"
                 }
             ],
-            "lat": 30.367220,
-            "lon": -97.695530,
-            "city": "Austin",
-            "address": "9710 N Lamar Blvd Austin, TX 78753"
+            "lat": 32.707250,
+            "lon": -97.109050,
+            "city": "Arlington",
+            "address": "100 W Pioneer Pkwy, Ste 146, Arlington, TX 76010"
         },
         {
             "title": "Chinatown North",
             "links": [
                 {
                     "name": "site",
-                    "URL": "https://www.austinchinatown.com/"
+                    "URL": "https://chinatownrestaurantsaustin.com/north-austin"
                 },
                 {
                     "name": "Yelp",
@@ -66,11 +49,7 @@
             "links": [
                 {
                     "name": "site",
-                    "URL": "https://www.austinchinatown.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/chinatown-westlake-austin-3"
+                    "URL": "https://chinatownrestaurantsaustin.com/west-lake-hills"
                 }
             ],
             "lat": 30.271480,
@@ -331,7 +310,7 @@
             "address": "11215 Bellaire Blvd, Houston, TX 77072"
         },
         {
-            "title": "One Dim Sum",
+            "title": "Taste of Mulan",
             "links": [
                 {
                     "name": "site",
@@ -405,10 +384,6 @@
         {
             "title": "Zhang's Kitchen",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.jschensbbq.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/zhangs-kitchen-plano"
