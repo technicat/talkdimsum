@@ -54,17 +54,27 @@
         "Pinyin": "lóng xiā"
     },
     {
-        "Cantonese": "蝦",
-        "Simplified": "虾",
         "English": "shrimp",
+        "Cantonese": {
+            "text": "蝦",
+            "refs": [
+                {
+                    "name": "蝦",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
+                }
+            ]
+        },
         "Yale": "hā",
         "Jyutping": "haa1",
-        "Pinyin": "xiā",
-        "resources": [
-            {
-                "name": "蝦",
-                "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-            }
-        ]
+        "Simplified":  {
+            "text": "虾",
+            "refs": [
+                {
+                    "name": "虾",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%99%BE"
+                }
+            ]
+        },s
+        "Pinyin": "xiā"
     }
 ]
