@@ -38,23 +38,37 @@
                 }
             ]
         },
-        "Simplified": "滑鸡",
+        "Simplified":  {
+            "text": "滑鸡",
+            "ref": [
+                {
+                    "name": "滑",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
+                },
+                {
+                    "name": "鸡",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1"
+                }
+            ]
+        },
         "Yale": "waaht gāi",
         "Pinyin": "huá jī"
     },
     {
-        "Cantonese": "鴨",
+        "Cantonese": {
+            "text": "鴨",
+            "refs": [
+                {
+                    "name": "鴨",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
+                }
+            ]
+        },
         "Simplified": "鸭",
         "English": "duck",
         "Yale": "aap",
         "Jyutping": "aap3",
-        "Pinyin": "yā",
-        "resources": [
-            {
-                "name": "鴨",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-            }
-        ]
+        "Pinyin": "yā"
     },
     {
         "Cantonese": "鵝",
