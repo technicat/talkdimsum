@@ -2,33 +2,35 @@
     {
         "words": [
             {
-                "Cantonese": "鐵觀音",
+                "Cantonese": {
+                    "text": "鐵觀音",
+                    "refs": [
+                        {
+                            "name": "鐵觀音",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%90%B5%E8%A7%80%E9%9F%B3"
+                        },
+                        {
+                            "name": "鐵",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%90%B5%E8%A7%80%E9%9F%B3"
+                        },
+                        {
+                            "name": "觀音",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%A7%80%E9%9F%B3"
+                        },
+                        {
+                            "name": "觀",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%A7%80"
+                        },
+                        {
+                            "name": "音",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%9F%B3"
+                        }
+                    ]
+                },
                 "Simplified": "铁观音",
                 "English": "iron goddess tea",
                 "Yale": "tit gūn yām",
-                "Pinyin": "tiě guān yīn",
-                "resources": [
-                    {
-                        "name": "鐵觀音",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%90%B5%E8%A7%80%E9%9F%B3"
-                    },
-                    {
-                        "name": "鐵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%90%B5%E8%A7%80%E9%9F%B3"
-                    },
-                    {
-                        "name": "觀音",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A7%80%E9%9F%B3"
-                    },
-                    {
-                        "name": "觀",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A7%80"
-                    },
-                    {
-                        "name": "音",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%B3"
-                    }
-                ]
+                "Pinyin": "tiě guān yīn"
             }
         ],
         "images": [
