@@ -31,30 +31,40 @@
                 }
             ]
         },
-        "Simplified": "葱",
         "Yale": "chūng",
+        "Simplified":  {
+            "text": "葱",
+            "refs": [
+                {
+                    "name": "葱",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%91%B1"
+                }
+            ]
+        },
         "Pinyin": "cōng"
     },
     {
-        "Cantonese": "洋蔥",
+        "Cantonese":  {
+            "text": "洋蔥",
+            "refs": [
+                {
+                    "name": "洋蔥",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B%E8%94%A5"
+                },
+                {
+                    "name": "洋",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B"
+                },
+                {
+                    "name": "蔥",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
+                }
+            ]
+        },
         "Simplified": "洋葱",
         "English": "onion",
         "Yale": "yèuhng chūng",
-        "Pinyin": "yáng cōng",
-        "resources": [
-            {
-                "name": "洋蔥",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B%E8%94%A5"
-            },
-            {
-                "name": "洋",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B"
-            },
-            {
-                "name": "蔥",
-                "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
-            }
-        ]
+        "Pinyin": "yáng cōng"
     },
     {
         "Cantonese": "茄子",
