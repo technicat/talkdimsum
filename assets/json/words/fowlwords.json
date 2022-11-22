@@ -1,28 +1,46 @@
 [
     {
-        "Cantonese": "雞",
-        "Simplified": "鸡",
         "English": "chicken",
+        "Cantonese": {
+            "text": "雞",
+            "ref": [
+                {
+                    "name": "雞",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                }
+            ]
+        },
+        "Simplified": {
+            "text": "鸡",
+            "ref": [
+                {
+                    "name": "鸡",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1"
+                }
+            ]
+        },
         "Yale": "gāi",
         "Jyutping": "gai1",
         "Pinyin": "jī"
     },
     {
-        "Cantonese": "滑雞",
-        "Simplified": "滑鸡",
         "English": "slippery chicken",
+        "Cantonese": {
+            "text": "滑雞",
+            "ref": [
+                {
+                    "name": "滑",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
+                },
+                {
+                    "name": "雞",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                }
+            ]
+        },
+        "Simplified": "滑鸡",
         "Yale": "waaht gāi",
-        "Pinyin": "huá jī",
-        "resources": [
-            {
-                "name": "滑",
-                "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
-            },
-            {
-                "name": "雞",
-                "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-            }
-        ]
+        "Pinyin": "huá jī"
     },
     {
         "Cantonese": "鴨",
