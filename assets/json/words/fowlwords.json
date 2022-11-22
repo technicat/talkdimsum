@@ -3,7 +3,7 @@
         "English": "chicken",
         "Cantonese": {
             "text": "雞",
-            "ref": [
+            "refs": [
                 {
                     "name": "雞",
                     "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
@@ -12,7 +12,7 @@
         },
         "Simplified": {
             "text": "鸡",
-            "ref": [
+            "refs": [
                 {
                     "name": "鸡",
                     "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1"
@@ -27,7 +27,7 @@
         "English": "slippery chicken",
         "Cantonese": {
             "text": "滑雞",
-            "ref": [
+            "refs": [
                 {
                     "name": "滑",
                     "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
@@ -40,7 +40,7 @@
         },
         "Simplified":  {
             "text": "滑鸡",
-            "ref": [
+            "refs": [
                 {
                     "name": "滑",
                     "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
@@ -102,25 +102,43 @@
         "Pinyin": "é"
     },
     {
-        "Cantonese": "鵪鶉",
-        "Simplified": "鹌鹑",
         "English": "quail",
+        "Cantonese":  {
+            "text": "鵪鶉",
+            "refs": [
+                {
+                    "name": "鵪鶉",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA%E9%B6%89"
+                },
+                {
+                    "name": "鵪",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA"
+                },
+                {
+                    "name": "鶉",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B6%89"
+                }
+            ]
+        },
         "Yale": "ām chēun",
         "Jyutping": "am1 ceon1",
-        "Pinyin": "ān chún",
-        "resources": [
-            {
-                "name": "鵪",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA"
-            },
-            {
-                "name": "鶉",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B6%89"
-            },
-            {
-                "name": "鵪鶉",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA%E9%B6%89"
-            }
-        ]
+        "Simplified": {
+            "text": "鹌鹑",
+            "refs": [
+                {
+                    "name": "鹌鹑",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%8C%E9%B9%91"
+                },
+                {
+                    "name": "鹌",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%8C"
+                },
+                {
+                    "name": "鹑",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%91"
+                }
+            ]
+        },
+        "Pinyin": "ān chún"
     }
 ]
