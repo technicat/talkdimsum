@@ -177,25 +177,43 @@
         "Pinyin": "luó bo"
     },
     {
-        "Cantonese": "冬筍",
-        "Simplified": "冬笋",
         "English": "winter bamboo shoots",
+        "Cantonese":  {
+            "text": "冬筍",
+            "refs": [
+                {
+                    "name": "冬筍",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%AD%8D"
+                },
+                {
+                    "name": "冬",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
+                },
+                {
+                    "name": "筍",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%AD%8D"
+                }
+            ]
+        },
+        "Simplified":  {
+            "text": "冬笋",
+            "refs": [
+                {
+                    "name": "冬笋",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%AC%8B"
+                },
+                {
+                    "name": "冬",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
+                },
+                {
+                    "name": "笋",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%AC%8B"
+                }
+            ]
+        },
         "Yale": "dūng séun",
-        "Pinyin": "dōng sǔn",
-        "resources": [
-            {
-                "name": "冬筍",
-                "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%AD%8D"
-            },
-            {
-                "name": "冬",
-                "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-            },
-            {
-                "name": "筍",
-                "URL": "https://en.wiktionary.org/wiki/%E7%AD%8D"
-            }
-        ]
+        "Pinyin": "dōng sǔn"
     },
     {
         "Cantonese": "薯",
