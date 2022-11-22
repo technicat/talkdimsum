@@ -1,15 +1,17 @@
 [
     {
-        "Cantonese": "蟹",
         "English": "crab",
+        "Cantonese": {
+            "text": "蟹",
+            "refs": [
+                {
+                    "name": "蟹",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%9F%B9"
+                }
+            ]
+        },
         "Yale": "háaih",
-        "Pinyin": "xiè",
-        "resources": [
-            {
-                "name": "蟹",
-                "URL": "https://en.wiktionary.org/wiki/%E8%9F%B9"
-            }
-        ]
+        "Pinyin": "xiè"
     },
     {
         "Cantonese": "龍蝦",
