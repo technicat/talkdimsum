@@ -105,6 +105,7 @@
         "Pinyin": "qié zi"
     },
     {
+        "English": "sesame seed",
         "Cantonese": {
             "text": "芝麻",
             "refs": [
@@ -122,7 +123,6 @@
                 }
             ]
         },
-        "English": "sesame seed",
         "Yale": "jī màh",
         "Pinyin": "zhī má"
     },
@@ -202,9 +202,41 @@
         "Pinyin": "yù tou"
     },
     {
-        "Cantonese": "蘿蔔",
-        "Simplified": "萝卜",
         "English": "daikon",
+        "Cantonese": {
+            "text": "蘿蔔",
+            "refs": [
+                {
+                    "name": "蘿蔔",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
+                },
+                {
+                    "name": "蘿",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
+                },
+                {
+                    "name": "蔔",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
+                }
+            ]
+        },
+        "Simplified": {
+            "text": "萝卜",
+            "refs": [
+                {
+                    "name": "萝卜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%90%9D%E5%8D%9C"
+                },
+                {
+                    "name": "萝",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%90%9D"
+                },
+                {
+                    "name": "卜",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%9C"
+                }
+            ]
+        },
         "Yale": "lò baahk",
         "Pinyin": "luó bo"
     },
