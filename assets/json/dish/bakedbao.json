@@ -2,30 +2,32 @@
     {
         "words": [
             {
-                "Cantonese": "雞尾包",
+                "Cantonese": {
+                    "name": "雞尾包",
+                    "refs": [
+                        {
+                            "name": "雞尾",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E5%B0%BE"
+                        },
+                        {
+                            "name": "雞",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                        },
+                        {
+                            "name": "尾",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%B0%BE"
+                        },
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        }
+                    ]
+                },
                 "Simplified": "鸡尾包",
                 "English": "cocktail bun",
                 "Yale": "gāi méih bāau",
                 "Jyutping": "gai1 méi5 bao1",
                 "Pinyin": "jī wěi bāo",
-                "resources": [
-                    {
-                        "name": "雞尾",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E5%B0%BE"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "尾",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B0%BE"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
             }
         ],
         "images": [
