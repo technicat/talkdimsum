@@ -14,9 +14,9 @@
         "Pinyin": "zhú"
     },
     {
+        "English": "broccoli",
         "Cantonese": "西蘭花",
         "Simplified": "西兰花",
-        "English": "broccoli",
         "Yale": "sāi làahn fā",
         "Pinyin": "xī lán huā"
     },
@@ -62,7 +62,23 @@
                 }
             ]
         },
-        "Simplified": "洋葱",
+        "Simplified": {
+            "text": "洋葱",
+            "refs": [
+                {
+                    "name": "洋葱",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B%E8%91%B1"
+                },
+                {
+                    "name": "洋",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B"
+                },
+                {
+                    "name": "葱",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%91%B1"
+                }
+            ]
+        },
         "Yale": "yèuhng chūng",
         "Pinyin": "yáng cōng"
     },
