@@ -127,11 +127,60 @@
         "Pinyin": "zhī má"
     },
     {
-        "Cantonese": "馬蹄",
-        "Simplified": "马蹄",
         "English": "water chestnut",
+        "Cantonese": {
+            "text": "馬蹄",
+            "refs": [
+                {
+                    "name": "馬蹄",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC%E8%B9%84"
+                },
+                {
+                    "name": "馬",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC"
+                },
+                {
+                    "name": "蹄",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%B9%84"
+                }
+            ]
+        },
         "Yale": "máh tái",
-        "Pinyin": "mǎ tí"
+        "Mandarin": {
+            "text": "荸薺",
+            "refs": [
+                {
+                    "name": "荸薺",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8%E8%96%BA"
+                },
+                {
+                    "name": "荸",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8"
+                },
+                {
+                    "name": "薺",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%96%BA"
+                }
+            ]
+        },
+        "Simplified":  {
+            "text": "荸荠",
+            "refs": [
+                {
+                    "name": "荸荠",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8%E8%8D%A0"
+                },
+                {
+                    "name": "荸",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8"
+                },
+                {
+                    "name": "荠",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%A0"
+                }
+            ]
+        },
+        "Pinyin": "bí qí"
     },
     {
         "English": "almond",
