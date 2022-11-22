@@ -266,6 +266,10 @@
             "title": "HK Dim Sum",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://hkdimsum.kwickmenu.com/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hk-dim-sum-houston-2"
                 }
@@ -384,6 +388,10 @@
         {
             "title": "Zhang's Kitchen",
             "links": [
+                {
+                    "name": "site",
+                    "URL": "https://zhangskitchentexas.com/"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/zhangs-kitchen-plano"
