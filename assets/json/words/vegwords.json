@@ -1,15 +1,17 @@
 [
     {
-        "Cantonese": "竹",
         "English": "bamboo",
+        "Cantonese": {
+            "text": "竹",
+            "resources": [
+                {
+                    "name": "竹",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%AB%B9"
+                }
+            ]
+        },
         "Yale": "jūk",
-        "Pinyin": "zhú",
-        "resources": [
-            {
-                "name": "竹",
-                "URL": "https://en.wiktionary.org/wiki/%E7%AB%B9"
-            }
-        ]
+        "Pinyin": "zhú"
     },
     {
         "Cantonese": "西蘭花",
