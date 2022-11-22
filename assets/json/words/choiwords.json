@@ -1,5 +1,6 @@
 [
     {
+        "English": "vegetable",
         "Cantonese": {
             "text": "菜",
             "refs": [
@@ -9,12 +10,12 @@
                 }
             ]
         },
-        "English": "vegetable",
         "Yale": "choi",
         "Jyutping": "coi3",
         "Pinyin": "cài"
     },
     {
+        "English": "mustard greens",
         "Cantonese": {
             "text": "冬菜",
             "refs": [
@@ -32,11 +33,11 @@
                 }
             ]
         },
-        "English": "mustard greens",
         "Yale": "dūng choi",
         "Pinyin": "dōng cài"
     },
     {
+        "English": "chives",
         "Cantonese": {
             "text": "韭菜",
             "refs": [
@@ -54,12 +55,12 @@
                 }
             ]
         },
-        "English": "chives",
         "Yale": "gáu choi",
         "Jyutping": "zyu2 coi3",
         "Pinyin": "jiǔ cài"
     },
     {
+        "English": "lettuce",
         "Cantonese": {
             "text": "生菜",
             "refs": [
@@ -77,12 +78,12 @@
                 }
             ]
         },
-        "English": "lettuce",
         "Yale": "sāang choi",
         "Jyutping": "saang1 coi3",
         "Pinyin": "shēng cài"
     },
     {
+        "English": "ong choy",
         "Cantonese": {
             "text": "蕹菜",
             "refs": [
@@ -100,12 +101,12 @@
                 }
             ]
         },
-        "English": "ong choy",
         "Yale": "ung choi",
         "Jyutping": "ung3 coi3",
         "Pinyin": "wèng cài"
     },
     {
+        "English": "spinach",
         "Cantonese": {
             "text": "菠菜",
             "refs": [
@@ -123,7 +124,6 @@
                 }
             ]
         },
-        "English": "spinach",
         "Yale": "bō choi",
         "Jyutping": "bo1 coi3",
         "Pinyin": "bō cài"
