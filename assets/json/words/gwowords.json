@@ -1,7 +1,23 @@
 [
     {
-        "Cantonese": "水果",
         "English": "fruit",
+        "Cantonese": {
+            "text": "水果",
+            "refs": [
+                {
+                    "name": "水果",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4%E6%9E%9C"
+                },
+                {
+                    "name": "水",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
+                },
+                {
+                    "name": "果",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+                }
+            ]
+        },
         "Yale": "séui gwó",
         "Jyutping": "seoi2 gwo2",
         "Pinyin": "shuǐ guǒ"
