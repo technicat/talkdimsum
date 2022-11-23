@@ -2,26 +2,19 @@
     {
         "words": [
             {
-                "Cantonese": "紅茶",
+                "Cantonese": {
+                    "text": "紅茶",
+                    "wkty": [
+                        "紅茶",
+                        "紅",
+                        "茶"
+                    ]
+                },
                 "Simplified": "红茶",
                 "English": "black tea",
                 "Yale": "hùhng chàh",
                 "Jyutping": "hung4 caa4",
-                "Pinyin": "hóng chá",
-                "resources": [
-                    {
-                        "name": "紅茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E8%8C%B6"
-                    },
-                    {
-                        "name": "紅",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "hóng chá"
             }
         ],
         "images": [
@@ -62,26 +55,19 @@
     {
         "words": [
             {
-                "Cantonese": "金猴茶",
+                "Cantonese": {
+                    "text": "金猴茶",
+                    "wkty": [
+                        "金",
+                        "猴",
+                        "茶"
+                    ]
+                },
                 "Simplified": "金猴茶",
                 "English": "golden monkey tea",
                 "Yale": "gām hàuh chàh",
                 "Jyutping": "gam1 hau4 caa4",
-                "Pinyin": "jīn hóuchá",
-                "resources": [
-                    {
-                        "name": "金",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%87%91"
-                    },
-                    {
-                        "name": "猴",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%8C%B4"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "jīn hóuchá"
             }
         ],
         "images": [
@@ -114,38 +100,22 @@
     {
         "words": [
             {
-                "Cantonese": "祁門紅茶",
+                "Cantonese": {
+                    "text": "祁門紅茶",
+                    "wkty": [
+                        "祁門",
+                        "祁",
+                        "門",
+                        "紅茶",
+                        "紅",
+                        "茶"
+                    ]
+                },
                 "Simplified": "祁门红茶",
                 "English": "keemun black tea",
                 "Yale": "kèih mùhn hùhng chàh",
                 "Jyutping": "kei4 mun4 hung4 caa4",
-                "Pinyin": "qí mén hóng chá",
-                "resources": [
-                    {
-                        "name": "祁門",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%A5%81%E9%96%80"
-                    },
-                    {
-                        "name": "祁",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%A5%81"
-                    },
-                    {
-                        "name": "門",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%96%80"
-                    },
-                    {
-                        "name": "紅茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E8%8C%B6"
-                    },
-                    {
-                        "name": "紅",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "qí mén hóng chá"
             }
         ],
         "images": [
@@ -179,46 +149,24 @@
     {
         "words": [
             {
-                "Cantonese": "立山小種",
+                "Cantonese": {
+                    "text": "立山小種",
+                    "wkty": [
+                        "立山小種",
+                        "立山",
+                        "立",
+                        "山",
+                        "小種",
+                        "小",
+                        "種",
+                        "茶"
+                    ]
+                },
                 "Simplified": "立山小种",
                 "English": "lapsang souchang",
                 "Yale": "laahp sāan síu júng",
                 "Jyutping": "laap6 saan1 siu2 zung2",
                 "Pinyin": "lì shān xiǎo zhǒng",
-                "resources": [
-                    {
-                        "name": "立山小種",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%AB%8B%E5%B1%B1%E5%B0%8F%E7%A8%AE"
-                    },
-                    {
-                        "name": "立山",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%AB%8B%E5%B1%B1"
-                    },
-                    {
-                        "name": "立",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%AB%8B"
-                    },
-                    {
-                        "name": "山",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B1%B1"
-                    },
-                    {
-                        "name": "小種",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F%E7%A8%AE"
-                    },
-                    {
-                        "name": "小",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F"
-                    },
-                    {
-                        "name": "種",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%A8%AE"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
             }
         ],
         "images": [
