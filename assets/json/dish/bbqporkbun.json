@@ -111,33 +111,35 @@
     {
         "words": [
             {
-                "Cantonese": "焗叉燒包",
+                "Cantonese": {
+                    "text": "焗叉燒包",
+                    "refs": [
+                        {
+                            "name": "焗",
+                            "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
+                        },
+                        {
+                            "name": "叉燒包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
+                        },
+                        {
+                            "name": "叉燒",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
+                        },
+                        {
+                            "name": "叉",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
+                        },
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        }
+                    ]
+                },
                 "Simplified": "焗叉烧包",
                 "English": "baked BBQ pork bun",
                 "Yale": "guhk chā sīu bāau",
-                "Pinyin": "jú chā shāo bāo",
-                "resources": [
-                    {
-                        "name": "焗",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
-                    },
-                    {
-                        "name": "叉燒包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
-                    },
-                    {
-                        "name": "叉燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                    },
-                    {
-                        "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "jú chā shāo bāo"
             }
         ],
         "images": [
@@ -146,9 +148,10 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "A baked version of the BBQ pork bun, with the same filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and glazed on top.\n\n**Characters**\n\n[焗](https://en.wiktionary.org/wiki/%E7%84%97) is *baked*, and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao).",
+        "description": "A baked version of the BBQ pork bun, with the same filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and typically glazed on top with honey.\n\n**Characters**\n\n[焗](https://en.wiktionary.org/wiki/%E7%84%97) is *baked*, and [叉燒包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85) is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao).\n\nAlso known in Chinese as [叉燒餐包](https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E9%A4%90%E5%8C%85) (chā sīu chāan bāau in Cantonese, chā shāo cān bāo in Mandarin), where 餐包 is a western-style dinner roll, literally *dinner bao*, so it's *bbq pork dinner roll*.",
         "tags": [
             "粵菜",
+            "焗叉燒包",
             "叉燒包",
             "豬",
             "豬肉",
@@ -235,6 +238,7 @@
             "粵菜",
             "酥",
             "新菜",
+            "焗叉燒包",
             "叉燒包",
             "豬",
             "豬肉",
