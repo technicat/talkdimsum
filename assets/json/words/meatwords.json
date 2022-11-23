@@ -1,14 +1,14 @@
 [
     {
         "English": "ball",
-        "Cantonese":"球",
+        "Cantonese": "球",
         "Yale": "kàuh",
         "Jyutping": "kau4",
         "Pinyin": "qiú"
     },
     {
         "English": "meat",
-        "Cantonese":"肉",
+        "Cantonese": "肉",
         "Yale": "yuhk",
         "Jyutping": "juk6",
         "Pinyin": "ròu"
@@ -24,19 +24,10 @@
         "English": "beef",
         "Cantonese": {
             "text": "牛肉",
-            "refs": [
-                {
-                    "name": "牛肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-                },
-                {
-                    "name": "牛",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                },
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                }
+            "wkty": [
+                "牛肉",
+                "牛",
+                "肉"
             ]
         },
         "Yale": "ngàuh yuhk",
@@ -46,19 +37,10 @@
     {
         "Cantonese": {
             "text": "牛腩",
-            "refs": [
-                {
-                    "name": "牛腩",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%A9"
-                },
-                {
-                    "name": "牛",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                },
-                {
-                    "name": "腩",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%85%A9"
-                }
+            "wkty": [
+                "牛腩",
+                "牛",
+                "腩"
             ]
         },
         "Simplified": "牛腩",
@@ -68,67 +50,37 @@
     },
     {
         "English": "imitation meat",
-        "Cantonese": {
-            "text": "仿肉",
-            "refs": [
-                {
-                    "name": "仿",
-                    "URL": "https://en.wiktionary.org/wiki/%E4%BB%BF"
-                },
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                }
-            ]
-        },
+        "Cantonese": "仿肉",
         "Yale": "fóng yuhk",
         "Jyutping": "fong2 juk6",
         "Pinyin": "ǎng ròu"
     },
     {
         "English": "pig",
-        "Cantonese":"豬",
+        "Cantonese": "豬",
         "Yale": "jyū",
         "Jyutping": "zyu1",
-        "Simplified":"猪",
+        "Simplified": "猪",
         "Pinyin": "zhū"
     },
     {
         "English": "pork",
         "Cantonese": {
             "text": "豬肉",
-            "refs": [
-                {
-                    "name": "豬肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC%E8%82%89"
-                },
-                {
-                    "name": "豬",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-                },
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                }
+            "wkty": [
+                "豬肉",
+                "豬",
+                "肉"
             ]
         },
         "Yale": "jyú yuhk",
         "Jyutping": "zyu1 juk6",
         "Simplified": {
             "text": "猪肉",
-            "refs": [
-                {
-                    "name": "猪肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%8C%AA%E8%82%89"
-                },
-                {
-                    "name": "豬",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%8C%AA"
-                },
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                }
+            "wkty": [
+                "猪肉",
+                "豬",
+                "肉"
             ]
         },
         "Pinyin": "zhū ròu"
@@ -137,27 +89,12 @@
         "English": "spam",
         "Cantonese": {
             "text": "午餐肉",
-            "refs": [
-                {
-                    "name": "午餐肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90%E8%82%89"
-                },
-                {
-                    "name": "午餐",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90"
-                },
-                {
-                    "name": "午",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%88"
-                },
-                {
-                    "name": "餐",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
-                },
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                }
+            "wkty": [
+                "午餐肉",
+                "午餐",
+                "午",
+                "餐",
+                "肉"
             ]
         },
         "Yale": "ńgh chāan yuhk",
@@ -166,7 +103,7 @@
     },
     {
         "English": "goat/sheep",
-        "Cantonese":  "羊",
+        "Cantonese": "羊",
         "Yale": "yèuhng",
         "Jyutping": "yeong4",
         "Pinyin": "yáng"
