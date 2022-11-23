@@ -23,28 +23,18 @@
   {
     "words": [
       {
-        "Cantonese": "芋角",
+        "Cantonese": {
+          "text": "芋角",
+          "wkty": [
+            "芋角",
+            "芋頭",
+            "芋",
+            "角"
+          ]
+        },
         "English": "taro dumpling",
         "Yale": "wuh gok",
-        "Pinyin": "yù jiǎo",
-        "resources": [
-          {
-            "name": "芋角",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E8%A7%92"
-          },
-          {
-            "name": "芋頭",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-          },
-          {
-            "name": "芋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-          },
-          {
-            "name": "角",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A7%92"
-          }
-        ]
+        "Pinyin": "yù jiǎo"
       }
     ],
     "images": [
