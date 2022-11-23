@@ -2,33 +2,35 @@
     {
         "words": [
             {
-                "Cantonese": "叉燒包",
+                "Cantonese": {
+                    "text": "叉燒包",
+                    "refs": [
+                        {
+                            "name": "叉燒包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
+                        },
+                        {
+                            "name": "叉燒",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
+                        },
+                        {
+                            "name": "叉",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
+                        },
+                        {
+                            "name": "燒",
+                            "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
+                        },
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        }
+                    ]
+                },
                 "Simplified": "叉烧包",
                 "English": "BBQ pork bun",
                 "Yale": "chā sīu bāau",
-                "Pinyin": "chā shāo bāo",
-                "resources": [
-                    {
-                        "name": "叉燒包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
-                    },
-                    {
-                        "name": "叉燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                    },
-                    {
-                        "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "chā shāo bāo"
             }
         ],
         "images": [
