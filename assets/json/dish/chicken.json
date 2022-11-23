@@ -222,38 +222,68 @@
     {
         "words": [
             {
-                "Cantonese": "腰果雞丁",
-                "Simplified": "腰果鸡丁",
                 "English": "cashew chicken",
+                "Cantonese": {
+                    "text": "腰果雞丁",
+                    "refs": [
+                        {
+                            "name": "腰果",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%85%B0%E6%9E%9C"
+                        },
+                        {
+                            "name": "腰",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%85%B0"
+                        },
+                        {
+                            "name": "果",
+                            "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+                        },
+                        {
+                            "name": "雞丁",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E4%B8%81"
+                        },
+                        {
+                            "name": "雞",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                        },
+                        {
+                            "name": "丁",
+                            "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
+                        }
+                    ]
+                },
                 "Yale": "yīu gwó gāi dīng",
                 "Jyutping": "jiu1 gwo2 gai1 ding1",
-                "Pinyin": "yāo guǒ jī dīng",
-                "resources": [
-                    {
-                        "name": "腰果",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B0%E6%9E%9C"
-                    },
-                    {
-                        "name": "腰",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B0"
-                    },
-                    {
-                        "name": "果",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                    },
-                    {
-                        "name": "雞丁",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E4%B8%81"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "丁",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
-                    }
-                ]
+                "Simplified": {
+                    "text": "腰果鸡丁",
+                    "refs": [
+                        {
+                            "name": "腰果",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%85%B0%E6%9E%9C"
+                        },
+                        {
+                            "name": "腰",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%85%B0"
+                        },
+                        {
+                            "name": "果",
+                            "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+                        },
+                        {
+                            "name": "雞丁",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E4%B8%81"
+                        },
+                        {
+                            "name": "雞",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                        },
+                        {
+                            "name": "丁",
+                            "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
+                        }
+                    ]
+                },
+                "Pinyin": "yāo guǒ jī dīng"
             }
         ],
         "images": [

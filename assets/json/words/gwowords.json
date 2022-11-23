@@ -63,9 +63,24 @@
         "Pinyin": "píng guǒ"
     },
     {
-        "Cantonese": "腰果",
-        "Simplified": "腰果",
         "English": "cashew",
+        "Cantonese": {
+            "text": "腰果",
+            "refs": [
+                {
+                    "name": "腰果",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%85%B0%E6%9E%9C"
+                },
+                {
+                    "name": "腰",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%85%B0"
+                },
+                {
+                    "name": "果",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+                }
+            ]
+        },
         "Yale": "yīu gwó",
         "Jyutping": "jiu1 gwo2",
         "Pinyin": "yāo guǒ"
