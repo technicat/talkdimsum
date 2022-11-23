@@ -3,7 +3,10 @@
         "English": "snack",
         "Cantonese": {
             "text": "小食",
-            "wkty": [ "小食","小","食"
+            "wkty": [
+                "小食",
+                "小",
+                "食"
             ]
         },
         "Yale": "síu sihk",
@@ -14,14 +17,20 @@
         "English": "pudding",
         "Cantonese": {
             "text": "布甸",
-            "wkty": [ "布甸", "布","甸"
+            "wkty": [
+                "布甸",
+                "布",
+                "甸"
             ]
         },
         "Yale": "bou dīn",
         "Jyutping": "bou3 din1",
         "Mandarin": {
             "text": "布丁",
-            "wkty": [ "布丁","布","丁"
+            "wkty": [
+                "布丁",
+                "布",
+                "丁"
             ]
         },
         "Pinyin": "bù dīng"
@@ -38,20 +47,26 @@
         "Cantonese": "餅",
         "Yale": "béng",
         "Jyutping": "beng2",
-        "Simplified":  "饼",
+        "Simplified": "饼",
         "Pinyin": "bǐng"
     },
     {
         "English": "meat patty",
         "Cantonese": {
             "text": "肉餅",
-            "wkty": [ "肉餅","肉","餅"
+            "wkty": [
+                "肉餅",
+                "肉",
+                "餅"
             ]
         },
         "Yale": "yuhk béng",
         "Simplified": {
             "text": "肉饼",
-            "wkty": [ "肉饼","肉","饼"
+            "wkty": [
+                "肉饼",
+                "肉",
+                "饼"
             ]
         },
         "Pinyin": "ròu bǐng"
@@ -61,7 +76,7 @@
         "Cantonese": "撻",
         "Yale": "taat",
         "Jyutping": "taat3",
-        "Simplified":  "挞",
+        "Simplified": "挞",
         "Pinyin": "tà"
     }
 ]
