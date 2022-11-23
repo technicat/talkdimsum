@@ -1,52 +1,45 @@
 [
-    {
-        "words": [
-            {
-                "Cantonese": "水",
-                "English": "water",
-                "Yale": "séui",
-                "Pinyin": "shuǐ"
-            }
-        ],
-        "images": [
-            {
-                "image": "watersweethoneydessert",
-                "place": "Sweet Honey Dessert, Las Vegas, Nevada"
-            }
-        ],
-        "description": "**Characters**\n\nThe glyph origins of [水](https://en.wiktionary.org/wiki/%E6%B0%B4) resemble a flowing stream. [氵](https://en.wiktionary.org/wiki/%E6%B0%B5) is the left radical form of this character, so if you see a character with that on the left, chances are it has something to do with water or liquid, e.g. [酒](https://en.wiktionary.org/wiki/%E9%85%92) *liquor*, [油](https://en.wiktionary.org/wiki/油) *oil* (the edible kind) or *sauce*, [海](https://en.wiktionary.org/wiki/%E6%B5%B7) *ocean*, and [清](https://en.wiktionary.org/wiki/%E6%B8%85) *soup*.\n\n**Ordering**\n\n[杯](https://en.wiktionary.org/wiki/%E6%9D%AF) is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and [一](https://en.wiktionary.org/wiki/%E4%B8%80) means *one*, so to order a glass of water, ask for 一杯水 (yāt būi séui in Cantonese, yī bēi shuǐ in Mandarin), *one cup of water*.",
-        "tags": [
-            "水",
-            "飲品"
-        ],
-        "resources": [
-          {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Water"
-          }
-        ]
-    },
   {
     "words": [
       {
-        "Cantonese": "冰水",
+        "Cantonese": "水",
+        "English": "water",
+        "Yale": "séui",
+        "Pinyin": "shuǐ"
+      }
+    ],
+    "images": [
+      {
+        "image": "watersweethoneydessert",
+        "place": "Sweet Honey Dessert, Las Vegas, Nevada"
+      }
+    ],
+    "description": "**Characters**\n\nThe glyph origins of [水](https://en.wiktionary.org/wiki/%E6%B0%B4) resemble a flowing stream. [氵](https://en.wiktionary.org/wiki/%E6%B0%B5) is the left radical form of this character, so if you see a character with that on the left, chances are it has something to do with water or liquid, e.g. [酒](https://en.wiktionary.org/wiki/%E9%85%92) *liquor*, [油](https://en.wiktionary.org/wiki/油) *oil* (the edible kind) or *sauce*, [海](https://en.wiktionary.org/wiki/%E6%B5%B7) *ocean*, and [清](https://en.wiktionary.org/wiki/%E6%B8%85) *soup*.\n\n**Ordering**\n\n[杯](https://en.wiktionary.org/wiki/%E6%9D%AF) is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and [一](https://en.wiktionary.org/wiki/%E4%B8%80) means *one*, so to order a glass of water, ask for 一杯水 (yāt būi séui in Cantonese, yī bēi shuǐ in Mandarin), *one cup of water*.",
+    "tags": [
+      "水",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Water"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Cantonese": {
+          "text": "冰水",
+          "wkty": [
+            "冰水",
+            "冰",
+            "水"
+          ]
+        },
         "English": "ice water",
         "Yale": "bīng séui",
-        "Pinyin": "bīng shuǐ",
-        "resources": [
-          {
-            "name": "冰水",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B0%E6%B0%B4"
-          },
-          {
-            "name": "冰",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B0"
-          },
-          {
-            "name": "水",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-          }
-        ]
+        "Pinyin": "bīng shuǐ"
       }
     ],
     "images": [
