@@ -59,33 +59,20 @@
     {
         "words": [
             {
-                "Cantonese": "腸仔包",
+                "Cantonese": {
+                    "text": "腸仔包",
+                    "wkty": [
+                        "腸仔包",
+                        "腸仔",
+                        "腸",
+                        "仔",
+                        "包"
+                    ]
+                },
                 "Simplified": "肠仔包",
                 "English": "Chinese hot dog bun",
                 "Yale": "chéung jái bāau",
-                "Pinyin": "cháng zǐ bāo",
-                "resources": [
-                    {
-                        "name": "腸仔包",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E4%BB%94%E5%8C%85"
-                    },
-                    {
-                        "name": "腸仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E4%BB%94"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "cháng zǐ bāo"
             }
         ],
         "images": [
@@ -130,28 +117,14 @@
     {
         "words": [
             {
-                "Cantonese": "雪山包",
+                "Cantonese": {
+                    "text": "雪山包",
+                    "wkty": [ "雪山","雪","山", "包"
+                    ]
+                },
                 "English": "snow mountain bun",
                 "Yale": "syut sāan bāau",
-                "Pinyin": "xuě shān bāo",
-                "resources": [
-                    {
-                        "name": "雪山",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%AA%E5%B1%B1"
-                    },
-                    {
-                        "name": "雪",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%AA"
-                    },
-                    {
-                        "name": "山",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B1%B1"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "xuě shān bāo"
             }
         ],
         "images": [
