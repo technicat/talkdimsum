@@ -108,29 +108,51 @@
         "words": [
             {
                 "English": "taro bun",
-                "Cantonese": "芋頭包",
-                "Mandarin": "芋头包",
+                "Cantonese": {
+                    "text": "芋頭包",
+                    "refs": [
+                        {
+                            "name": "芋頭",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
+                        },
+                        {
+                            "name": "芋",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
+                        },
+                        {
+                            "name": "頭",
+                            "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
+                        },
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        }
+                    ]
+                },
                 "Yale": "wuh táu bāau",
                 "Jyutping": "wu6 tau2 baau1",
-                "Pinyin": "yù tou bāo",
-                "resources": [
-                    {
-                        "name": "芋頭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-                    },
-                    {
-                        "name": "芋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-                    },
-                    {
-                        "name": "頭",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "芋头包",
+                    "refs": [
+                        {
+                            "name": "芋头",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E5%A4%B4"
+                        },
+                        {
+                            "name": "芋",
+                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
+                        },
+                        {
+                            "name": "头",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%A4%B4"
+                        },
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        }
+                    ]
+                },
+                "Pinyin": "yù tou bāo"
             }
         ],
         "images": [
@@ -437,7 +459,6 @@
                 "name": "Woon Heng",
                 "URL": "https://woonheng.com/vegan-rou-jia-mo-chinese-hamburger/"
             }
-           
         ]
     }
 ]
