@@ -1,7 +1,7 @@
 [
     {
         "English": "egg",
-        "Cantonese":"蛋",
+        "Cantonese": "蛋",
         "Yale": "dáan",
         "Jyutping": "daan2",
         "Pinyin": "dàn"
@@ -10,8 +10,10 @@
         "English": "egg white",
         "Cantonese": {
             "text": "蛋白",
-            "wkty": ["蛋白","蛋","白"
-                    
+            "wkty": [
+                "蛋白",
+                "蛋",
+                "白"
             ]
         },
         "Yale": "dáan baahk",
@@ -22,7 +24,10 @@
         "English": "fried egg",
         "Cantonese": {
             "text": "煎蛋",
-            "wkty": [ "煎蛋", "煎", "蛋"
+            "wkty": [
+                "煎蛋",
+                "煎",
+                "蛋"
             ]
         },
         "Yale": "jīn dáan",
@@ -33,7 +38,10 @@
         "English": "lava custard",
         "Cantonese": {
             "text": "流沙",
-            "wkty": [ "流沙", "流", "沙"
+            "wkty": [
+                "流沙",
+                "流",
+                "沙"
             ]
         },
         "Yale": "làu sā",
