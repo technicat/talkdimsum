@@ -23,11 +23,43 @@
         "Pinyin": "shuǐ guǒ"
     },
     {
-        "Cantonese": "蘋果",
-        "Simplified": "苹果",
         "English": "apple",
+        "Cantonese": {
+            "text": "蘋果",
+            "refs": [
+                {
+                    "name": "蘋果",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C"
+                },
+                {
+                    "name": "蘋",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%98%8B"
+                },
+                {
+                    "name": "果",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+                }
+            ]
+        },
         "Yale": "pìhng gwó",
         "Jyutping": "ping4 gwo2",
+        "Simplified": {
+            "text": "苹果",
+            "refs": [
+                {
+                    "name": "苹果",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9%E6%9E%9C"
+                },
+                {
+                    "name": "苹",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9"
+                },
+                {
+                    "name": "果",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+                }
+            ]
+        },
         "Pinyin": "píng guǒ"
     },
     {
