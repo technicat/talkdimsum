@@ -1,7 +1,7 @@
 [
     {
         "English": "abalone",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "鮑魚",
             "refs": [
                 {
@@ -61,11 +61,35 @@
         ]
     },
     {
-        "Cantonese": "魚",
-        "Simplified": "鱼",
         "English": "fish",
+        "Cantonese": {
+            "text": "魚",
+            "refs": [
+                {
+                    "name": "魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+                }
+            ]
+        },
         "Yale": "yú",
         "Jyutping": "ju2",
+        "Simplified": {
+            "text": "鱼",
+            "refs": [
+                {
+                    "name": "鲍鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D%E9%B1%BC"
+                },
+                {
+                    "name": "鲍",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D"
+                },
+                {
+                    "name": "鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
+                }
+            ]
+        },
         "Pinyin": "yú"
     },
     {
