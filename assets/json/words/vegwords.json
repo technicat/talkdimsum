@@ -23,36 +23,18 @@
         "English": "onion",
         "Cantonese": {
             "text": "洋蔥",
-            "refs": [
-                {
-                    "name": "洋蔥",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B%E8%94%A5"
-                },
-                {
-                    "name": "洋",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B"
-                },
-                {
-                    "name": "蔥",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
-                }
+            "wkty": [
+                "洋蔥",
+                "洋",
+                "蔥"
             ]
         },
         "Simplified": {
             "text": "洋葱",
-            "refs": [
-                {
-                    "name": "洋葱",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B%E8%91%B1"
-                },
-                {
-                    "name": "洋",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B4%8B"
-                },
-                {
-                    "name": "葱",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%91%B1"
-                }
+            "wkty": [
+                "洋葱",
+                "洋",
+                "葱"
             ]
         },
         "Yale": "yèuhng chūng",
@@ -62,19 +44,10 @@
         "English": "eggplant",
         "Cantonese": {
             "text": "茄子",
-            "refs": [
-                {
-                    "name": "茄子",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8C%84%E5%AD%90"
-                },
-                {
-                    "name": "茄",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-                },
-                {
-                    "name": "子",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                }
+            "wkty": [
+                "茄子",
+                "茄",
+                "子"
             ]
         },
         "Yale": "ké jí",
@@ -84,19 +57,10 @@
         "English": "sesame seed",
         "Cantonese": {
             "text": "芝麻",
-            "refs": [
-                {
-                    "name": "芝麻",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
-                },
-                {
-                    "name": "芝",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
-                },
-                {
-                    "name": "麻",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                }
+            "wkty": [
+                "芝麻",
+                "芝",
+                "麻"
             ]
         },
         "Yale": "jī màh",
@@ -106,54 +70,27 @@
         "English": "water chestnut",
         "Cantonese": {
             "text": "馬蹄",
-            "refs": [
-                {
-                    "name": "馬蹄",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC%E8%B9%84"
-                },
-                {
-                    "name": "馬",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC"
-                },
-                {
-                    "name": "蹄",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B9%84"
-                }
+            "wkty": [
+                "馬蹄",
+                "馬",
+                "蹄"
             ]
         },
         "Yale": "máh tái",
         "Mandarin": {
             "text": "荸薺",
-            "refs": [
-                {
-                    "name": "荸薺",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8%E8%96%BA"
-                },
-                {
-                    "name": "荸",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8"
-                },
-                {
-                    "name": "薺",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%96%BA"
-                }
+            "wkty": [
+                "荸薺",
+                "荸",
+                "薺"
             ]
         },
         "Simplified": {
             "text": "荸荠",
-            "refs": [
-                {
-                    "name": "荸荠",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8%E8%8D%A0"
-                },
-                {
-                    "name": "荸",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%B8"
-                },
-                {
-                    "name": "荠",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%A0"
-                }
+            "wkty": [
+                "荸荠",
+                "荸",
+                "荠"
             ]
         },
         "Pinyin": "bí qí"
@@ -162,19 +99,10 @@
         "English": "almond",
         "Cantonese": {
             "text": "杏仁",
-            "refs": [
-                {
-                    "name": "杏仁",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81"
-                },
-                {
-                    "name": "杏",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F"
-                },
-                {
-                    "name": "仁",
-                    "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
-                }
+            "wkty": [
+                "杏仁",
+                "杏",
+                "仁"
             ]
         },
         "Yale": "hahng yàhn",
@@ -227,19 +155,10 @@
         },
         "Simplified": {
             "text": "萝卜",
-            "refs": [
-                {
-                    "name": "萝卜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%90%9D%E5%8D%9C"
-                },
-                {
-                    "name": "萝",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%90%9D"
-                },
-                {
-                    "name": "卜",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%8D%9C"
-                }
+            "wkty": [
+                "萝卜",
+                "萝",
+                "卜"
             ]
         },
         "Yale": "lò baahk",
@@ -249,19 +168,10 @@
         "English": "winter bamboo shoots",
         "Cantonese": {
             "text": "冬筍",
-            "refs": [
-                {
-                    "name": "冬筍",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%AD%8D"
-                },
-                {
-                    "name": "冬",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                },
-                {
-                    "name": "筍",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%AD%8D"
-                }
+            "wkty": [
+                "冬筍",
+                "冬",
+                "筍"
             ]
         },
         "Simplified": {
