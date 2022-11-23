@@ -60,23 +60,25 @@
         "words": [
             {
                 "English": "big bao",
-                "Cantonese": "大包",
+                "Cantonese": {
+                    "text": "大包",
+                    "refs": [
+                        {
+                            "name": "大包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7%E5%8C%85"
+                        },
+                        {
+                            "name": "大",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7"
+                        },
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        }
+                    ]
+                },
                 "Yale": "daaih bāau",
-                "Pinyin": "dà bāo",
-                "resources": [
-                    {
-                        "name": "大包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7%E5%8C%85"
-                    },
-                    {
-                        "name": "大",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "dà bāo"
             }
         ],
         "images": [
