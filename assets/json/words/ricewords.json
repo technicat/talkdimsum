@@ -1,7 +1,7 @@
 [
     {
         "English": "cooked rice",
-        "Cantonese":"飯",
+        "Cantonese": "飯",
         "Yale": "faahn",
         "Jyutping": "faan6",
         "Simplified": "饭",
@@ -19,10 +19,9 @@
         "Cantonese": {
             "text": "糯米",
             "wkty": [
-                {
-                    "name": "糯米",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
-                }
+                "糯米",
+                "糯",
+                "米"
             ]
         },
         "Yale": "noh máih",
