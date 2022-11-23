@@ -1,45 +1,21 @@
 [
     {
         "English": "ball",
-        "Cantonese": {
-            "text": "球",
-            "refs": [
-                {
-                    "name": "球",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-                }
-            ]
-        },
+        "Cantonese":"球",
         "Yale": "kàuh",
         "Jyutping": "kau4",
         "Pinyin": "qiú"
     },
     {
         "English": "meat",
-        "Cantonese": {
-            "text": "肉",
-            "refs": [
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                }
-            ]
-        },
+        "Cantonese":"肉",
         "Yale": "yuhk",
         "Jyutping": "juk6",
         "Pinyin": "ròu"
     },
     {
         "English": "cow",
-        "Cantonese": {
-            "text": "牛",
-            "refs": [
-                {
-                    "name": "牛",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                }
-            ]
-        },
+        "Cantonese": "牛",
         "Yale": "ngàuh",
         "Jyutping": "ngau4",
         "Pinyin": "niú"
@@ -111,26 +87,10 @@
     },
     {
         "English": "pig",
-        "Cantonese": {
-            "text": "豬",
-            "refs": [
-                {
-                    "name": "豬",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-                }
-            ]
-        },
+        "Cantonese":"豬",
         "Yale": "jyū",
         "Jyutping": "zyu1",
-        "Simplified": {
-            "text": "猪",
-            "refs": [
-                {
-                    "name": "猪",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%8C%AA"
-                }
-            ]
-        },
+        "Simplified":"猪",
         "Pinyin": "zhū"
     },
     {
@@ -206,15 +166,7 @@
     },
     {
         "English": "goat/sheep",
-        "Cantonese": {
-            "text": "羊",
-            "refs": [
-                {
-                    "name": "球",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-                }
-            ]
-        },
+        "Cantonese":  "羊",
         "Yale": "yèuhng",
         "Jyutping": "yeong4",
         "Pinyin": "yáng"
