@@ -2,36 +2,20 @@
     {
         "words": [
             {
-                "Cantonese": "蒜蓉炒豆苗",
+                "Cantonese": {
+                    "text": "蒜蓉炒豆苗",
+                    "wkty": [
+                        "蒜蓉",
+                        "蒜",
+                        "蓉",
+                        "豆苗",
+                        "豆",
+                        "苗"
+                    ]
+                },
                 "English": "stir-fried pea shoots in garlic",
                 "Yale": "syun yùhng dauh mìuh",
-                "Pinyin": "suàn róng dòu miáo",
-                "resources": [
-                    {
-                        "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "豆苗",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%8B%97"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "苗",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8B%97"
-                    }
-                ]
+                "Pinyin": "suàn róng dòu miáo"
             }
         ],
         "images": [
@@ -368,8 +352,6 @@
             "芥蘭",
             "菜"
         ],
-        "resources": [
-            
-        ]
+        "resources": []
     }
 ]
