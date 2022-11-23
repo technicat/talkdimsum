@@ -1,140 +1,60 @@
 [
     {
         "English": "fragrant",
-        "Cantonese": {
-            "text": "香",
-            "refs": [
-                {
-                    "name": "香",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-                }
-            ]
-        },
+        "Cantonese": "香",
         "Yale": "hēung",
         "Jyutping": "hoeng1",
         "Pinyin": "xiāng"
     },
     {
         "English": "steamed",
-        "Cantonese": {
-            "text": "蒸",
-            "refs": [
-                {
-                    "name": "蒸",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-                }
-            ]
-        },
+        "Cantonese": "蒸",
         "Yale": "jīng",
         "Jyutping": "zing1",
         "Pinyin": "zhēng"
     },
     {
         "English": "stuffed",
-        "Cantonese": {
-            "text": "釀",
-            "refs": [
-                {
-                    "name": "釀",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%87%80"
-                }
-            ]
-        },
+        "Cantonese": "釀",
         "Yale": "yeuhng",
         "Jyutping": "joeng6",
-        "Simplified": {
-            "text": "酿",
-            "refs": [
-                {
-                    "name": "釀",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%85%BF"
-                }
-            ]
-        },
+        "Simplified": "酿",
         "Pinyin": "niàng"
     },
     {
         "English": "deep-fried",
-        "Cantonese": {
-            "text": "炸",
-            "refs": [
-                {
-                    "name": "炸",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                }
-            ]
-        },
+        "Cantonese":  "炸",
         "Yale": "ja",
         "Jyutping": "zaa3",
         "Pinyin": "zhà"
     },
     {
         "English": "pan-fried",
-        "Cantonese": {
-            "text": "煎",
-            "refs": [
-                {
-                    "name": "煎",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                }
-            ]
-        },
+        "Cantonese":  "煎",
         "Yale": "jīn",
         "Jyutping": "zin1",
         "Pinyin": "jiān"
     },
     {
         "English": "stir-fried",
-        "Cantonese": {
-            "text": "炒",
-            "refs": [
-                {
-                    "name": "炒",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-                }
-            ]
-        },
+        "Cantonese":  "炒",
         "Yale": "cháu",
         "Jyutping": "caau2",
         "Pinyin": "chǎo"
     },
     {
         "English": "baked",
-        "Cantonese": {
-            "text": "焗",
-            "refs": [
-                {
-                    "name": "焗",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
-                }
-            ]
-        },
+        "Cantonese":"焗",
         "Yale": "guhk",
         "Jyutping": "guk6",
         "Pinyin": "jú"
     },
     {
         "English": "fresh",
-        "Cantonese": {
-            "text": "鮮",
-            "refs": [
-                {
-                    "name": "鮮",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                }
-            ]
-        },
+        "Cantonese":"鮮",
         "Yale": "sīn",
         "Jyutping": "sin1",
-        "Simplified": {
-            "text": "鲜",
-            "refs": [
-                {
-                    "name": "鲜",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%9C"
-                }
-            ]
-        },
+        "Simplified": "鲜",
         "Pinyin": "xiān"
     }
 ]

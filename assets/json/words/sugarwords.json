@@ -3,19 +3,10 @@
         "English": "white sugar",
         "Cantonese": {
             "text": "白糖",
-            "refs": [
-                {
-                    "name": "白糖",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%B3%96"
-                },
-                {
-                    "name": "白",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                },
-                {
-                    "name": "糖",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
-                }
+            "wkty": [
+                "白糖",
+                "白",
+                "糖"
             ]
         },
         "Yale": "baahk tòhng",
@@ -25,19 +16,10 @@
         "English": "brown sugar",
         "Cantonese": {
             "text": "黑糖",
-            "refs": [
-                {
-                    "name": "黑糖",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E7%B3%96"
-                },
-                {
-                    "name": "黑",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
-                },
-                {
-                    "name": "糖",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
-                }
+            "wkty": [
+                "黑糖",
+                "黑",
+                "糖"
             ]
         },
         "Yale": "hāk tòhng",

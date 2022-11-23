@@ -74,23 +74,7 @@
             {
                 "Cantonese": {
                     "text": "椰汁糕",
-                    "refs": [
-                        {
-                            "name": "椰汁",
-                            "URL": "https://en.wiktionary.org/wiki/%25E6%25A4%25B0%25E6%25B1%2581"
-                        },
-                        {
-                            "name": "椰",
-                            "URL": "https://en.wiktionary.org/wiki/%25E6%25A4%25B0"
-                        },
-                        {
-                            "name": "汁",
-                            "URL": "https://en.wiktionary.org/wiki/%25E6%25B1%2581"
-                        },
-                        {
-                            "name": "糕",
-                            "URL": "https://en.wiktionary.org/wiki/%25E7%25B3%2595"
-                        }
+                    "wkty": [ "椰汁", "椰", "汁", "糕"
                     ]
                 },
                 "English": "coconut pudding",

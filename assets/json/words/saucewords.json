@@ -3,19 +3,10 @@
         "English": "black bean sauce",
         "Cantonese": {
             "text": "豉汁",
-            "refs": [
-                {
-                    "name": "豉汁",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B1%81"
-                },
-                {
-                    "name": "豉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
-                },
-                {
-                    "name": "汁",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B1%81"
-                }
+            "wkty": [
+                "豉汁",
+                "豉",
+                "汁"
             ]
         },
         "Yale": "sih jāp",
@@ -25,19 +16,10 @@
         "English": "sweet and sour",
         "Cantonese": {
             "text": "甜酸",
-            "refs": [
-                {
-                    "name": "甜酸",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9C%E9%85%B8"
-                },
-                {
-                    "name": "甜",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9C"
-                },
-                {
-                    "name": "酸",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%85%B8"
-                }
+            "wkty": [
+                "甜酸",
+                "甜",
+                "酸"
             ]
         },
         "Yale": "tìhm syūn",
@@ -57,15 +39,7 @@
     },
     {
         "English": "honey",
-        "Cantonese": {
-            "text": "蜜",
-            "refs": [
-                {
-                    "name": "蜜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%9C%9C"
-                }
-            ]
-        },
+        "Cantonese": "蜜",
         "Yale": "maht",
         "Jyutping": "mut6",
         "Pinyin": "mì"

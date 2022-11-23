@@ -1,45 +1,20 @@
 [
     {
         "English": "fish",
-        "Cantonese": {
-            "text": "魚",
-            "refs": [
-                {
-                    "name": "魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                }
-            ]
-        },
+        "Cantonese": "魚",
         "Yale": "yú",
         "Jyutping": "ju2",
-        "Simplified": {
-            "text": "鱼",
-            "refs": [
-                {
-                    "name": "鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
-                }
-            ]
-        },
+        "Simplified": "鱼",
         "Pinyin": "yú"
     },
     {
         "English": "abalone",
         "Cantonese": {
             "text": "鮑魚",
-            "refs": [
-                {
-                    "name": "鮑魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AE%91%E9%AD%9A"
-                },
-                {
-                    "name": "鮑",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AE%91"
-                },
-                {
-                    "name": "魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                }
+            "wkty": [
+                "鮑魚",
+                "鮑",
+                "魚"
             ]
         },
         "Yale": "bāau yùh",

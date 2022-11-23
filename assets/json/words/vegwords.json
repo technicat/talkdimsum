@@ -1,15 +1,7 @@
 [
     {
         "English": "bamboo",
-        "Cantonese": {
-            "text": "竹",
-            "refs": [
-                {
-                    "name": "竹",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%AB%B9"
-                }
-            ]
-        },
+        "Cantonese": "竹",
         "Yale": "jūk",
         "Pinyin": "zhú"
     },
@@ -22,25 +14,9 @@
     },
     {
         "English": "scallion",
-        "Cantonese": {
-            "text": "蔥",
-            "refs": [
-                {
-                    "name": "蔥",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
-                }
-            ]
-        },
+        "Cantonese": "蔥",
         "Yale": "chūng",
-        "Simplified": {
-            "text": "葱",
-            "refs": [
-                {
-                    "name": "葱",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%91%B1"
-                }
-            ]
-        },
+        "Simplified": "葱",
         "Pinyin": "cōng"
     },
     {
@@ -163,7 +139,7 @@
                 }
             ]
         },
-        "Simplified":  {
+        "Simplified": {
             "text": "荸荠",
             "refs": [
                 {
@@ -208,19 +184,10 @@
         "English": "walnut",
         "Cantonese": {
             "text": "核桃",
-            "refs": [
-                {
-                    "name": "核桃",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%A0%B8%E6%A1%83"
-                },
-                {
-                    "name": "核",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%A0%B8"
-                },
-                {
-                    "name": "桃",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%A1%83"
-                }
+            "wkty": [
+                "核桃",
+                "核",
+                "桃"
             ]
         },
         "Yale": "haht tòuh",
@@ -231,36 +198,18 @@
         "English": "taro",
         "Cantonese": {
             "text": "芋頭",
-            "refs": [
-                {
-                    "name": "芋頭",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-                },
-                {
-                    "name": "芋",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-                },
-                {
-                    "name": "頭",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
-                }
+            "wkty": [
+                "芋頭",
+                "芋",
+                "頭"
             ]
         },
         "Simplified": {
             "text": "芋头",
-            "refs": [
-                {
-                    "name": "芋头",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E5%A4%B4"
-                },
-                {
-                    "name": "芋",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-                },
-                {
-                    "name": "头",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%B4"
-                }
+            "wkty": [
+                "芋头",
+                "芋",
+                "头"
             ]
         },
         "Yale": "wuh táu",
@@ -270,19 +219,10 @@
         "English": "daikon",
         "Cantonese": {
             "text": "蘿蔔",
-            "refs": [
-                {
-                    "name": "蘿蔔",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
-                },
-                {
-                    "name": "蘿",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-                },
-                {
-                    "name": "蔔",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
-                }
+            "wkty": [
+                "蘿蔔",
+                "蘿",
+                "蔔"
             ]
         },
         "Simplified": {
@@ -326,19 +266,10 @@
         },
         "Simplified": {
             "text": "冬笋",
-            "refs": [
-                {
-                    "name": "冬笋",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%AC%8B"
-                },
-                {
-                    "name": "冬",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                },
-                {
-                    "name": "笋",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%AC%8B"
-                }
+            "wkty": [
+                "冬笋",
+                "冬",
+                "笋"
             ]
         },
         "Yale": "dūng séun",
@@ -346,15 +277,7 @@
     },
     {
         "English": "potato",
-        "Cantonese": {
-            "text": "薯",
-            "refs": [
-                {
-                    "name": "薯",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%96%AF"
-                }
-            ]
-        },
+        "Cantonese": "薯",
         "Yale": "syùh",
         "Jyutping": "syu4",
         "Pinyin": "shǔ"
@@ -363,19 +286,10 @@
         "English": "tomato",
         "Cantonese": {
             "text": "番茄",
-            "refs": [
-                {
-                    "name": "番茄",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%95%AA%E8%8C%84"
-                },
-                {
-                    "name": "番",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%95%AA"
-                },
-                {
-                    "name": "茄",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-                }
+            "wkty": [
+                "番茄",
+                "番",
+                "茄"
             ]
         },
         "Yale": "fāan ké",
@@ -384,24 +298,8 @@
     },
     {
         "English": "ginger",
-        "Cantonese": {
-            "text": "薑",
-            "refs": [
-                {
-                    "name": "薑",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%96%91"
-                }
-            ]
-        },
-        "Simplified": {
-            "text": "姜",
-            "refs": [
-                {
-                    "name": "姜",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A7%9C"
-                }
-            ]
-        },
+        "Cantonese": "薑",
+        "Simplified": "姜",
         "Yale": "gēung",
         "Pinyin": "jiāng"
     }

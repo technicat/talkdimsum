@@ -3,19 +3,10 @@
         "English": "tofu skin",
         "Cantonese": {
             "text": "豆腐皮",
-            "refs": [
-                {
-                    "name": "豆腐",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                },
-                {
-                    "name": "豆",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                },
-                {
-                    "name": "皮",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
-                }
+            "wkty": [
+                "豆腐",
+                "豆",
+                "皮"
             ]
         },
         "Yale": "dauh fuh pèih",
@@ -25,37 +16,19 @@
         "English": "lotus seed paste",
         "Cantonese": {
             "text": "蓮蓉",
-            "refs": [
-                {
-                    "name": "蓮蓉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
-                },
-                {
-                    "name": "蓮",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-                },
-                {
-                    "name": "蓉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                }
+            "wkty": [
+                "蓮蓉",
+                "蓮",
+                "蓉"
             ]
         },
         "Yale": "lìhn yùhng",
         "Simplified": {
             "text": "莲蓉",
-            "refs": [
-                {
-                    "name": "莲蓉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8E%B2%E8%93%89"
-                },
-                {
-                    "name": "莲",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8E%B2"
-                },
-                {
-                    "name": "蓉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                }
+            "wkty": [
+                "莲蓉",
+                "莲",
+                "蓉"
             ]
         },
         "Pinyin": "lián róng"
@@ -64,19 +37,10 @@
         "English": "pea shoot",
         "Cantonese": {
             "text": "豆苗",
-            "refs": [
-                {
-                    "name": "豆苗",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%8B%97"
-                },
-                {
-                    "name": "豆",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                },
-                {
-                    "name": "苗",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8B%97"
-                }
+            "wkty": [
+                "豆苗",
+                "豆",
+                "苗"
             ]
         },
         "Yale": "dauh mìuh",
@@ -86,19 +50,10 @@
         "English": "red bean paste",
         "Cantonese": {
             "text": "豆沙",
-            "refs": [
-                {
-                    "name": "豆沙",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99"
-                },
-                {
-                    "name": "豆",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                },
-                {
-                    "name": "沙",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                }
+            "wkty": [
+                "豆沙",
+                "豆",
+                "沙"
             ]
         },
         "Yale": "dauh sā",
@@ -108,19 +63,10 @@
         "English": "mung bean",
         "Cantonese": {
             "text": "綠豆",
-            "refs": [
-                {
-                    "name": "綠豆",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86"
-                },
-                {
-                    "name": "綠",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-                },
-                {
-                    "name": "豆",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                }
+            "wkty": [
+                "綠豆",
+                "綠",
+                "豆"
             ]
         },
         "Yale": "luhk dauh",
@@ -130,27 +76,12 @@
         "English": "string beans",
         "Cantonese": {
             "text": "四季豆",
-            "refs": [
-                {
-                    "name": "四季豆",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3%E8%B1%86"
-                },
-                {
-                    "name": "四季",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3"
-                },
-                {
-                    "name": "四",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B"
-                },
-                {
-                    "name": "季",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%AD%A3"
-                },
-                {
-                    "name": "豆",
-                    "URL": "%E8%B1%86"
-                }
+            "wkty": [
+                "四季豆",
+                "四季",
+                "四",
+                "季",
+                "豆"
             ]
         },
         "Yale": "sei gwai dáu",

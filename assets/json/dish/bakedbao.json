@@ -4,23 +4,11 @@
             {
                 "Cantonese": {
                     "name": "雞尾包",
-                    "refs": [
-                        {
-                            "name": "雞尾",
-                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E5%B0%BE"
-                        },
-                        {
-                            "name": "雞",
-                            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                        },
-                        {
-                            "name": "尾",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%B0%BE"
-                        },
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        }
+                    "wkty": [
+                        "雞尾",
+                        "雞",
+                        "尾",
+                        "包"
                     ]
                 },
                 "Simplified": "鸡尾包",

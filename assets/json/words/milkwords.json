@@ -1,15 +1,7 @@
 [
     {
         "English": "milk",
-        "Cantonese": {
-            "text": "奶",
-            "refs": [
-                {
-                    "name": "奶",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                }
-            ]
-        },
+        "Cantonese": "奶",
         "Yale": "náaih",
         "Pinyin": "nǎi"
     },
@@ -23,19 +15,10 @@
         "English": "custard",
         "Cantonese": {
             "text": "奶皇",
-            "refs": [
-                {
-                    "name": "奶黃",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83"
-                },
-                {
-                    "name": "奶",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                },
-                {
-                    "name": "黃",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                }
+            "wkty": [
+                "奶黃",
+                "奶",
+                "黃"
             ]
         },
         "Yale": "náaih wòhng",

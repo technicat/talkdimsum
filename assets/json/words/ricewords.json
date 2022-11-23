@@ -1,54 +1,30 @@
 [
     {
         "English": "cooked rice",
-        "Cantonese": {
-            "text": "飯",
-            "refs": [
-                {
-                    "name": "飯",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                }
-            ]
-        },
+        "Cantonese":"飯",
         "Yale": "faahn",
         "Jyutping": "faan6",
-        "Simplified": {
-            "text": "饭",
-            "refs": [
-                {
-                    "name": "饭",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A5%AD"
-                }
-            ]
-        },
+        "Simplified": "饭",
         "Pinyin": "fàn"
     },
     {
         "English": "rice",
-        "Cantonese": {
-            "text": "米",
-            "refs": [
-                {
-                    "name": "米",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-                }
-            ]
-        },
+        "Cantonese": "米",
         "Yale": "máih",
         "Jyutping": "mai5",
         "Pinyin": "mǐ"
     },
     {
         "English": "sticky rice",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "糯米",
-        "refs": [
-            {
-                "name": "糯米",
-                "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
-            }
-        ]
-    },
+            "wkty": [
+                {
+                    "name": "糯米",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
+                }
+            ]
+        },
         "Yale": "noh máih",
         "Jyutping": "no6 mai5",
         "Pinyin": "nuò mǐ"

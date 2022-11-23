@@ -1,24 +1,8 @@
 [
     {
         "English": "chicken",
-        "Cantonese": {
-            "text": "雞",
-            "refs": [
-                {
-                    "name": "雞",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                }
-            ]
-        },
-        "Simplified": {
-            "text": "鸡",
-            "refs": [
-                {
-                    "name": "鸡",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1"
-                }
-            ]
-        },
+        "Cantonese":"雞",
+        "Simplified": "鸡",
         "Yale": "gāi",
         "Jyutping": "gai1",
         "Pinyin": "jī"
@@ -96,49 +80,17 @@
     },
     {
         "English": "duck",
-        "Cantonese": {
-            "text": "鴨",
-            "refs": [
-                {
-                    "name": "鴨",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-                }
-            ]
-        },
+        "Cantonese":"鴨",
         "Yale": "aap",
         "Jyutping": "aap3",
-        "Simplified": {
-            "text": "鸭",
-            "refs": [
-                {
-                    "name": "鸭",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%AD"
-                }
-            ]
-        },
+        "Simplified": "鸭",
         "Pinyin": "yā"
     },
     {
         "English": "goose",
-        "Cantonese": {
-            "text": "鵝",
-            "refs": [
-                {
-                    "name": "鵝",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B5%9D"
-                }
-            ]
-        },
+        "Cantonese": "鵝",
         "Yale": "ngòh",
-        "Simplified": {
-            "text": "鹅",
-            "refs": [
-                {
-                    "name": "鹅",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%85"
-                }
-            ]
-        },
+        "Simplified": "鹅",
         "Pinyin": "é"
     },
     {

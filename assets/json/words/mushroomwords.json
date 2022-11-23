@@ -1,15 +1,7 @@
 [
     {
         "English": "mushroom",
-        "Cantonese": {
-            "text": "菇",
-            "refs": [
-                {
-                    "name": "菇",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                }
-            ]
-        },
+        "Cantonese": "菇",
         "Yale": "gū",
         "Pinyin": "gū"
     },
@@ -17,19 +9,10 @@
         "English": "winter mushroom",
         "Cantonese": {
             "text": "冬菇",
-            "refs": [
-                {
-                    "name": "冬菇",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%87"
-                },
-                {
-                    "name": "冬",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                },
-                {
-                    "name": "菇",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                }
+            "wkty": [
+                "冬菇",
+                "冬",
+                "菇"
             ]
         },
         "Yale": "dūng gū",
@@ -39,19 +22,10 @@
         "English": "shiitake mushroom",
         "Cantonese": {
             "text": "香菇",
-            "refs": [
-                {
-                    "name": "香菇",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%8F%87"
-                },
-                {
-                    "name": "香",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-                },
-                {
-                    "name": "菇",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                }
+            "wkty": [
+                "香菇",
+                "香",
+                "菇"
             ]
         },
         "Yale": "hēung gū",

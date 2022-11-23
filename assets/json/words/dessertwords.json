@@ -3,19 +3,7 @@
         "English": "snack",
         "Cantonese": {
             "text": "小食",
-            "refs": [
-                {
-                    "name": "小食",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F%E9%A3%9F"
-                },
-                {
-                    "name": "小",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F"
-                },
-                {
-                    "name": "食",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A3%9F"
-                }
+            "wkty": [ "小食","小","食"
             ]
         },
         "Yale": "síu sihk",
@@ -26,142 +14,54 @@
         "English": "pudding",
         "Cantonese": {
             "text": "布甸",
-            "refs": [
-                {
-                    "name": "布甸",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83%E7%94%B8"
-                },
-                {
-                    "name": "布",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83"
-                },
-                {
-                    "name": "甸",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%94%B8"
-                }
+            "wkty": [ "布甸", "布","甸"
             ]
         },
         "Yale": "bou dīn",
         "Jyutping": "bou3 din1",
         "Mandarin": {
             "text": "布丁",
-            "refs": [
-                {
-                    "name": "布丁",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83%E4%B8%81"
-                },
-                {
-                    "name": "布",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%B8%83"
-                },
-                {
-                    "name": "丁",
-                    "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
-                }
+            "wkty": [ "布丁","布","丁"
             ]
         },
         "Pinyin": "bù dīng"
     },
     {
         "English": "cream",
-        "Cantonese": {
-            "text": "糊",
-            "refs": [
-                {
-                    "name": "糊",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%B3%8A"
-                }
-            ]
-        },
+        "Cantonese": "糊",
         "Yale": "wùh",
         "Jyutping": "wu4",
         "Pinyin": "hù"
     },
     {
         "English": "cookie/cake/pancake",
-        "Cantonese": {
-            "text": "餅",
-            "refs": [
-                {
-                    "name": "餅",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                }
-            ]
-        },
+        "Cantonese": "餅",
         "Yale": "béng",
         "Jyutping": "beng2",
-        "Simplified": {
-            "text": "饼",
-            "refs": [
-                {
-                    "name": "饼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A5%BC"
-                }
-            ]
-        },
+        "Simplified":  "饼",
         "Pinyin": "bǐng"
     },
     {
         "English": "meat patty",
         "Cantonese": {
             "text": "肉餅",
-            "refs": [
-                {
-                    "name": "肉餅",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%A4%85"
-                },
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                },
-                {
-                    "name": "餅",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                }
+            "wkty": [ "肉餅","肉","餅"
             ]
         },
         "Yale": "yuhk béng",
         "Simplified": {
             "text": "肉饼",
-            "refs": [
-                {
-                    "name": "肉饼",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%A5%BC"
-                },
-                {
-                    "name": "肉",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                },
-                {
-                    "name": "饼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%A5%BC"
-                }
+            "wkty": [ "肉饼","肉","饼"
             ]
         },
         "Pinyin": "ròu bǐng"
     },
     {
         "English": "tart",
-        "Cantonese": {
-            "text": "撻",
-            "refs": [
-                {
-                    "name": "撻",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%92%BB"
-                }
-            ]
-        },
+        "Cantonese": "撻",
         "Yale": "taat",
         "Jyutping": "taat3",
-        "Simplified": {
-            "text": "挞",
-            "refs": [
-                {
-                    "name": "挞",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%8C%9E"
-                }
-            ]
-        },
+        "Simplified":  "挞",
         "Pinyin": "tà"
     }
 ]

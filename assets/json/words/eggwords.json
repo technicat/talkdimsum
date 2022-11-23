@@ -1,15 +1,7 @@
 [
     {
         "English": "egg",
-        "Cantonese": {
-            "text": "蛋",
-            "refs": [
-                {
-                    "name": "蛋",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                }
-            ]
-        },
+        "Cantonese":"蛋",
         "Yale": "dáan",
         "Jyutping": "daan2",
         "Pinyin": "dàn"
@@ -18,11 +10,8 @@
         "English": "egg white",
         "Cantonese": {
             "text": "蛋白",
-            "refs": [
-                {
-                    "name": "蛋白",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E7%99%BD"
-                }
+            "wkty": ["蛋白","蛋","白"
+                    
             ]
         },
         "Yale": "dáan baahk",
@@ -33,19 +22,7 @@
         "English": "fried egg",
         "Cantonese": {
             "text": "煎蛋",
-            "refs": [
-                {
-                    "name": "煎蛋",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E8%9B%8B"
-                },
-                {
-                    "name": "煎",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                },
-                {
-                    "name": "蛋",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                }
+            "wkty": [ "煎蛋", "煎", "蛋"
             ]
         },
         "Yale": "jīn dáan",
@@ -56,19 +33,7 @@
         "English": "lava custard",
         "Cantonese": {
             "text": "流沙",
-            "refs": [
-                {
-                    "name": "流沙",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B5%81%E6%B2%99"
-                },
-                {
-                    "name": "流",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B5%81"
-                },
-                {
-                    "name": "沙",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                }
+            "wkty": [ "流沙", "流", "沙"
             ]
         },
         "Yale": "làu sā",

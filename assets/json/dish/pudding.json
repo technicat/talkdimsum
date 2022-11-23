@@ -5,69 +5,27 @@
         "English": "mango pudding",
         "Cantonese": {
           "text": "芒果布甸",
-          "refs": [
-            {
-              "name": "芒果布甸",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8A%92%E6%9E%9C%E5%B8%83%E7%94%B8"
-            },
-            {
-              "name": "芒果",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8A%92%E6%9E%9C"
-            },
-            {
-              "name": "芒",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8A%92"
-            },
-            {
-              "name": "果",
-              "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-            },
-            {
-              "name": "布甸",
-              "URL": "https://en.wiktionary.org/wiki/%E5%B8%83%E7%94%B8"
-            },
-            {
-              "name": "布",
-              "URL": "https://en.wiktionary.org/wiki/%E5%B8%83"
-            },
-            {
-              "name": "甸",
-              "URL": "https://en.wiktionary.org/wiki/%E7%94%B8"
-            }
+          "wkty": [
+            "芒果布甸",
+            "芒果",
+            "芒",
+            "果",
+            "布甸",
+            "布",
+            "甸"
           ]
         },
         "Yale": "mōng gwó bou dīn",
         "Mandarin": {
           "text": "芒果布丁",
-          "refs": [
-            {
-              "name": "芒果布丁",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8A%92%E6%9E%9C%E5%B8%83%E4%B8%81"
-            },
-            {
-              "name": "芒果",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8A%92%E6%9E%9C"
-            },
-            {
-              "name": "芒",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8A%92"
-            },
-            {
-              "name": "果",
-              "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-            },
-            {
-              "name": "布丁",
-              "URL": "https://en.wiktionary.org/wiki/%E5%B8%83%E4%B8%81"
-            },
-            {
-              "name": "布",
-              "URL": "https://en.wiktionary.org/wiki/%E5%B8%83"
-            },
-            {
-              "name": "丁",
-              "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
-            }
+          "wkty": [
+            "芒果布丁",
+            "芒果",
+            "芒",
+            "果",
+            "布丁",
+            "布",
+            "丁"
           ]
         },
         "Pinyin": "máng guǒ bù dīng"
@@ -135,31 +93,13 @@
         "English": "baked tapioca pudding",
         "Cantonese": {
           "text": "西米布甸",
-          "refs": [
-            {
-              "name": "西米",
-              "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF%E7%B1%B3"
-            },
-            {
-              "name": "西",
-              "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF"
-            },
-            {
-              "name": "米",
-              "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-            },
-            {
-              "name": "布甸",
-              "URL": "https://en.wiktionary.org/wiki/%E5%B8%83%E7%94%B8"
-            },
-            {
-              "name": "布",
-              "URL": "https://en.wiktionary.org/wiki/%E5%B8%83"
-            },
-            {
-              "name": "甸",
-              "URL": "https://en.wiktionary.org/wiki/%E7%94%B8"
-            }
+          "wkty": [
+            "西米",
+            "西",
+            "米",
+            "布甸",
+            "布",
+            "甸"
           ]
         },
         "Yale": "sāi máih bou dīn",

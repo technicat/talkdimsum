@@ -3,32 +3,15 @@
         "words": [
             {
                 "English": "bao",
-                "Cantonese": {
-                    "text": "包",
-                    "refs": [
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        }
-                    ]
-                },
+                "Cantonese":"包",
                 "Yale": "bāau",
                 "Jyutping": "baau1",
                 "Mandarin": {
                     "text": "包子",
-                    "refs": [
-                        {
-                            "name": "包子",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85%E5%AD%90"
-                        },
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        },
-                        {
-                            "name": "子",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                        }
+                    "wkty": [
+                        "包子",
+                        "包",
+                        "子"
                     ]
                 },
                 "Pinyin": "bāo zi"
@@ -66,19 +49,10 @@
                 "English": "big bao",
                 "Cantonese": {
                     "text": "大包",
-                    "refs": [
-                        {
-                            "name": "大包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7%E5%8C%85"
-                        },
-                        {
-                            "name": "大",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7"
-                        },
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        }
+                    "wkty": [
+                        "大包",
+                        "大",
+                        "包"
                     ]
                 },
                 "Yale": "daaih bāau",
@@ -110,46 +84,22 @@
                 "English": "taro bun",
                 "Cantonese": {
                     "text": "芋頭包",
-                    "refs": [
-                        {
-                            "name": "芋頭",
-                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-                        },
-                        {
-                            "name": "芋",
-                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-                        },
-                        {
-                            "name": "頭",
-                            "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
-                        },
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        }
+                    "wkty": [
+                        "芋頭",
+                        "芋",
+                        "頭",
+                        "包"
                     ]
                 },
                 "Yale": "wuh táu bāau",
                 "Jyutping": "wu6 tau2 baau1",
-                "Simplified":  {
+                "Simplified": {
                     "text": "芋头包",
-                    "refs": [
-                        {
-                            "name": "芋头",
-                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E5%A4%B4"
-                        },
-                        {
-                            "name": "芋",
-                            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-                        },
-                        {
-                            "name": "头",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%A4%B4"
-                        },
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        }
+                    "wkty": [
+                        "芋头",
+                        "芋",
+                        "头",
+                        "包"
                     ]
                 },
                 "Pinyin": "yù tou bāo"

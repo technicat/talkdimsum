@@ -1,15 +1,7 @@
 [
     {
         "English": "vegetable",
-        "Cantonese": {
-            "text": "菜",
-            "refs": [
-                {
-                    "name": "菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                }
-            ]
-        },
+        "Cantonese": "菜",
         "Yale": "choi",
         "Jyutping": "coi3",
         "Pinyin": "cài"
@@ -18,19 +10,10 @@
         "English": "mustard greens",
         "Cantonese": {
             "text": "冬菜",
-            "refs": [
-                {
-                    "name": "冬菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%9C"
-                },
-                {
-                    "name": "冬",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                },
-                {
-                    "name": "菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                }
+            "wkty": [
+                "冬菜",
+                "冬",
+                "菜"
             ]
         },
         "Yale": "dūng choi",
@@ -40,19 +23,10 @@
         "English": "chives",
         "Cantonese": {
             "text": "韭菜",
-            "refs": [
-                {
-                    "name": "韭菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
-                },
-                {
-                    "name": "韭",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
-                },
-                {
-                    "name": "菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                }
+            "wkty": [
+                "韭菜",
+                "韭",
+                "菜"
             ]
         },
         "Yale": "gáu choi",
@@ -63,19 +37,10 @@
         "English": "lettuce",
         "Cantonese": {
             "text": "生菜",
-            "refs": [
-                {
-                    "name": "生菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E8%8F%9C"
-                },
-                {
-                    "name": "生",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
-                },
-                {
-                    "name": "菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                }
+            "wkty": [
+                "生菜",
+                "生",
+                "菜"
             ]
         },
         "Yale": "sāang choi",
@@ -86,19 +51,10 @@
         "English": "ong choy",
         "Cantonese": {
             "text": "蕹菜",
-            "refs": [
-                {
-                    "name": "蕹菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%95%B9%E8%8F%9C"
-                },
-                {
-                    "name": "蕹",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%95%B9"
-                },
-                {
-                    "name": "菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                }
+            "wkty": [
+                "蕹菜",
+                "蕹",
+                "菜"
             ]
         },
         "Yale": "ung choi",
@@ -109,19 +65,10 @@
         "English": "spinach",
         "Cantonese": {
             "text": "菠菜",
-            "refs": [
-                {
-                    "name": "菠菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%8F%9C"
-                },
-                {
-                    "name": "菠",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-                },
-                {
-                    "name": "菜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                }
+            "wkty": [
+                "菠菜",
+                "菠",
+                "菜"
             ]
         },
         "Yale": "bō choi",

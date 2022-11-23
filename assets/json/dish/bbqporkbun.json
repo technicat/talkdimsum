@@ -4,27 +4,12 @@
             {
                 "Cantonese": {
                     "text": "叉燒包",
-                    "refs": [
-                        {
-                            "name": "叉燒包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
-                        },
-                        {
-                            "name": "叉燒",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                        },
-                        {
-                            "name": "叉",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                        },
-                        {
-                            "name": "燒",
-                            "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                        },
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        }
+                    "wkty": [
+                        "叉燒包",
+                        "叉燒",
+                        "叉",
+                        "燒",
+                        "包"
                     ]
                 },
                 "Simplified": "叉烧包",
@@ -113,33 +98,18 @@
     {
         "words": [
             {
+                "English": "baked BBQ pork bun",
                 "Cantonese": {
                     "text": "焗叉燒包",
-                    "refs": [
-                        {
-                            "name": "焗",
-                            "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
-                        },
-                        {
-                            "name": "叉燒包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
-                        },
-                        {
-                            "name": "叉燒",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                        },
-                        {
-                            "name": "叉",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                        },
-                        {
-                            "name": "包",
-                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                        }
+                    "wkty": [
+                        "焗",
+                        "叉燒包",
+                        "叉燒",
+                        "叉",
+                        "包"
                     ]
                 },
                 "Simplified": "焗叉烧包",
-                "English": "baked BBQ pork bun",
                 "Yale": "guhk chā sīu bāau",
                 "Pinyin": "jú chā shāo bāo"
             }

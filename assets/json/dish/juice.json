@@ -5,70 +5,23 @@
         "English": "cider",
         "Cantonese": {
           "text": "西打",
-          "refs": [
-            {
-              "name": "西打",
-              "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF%E6%89%93"
-            },
-            {
-              "name": "西",
-              "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF"
-            },
-            {
-              "name": "打",
-              "URL": "https://en.wiktionary.org/wiki/%E6%89%93"
-            }
+          "wkty": ["西打","西", "打"
           ]
         },
         "Yale": "sāi dá",
         "Mandarin": {
           "text": "蘋果酒",
-          "refs": [
-            {
-              "name": "蘋果酒",
-              "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C%E9%85%92"
-            },
-            {
-              "name": "蘋果",
-              "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C"
-            },
-            {
-              "name": "蘋",
-              "URL": "https://en.wiktionary.org/wiki/%E8%98%8B"
-            },
-            {
-              "name": "果",
-              "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-            },
-            {
-              "name": "酒",
-              "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-            }
+          "wkty": ["蘋果酒", "蘋果", "蘋","果", "酒"
           ]
         },
-        "Simplified":  {
+        "Simplified": {
           "text": "苹果酒",
-          "refs": [
-            {
-              "name": "苹果酒",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9%E6%9E%9C%E9%85%92"
-            },
-            {
-              "name": "苹果",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9%E6%9E%9C"
-            },
-            {
-              "name": "苹",
-              "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9"
-            },
-            {
-              "name": "果",
-              "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-            },
-            {
-              "name": "酒",
-              "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-            }
+          "wkty": [
+            "苹果酒",
+            "苹果",
+            "苹",
+            "果",
+            "酒"
           ]
         },
         "Pinyin": "píng guǒ jiǔ"
