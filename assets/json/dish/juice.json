@@ -1,100 +1,130 @@
 [
-    {
-        "words": [
+  {
+    "words": [
+      {
+        "English": "cider",
+        "Cantonese": {
+          "text": "西打",
+          "refs": [
             {
-                "Cantonese": "西打",
-                "Mandarin": "蘋果酒",
-                "Simplified": "苹果酒",
-                "English": "cider",
-                "Yale": "sāi dá",
-                "Pinyin": "píng guǒ jiǔ",
-                "resources": [
-                    {
-                        "name": "西打",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF%E6%89%93"
-                    },
-                    {
-                        "name": "西",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF"
-                    },
-                    {
-                        "name": "打",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%89%93"
-                    },
-                    {
-                        "name": "蘋果酒",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C%E9%85%92"
-                    },
-                    {
-                        "name": "蘋果",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C"
-                    },
-                    {
-                        "name": "蘋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%98%8B"
-                    },
-                    {
-                        "name": "果",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                    }, 
-                    {
-                        "name": "酒",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-                    }
-                ]
-            }
-        ],
-        "images": [
+              "name": "西打",
+              "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF%E6%89%93"
+            },
             {
-                "image": "cider",
-                "place": "168 Market, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Apple [cider](https://en.wikipedia.org/wiki/Cider) is known in Cantonese by a loanword [西打](https://en.wiktionary.org/wiki/%E8%A5%BF%E6%89%93) pronounced sāi dá, and in Mandarin by a more literal [蘋果酒](https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C%E9%85%92) ([蘋果](https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C) is *apple*, and [酒](https://en.wiktionary.org/wiki/%E9%85%92)is *alcohol*, so 蘋果酒 is *apple alcohol*).",
-        "tags": [
-            "酒",
-            "飲品"
-        ],
-        "resources": [
+              "name": "西",
+              "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF"
+            },
             {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cider"
+              "name": "打",
+              "URL": "https://en.wiktionary.org/wiki/%E6%89%93"
             }
-        ]
-    },
-    {
-        "words": [
+          ]
+        },
+        "Yale": "sāi dá",
+        "Mandarin": {
+          "text": "蘋果酒",
+          "refs": [
             {
-                "Cantonese": "水",
-                "English": "water",
-                "Yale": "séui",
-                "Pinyin": "shuǐ",
-                "resources": [
-                    {
-                        "name": "水",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-                    }
-                ]
-            }
-        ],
-        "images": [
+              "name": "蘋果酒",
+              "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C%E9%85%92"
+            },
             {
-                "image": "watersweethoneydessert",
-                "place": "Sweet Honey Dessert, Las Vegas, Nevada"
+              "name": "蘋果",
+              "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C"
+            },
+            {
+              "name": "蘋",
+              "URL": "https://en.wiktionary.org/wiki/%E8%98%8B"
+            },
+            {
+              "name": "果",
+              "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+            },
+            {
+              "name": "酒",
+              "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
             }
-        ],
-        "description": "**Characters**\n\nThe glyph origins of [水](https://en.wiktionary.org/wiki/%E6%B0%B4) resemble a flowing stream. [氵](https://en.wiktionary.org/wiki/%E6%B0%B5) is the left radical form of this character, so if you see a character with that on the left, chances are it has something to do with water or liquid, e.g. [酒](https://en.wiktionary.org/wiki/%E9%85%92) *liquor*, [油](https://en.wiktionary.org/wiki/%E6%B2%B9) *oil* (the edible kind) or *sauce*, [海](https://en.wiktionary.org/wiki/海) *ocean*, and [清](https://en.wiktionary.org/wiki/%E6%B8%85) *soup*.\n\n**Ordering**\n\n[杯](https://en.wiktionary.org/wiki/%E6%9D%AF) is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and [一](https://en.wiktionary.org/wiki/%E4%B8%80) means *one*, so to order a glass of water, ask for 一杯水 (yāt būi séui in Cantonese, yī bēi shuǐ in Mandarin), *one cup of water*.",
-        "tags": [
-            "水",
-            "飲品"
-        ],
+          ]
+        },
+        "Simplified":  {
+          "text": "苹果酒",
+          "refs": [
+            {
+              "name": "苹果酒",
+              "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9%E6%9E%9C%E9%85%92"
+            },
+            {
+              "name": "苹果",
+              "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9%E6%9E%9C"
+            },
+            {
+              "name": "苹",
+              "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9"
+            },
+            {
+              "name": "果",
+              "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
+            },
+            {
+              "name": "酒",
+              "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
+            }
+          ]
+        },
+        "Pinyin": "píng guǒ jiǔ"
+      }
+    ],
+    "images": [
+      {
+        "image": "cider",
+        "place": "168 Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Apple [cider](https://en.wikipedia.org/wiki/Cider) is known in Cantonese by a loanword [西打](https://en.wiktionary.org/wiki/%E8%A5%BF%E6%89%93) pronounced sāi dá, and in Mandarin by a more literal [蘋果酒](https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C%E9%85%92) ([蘋果](https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C) is *apple*, and [酒](https://en.wiktionary.org/wiki/%E9%85%92)is *alcohol*, so 蘋果酒 is *apple alcohol*).",
+    "tags": [
+      "酒",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cider"
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "Cantonese": "水",
+        "English": "water",
+        "Yale": "séui",
+        "Pinyin": "shuǐ",
         "resources": [
           {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Water"
+            "name": "水",
+            "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
           }
         ]
-    },
+      }
+    ],
+    "images": [
+      {
+        "image": "watersweethoneydessert",
+        "place": "Sweet Honey Dessert, Las Vegas, Nevada"
+      }
+    ],
+    "description": "**Characters**\n\nThe glyph origins of [水](https://en.wiktionary.org/wiki/%E6%B0%B4) resemble a flowing stream. [氵](https://en.wiktionary.org/wiki/%E6%B0%B5) is the left radical form of this character, so if you see a character with that on the left, chances are it has something to do with water or liquid, e.g. [酒](https://en.wiktionary.org/wiki/%E9%85%92) *liquor*, [油](https://en.wiktionary.org/wiki/%E6%B2%B9) *oil* (the edible kind) or *sauce*, [海](https://en.wiktionary.org/wiki/海) *ocean*, and [清](https://en.wiktionary.org/wiki/%E6%B8%85) *soup*.\n\n**Ordering**\n\n[杯](https://en.wiktionary.org/wiki/%E6%9D%AF) is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and [一](https://en.wiktionary.org/wiki/%E4%B8%80) means *one*, so to order a glass of water, ask for 一杯水 (yāt būi séui in Cantonese, yī bēi shuǐ in Mandarin), *one cup of water*.",
+    "tags": [
+      "水",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Water"
+      }
+    ]
+  },
   {
     "words": [
       {
