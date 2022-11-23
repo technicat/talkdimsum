@@ -24,6 +24,46 @@
         "Pinyin": "jī"
     },
     {
+        "English": "diced chicken",
+        "Cantonese": {
+            "text": "雞丁",
+            "refs": [
+                {
+                    "name": "雞丁",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E4%B8%81"
+                },
+                {
+                    "name": "雞",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
+                },
+                {
+                    "name": "丁",
+                    "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
+                }
+            ]
+        },
+        "Yale": "gāi dīng",
+        "Jyutping": "gai1 ding1",
+        "Simplified": {
+            "text": "腰果鸡丁",
+            "refs": [
+                {
+                    "name": "鸡丁",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1%E4%B8%81"
+                },
+                {
+                    "name": "鸡",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1"
+                },
+                {
+                    "name": "丁",
+                    "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
+                }
+            ]
+        },
+        "Pinyin": "jī dīng"
+    },
+    {
         "English": "slippery chicken",
         "Cantonese": {
             "text": "滑雞",
@@ -38,7 +78,7 @@
                 }
             ]
         },
-        "Simplified":  {
+        "Simplified": {
             "text": "滑鸡",
             "refs": [
                 {
@@ -103,7 +143,7 @@
     },
     {
         "English": "quail",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "鵪鶉",
             "refs": [
                 {
