@@ -1,5 +1,29 @@
 [
     {
+        "English": "fish",
+        "Cantonese": {
+            "text": "魚",
+            "refs": [
+                {
+                    "name": "魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+                }
+            ]
+        },
+        "Yale": "yú",
+        "Jyutping": "ju2",
+        "Simplified": {
+            "text": "鱼",
+            "refs": [
+                {
+                    "name": "鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
+                }
+            ]
+        },
+        "Pinyin": "yú"
+    },
+    {
         "English": "abalone",
         "Cantonese": {
             "text": "鮑魚",
@@ -40,49 +64,35 @@
         "Pinyin": "bào yú"
     },
     {
-        "Cantonese": "鰻魚",
-        "Simplified": "鳗鱼",
         "English": "eel",
-        "Yale": "màahn yú",
-        "Pinyin": "mán yú",
-        "resources": [
-            {
-                "name": "鰻魚",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A"
-            },
-            {
-                "name": "鰻",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB"
-            },
-            {
-                "name": "魚",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-            }
-        ]
-    },
-    {
-        "English": "fish",
         "Cantonese": {
-            "text": "魚",
+            "text": "鰻魚",
             "refs": [
+                {
+                    "name": "鰻魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A"
+                },
+                {
+                    "name": "鰻",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB"
+                },
                 {
                     "name": "魚",
                     "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
                 }
             ]
         },
-        "Yale": "yú",
-        "Jyutping": "ju2",
+        "Yale": "màahn yú",
         "Simplified": {
-            "text": "鱼",
+            "text": "鳗鱼",
             "refs": [
                 {
-                    "name": "鲍鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D%E9%B1%BC"
+                    "name": "鳗鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B3%97%E9%B1%BC"
                 },
                 {
-                    "name": "鲍",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D"
+                    "name": "鳗",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B3%97"
                 },
                 {
                     "name": "鱼",
@@ -90,24 +100,38 @@
                 }
             ]
         },
-        "Pinyin": "yú"
+        "Pinyin": "mán yú"
     },
     {
-        "Cantonese": "魚片",
-        "Simplified": "鱼片",
         "English": "fish fillet",
+        "Cantonese": {
+            "text": "魚片",
+            "refs": [
+                {
+                    "name": "魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+                },
+                {
+                    "name": "片",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
+                }
+            ]
+        },
         "Yale": "yú pín",
-        "Pinyin": "yú piàn",
-        "resources": [
-            {
-                "name": "魚",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-            },
-            {
-                "name": "片",
-                "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-            }
-        ]
+        "Simplified": {
+            "text": "鱼片",
+            "refs": [
+                {
+                    "name": "鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
+                },
+                {
+                    "name": "片",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
+                }
+            ]
+        },
+        "Pinyin": "yú piàn"
     },
     {
         "English": "milkfish",
