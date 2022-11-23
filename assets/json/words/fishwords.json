@@ -150,51 +150,71 @@
         "Pinyin": "sān wén yú"
     },
     {
-        "Cantonese": "鹹魚",
-        "Simplified": "咸鱼",
         "English": "salted fish",
+        "Cantonese": {
+            "text": "鹹魚",
+            "refs": [
+                {
+                    "name": "鹹魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E9%AD%9A"
+                },
+                {
+                    "name": "鹹",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
+                },
+                {
+                    "name": "魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
+                }
+            ]
+        },
         "Yale": "hàahm yùh",
-        "Pinyin": "xián yú",
-        "resources": [
-            {
-                "name": "鹹魚",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E9%AD%9A"
-            },
-            {
-                "name": "鹹",
-                "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
-            },
-            {
-                "name": "魚",
-                "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-            }
-        ]
+        "Simplified": {
+            "text": "咸鱼",
+            "refs": [
+                {
+                    "name": "咸鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%92%B8%E9%B1%BC"
+                },
+                {
+                    "name": "咸",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%92%B8"
+                },
+                {
+                    "name": "鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
+                }
+            ]
+        },
+        "Pinyin": "xián yú"
     },
     {
-        "Cantonese": "多春魚",
+        "Cantonese": {
+            "text": "多春魚",
+            "refs": [
+                {
+                    "name": "多春魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A%E6%98%A5%E9%AD%9A"
+                },
+                {
+                    "name": "多",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
+                },
+                {
+                    "name": "春",
+                    "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
+                },
+                {
+                    "name": "魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+                }
+            ]
+        },
         "Mandarin": "胡瓜魚",
         "Simplified": "胡瓜鱼",
         "English": "smelt",
         "Yale": "ja dō chēun yú",
-        "Pinyin": "zhà hú guā yú",
-        "resources": [
-            {
-                "name": "多春魚",
-                "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A%E6%98%A5%E9%AD%9A"
-            },
-            {
-                "name": "多",
-                "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
-            },
-            {
-                "name": "春",
-                "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-            },
-            {
-                "name": "魚",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-            }
-        ]
+        "Pinyin": "zhà hú guā yú"
     },
     {
         "Cantonese": "魷魚",
