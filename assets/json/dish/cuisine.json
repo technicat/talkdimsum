@@ -683,20 +683,13 @@
     {
         "words": [
             {
-                "Cantonese": "新菜",
                 "English": "new dishes",
+                "Cantonese": {
+                    "text": "新菜",
+                    "wkty": ["新","菜"]
+                },
                 "Yale": "sān choi",
-                "Pinyin": "xīn cài",
-                "resources": [
-                    {
-                        "name": "新",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%96%B0"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "xīn cài"
             }
         ],
         "images": [
