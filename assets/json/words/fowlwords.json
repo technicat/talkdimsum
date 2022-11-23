@@ -1,7 +1,7 @@
 [
     {
         "English": "chicken",
-        "Cantonese":"雞",
+        "Cantonese": "雞",
         "Simplified": "鸡",
         "Yale": "gāi",
         "Jyutping": "gai1",
@@ -11,76 +11,34 @@
         "English": "diced chicken",
         "Cantonese": {
             "text": "雞丁",
-            "refs": [
-                {
-                    "name": "雞丁",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E4%B8%81"
-                },
-                {
-                    "name": "雞",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                },
-                {
-                    "name": "丁",
-                    "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
-                }
+            "wkty": [
+                "雞丁",
+                "雞",
+                "丁"
             ]
         },
         "Yale": "gāi dīng",
         "Jyutping": "gai1 ding1",
         "Simplified": {
             "text": "腰果鸡丁",
-            "refs": [
-                {
-                    "name": "鸡丁",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1%E4%B8%81"
-                },
-                {
-                    "name": "鸡",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1"
-                },
-                {
-                    "name": "丁",
-                    "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
-                }
+            "wkty": [
+                "鸡丁",
+                "鸡",
+                "丁"
             ]
         },
         "Pinyin": "jī dīng"
     },
     {
         "English": "slippery chicken",
-        "Cantonese": {
-            "text": "滑雞",
-            "refs": [
-                {
-                    "name": "滑",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
-                },
-                {
-                    "name": "雞",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                }
-            ]
-        },
-        "Simplified": {
-            "text": "滑鸡",
-            "refs": [
-                {
-                    "name": "滑",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
-                },
-                {
-                    "name": "鸡",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B8%A1"
-                }
-            ]
-        },
+        "Cantonese": "滑雞",
+        "Simplified": "滑鸡",
         "Yale": "waaht gāi",
         "Pinyin": "huá jī"
     },
     {
         "English": "duck",
-        "Cantonese":"鴨",
+        "Cantonese": "鴨",
         "Yale": "aap",
         "Jyutping": "aap3",
         "Simplified": "鸭",
@@ -97,38 +55,20 @@
         "English": "quail",
         "Cantonese": {
             "text": "鵪鶉",
-            "refs": [
-                {
-                    "name": "鵪鶉",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA%E9%B6%89"
-                },
-                {
-                    "name": "鵪",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA"
-                },
-                {
-                    "name": "鶉",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B6%89"
-                }
+            "wkty": [
+                "鵪鶉",
+                "鵪",
+                "鶉"
             ]
         },
         "Yale": "ām chēun",
         "Jyutping": "am1 ceon1",
         "Simplified": {
             "text": "鹌鹑",
-            "refs": [
-                {
-                    "name": "鹌鹑",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%8C%E9%B9%91"
-                },
-                {
-                    "name": "鹌",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%8C"
-                },
-                {
-                    "name": "鹑",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%91"
-                }
+            "wkty": [
+                "鹌鹑",
+                "鹌",
+                "鹑"
             ]
         },
         "Pinyin": "ān chún"
