@@ -139,45 +139,21 @@
     },
     {
         "English": "peach",
-        "Cantonese": {
-            "text": "桃",
-            "refs": [
-                {
-                    "name": "桃",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%A1%83"
-                }
-            ]
-        },
+        "Cantonese":"桃",
         "Yale": "tòuh",
         "Jyutping": "tou4",
         "Pinyin": "táo"
     },
     {
         "English": "pear",
-        "Cantonese": {
-            "text": "梨",
-            "refs": [
-                {
-                    "name": "梨",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%A2%A8"
-                }
-            ]
-        },
+        "Cantonese":"梨",
         "Yale": "lèih",
         "Jyutping": "lei4",
         "Pinyin": "lí"
     },
     {
         "English": "plum",
-        "Cantonese": {
-            "text": "李",
-            "refs": [
-                {
-                    "name": "李",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9D%8E"
-                }
-            ]
-        },
+        "Cantonese":  "李",
         "Yale": "léih",
         "Jyutping": "lei5",
         "Pinyin": "lǐ"
@@ -220,15 +196,7 @@
     },
     {
         "English": "tangerine",
-        "Cantonese": {
-            "text": "柑",
-            "refs": [
-                {
-                    "name": "李",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9F%91"
-                }
-            ]
-        },
+        "Cantonese":"柑",
         "Yale": "gām",
         "Jyutping": "gam1",
         "Pinyin": "gān"
