@@ -2,6 +2,10 @@ These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](h
 
 This repo also servers as the Issues database for the app and download site for Flutter builds (which I don't update often, so feel free to file an Issue for a new build).
 
+## Words
+
+As this database is focused on Cantonese dim sum (at least originally), the words are keyed by the Cantonese text fields. Mandarin is only specified if it differs from the Cantonese, and Simplified is the simplified characters version of the Mandarin (implicit or explicit), but again only specified if they are different.
+
 ## Images
 
 The images are landscape but not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin).
