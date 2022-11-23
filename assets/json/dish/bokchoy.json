@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "白菜",
+                "Cantonese": {
+                    "text": "白菜",
+                    "resources": [
+                        "白菜",
+                        "白",
+                        "菜"
+                    ]
+                },
                 "English": "bok choy",
                 "Yale": "baahk choi",
-                "Pinyin": "bái cài",
-                "resources": [
-                    {
-                        "name": "白菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E8%8F%9C"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "bái cài"
             }
         ],
         "images": [
