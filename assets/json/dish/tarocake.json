@@ -2,33 +2,20 @@
   {
     "words": [
       {
-        "Cantonese": "芋頭糕",
+        "Cantonese": {
+          "text": "芋頭糕",
+          "wkty": [
+            "芋頭糕",
+            "芋頭",
+            "芋",
+            "頭",
+            "糕"
+          ]
+        },
         "Simplified": "芋头糕",
         "English": "taro cake",
         "Yale": "wuh táu gōu",
-        "Pinyin": "yù tou gāo",
-        "resources": [
-          {
-            "name": "芋頭糕",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD%E7%B3%95"
-          },
-          {
-            "name": "芋頭",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-          },
-          {
-            "name": "芋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-          },
-          {
-            "name": "頭",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
-          },
-          {
-            "name": "糕",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-          }
-        ]
+        "Pinyin": "yù tou gāo"
       }
     ],
     "images": [
