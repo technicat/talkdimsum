@@ -1,55 +1,60 @@
 [
     {
-        "Cantonese": "菇",
         "English": "mushroom",
+        "Cantonese": {
+            "text": "菇",
+            "refs": [
+                {
+                    "name": "菇",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
+                }
+            ]
+        },
         "Yale": "gū",
-        "Pinyin": "gū",
-        "resources": [
-            {
-                "name": "菇",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-            }
-        ]
+        "Pinyin": "gū"
     },
     {
-        "Cantonese": "冬菇",
         "English": "winter mushroom",
+        "Cantonese": {
+            "text": "冬菇",
+            "refs": [
+                {
+                    "name": "冬菇",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%87"
+                },
+                {
+                    "name": "冬",
+                    "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
+                },
+                {
+                    "name": "菇",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
+                }
+            ]
+        },
         "Yale": "dūng gū",
-        "Pinyin": "dōng gū",
-        "resources": [
-            {
-                "name": "冬菇",
-                "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%87"
-            },
-            {
-                "name": "冬",
-                "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-            },
-            {
-                "name": "菇",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-            }
-        ]
+        "Pinyin": "dōng gū"
     },
     {
-        "Cantonese": "香菇",
-        "Simplified": "香菇",
         "English": "shiitake mushroom",
+        "Cantonese": {
+            "text": "香菇",
+            "refs": [
+                {
+                    "name": "香菇",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%8F%87"
+                },
+                {
+                    "name": "香",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
+                },
+                {
+                    "name": "菇",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
+                }
+            ]
+        },
         "Yale": "hēung gū",
-        "Pinyin": "xiāng gū",
-        "resources": [
-            {
-                "name": "香菇",
-                "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%8F%87"
-            },
-            {
-                "name": "香",
-                "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-            },
-            {
-                "name": "菇",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-            }
-        ]
+        "Pinyin": "xiāng gū"
     }
 ]
