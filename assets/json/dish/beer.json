@@ -2,24 +2,17 @@
   {
     "words": [
       {
-        "Cantonese": "啤酒",
+        "Cantonese": {
+          "text": "啤酒",
+          "wkty": [
+            "啤酒",
+            "啤",
+            "酒"
+          ]
+        },
         "English": "beer",
         "Yale": "bē jáu",
-        "Pinyin": "pí jiǔ",
-        "resources": [
-          {
-            "name": "啤酒",
-            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4%E9%85%92"
-          },
-          {
-            "name": "啤",
-            "URL": "https://en.wiktionary.org/wiki/%E5%95%A4"
-          },
-          {
-            "name": "酒",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-          }
-        ]
+        "Pinyin": "pí jiǔ"
       }
     ],
     "images": [
