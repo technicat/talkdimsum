@@ -3,25 +3,35 @@
         "words": [
             {
                 "English": "bao",
-                "Cantonese": "包",
-                "Mandarin": "包子",
+                "Cantonese": {
+                    "text": "包",
+                    "refs": [
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        }
+                    ]
+                },
                 "Yale": "bāau",
                 "Jyutping": "baau1",
-                "Pinyin": "bāo zi",
-                "resources": [
-                    {
-                        "name": "包子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85%E5%AD%90"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    }
-                ]
+                "Mandarin": {
+                    "text": "包子",
+                    "refs": [
+                        {
+                            "name": "包子",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85%E5%AD%90"
+                        },
+                        {
+                            "name": "包",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
+                        },
+                        {
+                            "name": "子",
+                            "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
+                        }
+                    ]
+                },
+                "Pinyin": "bāo zi"
             }
         ],
         "images": [
