@@ -189,6 +189,7 @@
         "Pinyin": "xián yú"
     },
     {
+        "English": "smelt",
         "Cantonese": {
             "text": "多春魚",
             "refs": [
@@ -210,11 +211,50 @@
                 }
             ]
         },
-        "Mandarin": "胡瓜魚",
-        "Simplified": "胡瓜鱼",
-        "English": "smelt",
-        "Yale": "ja dō chēun yú",
-        "Pinyin": "zhà hú guā yú"
+        "Yale": "dō chēun yú",
+        "Mandarin": {
+            "text": "胡瓜魚",
+            "refs": [
+                {
+                    "name": "胡瓜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1%E7%93%9C"
+                },
+                {
+                    "name": "胡",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1"
+                },
+                {
+                    "name": "瓜",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
+                },
+                {
+                    "name": "魚",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
+                }
+            ]
+        },
+        "Simplified": {
+            "text": "胡瓜鱼",
+            "refs": [
+                {
+                    "name": "胡瓜",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1%E7%93%9C"
+                },
+                {
+                    "name": "胡",
+                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1"
+                },
+                {
+                    "name": "瓜",
+                    "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
+                },
+                {
+                    "name": "鱼",
+                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
+                }
+            ]
+        },
+        "Pinyin": "hú guā yú"
     },
     {
         "Cantonese": "魷魚",
