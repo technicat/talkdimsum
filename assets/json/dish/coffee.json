@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "咖啡",
+                "Cantonese": {
+                    "text": "咖啡",
+                    "wkty": [
+                        "咖啡",
+                        "咖",
+                        "啡"
+                    ]
+                },
                 "English": "coffee",
                 "Yale": "ga fē",
-                "Pinyin": "kā fēi",
-                "resources": [
-                    {
-                        "name": "咖啡",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%95%A1"
-                    },
-                    {
-                        "name": "咖",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
-                    },
-                    {
-                        "name": "啡",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%95%A1"
-                    }
-                ]
+                "Pinyin": "kā fēi"
             }
         ],
         "images": [
