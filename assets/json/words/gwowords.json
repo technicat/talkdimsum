@@ -3,19 +3,10 @@
         "English": "fruit",
         "Cantonese": {
             "text": "水果",
-            "refs": [
-                {
-                    "name": "水果",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4%E6%9E%9C"
-                },
-                {
-                    "name": "水",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-                },
-                {
-                    "name": "果",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                }
+            "wkty": [
+                "水果",
+                "水",
+                "果"
             ]
         },
         "Yale": "séui gwó",
@@ -26,38 +17,20 @@
         "English": "apple",
         "Cantonese": {
             "text": "蘋果",
-            "refs": [
-                {
-                    "name": "蘋果",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%98%8B%E6%9E%9C"
-                },
-                {
-                    "name": "蘋",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%98%8B"
-                },
-                {
-                    "name": "果",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                }
+            "wkty": [
+                "蘋果",
+                "蘋",
+                "果"
             ]
         },
         "Yale": "pìhng gwó",
         "Jyutping": "ping4 gwo2",
         "Simplified": {
             "text": "苹果",
-            "refs": [
-                {
-                    "name": "苹果",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9%E6%9E%9C"
-                },
-                {
-                    "name": "苹",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8B%B9"
-                },
-                {
-                    "name": "果",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                }
+            "wkty": [
+                "苹果",
+                "苹",
+                "果"
             ]
         },
         "Pinyin": "píng guǒ"
@@ -66,19 +39,10 @@
         "English": "cashew",
         "Cantonese": {
             "text": "腰果",
-            "refs": [
-                {
-                    "name": "腰果",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%85%B0%E6%9E%9C"
-                },
-                {
-                    "name": "腰",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%85%B0"
-                },
-                {
-                    "name": "果",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                }
+            "wkty": [
+                "腰果",
+                "腰",
+                "果"
             ]
         },
         "Yale": "yīu gwó",
