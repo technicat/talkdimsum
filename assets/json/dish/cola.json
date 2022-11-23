@@ -2,25 +2,18 @@
   {
     "words": [
       {
-        "Cantonese": "可樂",
+        "Cantonese": {
+          "text": "可樂",
+          "wkty": [
+            "可樂",
+            "可",
+            "樂"
+          ]
+        },
         "Simplified": "可乐",
         "English": "cola",
         "Yale": "hó lohk",
-        "Pinyin": "kě lè",
-        "resources": [
-          {
-            "name": "可樂",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF%E6%A8%82"
-          },
-          {
-            "name": "可",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF"
-          },
-          {
-            "name": "樂",
-            "URL": "https://en.wiktionary.org/wiki/%E6%A8%82"
-          }
-        ]
+        "Pinyin": "kě lè"
       }
     ],
     "images": [
