@@ -3,19 +3,10 @@
         "English": "lemon",
         "Cantonese": {
             "text": "檸檬",
-            "refs": [
-                {
-                    "name": "檸檬",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8%E6%AA%AC"
-                },
-                {
-                    "name": "檸",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                },
-                {
-                    "name": "檬",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%AC"
-                }
+            "wkty": [
+                "檸檬",
+                "檸",
+                "檬"
             ]
         },
         "Yale": "nìhng mūng",
@@ -23,19 +14,10 @@
         "Pinyin": "níng méng",
         "Simplified": {
             "text": "柠檬",
-            "refs": [
-                {
-                    "name": "柠檬",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9F%A0%E6%AA%AC"
-                },
-                {
-                    "name": "柠",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9F%A0"
-                },
-                {
-                    "name": "檬",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%AA%AC"
-                }
+            "wkty": [
+                "柠檬",
+                "柠",
+                "檬"
             ]
         }
     },
@@ -50,19 +32,10 @@
         "English": "grapes",
         "Cantonese": {
             "text": "提子",
-            "refs": [
-                {
-                    "name": "提子",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%8F%90%E5%AD%90"
-                },
-                {
-                    "name": "提",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%8F%90"
-                },
-                {
-                    "name": "子",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                }
+            "wkty": [
+                "提子",
+                "提",
+                "子"
             ]
         },
         "Yale": "tàih ji",
@@ -104,19 +77,10 @@
         "English": "lychee",
         "Cantonese": {
             "text": "荔枝",
-            "refs": [
-                {
-                    "name": "荔枝",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%94%E6%9E%9D"
-                },
-                {
-                    "name": "荔",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%8D%94"
-                },
-                {
-                    "name": "枝",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%9E%9D"
-                }
+            "wkty": [
+                "荔枝",
+                "荔",
+                "枝"
             ]
         },
         "Yale": "laih jī",
@@ -124,69 +88,43 @@
     },
     {
         "English": "orange",
-        "Cantonese": {
-            "text": "橙",
-            "refs": [
-                {
-                    "name": "橙",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%A9%99"
-                }
-            ]
-        },
+        "Cantonese": "橙",
         "Yale": "cháang",
         "Jyutping": "caang2",
         "Pinyin": "chéng"
     },
     {
         "English": "peach",
-        "Cantonese":"桃",
+        "Cantonese": "桃",
         "Yale": "tòuh",
         "Jyutping": "tou4",
         "Pinyin": "táo"
     },
     {
         "English": "pear",
-        "Cantonese":"梨",
+        "Cantonese": "梨",
         "Yale": "lèih",
         "Jyutping": "lei4",
         "Pinyin": "lí"
     },
     {
         "English": "plum",
-        "Cantonese":  "李",
+        "Cantonese": "李",
         "Yale": "léih",
         "Jyutping": "lei5",
         "Pinyin": "lǐ"
     },
     {
         "English": "strawberry",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "士多啤梨",
-            "refs": [
-                {
-                    "name": "士多啤梨",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8"
-                },
-                {
-                    "name": "士",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB"
-                },
-                {
-                    "name": "多",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
-                },
-                {
-                    "name": "啤梨",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%95%A4%E6%A2%A8"
-                },
-                {
-                    "name": "啤",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%95%A4"
-                },
-                {
-                    "name": "梨",
-                    "URL": "https://en.wiktionary.org/wiki/E6%A2%A8"
-                }
+            "wkty": [
+                "士多啤梨",
+                "士",
+                "多",
+                "啤梨",
+                "啤",
+                "梨"
             ]
         },
         "Mandarin": "草莓",
@@ -196,7 +134,7 @@
     },
     {
         "English": "tangerine",
-        "Cantonese":"柑",
+        "Cantonese": "柑",
         "Yale": "gām",
         "Jyutping": "gam1",
         "Pinyin": "gān"
