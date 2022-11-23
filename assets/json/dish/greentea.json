@@ -2,26 +2,19 @@
     {
         "words": [
             {
-                "Cantonese": "綠茶",
+                "Cantonese": {
+                    "text": "綠茶",
+                    "wkty": [
+                        "綠茶",
+                        "綠",
+                        "茶"
+                    ]
+                },
                 "Simplified": "绿茶",
                 "English": "green tea",
                 "Yale": "luhk chàh",
                 "Jyutping": "luk6 caa4",
-                "Pinyin": "lǜ chá",
-                "resources": [
-                    {
-                        "name": "綠茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%8C%B6"
-                    },
-                    {
-                        "name": "綠",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "lǜ chá"
             }
         ],
         "images": [
@@ -126,17 +119,7 @@
                 "English": "gunpowder tea",
                 "Yale": "jyū chàh",
                 "Jyutping": "zyu1 caa4",
-                "Pinyin": "zhū chá",
-                "resources": [
-                    {
-                        "name": "珠",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%8F%A0"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "zhū chá"
             }
         ],
         "images": [
