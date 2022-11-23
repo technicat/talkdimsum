@@ -21,19 +21,10 @@
         "Jyutping": "bau1 ju4",
         "Simplified": {
             "text": "鲍鱼",
-            "refs": [
-                {
-                    "name": "鲍鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D%E9%B1%BC"
-                },
-                {
-                    "name": "鲍",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B2%8D"
-                },
-                {
-                    "name": "鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
-                }
+            "wkty": [
+                "鲍鱼",
+                "鲍",
+                "鱼"
             ]
         },
         "Pinyin": "bào yú"
@@ -42,70 +33,28 @@
         "English": "eel",
         "Cantonese": {
             "text": "鰻魚",
-            "refs": [
-                {
-                    "name": "鰻魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A"
-                },
-                {
-                    "name": "鰻",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB"
-                },
-                {
-                    "name": "魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                }
+            "wkty": [
+                "鰻魚",
+                "鰻",
+                "魚"
             ]
         },
         "Yale": "màahn yú",
         "Simplified": {
             "text": "鳗鱼",
-            "refs": [
-                {
-                    "name": "鳗鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B3%97%E9%B1%BC"
-                },
-                {
-                    "name": "鳗",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B3%97"
-                },
-                {
-                    "name": "鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
-                }
+            "wkty": [
+                "鳗鱼",
+                "鳗",
+                "鱼"
             ]
         },
         "Pinyin": "mán yú"
     },
     {
         "English": "fish fillet",
-        "Cantonese": {
-            "text": "魚片",
-            "refs": [
-                {
-                    "name": "魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                },
-                {
-                    "name": "片",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-                }
-            ]
-        },
+        "Cantonese": "魚片",
         "Yale": "yú pín",
-        "Simplified": {
-            "text": "鱼片",
-            "refs": [
-                {
-                    "name": "鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
-                },
-                {
-                    "name": "片",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-                }
-            ]
-        },
+        "Simplified": "鱼片",
         "Pinyin": "yú piàn"
     },
     {
@@ -128,37 +77,19 @@
         "English": "salted fish",
         "Cantonese": {
             "text": "鹹魚",
-            "refs": [
-                {
-                    "name": "鹹魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E9%AD%9A"
-                },
-                {
-                    "name": "鹹",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
-                },
-                {
-                    "name": "魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-                }
+            "wkty": [
+                "鹹魚",
+                "鹹",
+                "魚"
             ]
         },
         "Yale": "hàahm yùh",
         "Simplified": {
             "text": "咸鱼",
-            "refs": [
-                {
-                    "name": "咸鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%92%B8%E9%B1%BC"
-                },
-                {
-                    "name": "咸",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%92%B8"
-                },
-                {
-                    "name": "鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
-                }
+            "wkty": [
+                "咸鱼",
+                "咸",
+                "鱼"
             ]
         },
         "Pinyin": "xián yú"
@@ -167,66 +98,30 @@
         "English": "smelt",
         "Cantonese": {
             "text": "多春魚",
-            "refs": [
-                {
-                    "name": "多春魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A%E6%98%A5%E9%AD%9A"
-                },
-                {
-                    "name": "多",
-                    "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
-                },
-                {
-                    "name": "春",
-                    "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-                },
-                {
-                    "name": "魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                }
+            "wkty": [
+                "多春魚",
+                "多",
+                "春",
+                "魚"
             ]
         },
         "Yale": "dō chēun yú",
         "Mandarin": {
             "text": "胡瓜魚",
-            "refs": [
-                {
-                    "name": "胡瓜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1%E7%93%9C"
-                },
-                {
-                    "name": "胡",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1"
-                },
-                {
-                    "name": "瓜",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                },
-                {
-                    "name": "魚",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                }
+            "wkty": [
+                "胡瓜",
+                "胡",
+                "瓜",
+                "魚"
             ]
         },
         "Simplified": {
             "text": "胡瓜鱼",
-            "refs": [
-                {
-                    "name": "胡瓜",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1%E7%93%9C"
-                },
-                {
-                    "name": "胡",
-                    "URL": "https://en.wiktionary.org/wiki/%E8%83%A1"
-                },
-                {
-                    "name": "瓜",
-                    "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                },
-                {
-                    "name": "鱼",
-                    "URL": "https://en.wiktionary.org/wiki/%E9%B1%BC"
-                }
+            "wkty": [
+                "胡瓜",
+                "胡",
+                "瓜",
+                "鱼"
             ]
         },
         "Pinyin": "hú guā yú"
