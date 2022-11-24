@@ -2,6 +2,7 @@
     {
         "words": [
             {
+                "English": "BBQ pork bun",
                 "Cantonese": {
                     "text": "叉燒包",
                     "wkty": [
@@ -12,6 +13,7 @@
                         "包"
                     ]
                 },
+                "Yale": "chā sīu bāau",
                 "Simplified": {
                     "text": "叉烧包",
                     "wkty": [
@@ -22,8 +24,6 @@
                         "包"
                     ]
                 },
-                "English": "BBQ pork bun",
-                "Yale": "chā sīu bāau",
                 "Pinyin": "chā shāo bāo"
             }
         ],
@@ -115,11 +115,22 @@
                         "叉燒包",
                         "叉燒",
                         "叉",
+                        "燒",
                         "包"
                     ]
                 },
-                "Simplified": "焗叉烧包",
                 "Yale": "guhk chā sīu bāau",
+                "Simplified": {
+                    "text": "焗叉烧包",
+                    "wkty": [
+                        "焗",
+                        "叉烧包",
+                        "叉烧",
+                        "叉",
+                        "烧",
+                        "包"
+                    ]
+                },
                 "Pinyin": "jú chā shāo bāo"
             }
         ],
