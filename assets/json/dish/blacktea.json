@@ -2,6 +2,7 @@
     {
         "words": [
             {
+                "English": "black tea",
                 "Cantonese": {
                     "text": "紅茶",
                     "wkty": [
@@ -10,8 +11,14 @@
                         "茶"
                     ]
                 },
-                "Simplified": "红茶",
-                "English": "black tea",
+                "Simplified":  {
+                    "text": "红茶",
+                    "wkty": [
+                        "红茶",
+                        "红",
+                        "茶"
+                    ]
+                },
                 "Yale": "hùhng chàh",
                 "Jyutping": "hung4 caa4",
                 "Pinyin": "hóng chá"
