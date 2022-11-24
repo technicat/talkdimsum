@@ -2,26 +2,26 @@
     {
         "words": [
             {
-                "Cantonese": "臘腸",
-                "Simplified": "腊肠",
                 "English": "Chinese sausage",
+                "Cantonese": {
+                    "text": "臘腸",
+                    "wkty": [
+                        "臘腸",
+                        "臘",
+                        "腸"
+                    ]
+                },
                 "Yale": "laahp chéung",
                 "Jyutping": "laap6 ceung2",
-                "Pinyin": "là cháng",
-                "resources": [
-                    {
-                        "name": "臘腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%87%98%E8%85%B8"
-                    },
-                    {
-                        "name": "臘",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%87%98"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    }
-                ]
+                "Simplified": {
+                    "text": "腊肠",
+                    "wkty": [
+                        "臘腸",
+                        "臘",
+                        "腸"
+                    ]
+                },
+                "Pinyin": "là cháng"
             }
         ],
         "images": [
