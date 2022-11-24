@@ -158,8 +158,8 @@
                 },
                 "Yale": "baak hēung gwó luhk chàh",
                 "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
-                "Simplified":  {
-                    "text":"百香果绿茶",
+                "Simplified": {
+                    "text": "百香果绿茶",
                     "wkty": [
                         "百香果",
                         "百",
@@ -194,32 +194,19 @@
     {
         "words": [
             {
-                "Cantonese": "杏仁茶",
+                "Cantonese": {
+                    "text": "杏仁茶",
+                    "wkty": [
+                        "杏仁茶",
+                        "杏仁",
+                        "杏",
+                        "仁",
+                        "茶"
+                    ]
+                },
                 "English": "almond tea",
                 "Yale": "hahng yàhn chàh",
-                "Pinyin": "xìng rén chá",
-                "resources": [
-                    {
-                        "name": "杏仁茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81%E8%8C%B6"
-                    },
-                    {
-                        "name": "杏仁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81"
-                    },
-                    {
-                        "name": "杏",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F"
-                    },
-                    {
-                        "name": "仁",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "xìng rén chá"
             }
         ],
         "images": [
