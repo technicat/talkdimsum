@@ -2,6 +2,7 @@
   {
     "words": [
       {
+        "English": "cola",
         "Cantonese": {
           "text": "可樂",
           "wkty": [
@@ -10,9 +11,15 @@
             "樂"
           ]
         },
-        "Simplified": "可乐",
-        "English": "cola",
         "Yale": "hó lohk",
+        "Simplified": {
+          "text": "可乐",
+          "wkty": [
+            "可樂",
+            "可",
+            "樂"
+          ]
+        },
         "Pinyin": "kě lè"
       }
     ],
