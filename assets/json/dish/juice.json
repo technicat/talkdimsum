@@ -5,13 +5,21 @@
         "English": "cider",
         "Cantonese": {
           "text": "西打",
-          "wkty": ["西打","西", "打"
+          "wkty": [
+            "西打",
+            "西",
+            "打"
           ]
         },
         "Yale": "sāi dá",
         "Mandarin": {
           "text": "蘋果酒",
-          "wkty": ["蘋果酒", "蘋果", "蘋","果", "酒"
+          "wkty": [
+            "蘋果酒",
+            "蘋果",
+            "蘋",
+            "果",
+            "酒"
           ]
         },
         "Simplified": {
@@ -51,13 +59,7 @@
         "Cantonese": "水",
         "English": "water",
         "Yale": "séui",
-        "Pinyin": "shuǐ",
-        "resources": [
-          {
-            "name": "水",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-          }
-        ]
+        "Pinyin": "shuǐ"
       }
     ],
     "images": [
@@ -81,24 +83,17 @@
   {
     "words": [
       {
-        "Cantonese": "冰水",
+        "Cantonese": {
+          "text": "冰水",
+          "wkty": [
+            "冰水",
+            "冰",
+            "水"
+          ]
+        },
         "English": "ice water",
         "Yale": "bīng séui",
-        "Pinyin": "bīng shuǐ",
-        "resources": [
-          {
-            "name": "冰水",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B0%E6%B0%B4"
-          },
-          {
-            "name": "冰",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B0"
-          },
-          {
-            "name": "水",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-          }
-        ]
+        "Pinyin": "bīng shuǐ"
       }
     ],
     "images": [

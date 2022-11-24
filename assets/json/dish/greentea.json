@@ -2,6 +2,7 @@
     {
         "words": [
             {
+                "English": "green tea",
                 "Cantonese": {
                     "text": "綠茶",
                     "wkty": [
@@ -10,10 +11,16 @@
                         "茶"
                     ]
                 },
-                "Simplified": "绿茶",
-                "English": "green tea",
                 "Yale": "luhk chàh",
                 "Jyutping": "luk6 caa4",
+                "Simplified": {
+                    "text": "绿茶",
+                    "wkty": [
+                        "绿茶",
+                        "绿",
+                        "茶"
+                    ]
+                },
                 "Pinyin": "lǜ chá"
             }
         ],
