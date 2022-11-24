@@ -150,24 +150,17 @@
   {
     "words": [
       {
-        "Cantonese": "百事",
         "English": "Pepsi",
+        "Cantonese": {
+          "text": "百事",
+          "wkty": [
+            "百事",
+            "百",
+            "事"
+          ]
+        },
         "Yale": "baak sih",
-        "Pinyin": "bǎi shì",
-        "resources": [
-          {
-            "name": "百事",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BE%E4%BA%8B"
-          },
-          {
-            "name": "百",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BE"
-          },
-          {
-            "name": "事",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BA%8B"
-          }
-        ]
+        "Pinyin": "bǎi shì"
       }
     ],
     "images": [
