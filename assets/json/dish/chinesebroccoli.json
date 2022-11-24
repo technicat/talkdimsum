@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "芥蘭",
-                "Simplified": "芥蘭",
+                "Cantonese": {
+                    "text": "芥蘭",
+                    "wkty": [
+                        "芥蘭",
+                        "芥",
+                        "蘭"
+                    ]
+                },
+                "Simplified":  {
+                    "text": "芥兰",
+                    "wkty": [
+                        "芥兰",
+                        "芥",
+                        "兰"
+                    ]
+                },
                 "English": "Chinese broccoli",
                 "Yale": "gaai láan",
-                "Pinyin": "gài lán",
-                "resources": [
-                    {
-                        "name": "芥蘭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5%E8%98%AD"
-                    },
-                    {
-                        "name": "芥",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5"
-                    },
-                    {
-                        "name": "蘭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%98%AD"
-                    }
-                ]
+                "Pinyin": "gài lán"
             }
         ],
         "images": [
