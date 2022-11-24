@@ -111,37 +111,31 @@
     {
         "words": [
             {
-                "Cantonese": "瑤柱白粥",
-                "Simplified": "瑶柱白粥",
+                "Cantonese": {
+                    "text": "瑤柱白粥",
+                    "wkty": [
+                        "瑤柱",
+                        "瑤",
+                        "柱",
+                        "白粥",
+                        "白",
+                        "粥"
+                    ]
+                },
+                "Simplified":  {
+                    "text": "瑶柱白粥",
+                    "wkty": [
+                        "瑶柱",
+                        "瑶",
+                        "柱",
+                        "白粥",
+                        "白",
+                        "粥"
+                    ]
+                },
                 "English": "congee w/ dried scallops",
                 "Yale": "yìuh chyúh baahk jūk",
-                "Pinyin": "yáo zhù bái zhōu",
-                "resources": [
-                    {
-                        "name": "瑤柱",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%91%A4%E6%9F%B1"
-                    },
-                    {
-                        "name": "瑤",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%91%A4"
-                    },
-                    {
-                        "name": "柱",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9F%B1"
-                    },
-                    {
-                        "name": "白粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%B2%A5"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Pinyin": "yáo zhù bái zhōu"
             }
         ],
         "images": [
