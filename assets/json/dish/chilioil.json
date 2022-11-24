@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "紅油",
-                "Simplified": "红油",
                 "English": "red oil",
+                "Cantonese": {
+                    "text": "紅油",
+                    "wkty": [
+                        "紅油",
+                        "紅",
+                        "油"
+                    ]
+                },
                 "Yale": "hùhng yàuh",
-                "Pinyin": "hóng yóu",
-                "resources": [
-                    {
-                        "name": "紅油",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E6%B2%B9"
-                    },
-                    {
-                        "name": "紅",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    }
-                ]
+                "Simplified": {
+                    "text": "红油",
+                    "wkty": [
+                        "红油",
+                        "红",
+                        "油"
+                    ]
+                },
+                "Pinyin": "hóng yóu"
             }
         ],
         "images": [
@@ -85,44 +85,22 @@
     {
         "words": [
             {
-                "Cantonese": "潮州辣椒油",
                 "English": "Chaozhou chili oil",
+                "Cantonese": {
+                    "text": "潮州辣椒油",
+                    "wkty": [
+                        "潮州",
+                        "潮",
+                        "州",
+                        "辣椒油",
+                        "辣椒",
+                        "辣",
+                        "椒",
+                        "油"
+                    ]
+                },
                 "Yale": "chìuh jāu laaht jīu yàuh",
-                "Pinyin": "cháo zhōu là jiāo yóu",
-                "resources": [
-                    {
-                        "name": "潮州",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
-                    },
-                    {
-                        "name": "潮",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
-                    },
-                    {
-                        "name": "州",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
-                    },
-                    {
-                        "name": "辣椒油",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%BE%A3%E6%A4%92%E6%B2%B9"
-                    },
-                    {
-                        "name": "辣椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%BE%A3%E6%A4%92"
-                    },
-                    {
-                        "name": "辣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%BE%A3"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    }
-                ]
+                "Pinyin": "cháo zhōu là jiāo yóu"
             }
         ],
         "images": [
