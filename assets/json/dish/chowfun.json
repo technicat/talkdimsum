@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "河粉",
                 "English": "chow fun",
+                "Cantonese": {
+                    "text": "河粉",
+                    "wkty": [
+                        "河粉",
+                        "河",
+                        "粉"
+                    ]
+                },
                 "Yale": "hòh fán",
-                "Pinyin": "hé fěn",
-                "resources": [
-                    {
-                        "name": "河粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3%E7%B2%89"
-                    },
-                    {
-                        "name": "河",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Pinyin": "hé fěn"
             }
         ],
         "images": [
@@ -44,45 +37,35 @@
     {
         "words": [
             {
-                "Cantonese": "乾炒牛河",
-                "Simplified": "干炒牛河",
                 "English": "beef chow fun",
+                "Cantonese": {
+                    "text": "乾炒牛河",
+                    "wkty": [
+                        "乾炒牛河",
+                        "乾炒",
+                        "乾",
+                        "炒",
+                        "牛肉",
+                        "牛",
+                        "河粉",
+                        "河"
+                    ]
+                },
                 "Yale": "gōn cháau ngàuh hòh",
-                "Pinyin": "gān chǎo niú hé",
-                "resources": [
-                    {
-                        "name": "乾炒牛河",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE%E7%82%92%E7%89%9B%E6%B2%B3"
-                    },
-                    {
-                        "name": "乾炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE%E7%82%92"
-                    },
-                    {
-                        "name": "乾",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE"
-                    },
-                    {
-                        "name": "炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-                    },
-                    {
-                        "name": "牛肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "河粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3%E7%B2%89"
-                    },
-                    {
-                        "name": "河",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "干炒牛河",
+                    "wkty": [
+                        "干炒牛河",
+                        "干炒",
+                        "乾",
+                        "炒",
+                        "牛肉",
+                        "牛",
+                        "河粉",
+                        "河"
+                    ]
+                },
+                "Pinyin": "gān chǎo niú hé"
             }
         ],
         "images": [
@@ -150,37 +133,31 @@
     {
         "words": [
             {
-                "Cantonese": "乾炒雞河",
-                "Simplified": "乾炒鸡河",
                 "English": "chicken chow fun",
+                "Cantonese": {
+                    "text": "乾炒雞河",
+                    "wkty": [
+                        "乾炒",
+                        "乾",
+                        "炒",
+                        "雞",
+                        "河粉",
+                        "河"
+                    ]
+                },
                 "Yale": "gōn cháau gāi hòh",
-                "Pinyin": "gān chǎo jī hé",
-                "resources": [
-                    {
-                        "name": "乾炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE%E7%82%92"
-                    },
-                    {
-                        "name": "乾",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE"
-                    },
-                    {
-                        "name": "炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "河粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3%E7%B2%89"
-                    },
-                    {
-                        "name": "河",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "干炒鸡河",
+                    "wkty": [
+                        "干炒",
+                        "干",
+                        "炒",
+                        "鸡",
+                        "河粉",
+                        "河"
+                    ]
+                },
+                "Pinyin": "gān chǎo jī hé"
             }
         ],
         "images": [
@@ -207,37 +184,29 @@
     {
         "words": [
             {
-                "Cantonese": "乾炒蝦河",
-                "Simplified": "乾炒虾河",
                 "English": "shrimp chow fun",
+                "Cantonese": {
+                    "text": "乾炒蝦河",
+                    "wkty": [
+                        "乾炒",
+                        "乾",
+                        "炒",
+                        "蝦",
+                        "河"
+                    ]
+                },
                 "Yale": "gōn cháau hā hòh",
-                "Pinyin": "gān chǎo xiā hé",
-                "resources": [
-                    {
-                        "name": "乾炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE%E7%82%92"
-                    },
-                    {
-                        "name": "乾",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE"
-                    },
-                    {
-                        "name": "炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "河粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3%E7%B2%89"
-                    },
-                    {
-                        "name": "河",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "干炒虾河",
+                    "wkty": [
+                        "干炒",
+                        "干",
+                        "炒",
+                        "虾",
+                        "河"
+                    ]
+                },
+                "Pinyin": "gān chǎo xiā hé"
             }
         ],
         "images": [
