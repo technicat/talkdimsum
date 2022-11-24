@@ -99,8 +99,8 @@
                     ]
                 },
                 "Yale": "yaht sīk màahn yú bōu jái faahn",
-                "Simplified":  {
-                    "text":"日式鳗鱼煲仔饭",
+                "Simplified": {
+                    "text": "日式鳗鱼煲仔饭",
                     "wkty": [
                         "日式",
                         "日",
@@ -151,45 +151,39 @@
     {
         "words": [
             {
-                "Cantonese": "香菇滑雞煲仔飯",
-                "Simplified": "香菇滑鸡煲仔饭",
                 "English": "mushroom chicken clay pot rice",
+                "Cantonese": {
+                    "text": "香菇滑雞煲仔飯",
+                    "wkty": [
+                        "香菇",
+                        "香",
+                        "菇",
+                        "滑",
+                        "雞",
+                        "煲仔飯",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "飯"
+                    ]
+                },
                 "Yale": "hēung gū bōu jái faahn",
-                "Pinyin": "xiāng gū bāo zǐ fàn",
-                "resources": [
-                    {
-                        "name": "香菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%8F%87"
-                    },
-                    {
-                        "name": "香",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-                    },
-                    {
-                        "name": "菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                    },
-                    {
-                        "name": "煲仔飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
-                    },
-                    {
-                        "name": "煲仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94"
-                    },
-                    {
-                        "name": "煲",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2"
-                    },
-                    {
-                        "name": "仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "香菇滑鸡煲仔饭",
+                    "wkty": [
+                        "香菇",
+                        "香",
+                        "菇",
+                        "滑",
+                        "鸡",
+                        "煲仔饭",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "xiāng gū bāo zǐ fàn"
             }
         ],
         "images": [
