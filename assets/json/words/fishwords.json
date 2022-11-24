@@ -174,7 +174,7 @@
         },
         "Yale": "yàuh yú",
         "Jyutping": "jau4 ju2",
-        "Simplified":  {
+        "Simplified": {
             "text": "鱿鱼",
             "wkty": [
                 "魷魚",
@@ -185,11 +185,27 @@
         "Pinyin": "yóu yú"
     },
     {
-        "Cantonese": "吞拿魚",
-        "Simplifid": "吞拿鱼",
         "English": "tuna",
+        "Cantonese": {
+            "text": "吞拿魚",
+            "wkty": [
+                "吞拿",
+                "吞",
+                "拿",
+                "魚"
+            ]
+        },
         "Yale": "tān nàh yú",
         "Jyutping": "tan1 naa4 ju2",
+        "Simplified": {
+            "text": "吞拿鱼",
+            "wkty": [
+                "吞拿",
+                "吞",
+                "拿",
+                "鱼"
+            ]
+        },
         "Pinyin": "tūn ná yú"
     }
 ]
