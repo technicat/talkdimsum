@@ -12,7 +12,16 @@
                         "音"
                     ]
                 },
-                "Simplified": "铁观音",
+                "Simplified":  {
+                    "text": "铁观音",
+                    "wkty": [
+                        "铁观音",
+                        "铁",
+                        "观音",
+                        "观",
+                        "音"
+                    ]
+                },
                 "English": "iron goddess tea",
                 "Yale": "tit gūn yām",
                 "Pinyin": "tiě guān yīn"
