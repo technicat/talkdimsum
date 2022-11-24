@@ -68,41 +68,33 @@
   {
     "words": [
       {
-        "Cantonese": "豉油皇炒麵",
-        "Simplified": "豉油皇炒面",
         "English": "soy sauce stir-fried noodles",
+        "Cantonese": {
+          "text": "豉油皇炒麵",
+          "wkty": [
+            "豉油",
+            "豉",
+            "油",
+            "皇",
+            "炒麵",
+            "炒",
+            "麵"
+          ]
+        },
         "Yale": "sih yàuh wòhng cháau mihn",
-        "Pinyin": "chǐ yóu huáng chǎo miàn",
-        "resources": [
-          {
-            "name": "豉油",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B2%B9"
-          },
-          {
-            "name": "豉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
-          },
-          {
-            "name": "油",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-          },
-          {
-            "name": "皇",
-            "URL": "https://en.wiktionary.org/wiki/%E7%9A%87"
-          },
-          {
-            "name": "炒麵",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%BA%B5"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "麵",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-          }
-        ]
+        "Simplified": {
+          "text": "豉油皇炒面",
+          "wkty": [
+            "豉油",
+            "豉",
+            "油",
+            "皇",
+            "炒面",
+            "炒",
+            "面"
+          ]
+        },
+        "Pinyin": "chǐ yóu huáng chǎo miàn"
       }
     ],
     "images": [
