@@ -412,26 +412,26 @@
     {
         "words": [
             {
-                "Cantonese": "鹽酥雞",
-                "Simplified": "盐酥鸡",
                 "English": "popcorn chicken",
+                "Cantonese": {
+                    "text": "鹽酥雞",
+                    "wkty": [
+                        "鹽",
+                        "酥",
+                        "雞"
+                    ]
+                },
                 "Yale": "yìhm sōu gāi",
                 "Jyutping": "jim6 so1 gai1",
-                "Pinyin": "yán sū jī",
-                "resources": [
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "酥",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "盐酥鸡",
+                    "wkty": [
+                        "盐",
+                        "酥",
+                        "鸡"
+                    ]
+                },
+                "Pinyin": "yán sū jī"
             }
         ],
         "images": [
