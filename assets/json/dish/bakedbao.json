@@ -3,7 +3,7 @@
         "words": [
             {
                 "Cantonese": {
-                    "name": "雞尾包",
+                    "text": "雞尾包",
                     "wkty": [
                         "雞尾",
                         "雞",
@@ -11,7 +11,15 @@
                         "包"
                     ]
                 },
-                "Simplified": "鸡尾包",
+                "Simplified": {
+                    "text": "鸡尾包",
+                    "wkty": [
+                        "鸡尾",
+                        "鸡",
+                        "尾",
+                        "包"
+                    ]
+                },
                 "English": "cocktail bun",
                 "Yale": "gāi méih bāau",
                 "Jyutping": "gai1 méi5 bao1",

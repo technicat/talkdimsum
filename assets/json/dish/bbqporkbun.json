@@ -12,7 +12,16 @@
                         "包"
                     ]
                 },
-                "Simplified": "叉烧包",
+                "Simplified": {
+                    "text": "叉烧包",
+                    "wkty": [
+                        "叉烧包",
+                        "叉烧",
+                        "叉",
+                        "烧",
+                        "包"
+                    ]
+                },
                 "English": "BBQ pork bun",
                 "Yale": "chā sīu bāau",
                 "Pinyin": "chā shāo bāo"
