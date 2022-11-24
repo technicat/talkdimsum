@@ -163,11 +163,25 @@
         "Pinyin": "hú guā yú"
     },
     {
-        "Cantonese": "魷魚",
-        "Simplified": "鱿鱼",
         "English": "squid",
+        "Cantonese": {
+            "text": "魷魚",
+            "wkty": [
+                "魷魚",
+                "魷",
+                "魚"
+            ]
+        },
         "Yale": "yàuh yú",
         "Jyutping": "jau4 ju2",
+        "Simplified":  {
+            "text": "鱿鱼",
+            "wkty": [
+                "魷魚",
+                "魷",
+                "鱼"
+            ]
+        },
         "Pinyin": "yóu yú"
     },
     {
