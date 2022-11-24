@@ -2,26 +2,26 @@
   {
     "words": [
       {
-        "Cantonese": "炒麵",
-        "Simplified": "炒面",
         "English": "stir-fried noodles",
+        "Cantonese": {
+          "text": "炒麵",
+          "wkty": [
+            "炒麵",
+            "炒",
+            "麵"
+          ]
+        },
         "Yale": "cháau mihn",
         "Jyutping": "caau2 min6",
-        "Pinyin": "chǎo miàn",
-        "resources": [
-          {
-            "name": "炒麵",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%BA%B5"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "麵",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-          }
-        ]
+        "Simplified": {
+          "text": "炒面",
+          "wkty": [
+            "炒面",
+            "炒",
+            "面"
+          ]
+        },
+        "Pinyin": "chǎo miàn"
       }
     ],
     "images": [
