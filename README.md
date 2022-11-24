@@ -1,10 +1,12 @@
-These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com), both the Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the [Flutter version](https://github.com/technicat/dartdimsum) (copy.scm is a Gauche script that copies these files to my local copies of those repos).
+These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com), both the Swift version is on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the [Flutter version](https://github.com/technicat/dartdimsum) (copy.scm is a Gauche script that copies these files to my local copies of those repos). The Flutter code is not regularly updated, so it may not run this data.
 
 This repo also servers as the Issues database for the app and download site for Flutter builds (which I don't update often, so feel free to file an Issue for a new build).
 
 ## Words
 
 As this database is focused on Cantonese dim sum (at least originally), the words are keyed by the Cantonese text fields. Mandarin is only specified if it differs from the Cantonese, and Simplified is the simplified characters version of the Mandarin (implicit or explicit), but again only specified if they are different.
+
+In-progress: moving the wiktionary links from full URLs to a more concise list of the words, let the apps create the URLs.
 
 ## Images
 
