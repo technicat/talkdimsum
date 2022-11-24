@@ -62,6 +62,7 @@
     {
         "words": [
             {
+                "English": "golden monkey tea",
                 "Cantonese": {
                     "text": "金猴茶",
                     "wkty": [
@@ -70,8 +71,6 @@
                         "茶"
                     ]
                 },
-                "Simplified": "金猴茶",
-                "English": "golden monkey tea",
                 "Yale": "gām hàuh chàh",
                 "Jyutping": "gam1 hau4 caa4",
                 "Pinyin": "jīn hóuchá"
@@ -107,6 +106,7 @@
     {
         "words": [
             {
+                "English": "keemun black tea",
                 "Cantonese": {
                     "text": "祁門紅茶",
                     "wkty": [
@@ -118,10 +118,19 @@
                         "茶"
                     ]
                 },
-                "Simplified": "祁门红茶",
-                "English": "keemun black tea",
                 "Yale": "kèih mùhn hùhng chàh",
                 "Jyutping": "kei4 mun4 hung4 caa4",
+                "Simplified":  {
+                    "text": "祁门红茶",
+                    "wkty": [
+                        "祁門",
+                        "祁",
+                        "門",
+                        "红茶",
+                        "红",
+                        "茶"
+                    ]
+                },
                 "Pinyin": "qí mén hóng chá"
             }
         ],
@@ -156,6 +165,7 @@
     {
         "words": [
             {
+                "English": "lapsang souchang",
                 "Cantonese": {
                     "text": "立山小種",
                     "wkty": [
@@ -165,12 +175,21 @@
                         "山",
                         "小種",
                         "小",
-                        "種",
-                        "茶"
+                        "種"
                     ]
                 },
-                "Simplified": "立山小种",
-                "English": "lapsang souchang",
+                "Simplified":  {
+                    "text": "立山小种",
+                    "wkty": [
+                        "立山小種",
+                        "立山",
+                        "立",
+                        "山",
+                        "小種",
+                        "小",
+                        "种"
+                    ]
+                },
                 "Yale": "laahp sāan síu júng",
                 "Jyutping": "laap6 saan1 siu2 zung2",
                 "Pinyin": "lì shān xiǎo zhǒng"
