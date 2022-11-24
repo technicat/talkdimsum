@@ -81,57 +81,41 @@
     {
         "words": [
             {
-                "Cantonese": "日式鰻魚煲仔飯",
-                "Simplified": "日式鳗鱼煲仔饭",
                 "English": "Japanese-style eel clay pot rice",
+                "Cantonese": {
+                    "text": "日式鰻魚煲仔飯",
+                    "wkty": [
+                        "日式",
+                        "日",
+                        "式",
+                        "鰻魚",
+                        "鰻",
+                        "魚",
+                        "煲仔飯",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "飯"
+                    ]
+                },
                 "Yale": "yaht sīk màahn yú bōu jái faahn",
-                "Pinyin": "rì shì mán yú bāo zǐ fàn",
-                "resources": [
-                    {
-                        "name": "日式",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%97%A5%E5%BC%8F"
-                    },
-                    {
-                        "name": "日",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%97%A5"
-                    },
-                    {
-                        "name": "式",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
-                    },
-                    {
-                        "name": "鰻魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A"
-                    },
-                    {
-                        "name": "鰻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "煲仔飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
-                    },
-                    {
-                        "name": "煲仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94"
-                    },
-                    {
-                        "name": "煲",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2"
-                    },
-                    {
-                        "name": "仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified":  {
+                    "text":"日式鳗鱼煲仔饭",
+                    "wkty": [
+                        "日式",
+                        "日",
+                        "式",
+                        "鳗鱼",
+                        "鳗",
+                        "鱼",
+                        "煲仔饭",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "rì shì mán yú bāo zǐ fàn"
             }
         ],
         "images": [
