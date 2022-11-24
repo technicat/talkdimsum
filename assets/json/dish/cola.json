@@ -101,6 +101,7 @@
   {
     "words": [
       {
+        "English": "diet Coke",
         "Cantonese": {
           "text": "健怡可樂",
           "wkty": [
@@ -111,6 +112,7 @@
             "樂"
           ]
         },
+        "Yale": "gihn yìh hó lohk",
         "Simplified": {
           "text": "健怡可乐",
           "wkty": [
@@ -121,31 +123,7 @@
             "乐"
           ]
         },
-        "English": "diet Coke",
-        "Yale": "gihn yìh hó lohk",
-        "Pinyin": "jiàn yí Kě lè",
-        "resources": [
-          {
-            "name": "健",
-            "URL": "https://en.wiktionary.org/wiki/%E5%81%A5"
-          },
-          {
-            "name": "怡",
-            "URL": "https://en.wiktionary.org/wiki/%E6%80%A1"
-          },
-          {
-            "name": "可樂",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF%E6%A8%82"
-          },
-          {
-            "name": "可",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF"
-          },
-          {
-            "name": "樂",
-            "URL": "https://en.wiktionary.org/wiki/%E6%A8%82"
-          }
-        ]
+        "Pinyin": "jiàn yí Kě lè"
       }
     ],
     "images": [
