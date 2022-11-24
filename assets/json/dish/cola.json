@@ -101,8 +101,26 @@
   {
     "words": [
       {
-        "Cantonese": "健怡可樂",
-        "Simplified": "健怡可乐",
+        "Cantonese": {
+          "text": "健怡可樂",
+          "wkty": [
+            "健",
+            "怡",
+            "可樂",
+            "可",
+            "樂"
+          ]
+        },
+        "Simplified": {
+          "text": "健怡可乐",
+          "wkty": [
+            "健",
+            "怡",
+            "可乐",
+            "可",
+            "乐"
+          ]
+        },
         "English": "diet Coke",
         "Yale": "gihn yìh hó lohk",
         "Pinyin": "jiàn yí Kě lè",
