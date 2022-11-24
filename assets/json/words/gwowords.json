@@ -50,11 +50,27 @@
         "Pinyin": "yāo guǒ"
     },
     {
-        "Cantonese": "無花果",
-        "Simplified": "无花果",
         "English": "fig",
+        "Cantonese":  {
+            "text": "無花果",
+            "wkty": [
+                "無花果",
+                "無",
+                "花",
+                "果"
+            ]
+        },
         "Yale": "mòuh fā gwó",
         "Jyutping": "mou4 faa1 gwo2",
+        "Simplified":   {
+            "text": "无花果",
+            "wkty": [
+                "无花果",
+                "无",
+                "花",
+                "果"
+            ]
+        },
         "Pinyin": "wú huā guǒ"
     },
     {
