@@ -423,7 +423,7 @@
                 },
                 "Yale": "yìhm sōu gāi",
                 "Jyutping": "jim6 so1 gai1",
-                "Simplified":  {
+                "Simplified": {
                     "text": "盐酥鸡",
                     "wkty": [
                         "盐",
@@ -457,37 +457,31 @@
     {
         "words": [
             {
-                "Cantonese": "可樂雞翅",
-                "Simplified": "可乐鸡翅",
                 "English": "cola chicken wings",
+                "Cantonese": {
+                    "text": "可樂雞翅",
+                    "wkty": [
+                        "可樂",
+                        "可",
+                        "樂",
+                        "雞翅",
+                        "雞",
+                        "翅"
+                    ]
+                },
                 "Yale": "hó lohk gāi chi",
-                "Pinyin": "kě lè jī chì",
-                "resources": [
-                    {
-                        "name": "可樂",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF%E6%A8%82"
-                    },
-                    {
-                        "name": "可",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%AF"
-                    },
-                    {
-                        "name": "樂",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A8%82"
-                    },
-                    {
-                        "name": "雞翅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E7%BF%85"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "翅",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BF%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "可乐鸡翅",
+                    "wkty": [
+                        "可乐",
+                        "可",
+                        "乐",
+                        "鸡翅",
+                        "鸡",
+                        "翅"
+                    ]
+                },
+                "Pinyin": "kě lè jī chì"
             }
         ],
         "images": [
