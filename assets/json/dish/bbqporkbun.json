@@ -178,45 +178,37 @@
     {
         "words": [
             {
-                "Cantonese": "酥皮焗叉燒包",
-                "Simplified": "酥皮焗叉烧包",
                 "English": "crispy baked BBQ pork bun",
+                "Cantonese": {
+                    "text": "酥皮焗叉燒包",
+                    "wkty": [
+                        "酥皮",
+                        "酥",
+                        "皮",
+                        "焗",
+                        "叉燒包",
+                        "叉燒",
+                        "叉",
+                        "燒",
+                        "包"
+                    ]
+                },
                 "Yale": "sōu pèih guhk chā sīu bāau",
-                "Pinyin": "sū pí jú chā shāo bāo",
-                "resources": [
-                    {
-                        "name": "酥皮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%85%A5%E7%9A%AE"
-                    },
-                    {
-                        "name": "酥",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-                    },
-                    {
-                        "name": "皮",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
-                    },
-                    {
-                        "name": "焗",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
-                    },
-                    {
-                        "name": "叉燒包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
-                    },
-                    {
-                        "name": "叉燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                    },
-                    {
-                        "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "酥皮焗叉烧包",
+                    "wkty": [
+                        "酥皮",
+                        "酥",
+                        "皮",
+                        "焗",
+                        "叉烧包",
+                        "叉烧",
+                        "叉",
+                        "烧",
+                        "包"
+                    ]
+                },
+                "Pinyin": "sū pí jú chā shāo bāo"
             }
         ],
         "images": [
