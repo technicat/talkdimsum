@@ -143,42 +143,34 @@
     {
         "words": [
             {
-                "Cantonese": "百香果綠茶",
-                "Simplified": "百香果绿茶",
                 "English": "passion fruit green tea",
+                "Cantonese": {
+                    "text": "百香果綠茶",
+                    "wkty": [
+                        "百香果",
+                        "百",
+                        "香",
+                        "果",
+                        "綠茶",
+                        "綠",
+                        "茶"
+                    ]
+                },
                 "Yale": "baak hēung gwó luhk chàh",
                 "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
-                "Pinyin": "bǎi xiāng guǒ lǜ chá",
-                "resources": [
-                    {
-                        "name": "百香果",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BE%E9%A6%99%E6%9E%9C"
-                    },
-                    {
-                        "name": "百",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BE"
-                    },
-                    {
-                        "name": "香",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-                    },
-                    {
-                        "name": "果",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                    },
-                    {
-                        "name": "綠茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%8C%B6"
-                    },
-                    {
-                        "name": "綠",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified":  {
+                    "text":"百香果绿茶",
+                    "wkty": [
+                        "百香果",
+                        "百",
+                        "香",
+                        "果",
+                        "绿茶",
+                        "绿",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "bǎi xiāng guǒ lǜ chá"
             }
         ],
         "images": [
@@ -187,7 +179,7 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "description": "Green tea brewed with passion fruit.\n\n**Characters**\n\n[百香果](https://en.wiktionary.org/wiki/%E7%99%BE%E9%A6%99%E6%9E%9C) is *passion fruit*, and [綠茶](https://en.wiktionary.org/wiki/%E7%B6%A0%E8%8C%B6) is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香果綠茶 is *passion fruit green tea*.",
+        "description": "Green tea brewed with passion fruit.\n\n**Characters**\n\n[百香果](https://en.wiktionary.org/wiki/%E7%99%BE%E9%A6%99%E6%9E%9C) is [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)), and [綠茶](https://en.wiktionary.org/wiki/%E7%B6%A0%E8%8C%B6) is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香果綠茶 is *passion fruit green tea*.",
         "tags": [
             "冷飲",
             "水果茶",
