@@ -2,33 +2,29 @@
     {
         "words": [
             {
-                "Cantonese": "煲仔飯",
-                "Simplified": "煲仔饭",
                 "English": "clay pot rice",
+                "Cantonese": {
+                    "text": "煲仔飯",
+                    "wkty": [
+                        "煲仔飯",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "飯"
+                    ]
+                },
                 "Yale": "bōu jái faahn",
-                "Pinyin": "bāo zǐ fàn",
-                "resources": [
-                    {
-                        "name": "煲仔飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
-                    },
-                    {
-                        "name": "煲仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94"
-                    },
-                    {
-                        "name": "煲",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2"
-                    },
-                    {
-                        "name": "仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "煲仔饭",
+                    "wkty": [
+                        "煲仔饭",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "bāo zǐ fàn"
             }
         ],
         "images": [
@@ -293,7 +289,6 @@
             "肉",
             "豬肉"
         ],
-        "resources": [
-        ]
+        "resources": []
     }
 ]
