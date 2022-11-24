@@ -53,29 +53,27 @@
     {
         "words": [
             {
-                "Cantonese": "臘腸卷",
-                "Simplified": "腊肠卷",
                 "English": "Chinese sausage roll",
+                "Cantonese": {
+                    "text": "臘腸卷",
+                    "wkty": [
+                        "臘腸",
+                        "臘",
+                        "腸",
+                        "卷"
+                    ]
+                },
                 "Yale": "laahp chéung gyún",
-                "Pinyin": "là cháng juàn",
-                "resources": [
-                    {
-                        "name": "臘腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%87%98%E8%85%B8"
-                    },
-                    {
-                        "name": "臘",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%87%98"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "卷",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%B7"
-                    }
-                ]
+                "Simplified": {
+                    "text": "腊肠卷",
+                    "wkty": [
+                        "腊肠",
+                        "腊",
+                        "肠",
+                        "卷"
+                    ]
+                },
+                "Pinyin": "là cháng juàn"
             }
         ],
         "images": [
