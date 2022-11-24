@@ -6,7 +6,7 @@ This repo also servers as the Issues database for the app and download site for 
 
 As this database is focused on Cantonese dim sum (at least originally), the words are keyed by the Cantonese text fields. Mandarin is only specified if it differs from the Cantonese, and Simplified is the simplified characters version of the Mandarin (implicit or explicit), but again only specified if they are different.
 
-In-progress: moving the wiktionary links from full URLs to a more concise list of the words, let the apps create the URLs.
+In-progress: moving the *resource* wiktionary link lists from full URLs to a more concise *wkty* list of just the characters or character groups -- let the apps create the URLs by appending the characters to the common wiktionary URL path. If the Cantonese/Mandarin/Simplified is just a string and not a text/wkty pair, then it is assumed there should only be links generated for the individual characters.
 
 ## Images
 
