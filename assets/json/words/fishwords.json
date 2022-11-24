@@ -59,8 +59,26 @@
     },
     {
         "English": "milkfish",
-        "Cantonese": "虱目魚",
-        "Simplified": "虱目鱼",
+        "Cantonese": {
+            "text": "虱目魚",
+            "wkty": [
+                "虱目魚",
+                "虱目",
+                "虱",
+                "目",
+                "魚"
+            ]
+        },
+        "Simplified": {
+            "text": "虱目鱼",
+            "wkty": [
+                "虱目魚",
+                "虱目",
+                "虱",
+                "目",
+                "鱼"
+            ]
+        },
         "Yale": "sāt muhk yú",
         "Jyutping": "sat1 muk6 ju2",
         "Pinyin": "shī mù yú"
