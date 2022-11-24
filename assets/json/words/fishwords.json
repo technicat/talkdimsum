@@ -69,6 +69,8 @@
                 "魚"
             ]
         },
+        "Yale": "sāt muhk yú",
+        "Jyutping": "sat1 muk6 ju2",
         "Simplified": {
             "text": "虱目鱼",
             "wkty": [
@@ -79,16 +81,32 @@
                 "鱼"
             ]
         },
-        "Yale": "sāt muhk yú",
-        "Jyutping": "sat1 muk6 ju2",
         "Pinyin": "shī mù yú"
     },
     {
-        "Cantonese": "三文魚",
-        "Simplified": "三文鱼",
         "English": "salmon",
+        "Cantonese": {
+            "text": "三文魚",
+            "wkty": [
+                "三文魚",
+                "三文",
+                "三",
+                "文",
+                "魚"
+            ]
+        },
         "Yale": "sāam màhn yùh",
         "Jyutping": "saam1 man4 ju4",
+        "Simplified": {
+            "text": "三文鱼",
+            "wkty": [
+                "三文魚",
+                "三文",
+                "三",
+                "文",
+                "鱼"
+            ]
+        },
         "Pinyin": "sān wén yú"
     },
     {
