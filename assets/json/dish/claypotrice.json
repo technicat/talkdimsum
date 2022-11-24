@@ -216,37 +216,41 @@
     {
         "words": [
             {
-                "Cantonese": "鹹魚肉餅煲仔飯",
-                "Simplified": "咸鱼肉饼煲仔饭",
                 "English": "salted fish w/ minced pork clay pot rice",
+                "Cantonese": {
+                    "text": "鹹魚肉餅煲仔飯",
+                    "wkty": [
+                        "鹹魚",
+                        "鹹",
+                        "魚",
+                        "肉餅",
+                        "肉",
+                        "餅",
+                        "煲仔飯",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "飯"
+                    ]
+                },
+                "Simplified": {
+                    "text": "咸鱼肉饼煲仔饭",
+                    "wkty": [
+                        "鹹鱼",
+                        "鹹",
+                        "鱼",
+                        "肉餅",
+                        "肉",
+                        "餅",
+                        "煲仔饭",
+                        "煲仔",
+                        "煲",
+                        "仔",
+                        "饭"
+                    ]
+                },
                 "Yale": "hàahm yùh yuhk béng bōu jái faahn",
                 "Pinyin": "xián yú ròu bǐng bāo zǐ fàn",
-                "resources": [
-                    {
-                        "name": "鹹魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E9%AD%9A"
-                    },
-                    {
-                        "name": "鹹",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-                    },
-                    {
-                        "name": "肉餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%A4%85"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
             }
         ],
         "images": [
