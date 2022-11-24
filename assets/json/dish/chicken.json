@@ -275,29 +275,27 @@
     {
         "words": [
             {
-                "Cantonese": "左宗棠雞",
-                "Simplified": "左宗棠鸡",
                 "English": "General Tso's chicken",
+                "Cantonese": {
+                    "text": "左宗棠雞",
+                    "wkty": [
+                        "左",
+                        "宗",
+                        "棠",
+                        "雞"
+                    ]
+                },
                 "Yale": "jó jūng tòhng gāi",
-                "Pinyin": "zuǒ zōng táng jī",
-                "resources": [
-                    {
-                        "name": "左",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%A6"
-                    },
-                    {
-                        "name": "宗",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AE%97"
-                    },
-                    {
-                        "name": "棠",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A3%A0"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    }
-                ]
+                "Simplified": {
+                    "text": "左宗棠鸡",
+                    "wkty": [
+                        "左",
+                        "宗",
+                        "棠",
+                        "鸡"
+                    ]
+                },
+                "Pinyin": "zuǒ zōng táng jī"
             }
         ],
         "images": [
