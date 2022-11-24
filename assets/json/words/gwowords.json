@@ -51,7 +51,7 @@
     },
     {
         "English": "fig",
-        "Cantonese":  {
+        "Cantonese": {
             "text": "無花果",
             "wkty": [
                 "無花果",
@@ -62,7 +62,7 @@
         },
         "Yale": "mòuh fā gwó",
         "Jyutping": "mou4 faa1 gwo2",
-        "Simplified":   {
+        "Simplified": {
             "text": "无花果",
             "wkty": [
                 "无花果",
@@ -74,10 +74,29 @@
         "Pinyin": "wú huā guǒ"
     },
     {
-        "Cantonese": "奇異果",
         "English": "kiwi",
+        "Cantonese": {
+            "text": "奇異果",
+            "wkty": [
+                "奇異果",
+                "奇異",
+                "奇",
+                "異",
+                "果"
+            ]
+        },
         "Yale": "kèi yih gwó",
         "Jyutping": "kei4 ji6 gwo2",
+        "Simplified": {
+            "text": "奇异果",
+            "wkty": [
+                "奇异果",
+                "奇异",
+                "奇",
+                "异",
+                "果"
+            ]
+        },
         "Pinyin": "qí yì guǒ"
     },
     {
