@@ -239,33 +239,29 @@
   {
     "words": [
       {
-        "Cantonese": "魚滑豆腐",
-        "Simplified": "鱼滑豆腐",
+        "Cantonese": {
+          "text": "魚滑豆腐",
+          "wkty": [
+            "魚",
+            "滑",
+            "豆腐",
+            "豆",
+            "腐"
+          ]
+        },
+        "Simplified": {
+          "text": "鱼滑豆腐",
+          "wkty": [
+            "鱼",
+            "滑",
+            "豆腐",
+            "豆",
+            "腐"
+          ]
+        },
         "English": "stuffed tofu w/ fish",
         "Yale": "yú waht dauh fuh",
-        "Pinyin": "yú huá dòu fu",
-        "resources": [
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-          },
-          {
-            "name": "滑",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
-          },
-          {
-            "name": "豆腐",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-          },
-          {
-            "name": "豆",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-          },
-          {
-            "name": "腐",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-          }
-        ]
+        "Pinyin": "yú huá dòu fu"
       }
     ],
     "images": [
