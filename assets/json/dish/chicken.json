@@ -340,41 +340,33 @@
     {
         "words": [
             {
-                "Cantonese": "宮保雞丁",
-                "Simplified": "宫保鸡丁",
                 "English": "kung pao chicken",
+                "Cantonese": {
+                    "text": "宮保雞丁",
+                    "wkty": [
+                        "宮保雞丁",
+                        "宮保",
+                        "宮",
+                        "保",
+                        "雞丁",
+                        "雞",
+                        "丁"
+                    ]
+                },
                 "Yale": "gūng bóu gāi dīng",
-                "Pinyin": "gōng bǎo jī dīng",
-                "resources": [
-                    {
-                        "name": "宮保雞丁",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AE%AE%E4%BF%9D%E9%9B%9E%E4%B8%81"
-                    },
-                    {
-                        "name": "宮保",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AE%AE%E4%BF%9D"
-                    },
-                    {
-                        "name": "宮",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AE%AE"
-                    },
-                    {
-                        "name": "保",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BF%9D"
-                    },
-                    {
-                        "name": "雞丁",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E4%B8%81"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "丁",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%81"
-                    }
-                ]
+                "Simplified": {
+                    "text": "宫保鸡丁",
+                    "wkty": [
+                        "宮保鸡丁",
+                        "宮保",
+                        "宮",
+                        "保",
+                        "鸡丁",
+                        "鸡",
+                        "丁"
+                    ]
+                },
+                "Pinyin": "gōng bǎo jī dīng"
             }
         ],
         "images": [
