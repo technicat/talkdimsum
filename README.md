@@ -6,7 +6,7 @@ This repo also servers as the Issues database for the app and download site for 
 
 Every Word has English and Cantonese names, and Mandarin (traditional characters) and Simplified (simplified characters of the Mandarin name) if they are different.
 
-Yale romanization specifies the Cantonese pronunciation, and Pinyin specifies the Mandarin.
+Yale romanization specifies the Cantonese pronunciation, and Pinyin specifies the Mandarin. Started add Jyutping, eventually should be able to derive the Yale from that.
 
 As this database is focused on Cantonese dim sum (at least originally), the words are keyed by the Cantonese text. Mandarin is only specified if it differs from the Cantonese, and Simplified is the simplified characters version of the Mandarin (implicit or explicit), but again only specified if they are different.
 
