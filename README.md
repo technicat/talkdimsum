@@ -18,7 +18,7 @@ The images are landscape but not consistent in aspect. They are scaled down to a
 
 ## Restaurants
 
-All the restaurant links and data are found manually on the Internet (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and PF Chang's).
+All the restaurant links and data are found manually on the Internet, and I add them if it looks like they're still operating and serve Cantonese-style dim sum, at the very least ha gow and siu mai (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and PF Chang's, which does list dim sum on their menu but it's just spring rolls and potstickers).
 
 For the restaurant links, the restaurant's own website is listed first if available, but no Facebook (because, Facebook), and other links are listed aphabetically by site name. I try to avoid any foor ordering sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, not so much in Europe, and OpenRice is better in Asia) and typically has enough photos so I can tell if it's real dim sum, Travelocity is omitted because it hangs my link checker.
 
