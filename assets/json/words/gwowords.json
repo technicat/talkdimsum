@@ -100,15 +100,31 @@
         "Pinyin": "qí yì guǒ"
     },
     {
-        "Cantonese": "芒果",
         "English": "mango",
+        "Cantonese": {
+            "text": "芒果",
+            "wkty": [
+                "芒果",
+                "芒",
+                "果"
+            ]
+        },
         "Yale": "mōng gwó",
         "Jyutping": "mong1 gwo2",
         "Pinyin": "máng guǒ"
     },
     {
-        "Cantonese": "百香果",
         "English": "passion fruit",
+        "Cantonese": {
+            "text": "百香果",
+            "wkty": [
+                "百香果",
+                "百香",
+                "百",
+                "香",
+                "果"
+            ]
+        },
         "Yale": "baak hēung gwó",
         "Jyutping": "baak3 hoeng1 gwo2",
         "Pinyin": "bǎi xiāng guǒ"
