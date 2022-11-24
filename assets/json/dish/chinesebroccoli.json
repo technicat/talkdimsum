@@ -10,7 +10,7 @@
                         "蘭"
                     ]
                 },
-                "Simplified":  {
+                "Simplified": {
                     "text": "芥兰",
                     "wkty": [
                         "芥兰",
@@ -50,37 +50,31 @@
     {
         "words": [
             {
-                "Cantonese": "蠔油芥蘭",
-                "Simplified": "蚝油芥蘭",
                 "English": "Chinese broccoli with oyster sauce",
+                "Cantonese": {
+                    "text": "蠔油芥蘭",
+                    "wkty": [
+                        "蠔油",
+                        "蠔",
+                        "油",
+                        "芥蘭",
+                        "芥",
+                        "蘭"
+                    ]
+                },
                 "Yale": "hòuh yàuh gaai láan",
-                "Pinyin": "háo yóu gài lán",
-                "resources": [
-                    {
-                        "name": "蠔油",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9"
-                    },
-                    {
-                        "name": "蠔",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    },
-                    {
-                        "name": "芥蘭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5%E8%98%AD"
-                    },
-                    {
-                        "name": "芥",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5"
-                    },
-                    {
-                        "name": "蘭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%98%AD"
-                    }
-                ]
+                "Simplified": {
+                    "text": "蚝油芥蘭",
+                    "wkty": [
+                        "蚝油",
+                        "蚝",
+                        "油",
+                        "芥蘭",
+                        "芥",
+                        "蘭"
+                    ]
+                },
+                "Pinyin": "háo yóu gài lán"
             }
         ],
         "images": [
