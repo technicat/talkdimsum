@@ -105,29 +105,27 @@
     {
         "words": [
             {
-                "Cantonese": "芝麻雞",
-                "Simplified": "芝麻鸡",
                 "English": "sesame chicken",
+                "Cantonese": {
+                    "text": "芝麻雞",
+                    "wkty": [
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "雞"
+                    ]
+                },
                 "Yale": "jī màh gāi",
-                "Pinyin": "zhī ma jī",
-                "resources": [
-                    {
-                        "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    }
-                ]
+                "Simplified": {
+                    "text": "芝麻鸡",
+                    "wkty": [
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "鸡"
+                    ]
+                },
+                "Pinyin": "zhī ma jī"
             }
         ],
         "images": [
