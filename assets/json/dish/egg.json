@@ -101,33 +101,29 @@
   {
     "words": [
       {
-        "Cantonese": "茶葉蛋",
-        "Simplified": "茶叶蛋",
         "English": "tea egg",
+        "Cantonese": {
+          "text": "茶葉蛋",
+          "wkty": [
+            "茶葉蛋",
+            "茶葉",
+            "茶",
+            "葉",
+            "蛋"
+          ]
+        },
         "Yale": "chàh yihp dáan",
-        "Pinyin": "chá yè dàn",
-        "resources": [
-          {
-            "name": "茶葉蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6%E8%91%89%E8%9B%8B"
-          },
-          {
-            "name": "茶葉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6%E8%91%89"
-          },
-          {
-            "name": "茶",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-          },
-          {
-            "name": "葉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%91%89"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
-        ]
+        "Simplified":  {
+          "text":"茶叶蛋",
+          "wkty": [
+            "茶叶蛋",
+            "茶叶",
+            "茶",
+            "叶",
+            "蛋"
+          ]
+        },
+        "Pinyin": "chá yè dàn"
       }
     ],
     "images": [
