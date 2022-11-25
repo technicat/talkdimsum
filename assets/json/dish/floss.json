@@ -2,21 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "肉鬆",
-                "Simplified": "肉松",
                 "English": "pork sung",
+                "Cantonese": {
+                    "text": "肉鬆",
+                    "wkty": [
+                        "肉鬆",
+                        "肉",
+                        "鬆"
+                    ]
+                },
                 "Yale": "yuhk sūng",
-                "Pinyin": "ròu sōng",
-                "resources": [
-                    {
-                        "name": "肉鬆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%AC%86"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "肉松",
+                    "wkty": [
+                        "肉松",
+                        "肉",
+                        "松"
+                    ]
+                },
+                "Pinyin": "ròu sōng"
             }
         ],
         "images": [
