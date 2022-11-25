@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "飲品",
-        "Simplified": "饮品",
         "English": "drinks",
+        "Cantonese": {
+          "text": "飲品",
+          "wkty": [
+            "飲品",
+            "飲",
+            "品"
+          ]
+        },
         "Yale": "yám bán",
-        "Pinyin": "yǐn pǐn",
-        "resources": [
-          {
-            "name": "飲品",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%B2%E5%93%81"
-          },
-          {
-            "name": "飲",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%B2"
-          },
-          {
-            "name": "品",
-            "URL": "https://en.wiktionary.org/wiki/%E5%93%81"
-          }
-        ]
+        "Simplified": {
+          "text": "饮品",
+          "wkty": [
+            "饮品",
+            "饮",
+            "品"
+          ]
+        },
+        "Pinyin": "yǐn pǐn"
       }
     ],
     "images": [
