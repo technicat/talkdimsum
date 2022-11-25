@@ -2,34 +2,30 @@
     {
         "words": [
             {
-                "Cantonese": "茶餐廳",
-                "Simplified": "茶餐厅",
                 "English": "Hong Kong cafe",
+                "Cantonese": {
+                    "text": "茶餐廳",
+                    "wkty": [
+                        "茶餐廳",
+                        "茶",
+                        "餐廳",
+                        "餐",
+                        "廳"
+                    ]
+                },
                 "Yale": "chàh chāan tēng",
                 "Jyutping": "caa4 caan1 teng1",
-                "Pinyin": "chá cān tīng",
-                "resources": [
-                    {
-                        "name": "茶餐廳",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6%E9%A4%90%E5%BB%B3"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    },
-                    {
-                        "name": "餐廳",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%90%E5%BB%B3"
-                    },
-                    {
-                        "name": "餐",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
-                    },
-                    {
-                        "name": "廳",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BB%B3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "茶餐厅",
+                    "wkty": [
+                        "茶餐厅",
+                        "茶",
+                        "餐廳",
+                        "餐",
+                        "厅"
+                    ]
+                },
+                "Pinyin": "chá cān tīng"
             }
         ],
         "images": [
