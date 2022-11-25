@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "京菜",
                 "English": "Beijing cuisine",
+                "Cantonese": {
+                    "text": "京菜",
+                    "wkty": [
+                        "京菜",
+                        "京",
+                        "菜"
+                    ]
+                },
                 "Yale": "gīng choi",
-                "Pinyin": "jīng cà",
-                "resources": [
-                    {
-                        "name": "京菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BA%AC%E8%8F%9C"
-                    },
-                    {
-                        "name": "京",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BA%AC"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "jīng cà"
             }
         ],
         "images": [
@@ -686,7 +679,10 @@
                 "English": "new dishes",
                 "Cantonese": {
                     "text": "新菜",
-                    "wkty": ["新","菜"]
+                    "wkty": [
+                        "新",
+                        "菜"
+                    ]
                 },
                 "Yale": "sān choi",
                 "Pinyin": "xīn cài"
