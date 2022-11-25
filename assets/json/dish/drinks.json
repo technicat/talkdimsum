@@ -113,25 +113,25 @@
   {
     "words": [
       {
-        "Cantonese": "熱飲",
-        "Simplified": "热饮",
         "English": "hot drinks",
+        "Cantonese": {
+          "text": "熱飲",
+          "wkty": [
+            "熱飲",
+            "熱",
+            "飲"
+          ]
+        },
         "Yale": "yiht yám",
-        "Pinyin": "rè yǐn",
-        "resources": [
-          {
-            "name": "熱飲",
-            "URL": "https://en.wiktionary.org/wiki/%E7%86%B1%E9%A3%B2"
-          },
-          {
-            "name": "熱",
-            "URL": "https://en.wiktionary.org/wiki/%E7%86%B1"
-          },
-          {
-            "name": "飲",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%B2"
-          }
-        ]
+        "Simplified":  {
+          "text": "热饮",
+          "wkty": [
+            "熱饮",
+            "熱",
+            "饮"
+          ]
+        },
+        "Pinyin": "rè yǐn"
       }
     ],
     "images": [
