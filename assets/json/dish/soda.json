@@ -86,7 +86,7 @@
                     ]
                 },
                 "Yale": "hàahm nìhng chāt héi",
-                "Simplified":  {
+                "Simplified": {
                     "text": "咸柠七",
                     "wkty": [
                         "咸柠七",
@@ -133,24 +133,17 @@
     {
         "words": [
             {
-                "Cantonese": "雪碧",
                 "English": "Sprite",
+                "Cantonese": {
+                    "text": "雪碧",
+                    "wkty": [
+                        "雪碧",
+                        "雪",
+                        "碧"
+                    ]
+                },
                 "Yale": "syut bīk",
-                "Pinyin": "Xuě bì",
-                "resources": [
-                    {
-                        "name": "雪碧",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%AA%E7%A2%A7"
-                    },
-                    {
-                        "name": "雪",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%AA"
-                    },
-                    {
-                        "name": "碧",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%A2%A7"
-                    }
-                ]
+                "Pinyin": "Xuě bì"
             }
         ],
         "images": [
@@ -176,26 +169,26 @@
     {
         "words": [
             {
-                "Cantonese": "芬達",
-                "Simplified": "芬达",
                 "English": "Fanta",
+                "Cantonese": {
+                    "text": "芬達",
+                    "wkty": [
+                        "芬達",
+                        "芬",
+                        "達"
+                    ]
+                },
                 "Yale": "fēn daaht",
                 "Jyutping": "fan1 daat6",
-                "Pinyin": "fēn dá",
-                "resources": [
-                    {
-                        "name": "芬達",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%AC%E9%81%94"
-                    },
-                    {
-                        "name": "芬",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%AC"
-                    },
-                    {
-                        "name": "達",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%81%94"
-                    }
-                ]
+                "Simplified": {
+                    "text": "芬达",
+                    "wkty": [
+                        "芬达",
+                        "芬",
+                        "达"
+                    ]
+                },
+                "Pinyin": "fēn dá"
             }
         ],
         "images": [
@@ -204,7 +197,7 @@
                 "place": "The Taco Stand, Las Vegas"
             }
         ],
-        "description": "芬達 is a [loanword](https://en.wikipedia.org/wiki/Loanword) for [Fanta](https://en.wikipedia.org/wiki/Fanta) (the Mandarin pronunciation (fēn dá) sounds especially close).",
+        "description": "[芬達](https://en.wiktionary.org/wiki/%E8%8A%AC%E9%81%94) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for [Fanta](https://en.wikipedia.org/wiki/Fanta) (the Mandarin pronunciation (fēn dá) sounds especially close).",
         "tags": [
             "冷飲",
             "茶餐廳",
