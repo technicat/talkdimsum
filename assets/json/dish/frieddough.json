@@ -82,25 +82,25 @@
     {
         "words": [
             {
-                "Cantonese": "炸兩",
-                "Simplified": "炸两",
                 "English": "fried dough crepe",
+                "Cantonese": {
+                    "text": "炸兩",
+                    "wkty": [
+                        "炸兩",
+                        "炸",
+                        "兩"
+                    ]
+                },
                 "Yale": "ja léung",
-                "Pinyin": "zhá liǎng",
-                "resources": [
-                    {
-                        "name": "炸兩",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8%E5%85%A9"
-                    },
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "兩",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%85%A9"
-                    }
-                ]
+                "Simplified": {
+                    "text": "炸两",
+                    "wkty": [
+                        "炸两",
+                        "炸",
+                        "两"
+                    ]
+                },
+                "Pinyin": "zhá liǎng"
             }
         ],
         "images": [
