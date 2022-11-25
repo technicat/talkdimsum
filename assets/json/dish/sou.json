@@ -29,33 +29,29 @@
   {
     "words": [
       {
-        "Cantonese": "叉燒酥",
-        "Simplified": "叉烧酥",
         "English": "BBQ pork puff",
+        "Cantonese": {
+          "text": "叉燒酥",
+          "wkty": [
+            "叉燒酥",
+            "叉燒",
+            "叉",
+            "燒",
+            "酥"
+          ]
+        },
         "Yale": "chā sīu sōu",
-        "Pinyin": "chā shāo sū",
-        "resources": [
-          {
-            "name": "叉燒酥",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E9%85%A5"
-          },
-          {
-            "name": "叉燒",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-          },
-          {
-            "name": "叉",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-          },
-          {
-            "name": "燒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Simplified": {
+          "text": "叉烧酥",
+          "wkty": [
+            "叉烧酥",
+            "叉烧",
+            "叉",
+            "烧",
+            "酥"
+          ]
+        },
+        "Pinyin": "chā shāo sū"
       }
     ],
     "images": [
