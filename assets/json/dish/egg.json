@@ -55,25 +55,25 @@
   {
     "words": [
       {
-        "Cantonese": "滷蛋",
-        "Simplified": "卤蛋",
         "English": "soy egg",
+        "Cantonese": {
+          "text": "滷蛋",
+          "wkty": [
+            "滷蛋",
+            "滷",
+            "蛋"
+          ]
+        },
         "Yale": "lóuh dáan",
-        "Pinyin": "lǔ dàn",
-        "resources": [
-          {
-            "name": "滷蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7%E8%9B%8B"
-          },
-          {
-            "name": "滷",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
-        ]
+        "Simplified": {
+          "text": "卤蛋",
+          "wkty": [
+            "滷蛋",
+            "滷",
+            "蛋"
+          ]
+        },
+        "Pinyin": "lǔ dàn"
       }
     ],
     "images": [
