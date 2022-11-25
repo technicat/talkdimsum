@@ -2,36 +2,20 @@
     {
         "words": [
             {
-                "Cantonese": "白糖沙翁",
+                "Cantonese": {
+                    "text": "白糖沙翁",
+                    "wkty": [
+                        "白糖",
+                        "白",
+                        "糖",
+                        "沙翁",
+                        "沙",
+                        "翁"
+                    ]
+                },
                 "English": "Chinese sugar doughnut",
                 "Yale": "baahk tòhng sā yūng",
-                "Pinyin": "bái táng shā wēng",
-                "resources": [
-                    {
-                        "name": "白糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%B3%96"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
-                    },
-                    {
-                        "name": "沙翁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99%E7%BF%81"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "翁",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BF%81"
-                    }
-                ]
+                "Pinyin": "bái táng shā wēng"
             }
         ],
         "images": [
