@@ -56,42 +56,33 @@
   {
     "words": [
       {
-        "Cantonese": "咖喱魚蛋",
-        "Mandarin": "咖哩魚蛋",
-        "Simplified": "咖哩鱼蛋",
         "English": "curry fish balls",
+        "Cantonese": {
+          "text": "咖喱魚蛋",
+          "wkty": [
+            "咖喱魚蛋",
+            "咖喱",
+            "咖",
+            "喱",
+            "魚蛋",
+            "魚",
+            "蛋"
+          ]
+        },
         "Yale": "ga lēi yú daahn",
-        "Pinyin": "kā li yú dàn",
-        "resources": [
-          {
-            "name": "咖喱魚蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1%E9%AD%9A%E8%9B%8B"
-          },
-          {
-            "name": "咖喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1"
-          },
-          {
-            "name": "咖",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
-          },
-          {
-            "name": "喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%96%B1"
-          },
-          {
-            "name": "魚蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A%E8%9B%8B"
-          },
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
-        ]
+        "Simplified": {
+          "text": "咖哩鱼蛋",
+          "wkty": [
+            "咖喱鱼蛋",
+            "咖喱",
+            "咖",
+            "喱",
+            "鱼蛋",
+            "鱼",
+            "蛋"
+          ]
+        },
+        "Pinyin": "kā li yú dàn"
       }
     ],
     "images": [
