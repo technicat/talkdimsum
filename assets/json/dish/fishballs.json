@@ -131,29 +131,27 @@
   {
     "words": [
       {
-        "Cantonese": "炸魚蛋",
-        "Simplified": "炸鱼蛋",
         "English": "fried fish balls",
+        "Cantonese": {
+          "text": "炸魚蛋",
+          "wkty": [
+            "炸",
+            "魚蛋",
+            "魚",
+            "蛋"
+          ]
+        },
         "Yale": "ja yú daahn",
-        "Pinyin": "zhá yú dàn",
-        "resources": [
-          {
-            "name": "炸",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-          },
-          {
-            "name": "魚蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A%E8%9B%8B"
-          },
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
-        ]
+        "Simplified": {
+          "text": "炸鱼蛋",
+          "wkty": [
+            "炸",
+            "鱼蛋",
+            "鱼",
+            "蛋"
+          ]
+        },
+        "Pinyin": "zhá yú dàn"
       }
     ],
     "images": [
