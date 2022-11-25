@@ -2,34 +2,21 @@
   {
     "words": [
       {
-        "Cantonese": "炸多春魚",
+        "English": "fried smelt",
+        "Cantonese": {
+          "text": "炸多春魚",
+          "wkty": [
+            "炸",
+            "多春魚",
+            "多",
+            "春",
+            "魚"
+          ]
+        },
         "Mandarin": "炸胡瓜魚",
         "Simplified": "炸胡瓜鱼",
-        "English": "fried smelt",
         "Yale": "ja dō chēun yú",
-        "Pinyin": "zhà hú guā yú",
-        "resources": [
-          {
-            "name": "炸",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-          },
-          {
-            "name": "多春魚",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A%E6%98%A5%E9%AD%9A"
-          },
-          {
-            "name": "多",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
-          },
-          {
-            "name": "春",
-            "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-          },
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-          }
-        ]
+        "Pinyin": "zhà hú guā yú"
       }
     ],
     "images": [
