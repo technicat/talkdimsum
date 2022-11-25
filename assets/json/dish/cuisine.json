@@ -217,20 +217,16 @@
     {
         "words": [
             {
-                "Cantonese": "秦菜",
                 "English": "Shaanxi cuisine",
+                "Cantonese": {
+                    "text": "秦菜",
+                    "wkty": [
+                        "秦",
+                        "菜"
+                    ]
+                },
                 "Yale": "chèuhn choi",
-                "Pinyin": "qín cài",
-                "resources": [
-                    {
-                        "name": "秦",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%A7%A6"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "qín cài"
             }
         ],
         "images": [
