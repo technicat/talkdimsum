@@ -2,38 +2,26 @@
   {
     "words": [
       {
-        "Cantonese": "鳳爪",
-        "Simplified": "凤爪",
         "English": "chicken feet",
+        "Cantonese": {
+          "text": "鳳爪",
+          "wkty": [
+            "鳳爪",
+            "鳳",
+            "爪"
+          ]
+        },
         "Yale": "fuhng jáau",
         "Jyutping": "fung6 zaau2",
-        "Pinyin": "fèng zhǎo",
-        "resources": [
-          {
-            "name": "鳳爪",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B3%B3%E7%88%AA"
-          },
-          {
-            "name": "鳳",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B3%B3"
-          },
-          {
-            "name": "爪",
-            "URL": "https://en.wiktionary.org/wiki/%E7%88%AA"
-          },
-          {
-            "name": "雞腳",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E8%85%B3"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "腳",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%B3"
-          }
-        ]
+        "Simplified": {
+          "text": "凤爪",
+          "wkty": [
+            "凤爪",
+            "凤",
+            "爪"
+          ]
+        },
+        "Pinyin": "fèng zhǎo"
       }
     ],
     "images": [
@@ -81,37 +69,31 @@
   {
     "words": [
       {
-        "Cantonese": "白雲鳳爪",
-        "Simplified": "白云凤爪",
         "English": "sweet and sour chicken feet",
+        "Cantonese": {
+          "text": "白雲鳳爪",
+          "wkty": [
+            "白雲",
+            "白",
+            "雲",
+            "鳳爪",
+            "鳳",
+            "爪"
+          ]
+        },
         "Yale": "baahk wàhn fuhng jáau",
-        "Pinyin": "Bái yún fèng zhǎo",
-        "resources": [
-          {
-            "name": "白雲",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E9%9B%B2"
-          },
-          {
-            "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-          },
-          {
-            "name": "雲",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
-          },
-          {
-            "name": "鳳爪",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B3%B3%E7%88%AA"
-          },
-          {
-            "name": "鳳",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B3%B3"
-          },
-          {
-            "name": "爪",
-            "URL": "https://en.wiktionary.org/wiki/%E7%88%AA"
-          }
-        ]
+        "Simplified": {
+          "text": "白云凤爪",
+          "wkty": [
+            "白云",
+            "白",
+            "云",
+            "凤爪",
+            "凤",
+            "爪"
+          ]
+        },
+        "Pinyin": "Bái yún fèng zhǎo"
       }
     ],
     "images": [
