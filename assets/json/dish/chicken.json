@@ -159,30 +159,28 @@
     {
         "words": [
             {
-                "Cantonese": "檸檬雞",
-                "Simplified": "柠檬鸡",
                 "English": "lemon chicken",
+                "Cantonese": {
+                    "text": "檸檬雞",
+                    "wkty": [
+                        "檸檬",
+                        "檸",
+                        "檬",
+                        "雞"
+                    ]
+                },
                 "Yale": "nìhng mūng gāi",
                 "Jyutping": "ning4 mung1 gai1",
-                "Pinyin": "níng méng jī",
-                "resources": [
-                    {
-                        "name": "檸檬",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8%E6%AA%AC"
-                    },
-                    {
-                        "name": "檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                    },
-                    {
-                        "name": "檬",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%AC"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "柠檬鸡",
+                    "wkty": [
+                        "柠檬",
+                        "柠",
+                        "檬",
+                        "鸡"
+                    ]
+                },
+                "Pinyin": "níng méng jī"
             }
         ],
         "images": [
