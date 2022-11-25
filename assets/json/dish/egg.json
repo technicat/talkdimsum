@@ -113,8 +113,8 @@
           ]
         },
         "Yale": "chàh yihp dáan",
-        "Simplified":  {
-          "text":"茶叶蛋",
+        "Simplified": {
+          "text": "茶叶蛋",
           "wkty": [
             "茶叶蛋",
             "茶叶",
@@ -163,32 +163,19 @@
   {
     "words": [
       {
-        "Cantonese": "芙蓉蛋",
+        "Cantonese": {
+          "text": "芙蓉蛋",
+          "wkty": [
+            "芙蓉蛋",
+            "芙蓉",
+            "芙",
+            "蓉",
+            "蛋"
+          ]
+        },
         "English": "egg foo young",
         "Yale": "fùh yùhng dáan",
-        "Pinyin": "fú róng dàn",
-        "resources": [
-          {
-            "name": "芙蓉蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%99%E8%93%89%E8%9B%8B"
-          },
-          {
-            "name": "芙蓉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%99%E8%93%89"
-          },
-          {
-            "name": "芙",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%99"
-          },
-          {
-            "name": "蓉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
-        ]
+        "Pinyin": "fú róng dàn"
       }
     ],
     "images": [
