@@ -73,24 +73,17 @@
     {
         "words": [
             {
-                "Cantonese": "早餐",
                 "English": "breakfast",
+                "Cantonese": {
+                    "text": "早餐",
+                    "wkty": [
+                        "早餐",
+                        "早",
+                        "餐"
+                    ]
+                },
                 "Yale": "jóu chāan",
-                "Pinyin": "zǎo cān",
-                "resources": [
-                    {
-                        "name": "早餐",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%97%A9%E9%A4%90"
-                    },
-                    {
-                        "name": "早",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%97%A9"
-                    },
-                    {
-                        "name": "餐",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
-                    }
-                ]
+                "Pinyin": "zǎo cān"
             }
         ],
         "images": [
