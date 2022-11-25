@@ -172,26 +172,25 @@
   {
     "words": [
       {
-        "Cantonese": "葡撻",
-        "Simplified": "葡挞",
         "English": "Portuguese egg tart",
-        "Alternate": "葡式蛋挞",
+        "Cantonese": {
+          "text": "葡撻",
+          "wkty": [
+            "葡撻",
+            "葡",
+            "撻"
+          ]
+        },
         "Yale": "pòu tāat",
-        "Pinyin": "Pú tà",
-        "resources": [
-          {
-            "name": "葡撻",
-            "URL": "https://en.wiktionary.org/wiki/%E8%91%A1%E6%92%BB"
-          },
-          {
-            "name": "葡",
-            "URL": "https://en.wiktionary.org/wiki/%E8%91%A1"
-          },
-          {
-            "name": "撻",
-            "URL": "https://en.wiktionary.org/wiki/%E6%92%BB"
-          }
-        ]
+        "Simplified":  {
+          "text": "葡挞",
+          "wkty": [
+            "葡撻",
+            "葡",
+            "撻"
+          ]
+        },
+        "Pinyin": "Pú tà"
       }
     ],
     "images": [
