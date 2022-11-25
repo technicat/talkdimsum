@@ -35,26 +35,26 @@
     {
         "words": [
             {
-                "Cantonese": "粵菜",
-                "Simplified": "粤菜",
                 "English": "Cantonese cuisine",
+                "Cantonese": {
+                    "text": "粵菜",
+                    "wkty": [
+                        "粵菜",
+                        "粵",
+                        "菜"
+                    ]
+                },
                 "Yale": "yuht choi",
                 "Jyutping": "jyut6 coi3",
-                "Pinyin": "yuè cà",
-                "resources": [
-                    {
-                        "name": "粵菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%B5%E8%8F%9C"
-                    },
-                    {
-                        "name": "粵",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%B5"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Simplified": {
+                    "text": "粤菜",
+                    "wkty": [
+                        "粤菜",
+                        "粤",
+                        "菜"
+                    ]
+                },
+                "Pinyin": "yuè cà"
             }
         ],
         "images": [
@@ -77,28 +77,18 @@
     {
         "words": [
             {
-                "Cantonese": "潮州菜",
                 "English": "Chaozhou cuisine",
+                "Cantonese": {
+                    "text": "潮州菜",
+                    "wkty": [
+                        "潮州",
+                        "潮",
+                        "州",
+                        "菜"
+                    ]
+                },
                 "Yale": "chìuh jāu choi",
-                "Pinyin": "cháo zhōu cài",
-                "resources": [
-                    {
-                        "name": "潮州",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
-                    },
-                    {
-                        "name": "潮",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
-                    },
-                    {
-                        "name": "州",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "cháo zhōu cài"
             }
         ],
         "images": [
@@ -145,25 +135,25 @@
     {
         "words": [
             {
-                "Cantonese": "閩菜",
-                "Simplified": "闽菜",
                 "English": "Fujian cuisine",
+                "Cantonese": {
+                    "text": "閩菜",
+                    "wkty": [
+                        "閩菜",
+                        "閩",
+                        "菜"
+                    ]
+                },
                 "Yale": "máhn choi",
-                "Pinyin": "mǐn cài",
-                "resources": [
-                    {
-                        "name": "閩菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%96%A9%E8%8F%9C"
-                    },
-                    {
-                        "name": "閩",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%96%A9"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Simplified": {
+                    "text": "闽菜",
+                    "wkty": [
+                        "闽菜",
+                        "闽",
+                        "菜"
+                    ]
+                },
+                "Pinyin": "mǐn cài"
             }
         ],
         "images": [
@@ -194,24 +184,17 @@
     {
         "words": [
             {
-                "Cantonese": "湘菜",
                 "English": "Hunan cuisine",
+                "Cantonese": {
+                    "text": "湘菜",
+                    "wkty": [
+                        "湘菜",
+                        "湘",
+                        "菜"
+                    ]
+                },
                 "Yale": "sēung choi",
-                "Pinyin": "xiāng cài",
-                "resources": [
-                    {
-                        "name": "湘菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%98%E8%8F%9C"
-                    },
-                    {
-                        "name": "湘",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%98"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "xiāng cài"
             }
         ],
         "images": [
