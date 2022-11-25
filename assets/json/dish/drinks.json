@@ -43,17 +43,11 @@
   {
     "words": [
       {
-        "Cantonese": "酒",
         "English": "liquor",
+        "Cantonese": "酒",
         "Yale": "jáu",
         "Jyutping": "jaau2",
-        "Pinyin": "jiǔ",
-        "resources": [
-          {
-            "name": "酒",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-          }
-        ]
+        "Pinyin": "jiǔ"
       }
     ],
     "images": [
@@ -77,25 +71,25 @@
   {
     "words": [
       {
-        "Cantonese": "冷飲",
-        "Simplified": "冷饮",
         "English": "cold drinks",
+        "Cantonese": {
+          "text": "冷飲",
+          "wkty": [
+            "冷飲",
+            "冷",
+            "飲"
+          ]
+        },
         "Yale": "láahng yám",
-        "Pinyin": "lěng yǐn",
-        "resources": [
-          {
-            "name": "冷飲",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B7%E9%A3%B2"
-          },
-          {
-            "name": "冷",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B7"
-          },
-          {
-            "name": "飲",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%B2"
-          }
-        ]
+        "Simplified": {
+          "text": "冷饮",
+          "wkty": [
+            "冷饮",
+            "冷",
+            "饮"
+          ]
+        },
+        "Pinyin": "lěng yǐn"
       }
     ],
     "images": [
