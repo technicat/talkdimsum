@@ -2,26 +2,26 @@
   {
     "words": [
       {
-        "Cantonese": "蛋撻",
-        "Simplified": "蛋挞",
         "English": "egg tart",
+        "Cantonese": {
+          "text": "蛋撻",
+          "wkty": [
+            "蛋撻",
+            "蛋",
+            "撻"
+          ]
+        },
         "Yale": "daahn tāat",
         "Jyutping": "daan6 taat1",
-        "Pinyin": "dàn tà",
-        "resources": [
-          {
-            "name": "蛋撻",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E6%92%BB"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          },
-          {
-            "name": "撻",
-            "URL": "https://en.wiktionary.org/wiki/%E6%92%BB"
-          }
-        ]
+        "Simplified": {
+          "text": "蛋挞",
+          "wkty": [
+            "蛋挞",
+            "蛋",
+            "挞"
+          ]
+        },
+        "Pinyin": "dàn tà"
       }
     ],
     "images": [
