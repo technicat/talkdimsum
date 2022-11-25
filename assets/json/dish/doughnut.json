@@ -43,49 +43,37 @@
     {
         "words": [
             {
-                "Cantonese": "奶黃南瓜沙翁",
-                "Simplified": "奶黄南瓜沙翁",
                 "English": "pumpkin custard ball",
+                "Cantonese": {
+                    "text": "奶黃南瓜沙翁",
+                    "wkty": [
+                        "奶黃",
+                        "奶",
+                        "黃",
+                        "南瓜",
+                        "南",
+                        "瓜",
+                        "沙翁",
+                        "沙",
+                        "翁"
+                    ]
+                },
                 "Yale": "náaih wòhng nàahm gwā sā yūng",
-                "Pinyin": "nǎi huáng nán guā shā wēng",
-                "resources": [
-                    {
-                        "name": "奶黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                    },
-                    {
-                        "name": "南瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%97%E7%93%9C"
-                    },
-                    {
-                        "name": "南",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%97"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    },
-                    {
-                        "name": "沙翁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99%E7%BF%81"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "翁",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BF%81"
-                    }
-                ]
+                "Simplified": {
+                    "text": "奶黄南瓜沙翁",
+                    "wkty": [
+                        "奶黃",
+                        "奶",
+                        "黃",
+                        "南瓜",
+                        "南",
+                        "瓜",
+                        "沙翁",
+                        "沙",
+                        "翁"
+                    ]
+                },
+                "Pinyin": "nǎi huáng nán guā shā wēng"
             }
         ],
         "images": [
