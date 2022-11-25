@@ -2,37 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "鹹蛋",
-        "Simplified": "咸蛋",
         "English": "salted egg",
+        "Cantonese": {
+          "text": "鹹蛋",
+          "wkty": [
+            "鹹蛋",
+            "鹹",
+            "蛋"
+          ]
+        },
         "Yale": "hàahm dáan",
-        "Pinyin": "xián dàn",
-        "resources": [
-          {
-            "name": "鹹鴨蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E9%B4%A8%E8%9B%8B"
-          },
-          {
-            "name": "鹹蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E8%9B%8B"
-          },
-          {
-            "name": "鹹",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
-          },
-          {
-            "name": "鴨蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8%E8%9B%8B"
-          },
-          {
-            "name": "鴨",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
-        ]
+        "Simplified": {
+          "text": "咸蛋",
+          "wkty": [
+            "咸蛋",
+            "咸",
+            "蛋"
+          ]
+        },
+        "Pinyin": "xián dàn"
       }
     ],
     "images": [
