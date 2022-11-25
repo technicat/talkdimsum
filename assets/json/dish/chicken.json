@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "芒果雞",
-                "Simplified": "芒果鸡",
                 "English": "mango chicken",
+                "Cantonese": {
+                    "text": "芒果雞",
+                    "wkty": [
+                        "芒果",
+                        "芒",
+                        "果",
+                        "雞"
+                    ]
+                },
                 "Yale": "mōng gwó gāi",
-                "Pinyin": "máng guǒ jī",
-                "resources": [
-                    {
-                        "name": "芒果",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%92%E6%9E%9C"
-                    },
-                    {
-                        "name": "芒",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%92"
-                    },
-                    {
-                        "name": "果",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    }
-                ]
+                "Simplified": {
+                    "text": "芒果鸡",
+                    "wkty": [
+                        "芒果",
+                        "芒",
+                        "果",
+                        "鸡"
+                    ]
+                },
+                "Pinyin": "máng guǒ jī"
             }
         ],
         "images": [
