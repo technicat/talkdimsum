@@ -94,29 +94,27 @@
   {
     "words": [
       {
-        "Cantonese": "蘿蔔酥",
-        "Simplified": "萝卜酥",
         "English": "radish puff",
+        "Cantonese": {
+          "text": "蘿蔔酥",
+          "wkty": [
+            "蘿蔔",
+            "蘿",
+            "蔔",
+            "酥"
+          ]
+        },
         "Yale": "lò baahk sōu",
-        "Pinyin": "luó bo sū",
-        "resources": [
-          {
-            "name": "蘿蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Simplified":  {
+          "text": "萝卜酥",
+          "wkty": [
+            "萝卜",
+            "萝",
+            "卜",
+            "酥"
+          ]
+        },
+        "Pinyin": "luó bo sū"
       }
     ],
     "images": [
