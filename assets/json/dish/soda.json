@@ -37,24 +37,17 @@
     {
         "words": [
             {
-                "Cantonese": "七喜",
                 "English": "7 Up",
+                "Cantonese": {
+                    "text": "七喜",
+                    "wkty": [
+                        "七喜",
+                        "七",
+                        "喜"
+                    ]
+                },
                 "Yale": "chāt héi",
-                "Pinyin": "qī xǐ",
-                "resources": [
-                    {
-                        "name": "七喜",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%83%E5%96%9C"
-                    },
-                    {
-                        "name": "七",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%83"
-                    },
-                    {
-                        "name": "喜",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%96%9C"
-                    }
-                ]
+                "Pinyin": "qī xǐ"
             }
         ],
         "images": [
@@ -81,33 +74,29 @@
     {
         "words": [
             {
-                "Cantonese": "鹹檸七",
                 "English": "salted lime 7 Up",
+                "Cantonese": {
+                    "text": "鹹檸七",
+                    "wkty": [
+                        "鹹檸七",
+                        "鹹檸",
+                        "鹹",
+                        "檸",
+                        "七"
+                    ]
+                },
                 "Yale": "hàahm nìhng chāt héi",
-                "Simplified": "咸柠七",
-                "Pinyin": "xián níng qī",
-                "resources": [
-                    {
-                        "name": "鹹檸七",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E6%AA%B8%E4%B8%83"
-                    },
-                    {
-                        "name": "鹹檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E6%AA%B8"
-                    },
-                    {
-                        "name": "鹹",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
-                    },
-                    {
-                        "name": "檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                    },
-                    {
-                        "name": "七",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%83"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "咸柠七",
+                    "wkty": [
+                        "咸柠七",
+                        "咸柠",
+                        "咸",
+                        "柠",
+                        "七"
+                    ]
+                },
+                "Pinyin": "xián níng qī"
             }
         ],
         "images": [
