@@ -2,43 +2,35 @@
     {
         "words": [
             {
-                "Cantonese": "油炸鬼",
-                "Mandarin": "油條",
-                "Simplified": "油条",
                 "English": "fried dough",
+                "Cantonese": {
+                    "text": "油炸鬼",
+                    "wkty": [
+                        "油炸鬼",
+                        "油炸",
+                        "油",
+                        "炸",
+                        "鬼"
+                    ]
+                },
                 "Yale": "yàuh ja gwái",
-                "Yale2": "yàuh tíu",
-                "Pinyin": "yóu tiáo",
-                "resources": [
-                    {
-                        "name": "油炸鬼",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9%E7%82%B8%E9%AC%BC"
-                    },
-                    {
-                        "name": "油炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9%E7%82%B8"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    },
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "鬼",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AC%BC"
-                    },
-                    {
-                        "name": "油條",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9%E6%A2%9D"
-                    },
-                    {
-                        "name": "條",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A2%9D"
-                    }
-                ]
+                "Mandarin": {
+                    "text": "油條",
+                    "wkty": [
+                        "油條",
+                        "油",
+                        "條"
+                    ]
+                },
+                "Simplified": {
+                    "text": "油条",
+                    "wkty": [
+                        "油条",
+                        "油",
+                        "条"
+                    ]
+                },
+                "Pinyin": "yóu tiáo"
             }
         ],
         "images": [
