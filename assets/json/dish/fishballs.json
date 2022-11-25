@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "魚蛋",
-        "Simplified": "鱼蛋",
         "English": "fish balls",
+        "Cantonese": {
+          "text": "魚蛋",
+          "wkty": [
+            "魚蛋",
+            "魚",
+            "蛋"
+          ]
+        },
         "Yale": "yú daahn",
-        "Pinyin": "yú dàn",
-        "resources": [
-          {
-            "name": "魚蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A%E8%9B%8B"
-          },
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          }
-        ]
+        "Simplified": {
+          "text": "鱼蛋",
+          "wkty": [
+            "鱼蛋",
+            "鱼",
+            "蛋"
+          ]
+        },
+        "Pinyin": "yú dàn"
       }
     ],
     "images": [
