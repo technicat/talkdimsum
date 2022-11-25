@@ -13,24 +13,16 @@
         "Pinyin": "Hán shì"
     },
     {
-        "Cantonese": "日式",
-        "Simplified": "日式",
         "English": "Japanese-style",
+        "Cantonese": {
+            "text": "日式",
+            "wkty": [
+                "日式",
+                "日",
+                "式"
+            ]
+        },
         "Yale": "yaht sīk",
-        "Pinyin": "rì shì",
-        "resources": [
-            {
-                "name": "日式",
-                "URL": "https://en.wiktionary.org/wiki/%E6%97%A5%E5%BC%8F"
-            },
-            {
-                "name": "日",
-                "URL": "https://en.wiktionary.org/wiki/%E6%97%A5"
-            },
-            {
-                "name": "式",
-                "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
-            }
-        ]
+        "Pinyin": "rì shì"
     }
 ]
