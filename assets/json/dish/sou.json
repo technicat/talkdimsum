@@ -371,28 +371,18 @@
   {
     "words": [
       {
-        "Cantonese": "皮蛋酥",
         "English": "preserved egg pastry",
+        "Cantonese": {
+          "text": "皮蛋酥",
+          "wkty": [
+            "皮蛋",
+            "皮",
+            "蛋",
+            "酥"
+          ]
+        },
         "Yale": "pèih dáan sōu",
-        "Pinyin": "pí dàn sū",
-        "resources": [
-          {
-            "name": "皮蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE%E8%9B%8B"
-          },
-          {
-            "name": "皮",
-            "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Pinyin": "pí dàn sū"
       }
     ],
     "images": [
