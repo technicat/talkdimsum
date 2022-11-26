@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "菜心",
                 "English": "choy sum",
+                "Cantonese": {
+                    "text": "菜心",
+                    "wkty": [
+                        "菜心",
+                        "菜",
+                        "心"
+                    ]
+                },
                 "Yale": "choi sām",
-                "Pinyin": "cài xīn",
-                "resources": [
-                    {
-                        "name": "菜心",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C%E5%BF%83"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "心",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BF%83"
-                    }
-                ]
+                "Pinyin": "cài xīn"
             }
         ],
         "images": [
