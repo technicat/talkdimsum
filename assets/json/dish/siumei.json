@@ -50,68 +50,25 @@
     {
         "words": [
             {
-                "Cantonese": "燒鴨",
-                "Simplified": "烧鸭",
-                "English": "roast duck",
-                "Yale": "sīu aap",
-                "Pinyin": "shāo yā",
-                "resources": [
-                    {
-                        "name": "燒鴨",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E9%B4%A8"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "鴨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-                    }
-                ]
-            },
-            {
                 "English": "roast duck",
                 "Cantonese": {
-                    "text": "烤鴨",
+                    "text": "燒鴨",
                     "wkty": [
-                        "烤鴨",
-                        "烤",
+                        "燒鴨",
+                        "燒",
                         "鴨"
                     ]
                 },
-                "Yale": "hāau aap",
+                "Yale": "sīu aap",
                 "Simplified": {
-                    "text": "烤鸭",
+                    "text": "烧鸭",
                     "wkty": [
-                        "烤鸭",
-                        "烤",
+                        "烧鸭",
+                        "烧",
                         "鸭"
                     ]
                 },
-                "Pinyin": "kǎo yā",
-                "resources": [
-                    {
-                        "name": "CiCi Li",
-                        "URL": " https://cicili.tv/cantonese-roasted-duck/"
-                    },
-                    {
-                        "name": "The Domestic Man",
-                        "URL": "https://thedomesticman.com/2019/06/26/cantonese-roast-duck/"
-                    },
-                    {
-                        "name": "Guai Shu Shu",
-                        "URL": "https://www.guaishushu1.com/roast-duck-%E7%83%A4%E9%B8%AD%EF%BC%89/"
-                    },
-                    {
-                        "name": "Miss Chinese Food",
-                        "URL": "https://misschinesefood.com/cantonese-roast-duck/"
-                    },
-                    {
-                        "name": "Simple Chinese Food",
-                        "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
-                    }
-                ]
+                "Pinyin": "shāo yā"
             }
         ],
         "images": [
@@ -131,12 +88,32 @@
         ],
         "resources": [
             {
+                "name": "CiCi Li",
+                "URL": " https://cicili.tv/cantonese-roasted-duck/"
+            },
+            {
+                "name": "The Domestic Man",
+                "URL": "https://thedomesticman.com/2019/06/26/cantonese-roast-duck/"
+            },
+            {
+                "name": "Guai Shu Shu",
+                "URL": "https://www.guaishushu1.com/roast-duck-%E7%83%A4%E9%B8%AD%EF%BC%89/"
+            },
+            {
                 "name": "Like a Chinese",
                 "URL": "https://likeachinese.com/cantonese-roast-duck/"
             },
             {
                 "name": "Oh My Food",
                 "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
+            },
+            {
+                "name": "Miss Chinese Food",
+                "URL": "https://misschinesefood.com/cantonese-roast-duck/"
+            },
+            {
+                "name": "Simple Chinese Food",
+                "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
             }
         ]
     },
