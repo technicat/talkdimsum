@@ -91,7 +91,6 @@
                 },
                 "Pinyin": "kǎo yā",
                 "resources": [
-                   
                     {
                         "name": "CiCi Li",
                         "URL": " https://cicili.tv/cantonese-roasted-duck/"
@@ -112,7 +111,6 @@
                         "name": "Simple Chinese Food",
                         "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
                     }
-                    
                 ]
             }
         ],
@@ -145,26 +143,26 @@
     {
         "words": [
             {
-                "Cantonese": "叉燒",
-                "Simplified": "叉烧",
                 "English": "BBQ pork",
+                "Cantonese": {
+                    "text": "叉燒",
+                    "wkty": [
+                        "叉燒",
+                        "叉",
+                        "燒"
+                    ]
+                },
                 "Yale": "chā sīu",
                 "Jyutping": "caa1 siu1",
-                "Pinyin": "chā shāo",
-                "resources": [
-                    {
-                        "name": "叉燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                    },
-                    {
-                        "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    }
-                ]
+                "Simplified": {
+                    "text": "叉烧",
+                    "wkty": [
+                        "叉烧",
+                        "叉",
+                        "烧"
+                    ]
+                },
+                "Pinyin": "chā shāo"
             }
         ],
         "images": [
