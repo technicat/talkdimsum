@@ -2,37 +2,31 @@
   {
     "words": [
       {
-        "Cantonese": "蘿蔔牛腩",
-        "Simplified": "萝卜牛腩",
         "English": "daikon brisket stew",
+        "Cantonese": {
+          "text": "蘿蔔牛腩",
+          "wkty": [
+            "蘿蔔",
+            "蘿",
+            "蔔",
+            "牛腩",
+            "牛",
+            "腩"
+          ]
+        },
         "Yale": "lòh baahk ngàuh náahm",
-        "Pinyin": "luó bo niú nǎn",
-        "resources": [
-          {
-            "name": "蘿蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
-          },
-          {
-            "name": "牛腩",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%A9"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-          },
-          {
-            "name": "腩",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%A9"
-          }
-        ]
+        "Simplified":  {
+          "text":"萝卜牛腩",
+          "wkty": [
+            "萝卜",
+            "萝",
+            "卜",
+            "牛腩",
+            "牛",
+            "腩"
+          ]
+        },
+        "Pinyin": "luó bo niú nǎn"
       }
     ],
     "images": [
@@ -140,7 +134,7 @@
             "name": "牛",
             "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
           },
-           {
+          {
             "name": "肉",
             "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
           },
