@@ -237,33 +237,30 @@
   {
     "words": [
       {
-        "Cantonese": "鳳梨酥",
-        "Simplified": "凤梨酥",
         "English": "pineapple cake",
+        "Cantonese": {
+          "text": "鳳梨酥",
+          "wkty": [
+            "鳳梨酥",
+            "鳳梨",
+            "鳳",
+            "梨",
+            "酥"
+          ]
+        },
+         
         "Yale": "fuhng lèih sōu",
-        "Pinyin": "fèng lí sū",
-        "resources": [
-          {
-            "name": "鳳梨酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B3%B3%E6%A2%A8%E9%85%A5"
-          },
-          {
-            "name": "鳳梨",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B3%B3%E6%A2%A8"
-          },
-          {
-            "name": "鳳",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B3%B3"
-          },
-          {
-            "name": "梨",
-            "URL": "https://en.wiktionary.org/wiki/%E6%A2%A8"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Simplified": {
+          "text": "凤梨酥",
+          "wkty": [
+            "凤梨酥",
+            "凤梨",
+            "凤",
+            "梨",
+            "酥"
+          ]
+        },
+        "Pinyin": "fèng lí sū"
       }
     ],
     "images": [
