@@ -175,25 +175,25 @@
   {
     "words": [
       {
-        "Cantonese": "簽語餅",
-        "Simplified": "签语饼",
         "English": "fortune cookie",
+        "Cantonese": {
+          "text": "簽語餅",
+          "wkty": [
+            "簽",
+            "語",
+            "餅"
+          ]
+        },
         "Yale": "chīm yúh béng",
-        "Pinyin": "qiān yǔ bǐng",
-        "resources": [
-          {
-            "name": "簽",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B0%BD"
-          },
-          {
-            "name": "語",
-            "URL": "https://en.wiktionary.org/wiki/%E8%AA%9E"
-          },
-          {
-            "name": "餅",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-          }
-        ]
+        "Simplified": {
+          "text": "签语饼",
+          "wkty": [
+            "签",
+            "语",
+            "饼"
+          ]
+        },
+        "Pinyin": "qiān yǔ bǐng"
       }
     ],
     "images": [
