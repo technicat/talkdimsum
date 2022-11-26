@@ -11,8 +11,8 @@
                         "賣"
                     ]
                 },
-                "Simplified":  {
-                    "text":"烧卖",
+                "Simplified": {
+                    "text": "烧卖",
                     "wkty": [
                         "烧卖",
                         "烧卖",
@@ -72,37 +72,31 @@
     {
         "words": [
             {
-                "Cantonese": "豬肉燒賣",
-                "Simplified": "猪肉烧卖",
                 "English": "pork siu mai",
+                "Cantonese": {
+                    "text": "豬肉燒賣",
+                    "wkty": [
+                        "豬肉",
+                        "豬",
+                        "肉",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Yale": "jyū yuhk sīu maaih",
-                "Pinyin": "zhū ròu shāo mài",
-                "resources": [
-                    {
-                        "name": "豬肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC%E8%82%89"
-                    },
-                    {
-                        "name": "豬",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "猪肉烧卖",
+                    "wkty": [
+                        "猪肉",
+                        "猪",
+                        "肉",
+                        "烧卖",
+                        "烧卖",
+                        "卖"
+                    ]
+                },
+                "Pinyin": "zhū ròu shāo mài"
             }
         ],
         "images": [
