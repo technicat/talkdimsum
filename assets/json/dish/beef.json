@@ -167,30 +167,27 @@
   {
     "words": [
       {
-        "Cantonese": "滷牛腱",
-        "Simplified": "卤牛腱",
-        "Alternate": "卤牛肉",
         "English": "braised beef shin",
+        "Cantonese": {
+          "text": "滷牛腱",
+          "wkty": [
+            "滷",
+            "牛腱",
+            "牛",
+            "腱"
+          ]
+        },
         "Yale": "lóuh ngàuh gin",
-        "Pinyin": "lǔ niú jiàn",
-        "resources": [
-          {
-            "name": "滷",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7"
-          },
-          {
-            "name": "牛腱",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%B1"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-          },
-          {
-            "name": "腱",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%B1"
-          }
-        ]
+        "Simplified": {
+          "text": "卤牛腱",
+          "wkty": [
+            "滷",
+            "牛腱",
+            "牛",
+            "腱"
+          ]
+        },
+        "Pinyin": "lǔ niú jiàn"
       }
     ],
     "images": [
