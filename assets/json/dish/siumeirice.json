@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "叉燒飯",
-                "Simplified": "叉烧饭",
                 "English": "BBQ pork rice",
+                "Cantonese": {
+                    "text": "叉燒飯",
+                    "wkty": [
+                        "叉燒",
+                        "叉",
+                        "燒",
+                        "飯"
+                    ]
+                },
                 "Yale": "chā sīu faahn",
-                "Pinyin": "chā shāo fàn",
-                "resources": [
-                    {
-                        "name": "叉燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                    },
-                    {
-                        "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "叉烧饭",
+                    "wkty": [
+                        "叉烧",
+                        "叉",
+                        "烧",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "chā shāo fàn"
             }
         ],
         "images": [
@@ -98,8 +96,7 @@
             "肉",
             "白飯"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
@@ -146,8 +143,7 @@
             "肉",
             "白飯"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
