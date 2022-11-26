@@ -109,33 +109,29 @@
   {
     "words": [
       {
-        "Cantonese": "牛肉乾",
-        "Simplified": "牛肉干",
         "English": "beef jerky",
+        "Cantonese": {
+          "text": "牛肉乾",
+          "wkty": [
+            "牛肉乾",
+            "牛肉",
+            "牛",
+            "肉",
+            "乾"
+          ]
+        },
         "Yale": "ngàuh yuhk gōn",
-        "Pinyin": "niú ròu gān",
-        "resources": [
-          {
-            "name": "牛肉乾",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89%E4%B9%BE"
-          },
-          {
-            "name": "牛肉",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-          },
-          {
-            "name": "肉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-          },
-          {
-            "name": "乾",
-            "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE"
-          }
-        ]
+        "Simplified": {
+          "text": "牛肉干",
+          "wkty": [
+            "牛肉干",
+            "牛肉",
+            "牛",
+            "肉",
+            "干"
+          ]
+        },
+        "Pinyin": "niú ròu gān"
       }
     ],
     "images": [
