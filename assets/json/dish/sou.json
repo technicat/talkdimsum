@@ -407,28 +407,18 @@
   {
     "words": [
       {
-        "Cantonese": "綠豆酥",
         "English": "mung bean pastry",
+        "Cantonese": {
+          "text": "綠豆酥",
+          "wkty": [
+            "綠豆",
+            "綠",
+            "豆",
+            "酥"
+          ]
+        },
         "Yale": "luhk dauh sōu",
-        "Pinyin": "lǜ dòu sū",
-        "resources": [
-          {
-            "name": "綠豆",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86"
-          },
-          {
-            "name": "綠",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-          },
-          {
-            "name": "豆",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Pinyin": "lǜ dòu sū"
       }
     ],
     "images": [
@@ -453,29 +443,27 @@
   {
     "words": [
       {
-        "Cantonese": "蓮蓉酥",
-        "Simplified": "蓮蓉酥",
         "English": "lotus seed pastry",
+        "Cantonese": {
+          "text": "蓮蓉酥",
+          "wkty": [
+            "蓮蓉",
+            "蓮",
+            "蓉",
+            "酥"
+          ]
+        },
         "Yale": "lìhn yùhng sōu",
-        "Pinyin": "lián róng sū",
-        "resources": [
-          {
-            "name": "蓮蓉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
-          },
-          {
-            "name": "蓮",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-          },
-          {
-            "name": "蓉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Simplified": {
+          "text": "莲蓉酥",
+          "wkty": [
+            "莲蓉",
+            "莲",
+            "蓉",
+            "酥"
+          ]
+        },
+        "Pinyin": "lián róng sū"
       }
     ],
     "images": [
