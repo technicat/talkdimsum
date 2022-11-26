@@ -2,6 +2,7 @@
   {
     "words": [
       {
+        "English": "wife cake",
         "Cantonese": {
           "text": "老婆餅",
           "wkty": [
@@ -12,8 +13,9 @@
             "餅"
           ]
         },
-        "Simplified":  {
-          "text":"老婆饼",
+        "Yale": "lóuh pòh béng",
+        "Simplified": {
+          "text": "老婆饼",
           "wkty": [
             "老婆饼",
             "老婆",
@@ -22,8 +24,6 @@
             "饼"
           ]
         },
-        "English": "wife cake",
-        "Yale": "lóuh pòh béng",
         "Pinyin": "lǎo po bǐng"
       }
     ],
