@@ -2,37 +2,20 @@
     {
         "words": [
             {
-                "Cantonese": "芝麻卷",
-                "Alternate": "黑芝麻卷",
                 "English": "black sesame roll",
+                "Cantonese": {
+                    "text": "芝麻卷",
+                    "wkty": [
+                        "黑芝麻",
+                        "黑",
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "卷"
+                    ]
+                },
                 "Yale": "jī màh gyún",
-                "Pinyin": "zhī ma juǎn",
-                "resources": [
-                    {
-                        "name": "黑芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "黑",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
-                    },
-                    {
-                        "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "卷",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%B7"
-                    }
-                ]
+                "Pinyin": "zhī ma juǎn"
             }
         ],
         "images": [
