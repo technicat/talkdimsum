@@ -49,12 +49,12 @@
             {
                 "English": "coconut roll",
                 "Cantonese": {
-                    "text": "椰絲捲",
+                    "text": "椰絲卷",
                     "wkty": [
                         "椰絲",
                         "椰",
                         "絲",
-                        "捲"
+                        "卷"
                     ]
                 },
                 "Yale": "yèh sī gyún",
@@ -64,7 +64,7 @@
                         "椰丝",
                         "椰",
                         "丝",
-                        "卷s"
+                        "卷"
                     ]
                 },
                 "Pinyin": "yē sī juàn"
@@ -76,7 +76,7 @@
                 "place": "Dim Sum Cafe"
             }
         ],
-        "description": "Rolls with shredded coconut.\n\n**Characters**\n\n[椰](https://en.wiktionary.org/wiki/%E6%A4%B0) is *coconut*, and [絲](https://en.wiktionary.org/wiki/%E7%B5%B2) is *shreds*, so [椰絲](https://en.wiktionary.org/wiki/%E6%A4%B0%E7%B5%B2) is *coconut shreds*. [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so 椰絲捲 is *coconut shreds roll*.",
+        "description": "Rolls with shredded coconut.\n\n**Characters**\n\n[椰](https://en.wiktionary.org/wiki/%E6%A4%B0) is *coconut*, and [絲](https://en.wiktionary.org/wiki/%E7%B5%B2) is *shreds*, so [椰絲](https://en.wiktionary.org/wiki/%E6%A4%B0%E7%B5%B2) is *coconut shreds*. [卷](https://en.wiktionary.org/wiki/%E5%8D%B7) is *roll*, so 椰絲卷 is *coconut shreds roll*.",
         "tags": [
             "茶餐廳",
             "港式",
@@ -95,25 +95,17 @@
     {
         "words": [
             {
-                "Cantonese": "蛋捲",
-                "Simplified": "蛋卷",
                 "English": "biscuit roll",
+                "Cantonese": {
+                    "text": "蛋卷",
+                    "wkty": [
+                        "蛋捲",
+                        "蛋",
+                        "捲"
+                    ]
+                },
                 "Yale": "daahn gyún",
-                "Pinyin": "dàn juǎn",
-                "resources": [
-                    {
-                        "name": "蛋捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Pinyin": "dàn juǎn"
             }
         ],
         "images": [
@@ -121,7 +113,7 @@
                 "image": "biscuitroll2"
             }
         ],
-        "description": "[Biscuit rolls](https://en.wikipedia.org/wiki/Biscuit_roll) are crispy tubes made of flour, butter, egg and sugar. This is a bakery and snack item easily found in Chinese grocery stores stacked inside large square tins.\n\n**Characters**\n\n[蛋](https://en.wiktionary.org/wiki/%E8%9B%8B) is *egg*, and [捲](https://en.wiktionary.org/wiki/%E6%8D%B2) is *roll*, so [蛋捲](https://en.wiktionary.org/wiki/%E8%9B%8B%E6%8D%B2) is *egg roll (never mind the Chinese-American version of spring rolls are often called egg rolls).",
+        "description": "[Biscuit rolls](https://en.wikipedia.org/wiki/Biscuit_roll) are crispy tubes made of flour, butter, egg and sugar. This is a bakery and snack item easily found in Chinese grocery stores stacked inside large square tins.\n\n**Characters**\n\n[蛋](https://en.wiktionary.org/wiki/%E8%9B%8B) is *egg*, and [卷](https://en.wiktionary.org/wiki/%E5%8D%B7) is *roll*, so [蛋卷](https://en.wiktionary.org/wiki/%E8%9B%8B%E5%8D%B7#Chinese) is [egg roll](https://en.wikipedia.org/wiki/Biscuit_roll) (never mind that the Chinese-American version of spring rolls are often called egg rolls).",
         "tags": [
             "港式",
             "蛋",
