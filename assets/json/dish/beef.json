@@ -15,8 +15,8 @@
           ]
         },
         "Yale": "lòh baahk ngàuh náahm",
-        "Simplified":  {
-          "text":"萝卜牛腩",
+        "Simplified": {
+          "text": "萝卜牛腩",
           "wkty": [
             "萝卜",
             "萝",
@@ -64,24 +64,17 @@
   {
     "words": [
       {
-        "Cantonese": "牛筋",
         "English": "beef tendon",
+        "Cantonese": {
+          "text": "牛筋",
+          "wkty": [
+            "牛筋",
+            "牛",
+            "筋"
+          ]
+        },
         "Yale": "ngàuh gān",
-        "Pinyin": "niú jīn",
-        "resources": [
-          {
-            "name": "牛筋",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E7%AD%8B"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-          },
-          {
-            "name": "筋",
-            "URL": "https://en.wiktionary.org/wiki/%E7%AD%8B"
-          }
-        ]
+        "Pinyin": "niú jīn"
       }
     ],
     "images": [
