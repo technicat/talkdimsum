@@ -230,24 +230,17 @@
   {
     "words": [
       {
-        "Cantonese": "曲奇",
         "English": "cookie",
+        "Cantonese": {
+          "text": "曲奇",
+          "wkty": [
+            "曲奇",
+            "曲",
+            "奇"
+          ]
+        },
         "Yale": "kūk kèih",
-        "Pinyin": "qǔ qí",
-        "resources": [
-          {
-            "name": "曲奇",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9B%B2%E5%A5%87"
-          },
-          {
-            "name": "曲",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9B%B2"
-          },
-          {
-            "name": "奇",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A5%87"
-          }
-        ]
+        "Pinyin": "qǔ qí"
       }
     ],
     "images": [
