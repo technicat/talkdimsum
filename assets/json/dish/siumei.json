@@ -76,7 +76,12 @@
                 "English": "roast duck",
                 "Yale": "hāau aap",
                 "Pinyin": "kǎo yā",
-                "resources": []
+                "resources": [
+                    {
+                        "name": "Simple Chinese Food",
+                        "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
+                    }
+                ]
             }
         ],
         "images": [
