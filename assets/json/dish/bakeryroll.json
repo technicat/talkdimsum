@@ -47,29 +47,27 @@
     {
         "words": [
             {
-                "Cantonese": "椰絲捲",
-                "Simplified": "椰丝卷",
                 "English": "coconut roll",
+                "Cantonese": {
+                    "text": "椰絲捲",
+                    "wkty": [
+                        "椰絲",
+                        "椰",
+                        "絲",
+                        "捲"
+                    ]
+                },
                 "Yale": "yèh sī gyún",
-                "Pinyin": "yē sī juàn",
-                "resources": [
-                    {
-                        "name": "椰絲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%B0%E7%B5%B2"
-                    },
-                    {
-                        "name": "椰",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%B0"
-                    },
-                    {
-                        "name": "絲",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B5%B2"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椰丝卷",
+                    "wkty": [
+                        "椰丝",
+                        "椰",
+                        "丝",
+                        "卷s"
+                    ]
+                },
+                "Pinyin": "yē sī juàn"
             }
         ],
         "images": [
