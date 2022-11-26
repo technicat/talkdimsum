@@ -62,45 +62,35 @@
     {
         "words": [
             {
-                "Cantonese": "麻辣小黃瓜",
-                "Simplified": "麻辣小黃瓜",
                 "English": "spicy cucumber salad",
+                "Cantonese": {
+                    "text": "麻辣小黃瓜",
+                    "wkty": [
+                        "麻辣",
+                        "麻",
+                        "辣",
+                        "小黃瓜",
+                        "小",
+                        "黃瓜",
+                        "黃",
+                        "瓜"
+                    ]
+                },
                 "Yale": "màh laaht síu wòhng gwā",
-                "Pinyin": "má là xiǎo huáng guā",
-                "resources": [
-                    {
-                        "name": "麻辣",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB%E8%BE%A3"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "辣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%BE%A3"
-                    },
-                    {
-                        "name": "小黃瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F%E9%BB%83%E7%93%9C"
-                    },
-                    {
-                        "name": "小",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F"
-                    },
-                    {
-                        "name": "黃瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83%E7%93%9C"
-                    },
-                    {
-                        "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    }
-                ]
+                "Simplified": {
+                    "text": "麻辣小黃瓜",
+                    "wkty": [
+                        "麻辣",
+                        "麻",
+                        "辣",
+                        "小黃瓜",
+                        "小",
+                        "黃瓜",
+                        "黃",
+                        "瓜"
+                    ]
+                },
+                "Pinyin": "má là xiǎo huáng guā"
             }
         ],
         "images": [
