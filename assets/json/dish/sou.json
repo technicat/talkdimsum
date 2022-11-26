@@ -325,29 +325,27 @@
   {
     "words": [
       {
-        "Cantonese": "蛋黃酥",
-        "Simplified": "蛋黄酥",
         "English": "salted egg yolk pastry",
+        "Cantonese": {
+          "text": "蛋黃酥",
+          "wkty": [
+            "蛋黃",
+            "蛋",
+            "黃",
+            "酥"
+          ]
+        },
         "Yale": "dáan wóng sōu",
-        "Pinyin": "dàn huáng sū",
-        "resources": [
-          {
-            "name": "蛋黃",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E9%BB%83"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          },
-          {
-            "name": "黃",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Simplified": {
+          "text": "蛋黄酥",
+          "wkty": [
+            "蛋黄",
+            "蛋",
+            "黄",
+            "酥"
+          ]
+        },
+        "Pinyin": "dàn huáng sū"
       }
     ],
     "images": [
