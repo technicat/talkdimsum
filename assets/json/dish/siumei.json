@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "燒味",
-                "Simplified": "烧味",
                 "English": "siu mei",
+                "Cantonese": {
+                    "text": "燒味",
+                    "wkty": [
+                        "燒味",
+                        "燒",
+                        "味"
+                    ]
+                },
                 "Yale": "sīu meih",
-                "Pinyin": "shāowèi",
-                "resources": [
-                    {
-                        "name": "燒味",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E5%91%B3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "味",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%91%B3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "烧味",
+                    "wkty": [
+                        "烧味",
+                        "烧",
+                        "味"
+                    ]
+                },
+                "Pinyin": "shāowèi"
             }
         ],
         "images": [
