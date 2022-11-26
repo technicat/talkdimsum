@@ -2,33 +2,29 @@
   {
     "words": [
       {
-        "Cantonese": "老婆餅",
-        "Simplified": "老婆饼",
+        "Cantonese": {
+          "text": "老婆餅",
+          "wkty": [
+            "老婆餅",
+            "老婆",
+            "老",
+            "婆",
+            "餅"
+          ]
+        },
+        "Simplified":  {
+          "text":"老婆饼",
+          "wkty": [
+            "老婆饼",
+            "老婆",
+            "老",
+            "婆",
+            "饼"
+          ]
+        },
         "English": "wife cake",
         "Yale": "lóuh pòh béng",
-        "Pinyin": "lǎo po bǐng",
-        "resources": [
-          {
-            "name": "老婆餅",
-            "URL": "https://en.wiktionary.org/wiki/%E8%80%81%E5%A9%86%E9%A4%85"
-          },
-          {
-            "name": "老婆",
-            "URL": "https://en.wiktionary.org/wiki/%E8%80%81%E5%A9%86"
-          },
-          {
-            "name": "老",
-            "URL": "https://en.wiktionary.org/wiki/%E8%80%81"
-          },
-          {
-            "name": "婆",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A9%86"
-          },
-          {
-            "name": "餅",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-          }
-        ]
+        "Pinyin": "lǎo po bǐng"
       }
     ],
     "images": [
