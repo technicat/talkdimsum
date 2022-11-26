@@ -248,7 +248,6 @@
             "酥"
           ]
         },
-         
         "Yale": "fuhng lèih sōu",
         "Simplified": {
           "text": "凤梨酥",
@@ -295,29 +294,18 @@
   {
     "words": [
       {
-        "Cantonese": "芋泥酥",
-        "Simplified": "莲蓉酥",
         "English": "taro paste pastry",
+        "Cantonese": {
+          "text": "芋泥酥",
+          "wkty": [
+            "芋泥",
+            "芋",
+            "泥",
+            "酥"
+          ]
+        },
         "Yale": "wuh nàih sōu",
-        "Pinyin": "yù ní sū",
-        "resources": [
-          {
-            "name": "芋泥",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E6%B3%A5"
-          },
-          {
-            "name": "芋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-          },
-          {
-            "name": "泥",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B3%A5"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Pinyin": "yù ní sū"
       }
     ],
     "images": [
