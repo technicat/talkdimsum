@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "燒賣",
-                "Simplified": "烧卖",
                 "English": "siu mai",
+                "Cantonese": {
+                    "text": "燒賣",
+                    "wkty": [
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
+                "Simplified":  {
+                    "text":"烧卖",
+                    "wkty": [
+                        "烧卖",
+                        "烧卖",
+                        "卖"
+                    ]
+                },
                 "Yale": "sīu maaih",
-                "Pinyin": "shāo mài",
-                "resources": [
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Pinyin": "shāo mài"
             }
         ],
         "images": [
