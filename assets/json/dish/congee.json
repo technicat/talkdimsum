@@ -123,7 +123,7 @@
                         "粥"
                     ]
                 },
-                "Simplified":  {
+                "Simplified": {
                     "text": "瑶柱白粥",
                     "wkty": [
                         "瑶柱",
@@ -163,40 +163,21 @@
     {
         "words": [
             {
-                "Cantonese": "皮蛋瘦肉粥",
                 "English": "pork w/ preserved egg congee",
+                "Cantonese": {
+                    "text": "皮蛋瘦肉粥",
+                    "wkty": [
+                        "皮蛋",
+                        "皮",
+                        "蛋",
+                        "瘦肉",
+                        "瘦",
+                        "肉",
+                        "粥"
+                    ]
+                },
                 "Yale": "pèih daahn sau yuhk jūk",
-                "Pinyin": "pí dàn shòu ròu zhōu",
-                "resources": [
-                    {
-                        "name": "皮蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE%E8%9B%8B"
-                    },
-                    {
-                        "name": "皮",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "瘦肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%98%A6%E8%82%89"
-                    },
-                    {
-                        "name": "瘦",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%98%A6"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Pinyin": "pí dàn shòu ròu zhōu"
             }
         ],
         "images": [
