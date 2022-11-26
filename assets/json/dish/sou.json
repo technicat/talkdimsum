@@ -105,7 +105,7 @@
           ]
         },
         "Yale": "lò baahk sōu",
-        "Simplified":  {
+        "Simplified": {
           "text": "萝卜酥",
           "wkty": [
             "萝卜",
@@ -148,29 +148,27 @@
   {
     "words": [
       {
-        "Cantonese": "榴蓮酥",
-        "Simplified": "榴莲酥",
         "English": "durian puff",
+        "Cantonese": {
+          "text": "榴蓮酥",
+          "wkty": [
+            "榴蓮",
+            "榴",
+            "蓮",
+            "酥"
+          ]
+        },
         "Yale": "làuh lìhn sōu",
-        "Pinyin": "liú lián sū",
-        "resources": [
-          {
-            "name": "榴蓮",
-            "URL": "https://en.wiktionary.org/wiki/%E6%A6%B4%E8%93%AE"
-          },
-          {
-            "name": "榴",
-            "URL": "https://en.wiktionary.org/wiki/%E6%A6%B4"
-          },
-          {
-            "name": "蓮",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Simplified":  {
+          "text":"榴莲酥",
+          "wkty": [
+            "榴莲",
+            "榴",
+            "莲",
+            "酥"
+          ]
+        },
+        "Pinyin": "liú lián sū"
       }
     ],
     "images": [
