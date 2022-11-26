@@ -219,25 +219,25 @@
     {
         "words": [
             {
-                "Cantonese": "燒肉",
-                "Simplified": "烧肉",
                 "English": "pork belly",
+                "Cantonese": {
+                    "text": "燒肉",
+                    "wkty": [
+                        "燒肉",
+                        "燒",
+                        "肉"
+                    ]
+                },
                 "Yale": "sīu yuhk",
-                "Pinyin": "shāo ròu",
-                "resources": [
-                    {
-                        "name": "燒肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%82%89"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "烧肉",
+                    "wkty": [
+                        "烧肉",
+                        "烧",
+                        "肉"
+                    ]
+                },
+                "Pinyin": "shāo ròu"
             }
         ],
         "images": [
