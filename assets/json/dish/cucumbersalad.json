@@ -2,37 +2,31 @@
     {
         "words": [
             {
-                "Cantonese": "涼拌黃瓜",
-                "Simplified": "凉拌黄瓜",
                 "English": "cucumber salad",
+                "Cantonese": {
+                    "text": "涼拌黃瓜",
+                    "wkty": [
+                        "涼拌",
+                        "涼",
+                        "拌",
+                        "黃瓜",
+                        "黃",
+                        "瓜"
+                    ]
+                },
                 "Yale": "lèuhng buhn wòhng gwā",
-                "Pinyin": "liáng bàn huáng guā",
-                "resources": [
-                    {
-                        "name": "涼拌",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B6%BC%E6%8B%8C"
-                    },
-                    {
-                        "name": "涼",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B6%BC"
-                    },
-                    {
-                        "name": "拌",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8B%8C"
-                    },
-                    {
-                        "name": "黃瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83%E7%93%9C"
-                    },
-                    {
-                        "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    }
-                ]
+                "Simplified": {
+                    "text": "凉拌黄瓜",
+                    "wkty": [
+                        "涼拌",
+                        "涼",
+                        "拌",
+                        "黄瓜",
+                        "黄",
+                        "瓜"
+                    ]
+                },
+                "Pinyin": "liáng bàn huáng guā"
             }
         ],
         "images": [
