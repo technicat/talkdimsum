@@ -119,53 +119,46 @@
     {
         "words": [
             {
-                "Cantonese": "蒜泥黃瓜",
                 "English": "garlic cucumber salad",
+                "Cantonese": {
+                    "text": "蒜泥黃瓜",
+                    "wkty": [
+                        "黃瓜",
+                        "黃",
+                        "瓜"
+                    ]
+                },
                 "Yale": "syun nàih wòhng gwā",
-                "Pinyin": "suàn ní huáng guā",
-                "resources": [
-                    {
-                        "name": "黃瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83%E7%93%9C"
-                    },
-                    {
-                        "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    }
-                ]
+                "Pinyin": "suàn ní huáng guā"
             }
-        ],
-        "images": [
-            {
-                "image": "garliccucumberwishfuldumpling",
-                "place": "Wishful Dumpling, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A Sichuan cucumber salad mixed with garlic.\n\n**Characters**\n\n[黃瓜](https://en.wiktionary.org/wiki/%E9%BB%83%E7%93%9C) is *cucumber*.",
-        "tags": [
-            "新菜",
-            "川菜",
-            "麻辣",
-            "黃瓜",
-            "沙律",
-            "川菜",
-            "菜",
-            "素",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Ahead of Thyme",
-                "URL": "https://www.aheadofthyme.com/chinese-garlic-cucumber-salad/"
-            },
-            {
-                "name": "The Passport Kitchen",
-                "URL": "https://thepassportkitchen.com/spicy-sichuan-cucumber-salad/"
-            }
-        ]
-    }
-]
+            ],
+            "images": [
+                {
+                    "image": "garliccucumberwishfuldumpling",
+                    "place": "Wishful Dumpling, Las Vegas, Nevada"
+                }
+            ],
+            "description": "A Sichuan cucumber salad mixed with garlic.\n\n**Characters**\n\n[黃瓜](https://en.wiktionary.org/wiki/%E9%BB%83%E7%93%9C) is *cucumber* ([黃](https://en.wiktionary.org/wiki/%E9%BB%83) is green or blue-green, and [瓜](https://en.wiktionary.org/wiki/%E7%93%9C) is a melon or gourd..",
+            "tags": [
+                "新菜",
+                "川菜",
+                "麻辣",
+                "黃瓜",
+                "沙律",
+                "川菜",
+                "菜",
+                "素",
+                "茶餐廳"
+            ],
+            "resources": [
+                {
+                    "name": "Ahead of Thyme",
+                    "URL": "https://www.aheadofthyme.com/chinese-garlic-cucumber-salad/"
+                },
+                {
+                    "name": "The Passport Kitchen",
+                    "URL": "https://thepassportkitchen.com/spicy-sichuan-cucumber-salad/"
+                }
+            ]
+        }
+    ]
