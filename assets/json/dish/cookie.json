@@ -115,34 +115,29 @@
   {
     "words": [
       {
-        "Cantonese": "杏仁餅",
-        "Simplified": "杏仁饼",
-        "Alternate": "杏仁桃酥",
         "English": "almond cookie",
+        "Cantonese": {
+          "text": "杏仁餅",
+          "wkty": [
+            "杏仁餅",
+            "杏仁",
+            "杏",
+            "仁",
+            "餅"
+          ]
+        },
         "Yale": "hahng yàhn béng",
-        "Pinyin": "xìng rén bǐng",
-        "resources": [
-          {
-            "name": "杏仁餅",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81%E9%A4%85"
-          },
-          {
-            "name": "杏仁",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81"
-          },
-          {
-            "name": "杏",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F"
-          },
-          {
-            "name": "仁",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
-          },
-          {
-            "name": "餅",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-          }
-        ]
+        "Simplified": {
+          "text": "杏仁饼",
+          "wkty": [
+            "杏仁饼",
+            "杏仁",
+            "杏",
+            "仁",
+            "饼"
+          ]
+        },
+        "Pinyin": "xìng rén bǐng"
       }
     ],
     "images": [
