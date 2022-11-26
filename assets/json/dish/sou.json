@@ -159,8 +159,8 @@
           ]
         },
         "Yale": "làuh lìhn sōu",
-        "Simplified":  {
-          "text":"榴莲酥",
+        "Simplified": {
+          "text": "榴莲酥",
           "wkty": [
             "榴莲",
             "榴",
@@ -195,32 +195,19 @@
   {
     "words": [
       {
-        "Cantonese": "牛脷酥",
         "English": "Chinese doughnut",
+        "Cantonese": {
+          "text": "牛脷酥",
+          "wkty": [
+            "牛脷酥",
+            "牛脷",
+            "牛",
+            "脷",
+            "酥"
+          ]
+        },
         "Yale": "ngàuh leih sōu",
-        "Pinyin": "niú lì sū",
-        "resources": [
-          {
-            "name": "牛脷酥",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%84%B7%E9%85%A5"
-          },
-          {
-            "name": "牛脷",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%84%B7"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-          },
-          {
-            "name": "脷",
-            "URL": "https://en.wiktionary.org/wiki/%E8%84%B7"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          }
-        ]
+        "Pinyin": "niú lì sū"
       }
     ],
     "images": [
