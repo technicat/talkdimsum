@@ -296,36 +296,31 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽豆腐",
                 "English": "salt and pepper tofu",
+                "Cantonese": {
+                    "text": "椒鹽豆腐",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
                 "Yale": "jīu yìhm dauh fuh",
-                "Pinyin": "jiāo yán dòu fu",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椒盐豆腐",
+                    "wkty": [
+                        "椒盐",
+                        "盐",
+                        "鹽",
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
+                "Pinyin": "jiāo yán dòu fu"
             }
         ],
         "images": [
