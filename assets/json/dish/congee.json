@@ -555,37 +555,31 @@
     {
         "words": [
             {
-                "Cantonese": "鮑魚雞絲粥",
-                "Simplified": "鲍鱼鸡丝粥",
                 "English": "abalone w/ shredded chicken congee",
+                "Cantonese": {
+                    "text": "鮑魚雞絲粥",
+                    "wkty": [
+                        "鮑魚",
+                        "鮑",
+                        "魚",
+                        "雞",
+                        "絲",
+                        "粥"
+                    ]
+                },
                 "Yale": "bāau yùh gāi sī jūk",
-                "Pinyin": "bào yú jī sī zhōu",
-                "resources": [
-                    {
-                        "name": "鮑魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%91%E9%AD%9A"
-                    },
-                    {
-                        "name": "鮑",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%91"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "絲",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B5%B2"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鲍鱼鸡丝粥",
+                    "wkty": [
+                        "鲍鱼",
+                        "鲍",
+                        "鱼",
+                        "丝",
+                        "丝",
+                        "粥"
+                    ]
+                },
+                "Pinyin": "bào yú jī sī zhōu"
             }
         ],
         "images": [
