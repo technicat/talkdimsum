@@ -64,24 +64,17 @@
     {
         "words": [
             {
-                "Cantonese": "白粥",
                 "English": "plain congee",
+                "Cantonese": {
+                    "text": "白粥",
+                    "wkty": [
+                        "白粥",
+                        "白",
+                        "粥"
+                    ]
+                },
                 "Yale": "baahk jūk",
-                "Pinyin": "bái zhōu",
-                "resources": [
-                    {
-                        "name": "白粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%B2%A5"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Pinyin": "bái zhōu"
             }
         ],
         "images": [
@@ -250,25 +243,11 @@
     {
         "words": [
             {
-                "Cantonese": "魚片粥",
-                "Simplified": "鱼片粥",
                 "English": "fish congee",
+                "Cantonese": "魚片粥",
                 "Yale": "yú pín jūk",
-                "Pinyin": "yú piàn zhōu",
-                "resources": [
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "片",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Simplified": "鱼片粥",
+                "Pinyin": "yú piàn zhōu"
             }
         ],
         "images": [
