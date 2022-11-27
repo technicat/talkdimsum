@@ -290,24 +290,14 @@
     {
         "words": [
             {
-                "Cantonese": "川菜",
                 "English": "Sichuan cuisine",
+                "Cantonese":  {
+                    "text": "川菜",
+                    "wkty": ["川菜","川", "菜"
+                    ]
+                },
                 "Yale": "chyūn choi",
-                "Pinyin": "chuān cà",
-                "resources": [
-                    {
-                        "name": "川菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%9D%E8%8F%9C"
-                    },
-                    {
-                        "name": "川",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%9D"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "chuān cà"
             }
         ],
         "images": [
