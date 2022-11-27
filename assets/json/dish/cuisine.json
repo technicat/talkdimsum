@@ -249,25 +249,25 @@
     {
         "words": [
             {
-                "Cantonese": "滬菜",
-                "Simplified": "沪菜",
                 "English": "Shanghai cuisine",
+                "Cantonese": {
+                    "text": "滬菜",
+                    "wkty": [
+                        "滬菜",
+                        "滬",
+                        "菜"
+                    ]
+                },
                 "Yale": "lóuh choi",
-                "Pinyin": "lǔ cài",
-                "resources": [
-                    {
-                        "name": "滬菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BB%AC%E8%8F%9C"
-                    },
-                    {
-                        "name": "滬",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BB%AC"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Simplified": {
+                    "text": "沪菜",
+                    "wkty": [
+                        "沪菜",
+                        "沪",
+                        "菜"
+                    ]
+                },
+                "Pinyin": "lǔ cài"
             }
         ],
         "images": [
