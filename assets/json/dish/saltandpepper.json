@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽",
-                "Simplified": "椒盐",
                 "English": "salt and pepper",
+                "Cantonese": {
+                    "text": "椒鹽",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽"
+                    ]
+                },
                 "Yale": "jīu yìhm",
-                "Pinyin": "jiāo yán",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椒盐",
+                    "wkty": [
+                        "椒盐",
+                        "椒",
+                        "盐"
+                    ]
+                },
+                "Pinyin": "jiāo yán"
             }
         ],
         "images": [
