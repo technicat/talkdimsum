@@ -303,7 +303,7 @@
                     ]
                 },
                 "Yale": "ām sèuhn dáan sīu maaih",
-                "Simplified":  {
+                "Simplified": {
                     "text": "鹌鹑蛋烧卖",
                     "wkty": [
                         "鹌鹑蛋",
@@ -349,37 +349,31 @@
     {
         "words": [
             {
-                "Cantonese": "冬菇燒賣",
-                "Simplified": "冬菇烧卖",
                 "English": "mushroom siu mai",
+                "Cantonese": {
+                    "text": "冬菇燒賣",
+                    "wkty": [
+                        "冬菇",
+                        "冬",
+                        "菇",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Yale": "dūng gū sīu maaih",
-                "Pinyin": "dōng gū shāo mài",
-                "resources": [
-                    {
-                        "name": "冬菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%87"
-                    },
-                    {
-                        "name": "冬",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                    },
-                    {
-                        "name": "菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "冬菇烧卖",
+                    "wkty": [
+                        "冬菇",
+                        "冬",
+                        "菇",
+                        "烧卖",
+                        "烧",
+                        "卖"
+                    ]
+                },
+                "Pinyin": "dōng gū shāo mài"
             }
         ],
         "images": [
@@ -401,29 +395,27 @@
     {
         "words": [
             {
-                "Cantonese": "雞燒賣",
-                "Simplified": "鸡烧卖",
                 "English": "chicken siu mai",
+                "Cantonese": {
+                    "text": "雞燒賣",
+                    "wkty": [
+                        "雞",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Yale": "gāi sīu maaih",
-                "Pinyin": "jī shāo mài",
-                "resources": [
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鸡烧卖",
+                    "wkty": [
+                        "鸡",
+                        "烧卖",
+                        "烧",
+                        "卖"
+                    ]
+                },
+                "Pinyin": "jī shāo mài"
             }
         ],
         "images": [
