@@ -47,29 +47,27 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽蝦",
-                "Simplified": "椒盐蝦",
                 "English": "salt and pepper shrimp",
+                "Cantonese": {
+                    "text": "椒鹽蝦",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "蝦"
+                    ]
+                },
                 "Yale": "jīu yìhm hā",
-                "Pinyin": "jiāo yán xiā",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "椒盐虾",
+                    "wkty": [
+                        "椒盐",
+                        "椒",
+                        "盐",
+                        "虾"
+                    ]
+                },
+                "Pinyin": "jiāo yán xiā"
             }
         ],
         "images": [
