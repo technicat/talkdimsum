@@ -488,33 +488,29 @@
     {
         "words": [
             {
-                "Cantonese": "仿肉燒賣",
-                "Simplified": "仿肉烧卖",
                 "English": "vegan siu mai",
+                "Cantonese": {
+                    "text": "仿肉燒賣",
+                    "wkty": [
+                        "仿",
+                        "肉",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Yale": "fóng yuhk sīu maaih",
-                "Pinyin": "fǎng ròu shāo mài",
-                "resources": [
-                    {
-                        "name": "仿",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%BF"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "仿肉烧卖",
+                    "wkty": [
+                        "仿",
+                        "肉",
+                        "烧卖",
+                        "烧",
+                        "卖"
+                    ]
+                },
+                "Pinyin": "fǎng ròu shāo mài"
             }
         ],
         "images": [
