@@ -452,28 +452,27 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽鉗",
                 "English": "salt and pepper crab",
+                "Cantonese": {
+                    "text": "椒鹽鉗",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "鉗"
+                    ]
+                },
                 "Yale": "jīu yìhm háaih",
-                "Pinyin": "jiāo yán xiè",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "鉗",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%89%97"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椒盐鉗",
+                    "wkty": [
+                        "椒盐",
+                        "椒",
+                        "盐",
+                        "鉗"
+                    ]
+                },
+                "Pinyin": "jiāo yán xiè"
             }
         ],
         "images": [
