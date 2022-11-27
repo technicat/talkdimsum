@@ -125,7 +125,7 @@
                 },
                 "Yale": "jīu yìhm yàuh yú",
                 "Simplified": {
-                    "text":"椒盐鱿鱼",
+                    "text": "椒盐鱿鱼",
                     "wkty": [
                         "椒鹽",
                         "椒",
@@ -179,37 +179,31 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽雞翅",
-                "Simplified": "椒鹽鸡翅",
                 "English": "salt and pepper chicken wings",
+                "Cantonese": {
+                    "text": "椒鹽雞翅",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "雞翅",
+                        "雞",
+                        "翅"
+                    ]
+                },
                 "Yale": "jīu yìhm gāi chi",
-                "Pinyin": "jiāo yán jī ch",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "雞翅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E7%BF%85"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "翅",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BF%85"
-                    }
-                ]
+                "Simplified": {
+                    "text":"椒盐鸡翅",
+                    "wkty": [
+                        "椒盐",
+                        "椒",
+                        "盐",
+                        "鸡翅",
+                        "鸡",
+                        "翅"
+                    ]
+                },
+                "Pinyin": "jiāo yán jī ch"
             }
         ],
         "images": [
