@@ -58,7 +58,7 @@
                     ]
                 },
                 "Yale": "jīu yìhm hā",
-                "Simplified":  {
+                "Simplified": {
                     "text": "椒盐虾",
                     "wkty": [
                         "椒盐",
@@ -111,37 +111,31 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽魷魚",
-                "Simplified": "椒鹽鱿鱼",
                 "English": "salt and pepper squid",
+                "Cantonese": {
+                    "text": "椒鹽魷魚",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "魷魚",
+                        "魷",
+                        "魚"
+                    ]
+                },
                 "Yale": "jīu yìhm yàuh yú",
-                "Pinyin": "jiāo yán xyóu yú",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "魷魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%B7%E9%AD%9A"
-                    },
-                    {
-                        "name": "魷",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%B7"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    }
-                ]
+                "Simplified": {
+                    "text":"椒盐鱿鱼",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "盐",
+                        "鱿鱼",
+                        "鱿",
+                        "鱼"
+                    ]
+                },
+                "Pinyin": "jiāo yán xyóu yú"
             }
         ],
         "images": [
