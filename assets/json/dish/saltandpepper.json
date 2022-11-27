@@ -193,7 +193,7 @@
                 },
                 "Yale": "jīu yìhm gāi chi",
                 "Simplified": {
-                    "text":"椒盐鸡翅",
+                    "text": "椒盐鸡翅",
                     "wkty": [
                         "椒盐",
                         "椒",
@@ -247,33 +247,29 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽魚片",
-                "Simplified": "椒鹽鱼片",
                 "English": "salt and pepper fish",
+                "Cantonese": {
+                    "text": "椒鹽魚片",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "魚",
+                        "片"
+                    ]
+                },
                 "Yale": "jīu yìhm yú pín",
-                "Pinyin": "jiāo yán yú piàn",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "片",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椒盐鱼片",
+                    "wkty": [
+                        "椒盐",
+                        "椒",
+                        "盐",
+                        "鱼",
+                        "片"
+                    ]
+                },
+                "Pinyin": "jiāo yán yú piàn"
             }
         ],
         "images": [
