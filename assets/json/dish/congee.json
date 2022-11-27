@@ -453,29 +453,27 @@
     {
         "words": [
             {
-                "Cantonese": "雞肉粥",
-                "Simplified": "鸡肉粥",
                 "English": "chicken congee",
+                "Cantonese": {
+                    "text": "雞肉粥",
+                    "wkty": [
+                        "雞肉",
+                        "雞",
+                        "肉",
+                        "粥"
+                    ]
+                },
                 "Yale": "gāi yuhk jūk",
-                "Pinyin": "jī ròu zhōu",
-                "resources": [
-                    {
-                        "name": "雞肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E%E8%82%89"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鸡肉粥",
+                    "wkty": [
+                        "鸡肉",
+                        "鸡",
+                        "肉",
+                        "粥"
+                    ]
+                },
+                "Pinyin": "jī ròu zhōu"
             }
         ],
         "images": [
@@ -484,7 +482,7 @@
                 "place": "Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with chicken.\n\n**Characters**\n\n[雞](https://en.wiktionary.org/wiki/%E9%9B%9E) is *chicken*, [肉](https://en.wiktionary.org/wiki/%E8%82%89) is “meat,” and [粥](https://en.wiktionary.org/wiki/%E7%B2%A5) is [congee](http://en.wikipedia.org/wiki/Congee), so 雞肉粥 is *chicken meat congee*.",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with chicken.\n\n**Characters**\n\n[雞](https://en.wiktionary.org/wiki/%E9%9B%9E) is *chicken*, [肉](https://en.wiktionary.org/wiki/%E8%82%89) is *meat*, and [粥](https://en.wiktionary.org/wiki/%E7%B2%A5) is [congee](http://en.wikipedia.org/wiki/Congee), so 雞肉粥 is *chicken meat congee*.",
         "tags": [
             "粥",
             "雞肉",
