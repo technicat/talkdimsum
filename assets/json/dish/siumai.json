@@ -165,6 +165,7 @@
     {
         "words": [
             {
+                "English": "shrimp and pork siu mai",
                 "Cantonese": {
                     "text": "鮮蝦豬肉燒賣",
                     "wkty": [
@@ -179,9 +180,23 @@
                         "賣"
                     ]
                 },
-                "Simplified": "鲜猪肉虾烧卖",
-                "English": "shrimp and pork siu mai",
+                 
                 "Yale": "sīn hā jyū yuhk sīu maaih",
+                "Simplified": {
+                    "text":"鲜虾猪肉虾烧卖",
+                    "wkty": [
+                        "鲜虾",
+                        "鲜",
+                        "虾",
+                        "猪肉",
+                        "猪",
+                        "肉",
+                        "烧卖",
+                        "烧",
+                        "卖"
+                    ]
+                },
+             
                 "Pinyin": "xiān xiā hū ròu shāo mài"
             }
         ],
