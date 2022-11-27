@@ -291,9 +291,12 @@
         "words": [
             {
                 "English": "Sichuan cuisine",
-                "Cantonese":  {
+                "Cantonese": {
                     "text": "川菜",
-                    "wkty": ["川菜","川", "菜"
+                    "wkty": [
+                        "川菜",
+                        "川",
+                        "菜"
                     ]
                 },
                 "Yale": "chyūn choi",
@@ -328,20 +331,10 @@
     {
         "words": [
             {
-                "Cantonese": "台菜",
                 "English": "Taiwan cuisine",
+                "Cantonese": "台菜",
                 "Yale": "tòih choi",
-                "Pinyin": "tái cà",
-                "resources": [
-                    {
-                        "name": "台",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%B0"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "tái cà"
             }
         ],
         "images": [
@@ -376,20 +369,10 @@
     {
         "words": [
             {
-                "Cantonese": "滇菜",
                 "English": "Yunnan cuisine",
+                "Cantonese": "滇菜",
                 "Yale": "tìhn choi",
-                "Pinyin": "diān cà",
-                "resources": [
-                    {
-                        "name": "滇",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BB%87"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "diān cà"
             }
         ],
         "images": [
@@ -416,26 +399,26 @@
     {
         "words": [
             {
-                "Cantonese": "點心",
-                "Simplified": "点心",
                 "English": "dim sum",
+                "Cantonese": {
+                    "text": "點心",
+                    "wkty": [
+                        "點心",
+                        "點",
+                        "心"
+                    ]
+                },
                 "Yale": "dím sām",
+                "Simplified": {
+                    "text": "点心",
+                    "wkty": [
+                        "点心",
+                        "点",
+                        "心"
+                    ]
+                },
                 "Jyutping": "dim2 sam1",
-                "Pinyin": "diǎn xin",
-                "resources": [
-                    {
-                        "name": "點心",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%9E%E5%BF%83"
-                    },
-                    {
-                        "name": "點",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%9E"
-                    },
-                    {
-                        "name": "心",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BF%83"
-                    }
-                ]
+                "Pinyin": "diǎn xin"
             }
         ],
         "images": [
@@ -543,37 +526,7 @@
                 "Cantonese": "素",
                 "English": "vegetarian",
                 "Yale": "sou",
-                "Pinyin": "sù",
-                "resources": [
-                    {
-                        "name": "素",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
-                    },
-                    {
-                        "name": "素餐",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A4%90"
-                    },
-                    {
-                        "name": "素菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E8%8F%9C"
-                    },
-                    {
-                        "name": "素食",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F"
-                    },
-                    {
-                        "name": "素月",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E6%9C%88"
-                    },
-                    {
-                        "name": "素顏",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A1%8F"
-                    },
-                    {
-                        "name": "素數",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E6%95%B8"
-                    }
-                ]
+                "Pinyin": "sù"
             }
         ],
         "images": [
@@ -646,13 +599,7 @@
         "words": [
             {
                 "English": "new dishes",
-                "Cantonese": {
-                    "text": "新菜",
-                    "wkty": [
-                        "新",
-                        "菜"
-                    ]
-                },
+                "Cantonese": "新菜",
                 "Yale": "sān choi",
                 "Pinyin": "xīn cài"
             }
