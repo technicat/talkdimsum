@@ -478,25 +478,18 @@
     {
         "words": [
             {
-                "Cantonese": "港式",
                 "English": "Hong Kong-style",
+                "Cantonese": {
+                    "text": "港式",
+                    "wkty": [
+                        "港式",
+                        "港",
+                        "式"
+                    ]
+                },
                 "Yale": "góng sīk",
                 "Jyutping": "gong2 sik1",
-                "Pinyin": "gǎng shì",
-                "resources": [
-                    {
-                        "name": "港式",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF%E5%BC%8F"
-                    },
-                    {
-                        "name": "港",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF"
-                    },
-                    {
-                        "name": "式",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
-                    }
-                ]
+                "Pinyin": "gǎng shì"
             }
         ],
         "images": [
@@ -553,25 +546,25 @@
     {
         "words": [
             {
-                "Cantonese": "海鮮",
-                "Simplified": "海鲜",
                 "English": "seafood",
+                "Cantonese": {
+                    "text": "海鮮",
+                    "wkty": [
+                        "海鮮",
+                        "海",
+                        "鮮"
+                    ]
+                },
                 "Yale": "hói sīn",
-                "Pinyin": "hǎi xiān",
-                "resources": [
-                    {
-                        "name": "海鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE"
-                    },
-                    {
-                        "name": "海",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    }
-                ]
+                "Simplified": {
+                    "text": "海鲜",
+                    "wkty": [
+                        "海鲜",
+                        "海",
+                        "鲜"
+                    ]
+                },
+                "Pinyin": "hǎi xiān"
             }
         ],
         "images": [
@@ -580,15 +573,11 @@
                 "place": "New Asian BBQ, Las Vegas, Nevada"
             }
         ],
-        "description": "\n\n**Characters**\n\n[海鮮](https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE) means *seafood* ([海](https://en.wiktionary.org/wiki/%E6%B5%B7) is *ocean* and [鮮](https://en.wiktionary.org/wiki/%E9%AE%AE) is *fresh*, so *seafood* is literally *ocean fresh*).",
+        "description": "\n\n**Characters**\n\n[海鮮](https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE) is *seafood* ([海](https://en.wiktionary.org/wiki/%E6%B5%B7) is *ocean* and [鮮](https://en.wiktionary.org/wiki/%E9%AE%AE) is *fresh*, so *seafood* is *ocean fresh*).",
         "tags": [
             "海鮮"
         ],
         "resources": [
-            {
-                "name": "Cbina Highlights",
-                "URL": "https://www.chinahighlights.com/travelguide/chinese-food/fish-seafood-dishes.htm"
-            },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Seafood"
