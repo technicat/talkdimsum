@@ -424,7 +424,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "[Siu mai](http://en.wikipedia.org/wiki/Shumai) filled with chicken.\n\nThe first character [雞](https://en.wiktionary.org/wiki/%E9%9B%9E) is *chicken*, and [燒賣](https://en.wiktionary.org/wiki/燒賣) is [siu mai](http://en.wikipedia.org/wiki/Shumai)",
+        "description": "[Siu mai](http://en.wikipedia.org/wiki/Shumai) filled with chicken.\n\nThe first character [雞](https://en.wiktionary.org/wiki/%E9%9B%9E) is *chicken*, and [燒賣](https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3) is [siu mai](http://en.wikipedia.org/wiki/Shumai)",
         "tags": [
             "粵菜",
             "燒賣",
@@ -437,37 +437,31 @@
     {
         "words": [
             {
-                "Cantonese": "魚肉燒賣",
-                "Simplified": "鱼肉烧卖",
                 "English": "fish siu mai",
+                "Cantonese": {
+                    "text": "魚肉燒賣",
+                    "wkty": [
+                        "魚肉",
+                        "魚",
+                        "肉",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Yale": "yùh yuhk sīu maaih",
-                "Pinyin": "yú ròu shāo mài",
-                "resources": [
-                    {
-                        "name": "魚肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A%E8%82%89"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鱼肉烧卖",
+                    "wkty": [
+                        "鱼肉",
+                        "鱼",
+                        "肉",
+                        "烧卖",
+                        "烧",
+                        "卖"
+                    ]
+                },
+                "Pinyin": "yú ròu shāo mài"
             }
         ],
         "images": [
