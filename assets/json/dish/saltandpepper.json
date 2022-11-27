@@ -407,36 +407,31 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽茄子",
                 "English": "salt and pepper eggplant",
+                "Cantonese": {
+                    "text": "椒鹽茄子",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "茄子",
+                        "茄",
+                        "子"
+                    ]
+                },
                 "Yale": "jīu yìhm ké jí",
-                "Pinyin": "jiāo yán qié zi",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "茄子",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84%E5%AD%90"
-                    },
-                    {
-                        "name": "茄",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椒盐茄子",
+                    "wkty": [
+                        "椒盐",
+                        "椒",
+                        "盐",
+                        "茄子",
+                        "茄",
+                        "子"
+                    ]
+                },
+                "Pinyin": "jiāo yán qié zi"
             }
         ],
         "images": [
