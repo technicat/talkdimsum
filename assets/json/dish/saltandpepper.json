@@ -354,36 +354,31 @@
     {
         "words": [
             {
-                "Cantonese": "椒鹽排骨",
                 "English": "salt and pepper pork chop",
+                "Cantonese": {
+                    "text": "椒鹽排骨",
+                    "wkty": [
+                        "椒鹽",
+                        "椒",
+                        "鹽",
+                        "排骨",
+                        "排",
+                        "骨"
+                    ]
+                },
                 "Yale": "jīu yìhm pàaih gwāt",
-                "Pinyin": "jiāo yán pái gǔ",
-                "resources": [
-                    {
-                        "name": "椒鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92%E9%B9%BD"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "鹽",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-                    },
-                    {
-                        "name": "排骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92%E9%AA%A8"
-                    },
-                    {
-                        "name": "排",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椒盐排骨",
+                    "wkty": [
+                        "椒盐",
+                        "椒",
+                        "盐",
+                        "排骨",
+                        "排",
+                        "骨"
+                    ]
+                },
+                "Pinyin": "jiāo yán pái gǔ"
             }
         ],
         "images": [
