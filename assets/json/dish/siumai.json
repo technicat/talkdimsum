@@ -289,41 +289,33 @@
     {
         "words": [
             {
-                "Cantonese": "鵪鶉蛋燒賣",
-                "Simplified": "鹌鹑蛋烧卖",
                 "English": "quail egg siu mai",
+                "Cantonese": {
+                    "text": "鵪鶉蛋燒賣",
+                    "wkty": [
+                        "鵪鶉蛋",
+                        "鵪鶉",
+                        "鵪",
+                        "蛋",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Yale": "ām sèuhn dáan sīu maaih",
-                "Pinyin": "ān chún dàn shāo mài",
-                "resources": [
-                    {
-                        "name": "鵪鶉蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA%E9%B6%89%E8%9B%8B"
-                    },
-                    {
-                        "name": "鵪鶉",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA%E9%B6%89"
-                    },
-                    {
-                        "name": "鵪",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B5%AA"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "鹌鹑蛋烧卖",
+                    "wkty": [
+                        "鹌鹑蛋",
+                        "鹌鹑",
+                        "鹌",
+                        "蛋",
+                        "烧卖",
+                        "烧卖",
+                        "卖"
+                    ]
+                },
+                "Pinyin": "ān chún dàn shāo mài"
             }
         ],
         "images": [
