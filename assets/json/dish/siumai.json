@@ -180,10 +180,9 @@
                         "賣"
                     ]
                 },
-                 
                 "Yale": "sīn hā jyū yuhk sīu maaih",
                 "Simplified": {
-                    "text":"鲜虾猪肉虾烧卖",
+                    "text": "鲜虾猪肉虾烧卖",
                     "wkty": [
                         "鲜虾",
                         "鲜",
@@ -196,7 +195,6 @@
                         "卖"
                     ]
                 },
-             
                 "Pinyin": "xiān xiā hū ròu shāo mài"
             }
         ],
@@ -236,37 +234,31 @@
     {
         "words": [
             {
-                "Cantonese": "帶子燒賣",
-                "Simplified": "带子烧卖",
                 "English": "scallop siu mai",
+                "Cantonese": {
+                    "text": "帶子燒賣",
+                    "wkty": [
+                        "帶子",
+                        "帶",
+                        "子",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Yale": "dáai jí sīu maaih",
-                "Pinyin": "dài zi shāo mài",
-                "resources": [
-                    {
-                        "name": "帶子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B8%B6%E5%AD%90"
-                    },
-                    {
-                        "name": "帶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B8%B6"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Simplified": {
+                    "text": "带子烧卖",
+                    "wkty": [
+                        "带子",
+                        "带",
+                        "子",
+                        "烧卖",
+                        "烧卖",
+                        "卖"
+                    ]
+                },
+                "Pinyin": "dài zi shāo mài"
             }
         ],
         "images": [
