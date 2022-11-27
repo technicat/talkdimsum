@@ -165,49 +165,24 @@
     {
         "words": [
             {
-                "Cantonese": "鮮蝦豬肉燒賣",
+                "Cantonese": {
+                    "text": "鮮蝦豬肉燒賣",
+                    "wkty": [
+                        "鮮蝦",
+                        "鮮",
+                        "蝦",
+                        "豬肉",
+                        "豬",
+                        "肉",
+                        "燒賣",
+                        "燒",
+                        "賣"
+                    ]
+                },
                 "Simplified": "鲜猪肉虾烧卖",
                 "English": "shrimp and pork siu mai",
                 "Yale": "sīn hā jyū yuhk sīu maaih",
-                "Pinyin": "xiān xiā hū ròu shāo mài",
-                "resources": [
-                    {
-                        "name": "鮮蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "豬肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC%E8%82%89"
-                    },
-                    {
-                        "name": "豬",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "燒賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%B3%A3"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "賣",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-                    }
-                ]
+                "Pinyin": "xiān xiā hū ròu shāo mài"
             }
         ],
         "images": [
