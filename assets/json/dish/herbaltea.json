@@ -43,25 +43,18 @@
     {
         "words": [
             {
-                "Cantonese": "熱檸蜜",
+                "Cantonese": {
+                    "text": "熱檸蜜",
+                    "wkty": [
+                        "熱",
+                        "檸",
+                        "蜜"
+                    ]
+                },
                 "Simplified": "热柠蜜",
                 "English": "honey lemon tea",
                 "Yale": "yiht lìhng maht",
-                "Pinyin": "rè níng mì",
-                "resources": [
-                    {
-                        "name": "熱",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%86%B1"
-                    },
-                    {
-                        "name": "檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                    },
-                    {
-                        "name": "蜜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9C%9C"
-                    }
-                ]
+                "Pinyin": "rè níng mì"
             }
         ],
         "images": [
