@@ -43,17 +43,10 @@
     {
         "words": [
             {
-                "Cantonese": {
-                    "text": "熱檸蜜",
-                    "wkty": [
-                        "熱",
-                        "檸",
-                        "蜜"
-                    ]
-                },
-                "Simplified": "热柠蜜",
                 "English": "honey lemon tea",
+                "Cantonese": "熱檸蜜",
                 "Yale": "yiht lìhng maht",
+                "Simplified": "热柠蜜",
                 "Pinyin": "rè níng mì"
             }
         ],
@@ -86,25 +79,11 @@
     {
         "words": [
             {
-                "Cantonese": "凍檸蜜",
-                "Simplified": "冻柠蜜",
                 "English": "ice honey lemon tea",
+                "Cantonese": "凍檸蜜",
                 "Yale": "dung lìhng maht",
-                "Pinyin": "dòng níng mì",
-                "resources": [
-                    {
-                        "name": "凍",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%87%8D"
-                    },
-                    {
-                        "name": "檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                    },
-                    {
-                        "name": "蜜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9C%9C"
-                    }
-                ]
+                "Simplified": "冻柠蜜",
+                "Pinyin": "dòng níng mì"
             }
         ],
         "images": [
@@ -139,28 +118,18 @@
     {
         "words": [
             {
-                "Cantonese": "仙草蜜",
                 "English": "grass jelly drink",
+                "Cantonese": {
+                    "text": "仙草蜜",
+                    "wkty": [
+                        "仙草",
+                        "仙",
+                        "草",
+                        "蜜"
+                    ]
+                },
                 "Yale": "sīn chóu maht",
                 "Pinyin": "xiān cǎo mì",
-                "resources": [
-                    {
-                        "name": "仙草",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%99%E8%8D%89"
-                    },
-                    {
-                        "name": "仙",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%99"
-                    },
-                    {
-                        "name": "草",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8D%89"
-                    },
-                    {
-                        "name": "蜜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9C%9C"
-                    }
-                ]
             }
         ],
         "images": [
