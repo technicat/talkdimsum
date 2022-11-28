@@ -22,7 +22,7 @@
                 "place": "Every Grain, Las Vegas, Nevada"
             }
         ],
-        "description": "[High mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is oolong tea grown, surprise, high in the mountains of central Taiwan.\n\n**Characters**\n\n[高](https://en.wiktionary.org/wiki/%E9%AB%98) is *high*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [茶](https://en.wiktionary.org/wiki/%E8%8C%B6) is [tea](https://en.wikipedia.org/wiki/Tea), so 高山茶 is *high mountain tea*.\n\n",
+        "description": "[High mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is oolong tea grown, surprise, high in the mountains of central Taiwan.\n\n**Characters**\n\n[高](https://en.wiktionary.org/wiki/%E9%AB%98) is *high*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [茶](https://en.wiktionary.org/wiki/%E8%8C%B6) is [tea](https://en.wikipedia.org/wiki/Tea), so [阿里山](https://en.wiktionary.org/wiki/%E9%98%BF%E9%87%8C%E5%B1%B1) is *high mountain tea*.\n\n",
         "tags": [
             "台菜",
             "熱飲",
@@ -48,41 +48,22 @@
     {
         "words": [
             {
-                "Cantonese": "阿里山高山茶",
                 "English": "Alishan tea",
+                "Cantonese": {
+                    "text": "阿里山高山茶",
+                    "wkty": [
+                        "阿里山",
+                        "阿",
+                        "里",
+                        "山",
+                        "高山",
+                        "高",
+                        "茶"
+                    ]
+                },
                 "Yale": "a léih sāan gōu sāan chàh",
                 "Jyutping": " caa4",
-                "Pinyin": "Ā lǐ Shān gāo shān chá",
-                "resources": [
-                    {
-                        "name": "阿里山",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%98%BF%E9%87%8C%E5%B1%B1"
-                    },
-                    {
-                        "name": "阿",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%98%BF"
-                    },
-                    {
-                        "name": "里",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%87%8C"
-                    },
-                    {
-                        "name": "山",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B1%B1"
-                    },
-                    {
-                        "name": "高山",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AB%98%E5%B1%B1"
-                    },
-                    {
-                        "name": "高",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AB%98"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "Ā lǐ Shān gāo shān chá"
             }
         ],
         "images": [
@@ -91,7 +72,7 @@
                 "place": "Tea and Whisk, Las Vegas, Nevada"
             }
         ],
-        "description": "The most famous [high mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is grown in the Alishan mountain range of Taiwan.\n\n**Characters**\n\n阿里山 is the name Alishan (notice the third character is the same character for “mountain” as the second character for “high mountain” (高山).\n\n",
+        "description": "The most famous [high mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is grown in the Alishan mountain range of Taiwan.\n\n**Characters**\n\n[阿里山](https://en.wiktionary.org/wiki/%E9%98%BF%E9%87%8C%E5%B1%B1) is the name [Alishan](https://en.wikipedia.org/wiki/Alishan,_Chiayi) (notice the third character is the same character for *mountain* as the second character for *high mountain* [高山](https://en.wiktionary.org/wiki/%E9%AB%98%E5%B1%B1).",
         "tags": [
             "台菜",
             "熱飲",
