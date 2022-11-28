@@ -94,6 +94,7 @@
     {
         "words": [
             {
+                "English": "paper-wrapped cake",
                 "Cantonese": {
                     "text": "紙包蛋糕",
                     "wkty": [
@@ -104,6 +105,7 @@
                         "糕"
                     ]
                 },
+                "Yale": "jí bāau daahn gōu",
                 "Simplified": {
                     "text": "纸包蛋糕",
                     "wkty": [
@@ -114,8 +116,6 @@
                         "糕"
                     ]
                 },
-                "English": "paper-wrapped cake",
-                "Yale": "jí bāau daahn gōu",
                 "Pinyin": "zhǐ bāo dàn gāo"
             }
         ],
