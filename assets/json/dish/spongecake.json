@@ -2,34 +2,30 @@
     {
         "words": [
             {
-                "Cantonese": "馬拉糕",
-                "Simplified": "马拉糕",
                 "English": "Malaysian steamed cake",
+                "Cantonese": {
+                    "text": "馬拉糕",
+                    "wkty": [
+                        "馬拉糕",
+                        "馬拉",
+                        "馬",
+                        "拉",
+                        "糕"
+                    ]
+                },
                 "Yale": "máh lāai gōu",
+                "Simplified": {
+                    "text": "马拉糕",
+                    "wkty": [
+                        "马拉糕",
+                        "马拉",
+                        "马",
+                        "拉",
+                        "糕"
+                    ]
+                },
                 "Pinyin": "mǎ lā gāo",
-                "Other": "馬來糕",
-                "resources": [
-                    {
-                        "name": "馬拉糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC%E6%8B%89%E7%B3%95"
-                    },
-                    {
-                        "name": "馬拉",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC%E6%8B%89"
-                    },
-                    {
-                        "name": "馬",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC"
-                    },
-                    {
-                        "name": "拉",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8B%89"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Other": "馬來糕"
             }
         ],
         "images": [
