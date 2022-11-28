@@ -176,7 +176,7 @@
                     ]
                 },
                 "Yale": "hēung màauh daaih mahk chàh",
-                "Simplified":  {
+                "Simplified": {
                     "text": "香茅大麦茶",
                     "wkty": [
                         "香茅",
@@ -188,7 +188,6 @@
                         "茶"
                     ]
                 },
-               
                 "Pinyin": "xiāng máo dà mài chá"
             }
         ],
@@ -217,29 +216,27 @@
     {
         "words": [
             {
-                "Cantonese": "八寶茶",
-                "Simplified": "八宝茶",
                 "English": "eight treasures tea",
+                "Cantonese": {
+                    "text": "八寶茶",
+                    "wkty": [
+                        "八寶",
+                        "八",
+                        "寶",
+                        "茶"
+                    ]
+                },
                 "Yale": "baat bóu chàh",
-                "Pinyin": "bā bǎo chá",
-                "resources": [
-                    {
-                        "name": "八寶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%85%AB%E5%AF%B6"
-                    },
-                    {
-                        "name": "八",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%85%AB"
-                    },
-                    {
-                        "name": "寶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AF%B6"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "八宝茶",
+                    "wkty": [
+                        "八宝",
+                        "八",
+                        "宝",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "bā bǎo chá"
             }
         ],
         "images": [
