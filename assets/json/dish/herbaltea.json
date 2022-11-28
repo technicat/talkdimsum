@@ -2,28 +2,18 @@
     {
         "words": [
             {
-                "Cantonese": "柚子茶",
                 "English": "honey citrus tea",
+                "Cantonese": {
+                    "text": "柚子茶",
+                    "wkty": [
+                        "柚子",
+                        "柚",
+                        "子",
+                        "茶"
+                    ]
+                },
                 "Yale": "yáu jí chàh",
-                "Pinyin": "yòu zi chá",
-                "resources": [
-                    {
-                        "name": "柚子",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9F%9A%E5%AD%90"
-                    },
-                    {
-                        "name": "柚",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9F%9A"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "yòu zi chá"
             }
         ],
         "images": [
