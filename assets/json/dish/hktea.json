@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "凍檸茶",
-                "Simplified": "冻柠茶",
                 "English": "ice lemon tea",
+                "Cantonese": {
+                    "text": "凍檸茶",
+                    "wkty": [
+                        "凍",
+                        "檸茶",
+                        "檸",
+                        "茶"
+                    ]
+                },
                 "Yale": "dung lìhng chàh",
-                "Pinyin": "dòng níng chá",
-                "resources": [
-                    {
-                        "name": "凍",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%87%8D"
-                    },
-                    {
-                        "name": "檸茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8%E8%8C%B6"
-                    },
-                    {
-                        "name": "檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "冻柠茶",
+                    "wkty": [
+                        "冻",
+                        "柠茶",
+                        "柠",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "dòng níng chá"
             }
         ],
         "images": [
