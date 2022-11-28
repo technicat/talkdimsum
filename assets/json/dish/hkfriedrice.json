@@ -2,33 +2,29 @@
   {
     "words": [
       {
-        "Cantonese": "焗豬扒飯",
-        "Simplified": "焗猪扒饭",
         "English": "baked pork chop on rice",
+        "Cantonese": {
+          "text": "焗豬扒飯",
+          "wkty": [
+            "焗",
+            "豬扒",
+            "豬",
+            "扒",
+            "飯"
+          ]
+        },
         "Yale": "guhk jyū pàh faahn",
-        "Pinyin": "jú zhū bā fàn",
-        "resources": [
-          {
-            "name": "焗",
-            "URL": "https://en.wiktionary.org/wiki/%E7%84%97"
-          },
-          {
-            "name": "豬扒",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC%E6%89%92"
-          },
-          {
-            "name": "豬",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-          },
-          {
-            "name": "扒",
-            "URL": "https://en.wiktionary.org/wiki/%E6%89%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "焗猪扒饭",
+          "wkty": [
+            "焗",
+            "猪扒",
+            "猪",
+            "扒",
+            "饭"
+          ]
+        },
+        "Pinyin": "jú zhū bā fàn"
       }
     ],
     "images": [
