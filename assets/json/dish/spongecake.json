@@ -94,33 +94,29 @@
     {
         "words": [
             {
-                "Cantonese": "纸包蛋糕",
-                "Simplified": "纸包蛋糕",
+                "Cantonese": {
+                    "text": "紙包蛋糕",
+                    "wkty": [
+                        "紙",
+                        "包",
+                        "蛋糕",
+                        "蛋",
+                        "糕"
+                    ]
+                },
+                "Simplified": {
+                    "text": "纸包蛋糕",
+                    "wkty": [
+                        "纸",
+                        "包",
+                        "蛋糕",
+                        "蛋",
+                        "糕"
+                    ]
+                },
                 "English": "paper-wrapped cake",
                 "Yale": "jí bāau daahn gōu",
-                "Pinyin": "zhǐ bāo dàn gāo",
-                "resources": [
-                    {
-                        "name": "纸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BA%B8"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    },
-                    {
-                        "name": "蛋糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E7%B3%95"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Pinyin": "zhǐ bāo dàn gāo"
             }
         ],
         "images": [
