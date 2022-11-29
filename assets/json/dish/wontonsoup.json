@@ -13,7 +13,7 @@
           ]
         },
         "Yale": "wàhn tān tōng",
-        "Simplified":  {
+        "Simplified": {
           "text": "云吞汤",
           "wkty": [
             "云吞",
@@ -77,33 +77,29 @@
   {
     "words": [
       {
-        "Cantonese": "窩雲吞湯",
-        "Simplified": "窝云吞汤",
         "English": "wor wonton soup",
+        "Cantonese": {
+          "text": "窩雲吞湯",
+          "wkty": [
+            "窩",
+            "雲吞",
+            "雲",
+            "吞",
+            "湯"
+          ]
+        },
+        "Simplified":  {
+          "text":"窝云吞汤",
+          "wkty": [
+            "窝",
+            "云吞",
+            "云",
+            "吞",
+            "汤"
+          ]
+        },
         "Yale": "wō wàhn tān tōng",
-        "Pinyin": "wō yún tūn tāng",
-        "resources": [
-          {
-            "name": "窩",
-            "URL": "https://en.wiktionary.org/wiki/%E7%AA%A9"
-          },
-          {
-            "name": "雲吞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-          },
-          {
-            "name": "雲",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
-          },
-          {
-            "name": "吞",
-            "URL": "https://en.wiktionary.org/wiki/%E5%90%9E"
-          },
-          {
-            "name": "湯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-          }
-        ]
+        "Pinyin": "wō yún tūn tāng"
       }
     ],
     "images": [
