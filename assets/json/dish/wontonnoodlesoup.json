@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "雲吞麵",
-                "Simplified": "云吞面",
                 "English": "wonton noodle soup",
+                "Cantonese": {
+                    "text": "雲吞麵",
+                    "wkty": [
+                        "雲吞麵",
+                        "雲吞",
+                        "麵"
+                    ]
+                },
+                "Simplified": {
+                    "text": "云吞面",
+                    "wkty": [
+                        "云吞面",
+                        "云吞",
+                        "面"
+                    ]
+                },
                 "Yale": "wàhn tān mihn",
-                "Pinyin": "yún tūn miàn",
-                "resources": [
-                    {
-                        "name": "雲吞麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E%E9%BA%B5"
-                    },
-                    {
-                        "name": "雲吞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    }
-                ]
+                "Pinyin": "yún tūn miàn"
             }
         ],
         "images": [
@@ -131,8 +131,6 @@
             "雲吞",
             "麵"
         ],
-        "resources": [
-           
-        ]
+        "resources": []
     }
 ]
