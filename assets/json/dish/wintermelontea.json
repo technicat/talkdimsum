@@ -51,41 +51,22 @@
     {
         "words": [
             {
-                "Cantonese": "冬瓜仙草茶",
                 "English": "grass jelly winter melon tea",
+                "Cantonese": {
+                    "text": "冬瓜仙草茶",
+                    "wkty": [
+                        "冬瓜",
+                        "冬",
+                        "瓜",
+                        "仙草",
+                        "仙",
+                        "草",
+                        "茶"
+                    ]
+                },
                 "Yale": "dūng gwā sīn chóu chàh",
                 "Jyutping": "dung1 gwaa1 sin1 cho2 caa4",
-                "Pinyin": "shuǐ guǒ xiān cǎo chá",
-                "resources": [
-                    {
-                        "name": "冬瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%25E5%2586%25AC%25E7%2593%259C"
-                    },
-                    {
-                        "name": "冬",
-                        "URL": "https://en.wiktionary.org/wiki/%25E5%2586%25AC"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%25E7%2593%259C"
-                    },
-                    {
-                        "name": "仙草",
-                        "URL": "https://en.wiktionary.org/wiki/%25E4%25BB%2599%25E8%258D%2589"
-                    },
-                    {
-                        "name": "仙",
-                        "URL": "https://en.wiktionary.org/wiki/%25E4%25BB%2599"
-                    },
-                    {
-                        "name": "草",
-                        "URL": "https://en.wiktionary.org/wiki/%25E8%258D%2589"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%25E8%258C%25B6"
-                    }
-                ]
+                "Pinyin": "shuǐ guǒ xiān cǎo chá"
             }
         ],
         "images": [
