@@ -2,29 +2,27 @@
   {
     "words": [
       {
-        "Cantonese": "雲吞湯",
-        "Simplified": "云吞汤",
         "English": "wonton soup",
+        "Cantonese": {
+          "text": "雲吞湯",
+          "wkty": [
+            "雲吞",
+            "雲",
+            "吞",
+            "湯"
+          ]
+        },
         "Yale": "wàhn tān tōng",
-        "Pinyin": "yún tūn tāng",
-        "resources": [
-          {
-             "name": "雲吞",
-             "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-          },
-          {
-             "name": "雲",
-             "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
-          },
-          {
-             "name": "吞",
-             "URL": "https://en.wiktionary.org/wiki/%E5%90%9E"
-          },
-          {
-             "name": "湯",
-             "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-          }
-       ]
+        "Simplified":  {
+          "text": "云吞汤",
+          "wkty": [
+            "云吞",
+            "云",
+            "吞",
+            "汤"
+          ]
+        },
+        "Pinyin": "yún tūn tāng"
       }
     ],
     "images": [
@@ -86,26 +84,26 @@
         "Pinyin": "wō yún tūn tāng",
         "resources": [
           {
-             "name": "窩",
-             "URL": "https://en.wiktionary.org/wiki/%E7%AA%A9"
+            "name": "窩",
+            "URL": "https://en.wiktionary.org/wiki/%E7%AA%A9"
           },
           {
             "name": "雲吞",
             "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-         },
-          {
-             "name": "雲",
-             "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
           },
           {
-             "name": "吞",
-             "URL": "https://en.wiktionary.org/wiki/%E5%90%9E"
+            "name": "雲",
+            "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
           },
           {
-             "name": "湯",
-             "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
+            "name": "吞",
+            "URL": "https://en.wiktionary.org/wiki/%E5%90%9E"
+          },
+          {
+            "name": "湯",
+            "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
           }
-       ]
+        ]
       }
     ],
     "images": [
