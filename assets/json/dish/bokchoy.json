@@ -81,33 +81,20 @@
     {
         "words": [
             {
-                "Cantonese": "高麗菜",
                 "English": "Taiwanese cabbage",
+                "Cantonese": {
+                    "text": "高麗菜",
+                    "wkty": [
+                        "高麗菜",
+                        "高麗",
+                        "高",
+                        "麗",
+                        "菜"
+                    ]
+                },
                 "Yale": "gōu laih choi",
                 "Simplified": "高丽菜",
-                "Pinyin": "gāo lí cài",
-                "resources": [
-                    {
-                        "name": "高麗菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AB%98%E9%BA%97%E8%8F%9C"
-                    },
-                    {
-                        "name": "高麗",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AB%98%E9%BA%97"
-                    },
-                    {
-                        "name": "高",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AB%98"
-                    },
-                    {
-                        "name": "麗",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%97"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "gāo lí cài"
             }
         ],
         "images": [
