@@ -103,37 +103,21 @@
     {
         "words": [
             {
-                "Cantonese": "QQ 冬瓜茶",
                 "English": "QQ winter melon tea",
+                "Cantonese": {
+                    "text": "QQ 冬瓜茶",
+                    "wkty": [
+                        "QQ",
+                        "冬瓜茶",
+                        "冬瓜",
+                        "冬",
+                        "瓜",
+                        "茶"
+                    ]
+                },
                 "Yale": "QQ dūng gwā chàh",
                 "Jyutping": "QQ dung1 gwaa1 caa4",
-                "Pinyin": "QQ shuǐ guǒ chá",
-                "resources": [
-                    {
-                        "name": "QQ",
-                        "URL": "https://en.wiktionary.org/wiki/QQ"
-                    },
-                    {
-                        "name": "冬瓜茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C%E8%8C%B6"
-                    },
-                    {
-                        "name": "冬瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C"
-                    },
-                    {
-                        "name": "冬",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "QQ shuǐ guǒ chá"
             }
         ],
         "images": [
