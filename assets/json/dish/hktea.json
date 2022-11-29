@@ -63,29 +63,27 @@
     {
         "words": [
             {
-                "Cantonese": "熱檸茶",
-                "Simplified": "热柠茶",
                 "English": "hot lemon tea",
+                "Cantonese": {
+                    "text": "熱檸茶",
+                    "wkty": [
+                        "熱",
+                        "檸茶",
+                        "檸",
+                        "茶"
+                    ]
+                },
                 "Yale": "yiht lìhng chàh",
-                "Pinyin": "rè níng chá",
-                "resources": [
-                    {
-                        "name": "熱",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%86%B1"
-                    },
-                    {
-                        "name": "檸茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8%E8%8C%B6"
-                    },
-                    {
-                        "name": "檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "热柠茶",
+                    "wkty": [
+                        "熱",
+                        "檸茶",
+                        "檸",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "rè níng chá"
             }
         ],
         "images": [
