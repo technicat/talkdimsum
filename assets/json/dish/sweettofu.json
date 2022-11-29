@@ -3,31 +3,18 @@
         "words": [
             {
                 "English": "tofu pudding",
-                "Cantonese": "豆腐花",
+                "Cantonese": {
+                    "text": "豆腐花",
+                    "wkty": [
+                        "豆腐花",
+                        "豆腐",
+                        "豆",
+                        "腐",
+                        "花"
+                    ]
+                },
                 "Yale": "dauh fuh fā",
-                "Pinyin": "dòu fu huā",
-                "resources": [
-                    {
-                        "name": "豆腐花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90%E8%8A%B1"
-                    },
-                    {
-                        "name": "豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    },
-                    {
-                        "name": "花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
-                    }
-                ]
+                "Pinyin": "dòu fu huā"
             }
         ],
         "images": [
