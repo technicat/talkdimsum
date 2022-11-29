@@ -3,7 +3,7 @@
         "words": [
             {
                 "English": "bao",
-                "Cantonese":"包",
+                "Cantonese": "包",
                 "Yale": "bāau",
                 "Jyutping": "baau1",
                 "Mandarin": {
@@ -144,17 +144,7 @@
                 "English": "chicken bun",
                 "Yale": "gāi bāau",
                 "Jyupting": "gai1 baau1",
-                "Pinyin": "jī bāo",
-                "resources": [
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "jī bāo"
             }
         ],
         "images": [
@@ -184,34 +174,20 @@
     {
         "words": [
             {
-                "Cantonese": "生煎包",
-                "Simplified": "生煎包",
                 "English": "pan-fried pork bun",
+                "Cantonese": {
+                    "text": "生煎包",
+                    "wkty": [
+                        "生煎包",
+                        "生煎",
+                        "生",
+                        "煎",
+                        "包"
+                    ]
+                },
                 "Yale": "sāang jīn bāau",
                 "Jyutping": "saang1 jin1 baau1",
-                "Pinyin": "shēng jiān bāo",
-                "resources": [
-                    {
-                        "name": "生煎包",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E7%85%8E%E5%8C%85"
-                    },
-                    {
-                        "name": "生煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E7%85%8E"
-                    },
-                    {
-                        "name": "生",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
-                    },
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "shēng jiān bāo"
             }
         ],
         "images": [
