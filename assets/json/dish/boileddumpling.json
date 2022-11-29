@@ -49,29 +49,27 @@
   {
     "words": [
       {
-        "Cantonese": "水餃湯",
-        "Simplified": "水饺汤",
         "English": "dumpling soup",
+        "Cantonese": {
+          "text": "水餃湯",
+          "wkty": [
+            "水餃",
+            "水",
+            "餃",
+            "湯"
+          ]
+        },
         "Yale": "séui gáau tōng",
-        "Pinyin": "shuǐ jiǎo tāng",
-        "resources": [
-          {
-            "name": "水餃",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4%E9%A4%83"
-          },
-          {
-            "name": "水",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-          },
-          {
-            "name": "餃",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-          },
-          {
-            "name": "湯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "水饺汤",
+          "wkty": [
+            "水饺",
+            "水",
+            "饺",
+            "汤"
+          ]
+        },
+        "Pinyin": "shuǐ jiǎo tāng"
       },
       {
         "Cantonese": "上湯水餃",
