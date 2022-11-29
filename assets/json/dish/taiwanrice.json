@@ -140,29 +140,27 @@
   {
     "words": [
       {
-        "Cantonese": "鹽酥雞飯",
-        "Simplified": "盐酥鸡饭",
         "English": "popcorn chicken rice",
+        "Cantonese": {
+          "text": "鹽酥雞飯",
+          "wkty": [
+            "鹽",
+            "酥",
+            "雞",
+            "飯"
+          ]
+        },
         "Yale": "yìhm sōu gāi faahn",
-        "Pinyin": "yán sū jī fàn",
-        "resources": [
-          {
-            "name": "鹽",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B9%BD"
-          },
-          {
-            "name": "酥",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%A5"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "盐酥鸡饭",
+          "wkty": [
+            "盐",
+            "酥",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "yán sū jī fàn"
       }
     ],
     "images": [
