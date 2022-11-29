@@ -2,26 +2,26 @@
    {
       "words": [
          {
-            "Cantonese": "雲吞",
-            "Simplified": "云吞",
             "English": "wonton",
+            "Cantonese": {
+               "text": "雲吞",
+               "wkty": [
+                  "雲吞",
+                  "雲",
+                  "吞"
+               ]
+            },
             "Yale": "wàhn tān",
             "Jyutping": "wan6 tan1",
-            "Pinyin": "yún tūn",
-            "resources": [
-               {
-                  "name": "雲吞",
-                  "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-               },
-               {
-                  "name": "雲",
-                  "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
-               },
-               {
-                  "name": "吞",
-                  "URL": "https://en.wiktionary.org/wiki/%E5%90%9E"
-               }
-            ]
+            "Simplified": {
+               "text": "云吞",
+               "wkty": [
+                  "雲吞",
+                  "雲",
+                  "吞"
+               ]
+            },
+            "Pinyin": "yún tūn"
          }
       ],
       "images": [
