@@ -65,34 +65,30 @@
   {
     "words": [
       {
-        "Cantonese": "滷肉飯",
-        "Simplified": "卤肉饭",
         "English": "minced pork rice",
+        "Cantonese": {
+          "text": "滷肉飯",
+          "wkty": [
+            "滷肉飯",
+            "滷肉",
+            "滷",
+            "肉",
+            "飯"
+          ]
+        },
         "Yale": "lóuh yuhk faahn",
         "Jyutping": "lo5 juk6 faan6",
-        "Pinyin": "lǔ ròu fàn",
-        "resources": [
-          {
-            "name": "滷肉飯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7%E8%82%89%E9%A3%AF"
-          },
-          {
-            "name": "滷肉",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7%E8%82%89"
-          },
-          {
-            "name": "滷",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7"
-          },
-          {
-            "name": "肉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "卤肉饭",
+          "wkty": [
+            "卤肉饭",
+            "卤肉",
+            "卤",
+            "肉",
+            "饭"
+          ]
+        },
+        "Pinyin": "lǔ ròu fàn"
       }
     ],
     "images": [
