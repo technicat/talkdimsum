@@ -68,40 +68,21 @@
     {
         "words": [
             {
-                "Cantonese": "杏仁豆腐",
+                "Cantonese": {
+                    "text": "杏仁豆腐",
+                    "wkty": [
+                        "杏仁豆腐",
+                        "杏仁",
+                        "杏",
+                        "仁",
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
                 "English": "almond tofu",
                 "Yale": "hahng yàhn dauh fuh",
-                "Pinyin": "xìng rén dòu fu",
-                "resources": [
-                    {
-                        "name": "杏仁豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "杏仁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81"
-                    },
-                    {
-                        "name": "杏",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F"
-                    },
-                    {
-                        "name": "仁",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
-                    },
-                    {
-                        "name": "豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    }
-                ]
+                "Pinyin": "xìng rén dòu fu"
             }
         ],
         "images": [
