@@ -301,28 +301,26 @@
         "words": [
             {
                 "English": "Chinese hamburger",
-                "Cantonese": "肉夾饃",
-                "Simplified": "肉夹馍",
+                "Cantonese": {
+                    "text": "肉夾饃",
+                    "wkty": [
+                        "肉夾饃",
+                        "肉",
+                        "夾",
+                        "饃"
+                    ]
+                },
                 "Yale": "yuhk gaap mòh",
-                "Pinyin": "ròu jiā mó",
-                "resources": [
-                    {
-                        "name": "肉夾饃",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E5%A4%BE%E9%A5%83"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "夾",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%BE"
-                    },
-                    {
-                        "name": "饃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A5%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "肉夹馍",
+                    "wkty": [
+                        "肉夾馍",
+                        "肉",
+                        "夾",
+                        "馍"
+                    ]
+                },
+                "Pinyin": "ròu jiā mó"
             }
         ],
         "images": [
