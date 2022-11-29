@@ -2,33 +2,20 @@
     {
         "words": [
             {
-                "Cantonese": "冬瓜茶",
                 "English": "winter melon tea",
+                "Cantonese": {
+                    "text": "冬瓜茶",
+                    "wkty": [
+                        "冬瓜茶",
+                        "冬瓜",
+                        "冬",
+                        "瓜",
+                        "茶"
+                    ]
+                },
                 "Yale": "dūng gwā chàh",
                 "Jyutping": "dung1 gwaa1 caa4",
-                "Pinyin": "shuǐ guǒ chá",
-                "resources": [
-                    {
-                        "name": "冬瓜茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C%E8%8C%B6"
-                    },
-                    {
-                        "name": "冬瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C"
-                    },
-                    {
-                        "name": "冬",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "shuǐ guǒ chá"
             }
         ],
         "images": [
