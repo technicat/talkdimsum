@@ -201,46 +201,36 @@
     {
         "words": [
             {
-                "Cantonese": "檸檬冬瓜茶",
-                "Simplified": "柠檬冬瓜茶",
                 "English": "lemon winter melon tea",
+                "Cantonese": {
+                    "text": "檸檬冬瓜茶",
+                    "wkty": [
+                        "檸檬",
+                        "檸",
+                        "檬",
+                        "冬瓜茶",
+                        "冬瓜",
+                        "冬",
+                        "瓜",
+                        "茶"
+                    ]
+                },
                 "Yale": "nìhng mūng dūng gwā chàh",
                 "Jyutping": "ning4 mung1 dung1 gwaa1 caa4",
-                "Pinyin": "níng méng dōng guā chá",
-                "resources": [
-                    {
-                        "name": "檸檬",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8%E6%AA%AC"
-                    },
-                    {
-                        "name": "檸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%B8"
-                    },
-                    {
-                        "name": "檬",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%AA%AC"
-                    },
-                    {
-                        "name": "冬瓜茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C%E8%8C%B6"
-                    },
-                    {
-                        "name": "冬瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C"
-                    },
-                    {
-                        "name": "冬",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "柠檬冬瓜茶",
+                    "wkty": [
+                        "柠檬",
+                        "柠",
+                        "檬",
+                        "冬瓜茶",
+                        "冬瓜",
+                        "冬",
+                        "瓜",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "níng méng dōng guā chá"
             }
         ],
         "images": [
@@ -249,7 +239,7 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "description": "Winter melon tea with lemon.\n\n**Characters**\n\n[檸檬](https://en.wiktionary.org/wiki/%E6%AA%B8%E6%AA%AC) is *lemon*, and [冬瓜茶](https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C%E8%8C%B6) is *winter melon tea*, so 檸檬冬瓜茶 is *lemon winter melon tea*.",
+        "description": "Winter melon tea with lemon.\n\n**Characters**\n\n[檸檬](https://en.wiktionary.org/wiki/%E6%AA%B8%E6%AA%AC) is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *lemon*, and [冬瓜茶](https://en.wiktionary.org/wiki/%E5%86%AC%E7%93%9C%E8%8C%B6) is *winter melon tea*, so 檸檬冬瓜茶 is *lemon winter melon tea*.",
         "tags": [
             "冬瓜茶",
             "飲品",
