@@ -2,26 +2,26 @@
   {
     "words": [
       {
-        "Cantonese": "油飯",
-        "Simplified": "油饭",
         "English": "Taiwanese sticky rice",
+        "Cantonese": {
+          "text": "油飯",
+          "wkty": [
+            "油飯",
+            "油",
+            "飯"
+          ]
+        },
         "Yale": "yàuh faahn",
         "Jyutping": "jau4 faan6",
-        "Pinyin": "yóu fàn",
-        "resources": [
-          {
-            "name": "油飯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9%E9%A3%AF"
-          },
-          {
-            "name": "油",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "油饭",
+          "wkty": [
+            "油饭",
+            "油",
+            "饭"
+          ]
+        },
+        "Pinyin": "yóu fàn"
       }
     ],
     "images": [
