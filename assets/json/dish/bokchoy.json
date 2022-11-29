@@ -40,36 +40,20 @@
     {
         "words": [
             {
-                "Cantonese": "冬菇白菜",
                 "English": "bok choy with mushrooms",
+                "Cantonese": {
+                    "text": "冬菇白菜",
+                    "wkty": [
+                        "冬菇",
+                        "冬",
+                        "菇",
+                        "白菜",
+                        "白",
+                        "菜"
+                    ]
+                },
                 "Yale": "dūng gū baahk choi",
-                "Pinyin": "dōng gū bái cài",
-                "resources": [
-                    {
-                        "name": "冬菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%87"
-                    },
-                    {
-                        "name": "冬",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-                    },
-                    {
-                        "name": "菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                    },
-                    {
-                        "name": "白菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E8%8F%9C"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "dōng gū bái cài"
             }
         ],
         "images": [
