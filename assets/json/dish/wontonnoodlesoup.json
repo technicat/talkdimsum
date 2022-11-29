@@ -78,37 +78,31 @@
     {
         "words": [
             {
-                "Cantonese": "燒鴨雲吞麵",
-                "Simplified": "烧鸭云吞面",
                 "English": "roast duck wonton noodle soup",
+                "Cantonese": {
+                    "text": "燒鴨雲吞麵",
+                    "wkty": [
+                        "燒鴨",
+                        "燒",
+                        "鴨",
+                        "雲吞麵",
+                        "雲吞",
+                        "麵"
+                    ]
+                },
                 "Yale": "sīu aap wàhn tān mihn",
-                "Pinyin": "shāo yā yún tūn miàn",
-                "resources": [
-                    {
-                        "name": "燒鴨",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E9%B4%A8"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "鴨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-                    },
-                    {
-                        "name": "雲吞麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E%E9%BA%B5"
-                    },
-                    {
-                        "name": "雲吞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    }
-                ]
+                "Simplified": {
+                    "text": "烧鸭云吞面",
+                    "wkty": [
+                        "烧鸭",
+                        "烧",
+                        "鸭",
+                        "云吞面",
+                        "云吞",
+                        "面"
+                    ]
+                },
+                "Pinyin": "shāo yā yún tūn miàn"
             }
         ],
         "images": [
