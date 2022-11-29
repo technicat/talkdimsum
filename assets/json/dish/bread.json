@@ -54,37 +54,31 @@
     {
         "words": [
             {
-                "Cantonese": "蔥花麵包",
-                "Simplified": "葱花面包",
                 "English": "green onion bun",
+                "Cantonese": {
+                    "text": "蔥花麵包",
+                    "wkty": [
+                        "蔥花",
+                        "蔥",
+                        "花",
+                        "麵包",
+                        "麵",
+                        "包"
+                    ]
+                },
                 "Yale": "chūng fā mihn bāau",
-                "Pinyin": "cōng huā miàn bāo",
-                "resources": [
-                    {
-                        "name": "蔥花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5%E8%8A%B1"
-                    },
-                    {
-                        "name": "蔥",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
-                    },
-                    {
-                        "name": "花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
-                    },
-                    {
-                        "name": "麵包",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "葱花面包",
+                    "wkty": [
+                        "葱花",
+                        "葱",
+                        "花",
+                        "面包",
+                        "面",
+                        "包"
+                    ]
+                },
+                "Pinyin": "cōng huā miàn bāo"
             }
         ],
         "images": [
@@ -125,37 +119,31 @@
     {
         "words": [
             {
-                "Cantonese": "提子麵包",
-                "Simplified": "提子面包",
                 "English": "raisin bread",
+                "Cantonese": {
+                    "text": "提子麵包",
+                    "wkty": [
+                        "提子",
+                        "提",
+                        "子",
+                        "麵包",
+                        "麵",
+                        "包"
+                    ]
+                },
                 "Yale": "tàih jí mihn bāau",
-                "Pinyin": "tí zi miàn bāo",
-                "resources": [
-                    {
-                        "name": "提子",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8F%90%E5%AD%90"
-                    },
-                    {
-                        "name": "提",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8F%90"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    },
-                    {
-                        "name": "麵包",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "提子面包",
+                    "wkty": [
+                        "提子",
+                        "提",
+                        "子",
+                        "面包",
+                        "面",
+                        "包"
+                    ]
+                },
+                "Pinyin": "tí zi miàn bāo"
             }
         ],
         "images": [
