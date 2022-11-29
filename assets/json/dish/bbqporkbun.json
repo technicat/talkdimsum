@@ -194,7 +194,7 @@
                     ]
                 },
                 "Yale": "sōu pèih guhk chā sīu bāau",
-                "Simplified":  {
+                "Simplified": {
                     "text": "酥皮焗叉烧包",
                     "wkty": [
                         "酥皮",
@@ -245,29 +245,31 @@
     {
         "words": [
             {
-                "Cantonese": "仿肉叉燒包",
-                "Simplified": "仿肉叉烧包",
                 "English": "vegan BBQ pork bun",
+                "Cantonese": {
+                    "text": "仿肉叉燒包",
+                    "wkty": [
+                        "仿",
+                        "肉",
+                        "叉燒包",
+                        "叉燒",
+                        "叉",
+                        "包"
+                    ]
+                },
                 "Yale": "fóng yuhk chā sīu bāau",
-                "Pinyin": "ǎng ròu chā shāo bāo",
-                "resources": [
-                    {
-                        "name": "叉燒包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92%E5%8C%85"
-                    },
-                    {
-                        "name": "叉燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                    },
-                    {
-                        "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "仿肉叉烧包",
+                    "wkty": [
+                        "仿",
+                        "肉",
+                        "叉烧包",
+                        "叉烧",
+                        "叉",
+                        "包"
+                    ]
+                },
+                "Pinyin": "ǎng ròu chā shāo bāo"
             }
         ],
         "images": [
