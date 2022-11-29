@@ -188,29 +188,27 @@
   {
     "words": [
       {
-        "Cantonese": "香腸飯",
-        "Simplified": "香肠饭",
         "English": "Taiwanese sausage rice",
+        "Cantonese": {
+          "text": "香腸飯",
+          "wkty": [
+            "香腸",
+            "香",
+            "腸",
+            "飯"
+          ]
+        },
         "Yale": "hēung chéung faahn",
-        "Pinyin": "xiāng cháng fàn",
-        "resources": [
-          {
-            "name": "香腸",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%85%B8"
-          },
-          {
-            "name": "香",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-          },
-          {
-            "name": "腸",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "香肠饭",
+          "wkty": [
+            "香肠",
+            "香",
+            "肠",
+            "饭"
+          ]
+        },
+        "Pinyin": "xiāng cháng fàn"
       }
     ],
     "images": [
