@@ -132,45 +132,35 @@
     {
         "words": [
             {
-                "Cantonese": "小豬奶黃包",
-                "Simplified": "小猪奶黄包",
                 "English": "piglet custard bun",
+                "Cantonese": {
+                    "text": "小豬奶黃包",
+                    "wkty": [
+                        "小豬",
+                        "小",
+                        "豬",
+                        "奶黃包",
+                        "奶黃",
+                        "奶",
+                        "黃",
+                        "包"
+                    ]
+                },
                 "Yale": "síu jyū náaih wòhng bāau",
-                "Pinyin": "xiǎo zhū nǎi huáng bāo",
-                "resources": [
-                    {
-                        "name": "小豬",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F%E8%B1%AC"
-                    },
-                    {
-                        "name": "小",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B0%8F"
-                    },
-                    {
-                        "name": "豬",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-                    },
-                    {
-                        "name": "奶黃包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83%E5%8C%85"
-                    },
-                    {
-                        "name": "奶黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "小猪奶黄包",
+                    "wkty": [
+                        "小猪",
+                        "小",
+                        "猪",
+                        "奶黃包",
+                        "奶黄",
+                        "奶",
+                        "黄",
+                        "包"
+                    ]
+                },
+                "Pinyin": "xiǎo zhū nǎi huáng bāo"
             }
         ],
         "images": [
