@@ -549,7 +549,6 @@
             "饭"
           ]
         },
-       
         "Pinyin": "sù chǎo fàn"
       }
     ],
@@ -583,28 +582,26 @@
     "words": [
       {
         "English": "egg fried rice",
-        "Cantonese": "蛋炒飯",
-        "Simplified": "蛋炒饭",
+        "Cantonese": {
+          "text": "蛋炒飯",
+          "wkty": [
+            "蛋",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "dáan cháau faahn",
-        "Pinyin": "dàn chǎo fàn",
-        "resources": [
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "蛋炒饭",
+          "wkty": [
+            "蛋",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "dàn chǎo fàn"
       }
     ],
     "images": [
@@ -613,7 +610,7 @@
         "place": "Shanghai Taste, Las Vegas, Nevada"
       }
     ],
-    "description": "[Fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) mixed with scrambled egg.\n\n**Characters**\n\n蛋 is *egg*, [炒飯](https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF) is *stir-fried rice* ([炒](https://en.wiktionary.org/wiki/%E7%82%92) is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice*), so 蛋炒飯 is *egg stir-fried rice*.",
+    "description": "[Fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) mixed with scrambled egg.\n\n**Characters**\n\n[蛋](https://en.wiktionary.org/wiki/%E8%9B%8B) is *egg*, [炒飯](https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF) is *stir-fried rice* ([炒](https://en.wiktionary.org/wiki/%E7%82%92) is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice*), so 蛋炒飯 is *egg stir-fried rice*.",
     "resources": [
       {
         "name": "Lost Laowai",
