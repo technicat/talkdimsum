@@ -67,29 +67,27 @@
   {
     "words": [
       {
-        "Cantonese": "蓮蓉餅",
-        "Simplified": "莲蓉饼",
         "English": "lotus seed pie",
+        "Cantonese": {
+          "text": "蓮蓉餅",
+          "wkty": [
+            "蓮蓉",
+            "蓮",
+            "蓉",
+            "餅"
+          ]
+        },
         "Yale": "lìhn yùhng béng",
-        "Pinyin": "lián róng bǐng",
-        "resources": [
-          {
-            "name": "蓮蓉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
-          },
-          {
-            "name": "蓮",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-          },
-          {
-            "name": "蓉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-          },
-          {
-            "name": "餅",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-          }
-        ]
+        "Simplified": {
+          "text": "莲蓉饼",
+          "wkty": [
+            "莲蓉",
+            "莲",
+            "蓉",
+            "饼"
+          ]
+        },
+        "Pinyin": "lián róng bǐng"
       }
     ],
     "images": [
