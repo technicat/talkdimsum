@@ -173,33 +173,29 @@
     {
         "words": [
             {
-                "Cantonese": "芋頭麵包",
-                "Simplified": "芋头面包",
                 "English": "taro bread",
+                "Cantonese": {
+                    "text": "芋頭麵包",
+                    "wkty": [
+                        "芋頭",
+                        "芋",
+                        "麵包",
+                        "麵",
+                        "包"
+                    ]
+                },
                 "Yale": "wuh táu mihn bāau",
-                "Pinyin": "yù tou miàn bāo",
-                "resources": [
-                    {
-                        "name": "芋頭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-                    },
-                    {
-                        "name": "芋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-                    },
-                    {
-                        "name": "麵包",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "芋头面包",
+                    "wkty": [
+                        "芋头",
+                        "头",
+                        "面包",
+                        "面",
+                        "包"
+                    ]
+                },
+                "Pinyin": "yù tou miàn bāo"
             }
         ],
         "images": [
