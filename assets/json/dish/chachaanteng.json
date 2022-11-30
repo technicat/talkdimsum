@@ -222,34 +222,30 @@
     {
         "words": [
             {
-                "Cantonese": "炸薯條",
-                "Simplified": "炸薯条",
                 "English": "french fries",
+                "Cantonese": {
+                    "text": "炸薯條",
+                    "wkty": [
+                        "炸薯條",
+                        "炸",
+                        "薯條",
+                        "薯",
+                        "條"
+                    ]
+                },
                 "Yale": "ja syùh tíu",
                 "Jyutping": "zaa3 syu4 tiu2",
-                "Pinyin": "zhá shǔ tiáo",
-                "resources": [
-                    {
-                        "name": "炸薯條",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8%E8%96%AF%E6%A2%9D"
-                    },
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "薯條",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%96%AF%E6%A2%9D"
-                    },
-                    {
-                        "name": "薯",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%96%AF"
-                    },
-                    {
-                        "name": "條",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A2%9D"
-                    }
-                ]
+                "Simplified":{
+                    "text": "炸薯条",
+                    "wkty": [
+                        "炸薯条",
+                        "炸",
+                        "薯条",
+                        "薯",
+                        "条"
+                    ]
+                },
+                "Pinyin": "zhá shǔ tiáo"
             }
         ],
         "images": [
