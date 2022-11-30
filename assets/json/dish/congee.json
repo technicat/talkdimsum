@@ -295,50 +295,38 @@
     {
         "words": [
             {
-                "Cantonese": "生菜鯪魚球粥",
-                "Simplified": "生菜鲮鱼球粥",
                 "English": "fish ball congee",
+                "Cantonese": {
+                    "text": "生菜鯪魚球粥",
+                    "wkty": [
+                        "生菜",
+                        "生",
+                        "菜",
+                        "鯪魚球",
+                        "鯪魚",
+                        "鯪",
+                        "魚",
+                        "球",
+                        "粥"
+                    ]
+                },
                 "Yale": "sāang choi lèhng yùh kàuh jūk",
                 "Jyutping": "saang1 coi3 lehng4 yu4 kau4 jūk",
-                "Pinyin": "shēng cài líng yú qiú zhōu",
-                "resources": [
-                    {
-                        "name": "生菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E8%8F%9C"
-                    },
-                    {
-                        "name": "生",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "鯪魚球",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AF%AA%E9%AD%9A%E7%90%83"
-                    },
-                    {
-                        "name": "鯪魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AF%AA%E9%AD%9A"
-                    },
-                    {
-                        "name": "鯪",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AF%AA"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "球",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Simplified": {
+                    "text": "生菜鲮鱼球粥",
+                    "wkty": [
+                        "生菜",
+                        "生",
+                        "菜",
+                        "鯪鱼球",
+                        "鯪鱼",
+                        "鯪",
+                        "魚",
+                        "球",
+                        "粥"
+                    ]
+                },
+                "Pinyin": "shēng cài líng yú qiú zhōu"
             }
         ],
         "images": [
@@ -502,33 +490,29 @@
     {
         "words": [
             {
-                "Cantonese": "沙田雞粥",
-                "Simplified": "沙田鸡粥",
                 "English": "Sha Tin chicken congee",
+                "Cantonese": {
+                    "text": "沙田雞粥",
+                    "wkty": [
+                        "沙田",
+                        "沙",
+                        "田",
+                        "雞",
+                        "粥"
+                    ]
+                },
                 "Yale": "sā tìhn gāi jūk",
-                "Pinyin": "shā tián jī zhōu",
-                "resources": [
-                    {
-                        "name": "沙田",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99%E7%94%B0"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "田",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%B0"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "粥",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%A5"
-                    }
-                ]
+                "Simplified": {
+                    "text": "沙田鸡粥",
+                    "wkty": [
+                        "沙田",
+                        "沙",
+                        "田",
+                        "鸡",
+                        "粥"
+                    ]
+                },
+                "Pinyin": "shā tián jī zhōu"
             }
         ],
         "images": [
