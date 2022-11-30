@@ -43,33 +43,20 @@
   {
     "words": [
       {
-        "Cantonese": "豉汁斑球",
         "English": "fish fillet with black bean sauce",
+        "Cantonese": {
+          "text": "豉汁斑球",
+          "wkty": [
+            "豉汁",
+            "豉",
+            "汁",
+            "斑",
+            "球"
+          ]
+        },
         "Yale": "sih jāp bāan kàuh",
         "Jyutping": "si6 zap1 baan1 kau4",
-        "Pinyin": "chǐ zhī bān qiú",
-        "resources": [
-          {
-            "name": "豉汁",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B1%81"
-          },
-          {
-            "name": "豉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
-          },
-          {
-            "name": "汁",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B1%81"
-          },
-          {
-            "name": "斑",
-            "URL": "https://en.wiktionary.org/wiki/%E6%96%91"
-          },
-          {
-            "name": "球",
-            "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-          }
-        ]
+        "Pinyin": "chǐ zhī bān qiú"
       }
     ],
     "images": [
