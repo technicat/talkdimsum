@@ -2,6 +2,7 @@
     {
         "words": [
             {
+                "English": "Chinese broccoli",
                 "Cantonese": {
                     "text": "芥蘭",
                     "wkty": [
@@ -10,6 +11,8 @@
                         "蘭"
                     ]
                 },
+
+                "Yale": "gaai láan",
                 "Simplified": {
                     "text": "芥兰",
                     "wkty": [
@@ -18,8 +21,7 @@
                         "兰"
                     ]
                 },
-                "English": "Chinese broccoli",
-                "Yale": "gaai láan",
+              
                 "Pinyin": "gài lán"
             }
         ],
