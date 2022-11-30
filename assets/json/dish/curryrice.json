@@ -51,41 +51,33 @@
   {
     "words": [
       {
-        "Cantonese": "咖喱牛腩飯",
-        "Simplified": "咖哩牛腩饭",
         "English": "curry beef rice",
+        "Cantonese": {
+          "text": "咖喱牛腩飯",
+          "wkty": [
+            "咖喱",
+            "咖",
+            "喱",
+            "牛腩",
+            "牛",
+            "腩",
+            "飯"
+          ]
+        },
         "Yale": "ga lēi ngàuh náahm faahn",
-        "Pinyin": "kā li niú nǎn fàn",
-        "resources": [
-          {
-            "name": "咖喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1"
-          },
-          {
-            "name": "咖",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
-          },
-          {
-            "name": "喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%96%B1"
-          },
-          {
-            "name": "牛腩",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%A9"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-          },
-          {
-            "name": "腩",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%A9"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "咖哩牛腩饭",
+          "wkty": [
+            "咖哩",
+            "咖",
+            "哩",
+            "牛腩",
+            "牛",
+            "腩",
+            "饭"
+          ]
+        },
+        "Pinyin": "kā li niú nǎn fàn"
       }
     ],
     "images": [
