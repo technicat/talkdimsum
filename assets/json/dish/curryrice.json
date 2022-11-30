@@ -2,33 +2,29 @@
   {
     "words": [
       {
-        "Cantonese": "咖喱雞飯",
-        "Simplified": "咖哩鸡饭",
         "English": "curry chicken rice",
+        "Cantonese": {
+          "text": "咖喱雞飯",
+          "wkty": [
+            "咖喱",
+            "咖",
+            "喱",
+            "雞",
+            "飯"
+          ]
+        },
         "Yale": "ga lēi gāi faahn",
-        "Pinyin": "kā li jī fàn",
-        "resources": [
-          {
-            "name": "咖喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1"
-          },
-          {
-            "name": "咖",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
-          },
-          {
-            "name": "喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%96%B1"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "飯",
-            "URL": "c"
-          }
-        ]
+        "Simplified": {
+          "text": "咖哩鸡饭",
+          "wkty": [
+            "咖哩",
+            "咖",
+            "哩",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "kā li jī fàn"
       }
     ],
     "images": [
