@@ -172,37 +172,31 @@
     {
         "words": [
             {
-                "Cantonese": "炸墨魚丸",
-                "Simplified": "炸墨鱼丸",
                 "English": "fried cuttlefish ball",
+                "Cantonese": {
+                    "text": "炸墨魚丸",
+                    "wkty": [
+                        "炸",
+                        "墨魚丸",
+                        "墨魚",
+                        "墨",
+                        "魚",
+                        "丸"
+                    ]
+                },
                 "Yale": "ja mahk yùh yún",
-                "Pinyin": "hà mò yú wán",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "墨魚丸",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A2%A8%E9%AD%9A%E4%B8%B8"
-                    },
-                    {
-                        "name": "墨魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A2%A8%E9%AD%9A"
-                    },
-                    {
-                        "name": "墨",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A2%A8"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "丸",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%B8"
-                    }
-                ]
+                "Simplified": {
+                    "text": "炸墨鱼丸",
+                    "wkty": [
+                        "炸",
+                        "墨鱼丸",
+                        "墨鱼",
+                        "墨",
+                        "鱼",
+                        "丸"
+                    ]
+                },
+                "Pinyin": "hà mò yú wán"
             }
         ],
         "images": [
