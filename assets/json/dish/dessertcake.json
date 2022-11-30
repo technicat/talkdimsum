@@ -2,33 +2,29 @@
     {
         "words": [
             {
-                "Cantonese": "馬蹄糕",
-                "Simplified": "马蹄糕",
                 "English": "water chestnut cake",
+                "Cantonese": {
+                    "text": "馬蹄糕",
+                    "wkty": [
+                        "馬蹄糕",
+                        "馬蹄",
+                        "馬",
+                        "蹄",
+                        "糕"
+                    ]
+                },
                 "Yale": "máh tàih gōu",
-                "Pinyin": "mǎ tí gāo",
-                "resources": [
-                    {
-                        "name": "馬蹄糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC%E8%B9%84%E7%B3%95"
-                    },
-                    {
-                        "name": "馬蹄",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC%E8%B9%84"
-                    },
-                    {
-                        "name": "馬",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%AC"
-                    },
-                    {
-                        "name": "蹄",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B9%84"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Simplified": {
+                    "text": "马蹄糕",
+                    "wkty": [
+                        "马蹄糕",
+                        "马蹄",
+                        "马",
+                        "蹄",
+                        "糕"
+                    ]
+                },
+                "Pinyin": "mǎ tí gāo"
             }
         ],
         "images": [
@@ -140,29 +136,27 @@
     {
         "words": [
             {
-                "Cantonese": "綠豆糕",
-                "Simplified": "绿豆糕",
                 "English": "mung bean cake",
+                "Cantonese": {
+                    "text": "綠豆糕",
+                    "wkty": [
+                        "綠豆",
+                        "綠",
+                        "豆",
+                        "糕"
+                    ]
+                },
                 "Yale": "luhk dáu gōu",
-                "Pinyin": "lǜ dòu gāo",
-                "resources": [
-                    {
-                        "name": "綠豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%B1%86"
-                    },
-                    {
-                        "name": "綠",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Simplified": {
+                    "text": "绿豆糕",
+                    "wkty": [
+                        "绿豆",
+                        "绿",
+                        "豆",
+                        "糕"
+                    ]
+                },
+                "Pinyin": "lǜ dòu gāo"
             }
         ],
         "images": [
