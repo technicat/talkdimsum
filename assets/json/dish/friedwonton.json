@@ -2,33 +2,34 @@
     {
         "words": [
             {
-                "Cantonese": "炸雲吞",
-                "Simplified": "炸云吞",
+                "Cantonese": {
+                    "text": "炸雲吞",
+                    "wkty": [
+                        "炸",
+                        "雲吞",
+                        "雲",
+                        "吞"
+                    ]
+                },
+                "Mandarin": {
+                    "text": "炸餛飩",
+                    "wkty": [
+                        "餛飩",
+                        "餛",
+                        "飩"
+                    ]
+                },
+                "Simplified": {
+                    "text": "炸馄饨",
+                    "wkty": [
+                        "馄饨",
+                        "馄",
+                        "饨"
+                    ]
+                },
                 "English": "fried wonton",
                 "Yale": "ja wàhn tān",
-                "Pinyin": "zhà yún tūn",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "雲吞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-                    },
-                    {
-                        "name": "雲",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
-                    },
-                    {
-                        "name": "吞",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%90%9E"
-                    },
-                    {
-                        "name": "餛飩",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%9B%E9%A3%A9"
-                    }
-                ]
+                "Pinyin": "zhà yún tūn"
             }
         ],
         "images": [
@@ -37,7 +38,7 @@
                 "place": "Northside Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Deep fried wonton (dumplings with shrimp and pork).\n\n**Characters**\n\nThe first character 炸 means “fried,” (the radical 火 on the left side of the character means “fire”), and the next two characters comprise “won ton.”",
+        "description": "Deep fried wonton (dumplings with shrimp and pork).\n\n**Characters**\n\n[炸](https://en.wiktionary.org/wiki/%E7%82%B8) is *deep-fried* (the radical 火 on the left side of the character means “fire”), and the next two characters comprise “won ton.”",
         "tags": [
             "炸雲吞",
             "茶餐廳",
