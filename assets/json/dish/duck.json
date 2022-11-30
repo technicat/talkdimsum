@@ -2,41 +2,33 @@
   {
     "words": [
       {
-        "Cantonese": "北京烤鴨",
-        "Simplified": "北京烤鸭",
         "English": "Peking duck",
+        "Cantonese": {
+          "text": "北京烤鴨",
+          "wkty": [
+            "北京烤鴨",
+            "北京",
+            "北",
+            "京",
+            "烤鴨",
+            "烤",
+            "鴨"
+          ]
+        },
         "Yale": "bāk gīng hāau ngaap",
-        "Pinyin": "běi jīng kǎo yā",
-        "resources": [
-          {
-            "name": "北京烤鴨",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B4%A8"
-          },
-          {
-            "name": "北京",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8C%97%E4%BA%AC"
-          },
-          {
-            "name": "北",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8C%97"
-          },
-          {
-            "name": "京",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BA%AC"
-          },
-          {
-            "name": "烤鴨",
-            "URL": "https://en.wiktionary.org/wiki/%E7%83%A4%E9%B4%A8"
-          },
-          {
-            "name": "烤",
-            "URL": "https://en.wiktionary.org/wiki/%E7%83%A4"
-          },
-          {
-            "name": "鴨",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-          }
-        ]
+        "Simplified": {
+          "text": "北京烤鸭",
+          "wkty": [
+            "北京烤鸭",
+            "北京",
+            "北",
+            "京",
+            "烤鸭",
+            "烤",
+            "鸭"
+          ]
+        },
+        "Pinyin": "běi jīng kǎo yā"
       }
     ],
     "images": [
@@ -77,17 +69,7 @@
         "Simplified": "素鸭",
         "English": "vegetarian duck",
         "Yale": "sou ngaap",
-        "Pinyin": "sù yā",
-        "resources": [
-          {
-            "name": "素",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
-          },
-          {
-            "name": "鴨",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-          }
-        ]
+        "Pinyin": "sù yā"
       }
     ],
     "images": [
