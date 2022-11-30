@@ -695,37 +695,31 @@
   {
     "words": [
       {
-        "Cantonese": "菠蘿炒飯",
-        "Simplified": "菠萝炒饭",
         "English": "pineapple fried rice",
+        "Cantonese": {
+          "text": "菠蘿炒飯",
+          "wkty": [
+            "菠蘿",
+            "菠",
+            "蘿",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "bō lòh cháau faahn",
-        "Pinyin": "bō luó chǎo fàn",
-        "resources": [
-          {
-            "name": "菠蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%98%BF"
-          },
-          {
-            "name": "菠",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "菠萝炒饭",
+          "wkty": [
+            "菠萝",
+            "菠",
+            "萝",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "bō luó chǎo fàn"
       }
     ],
     "images": [
