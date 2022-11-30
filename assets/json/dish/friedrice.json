@@ -46,37 +46,31 @@
   {
     "words": [
       {
-        "Cantonese": "海鮮炒飯",
-        "Simplified": "海鮮炒饭",
         "English": "seafood fried rice",
+        "Cantonese": {
+          "text": "海鮮炒飯",
+          "wkty": [
+            "海鮮",
+            "海",
+            "鮮",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "hói sīn cháau faahn",
-        "Pinyin": "hǎi xiān chǎo fàn",
-        "resources": [
-          {
-            "name": "海鮮",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE"
-          },
-          {
-            "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-          },
-          {
-            "name": "鮮",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "海鲜炒饭",
+          "wkty": [
+            "海鲜",
+            "海",
+            "鲜",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "hǎi xiān chǎo fàn"
       }
     ],
     "images": [
