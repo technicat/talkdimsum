@@ -48,36 +48,20 @@
     {
         "words": [
             {
-                "Cantonese": "芒果班戟",
                 "English": "mango pancake",
+                "Cantonese": {
+                    "text": "芒果班戟",
+                    "wkty": [
+                        "芒果",
+                        "芒",
+                        "果",
+                        "班戟",
+                        "班",
+                        "戟"
+                    ]
+                },
                 "Yale": "mōng gwó bāan kīk",
-                "Pinyin": "máng guǒ bān jǐ",
-                "resources": [
-                    {
-                        "name": "芒果",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%92%E6%9E%9C"
-                    },
-                    {
-                        "name": "芒",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%92"
-                    },
-                    {
-                        "name": "果",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%9C"
-                    },
-                    {
-                        "name": "班戟",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%8F%AD%E6%88%9F"
-                    },
-                    {
-                        "name": "班",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%8F%AD"
-                    },
-                    {
-                        "name": "戟",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%88%9F"
-                    }
-                ]
+                "Pinyin": "máng guǒ bān jǐ"
             }
         ],
         "images": [
@@ -116,25 +100,11 @@
     {
         "words": [
             {
+                "English": "fried milk",
                 "Cantonese": "炸鮮奶",
                 "Simplified": "炸鲜奶",
-                "English": "fried milk",
                 "Yale": "ja sīn náaih",
-                "Pinyin": "zhá xiān nǎi",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    }
-                ]
+                "Pinyin": "zhá xiān nǎi"
             }
         ],
         "images": [
@@ -164,24 +134,17 @@
     {
         "words": [
             {
-                "Cantonese": "仙草",
                 "English": "grass jelly",
+                "Cantonese": {
+                    "text": "仙草",
+                    "wkty": [
+                        "仙草",
+                        "仙",
+                        "草"
+                    ]
+                },
                 "Yale": "sīn chóu",
-                "Pinyin": "xiān cǎo",
-                "resources": [
-                    {
-                        "name": "仙草",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%99%E8%8D%89"
-                    },
-                    {
-                        "name": "仙",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%99"
-                    },
-                    {
-                        "name": "草",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8D%89"
-                    }
-                ]
+                "Pinyin": "xiān cǎo"
             }
         ],
         "images": [
@@ -217,28 +180,18 @@
     {
         "words": [
             {
-                "Cantonese": "蒸水蛋",
                 "English": "steamed egg",
+                "Cantonese": {
+                    "text": "蒸水蛋",
+                    "wkty": [
+                        "蒸水蛋",
+                        "蒸",
+                        "水",
+                        "蛋"
+                    ]
+                },
                 "Yale": "jīng séui dáan",
-                "Pinyin": "zhēng shuǐ dàn",
-                "resources": [
-                    {
-                        "name": "蒸水蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%B8%E6%B0%B4%E8%9B%8B"
-                    },
-                    {
-                        "name": "蒸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-                    },
-                    {
-                        "name": "水",
-                        "URL": "https://en.wiktionary.org/wiki/E6%B0%B4"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    }
-                ]
+                "Pinyin": "zhēng shuǐ dàn"
             }
         ],
         "images": [
