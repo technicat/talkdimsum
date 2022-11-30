@@ -191,37 +191,31 @@
   {
     "words": [
       {
-        "Cantonese": "臘腸炒飯",
-        "Simplified": "腊肠炒饭",
         "English": "Chinese sausage fried rice",
+        "Cantonese": {
+          "text": "臘腸炒飯",
+          "wkty": [
+            "臘腸",
+            "臘",
+            "腸",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "laahp chéung cháau faahn",
-        "Pinyin": "là cháng chǎo fàn",
-        "resources": [
-          {
-            "name": "臘腸",
-            "URL": "https://en.wiktionary.org/wiki/%E8%87%98%E8%85%B8"
-          },
-          {
-            "name": "臘",
-            "URL": "https://en.wiktionary.org/wiki/%E8%87%98"
-          },
-          {
-            "name": "腸",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "腊肠炒饭",
+          "wkty": [
+            "腊肠",
+            "腊",
+            "肠",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "là cháng chǎo fàn"
       }
     ],
     "images": [
