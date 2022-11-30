@@ -302,37 +302,31 @@
   {
     "words": [
       {
-        "Cantonese": "蝦仁炒飯",
-        "Simplified": "虾仁炒饭",
         "English": "shrimp fried rice",
+        "Cantonese": {
+          "text": "蝦仁炒飯",
+          "wkty": [
+            "蝦仁",
+            "蝦",
+            "仁",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "hā yàhn cháau faahn",
-        "Pinyin": "xiā rén chǎo fàn",
-        "resources": [
-          {
-            "name": "蝦仁",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6%E4%BB%81"
-          },
-          {
-            "name": "蝦",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-          },
-          {
-            "name": "仁",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "虾仁炒饭",
+          "wkty": [
+            "虾仁",
+            "虾",
+            "仁",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "xiā rén chǎo fàn"
       }
     ],
     "images": [
