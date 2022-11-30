@@ -490,7 +490,7 @@
         },
         "Yale": "ńgh chāan yuhk cháau faahn",
         "Simplified": {
-          "text":"午餐肉炒饭",
+          "text": "午餐肉炒饭",
           "wkty": [
             "午餐肉",
             "午餐",
@@ -530,28 +530,27 @@
     "words": [
       {
         "English": "vegetable fried rice",
-        "Cantonese": "素炒飯",
-        "Simplified": "素炒饭",
+        "Cantonese": {
+          "text": "素炒飯",
+          "wkty": [
+            "素",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "sou cháau faahn",
-        "Pinyin": "sù chǎo fàn",
-        "resources": [
-          {
-            "name": "素",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "素炒饭",
+          "wkty": [
+            "素",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+       
+        "Pinyin": "sù chǎo fàn"
       }
     ],
     "images": [
