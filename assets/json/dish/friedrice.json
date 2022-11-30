@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "炒飯",
-        "Simplified": "炒饭",
         "English": "fried rice",
+        "Cantonese": {
+          "text": "炒飯",
+          "wkty": [
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "cháau faahn",
-        "Pinyin": "chǎo fàn",
-        "resources": [
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "炒饭",
+          "wkty": [
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "chǎo fàn"
       }
     ],
     "images": [
