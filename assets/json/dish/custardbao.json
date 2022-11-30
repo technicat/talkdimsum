@@ -188,28 +188,18 @@
     {
         "words": [
             {
-                "Cantonese": "流沙包",
                 "English": "molten custard bun",
+                "Cantonese": {
+                    "text": "流沙包",
+                    "wkty": [
+                        "流沙",
+                        "流",
+                        "沙",
+                        "包"
+                    ]
+                },
                 "Yale": "làu sā bāau",
-                "Pinyin": "liú shā bāo",
-                "resources": [
-                    {
-                        "name": "流沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%81%E6%B2%99"
-                    },
-                    {
-                        "name": "流",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%81"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "liú shā bāo"
             }
         ],
         "images": [
