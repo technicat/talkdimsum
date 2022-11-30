@@ -106,44 +106,22 @@
     {
         "words": [
             {
-                "Cantonese": "港式西多士",
                 "English": "Hong Kong-style French toast",
+                "Cantonese": {
+                    "text": "港式西多士",
+                    "wkty": [
+                        "港式",
+                        "港",
+                        "式",
+                        "西多士",
+                        "西",
+                        "多士",
+                        "多",
+                        "士"
+                    ]
+                },
                 "Yale": "góng sīk sāi dō sih",
-                "Pinyin": "gǎng shì xī duō shì",
-                "resources": [
-                    {
-                        "name": "港式",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF%E5%BC%8F"
-                    },
-                    {
-                        "name": "港",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF"
-                    },
-                    {
-                        "name": "式",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
-                    },
-                    {
-                        "name": "西多士",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF%E5%A4%9A%E5%A3%AB"
-                    },
-                    {
-                        "name": "西",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF"
-                    },
-                    {
-                        "name": "多士",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A%E5%A3%AB"
-                    },
-                    {
-                        "name": "多",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%9A"
-                    },
-                    {
-                        "name": "士",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A3%AB"
-                    }
-                ]
+                "Pinyin": "gǎng shì xī duō shì"
             }
         ],
         "images": [
