@@ -14,7 +14,6 @@
                         "粿"
                     ]
                 },
-              
                 "Yale": "chìuh jāu fán gwó",
                 "Pinyin": "cháo zhōu fěn guǒ"
             }
@@ -70,33 +69,29 @@
     {
         "words": [
             {
-                "Cantonese": "鮮蝦粉粿",
-                "Simplified": "鲜虾粉粿",
                 "English": "steamed shrimp dumpling",
+                "Cantonese": {
+                    "text": "鮮蝦粉粿",
+                    "wkty": [
+                        "鮮",
+                        "蝦",
+                        "粉粿",
+                        "粉",
+                        "粿"
+                    ]
+                },
                 "Yale": "sīn hā fán gwó",
-                "Pinyin": "xiān xiā fěn guǒ",
-                "resources": [
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "粉粿",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89%E7%B2%BF"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    },
-                    {
-                        "name": "粿",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%BF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鲜虾粉粿",
+                    "wkty": [
+                        "鲜",
+                        "虾",
+                        "粉粿",
+                        "粉",
+                        "粿"
+                    ]
+                },
+                "Pinyin": "xiān xiā fěn guǒ"
             }
         ],
         "images": [
