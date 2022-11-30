@@ -2,25 +2,18 @@
     {
         "words": [
             {
-                "Cantonese": "甜品",
                 "English": "dessert",
+                "Cantonese": {
+                    "text": "甜品",
+                    "wkty": [
+                        "甜品",
+                        "甜",
+                        "品"
+                    ]
+                },
                 "Yale": "tìhm bán",
                 "Jyutping": "tim4 ban2",
-                "Pinyin": "tián pǐn",
-                "resources": [
-                    {
-                        "name": "甜品",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9C%E5%93%81"
-                    },
-                    {
-                        "name": "甜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9C"
-                    },
-                    {
-                        "name": "品",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%93%81"
-                    }
-                ]
+                "Pinyin": "tián pǐn"
             }
         ],
         "images": [
