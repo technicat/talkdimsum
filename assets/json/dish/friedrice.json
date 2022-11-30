@@ -637,37 +637,31 @@
   {
     "words": [
       {
-        "Cantonese": "福建炒飯",
-        "Simplified": "福建炒饭",
         "English": "Fujian fried rice",
+        "Cantonese": {
+          "text": "福建炒飯",
+          "wkty": [
+            "福建",
+            "福",
+            "建",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "fūk gin cháau faahn",
-        "Pinyin": "Fú jiàn chǎo fàn",
-        "resources": [
-          {
-            "name": "福建",
-            "URL": "https://en.wiktionary.org/wiki/%E7%A6%8F%E5%BB%BA"
-          },
-          {
-            "name": "福",
-            "URL": "https://en.wiktionary.org/wiki/%E7%A6%8F"
-          },
-          {
-            "name": "建",
-            "URL": "https://en.wiktionary.org/wiki/%E5%BB%BA"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "福建炒饭",
+          "wkty": [
+            "福建",
+            "福",
+            "建",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "Fú jiàn chǎo fàn"
       }
     ],
     "images": [
