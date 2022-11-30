@@ -746,33 +746,29 @@
   {
     "words": [
       {
-        "Cantonese": "XO醬炒飯",
-        "Simplified": "XO酱炒饭",
         "English": "XO fried rice",
+        "Cantonese": {
+          "text": "XO醬炒飯",
+          "wkty": [
+            "XO醬",
+            "醬",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "XO jeung cháau faahn",
-        "Pinyin": "XO jiàng chǎo fàn",
-        "resources": [
-          {
-            "name": "XO醬",
-            "URL": "https://en.wiktionary.org/wiki/XO%E9%86%AC"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "XO酱炒饭",
+          "wkty": [
+            "XO酱",
+            "酱",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "XO jiàng chǎo fàn"
       }
     ],
     "images": [
