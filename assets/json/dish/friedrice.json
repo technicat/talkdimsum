@@ -102,41 +102,33 @@
   {
     "words": [
       {
-        "Cantonese": "揚州炒飯",
-        "Simplified": "扬州炒饭",
         "English": "Yangzhou fried rice",
+        "Cantonese": {
+          "text": "揚州炒飯",
+          "wkty": [
+            "揚州炒飯",
+            "揚州",
+            "揚",
+            "州",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
+        "Simplified": {
+          "text": "扬州炒饭",
+          "wkty": [
+            "扬州炒飯",
+            "扬州",
+            "扬",
+            "州",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
         "Yale": "yèuhng jāu cháau faahn",
-        "Pinyin": "Yáng zhōu chǎo fàn",
-        "resources": [
-          {
-            "name": "揚州炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%8F%9A%E5%B7%9E%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "揚州",
-            "URL": "https://en.wiktionary.org/wiki/%E6%8F%9A%E5%B7%9E"
-          },
-          {
-            "name": "揚",
-            "URL": "https://en.wiktionary.org/wiki/%E6%8F%9A"
-          },
-          {
-            "name": "州",
-            "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Pinyin": "Yáng zhōu chǎo fàn"
       }
     ],
     "images": [
