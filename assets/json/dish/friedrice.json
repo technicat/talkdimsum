@@ -796,29 +796,27 @@
   {
     "words": [
       {
-        "Cantonese": "新加坡炒飯",
-        "Simplified": "新加坡炒饭",
         "English": "Singapore fried rice",
+        "Cantonese": {
+          "text": "新加坡炒飯",
+          "wkty": [
+            "新加坡",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "sān ga bō cháau faahn",
-        "Pinyin": "Xīn jiā pō chǎo fàn",
-        "resources": [
-          {
-            "name": "新加坡",
-            "URL": "https://en.wiktionary.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "新加坡炒饭",
+          "wkty": [
+            "新加坡",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "Xīn jiā pō chǎo fàn"
       }
     ],
     "images": [
