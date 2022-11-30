@@ -2,33 +2,29 @@
     {
         "words": [
             {
-                "Cantonese": "奶黃包",
-                "Simplified": "奶黄包",
                 "English": "custard bun",
+                "Cantonese": {
+                    "text": "奶黃包",
+                    "wkty": [
+                        "奶黃包",
+                        "奶黃",
+                        "奶",
+                        "黃",
+                        "包"
+                    ]
+                },
                 "Yale": "náaih wòhng bāau",
-                "Pinyin": "nǎi huáng bāo",
-                "resources": [
-                    {
-                        "name": "奶黃包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83%E5%8C%85"
-                    },
-                    {
-                        "name": "奶黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%BB%83"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "奶黄包",
+                    "wkty": [
+                        "奶黄包",
+                        "奶黄",
+                        "奶",
+                        "黄",
+                        "包"
+                    ]
+                },
+                "Pinyin": "nǎi huáng bāo"
             }
         ],
         "images": [
