@@ -474,45 +474,35 @@
   {
     "words": [
       {
-        "Cantonese": "午餐肉炒飯",
-        "Simplified": "午餐肉炒饭",
         "English": "spam fried rice",
+        "Cantonese": {
+          "text": "午餐肉炒飯",
+          "wkty": [
+            "午餐肉",
+            "午餐",
+            "午",
+            "餐",
+            "肉",
+            "炒飯",
+            "炒",
+            "飯"
+          ]
+        },
         "Yale": "ńgh chāan yuhk cháau faahn",
-        "Pinyin": "wǔ cān ròu chǎo fàn",
-        "resources": [
-          {
-            "name": "午餐肉",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90%E8%82%89"
-          },
-          {
-            "name": "午餐",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90"
-          },
-          {
-            "name": "午",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8D%88"
-          },
-          {
-            "name": "餐",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
-          },
-          {
-            "name": "肉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-          },
-          {
-            "name": "炒飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92%E9%A3%AF"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text":"午餐肉炒饭",
+          "wkty": [
+            "午餐肉",
+            "午餐",
+            "午",
+            "餐",
+            "肉",
+            "炒饭",
+            "炒",
+            "饭"
+          ]
+        },
+        "Pinyin": "wǔ cān ròu chǎo fàn"
       }
     ],
     "images": [
