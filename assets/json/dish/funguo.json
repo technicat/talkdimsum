@@ -2,36 +2,21 @@
     {
         "words": [
             {
-                "Cantonese": "潮州粉粿",
                 "English": "Chaozhou style dumpling",
+                "Cantonese": {
+                    "text": "潮州粉粿",
+                    "wkty": [
+                        "潮州",
+                        "潮",
+                        "州",
+                        "粉粿",
+                        "粉",
+                        "粿"
+                    ]
+                },
+              
                 "Yale": "chìuh jāu fán gwó",
-                "Pinyin": "cháo zhōu fěn guǒ",
-                "resources": [
-                    {
-                        "name": "潮州",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
-                    },
-                    {
-                        "name": "潮",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
-                    },
-                    {
-                        "name": "州",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
-                    },
-                    {
-                        "name": "粉粿",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89%E7%B2%BF"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    },
-                    {
-                        "name": "粿",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%BF"
-                    }
-                ]
+                "Pinyin": "cháo zhōu fěn guǒ"
             }
         ],
         "images": [
@@ -68,7 +53,6 @@
                 "name": "Mom's Chinese Kitchen",
                 "URL": "http://www.momschinesekitchen.com/chiu-chow-fun-gor/"
             },
-           
             {
                 "name": "Unfamiliar China",
                 "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/mixed-protein/fun-guo"
