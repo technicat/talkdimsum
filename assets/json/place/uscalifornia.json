@@ -1550,6 +1550,23 @@
             "address": "2378 Florin Rd, Sacramento, CA 95822"
         },
         {
+            "title": "Diamond Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://diamondpalaceusa.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/diamond-palace-san-diego"
+                }
+            ],
+            "lat": 32.747961452683995,
+            "lon":  -117.07890320219337,
+            "city": "San Diego",
+            "address": "3993 54th St San Diego, CA 92105"
+        },
+        {
             "title": "Emerald Chinese Cuisine",
             "links": [
                 {
@@ -1561,36 +1578,6 @@
             "lon": -117.152552,
             "city": "San Diego",
             "address": "3709 Convoy St #101, San Diego, CA 92111"
-        },
-        {
-            "title": "Imperial Mandarin Restaurant",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/imperial-mandarin-restaurant-san-diego"
-                }
-            ],
-            "lat": 32.814860,
-            "lon": -117.154620,
-            "city": "San Diego",
-            "address": "3904 Convoy St #102, San Diego, CA 92111"
-        },
-        {
-            "title": "Jasmine Seafood Restaurant",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://jasmineseafood.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/jasmine-seafood-restaurant-san-diego"
-                }
-            ],
-            "lat": 32.823905,
-            "lon": -117.154736,
-            "city": "San Diego",
-            "address": "4609 Convoy St A, San Diego, CA 92111"
         },
         {
             "title": "Golden Island",
@@ -1621,6 +1608,36 @@
             "lon": -117.145550,
             "city": "San Diego",
             "address": "10550 Camino Ruiz, San Diego, CA 92126"
+        },
+        {
+            "title": "Imperial Mandarin Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/imperial-mandarin-restaurant-san-diego"
+                }
+            ],
+            "lat": 32.814860,
+            "lon": -117.154620,
+            "city": "San Diego",
+            "address": "3904 Convoy St #102, San Diego, CA 92111"
+        },
+        {
+            "title": "Jasmine Seafood Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://jasmineseafood.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jasmine-seafood-restaurant-san-diego"
+                }
+            ],
+            "lat": 32.823905,
+            "lon": -117.154736,
+            "city": "San Diego",
+            "address": "4609 Convoy St A, San Diego, CA 92111"
         },
         {
             "title": "Tom's Chinese BBQ",
