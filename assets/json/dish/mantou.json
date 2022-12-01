@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "饅頭",
-        "Simplified": "馒头",
         "English": "mantou",
+        "Cantonese": {
+          "text": "饅頭",
+          "wkty": [
+            "饅頭",
+            "饅",
+            "頭"
+          ]
+        },
         "Yale": "màahn tàuh",
-        "Pinyin": "mán tou",
-        "resources": [
-          {
-            "name": "饅頭",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A5%85%E9%A0%AD"
-          },
-          {
-            "name": "饅",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A5%85"
-          },
-          {
-            "name": "頭",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
-          }
-        ]
+        "Simplified": {
+          "text": "馒头",
+          "wkty": [
+            "馒头",
+            "馒",
+            "头"
+          ]
+        },
+        "Pinyin": "mán tou"
       }
     ],
     "images": [
@@ -80,37 +80,31 @@
   {
     "words": [
       {
-        "Cantonese": "鮑魚滑雞窩",
-        "Simplified": "鲍鱼滑鸡窝",
         "English": "abalone and chicken in mantou cup",
+        "Cantonese": {
+          "text": "鮑魚滑雞窩",
+          "wkty": [
+            "鮑魚",
+            "鮑",
+            "魚",
+            "滑",
+            "雞",
+            "窩"
+          ]
+        },
         "Yale": "bāau yùh waaht gāi wō",
-        "Pinyin": "bào yú huá jī wō",
-        "resources": [
-          {
-            "name": "鮑魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AE%91%E9%AD%9A"
-          },
-          {
-            "name": "鮑",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AE%91"
-          },
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-          },
-          {
-            "name": "滑",
-            "URL": "https://en.wiktionary.org/wiki/%E6%BB%91"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "窩",
-            "URL": "https://en.wiktionary.org/wiki/%E7%AA%A9"
-          }
-        ]
+        "Simplified": {
+          "text": "鲍鱼滑鸡窝",
+          "wkty": [
+            "鲍鱼",
+            "鲍",
+            "鱼",
+            "滑",
+            "鸡",
+            "窝"
+          ]
+        },
+        "Pinyin": "bào yú huá jī wō"
       }
     ],
     "images": [
