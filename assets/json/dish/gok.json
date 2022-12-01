@@ -85,33 +85,29 @@
   {
     "words": [
       {
-        "Cantonese": "鹹水角",
-        "Simplified": "咸水角",
         "English": "deep-fried dumpling",
+        "Cantonese": {
+          "text": "鹹水角",
+          "wkty": [
+            "鹹水角",
+            "鹹水",
+            "鹹",
+            "水",
+            "角"
+          ]
+        },
         "Yale": "hàahm séui gok",
-        "Pinyin": "xián shuǐ jiǎo",
-        "resources": [
-          {
-            "name": "鹹水角",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E6%B0%B4%E8%A7%92"
-          },
-          {
-            "name": "鹹水",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E6%B0%B4"
-          },
-          {
-            "name": "鹹",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
-          },
-          {
-            "name": "水",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-          },
-          {
-            "name": "角",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A7%92"
-          }
-        ]
+        "Simplified": {
+          "text": "咸水角",
+          "wkty": [
+            "咸水角",
+            "咸水",
+            "咸",
+            "水",
+            "角"
+          ]
+        },
+        "Pinyin": "xián shuǐ jiǎo"
       }
     ],
     "images": [
@@ -145,29 +141,18 @@
   {
     "words": [
       {
-        "Cantonese": "咖喱角",
-        "Mandarin": "咖哩角",
         "English": "curry puff",
+        "Cantonese": {
+          "text": "咖喱角",
+          "wkty": [
+            "咖喱",
+            "咖",
+            "喱",
+            "角"
+          ]
+        },
         "Yale": "ga lēi gok",
-        "Pinyin": "kā li jiǎo",
-        "resources": [
-          {
-            "name": "咖喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1"
-          },
-          {
-            "name": "咖",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
-          },
-          {
-            "name": "喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%96%B1"
-          },
-          {
-            "name": "角",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A7%92"
-          }
-        ]
+        "Pinyin": "kā li jiǎo"
       }
     ],
     "images": [
