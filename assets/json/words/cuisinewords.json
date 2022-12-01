@@ -37,13 +37,19 @@
         "English": "Shandong cuisine",
         "Cantonese": {
             "text": "魯菜",
-            "wkty": [ "魯菜","魯","菜"
+            "wkty": [
+                "魯菜",
+                "魯",
+                "菜"
             ]
         },
         "Yale": "lóuh choi",
-        "Simplified":  {
+        "Simplified": {
             "text": "鲁菜",
-            "wkty": [ "鲁菜","鲁","菜"
+            "wkty": [
+                "鲁菜",
+                "鲁",
+                "菜"
             ]
         },
         "Pinyin": "lǔ cài"
@@ -56,23 +62,16 @@
         "Pinyin": "jìn cài"
     },
     {
-        "Cantonese": "浙菜",
         "English": "Zhejiang cuisine",
+        "Cantonese": {
+            "text": "浙菜",
+            "wkty": [
+                "浙菜",
+                "浙",
+                "菜"
+            ]
+        },
         "Yale": "jit choi",
-        "Pinyin": "zhè cài",
-        "resources": [
-            {
-                "name": "浙菜",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B5%99%E8%8F%9C"
-            },
-            {
-                "name": "浙",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B5%99"
-            },
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Pinyin": "zhè cài"
     }
 ]
