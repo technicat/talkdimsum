@@ -17,8 +17,8 @@
         "Simplified": {
           "text": "酿豆腐",
           "wkty": [
-            "釀豆腐",
-            "釀",
+            "酿豆腐",
+            "酿",
             "豆腐",
             "豆",
             "腐"
@@ -77,6 +77,17 @@
           ]
         },
         "Yale": "jīng yeuhng dauh fuh",
+        "Simplified": {
+          "text": "蒸酿豆腐",
+          "wkty": [
+            "蒸",
+            "酿豆腐",
+            "酿",
+            "豆腐",
+            "豆",
+            "腐"
+          ]
+        },
         "Pinyin": "zhēng niàng dòu fu"
       }
     ],
@@ -103,45 +114,35 @@
   {
     "words": [
       {
-        "Cantonese": "蝦仁釀豆腐",
-        "Simplified": "虾仁酿豆腐",
+        "Cantonese": {
+          "text": "蝦仁釀豆腐",
+          "wkty": [
+            "蝦仁",
+            "蝦",
+            "仁",
+            "釀豆腐",
+            "釀",
+            "豆腐",
+            "豆",
+            "腐"
+          ]
+        },
+        "Simplified":  {
+          "text": "虾仁酿豆腐",
+          "wkty": [
+            "虾仁",
+            "虾",
+            "仁",
+            "酿豆腐",
+            "酿",
+            "豆腐",
+            "豆",
+            "腐"
+          ]
+        },
         "English": "stuffed tofu w/ shrimp",
         "Yale": "hā yàn yeuhng dauh fuh",
-        "Pinyin": "xiā rén niàng dòu fu",
-        "resources": [
-          {
-            "name": "蝦仁",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6%E4%BB%81"
-          },
-          {
-            "name": "蝦",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-          },
-          {
-            "name": "仁",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
-          },
-          {
-            "name": "釀豆腐",
-            "URL": "https://en.wiktionary.org/wiki/%E9%87%80%E8%B1%86%E8%85%90"
-          },
-          {
-            "name": "釀",
-            "URL": "https://en.wiktionary.org/wiki/%E9%87%80"
-          },
-          {
-            "name": "豆腐",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-          },
-          {
-            "name": "豆",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-          },
-          {
-            "name": "腐",
-            "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-          }
-        ]
+        "Pinyin": "xiā rén niàng dòu fu"
       }
     ],
     "images": [
