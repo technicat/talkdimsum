@@ -34,25 +34,19 @@
         "Pinyin": "sū cài"
     },
     {
-        "Cantonese": "魯菜",
-        "Simplified": "鲁菜",
         "English": "Shandong cuisine",
+        "Cantonese": {
+            "text": "魯菜",
+            "wkty": [ "魯菜","魯","菜"
+            ]
+        },
         "Yale": "lóuh choi",
-        "Pinyin": "lǔ cài",
-        "resources": [
-            {
-                "name": "魯菜",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AD%AF%E8%8F%9C"
-            },
-            {
-                "name": "魯",
-                "URL": "https://en.wiktionary.org/wiki/%E9%AD%AF"
-            },
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Simplified":  {
+            "text": "鲁菜",
+            "wkty": [ "鲁菜","鲁","菜"
+            ]
+        },
+        "Pinyin": "lǔ cài"
     },
     {
         "Cantonese": "晉菜",
