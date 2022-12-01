@@ -2,26 +2,26 @@
     {
         "words": [
             {
-                "Cantonese": "糖水",
-                "Simplified": "糖水",
                 "English": "sweet soup",
+                "Cantonese": {
+                    "text": "糖水",
+                    "wkty": [
+                        "糖水",
+                        "糖",
+                        "水"
+                    ]
+                },
                 "Yale": "tòhng séui",
                 "Jyupting": "tong4 seoi2",
-                "Pinyin": "táng shuǐ",
-                "resources": [
-                    {
-                        "name": "糖水",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96%E6%B0%B4"
-                    },
-                    {
-                        "name": "糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
-                    },
-                    {
-                        "name": "水",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-                    }
-                ]
+                "Simplified": {
+                    "text":"糖水",
+                    "wkty": [
+                        "糖水",
+                        "糖",
+                        "水"
+                    ]
+                },
+                "Pinyin": "táng shuǐ"
             }
         ],
         "images": [
