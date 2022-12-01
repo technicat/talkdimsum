@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "冰茶",
-        "Simplified": "冰茶",
         "English": "ice tea",
+        "Cantonese": {
+          "text": "冰茶",
+          "wkty": [
+            "冰茶",
+            "冰",
+            "茶"
+          ]
+        },
         "Yale": "bīng chàh",
-        "Pinyin": "bīng chá",
-        "resources": [
-          {
-            "name": "冰茶",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B0%E8%8C%B6"
-          },
-          {
-            "name": "冰",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%B0"
-          },
-          {
-            "name": "茶",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-          }
-        ]
+        "Simplified": {
+          "text": "冰茶",
+          "wkty": [
+            "冰茶",
+            "冰",
+            "茶"
+          ]
+        },
+        "Pinyin": "bīng chá"
       }
     ],
     "images": [
