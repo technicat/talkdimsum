@@ -187,33 +187,29 @@
   {
     "words": [
       {
-        "Cantonese": "雞叉燒角",
-        "Simplified": "炸叉燒角",
         "English": "BBQ chicken puff",
+        "Cantonese": {
+          "text": "雞叉燒角",
+          "wkty": [
+            "雞",
+            "叉燒",
+            "叉",
+            "燒",
+            "角"
+          ]
+        },
         "Yale": " gāi chā sīu gok",
-        "Pinyin": "jī chā shāo jiǎo",
-        "resources": [
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "叉燒",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-          },
-          {
-            "name": "叉",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-          },
-          {
-            "name": "燒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-          },
-          {
-            "name": "角",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A7%92"
-          }
-        ]
+        "Simplified": {
+          "text": "鸡叉烧角",
+          "wkty": [
+            "鸡",
+            "叉烧",
+            "叉",
+            "烧",
+            "角"
+          ]
+        },
+        "Pinyin": "jī chā shāo jiǎo"
       }
     ],
     "images": [
