@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "煎魚餅",
-                "Simplified": "煎鱼饼",
+                "Cantonese": {
+                    "text": "煎魚餅",
+                    "wkty": [
+                        "煎",
+                        "魚餅",
+                        "魚",
+                        "餅"
+                    ]
+                },
+                "Simplified":  {
+                    "text": "煎鱼饼",
+                    "wkty": [
+                        "煎",
+                        "鱼饼",
+                        "鱼饼",
+                        "饼"
+                    ]
+                },
                 "English": "fried fish cake",
                 "Yale": "jīn yùh béng",
-                "Pinyin": "jiān yú bǐng",
-                "resources": [
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "魚餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A%E9%A4%85"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Pinyin": "jiān yú bǐng"
             }
         ],
         "images": [
