@@ -13,25 +13,25 @@
         "Pinyin": "huī cài"
     },
     {
-        "Cantonese": "蘇菜",
-        "Simplified": "苏菜",
         "English": "Jiangsu cuisine",
+        "Cantonese": {
+            "text": "蘇菜",
+            "wkty": [
+                "蘇菜",
+                "蘇",
+                "菜"
+            ]
+        },
         "Yale": "sōu choi",
-        "Pinyin": "sū cài",
-        "resources": [
-            {
-                "name": "蘇菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%98%87%E8%8F%9C"
-            },
-            {
-                "name": "蘇",
-                "URL": "https://en.wiktionary.org/wiki/%E8%98%87"
-            },
-            {
-                "name": "菜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-            }
-        ]
+        "Simplified": {
+            "text": "苏菜",
+            "wkty": [
+                "苏菜",
+                "苏",
+                "菜"
+            ]
+        },
+        "Pinyin": "sū cài"
     },
     {
         "Cantonese": "魯菜",
