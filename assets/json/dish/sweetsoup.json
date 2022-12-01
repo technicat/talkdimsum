@@ -14,7 +14,7 @@
                 "Yale": "tòhng séui",
                 "Jyupting": "tong4 seoi2",
                 "Simplified": {
-                    "text":"糖水",
+                    "text": "糖水",
                     "wkty": [
                         "糖水",
                         "糖",
@@ -47,34 +47,30 @@
     {
         "words": [
             {
-                "Cantonese": "紅豆湯",
-                "Simplified": "红豆汤",
+                "Cantonese": {
+                    "text": "紅豆湯",
+                    "wkty": [
+                        "紅豆湯",
+                        "紅豆",
+                        "紅",
+                        "豆",
+                        "湯"
+                    ]
+                },
+                "Simplified": {
+                    "text":"红豆汤",
+                    "wkty": [
+                        "红豆汤",
+                        "红豆",
+                        "红",
+                        "豆",
+                        "汤"
+                    ]
+                },
                 "English": "red bean soup",
                 "Yale": "hùhng dáu tōng",
                 "Jyupting": "hung4 dau2 tong1",
-                "Pinyin": "hóng dòu tāng",
-                "resources": [
-                    {
-                        "name": "紅豆湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E8%B1%86%E6%B9%AF"
-                    },
-                    {
-                        "name": "紅豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E8%B1%86"
-                    },
-                    {
-                        "name": "紅",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%85"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-                    }
-                ]
+                "Pinyin": "hóng dòu tāng"
             }
         ],
         "images": [
