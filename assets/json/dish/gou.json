@@ -2,16 +2,10 @@
     {
         "words": [
             {
-                "Cantonese": "糕",
                 "English": "cake",
+                "Cantonese": "糕",
                 "Yale": "gōu",
-                "Pinyin": "gāo",
-                "resources": [
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Pinyin": "gāo"
             }
         ],
         "images": [
@@ -29,32 +23,19 @@
     {
         "words": [
             {
-                "Cantonese": "白糖糕",
                 "English": "sweet rice cake",
+                "Cantonese": {
+                    "text": "白糖糕",
+                    "wkty": [
+                        "白糖糕",
+                        "白糖",
+                        "白",
+                        "糖",
+                        "糕"
+                    ]
+                },
                 "Yale": "baahk tòhng gōu",
-                "Pinyin": "bái táng gāo",
-                "resources": [
-                    {
-                        "name": "白糖糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%B3%96%E7%B3%95"
-                    },
-                    {
-                        "name": "白糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%B3%96"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Pinyin": "bái táng gāo"
             }
         ],
         "images": [
