@@ -69,20 +69,17 @@
         "Pinyin": "Shàng hǎi"
     },
     {
-        "Cantonese": "四川",
         "English": "Sichuan",
+        "Cantonese": {
+            "text": "四川",
+            "wkty": [
+                "四川",
+                "四",
+                "川"
+            ]
+        },
         "Yale": "sei chyūn",
-        "Pinyin": "sì chuān",
-        "resources": [
-            {
-                "name": "四川",
-                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%B7%9D"
-            },
-            {
-                "name": "四",
-                "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B"
-            }
-        ]
+        "Pinyin": "sì chuān"
     },
     {
         "Cantonese": "福建",
@@ -98,24 +95,18 @@
         "Pinyin": "shào xīng"
     },
     {
-        "Cantonese": "潮州",
         "English": "Chaozhou",
+        "Cantonese": {
+            "text": "潮州",
+            "wkty": [
+                "潮州",
+                "潮",
+                "州"
+            ]
+        },
+      
         "Yale": "chìuh jāu",
-        "Pinyin": "cháo zhōu",
-        "resources": [
-            {
-                "name": "潮州",
-                "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE%E5%B7%9E"
-            },
-            {
-                "name": "潮",
-                "URL": "https://en.wiktionary.org/wiki/%E6%BD%AE"
-            },
-            {
-                "name": "州",
-                "URL": "https://en.wiktionary.org/wiki/%E5%B7%9E"
-            }
-        ]
+        "Pinyin": "cháo zhōu"
     },
     {
         "Cantonese": "揚州",
