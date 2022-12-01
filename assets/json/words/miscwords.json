@@ -1,15 +1,16 @@
 [
     {
-        "Cantonese": "茉莉",
         "English": "jasmine",
+        "Cantonese": {
+            "text": "茉莉",
+            "wkty": [
+                "茉莉",
+                "茉",
+                "莉"
+            ]
+        },
         "Yale": "muht léi",
-        "Pinyin": "mò liá",
-        "resources": [
-            {
-                "name": "茉莉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%8C%89%E8%8E%89"
-            }
-        ]
+        "Pinyin": "mò liá"
     },
     {
         "Cantonese": "蒜蓉",
