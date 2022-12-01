@@ -13,14 +13,6 @@
                 },
                 "Yale": "tòhng séui",
                 "Jyupting": "tong4 seoi2",
-                "Simplified": {
-                    "text": "糖水",
-                    "wkty": [
-                        "糖水",
-                        "糖",
-                        "水"
-                    ]
-                },
                 "Pinyin": "táng shuǐ"
             }
         ],
@@ -58,7 +50,7 @@
                     ]
                 },
                 "Simplified": {
-                    "text":"红豆汤",
+                    "text": "红豆汤",
                     "wkty": [
                         "红豆汤",
                         "红豆",
@@ -116,29 +108,19 @@
     {
         "words": [
             {
-                "Cantonese": "番薯糖水",
-                "Simplified": "番薯糖水",
                 "English": "sweet potato soup",
+                "Cantonese": {
+                    "text": "番薯糖水",
+                    "wkty": [
+                        "番薯糖水",
+                        "番薯",
+                        "番",
+                        "薯",
+                        "糖水"
+                    ]
+                },
                 "Yale": "fāan syú tòhng séui",
-                "Pinyin": "fān shǔ táng shuǐ",
-                "resources": [
-                    {
-                        "name": "番薯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%95%AA%E8%96%AF"
-                    },
-                    {
-                        "name": "番",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%95%AA"
-                    },
-                    {
-                        "name": "薯",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%96%AF"
-                    },
-                    {
-                        "name": "糖水",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96%E6%B0%B4"
-                    }
-                ]
+                "Pinyin": "fān shǔ táng shuǐ"
             }
         ],
         "images": [
@@ -179,29 +161,27 @@
     {
         "words": [
             {
-                "Cantonese": "龜苓膏",
-                "Simplified": "龟苓膏",
+                "Cantonese": {
+                    "text": "龜苓膏",
+                    "wkty": [
+                        "龜苓膏",
+                        "龜",
+                        "苓",
+                        "膏"
+                    ]
+                },
+                "Simplified": {
+                    "text": "龟苓膏",
+                    "wkty": [
+                        "龟苓膏",
+                        "龟",
+                        "苓",
+                        "膏"
+                    ]
+                },
                 "English": "herbal jelly",
                 "Yale": "gwāi lìhng gōu",
-                "Pinyin": "guī líng gāo",
-                "resources": [
-                    {
-                        "name": "龜苓膏",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BE%9C%E8%8B%93%E8%86%8F"
-                    },
-                    {
-                        "name": "龜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BE%9C"
-                    },
-                    {
-                        "name": "苓",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8B%93"
-                    },
-                    {
-                        "name": "膏",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%86%8F"
-                    }
-                ]
+                "Pinyin": "guī líng gāo"
             }
         ],
         "images": [
