@@ -2,6 +2,7 @@
     {
         "words": [
             {
+                "English": "fried fish cake",
                 "Cantonese": {
                     "text": "煎魚餅",
                     "wkty": [
@@ -11,7 +12,8 @@
                         "餅"
                     ]
                 },
-                "Simplified":  {
+                "Yale": "jīn yùh béng",
+                "Simplified": {
                     "text": "煎鱼饼",
                     "wkty": [
                         "煎",
@@ -20,8 +22,6 @@
                         "饼"
                     ]
                 },
-                "English": "fried fish cake",
-                "Yale": "jīn yùh béng",
                 "Pinyin": "jiān yú bǐng"
             }
         ],
@@ -57,21 +57,7 @@
                 "Simplified": "煎虾饼",
                 "English": "fried shrimp cake",
                 "Yale": "jīn hā béng",
-                "Pinyin": "jiān xiā bǐng",
-                "resources": [
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Pinyin": "jiān xiā bǐng"
             }
         ],
         "images": [
@@ -80,7 +66,7 @@
                 "place": "Imperial Garden, Fresno, California"
             }
         ],
-        "description": "Shrimp mixed with vegetables and pan-fried.\n\n煎 means “pan-fried,” 蝦 is “shrimp,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
+        "description": "Shrimp mixed with vegetables and pan-fried.\n\n**Characters**\n\n煎 means “pan-fried,” 蝦 is “shrimp,” and 餅 is the word for “pie“ or “cookie.“ Basically, “pan-fried fish patty.”",
         "tags": [
             "蝦",
             "餅",
