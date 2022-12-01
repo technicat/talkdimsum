@@ -13,53 +13,46 @@
         "Pinyin": "mò liá"
     },
     {
-        "Cantonese": "蒜蓉",
         "English": "minced garlic",
+        "Cantonese": {
+            "text": "蒜蓉",
+            "wkty": [
+                "蒜蓉",
+                "蒜",
+                "蓉"
+            ]
+        },
         "Yale": "syun yùhng",
         "Jyutping": "syun3 jung4",
-        "Pinyin": "suàn róng",
-        "resources": [
-            {
-                "name": "蒜蓉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-            },
-            {
-                "name": "蒜",
-                "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-            },
-            {
-                "name": "蓉",
-                "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-            }
-        ]
+        "Pinyin": "suàn róng"
     },
     {
+        "English": "dumpling",
         "Cantonese": "餃",
         "Simplified": "饺",
-        "English": "dumpling",
         "Yale": "gáau",
         "Pinyin": "jiǎo"
     },
     {
-        "Cantonese": "水餃",
-        "Simplified": "水饺",
         "English": "boiled dumpling",
+        "Cantonese": {
+            "text": "水餃",
+            "wkty": [
+                "水餃",
+                "水",
+                "餃"
+            ]
+        },
+        "Simplified": {
+            "text": "水饺",
+            "wkty": [
+                "水饺",
+                "水",
+                "饺"
+            ]
+        },
         "Yale": "séui gáau",
-        "Pinyin": "shuǐ jiǎo",
-        "resources": [
-            {
-                "name": "水餃",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4%E9%A4%83"
-            },
-            {
-                "name": "水",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-            },
-            {
-                "name": "餃",
-                "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-            }
-        ]
+        "Pinyin": "shuǐ jiǎo"
     },
     {
         "Cantonese": "角",
@@ -95,50 +88,36 @@
         "Pinyin": "jú"
     },
     {
-        "Cantonese": "花",
         "English": "flower",
+        "Cantonese": "花",
         "Yale": "fā",
         "Pinyin": "huā"
     },
     {
-        "Cantonese": "麵包",
         "English": "bread",
+        "Cantonese": {
+            "text": "麵包",
+            "wkty": [
+                "麵包",
+                "麵",
+                "包"
+            ]
+        },
         "Yale": "mihn bāau",
-        "Pinyin": "miàn bāo",
-        "resources": [
-            {
-                "name": "麵包",
-                "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5%E5%8C%85"
-            },
-            {
-                "name": "麵",
-                "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-            },
-            {
-                "name": "包",
-                "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-            }
-        ]
+        "Pinyin": "miàn bāo"
     },
     {
-        "Cantonese": "沙律",
-        "Mandarin": "沙拉",
         "English": "salad",
+        "Cantonese": {
+            "text": "沙律",
+            "wkty": [
+                "沙律",
+                "沙",
+                "律"
+            ]
+        },
+        "Mandarin": "沙拉",
         "Yale": "sà léut",
-        "Pinyin": "shā lā",
-        "resources": [
-            {
-                "name": "沙律",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B2%99%E5%BE%8B"
-            },
-            {
-                "name": "沙",
-                "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-            },
-            {
-                "name": "律",
-                "URL": "https://en.wiktionary.org/wiki/%E5%BE%8B"
-            }
-        ]
+        "Pinyin": "shā lā"
     }
 ]
