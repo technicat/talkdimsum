@@ -2,33 +2,29 @@
     {
         "words": [
             {
-                "Cantonese": "煎素菜餃",
-                "Simplified": "煎素菜饺",
+                "Cantonese": {
+                    "text": "煎素菜餃",
+                    "wkty": [
+                        "煎",
+                        "素菜",
+                        "素",
+                        "菜",
+                        "餃"
+                    ]
+                },
+                "Simplified": {
+                    "text": "煎素菜饺",
+                    "wkty": [
+                        "煎",
+                        "素菜",
+                        "素",
+                        "菜",
+                        "饺"
+                    ]
+                },
                 "English": "pan-fried vegetable dumpling",
                 "Yale": "jīn sou choi gáau",
-                "Pinyin": "jiān sù cài jiǎo",
-                "resources": [
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "素菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E8%8F%9C"
-                    },
-                    {
-                        "name": "素",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Pinyin": "jiān sù cài jiǎo"
             }
         ],
         "images": [
