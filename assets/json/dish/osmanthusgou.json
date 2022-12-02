@@ -2,28 +2,18 @@
     {
         "words": [
             {
-                "Cantonese": "桂花糕",
                 "English": "osmanthus jelly",
+                "Cantonese": {
+                    "text": "桂花糕",
+                    "wkty": [
+                        "桂花",
+                        "桂",
+                        "花",
+                        "糕",
+                    ]
+                },
                 "Yale": "gwai fā gōu",
-                "Pinyin": "guì huā gāo",
-                "resources": [
-                    {
-                        "name": "桂花",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A1%82%E8%8A%B1"
-                    },
-                    {
-                        "name": "桂",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A1%82"
-                    },
-                    {
-                        "name": "花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Pinyin": "guì huā gāo"
             }
         ],
         "images": [
@@ -64,49 +54,35 @@
     {
         "words": [
             {
-                "Cantonese": "杞子桂花糕",
-                "Mandarin": "枸杞子桂花糕",
                 "English": "osmanthus jelly with goji berries",
+                "Cantonese": {
+                    "text": "杞子桂花糕",
+                    "wkty": [
+                        "杞子",
+                        "杞",
+                        "子",
+                        "桂花",
+                        "桂",
+                        "花",
+                        "糕"
+                    ]
+                },
                 "Yale": "géi jí gwai fā gōu",
-                "Pinyin": "gǒu qǐ zi guì huā gāo",
-                "resources": [
-                    {
-                        "name": "枸杞子",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%B8%E6%9D%9E%E5%AD%90"
-                    },
-                    {
-                        "name": "枸杞",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%B8%E6%9D%9E"
-                    },
-                    {
-                        "name": "枸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%B8"
-                    },
-                    {
-                        "name": "杞",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9D%9E"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    },
-                    {
-                        "name": "桂花",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A1%82%E8%8A%B1"
-                    },
-                    {
-                        "name": "桂",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A1%82"
-                    },
-                    {
-                        "name": "花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Mandarin": {
+                    "text": "枸杞子桂花糕",
+                    "wkty": [
+                        "枸杞子",
+                        "枸杞",
+                        "枸",
+                        "杞",
+                        "子",
+                        "桂花",
+                        "桂",
+                        "花",
+                        "糕"
+                    ]
+                },
+                "Pinyin": "gǒu qǐ zi guì huā gāo"
             }
         ],
         "images": [
