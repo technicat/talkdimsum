@@ -2,37 +2,33 @@
   {
     "words": [
       {
-        "Cantonese": "片皮烤乳豬",
-        "Simplified": "片皮烤乳猪",
         "English": "suckling pig",
+        "Cantonese": {
+          "text": "片皮烤乳豬",
+          "wkty": [
+            "片",
+            "皮",
+            "烤乳豬",
+            "烤",
+            "乳豬",
+            "乳",
+            "豬"
+          ]
+        },
         "Yale": "pín pèih hao yú jyú",
-        "Pinyin": "piàn pí kǎo rǔ zhū",
-        "resources": [
-          {
-            "name": "片",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-          },
-          {
-            "name": "皮",
-            "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
-          },
-          {
-            "name": "烤",
-            "URL": "https://en.wiktionary.org/wiki/%E7%83%A4"
-          },
-          {
-            "name": "乳豬",
-            "URL": "https://en.wiktionary.org/wiki/%E4%B9%B3%E8%B1%AC"
-          },
-          {
-            "name": "乳",
-            "URL": "https://en.wiktionary.org/wiki/%E4%B9%B3"
-          },
-          {
-            "name": "豬",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-          }
-        ]
+        "Simplified": {
+          "text": "片皮烤乳猪",
+          "wkty": [
+            "片",
+            "皮",
+            "烤乳猪",
+            "烤",
+            "乳豬",
+            "乳",
+            "猪"
+          ]
+        },
+        "Pinyin": "piàn pí kǎo rǔ zhū"
       }
     ],
     "images": [
@@ -40,7 +36,7 @@
         "image": "sucklingpig"
       }
     ],
-    "description": "Slices of roast pig, with a melty fatty layer between the crispy (brittle) skin and the tender meat.\n\n",
+    "description": "Slices of roast pig, with a melty fatty layer between the crispy (brittle) skin and the tender meat.\n\n**Characters**\n\n[烤乳豬](https://en.wiktionary.org/wiki/%E7%83%A4%E4%B9%B3%E8%B1%AC) is *roast suckling pig*.",
     "tags": [
       "點心",
       "豬肉"
