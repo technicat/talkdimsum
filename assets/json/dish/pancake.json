@@ -2,18 +2,24 @@
     {
         "words": [
             {
+                "English": "pancake",
                 "Cantonese": {
-                    "text":"薄餅",
-                    "wkty": ["薄餅","薄","餅"
+                    "text": "薄餅",
+                    "wkty": [
+                        "薄餅",
+                        "薄",
+                        "餅"
                     ]
                 },
-                "Simplified": {
-                    "text":"薄饼",
-                    "wkty": ["薄饼","饼","饼"
-                ]
-            },
-                "English": "pancake",
                 "Yale": "bohk béng",
+                "Simplified": {
+                    "text": "薄饼",
+                    "wkty": [
+                        "薄饼",
+                        "饼",
+                        "饼"
+                    ]
+                },
                 "Pinyin": "bǐng bǐng"
             }
         ],
@@ -23,7 +29,7 @@
                 "place": "Big Wong, Las Vegas, Nevada"
             }
         ],
-        "description": "Thin wheat flour pancakes. These are often used as wrappers with fillings, including Chinese-American mushu dishes, but also by themselves (sometimes listed as “roti.”\n\n**Characters**\n\n[薄](https://en.wiktionary.org/wiki/%E8%96%84) is *thin*, and [餅](https://en.wiktionary.org/wiki/%E8%96%84) refers specifically to Chinese wheat flour breads, but also generally to flat and circular foods like cakes and cookies (and not just foods, e.g. a discus is 鐵餅 tit béng). So [薄餅](https://en.wiktionary.org/wiki/%E8%96%84%E9%A4%85) is *thin pancake*.",
+        "description": "Thin wheat flour pancakes. These are often used as wrappers with fillings, including Chinese-American mushu dishes, but also by themselves (sometimes listed as *roti*).\n\n**Characters**\n\n[薄](https://en.wiktionary.org/wiki/%E8%96%84) is *thin*, and [餅](https://en.wiktionary.org/wiki/%E8%96%84) refers specifically to Chinese wheat flour breads, but also generally to flat and circular foods like cakes and cookies (and not just foods, e.g. a discus is 鐵餅 tit béng). So [薄餅](https://en.wiktionary.org/wiki/%E8%96%84%E9%A4%85) is *thin pancake*.\n\nIn Cantonese, this word also refers to [pizza](https://en.wikipedia.org/wiki/Pizza).",
         "tags": [
             "餅",
             "素",
