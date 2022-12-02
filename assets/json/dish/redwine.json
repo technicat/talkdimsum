@@ -2,25 +2,24 @@
    {
       "words": [
          {
-            "Cantonese": "紅酒",
-            "Simplified": "红酒",
             "English": "red wine",
-            "Yale": "hùhng jáu",
-            "Pinyin": "hóng jiǔ",
-            "resources": [
-               {
-                  "name": "紅酒",
-                  "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E9%85%92"
-               },
-               {
-                  "name": "紅",
-                  "URL": "https://en.wiktionary.org/wiki/%E7%B4%85"
-               },
-               {
-                  "name": "酒",
-                  "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-               }
-            ]
+            "Cantonese": {
+               "text": "紅酒",
+               "wkty": [
+                  "紅酒",
+                  "紅",
+                  "酒"
+               ]
+            },
+            "Simplified": {
+               "text": "红酒",
+               "wkty": [
+                  "红酒",
+                  "红",
+                  "酒"
+               ]
+            },
+            "Pinyin": "hóng jiǔ"
          }
       ],
       "images": [
