@@ -50,37 +50,31 @@
     {
         "words": [
             {
-                "Cantonese": "素食蠔油",
-                "Simplified": "素食蚝油",
                 "English": "vegetarian oyster sauce",
+                "Cantonese": {
+                    "text": "素食蠔油",
+                    "wkty": [
+                        "素食",
+                        "素",
+                        "食",
+                        "蠔油",
+                        "蠔",
+                        "油"
+                    ]
+                },
                 "Yale": "sou sihk hòuh yàuh",
-                "Pinyin": "sù shí háo yóu",
-                "resources": [
-                    {
-                        "name": "素食",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F"
-                    },
-                    {
-                        "name": "素",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
-                    },
-                    {
-                        "name": "食",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%9F"
-                    },
-                    {
-                        "name": "蠔油",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9"
-                    },
-                    {
-                        "name": "蠔",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    }
-                ]
+                "Simplified": {
+                    "text": "素食蚝油",
+                    "wkty": [
+                        "素食",
+                        "素",
+                        "食",
+                        "蚝油",
+                        "蚝",
+                        "油"
+                    ]
+                },
+                "Pinyin": "sù shí háo yóu"
             }
         ],
         "images": [
