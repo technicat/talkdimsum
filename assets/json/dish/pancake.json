@@ -205,29 +205,27 @@
     {
         "words": [
             {
-                "Cantonese": "韭菜餅",
-                "Simplified": "韭菜饼",
                 "English": "chives pancake",
+                "Cantonese": {
+                    "text": "韭菜餅",
+                    "wkty": [
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "餅"
+                    ]
+                },
                 "Yale": "gáu choi béng",
-                "Pinyin": "jiǔ cài bǐng",
-                "resources": [
-                    {
-                        "name": "韭菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
-                    },
-                    {
-                        "name": "韭",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "韭菜饼",
+                    "wkty": [
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "饼"
+                    ]
+                },
+                "Pinyin": "jiǔ cài bǐng"
             }
         ],
         "images": [
