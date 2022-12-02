@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "煎腸粉",
-                "Simplified": "煎肠粉",
                 "English": "pan-fried rice roll",
+                "Cantonese": {
+                    "text": "煎腸粉",
+                    "wkty": [
+                        "煎",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "jīn chéung fán",
-                "Pinyin": "jiān cháng fěn",
-                "resources": [
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "煎肠粉",
+                    "wkty": [
+                        "煎",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "jiān cháng fěn"
             }
         ],
         "images": [
