@@ -45,29 +45,27 @@
     {
         "words": [
             {
-                "Cantonese": "蔥油餅",
-                "Simplified": "葱油饼",
                 "English": "scallion pancake",
+                "Cantonese": {
+                    "text": "蔥油餅",
+                    "wkty": [
+                        "蔥油餅",
+                        "蔥",
+                        "油",
+                        "餅"
+                    ]
+                },
                 "Yale": "chūng yòuh béng",
-                "Pinyin": "cōng yóu bǐng",
-                "resources": [
-                    {
-                        "name": "蔥油餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5%E6%B2%B9%E9%A4%85"
-                    },
-                    {
-                        "name": "蔥",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "葱油饼",
+                    "wkty": [
+                        "葱油餅",
+                        "葱",
+                        "油",
+                        "饼"
+                    ]
+                },
+                "Pinyin": "cōng yóu bǐng"
             }
         ],
         "images": [
