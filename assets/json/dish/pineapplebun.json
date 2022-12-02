@@ -102,33 +102,29 @@
   {
     "words": [
       {
-        "Cantonese": "菠蘿油",
-        "Simplified": "菠萝油",
         "English": "pineapple bun w/ butter",
+        "Cantonese": {
+          "text": "菠蘿油",
+          "wkty": [
+            "菠蘿包",
+            "菠蘿",
+            "菠",
+            "蘿",
+            "包"
+          ]
+        },
         "Yale": "bō lòh yàuh",
-        "Pinyin": "bō luó yóu",
-        "resources": [
-          {
-            "name": "菠蘿包",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%98%BF%E5%8C%85"
-          },
-          {
-            "name": "菠蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%98%BF"
-          },
-          {
-            "name": "菠",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "包",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-          }
-        ]
+        "Simplified": {
+          "text": "菠萝油",
+          "wkty": [
+            "菠萝包",
+            "菠萝",
+            "菠",
+            "萝",
+            "包"
+          ]
+        },
+        "Pinyin": "bō luó yóu"
       }
     ],
     "images": [
