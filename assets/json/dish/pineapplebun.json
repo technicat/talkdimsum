@@ -154,41 +154,33 @@
   {
     "words": [
       {
-        "Cantonese": "菠蘿流沙包",
-        "Simplified": "菠萝流沙包",
         "English": "pineapple lava custard bun",
+        "Cantonese": {
+          "text": "菠蘿流沙包",
+          "wkty": [
+            "菠蘿",
+            "菠",
+            "蘿",
+            "流沙",
+            "流",
+            "沙",
+            "包"
+          ]
+        },
         "Yale": "bō lòh làu sāa bāau",
-        "Pinyin": "bō luó liú shā bāo",
-        "resources": [
-          {
-            "name": "菠蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%98%BF"
-          },
-          {
-            "name": "菠",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "流沙",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%81%E6%B2%99"
-          },
-          {
-            "name": "流",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%81"
-          },
-          {
-            "name": "沙",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-          },
-          {
-            "name": "包",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-          }
-        ]
+        "Simplified": {
+          "text": "菠萝流沙包",
+          "wkty": [
+            "菠萝",
+            "菠",
+            "萝",
+            "流沙",
+            "流",
+            "沙",
+            "包"
+          ]
+        },
+        "Pinyin": "bō luó liú shā bāo"
       }
     ],
     "images": [
