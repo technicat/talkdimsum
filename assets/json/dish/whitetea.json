@@ -2,25 +2,18 @@
   {
     "words": [
       {
-        "Cantonese": "白茶",
         "English": "white tea",
+        "Cantonese": {
+          "text": "白茶",
+          "wkty": [
+            "白茶",
+            "白",
+            "茶"
+          ]
+        },
         "Yale": "baahk chàh",
         "Jyutping": "baak6 caa4",
-        "Pinyin": "bái chá",
-        "resources": [
-          {
-            "name": "白茶",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E8%8C%B6"
-          },
-          {
-            "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-          },
-          {
-            "name": "茶",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-          }
-        ]
+        "Pinyin": "bái chá"
       }
     ],
     "images": [
