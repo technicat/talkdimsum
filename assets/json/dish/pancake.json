@@ -2,25 +2,19 @@
     {
         "words": [
             {
-                "Cantonese": "薄餅",
-                "Simplified": "薄饼",
+                "Cantonese": {
+                    "text":"薄餅",
+                    "wkty": ["薄餅","薄","餅"
+                    ]
+                },
+                "Simplified": {
+                    "text":"薄饼",
+                    "wkty": ["薄饼","饼","饼"
+                ]
+            },
                 "English": "pancake",
                 "Yale": "bohk béng",
-                "Pinyin": "bǐng bǐng",
-                "resources": [
-                    {
-                        "name": "薄餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%96%84%E9%A4%85"
-                    },
-                    {
-                        "name": "薄",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%96%84"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Pinyin": "bǐng bǐng"
             }
         ],
         "images": [
