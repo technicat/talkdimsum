@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "蠔油",
-                "Simplified": "蚝油",
                 "English": "oyster sauce",
+                "Cantonese": {
+                    "text": "蠔油",
+                    "wkty": [
+                        "蠔油",
+                        "蠔",
+                        "油"
+                    ]
+                },
                 "Yale": "hòuh yàuh",
-                "Pinyin": "háo yóu",
-                "resources": [
-                    {
-                        "name": "蠔油",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9"
-                    },
-                    {
-                        "name": "蠔",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    }
-                ]
+                "Simplified": {
+                    "text": "蚝油",
+                    "wkty": [
+                        "蚝油",
+                        "蚝",
+                        "油"
+                    ]
+                },
+                "Pinyin": "háo yóu"
             }
         ],
         "images": [
@@ -115,7 +115,6 @@
                 "name": "Rabbits and Wolves",
                 "URL": "https://www.rabbitandwolves.com/vegan-oyster-sauce/"
             },
-            
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Oyster_sauce"
