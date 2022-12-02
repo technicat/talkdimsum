@@ -55,33 +55,29 @@
     {
         "words": [
             {
-                "Cantonese": "煎韭菜餃",
-                "Simplified": "煎韭菜饺",
                 "English": "pan-fried chive dumpling",
+                "Cantonese": {
+                    "text": "煎韭菜餃",
+                    "wkty": [
+                        "煎",
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "餃"
+                    ]
+                },
                 "Yale": "jīn gáu choi gáau",
-                "Pinyin": "jiān jiǔ cài jiǎo",
-                "resources": [
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "韭菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
-                    },
-                    {
-                        "name": "韭",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "煎韭菜饺",
+                    "wkty": [
+                        "煎",
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "饺"
+                    ]
+                },
+                "Pinyin": "jiān jiǔ cài jiǎo"
             }
         ],
         "images": [
