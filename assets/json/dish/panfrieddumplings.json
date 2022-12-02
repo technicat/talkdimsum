@@ -113,41 +113,33 @@
     {
         "words": [
             {
-                "Cantonese": "仿肉韭菜餃",
-                "Simplified": "仿肉韭菜饺",
                 "English": "vegan chive dumpling",
+                "Cantonese": {
+                    "text": "仿肉韭菜餃",
+                    "wkty": [
+                        "仿肉",
+                        "仿",
+                        "肉",
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "餃"
+                    ]
+                },
                 "Yale": "fóng yuhk gáu choi gáau",
-                "Pinyin": "ǎng ròu jiǔ cài jiǎo",
-                "resources": [
-                    {
-                        "name": "仿肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%BF%E8%82%89"
-                    },
-                    {
-                        "name": "仿",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%BF"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "韭菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
-                    },
-                    {
-                        "name": "韭",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "仿肉韭菜饺",
+                    "wkty": [
+                        "仿肉",
+                        "仿",
+                        "肉",
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "饺"
+                    ]
+                },
+                "Pinyin": "ǎng ròu jiǔ cài jiǎo"
             }
         ],
         "images": [
