@@ -52,26 +52,26 @@
   {
     "words": [
       {
-        "Cantonese": "壽眉",
-        "Simplified": "寿眉",
         "English": "sau-mei tea",
+        "Cantonese": {
+          "text": "壽眉",
+          "wkty": [
+            "壽眉",
+            "壽",
+            "眉"
+          ]
+        },
         "Yale": "sauh mèih",
         "Jyutping": "saau6 mei4",
-        "Pinyin": "shòu méi",
-        "resources": [
-          {
-            "name": "壽眉",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A3%BD%E7%9C%89"
-          },
-          {
-            "name": "壽",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A3%BD"
-          },
-          {
-            "name": "眉",
-            "URL": "https://en.wiktionary.org/wiki/%E7%9C%89"
-          }
-        ]
+        "Simplified": {
+          "text": "寿眉",
+          "wkty": [
+            "寿眉",
+            "寿",
+            "眉"
+          ]
+        },
+        "Pinyin": "shòu méi"
       }
     ],
     "images": [
