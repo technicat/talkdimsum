@@ -120,29 +120,29 @@
     {
         "words": [
             {
-                "Cantonese": "蓮蓉包",
-                "Simplified": "莲蓉包",
                 "English": "lotus seed bun",
+                "Cantonese": {
+                    "text": "蓮蓉包",
+                    "wkty": [
+                        "蓮蓉包",
+                        "蓮蓉",
+                        "蓮",
+                        "蓉",
+                        "包"
+                    ]
+                },
                 "Yale": "lìhn yùhng bāau",
-                "Pinyin": "lián róng bāo",
-                "resources": [
-                    {
-                        "name": "蓮蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
-                    },
-                    {
-                        "name": "蓮",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "莲蓉包",
+                    "wkty": [
+                        "莲蓉包",
+                        "莲蓉",
+                        "莲",
+                        "蓉",
+                        "包"
+                    ]
+                },
+                "Pinyin": "lián róng bāo"
             }
         ],
         "images": [
