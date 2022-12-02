@@ -3,27 +3,17 @@
         "words": [
             {
                 "English": "red bean paste bun",
-                "Cantonese": "豆沙包",
+                "Cantonese": {
+                    "text": "豆沙包",
+                    "wkty": [
+                        "豆沙",
+                        "豆",
+                        "沙",
+                        "包"
+                    ]
+                },
                 "Yale": "dauh sā bāau",
-                "Pinyin": "dòu shā bāo",
-                "resources": [
-                    {
-                        "name": "豆沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "dòu shā bāo"
             }
         ],
         "images": [
@@ -71,28 +61,18 @@
     {
         "words": [
             {
-                "Cantonese": "芝麻包",
                 "English": "sesame paste bun",
+                "Cantonese": {
+                    "text": "芝麻包",
+                    "wkty": [
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "包"
+                    ]
+                },
                 "Yale": "jī màh bāau",
-                "Pinyin": "zhī ma bāo",
-                "resources": [
-                    {
-                        "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "zhī ma bāo"
             }
         ],
         "images": [
