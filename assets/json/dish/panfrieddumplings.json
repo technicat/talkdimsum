@@ -179,25 +179,25 @@
     {
         "words": [
             {
-                "Cantonese": "鍋貼",
-                "Simplified": "锅贴",
                 "English": "potstickers",
+                "Cantonese": {
+                    "text": "鍋貼",
+                    "wkty": [
+                        "鍋貼",
+                        "鍋",
+                        "貼"
+                    ]
+                },
                 "Yale": "wō tip",
-                "Pinyin": "guō tiē",
-                "resources": [
-                    {
-                        "name": "鍋貼",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%8D%8B%E8%B2%BC"
-                    },
-                    {
-                        "name": "鍋",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%8D%8B"
-                    },
-                    {
-                        "name": "貼",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B2%BC"
-                    }
-                ]
+                "Simplified": {
+                    "text": "锅贴",
+                    "wkty": [
+                        "锅貼",
+                        "锅",
+                        "貼"
+                    ]
+                },
+                "Pinyin": "guō tiē"
             }
         ],
         "images": [
