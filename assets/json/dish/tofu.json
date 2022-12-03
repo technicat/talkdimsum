@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "豆腐",
                 "English": "tofu",
+                "Cantonese": {
+                    "text": "豆腐",
+                    "wkty": [
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
                 "Yale": "dauh fuh",
-                "Pinyin": "dòu fǔ",
-                "resources": [
-                    {
-                        "name": "豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    }
-                ]
+                "Pinyin": "dòu fǔ"
             }
         ],
         "images": [
