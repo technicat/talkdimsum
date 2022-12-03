@@ -2,30 +2,28 @@
     {
         "words": [
             {
-                "Cantonese": "中國茶",
-                "Simplified": "中国茶",
                 "English": "Chinese tea",
+                "Cantonese": {
+                    "text": "中國茶",
+                    "wkty": [
+                        "中國",
+                        "中",
+                        "國",
+                        "茶"
+                    ]
+                },
                 "Yale": "jūng gwok chàh",
                 "Jyutping": "zung1 gwok3 caa4",
-                "Pinyin": "zhōng guó chá",
-                "resources": [
-                    {
-                        "name": "中國",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%AD%E5%9C%8B"
-                    },
-                    {
-                        "name": "中",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%AD"
-                    },
-                    {
-                        "name": "國",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9C%8B"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "中国茶",
+                    "wkty": [
+                        "中国",
+                        "中",
+                        "国",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "zhōng guó chá"
             }
         ],
         "images": [
@@ -51,7 +49,7 @@
             },
             {
                 "name": "Babel Carp",
-                "URL":"https://babelcarp.org/babelcarp/"
+                "URL": "https://babelcarp.org/babelcarp/"
             },
             {
                 "name": "China Channel",
@@ -153,21 +151,11 @@
     {
         "words": [
             {
-                "Cantonese": "茶包",
                 "English": "teabag",
+                "Cantonese": "茶包",
                 "Yale": "chàh bāau",
                 "Jyutping": "caa4 bau1",
-                "Pinyin": "há bāo",
-                "resources": [
-                    {
-                        "name": "珠",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "há bāo"
             }
         ],
         "images": [
