@@ -142,7 +142,14 @@
         "words": [
             {
                 "English": "teabag",
-                "Cantonese": "茶包",
+                "Cantonese": {
+                    "text": "茶包",
+                    "wkty": [
+                        "茶包",
+                        "茶",
+                        "包"
+                    ]
+                },
                 "Yale": "chàh bāau",
                 "Jyutping": "caa4 bau1",
                 "Pinyin": "há bāo"
