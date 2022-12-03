@@ -13,7 +13,7 @@
                     ]
                 },
                 "Yale": "sīn juk gyún",
-                "Simplified":  {
+                "Simplified": {
                     "text": "鲜竹卷",
                     "wkty": [
                         "鮮竹捲",
@@ -59,33 +59,29 @@
     {
         "words": [
             {
-                "Cantonese": "腐皮捲",
-                "Simplified": "腐皮卷",
                 "English": "fried tofu skin roll",
+                "Cantonese": {
+                    "text": "腐皮捲",
+                    "wkty": [
+                        "腐皮捲",
+                        "腐皮",
+                        "腐",
+                        "皮",
+                        "捲"
+                    ]
+                },
                 "Yale": "fuh pèih gyún",
-                "Pinyin": "fǔ pí juǎn",
-                "resources": [
-                    {
-                        "name": "腐皮捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90%E7%9A%AE%E6%8D%B2"
-                    },
-                    {
-                        "name": "腐皮",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90%E7%9A%AE"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    },
-                    {
-                        "name": "皮",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Simplified": {
+                    "text": "腐皮卷",
+                    "wkty": [
+                        "腐皮卷",
+                        "腐皮",
+                        "腐",
+                        "皮",
+                        "捲"
+                    ]
+                },
+                "Pinyin": "fǔ pí juǎn"
             }
         ],
         "images": [
