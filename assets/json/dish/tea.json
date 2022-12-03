@@ -80,46 +80,36 @@
     {
         "words": [
             {
-                "Cantonese": "中國十大名茶",
-                "Simplified": "中國十大名茶",
                 "English": "famous teas",
+                "Cantonese": {
+                    "text": "中國十大名茶",
+                    "wkty": [
+                        "中國",
+                        "中",
+                        "國",
+                        "十",
+                        "大名",
+                        "大",
+                        "名",
+                        "茶"
+                    ]
+                },
                 "Yale": "jūng gwok sahp daaih mìhng chàh",
                 "Jyutping": "zung1 gwok3 sap6 daai6 ming4 caa4",
-                "Pinyin": "Zhōng guó shí dà míng chá",
-                "resources": [
-                    {
-                        "name": "中國",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%AD%E5%9C%8B"
-                    },
-                    {
-                        "name": "中",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%AD"
-                    },
-                    {
-                        "name": "國",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9C%8B"
-                    },
-                    {
-                        "name": "十",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%81"
-                    },
-                    {
-                        "name": "大名",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7%E5%90%8D"
-                    },
-                    {
-                        "name": "大",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A4%A7"
-                    },
-                    {
-                        "name": "名",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%90%8D"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "中国十大名茶",
+                    "wkty": [
+                        "中国",
+                        "中",
+                        "国",
+                        "十",
+                        "大名",
+                        "大",
+                        "名",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "Zhōng guó shí dà míng chá"
             }
         ],
         "images": [
