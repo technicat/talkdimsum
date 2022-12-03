@@ -46,7 +46,7 @@
                         "腐"
                     ]
                 },
-                "Simplified":  {
+                "Simplified": {
                     "text": "卤汁豆腐",
                     "wkty": [
                         "卤汁",
@@ -82,36 +82,20 @@
     {
         "words": [
             {
-                "Cantonese": "麻婆豆腐",
                 "English": "mapo tofu",
+                "Cantonese": {
+                    "text": "麻婆豆腐",
+                    "wkty": [
+                        "麻婆豆腐",
+                        "麻",
+                        "婆",
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
                 "Yale": "màh pòh dauh fuh",
-                "Pinyin": "má pó dòu fǔ",
-                "resources": [
-                    {
-                        "name": "麻婆豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "婆",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A9%86"
-                    },
-                    {
-                        "name": "豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    }
-                ]
+                "Pinyin": "má pó dòu fǔ"
             }
         ],
         "images": [
@@ -195,28 +179,18 @@
     {
         "words": [
             {
-                "Cantonese": "蛋豆腐",
                 "English": "egg tofu",
+                "Cantonese": {
+                    "text": "蛋豆腐",
+                    "wkty": [
+                        "蛋",
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
                 "Yale": "dáan dauh fuh",
-                "Pinyin": "dàn dòu fǔ",
-                "resources": [
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    }
-                ]
+                "Pinyin": "dàn dòu fǔ"
             }
         ],
         "images": [
@@ -225,7 +199,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "[Egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu) is made from eggs and soy milk, typically packaged as a tube (so it's often called *tofu scallops* due to how it's sliced). It has the consistency of silken tofu.\n\n**Origin**\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name 玉子豆腐, or in Chinese as 日本豆腐 (*Japan tofu*). However, the Japanese version is made from eggs and dashi.\n\n**Characters**\n\n[蛋](https://en.wiktionary.org/wiki/%E8%9B%8B) means *egg*, and [豆腐](https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90) is *tofu*, so 蛋豆腐 is *egg tofu*.",
+        "description": "[Egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu) is made from eggs and soy milk, typically packaged as a tube (so it's often called *tofu scallops* due to how it's sliced). It has the consistency of silken tofu.\n\n**Origin**\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name 玉子豆腐, or in Chinese as 日本豆腐 (*Japan tofu*). However, the Japanese version is made from eggs and dashi.\n\n**Characters**\n\n[蛋](https://en.wiktionary.org/wiki/%E8%9B%8B) is *egg*, and [豆腐](https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90) is *tofu*, so 蛋豆腐 is [egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu).",
         "tags": [
             "豆腐",
             "蛋"
