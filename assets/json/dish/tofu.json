@@ -35,37 +35,31 @@
     {
         "words": [
             {
-                "Cantonese": "滷汁豆腐",
-                "Simplified": "卤汁豆腐",
+                "Cantonese": {
+                    "text": "滷汁豆腐",
+                    "wkty": [
+                        "滷汁",
+                        "滷",
+                        "汁",
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
+                "Simplified":  {
+                    "text": "卤汁豆腐",
+                    "wkty": [
+                        "卤汁",
+                        "卤",
+                        "汁",
+                        "豆腐",
+                        "豆",
+                        "腐"
+                    ]
+                },
                 "English": "marinated tofu",
                 "Yale": "lóuh jāp dauh fuh",
-                "Pinyin": "lǔ zhī dòu fǔ",
-                "resources": [
-                    {
-                        "name": "滷汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7%E6%B1%81"
-                    },
-                    {
-                        "name": "滷",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BB%B7"
-                    },
-                    {
-                        "name": "汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B1%81"
-                    },
-                    {
-                        "name": "豆腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%85%90"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    }
-                ]
+                "Pinyin": "lǔ zhī dòu fǔ"
             }
         ],
         "images": [
