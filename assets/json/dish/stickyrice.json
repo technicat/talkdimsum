@@ -136,37 +136,33 @@
     {
         "words": [
             {
-                "Cantonese": "生炒糯米飯",
-                "Simplified": "生炒糯米饭",
                 "English": "stir-fried sticky rice",
+                "Cantonese": {
+                    "text": "生炒糯米飯",
+                    "wkty": [
+                        "生炒糯米飯",
+                        "生",
+                        "炒",
+                        "糯米",
+                        "糯",
+                        "米",
+                        "飯"
+                    ]
+                },
                 "Yale": "sāang cháau noh máih faahn",
-                "Pinyin": "shēng chǎo nuò mǐ fàn",
-                "resources": [
-                    {
-                        "name": "生",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
-                    },
-                    {
-                        "name": "炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-                    },
-                    {
-                        "name": "糯米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
-                    },
-                    {
-                        "name": "糯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF"
-                    },
-                    {
-                        "name": "米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "生炒糯米饭",
+                    "wkty": [
+                        "生炒糯米饭",
+                        "生",
+                        "炒",
+                        "糯米",
+                        "糯",
+                        "米",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "shēng chǎo nuò mǐ fàn"
             }
         ],
         "images": [
