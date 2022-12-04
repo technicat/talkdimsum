@@ -2,33 +2,29 @@
     {
         "words": [
             {
-                "Cantonese": "糯米雞",
-                "Simplified": "糯米鸡",
                 "English": "lotus leaf sticky rice",
+                "Cantonese": {
+                    "text": "糯米雞",
+                    "wkty": [
+                        "糯米雞",
+                        "糯米",
+                        "糯",
+                        "米",
+                        "雞"
+                    ]
+                },
                 "Yale": "noh mái gāi",
-                "Pinyin": "nuò mǐ jī",
-                "resources": [
-                    {
-                        "name": "糯米雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3%E9%9B%9E"
-                    },
-                    {
-                        "name": "糯米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
-                    },
-                    {
-                        "name": "糯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF"
-                    },
-                    {
-                        "name": "米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    }
-                ]
+                "Simplified": {
+                    "text": "糯米鸡",
+                    "wkty": [
+                        "糯米鸡",
+                        "糯米",
+                        "糯",
+                        "米",
+                        "鸡"
+                    ]
+                },
+                "Pinyin": "nuò mǐ jī"
             }
         ],
         "images": [
