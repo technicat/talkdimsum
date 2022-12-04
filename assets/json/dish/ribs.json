@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "排骨",
                 "English": "spare ribs",
+                "Cantonese": {
+                    "text": "排骨",
+                    "wkty": [
+                        "排骨",
+                        "排",
+                        "骨"
+                    ]
+                },
                 "Yale": "pàaih gwāt",
-                "Pinyin": "pái gǔ",
-                "resources": [
-                    {
-                        "name": "排骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92%E9%AA%A8"
-                    },
-                    {
-                        "name": "排",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    }
-                ]
+                "Pinyin": "pái gǔ"
             }
         ],
         "images": [
