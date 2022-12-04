@@ -76,25 +76,18 @@
     {
         "words": [
             {
-                "Cantonese": "粽",
-                "Mandarin": "粽子",
                 "English": "sticky rice dumpling",
+                "Cantonese": "粽",
                 "Yale": "jung",
-                "Pinyin": "zòng zi",
-                "resources": [
-                    {
-                        "name": "粽子",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%BD%E5%AD%90"
-                    },
-                    {
-                        "name": "粽",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%BD"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    }
-                ]
+                "Mandarin": {
+                    "text": "粽子",
+                    "wkty": [
+                        "粽子",
+                        "粽",
+                        "子"
+                    ]
+                },
+                "Pinyin": "zòng zi"
             }
         ],
         "images": [
