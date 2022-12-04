@@ -2,30 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "湯丸",
-                "Cantonese": "湯圓",
-                "Simplified": "汤圆",
                 "English": "rice balls",
+                "Cantonese": {
+                    "text": "湯圓",
+                    "wkty": [
+                        "湯圓",
+                        "湯",
+                        "圓"
+                    ]
+                },
                 "Yale": "tōng yún",
-                "Pinyin": "tāng yuán",
-                "resources": [
-                    {
-                        "name": "湯圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF%E5%9C%93"
-                    },
-                    {
-                        "name": "湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-                    },
-                    {
-                        "name": "圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9C%93"
-                    },
-                    {
-                        "name": "丸",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%B8"
-                    }
-                ]
+                "Simplified": {
+                    "text": "汤圆",
+                    "wkty": [
+                        "湯圓",
+                        "湯",
+                        "圓"
+                    ]
+                },
+                "Pinyin": "tāng yuán"
             }
         ],
         "images": [
@@ -34,7 +29,7 @@
                 "place": "Technicat, Las Vegas, Nevada"
             }
         ],
-        "description": "Boiled balls of glutinous rice with a sweet filling, such as black sesame seeds or crushed peanuts.\n\nThese are easy to find frozen in Asian grocery stores. To prepare, just boil a few minutes until they float!\n\n**Characters**\n\n[湯](https://en.wiktionary.org/wiki/%E6%B9%AF) is *soup*, and [圓](https://en.wiktionary.org/wiki/%E5%9C%93) means *ball* (sometimes [丸](https://en.wiktionary.org/wiki/%E4%B8%B8) is used with the same pronunciation and meaning).",
+        "description": "Boiled balls of glutinous rice with a sweet filling, such as black sesame seeds or crushed peanuts.\n\nThese are easy to find frozen in Asian grocery stores. To prepare, just boil a few minutes until they float!\n\n**Characters**\n\n[湯](https://en.wiktionary.org/wiki/%E6%B9%AF) is *soup*, and [圓](https://en.wiktionary.org/wiki/%E5%9C%93) means *ball* , so [湯圓](https://en.wiktionary.org/wiki/%E6%B9%AF%E5%9C%93) is *soup ball*.\n\nIn some Cantonese-speaking regions, [湯丸](https://en.wiktionary.org/wiki/%E6%B9%AF%E4%B8%B8) is used with the same pronunciation and meaning).",
         "tags": [
             "湯丸",
             "湯圓",
