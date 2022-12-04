@@ -118,45 +118,35 @@
     {
         "words": [
             {
-                "Cantonese": "鮮蝦腐皮捲",
-                "Simplified": "鲜虾腐皮卷",
                 "English": "fried tofu skin roll w/ shrimp",
+                "Cantonese": {
+                    "text": "鮮蝦腐皮捲",
+                    "wkty": [
+                        "鮮蝦",
+                        "鮮",
+                        "蝦",
+                        "腐皮捲",
+                        "腐皮",
+                        "腐",
+                        "皮",
+                        "捲"
+                    ]
+                },
                 "Yale": "sīn hā fuh pèih gyún",
-                "Pinyin": "xiān xiā fǔ pí juǎn",
-                "resources": [
-                    {
-                        "name": "鮮蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "腐皮捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90%E7%9A%AE%E6%8D%B2"
-                    },
-                    {
-                        "name": "腐皮",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90%E7%9A%AE"
-                    },
-                    {
-                        "name": "腐",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%90"
-                    },
-                    {
-                        "name": "皮",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%9A%AE"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鲜虾腐皮卷",
+                    "wkty": [
+                        "鲜虾",
+                        "鲜",
+                        "虾",
+                        "腐皮卷",
+                        "腐皮",
+                        "腐",
+                        "皮",
+                        "卷"
+                    ]
+                },
+                "Pinyin": "xiān xiā fǔ pí juǎn"
             }
         ],
         "images": [
