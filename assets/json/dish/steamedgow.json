@@ -6,13 +6,7 @@
                 "Simplified": "饺",
                 "English": "dumpling",
                 "Yale": "gáau",
-                "Pinyin": "jiǎo",
-                "resources": [
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Pinyin": "jiǎo"
             }
         ],
         "images": [
@@ -26,31 +20,30 @@
             "餃",
             "點心"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
             {
-                "Cantonese": "蝦餃",
-                "Simplified": "虾饺",
                 "English": "shrimp dumpling",
+                "Cantonese": {
+                    "text": "蝦餃",
+                    "wkty": [
+                        "蝦餃",
+                        "蝦",
+                        "餃"
+                    ]
+                },
                 "Yale": "hā gáau",
-                "Pinyin": "xiā jiǎo",
-                "resources": [
-                    {
-                        "name": "蝦餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6%E9%A4%83"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "虾饺",
+                    "wkty": [
+                        "虾饺",
+                        "虾",
+                        "饺"
+                    ]
+                },
+                "Pinyin": "xiā jiǎo"
             }
         ],
         "images": [
