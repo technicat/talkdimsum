@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "牛肚",
                 "English": "tripe",
+                "Cantonese": {
+                    "text": "牛肚",
+                    "wkty": [
+                        "牛肚",
+                        "牛",
+                        "肚"
+                    ]
+                },
                 "Yale": "ngàuh tóuh",
-                "Pinyin": "niú dǔ",
-                "resources": [
-                    {
-                        "name": "牛肚",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%9A"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "肚",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%9A"
-                    }
-                ]
+                "Pinyin": "niú dǔ"
             }
         ],
         "images": [
@@ -50,25 +43,25 @@
     {
         "words": [
             {
-                "Cantonese": "牛雜",
-                "Simplified": "牛杂",
                 "English": "tripe stew",
+                "Cantonese": {
+                    "text": "牛雜",
+                    "wkty": [
+                        "牛雜",
+                        "牛",
+                        "雜"
+                    ]
+                },
                 "Yale": "ngàuh jaahp",
-                "Pinyin": "niú zá",
-                "resources": [
-                    {
-                        "name": "牛雜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E9%9B%9C"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "雜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9C"
-                    }
-                ]
+                "Simplified": {
+                    "text": "牛杂",
+                    "wkty": [
+                        "牛杂",
+                        "牛",
+                        "杂"
+                    ]
+                },
+                "Pinyin": "niú zá"
             }
         ],
         "images": [
