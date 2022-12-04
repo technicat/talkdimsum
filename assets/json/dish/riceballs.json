@@ -84,46 +84,35 @@
     {
         "words": [
             {
-                "Cantonese": "黑芝麻湯圓",
-                "Mandarin": "黑芝麻湯圓",
-                "Simplified": "黑芝麻汤圆",
                 "English": "sesame rice balls",
+                "Cantonese": {
+                    "text": "黑芝麻湯圓",
+                    "wkty": [
+                        "黑芝麻",
+                        "黑",
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "湯圓",
+                        "湯",
+                        "圓"
+                    ]
+                },
                 "Yale": "hāk jī màh tōng yún",
-                "Pinyin": "hēi zhī ma tāng yuán",
-                "resources": [
-                    {
-                        "name": "黑芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "黑",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
-                    },
-                    {
-                        "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "湯圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF%E5%9C%93"
-                    },
-                    {
-                        "name": "湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-                    },
-                    {
-                        "name": "圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9C%93"
-                    }
-                ]
+                "Simplified": {
+                    "text": "黑芝麻汤圆",
+                    "wkty": [
+                        "黑芝麻",
+                        "黑",
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "汤圆",
+                        "汤",
+                        "圆"
+                    ]
+                },
+                "Pinyin": "hēi zhī ma tāng yuán"
             }
         ],
         "images": [
