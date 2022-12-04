@@ -118,37 +118,31 @@
   {
     "words": [
       {
-        "Cantonese": "煎蘿蔔糕",
-        "Simplified": "煎萝卜糕",
         "English": "pan-fried turnip cake",
+        "Cantonese": {
+          "text": "煎蘿蔔糕",
+          "wkty": [
+            "煎",
+            "蘿蔔糕",
+            "蘿蔔",
+            "蘿",
+            "蔔",
+            "糕"
+          ]
+        },
         "Yale": "jīn lò baahk gōu",
-        "Pinyin": "jiān luó bo gāo",
-        "resources": [
-          {
-            "name": "煎",
-            "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-          },
-          {
-            "name": "蘿蔔糕",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94%E7%B3%95"
-          },
-          {
-            "name": "蘿蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
-          },
-          {
-            "name": "糕",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-          }
-        ]
+        "Simplified": {
+          "text": "煎萝卜糕",
+          "wkty": [
+            "煎",
+            "萝卜糕",
+            "萝卜",
+            "萝",
+            "卜",
+            "糕"
+          ]
+        },
+        "Pinyin": "jiān luó bo gāo"
       }
     ],
     "images": [
