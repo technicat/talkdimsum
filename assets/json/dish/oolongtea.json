@@ -78,24 +78,17 @@
     {
         "words": [
             {
-                "Cantonese": "奶香",
                 "English": "milk oolong tea",
+                "Cantonese": {
+                    "text": "奶香",
+                    "wkty": [
+                        "奶香",
+                        "奶",
+                        "香"
+                    ]
+                },
                 "Yale": "náaih hēung",
-                "Pinyin": "nǎi xiāng",
-                "resources": [
-                    {
-                        "name": "奶香",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E9%A6%99"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "香",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-                    }
-                ]
+                "Pinyin": "nǎi xiāng"
             }
         ],
         "images": [

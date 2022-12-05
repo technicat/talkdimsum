@@ -142,34 +142,31 @@
     {
         "words": [
             {
-                "Cantonese": "牛肉捲餅",
-                "Simplified": "牛肉卷餅",
                 "English": "beef roll",
-                "Yale": "ngàuh yuhk",
-                "Jyutping": "ngau4 juk6",
-                "Pinyin": "niú ròu",
-                "resources": [
-                    {
-                        "name": "牛肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Cantonese": {
+                    "text": "牛肉卷餅",
+                    "wkty": [
+                        "牛肉",
+                        "牛",
+                        "肉",
+                        "卷餅",
+                        "卷",
+                        "餅"
+                    ]
+                },
+                "Yale": "ngàuh yuhk gyún béng",
+                "Simplified": {
+                    "text": "牛肉卷餅",
+                    "wkty": [
+                        "牛肉",
+                        "牛",
+                        "肉",
+                        "卷饼",
+                        "卷",
+                        "餅"
+                    ]
+                },
+                "Pinyin": "niú ròu juǎn bǐng"
             }
         ],
         "images": [
