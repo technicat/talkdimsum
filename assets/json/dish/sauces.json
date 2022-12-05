@@ -131,24 +131,17 @@
   {
     "words": [
       {
-        "Cantonese": "米醋",
         "English": "rice vinegar",
+        "Cantonese": {
+          "text": "米醋",
+          "wkty": [
+            "米醋",
+            "米",
+            "醋"
+          ]
+        },
         "Yale": "máih chou",
-        "Pinyin": "mǐ cù",
-        "resources": [
-          {
-            "name": "米醋",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3%E9%86%8B"
-          },
-          {
-            "name": "米",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-          },
-          {
-            "name": "醋",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%8B"
-          }
-        ]
+        "Pinyin": "mǐ cù"
       }
     ],
     "images": [
