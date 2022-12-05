@@ -3,23 +3,16 @@
     "words": [
       {
         "English": "rice wine",
-        "Cantonese": "米酒",
+        "Cantonese": {
+          "text": "米酒",
+          "wkty": [
+            "米酒",
+            "米",
+            "酒"
+          ]
+        },
         "Yale": "máih jáu",
-        "Pinyin": "mǐ jiǔ",
-        "resources": [
-          {
-            "name": "米酒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3%E9%85%92"
-          },
-          {
-            "name": "米",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-          },
-          {
-            "name": "酒",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-          }
-        ]
+        "Pinyin": "mǐ jiǔ"
       }
     ],
     "images": [
@@ -49,37 +42,36 @@
     "words": [
       {
         "English": "Shiaoxing wine",
-        "Cantonese": "紹酒",
+        "Cantonese": {
+          "text": "紹酒",
+          "wkty": [
+            "紹酒",
+            "紹",
+            "酒"
+          ]
+        },
         "Yale": "siuh jáu",
-        "Mandarin": "紹興酒",
-        "Simplified": "绍兴酒",
-        "Pinyin": "shào xīng jiǔ",
-        "resources": [
-          {
-            "name": "紹興酒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B4%B9%E8%88%88%E9%85%92"
-          },
-          {
-            "name": "紹酒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B4%B9%E9%85%92"
-          },
-          {
-            "name": "紹興",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B4%B9%E8%88%88"
-          },
-          {
-            "name": "紹",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B4%B9"
-          },
-          {
-            "name": "興",
-            "URL": "https://en.wiktionary.org/wiki/%E8%88%88"
-          },
-          {
-            "name": "酒",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-          }
-        ]
+        "Mandarin": {
+          "text": "紹興酒",
+          "wkty": [
+            "紹興酒",
+            "紹興",
+            "紹",
+            "興",
+            "酒"
+          ]
+        },
+        "Simplified":  {
+          "text": "绍兴酒",
+          "wkty": [
+            "绍兴酒",
+            "绍兴",
+            "绍",
+            "兴",
+            "酒"
+          ]
+        },
+        "Pinyin": "shào xīng jiǔ"
       }
     ],
     "images": [
