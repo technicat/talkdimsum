@@ -131,29 +131,27 @@
     {
         "words": [
             {
-                "Cantonese": "包種茶",
-                "Simplified": "包种茶",
                 "English": "baozhong tea",
+                "Cantonese": {
+                    "text": "包種茶",
+                    "wkty": [
+                        "包種茶",
+                        "包",
+                        "種",
+                        "茶"
+                    ]
+                },
                 "Yale": "bāau júng chàh",
-                "Pinyin": "bāo zhǒng chá",
-                "resources": [
-                    {
-                        "name": "包種茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85%E7%A8%AE%E8%8C%B6"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    },
-                    {
-                        "name": "種",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%A8%AE"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "包种茶",
+                    "wkty": [
+                        "包种茶",
+                        "包",
+                        "种",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "bāo zhǒng chá"
             }
         ],
         "images": [
