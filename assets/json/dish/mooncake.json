@@ -74,37 +74,31 @@
    {
       "words": [
          {
-            "Cantonese": "紅豆月餅",
-            "Simplified": "红豆月饼",
             "English": "red bean moon cake",
+            "Cantonese": {
+               "text": "紅豆月餅",
+               "wkty": [
+                  "紅豆",
+                  "紅",
+                  "豆",
+                  "月餅",
+                  "月",
+                  "餅"
+               ]
+            },
             "Yale": "hùhng dáu yuht béng",
-            "Pinyin": "hóng dòu yuè bǐng",
-            "resources": [
-               {
-                  "name": "紅豆",
-                  "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E8%B1%86"
-               },
-               {
-                  "name": "紅",
-                  "URL": "https://en.wiktionary.org/wiki/%E7%B4%85"
-               },
-               {
-                  "name": "豆",
-                  "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-               },
-               {
-                  "name": "月餅",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%9C%88%E9%A4%85"
-               },
-               {
-                  "name": "月",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%9C%88"
-               },
-               {
-                  "name": "餅",
-                  "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-               }
-            ]
+            "Simplified": {
+               "text": "红豆月饼",
+               "wkty": [
+                  "红豆",
+                  "红",
+                  "豆",
+                  "月饼",
+                  "月",
+                  "饼"
+               ]
+            },
+            "Pinyin": "hóng dòu yuè bǐng"
          }
       ],
       "images": [
