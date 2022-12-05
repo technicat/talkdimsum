@@ -43,37 +43,21 @@
     {
         "words": [
             {
-                "Cantonese": "蒜蓉菠菜",
                 "English": "spinach in garlic",
+                "Cantonese": {
+                    "text": "蒜蓉菠菜",
+                    "wkty": [
+                        "蒜蓉",
+                        "蒜",
+                        "蓉",
+                        "菠菜",
+                        "菠",
+                        "菜"
+                    ]
+                },
                 "Yale": "syun yùhng bō choi",
                 "Jyutping": "syun3 jung4 bo1 coi3",
-                "Pinyin": "suàn róng bō cài",
-                "resources": [
-                    {
-                        "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "菠菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "菠",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "suàn róng bō cài"
             }
         ],
         "images": [
