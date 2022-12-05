@@ -158,53 +158,25 @@
     {
         "words": [
             {
-                "Cantonese": "午餐肉蛋三文治",
                 "English": "spam and egg sandwich",
+                "Cantonese": {
+                    "text": "午餐肉蛋三文治",
+                    "wkty": [
+                        "午餐肉",
+                        "午餐",
+                        "午",
+                        "餐",
+                        "肉",
+                        "蛋",
+                        "三文治",
+                        "三",
+                        "文",
+                        "治"
+                    ]
+                },
                 "Yale": "ńgh chāan yuhk dáan sāam màhn jih",
                 "Jyutping": "ng5 caan1 juk6 daan2 saam1 man4 zi6",
-                "Pinyin": "wǔ cān ròu dàn sān wén zhì",
-                "resources": [
-                    {
-                        "name": "午餐肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90%E8%82%89"
-                    },
-                    {
-                        "name": "午餐",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%88%E9%A4%90"
-                    },
-                    {
-                        "name": "午",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8D%88"
-                    },
-                    {
-                        "name": "餐",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%90"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "三文治",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89%E6%96%87%E6%B2%BB"
-                    },
-                    {
-                        "name": "三",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89"
-                    },
-                    {
-                        "name": "文",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%96%87"
-                    },
-                    {
-                        "name": "治",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%BB"
-                    }
-                ]
+                "Pinyin": "wǔ cān ròu dàn sān wén zhì"
             }
         ],
         "images": [
