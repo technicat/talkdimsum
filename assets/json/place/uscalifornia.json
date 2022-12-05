@@ -556,7 +556,7 @@
                     "URL": "https://www.yelp.com/biz/crystal-dumplings-garden-grove"
                 }
             ],
-            "lat": 33.77362469183653, 
+            "lat": 33.77362469183653,
             "lon": -117.97117964449566,
             "city": "Garden Grove",
             "address": "9240 Garden Grove Blvd Ste 12 Garden Grove, CA 92844"
@@ -807,7 +807,7 @@
                     "URL": "https://www.yelp.com/biz/longs-family-pastry-los-angeles-4"
                 }
             ],
-            "lat": 34.06052382267179, 
+            "lat": 34.06052382267179,
             "lon": -118.23785111565219,
             "city": "Los Angeles",
             "address": "715 N Spring St Los Angeles, CA 90012"
@@ -1360,7 +1360,7 @@
                 }
             ],
             "lat": 33.99581096200908,
-            "lon":  -117.90019298867023,
+            "lon": -117.90019298867023,
             "city": "Rowland Heights",
             "address": "18518 E Gale Ave Rowland Heights, CA 91748"
         },
@@ -1377,7 +1377,7 @@
                 }
             ],
             "lat": 38.496969519537295,
-            "lon":   -121.50941268669641,
+            "lon": -121.50941268669641,
             "city": "Sacramento",
             "address": "1309 Florin Rd Ste F Sacramento, CA 95831"
         },
@@ -1390,7 +1390,7 @@
                 }
             ],
             "lat": 38.485844533048834,
-            "lon":  -121.53456064436882,
+            "lon": -121.53456064436882,
             "city": "Sacramento",
             "address": "7585 Rush River Dr Ste 680 The Promenade Shopping Center Sacramento, CA 95831"
         },
@@ -1575,7 +1575,7 @@
                 }
             ],
             "lat": 32.747961452683995,
-            "lon":  -117.07890320219337,
+            "lon": -117.07890320219337,
             "city": "San Diego",
             "address": "3993 54th St San Diego, CA 92105"
         },
@@ -2424,7 +2424,7 @@
                 }
             ],
             "lat": 37.53853305680313,
-            "lon":  -122.30221068672334,
+            "lon": -122.30221068672334,
             "city": "San Mateo",
             "address": "48 Hillsdale Mall San Mateo, CA 94403"
         },
@@ -2661,6 +2661,19 @@
             "lon": -118.435730,
             "city": "West Los Angeles",
             "address": "1822 Westwood Blvd, West Los Angeles, CA 90025"
+        },
+        {
+            "title": "Dim Sum",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/261-dim-sum-westminster"
+                }
+            ],
+            "lat": 33.74366497913424,
+            "lon": -117.96864094449631,
+            "city": "Westminster",
+            "address": "9200 Bolsa Ave Ste 302 Westminster, CA 92683"
         },
         {
             "title": "The Dim Sum Co.",
