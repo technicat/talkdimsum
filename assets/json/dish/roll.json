@@ -2,25 +2,11 @@
     {
         "words": [
             {
-                "Cantonese": "炸蝦捲",
-                "Simplified": "炸虾卷",
                 "English": "fried shrimp roll",
+                "Cantonese": "炸蝦捲",
                 "Yale": "ja hā gyún",
-                "Pinyin": "zhà xiā juǎn",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Simplified": "炸虾卷",
+                "Pinyin": "zhà xiā juǎn"
             }
         ],
         "images": [
@@ -48,33 +34,20 @@
     {
         "words": [
             {
-                "Cantonese": "炸海菜捲",
-                "Simplified": "炸海菜卷",
                 "English": "deep-fried seaweed roll",
+                "Cantonese": {
+                    "text": "炸海菜捲",
+                    "wkty": [
+                        "炸",
+                        "海菜",
+                        "海",
+                        "菜",
+                        "捲"
+                    ]
+                },
+                "Simplified": "炸海菜卷",
                 "Yale": "ja hói choi gyún",
-                "Pinyin": "zhà hǎi cài juǎn",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "海菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E8%8F%9C"
-                    },
-                    {
-                        "name": "海",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Pinyin": "zhà hǎi cài juǎn"
             }
         ],
         "images": [
