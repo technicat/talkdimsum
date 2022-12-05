@@ -2,36 +2,20 @@
   {
     "words": [
       {
-        "Cantonese": "海草沙律",
         "English": "seaweed salad",
+        "Cantonese": {
+          "text": "海草沙律",
+          "wkty": [
+            "海草",
+            "海",
+            "草",
+            "沙律",
+            "沙",
+            "律"
+          ]
+        },
         "Yale": "hói cho sà léut",
-        "Pinyin": "hǎi cǎo shā lǜ",
-        "resources": [
-          {
-            "name": "海草",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E8%8D%89"
-          },
-          {
-            "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-          },
-          {
-            "name": "草",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8D%89"
-          },
-          {
-            "name": "沙律",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%99%E5%BE%8B"
-          },
-          {
-            "name": "沙",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-          },
-          {
-            "name": "律",
-            "URL": "https://en.wiktionary.org/wiki/%E5%BE%8B"
-          }
-        ]
+        "Pinyin": "hǎi cǎo shā lǜ"
       }
     ],
     "images": [
@@ -57,37 +41,31 @@
   {
     "words": [
       {
-        "Cantonese": "涼拌海蜇",
-        "Simplified": "凉拌海蜇",
         "English": "jellyfish salad",
+        "Cantonese": {
+          "text": "涼拌海蜇",
+          "wkty": [
+            "涼拌",
+            "涼",
+            "拌",
+            "海蜇",
+            "海",
+            "蜇"
+          ]
+        },
+        "Simplified":  {
+          "text": "凉拌海蜇",
+          "wkty": [
+            "凉拌",
+            "凉",
+            "拌",
+            "海蜇",
+            "海",
+            "蜇"
+          ]
+        },
         "Yale": "lèuhng buhn hói jit",
-        "Pinyin": "liáng bàn hǎi lǜ",
-        "resources": [
-          {
-            "name": "涼拌",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B6%BC%E6%8B%8C"
-          },
-          {
-            "name": "涼",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B6%BC"
-          },
-          {
-            "name": "拌",
-            "URL": "https://en.wiktionary.org/wiki/%E6%8B%8C"
-          },
-          {
-            "name": "海蜇",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E8%9C%87"
-          },
-          {
-            "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-          },
-          {
-            "name": "蜇",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9C%87"
-          }
-        ]
+        "Pinyin": "liáng bàn hǎi lǜ"
       }
     ],
     "images": [
