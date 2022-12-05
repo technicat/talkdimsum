@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "年糕",
                 "English": "New Year cake",
+                "Cantonese": {
+                    "text": "年糕",
+                    "wkty": [
+                        "年糕",
+                        "年",
+                        "糕"
+                    ]
+                },
                 "Yale": "nìhn gōu",
-                "Pinyin": "nián gāo",
-                "resources": [
-                    {
-                        "name": "年糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B9%B4%E7%B3%95"
-                    },
-                    {
-                        "name": "年",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B9%B4"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Pinyin": "nián gāo"
             }
         ],
         "images": [
@@ -74,28 +67,18 @@
     {
         "words": [
             {
-                "Cantonese": "炒年糕",
                 "English": "stir-fried rice cake",
+                "Cantonese": {
+                    "text": "炒年糕",
+                    "wkty": [
+                        "炒",
+                        "年糕",
+                        "年",
+                        "糕"
+                    ]
+                },
                 "Yale": "cháau nìhn gōu",
-                "Pinyin": "chǎo nián gāo",
-                "resources": [
-                    {
-                        "name": "炒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-                    },
-                    {
-                        "name": "年糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B9%B4%E7%B3%95"
-                    },
-                    {
-                        "name": "年",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B9%B4"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    }
-                ]
+                "Pinyin": "chǎo nián gāo"
             }
         ],
         "images": [
