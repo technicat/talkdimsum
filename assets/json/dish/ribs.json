@@ -31,36 +31,20 @@
     {
         "words": [
             {
-                "Cantonese": "豉汁蒸排骨",
                 "English": "spare ribs in black bean sauce",
+                "Cantonese": {
+                    "text": "豉汁蒸排骨",
+                    "wkty": [
+                        "豉汁",
+                        "豉",
+                        "汁",
+                        "排骨",
+                        "排",
+                        "骨"
+                    ]
+                },
                 "Yale": "sih jāp jīng pàaih gwāt",
-                "Pinyin": "chǐ zhī zhēng pái gǔ",
-                "resources": [
-                    {
-                        "name": "豉汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B1%81"
-                    },
-                    {
-                        "name": "豉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
-                    },
-                    {
-                        "name": "汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B1%81"
-                    },
-                    {
-                        "name": "排骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92%E9%AA%A8"
-                    },
-                    {
-                        "name": "排",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    }
-                ]
+                "Pinyin": "chǐ zhī zhēng pái gǔ"
             }
         ],
         "images": [
