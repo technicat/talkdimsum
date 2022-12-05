@@ -60,33 +60,29 @@
     {
         "words": [
             {
-                "Cantonese": "炸蝦雲吞",
-                "Simplified": "炸虾云吞",
                 "English": "fried shrimp wonton",
+                "Cantonese": {
+                    "text": "炸蝦雲吞",
+                    "wkty": [
+                        "炸",
+                        "蝦",
+                        "雲吞",
+                        "雲",
+                        "吞"
+                    ]
+                },
                 "Yale": "ja hā wàhn tān",
-                "Pinyin": "zhà xiā yún tūn",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "雲吞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2%E5%90%9E"
-                    },
-                    {
-                        "name": "雲",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%B2"
-                    },
-                    {
-                        "name": "吞",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%90%9E"
-                    }
-                ]
+                "Simplified": {
+                    "text": "炸虾云吞",
+                    "wkty": [
+                        "炸",
+                        "虾",
+                        "云吞",
+                        "云",
+                        "吞"
+                    ]
+                },
+                "Pinyin": "zhà xiā yún tūn"
             }
         ],
         "images": [
