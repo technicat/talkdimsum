@@ -61,32 +61,19 @@
     {
         "words": [
             {
-                "Cantonese": "茉莉蜜茶",
                 "English": "jasmine honey tea",
+                "Cantonese": {
+                    "text": "茉莉蜜茶",
+                    "wkty": [
+                        "茉莉",
+                        "茉",
+                        "莉",
+                        "蜜",
+                        "茶"
+                    ]
+                },
                 "Yale": "muht léi maht chàh",
-                "Pinyin": "mò li mì chá",
-                "resources": [
-                    {
-                        "name": "茉莉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%89%E8%8E%89"
-                    },
-                    {
-                        "name": "茉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%89"
-                    },
-                    {
-                        "name": "莉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8E%89"
-                    },
-                    {
-                        "name": "蜜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9C%9C"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "mò li mì chá"
             }
         ],
         "images": [
@@ -115,32 +102,19 @@
     {
         "words": [
             {
-                "Cantonese": "菊花茶",
                 "English": "chrysanthemum tea",
+                "Cantonese": {
+                    "text": "菊花茶",
+                    "wkty": [
+                        "菊花茶",
+                        "菊花",
+                        "菊",
+                        "花",
+                        "茶"
+                    ]
+                },
                 "Yale": "gūk fā chàh",
-                "Pinyin": "jú huā chá",
-                "resources": [
-                    {
-                        "name": "菊花茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%8A%E8%8A%B1%E8%8C%B6"
-                    },
-                    {
-                        "name": "菊花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%8A%E8%8A%B1"
-                    },
-                    {
-                        "name": "菊",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%8A"
-                    },
-                    {
-                        "name": "花",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "jú huā chá"
             }
         ],
         "images": [
@@ -178,32 +152,19 @@
     {
         "words": [
             {
-                "Cantonese": "普洱茶",
                 "English": "Pu'er tea",
+                "Cantonese": {
+                    "text": "普洱茶",
+                    "wkty": [
+                        "普洱茶",
+                        "普洱",
+                        "普",
+                        "洱",
+                        "茶"
+                    ]
+                },
                 "Yale": "póu néi chàh",
-                "Pinyin": "pǔ ěr chá",
-                "resources": [
-                    {
-                        "name": "普洱茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1%E8%8C%B6"
-                    },
-                    {
-                        "name": "普洱",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%99%AE%E6%B4%B1"
-                    },
-                    {
-                        "name": "普",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%99%AE"
-                    },
-                    {
-                        "name": "洱",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B4%B1"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "pǔ ěr chá"
             }
         ],
         "images": [
@@ -257,28 +218,18 @@
     {
         "words": [
             {
-                "Cantonese": "菊普",
                 "English": "chrysanthemum Pu'er tea",
+                "Cantonese": {
+                    "text": "菊普",
+                    "wkty": [
+                        "菊普",
+                        "菊",
+                        "普",
+                        "茶"
+                    ]
+                },
                 "Yale": "gūk póu",
-                "Pinyin": "jú pǔ",
-                "resources": [
-                    {
-                        "name": "菊普",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%8A%E6%99%AE"
-                    },
-                    {
-                        "name": "菊",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%8A"
-                    },
-                    {
-                        "name": "普",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%99%AE"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "jú pǔ"
             }
         ],
         "images": [
@@ -309,28 +260,18 @@
     {
         "words": [
             {
-                "Cantonese": "荔枝茶",
                 "English": "lychee tea",
+                "Cantonese": {
+                    "text": "荔枝茶",
+                    "wkty": [
+                        "荔枝",
+                        "荔",
+                        "枝",
+                        "茶"
+                    ]
+                },
                 "Yale": "laih jī chàh",
-                "Pinyin": "lì zhī chá",
-                "resources": [
-                    {
-                        "name": "荔枝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8D%94%E6%9E%9D"
-                    },
-                    {
-                        "name": "荔",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8D%94"
-                    },
-                    {
-                        "name": "枝",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%9E%9D"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "lì zhī chá"
             }
         ],
         "images": [
