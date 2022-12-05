@@ -162,41 +162,22 @@
     {
         "words": [
             {
-                "Cantonese": "波霸奶茶",
                 "English": "boba milk tea",
+                "Cantonese": {
+                    "text": "波霸奶茶",
+                    "wkty": [
+                        "波霸奶茶",
+                        "波霸",
+                        "波",
+                        "霸",
+                        "奶茶",
+                        "奶",
+                        "茶"
+                    ]
+                },
                 "Yale": "bō ba náaih chàh",
                 "Jyutping": "bo1 baa3 naai6 caa4",
-                "Pinyin": "bō bà nǎi chá",
-                "resources": [
-                    {
-                        "name": "波霸奶茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B3%A2%E9%9C%B8%E5%A5%B6%E8%8C%B6"
-                    },
-                    {
-                        "name": "波霸",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B3%A2%E9%9C%B8"
-                    },
-                    {
-                        "name": "波",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    },
-                    {
-                        "name": "霸",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9C%B8"
-                    },
-                    {
-                        "name": "奶茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E8%8C%B6"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "bō bà nǎi chá"
             }
         ],
         "images": [
@@ -228,36 +209,20 @@
     {
         "words": [
             {
-                "Cantonese": "黑糖奶茶",
                 "English": "brown sugar milk tea",
+                "Cantonese": {
+                    "text": "黑糖奶茶",
+                    "wkty": [
+                        "黑糖",
+                        "黑",
+                        "糖",
+                        "奶茶",
+                        "奶",
+                        "茶"
+                    ]
+                },
                 "Yale": "hāk tòhng náaih chàh",
-                "Pinyin": "hēi táng nǎi chá",
-                "resources": [
-                    {
-                        "name": "黑糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E7%B3%96"
-                    },
-                    {
-                        "name": "黑",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
-                    },
-                    {
-                        "name": "糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
-                    },
-                    {
-                        "name": "奶茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E8%8C%B6"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "hēi táng nǎi chá"
             }
         ],
         "images": [
