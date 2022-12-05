@@ -49,41 +49,33 @@
     {
         "words": [
             {
-                "Cantonese": "清湯牛腩粉",
-                "Simplified": "清汤牛腩粉",
                 "English": "beef brisket and noodles in clear broth",
+                "Cantonese": {
+                    "text": "清湯牛腩粉",
+                    "wkty": [
+                        "清湯",
+                        "清",
+                        "湯",
+                        "牛腩",
+                        "牛",
+                        "腩",
+                        "粉"
+                    ]
+                },
                 "Yale": "chīng tōng ngàuh náahm fán",
-                "Pinyin": "qīng tāng niú nǎn fěn",
-                "resources": [
-                    {
-                        "name": "清湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%85%E6%B9%AF"
-                    },
-                    {
-                        "name": "清",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%85"
-                    },
-                    {
-                        "name": "湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-                    },
-                    {
-                        "name": "牛腩",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%85%A9"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "腩",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%A9"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "清汤牛腩粉",
+                    "wkty": [
+                        "清湯",
+                        "清",
+                        "湯",
+                        "牛腩",
+                        "牛",
+                        "腩",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "qīng tāng niú nǎn fěn"
             }
         ],
         "images": [
