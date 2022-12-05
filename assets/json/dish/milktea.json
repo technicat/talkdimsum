@@ -2,24 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "奶茶",
                 "English": "milk tea",
+                "Cantonese": {
+                    "text": "奶茶",
+                    "wkty": [
+                        "奶茶",
+                        "奶",
+                        "茶"
+                    ]
+                },
                 "Yale": "náaih chàh",
-                "Pinyin": "nǎi chá",
-                "resources": [
-                    {
-                        "name": "奶茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E8%8C%B6"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "nǎi chá"
             }
         ],
         "images": [
@@ -52,36 +45,20 @@
     {
         "words": [
             {
-                "Cantonese": "港式奶茶",
                 "English": "Hong Kong-style milk tea",
+                "Cantonese": {
+                    "text": "港式奶茶",
+                    "wkty": [
+                        "港式",
+                        "港",
+                        "式",
+                        "奶茶",
+                        "奶",
+                        "茶"
+                    ]
+                },
                 "Yale": "góng sīk náaih chàh",
-                "Pinyin": "gǎng shì nǎi chá",
-                "resources": [
-                    {
-                        "name": "港式",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF%E5%BC%8F"
-                    },
-                    {
-                        "name": "港",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B8%AF"
-                    },
-                    {
-                        "name": "式",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
-                    },
-                    {
-                        "name": "奶茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6%E8%8C%B6"
-                    },
-                    {
-                        "name": "奶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A5%B6"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Pinyin": "gǎng shì nǎi chá"
             }
         ],
         "images": [
@@ -125,25 +102,25 @@
     {
         "words": [
             {
-                "Cantonese": "鴛鴦",
-                "Simplified": "鸳鸯",
                 "English": "coffee with tea",
+                "Cantonese": {
+                    "text": "鴛鴦",
+                    "wkty": [
+                        "鴛鴦",
+                        "鴛",
+                        "鴦"
+                    ]
+                },
                 "Yale": "yūn yēung",
-                "Pinyin": "yuān yāng",
-                "resources": [
-                    {
-                        "name": "鴛鴦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B4%9B%E9%B4%A6"
-                    },
-                    {
-                        "name": "鴛",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B4%9B"
-                    },
-                    {
-                        "name": "鴦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B4%A6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鸳鸯",
+                    "wkty": [
+                        "鴛鴦",
+                        "鴛",
+                        "鴦"
+                    ]
+                },
+                "Pinyin": "yuān yāng"
             }
         ],
         "images": [
