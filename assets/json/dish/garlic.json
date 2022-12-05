@@ -84,37 +84,21 @@
     {
         "words": [
             {
-                "Cantonese": "蒜蓉白菜",
                 "English": "bok choy in garlic",
+                "Cantonese": {
+                    "text": "蒜蓉白菜",
+                    "wkty": [
+                        "蒜蓉",
+                        "蒜",
+                        "蓉",
+                        "白菜",
+                        "白",
+                        "菜"
+                    ]
+                },
                 "Yale": "syun yùhng baahk choi",
                 "Jyutping": "syun3 jung4 baak6 coi3",
-                "Pinyin": "suàn róng bái cài",
-                "resources": [
-                    {
-                        "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "白菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E8%93%89"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "suàn róng bái cài"
             }
         ],
         "images": [
