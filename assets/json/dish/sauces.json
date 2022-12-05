@@ -43,33 +43,29 @@
   {
     "words": [
       {
-        "Cantonese": "海鮮醬",
-        "Simplified": "海鮮酱",
         "English": "hoisin sauce",
+        "Cantonese": {
+          "text": "海鮮醬",
+          "wkty": [
+            "海鮮醬",
+            "海鮮",
+            "海",
+            "鮮",
+            "醬"
+          ]
+        },
         "Yale": "hói sīn jeung",
-        "Pinyin": "hǎi xiān jiàng",
-        "resources": [
-          {
-            "name": "海鮮醬",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE%E9%86%AC"
-          },
-          {
-            "name": "海鮮",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE"
-          },
-          {
-            "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-          },
-          {
-            "name": "鮮",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          }
-        ]
+        "Simplified": {
+          "text": "海鲜酱",
+          "wkty": [
+            "海鲜酱",
+            "海鲜",
+            "海",
+            "鲜",
+            "酱"
+          ]
+        },
+        "Pinyin": "hǎi xiān jiàng"
       }
     ],
     "images": [
@@ -95,21 +91,23 @@
   {
     "words": [
       {
-        "Cantonese": "XO醬",
-        "Simplified": "XO酱",
         "English": "XO sauce",
+        "Cantonese": {
+          "text": "XO醬",
+          "wkty": [
+            "XO醬",
+            "醬"
+          ]
+        },
         "Yale": "XO jeung",
-        "Pinyin": "XO jiàng",
-        "resources": [
-          {
-            "name": "XO醬",
-            "URL": "https://en.wiktionary.org/wiki/XO%E9%86%AC"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          }
-        ]
+        "Simplified": {
+          "text": "XO酱",
+          "wkty": [
+            "XO酱",
+            "酱"
+          ]
+        },
+        "Pinyin": "XO jiàng"
       }
     ],
     "images": [
