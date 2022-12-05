@@ -130,37 +130,21 @@
     {
         "words": [
             {
-                "Cantonese": "蒜蓉菜心",
                 "English": "choy sum in garlic",
+                "Cantonese": {
+                    "text": "蒜蓉菜心",
+                    "wkty": [
+                        "蒜蓉",
+                        "蒜",
+                        "蓉",
+                        "菜心",
+                        "菜",
+                        "心"
+                    ]
+                },
                 "Yale": "syun yùhng choi sām",
                 "Jyutping": "syun3 jung4 coi3 sam1",
-                "Pinyin": "suàn róng cài xīn",
-                "resources": [
-                    {
-                        "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "菜心",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C%E5%BF%83"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "心",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BF%83"
-                    }
-                ]
+                "Pinyin": "suàn róng cài xīn"
             }
         ],
         "images": [
@@ -191,37 +175,21 @@
     {
         "words": [
             {
-                "Cantonese": "蒜蓉蕹菜",
                 "English": "ong choy in garlic",
+                "Cantonese": {
+                    "text": "蒜蓉蕹菜",
+                    "wkty": [
+                        "蒜蓉",
+                        "蒜",
+                        "蓉",
+                        "蕹菜",
+                        "蕹",
+                        "菜"
+                    ]
+                },
                 "Yale": "syun yùhng ung choi",
                 "Jyutping": "syun3 jung4 ung3 coi3",
-                "Pinyin": "suàn róng wèng cài",
-                "resources": [
-                    {
-                        "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "蕹菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%95%B9%E8%8F%9C"
-                    },
-                    {
-                        "name": "蕹",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%95%B9"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    }
-                ]
+                "Pinyin": "suàn róng wèng cài"
             }
         ],
         "images": [
@@ -272,37 +240,32 @@
     {
         "words": [
             {
-                "Cantonese": "蒜蓉芥蘭",
-                "Simplified": "蒜蓉芥蘭",
                 "English": "Chinese broccoli in garlic",
+                "Cantonese": {
+                    "text": "蒜蓉芥蘭",
+                    "wkty": [
+                        "蒜蓉",
+                        "蒜",
+                        "蓉",
+                        "芥蘭",
+                        "芥",
+                        "蘭"
+                    ]
+                },
+                "Simplified":  {
+                    "text":"蒜蓉芥蘭",
+                     "wkty": [
+                        "蒜蓉",
+                        "蒜",
+                        "蓉",
+                        "芥蘭",
+                        "芥",
+                        "蘭"
+                    ]
+                },
+               
                 "Yale": "syun yùhng gaai láan",
-                "Pinyin": "suàn róng gài lán",
-                "resources": [
-                    {
-                        "name": "蒜蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C%E8%93%89"
-                    },
-                    {
-                        "name": "蒜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%9C"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "芥蘭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5%E8%98%AD"
-                    },
-                    {
-                        "name": "芥",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%A5"
-                    },
-                    {
-                        "name": "蘭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%98%AD"
-                    }
-                ]
+                "Pinyin": "suàn róng gài lán"
             }
         ],
         "images": [
