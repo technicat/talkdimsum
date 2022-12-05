@@ -101,9 +101,25 @@
         "words": [
             {
                 "English": "fried milk",
-                "Cantonese": "炸鮮奶",
-                "Simplified": "炸鲜奶",
+                "Cantonese": {
+                    "text": "炸鮮奶",
+                    "wkty": [
+                        "炸",
+                        "鮮奶",
+                        "鮮",
+                        "奶"
+                    ]
+                },
                 "Yale": "ja sīn náaih",
+                "Simplified": {
+                    "text": "炸鲜奶",
+                    "wkty": [
+                        "炸",
+                        "鲜奶",
+                        "v",
+                        "奶"
+                    ]
+                },
                 "Pinyin": "zhá xiān nǎi"
             }
         ],
