@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "水餃麵",
-                "Simplified": "水饺麵",
                 "English": "dumpling noodle soup",
+                "Cantonese": {
+                    "text": "水餃麵",
+                    "wkty": [
+                        "水餃",
+                        "水",
+                        "餃",
+                        "麵"
+                    ]
+                },
                 "Yale": "séui gáau mihn",
-                "Pinyin": "shuǐ jiǎo miàn",
-                "resources": [
-                    {
-                        "name": "水餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4%E9%A4%83"
-                    },
-                    {
-                        "name": "水",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B0%B4"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    }
-                ]
+                "Simplified": {
+                    "text": "水饺麵",
+                    "wkty": [
+                        "水饺",
+                        "水",
+                        "饺",
+                        "麵"
+                    ]
+                },
+                "Pinyin": "shuǐ jiǎo miàn"
             }
         ],
         "images": [
