@@ -80,65 +80,28 @@
     {
         "words": [
             {
-                "Cantonese": "煙肉生菜番茄三文治",
                 "English": "BLT",
+                "Cantonese": {
+                    "text": "煙肉生菜番茄三文治",
+                    "wkty": [
+                        "煙肉",
+                        "煙",
+                        "肉",
+                        "生菜",
+                        "生",
+                        "菜",
+                        "番茄",
+                        "番",
+                        "茄",
+                        "三文治",
+                        "三",
+                        "文",
+                        "治"
+                    ]
+                },
                 "Yale": "yīn yuhk sāang choi fāan ké sāam màhn jih",
                 "Jyutping": "jin1 juk6 saang1 coi3 faan1 ke2 saam1 man4 zi6",
-                "Pinyin": "yān ròu shēng cài fān qié sān wén zhì",
-                "resources": [
-                    {
-                        "name": "煙肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%99%E8%82%89"
-                    },
-                    {
-                        "name": "煙",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%99"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "生菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F%E8%8F%9C"
-                    },
-                    {
-                        "name": "生",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%9F"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "番茄",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%95%AA%E8%8C%84"
-                    },
-                    {
-                        "name": "番",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%95%AA"
-                    },
-                    {
-                        "name": "茄",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-                    },
-                    {
-                        "name": "三文治",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89%E6%96%87%E6%B2%BB"
-                    },
-                    {
-                        "name": "三",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89"
-                    },
-                    {
-                        "name": "文",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%96%87"
-                    },
-                    {
-                        "name": "治",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%BB"
-                    }
-                ]
+                "Pinyin": "yān ròu shēng cài fān qié sān wén zhì"
             }
         ],
         "images": [
