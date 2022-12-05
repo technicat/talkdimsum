@@ -2,33 +2,29 @@
     {
         "words": [
             {
-                "Cantonese": "烏龍茶",
-                "Simplified": "乌龙茶",
                 "English": "oolong tea",
+                "Cantonese": {
+                    "text": "烏龍茶",
+                    "wkty": [
+                        "烏龍茶",
+                        "烏龍",
+                        "烏",
+                        "龍",
+                        "茶"
+                    ]
+                },
                 "Yale": "wu lùhng chàh",
-                "Pinyin": "wū lóng chá",
-                "resources": [
-                    {
-                        "name": "烏龍茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%83%8F%E9%BE%8D%E8%8C%B6"
-                    },
-                    {
-                        "name": "烏龍",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%83%8F%E9%BE%8D"
-                    },
-                    {
-                        "name": "烏",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%83%8F"
-                    },
-                    {
-                        "name": "龍",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BE%8D"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    }
-                ]
+                "Simplified": {
+                    "text": "乌龙茶",
+                    "wkty": [
+                        "乌龙茶",
+                        "乌龙",
+                        "乌",
+                        "龙",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "wū lóng chá"
             }
         ],
         "images": [
