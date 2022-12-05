@@ -49,37 +49,31 @@
     {
         "words": [
             {
-                "Cantonese": "XO醬煎腸粉",
-                "Simplified": "XO酱煎肠粉",
                 "English": "pan-fried rice roll w/ XO sauce",
+                "Cantonese": {
+                    "text": "XO醬煎腸粉",
+                    "wkty": [
+                        "XO醬",
+                        "醬",
+                        "煎",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "XO jeung jīn chéung fán",
-                "Pinyin": "XO jiàng jiān cháng fěn",
-                "resources": [
-                    {
-                        "name": "XO醬",
-                        "URL": "https://en.wiktionary.org/wiki/XO%E9%86%AC"
-                    },
-                    {
-                        "name": "醬",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-                    },
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "XO酱煎肠粉",
+                    "wkty": [
+                        "XO酱",
+                        "酱",
+                        "煎",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "XO jiàng jiān cháng fěn"
             }
         ],
         "images": [
