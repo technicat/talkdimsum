@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "咖喱",
-        "Simplified": "咖哩",
         "English": "curry",
+        "Cantonese": {
+          "text": "咖喱",
+          "wkty": [
+            "咖喱",
+            "咖",
+            "喱"
+          ]
+        },
         "Yale": "ga lēi",
-        "Pinyin": "kā li",
-        "resources": [
-          {
-            "name": "咖喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1"
-          },
-          {
-            "name": "咖",
-            "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
-          },
-          {
-            "name": "喱",
-            "URL": "https://en.wiktionary.org/wiki/%E5%96%B1"
-          }
-        ]
+        "Simplified": {
+          "text": "咖哩",
+          "wkty": [
+            "咖哩",
+            "咖",
+            "哩"
+          ]
+        },
+        "Pinyin": "kā li"
       }
     ],
     "images": [
