@@ -142,37 +142,31 @@
    {
       "words": [
          {
-            "Cantonese": "蓮蓉月餅",
-            "Simplified": "莲蓉月饼",
             "English": "lotus seed moon cake",
+            "Cantonese": {
+               "text": "蓮蓉月餅",
+               "wkty": [
+                  "蓮蓉",
+                  "蓮",
+                  "蓉",
+                  "月餅",
+                  "月",
+                  "餅"
+               ]
+            },
             "Yale": "lìhn yùhng yuht béng",
-            "Pinyin": "lián róng yuè bǐng",
-            "resources": [
-               {
-                  "name": "蓮蓉",
-                  "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
-               },
-               {
-                  "name": "蓮",
-                  "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-               },
-               {
-                  "name": "蓉",
-                  "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-               },
-               {
-                  "name": "月餅",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%9C%88%E9%A4%85"
-               },
-               {
-                  "name": "月",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%9C%88"
-               },
-               {
-                  "name": "餅",
-                  "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-               }
-            ]
+            "Simplified": {
+               "text": "莲蓉月饼",
+               "wkty": [
+                  "蓮蓉",
+                  "蓮",
+                  "蓉",
+                  "月饼",
+                  "月",
+                  "饼"
+               ]
+            },
+            "Pinyin": "lián róng yuè bǐng"
          }
       ],
       "images": [
@@ -195,37 +189,32 @@
    {
       "words": [
          {
-            "Cantonese": "鳳梨月餅",
-            "Simplified": "凤梨月饼",
             "English": "pineapple moon cake",
+            "Cantonese": {
+               "text": "鳳梨月餅",
+               "wkty": [
+                  "菠蘿",
+                  "菠",
+                  "蘿",
+                  "月餅",
+                  "月",
+                  "餅"
+               ]
+            },
+
             "Yale": "fuhng lèih yuht béng",
-            "Pinyin": "fèng lí yuè bǐng",
-            "resources": [
-               {
-                  "name": "菠蘿",
-                  "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%98%BF"
-               },
-               {
-                  "name": "菠",
-                  "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-               },
-               {
-                  "name": "蘿",
-                  "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-               },
-               {
-                  "name": "月餅",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%9C%88%E9%A4%85"
-               },
-               {
-                  "name": "月",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%9C%88"
-               },
-               {
-                  "name": "餅",
-                  "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-               }
-            ]
+            "Simplified": {
+               "text": "凤梨月饼",
+               "wkty": [
+                  "凤梨",
+                  "凤",
+                  "梨",
+                  "月饼",
+                  "月",
+                  "饼"
+               ]
+            },
+            "Pinyin": "fèng lí yuè bǐng"
          }
       ],
       "images": [
