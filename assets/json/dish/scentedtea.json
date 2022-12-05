@@ -2,25 +2,28 @@
     {
         "words": [
             {
-                "Cantonese": "香片",
-                "Mandarin": "茉莉花茶",
                 "English": "jasmine tea",
+                "Cantonese": {
+                    "text": "香片",
+                    "wkty": [
+                        "香片",
+                        "香",
+                        "片"
+                    ]
+                },
                 "Yale": "hēung pín",
-                "Pinyin": "mò li huā chá",
-                "resources": [
-                    {
-                        "name": "香片",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E7%89%87"
-                    },
-                    {
-                        "name": "香",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-                    },
-                    {
-                        "name": "片",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-                    }
-                ]
+                "Mandarin": {
+                    "text": "茉莉花茶",
+                    "wkty": [
+                        "茉莉花茶",
+                        "茉莉花",
+                        "茉莉",
+                        "茉",
+                        "莉",
+                        "茶"
+                    ]
+                },
+                "Pinyin": "mò li huā chá"
             }
         ],
         "images": [
