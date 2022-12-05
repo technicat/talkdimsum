@@ -11,7 +11,7 @@
                         "文",
                         "治"
                     ]
-                }, 
+                },
                 "Yale": "sāam màhn jih",
                 "Jyutping": "saam1 man4 zi6",
                 "Pinyin": "sān wén zhì"
@@ -39,41 +39,22 @@
     {
         "words": [
             {
-                "Cantonese": "公司三文治",
                 "English": "club sandwich",
+                "Cantonese": {
+                    "text": "公司三文治",
+                    "wkty": [
+                        "公司",
+                        "公",
+                        "司",
+                        "三文治",
+                        "三",
+                        "文",
+                        "治"
+                    ]
+                },
                 "Yale": "gūng sī sāam màhn jih",
                 "Jyutping": "gung1 si1 saam1 man4 zi6",
-                "Pinyin": "gōng sī sān wén zhì",
-                "resources": [
-                    {
-                        "name": "公司",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%85%AC%E5%8F%B8"
-                    },
-                    {
-                        "name": "公",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%85%AC"
-                    },
-                    {
-                        "name": "司",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%B8"
-                    },
-                    {
-                        "name": "三文治",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89%E6%96%87%E6%B2%BB"
-                    },
-                    {
-                        "name": "三",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89"
-                    },
-                    {
-                        "name": "文",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%96%87"
-                    },
-                    {
-                        "name": "治",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%BB"
-                    }
-                ]
+                "Pinyin": "gōng sī sān wén zhì"
             }
         ],
         "images": [
