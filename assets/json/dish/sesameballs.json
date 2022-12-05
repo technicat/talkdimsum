@@ -2,44 +2,37 @@
     {
         "words": [
             {
-                "Cantonese": "煎堆",
                 "English": "sesame ball",
+                "Cantonese": {
+                    "text": "煎堆",
+                    "wkty": [
+                        "煎堆",
+                        "煎",
+                        "堆"
+                    ]
+                },
                 "Yale": "jīn dēui",
-                "Pinyin": "jiān duī",
-                "resources": [
-                    {
-                        "name": "煎堆",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E5%A0%86"
-                    },
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "堆",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A0%86"
-                    },
-                    {
-                        "name": "芝麻球",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB%E7%90%83"
-                    },
-                    {
-                        "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "球",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-                    }
-                ]
+                "Mandarin": {
+                    "text": "芝麻球",
+                    "wkty": [
+                        "芝麻球",
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "球"
+                    ]
+                },
+                "Simplified": {
+                    "text": "芝v球",
+                    "wkty": [
+                        "芝麻球",
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "球"
+                    ]
+                },
+                "Pinyin": "jiān duī"
             }
         ],
         "images": [
