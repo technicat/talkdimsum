@@ -2,28 +2,18 @@
     {
         "words": [
             {
-                "Cantonese": "素菜包",
                 "English": "vegetarian bun",
+                "Cantonese": {
+                    "text": "素菜包",
+                    "wkty": [
+                        "素菜",
+                        "素",
+                        "菜",
+                        "包"
+                    ]
+                },
                 "Yale": "sou choi bāau",
-                "Pinyin": "sù cài bāo",
-                "resources": [
-                    {
-                        "name": "素菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0%E8%8F%9C"
-                    },
-                    {
-                        "name": "素",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B4%A0"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Pinyin": "sù cài bāo"
             }
         ],
         "images": [
