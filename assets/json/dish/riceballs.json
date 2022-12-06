@@ -199,37 +199,30 @@
         "words": [
             {
                 "English": "red bean rice balls",
-                "Cantonese": "豆沙湯圓",
-                "Mandarin": "豆沙湯圓",
-                "Simplified": "豆沙汤圆",
+                "Cantonese": {
+                    "text": "豆沙湯圓",
+                    "wkty": [
+                        "豆沙",
+                        "豆",
+                        "沙",
+                        "湯圓",
+                        "湯",
+                        "圓"
+                    ]
+                },
                 "Yale": "dauh sā tōng yún",
-                "Pinyin": "dòu shā tāng yuán",
-                "resources": [
-                    {
-                        "name": "豆沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "湯圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF%E5%9C%93"
-                    },
-                    {
-                        "name": "湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-                    },
-                    {
-                        "name": "圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9C%93"
-                    }
-                ]
+                "Simplified": {
+                    "text": "豆沙汤圆",
+                    "wkty": [
+                        "豆沙",
+                        "豆",
+                        "沙",
+                        "汤圓",
+                        "汤",
+                        "圓"
+                    ]
+                },
+                "Pinyin": "dòu shā tāng yuán"
             }
         ],
         "images": [
