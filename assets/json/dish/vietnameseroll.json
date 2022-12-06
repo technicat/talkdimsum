@@ -2,37 +2,20 @@
     {
         "words": [
             {
-                "Cantonese": "越式炸春捲",
-                "Simplified": "越式炸春卷",
                 "English": "Vietnamese-style fried spring roll",
+                "Cantonese": {
+                    "text": "越式炸春卷",
+                    "wkty": [
+                        "越",
+                        "式",
+                        "春",
+                        "春卷",
+                        "春",
+                        "卷"
+                    ]
+                },
                 "Yale": "yuht sīk ja chēun gyún",
-                "Pinyin": "yuè shì zhà chūn juǎn",
-                "resources": [
-                    {
-                        "name": "越",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B6%8A"
-                    },
-                    {
-                        "name": "式",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%BC%8F"
-                    },
-                    {
-                        "name": "春",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B6%8A"
-                    },
-                    {
-                        "name": "春捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2"
-                    },
-                    {
-                        "name": "春",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Pinyin": "yuè shì zhà chūn juǎn"
             }
         ],
         "images": [
@@ -83,41 +66,21 @@
     {
         "words": [
             {
-                "Cantonese": "越南春捲",
-                "Simplified": "越南春卷",
                 "English": "Vietnamese Spring roll",
+                "Cantonese": {
+                    "text": "越南春卷",
+                    "wkty": [
+                        "越南春卷",
+                        "越南",
+                        "越",
+                        "越南",
+                        "春卷",
+                        "春",
+                        "卷"
+                    ]
+                },
                 "Yale": "yuht nàahm chēun gyún",
-                "Pinyin": "yuè nán chūn juǎn",
-                "resources": [
-                    {
-                        "name": "越南春捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B6%8A%E5%8D%97%E6%98%A5%E6%8D%B2"
-                    },
-                    {
-                        "name": "越南",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B6%8A%E5%8D%97"
-                    },
-                    {
-                        "name": "越",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B6%8A"
-                    },
-                    {
-                        "name": "越南",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B6%8A"
-                    },
-                    {
-                        "name": "春捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2"
-                    },
-                    {
-                        "name": "春",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Pinyin": "yuè nán chūn juǎn"
             }
         ],
         "images": [
