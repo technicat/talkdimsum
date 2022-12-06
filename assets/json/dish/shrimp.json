@@ -49,7 +49,6 @@
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2017/05/walnut-shrimp/"
             }
-           
         ]
     },
     {
@@ -124,25 +123,25 @@
     {
         "words": [
             {
-                "Cantonese": "蝦片",
-                "Simplified": "虾片",
                 "English": "shrimp chips",
+                "Cantonese": {
+                    "text": "蝦片",
+                    "wkty": [
+                        "蝦片",
+                        "蝦",
+                        "片"
+                    ]
+                },
                 "Yale": "hā pi",
-                "Pinyin": "xiā piàn",
-                "resources": [
-                    {
-                        "name": "蝦片",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6%E7%89%87"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "片",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%87"
-                    }
-                ]
+                "Simplified": {
+                    "text": "虾片",
+                    "wkty": [
+                        "虾片",
+                        "虾",
+                        "片"
+                    ]
+                },
+                "Pinyin": "xiā piàn"
             }
         ],
         "images": [
