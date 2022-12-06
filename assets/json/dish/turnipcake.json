@@ -182,37 +182,31 @@
   {
     "words": [
       {
-        "Cantonese": "蒸蘿蔔糕",
-        "Simplified": "蒸萝卜糕",
         "English": "steamed turnip cake",
+        "Cantonese": {
+          "text": "蒸蘿蔔糕",
+          "wkty": [
+            "蒸",
+            "蘿蔔糕",
+            "蘿蔔",
+            "蘿",
+            "蔔",
+            "糕"
+          ]
+        },
         "Yale": "jīng lò baahk gōu",
-        "Pinyin": "zhēng luó bo gāo",
-        "resources": [
-          {
-            "name": "蒸",
-            "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-          },
-          {
-            "name": "蘿蔔糕",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94%E7%B3%95"
-          },
-          {
-            "name": "蘿蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
-          },
-          {
-            "name": "糕",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-          }
-        ]
+        "Simplified": {
+          "text": "蒸萝卜糕",
+          "wkty": [
+            "蒸",
+            "萝卜糕",
+            "萝卜",
+            "萝卜",
+            "卜",
+            "糕"
+          ]
+        },
+        "Pinyin": "zhēng luó bo gāo"
       }
     ],
     "images": [
