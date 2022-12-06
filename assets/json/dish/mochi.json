@@ -172,40 +172,21 @@
     {
         "words": [
             {
-                "Cantonese": "雪糕糯米糍",
                 "English": "mochi ice cream",
+                "Cantonese": {
+                    "text": "雪糕糯米糍",
+                    "wkty": [
+                        "雪糕",
+                        "雪",
+                        "糕",
+                        "糯米",
+                        "糯",
+                        "米",
+                        "糍"
+                    ]
+                },
                 "Yale": "syut gōu noh máih chìh",
-                "Pinyin": "xuě gāo nuò mǐ cí",
-                "resources": [
-                    {
-                        "name": "雪糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%AA%E7%B3%95"
-                    },
-                    {
-                        "name": "雪",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%AA"
-                    },
-                    {
-                        "name": "糕",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-                    },
-                    {
-                        "name": "糯米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
-                    },
-                    {
-                        "name": "糯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF"
-                    },
-                    {
-                        "name": "米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-                    },
-                    {
-                        "name": "糍",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%8D"
-                    }
-                ]
+                "Pinyin": "xuě gāo nuò mǐ cí"
             }
         ],
         "images": [
