@@ -297,28 +297,18 @@
     {
         "words": [
             {
-                "Cantonese": "糖不甩",
                 "English": "rice balls in syrup",
+                "Cantonese": {
+                    "text": "糖不甩",
+                    "wkty": [
+                        "糖不甩",
+                        "糖",
+                        "不",
+                        "甩"
+                    ]
+                },
                 "Yale": "tòhng bāt lāt",
-                "Pinyin": "táng bù shuǎi",
-                "resources": [
-                    {
-                        "name": "糖不甩",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96%E4%B8%8D%E7%94%A9"
-                    },
-                    {
-                        "name": "糖",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%96"
-                    },
-                    {
-                        "name": "不",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%8D"
-                    },
-                    {
-                        "name": "甩",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%94%A9"
-                    }
-                ]
+                "Pinyin": "táng bù shuǎi"
             }
         ],
         "images": [
