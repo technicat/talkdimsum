@@ -102,33 +102,29 @@
     {
         "words": [
             {
-                "Cantonese": "牛肉麵",
-                "Simplified": "牛肉面",
                 "English": "Taiwanese beef noodle soup",
-                "Yale": "ngàuh yuhk mihnn",
-                "Pinyin": "niú ròu miàn",
-                "resources": [
-                    {
-                        "name": "牛肉麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89%E9%BA%B5"
-                    },
-                    {
-                        "name": "牛肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    }
-                ]
+                "Cantonese": {
+                    "text": "牛肉麵",
+                    "wkty": [
+                        "牛肉麵",
+                        "牛肉",
+                        "牛",
+                        "肉",
+                        "麵"
+                    ]
+                },
+                "Yale": "ngàuh yuhk mihn",
+                "Simplified": {
+                    "text": "牛肉面",
+                    "wkty": [
+                        "牛肉面",
+                        "牛肉",
+                        "牛",
+                        "肉",
+                        "面"
+                    ]
+                },
+                "Pinyin": "niú ròu miàn"
             }
         ],
         "images": [
