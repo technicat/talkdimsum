@@ -95,37 +95,31 @@
     {
         "words": [
             {
-                "Cantonese": "芋頭蒸排骨",
-                "Simplified": "芋头蒸排骨",
                 "English": "spare ribs w/ taro",
+                "Cantonese": {
+                    "text": "芋頭蒸排骨",
+                    "wkty": [
+                        "芋頭",
+                        "芋",
+                        "頭",
+                        "排骨",
+                        "排",
+                        "骨"
+                    ]
+                },
                 "Yale": "wuh táu jīng pàaih gwāt",
-                "Pinyin": "yù tou zhēng pái gǔ",
-                "resources": [
-                    {
-                        "name": "芋頭",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B%E9%A0%AD"
-                    },
-                    {
-                        "name": "芋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%8B"
-                    },
-                    {
-                        "name": "頭",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A0%AD"
-                    },
-                    {
-                        "name": "排骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92%E9%AA%A8"
-                    },
-                    {
-                        "name": "排",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    }
-                ]
+                "Simplified": {
+                    "text": "芋头蒸排骨",
+                    "wkty": [
+                        "芋頭",
+                        "芋",
+                        "頭",
+                        "排骨",
+                        "排",
+                        "骨"
+                    ]
+                },
+                "Pinyin": "yù tou zhēng pái gǔ"
             }
         ],
         "images": [
