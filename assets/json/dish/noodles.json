@@ -167,25 +167,25 @@
   {
     "words": [
       {
-        "Cantonese": "伊麵",
-        "Simplified": "伊面",
         "English": "yi mein",
+        "Cantonese": {
+          "text": "伊麵",
+          "wkty": [
+            "伊麵",
+            "伊",
+            "麵"
+          ]
+        },
         "Yale": "yī mihn",
-        "Pinyin": "yī miàn",
-        "resources": [
-          {
-            "name": "伊麵",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BC%8A%E9%BA%B5"
-          },
-          {
-            "name": "伊",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BC%8A"
-          },
-          {
-            "name": "麵",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-          }
-        ]
+        "Simplified": {
+          "text": "伊面",
+          "wkty": [
+            "伊面",
+            "伊",
+            "面"
+          ]
+        },
+        "Pinyin": "yī miàn"
       }
     ],
     "images": [
