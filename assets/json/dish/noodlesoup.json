@@ -215,41 +215,33 @@
     {
         "words": [
             {
-                "Cantonese": "番茄煎蛋麵",
-                "Simplified": "番茄煎蛋面",
                 "English": "tomato fried egg noodle soup",
+                "Cantonese": {
+                    "text": "番茄煎蛋麵",
+                    "wkty": [
+                        "番茄",
+                        "番",
+                        "茄",
+                        "煎蛋",
+                        "煎",
+                        "蛋",
+                        "麵"
+                    ]
+                },
                 "Yale": "fāan ké jīn dáan mihn",
-                "Pinyin": "fān qi jiān dàn miàn",
-                "resources": [
-                    {
-                        "name": "番茄",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%95%AA%E8%8C%84"
-                    },
-                    {
-                        "name": "番",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%95%AA"
-                    },
-                    {
-                        "name": "茄",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-                    },
-                    {
-                        "name": "煎蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E8%9B%8B"
-                    },
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "麵",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-                    }
-                ]
+                "Simplified": {
+                    "text": "番茄煎蛋面",
+                    "wkty": [
+                        "番茄",
+                        "番",
+                        "茄",
+                        "煎蛋",
+                        "煎",
+                        "蛋",
+                        "面"
+                    ]
+                },
+                "Pinyin": "fān qi jiān dàn miàn"
             }
         ],
         "images": [
