@@ -2,28 +2,18 @@
     {
         "words": [
             {
-                "Cantonese": "糯米糍",
                 "English": "mochi",
+                "Cantonese": {
+                    "text": "糯米糍",
+                    "wkty": [
+                        "糯米",
+                        "糯",
+                        "米",
+                        "糍"
+                    ]
+                },
                 "Yale": "noh máih chìh",
-                "Pinyin": "nuò mǐ cí",
-                "resources": [
-                    {
-                        "name": "糯米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
-                    },
-                    {
-                        "name": "糯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF"
-                    },
-                    {
-                        "name": "米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-                    },
-                    {
-                        "name": "糍",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%8D"
-                    }
-                ]
+                "Pinyin": "nuò mǐ cí"
             }
         ],
         "images": [
@@ -66,41 +56,33 @@
     {
         "words": [
             {
-                "Cantonese": "椰絲糯米糍",
-                "Simplified": "椰丝糯米糍",
                 "English": "soft grated coconut mochi",
+                "Cantonese": {
+                    "text": "椰絲糯米糍",
+                    "wkty": [
+                        "椰絲",
+                        "椰",
+                        "絲",
+                        "糯米",
+                        "糯",
+                        "米",
+                        "糍"
+                    ]
+                },
                 "Yale": "yèh sī máih chìh",
-                "Pinyin": "yē sī mǐ cí",
-                "resources": [
-                    {
-                        "name": "椰絲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%B0%E7%B5%B2"
-                    },
-                    {
-                        "name": "椰",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%B0"
-                    },
-                    {
-                        "name": "絲",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B5%B2"
-                    },
-                    {
-                        "name": "糯米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF%E7%B1%B3"
-                    },
-                    {
-                        "name": "糯",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%AF"
-                    },
-                    {
-                        "name": "米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-                    },
-                    {
-                        "name": "糍",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B3%8D"
-                    }
-                ]
+                "Simplified": {
+                    "text": "椰丝糯米糍",
+                    "wkty": [
+                        "椰丝",
+                        "椰",
+                        "丝",
+                        "糯米",
+                        "糯",
+                        "米",
+                        "糍"
+                    ]
+                },
+                "Pinyin": "yē sī mǐ cí"
             }
         ],
         "images": [
@@ -109,7 +91,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Mochi filled with shredded coconut.\n\n椰絲 is shredded coconut, , and 糯米 is “mochi.”",
+        "description": "Mochi filled with shredded coconut.\n\n**Characters**\n\n椰絲 is shredded coconut, , and 糯米 is “mochi.”",
         "tags": [
             "椰",
             "絲",
