@@ -159,24 +159,17 @@
     {
         "words": [
             {
-                "Cantonese": "叻沙",
                 "English": "laksa",
+                "Cantonese": {
+                    "text": "叻沙",
+                    "wkty": [
+                        "叻沙",
+                        "叻",
+                        "沙"
+                    ]
+                },
                 "Yale": "lahk sā",
-                "Pinyin": "lè shā",
-                "resources": [
-                    {
-                        "name": "叻沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%BB%E6%B2%99"
-                    },
-                    {
-                        "name": "叻",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%BB"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    }
-                ]
+                "Pinyin": "lè shā"
             }
         ],
         "images": [
