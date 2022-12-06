@@ -110,57 +110,41 @@
     {
         "words": [
             {
-                "Cantonese": "黑椒汁鮮蝦春捲",
-                "Simplified": "黑椒汁鲜虾春卷",
                 "English": "black pepper shrimp spring roll",
+                "Cantonese": {
+                    "text": "黑椒汁鮮蝦春捲",
+                    "wkty": [
+                        "黑椒汁",
+                        "黑椒",
+                        "黑",
+                        "椒",
+                        "汁",
+                        "鮮蝦",
+                        "鮮",
+                        "蝦",
+                        "春捲",
+                        "春",
+                        "捲"
+                    ]
+                },
                 "Yale": "hāk jīu jāp sīn hā chēun gyún",
-                "Pinyin": "hēi jiāo zhī xiān xiā chūn juǎn",
-                "resources": [
-                    {
-                        "name": "黑椒汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92%E6%B1%81"
-                    },
-                    {
-                        "name": "黑椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E6%A4%92"
-                    },
-                    {
-                        "name": "黑",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B1%81"
-                    },
-                    {
-                        "name": "鮮蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "春捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2"
-                    },
-                    {
-                        "name": "春",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Simplified": {
+                    "text": "黑椒汁鲜虾春卷",
+                    "wkty": [
+                        "黑椒汁",
+                        "黑椒",
+                        "黑",
+                        "椒",
+                        "汁",
+                        "鲜虾",
+                        "鲜",
+                        "虾",
+                        "春卷",
+                        "春",
+                        "卷"
+                    ]
+                },
+                "Pinyin": "hēi jiāo zhī xiān xiā chūn juǎn"
             }
         ],
         "images": [
