@@ -49,33 +49,29 @@
     {
         "words": [
             {
-                "Cantonese": "羅漢齋",
-                "Simplified": "罗汉斋",
                 "English": "Buddha's delight",
+                "Cantonese": {
+                    "text": "羅漢齋",
+                    "wkty": [
+                        "羅漢齋",
+                        "羅漢",
+                        "羅",
+                        "漢",
+                        "齋"
+                    ]
+                },
                 "Yale": "lòh hon jāai",
-                "Pinyin": "luó hàn zhā",
-                "resources": [
-                    {
-                        "name": "羅漢齋",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BE%85%E6%BC%A2%E9%BD%8B"
-                    },
-                    {
-                        "name": "羅漢",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BE%85%E6%BC%A2"
-                    },
-                    {
-                        "name": "羅",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%BE%85"
-                    },
-                    {
-                        "name": "漢",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%BC%A2"
-                    },
-                    {
-                        "name": "齋",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BD%8B"
-                    }
-                ]
+                "Simplified": {
+                    "text": "罗汉斋",
+                    "wkty": [
+                        "罗汉斋",
+                        "罗汉斋",
+                        "罗",
+                        "汉",
+                        "斋"
+                    ]
+                },
+                "Pinyin": "luó hàn zhā"
             }
         ],
         "images": [
@@ -84,7 +80,7 @@
                 "place": "China a Go Go, Las Vegas, Nevada"
             }
         ],
-        "description": "[Buddha's Delight](https://en.wikipedia.org/wiki/Buddha's_delight) is a vegetarian dish consisting of tofu and a variety of vegetables stewed in a thick soy-sauce based sauce. This really is a Chinese Buddhist dish, but it's popular in Chinese restaurants around the world.\n\n[羅漢](https://en.wiktionary.org/wiki/%E7%BE%85%E6%BC%A2) is an enlightened individual on the path to Buddhahood (known as [arhat](https://en.wikipedia.org/wiki/Arhat) in Sanskrit), and [齋](https://en.wiktionary.org/wiki/%E9%BD%8B) means *vegetarian*.",
+        "description": "[Buddha's Delight](https://en.wikipedia.org/wiki/Buddha's_delight) is a vegetarian dish consisting of tofu and a variety of vegetables stewed in a thick soy-sauce based sauce. This really is a Chinese Buddhist dish, but it's popular in Chinese restaurants around the world.\n\n**Characters**\n\n[羅漢](https://en.wiktionary.org/wiki/%E7%BE%85%E6%BC%A2) is an enlightened individual on the path to Buddhahood (known as [arhat](https://en.wikipedia.org/wiki/Arhat) in Sanskrit), and [齋](https://en.wiktionary.org/wiki/%E9%BD%8B) is *vegetarian*.",
         "tags": [
             "素",
             "菜"
