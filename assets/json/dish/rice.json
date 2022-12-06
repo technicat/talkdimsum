@@ -339,37 +339,40 @@
   {
     "words": [
       {
-        "Cantonese": "蒸冬菜牛肉餅飯",
-        "Simplified": "蒸冬菜牛肉餅饭",
         "English": "minced beef on rice",
+        "Cantonese": {
+          "text": "蒸冬菜牛肉餅飯",
+          "wkty": [
+            "蒸",
+            "冬菜",
+            "冬",
+            "菜",
+            "牛肉",
+            "牛",
+            "肉餅",
+            "肉",
+            "餅",
+            "飯"
+          ]
+        },
+        "Simplified": {
+          "text":"蒸冬菜牛肉餅饭",
+          "wkty": [
+            "蒸",
+            "冬菜",
+            "冬",
+            "菜",
+            "牛肉",
+            "牛",
+            "肉餅",
+            "肉",
+            "餅",
+            "饭"
+          ]
+        },
+       
         "Yale": "jīng dūng choi ngàuh yuhk faahn",
-        "Pinyin": "zhēng dōng cài niú ròu fàn",
-        "resources": [
-          {
-            "name": "蒸",
-            "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-          },
-          {
-            "name": "冬菜",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%9C"
-          },
-          {
-            "name": "冬",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-          },
-          {
-            "name": "菜",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-          },
-          {
-            "name": "菜",
-            "URL": "https://en.wiktionary.org/wiki/E8%8F%9C"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Pinyin": "zhēng dōng cài niú ròu fàn"
       }
     ],
     "images": [
@@ -383,6 +386,7 @@
       "新菜",
       "冬菜",
       "牛肉",
+      "肉餅",
       "飯",
       "白飯"
     ],
