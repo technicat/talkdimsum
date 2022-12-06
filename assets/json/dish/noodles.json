@@ -218,37 +218,31 @@
   {
     "words": [
       {
-        "Cantonese": "龍蝦伊麵",
-        "Simplified": "龙虾伊面",
         "English": "lobster yi mein",
+        "Cantonese": {
+          "text": "龍蝦伊麵",
+          "wkty": [
+            "龍蝦",
+            "龍",
+            "蝦",
+            "伊麵",
+            "伊",
+            "麵"
+          ]
+        },
         "Yale": "lùhng hā yī mihn",
-        "Pinyin": "lóng xiā yī miàn",
-        "resources": [
-          {
-            "name": "龍蝦",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BE%8D%E8%9D%A6"
-          },
-          {
-            "name": "龍",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BE%8D"
-          },
-          {
-            "name": "蝦",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-          },
-          {
-            "name": "伊麵",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BC%8A%E9%BA%B5"
-          },
-          {
-            "name": "伊",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BC%8A"
-          },
-          {
-            "name": "麵",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-          }
-        ]
+        "Simplified": {
+          "text": "龙虾伊面",
+          "wkty": [
+            "龙虾",
+            "龙",
+            "虾",
+            "伊面",
+            "伊",
+            "面"
+          ]
+        },
+        "Pinyin": "lóng xiā yī miàn"
       }
     ],
     "images": [
