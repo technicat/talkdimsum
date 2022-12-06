@@ -67,33 +67,29 @@
   {
     "words": [
       {
-        "Cantonese": "海南雞飯",
-        "Simplified": "海南鸡饭",
         "English": "Hainanese chicken rice",
+        "Cantonese": {
+          "text": "海南雞飯",
+          "wkty": [
+            "海南",
+            "海",
+            "南",
+            "雞",
+            "飯"
+          ]
+        },
         "Yale": "hói nàahm gāi faahn",
-        "Pinyin": "Hǎi nán jī fàn",
-        "resources": [
-          {
-            "name": "海南",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E5%8D%97"
-          },
-          {
-            "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-          },
-          {
-            "name": "南",
-            "URL": "https://en.wiktionary.org/wiki/%E5%8D%97"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "海南鸡饭",
+          "wkty": [
+            "海南",
+            "海",
+            "南",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "Hǎi nán jī fàn"
       }
     ],
     "images": [
