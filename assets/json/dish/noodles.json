@@ -343,29 +343,27 @@
   {
     "words": [
       {
-        "Cantonese": "兩面黃",
-        "Simplified": "两面黄",
         "English": "Hong Kong-style crispy noodles",
+        "Cantonese": {
+          "text": "兩面黃",
+          "wkty": [
+            "兩面",
+            "兩",
+            "面",
+            "黃"
+          ]
+        },
         "Yale": "léuhng mihn wòhng",
-        "Pinyin": "liǎng miàn huáng",
-        "resources": [
-          {
-            "name": "兩面",
-            "URL": "https://en.wiktionary.org/wiki/%E5%85%A9%E9%9D%A2"
-          },
-          {
-            "name": "兩",
-            "URL": "https://en.wiktionary.org/wiki/%E5%85%A9"
-          },
-          {
-            "name": "面",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9D%A2"
-          },
-          {
-            "name": "黃",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-          }
-        ]
+        "Simplified": {
+          "text": "两面黄",
+          "wkty": [
+            "两面",
+            "两",
+            "面",
+            "黄"
+          ]
+        },
+        "Pinyin": "liǎng miàn huáng"
       }
     ],
     "images": [
