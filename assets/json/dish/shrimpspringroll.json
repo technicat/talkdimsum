@@ -55,41 +55,33 @@
     {
         "words": [
             {
-                "Cantonese": "蛋白蝦春捲",
-                "Simplified": "蛋白虾春卷",
                 "English": "egg white and shrimp spring roll",
+                "Cantonese": {
+                    "text": "蛋白蝦春捲",
+                    "wkty": [
+                        "蛋白",
+                        "蛋",
+                        "白",
+                        "蝦",
+                        "春捲",
+                        "春",
+                        "捲"
+                    ]
+                },
                 "Yale": "dáan baahk hā chēun gyún",
-                "Pinyin": "dàn bái xiā chūn juǎn",
-                "resources": [
-                    {
-                        "name": "蛋白",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E7%99%BD"
-                    },
-                    {
-                        "name": "蛋",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-                    },
-                    {
-                        "name": "白",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "春捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2"
-                    },
-                    {
-                        "name": "春",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Simplified": {
+                    "text": "蛋白虾春卷",
+                    "wkty": [
+                        "蛋白",
+                        "蛋",
+                        "白",
+                        "虾",
+                        "春卷",
+                        "春",
+                        "卷"
+                    ]
+                },
+                "Pinyin": "dàn bái xiā chūn juǎn"
             }
         ],
         "images": [
