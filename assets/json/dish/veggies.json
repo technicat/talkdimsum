@@ -166,37 +166,31 @@
     {
         "words": [
             {
-                "Cantonese": "魚香茄子",
-                "Simplified": "鱼香茄子",
                 "English": "fish fragrant eggplant",
+                "Cantonese": {
+                    "text": "魚香茄子",
+                    "wkty": [
+                        "魚香",
+                        "魚",
+                        "香",
+                        "茄子",
+                        "茄",
+                        "子"
+                    ]
+                },
                 "Yale": "yùh hēung ké jí",
-                "Pinyin": "yú xiāng qié z",
-                "resources": [
-                    {
-                        "name": "魚香",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A%E9%A6%99"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "香",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-                    },
-                    {
-                        "name": "茄子",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84%E5%AD%90"
-                    },
-                    {
-                        "name": "茄",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鱼香茄子",
+                    "wkty": [
+                        "鱼香",
+                        "鱼",
+                        "香",
+                        "茄子",
+                        "茄",
+                        "子"
+                    ]
+                },
+                "Pinyin": "yú xiāng qié z"
             }
         ],
         "images": [
