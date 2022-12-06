@@ -50,25 +50,25 @@
   {
     "words": [
       {
-        "Cantonese": "擔擔麵",
-        "Simplified": "担担面",
         "English": "dandan noodles",
+        "Cantonese": {
+          "text": "擔擔麵",
+          "wkty": [
+            "擔擔麵",
+            "擔",
+            "麵"
+          ]
+        },
         "Yale": "daam daam mihn",
-        "Pinyin": "dàn dàn miàn",
-        "resources": [
-          {
-            "name": "擔擔麵",
-            "URL": "https://en.wiktionary.org/wiki/%E6%93%94%E6%93%94%E9%BA%B5"
-          },
-          {
-            "name": "擔",
-            "URL": "https://en.wiktionary.org/wiki/%E6%93%94"
-          },
-          {
-            "name": "麵",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-          }
-        ]
+        "Simplified": {
+          "text": "担担面",
+          "wkty": [
+            "担担面",
+            "担",
+            "面"
+          ]
+        },
+        "Pinyin": "dàn dàn miàn"
       }
     ],
     "images": [
