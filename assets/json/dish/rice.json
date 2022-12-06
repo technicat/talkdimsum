@@ -165,33 +165,29 @@
   {
     "words": [
       {
-        "Cantonese": "炸豬扒飯",
-        "Simplified": "炸猪扒饭",
         "English": "fried pork chop on rice",
+        "Cantonese": {
+          "text": "炸豬扒飯",
+          "wkty": [
+            "炸",
+            "豬扒",
+            "豬",
+            "扒",
+            "飯"
+          ]
+        },
         "Yale": "ja jyū pàh faahn",
-        "Pinyin": "zhà zhū bā fàn",
-        "resources": [
-          {
-            "name": "炸",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-          },
-          {
-            "name": "豬扒",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC%E6%89%92"
-          },
-          {
-            "name": "豬",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%AC"
-          },
-          {
-            "name": "扒",
-            "URL": "https://en.wiktionary.org/wiki/%E6%89%92"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "炸猪扒饭",
+          "wkty": [
+            "炸",
+            "豬扒",
+            "豬",
+            "扒",
+            "饭"
+          ]
+        },
+        "Pinyin": "zhà zhū bā fàn"
       }
     ],
     "images": [
