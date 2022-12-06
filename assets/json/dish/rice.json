@@ -124,29 +124,27 @@
   {
     "words": [
       {
-        "Cantonese": "炸雞飯",
-        "Simplified": "炸鸡饭",
         "English": "fried chicken on rice",
+        "Cantonese": {
+          "text": "炸雞飯",
+          "wkty": [
+            "炸雞",
+            "炸",
+            "雞",
+            "飯"
+          ]
+        },
         "Yale": "ja gāi faahn",
-        "Pinyin": "zhà jī fàn",
-        "resources": [
-          {
-            "name": "炸雞",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8%E9%9B%9E"
-          },
-          {
-            "name": "炸",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "炸鸡饭",
+          "wkty": [
+            "炸鸡",
+            "炸",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "zhà jī fàn"
       }
     ],
     "images": [
