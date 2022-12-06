@@ -155,28 +155,18 @@
     {
         "words": [
             {
-                "Cantonese": "炸排骨",
                 "English": "fried pork chop",
+                "Cantonese": {
+                    "text": "炸排骨",
+                    "wkty": [
+                        "炸",
+                        "排骨",
+                        "排",
+                        "骨"
+                    ]
+                },
                 "Yale": "ja pàaih gwāt",
-                "Pinyin": "zhà pái gǔ",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "排骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92%E9%AA%A8"
-                    },
-                    {
-                        "name": "排",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    }
-                ]
+                "Pinyin": "zhà pái gǔ"
             }
         ],
         "images": [
