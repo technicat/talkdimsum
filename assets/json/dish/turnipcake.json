@@ -229,50 +229,25 @@
   {
     "words": [
       {
-        "Cantonese": "星洲炒蘿蔔糕",
+        "Cantonese": {
+          "text": "星洲炒蘿蔔糕",
+          "wkty": [
+            "星洲",
+            "星",
+            "洲",
+            "炒",
+            "蘿蔔糕",
+            "蘿蔔",
+            "蘿",
+            "蔔",
+            "糕"
+          ]
+        },
         "Mandarin": "菜頭粿",
         "Simplified": "菜头粿",
         "English": "Singapore-style turnip cake",
         "Yale": "sīng jāu cháau lò baahk gōu",
-        "Pinyin": "cài tóu guǒ",
-        "resources": [
-          {
-            "name": "星洲",
-            "URL": "https://en.wiktionary.org/wiki/%E6%98%9F%E6%B4%B2"
-          },
-          {
-            "name": "星",
-            "URL": "https://en.wiktionary.org/wiki/%E6%98%9F"
-          },
-          {
-            "name": "洲",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B4%B2"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "蘿蔔糕",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94%E7%B3%95"
-          },
-          {
-            "name": "蘿蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
-          },
-          {
-            "name": "糕",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-          }
-        ]
+        "Pinyin": "cài tóu guǒ"
       }
     ],
     "images": [
