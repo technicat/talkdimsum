@@ -250,41 +250,32 @@
         "words": [
             {
                 "English": "green tea fried sesame ball",
-                "Cantonese": "綠茶炸湯圓",
-                "Mandarin": "綠茶炸湯圓",
-                "Simplified": "绿茶炸汤圓",
+                "Cantonese": {
+                    "text": "綠茶炸湯圓",
+                    "wkty": [
+                        "綠茶",
+                        "綠",
+                        "茶",
+                        "炸",
+                        "湯圓",
+                        "湯",
+                        "圓"
+                    ]
+                },
                 "Yale": "luhk chàh ja tōng yún",
-                "Pinyin": "lǜ chá zhà tāng yuán",
-                "resources": [
-                    {
-                        "name": "綠茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%8C%B6"
-                    },
-                    {
-                        "name": "綠",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    },
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "湯圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF%E5%9C%93"
-                    },
-                    {
-                        "name": "湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-                    },
-                    {
-                        "name": "圓",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9C%93"
-                    }
-                ]
+                "Simplified": {
+                    "text": "绿茶炸汤圓",
+                    "wkty": [
+                        "绿茶",
+                        "绿",
+                        "茶",
+                        "炸",
+                        "汤圓",
+                        "汤",
+                        "圓"
+                    ]
+                },
+                "Pinyin": "lǜ chá zhà tāng yuán"
             }
         ],
         "images": [
