@@ -70,41 +70,33 @@
     {
         "words": [
             {
-                "Cantonese": "鹹魚蒸肉餅",
-                "Simplified": "咸鱼蒸肉饼",
                 "English": "salted fish w/ minced pork",
+                "Cantonese": {
+                    "text": "鹹魚蒸肉餅",
+                    "wkty": [
+                        "鹹魚",
+                        "鹹",
+                        "魚",
+                        "蒸",
+                        "肉餅",
+                        "肉",
+                        "餅"
+                    ]
+                },
                 "Yale": "hàahm yùh jīng yuhk béng",
-                "Pinyin": "xián yú zhēng ròu bǐng",
-                "resources": [
-                    {
-                        "name": "鹹魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9%E9%AD%9A"
-                    },
-                    {
-                        "name": "鹹",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B9%B9"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-                    },
-                    {
-                        "name": "蒸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-                    },
-                    {
-                        "name": "肉餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89%E9%A4%85"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "咸鱼蒸肉饼",
+                    "wkty": [
+                        "咸鱼",
+                        "咸",
+                        "鱼",
+                        "蒸",
+                        "肉饼",
+                        "肉",
+                        "饼"
+                    ]
+                },
+                "Pinyin": "xián yú zhēng ròu bǐng"
             }
         ],
         "images": [
