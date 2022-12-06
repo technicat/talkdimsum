@@ -2,26 +2,26 @@
     {
         "words": [
             {
-                "Cantonese": "湯包",
-                "Simplified": "汤包",
                 "English": "soup dumpling",
+                "Cantonese": {
+                    "text": "湯包",
+                    "wkty": [
+                        "湯包",
+                        "湯",
+                        "包"
+                    ]
+                },
                 "Yale": "tōng bāau",
                 "Jyutping": "tong1 baau1",
-                "Pinyin": "tāng bāo",
-                "resources": [
-                    {
-                        "name": "湯包",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF%E5%8C%85"
-                    },
-                    {
-                        "name": "湯",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-                    },
-                    {
-                        "name": "包",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8C%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "汤包",
+                    "wkty": [
+                        "汤包",
+                        "汤",
+                        "包"
+                    ]
+                },
+                "Pinyin": "tāng bāo"
             }
         ],
         "images": [
@@ -30,7 +30,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "[Soup dumplings](https://en.wikipedia.org/wiki/Tangbao) are not dumplings in soup, but the reverse, steamed buns filled with soup. Of the many varieties of soup dumplings, the most common one in dim sum restaurants is [Shanghai dumplings](http://en.wikipedia.org/wiki/Xiaolongbao).\n\n**Characters**\n\n[湯](https://en.wiktionary.org/wiki/湯) is *soup*, and [包](https://en.wiktionary.org/wiki/包) is *bun*, so [湯包](https://en.wiktionary.org/wiki/湯包) is *soup bun*.",
+        "description": "[Soup dumplings](https://en.wikipedia.org/wiki/Tangbao) are not dumplings in soup, but the reverse, steamed buns filled with soup. Of the many varieties of soup dumplings, the most common one in dim sum restaurants is [Shanghai dumplings](http://en.wikipedia.org/wiki/Xiaolongbao).\n\n**Characters**\n\n[湯](https://en.wiktionary.org/wiki/%E6%B9%AF) is *soup*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so [湯包](https://en.wiktionary.org/wiki/%E6%B9%AF%E5%8C%85) is *soup bun*.",
         "tags": [
             "湯包",
             "蒸",
