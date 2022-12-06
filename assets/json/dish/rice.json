@@ -265,29 +265,27 @@
   {
     "words": [
       {
-        "Cantonese": "鰻魚飯",
-        "Simplified": "鳗鱼饭",
         "English": "grilled eel on rice",
+        "Cantonese": {
+          "text": "鰻魚飯",
+          "wkty": [
+            "鰻魚",
+            "鰻",
+            "魚",
+            "飯"
+          ]
+        },
         "Yale": "màahn yú faahn",
-        "Pinyin": "mán yú fàn",
-        "resources": [
-          {
-            "name": "鰻魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB%E9%AD%9A"
-          },
-          {
-            "name": "鰻",
-            "URL": "https://en.wiktionary.org/wiki/%E9%B0%BB"
-          },
-          {
-            "name": "魚",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "鳗鱼饭",
+          "wkty": [
+            "鳗鱼",
+            "鳗",
+            "鱼",
+            "饭"
+          ]
+        },
+        "Pinyin": "mán yú fàn"
       }
     ],
     "images": [
