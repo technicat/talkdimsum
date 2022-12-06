@@ -208,37 +208,31 @@
   {
     "words": [
       {
-        "Cantonese": "冬菇蒸雞飯",
-        "Simplified": "冬菇蒸鸡饭",
         "English": "steamed chicken w/ mushrooms on rice",
+        "Cantonese": {
+          "text": "冬菇蒸雞飯",
+          "wkty": [
+            "冬菇",
+            "冬",
+            "菇",
+            "蒸",
+            "雞",
+            "飯"
+          ]
+        },
         "Yale": "dūng gū jīng gāi faahn",
-        "Pinyin": "dōng gū zhēng jī fàn",
-        "resources": [
-          {
-            "name": "冬菇",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC%E8%8F%87"
-          },
-          {
-            "name": "冬",
-            "URL": "https://en.wiktionary.org/wiki/%E5%86%AC"
-          },
-          {
-            "name": "菇",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-          },
-          {
-            "name": "蒸",
-            "URL": "https://en.wiktionary.org/wiki/%E8%92%B8"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "冬菇蒸鸡饭",
+          "wkty": [
+            "冬菇",
+            "冬",
+            "菇",
+            "蒸",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "dōng gū zhēng jī fàn"
       }
     ],
     "images": [
@@ -356,7 +350,7 @@
           ]
         },
         "Simplified": {
-          "text":"蒸冬菜牛肉餅饭",
+          "text": "蒸冬菜牛肉餅饭",
           "wkty": [
             "蒸",
             "冬菜",
@@ -370,7 +364,6 @@
             "饭"
           ]
         },
-       
         "Yale": "jīng dūng choi ngàuh yuhk faahn",
         "Pinyin": "zhēng dōng cài niú ròu fàn"
       }
