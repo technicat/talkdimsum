@@ -2,37 +2,31 @@
     {
         "words": [
             {
-                "Cantonese": "蠔油時蔬",
-                "Simplified": "蚝油时蔬",
                 "English": "Seasonal vegetables with oyster sauce",
+                "Cantonese": {
+                    "text": "蠔油時蔬",
+                    "wkty": [
+                        "蠔油",
+                        "蠔",
+                        "油",
+                        "時蔬",
+                        "時",
+                        "蔬"
+                    ]
+                },
                 "Yale": "hòuh yàuh sìh sō",
-                "Pinyin": "háo yóu shí shū",
-                "resources": [
-                    {
-                        "name": "蠔油",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9"
-                    },
-                    {
-                        "name": "蠔",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%A0%94"
-                    },
-                    {
-                        "name": "油",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-                    },
-                    {
-                        "name": "時蔬",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%99%82%E8%94%AC"
-                    },
-                    {
-                        "name": "時",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%99%82"
-                    },
-                    {
-                        "name": "蔬",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%94%AC"
-                    }
-                ]
+                "Simplified": {
+                    "text": "蚝油时蔬",
+                    "wkty": [
+                        "蚝油",
+                        "蚝",
+                        "油",
+                        "時蔬",
+                        "時",
+                        "蔬"
+                    ]
+                },
+                "Pinyin": "háo yóu shí shū"
             }
         ],
         "images": [
@@ -81,7 +75,6 @@
                         "name": "齋",
                         "URL": "https://en.wiktionary.org/wiki/%E9%BD%8B"
                     }
-                    
                 ]
             }
         ],
