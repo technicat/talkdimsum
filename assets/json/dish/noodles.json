@@ -405,33 +405,30 @@
   {
     "words": [
       {
-        "Cantonese": "螺螄粉",
-        "Simplified": "螺蛳粉",
         "English": "snail noodles",
+        "Cantonese": {
+          "text": "螺螄粉",
+          "wkty": [
+            "螺螄粉",
+            "螺螄",
+            "螺",
+            "螄",
+            "粉"
+          ]
+        },
         "Yale": "lòh sī fán",
-        "Pinyin": "luó sī fěn",
-        "resources": [
-          {
-            "name": "螺螄粉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9E%BA%E8%9E%84%E7%B2%89"
-          },
-          {
-            "name": "螺螄",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9E%BA%E8%9E%84"
-          },
-          {
-            "name": "螺",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9E%BA"
-          },
-          {
-            "name": "螄",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9E%84"
-          },
-          {
-            "name": "粉",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-          }
-        ]
+        "Simplified":  {
+          "text": "螺蛳粉",
+          "wkty": [
+            "螺蛳粉",
+            "螺蛳",
+            "螺",
+            "蛳",
+            "粉"
+          ]
+        },
+       
+        "Pinyin": "luó sī fěn"
       }
     ],
     "images": [
