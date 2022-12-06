@@ -191,74 +191,20 @@
     {
         "words": [
             {
-                "other": "排骨鍋腸粉",
-                "Cantonese": "排骨腸粉",
                 "English": "rice roll w/ spare ribs",
+                "Cantonese": {
+                    "text": "排骨腸粉",
+                    "wkty": [
+                        "排骨",
+                        "排",
+                        "骨",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "pàaih gwāt chéung fán",
-                "Pinyin": "pái gǔ cháng fěn",
-                "resources": [
-                    {
-                        "name": "排骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92%E9%AA%A8"
-                    },
-                    {
-                        "name": "排",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
-            },
-            {
-                "Cantonese": "排骨鍋腸粉",
-                "Simplified": "排骨锅腸粉",
-                "English": "spare ribs on rice noodle",
-                "Yale": "pàaih gwāt wō chéung fán",
-                "Pinyin": "pái gǔ guō cháng fěn",
-                "resources": [
-                    {
-                        "name": "排骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92%E9%AA%A8"
-                    },
-                    {
-                        "name": "排",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8E%92"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    },
-                    {
-                        "name": "鍋",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%8D%8B"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Pinyin": "pái gǔ cháng fěn"
             }
         ],
         "images": [
@@ -285,32 +231,19 @@
     {
         "words": [
             {
-                "Cantonese": "牛仔骨",
                 "English": "beef short ribs",
+                "Cantonese": {
+                    "text": "牛仔骨",
+                    "wkty": [
+                        "牛仔骨",
+                        "牛仔",
+                        "牛",
+                        "仔",
+                        "骨"
+                    ]
+                },
                 "Yale": "ngàuh jái gwāt",
-                "Pinyin": "niú zǎi gǔ",
-                "resources": [
-                    {
-                        "name": "牛仔骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E4%BB%94%E9%AA%A8"
-                    },
-                    {
-                        "name": "牛仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E4%BB%94"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
-                    },
-                    {
-                        "name": "骨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AA%A8"
-                    }
-                ]
+                "Pinyin": "niú zǎi gǔ"
             }
         ],
         "images": [
