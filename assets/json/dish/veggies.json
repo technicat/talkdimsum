@@ -95,45 +95,35 @@
     {
         "words": [
             {
-                "Cantonese": "乾煸四季豆",
-                "Simplified": "干煸四季豆",
                 "English": "stir-fried string beans w/ minced pork",
+                "Cantonese": {
+                    "text": "乾煸四季豆",
+                    "wkty": [
+                        "乾",
+                        "煸",
+                        "四季豆",
+                        "四季",
+                        "四",
+                        "季",
+                        "豆",
+                        "四季豆"
+                    ]
+                },
                 "Yale": "gōn bīn sei gwai dáu",
-                "Pinyin": "gān biān sì jì dòu",
-                "resources": [
-                    {
-                        "name": "乾",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B9%BE"
-                    },
-                    {
-                        "name": "煸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B8"
-                    },
-                    {
-                        "name": "四季豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3%E8%B1%86"
-                    },
-                    {
-                        "name": "四季",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3"
-                    },
-                    {
-                        "name": "四",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B"
-                    },
-                    {
-                        "name": "季",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%A3"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "四季豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%9B%9B%E5%AD%A3%E8%B1%86"
-                    }
-                ]
+                "Simplified": {
+                    "text": "干煸四季豆",
+                    "wkty": [
+                        "干",
+                        "煸",
+                        "四季豆",
+                        "四季",
+                        "四",
+                        "季",
+                        "豆",
+                        "四季豆"
+                    ]
+                },
+                "Pinyin": "gān biān sì jì dòu"
             }
         ],
         "images": [
