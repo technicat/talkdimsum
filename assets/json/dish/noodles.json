@@ -114,29 +114,27 @@
   {
     "words": [
       {
-        "Cantonese": "麻醬麵",
-        "Simplified": "麻酱面",
         "English": "sesame noodles",
+        "Cantonese": {
+          "text": "麻醬麵",
+          "wkty": [
+            "麻醬",
+            "麻",
+            "醬",
+            "麵"
+          ]
+        },
         "Yale": "màh jeung mihn",
-        "Pinyin": "má jiàng miàn",
-        "resources": [
-          {
-            "name": "麻醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB%E9%86%AC"
-          },
-          {
-            "name": "麻",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          },
-          {
-            "name": "麵",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-          }
-        ]
+        "Simplified": {
+          "text": "麻酱面",
+          "wkty": [
+            "麻酱",
+            "麻",
+            "酱",
+            "面"
+          ]
+        },
+        "Pinyin": "má jiàng miàn"
       }
     ],
     "images": [
@@ -417,7 +415,7 @@
           ]
         },
         "Yale": "lòh sī fán",
-        "Simplified":  {
+        "Simplified": {
           "text": "螺蛳粉",
           "wkty": [
             "螺蛳粉",
@@ -427,7 +425,6 @@
             "粉"
           ]
         },
-       
         "Pinyin": "luó sī fěn"
       }
     ],
