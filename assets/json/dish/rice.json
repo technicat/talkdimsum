@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "白飯",
-        "Simplified": "白饭",
         "English": "white rice",
+        "Cantonese": {
+          "text": "白飯",
+          "wkty": [
+            "白飯",
+            "白",
+            "飯"
+          ]
+        },
         "Yale": "baahk faahn",
-        "Pinyin": "bái fàn",
-        "resources": [
-          {
-            "name": "白飯",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E9%A3%AF"
-          },
-          {
-            "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-          },
-          {
-            "name": "飯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "白饭",
+          "wkty": [
+            "白饭",
+            "白",
+            "饭"
+          ]
+        },
+        "Pinyin": "bái fàn"
       }
     ],
     "images": [
