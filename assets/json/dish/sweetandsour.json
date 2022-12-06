@@ -2,33 +2,29 @@
   {
     "words": [
       {
-        "Cantonese": "甜酸雞捲",
-        "Simplified": "甜酸鸡卷",
         "English": "sweet and sour chicken roll",
+        "Cantonese": {
+          "text": "甜酸雞卷",
+          "wkty": [
+            "甜酸",
+            "甜",
+            "酸",
+            "雞",
+            "卷"
+          ]
+        },
         "Yale": "tìhm syūn gāi gyún",
-        "Pinyin": "tián suān jī juǎn",
-        "resources": [
-          {
-            "name": "甜酸",
-            "URL": "https://en.wiktionary.org/wiki/%E7%94%9C%E9%85%B8"
-          },
-          {
-            "name": "甜",
-            "URL": "https://en.wiktionary.org/wiki/%E7%94%9C"
-          },
-          {
-            "name": "酸",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%B8"
-          },
-          {
-            "name": "雞",
-            "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-          },
-          {
-            "name": "捲",
-            "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-          }
-        ]
+        "Simplified": {
+          "text": "甜酸鸡卷",
+          "wkty": [
+            "甜酸",
+            "甜",
+            "酸",
+            "雞",
+            "卷"
+          ]
+        },
+        "Pinyin": "tián suān jī juǎn"
       }
     ],
     "images": [
@@ -45,7 +41,7 @@
       "蒸",
       "豆腐",
       "酸",
-      "捲",
+      "卷",
       "糖醋醬",
       "點心"
     ],
@@ -63,41 +59,33 @@
   {
     "words": [
       {
-        "Cantonese": "甜酸海鮮塊",
-        "Simplified": "甜酸海鲜块",
         "English": "sweet and sour seafood nuggets",
+        "Cantonese": {
+          "text": "甜酸海鮮塊",
+          "wkty": [
+            "甜酸",
+            "甜",
+            "酸",
+            "海鮮",
+            "海",
+            "鮮",
+            "塊"
+          ]
+        },
         "Yale": "tìhm syūn hói sīn faai",
-        "Pinyin": "tián suān hǎi xiān kuài",
-        "resources": [
-          {
-            "name": "甜酸",
-            "URL": "https://en.wiktionary.org/wiki/%E7%94%9C%E9%85%B8"
-          },
-          {
-            "name": "甜",
-            "URL": "https://en.wiktionary.org/wiki/%E7%94%9C"
-          },
-          {
-            "name": "酸",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%B8"
-          },
-          {
-            "name": "海鮮",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7%E9%AE%AE"
-          },
-          {
-            "name": "海",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B5%B7"
-          },
-          {
-            "name": "鮮",
-            "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-          },
-          {
-            "name": "塊",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A1%8A"
-          }
-        ]
+        "Simplified": {
+          "text": "甜酸海鲜块",
+          "wkty": [
+            "甜酸",
+            "甜",
+            "酸",
+            "海鮮",
+            "海",
+            "鲜",
+            "块"
+          ]
+        },
+        "Pinyin": "tián suān hǎi xiān kuài"
       }
     ],
     "images": [
