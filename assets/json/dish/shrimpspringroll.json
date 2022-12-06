@@ -2,41 +2,31 @@
     {
         "words": [
             {
-                "Cantonese": "鮮蝦春捲",
-                "Simplified": "鲜虾春卷",
                 "English": "shrimp spring roll",
+                "Cantonese": {
+                    "text": "鮮蝦春捲",
+                    "wkty": [
+                        "鮮蝦",
+                        "鮮",
+                        "椒",
+                        "春捲",
+                        "春",
+                        "捲"
+                    ]
+                },
                 "Yale": "sīn hā chēun gyún",
-                "Pinyin": "xiān xiā chūn juǎn",
-                "resources": [
-                    {
-                        "name": "鮮蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "春捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5%E6%8D%B2"
-                    },
-                    {
-                        "name": "春",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%98%A5"
-                    },
-                    {
-                        "name": "捲",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%8D%B2"
-                    }
-                ]
+                "Simplified": {
+                    "text": "鲜虾春卷",
+                    "wkty": [
+                        "鲜虾",
+                        "鲜",
+                        "虾",
+                        "春捲",
+                        "春",
+                        "卷"
+                    ]
+                },
+                "Pinyin": "xiān xiā chūn juǎn"
             }
         ],
         "images": [
