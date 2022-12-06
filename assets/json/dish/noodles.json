@@ -2,17 +2,27 @@
   {
     "words": [
       {
-        "Cantonese": "蔥油拌麵",
-        "Simplified": "葱油拌面",
         "English": "scallion oil noodles",
+        "Cantonese": {
+          "text": "蔥油拌麵",
+          "wkty": [
+            "蔥",
+            "油",
+            "拌麵",
+            "麵"
+          ]
+        },
         "Yale": "daam daam mihn",
-        "Pinyin": "dàn dàn miàn",
-        "resources": [
-          {
-            "name": "麵",
-            "URL": "https://en.wiktionary.org/wiki/%E9%BA%B5"
-          }
-        ]
+        "Simplified": {
+          "text": "葱油拌面",
+          "wkty": [
+            "葱",
+            "油",
+            "拌面",
+            "面"
+          ]
+        },
+        "Pinyin": "dàn dàn miàn"
       }
     ],
     "images": [
