@@ -257,29 +257,27 @@
     {
         "words": [
             {
-                "Cantonese": "豆苗餃",
-                "Simplified": "豆苗饺",
                 "English": "pea shoot dumpling",
+                "Cantonese": {
+                    "text": "豆苗餃",
+                    "wkty": [
+                        "豆苗",
+                        "豆",
+                        "苗",
+                        "餃"
+                    ]
+                },
                 "Yale": "dauh mìuh gáau",
-                "Pinyin": "dòu miáo jiǎo",
-                "resources": [
-                    {
-                        "name": "豆苗",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E8%8B%97"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "苗",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8B%97"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "豆苗饺",
+                    "wkty": [
+                        "豆苗",
+                        "豆",
+                        "苗",
+                        "饺"
+                    ]
+                },
+                "Pinyin": "dòu miáo jiǎo"
             }
         ],
         "images": [
