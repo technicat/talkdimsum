@@ -95,29 +95,27 @@
     {
         "words": [
             {
-                "Cantonese": "蔥腸粉",
-                "Simplified": "葱肠粉",
+                "Cantonese": {
+                    "text": "蔥腸粉",
+                    "wkty": [
+                        "蔥",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
+                "Simplified": {
+                    "text":"葱肠粉",
+                    "wkty": [
+                        "蔥",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
                 "English": "scallion rice roll",
                 "Yale": "chūng chéung fán",
-                "Pinyin": "cōng cháng fěn",
-                "resources": [
-                    {
-                        "name": "蔥",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%94%A5"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Pinyin": "cōng cháng fěn"
             }
         ],
         "images": [
@@ -368,37 +366,31 @@
     {
         "words": [
             {
-                "Cantonese": "叉燒腸粉",
-                "Simplified": "叉烧肠粉",
                 "English": "BBQ pork rice roll",
+                "Cantonese": {
+                    "text": "叉燒腸粉",
+                    "wkty": [
+                        "叉燒",
+                        "叉",
+                        "燒",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "chā sīu chéung fán",
-                "Pinyin": "chā shāo cháng fěn",
-                "resources": [
-                    {
-                        "name": "叉燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89%E7%87%92"
-                    },
-                    {
-                        "name": "叉",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%8F%89"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "叉烧肠粉",
+                    "wkty": [
+                        "叉燒",
+                        "叉",
+                        "燒",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "chā shāo cháng fěn"
             }
         ],
         "images": [
