@@ -517,42 +517,33 @@
     {
         "words": [
             {
-                "Cantonese": "咖喱蝦腸粉",
-                "Mandarin": "咖哩蝦腸粉",
-                "Simplified": "咖哩蝦肠粉",
                 "English": "curry shrimp rice roll",
+                "Cantonese": {
+                    "text": "咖喱蝦腸粉",
+                    "wkty": [
+                        "咖喱",
+                        "咖",
+                        "喱",
+                        "蝦",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "ga lēi hā chéung fán",
-                "Pinyin": "gā lí xiā cháng fěn",
-                "resources": [
-                    {
-                        "name": "咖喱",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%92%96%E5%96%B1"
-                    },
-                    {
-                        "name": "咖",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%92%96"
-                    },
-                    {
-                        "name": "喱",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%96%B1"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "咖喱虾肠粉",
+                    "wkty": [
+                        "咖喱",
+                        "咖",
+                        "喱",
+                        "虾",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "gā lí xiā cháng fěn"
             }
         ],
         "images": [
