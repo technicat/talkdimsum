@@ -111,29 +111,27 @@
     {
         "words": [
             {
-                "Cantonese": "韭菜餃",
-                "Simplified": "韭菜饺",
                 "English": "shrimp and chive dumpling",
+                "Cantonese": {
+                    "text": "韭菜餃",
+                    "wkty": [
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "餃"
+                    ]
+                },
                 "Yale": "gáu choi gáau",
-                "Pinyin": "jiǔ cài jiǎo",
-                "resources": [
-                    {
-                        "name": "韭菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD%E8%8F%9C"
-                    },
-                    {
-                        "name": "韭",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AD"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "韭菜饺",
+                    "wkty": [
+                        "韭菜",
+                        "韭",
+                        "菜",
+                        "饺"
+                    ]
+                },
+                "Pinyin": "jiǔ cài jiǎo"
             }
         ],
         "images": [
