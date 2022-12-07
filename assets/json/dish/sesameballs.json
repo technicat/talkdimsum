@@ -89,37 +89,31 @@
     {
         "words": [
             {
-                "Cantonese": "蓮蓉煎堆",
-                "Simplified": "莲蓉煎堆",
+                "Cantonese": {
+                    "text": "蓮蓉煎堆",
+                    "wkty": [
+                        "蓮蓉",
+                        "蓮",
+                        "蓉",
+                        "煎堆",
+                        "煎",
+                        "堆"
+                    ]
+                },
+                "Simplified":  {
+                    "text": "莲蓉煎堆",
+                    "wkty": [
+                        "蓮蓉",
+                        "蓮",
+                        "蓉",
+                        "煎堆",
+                        "煎",
+                        "堆"
+                    ]
+                },
                 "English": "lotus seed sesame ball",
                 "Yale": "lìhn yùhng jīn dēui",
-                "Pinyin": "lián róng jiān duī",
-                "resources": [
-                    {
-                        "name": "蓮蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%AE%E8%93%89"
-                    },
-                    {
-                        "name": "蓮",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%AE"
-                    },
-                    {
-                        "name": "蓉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%93%89"
-                    },
-                    {
-                        "name": "煎堆",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E5%A0%86"
-                    },
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "堆",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A0%86"
-                    }
-                ]
+                "Pinyin": "lián róng jiān duī"
             }
         ],
         "images": [
