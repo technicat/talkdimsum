@@ -292,45 +292,35 @@
   {
     "words": [
       {
-        "Cantonese": "XO醬炒蘿蔔糕",
-        "Simplified": "XO酱炒萝卜糕",
         "English": "stir-fried turnip cake w/ XO sauce",
+        "Cantonese": {
+          "text": "XO醬炒蘿蔔糕",
+          "wkty": [
+            "XO醬",
+            "醬",
+            "炒",
+            "蘿蔔糕",
+            "蘿蔔",
+            "蘿",
+            "蔔",
+            "糕"
+          ]
+        },
         "Yale": "XO jeung cháau lò baahk gōu",
-        "Pinyin": "XO jiàng chǎo luó bo gāo",
-        "resources": [
-          {
-            "name": "XO醬",
-            "URL": "https://en.wiktionary.org/wiki/XO%E9%86%AC"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          },
-          {
-            "name": "炒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%82%92"
-          },
-          {
-            "name": "蘿蔔糕",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94%E7%B3%95"
-          },
-          {
-            "name": "蘿蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF%E8%94%94"
-          },
-          {
-            "name": "蘿",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%BF"
-          },
-          {
-            "name": "蔔",
-            "URL": "https://en.wiktionary.org/wiki/%E8%94%94"
-          },
-          {
-            "name": "糕",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B3%95"
-          }
-        ]
+        "Simplified": {
+          "text": "XO酱炒萝卜糕",
+          "wkty": [
+            "XO酱",
+            "酱",
+            "炒",
+            "蘿蔔糕",
+            "萝卜",
+            "萝",
+            "卜",
+            "糕"
+          ]
+        },
+        "Pinyin": "XO jiàng chǎo luó bo gāo"
       }
     ],
     "images": [
