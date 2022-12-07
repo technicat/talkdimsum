@@ -24,8 +24,7 @@
       "海鮮",
       "點心"
     ],
-    "resources": [
-    ]
+    "resources": []
   },
   {
     "words": [
@@ -85,8 +84,7 @@
       "海鮮",
       "點心"
     ],
-    "resources": [
-    ]
+    "resources": []
   },
   {
     "words": [
@@ -167,39 +165,34 @@
       "海鮮",
       "點心"
     ],
-    "resources": [
-    ]
+    "resources": []
   },
   {
     "words": [
       {
-        "Cantonese": "杏仁蝦球",
-        "Simplified": "杏仁虾球",
         "English": "almond shrimp ball",
+        "Cantonese": {
+          "text": "杏仁蝦球",
+          "wkty": [
+            "杏仁",
+            "杏",
+            "仁",
+            "蝦",
+            "球"
+          ]
+        },
         "Yale": "hahng yàhn hā kàu",
-        "Pinyin": "xìng rén xiā qiú",
-        "resources": [
-          {
-            "name": "杏仁",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F%E4%BB%81"
-          },
-          {
-            "name": "杏",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9D%8F"
-          },
-          {
-            "name": "仁",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BB%81"
-          },
-          {
-            "name": "蝦",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-          },
-          {
-            "name": "球",
-            "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-          }
-        ]
+        "Simplified": {
+          "text": "杏仁虾球",
+          "wkty": [
+            "杏仁",
+            "杏",
+            "仁",
+            "虾",
+            "球"
+          ]
+        },
+        "Pinyin": "xìng rén xiā qiú"
       }
     ],
     "images": [
