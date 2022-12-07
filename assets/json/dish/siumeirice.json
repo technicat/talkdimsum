@@ -55,29 +55,27 @@
     {
         "words": [
             {
-                "Cantonese": "燒肉飯",
-                "Simplified": "烧肉饭",
                 "English": "pork belly rice",
+                "Cantonese": {
+                    "text": "燒肉飯",
+                    "wkty": [
+                        "燒肉",
+                        "燒",
+                        "肉",
+                        "飯"
+                    ]
+                },
                 "Yale": "sīu yuhk faahn",
-                "Pinyin": "shāo ròu fàn",
-                "resources": [
-                    {
-                        "name": "燒肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E8%82%89"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "烧肉饭",
+                    "wkty": [
+                        "燒肉",
+                        "燒",
+                        "肉",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "shāo ròu fàn"
             }
         ],
         "images": [
