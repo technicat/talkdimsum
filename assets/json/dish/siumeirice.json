@@ -144,29 +144,27 @@
     {
         "words": [
             {
-                "Cantonese": "三寶飯",
-                "Simplified": "三宝饭",
                 "English": "three treasures rice",
+                "Cantonese": {
+                    "text": "三寶飯",
+                    "wkty": [
+                        "三寶",
+                        "三",
+                        "寶",
+                        "飯"
+                    ]
+                },
                 "Yale": "sāam bóu faahn",
-                "Pinyin": "sān bǎo fàn",
-                "resources": [
-                    {
-                        "name": "三寶",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89%E5%AF%B6"
-                    },
-                    {
-                        "name": "三",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89"
-                    },
-                    {
-                        "name": "寶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AF%B6"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "三宝饭",
+                    "wkty": [
+                        "三宝",
+                        "三",
+                        "宝",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "sān bǎo fàn"
             }
         ],
         "images": [
