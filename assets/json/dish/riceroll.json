@@ -312,37 +312,31 @@
     {
         "words": [
             {
-                "Cantonese": "牛肉腸粉",
-                "Simplified": "牛肉肠粉",
                 "English": "beef rice roll",
+                "Cantonese": {
+                    "text": "牛肉腸粉",
+                    "wkty": [
+                        "牛肉",
+                        "牛",
+                        "肉",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "ngàuh yuhk chéung fán",
-                "Pinyin": "niú ròu cháng fěn",
-                "resources": [
-                    {
-                        "name": "牛肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-                    },
-                    {
-                        "name": "牛",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-                    },
-                    {
-                        "name": "肉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "牛肉肠粉",
+                    "wkty": [
+                        "牛肉",
+                        "牛",
+                        "肉",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "niú ròu cháng fěn"
             }
         ],
         "images": [
