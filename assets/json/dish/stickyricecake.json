@@ -49,37 +49,31 @@
     {
         "words": [
             {
-                "Cantonese": "黑芝麻餅",
-                "Simplified": "黑芝麻饼",
                 "English": "sticky rice cake w/ black sesame paste",
+                "Cantonese": {
+                    "text": "黑芝麻餅",
+                    "wkty": [
+                        "黑芝麻",
+                        "黑",
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "餅"
+                    ]
+                },
                 "Yale": "hāk jī màh béng",
-                "Pinyin": "hēi zhī ma bǐng",
-                "resources": [
-                    {
-                        "name": "黑芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "黑",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%91"
-                    },
-                    {
-                        "name": "芝麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D%E9%BA%BB"
-                    },
-                    {
-                        "name": "芝",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8A%9D"
-                    },
-                    {
-                        "name": "麻",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BA%BB"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "黑芝麻饼",
+                    "wkty": [
+                        "黑芝麻",
+                        "黑",
+                        "芝麻",
+                        "芝",
+                        "麻",
+                        "饼"
+                    ]
+                },
+                "Pinyin": "hēi zhī ma bǐng"
             }
         ],
         "images": [
