@@ -330,38 +330,31 @@
     {
         "words": [
             {
-                "Cantonese": "菠菜雜菇餃",
-                "Simplified": "菠菜雜菇饺",
-                "Alternate": "菠菜什菇餃",
                 "English": "spinach and mushroom dumpling",
+                "Cantonese": {
+                    "text": "菠菜雜菇餃",
+                    "wkty": [
+                        "菠菜",
+                        "菠",
+                        "菜",
+                        "雜",
+                        "菇",
+                        "餃"
+                    ]
+                },
                 "Yale": "bō choi jaahp gū gáau",
-                "Pinyin": "bō cài zá gū jiǎo",
-                "resources": [
-                    {
-                        "name": "菠菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%8F%9C"
-                    },
-                    {
-                        "name": "菠",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "雜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9C"
-                    },
-                    {
-                        "name": "菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "菠菜雜菇饺",
+                    "wkty": [
+                        "菠菜",
+                        "菠",
+                        "菜",
+                        "雜",
+                        "菇",
+                        "饺"
+                    ]
+                },
+                "Pinyin": "bō cài zá gū jiǎo"
             }
         ],
         "images": [
