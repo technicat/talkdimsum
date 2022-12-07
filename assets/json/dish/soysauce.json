@@ -132,36 +132,20 @@
   {
     "words": [
       {
-        "Cantonese": "蘑菇老抽",
         "English": "mushroom soy sauce",
+        "Cantonese": {
+          "text": "蘑菇老抽",
+          "wkty": [
+            "蘑菇",
+            "蘑",
+            "菇",
+            "老抽",
+            "老",
+            "抽"
+          ]
+        },
         "Yale": "mòh gū lóuh chāu",
-        "Pinyin": "mó gu lǎo chōu",
-        "resources": [
-          {
-            "name": "蘑菇",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%91%E8%8F%87"
-          },
-          {
-            "name": "蘑",
-            "URL": "https://en.wiktionary.org/wiki/%E8%98%91"
-          },
-          {
-            "name": "菇",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-          },
-          {
-            "name": "老抽",
-            "URL": "https://en.wiktionary.org/wiki/%E8%80%81%E6%8A%BD"
-          },
-          {
-            "name": "老",
-            "URL": "https://en.wiktionary.org/wiki/%E8%80%81"
-          },
-          {
-            "name": "抽",
-            "URL": "https://en.wiktionary.org/wiki/%E6%8A%BD"
-          }
-        ]
+        "Pinyin": "mó gu lǎo chōu"
       }
     ],
     "images": [
