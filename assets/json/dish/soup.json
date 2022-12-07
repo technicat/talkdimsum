@@ -213,30 +213,27 @@
   {
     "words": [
       {
-        "Cantonese": "牛尾湯",
-        "Simplified": "牛尾汤",
         "English": "oxtail soup",
+        "Cantonese": {
+          "text": "牛尾湯",
+          "wkty": [
+            "牛尾",
+            "牛",
+            "尾",
+            "湯"
+          ]
+        },
         "Yale": "ngàuh méih tōng",
-        "Jyupting": "tong1",
-        "Pinyin": "niú wěi tāng",
-        "resources": [
-          {
-            "name": "牛尾",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E5%B0%BE"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E5%B0%BE"
-          },
-          {
-            "name": "尾",
-            "URL": "https://en.wiktionary.org/wiki/%E5%B0%BE"
-          },
-          {
-            "name": "湯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "牛尾汤",
+          "wkty": [
+            "牛尾",
+            "牛",
+            "尾",
+            "汤"
+          ]
+        },
+        "Pinyin": "niú wěi tāng"
       }
     ],
     "images": [
