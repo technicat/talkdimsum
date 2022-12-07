@@ -105,7 +105,7 @@
                     ]
                 },
                 "Simplified": {
-                    "text":"葱肠粉",
+                    "text": "葱肠粉",
                     "wkty": [
                         "蔥",
                         "肠粉",
@@ -164,7 +164,7 @@
                         "粉"
                     ]
                 },
-                "Pinyin": "xiān xiā cháng fěn",
+                "Pinyin": "xiān xiā cháng fěn"
             }
         ],
         "images": [
@@ -247,40 +247,34 @@
         "words": [
             {
                 "English": "shrimp and chives rice roll",
-                "Cantonese": "韮黃鮮蝦腸粉",
-                "Simplified": "韭黄鲜虾肠粉",
+                "Cantonese": {
+                    "text": "韮黃鮮蝦腸粉",
+                    "wkty": [
+                        "韮",
+                        "黃",
+                        "鮮蝦",
+                        "鮮",
+                        "蝦",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "gáu wòhng sīn hā chéung fán",
-                "Pinyin": "jiǔ huáng xiān xiā cháng fěn",
-                "resources": [
-                    {
-                        "name": "韮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9F%AE"
-                    },
-                    {
-                        "name": "黃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BB%83"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "韭黄鲜虾肠粉",
+                    "wkty": [
+                        "韮",
+                        "黄",
+                        "鲜虾",
+                        "鲜",
+                        "虾",
+                        "腸粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "jiǔ huáng xiān xiā cháng fěn"
             }
         ],
         "images": [
@@ -289,7 +283,7 @@
                 "place": "Tim Ho Wan, Las Vegas, Nevada"
             }
         ],
-        "description": "Rice roll with shrimp and Chinese chives\n\n**Characters**\n\nThe first two characters 韮黃 mean “Chinese chives” (also known as “garlic chives”), specifically chive sprouts. 鮮 means “fresh,” 蝦 means “shrimp,” and [腸粉](https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89) is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll). So the whole thing is ”chives and fresh shrimp rice roll,”\n\nRice rolls with shrimp are standard dim sum, but I've only seen this variation with Chinese chives at Tim Ho Wan.",
+        "description": "Rice roll with shrimp and Chinese chives\n\n**Characters**\n\n韮黃 is “Chinese chives” (also known as “garlic chives”), specifically chive sprouts. 鮮 means “fresh,” 蝦 means “shrimp,” and [腸粉](https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89) is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll). So the whole thing is ”chives and fresh shrimp rice roll,”\n\nRice rolls with shrimp are standard dim sum, but I've only seen this variation with Chinese chives at Tim Ho Wan.",
         "tags": [
             "粵菜",
             "腸粉",
