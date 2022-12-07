@@ -170,25 +170,18 @@
   {
     "words": [
       {
-        "Cantonese": "香油",
         "English": "sesame oil",
+        "Cantonese": {
+          "text": "香油",
+          "wkty": [
+            "香油",
+            "香",
+            "油"
+          ]
+        },
         "Yale": "hēung yàuh",
         "Jyutping": "hoeng1 jau4",
-        "Pinyin": "xiāng yóu",
-        "resources": [
-          {
-            "name": "香油",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E6%B2%B9"
-          },
-          {
-            "name": "香",
-            "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
-          },
-          {
-            "name": "油",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-          }
-        ]
+        "Pinyin": "xiāng yóu"
       }
     ],
     "images": [
