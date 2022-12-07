@@ -148,34 +148,30 @@
   {
     "words": [
       {
-        "Cantonese": "蛋花湯",
-        "Simplified": "蛋花汤",
         "English": "egg drop soup",
+        "Cantonese": {
+          "text": "蛋花湯",
+          "wkty": [
+            "蛋花湯",
+            "蛋花",
+            "蛋",
+            "花",
+            "湯"
+          ]
+        },
         "Yale": "dáan fā tōng",
         "Jyupting": "daan2 faa1 tong1",
-        "Pinyin": "dàn huā tāng",
-        "resources": [
-          {
-            "name": "蛋花湯",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E8%8A%B1%E6%B9%AF"
-          },
-          {
-            "name": "蛋花",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B%E8%8A%B1"
-          },
-          {
-            "name": "蛋",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9B%8B"
-          },
-          {
-            "name": "花",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
-          },
-          {
-            "name": "湯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "蛋花汤",
+          "wkty": [
+            "蛋花汤",
+            "蛋花",
+            "蛋",
+            "花",
+            "汤"
+          ]
+        },
+        "Pinyin": "dàn huā tāng"
       }
     ],
     "images": [
