@@ -101,29 +101,27 @@
     {
         "words": [
             {
-                "Cantonese": "綠茶餅",
-                "Simplified": "绿茶饼",
                 "English": "sticky rice cake w/ green tea paste",
+                "Cantonese": {
+                    "text": "綠茶餅",
+                    "wkty": [
+                        "綠茶",
+                        "綠",
+                        "茶",
+                        "餅"
+                    ]
+                },
                 "Yale": "luhk chàh béng",
-                "Pinyin": "lǜ chá bǐng",
-                "resources": [
-                    {
-                        "name": "綠茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0%E8%8C%B6"
-                    },
-                    {
-                        "name": "綠",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B6%A0"
-                    },
-                    {
-                        "name": "茶",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%B6"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "绿茶饼",
+                    "wkty": [
+                        "绿茶",
+                        "绿",
+                        "茶",
+                        "饼"
+                    ]
+                },
+                "Pinyin": "lǜ chá bǐng"
             }
         ],
         "images": [
