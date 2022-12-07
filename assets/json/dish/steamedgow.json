@@ -298,25 +298,17 @@
     {
         "words": [
             {
-                "Cantonese": "雜菇餃",
-                "Alternate": "什菇饺",
                 "English": "mushroom dumpling",
+                "Cantonese": {
+                    "text": "雜菇餃",
+                    "wkty": [
+                        "雜",
+                        "菇",
+                        "餃"
+                    ]
+                },
                 "Yale": "jaahp gū gáau",
-                "Pinyin": "zá gū jiǎo",
-                "resources": [
-                    {
-                        "name": "雜",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9C"
-                    },
-                    {
-                        "name": "菇",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Pinyin": "zá gū jiǎo"
             }
         ],
         "images": [
