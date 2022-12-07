@@ -143,36 +143,30 @@
         "words": [
             {
                 "English": "shrimp rice roll",
-                "Cantonese": "鮮蝦腸粉",
-                "Simplified": "鲜虾肠粉",
+                "Cantonese": {
+                    "text": "鮮蝦腸粉",
+                    "wkty": [
+                        "鮮蝦",
+                        "鮮",
+                        "蝦",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "sīn hā chéung fán",
+                "Simplified": {
+                    "text": "鲜虾肠粉",
+                    "wkty": [
+                        "鲜虾",
+                        "鲜",
+                        "虾",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
                 "Pinyin": "xiān xiā cháng fěn",
-                "resources": [
-                    {
-                        "name": "鮮蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE%E8%9D%A6"
-                    },
-                    {
-                        "name": "鮮",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AE%AE"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
             }
         ],
         "images": [
