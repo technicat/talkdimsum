@@ -54,29 +54,27 @@
     {
         "words": [
             {
-                "Cantonese": "炸蝦仔",
-                "Simplified": "炸虾仔",
                 "English": "fried shrimp",
+                "Cantonese": {
+                    "text": "炸蝦仔",
+                    "wkty": [
+                        "炸",
+                        "蝦仔",
+                        "蝦",
+                        "仔"
+                    ]
+                },
                 "Yale": "ja hā jái",
-                "Pinyin": "zhà xiā zǐ",
-                "resources": [
-                    {
-                        "name": "炸",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%82%B8"
-                    },
-                    {
-                        "name": "蝦仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6%E4%BB%94"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "仔",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
-                    }
-                ]
+                "Simplified": {
+                    "text": "炸虾仔",
+                    "wkty": [
+                        "炸",
+                        "虾仔",
+                        "虾",
+                        "仔"
+                    ]
+                },
+                "Pinyin": "zhà xiā zǐ"
             }
         ],
         "images": [
