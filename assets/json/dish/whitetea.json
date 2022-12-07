@@ -215,29 +215,19 @@
   {
     "words": [
       {
-        "Cantonese": "白牡丹",
         "English": "white peony tea",
+        "Cantonese": {
+          "text": "白牡丹",
+          "wkty": [
+            "白",
+            "牡丹",
+            "牡",
+            "丹"
+          ]
+        },
         "Yale": "baahk máauh dāan",
         "Jyutping": "baak6 maau5 daan1",
-        "Pinyin": "bái mǔ dan",
-        "resources": [
-          {
-            "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-          },
-          {
-            "name": "牡丹",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%A1%E4%B8%B9"
-          },
-          {
-            "name": "牡",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%A1"
-          },
-          {
-            "name": "丹",
-            "URL": "https://en.wiktionary.org/wiki/%E4%B8%B9"
-          }
-        ]
+        "Pinyin": "bái mǔ dan"
       }
     ],
     "images": [
