@@ -2,34 +2,32 @@
   {
     "words": [
       {
-        "Cantonese": "豉油",
-        "Mandarin": "醬油",
-        "Simplified": "酱油",
         "English": "soy sauce",
+        "Cantonese": {
+          "text": "豉油",
+          "wkty": [
+            "豉油",
+            "豉"
+          ]
+        },
+        "Mandarin": {
+          "text": "醬油",
+          "wkty": [
+            "醬油",
+            "醬",
+            "油"
+          ]
+        },
         "Yale": "sih yàuh",
-        "Pinyin": "jiàng yóu",
-        "resources": [
-          {
-            "name": "豉油",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B2%B9"
-          },
-          {
-            "name": "豉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
-          },
-          {
-            "name": "醬油",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC%E6%B2%B9"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          },
-          {
-            "name": "油",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-          }
-        ]
+        "Simplified": {
+          "text": "酱油",
+          "wkty": [
+            "酱油",
+            "酱",
+            "油"
+          ]
+        },
+        "Pinyin": "jiàng yóu"
       }
     ],
     "images": [
