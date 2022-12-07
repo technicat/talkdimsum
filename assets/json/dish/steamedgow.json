@@ -212,33 +212,29 @@
     {
         "words": [
             {
-                "Cantonese": "蝦帶子餃",
-                "Simplified": "虾带子饺",
                 "English": "scallop and shrimp dumpling",
+                "Cantonese": {
+                    "text": "蝦帶子餃",
+                    "wkty": [
+                        "蝦",
+                        "帶子",
+                        "帶",
+                        "子",
+                        "餃"
+                    ]
+                },
                 "Yale": "hā dáai jí gáau",
-                "Pinyin": "xiā dài zi jiǎo",
-                "resources": [
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "帶子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B8%B6%E5%AD%90"
-                    },
-                    {
-                        "name": "帶",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%B8%B6"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "虾带子饺",
+                    "wkty": [
+                        "虾",
+                        "带子",
+                        "带",
+                        "子",
+                        "饺s"
+                    ]
+                },
+                "Pinyin": "xiā dài zi jiǎo"
             }
         ],
         "images": [
