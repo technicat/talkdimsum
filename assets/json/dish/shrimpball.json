@@ -29,41 +29,33 @@
   {
     "words": [
       {
-        "Cantonese": "金絲白花蝦球",
-        "Simplified": "金丝白花虾球",
         "English": "frizzy shrimp ball",
+        "Cantonese": {
+          "text": "金絲白花蝦球",
+          "wkty": [
+            "金",
+            "絲",
+            "白花",
+            "白",
+            "花",
+            "蝦",
+            "球"
+          ]
+        },
         "Yale": "gām si baahk fā hā kàu",
-        "Pinyin": "jīn sī bái huā xiā qiú",
-        "resources": [
-          {
-            "name": "金",
-            "URL": "https://en.wiktionary.org/wiki/%E9%87%91"
-          },
-          {
-            "name": "絲",
-            "URL": "https://en.wiktionary.org/wiki/%E7%B5%B2"
-          },
-          {
-            "name": "白花",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E8%8A%B1"
-          },
-          {
-            "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-          },
-          {
-            "name": "花",
-            "URL": "https://en.wiktionary.org/wiki/%E8%8A%B1"
-          },
-          {
-            "name": "蝦",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-          },
-          {
-            "name": "球",
-            "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-          }
-        ]
+        "Simplified": {
+          "text": "金丝白花虾球",
+          "wkty": [
+            "金",
+            "絲",
+            "白花",
+            "白",
+            "花",
+            "蝦",
+            "球"
+          ]
+        },
+        "Pinyin": "jīn sī bái huā xiā qiú"
       }
     ],
     "images": [
