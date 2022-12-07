@@ -200,40 +200,30 @@
         "words": [
             {
                 "English": "dried shrimp rice roll",
-                "Cantonese": "蝦米腸粉",
-                "Simplified": "虾米肠粉",
+                "Cantonese": {
+                    "text": "蝦米腸粉",
+                    "wkty": [
+                        "蝦米",
+                        "蝦",
+                        "米",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "hā máih chéung fán",
-                "Pinyin": "xiā mǐ cháng fěn",
-                "resources": [
-                    {
-                        "name": "蝦米",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6%E7%B1%B3"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "米",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B1%B3"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "虾米肠粉",
+                    "wkty": [
+                        "虾米",
+                        "虾",
+                        "米",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "xiā mǐ cháng fěn"
             }
         ],
         "images": [
