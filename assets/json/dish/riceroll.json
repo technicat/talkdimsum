@@ -567,45 +567,35 @@
     {
         "words": [
             {
-                "Cantonese": "涼瓜雞絲腸粉",
-                "Simplified": "涼瓜鸡丝肠粉",
                 "English": "shredded chicken w/ bitter melon rice roll",
+                "Cantonese": {
+                    "text": "涼瓜雞絲腸粉",
+                    "wkty": [
+                        "涼瓜",
+                        "涼",
+                        "瓜",
+                        "雞",
+                        "絲",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "lèuhng gwā gāi sī chéung fán",
-                "Pinyin": "liáng guā jī sī cháng fěn",
-                "resources": [
-                    {
-                        "name": "涼瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B6%BC%E7%93%9C"
-                    },
-                    {
-                        "name": "涼",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B6%BC"
-                    },
-                    {
-                        "name": "瓜",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%93%9C"
-                    },
-                    {
-                        "name": "雞",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9B%9E"
-                    },
-                    {
-                        "name": "絲",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B5%B2"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "涼瓜鸡丝肠粉",
+                    "wkty": [
+                        "涼瓜",
+                        "涼",
+                        "瓜",
+                        "鸡",
+                        "丝",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "liáng guā jī sī cháng fěn"
             }
         ],
         "images": [
