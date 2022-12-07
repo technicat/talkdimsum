@@ -71,46 +71,36 @@
   {
     "words": [
       {
-        "Cantonese": "甜豉油",
-        "Mandarin": "甜醬油",
-        "Simplified": "甜酱油",
         "English": "sweet soy sauce",
+        "Cantonese": {
+          "text": "甜豉油",
+          "wkty": [
+            "甜",
+            "豉油",
+            "豉",
+            "油"
+          ]
+        },
         "Yale": "tìhm sih yàuh",
-        "Pinyin": "tián jiàng yóu",
-        "resources": [
-          {
-            "name": "甜",
-            "URL": "https://en.wiktionary.org/wiki/%E7%94%9C"
-          },
-          {
-            "name": "豉醬",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B2%B9"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          },
-          {
-            "name": "豉油",
-            "URL": "https://en.wiktionary.org/wiki/%E7%94%9C%E9%86%AC"
-          },
-          {
-            "name": "豉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
-          },
-          {
-            "name": "醬油",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC%E6%B2%B9"
-          },
-          {
-            "name": "醬",
-            "URL": "https://en.wiktionary.org/wiki/%E9%86%AC"
-          },
-          {
-            "name": "油",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-          }
-        ]
+        "Mandarin": {
+          "text": "甜醬油",
+          "wkty": [
+            "甜",
+            "醬油",
+            "醬",
+            "油"
+          ]
+        },
+        "Simplified": {
+          "text": "甜酱油",
+          "wkty": [
+            "甜",
+            "酱油",
+            "酱",
+            "油"
+          ]
+        },
+        "Pinyin": "tián jiàng yóu"
       }
     ],
     "images": [
