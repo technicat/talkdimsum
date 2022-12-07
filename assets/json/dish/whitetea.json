@@ -108,21 +108,11 @@
   {
     "words": [
       {
+        "English": "gong-mei tea",
         "Cantonese": "貢眉",
         "Simplified": "贡眉",
-        "English": "gong-mei tea",
         "Yale": "gung mèih",
-        "Pinyin": "gòng méi",
-        "resources": [
-          {
-            "name": "貢",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B2%A2"
-          },
-          {
-            "name": "眉",
-            "URL": "https://en.wiktionary.org/wiki/%E7%9C%89"
-          }
-        ]
+        "Pinyin": "gòng méi"
       }
     ],
     "images": [
@@ -155,34 +145,30 @@
   {
     "words": [
       {
-        "Cantonese": "白毫銀針",
-        "Simplified": "白毫银针",
         "English": "silver needle tea",
+        "Cantonese": {
+          "text": "白毫銀針",
+          "wkty": [
+            "白毫",
+            "白",
+            "毫",
+            "銀",
+            "針"
+          ]
+        },
         "Yale": "baahk hòuh ngàhn jām",
         "Jyutping": "baak6 ho4 ngaan4 zam1",
-        "Pinyin": "bái háo yín zhēn",
-        "resources": [
-          {
-            "name": "白毫",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E6%AF%AB"
-          },
-          {
-            "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-          },
-          {
-            "name": "毫",
-            "URL": "https://en.wiktionary.org/wiki/%E6%AF%AB"
-          },
-          {
-            "name": "銀",
-            "URL": "https://en.wiktionary.org/wiki/%E9%8A%80"
-          },
-          {
-            "name": "針",
-            "URL": "https://en.wiktionary.org/wiki/%E9%87%9D"
-          }
-        ]
+        "Simplified": {
+          "text": "白毫银针",
+          "wkty": [
+            "白毫",
+            "白",
+            "毫",
+            "银",
+            "针"
+          ]
+        },
+        "Pinyin": "bái háo yín zhēn"
       }
     ],
     "images": [
