@@ -265,40 +265,21 @@
   {
     "words": [
       {
-        "Cantonese": "西湖牛肉羹",
         "English": "West Lake beef soup",
+        "Cantonese": {
+          "text": "西湖牛肉羹",
+          "wkty": [
+            "西湖",
+            "西",
+            "湖",
+            "牛肉",
+            "牛",
+            "肉",
+            "羹"
+          ]
+        },
         "Yale": "sāi wùh ngàuh yuhk gāng",
-        "Pinyin": "Xī hú niú ròu gēng",
-        "resources": [
-          {
-            "name": "西湖",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF%E6%B9%96"
-          },
-          {
-            "name": "西",
-            "URL": "https://en.wiktionary.org/wiki/%E8%A5%BF"
-          },
-          {
-            "name": "湖",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B9%96"
-          },
-          {
-            "name": "牛肉",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B%E8%82%89"
-          },
-          {
-            "name": "牛",
-            "URL": "https://en.wiktionary.org/wiki/%E7%89%9B"
-          },
-          {
-            "name": "肉",
-            "URL": "https://en.wiktionary.org/wiki/%E8%82%89"
-          },
-          {
-            "name": "羹",
-            "URL": "https://en.wiktionary.org/wiki/%E7%BE%B9"
-          }
-        ]
+        "Pinyin": "Xī hú niú ròu gēng"
       }
     ],
     "images": [
