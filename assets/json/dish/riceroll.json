@@ -412,41 +412,33 @@
     {
         "words": [
             {
-                "Cantonese": "三文魚腸粉",
-                "Simplified": "三文鱼肠粉",
                 "English": "salmon rice roll",
+                "Cantonese": {
+                    "text": "三文魚腸粉",
+                    "wkty": [
+                        "三文魚",
+                        "三",
+                        "文",
+                        "魚",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "sāam màhn yùh chéung fán",
-                "Pinyin": "sān wén yú cháng fěn",
-                "resources": [
-                    {
-                        "name": "三文魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89%E6%96%87%E9%AD%9A"
-                    },
-                    {
-                        "name": "三",
-                        "URL": "https://en.wiktionary.org/wiki/%E4%B8%89"
-                    },
-                    {
-                        "name": "文",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%96%87"
-                    },
-                    {
-                        "name": "魚",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%AD%9A"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "三文鱼肠粉",
+                    "wkty": [
+                        "三文鱼",
+                        "三",
+                        "文",
+                        "鱼",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "sān wén yú cháng fěn"
             }
         ],
         "images": [
