@@ -52,37 +52,31 @@
    {
       "words": [
          {
-            "Cantonese": "紅油抄手",
-            "Simplified": "红油抄手",
             "English": "red oil wonton",
+            "Cantonese": {
+               "text": "紅油抄手",
+               "wkty": [
+                  "紅油",
+                  "紅",
+                  "油",
+                  "抄手",
+                  "抄",
+                  "手"
+               ]
+            },
             "Yale": "hùhng yàuh chāau sáu",
-            "Pinyin": "hóng yóu chāo shǒu",
-            "resources": [
-               {
-                  "name": "紅油",
-                  "URL": "https://en.wiktionary.org/wiki/%E7%B4%85%E6%B2%B9"
-               },
-               {
-                  "name": "紅",
-                  "URL": "https://en.wiktionary.org/wiki/%E7%B4%85"
-               },
-               {
-                  "name": "油",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%B2%B9"
-               },
-               {
-                  "name": "抄手",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%8A%84%E6%89%8B"
-               },
-               {
-                  "name": "抄",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%8A%84"
-               },
-               {
-                  "name": "手",
-                  "URL": "https://en.wiktionary.org/wiki/%E6%89%8B"
-               }
-            ]
+            "Simplified": {
+               "text": "红油抄手",
+               "wkty": [
+                  "红油",
+                  "红",
+                  "油",
+                  "抄手",
+                  "抄",
+                  "手"
+               ]
+            },
+            "Pinyin": "hóng yóu chāo shǒu"
          }
       ],
       "images": [
