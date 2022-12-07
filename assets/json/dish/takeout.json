@@ -43,29 +43,27 @@
   {
     "words": [
       {
-        "Cantonese": "外賣杯",
-        "Simplified": "外卖杯",
         "English": "takeout cup",
+        "Cantonese": {
+          "text": "外賣杯",
+          "wkty": [
+            "外賣",
+            "外",
+            "賣",
+            "杯"
+          ]
+        },
         "Yale": "ngoih maaih būi",
-        "Pinyin": "wài mài bēi",
-        "resources": [
-          {
-            "name": "外賣",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A4%96%E8%B3%A3"
-          },
-          {
-            "name": "外",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A4%96"
-          },
-          {
-            "name": "賣",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-          },
-          {
-            "name": "杯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%9D%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "外卖杯",
+          "wkty": [
+            "外卖",
+            "外",
+            "卖",
+            "杯"
+          ]
+        },
+        "Pinyin": "wài mài bēi"
       }
     ],
     "images": [
