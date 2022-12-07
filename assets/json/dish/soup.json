@@ -30,38 +30,31 @@
   {
     "words": [
       {
-        "Cantonese": "是日例湯",
-        "Simplified": "是日例汤",
         "English": "soup of the day",
+        "Cantonese": {
+          "text": "是日例湯",
+          "wkty": [
+            "是日",
+            "是",
+            "日",
+            "例湯",
+            "例",
+            "湯"
+          ]
+        },
         "Yale": "sih yaht laih tōng",
-        "Jyupting": "tong1",
-        "Pinyin": "shì rì lì tāng",
-        "resources": [
-          {
-            "name": "是日",
-            "URL": "https://en.wiktionary.org/wiki/%E6%98%AF%E6%97%A5"
-          },
-          {
-            "name": "是",
-            "URL": "https://en.wiktionary.org/wiki/%E6%98%AF"
-          },
-          {
-            "name": "日",
-            "URL": "https://en.wiktionary.org/wiki/%E6%97%A5"
-          },
-          {
-            "name": "例湯",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BE%8B%E6%B9%AF"
-          },
-          {
-            "name": "例",
-            "URL": "https://en.wiktionary.org/wiki/%E4%BE%8B"
-          },
-          {
-            "name": "湯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-          }
-        ]
+        "Simplified":  {
+          "text": "是日例汤", 
+          "wkty": [
+            "是日",
+            "是",
+            "日",
+            "例汤",
+            "例",
+            "汤"
+          ]
+        },
+        "Pinyin": "shì rì lì tāng"
       }
     ],
     "images": [
