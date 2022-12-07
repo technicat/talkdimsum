@@ -462,49 +462,37 @@
     {
         "words": [
             {
-                "Cantonese": "豉汁龍蝦腸粉",
-                "Simplified": "豉汁龙虾肠粉",
                 "English": "rice roll w/ lobster in black bean sauce",
+                "Cantonese": {
+                    "text": "豉汁龍蝦腸粉",
+                    "wkty": [
+                        "豉汁",
+                        "豉",
+                        "汁",
+                        "龍蝦",
+                        "龍",
+                        "蝦",
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "sih jāp lùhng hā chéung fán",
-                "Pinyin": "chǐ zhī lóng xiā cháng fěn",
-                "resources": [
-                    {
-                        "name": "豉汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%89%E6%B1%81"
-                    },
-                    {
-                        "name": "豉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%89"
-                    },
-                    {
-                        "name": "汁",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B1%81"
-                    },
-                    {
-                        "name": "龍蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BE%8D%E8%9D%A6"
-                    },
-                    {
-                        "name": "龍",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%BE%8D"
-                    },
-                    {
-                        "name": "蝦",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-                    },
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "豉汁龙虾肠粉",
+                    "wkty": [
+                        "豉汁",
+                        "豉",
+                        "汁",
+                        "龙虾",
+                        "龙",
+                        "虾",
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "chǐ zhī lóng xiā cháng fěn"
             }
         ],
         "images": [
