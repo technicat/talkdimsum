@@ -2,25 +2,17 @@
   {
     "words": [
       {
-        "Cantonese": "白酒",
-        "Simplified": "白酒",
         "English": "white wine",
+        "Cantonese": {
+          "text": "白酒",
+          "wkty": [
+            "白酒",
+            "白",
+            "酒"
+          ]
+        },
         "Yale": "baahk jáu",
-        "Pinyin": "bá jiǔ",
-        "resources": [
-          {
-            "name": "白酒",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD%E9%85%92"
-          },
-          {
-            "name": "白",
-            "URL": "https://en.wiktionary.org/wiki/%E7%99%BD"
-          },
-          {
-            "name": "酒",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%92"
-          }
-        ]
+        "Pinyin": "bá jiǔ"
       }
     ],
     "images": [
