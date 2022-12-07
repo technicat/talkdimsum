@@ -98,29 +98,29 @@
     {
         "words": [
             {
-                "Cantonese": "釀青椒",
-                "Simplified": "酿青椒",
                 "English": "stuffed bell peppers",
+                "Cantonese": {
+                    "text": "釀青椒",
+                    "wkty": [
+                        "釀",
+                        "青椒",
+                        "青",
+                        "椒"
+                    ]
+                },
+
                 "Yale": "yeuhng chēng jīu",
-                "Pinyin": "niàng qīng jiāo",
-                "resources": [
-                    {
-                        "name": "釀",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%87%80"
-                    },
-                    {
-                        "name": "青椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9D%92%E6%A4%92"
-                    },
-                    {
-                        "name": "青",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%9D%92"
-                    },
-                    {
-                        "name": "椒",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%A4%92"
-                    }
-                ]
+                "Simplified":  {
+                    "text": "酿青椒",
+                    "wkty": [
+                        "酿",
+                        "青椒",
+                        "青",
+                        "椒"
+                    ]
+                },
+               
+                "Pinyin": "niàng qīng jiāo"
             }
         ],
         "images": [
