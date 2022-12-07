@@ -2,25 +2,25 @@
   {
     "words": [
       {
-        "Cantonese": "外賣",
-        "Simplified": "外卖",
         "English": "takeout",
+        "Cantonese": {
+          "text": "外賣",
+          "wkty": [
+            "外賣",
+            "外",
+            "賣"
+          ]
+        },
         "Yale": "ngoih maaih",
-        "Pinyin": "wài mài",
-        "resources": [
-          {
-            "name": "外賣",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A4%96%E8%B3%A3"
-          },
-          {
-            "name": "外",
-            "URL": "https://en.wiktionary.org/wiki/%E5%A4%96"
-          },
-          {
-            "name": "賣",
-            "URL": "https://en.wiktionary.org/wiki/%E8%B3%A3"
-          }
-        ]
+        "Simplified": {
+          "text": "外卖",
+          "wkty": [
+            "外卖",
+            "外",
+            "卖"
+          ]
+        },
+        "Pinyin": "wài mài"
       }
     ],
     "images": [
