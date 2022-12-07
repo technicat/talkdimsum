@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "豆沙餅",
-                "Simplified": "豆沙饼",
                 "English": "sticky rice cake w/ red bean paste",
+                "Cantonese": {
+                    "text": "豆沙餅",
+                    "wkty": [
+                        "豆沙",
+                        "豆",
+                        "沙",
+                        "餅"
+                    ]
+                },
                 "Yale": "dauh sā béng",
-                "Pinyin": "dòushā bǐng",
-                "resources": [
-                    {
-                        "name": "豆沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "餅",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%85"
-                    }
-                ]
+                "Simplified": {
+                    "text": "豆沙饼",
+                    "wkty": [
+                        "豆沙",
+                        "豆",
+                        "沙",
+                        "饼"
+                    ]
+                },
+                "Pinyin": "dòushā bǐng"
             }
         ],
         "images": [
