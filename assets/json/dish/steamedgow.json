@@ -163,28 +163,26 @@
         "words": [
             {
                 "English": "spinach and shrimp dumpling",
-                "Cantonese": "菠菜餃",
-                "Simplified": "菠菜饺",
+                "Cantonese": {
+                    "text": "菠菜餃",
+                    "wkty": [
+                        "菠菜",
+                        "菠",
+                        "菜",
+                        "餃"
+                    ]
+                },
                 "Yale": "bō choi gáau",
-                "Pinyin": "bō cài jiǎo",
-                "resources": [
-                    {
-                        "name": "菠菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0%E8%8F%9C"
-                    },
-                    {
-                        "name": "菠",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%A0"
-                    },
-                    {
-                        "name": "菜",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%9C"
-                    },
-                    {
-                        "name": "餃",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A4%83"
-                    }
-                ]
+                "Simplified": {
+                    "text": "菠菜饺",
+                    "wkty": [
+                        "菠菜",
+                        "菠",
+                        "菜",
+                        "饺"
+                    ]
+                },
+                "Pinyin": "bō cài jiǎo"
             }
         ],
         "images": [
