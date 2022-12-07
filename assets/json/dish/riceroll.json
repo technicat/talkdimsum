@@ -2,25 +2,25 @@
     {
         "words": [
             {
-                "Cantonese": "腸粉",
-                "Simplified": "肠粉",
                 "English": "rice roll",
+                "Cantonese": {
+                    "text": "腸粉",
+                    "wkty": [
+                        "腸粉",
+                        "腸",
+                        "粉"
+                    ]
+                },
                 "Yale": "chéung fán",
-                "Pinyin": "cháng fěn",
-                "resources": [
-                    {
-                        "name": "腸粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8%E7%B2%89"
-                    },
-                    {
-                        "name": "腸",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%85%B8"
-                    },
-                    {
-                        "name": "粉",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%B2%89"
-                    }
-                ]
+                "Simplified": {
+                    "text": "肠粉",
+                    "wkty": [
+                        "肠粉",
+                        "肠",
+                        "粉"
+                    ]
+                },
+                "Pinyin": "cháng fěn"
             }
         ],
         "images": [
@@ -744,8 +744,6 @@
             "粉",
             "點心"
         ],
-        "resources": [
-           
-        ]
+        "resources": []
     }
 ]
