@@ -43,8 +43,8 @@
           ]
         },
         "Yale": "sih yaht laih tōng",
-        "Simplified":  {
-          "text": "是日例汤", 
+        "Simplified": {
+          "text": "是日例汤",
           "wkty": [
             "是日",
             "是",
@@ -78,30 +78,28 @@
   {
     "words": [
       {
-        "Cantonese": "酸辣湯",
-        "Simplified": "酸辣汤",
-        "English": "hot and sour soup",
+        "English": "hot and sour soup",s
+        "Cantonese": {
+          "text": "酸辣湯",
+          "wkty": [
+            "酸辣湯",
+            "酸",
+            "辣",
+            "湯"
+          ]
+        },
         "Yale": "syūn laaht tōng",
         "Jyupting": "syun1 laat6 tong1",
-        "Pinyin": "suān là tāng",
-        "resources": [
-          {
-            "name": "酸辣湯",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%B8%E8%BE%A3%E6%B9%AF"
-          },
-          {
-            "name": "酸",
-            "URL": "https://en.wiktionary.org/wiki/%E9%85%B8"
-          },
-          {
-            "name": "辣",
-            "URL": "https://en.wiktionary.org/wiki/%E8%BE%A3"
-          },
-          {
-            "name": "湯",
-            "URL": "https://en.wiktionary.org/wiki/%E6%B9%AF"
-          }
-        ]
+        "Simplified": {
+          "text": "酸辣汤",
+          "wkty": [
+            "酸辣汤",
+            "酸",
+            "辣",
+            "汤"
+          ]
+        },
+        "Pinyin": "suān là tāng"
       }
     ],
     "images": [
