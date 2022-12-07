@@ -142,36 +142,20 @@
     {
         "words": [
             {
-                "Cantonese": "豆沙煎堆",
                 "English": "red bean sesame ball",
+                "Cantonese": {
+                    "text": "豆沙煎堆",
+                    "wkty": [
+                        "豆沙",
+                        "豆",
+                        "沙",
+                        "煎堆",
+                        "煎",
+                        "堆"
+                    ]
+                },
                 "Yale": "dauh sā jīn dēui",
-                "Pinyin": "dòu shā jiān duī",
-                "resources": [
-                    {
-                        "name": "豆沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86%E6%B2%99"
-                    },
-                    {
-                        "name": "豆",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%B1%86"
-                    },
-                    {
-                        "name": "沙",
-                        "URL": "https://en.wiktionary.org/wiki/%E6%B2%99"
-                    },
-                    {
-                        "name": "煎堆",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E%E5%A0%86"
-                    },
-                    {
-                        "name": "煎",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%85%8E"
-                    },
-                    {
-                        "name": "堆",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%A0%86"
-                    }
-                ]
+                "Pinyin": "dòu shā jiān duī"
             }
         ],
         "images": [
