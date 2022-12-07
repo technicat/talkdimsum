@@ -99,29 +99,27 @@
     {
         "words": [
             {
-                "Cantonese": "燒鴨飯",
-                "Simplified": "烧鸭饭",
                 "English": "roast duck rice",
+                "Cantonese": {
+                    "text": "燒鴨飯",
+                    "wkty": [
+                        "燒鴨",
+                        "燒",
+                        "鴨",
+                        "飯"
+                    ]
+                },
                 "Yale": "sīu aap faahn",
-                "Pinyin": "shāo yā fàn",
-                "resources": [
-                    {
-                        "name": "燒鴨",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92%E9%B4%A8"
-                    },
-                    {
-                        "name": "燒",
-                        "URL": "https://en.wiktionary.org/wiki/%E7%87%92"
-                    },
-                    {
-                        "name": "鴨",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%B4%A8"
-                    },
-                    {
-                        "name": "飯",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
-                    }
-                ]
+                "Simplified": {
+                    "text": "烧鸭饭",
+                    "wkty": [
+                        "烧鸭",
+                        "烧",
+                        "鸭",
+                        "饭"
+                    ]
+                },
+                "Pinyin": "shāo yā fàn"
             }
         ],
         "images": [
