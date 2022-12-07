@@ -229,6 +229,7 @@
   {
     "words": [
       {
+        "English": "Singapore-style turnip cake",
         "Cantonese": {
           "text": "星洲炒蘿蔔糕",
           "wkty": [
@@ -243,10 +244,27 @@
             "糕"
           ]
         },
-        "Mandarin": "菜頭粿",
-        "Simplified": "菜头粿",
-        "English": "Singapore-style turnip cake",
+        "Mandarin": {
+          "text": "菜頭粿",
+          "wkty": [
+            "菜頭粿",
+            "菜頭",
+            "菜",
+            "頭",
+            "粿"
+          ]
+        },
         "Yale": "sīng jāu cháau lò baahk gōu",
+        "Simplified": {
+          "text": "菜头粿",
+          "wkty": [
+            "菜头粿",
+            "菜头",
+            "菜",
+            "头",
+            "粿"
+          ]
+        },
         "Pinyin": "cài tóu guǒ"
       }
     ],
