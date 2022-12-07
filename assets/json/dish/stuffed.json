@@ -2,29 +2,27 @@
     {
         "words": [
             {
-                "Cantonese": "釀茄子",
-                "Simplified": "酿茄子",
                 "English": "stuffed eggplant",
+                "Cantonese": {
+                    "text": "釀茄子",
+                    "wkty": [
+                        "釀",
+                        "茄子",
+                        "茄",
+                        "子"
+                    ]
+                },
                 "Yale": "yeuhng ké jí",
-                "Pinyin": "niàng qié zi",
-                "resources": [
-                    {
-                        "name": "釀",
-                        "URL": "https://en.wiktionary.org/wiki/%E9%87%80"
-                    },
-                    {
-                        "name": "茄子",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84%E5%AD%90"
-                    },
-                    {
-                        "name": "茄",
-                        "URL": "https://en.wiktionary.org/wiki/%E8%8C%84"
-                    },
-                    {
-                        "name": "子",
-                        "URL": "https://en.wiktionary.org/wiki/%E5%AD%90"
-                    }
-                ]
+                "Simplified": {
+                    "text": "酿茄子",
+                    "wkty": [
+                        "釀",
+                        "茄子",
+                        "茄",
+                        "子"
+                    ]
+                },
+                "Pinyin": "niàng qié zi"
             }
         ],
         "images": [
@@ -97,8 +95,7 @@
             "豉油",
             "點心"
         ],
-        "resources": [
-        ]
+        "resources": []
     },
     {
         "words": [
