@@ -89,33 +89,29 @@
   {
     "words": [
       {
-        "Cantonese": "珍珠蝦球",
-        "Simplified": "珍珠虾球",
         "English": "pearl shrimp ball",
+        "Cantonese": {
+          "text": "珍珠蝦球",
+          "wkty": [
+            "珍珠",
+            "珍",
+            "珠",
+            "蝦",
+            "球"
+          ]
+        },
         "Yale": "jān jyū hā kàu",
-        "Pinyin": "zhēn zhū xiā qiú",
-        "resources": [
-          {
-            "name": "珍珠",
-            "URL": "https://en.wiktionary.org/wiki/%E7%8F%8D%E7%8F%A0"
-          },
-          {
-            "name": "珍",
-            "URL": "https://en.wiktionary.org/wiki/%E7%8F%8D"
-          },
-          {
-            "name": "珠",
-            "URL": "https://en.wiktionary.org/wiki/%E7%8F%A0"
-          },
-          {
-            "name": "蝦",
-            "URL": "https://en.wiktionary.org/wiki/%E8%9D%A6"
-          },
-          {
-            "name": "球",
-            "URL": "https://en.wiktionary.org/wiki/%E7%90%83"
-          }
-        ]
+        "Simplified": {
+          "text": "珍珠虾球",
+          "wkty": [
+            "珍珠",
+            "珍",
+            "珠",
+            "虾",
+            "球"
+          ]
+        },
+        "Pinyin": "zhēn zhū xiā qiú"
       }
     ],
     "images": [
