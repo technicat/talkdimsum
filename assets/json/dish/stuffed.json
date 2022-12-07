@@ -57,29 +57,27 @@
     {
         "words": [
             {
-                "Cantonese": "釀蘑菇",
-                "Simplified": "酿蘑菇",
                 "English": "stuffed mushrooms",
+                "Cantonese": {
+                    "text": "釀蘑菇",
+                    "wkty": [
+                        "釀",
+                        "蘑菇",
+                        "蘑",
+                        "菇"
+                    ]
+                },
                 "Yale": "yeuhng mòh gū",
-                "Pinyin": "niàng mó gu",
-                "resources": [
-                    {
-                        "name": "釀",
-                        "URL": "https://en.wiktionary.org/wiki/%25E9%2587%2580"
-                    },
-                    {
-                        "name": "蘑菇",
-                        "URL": "https://en.wiktionary.org/wiki/%25E8%2598%2591%25E8%258F%2587"
-                    },
-                    {
-                        "name": "蘑",
-                        "URL": "https://en.wiktionary.org/wiki/%25E8%2598%2591"
-                    },
-                    {
-                        "name": "菇",
-                        "URL": "https://en.wiktionary.org/wiki/%25E8%258F%2587"
-                    }
-                ]
+                "Simplified": {
+                    "text": "酿蘑菇",
+                    "wkty": [
+                        "酿",
+                        "蘑菇",
+                        "蘑",
+                        "菇"
+                    ]
+                },
+                "Pinyin": "niàng mó gu"
             }
         ],
         "images": [
