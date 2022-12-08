@@ -2,6 +2,14 @@ These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](h
 
 This repo also servers as the Issues database for the app and download site for Flutter builds (which I don't update often, so feel free to file an Issue for a new build).
 
+## Items
+
+Items are dishes in Talk Dim Sum but potentially usable for other types of...items.
+
+Items have a photo, a word that identifies it (keyed by the Cantonese), a markdown description, a list of tags, and a list of web links to other info resources.
+
+The markdown has special notation for wiktionary links so that a reader will replace characters surrounced by {} with a link to the wiktionary page.
+
 ## Words
 
 Every Word has English and Cantonese names, and Mandarin (traditional characters) and Simplified (simplified characters of the Mandarin name) if they are different.
