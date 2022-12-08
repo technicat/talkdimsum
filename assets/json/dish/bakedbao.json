@@ -31,7 +31,7 @@
                 "image": "cocktailbun"
             }
         ],
-        "description": "An elongated [bao](https://en.wikipedia.org/wiki/Baozi) with a buttery shredded coconut filling, the [cocktail bun](http://en.wikipedia.org/wiki/Cocktail_bun) was invented in the 1950s as a way to recycle day-old buns by turning them into a “cocktail mix” of fillings for new buns\n\n**Characters**\n\n[雞](https://en.wiktionary.org/wiki/%E9%9B%9E) is *chicken*, [尾](https://en.wiktionary.org/wiki/%E5%B0%BE) is *tail*, so [雞尾](https://en.wiktionary.org/wiki/%E9%9B%9E%E5%B0%BE) is literally *cocktail*. [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so 雞尾包 is *cocktail bun*.",
+        "description": "An elongated [bao](https://en.wikipedia.org/wiki/Baozi) with a buttery shredded coconut filling, the [cocktail bun](http://en.wikipedia.org/wiki/Cocktail_bun) was invented in the 1950s as a way to recycle day-old buns by turning them into a “cocktail mix” of fillings for new buns\n\n**Characters**\n\n{雞} is *chicken*, {尾} is *tail*, so {雞尾} is literally *cocktail*. {包} is *bun*, so 雞尾包 is *cocktail bun*.",
         "tags": [
             "雞",
             "尾",
@@ -89,7 +89,7 @@
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "description": "A popular bakery item, [Chinese hot dog buns](https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/) are hot dogs baked in a roll (not fully enclosed like most [bao](https://en.wikipedia.org/wiki/Baozi)).\n\n**Characters**\n\n[腸仔](https://en.wiktionary.org/wiki/%E8%85%B8%E4%BB%94) is *sausage*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*, so [腸仔包](https://en.wiktionary.org/wiki/%E8%85%B8%E4%BB%94%E5%8C%85) is *sausage bun*.\n\nThe Chinese word for *hot dog* is 熱狗 (yiht gáu), literally *hot dog*.",
+        "description": "A popular bakery item, [Chinese hot dog buns](https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/) are hot dogs baked in a roll (not fully enclosed like most [bao](https://en.wikipedia.org/wiki/Baozi)).\n\n**Characters**\n\n{腸仔} is *sausage*, and {包} is *bun*, so {腸仔包} is *sausage bun*.\n\nThe Chinese word for *hot dog* is {熱狗} (yiht gáu), literally *hot dog*.",
         "tags": [
             "包",
             "焗",
@@ -125,12 +125,16 @@
     {
         "words": [
             {
+                "English": "snow mountain bun",
                 "Cantonese": {
                     "text": "雪山包",
-                    "wkty": [ "雪山","雪","山", "包"
+                    "wkty": [
+                        "雪山",
+                        "雪",
+                        "山",
+                        "包"
                     ]
                 },
-                "English": "snow mountain bun",
                 "Yale": "syut sāan bāau",
                 "Pinyin": "xuě shān bāo"
             }
@@ -141,7 +145,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters**\n\n[雪](https://en.wiktionary.org/wiki/%E9%9B%AA) is *snow*, [山](https://en.wiktionary.org/wiki/%E5%B1%B1) is *mountain*, and [包](https://en.wiktionary.org/wiki/%E5%8C%85) is *bun*.",
+        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or red bean.\n\n**Characters**\n\n{雪} is *snow*, {山} is *mountain*, and {包} is *bun*.",
         "tags": [
             "焗",
             "包"
