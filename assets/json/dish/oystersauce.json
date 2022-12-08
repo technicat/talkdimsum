@@ -29,7 +29,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) is a thick dark brown sauce made from oyster extracts, particularly popular in Cantoneses dishes, added to vegetables and noodles.\n\nVegetarian oyster sauce is available, made with mushrooms.\n\n**Characters**\n\n[蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*.",
+        "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) is a thick dark brown sauce made from oyster extracts, particularly popular in Cantoneses dishes, added to vegetables and noodles.\n\nVegetarian oyster sauce is available, made with mushrooms.\n\n**Characters**\n\n[蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and {油} is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*.",
         "tags": [
             "粵菜",
             "蠔油",
@@ -83,7 +83,7 @@
                 "place": "168 Market, Las Vegas, Nevada"
             }
         ],
-        "description": "Vegan [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) typically substitutes mushrooms for oysters.\n\n**Characters**\n\n[素食](https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F) is *vegetarian*. [蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and [油](https://en.wiktionary.org/wiki/%E6%B2%B9) is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*, and 素食蠔油 is *vegetarian oyster oil*.",
+        "description": "Vegan [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) typically substitutes mushrooms for oysters.\n\n**Characters**\n\n[素食](https://en.wiktionary.org/wiki/%E7%B4%A0%E9%A3%9F) is *vegetarian*. [蠔](https://en.wiktionary.org/wiki/%E8%A0%94) is *oyster*, and {油} is *oil*, so [蠔油](https://en.wiktionary.org/wiki/%E8%A0%94%E6%B2%B9) is *oyster oil*, and 素食蠔油 is *vegetarian oyster oil*.",
         "tags": [
             "素",
             "純素",
