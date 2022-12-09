@@ -2,8 +2,17 @@
     {
         "words": [
             {
-                "Cantonese": "白灼生菜",
                 "English": "blanched lettuce",
+                "Cantonese": {
+                    "text": "白灼生菜",
+                    "wkty": [
+                        "白",
+                        "灼",
+                        "生菜",
+                        "生",
+                        "菜"
+                    ]
+                },
                 "Yale": "baahk cheuk sāang choi",
                 "Pinyin": "bái zhuó shēng cà"
             }
@@ -14,7 +23,7 @@
                 "place": "Tim Ho Wan, Las Vegas, Nevada"
             }
         ],
-        "description": "Lettuce that has been blanced (quickly boiled then cooled) and served in a sauce.\n\n白灼 means “water-boiled,” and 生菜 is “lettuce.”",
+        "description": "Lettuce that has been blanched (quickly boiled then cooled) and served in a sauce.\n\n白灼 is *water-boiled* and {生菜} is *lettuce*.",
         "tags": [
             "生菜",
             "菜",
