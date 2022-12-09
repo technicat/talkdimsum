@@ -29,7 +29,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "冰 is “ice“,  and 茶 is “tea“, so it's “ice tea.“",
+    "description": "{冰} is *ice*, and {茶} is *tea*, so {冰茶} is *ice tea*.",
     "tags": [
       "冷飲",
       "冰茶",
