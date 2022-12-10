@@ -31,31 +31,25 @@
       {
         "English": "frizzy shrimp ball",
         "Cantonese": {
-          "text": "金絲白花蝦球",
+          "text": "金絲蝦球",
           "wkty": [
             "金",
             "絲",
-            "白花",
-            "白",
-            "花",
             "蝦",
             "球"
           ]
         },
-        "Yale": "gām si baahk fā hā kàu",
+        "Yale": "gām si hā kàu",
         "Simplified": {
-          "text": "金丝白花虾球",
+          "text": "金丝虾球",
           "wkty": [
             "金",
             "絲",
-            "白花",
-            "白",
-            "花",
             "蝦",
             "球"
           ]
         },
-        "Pinyin": "jīn sī bái huā xiā qiú"
+        "Pinyin": "jīn sī xiā qiú"
       }
     ],
     "images": [
@@ -64,14 +58,12 @@
         "place": "Orchids Garden, Las Vegas, Nevada"
       }
     ],
-    "description": "Shrimp balls encased by wonton strips and deep-fried.\n\n**Characters**\n\n{金} is *gold*, {絲} is *wire* or *strip*, {白} is *white*, {花} is *flower*, and {球} is *ball*, so 金絲白花蝦球 is *gold strip white flower ball*.",
+    "description": "Shrimp balls encased by wonton strips and deep-fried.\n\n**Characters**\n\n{金} is *gold*, {絲} is *wire* or *strip*, 蝦} is *shrimp*, and {球} is *ball*, so 金絲蝦球 is *gold strip shrimp ball*.",
     "tags": [
       "蝦球",
       "炸",
       "雲吞",
       "蝦",
-      "白",
-      "花",
       "球",
       "海鮮",
       "點心"
