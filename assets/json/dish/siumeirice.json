@@ -84,7 +84,7 @@
                 "place": "BBQ King, Las Vegas, Nevada"
             }
         ],
-        "description": "Crispy pork belly served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{燒肉} is *pork belly* (literally *roasted meat*), and {飯} is *rice*, so 燒肉飯 is *pork belly rice*.",
+        "description": "[Siu yuk](https://en.wikipedia.org/wiki/Siu_yuk) (crispy pork belly) served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{燒肉} is *pork belly* (literally *roast meat*), and {飯} is *rice*, so 燒肉飯 is *pork belly rice*.",
         "tags": [
             "粵菜",
             "茶餐廳",
@@ -94,7 +94,12 @@
             "肉",
             "白飯"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Siu_yuk"
+            }
+        ]
     },
     {
         "words": [

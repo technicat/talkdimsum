@@ -223,7 +223,7 @@
                 "place": "Zen Peninsula, Millbrae, California"
             }
         ],
-        "description": "Juicy roast pork with a crispy golden skin. Pork belly is cut into squares or strips so that each piece includes a strip of the crunchy skin.\n\n**Characters**\n\n{燒} is *roasted*, and {肉} is *meat*, so 燒肉 is *roast meat*.",
+        "description": "Juicy roast pork with a crispy golden skin, known as [siu yuk](https://en.wikipedia.org/wiki/Siu_yuk) (the Cantonese pronunciation). Pork belly is cut into squares or strips so that each piece includes a strip of the crunchy skin.\n\n**Characters**\n\n{燒} is *roast*, and {肉} is *meat*, so {燒肉} is *roast meat*.",
         "tags": [
             "粵菜",
             "燒肉",
@@ -250,6 +250,10 @@
                 "name": "Kirbie's Cravings",
                 "URL": "https://kirbiecravings.com/crispy-golden-pork-belly/"
             },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Siu_yuk"
+            }
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/2015/03/cantonese-roast-pork-belly/"
