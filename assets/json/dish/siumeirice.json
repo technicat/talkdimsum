@@ -31,7 +31,7 @@
                 "place": "Chubby Boy BBQ, Las Vegas, Nevada"
             }
         ],
-        "description": "BBQ pork served on steamed rice.\n\n{叉燒} is *BBQ pork*,  and {飯} is *rice*, so 叉燒飯 is *BBQ pork rice*.",
+        "description": "BBQ pork served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{叉燒} is *BBQ pork*,  and {飯} is *rice*, so 叉燒飯 is *BBQ pork rice*.",
         "tags": [
             "粵菜",
             "茶餐廳",
@@ -84,7 +84,7 @@
                 "place": "BBQ King, Las Vegas, Nevada"
             }
         ],
-        "description": "Crispy pork belly served on steamed rice.\n\n燒肉 is “pork belly” (literally “roasted meat”), and 飯 is “rice,” so it's ”pork belly rice.”",
+        "description": "Crispy pork belly served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{燒肉} is *pork belly* (literally *roasted meat*), and {飯} is *rice*, so 燒肉飯 is *pork belly rice*.",
         "tags": [
             "粵菜",
             "茶餐廳",
@@ -128,7 +128,7 @@
                 "place": "BBQ King, Las Vegas, Nevada"
             }
         ],
-        "description": "Crispy pork belly served on steamed rice.\n\n{烤鴨} is *roast duck*, and {飯} is *rice*, so 燒鴨飯 is *roast duck rice*.",
+        "description": "Crispy pork belly served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{烤鴨} is *roast duck*, and {飯} is *rice*, so 燒鴨飯 is *roast duck rice*.",
         "tags": [
             "粵菜",
             "茶餐廳",
