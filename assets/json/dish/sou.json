@@ -225,12 +225,12 @@
     ],
     "resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Ox-tongue_pastry"
-      },
-      {
         "name": "Food Tourism",
         "URL": "https://food-touring.com/2015/02/21/southern-china-ox-tongue-pastry/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Ox-tongue_pastry"
       }
     ]
   },
@@ -268,7 +268,7 @@
         "place": "Every Grain, Las Vegas, Nevada"
       }
     ],
-    "description": "Pineapple cakes, small butter shortcakes with a pineapple filling, are a Taiwanese specialty.\n\n{鳳梨} is *pineapple*, and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so {鳳梨酥} is *pineapple pastry*.",
+    "description": "[Pineapple cakes](https://en.wikipedia.org/wiki/Pineapple_cake), small butter shortcakes with a pineapple filling, are a Taiwanese specialty (the airport shops in Taiwan are packed with pineapple cake gift boxes). You can find them in Chinese supermarkets and bakeries.\n\n{鳳梨} is *pineapple*, and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so {鳳梨酥} is *pineapple pastry*.",
     "tags": [
       "台菜",
       "菠蘿",
