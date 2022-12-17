@@ -67,12 +67,18 @@
         "image": "spam"
       }
     ],
-    "description": "\n\n**Characters**\n\n.",
+    "description": "In Hong Kong, as in places like Hawaii and the Philippines, [Spam](https://en.wikipedia.org/wiki/Spam_(food)) (and its generic knockoffs known in English as *luncheon meat*) became popular after World War II and was integrated into the local cuisine, particularly in [cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng) dishes, such as sandwiches, spam fried rice, spam ramen, macaroni and spam...\n\n**Characters**\n\n{午餐} is *lunch*, and {肉} is *meat*, so {午餐肉} is *lunch meat*.",
     "tags": [
+      "茶餐廳",
       "午餐肉",
       "豬肉",
       "肉"
     ],
-    "resources": []
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "[Spam](https://en.wikipedia.org/wiki/Spam_(food))"
+      }
+    ]
   }
 ]
