@@ -1,38 +1,36 @@
 [
     {
-        "words": [
-            {
-                "English": "fried dough",
-                "Cantonese": {
-                    "text": "油炸鬼",
-                    "wkty": [
-                        "油炸鬼",
-                        "油炸",
-                        "油",
-                        "炸",
-                        "鬼"
-                    ]
-                },
-                "Yale": "yàuh ja gwái",
-                "Mandarin": {
-                    "text": "油條",
-                    "wkty": [
-                        "油條",
-                        "油",
-                        "條"
-                    ]
-                },
-                "Simplified": {
-                    "text": "油条",
-                    "wkty": [
-                        "油条",
-                        "油",
-                        "条"
-                    ]
-                },
-                "Pinyin": "yóu tiáo"
-            }
-        ],
+        "word": {
+            "English": "fried dough",
+            "Cantonese": {
+                "text": "油炸鬼",
+                "wkty": [
+                    "油炸鬼",
+                    "油炸",
+                    "油",
+                    "炸",
+                    "鬼"
+                ]
+            },
+            "Yale": "yàuh ja gwái",
+            "Mandarin": {
+                "text": "油條",
+                "wkty": [
+                    "油條",
+                    "油",
+                    "條"
+                ]
+            },
+            "Simplified": {
+                "text": "油条",
+                "wkty": [
+                    "油条",
+                    "油",
+                    "条"
+                ]
+            },
+            "Pinyin": "yóu tiáo"
+        },
         "images": [
             {
                 "image": "frieddoughyumcha",
@@ -80,29 +78,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fried dough crepe",
-                "Cantonese": {
-                    "text": "炸兩",
-                    "wkty": [
-                        "炸兩",
-                        "炸",
-                        "兩"
-                    ]
-                },
-                "Yale": "ja léung",
-                "Simplified": {
-                    "text": "炸两",
-                    "wkty": [
-                        "炸两",
-                        "炸",
-                        "两"
-                    ]
-                },
-                "Pinyin": "zhá liǎng"
-            }
-        ],
+        "word": {
+            "English": "fried dough crepe",
+            "Cantonese": {
+                "text": "炸兩",
+                "wkty": [
+                    "炸兩",
+                    "炸",
+                    "兩"
+                ]
+            },
+            "Yale": "ja léung",
+            "Simplified": {
+                "text": "炸两",
+                "wkty": [
+                    "炸两",
+                    "炸",
+                    "两"
+                ]
+            },
+            "Pinyin": "zhá liǎng"
+        },
         "images": [
             {
                 "image": "ricerollfrieddough"

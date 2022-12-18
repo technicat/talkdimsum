@@ -1,11 +1,9 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": "餅店",
-                "English": "bakery"
-            }
-        ],
+        "word": {
+            "Cantonese": "餅店",
+            "English": "bakery"
+        },
         "images": [
             {
                 "image": "bfbakerywrapped",

@@ -1,13 +1,11 @@
 [
   {
-    "words": [
-      {
-        "Cantonese": "角",
-        "English": "horn-shaped dumpling",
-        "Yale": "gok",
-        "Pinyin": "jiǎo"
-      }
-    ],
+    "word": {
+      "Cantonese": "角",
+      "English": "horn-shaped dumpling",
+      "Yale": "gok",
+      "Pinyin": "jiǎo"
+    },
     "images": [
       {
         "image": "tarodumplingyumcha",
@@ -21,22 +19,20 @@
     "resources": []
   },
   {
-    "words": [
-      {
-        "English": "taro dumpling",
-        "Cantonese": {
-          "text": "芋角",
-          "wkty": [
-            "芋角",
-            "芋頭",
-            "芋",
-            "角"
-          ]
-        },
-        "Yale": "wuh gok",
-        "Pinyin": "yù jiǎo"
-      }
-    ],
+    "word": {
+      "English": "taro dumpling",
+      "Cantonese": {
+        "text": "芋角",
+        "wkty": [
+          "芋角",
+          "芋頭",
+          "芋",
+          "角"
+        ]
+      },
+      "Yale": "wuh gok",
+      "Pinyin": "yù jiǎo"
+    },
     "images": [
       {
         "image": "tarodumplingcafesalina",
@@ -83,33 +79,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "deep-fried dumpling",
-        "Cantonese": {
-          "text": "鹹水角",
-          "wkty": [
-            "鹹水角",
-            "鹹水",
-            "鹹",
-            "水",
-            "角"
-          ]
-        },
-        "Yale": "hàahm séui gok",
-        "Simplified": {
-          "text": "咸水角",
-          "wkty": [
-            "咸水角",
-            "咸水",
-            "咸",
-            "水",
-            "角"
-          ]
-        },
-        "Pinyin": "xián shuǐ jiǎo"
-      }
-    ],
+    "word": {
+      "English": "deep-fried dumpling",
+      "Cantonese": {
+        "text": "鹹水角",
+        "wkty": [
+          "鹹水角",
+          "鹹水",
+          "鹹",
+          "水",
+          "角"
+        ]
+      },
+      "Yale": "hàahm séui gok",
+      "Simplified": {
+        "text": "咸水角",
+        "wkty": [
+          "咸水角",
+          "咸水",
+          "咸",
+          "水",
+          "角"
+        ]
+      },
+      "Pinyin": "xián shuǐ jiǎo"
+    },
     "images": [
       {
         "image": "deepfrieddumplingkj",
@@ -139,22 +133,20 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "curry puff",
-        "Cantonese": {
-          "text": "咖喱角",
-          "wkty": [
-            "咖喱",
-            "咖",
-            "喱",
-            "角"
-          ]
-        },
-        "Yale": "ga lēi gok",
-        "Pinyin": "kā li jiǎo"
-      }
-    ],
+    "word": {
+      "English": "curry puff",
+      "Cantonese": {
+        "text": "咖喱角",
+        "wkty": [
+          "咖喱",
+          "咖",
+          "喱",
+          "角"
+        ]
+      },
+      "Yale": "ga lēi gok",
+      "Pinyin": "kā li jiǎo"
+    },
     "images": [
       {
         "image": "currypuffsplityumcha",
@@ -185,33 +177,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "BBQ chicken puff",
-        "Cantonese": {
-          "text": "雞叉燒角",
-          "wkty": [
-            "雞",
-            "叉燒",
-            "叉",
-            "燒",
-            "角"
-          ]
-        },
-        "Yale": " gāi chā sīu gok",
-        "Simplified": {
-          "text": "鸡叉烧角",
-          "wkty": [
-            "鸡",
-            "叉烧",
-            "叉",
-            "烧",
-            "角"
-          ]
-        },
-        "Pinyin": "jī chā shāo jiǎo"
-      }
-    ],
+    "word": {
+      "English": "BBQ chicken puff",
+      "Cantonese": {
+        "text": "雞叉燒角",
+        "wkty": [
+          "雞",
+          "叉燒",
+          "叉",
+          "燒",
+          "角"
+        ]
+      },
+      "Yale": " gāi chā sīu gok",
+      "Simplified": {
+        "text": "鸡叉烧角",
+        "wkty": [
+          "鸡",
+          "叉烧",
+          "叉",
+          "烧",
+          "角"
+        ]
+      },
+      "Pinyin": "jī chā shāo jiǎo"
+    },
     "images": [
       {
         "image": "bbqchickenpuffyumcha",
@@ -242,14 +232,12 @@
     ]
   },
   {
-    "words": [
-      {
-        "Cantonese": "蟹角",
-        "English": "crab rangoon",
-        "Yale": "háaih gok",
-        "Pinyin": "xiè jiǎo"
-      }
-    ],
+    "word": {
+      "Cantonese": "蟹角",
+      "English": "crab rangoon",
+      "Yale": "háaih gok",
+      "Pinyin": "xiè jiǎo"
+    },
     "images": [
       {
         "image": "crabrangoonchinagogo",

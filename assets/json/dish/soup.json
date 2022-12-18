@@ -1,15 +1,13 @@
 [
   {
-    "words": [
-      {
-        "Cantonese": "湯",
-        "Simplified": "汤",
-        "English": "soup",
-        "Yale": "tōng",
-        "Jyupting": "tong1",
-        "Pinyin": "tāng"
-      }
-    ],
+    "word": {
+      "Cantonese": "湯",
+      "Simplified": "汤",
+      "English": "soup",
+      "Yale": "tōng",
+      "Jyupting": "tong1",
+      "Pinyin": "tāng"
+    },
     "images": [
       {
         "image": "soupbigwong",
@@ -28,35 +26,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "soup of the day",
-        "Cantonese": {
-          "text": "是日例湯",
-          "wkty": [
-            "是日",
-            "是",
-            "日",
-            "例湯",
-            "例",
-            "湯"
-          ]
-        },
-        "Yale": "sih yaht laih tōng",
-        "Simplified": {
-          "text": "是日例汤",
-          "wkty": [
-            "是日",
-            "是",
-            "日",
-            "例汤",
-            "例",
-            "汤"
-          ]
-        },
-        "Pinyin": "shì rì lì tāng"
-      }
-    ],
+    "word": {
+      "English": "soup of the day",
+      "Cantonese": {
+        "text": "是日例湯",
+        "wkty": [
+          "是日",
+          "是",
+          "日",
+          "例湯",
+          "例",
+          "湯"
+        ]
+      },
+      "Yale": "sih yaht laih tōng",
+      "Simplified": {
+        "text": "是日例汤",
+        "wkty": [
+          "是日",
+          "是",
+          "日",
+          "例汤",
+          "例",
+          "汤"
+        ]
+      },
+      "Pinyin": "shì rì lì tāng"
+    },
     "images": [
       {
         "image": "soupjjnoodle",
@@ -76,32 +72,30 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "hot and sour soup",
-        "Cantonese": {
-          "text": "酸辣湯",
-          "wkty": [
-            "酸辣湯",
-            "酸",
-            "辣",
-            "湯"
-          ]
-        },
-        "Yale": "syūn laaht tōng",
-        "Jyupting": "syun1 laat6 tong1",
-        "Simplified": {
-          "text": "酸辣汤",
-          "wkty": [
-            "酸辣汤",
-            "酸",
-            "辣",
-            "汤"
-          ]
-        },
-        "Pinyin": "suān là tāng"
-      }
-    ],
+    "word": {
+      "English": "hot and sour soup",
+      "Cantonese": {
+        "text": "酸辣湯",
+        "wkty": [
+          "酸辣湯",
+          "酸",
+          "辣",
+          "湯"
+        ]
+      },
+      "Yale": "syūn laaht tōng",
+      "Jyupting": "syun1 laat6 tong1",
+      "Simplified": {
+        "text": "酸辣汤",
+        "wkty": [
+          "酸辣汤",
+          "酸",
+          "辣",
+          "汤"
+        ]
+      },
+      "Pinyin": "suān là tāng"
+    },
     "images": [
       {
         "image": "hotandsoursouppadthai",
@@ -146,34 +140,32 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "egg drop soup",
-        "Cantonese": {
-          "text": "蛋花湯",
-          "wkty": [
-            "蛋花湯",
-            "蛋花",
-            "蛋",
-            "花",
-            "湯"
-          ]
-        },
-        "Yale": "dáan fā tōng",
-        "Jyupting": "daan2 faa1 tong1",
-        "Simplified": {
-          "text": "蛋花汤",
-          "wkty": [
-            "蛋花汤",
-            "蛋花",
-            "蛋",
-            "花",
-            "汤"
-          ]
-        },
-        "Pinyin": "dàn huā tāng"
-      }
-    ],
+    "word": {
+      "English": "egg drop soup",
+      "Cantonese": {
+        "text": "蛋花湯",
+        "wkty": [
+          "蛋花湯",
+          "蛋花",
+          "蛋",
+          "花",
+          "湯"
+        ]
+      },
+      "Yale": "dáan fā tōng",
+      "Jyupting": "daan2 faa1 tong1",
+      "Simplified": {
+        "text": "蛋花汤",
+        "wkty": [
+          "蛋花汤",
+          "蛋花",
+          "蛋",
+          "花",
+          "汤"
+        ]
+      },
+      "Pinyin": "dàn huā tāng"
+    },
     "images": [
       {
         "image": "eggflowersoupnoodleexchange",
@@ -211,31 +203,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "oxtail soup",
-        "Cantonese": {
-          "text": "牛尾湯",
-          "wkty": [
-            "牛尾",
-            "牛",
-            "尾",
-            "湯"
-          ]
-        },
-        "Yale": "ngàuh méih tōng",
-        "Simplified": {
-          "text": "牛尾汤",
-          "wkty": [
-            "牛尾",
-            "牛",
-            "尾",
-            "汤"
-          ]
-        },
-        "Pinyin": "niú wěi tāng"
-      }
-    ],
+    "word": {
+      "English": "oxtail soup",
+      "Cantonese": {
+        "text": "牛尾湯",
+        "wkty": [
+          "牛尾",
+          "牛",
+          "尾",
+          "湯"
+        ]
+      },
+      "Yale": "ngàuh méih tōng",
+      "Simplified": {
+        "text": "牛尾汤",
+        "wkty": [
+          "牛尾",
+          "牛",
+          "尾",
+          "汤"
+        ]
+      },
+      "Pinyin": "niú wěi tāng"
+    },
     "images": [
       {
         "image": "oxtailsoupmarketstreetcafe",
@@ -263,25 +253,23 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "West Lake beef soup",
-        "Cantonese": {
-          "text": "西湖牛肉羹",
-          "wkty": [
-            "西湖",
-            "西",
-            "湖",
-            "牛肉",
-            "牛",
-            "肉",
-            "羹"
-          ]
-        },
-        "Yale": "sāi wùh ngàuh yuhk gāng",
-        "Pinyin": "Xī hú niú ròu gēng"
-      }
-    ],
+    "word": {
+      "English": "West Lake beef soup",
+      "Cantonese": {
+        "text": "西湖牛肉羹",
+        "wkty": [
+          "西湖",
+          "西",
+          "湖",
+          "牛肉",
+          "牛",
+          "肉",
+          "羹"
+        ]
+      },
+      "Yale": "sāi wùh ngàuh yuhk gāng",
+      "Pinyin": "Xī hú niú ròu gēng"
+    },
     "images": [
       {
         "image": "westlakesoupkitchen",
@@ -311,35 +299,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "beef brisket in clear broth",
-        "Cantonese": {
-          "text": "清湯牛腩",
-          "wkty": [
-            "清湯",
-            "清",
-            "湯",
-            "牛腩",
-            "牛",
-            "腩"
-          ]
-        },
-        "Yale": "chīng tōng ngàuh náahm",
-        "Simplified": {
-          "text": "清汤牛腩",
-          "wkty": [
-            "清汤",
-            "清",
-            "汤",
-            "牛腩",
-            "牛",
-            "腩"
-          ]
-        },
-        "Pinyin": "qīng tāng niú nǎn"
-      }
-    ],
+    "word": {
+      "English": "beef brisket in clear broth",
+      "Cantonese": {
+        "text": "清湯牛腩",
+        "wkty": [
+          "清湯",
+          "清",
+          "湯",
+          "牛腩",
+          "牛",
+          "腩"
+        ]
+      },
+      "Yale": "chīng tōng ngàuh náahm",
+      "Simplified": {
+        "text": "清汤牛腩",
+        "wkty": [
+          "清汤",
+          "清",
+          "汤",
+          "牛腩",
+          "牛",
+          "腩"
+        ]
+      },
+      "Pinyin": "qīng tāng niú nǎn"
+    },
     "images": [
       {
         "image": "beefbrisketbrothnoodlepapa",

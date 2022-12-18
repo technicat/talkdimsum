@@ -1,20 +1,18 @@
 [
   {
-    "words": [
-      {
-        "English": "beer",
-        "Cantonese": {
-          "text": "啤酒",
-          "wkty": [
-            "啤酒",
-            "啤",
-            "酒"
-          ]
-        },
-        "Yale": "bē jáu",
-        "Pinyin": "pí jiǔ"
-      }
-    ],
+    "word": {
+      "English": "beer",
+      "Cantonese": {
+        "text": "啤酒",
+        "wkty": [
+          "啤酒",
+          "啤",
+          "酒"
+        ]
+      },
+      "Yale": "bē jáu",
+      "Pinyin": "pí jiǔ"
+    },
     "images": [
       {
         "image": "tsingtaoxoliquor",

@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "English": "oolong tea",
-                "Cantonese": {
-                    "text": "烏龍茶",
-                    "wkty": [
-                        "烏龍茶",
-                        "烏龍",
-                        "烏",
-                        "龍",
-                        "茶"
-                    ]
-                },
-                "Yale": "wu lùhng chàh",
-                "Simplified": {
-                    "text": "乌龙茶",
-                    "wkty": [
-                        "乌龙茶",
-                        "乌龙",
-                        "乌",
-                        "龙",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "wū lóng chá"
-            }
-        ],
+        "word": {
+            "English": "oolong tea",
+            "Cantonese": {
+                "text": "烏龍茶",
+                "wkty": [
+                    "烏龍茶",
+                    "烏龍",
+                    "烏",
+                    "龍",
+                    "茶"
+                ]
+            },
+            "Yale": "wu lùhng chàh",
+            "Simplified": {
+                "text": "乌龙茶",
+                "wkty": [
+                    "乌龙茶",
+                    "乌龙",
+                    "乌",
+                    "龙",
+                    "茶"
+                ]
+            },
+            "Pinyin": "wū lóng chá"
+        },
         "images": [
             {
                 "image": "oolongteanewasianbbq",
@@ -76,21 +74,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "milk oolong tea",
-                "Cantonese": {
-                    "text": "奶香",
-                    "wkty": [
-                        "奶香",
-                        "奶",
-                        "香"
-                    ]
-                },
-                "Yale": "náaih hēung",
-                "Pinyin": "nǎi xiāng"
-            }
-        ],
+        "word": {
+            "English": "milk oolong tea",
+            "Cantonese": {
+                "text": "奶香",
+                "wkty": [
+                    "奶香",
+                    "奶",
+                    "香"
+                ]
+            },
+            "Yale": "náaih hēung",
+            "Pinyin": "nǎi xiāng"
+        },
         "images": [
             {
                 "image": "milkyoolongeverygrain",
@@ -122,31 +118,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "baozhong tea",
-                "Cantonese": {
-                    "text": "包種茶",
-                    "wkty": [
-                        "包種茶",
-                        "包",
-                        "種",
-                        "茶"
-                    ]
-                },
-                "Yale": "bāau júng chàh",
-                "Simplified": {
-                    "text": "包种茶",
-                    "wkty": [
-                        "包种茶",
-                        "包",
-                        "种",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "bāo zhǒng chá"
-            }
-        ],
+        "word": {
+            "English": "baozhong tea",
+            "Cantonese": {
+                "text": "包種茶",
+                "wkty": [
+                    "包種茶",
+                    "包",
+                    "種",
+                    "茶"
+                ]
+            },
+            "Yale": "bāau júng chàh",
+            "Simplified": {
+                "text": "包种茶",
+                "wkty": [
+                    "包种茶",
+                    "包",
+                    "种",
+                    "茶"
+                ]
+            },
+            "Pinyin": "bāo zhǒng chá"
+        },
         "images": [
             {
                 "image": "pouchongteateastation",

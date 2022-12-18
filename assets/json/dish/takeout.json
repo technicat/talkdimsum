@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "takeout",
-        "Cantonese": {
-          "text": "外賣",
-          "wkty": [
-            "外賣",
-            "外",
-            "賣"
-          ]
-        },
-        "Yale": "ngoih maaih",
-        "Simplified": {
-          "text": "外卖",
-          "wkty": [
-            "外卖",
-            "外",
-            "卖"
-          ]
-        },
-        "Pinyin": "wài mài"
-      }
-    ],
+    "word": {
+      "English": "takeout",
+      "Cantonese": {
+        "text": "外賣",
+        "wkty": [
+          "外賣",
+          "外",
+          "賣"
+        ]
+      },
+      "Yale": "ngoih maaih",
+      "Simplified": {
+        "text": "外卖",
+        "wkty": [
+          "外卖",
+          "外",
+          "卖"
+        ]
+      },
+      "Pinyin": "wài mài"
+    },
     "images": [
       {
         "image": "168markettakeout",
@@ -41,31 +39,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "takeout cup",
-        "Cantonese": {
-          "text": "外賣杯",
-          "wkty": [
-            "外賣",
-            "外",
-            "賣",
-            "杯"
-          ]
-        },
-        "Yale": "ngoih maaih būi",
-        "Simplified": {
-          "text": "外卖杯",
-          "wkty": [
-            "外卖",
-            "外",
-            "卖",
-            "杯"
-          ]
-        },
-        "Pinyin": "wài mài bēi"
-      }
-    ],
+    "word": {
+      "English": "takeout cup",
+      "Cantonese": {
+        "text": "外賣杯",
+        "wkty": [
+          "外賣",
+          "外",
+          "賣",
+          "杯"
+        ]
+      },
+      "Yale": "ngoih maaih būi",
+      "Simplified": {
+        "text": "外卖杯",
+        "wkty": [
+          "外卖",
+          "外",
+          "卖",
+          "杯"
+        ]
+      },
+      "Pinyin": "wài mài bēi"
+    },
     "images": [
       {
         "image": "takeoutcup88papanoodle",

@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "mantou",
-        "Cantonese": {
-          "text": "饅頭",
-          "wkty": [
-            "饅頭",
-            "饅",
-            "頭"
-          ]
-        },
-        "Yale": "màahn tàuh",
-        "Simplified": {
-          "text": "馒头",
-          "wkty": [
-            "馒头",
-            "馒",
-            "头"
-          ]
-        },
-        "Pinyin": "mán tou"
-      }
-    ],
+    "word": {
+      "English": "mantou",
+      "Cantonese": {
+        "text": "饅頭",
+        "wkty": [
+          "饅頭",
+          "饅",
+          "頭"
+        ]
+      },
+      "Yale": "màahn tàuh",
+      "Simplified": {
+        "text": "馒头",
+        "wkty": [
+          "馒头",
+          "馒",
+          "头"
+        ]
+      },
+      "Pinyin": "mán tou"
+    },
     "images": [
       {
         "image": "mantou"
@@ -78,35 +76,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "abalone and chicken in mantou cup",
-        "Cantonese": {
-          "text": "鮑魚滑雞窩",
-          "wkty": [
-            "鮑魚",
-            "鮑",
-            "魚",
-            "滑",
-            "雞",
-            "窩"
-          ]
-        },
-        "Yale": "bāau yùh waaht gāi wō",
-        "Simplified": {
-          "text": "鲍鱼滑鸡窝",
-          "wkty": [
-            "鲍鱼",
-            "鲍",
-            "鱼",
-            "滑",
-            "鸡",
-            "窝"
-          ]
-        },
-        "Pinyin": "bào yú huá jī wō"
-      }
-    ],
+    "word": {
+      "English": "abalone and chicken in mantou cup",
+      "Cantonese": {
+        "text": "鮑魚滑雞窩",
+        "wkty": [
+          "鮑魚",
+          "鮑",
+          "魚",
+          "滑",
+          "雞",
+          "窩"
+        ]
+      },
+      "Yale": "bāau yùh waaht gāi wō",
+      "Simplified": {
+        "text": "鲍鱼滑鸡窝",
+        "wkty": [
+          "鲍鱼",
+          "鲍",
+          "鱼",
+          "滑",
+          "鸡",
+          "窝"
+        ]
+      },
+      "Pinyin": "bào yú huá jī wō"
+    },
     "images": [
       {
         "image": "abalonechickenmantoutimhowan",

@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "milk tea",
-                "Cantonese": {
-                    "text": "奶茶",
-                    "wkty": [
-                        "奶茶",
-                        "奶",
-                        "茶"
-                    ]
-                },
-                "Yale": "náaih chàh",
-                "Pinyin": "nǎi chá"
-            }
-        ],
+        "word": {
+            "English": "milk tea",
+            "Cantonese": {
+                "text": "奶茶",
+                "wkty": [
+                    "奶茶",
+                    "奶",
+                    "茶"
+                ]
+            },
+            "Yale": "náaih chàh",
+            "Pinyin": "nǎi chá"
+        },
         "images": [
             {
                 "image": "hkmilkteajjnoodle",
@@ -43,24 +41,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Hong Kong-style milk tea",
-                "Cantonese": {
-                    "text": "港式奶茶",
-                    "wkty": [
-                        "港式",
-                        "港",
-                        "式",
-                        "奶茶",
-                        "奶",
-                        "茶"
-                    ]
-                },
-                "Yale": "góng sīk náaih chàh",
-                "Pinyin": "gǎng shì nǎi chá"
-            }
-        ],
+        "word": {
+            "English": "Hong Kong-style milk tea",
+            "Cantonese": {
+                "text": "港式奶茶",
+                "wkty": [
+                    "港式",
+                    "港",
+                    "式",
+                    "奶茶",
+                    "奶",
+                    "茶"
+                ]
+            },
+            "Yale": "góng sīk náaih chàh",
+            "Pinyin": "gǎng shì nǎi chá"
+        },
         "images": [
             {
                 "image": "hkmilkteatopjjnoodle",
@@ -100,29 +96,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "coffee with tea",
-                "Cantonese": {
-                    "text": "鴛鴦",
-                    "wkty": [
-                        "鴛鴦",
-                        "鴛",
-                        "鴦"
-                    ]
-                },
-                "Yale": "yūn yēung",
-                "Simplified": {
-                    "text": "鸳鸯",
-                    "wkty": [
-                        "鴛鴦",
-                        "鴛",
-                        "鴦"
-                    ]
-                },
-                "Pinyin": "yuān yāng"
-            }
-        ],
+        "word": {
+            "English": "coffee with tea",
+            "Cantonese": {
+                "text": "鴛鴦",
+                "wkty": [
+                    "鴛鴦",
+                    "鴛",
+                    "鴦"
+                ]
+            },
+            "Yale": "yūn yēung",
+            "Simplified": {
+                "text": "鸳鸯",
+                "wkty": [
+                    "鴛鴦",
+                    "鴛",
+                    "鴦"
+                ]
+            },
+            "Pinyin": "yuān yāng"
+        },
         "images": [
             {
                 "image": "yuenyeunglit88",
@@ -160,26 +154,24 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "boba milk tea",
-                "Cantonese": {
-                    "text": "波霸奶茶",
-                    "wkty": [
-                        "波霸奶茶",
-                        "波霸",
-                        "波",
-                        "霸",
-                        "奶茶",
-                        "奶",
-                        "茶"
-                    ]
-                },
-                "Yale": "bō ba náaih chàh",
-                "Jyutping": "bo1 baa3 naai6 caa4",
-                "Pinyin": "bō bà nǎi chá"
-            }
-        ],
+        "word": {
+            "English": "boba milk tea",
+            "Cantonese": {
+                "text": "波霸奶茶",
+                "wkty": [
+                    "波霸奶茶",
+                    "波霸",
+                    "波",
+                    "霸",
+                    "奶茶",
+                    "奶",
+                    "茶"
+                ]
+            },
+            "Yale": "bō ba náaih chàh",
+            "Jyutping": "bo1 baa3 naai6 caa4",
+            "Pinyin": "bō bà nǎi chá"
+        },
         "images": [
             {
                 "image": "bobamilkteahappylemon",
@@ -207,24 +199,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "brown sugar milk tea",
-                "Cantonese": {
-                    "text": "黑糖奶茶",
-                    "wkty": [
-                        "黑糖",
-                        "黑",
-                        "糖",
-                        "奶茶",
-                        "奶",
-                        "茶"
-                    ]
-                },
-                "Yale": "hāk tòhng náaih chàh",
-                "Pinyin": "hēi táng nǎi chá"
-            }
-        ],
+        "word": {
+            "English": "brown sugar milk tea",
+            "Cantonese": {
+                "text": "黑糖奶茶",
+                "wkty": [
+                    "黑糖",
+                    "黑",
+                    "糖",
+                    "奶茶",
+                    "奶",
+                    "茶"
+                ]
+            },
+            "Yale": "hāk tòhng náaih chàh",
+            "Pinyin": "hēi táng nǎi chá"
+        },
         "images": [
             {
                 "image": "tigersugar",

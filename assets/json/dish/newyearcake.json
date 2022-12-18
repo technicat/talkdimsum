@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "New Year cake",
-                "Cantonese": {
-                    "text": "年糕",
-                    "wkty": [
-                        "年糕",
-                        "年",
-                        "糕"
-                    ]
-                },
-                "Yale": "nìhn gōu",
-                "Pinyin": "nián gāo"
-            }
-        ],
+        "word": {
+            "English": "New Year cake",
+            "Cantonese": {
+                "text": "年糕",
+                "wkty": [
+                    "年糕",
+                    "年",
+                    "糕"
+                ]
+            },
+            "Yale": "nìhn gōu",
+            "Pinyin": "nián gāo"
+        },
         "images": [
             {
                 "image": "newyearcakeopendiamondbakery",
@@ -65,22 +63,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "stir-fried rice cake",
-                "Cantonese": {
-                    "text": "炒年糕",
-                    "wkty": [
-                        "炒",
-                        "年糕",
-                        "年",
-                        "糕"
-                    ]
-                },
-                "Yale": "cháau nìhn gōu",
-                "Pinyin": "chǎo nián gāo"
-            }
-        ],
+        "word": {
+            "English": "stir-fried rice cake",
+            "Cantonese": {
+                "text": "炒年糕",
+                "wkty": [
+                    "炒",
+                    "年糕",
+                    "年",
+                    "糕"
+                ]
+            },
+            "Yale": "cháau nìhn gōu",
+            "Pinyin": "chǎo nián gāo"
+        },
         "images": [
             {
                 "image": "stirfriedricecakexiaolongbao",

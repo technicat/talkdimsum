@@ -1,30 +1,28 @@
 [
     {
-        "words": [
-            {
-                "English": "BBQ pork rice",
-                "Cantonese": {
-                    "text": "叉燒飯",
-                    "wkty": [
-                        "叉燒",
-                        "叉",
-                        "燒",
-                        "飯"
-                    ]
-                },
-                "Yale": "chā sīu faahn",
-                "Simplified": {
-                    "text": "叉烧饭",
-                    "wkty": [
-                        "叉烧",
-                        "叉",
-                        "烧",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "chā shāo fàn"
-            }
-        ],
+        "word": {
+            "English": "BBQ pork rice",
+            "Cantonese": {
+                "text": "叉燒飯",
+                "wkty": [
+                    "叉燒",
+                    "叉",
+                    "燒",
+                    "飯"
+                ]
+            },
+            "Yale": "chā sīu faahn",
+            "Simplified": {
+                "text": "叉烧饭",
+                "wkty": [
+                    "叉烧",
+                    "叉",
+                    "烧",
+                    "饭"
+                ]
+            },
+            "Pinyin": "chā shāo fàn"
+        },
         "images": [
             {
                 "image": "chasiufanchubbyboybbq",
@@ -53,31 +51,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pork belly rice",
-                "Cantonese": {
-                    "text": "燒肉飯",
-                    "wkty": [
-                        "燒肉",
-                        "燒",
-                        "肉",
-                        "飯"
-                    ]
-                },
-                "Yale": "sīu yuhk faahn",
-                "Simplified": {
-                    "text": "烧肉饭",
-                    "wkty": [
-                        "燒肉",
-                        "燒",
-                        "肉",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "shāo ròu fàn"
-            }
-        ],
+        "word": {
+            "English": "pork belly rice",
+            "Cantonese": {
+                "text": "燒肉飯",
+                "wkty": [
+                    "燒肉",
+                    "燒",
+                    "肉",
+                    "飯"
+                ]
+            },
+            "Yale": "sīu yuhk faahn",
+            "Simplified": {
+                "text": "烧肉饭",
+                "wkty": [
+                    "燒肉",
+                    "燒",
+                    "肉",
+                    "饭"
+                ]
+            },
+            "Pinyin": "shāo ròu fàn"
+        },
         "images": [
             {
                 "image": "porkbellyricebbqking",
@@ -102,31 +98,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "roast duck rice",
-                "Cantonese": {
-                    "text": "燒鴨飯",
-                    "wkty": [
-                        "燒鴨",
-                        "燒",
-                        "鴨",
-                        "飯"
-                    ]
-                },
-                "Yale": "sīu aap faahn",
-                "Simplified": {
-                    "text": "烧鸭饭",
-                    "wkty": [
-                        "烧鸭",
-                        "烧",
-                        "鸭",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "shāo yā fàn"
-            }
-        ],
+        "word": {
+            "English": "roast duck rice",
+            "Cantonese": {
+                "text": "燒鴨飯",
+                "wkty": [
+                    "燒鴨",
+                    "燒",
+                    "鴨",
+                    "飯"
+                ]
+            },
+            "Yale": "sīu aap faahn",
+            "Simplified": {
+                "text": "烧鸭饭",
+                "wkty": [
+                    "烧鸭",
+                    "烧",
+                    "鸭",
+                    "饭"
+                ]
+            },
+            "Pinyin": "shāo yā fàn"
+        },
         "images": [
             {
                 "image": "roastduckricebbqking",
@@ -147,31 +141,29 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "three treasures rice",
-                "Cantonese": {
-                    "text": "三寶飯",
-                    "wkty": [
-                        "三寶",
-                        "三",
-                        "寶",
-                        "飯"
-                    ]
-                },
-                "Yale": "sāam bóu faahn",
-                "Simplified": {
-                    "text": "三宝饭",
-                    "wkty": [
-                        "三宝",
-                        "三",
-                        "宝",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "sān bǎo fàn"
-            }
-        ],
+        "word": {
+            "English": "three treasures rice",
+            "Cantonese": {
+                "text": "三寶飯",
+                "wkty": [
+                    "三寶",
+                    "三",
+                    "寶",
+                    "飯"
+                ]
+            },
+            "Yale": "sāam bóu faahn",
+            "Simplified": {
+                "text": "三宝饭",
+                "wkty": [
+                    "三宝",
+                    "三",
+                    "宝",
+                    "饭"
+                ]
+            },
+            "Pinyin": "sān bǎo fàn"
+        },
         "images": [
             {
                 "image": "threetreasuresrice",

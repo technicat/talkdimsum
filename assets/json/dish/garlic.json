@@ -1,23 +1,21 @@
 [
     {
-        "words": [
-            {
-                "English": "stir-fried pea shoots in garlic",
-                "Cantonese": {
-                    "text": "蒜蓉炒豆苗",
-                    "wkty": [
-                        "蒜蓉",
-                        "蒜",
-                        "蓉",
-                        "豆苗",
-                        "豆",
-                        "苗"
-                    ]
-                },
-                "Yale": "syun yùhng dauh mìuh",
-                "Pinyin": "suàn róng dòu miáo"
-            }
-        ],
+        "word": {
+            "English": "stir-fried pea shoots in garlic",
+            "Cantonese": {
+                "text": "蒜蓉炒豆苗",
+                "wkty": [
+                    "蒜蓉",
+                    "蒜",
+                    "蓉",
+                    "豆苗",
+                    "豆",
+                    "苗"
+                ]
+            },
+            "Yale": "syun yùhng dauh mìuh",
+            "Pinyin": "suàn róng dòu miáo"
+        },
         "images": [
             {
                 "image": "daowunewasianbbq",
@@ -41,25 +39,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "spinach in garlic",
-                "Cantonese": {
-                    "text": "蒜蓉菠菜",
-                    "wkty": [
-                        "蒜蓉",
-                        "蒜",
-                        "蓉",
-                        "菠菜",
-                        "菠",
-                        "菜"
-                    ]
-                },
-                "Yale": "syun yùhng bō choi",
-                "Jyutping": "syun3 jung4 bo1 coi3",
-                "Pinyin": "suàn róng bō cài"
-            }
-        ],
+        "word": {
+            "English": "spinach in garlic",
+            "Cantonese": {
+                "text": "蒜蓉菠菜",
+                "wkty": [
+                    "蒜蓉",
+                    "蒜",
+                    "蓉",
+                    "菠菜",
+                    "菠",
+                    "菜"
+                ]
+            },
+            "Yale": "syun yùhng bō choi",
+            "Jyutping": "syun3 jung4 bo1 coi3",
+            "Pinyin": "suàn róng bō cài"
+        },
         "images": [
             {
                 "image": "garlicspinachxiaolongbao",
@@ -82,25 +78,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "bok choy in garlic",
-                "Cantonese": {
-                    "text": "蒜蓉白菜",
-                    "wkty": [
-                        "蒜蓉",
-                        "蒜",
-                        "蓉",
-                        "白菜",
-                        "白",
-                        "菜"
-                    ]
-                },
-                "Yale": "syun yùhng baahk choi",
-                "Jyutping": "syun3 jung4 baak6 coi3",
-                "Pinyin": "suàn róng bái cài"
-            }
-        ],
+        "word": {
+            "English": "bok choy in garlic",
+            "Cantonese": {
+                "text": "蒜蓉白菜",
+                "wkty": [
+                    "蒜蓉",
+                    "蒜",
+                    "蓉",
+                    "白菜",
+                    "白",
+                    "菜"
+                ]
+            },
+            "Yale": "syun yùhng baahk choi",
+            "Jyutping": "syun3 jung4 baak6 coi3",
+            "Pinyin": "suàn róng bái cài"
+        },
         "images": [
             {
                 "image": "garlicbokchoywishfuldumpling",
@@ -128,25 +122,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "choy sum in garlic",
-                "Cantonese": {
-                    "text": "蒜蓉菜心",
-                    "wkty": [
-                        "蒜蓉",
-                        "蒜",
-                        "蓉",
-                        "菜心",
-                        "菜",
-                        "心"
-                    ]
-                },
-                "Yale": "syun yùhng choi sām",
-                "Jyutping": "syun3 jung4 coi3 sam1",
-                "Pinyin": "suàn róng cài xīn"
-            }
-        ],
+        "word": {
+            "English": "choy sum in garlic",
+            "Cantonese": {
+                "text": "蒜蓉菜心",
+                "wkty": [
+                    "蒜蓉",
+                    "蒜",
+                    "蓉",
+                    "菜心",
+                    "菜",
+                    "心"
+                ]
+            },
+            "Yale": "syun yùhng choi sām",
+            "Jyutping": "syun3 jung4 coi3 sam1",
+            "Pinyin": "suàn róng cài xīn"
+        },
         "images": [
             {
                 "image": "choysumwithgarlicbulbs",
@@ -173,25 +165,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "ong choy in garlic",
-                "Cantonese": {
-                    "text": "蒜蓉蕹菜",
-                    "wkty": [
-                        "蒜蓉",
-                        "蒜",
-                        "蓉",
-                        "蕹菜",
-                        "蕹",
-                        "菜"
-                    ]
-                },
-                "Yale": "syun yùhng ung choi",
-                "Jyutping": "syun3 jung4 ung3 coi3",
-                "Pinyin": "suàn róng wèng cài"
-            }
-        ],
+        "word": {
+            "English": "ong choy in garlic",
+            "Cantonese": {
+                "text": "蒜蓉蕹菜",
+                "wkty": [
+                    "蒜蓉",
+                    "蒜",
+                    "蓉",
+                    "蕹菜",
+                    "蕹",
+                    "菜"
+                ]
+            },
+            "Yale": "syun yùhng ung choi",
+            "Jyutping": "syun3 jung4 ung3 coi3",
+            "Pinyin": "suàn róng wèng cài"
+        },
         "images": [
             {
                 "image": "ongchoykungfuthai",
@@ -238,36 +228,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Chinese broccoli in garlic",
-                "Cantonese": {
-                    "text": "蒜蓉芥蘭",
-                    "wkty": [
-                        "蒜蓉",
-                        "蒜",
-                        "蓉",
-                        "芥蘭",
-                        "芥",
-                        "蘭"
-                    ]
-                },
-                "Simplified":  {
-                    "text":"蒜蓉芥兰",
-                     "wkty": [
-                        "蒜蓉",
-                        "蒜",
-                        "蓉",
-                        "芥兰",
-                        "芥",
-                        "兰"
-                    ]
-                },
-               
-                "Yale": "syun yùhng gaai láan",
-                "Pinyin": "suàn róng gài lán"
-            }
-        ],
+        "word": {
+            "English": "Chinese broccoli in garlic",
+            "Cantonese": {
+                "text": "蒜蓉芥蘭",
+                "wkty": [
+                    "蒜蓉",
+                    "蒜",
+                    "蓉",
+                    "芥蘭",
+                    "芥",
+                    "蘭"
+                ]
+            },
+            "Simplified": {
+                "text": "蒜蓉芥兰",
+                "wkty": [
+                    "蒜蓉",
+                    "蒜",
+                    "蓉",
+                    "芥兰",
+                    "芥",
+                    "兰"
+                ]
+            },
+            "Yale": "syun yùhng gaai láan",
+            "Pinyin": "suàn róng gài lán"
+        },
         "images": [
             {
                 "image": "chinesebroccoliwithgarlicbigwong",

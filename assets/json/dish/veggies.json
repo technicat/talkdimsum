@@ -1,34 +1,32 @@
 [
     {
-        "words": [
-            {
-                "English": "Seasonal vegetables with oyster sauce",
-                "Cantonese": {
-                    "text": "蠔油時蔬",
-                    "wkty": [
-                        "蠔油",
-                        "蠔",
-                        "油",
-                        "時蔬",
-                        "時",
-                        "蔬"
-                    ]
-                },
-                "Yale": "hòuh yàuh sìh sō",
-                "Simplified": {
-                    "text": "蚝油时蔬",
-                    "wkty": [
-                        "蚝油",
-                        "蚝",
-                        "油",
-                        "時蔬",
-                        "時",
-                        "蔬"
-                    ]
-                },
-                "Pinyin": "háo yóu shí shū"
-            }
-        ],
+        "word": {
+            "English": "Seasonal vegetables with oyster sauce",
+            "Cantonese": {
+                "text": "蠔油時蔬",
+                "wkty": [
+                    "蠔油",
+                    "蠔",
+                    "油",
+                    "時蔬",
+                    "時",
+                    "蔬"
+                ]
+            },
+            "Yale": "hòuh yàuh sìh sō",
+            "Simplified": {
+                "text": "蚝油时蔬",
+                "wkty": [
+                    "蚝油",
+                    "蚝",
+                    "油",
+                    "時蔬",
+                    "時",
+                    "蔬"
+                ]
+            },
+            "Pinyin": "háo yóu shí shū"
+        },
         "images": [
             {
                 "image": "veg88noodle",
@@ -47,33 +45,31 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "Buddha's delight",
-                "Cantonese": {
-                    "text": "羅漢齋",
-                    "wkty": [
-                        "羅漢齋",
-                        "羅漢",
-                        "羅",
-                        "漢",
-                        "齋"
-                    ]
-                },
-                "Yale": "lòh hon jāai",
-                "Simplified": {
-                    "text": "罗汉斋",
-                    "wkty": [
-                        "罗汉斋",
-                        "罗汉斋",
-                        "罗",
-                        "汉",
-                        "斋"
-                    ]
-                },
-                "Pinyin": "luó hàn zhā"
-            }
-        ],
+        "word": {
+            "English": "Buddha's delight",
+            "Cantonese": {
+                "text": "羅漢齋",
+                "wkty": [
+                    "羅漢齋",
+                    "羅漢",
+                    "羅",
+                    "漢",
+                    "齋"
+                ]
+            },
+            "Yale": "lòh hon jāai",
+            "Simplified": {
+                "text": "罗汉斋",
+                "wkty": [
+                    "罗汉斋",
+                    "罗汉斋",
+                    "罗",
+                    "汉",
+                    "斋"
+                ]
+            },
+            "Pinyin": "luó hàn zhā"
+        },
         "images": [
             {
                 "image": "buddhadelightchinagogo",
@@ -93,39 +89,37 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "stir-fried string beans w/ minced pork",
-                "Cantonese": {
-                    "text": "乾煸四季豆",
-                    "wkty": [
-                        "乾",
-                        "煸",
-                        "四季豆",
-                        "四季",
-                        "四",
-                        "季",
-                        "豆",
-                        "四季豆"
-                    ]
-                },
-                "Yale": "gōn bīn sei gwai dáu",
-                "Simplified": {
-                    "text": "干煸四季豆",
-                    "wkty": [
-                        "干",
-                        "煸",
-                        "四季豆",
-                        "四季",
-                        "四",
-                        "季",
-                        "豆",
-                        "四季豆"
-                    ]
-                },
-                "Pinyin": "gān biān sì jì dòu"
-            }
-        ],
+        "word": {
+            "English": "stir-fried string beans w/ minced pork",
+            "Cantonese": {
+                "text": "乾煸四季豆",
+                "wkty": [
+                    "乾",
+                    "煸",
+                    "四季豆",
+                    "四季",
+                    "四",
+                    "季",
+                    "豆",
+                    "四季豆"
+                ]
+            },
+            "Yale": "gōn bīn sei gwai dáu",
+            "Simplified": {
+                "text": "干煸四季豆",
+                "wkty": [
+                    "干",
+                    "煸",
+                    "四季豆",
+                    "四季",
+                    "四",
+                    "季",
+                    "豆",
+                    "四季豆"
+                ]
+            },
+            "Pinyin": "gān biān sì jì dòu"
+        },
         "images": [
             {
                 "image": "stringbeansmincedporkphokimlong",
@@ -164,35 +158,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fish fragrant eggplant",
-                "Cantonese": {
-                    "text": "魚香茄子",
-                    "wkty": [
-                        "魚香",
-                        "魚",
-                        "香",
-                        "茄子",
-                        "茄",
-                        "子"
-                    ]
-                },
-                "Yale": "yùh hēung ké jí",
-                "Simplified": {
-                    "text": "鱼香茄子",
-                    "wkty": [
-                        "鱼香",
-                        "鱼",
-                        "香",
-                        "茄子",
-                        "茄",
-                        "子"
-                    ]
-                },
-                "Pinyin": "yú xiāng qié z"
-            }
-        ],
+        "word": {
+            "English": "fish fragrant eggplant",
+            "Cantonese": {
+                "text": "魚香茄子",
+                "wkty": [
+                    "魚香",
+                    "魚",
+                    "香",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Yale": "yùh hēung ké jí",
+            "Simplified": {
+                "text": "鱼香茄子",
+                "wkty": [
+                    "鱼香",
+                    "鱼",
+                    "香",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Pinyin": "yú xiāng qié z"
+        },
         "images": [
             {
                 "image": "eggplantgarlic2xialongbao",

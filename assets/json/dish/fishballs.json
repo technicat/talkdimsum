@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "fish balls",
-        "Cantonese": {
-          "text": "魚蛋",
-          "wkty": [
-            "魚蛋",
-            "魚",
-            "蛋"
-          ]
-        },
-        "Yale": "yú daahn",
-        "Simplified": {
-          "text": "鱼蛋",
-          "wkty": [
-            "鱼蛋",
-            "鱼",
-            "蛋"
-          ]
-        },
-        "Pinyin": "yú dàn"
-      }
-    ],
+    "word": {
+      "English": "fish balls",
+      "Cantonese": {
+        "text": "魚蛋",
+        "wkty": [
+          "魚蛋",
+          "魚",
+          "蛋"
+        ]
+      },
+      "Yale": "yú daahn",
+      "Simplified": {
+        "text": "鱼蛋",
+        "wkty": [
+          "鱼蛋",
+          "鱼",
+          "蛋"
+        ]
+      },
+      "Pinyin": "yú dàn"
+    },
     "images": [
       {
         "image": "fishballshkgarden",
@@ -54,37 +52,35 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "curry fish balls",
-        "Cantonese": {
-          "text": "咖喱魚蛋",
-          "wkty": [
-            "咖喱魚蛋",
-            "咖喱",
-            "咖",
-            "喱",
-            "魚蛋",
-            "魚",
-            "蛋"
-          ]
-        },
-        "Yale": "ga lēi yú daahn",
-        "Simplified": {
-          "text": "咖喱鱼蛋",
-          "wkty": [
-            "咖喱鱼蛋",
-            "咖喱",
-            "咖",
-            "喱",
-            "鱼蛋",
-            "鱼",
-            "蛋"
-          ]
-        },
-        "Pinyin": "kā li yú dàn"
-      }
-    ],
+    "word": {
+      "English": "curry fish balls",
+      "Cantonese": {
+        "text": "咖喱魚蛋",
+        "wkty": [
+          "咖喱魚蛋",
+          "咖喱",
+          "咖",
+          "喱",
+          "魚蛋",
+          "魚",
+          "蛋"
+        ]
+      },
+      "Yale": "ga lēi yú daahn",
+      "Simplified": {
+        "text": "咖喱鱼蛋",
+        "wkty": [
+          "咖喱鱼蛋",
+          "咖喱",
+          "咖",
+          "喱",
+          "鱼蛋",
+          "鱼",
+          "蛋"
+        ]
+      },
+      "Pinyin": "kā li yú dàn"
+    },
     "images": [
       {
         "image": "curryfishballspingpangpong3",
@@ -130,31 +126,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "fried fish balls",
-        "Cantonese": {
-          "text": "炸魚蛋",
-          "wkty": [
-            "炸",
-            "魚蛋",
-            "魚",
-            "蛋"
-          ]
-        },
-        "Yale": "ja yú daahn",
-        "Simplified": {
-          "text": "炸鱼蛋",
-          "wkty": [
-            "炸",
-            "鱼蛋",
-            "鱼",
-            "蛋"
-          ]
-        },
-        "Pinyin": "zhá yú dàn"
-      }
-    ],
+    "word": {
+      "English": "fried fish balls",
+      "Cantonese": {
+        "text": "炸魚蛋",
+        "wkty": [
+          "炸",
+          "魚蛋",
+          "魚",
+          "蛋"
+        ]
+      },
+      "Yale": "ja yú daahn",
+      "Simplified": {
+        "text": "炸鱼蛋",
+        "wkty": [
+          "炸",
+          "鱼蛋",
+          "鱼",
+          "蛋"
+        ]
+      },
+      "Pinyin": "zhá yú dàn"
+    },
     "images": [
       {
         "image": "friedfishballscafesalina",

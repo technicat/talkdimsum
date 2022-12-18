@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "mochi",
-                "Cantonese": {
-                    "text": "糯米糍",
-                    "wkty": [
-                        "糯米",
-                        "糯",
-                        "米",
-                        "糍"
-                    ]
-                },
-                "Yale": "noh máih chìh",
-                "Pinyin": "nuò mǐ cí"
-            }
-        ],
+        "word": {
+            "English": "mochi",
+            "Cantonese": {
+                "text": "糯米糍",
+                "wkty": [
+                    "糯米",
+                    "糯",
+                    "米",
+                    "糍"
+                ]
+            },
+            "Yale": "noh máih chìh",
+            "Pinyin": "nuò mǐ cí"
+        },
         "images": [
             {
                 "image": "dessertzenpeninsula",
@@ -54,37 +52,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "soft grated coconut mochi",
-                "Cantonese": {
-                    "text": "椰絲糯米糍",
-                    "wkty": [
-                        "椰絲",
-                        "椰",
-                        "絲",
-                        "糯米",
-                        "糯",
-                        "米",
-                        "糍"
-                    ]
-                },
-                "Yale": "yèh sī máih chìh",
-                "Simplified": {
-                    "text": "椰丝糯米糍",
-                    "wkty": [
-                        "椰丝",
-                        "椰",
-                        "丝",
-                        "糯米",
-                        "糯",
-                        "米",
-                        "糍"
-                    ]
-                },
-                "Pinyin": "yē sī mǐ cí"
-            }
-        ],
+        "word": {
+            "English": "soft grated coconut mochi",
+            "Cantonese": {
+                "text": "椰絲糯米糍",
+                "wkty": [
+                    "椰絲",
+                    "椰",
+                    "絲",
+                    "糯米",
+                    "糯",
+                    "米",
+                    "糍"
+                ]
+            },
+            "Yale": "yèh sī máih chìh",
+            "Simplified": {
+                "text": "椰丝糯米糍",
+                "wkty": [
+                    "椰丝",
+                    "椰",
+                    "丝",
+                    "糯米",
+                    "糯",
+                    "米",
+                    "糍"
+                ]
+            },
+            "Pinyin": "yē sī mǐ cí"
+        },
         "images": [
             {
                 "image": "coconutmochiyumcha",
@@ -113,33 +109,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mung bean mochi",
-                "Cantonese": {
-                    "text": "綠豆米糍",
-                    "wkty": [
-                        "綠豆",
-                        "綠",
-                        "豆",
-                        "米",
-                        "糍"
-                    ]
-                },
-                "Yale": "luhk dáu máih chìh",
-                "Simplified": {
-                    "text": "绿豆米糍",
-                    "wkty": [
-                        "绿豆",
-                        "绿",
-                        "豆",
-                        "米",
-                        "糍"
-                    ]
-                },
-                "Pinyin": "lǜ dòu mǐ cí"
-            }
-        ],
+        "word": {
+            "English": "mung bean mochi",
+            "Cantonese": {
+                "text": "綠豆米糍",
+                "wkty": [
+                    "綠豆",
+                    "綠",
+                    "豆",
+                    "米",
+                    "糍"
+                ]
+            },
+            "Yale": "luhk dáu máih chìh",
+            "Simplified": {
+                "text": "绿豆米糍",
+                "wkty": [
+                    "绿豆",
+                    "绿",
+                    "豆",
+                    "米",
+                    "糍"
+                ]
+            },
+            "Pinyin": "lǜ dòu mǐ cí"
+        },
         "images": [
             {
                 "image": "mungbeanmochiyumcha",
@@ -170,25 +164,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mochi ice cream",
-                "Cantonese": {
-                    "text": "雪糕糯米糍",
-                    "wkty": [
-                        "雪糕",
-                        "雪",
-                        "糕",
-                        "糯米",
-                        "糯",
-                        "米",
-                        "糍"
-                    ]
-                },
-                "Yale": "syut gōu noh máih chìh",
-                "Pinyin": "xuě gāo nuò mǐ cí"
-            }
-        ],
+        "word": {
+            "English": "mochi ice cream",
+            "Cantonese": {
+                "text": "雪糕糯米糍",
+                "wkty": [
+                    "雪糕",
+                    "雪",
+                    "糕",
+                    "糯米",
+                    "糯",
+                    "米",
+                    "糍"
+                ]
+            },
+            "Yale": "syut gōu noh máih chìh",
+            "Pinyin": "xuě gāo nuò mǐ cí"
+        },
         "images": [
             {
                 "image": "icecreammochi",

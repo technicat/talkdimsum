@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "spare ribs",
-                "Cantonese": {
-                    "text": "排骨",
-                    "wkty": [
-                        "排骨",
-                        "排",
-                        "骨"
-                    ]
-                },
-                "Yale": "pàaih gwāt",
-                "Pinyin": "pái gǔ"
-            }
-        ],
+        "word": {
+            "English": "spare ribs",
+            "Cantonese": {
+                "text": "排骨",
+                "wkty": [
+                    "排骨",
+                    "排",
+                    "骨"
+                ]
+            },
+            "Yale": "pàaih gwāt",
+            "Pinyin": "pái gǔ"
+        },
         "images": [
             {
                 "image": "spareribs",
@@ -29,24 +27,22 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "spare ribs in black bean sauce",
-                "Cantonese": {
-                    "text": "豉汁蒸排骨",
-                    "wkty": [
-                        "豉汁",
-                        "豉",
-                        "汁",
-                        "排骨",
-                        "排",
-                        "骨"
-                    ]
-                },
-                "Yale": "sih jāp jīng pàaih gwāt",
-                "Pinyin": "chǐ zhī zhēng pái gǔ"
-            }
-        ],
+        "word": {
+            "English": "spare ribs in black bean sauce",
+            "Cantonese": {
+                "text": "豉汁蒸排骨",
+                "wkty": [
+                    "豉汁",
+                    "豉",
+                    "汁",
+                    "排骨",
+                    "排",
+                    "骨"
+                ]
+            },
+            "Yale": "sih jāp jīng pàaih gwāt",
+            "Pinyin": "chǐ zhī zhēng pái gǔ"
+        },
         "images": [
             {
                 "image": "spareribspingpangpong",
@@ -93,35 +89,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "spare ribs w/ taro",
-                "Cantonese": {
-                    "text": "芋頭蒸排骨",
-                    "wkty": [
-                        "芋頭",
-                        "芋",
-                        "頭",
-                        "排骨",
-                        "排",
-                        "骨"
-                    ]
-                },
-                "Yale": "wuh táu jīng pàaih gwāt",
-                "Simplified": {
-                    "text": "芋头蒸排骨",
-                    "wkty": [
-                        "芋頭",
-                        "芋",
-                        "頭",
-                        "排骨",
-                        "排",
-                        "骨"
-                    ]
-                },
-                "Pinyin": "yù tou zhēng pái gǔ"
-            }
-        ],
+        "word": {
+            "English": "spare ribs w/ taro",
+            "Cantonese": {
+                "text": "芋頭蒸排骨",
+                "wkty": [
+                    "芋頭",
+                    "芋",
+                    "頭",
+                    "排骨",
+                    "排",
+                    "骨"
+                ]
+            },
+            "Yale": "wuh táu jīng pàaih gwāt",
+            "Simplified": {
+                "text": "芋头蒸排骨",
+                "wkty": [
+                    "芋頭",
+                    "芋",
+                    "頭",
+                    "排骨",
+                    "排",
+                    "骨"
+                ]
+            },
+            "Pinyin": "yù tou zhēng pái gǔ"
+        },
         "images": [
             {
                 "image": "porkribstarozenpeninsula2",
@@ -153,22 +147,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fried pork chop",
-                "Cantonese": {
-                    "text": "炸排骨",
-                    "wkty": [
-                        "炸",
-                        "排骨",
-                        "排",
-                        "骨"
-                    ]
-                },
-                "Yale": "ja pàaih gwāt",
-                "Pinyin": "zhà pái gǔ"
-            }
-        ],
+        "word": {
+            "English": "fried pork chop",
+            "Cantonese": {
+                "text": "炸排骨",
+                "wkty": [
+                    "炸",
+                    "排骨",
+                    "排",
+                    "骨"
+                ]
+            },
+            "Yale": "ja pàaih gwāt",
+            "Pinyin": "zhà pái gǔ"
+        },
         "images": [
             {
                 "image": "friedspareribschefchings",
@@ -189,24 +181,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "rice roll w/ spare ribs",
-                "Cantonese": {
-                    "text": "排骨腸粉",
-                    "wkty": [
-                        "排骨",
-                        "排",
-                        "骨",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "pàaih gwāt chéung fán",
-                "Pinyin": "pái gǔ cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "rice roll w/ spare ribs",
+            "Cantonese": {
+                "text": "排骨腸粉",
+                "wkty": [
+                    "排骨",
+                    "排",
+                    "骨",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "pàaih gwāt chéung fán",
+            "Pinyin": "pái gǔ cháng fěn"
+        },
         "images": [
             {
                 "image": "ribsonricenoodle"
@@ -229,23 +219,21 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "beef short ribs",
-                "Cantonese": {
-                    "text": "牛仔骨",
-                    "wkty": [
-                        "牛仔骨",
-                        "牛仔",
-                        "牛",
-                        "仔",
-                        "骨"
-                    ]
-                },
-                "Yale": "ngàuh jái gwāt",
-                "Pinyin": "niú zǎi gǔ"
-            }
-        ],
+        "word": {
+            "English": "beef short ribs",
+            "Cantonese": {
+                "text": "牛仔骨",
+                "wkty": [
+                    "牛仔骨",
+                    "牛仔",
+                    "牛",
+                    "仔",
+                    "骨"
+                ]
+            },
+            "Yale": "ngàuh jái gwāt",
+            "Pinyin": "niú zǎi gǔ"
+        },
         "images": [
             {
                 "image": "beefshortribsyumcha",

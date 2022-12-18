@@ -1,6 +1,6 @@
 [
   {
-    "words": [
+    "word":
       {
         "English": "white rice",
         "Cantonese": {
@@ -21,8 +21,7 @@
           ]
         },
         "Pinyin": "bái fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "whitericedimsumcafe2",
@@ -65,7 +64,7 @@
     ]
   },
   {
-    "words": [
+    "word":
       {
         "English": "Hainanese chicken rice",
         "Cantonese": {
@@ -90,8 +89,7 @@
           ]
         },
         "Pinyin": "Hǎi nán jī fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "hainanchickenflockandfowl",
@@ -122,7 +120,7 @@
     ]
   },
   {
-    "words": [
+    "word":
       {
         "English": "fried chicken on rice",
         "Cantonese": {
@@ -145,8 +143,7 @@
           ]
         },
         "Pinyin": "zhà jī fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "friedchickenricebigwong",
@@ -163,7 +160,7 @@
     "resources": []
   },
   {
-    "words": [
+    "word":
       {
         "English": "fried pork chop on rice",
         "Cantonese": {
@@ -188,8 +185,7 @@
           ]
         },
         "Pinyin": "zhà zhū bā fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "porkchopricebigwong",
@@ -206,7 +202,7 @@
     "resources": []
   },
   {
-    "words": [
+    "word":
       {
         "English": "steamed chicken w/ mushrooms on rice",
         "Cantonese": {
@@ -233,8 +229,7 @@
           ]
         },
         "Pinyin": "dōng gū zhēng jī fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "steamedchickenricebigwong",
@@ -257,7 +252,7 @@
     ]
   },
   {
-    "words": [
+    "word":
       {
         "English": "grilled eel on rice",
         "Cantonese": {
@@ -280,8 +275,7 @@
           ]
         },
         "Pinyin": "mán yú fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "eelricebigwong",
@@ -304,15 +298,14 @@
     ]
   },
   {
-    "words": [
+    "word":
       {
         "English": "ginger duck w/ scallions on rice",
         "Cantonese": "薑蔥鴨飯",
         "Yale": "gēung chūng aap faahn",
         "Simplified": "姜蔥鸭饭",
         "Pinyin": "jiāng cōng yā fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "gingerscallionduckricebananaleafcafe",
@@ -331,7 +324,7 @@
     "resources": []
   },
   {
-    "words": [
+    "word":
       {
         "English": "minced beef on rice",
         "Cantonese": {
@@ -366,8 +359,7 @@
         },
         "Yale": "jīng dūng choi ngàuh yuhk faahn",
         "Pinyin": "zhēng dōng cài niú ròu fàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "mincedbeeffriedeggricetimhowan",

@@ -1,6 +1,6 @@
 [
     {
-        "words": [
+        "word":
             {
                 "English": "Chaozhou style dumpling",
                 "Cantonese": {
@@ -16,8 +16,7 @@
                 },
                 "Yale": "chìuh jāu fán gwó",
                 "Pinyin": "cháo zhōu fěn guǒ"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "chuchoidumplingdimsumcafe",
@@ -67,7 +66,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "steamed shrimp dumpling",
                 "Cantonese": {
@@ -94,8 +93,7 @@
                     ]
                 },
                 "Pinyin": "xiān xiā fěn guǒ"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "shrimpfunguodimsumcafe",

@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "drinks",
-        "Cantonese": {
-          "text": "飲品",
-          "wkty": [
-            "飲品",
-            "飲",
-            "品"
-          ]
-        },
-        "Yale": "yám bán",
-        "Simplified": {
-          "text": "饮品",
-          "wkty": [
-            "饮品",
-            "饮",
-            "品"
-          ]
-        },
-        "Pinyin": "yǐn pǐn"
-      }
-    ],
+    "word": {
+      "English": "drinks",
+      "Cantonese": {
+        "text": "飲品",
+        "wkty": [
+          "飲品",
+          "飲",
+          "品"
+        ]
+      },
+      "Yale": "yám bán",
+      "Simplified": {
+        "text": "饮品",
+        "wkty": [
+          "饮品",
+          "饮",
+          "品"
+        ]
+      },
+      "Pinyin": "yǐn pǐn"
+    },
     "images": [
       {
         "image": "hotteasweethoneydessert",
@@ -41,15 +39,13 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "liquor",
-        "Cantonese": "酒",
-        "Yale": "jáu",
-        "Jyutping": "jaau2",
-        "Pinyin": "jiǔ"
-      }
-    ],
+    "word": {
+      "English": "liquor",
+      "Cantonese": "酒",
+      "Yale": "jáu",
+      "Jyutping": "jaau2",
+      "Pinyin": "jiǔ"
+    },
     "images": [
       {
         "image": "liquorkj",
@@ -69,29 +65,27 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "cold drinks",
-        "Cantonese": {
-          "text": "冷飲",
-          "wkty": [
-            "冷飲",
-            "冷",
-            "飲"
-          ]
-        },
-        "Yale": "láahng yám",
-        "Simplified": {
-          "text": "冷饮",
-          "wkty": [
-            "冷饮",
-            "冷",
-            "饮"
-          ]
-        },
-        "Pinyin": "lěng yǐn"
-      }
-    ],
+    "word": {
+      "English": "cold drinks",
+      "Cantonese": {
+        "text": "冷飲",
+        "wkty": [
+          "冷飲",
+          "冷",
+          "飲"
+        ]
+      },
+      "Yale": "láahng yám",
+      "Simplified": {
+        "text": "冷饮",
+        "wkty": [
+          "冷饮",
+          "冷",
+          "饮"
+        ]
+      },
+      "Pinyin": "lěng yǐn"
+    },
     "images": [
       {
         "image": "colddrinksdragonalley",
@@ -111,29 +105,27 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "hot drinks",
-        "Cantonese": {
-          "text": "熱飲",
-          "wkty": [
-            "熱飲",
-            "熱",
-            "飲"
-          ]
-        },
-        "Yale": "yiht yám",
-        "Simplified":  {
-          "text": "热饮",
-          "wkty": [
-            "熱饮",
-            "熱",
-            "饮"
-          ]
-        },
-        "Pinyin": "rè yǐn"
-      }
-    ],
+    "word": {
+      "English": "hot drinks",
+      "Cantonese": {
+        "text": "熱飲",
+        "wkty": [
+          "熱飲",
+          "熱",
+          "飲"
+        ]
+      },
+      "Yale": "yiht yám",
+      "Simplified": {
+        "text": "热饮",
+        "wkty": [
+          "熱饮",
+          "熱",
+          "饮"
+        ]
+      },
+      "Pinyin": "rè yǐn"
+    },
     "images": [
       {
         "image": "teacoffeegabicafe",

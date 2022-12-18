@@ -1,6 +1,6 @@
 [
     {
-        "words": [
+        "word":
             {
                 "English": "chow fun",
                 "Cantonese": {
@@ -13,8 +13,7 @@
                 },
                 "Yale": "hòh fán",
                 "Pinyin": "hé fěn"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "chowfunnorthsidecafe",
@@ -35,7 +34,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "beef chow fun",
                 "Cantonese": {
@@ -66,8 +65,7 @@
                     ]
                 },
                 "Pinyin": "gān chǎo niú hé"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "beefchowfundimsumcafe",
@@ -131,7 +129,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "chicken chow fun",
                 "Cantonese": {
@@ -158,8 +156,7 @@
                     ]
                 },
                 "Pinyin": "gān chǎo jī hé"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "chickenchowfundimsumcafe",
@@ -182,7 +179,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "shrimp chow fun",
                 "Cantonese": {
@@ -207,8 +204,7 @@
                     ]
                 },
                 "Pinyin": "gān chǎo xiā hé"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "shrimpchowfundimsumcafe",

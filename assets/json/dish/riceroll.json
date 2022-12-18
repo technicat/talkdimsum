@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "rice roll",
-                "Cantonese": {
-                    "text": "腸粉",
-                    "wkty": [
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "chéung fán",
-                "Simplified": {
-                    "text": "肠粉",
-                    "wkty": [
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "rice roll",
+            "Cantonese": {
+                "text": "腸粉",
+                "wkty": [
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "chéung fán",
+            "Simplified": {
+                "text": "肠粉",
+                "wkty": [
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "cháng fěn"
+        },
         "images": [
             {
                 "image": "ricerollshkgarden",
@@ -93,31 +91,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "蔥腸粉",
-                    "wkty": [
-                        "蔥",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Simplified": {
-                    "text": "葱肠粉",
-                    "wkty": [
-                        "蔥",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "English": "scallion rice roll",
-                "Yale": "chūng chéung fán",
-                "Pinyin": "cōng cháng fěn"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "蔥腸粉",
+                "wkty": [
+                    "蔥",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Simplified": {
+                "text": "葱肠粉",
+                "wkty": [
+                    "蔥",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "English": "scallion rice roll",
+            "Yale": "chūng chéung fán",
+            "Pinyin": "cōng cháng fěn"
+        },
         "images": [
             {
                 "image": "scallionricerolltimhowan",
@@ -138,35 +134,33 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "shrimp rice roll",
-                "Cantonese": {
-                    "text": "鮮蝦腸粉",
-                    "wkty": [
-                        "鮮蝦",
-                        "鮮",
-                        "蝦",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "sīn hā chéung fán",
-                "Simplified": {
-                    "text": "鲜虾肠粉",
-                    "wkty": [
-                        "鲜虾",
-                        "鲜",
-                        "虾",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "xiān xiā cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "shrimp rice roll",
+            "Cantonese": {
+                "text": "鮮蝦腸粉",
+                "wkty": [
+                    "鮮蝦",
+                    "鮮",
+                    "蝦",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "sīn hā chéung fán",
+            "Simplified": {
+                "text": "鲜虾肠粉",
+                "wkty": [
+                    "鲜虾",
+                    "鲜",
+                    "虾",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "xiān xiā cháng fěn"
+        },
         "images": [
             {
                 "image": "shrimpricerollchangs",
@@ -195,35 +189,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "dried shrimp rice roll",
-                "Cantonese": {
-                    "text": "蝦米腸粉",
-                    "wkty": [
-                        "蝦米",
-                        "蝦",
-                        "米",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "hā máih chéung fán",
-                "Simplified": {
-                    "text": "虾米肠粉",
-                    "wkty": [
-                        "虾米",
-                        "虾",
-                        "米",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "xiā mǐ cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "dried shrimp rice roll",
+            "Cantonese": {
+                "text": "蝦米腸粉",
+                "wkty": [
+                    "蝦米",
+                    "蝦",
+                    "米",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "hā máih chéung fán",
+            "Simplified": {
+                "text": "虾米肠粉",
+                "wkty": [
+                    "虾米",
+                    "虾",
+                    "米",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "xiā mǐ cháng fěn"
+        },
         "images": [
             {
                 "image": "driedshrimpricerollhorizontalluckyhouse",
@@ -244,39 +236,37 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "shrimp and chives rice roll",
-                "Cantonese": {
-                    "text": "韮黃鮮蝦腸粉",
-                    "wkty": [
-                        "韮",
-                        "黃",
-                        "鮮蝦",
-                        "鮮",
-                        "蝦",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "gáu wòhng sīn hā chéung fán",
-                "Simplified": {
-                    "text": "韭黄鲜虾肠粉",
-                    "wkty": [
-                        "韮",
-                        "黄",
-                        "鲜虾",
-                        "鲜",
-                        "虾",
-                        "腸粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "jiǔ huáng xiān xiā cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "shrimp and chives rice roll",
+            "Cantonese": {
+                "text": "韮黃鮮蝦腸粉",
+                "wkty": [
+                    "韮",
+                    "黃",
+                    "鮮蝦",
+                    "鮮",
+                    "蝦",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "gáu wòhng sīn hā chéung fán",
+            "Simplified": {
+                "text": "韭黄鲜虾肠粉",
+                "wkty": [
+                    "韮",
+                    "黄",
+                    "鲜虾",
+                    "鲜",
+                    "虾",
+                    "腸粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "jiǔ huáng xiān xiā cháng fěn"
+        },
         "images": [
             {
                 "image": "shrimpandchivericerolltimhowan",
@@ -302,35 +292,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "beef rice roll",
-                "Cantonese": {
-                    "text": "牛肉腸粉",
-                    "wkty": [
-                        "牛肉",
-                        "牛",
-                        "肉",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "ngàuh yuhk chéung fán",
-                "Simplified": {
-                    "text": "牛肉肠粉",
-                    "wkty": [
-                        "牛肉",
-                        "牛",
-                        "肉",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "niú ròu cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "beef rice roll",
+            "Cantonese": {
+                "text": "牛肉腸粉",
+                "wkty": [
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "ngàuh yuhk chéung fán",
+            "Simplified": {
+                "text": "牛肉肠粉",
+                "wkty": [
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "niú ròu cháng fěn"
+        },
         "images": [
             {
                 "image": "beefricerollyumcha",
@@ -358,35 +346,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "BBQ pork rice roll",
-                "Cantonese": {
-                    "text": "叉燒腸粉",
-                    "wkty": [
-                        "叉燒",
-                        "叉",
-                        "燒",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "chā sīu chéung fán",
-                "Simplified": {
-                    "text": "叉烧肠粉",
-                    "wkty": [
-                        "叉燒",
-                        "叉",
-                        "燒",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "chā shāo cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "BBQ pork rice roll",
+            "Cantonese": {
+                "text": "叉燒腸粉",
+                "wkty": [
+                    "叉燒",
+                    "叉",
+                    "燒",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "chā sīu chéung fán",
+            "Simplified": {
+                "text": "叉烧肠粉",
+                "wkty": [
+                    "叉燒",
+                    "叉",
+                    "燒",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "chā shāo cháng fěn"
+        },
         "images": [
             {
                 "image": "bbqporkriceroll",
@@ -410,37 +396,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salmon rice roll",
-                "Cantonese": {
-                    "text": "三文魚腸粉",
-                    "wkty": [
-                        "三文魚",
-                        "三",
-                        "文",
-                        "魚",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "sāam màhn yùh chéung fán",
-                "Simplified": {
-                    "text": "三文鱼肠粉",
-                    "wkty": [
-                        "三文鱼",
-                        "三",
-                        "文",
-                        "鱼",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "sān wén yú cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "salmon rice roll",
+            "Cantonese": {
+                "text": "三文魚腸粉",
+                "wkty": [
+                    "三文魚",
+                    "三",
+                    "文",
+                    "魚",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "sāam màhn yùh chéung fán",
+            "Simplified": {
+                "text": "三文鱼肠粉",
+                "wkty": [
+                    "三文鱼",
+                    "三",
+                    "文",
+                    "鱼",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "sān wén yú cháng fěn"
+        },
         "images": [
             {
                 "image": "salmonricerollmingtasty1",
@@ -460,41 +444,39 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "rice roll w/ lobster in black bean sauce",
-                "Cantonese": {
-                    "text": "豉汁龍蝦腸粉",
-                    "wkty": [
-                        "豉汁",
-                        "豉",
-                        "汁",
-                        "龍蝦",
-                        "龍",
-                        "蝦",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "sih jāp lùhng hā chéung fán",
-                "Simplified": {
-                    "text": "豉汁龙虾肠粉",
-                    "wkty": [
-                        "豉汁",
-                        "豉",
-                        "汁",
-                        "龙虾",
-                        "龙",
-                        "虾",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "chǐ zhī lóng xiā cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "rice roll w/ lobster in black bean sauce",
+            "Cantonese": {
+                "text": "豉汁龍蝦腸粉",
+                "wkty": [
+                    "豉汁",
+                    "豉",
+                    "汁",
+                    "龍蝦",
+                    "龍",
+                    "蝦",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "sih jāp lùhng hā chéung fán",
+            "Simplified": {
+                "text": "豉汁龙虾肠粉",
+                "wkty": [
+                    "豉汁",
+                    "豉",
+                    "汁",
+                    "龙虾",
+                    "龙",
+                    "虾",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "chǐ zhī lóng xiā cháng fěn"
+        },
         "images": [
             {
                 "image": "lobstercheungfuntimhowan",
@@ -515,37 +497,35 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "curry shrimp rice roll",
-                "Cantonese": {
-                    "text": "咖喱蝦腸粉",
-                    "wkty": [
-                        "咖喱",
-                        "咖",
-                        "喱",
-                        "蝦",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "ga lēi hā chéung fán",
-                "Simplified": {
-                    "text": "咖喱虾肠粉",
-                    "wkty": [
-                        "咖喱",
-                        "咖",
-                        "喱",
-                        "虾",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "gā lí xiā cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "curry shrimp rice roll",
+            "Cantonese": {
+                "text": "咖喱蝦腸粉",
+                "wkty": [
+                    "咖喱",
+                    "咖",
+                    "喱",
+                    "蝦",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "ga lēi hā chéung fán",
+            "Simplified": {
+                "text": "咖喱虾肠粉",
+                "wkty": [
+                    "咖喱",
+                    "咖",
+                    "喱",
+                    "虾",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "gā lí xiā cháng fěn"
+        },
         "images": [
             {
                 "image": "curryshrimpricerollyumcha",
@@ -565,39 +545,37 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "shredded chicken w/ bitter melon rice roll",
-                "Cantonese": {
-                    "text": "涼瓜雞絲腸粉",
-                    "wkty": [
-                        "涼瓜",
-                        "涼",
-                        "瓜",
-                        "雞",
-                        "絲",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "lèuhng gwā gāi sī chéung fán",
-                "Simplified": {
-                    "text": "涼瓜鸡丝肠粉",
-                    "wkty": [
-                        "涼瓜",
-                        "涼",
-                        "瓜",
-                        "鸡",
-                        "丝",
-                        "肠粉",
-                        "肠",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "liáng guā jī sī cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "shredded chicken w/ bitter melon rice roll",
+            "Cantonese": {
+                "text": "涼瓜雞絲腸粉",
+                "wkty": [
+                    "涼瓜",
+                    "涼",
+                    "瓜",
+                    "雞",
+                    "絲",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "lèuhng gwā gāi sī chéung fán",
+            "Simplified": {
+                "text": "涼瓜鸡丝肠粉",
+                "wkty": [
+                    "涼瓜",
+                    "涼",
+                    "瓜",
+                    "鸡",
+                    "丝",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "liáng guā jī sī cháng fěn"
+        },
         "images": [
             {
                 "image": "ricerollwithshreddedchickenandbittermeloncafesalina",
@@ -622,33 +600,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fish fillet rice roll",
-                "Cantonese": {
-                    "text": "魚片腸粉",
-                    "wkty": [
-                        "魚",
-                        "片",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Yale": "yú pín chéung fán",
-                "Simplified": {
-                    "text": "鱼片肠粉",
-                    "wkty": [
-                        "鱼",
-                        "片",
-                        "腸粉",
-                        "腸",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "yú piàn cháng fěn"
-            }
-        ],
+        "word": {
+            "English": "fish fillet rice roll",
+            "Cantonese": {
+                "text": "魚片腸粉",
+                "wkty": [
+                    "魚",
+                    "片",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "yú pín chéung fán",
+            "Simplified": {
+                "text": "鱼片肠粉",
+                "wkty": [
+                    "鱼",
+                    "片",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Pinyin": "yú piàn cháng fěn"
+        },
         "images": [
             {
                 "image": "fishfilletricerolldimsumlicious",

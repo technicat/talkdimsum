@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "vegetarian bun",
-                "Cantonese": {
-                    "text": "素菜包",
-                    "wkty": [
-                        "素菜",
-                        "素",
-                        "菜",
-                        "包"
-                    ]
-                },
-                "Yale": "sou choi bāau",
-                "Pinyin": "sù cài bāo"
-            }
-        ],
+        "word": {
+            "English": "vegetarian bun",
+            "Cantonese": {
+                "text": "素菜包",
+                "wkty": [
+                    "素菜",
+                    "素",
+                    "菜",
+                    "包"
+                ]
+            },
+            "Yale": "sou choi bāau",
+            "Pinyin": "sù cài bāo"
+        },
         "images": [
             {
                 "image": "vegetarianbun"

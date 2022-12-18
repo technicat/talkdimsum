@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "siu mai",
-                "Cantonese": {
-                    "text": "燒賣",
-                    "wkty": [
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Simplified": {
-                    "text": "烧卖",
-                    "wkty": [
-                        "烧卖",
-                        "烧卖",
-                        "卖"
-                    ]
-                },
-                "Yale": "sīu maaih",
-                "Pinyin": "shāo mài"
-            }
-        ],
+        "word": {
+            "English": "siu mai",
+            "Cantonese": {
+                "text": "燒賣",
+                "wkty": [
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Simplified": {
+                "text": "烧卖",
+                "wkty": [
+                    "烧卖",
+                    "烧卖",
+                    "卖"
+                ]
+            },
+            "Yale": "sīu maaih",
+            "Pinyin": "shāo mài"
+        },
         "images": [
             {
                 "image": "siumaipingpangpong",
@@ -70,35 +68,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pork siu mai",
-                "Cantonese": {
-                    "text": "豬肉燒賣",
-                    "wkty": [
-                        "豬肉",
-                        "豬",
-                        "肉",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "jyū yuhk sīu maaih",
-                "Simplified": {
-                    "text": "猪肉烧卖",
-                    "wkty": [
-                        "猪肉",
-                        "猪",
-                        "肉",
-                        "烧卖",
-                        "烧卖",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "zhū ròu shāo mài"
-            }
-        ],
+        "word": {
+            "English": "pork siu mai",
+            "Cantonese": {
+                "text": "豬肉燒賣",
+                "wkty": [
+                    "豬肉",
+                    "豬",
+                    "肉",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "jyū yuhk sīu maaih",
+            "Simplified": {
+                "text": "猪肉烧卖",
+                "wkty": [
+                    "猪肉",
+                    "猪",
+                    "肉",
+                    "烧卖",
+                    "烧卖",
+                    "卖"
+                ]
+            },
+            "Pinyin": "zhū ròu shāo mài"
+        },
         "images": [
             {
                 "image": "porksiumaidimsumcafe",
@@ -116,31 +112,29 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "shrimp siu mai",
-                "Cantonese": {
-                    "text": "蝦燒賣",
-                    "wkty": [
-                        "蝦",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "hā sīu maaih",
-                "Simplified": {
-                    "text": "虾烧卖",
-                    "wkty": [
-                        "虾",
-                        "烧卖",
-                        "烧",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "xiā shāo mài"
-            }
-        ],
+        "word": {
+            "English": "shrimp siu mai",
+            "Cantonese": {
+                "text": "蝦燒賣",
+                "wkty": [
+                    "蝦",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "hā sīu maaih",
+            "Simplified": {
+                "text": "虾烧卖",
+                "wkty": [
+                    "虾",
+                    "烧卖",
+                    "烧",
+                    "卖"
+                ]
+            },
+            "Pinyin": "xiā shāo mài"
+        },
         "images": [
             {
                 "image": "shrimpsiumaidimsumcafe",
@@ -163,41 +157,39 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "shrimp and pork siu mai",
-                "Cantonese": {
-                    "text": "鮮蝦豬肉燒賣",
-                    "wkty": [
-                        "鮮蝦",
-                        "鮮",
-                        "蝦",
-                        "豬肉",
-                        "豬",
-                        "肉",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "sīn hā jyū yuhk sīu maaih",
-                "Simplified": {
-                    "text": "鲜虾猪肉虾烧卖",
-                    "wkty": [
-                        "鲜虾",
-                        "鲜",
-                        "虾",
-                        "猪肉",
-                        "猪",
-                        "肉",
-                        "烧卖",
-                        "烧",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "xiān xiā hū ròu shāo mài"
-            }
-        ],
+        "word": {
+            "English": "shrimp and pork siu mai",
+            "Cantonese": {
+                "text": "鮮蝦豬肉燒賣",
+                "wkty": [
+                    "鮮蝦",
+                    "鮮",
+                    "蝦",
+                    "豬肉",
+                    "豬",
+                    "肉",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "sīn hā jyū yuhk sīu maaih",
+            "Simplified": {
+                "text": "鲜虾猪肉虾烧卖",
+                "wkty": [
+                    "鲜虾",
+                    "鲜",
+                    "虾",
+                    "猪肉",
+                    "猪",
+                    "肉",
+                    "烧卖",
+                    "烧",
+                    "卖"
+                ]
+            },
+            "Pinyin": "xiān xiā hū ròu shāo mài"
+        },
         "images": [
             {
                 "image": "siumaiyumcha",
@@ -232,35 +224,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "scallop siu mai",
-                "Cantonese": {
-                    "text": "帶子燒賣",
-                    "wkty": [
-                        "帶子",
-                        "帶",
-                        "子",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "dáai jí sīu maaih",
-                "Simplified": {
-                    "text": "带子烧卖",
-                    "wkty": [
-                        "带子",
-                        "带",
-                        "子",
-                        "烧卖",
-                        "烧卖",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "dài zi shāo mài"
-            }
-        ],
+        "word": {
+            "English": "scallop siu mai",
+            "Cantonese": {
+                "text": "帶子燒賣",
+                "wkty": [
+                    "帶子",
+                    "帶",
+                    "子",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "dáai jí sīu maaih",
+            "Simplified": {
+                "text": "带子烧卖",
+                "wkty": [
+                    "带子",
+                    "带",
+                    "子",
+                    "烧卖",
+                    "烧卖",
+                    "卖"
+                ]
+            },
+            "Pinyin": "dài zi shāo mài"
+        },
         "images": [
             {
                 "image": "scallopsiumaikj",
@@ -287,37 +277,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "quail egg siu mai",
-                "Cantonese": {
-                    "text": "鵪鶉蛋燒賣",
-                    "wkty": [
-                        "鵪鶉蛋",
-                        "鵪鶉",
-                        "鵪",
-                        "蛋",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "ām sèuhn dáan sīu maaih",
-                "Simplified": {
-                    "text": "鹌鹑蛋烧卖",
-                    "wkty": [
-                        "鹌鹑蛋",
-                        "鹌鹑",
-                        "鹌",
-                        "蛋",
-                        "烧卖",
-                        "烧卖",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "ān chún dàn shāo mài"
-            }
-        ],
+        "word": {
+            "English": "quail egg siu mai",
+            "Cantonese": {
+                "text": "鵪鶉蛋燒賣",
+                "wkty": [
+                    "鵪鶉蛋",
+                    "鵪鶉",
+                    "鵪",
+                    "蛋",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "ām sèuhn dáan sīu maaih",
+            "Simplified": {
+                "text": "鹌鹑蛋烧卖",
+                "wkty": [
+                    "鹌鹑蛋",
+                    "鹌鹑",
+                    "鹌",
+                    "蛋",
+                    "烧卖",
+                    "烧卖",
+                    "卖"
+                ]
+            },
+            "Pinyin": "ān chún dàn shāo mài"
+        },
         "images": [
             {
                 "image": "quaileggsiumai"
@@ -347,35 +335,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mushroom siu mai",
-                "Cantonese": {
-                    "text": "冬菇燒賣",
-                    "wkty": [
-                        "冬菇",
-                        "冬",
-                        "菇",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "dūng gū sīu maaih",
-                "Simplified": {
-                    "text": "冬菇烧卖",
-                    "wkty": [
-                        "冬菇",
-                        "冬",
-                        "菇",
-                        "烧卖",
-                        "烧",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "dōng gū shāo mài"
-            }
-        ],
+        "word": {
+            "English": "mushroom siu mai",
+            "Cantonese": {
+                "text": "冬菇燒賣",
+                "wkty": [
+                    "冬菇",
+                    "冬",
+                    "菇",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "dūng gū sīu maaih",
+            "Simplified": {
+                "text": "冬菇烧卖",
+                "wkty": [
+                    "冬菇",
+                    "冬",
+                    "菇",
+                    "烧卖",
+                    "烧",
+                    "卖"
+                ]
+            },
+            "Pinyin": "dōng gū shāo mài"
+        },
         "images": [
             {
                 "image": "mushroomsiumaiyumcha",
@@ -393,31 +379,29 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "chicken siu mai",
-                "Cantonese": {
-                    "text": "雞燒賣",
-                    "wkty": [
-                        "雞",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "gāi sīu maaih",
-                "Simplified": {
-                    "text": "鸡烧卖",
-                    "wkty": [
-                        "鸡",
-                        "烧卖",
-                        "烧",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "jī shāo mài"
-            }
-        ],
+        "word": {
+            "English": "chicken siu mai",
+            "Cantonese": {
+                "text": "雞燒賣",
+                "wkty": [
+                    "雞",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "gāi sīu maaih",
+            "Simplified": {
+                "text": "鸡烧卖",
+                "wkty": [
+                    "鸡",
+                    "烧卖",
+                    "烧",
+                    "卖"
+                ]
+            },
+            "Pinyin": "jī shāo mài"
+        },
         "images": [
             {
                 "image": "chickensiumaiyumcha",
@@ -435,35 +419,33 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "fish siu mai",
-                "Cantonese": {
-                    "text": "魚肉燒賣",
-                    "wkty": [
-                        "魚肉",
-                        "魚",
-                        "肉",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "yùh yuhk sīu maaih",
-                "Simplified": {
-                    "text": "鱼肉烧卖",
-                    "wkty": [
-                        "鱼肉",
-                        "鱼",
-                        "肉",
-                        "烧卖",
-                        "烧",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "yú ròu shāo mài"
-            }
-        ],
+        "word": {
+            "English": "fish siu mai",
+            "Cantonese": {
+                "text": "魚肉燒賣",
+                "wkty": [
+                    "魚肉",
+                    "魚",
+                    "肉",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "yùh yuhk sīu maaih",
+            "Simplified": {
+                "text": "鱼肉烧卖",
+                "wkty": [
+                    "鱼肉",
+                    "鱼",
+                    "肉",
+                    "烧卖",
+                    "烧",
+                    "卖"
+                ]
+            },
+            "Pinyin": "yú ròu shāo mài"
+        },
         "images": [
             {
                 "image": "fishsiumaikj",
@@ -486,33 +468,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "vegan siu mai",
-                "Cantonese": {
-                    "text": "仿肉燒賣",
-                    "wkty": [
-                        "仿",
-                        "肉",
-                        "燒賣",
-                        "燒",
-                        "賣"
-                    ]
-                },
-                "Yale": "fóng yuhk sīu maaih",
-                "Simplified": {
-                    "text": "仿肉烧卖",
-                    "wkty": [
-                        "仿",
-                        "肉",
-                        "烧卖",
-                        "烧",
-                        "卖"
-                    ]
-                },
-                "Pinyin": "fǎng ròu shāo mài"
-            }
-        ],
+        "word": {
+            "English": "vegan siu mai",
+            "Cantonese": {
+                "text": "仿肉燒賣",
+                "wkty": [
+                    "仿",
+                    "肉",
+                    "燒賣",
+                    "燒",
+                    "賣"
+                ]
+            },
+            "Yale": "fóng yuhk sīu maaih",
+            "Simplified": {
+                "text": "仿肉烧卖",
+                "wkty": [
+                    "仿",
+                    "肉",
+                    "烧卖",
+                    "烧",
+                    "卖"
+                ]
+            },
+            "Pinyin": "fǎng ròu shāo mài"
+        },
         "images": [
             {
                 "image": "vegetariansiumaiyumcha",

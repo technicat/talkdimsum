@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "白菜",
-                    "resources": [
-                        "白菜",
-                        "白",
-                        "菜"
-                    ]
-                },
-                "English": "bok choy",
-                "Yale": "baahk choi",
-                "Pinyin": "bái cài"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "白菜",
+                "resources": [
+                    "白菜",
+                    "白",
+                    "菜"
+                ]
+            },
+            "English": "bok choy",
+            "Yale": "baahk choi",
+            "Pinyin": "bái cài"
+        },
         "images": [
             {
                 "image": "bokchoygarlicbigwong",
@@ -38,24 +36,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "bok choy with mushrooms",
-                "Cantonese": {
-                    "text": "冬菇白菜",
-                    "wkty": [
-                        "冬菇",
-                        "冬",
-                        "菇",
-                        "白菜",
-                        "白",
-                        "菜"
-                    ]
-                },
-                "Yale": "dūng gū baahk choi",
-                "Pinyin": "dōng gū bái cài"
-            }
-        ],
+        "word": {
+            "English": "bok choy with mushrooms",
+            "Cantonese": {
+                "text": "冬菇白菜",
+                "wkty": [
+                    "冬菇",
+                    "冬",
+                    "菇",
+                    "白菜",
+                    "白",
+                    "菜"
+                ]
+            },
+            "Yale": "dūng gū baahk choi",
+            "Pinyin": "dōng gū bái cài"
+        },
         "images": [
             {
                 "image": "bokchoymushroomchefchings",
@@ -79,24 +75,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Taiwanese cabbage",
-                "Cantonese": {
-                    "text": "高麗菜",
-                    "wkty": [
-                        "高麗菜",
-                        "高麗",
-                        "高",
-                        "麗",
-                        "菜"
-                    ]
-                },
-                "Yale": "gōu laih choi",
-                "Simplified": "高丽菜",
-                "Pinyin": "gāo lí cài"
-            }
-        ],
+        "word": {
+            "English": "Taiwanese cabbage",
+            "Cantonese": {
+                "text": "高麗菜",
+                "wkty": [
+                    "高麗菜",
+                    "高麗",
+                    "高",
+                    "麗",
+                    "菜"
+                ]
+            },
+            "Yale": "gōu laih choi",
+            "Simplified": "高丽菜",
+            "Pinyin": "gāo lí cài"
+        },
         "images": [
             {
                 "image": "taiwancabbageskseafood",

@@ -1,20 +1,18 @@
 [
   {
-    "words": [
-      {
-        "English": "white wine",
-        "Cantonese": {
-          "text": "白酒",
-          "wkty": [
-            "白酒",
-            "白",
-            "酒"
-          ]
-        },
-        "Yale": "baahk jáu",
-        "Pinyin": "bá jiǔ"
-      }
-    ],
+    "word": {
+      "English": "white wine",
+      "Cantonese": {
+        "text": "白酒",
+        "wkty": [
+          "白酒",
+          "白",
+          "酒"
+        ]
+      },
+      "Yale": "baahk jáu",
+      "Pinyin": "bá jiǔ"
+    },
     "images": [
       {
         "image": "whitewinesprouts",

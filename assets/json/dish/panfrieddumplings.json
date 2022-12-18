@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "煎素菜餃",
-                    "wkty": [
-                        "煎",
-                        "素菜",
-                        "素",
-                        "菜",
-                        "餃"
-                    ]
-                },
-                "Simplified": {
-                    "text": "煎素菜饺",
-                    "wkty": [
-                        "煎",
-                        "素菜",
-                        "素",
-                        "菜",
-                        "饺"
-                    ]
-                },
-                "English": "pan-fried vegetable dumpling",
-                "Yale": "jīn sou choi gáau",
-                "Pinyin": "jiān sù cài jiǎo"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "煎素菜餃",
+                "wkty": [
+                    "煎",
+                    "素菜",
+                    "素",
+                    "菜",
+                    "餃"
+                ]
+            },
+            "Simplified": {
+                "text": "煎素菜饺",
+                "wkty": [
+                    "煎",
+                    "素菜",
+                    "素",
+                    "菜",
+                    "饺"
+                ]
+            },
+            "English": "pan-fried vegetable dumpling",
+            "Yale": "jīn sou choi gáau",
+            "Pinyin": "jiān sù cài jiǎo"
+        },
         "images": [
             {
                 "image": "panfriedvegetabledumplingdimsumcafe",
@@ -53,33 +51,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pan-fried chive dumpling",
-                "Cantonese": {
-                    "text": "煎韭菜餃",
-                    "wkty": [
-                        "煎",
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "餃"
-                    ]
-                },
-                "Yale": "jīn gáu choi gáau",
-                "Simplified": {
-                    "text": "煎韭菜饺",
-                    "wkty": [
-                        "煎",
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "jiān jiǔ cài jiǎo"
-            }
-        ],
+        "word": {
+            "English": "pan-fried chive dumpling",
+            "Cantonese": {
+                "text": "煎韭菜餃",
+                "wkty": [
+                    "煎",
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "餃"
+                ]
+            },
+            "Yale": "jīn gáu choi gáau",
+            "Simplified": {
+                "text": "煎韭菜饺",
+                "wkty": [
+                    "煎",
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "饺"
+                ]
+            },
+            "Pinyin": "jiān jiǔ cài jiǎo"
+        },
         "images": [
             {
                 "image": "chivedumplingsdimsumcafe",
@@ -111,37 +107,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "vegan chive dumpling",
-                "Cantonese": {
-                    "text": "仿肉韭菜餃",
-                    "wkty": [
-                        "仿肉",
-                        "仿",
-                        "肉",
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "餃"
-                    ]
-                },
-                "Yale": "fóng yuhk gáu choi gáau",
-                "Simplified": {
-                    "text": "仿肉韭菜饺",
-                    "wkty": [
-                        "仿肉",
-                        "仿",
-                        "肉",
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "ǎng ròu jiǔ cài jiǎo"
-            }
-        ],
+        "word": {
+            "English": "vegan chive dumpling",
+            "Cantonese": {
+                "text": "仿肉韭菜餃",
+                "wkty": [
+                    "仿肉",
+                    "仿",
+                    "肉",
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "餃"
+                ]
+            },
+            "Yale": "fóng yuhk gáu choi gáau",
+            "Simplified": {
+                "text": "仿肉韭菜饺",
+                "wkty": [
+                    "仿肉",
+                    "仿",
+                    "肉",
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "饺"
+                ]
+            },
+            "Pinyin": "ǎng ròu jiǔ cài jiǎo"
+        },
         "images": [
             {
                 "image": "imitationmeatandchivedumplingyumcha",
@@ -169,29 +163,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "potstickers",
-                "Cantonese": {
-                    "text": "鍋貼",
-                    "wkty": [
-                        "鍋貼",
-                        "鍋",
-                        "貼"
-                    ]
-                },
-                "Yale": "wō tip",
-                "Simplified": {
-                    "text": "锅贴",
-                    "wkty": [
-                        "锅貼",
-                        "锅",
-                        "貼"
-                    ]
-                },
-                "Pinyin": "guō tiē"
-            }
-        ],
+        "word": {
+            "English": "potstickers",
+            "Cantonese": {
+                "text": "鍋貼",
+                "wkty": [
+                    "鍋貼",
+                    "鍋",
+                    "貼"
+                ]
+            },
+            "Yale": "wō tip",
+            "Simplified": {
+                "text": "锅贴",
+                "wkty": [
+                    "锅貼",
+                    "锅",
+                    "貼"
+                ]
+            },
+            "Pinyin": "guō tiē"
+        },
         "images": [
             {
                 "image": "potstickersdimsumcafe",

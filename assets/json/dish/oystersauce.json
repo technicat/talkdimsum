@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "oyster sauce",
-                "Cantonese": {
-                    "text": "蠔油",
-                    "wkty": [
-                        "蠔油",
-                        "蠔",
-                        "油"
-                    ]
-                },
-                "Yale": "hòuh yàuh",
-                "Simplified": {
-                    "text": "蚝油",
-                    "wkty": [
-                        "蚝油",
-                        "蚝",
-                        "油"
-                    ]
-                },
-                "Pinyin": "háo yóu"
-            }
-        ],
+        "word": {
+            "English": "oyster sauce",
+            "Cantonese": {
+                "text": "蠔油",
+                "wkty": [
+                    "蠔油",
+                    "蠔",
+                    "油"
+                ]
+            },
+            "Yale": "hòuh yàuh",
+            "Simplified": {
+                "text": "蚝油",
+                "wkty": [
+                    "蚝油",
+                    "蚝",
+                    "油"
+                ]
+            },
+            "Pinyin": "háo yóu"
+        },
         "images": [
             {
                 "image": "oystersaucedimsumcafe",
@@ -48,35 +46,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "vegetarian oyster sauce",
-                "Cantonese": {
-                    "text": "素食蠔油",
-                    "wkty": [
-                        "素食",
-                        "素",
-                        "食",
-                        "蠔油",
-                        "蠔",
-                        "油"
-                    ]
-                },
-                "Yale": "sou sihk hòuh yàuh",
-                "Simplified": {
-                    "text": "素食蚝油",
-                    "wkty": [
-                        "素食",
-                        "素",
-                        "食",
-                        "蚝油",
-                        "蚝",
-                        "油"
-                    ]
-                },
-                "Pinyin": "sù shí háo yóu"
-            }
-        ],
+        "word": {
+            "English": "vegetarian oyster sauce",
+            "Cantonese": {
+                "text": "素食蠔油",
+                "wkty": [
+                    "素食",
+                    "素",
+                    "食",
+                    "蠔油",
+                    "蠔",
+                    "油"
+                ]
+            },
+            "Yale": "sou sihk hòuh yàuh",
+            "Simplified": {
+                "text": "素食蚝油",
+                "wkty": [
+                    "素食",
+                    "素",
+                    "食",
+                    "蚝油",
+                    "蚝",
+                    "油"
+                ]
+            },
+            "Pinyin": "sù shí háo yóu"
+        },
         "images": [
             {
                 "image": "veganoystersauce168market",

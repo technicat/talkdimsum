@@ -1,13 +1,11 @@
 [
   {
-    "words": [
-      {
-        "Cantonese": "水",
-        "English": "water",
-        "Yale": "séui",
-        "Pinyin": "shuǐ"
-      }
-    ],
+    "word": {
+      "Cantonese": "水",
+      "English": "water",
+      "Yale": "séui",
+      "Pinyin": "shuǐ"
+    },
     "images": [
       {
         "image": "watersweethoneydessert",
@@ -27,21 +25,19 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "ice water",
-        "Cantonese": {
-          "text": "冰水",
-          "wkty": [
-            "冰水",
-            "冰",
-            "水"
-          ]
-        },
-        "Yale": "bīng séui",
-        "Pinyin": "bīng shuǐ"
-      }
-    ],
+    "word": {
+      "English": "ice water",
+      "Cantonese": {
+        "text": "冰水",
+        "wkty": [
+          "冰水",
+          "冰",
+          "水"
+        ]
+      },
+      "Yale": "bīng séui",
+      "Pinyin": "bīng shuǐ"
+    },
     "images": [
       {
         "image": "waterislandmalaysian",

@@ -1,6 +1,6 @@
 [
     {
-        "words": [
+        "word":
             {
                 "English": "sandwich",
                 "Cantonese": {
@@ -15,8 +15,7 @@
                 "Yale": "sāam màhn jih",
                 "Jyutping": "saam1 man4 zi6",
                 "Pinyin": "sān wén zhì"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "clubsandwichverticalluckyhouse",
@@ -37,7 +36,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "club sandwich",
                 "Cantonese": {
@@ -55,8 +54,7 @@
                 "Yale": "gūng sī sāam màhn jih",
                 "Jyutping": "gung1 si1 saam1 man4 zi6",
                 "Pinyin": "gōng sī sān wén zhì"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "clubsandwichhorizontalluckyhouse",
@@ -78,7 +76,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "BLT",
                 "Cantonese": {
@@ -102,8 +100,7 @@
                 "Yale": "yīn yuhk sāang choi fāan ké sāam màhn jih",
                 "Jyutping": "jin1 juk6 saang1 coi3 faan1 ke2 saam1 man4 zi6",
                 "Pinyin": "yān ròu shēng cài fān qié sān wén zhì"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "bltcafeorchid",
@@ -127,15 +124,14 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "Cantonese": "蛋牛治",
                 "English": "corned beef egg sandwich",
                 "Yale": "dáan ngàuh jih",
                 "Jyutping": "daan2 ngau4 zi6",
                 "Pinyin": "dàn niú zhì"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "cornedbeefeggsandwichluckyhouse",
@@ -156,7 +152,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "spam and egg sandwich",
                 "Cantonese": {
@@ -177,8 +173,7 @@
                 "Yale": "ńgh chāan yuhk dáan sāam màhn jih",
                 "Jyutping": "ng5 caan1 juk6 daan2 saam1 man4 zi6",
                 "Pinyin": "wǔ cān ròu dàn sān wén zhì"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "spameggsandwichsweetheart",

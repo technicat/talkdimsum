@@ -1,23 +1,21 @@
 [
     {
-        "words": [
-            {
-                "English": "Vietnamese-style fried spring roll",
-                "Cantonese": {
-                    "text": "越式炸春卷",
-                    "wkty": [
-                        "越",
-                        "式",
-                        "春",
-                        "春卷",
-                        "春",
-                        "卷"
-                    ]
-                },
-                "Yale": "yuht sīk ja chēun gyún",
-                "Pinyin": "yuè shì zhà chūn juǎn"
-            }
-        ],
+        "word": {
+            "English": "Vietnamese-style fried spring roll",
+            "Cantonese": {
+                "text": "越式炸春卷",
+                "wkty": [
+                    "越",
+                    "式",
+                    "春",
+                    "春卷",
+                    "春",
+                    "卷"
+                ]
+            },
+            "Yale": "yuht sīk ja chēun gyún",
+            "Pinyin": "yuè shì zhà chūn juǎn"
+        },
         "images": [
             {
                 "image": "vietnameseeggrollcapitalseafood",
@@ -64,25 +62,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Vietnamese Spring roll",
-                "Cantonese": {
-                    "text": "越南春卷",
-                    "wkty": [
-                        "越南春卷",
-                        "越南",
-                        "越",
-                        "越南",
-                        "春卷",
-                        "春",
-                        "卷"
-                    ]
-                },
-                "Yale": "yuht nàahm chēun gyún",
-                "Pinyin": "yuè nán chūn juǎn"
-            }
-        ],
+        "word": {
+            "English": "Vietnamese Spring roll",
+            "Cantonese": {
+                "text": "越南春卷",
+                "wkty": [
+                    "越南春卷",
+                    "越南",
+                    "越",
+                    "越南",
+                    "春卷",
+                    "春",
+                    "卷"
+                ]
+            },
+            "Yale": "yuht nàahm chēun gyún",
+            "Pinyin": "yuè nán chūn juǎn"
+        },
         "images": [
             {
                 "image": "freshspringrolldistrictone",

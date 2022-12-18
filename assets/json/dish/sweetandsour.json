@@ -1,32 +1,30 @@
 [
   {
-    "words": [
-      {
-        "English": "sweet and sour chicken roll",
-        "Cantonese": {
-          "text": "甜酸雞卷",
-          "wkty": [
-            "甜酸",
-            "甜",
-            "酸",
-            "雞",
-            "卷"
-          ]
-        },
-        "Yale": "tìhm syūn gāi gyún",
-        "Simplified": {
-          "text": "甜酸鸡卷",
-          "wkty": [
-            "甜酸",
-            "甜",
-            "酸",
-            "雞",
-            "卷"
-          ]
-        },
-        "Pinyin": "tián suān jī juǎn"
-      }
-    ],
+    "word": {
+      "English": "sweet and sour chicken roll",
+      "Cantonese": {
+        "text": "甜酸雞卷",
+        "wkty": [
+          "甜酸",
+          "甜",
+          "酸",
+          "雞",
+          "卷"
+        ]
+      },
+      "Yale": "tìhm syūn gāi gyún",
+      "Simplified": {
+        "text": "甜酸鸡卷",
+        "wkty": [
+          "甜酸",
+          "甜",
+          "酸",
+          "雞",
+          "卷"
+        ]
+      },
+      "Pinyin": "tián suān jī juǎn"
+    },
     "images": [
       {
         "image": "sweetandsourchickentofuskinrollyumcha",
@@ -57,37 +55,35 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "sweet and sour seafood nuggets",
-        "Cantonese": {
-          "text": "甜酸海鮮塊",
-          "wkty": [
-            "甜酸",
-            "甜",
-            "酸",
-            "海鮮",
-            "海",
-            "鮮",
-            "塊"
-          ]
-        },
-        "Yale": "tìhm syūn hói sīn faai",
-        "Simplified": {
-          "text": "甜酸海鲜块",
-          "wkty": [
-            "甜酸",
-            "甜",
-            "酸",
-            "海鮮",
-            "海",
-            "鲜",
-            "块"
-          ]
-        },
-        "Pinyin": "tián suān hǎi xiān kuài"
-      }
-    ],
+    "word": {
+      "English": "sweet and sour seafood nuggets",
+      "Cantonese": {
+        "text": "甜酸海鮮塊",
+        "wkty": [
+          "甜酸",
+          "甜",
+          "酸",
+          "海鮮",
+          "海",
+          "鮮",
+          "塊"
+        ]
+      },
+      "Yale": "tìhm syūn hói sīn faai",
+      "Simplified": {
+        "text": "甜酸海鲜块",
+        "wkty": [
+          "甜酸",
+          "甜",
+          "酸",
+          "海鮮",
+          "海",
+          "鲜",
+          "块"
+        ]
+      },
+      "Pinyin": "tián suān hǎi xiān kuài"
+    },
     "images": [
       {
         "image": "seafoodnuggetyumcha2",

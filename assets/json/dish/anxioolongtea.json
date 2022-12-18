@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "鐵觀音",
-                    "wkty": [
-                        "鐵觀音",
-                        "鐵",
-                        "觀音",
-                        "觀",
-                        "音"
-                    ]
-                },
-                "Simplified":  {
-                    "text": "铁观音",
-                    "wkty": [
-                        "铁观音",
-                        "铁",
-                        "观音",
-                        "观",
-                        "音"
-                    ]
-                },
-                "English": "iron goddess tea",
-                "Yale": "tit gūn yām",
-                "Pinyin": "tiě guān yīn"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "鐵觀音",
+                "wkty": [
+                    "鐵觀音",
+                    "鐵",
+                    "觀音",
+                    "觀",
+                    "音"
+                ]
+            },
+            "Simplified": {
+                "text": "铁观音",
+                "wkty": [
+                    "铁观音",
+                    "铁",
+                    "观音",
+                    "观",
+                    "音"
+                ]
+            },
+            "English": "iron goddess tea",
+            "Yale": "tit gūn yām",
+            "Pinyin": "tiě guān yīn"
+        },
         "images": [
             {
                 "image": "irongoddesseverblueocean",

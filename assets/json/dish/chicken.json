@@ -1,30 +1,28 @@
 [
     {
-        "words": [
-            {
-                "English": "mango chicken",
-                "Cantonese": {
-                    "text": "芒果雞",
-                    "wkty": [
-                        "芒果",
-                        "芒",
-                        "果",
-                        "雞"
-                    ]
-                },
-                "Yale": "mōng gwó gāi",
-                "Simplified": {
-                    "text": "芒果鸡",
-                    "wkty": [
-                        "芒果",
-                        "芒",
-                        "果",
-                        "鸡"
-                    ]
-                },
-                "Pinyin": "máng guǒ jī"
-            }
-        ],
+        "word": {
+            "English": "mango chicken",
+            "Cantonese": {
+                "text": "芒果雞",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "雞"
+                ]
+            },
+            "Yale": "mōng gwó gāi",
+            "Simplified": {
+                "text": "芒果鸡",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "máng guǒ jī"
+        },
         "images": [
             {
                 "image": "mangochickenbananaleafcafe",
@@ -49,32 +47,30 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "orange chicken",
-                "Cantonese": {
-                    "text": "橙花雞",
-                    "wkty": [
-                        "橙花雞",
-                        "橙",
-                        "花",
-                        "雞"
-                    ]
-                },
-                "Yale": "cháang fā gāi",
-                "Jyutping": "caang2 faa1 gai1",
-                "Simplified": {
-                    "text": "橙花鸡",
-                    "wkty": [
-                        "橙花鸡",
-                        "橙",
-                        "花",
-                        "鸡"
-                    ]
-                },
-                "Pinyin": "chéng huā jī"
-            }
-        ],
+        "word": {
+            "English": "orange chicken",
+            "Cantonese": {
+                "text": "橙花雞",
+                "wkty": [
+                    "橙花雞",
+                    "橙",
+                    "花",
+                    "雞"
+                ]
+            },
+            "Yale": "cháang fā gāi",
+            "Jyutping": "caang2 faa1 gai1",
+            "Simplified": {
+                "text": "橙花鸡",
+                "wkty": [
+                    "橙花鸡",
+                    "橙",
+                    "花",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "chéng huā jī"
+        },
         "images": [
             {
                 "image": "orangechickndethai",
@@ -103,31 +99,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "sesame chicken",
-                "Cantonese": {
-                    "text": "芝麻雞",
-                    "wkty": [
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "雞"
-                    ]
-                },
-                "Yale": "jī màh gāi",
-                "Simplified": {
-                    "text": "芝麻鸡",
-                    "wkty": [
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "鸡"
-                    ]
-                },
-                "Pinyin": "zhī ma jī"
-            }
-        ],
+        "word": {
+            "English": "sesame chicken",
+            "Cantonese": {
+                "text": "芝麻雞",
+                "wkty": [
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "雞"
+                ]
+            },
+            "Yale": "jī màh gāi",
+            "Simplified": {
+                "text": "芝麻鸡",
+                "wkty": [
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "zhī ma jī"
+        },
         "images": [
             {
                 "image": "sesamechickenchinagourmet",
@@ -157,32 +151,30 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lemon chicken",
-                "Cantonese": {
-                    "text": "檸檬雞",
-                    "wkty": [
-                        "檸檬",
-                        "檸",
-                        "檬",
-                        "雞"
-                    ]
-                },
-                "Yale": "nìhng mūng gāi",
-                "Jyutping": "ning4 mung1 gai1",
-                "Simplified":  {
-                    "text": "柠檬鸡",
-                    "wkty": [
-                        "柠檬",
-                        "柠",
-                        "檬",
-                        "鸡"
-                    ]
-                },
-                "Pinyin": "níng méng jī"
-            }
-        ],
+        "word": {
+            "English": "lemon chicken",
+            "Cantonese": {
+                "text": "檸檬雞",
+                "wkty": [
+                    "檸檬",
+                    "檸",
+                    "檬",
+                    "雞"
+                ]
+            },
+            "Yale": "nìhng mūng gāi",
+            "Jyutping": "ning4 mung1 gai1",
+            "Simplified": {
+                "text": "柠檬鸡",
+                "wkty": [
+                    "柠檬",
+                    "柠",
+                    "檬",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "níng méng jī"
+        },
         "images": [
             {
                 "image": "lemonchickenchinagogo",
@@ -212,36 +204,34 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "cashew chicken",
-                "Cantonese": {
-                    "text": "腰果雞丁",
-                    "wkty": [
-                        "腰果",
-                        "腰",
-                        "果",
-                        "雞丁",
-                        "雞",
-                        "丁"
-                    ]
-                },
-                "Yale": "yīu gwó gāi dīng",
-                "Jyutping": "jiu1 gwo2 gai1 ding1",
-                "Simplified": {
-                    "text": "腰果鸡丁",
-                    "wkty": [
-                        "腰果",
-                        "腰",
-                        "果",
-                        "鸡丁",
-                        "鸡",
-                        "丁"
-                    ]
-                },
-                "Pinyin": "yāo guǒ jī dīng"
-            }
-        ],
+        "word": {
+            "English": "cashew chicken",
+            "Cantonese": {
+                "text": "腰果雞丁",
+                "wkty": [
+                    "腰果",
+                    "腰",
+                    "果",
+                    "雞丁",
+                    "雞",
+                    "丁"
+                ]
+            },
+            "Yale": "yīu gwó gāi dīng",
+            "Jyutping": "jiu1 gwo2 gai1 ding1",
+            "Simplified": {
+                "text": "腰果鸡丁",
+                "wkty": [
+                    "腰果",
+                    "腰",
+                    "果",
+                    "鸡丁",
+                    "鸡",
+                    "丁"
+                ]
+            },
+            "Pinyin": "yāo guǒ jī dīng"
+        },
         "images": [
             {
                 "image": "cashewchickenchinagogo",
@@ -265,31 +255,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "General Tso's chicken",
-                "Cantonese": {
-                    "text": "左宗棠雞",
-                    "wkty": [
-                        "左",
-                        "宗",
-                        "棠",
-                        "雞"
-                    ]
-                },
-                "Yale": "jó jūng tòhng gāi",
-                "Simplified": {
-                    "text": "左宗棠鸡",
-                    "wkty": [
-                        "左",
-                        "宗",
-                        "棠",
-                        "鸡"
-                    ]
-                },
-                "Pinyin": "zuǒ zōng táng jī"
-            }
-        ],
+        "word": {
+            "English": "General Tso's chicken",
+            "Cantonese": {
+                "text": "左宗棠雞",
+                "wkty": [
+                    "左",
+                    "宗",
+                    "棠",
+                    "雞"
+                ]
+            },
+            "Yale": "jó jūng tòhng gāi",
+            "Simplified": {
+                "text": "左宗棠鸡",
+                "wkty": [
+                    "左",
+                    "宗",
+                    "棠",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "zuǒ zōng táng jī"
+        },
         "images": [
             {
                 "image": "generaltsochickengreatwall",
@@ -330,37 +318,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "kung pao chicken",
-                "Cantonese": {
-                    "text": "宮保雞丁",
-                    "wkty": [
-                        "宮保雞丁",
-                        "宮保",
-                        "宮",
-                        "保",
-                        "雞丁",
-                        "雞",
-                        "丁"
-                    ]
-                },
-                "Yale": "gūng bóu gāi dīng",
-                "Simplified": {
-                    "text": "宫保鸡丁",
-                    "wkty": [
-                        "宮保鸡丁",
-                        "宮保",
-                        "宮",
-                        "保",
-                        "鸡丁",
-                        "鸡",
-                        "丁"
-                    ]
-                },
-                "Pinyin": "gōng bǎo jī dīng"
-            }
-        ],
+        "word": {
+            "English": "kung pao chicken",
+            "Cantonese": {
+                "text": "宮保雞丁",
+                "wkty": [
+                    "宮保雞丁",
+                    "宮保",
+                    "宮",
+                    "保",
+                    "雞丁",
+                    "雞",
+                    "丁"
+                ]
+            },
+            "Yale": "gūng bóu gāi dīng",
+            "Simplified": {
+                "text": "宫保鸡丁",
+                "wkty": [
+                    "宮保鸡丁",
+                    "宮保",
+                    "宮",
+                    "保",
+                    "鸡丁",
+                    "鸡",
+                    "丁"
+                ]
+            },
+            "Pinyin": "gōng bǎo jī dīng"
+        },
         "images": [
             {
                 "image": "kungpaochicken88noodlepapa",
@@ -406,30 +392,28 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "popcorn chicken",
-                "Cantonese": {
-                    "text": "鹽酥雞",
-                    "wkty": [
-                        "鹽",
-                        "酥",
-                        "雞"
-                    ]
-                },
-                "Yale": "yìhm sōu gāi",
-                "Jyutping": "jim6 so1 gai1",
-                "Simplified": {
-                    "text": "盐酥鸡",
-                    "wkty": [
-                        "盐",
-                        "酥",
-                        "鸡"
-                    ]
-                },
-                "Pinyin": "yán sū jī"
-            }
-        ],
+        "word": {
+            "English": "popcorn chicken",
+            "Cantonese": {
+                "text": "鹽酥雞",
+                "wkty": [
+                    "鹽",
+                    "酥",
+                    "雞"
+                ]
+            },
+            "Yale": "yìhm sōu gāi",
+            "Jyutping": "jim6 so1 gai1",
+            "Simplified": {
+                "text": "盐酥鸡",
+                "wkty": [
+                    "盐",
+                    "酥",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "yán sū jī"
+        },
         "images": [
             {
                 "image": "popcornchickensweetheart",
@@ -451,35 +435,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "cola chicken wings",
-                "Cantonese": {
-                    "text": "可樂雞翅",
-                    "wkty": [
-                        "可樂",
-                        "可",
-                        "樂",
-                        "雞翅",
-                        "雞",
-                        "翅"
-                    ]
-                },
-                "Yale": "hó lohk gāi chi",
-                "Simplified": {
-                    "text": "可乐鸡翅",
-                    "wkty": [
-                        "可乐",
-                        "可",
-                        "乐",
-                        "鸡翅",
-                        "鸡",
-                        "翅"
-                    ]
-                },
-                "Pinyin": "kě lè jī chì"
-            }
-        ],
+        "word": {
+            "English": "cola chicken wings",
+            "Cantonese": {
+                "text": "可樂雞翅",
+                "wkty": [
+                    "可樂",
+                    "可",
+                    "樂",
+                    "雞翅",
+                    "雞",
+                    "翅"
+                ]
+            },
+            "Yale": "hó lohk gāi chi",
+            "Simplified": {
+                "text": "可乐鸡翅",
+                "wkty": [
+                    "可乐",
+                    "可",
+                    "乐",
+                    "鸡翅",
+                    "鸡",
+                    "翅"
+                ]
+            },
+            "Pinyin": "kě lè jī chì"
+        },
         "images": [
             {
                 "image": "colachickenwingsluckyhousecafe",

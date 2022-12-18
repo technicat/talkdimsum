@@ -1,22 +1,20 @@
 [
   {
-    "words": [
-      {
-        "English": "black sesame seed",
-        "Cantonese": {
-          "text": "黑芝麻",
-          "wkty": [
-            "黑芝麻",
-            "黑",
-            "芝麻",
-            "芝麻",
-            "麻"
-          ]
-        },
-        "Yale": "hāk jī màh",
-        "Pinyin": "hēi zhī má"
-      }
-    ],
+    "word": {
+      "English": "black sesame seed",
+      "Cantonese": {
+        "text": "黑芝麻",
+        "wkty": [
+          "黑芝麻",
+          "黑",
+          "芝麻",
+          "芝麻",
+          "麻"
+        ]
+      },
+      "Yale": "hāk jī màh",
+      "Pinyin": "hēi zhī má"
+    },
     "images": [
       {
         "image": "blacksesamejam",

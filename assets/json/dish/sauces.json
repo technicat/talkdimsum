@@ -1,20 +1,18 @@
 [
   {
-    "words": [
-      {
-        "English": "curry",
-        "Cantonese": {
-          "text": "咖喱",
-          "wkty": [
-            "咖喱",
-            "咖",
-            "喱"
-          ]
-        },
-        "Yale": "ga lēi",
-        "Pinyin": "kā li"
-      }
-    ],
+    "word": {
+      "English": "curry",
+      "Cantonese": {
+        "text": "咖喱",
+        "wkty": [
+          "咖喱",
+          "咖",
+          "喱"
+        ]
+      },
+      "Yale": "ga lēi",
+      "Pinyin": "kā li"
+    },
     "images": [
       {
         "image": "currychickenrice88noodlepapa",
@@ -33,33 +31,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "hoisin sauce",
-        "Cantonese": {
-          "text": "海鮮醬",
-          "wkty": [
-            "海鮮醬",
-            "海鮮",
-            "海",
-            "鮮",
-            "醬"
-          ]
-        },
-        "Yale": "hói sīn jeung",
-        "Simplified": {
-          "text": "海鲜酱",
-          "wkty": [
-            "海鲜酱",
-            "海鲜",
-            "海",
-            "鲜",
-            "酱"
-          ]
-        },
-        "Pinyin": "hǎi xiān jiàng"
-      }
-    ],
+    "word": {
+      "English": "hoisin sauce",
+      "Cantonese": {
+        "text": "海鮮醬",
+        "wkty": [
+          "海鮮醬",
+          "海鮮",
+          "海",
+          "鮮",
+          "醬"
+        ]
+      },
+      "Yale": "hói sīn jeung",
+      "Simplified": {
+        "text": "海鲜酱",
+        "wkty": [
+          "海鲜酱",
+          "海鲜",
+          "海",
+          "鲜",
+          "酱"
+        ]
+      },
+      "Pinyin": "hǎi xiān jiàng"
+    },
     "images": [
       {
         "image": "hoisinsauce",
@@ -81,27 +77,25 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "XO sauce",
-        "Cantonese": {
-          "text": "XO醬",
-          "wkty": [
-            "XO醬",
-            "醬"
-          ]
-        },
-        "Yale": "XO jeung",
-        "Simplified": {
-          "text": "XO酱",
-          "wkty": [
-            "XO酱",
-            "酱"
-          ]
-        },
-        "Pinyin": "XO jiàng"
-      }
-    ],
+    "word": {
+      "English": "XO sauce",
+      "Cantonese": {
+        "text": "XO醬",
+        "wkty": [
+          "XO醬",
+          "醬"
+        ]
+      },
+      "Yale": "XO jeung",
+      "Simplified": {
+        "text": "XO酱",
+        "wkty": [
+          "XO酱",
+          "酱"
+        ]
+      },
+      "Pinyin": "XO jiàng"
+    },
     "images": [
       {
         "image": "xosaucebox168market",
@@ -121,21 +115,19 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "rice vinegar",
-        "Cantonese": {
-          "text": "米醋",
-          "wkty": [
-            "米醋",
-            "米",
-            "醋"
-          ]
-        },
-        "Yale": "máih chou",
-        "Pinyin": "mǐ cù"
-      }
-    ],
+    "word": {
+      "English": "rice vinegar",
+      "Cantonese": {
+        "text": "米醋",
+        "wkty": [
+          "米醋",
+          "米",
+          "醋"
+        ]
+      },
+      "Yale": "máih chou",
+      "Pinyin": "mǐ cù"
+    },
     "images": [
       {
         "image": "redvinegarkitchen",

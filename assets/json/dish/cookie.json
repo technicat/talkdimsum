@@ -1,32 +1,30 @@
 [
   {
-    "words": [
-      {
-        "English": "wife cake",
-        "Cantonese": {
-          "text": "老婆餅",
-          "wkty": [
-            "老婆餅",
-            "老婆",
-            "老",
-            "婆",
-            "餅"
-          ]
-        },
-        "Yale": "lóuh pòh béng",
-        "Simplified": {
-          "text": "老婆饼",
-          "wkty": [
-            "老婆饼",
-            "老婆",
-            "老",
-            "婆",
-            "饼"
-          ]
-        },
-        "Pinyin": "lǎo po bǐng"
-      }
-    ],
+    "word": {
+      "English": "wife cake",
+      "Cantonese": {
+        "text": "老婆餅",
+        "wkty": [
+          "老婆餅",
+          "老婆",
+          "老",
+          "婆",
+          "餅"
+        ]
+      },
+      "Yale": "lóuh pòh béng",
+      "Simplified": {
+        "text": "老婆饼",
+        "wkty": [
+          "老婆饼",
+          "老婆",
+          "老",
+          "婆",
+          "饼"
+        ]
+      },
+      "Pinyin": "lǎo po bǐng"
+    },
     "images": [
       {
         "image": "wifecake2"
@@ -65,31 +63,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "lotus seed pie",
-        "Cantonese": {
-          "text": "蓮蓉餅",
-          "wkty": [
-            "蓮蓉",
-            "蓮",
-            "蓉",
-            "餅"
-          ]
-        },
-        "Yale": "lìhn yùhng béng",
-        "Simplified": {
-          "text": "莲蓉饼",
-          "wkty": [
-            "莲蓉",
-            "莲",
-            "蓉",
-            "饼"
-          ]
-        },
-        "Pinyin": "lián róng bǐng"
-      }
-    ],
+    "word": {
+      "English": "lotus seed pie",
+      "Cantonese": {
+        "text": "蓮蓉餅",
+        "wkty": [
+          "蓮蓉",
+          "蓮",
+          "蓉",
+          "餅"
+        ]
+      },
+      "Yale": "lìhn yùhng béng",
+      "Simplified": {
+        "text": "莲蓉饼",
+        "wkty": [
+          "莲蓉",
+          "莲",
+          "蓉",
+          "饼"
+        ]
+      },
+      "Pinyin": "lián róng bǐng"
+    },
     "images": [
       {
         "image": "lotusseedpie"
@@ -107,33 +103,31 @@
     "resources": []
   },
   {
-    "words": [
-      {
-        "English": "almond cookie",
-        "Cantonese": {
-          "text": "杏仁餅",
-          "wkty": [
-            "杏仁餅",
-            "杏仁",
-            "杏",
-            "仁",
-            "餅"
-          ]
-        },
-        "Yale": "hahng yàhn béng",
-        "Simplified": {
-          "text": "杏仁饼",
-          "wkty": [
-            "杏仁饼",
-            "杏仁",
-            "杏",
-            "仁",
-            "饼"
-          ]
-        },
-        "Pinyin": "xìng rén bǐng"
-      }
-    ],
+    "word": {
+      "English": "almond cookie",
+      "Cantonese": {
+        "text": "杏仁餅",
+        "wkty": [
+          "杏仁餅",
+          "杏仁",
+          "杏",
+          "仁",
+          "餅"
+        ]
+      },
+      "Yale": "hahng yàhn béng",
+      "Simplified": {
+        "text": "杏仁饼",
+        "wkty": [
+          "杏仁饼",
+          "杏仁",
+          "杏",
+          "仁",
+          "饼"
+        ]
+      },
+      "Pinyin": "xìng rén bǐng"
+    },
     "images": [
       {
         "image": "almondcookiedimsumcafe",
@@ -171,29 +165,27 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "fortune cookie",
-        "Cantonese": {
-          "text": "簽語餅",
-          "wkty": [
-            "簽",
-            "語",
-            "餅"
-          ]
-        },
-        "Yale": "chīm yúh béng",
-        "Simplified": {
-          "text": "签语饼",
-          "wkty": [
-            "签",
-            "语",
-            "饼"
-          ]
-        },
-        "Pinyin": "qiān yǔ bǐng"
-      }
-    ],
+    "word": {
+      "English": "fortune cookie",
+      "Cantonese": {
+        "text": "簽語餅",
+        "wkty": [
+          "簽",
+          "語",
+          "餅"
+        ]
+      },
+      "Yale": "chīm yúh béng",
+      "Simplified": {
+        "text": "签语饼",
+        "wkty": [
+          "签",
+          "语",
+          "饼"
+        ]
+      },
+      "Pinyin": "qiān yǔ bǐng"
+    },
     "images": [
       {
         "image": "fortunecookiediamondbakery",
@@ -226,21 +218,19 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "cookie",
-        "Cantonese": {
-          "text": "曲奇",
-          "wkty": [
-            "曲奇",
-            "曲",
-            "奇"
-          ]
-        },
-        "Yale": "kūk kèih",
-        "Pinyin": "qǔ qí"
-      }
-    ],
+    "word": {
+      "English": "cookie",
+      "Cantonese": {
+        "text": "曲奇",
+        "wkty": [
+          "曲奇",
+          "曲",
+          "奇"
+        ]
+      },
+      "Yale": "kūk kèih",
+      "Pinyin": "qǔ qí"
+    },
     "images": [
       {
         "image": "cookieeverygrain",

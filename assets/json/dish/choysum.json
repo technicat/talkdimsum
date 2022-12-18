@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "choy sum",
-                "Cantonese": {
-                    "text": "菜心",
-                    "wkty": [
-                        "菜心",
-                        "菜",
-                        "心"
-                    ]
-                },
-                "Yale": "choi sām",
-                "Pinyin": "cài xīn"
-            }
-        ],
+        "word": {
+            "English": "choy sum",
+            "Cantonese": {
+                "text": "菜心",
+                "wkty": [
+                    "菜心",
+                    "菜",
+                    "心"
+                ]
+            },
+            "Yale": "choi sām",
+            "Pinyin": "cài xīn"
+        },
         "images": [
             {
                 "image": "choysumbigwong",
@@ -35,35 +33,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "choy sum with oyster sauce",
-                "Cantonese": {
-                    "text": "蠔油菜心",
-                    "wkty": [
-                        "蠔油",
-                        "蠔",
-                        "油",
-                        "菜心",
-                        "菜",
-                        "心"
-                    ]
-                },
-                "Yale": "hòuh yàuh choi sām",
-                "Simplified": {
-                    "text": "蚝油菜心",
-                    "wkty": [
-                        "蚝油",
-                        "蚝",
-                        "油",
-                        "菜心",
-                        "菜",
-                        "心"
-                    ]
-                },
-                "Pinyin": "háo yóu cài xīn"
-            }
-        ],
+        "word": {
+            "English": "choy sum with oyster sauce",
+            "Cantonese": {
+                "text": "蠔油菜心",
+                "wkty": [
+                    "蠔油",
+                    "蠔",
+                    "油",
+                    "菜心",
+                    "菜",
+                    "心"
+                ]
+            },
+            "Yale": "hòuh yàuh choi sām",
+            "Simplified": {
+                "text": "蚝油菜心",
+                "wkty": [
+                    "蚝油",
+                    "蚝",
+                    "油",
+                    "菜心",
+                    "菜",
+                    "心"
+                ]
+            },
+            "Pinyin": "háo yóu cài xīn"
+        },
         "images": [
             {
                 "image": "choisumkj",

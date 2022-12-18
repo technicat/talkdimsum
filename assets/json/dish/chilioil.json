@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "red oil",
-                "Cantonese": {
-                    "text": "紅油",
-                    "wkty": [
-                        "紅油",
-                        "紅",
-                        "油"
-                    ]
-                },
-                "Yale": "hùhng yàuh",
-                "Simplified": {
-                    "text": "红油",
-                    "wkty": [
-                        "红油",
-                        "红",
-                        "油"
-                    ]
-                },
-                "Pinyin": "hóng yóu"
-            }
-        ],
+        "word": {
+            "English": "red oil",
+            "Cantonese": {
+                "text": "紅油",
+                "wkty": [
+                    "紅油",
+                    "紅",
+                    "油"
+                ]
+            },
+            "Yale": "hùhng yàuh",
+            "Simplified": {
+                "text": "红油",
+                "wkty": [
+                    "红油",
+                    "红",
+                    "油"
+                ]
+            },
+            "Pinyin": "hóng yóu"
+        },
         "images": [
             {
                 "image": "chilioilchengdutaste",
@@ -83,26 +81,24 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Chaozhou chili oil",
-                "Cantonese": {
-                    "text": "潮州辣椒油",
-                    "wkty": [
-                        "潮州",
-                        "潮",
-                        "州",
-                        "辣椒油",
-                        "辣椒",
-                        "辣",
-                        "椒",
-                        "油"
-                    ]
-                },
-                "Yale": "chìuh jāu laaht jīu yàuh",
-                "Pinyin": "cháo zhōu là jiāo yóu"
-            }
-        ],
+        "word": {
+            "English": "Chaozhou chili oil",
+            "Cantonese": {
+                "text": "潮州辣椒油",
+                "wkty": [
+                    "潮州",
+                    "潮",
+                    "州",
+                    "辣椒油",
+                    "辣椒",
+                    "辣",
+                    "椒",
+                    "油"
+                ]
+            },
+            "Yale": "chìuh jāu laaht jīu yàuh",
+            "Pinyin": "cháo zhōu là jiāo yóu"
+        },
         "images": [
             {
                 "image": "chaozhouchilioiltop168market",

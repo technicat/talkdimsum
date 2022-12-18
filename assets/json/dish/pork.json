@@ -1,36 +1,34 @@
 [
   {
-    "words": [
-      {
-        "English": "suckling pig",
-        "Cantonese": {
-          "text": "片皮烤乳豬",
-          "wkty": [
-            "片",
-            "皮",
-            "烤乳豬",
-            "烤",
-            "乳豬",
-            "乳",
-            "豬"
-          ]
-        },
-        "Yale": "pín pèih hao yú jyú",
-        "Simplified": {
-          "text": "片皮烤乳猪",
-          "wkty": [
-            "片",
-            "皮",
-            "烤乳猪",
-            "烤",
-            "乳豬",
-            "乳",
-            "猪"
-          ]
-        },
-        "Pinyin": "piàn pí kǎo rǔ zhū"
-      }
-    ],
+    "word": {
+      "English": "suckling pig",
+      "Cantonese": {
+        "text": "片皮烤乳豬",
+        "wkty": [
+          "片",
+          "皮",
+          "烤乳豬",
+          "烤",
+          "乳豬",
+          "乳",
+          "豬"
+        ]
+      },
+      "Yale": "pín pèih hao yú jyú",
+      "Simplified": {
+        "text": "片皮烤乳猪",
+        "wkty": [
+          "片",
+          "皮",
+          "烤乳猪",
+          "烤",
+          "乳豬",
+          "乳",
+          "猪"
+        ]
+      },
+      "Pinyin": "piàn pí kǎo rǔ zhū"
+    },
     "images": [
       {
         "image": "sucklingpig"
@@ -44,24 +42,22 @@
     "resources": []
   },
   {
-    "words": [
-      {
-        "English": "spam",
-        "Cantonese": {
-          "text": "午餐肉",
-          "wkty": [
-            "午餐肉",
-            "午餐",
-            "午",
-            "餐",
-            "肉"
-          ]
-        },
-        "Yale": "ńgh chāan yuhk",
-        "Jyutping": "ng5 caan1 juk4",
-        "Pinyin": "wǔ cān ròu"
-      }
-    ],
+    "word": {
+      "English": "spam",
+      "Cantonese": {
+        "text": "午餐肉",
+        "wkty": [
+          "午餐肉",
+          "午餐",
+          "午",
+          "餐",
+          "肉"
+        ]
+      },
+      "Yale": "ńgh chāan yuhk",
+      "Jyutping": "ng5 caan1 juk4",
+      "Pinyin": "wǔ cān ròu"
+    },
     "images": [
       {
         "image": "spam"

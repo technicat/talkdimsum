@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "steamed dumpling",
-                "Cantonese": {
-                    "text": "蒸餃",
-                    "wkty": [
-                        "蒸餃",
-                        "蒸",
-                        "餃"
-                    ]
-                },
-                "Yale": "jīng gáau",
-                "Simplified": {
-                    "text": "蒸饺",
-                    "wkty": [
-                        "蒸饺",
-                        "蒸",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "zhēng jiǎo"
-            }
-        ],
+        "word": {
+            "English": "steamed dumpling",
+            "Cantonese": {
+                "text": "蒸餃",
+                "wkty": [
+                    "蒸餃",
+                    "蒸",
+                    "餃"
+                ]
+            },
+            "Yale": "jīng gáau",
+            "Simplified": {
+                "text": "蒸饺",
+                "wkty": [
+                    "蒸饺",
+                    "蒸",
+                    "饺"
+                ]
+            },
+            "Pinyin": "zhēng jiǎo"
+        },
         "images": [
             {
                 "image": "steameddumplingschinarepublic",

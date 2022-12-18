@@ -1,14 +1,13 @@
 [
   {
-    "words": [
+    "word":
       {
         "English": "fried shrimp ball",
         "Cantonese": "炸蝦球",
         "Simplified": "炸虾球",
         "Yale": "ja hā kàu",
         "Pinyin": "zhà xiā qiú"
-      }
-    ],
+      },
     "images": [
       {
         "image": "shrimpballeastocean",
@@ -27,7 +26,7 @@
     "resources": []
   },
   {
-    "words": [
+    "word":
       {
         "English": "frizzy shrimp ball",
         "Cantonese": {
@@ -50,8 +49,7 @@
           ]
         },
         "Pinyin": "jīn sī xiā qiú"
-      }
-    ],
+      },
     "images": [
       {
         "image": "shrimpballorchidgarden",
@@ -71,7 +69,7 @@
     "resources": []
   },
   {
-    "words": [
+    "word":
       {
         "English": "pearl shrimp ball",
         "Cantonese": {
@@ -96,8 +94,7 @@
           ]
         },
         "Pinyin": "zhēn zhū xiā qiú"
-      }
-    ],
+      },
     "images": [
       {
         "image": "pearlshrimpballpingpangpong",
@@ -122,15 +119,14 @@
     ]
   },
   {
-    "words": [
+    "word":
       {
         "Cantonese": "炸蔗蝦",
         "Simplified": "炸虾虾",
         "English": "sugarcane shrimp",
         "Yale": "ja je hā",
         "Pinyin": "zhà zhè xiā"
-      }
-    ],
+      },
     "images": [
       {
         "image": "sugarcaneshrimphkgarden",
@@ -148,7 +144,7 @@
     "resources": []
   },
   {
-    "words": [
+    "word":
       {
         "English": "almond shrimp ball",
         "Cantonese": {
@@ -173,8 +169,7 @@
           ]
         },
         "Pinyin": "xìng rén xiā qiú"
-      }
-    ],
+      },
     "images": [
       {
         "image": "almondshrimpballpingpangpong",

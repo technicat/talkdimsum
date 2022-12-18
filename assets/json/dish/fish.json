@@ -1,24 +1,22 @@
 [
   {
-    "words": [
-      {
-        "English": "fried smelt",
-        "Cantonese": {
-          "text": "炸多春魚",
-          "wkty": [
-            "炸",
-            "多春魚",
-            "多",
-            "春",
-            "魚"
-          ]
-        },
-        "Mandarin": "炸胡瓜魚",
-        "Simplified": "炸胡瓜鱼",
-        "Yale": "ja dō chēun yú",
-        "Pinyin": "zhà hú guā yú"
-      }
-    ],
+    "word": {
+      "English": "fried smelt",
+      "Cantonese": {
+        "text": "炸多春魚",
+        "wkty": [
+          "炸",
+          "多春魚",
+          "多",
+          "春",
+          "魚"
+        ]
+      },
+      "Mandarin": "炸胡瓜魚",
+      "Simplified": "炸胡瓜鱼",
+      "Yale": "ja dō chēun yú",
+      "Pinyin": "zhà hú guā yú"
+    },
     "images": [
       {
         "image": "friedsmeltdimsumcafe",
@@ -41,24 +39,22 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "fish fillet with black bean sauce",
-        "Cantonese": {
-          "text": "豉汁斑球",
-          "wkty": [
-            "豉汁",
-            "豉",
-            "汁",
-            "斑",
-            "球"
-          ]
-        },
-        "Yale": "sih jāp bāan kàuh",
-        "Jyutping": "si6 zap1 baan1 kau4",
-        "Pinyin": "chǐ zhī bān qiú"
-      }
-    ],
+    "word": {
+      "English": "fish fillet with black bean sauce",
+      "Cantonese": {
+        "text": "豉汁斑球",
+        "wkty": [
+          "豉汁",
+          "豉",
+          "汁",
+          "斑",
+          "球"
+        ]
+      },
+      "Yale": "sih jāp bāan kàuh",
+      "Jyutping": "si6 zap1 baan1 kau4",
+      "Pinyin": "chǐ zhī bān qiú"
+    },
     "images": [
       {
         "image": "fishfilletblackbeansaucechinaagogo",

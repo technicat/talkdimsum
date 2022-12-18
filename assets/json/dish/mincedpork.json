@@ -1,36 +1,34 @@
 [
     {
-        "words": [
-            {
-                "English": "salted egg w/ minced pork",
-                "Cantonese": {
-                    "text": "鹹蛋蒸肉餅",
-                    "wkty": [
-                        "鹹蛋",
-                        "鹹",
-                        "蛋",
-                        "蒸",
-                        "肉餅",
-                        "肉",
-                        "餅"
-                    ]
-                },
-                "Yale": "hàahm dáan jīng yuhk béng",
-                "Simplified": {
-                    "text": "咸蛋蒸肉饼",
-                    "wkty": [
-                        "咸蛋",
-                        "咸",
-                        "蛋",
-                        "蒸",
-                        "肉饼",
-                        "肉",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "xián dàn zhēng ròu bǐng"
-            }
-        ],
+        "word": {
+            "English": "salted egg w/ minced pork",
+            "Cantonese": {
+                "text": "鹹蛋蒸肉餅",
+                "wkty": [
+                    "鹹蛋",
+                    "鹹",
+                    "蛋",
+                    "蒸",
+                    "肉餅",
+                    "肉",
+                    "餅"
+                ]
+            },
+            "Yale": "hàahm dáan jīng yuhk béng",
+            "Simplified": {
+                "text": "咸蛋蒸肉饼",
+                "wkty": [
+                    "咸蛋",
+                    "咸",
+                    "蛋",
+                    "蒸",
+                    "肉饼",
+                    "肉",
+                    "饼"
+                ]
+            },
+            "Pinyin": "xián dàn zhēng ròu bǐng"
+        },
         "images": [
             {
                 "image": "saltedeggmincedporkyumcha",
@@ -68,37 +66,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salted fish w/ minced pork",
-                "Cantonese": {
-                    "text": "鹹魚蒸肉餅",
-                    "wkty": [
-                        "鹹魚",
-                        "鹹",
-                        "魚",
-                        "蒸",
-                        "肉餅",
-                        "肉",
-                        "餅"
-                    ]
-                },
-                "Yale": "hàahm yùh jīng yuhk béng",
-                "Simplified": {
-                    "text": "咸鱼蒸肉饼",
-                    "wkty": [
-                        "咸鱼",
-                        "咸",
-                        "鱼",
-                        "蒸",
-                        "肉饼",
-                        "肉",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "xián yú zhēng ròu bǐng"
-            }
-        ],
+        "word": {
+            "English": "salted fish w/ minced pork",
+            "Cantonese": {
+                "text": "鹹魚蒸肉餅",
+                "wkty": [
+                    "鹹魚",
+                    "鹹",
+                    "魚",
+                    "蒸",
+                    "肉餅",
+                    "肉",
+                    "餅"
+                ]
+            },
+            "Yale": "hàahm yùh jīng yuhk béng",
+            "Simplified": {
+                "text": "咸鱼蒸肉饼",
+                "wkty": [
+                    "咸鱼",
+                    "咸",
+                    "鱼",
+                    "蒸",
+                    "肉饼",
+                    "肉",
+                    "饼"
+                ]
+            },
+            "Pinyin": "xián yú zhēng ròu bǐng"
+        },
         "images": [
             {
                 "image": "saltedfishmincedporkclaypotyummyrice",

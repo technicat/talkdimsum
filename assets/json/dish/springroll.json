@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "spring roll",
-                "Cantonese": {
-                    "text": "春卷",
-                    "wkty": [
-                        "春卷",
-                        "春",
-                        "卷"
-                    ]
-                },
-                "Yale": "chēun gyún",
-                "Pinyin": "chūn juǎn"
-            }
-        ],
+        "word": {
+            "English": "spring roll",
+            "Cantonese": {
+                "text": "春卷",
+                "wkty": [
+                    "春卷",
+                    "春",
+                    "卷"
+                ]
+            },
+            "Yale": "chēun gyún",
+            "Pinyin": "chūn juǎn"
+        },
         "images": [
             {
                 "image": "springrollsdimsumcafe",
@@ -66,22 +64,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "vegetable spring roll",
-                "Cantonese": {
-                    "text": "素春卷",
-                    "wkty": [
-                        "素",
-                        "春卷",
-                        "春",
-                        "卷"
-                    ]
-                },
-                "Yale": "sou chēun gyún",
-                "Pinyin": "sù chūn juǎn"
-            }
-        ],
+        "word": {
+            "English": "vegetable spring roll",
+            "Cantonese": {
+                "text": "素春卷",
+                "wkty": [
+                    "素",
+                    "春卷",
+                    "春",
+                    "卷"
+                ]
+            },
+            "Yale": "sou chēun gyún",
+            "Pinyin": "sù chūn juǎn"
+        },
         "images": [
             {
                 "image": "vegetablespringrollsnorthsidecafe",

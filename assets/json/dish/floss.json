@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "pork sung",
-                "Cantonese": {
-                    "text": "肉鬆",
-                    "wkty": [
-                        "肉鬆",
-                        "肉",
-                        "鬆"
-                    ]
-                },
-                "Yale": "yuhk sūng",
-                "Simplified": {
-                    "text": "肉松",
-                    "wkty": [
-                        "肉松",
-                        "肉",
-                        "松"
-                    ]
-                },
-                "Pinyin": "ròu sōng"
-            }
-        ],
+        "word": {
+            "English": "pork sung",
+            "Cantonese": {
+                "text": "肉鬆",
+                "wkty": [
+                    "肉鬆",
+                    "肉",
+                    "鬆"
+                ]
+            },
+            "Yale": "yuhk sūng",
+            "Simplified": {
+                "text": "肉松",
+                "wkty": [
+                    "肉松",
+                    "肉",
+                    "松"
+                ]
+            },
+            "Pinyin": "ròu sōng"
+        },
         "images": [
             {
                 "image": "porkfloss99ranch",

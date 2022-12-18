@@ -1,31 +1,29 @@
 [
     {
-        "words": [
-            {
-                "English": "jasmine tea",
-                "Cantonese": {
-                    "text": "香片",
-                    "wkty": [
-                        "香片",
-                        "香",
-                        "片"
-                    ]
-                },
-                "Yale": "hēung pín",
-                "Mandarin": {
-                    "text": "茉莉花茶",
-                    "wkty": [
-                        "茉莉花茶",
-                        "茉莉花",
-                        "茉莉",
-                        "茉",
-                        "莉",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "mò li huā chá"
-            }
-        ],
+        "word": {
+            "English": "jasmine tea",
+            "Cantonese": {
+                "text": "香片",
+                "wkty": [
+                    "香片",
+                    "香",
+                    "片"
+                ]
+            },
+            "Yale": "hēung pín",
+            "Mandarin": {
+                "text": "茉莉花茶",
+                "wkty": [
+                    "茉莉花茶",
+                    "茉莉花",
+                    "茉莉",
+                    "茉",
+                    "莉",
+                    "茶"
+                ]
+            },
+            "Pinyin": "mò li huā chá"
+        },
         "images": [
             {
                 "image": "jasmineteakj6",
@@ -59,23 +57,21 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "jasmine honey tea",
-                "Cantonese": {
-                    "text": "茉莉蜜茶",
-                    "wkty": [
-                        "茉莉",
-                        "茉",
-                        "莉",
-                        "蜜",
-                        "茶"
-                    ]
-                },
-                "Yale": "muht léi maht chàh",
-                "Pinyin": "mò li mì chá"
-            }
-        ],
+        "word": {
+            "English": "jasmine honey tea",
+            "Cantonese": {
+                "text": "茉莉蜜茶",
+                "wkty": [
+                    "茉莉",
+                    "茉",
+                    "莉",
+                    "蜜",
+                    "茶"
+                ]
+            },
+            "Yale": "muht léi maht chàh",
+            "Pinyin": "mò li mì chá"
+        },
         "images": [
             {
                 "image": "jasminehoneytea168market",
@@ -100,23 +96,21 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "chrysanthemum tea",
-                "Cantonese": {
-                    "text": "菊花茶",
-                    "wkty": [
-                        "菊花茶",
-                        "菊花",
-                        "菊",
-                        "花",
-                        "茶"
-                    ]
-                },
-                "Yale": "gūk fā chàh",
-                "Pinyin": "jú huā chá"
-            }
-        ],
+        "word": {
+            "English": "chrysanthemum tea",
+            "Cantonese": {
+                "text": "菊花茶",
+                "wkty": [
+                    "菊花茶",
+                    "菊花",
+                    "菊",
+                    "花",
+                    "茶"
+                ]
+            },
+            "Yale": "gūk fā chàh",
+            "Pinyin": "jú huā chá"
+        },
         "images": [
             {
                 "image": "chrysanthemumteadimsumcafe",
@@ -150,23 +144,21 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Pu'er tea",
-                "Cantonese": {
-                    "text": "普洱茶",
-                    "wkty": [
-                        "普洱茶",
-                        "普洱",
-                        "普",
-                        "洱",
-                        "茶"
-                    ]
-                },
-                "Yale": "póu néi chàh",
-                "Pinyin": "pǔ ěr chá"
-            }
-        ],
+        "word": {
+            "English": "Pu'er tea",
+            "Cantonese": {
+                "text": "普洱茶",
+                "wkty": [
+                    "普洱茶",
+                    "普洱",
+                    "普",
+                    "洱",
+                    "茶"
+                ]
+            },
+            "Yale": "póu néi chàh",
+            "Pinyin": "pǔ ěr chá"
+        },
         "images": [
             {
                 "image": "puerteanewasian2",
@@ -216,22 +208,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "chrysanthemum Pu'er tea",
-                "Cantonese": {
-                    "text": "菊普",
-                    "wkty": [
-                        "菊普",
-                        "菊",
-                        "普",
-                        "茶"
-                    ]
-                },
-                "Yale": "gūk póu",
-                "Pinyin": "jú pǔ"
-            }
-        ],
+        "word": {
+            "English": "chrysanthemum Pu'er tea",
+            "Cantonese": {
+                "text": "菊普",
+                "wkty": [
+                    "菊普",
+                    "菊",
+                    "普",
+                    "茶"
+                ]
+            },
+            "Yale": "gūk póu",
+            "Pinyin": "jú pǔ"
+        },
         "images": [
             {
                 "image": "gukbochinatowneatery",
@@ -258,22 +248,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lychee tea",
-                "Cantonese": {
-                    "text": "荔枝茶",
-                    "wkty": [
-                        "荔枝",
-                        "荔",
-                        "枝",
-                        "茶"
-                    ]
-                },
-                "Yale": "laih jī chàh",
-                "Pinyin": "lì zhī chá"
-            }
-        ],
+        "word": {
+            "English": "lychee tea",
+            "Cantonese": {
+                "text": "荔枝茶",
+                "wkty": [
+                    "荔枝",
+                    "荔",
+                    "枝",
+                    "茶"
+                ]
+            },
+            "Yale": "laih jī chàh",
+            "Pinyin": "lì zhī chá"
+        },
         "images": [
             {
                 "image": "lycheeblackteacafesalina",

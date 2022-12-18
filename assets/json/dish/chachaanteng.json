@@ -1,33 +1,31 @@
 [
     {
-        "words": [
-            {
-                "English": "Hong Kong cafe",
-                "Cantonese": {
-                    "text": "茶餐廳",
-                    "wkty": [
-                        "茶餐廳",
-                        "茶",
-                        "餐廳",
-                        "餐",
-                        "廳"
-                    ]
-                },
-                "Yale": "chàh chāan tēng",
-                "Jyutping": "caa4 caan1 teng1",
-                "Simplified": {
-                    "text": "茶餐厅",
-                    "wkty": [
-                        "茶餐厅",
-                        "茶",
-                        "餐廳",
-                        "餐",
-                        "厅"
-                    ]
-                },
-                "Pinyin": "chá cān tīng"
-            }
-        ],
+        "word": {
+            "English": "Hong Kong cafe",
+            "Cantonese": {
+                "text": "茶餐廳",
+                "wkty": [
+                    "茶餐廳",
+                    "茶",
+                    "餐廳",
+                    "餐",
+                    "廳"
+                ]
+            },
+            "Yale": "chàh chāan tēng",
+            "Jyutping": "caa4 caan1 teng1",
+            "Simplified": {
+                "text": "茶餐厅",
+                "wkty": [
+                    "茶餐厅",
+                    "茶",
+                    "餐廳",
+                    "餐",
+                    "厅"
+                ]
+            },
+            "Pinyin": "chá cān tīng"
+        },
         "images": [
             {
                 "image": "chasiufanhkicelemonteawinkee",
@@ -71,21 +69,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "breakfast",
-                "Cantonese": {
-                    "text": "早餐",
-                    "wkty": [
-                        "早餐",
-                        "早",
-                        "餐"
-                    ]
-                },
-                "Yale": "jóu chāan",
-                "Pinyin": "zǎo cān"
-            }
-        ],
+        "word": {
+            "English": "breakfast",
+            "Cantonese": {
+                "text": "早餐",
+                "wkty": [
+                    "早餐",
+                    "早",
+                    "餐"
+                ]
+            },
+            "Yale": "jóu chāan",
+            "Pinyin": "zǎo cān"
+        },
         "images": [
             {
                 "image": "luckyhouseasiancafebreakfast",
@@ -104,26 +100,24 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Hong Kong-style French toast",
-                "Cantonese": {
-                    "text": "港式西多士",
-                    "wkty": [
-                        "港式",
-                        "港",
-                        "式",
-                        "西多士",
-                        "西",
-                        "多士",
-                        "多",
-                        "士"
-                    ]
-                },
-                "Yale": "góng sīk sāi dō sih",
-                "Pinyin": "gǎng shì xī duō shì"
-            }
-        ],
+        "word": {
+            "English": "Hong Kong-style French toast",
+            "Cantonese": {
+                "text": "港式西多士",
+                "wkty": [
+                    "港式",
+                    "港",
+                    "式",
+                    "西多士",
+                    "西",
+                    "多士",
+                    "多",
+                    "士"
+                ]
+            },
+            "Yale": "góng sīk sāi dō sih",
+            "Pinyin": "gǎng shì xī duō shì"
+        },
         "images": [
             {
                 "image": "pbfrenchtoastsweetheart",
@@ -170,35 +164,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fried cuttlefish ball",
-                "Cantonese": {
-                    "text": "炸墨魚丸",
-                    "wkty": [
-                        "炸",
-                        "墨魚丸",
-                        "墨魚",
-                        "墨",
-                        "魚",
-                        "丸"
-                    ]
-                },
-                "Yale": "ja mahk yùh yún",
-                "Simplified": {
-                    "text": "炸墨鱼丸",
-                    "wkty": [
-                        "炸",
-                        "墨鱼丸",
-                        "墨鱼",
-                        "墨",
-                        "鱼",
-                        "丸"
-                    ]
-                },
-                "Pinyin": "hà mò yú wán"
-            }
-        ],
+        "word": {
+            "English": "fried cuttlefish ball",
+            "Cantonese": {
+                "text": "炸墨魚丸",
+                "wkty": [
+                    "炸",
+                    "墨魚丸",
+                    "墨魚",
+                    "墨",
+                    "魚",
+                    "丸"
+                ]
+            },
+            "Yale": "ja mahk yùh yún",
+            "Simplified": {
+                "text": "炸墨鱼丸",
+                "wkty": [
+                    "炸",
+                    "墨鱼丸",
+                    "墨鱼",
+                    "墨",
+                    "鱼",
+                    "丸"
+                ]
+            },
+            "Pinyin": "hà mò yú wán"
+        },
         "images": [
             {
                 "image": "friedcuttlefishballsweetheart",
@@ -220,34 +212,32 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "french fries",
-                "Cantonese": {
-                    "text": "炸薯條",
-                    "wkty": [
-                        "炸薯條",
-                        "炸",
-                        "薯條",
-                        "薯",
-                        "條"
-                    ]
-                },
-                "Yale": "ja syùh tíu",
-                "Jyutping": "zaa3 syu4 tiu2",
-                "Simplified":{
-                    "text": "炸薯条",
-                    "wkty": [
-                        "炸薯条",
-                        "炸",
-                        "薯条",
-                        "薯",
-                        "条"
-                    ]
-                },
-                "Pinyin": "zhá shǔ tiáo"
-            }
-        ],
+        "word": {
+            "English": "french fries",
+            "Cantonese": {
+                "text": "炸薯條",
+                "wkty": [
+                    "炸薯條",
+                    "炸",
+                    "薯條",
+                    "薯",
+                    "條"
+                ]
+            },
+            "Yale": "ja syùh tíu",
+            "Jyutping": "zaa3 syu4 tiu2",
+            "Simplified": {
+                "text": "炸薯条",
+                "wkty": [
+                    "炸薯条",
+                    "炸",
+                    "薯条",
+                    "薯",
+                    "条"
+                ]
+            },
+            "Pinyin": "zhá shǔ tiáo"
+        },
         "images": [
             {
                 "image": "frenchfriesluckyhouse",

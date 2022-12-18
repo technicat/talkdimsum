@@ -1,23 +1,21 @@
 [
     {
-        "words": [
-            {
-                "English": "winter melon tea",
-                "Cantonese": {
-                    "text": "冬瓜茶",
-                    "wkty": [
-                        "冬瓜茶",
-                        "冬瓜",
-                        "冬",
-                        "瓜",
-                        "茶"
-                    ]
-                },
-                "Yale": "dūng gwā chàh",
-                "Jyutping": "dung1 gwaa1 caa4",
-                "Pinyin": "shuǐ guǒ chá"
-            }
-        ],
+        "word": {
+            "English": "winter melon tea",
+            "Cantonese": {
+                "text": "冬瓜茶",
+                "wkty": [
+                    "冬瓜茶",
+                    "冬瓜",
+                    "冬",
+                    "瓜",
+                    "茶"
+                ]
+            },
+            "Yale": "dūng gwā chàh",
+            "Jyutping": "dung1 gwaa1 caa4",
+            "Pinyin": "shuǐ guǒ chá"
+        },
         "images": [
             {
                 "image": "wintermelonteameetfresh",
@@ -49,26 +47,24 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "grass jelly winter melon tea",
-                "Cantonese": {
-                    "text": "冬瓜仙草茶",
-                    "wkty": [
-                        "冬瓜",
-                        "冬",
-                        "瓜",
-                        "仙草",
-                        "仙",
-                        "草",
-                        "茶"
-                    ]
-                },
-                "Yale": "dūng gwā sīn chóu chàh",
-                "Jyutping": "dung1 gwaa1 sin1 cho2 caa4",
-                "Pinyin": "shuǐ guǒ xiān cǎo chá"
-            }
-        ],
+        "word": {
+            "English": "grass jelly winter melon tea",
+            "Cantonese": {
+                "text": "冬瓜仙草茶",
+                "wkty": [
+                    "冬瓜",
+                    "冬",
+                    "瓜",
+                    "仙草",
+                    "仙",
+                    "草",
+                    "茶"
+                ]
+            },
+            "Yale": "dūng gwā sīn chóu chàh",
+            "Jyutping": "dung1 gwaa1 sin1 cho2 caa4",
+            "Pinyin": "shuǐ guǒ xiān cǎo chá"
+        },
         "images": [
             {
                 "image": "grassjellywintermelontea",
@@ -101,25 +97,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "QQ winter melon tea",
-                "Cantonese": {
-                    "text": "QQ 冬瓜茶",
-                    "wkty": [
-                        "QQ",
-                        "冬瓜茶",
-                        "冬瓜",
-                        "冬",
-                        "瓜",
-                        "茶"
-                    ]
-                },
-                "Yale": "QQ dūng gwā chàh",
-                "Jyutping": "QQ dung1 gwaa1 caa4",
-                "Pinyin": "QQ shuǐ guǒ chá"
-            }
-        ],
+        "word": {
+            "English": "QQ winter melon tea",
+            "Cantonese": {
+                "text": "QQ 冬瓜茶",
+                "wkty": [
+                    "QQ",
+                    "冬瓜茶",
+                    "冬瓜",
+                    "冬",
+                    "瓜",
+                    "茶"
+                ]
+            },
+            "Yale": "QQ dūng gwā chàh",
+            "Jyutping": "QQ dung1 gwaa1 caa4",
+            "Pinyin": "QQ shuǐ guǒ chá"
+        },
         "images": [
             {
                 "image": "qqwintermelonteameetfresh",
@@ -151,40 +145,38 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lemon winter melon tea",
-                "Cantonese": {
-                    "text": "檸檬冬瓜茶",
-                    "wkty": [
-                        "檸檬",
-                        "檸",
-                        "檬",
-                        "冬瓜茶",
-                        "冬瓜",
-                        "冬",
-                        "瓜",
-                        "茶"
-                    ]
-                },
-                "Yale": "nìhng mūng dūng gwā chàh",
-                "Jyutping": "ning4 mung1 dung1 gwaa1 caa4",
-                "Simplified": {
-                    "text": "柠檬冬瓜茶",
-                    "wkty": [
-                        "柠檬",
-                        "柠",
-                        "檬",
-                        "冬瓜茶",
-                        "冬瓜",
-                        "冬",
-                        "瓜",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "níng méng dōng guā chá"
-            }
-        ],
+        "word": {
+            "English": "lemon winter melon tea",
+            "Cantonese": {
+                "text": "檸檬冬瓜茶",
+                "wkty": [
+                    "檸檬",
+                    "檸",
+                    "檬",
+                    "冬瓜茶",
+                    "冬瓜",
+                    "冬",
+                    "瓜",
+                    "茶"
+                ]
+            },
+            "Yale": "nìhng mūng dūng gwā chàh",
+            "Jyutping": "ning4 mung1 dung1 gwaa1 caa4",
+            "Simplified": {
+                "text": "柠檬冬瓜茶",
+                "wkty": [
+                    "柠檬",
+                    "柠",
+                    "檬",
+                    "冬瓜茶",
+                    "冬瓜",
+                    "冬",
+                    "瓜",
+                    "茶"
+                ]
+            },
+            "Pinyin": "níng méng dōng guā chá"
+        },
         "images": [
             {
                 "image": "lemonwintermelonteameetfresh",

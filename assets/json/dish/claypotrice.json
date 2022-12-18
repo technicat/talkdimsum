@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "English": "clay pot rice",
-                "Cantonese": {
-                    "text": "煲仔飯",
-                    "wkty": [
-                        "煲仔飯",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "飯"
-                    ]
-                },
-                "Yale": "bōu jái faahn",
-                "Simplified": {
-                    "text": "煲仔饭",
-                    "wkty": [
-                        "煲仔饭",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "bāo zǐ fàn"
-            }
-        ],
+        "word": {
+            "English": "clay pot rice",
+            "Cantonese": {
+                "text": "煲仔飯",
+                "wkty": [
+                    "煲仔飯",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "飯"
+                ]
+            },
+            "Yale": "bōu jái faahn",
+            "Simplified": {
+                "text": "煲仔饭",
+                "wkty": [
+                    "煲仔饭",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "饭"
+                ]
+            },
+            "Pinyin": "bāo zǐ fàn"
+        },
         "images": [
             {
                 "image": "eelclaypotdinneryummyrice",
@@ -79,45 +77,43 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Japanese-style eel clay pot rice",
-                "Cantonese": {
-                    "text": "日式鰻魚煲仔飯",
-                    "wkty": [
-                        "日式",
-                        "日",
-                        "式",
-                        "鰻魚",
-                        "鰻",
-                        "魚",
-                        "煲仔飯",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "飯"
-                    ]
-                },
-                "Yale": "yaht sīk màahn yú bōu jái faahn",
-                "Simplified": {
-                    "text": "日式鳗鱼煲仔饭",
-                    "wkty": [
-                        "日式",
-                        "日",
-                        "式",
-                        "鳗鱼",
-                        "鳗",
-                        "鱼",
-                        "煲仔饭",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "rì shì mán yú bāo zǐ fàn"
-            }
-        ],
+        "word": {
+            "English": "Japanese-style eel clay pot rice",
+            "Cantonese": {
+                "text": "日式鰻魚煲仔飯",
+                "wkty": [
+                    "日式",
+                    "日",
+                    "式",
+                    "鰻魚",
+                    "鰻",
+                    "魚",
+                    "煲仔飯",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "飯"
+                ]
+            },
+            "Yale": "yaht sīk màahn yú bōu jái faahn",
+            "Simplified": {
+                "text": "日式鳗鱼煲仔饭",
+                "wkty": [
+                    "日式",
+                    "日",
+                    "式",
+                    "鳗鱼",
+                    "鳗",
+                    "鱼",
+                    "煲仔饭",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "饭"
+                ]
+            },
+            "Pinyin": "rì shì mán yú bāo zǐ fàn"
+        },
         "images": [
             {
                 "image": "eelclaypotriceyummyrice",
@@ -149,43 +145,41 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mushroom chicken clay pot rice",
-                "Cantonese": {
-                    "text": "香菇滑雞煲仔飯",
-                    "wkty": [
-                        "香菇",
-                        "香",
-                        "菇",
-                        "滑",
-                        "雞",
-                        "煲仔飯",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "飯"
-                    ]
-                },
-                "Yale": "hēung gū bōu jái faahn",
-                "Simplified": {
-                    "text": "香菇滑鸡煲仔饭",
-                    "wkty": [
-                        "香菇",
-                        "香",
-                        "菇",
-                        "滑",
-                        "鸡",
-                        "煲仔饭",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "xiāng gū bāo zǐ fàn"
-            }
-        ],
+        "word": {
+            "English": "mushroom chicken clay pot rice",
+            "Cantonese": {
+                "text": "香菇滑雞煲仔飯",
+                "wkty": [
+                    "香菇",
+                    "香",
+                    "菇",
+                    "滑",
+                    "雞",
+                    "煲仔飯",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "飯"
+                ]
+            },
+            "Yale": "hēung gū bōu jái faahn",
+            "Simplified": {
+                "text": "香菇滑鸡煲仔饭",
+                "wkty": [
+                    "香菇",
+                    "香",
+                    "菇",
+                    "滑",
+                    "鸡",
+                    "煲仔饭",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "饭"
+                ]
+            },
+            "Pinyin": "xiāng gū bāo zǐ fàn"
+        },
         "images": [
             {
                 "image": "mushroomchickenclaypotyummyrice",
@@ -214,45 +208,43 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salted fish w/ minced pork clay pot rice",
-                "Cantonese": {
-                    "text": "鹹魚肉餅煲仔飯",
-                    "wkty": [
-                        "鹹魚",
-                        "鹹",
-                        "魚",
-                        "肉餅",
-                        "肉",
-                        "餅",
-                        "煲仔飯",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "飯"
-                    ]
-                },
-                "Simplified": {
-                    "text": "咸鱼肉饼煲仔饭",
-                    "wkty": [
-                        "鹹鱼",
-                        "鹹",
-                        "鱼",
-                        "肉餅",
-                        "肉",
-                        "餅",
-                        "煲仔饭",
-                        "煲仔",
-                        "煲",
-                        "仔",
-                        "饭"
-                    ]
-                },
-                "Yale": "hàahm yùh yuhk béng bōu jái faahn",
-                "Pinyin": "xián yú ròu bǐng bāo zǐ fàn"
-            }
-        ],
+        "word": {
+            "English": "salted fish w/ minced pork clay pot rice",
+            "Cantonese": {
+                "text": "鹹魚肉餅煲仔飯",
+                "wkty": [
+                    "鹹魚",
+                    "鹹",
+                    "魚",
+                    "肉餅",
+                    "肉",
+                    "餅",
+                    "煲仔飯",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "飯"
+                ]
+            },
+            "Simplified": {
+                "text": "咸鱼肉饼煲仔饭",
+                "wkty": [
+                    "鹹鱼",
+                    "鹹",
+                    "鱼",
+                    "肉餅",
+                    "肉",
+                    "餅",
+                    "煲仔饭",
+                    "煲仔",
+                    "煲",
+                    "仔",
+                    "饭"
+                ]
+            },
+            "Yale": "hàahm yùh yuhk béng bōu jái faahn",
+            "Pinyin": "xián yú ròu bǐng bāo zǐ fàn"
+        },
         "images": [
             {
                 "image": "mincedporksaltyfishclaypotyummyrice",

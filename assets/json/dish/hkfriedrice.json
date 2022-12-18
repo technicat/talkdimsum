@@ -1,32 +1,30 @@
 [
   {
-    "words": [
-      {
-        "English": "baked pork chop on rice",
-        "Cantonese": {
-          "text": "焗豬扒飯",
-          "wkty": [
-            "焗",
-            "豬扒",
-            "豬",
-            "扒",
-            "飯"
-          ]
-        },
-        "Yale": "guhk jyū pàh faahn",
-        "Simplified": {
-          "text": "焗猪扒饭",
-          "wkty": [
-            "焗",
-            "猪扒",
-            "猪",
-            "扒",
-            "饭"
-          ]
-        },
-        "Pinyin": "jú zhū bā fàn"
-      }
-    ],
+    "word": {
+      "English": "baked pork chop on rice",
+      "Cantonese": {
+        "text": "焗豬扒飯",
+        "wkty": [
+          "焗",
+          "豬扒",
+          "豬",
+          "扒",
+          "飯"
+        ]
+      },
+      "Yale": "guhk jyū pàh faahn",
+      "Simplified": {
+        "text": "焗猪扒饭",
+        "wkty": [
+          "焗",
+          "猪扒",
+          "猪",
+          "扒",
+          "饭"
+        ]
+      },
+      "Pinyin": "jú zhū bā fàn"
+    },
     "images": [
       {
         "image": "bakedporkchopricesweetheart",
@@ -80,30 +78,28 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "western fried rice",
-        "Cantonese": {
-          "text": "西炒飯",
-          "wkty": [
-            "焗",
-            "炒飯",
-            "飯"
-          ]
-        },
-        "Yale": "sāi cháau faahn",
-        "Simplified": {
-          "text": "西炒饭",
-          "wkty": [
-            "焗",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "xī chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "western fried rice",
+      "Cantonese": {
+        "text": "西炒飯",
+        "wkty": [
+          "焗",
+          "炒飯",
+          "飯"
+        ]
+      },
+      "Yale": "sāi cháau faahn",
+      "Simplified": {
+        "text": "西炒饭",
+        "wkty": [
+          "焗",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "xī chǎo fàn"
+    },
     "images": [
       {
         "image": "westernfriedriceluckyhouse",
@@ -129,41 +125,39 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "billionaire fried rice",
-        "Cantonese": {
-          "text": "瑤柱蛋白炒飯",
-          "wkty": [
-            "瑤柱",
-            "瑤",
-            "柱",
-            "蛋白",
-            "蛋",
-            "白",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Simplified": {
-          "text": "瑶柱蛋白炒饭",
-          "wkty": [
-            "瑶柱",
-            "瑶",
-            "柱",
-            "蛋白",
-            "蛋",
-            "白",
-            "炒飯",
-            "炒",
-            "饭"
-          ]
-        },
-        "Yale": "yìuh chyúh dáan baahk cháau faahn",
-        "Pinyin": "yáo zhù dàn bái chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "billionaire fried rice",
+      "Cantonese": {
+        "text": "瑤柱蛋白炒飯",
+        "wkty": [
+          "瑤柱",
+          "瑤",
+          "柱",
+          "蛋白",
+          "蛋",
+          "白",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Simplified": {
+        "text": "瑶柱蛋白炒饭",
+        "wkty": [
+          "瑶柱",
+          "瑶",
+          "柱",
+          "蛋白",
+          "蛋",
+          "白",
+          "炒飯",
+          "炒",
+          "饭"
+        ]
+      },
+      "Yale": "yìuh chyúh dáan baahk cháau faahn",
+      "Pinyin": "yáo zhù dàn bái chǎo fàn"
+    },
     "images": [
       {
         "image": "billionairefriedricejjnoodle",

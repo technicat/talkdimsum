@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "English": "BBQ pork bun",
-                "Cantonese": {
-                    "text": "叉燒包",
-                    "wkty": [
-                        "叉燒包",
-                        "叉燒",
-                        "叉",
-                        "燒",
-                        "包"
-                    ]
-                },
-                "Yale": "chā sīu bāau",
-                "Simplified": {
-                    "text": "叉烧包",
-                    "wkty": [
-                        "叉烧包",
-                        "叉烧",
-                        "叉",
-                        "烧",
-                        "包"
-                    ]
-                },
-                "Pinyin": "chā shāo bāo"
-            }
-        ],
+        "word": {
+            "English": "BBQ pork bun",
+            "Cantonese": {
+                "text": "叉燒包",
+                "wkty": [
+                    "叉燒包",
+                    "叉燒",
+                    "叉",
+                    "燒",
+                    "包"
+                ]
+            },
+            "Yale": "chā sīu bāau",
+            "Simplified": {
+                "text": "叉烧包",
+                "wkty": [
+                    "叉烧包",
+                    "叉烧",
+                    "叉",
+                    "烧",
+                    "包"
+                ]
+            },
+            "Pinyin": "chā shāo bāo"
+        },
         "images": [
             {
                 "image": "bbqporkbunyumcha",
@@ -105,35 +103,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "baked BBQ pork bun",
-                "Cantonese": {
-                    "text": "焗叉燒包",
-                    "wkty": [
-                        "焗",
-                        "叉燒包",
-                        "叉燒",
-                        "叉",
-                        "燒",
-                        "包"
-                    ]
-                },
-                "Yale": "guhk chā sīu bāau",
-                "Simplified": {
-                    "text": "焗叉烧包",
-                    "wkty": [
-                        "焗",
-                        "叉烧包",
-                        "叉烧",
-                        "叉",
-                        "烧",
-                        "包"
-                    ]
-                },
-                "Pinyin": "jú chā shāo bāo"
-            }
-        ],
+        "word": {
+            "English": "baked BBQ pork bun",
+            "Cantonese": {
+                "text": "焗叉燒包",
+                "wkty": [
+                    "焗",
+                    "叉燒包",
+                    "叉燒",
+                    "叉",
+                    "燒",
+                    "包"
+                ]
+            },
+            "Yale": "guhk chā sīu bāau",
+            "Simplified": {
+                "text": "焗叉烧包",
+                "wkty": [
+                    "焗",
+                    "叉烧包",
+                    "叉烧",
+                    "叉",
+                    "烧",
+                    "包"
+                ]
+            },
+            "Pinyin": "jú chā shāo bāo"
+        },
         "images": [
             {
                 "image": "bakedchasiubaohkgarden",
@@ -176,41 +172,39 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "crispy baked BBQ pork bun",
-                "Cantonese": {
-                    "text": "酥皮焗叉燒包",
-                    "wkty": [
-                        "酥皮",
-                        "酥",
-                        "皮",
-                        "焗",
-                        "叉燒包",
-                        "叉燒",
-                        "叉",
-                        "燒",
-                        "包"
-                    ]
-                },
-                "Yale": "sōu pèih guhk chā sīu bāau",
-                "Simplified": {
-                    "text": "酥皮焗叉烧包",
-                    "wkty": [
-                        "酥皮",
-                        "酥",
-                        "皮",
-                        "焗",
-                        "叉烧包",
-                        "叉烧",
-                        "叉",
-                        "烧",
-                        "包"
-                    ]
-                },
-                "Pinyin": "sū pí jú chā shāo bāo"
-            }
-        ],
+        "word": {
+            "English": "crispy baked BBQ pork bun",
+            "Cantonese": {
+                "text": "酥皮焗叉燒包",
+                "wkty": [
+                    "酥皮",
+                    "酥",
+                    "皮",
+                    "焗",
+                    "叉燒包",
+                    "叉燒",
+                    "叉",
+                    "燒",
+                    "包"
+                ]
+            },
+            "Yale": "sōu pèih guhk chā sīu bāau",
+            "Simplified": {
+                "text": "酥皮焗叉烧包",
+                "wkty": [
+                    "酥皮",
+                    "酥",
+                    "皮",
+                    "焗",
+                    "叉烧包",
+                    "叉烧",
+                    "叉",
+                    "烧",
+                    "包"
+                ]
+            },
+            "Pinyin": "sū pí jú chā shāo bāo"
+        },
         "images": [
             {
                 "image": "bakedchasiubaotimhowan",
@@ -243,35 +237,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "vegan BBQ pork bun",
-                "Cantonese": {
-                    "text": "仿肉叉燒包",
-                    "wkty": [
-                        "仿",
-                        "肉",
-                        "叉燒包",
-                        "叉燒",
-                        "叉",
-                        "包"
-                    ]
-                },
-                "Yale": "fóng yuhk chā sīu bāau",
-                "Simplified": {
-                    "text": "仿肉叉烧包",
-                    "wkty": [
-                        "仿",
-                        "肉",
-                        "叉烧包",
-                        "叉烧",
-                        "叉",
-                        "包"
-                    ]
-                },
-                "Pinyin": "ǎng ròu chā shāo bāo"
-            }
-        ],
+        "word": {
+            "English": "vegan BBQ pork bun",
+            "Cantonese": {
+                "text": "仿肉叉燒包",
+                "wkty": [
+                    "仿",
+                    "肉",
+                    "叉燒包",
+                    "叉燒",
+                    "叉",
+                    "包"
+                ]
+            },
+            "Yale": "fóng yuhk chā sīu bāau",
+            "Simplified": {
+                "text": "仿肉叉烧包",
+                "wkty": [
+                    "仿",
+                    "肉",
+                    "叉烧包",
+                    "叉烧",
+                    "叉",
+                    "包"
+                ]
+            },
+            "Pinyin": "ǎng ròu chā shāo bāo"
+        },
         "images": [
             {
                 "image": "imitationmeatbaoyumcha",

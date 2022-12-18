@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "osmanthus jelly",
-                "Cantonese": {
-                    "text": "桂花糕",
-                    "wkty": [
-                        "桂花",
-                        "桂",
-                        "花",
-                        "糕"
-                    ]
-                },
-                "Yale": "gwai fā gōu",
-                "Pinyin": "guì huā gāo"
-            }
-        ],
+        "word": {
+            "English": "osmanthus jelly",
+            "Cantonese": {
+                "text": "桂花糕",
+                "wkty": [
+                    "桂花",
+                    "桂",
+                    "花",
+                    "糕"
+                ]
+            },
+            "Yale": "gwai fā gōu",
+            "Pinyin": "guì huā gāo"
+        },
         "images": [
             {
                 "image": "osmanthusjellychinarepublic",
@@ -52,39 +50,37 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "osmanthus jelly with goji berries",
-                "Cantonese": {
-                    "text": "杞子桂花糕",
-                    "wkty": [
-                        "杞子",
-                        "杞",
-                        "子",
-                        "桂花",
-                        "桂",
-                        "花",
-                        "糕"
-                    ]
-                },
-                "Yale": "géi jí gwai fā gōu",
-                "Mandarin": {
-                    "text": "枸杞子桂花糕",
-                    "wkty": [
-                        "枸杞子",
-                        "枸杞",
-                        "枸",
-                        "杞",
-                        "子",
-                        "桂花",
-                        "桂",
-                        "花",
-                        "糕"
-                    ]
-                },
-                "Pinyin": "gǒu qǐ zi guì huā gāo"
-            }
-        ],
+        "word": {
+            "English": "osmanthus jelly with goji berries",
+            "Cantonese": {
+                "text": "杞子桂花糕",
+                "wkty": [
+                    "杞子",
+                    "杞",
+                    "子",
+                    "桂花",
+                    "桂",
+                    "花",
+                    "糕"
+                ]
+            },
+            "Yale": "géi jí gwai fā gōu",
+            "Mandarin": {
+                "text": "枸杞子桂花糕",
+                "wkty": [
+                    "枸杞子",
+                    "枸杞",
+                    "枸",
+                    "杞",
+                    "子",
+                    "桂花",
+                    "桂",
+                    "花",
+                    "糕"
+                ]
+            },
+            "Pinyin": "gǒu qǐ zi guì huā gāo"
+        },
         "images": [
             {
                 "image": "osmanthusjellygojiberrytimhowan",

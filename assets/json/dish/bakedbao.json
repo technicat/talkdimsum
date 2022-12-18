@@ -1,31 +1,29 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "雞尾包",
-                    "wkty": [
-                        "雞尾",
-                        "雞",
-                        "尾",
-                        "包"
-                    ]
-                },
-                "Simplified": {
-                    "text": "鸡尾包",
-                    "wkty": [
-                        "鸡尾",
-                        "鸡",
-                        "尾",
-                        "包"
-                    ]
-                },
-                "English": "cocktail bun",
-                "Yale": "gāi méih bāau",
-                "Jyutping": "gai1 méi5 bao1",
-                "Pinyin": "jī wěi bāo"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "雞尾包",
+                "wkty": [
+                    "雞尾",
+                    "雞",
+                    "尾",
+                    "包"
+                ]
+            },
+            "Simplified": {
+                "text": "鸡尾包",
+                "wkty": [
+                    "鸡尾",
+                    "鸡",
+                    "尾",
+                    "包"
+                ]
+            },
+            "English": "cocktail bun",
+            "Yale": "gāi méih bāau",
+            "Jyutping": "gai1 méi5 bao1",
+            "Pinyin": "jī wěi bāo"
+        },
         "images": [
             {
                 "image": "cocktailbun"
@@ -65,24 +63,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "腸仔包",
-                    "wkty": [
-                        "腸仔包",
-                        "腸仔",
-                        "腸",
-                        "仔",
-                        "包"
-                    ]
-                },
-                "Simplified": "肠仔包",
-                "English": "Chinese hot dog bun",
-                "Yale": "chéung jái bāau",
-                "Pinyin": "cháng zǐ bāo"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "腸仔包",
+                "wkty": [
+                    "腸仔包",
+                    "腸仔",
+                    "腸",
+                    "仔",
+                    "包"
+                ]
+            },
+            "Simplified": "肠仔包",
+            "English": "Chinese hot dog bun",
+            "Yale": "chéung jái bāau",
+            "Pinyin": "cháng zǐ bāo"
+        },
         "images": [
             {
                 "image": "hotdogbundiamondbakery",
@@ -123,22 +119,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "snow mountain bun",
-                "Cantonese": {
-                    "text": "雪山包",
-                    "wkty": [
-                        "雪山",
-                        "雪",
-                        "山",
-                        "包"
-                    ]
-                },
-                "Yale": "syut sāan bāau",
-                "Pinyin": "xuě shān bāo"
-            }
-        ],
+        "word": {
+            "English": "snow mountain bun",
+            "Cantonese": {
+                "text": "雪山包",
+                "wkty": [
+                    "雪山",
+                    "雪",
+                    "山",
+                    "包"
+                ]
+            },
+            "Yale": "syut sāan bāau",
+            "Pinyin": "xuě shān bāo"
+        },
         "images": [
             {
                 "image": "snowmountainbun",

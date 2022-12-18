@@ -1,29 +1,27 @@
 [
     {
-        "words": [
-            {
-                "English": "green tea",
-                "Cantonese": {
-                    "text": "綠茶",
-                    "wkty": [
-                        "綠茶",
-                        "綠",
-                        "茶"
-                    ]
-                },
-                "Yale": "luhk chàh",
-                "Jyutping": "luk6 caa4",
-                "Simplified": {
-                    "text": "绿茶",
-                    "wkty": [
-                        "绿茶",
-                        "绿",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "lǜ chá"
-            }
-        ],
+        "word": {
+            "English": "green tea",
+            "Cantonese": {
+                "text": "綠茶",
+                "wkty": [
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "luhk chàh",
+            "Jyutping": "luk6 caa4",
+            "Simplified": {
+                "text": "绿茶",
+                "wkty": [
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "lǜ chá"
+        },
         "images": [
             {
                 "image": "greenteaocha2",
@@ -60,31 +58,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "dragon well tea",
-                "Cantonese": {
-                    "text": "龍井茶",
-                    "wkty": [
-                        "龍井",
-                        "龍",
-                        "井",
-                        "茶"
-                    ]
-                },
-                "Yale": "lùhng jéng chàh",
-                "Simplified": {
-                    "text": "龙井茶",
-                    "wkty": [
-                        "龙井",
-                        "龙",
-                        "井",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "lóng jǐng chá"
-            }
-        ],
+        "word": {
+            "English": "dragon well tea",
+            "Cantonese": {
+                "text": "龍井茶",
+                "wkty": [
+                    "龍井",
+                    "龍",
+                    "井",
+                    "茶"
+                ]
+            },
+            "Yale": "lùhng jéng chàh",
+            "Simplified": {
+                "text": "龙井茶",
+                "wkty": [
+                    "龙井",
+                    "龙",
+                    "井",
+                    "茶"
+                ]
+            },
+            "Pinyin": "lóng jǐng chá"
+        },
         "images": [
             {
                 "image": "dragonwellteastation",
@@ -118,15 +114,13 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": "珠茶",
-                "English": "gunpowder tea",
-                "Yale": "jyū chàh",
-                "Jyutping": "zyu1 caa4",
-                "Pinyin": "zhū chá"
-            }
-        ],
+        "word": {
+            "Cantonese": "珠茶",
+            "English": "gunpowder tea",
+            "Yale": "jyū chàh",
+            "Jyutping": "zyu1 caa4",
+            "Pinyin": "zhū chá"
+        },
         "images": [
             {
                 "image": "gunpowderteafoojoy",

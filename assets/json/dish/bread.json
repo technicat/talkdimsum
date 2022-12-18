@@ -1,34 +1,32 @@
 [
     {
-        "words": [
-            {
-                "English": "pork sung bun",
-                "Cantonese": {
-                    "text": "肉鬆麵包",
-                    "wkty": [
-                        "肉鬆",
-                        "肉",
-                        "鬆",
-                        "麵包",
-                        "麵",
-                        "包"
-                    ]
-                },
-                "Yale": "yuhk sūng mihn bāau",
-                "Simplified": {
-                    "text": "肉松面包",
-                    "wkty": [
-                        "肉松",
-                        "肉",
-                        "松",
-                        "v包",
-                        "面",
-                        "包"
-                    ]
-                },
-                "Pinyin": "ròu sōng miàn bāo"
-            }
-        ],
+        "word": {
+            "English": "pork sung bun",
+            "Cantonese": {
+                "text": "肉鬆麵包",
+                "wkty": [
+                    "肉鬆",
+                    "肉",
+                    "鬆",
+                    "麵包",
+                    "麵",
+                    "包"
+                ]
+            },
+            "Yale": "yuhk sūng mihn bāau",
+            "Simplified": {
+                "text": "肉松面包",
+                "wkty": [
+                    "肉松",
+                    "肉",
+                    "松",
+                    "v包",
+                    "面",
+                    "包"
+                ]
+            },
+            "Pinyin": "ròu sōng miàn bāo"
+        },
         "images": [
             {
                 "image": "porksungbunranch99",
@@ -52,35 +50,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "green onion bun",
-                "Cantonese": {
-                    "text": "蔥花麵包",
-                    "wkty": [
-                        "蔥花",
-                        "蔥",
-                        "花",
-                        "麵包",
-                        "麵",
-                        "包"
-                    ]
-                },
-                "Yale": "chūng fā mihn bāau",
-                "Simplified": {
-                    "text": "葱花面包",
-                    "wkty": [
-                        "葱花",
-                        "葱",
-                        "花",
-                        "面包",
-                        "面",
-                        "包"
-                    ]
-                },
-                "Pinyin": "cōng huā miàn bāo"
-            }
-        ],
+        "word": {
+            "English": "green onion bun",
+            "Cantonese": {
+                "text": "蔥花麵包",
+                "wkty": [
+                    "蔥花",
+                    "蔥",
+                    "花",
+                    "麵包",
+                    "麵",
+                    "包"
+                ]
+            },
+            "Yale": "chūng fā mihn bāau",
+            "Simplified": {
+                "text": "葱花面包",
+                "wkty": [
+                    "葱花",
+                    "葱",
+                    "花",
+                    "面包",
+                    "面",
+                    "包"
+                ]
+            },
+            "Pinyin": "cōng huā miàn bāo"
+        },
         "images": [
             {
                 "image": "greenonionbundiamondbakery",
@@ -117,35 +113,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "raisin bread",
-                "Cantonese": {
-                    "text": "提子麵包",
-                    "wkty": [
-                        "提子",
-                        "提",
-                        "子",
-                        "麵包",
-                        "麵",
-                        "包"
-                    ]
-                },
-                "Yale": "tàih jí mihn bāau",
-                "Simplified": {
-                    "text": "提子面包",
-                    "wkty": [
-                        "提子",
-                        "提",
-                        "子",
-                        "面包",
-                        "面",
-                        "包"
-                    ]
-                },
-                "Pinyin": "tí zi miàn bāo"
-            }
-        ],
+        "word": {
+            "English": "raisin bread",
+            "Cantonese": {
+                "text": "提子麵包",
+                "wkty": [
+                    "提子",
+                    "提",
+                    "子",
+                    "麵包",
+                    "麵",
+                    "包"
+                ]
+            },
+            "Yale": "tàih jí mihn bāau",
+            "Simplified": {
+                "text": "提子面包",
+                "wkty": [
+                    "提子",
+                    "提",
+                    "子",
+                    "面包",
+                    "面",
+                    "包"
+                ]
+            },
+            "Pinyin": "tí zi miàn bāo"
+        },
         "images": [
             {
                 "image": "raisinbreaddiamondbakery",
@@ -171,33 +165,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "taro bread",
-                "Cantonese": {
-                    "text": "芋頭麵包",
-                    "wkty": [
-                        "芋頭",
-                        "芋",
-                        "麵包",
-                        "麵",
-                        "包"
-                    ]
-                },
-                "Yale": "wuh táu mihn bāau",
-                "Simplified": {
-                    "text": "芋头面包",
-                    "wkty": [
-                        "芋头",
-                        "头",
-                        "面包",
-                        "面",
-                        "包"
-                    ]
-                },
-                "Pinyin": "yù tou miàn bāo"
-            }
-        ],
+        "word": {
+            "English": "taro bread",
+            "Cantonese": {
+                "text": "芋頭麵包",
+                "wkty": [
+                    "芋頭",
+                    "芋",
+                    "麵包",
+                    "麵",
+                    "包"
+                ]
+            },
+            "Yale": "wuh táu mihn bāau",
+            "Simplified": {
+                "text": "芋头面包",
+                "wkty": [
+                    "芋头",
+                    "头",
+                    "面包",
+                    "面",
+                    "包"
+                ]
+            },
+            "Pinyin": "yù tou miàn bāo"
+        },
         "images": [
             {
                 "image": "tarobreadslicediamondbakery",

@@ -1,37 +1,35 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "炸雲吞",
-                    "wkty": [
-                        "炸",
-                        "雲吞",
-                        "雲",
-                        "吞"
-                    ]
-                },
-                "Mandarin": {
-                    "text": "炸餛飩",
-                    "wkty": [
-                        "餛飩",
-                        "餛",
-                        "飩"
-                    ]
-                },
-                "Simplified": {
-                    "text": "炸馄饨",
-                    "wkty": [
-                        "馄饨",
-                        "馄",
-                        "饨"
-                    ]
-                },
-                "English": "fried wonton",
-                "Yale": "ja wàhn tān",
-                "Pinyin": "zhà yún tūn"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "炸雲吞",
+                "wkty": [
+                    "炸",
+                    "雲吞",
+                    "雲",
+                    "吞"
+                ]
+            },
+            "Mandarin": {
+                "text": "炸餛飩",
+                "wkty": [
+                    "餛飩",
+                    "餛",
+                    "飩"
+                ]
+            },
+            "Simplified": {
+                "text": "炸馄饨",
+                "wkty": [
+                    "馄饨",
+                    "馄",
+                    "饨"
+                ]
+            },
+            "English": "fried wonton",
+            "Yale": "ja wàhn tān",
+            "Pinyin": "zhà yún tūn"
+        },
         "images": [
             {
                 "image": "friedwontonnorthsidecafe",
@@ -58,33 +56,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fried shrimp wonton",
-                "Cantonese": {
-                    "text": "炸蝦雲吞",
-                    "wkty": [
-                        "炸",
-                        "蝦",
-                        "雲吞",
-                        "雲",
-                        "吞"
-                    ]
-                },
-                "Yale": "ja hā wàhn tān",
-                "Simplified": {
-                    "text": "炸虾云吞",
-                    "wkty": [
-                        "炸",
-                        "虾",
-                        "云吞",
-                        "云",
-                        "吞"
-                    ]
-                },
-                "Pinyin": "zhà xiā yún tūn"
-            }
-        ],
+        "word": {
+            "English": "fried shrimp wonton",
+            "Cantonese": {
+                "text": "炸蝦雲吞",
+                "wkty": [
+                    "炸",
+                    "蝦",
+                    "雲吞",
+                    "雲",
+                    "吞"
+                ]
+            },
+            "Yale": "ja hā wàhn tān",
+            "Simplified": {
+                "text": "炸虾云吞",
+                "wkty": [
+                    "炸",
+                    "虾",
+                    "云吞",
+                    "云",
+                    "吞"
+                ]
+            },
+            "Pinyin": "zhà xiā yún tūn"
+        },
         "images": [
             {
                 "image": "friedshrimpwontonkj",

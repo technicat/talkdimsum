@@ -1,20 +1,18 @@
 [
   {
-    "words": [
-      {
-        "English": "rice wine",
-        "Cantonese": {
-          "text": "米酒",
-          "wkty": [
-            "米酒",
-            "米",
-            "酒"
-          ]
-        },
-        "Yale": "máih jáu",
-        "Pinyin": "mǐ jiǔ"
-      }
-    ],
+    "word": {
+      "English": "rice wine",
+      "Cantonese": {
+        "text": "米酒",
+        "wkty": [
+          "米酒",
+          "米",
+          "酒"
+        ]
+      },
+      "Yale": "máih jáu",
+      "Pinyin": "mǐ jiǔ"
+    },
     "images": [
       {
         "image": "mijiu",
@@ -39,41 +37,39 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Shiaoxing wine",
-        "Cantonese": {
-          "text": "紹酒",
-          "wkty": [
-            "紹酒",
-            "紹",
-            "酒"
-          ]
-        },
-        "Yale": "siuh jáu",
-        "Mandarin": {
-          "text": "紹興酒",
-          "wkty": [
-            "紹興酒",
-            "紹興",
-            "紹",
-            "興",
-            "酒"
-          ]
-        },
-        "Simplified":  {
-          "text": "绍兴酒",
-          "wkty": [
-            "绍兴酒",
-            "绍兴",
-            "绍",
-            "兴",
-            "酒"
-          ]
-        },
-        "Pinyin": "shào xīng jiǔ"
-      }
-    ],
+    "word": {
+      "English": "Shiaoxing wine",
+      "Cantonese": {
+        "text": "紹酒",
+        "wkty": [
+          "紹酒",
+          "紹",
+          "酒"
+        ]
+      },
+      "Yale": "siuh jáu",
+      "Mandarin": {
+        "text": "紹興酒",
+        "wkty": [
+          "紹興酒",
+          "紹興",
+          "紹",
+          "興",
+          "酒"
+        ]
+      },
+      "Simplified": {
+        "text": "绍兴酒",
+        "wkty": [
+          "绍兴酒",
+          "绍兴",
+          "绍",
+          "兴",
+          "酒"
+        ]
+      },
+      "Pinyin": "shào xīng jiǔ"
+    },
     "images": [
       {
         "image": "shaoxingwine",

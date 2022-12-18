@@ -1,40 +1,38 @@
 [
   {
-    "words": [
-      {
-        "English": "cider",
-        "Cantonese": {
-          "text": "西打",
-          "wkty": [
-            "西打",
-            "西",
-            "打"
-          ]
-        },
-        "Yale": "sāi dá",
-        "Mandarin": {
-          "text": "蘋果酒",
-          "wkty": [
-            "蘋果酒",
-            "蘋果",
-            "蘋",
-            "果",
-            "酒"
-          ]
-        },
-        "Simplified": {
-          "text": "苹果酒",
-          "wkty": [
-            "苹果酒",
-            "苹果",
-            "苹",
-            "果",
-            "酒"
-          ]
-        },
-        "Pinyin": "píng guǒ jiǔ"
-      }
-    ],
+    "word": {
+      "English": "cider",
+      "Cantonese": {
+        "text": "西打",
+        "wkty": [
+          "西打",
+          "西",
+          "打"
+        ]
+      },
+      "Yale": "sāi dá",
+      "Mandarin": {
+        "text": "蘋果酒",
+        "wkty": [
+          "蘋果酒",
+          "蘋果",
+          "蘋",
+          "果",
+          "酒"
+        ]
+      },
+      "Simplified": {
+        "text": "苹果酒",
+        "wkty": [
+          "苹果酒",
+          "苹果",
+          "苹",
+          "果",
+          "酒"
+        ]
+      },
+      "Pinyin": "píng guǒ jiǔ"
+    },
     "images": [
       {
         "image": "cider",
@@ -54,14 +52,12 @@
     ]
   },
   {
-    "words": [
-      {
-        "Cantonese": "水",
-        "English": "water",
-        "Yale": "séui",
-        "Pinyin": "shuǐ"
-      }
-    ],
+    "word": {
+      "Cantonese": "水",
+      "English": "water",
+      "Yale": "séui",
+      "Pinyin": "shuǐ"
+    },
     "images": [
       {
         "image": "watersweethoneydessert",
@@ -81,21 +77,19 @@
     ]
   },
   {
-    "words": [
-      {
-        "Cantonese": {
-          "text": "冰水",
-          "wkty": [
-            "冰水",
-            "冰",
-            "水"
-          ]
-        },
-        "English": "ice water",
-        "Yale": "bīng séui",
-        "Pinyin": "bīng shuǐ"
-      }
-    ],
+    "word": {
+      "Cantonese": {
+        "text": "冰水",
+        "wkty": [
+          "冰水",
+          "冰",
+          "水"
+        ]
+      },
+      "English": "ice water",
+      "Yale": "bīng séui",
+      "Pinyin": "bīng shuǐ"
+    },
     "images": [
       {
         "image": "waterislandmalaysian",

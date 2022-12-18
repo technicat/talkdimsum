@@ -1,23 +1,21 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "白糖沙翁",
-                    "wkty": [
-                        "白糖",
-                        "白",
-                        "糖",
-                        "沙翁",
-                        "沙",
-                        "翁"
-                    ]
-                },
-                "English": "Chinese sugar doughnut",
-                "Yale": "baahk tòhng sā yūng",
-                "Pinyin": "bái táng shā wēng"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "白糖沙翁",
+                "wkty": [
+                    "白糖",
+                    "白",
+                    "糖",
+                    "沙翁",
+                    "沙",
+                    "翁"
+                ]
+            },
+            "English": "Chinese sugar doughnut",
+            "Yale": "baahk tòhng sā yūng",
+            "Pinyin": "bái táng shā wēng"
+        },
         "images": [
             {
                 "image": "chinesedoughnutpingpangpong",
@@ -41,41 +39,39 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pumpkin custard ball",
-                "Cantonese": {
-                    "text": "奶黃南瓜沙翁",
-                    "wkty": [
-                        "奶黃",
-                        "奶",
-                        "黃",
-                        "南瓜",
-                        "南",
-                        "瓜",
-                        "沙翁",
-                        "沙",
-                        "翁"
-                    ]
-                },
-                "Yale": "náaih wòhng nàahm gwā sā yūng",
-                "Simplified": {
-                    "text": "奶黄南瓜沙翁",
-                    "wkty": [
-                        "奶黃",
-                        "奶",
-                        "黃",
-                        "南瓜",
-                        "南",
-                        "瓜",
-                        "沙翁",
-                        "沙",
-                        "翁"
-                    ]
-                },
-                "Pinyin": "nǎi huáng nán guā shā wēng"
-            }
-        ],
+        "word": {
+            "English": "pumpkin custard ball",
+            "Cantonese": {
+                "text": "奶黃南瓜沙翁",
+                "wkty": [
+                    "奶黃",
+                    "奶",
+                    "黃",
+                    "南瓜",
+                    "南",
+                    "瓜",
+                    "沙翁",
+                    "沙",
+                    "翁"
+                ]
+            },
+            "Yale": "náaih wòhng nàahm gwā sā yūng",
+            "Simplified": {
+                "text": "奶黄南瓜沙翁",
+                "wkty": [
+                    "奶黃",
+                    "奶",
+                    "黃",
+                    "南瓜",
+                    "南",
+                    "瓜",
+                    "沙翁",
+                    "沙",
+                    "翁"
+                ]
+            },
+            "Pinyin": "nǎi huáng nán guā shā wēng"
+        },
         "images": [
             {
                 "image": "pumpkincustardballtimhowan",

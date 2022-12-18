@@ -1,25 +1,23 @@
 [
   {
-    "words": [
-      {
-        "English": "beef meatballs",
-        "Cantonese": {
-          "text": "牛肉丸",
-          "wkty": [
-            "山竹",
-            "山",
-            "竹",
-            "牛肉球",
-            "牛肉",
-            "牛",
-            "肉",
-            "丸"
-          ]
-        },
-        "Yale": "ngàuh yuhk yún",
-        "Pinyin": "niú ròu wán"
-      }
-    ],
+    "word": {
+      "English": "beef meatballs",
+      "Cantonese": {
+        "text": "牛肉丸",
+        "wkty": [
+          "山竹",
+          "山",
+          "竹",
+          "牛肉球",
+          "牛肉",
+          "牛",
+          "肉",
+          "丸"
+        ]
+      },
+      "Yale": "ngàuh yuhk yún",
+      "Pinyin": "niú ròu wán"
+    },
     "images": [
       {
         "image": "meatballpearl",

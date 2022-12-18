@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "pancake",
-                "Cantonese": {
-                    "text": "薄餅",
-                    "wkty": [
-                        "薄餅",
-                        "薄",
-                        "餅"
-                    ]
-                },
-                "Yale": "bohk béng",
-                "Simplified": {
-                    "text": "薄饼",
-                    "wkty": [
-                        "薄饼",
-                        "饼",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "bǐng bǐng"
-            }
-        ],
+        "word": {
+            "English": "pancake",
+            "Cantonese": {
+                "text": "薄餅",
+                "wkty": [
+                    "薄餅",
+                    "薄",
+                    "餅"
+                ]
+            },
+            "Yale": "bohk béng",
+            "Simplified": {
+                "text": "薄饼",
+                "wkty": [
+                    "薄饼",
+                    "饼",
+                    "饼"
+                ]
+            },
+            "Pinyin": "bǐng bǐng"
+        },
         "images": [
             {
                 "image": "pancakebigwong",
@@ -43,31 +41,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "scallion pancake",
-                "Cantonese": {
-                    "text": "蔥油餅",
-                    "wkty": [
-                        "蔥油餅",
-                        "蔥",
-                        "油",
-                        "餅"
-                    ]
-                },
-                "Yale": "chūng yòuh béng",
-                "Simplified": {
-                    "text": "葱油饼",
-                    "wkty": [
-                        "葱油餅",
-                        "葱",
-                        "油",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "cōng yóu bǐng"
-            }
-        ],
+        "word": {
+            "English": "scallion pancake",
+            "Cantonese": {
+                "text": "蔥油餅",
+                "wkty": [
+                    "蔥油餅",
+                    "蔥",
+                    "油",
+                    "餅"
+                ]
+            },
+            "Yale": "chūng yòuh béng",
+            "Simplified": {
+                "text": "葱油饼",
+                "wkty": [
+                    "葱油餅",
+                    "葱",
+                    "油",
+                    "饼"
+                ]
+            },
+            "Pinyin": "cōng yóu bǐng"
+        },
         "images": [
             {
                 "image": "scallionpancakeeverygrain",
@@ -140,35 +136,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "beef roll",
-                "Cantonese": {
-                    "text": "牛肉卷餅",
-                    "wkty": [
-                        "牛肉",
-                        "牛",
-                        "肉",
-                        "卷餅",
-                        "卷",
-                        "餅"
-                    ]
-                },
-                "Yale": "ngàuh yuhk gyún béng",
-                "Simplified": {
-                    "text": "牛肉卷餅",
-                    "wkty": [
-                        "牛肉",
-                        "牛",
-                        "肉",
-                        "卷饼",
-                        "卷",
-                        "餅"
-                    ]
-                },
-                "Pinyin": "niú ròu juǎn bǐng"
-            }
-        ],
+        "word": {
+            "English": "beef roll",
+            "Cantonese": {
+                "text": "牛肉卷餅",
+                "wkty": [
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "卷餅",
+                    "卷",
+                    "餅"
+                ]
+            },
+            "Yale": "ngàuh yuhk gyún béng",
+            "Simplified": {
+                "text": "牛肉卷餅",
+                "wkty": [
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "卷饼",
+                    "卷",
+                    "餅"
+                ]
+            },
+            "Pinyin": "niú ròu juǎn bǐng"
+        },
         "images": [
             {
                 "image": "beefrollsnoodkeking",
@@ -200,31 +194,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "chives pancake",
-                "Cantonese": {
-                    "text": "韭菜餅",
-                    "wkty": [
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "餅"
-                    ]
-                },
-                "Yale": "gáu choi béng",
-                "Simplified": {
-                    "text": "韭菜饼",
-                    "wkty": [
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "jiǔ cài bǐng"
-            }
-        ],
+        "word": {
+            "English": "chives pancake",
+            "Cantonese": {
+                "text": "韭菜餅",
+                "wkty": [
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "餅"
+                ]
+            },
+            "Yale": "gáu choi béng",
+            "Simplified": {
+                "text": "韭菜饼",
+                "wkty": [
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "饼"
+                ]
+            },
+            "Pinyin": "jiǔ cài bǐng"
+        },
         "images": [
             {
                 "image": "chivespancake99ranch",

@@ -1,29 +1,27 @@
 [
     {
-        "words": [
-            {
-                "English": "black tea",
-                "Cantonese": {
-                    "text": "紅茶",
-                    "wkty": [
-                        "紅茶",
-                        "紅",
-                        "茶"
-                    ]
-                },
-                "Yale": "hùhng chàh",
-                "Jyutping": "hung4 caa4",
-                "Simplified":  {
-                    "text": "红茶",
-                    "wkty": [
-                        "红茶",
-                        "红",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "hóng chá"
-            }
-        ],
+        "word": {
+            "English": "black tea",
+            "Cantonese": {
+                "text": "紅茶",
+                "wkty": [
+                    "紅茶",
+                    "紅",
+                    "茶"
+                ]
+            },
+            "Yale": "hùhng chàh",
+            "Jyutping": "hung4 caa4",
+            "Simplified": {
+                "text": "红茶",
+                "wkty": [
+                    "红茶",
+                    "红",
+                    "茶"
+                ]
+            },
+            "Pinyin": "hóng chá"
+        },
         "images": [
             {
                 "image": "lapsangsouchongcupeverygrain",
@@ -60,22 +58,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "golden monkey tea",
-                "Cantonese": {
-                    "text": "金猴茶",
-                    "wkty": [
-                        "金",
-                        "猴",
-                        "茶"
-                    ]
-                },
-                "Yale": "gām hàuh chàh",
-                "Jyutping": "gam1 hau4 caa4",
-                "Pinyin": "jīn hóuchá"
-            }
-        ],
+        "word": {
+            "English": "golden monkey tea",
+            "Cantonese": {
+                "text": "金猴茶",
+                "wkty": [
+                    "金",
+                    "猴",
+                    "茶"
+                ]
+            },
+            "Yale": "gām hàuh chàh",
+            "Jyutping": "gam1 hau4 caa4",
+            "Pinyin": "jīn hóuchá"
+        },
         "images": [
             {
                 "image": "monkeypawteagrotto",
@@ -104,36 +100,34 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "keemun black tea",
-                "Cantonese": {
-                    "text": "祁門紅茶",
-                    "wkty": [
-                        "祁門",
-                        "祁",
-                        "門",
-                        "紅茶",
-                        "紅",
-                        "茶"
-                    ]
-                },
-                "Yale": "kèih mùhn hùhng chàh",
-                "Jyutping": "kei4 mun4 hung4 caa4",
-                "Simplified":  {
-                    "text": "祁门红茶",
-                    "wkty": [
-                        "祁門",
-                        "祁",
-                        "門",
-                        "红茶",
-                        "红",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "qí mén hóng chá"
-            }
-        ],
+        "word": {
+            "English": "keemun black tea",
+            "Cantonese": {
+                "text": "祁門紅茶",
+                "wkty": [
+                    "祁門",
+                    "祁",
+                    "門",
+                    "紅茶",
+                    "紅",
+                    "茶"
+                ]
+            },
+            "Yale": "kèih mùhn hùhng chàh",
+            "Jyutping": "kei4 mun4 hung4 caa4",
+            "Simplified": {
+                "text": "祁门红茶",
+                "wkty": [
+                    "祁門",
+                    "祁",
+                    "門",
+                    "红茶",
+                    "红",
+                    "茶"
+                ]
+            },
+            "Pinyin": "qí mén hóng chá"
+        },
         "images": [
             {
                 "image": "keemunteagrotto",
@@ -163,38 +157,36 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lapsang souchang",
-                "Cantonese": {
-                    "text": "立山小種",
-                    "wkty": [
-                        "立山小種",
-                        "立山",
-                        "立",
-                        "山",
-                        "小種",
-                        "小",
-                        "種"
-                    ]
-                },
-                "Yale": "laahp sāan síu júng",
-                "Jyutping": "laap6 saan1 siu2 zung2",
-                "Simplified":  {
-                    "text": "立山小种",
-                    "wkty": [
-                        "立山小種",
-                        "立山",
-                        "立",
-                        "山",
-                        "小種",
-                        "小",
-                        "种"
-                    ]
-                },
-                "Pinyin": "lì shān xiǎo zhǒng"
-            }
-        ],
+        "word": {
+            "English": "lapsang souchang",
+            "Cantonese": {
+                "text": "立山小種",
+                "wkty": [
+                    "立山小種",
+                    "立山",
+                    "立",
+                    "山",
+                    "小種",
+                    "小",
+                    "種"
+                ]
+            },
+            "Yale": "laahp sāan síu júng",
+            "Jyutping": "laap6 saan1 siu2 zung2",
+            "Simplified": {
+                "text": "立山小种",
+                "wkty": [
+                    "立山小種",
+                    "立山",
+                    "立",
+                    "山",
+                    "小種",
+                    "小",
+                    "种"
+                ]
+            },
+            "Pinyin": "lì shān xiǎo zhǒng"
+        },
         "images": [
             {
                 "image": "lapchangsoochongeverygrain",

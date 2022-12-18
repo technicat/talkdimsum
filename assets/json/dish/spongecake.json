@@ -1,33 +1,31 @@
 [
     {
-        "words": [
-            {
-                "English": "Malaysian steamed cake",
-                "Cantonese": {
-                    "text": "馬拉糕",
-                    "wkty": [
-                        "馬拉糕",
-                        "馬拉",
-                        "馬",
-                        "拉",
-                        "糕"
-                    ]
-                },
-                "Yale": "máh lāai gōu",
-                "Simplified": {
-                    "text": "马拉糕",
-                    "wkty": [
-                        "马拉糕",
-                        "马拉",
-                        "马",
-                        "拉",
-                        "糕"
-                    ]
-                },
-                "Pinyin": "mǎ lā gāo",
-                "Other": "馬來糕"
-            }
-        ],
+        "word": {
+            "English": "Malaysian steamed cake",
+            "Cantonese": {
+                "text": "馬拉糕",
+                "wkty": [
+                    "馬拉糕",
+                    "馬拉",
+                    "馬",
+                    "拉",
+                    "糕"
+                ]
+            },
+            "Yale": "máh lāai gōu",
+            "Simplified": {
+                "text": "马拉糕",
+                "wkty": [
+                    "马拉糕",
+                    "马拉",
+                    "马",
+                    "拉",
+                    "糕"
+                ]
+            },
+            "Pinyin": "mǎ lā gāo",
+            "Other": "馬來糕"
+        },
         "images": [
             {
                 "image": "malaycakeyumcha",
@@ -88,33 +86,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "paper-wrapped cake",
-                "Cantonese": {
-                    "text": "紙包蛋糕",
-                    "wkty": [
-                        "紙",
-                        "包",
-                        "蛋糕",
-                        "蛋",
-                        "糕"
-                    ]
-                },
-                "Yale": "jí bāau daahn gōu",
-                "Simplified": {
-                    "text": "纸包蛋糕",
-                    "wkty": [
-                        "纸",
-                        "包",
-                        "蛋糕",
-                        "蛋",
-                        "糕"
-                    ]
-                },
-                "Pinyin": "zhǐ bāo dàn gāo"
-            }
-        ],
+        "word": {
+            "English": "paper-wrapped cake",
+            "Cantonese": {
+                "text": "紙包蛋糕",
+                "wkty": [
+                    "紙",
+                    "包",
+                    "蛋糕",
+                    "蛋",
+                    "糕"
+                ]
+            },
+            "Yale": "jí bāau daahn gōu",
+            "Simplified": {
+                "text": "纸包蛋糕",
+                "wkty": [
+                    "纸",
+                    "包",
+                    "蛋糕",
+                    "蛋",
+                    "糕"
+                ]
+            },
+            "Pinyin": "zhǐ bāo dàn gāo"
+        },
         "images": [
             {
                 "image": "paperwrappedcakebfbakery",

@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "siu mei",
-                "Cantonese": {
-                    "text": "燒味",
-                    "wkty": [
-                        "燒味",
-                        "燒",
-                        "味"
-                    ]
-                },
-                "Yale": "sīu meih",
-                "Simplified": {
-                    "text": "烧味",
-                    "wkty": [
-                        "烧味",
-                        "烧",
-                        "味"
-                    ]
-                },
-                "Pinyin": "shāowèi"
-            }
-        ],
+        "word": {
+            "English": "siu mei",
+            "Cantonese": {
+                "text": "燒味",
+                "wkty": [
+                    "燒味",
+                    "燒",
+                    "味"
+                ]
+            },
+            "Yale": "sīu meih",
+            "Simplified": {
+                "text": "烧味",
+                "wkty": [
+                    "烧味",
+                    "烧",
+                    "味"
+                ]
+            },
+            "Pinyin": "shāowèi"
+        },
         "images": [
             {
                 "image": "bbqnewasianbbq",
@@ -48,29 +46,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "roast duck",
-                "Cantonese": {
-                    "text": "燒鴨",
-                    "wkty": [
-                        "燒鴨",
-                        "燒",
-                        "鴨"
-                    ]
-                },
-                "Yale": "sīu aap",
-                "Simplified": {
-                    "text": "烧鸭",
-                    "wkty": [
-                        "烧鸭",
-                        "烧",
-                        "鸭"
-                    ]
-                },
-                "Pinyin": "shāo yā"
-            }
-        ],
+        "word": {
+            "English": "roast duck",
+            "Cantonese": {
+                "text": "燒鴨",
+                "wkty": [
+                    "燒鴨",
+                    "燒",
+                    "鴨"
+                ]
+            },
+            "Yale": "sīu aap",
+            "Simplified": {
+                "text": "烧鸭",
+                "wkty": [
+                    "烧鸭",
+                    "烧",
+                    "鸭"
+                ]
+            },
+            "Pinyin": "shāo yā"
+        },
         "images": [
             {
                 "image": "roastduckhkgarden",
@@ -118,30 +114,28 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "BBQ pork",
-                "Cantonese": {
-                    "text": "叉燒",
-                    "wkty": [
-                        "叉燒",
-                        "叉",
-                        "燒"
-                    ]
-                },
-                "Yale": "chā sīu",
-                "Jyutping": "caa1 siu1",
-                "Simplified": {
-                    "text": "叉烧",
-                    "wkty": [
-                        "叉烧",
-                        "叉",
-                        "烧"
-                    ]
-                },
-                "Pinyin": "chā shāo"
-            }
-        ],
+        "word": {
+            "English": "BBQ pork",
+            "Cantonese": {
+                "text": "叉燒",
+                "wkty": [
+                    "叉燒",
+                    "叉",
+                    "燒"
+                ]
+            },
+            "Yale": "chā sīu",
+            "Jyutping": "caa1 siu1",
+            "Simplified": {
+                "text": "叉烧",
+                "wkty": [
+                    "叉烧",
+                    "叉",
+                    "烧"
+                ]
+            },
+            "Pinyin": "chā shāo"
+        },
         "images": [
             {
                 "image": "chasiukitchen",
@@ -194,29 +188,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pork belly",
-                "Cantonese": {
-                    "text": "燒肉",
-                    "wkty": [
-                        "燒肉",
-                        "燒",
-                        "肉"
-                    ]
-                },
-                "Yale": "sīu yuhk",
-                "Simplified": {
-                    "text": "烧肉",
-                    "wkty": [
-                        "烧肉",
-                        "烧",
-                        "肉"
-                    ]
-                },
-                "Pinyin": "shāo ròu"
-            }
-        ],
+        "word": {
+            "English": "pork belly",
+            "Cantonese": {
+                "text": "燒肉",
+                "wkty": [
+                    "燒肉",
+                    "燒",
+                    "肉"
+                ]
+            },
+            "Yale": "sīu yuhk",
+            "Simplified": {
+                "text": "烧肉",
+                "wkty": [
+                    "烧肉",
+                    "烧",
+                    "肉"
+                ]
+            },
+            "Pinyin": "shāo ròu"
+        },
         "images": [
             {
                 "image": "porkbellyzenpeninsula",

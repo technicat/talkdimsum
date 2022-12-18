@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "tripe",
-                "Cantonese": {
-                    "text": "牛肚",
-                    "wkty": [
-                        "牛肚",
-                        "牛",
-                        "肚"
-                    ]
-                },
-                "Yale": "ngàuh tóuh",
-                "Pinyin": "niú dǔ"
-            }
-        ],
+        "word": {
+            "English": "tripe",
+            "Cantonese": {
+                "text": "牛肚",
+                "wkty": [
+                    "牛肚",
+                    "牛",
+                    "肚"
+                ]
+            },
+            "Yale": "ngàuh tóuh",
+            "Pinyin": "niú dǔ"
+        },
         "images": [
             {
                 "image": "tripe"
@@ -41,29 +39,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "tripe stew",
-                "Cantonese": {
-                    "text": "牛雜",
-                    "wkty": [
-                        "牛雜",
-                        "牛",
-                        "雜"
-                    ]
-                },
-                "Yale": "ngàuh jaahp",
-                "Simplified": {
-                    "text": "牛杂",
-                    "wkty": [
-                        "牛杂",
-                        "牛",
-                        "杂"
-                    ]
-                },
-                "Pinyin": "niú zá"
-            }
-        ],
+        "word": {
+            "English": "tripe stew",
+            "Cantonese": {
+                "text": "牛雜",
+                "wkty": [
+                    "牛雜",
+                    "牛",
+                    "雜"
+                ]
+            },
+            "Yale": "ngàuh jaahp",
+            "Simplified": {
+                "text": "牛杂",
+                "wkty": [
+                    "牛杂",
+                    "牛",
+                    "杂"
+                ]
+            },
+            "Pinyin": "niú zá"
+        },
         "images": [
             {
                 "image": "tripehkgarden",

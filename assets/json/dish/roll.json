@@ -1,13 +1,11 @@
 [
     {
-        "words": [
-            {
-                "English": "fried shrimp roll",
-                "Cantonese": "炸蝦卷",
-                "Yale": "ja hā gyún",
-                "Pinyin": "zhà xiā juǎn"
-            }
-        ],
+        "word": {
+            "English": "fried shrimp roll",
+            "Cantonese": "炸蝦卷",
+            "Yale": "ja hā gyún",
+            "Pinyin": "zhà xiā juǎn"
+        },
         "images": [
             {
                 "image": "shrimprollsyumcha",
@@ -31,23 +29,21 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "deep-fried seaweed roll",
-                "Cantonese": {
-                    "text": "炸海菜卷",
-                    "wkty": [
-                        "炸",
-                        "海菜",
-                        "海",
-                        "菜",
-                        "卷"
-                    ]
-                },
-                "Yale": "ja hói choi gyún",
-                "Pinyin": "zhà hǎi cài juǎn"
-            }
-        ],
+        "word": {
+            "English": "deep-fried seaweed roll",
+            "Cantonese": {
+                "text": "炸海菜卷",
+                "wkty": [
+                    "炸",
+                    "海菜",
+                    "海",
+                    "菜",
+                    "卷"
+                ]
+            },
+            "Yale": "ja hói choi gyún",
+            "Pinyin": "zhà hǎi cài juǎn"
+        },
         "images": [
             {
                 "image": "seaweedrollchinarepublic",

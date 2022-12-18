@@ -1,30 +1,28 @@
 [
   {
-    "words": [
-      {
-        "English": "scallion oil noodles",
-        "Cantonese": {
-          "text": "蔥油拌麵",
-          "wkty": [
-            "蔥",
-            "油",
-            "拌麵",
-            "麵"
-          ]
-        },
-        "Yale": "daam daam mihn",
-        "Simplified": {
-          "text": "葱油拌面",
-          "wkty": [
-            "葱",
-            "油",
-            "拌面",
-            "面"
-          ]
-        },
-        "Pinyin": "dàn dàn miàn"
-      }
-    ],
+    "word": {
+      "English": "scallion oil noodles",
+      "Cantonese": {
+        "text": "蔥油拌麵",
+        "wkty": [
+          "蔥",
+          "油",
+          "拌麵",
+          "麵"
+        ]
+      },
+      "Yale": "daam daam mihn",
+      "Simplified": {
+        "text": "葱油拌面",
+        "wkty": [
+          "葱",
+          "油",
+          "拌面",
+          "面"
+        ]
+      },
+      "Pinyin": "dàn dàn miàn"
+    },
     "images": [
       {
         "image": "scallionoilnoodles168market",
@@ -58,29 +56,27 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "dandan noodles",
-        "Cantonese": {
-          "text": "擔擔麵",
-          "wkty": [
-            "擔擔麵",
-            "擔",
-            "麵"
-          ]
-        },
-        "Yale": "daam daam mihn",
-        "Simplified": {
-          "text": "担担面",
-          "wkty": [
-            "担担面",
-            "担",
-            "面"
-          ]
-        },
-        "Pinyin": "dàn dàn miàn"
-      }
-    ],
+    "word": {
+      "English": "dandan noodles",
+      "Cantonese": {
+        "text": "擔擔麵",
+        "wkty": [
+          "擔擔麵",
+          "擔",
+          "麵"
+        ]
+      },
+      "Yale": "daam daam mihn",
+      "Simplified": {
+        "text": "担担面",
+        "wkty": [
+          "担担面",
+          "担",
+          "面"
+        ]
+      },
+      "Pinyin": "dàn dàn miàn"
+    },
     "images": [
       {
         "image": "dandannoodleseverygrain",
@@ -122,31 +118,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "sesame noodles",
-        "Cantonese": {
-          "text": "麻醬麵",
-          "wkty": [
-            "麻醬",
-            "麻",
-            "醬",
-            "麵"
-          ]
-        },
-        "Yale": "màh jeung mihn",
-        "Simplified": {
-          "text": "麻酱面",
-          "wkty": [
-            "麻酱",
-            "麻",
-            "酱",
-            "面"
-          ]
-        },
-        "Pinyin": "má jiàng miàn"
-      }
-    ],
+    "word": {
+      "English": "sesame noodles",
+      "Cantonese": {
+        "text": "麻醬麵",
+        "wkty": [
+          "麻醬",
+          "麻",
+          "醬",
+          "麵"
+        ]
+      },
+      "Yale": "màh jeung mihn",
+      "Simplified": {
+        "text": "麻酱面",
+        "wkty": [
+          "麻酱",
+          "麻",
+          "酱",
+          "面"
+        ]
+      },
+      "Pinyin": "má jiàng miàn"
+    },
     "images": [
       {
         "image": "sesamenoodleseverygrain",
@@ -173,29 +167,27 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "yi mein",
-        "Cantonese": {
-          "text": "伊麵",
-          "wkty": [
-            "伊麵",
-            "伊",
-            "麵"
-          ]
-        },
-        "Yale": "yī mihn",
-        "Simplified": {
-          "text": "伊面",
-          "wkty": [
-            "伊面",
-            "伊",
-            "面"
-          ]
-        },
-        "Pinyin": "yī miàn"
-      }
-    ],
+    "word": {
+      "English": "yi mein",
+      "Cantonese": {
+        "text": "伊麵",
+        "wkty": [
+          "伊麵",
+          "伊",
+          "麵"
+        ]
+      },
+      "Yale": "yī mihn",
+      "Simplified": {
+        "text": "伊面",
+        "wkty": [
+          "伊面",
+          "伊",
+          "面"
+        ]
+      },
+      "Pinyin": "yī miàn"
+    },
     "images": [
       {
         "image": "yimeinzenpeninsula",
@@ -224,35 +216,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "lobster yi mein",
-        "Cantonese": {
-          "text": "龍蝦伊麵",
-          "wkty": [
-            "龍蝦",
-            "龍",
-            "蝦",
-            "伊麵",
-            "伊",
-            "麵"
-          ]
-        },
-        "Yale": "lùhng hā yī mihn",
-        "Simplified": {
-          "text": "龙虾伊面",
-          "wkty": [
-            "龙虾",
-            "龙",
-            "虾",
-            "伊面",
-            "伊",
-            "面"
-          ]
-        },
-        "Pinyin": "lóng xiā yī miàn"
-      }
-    ],
+    "word": {
+      "English": "lobster yi mein",
+      "Cantonese": {
+        "text": "龍蝦伊麵",
+        "wkty": [
+          "龍蝦",
+          "龍",
+          "蝦",
+          "伊麵",
+          "伊",
+          "麵"
+        ]
+      },
+      "Yale": "lùhng hā yī mihn",
+      "Simplified": {
+        "text": "龙虾伊面",
+        "wkty": [
+          "龙虾",
+          "龙",
+          "虾",
+          "伊面",
+          "伊",
+          "面"
+        ]
+      },
+      "Pinyin": "lóng xiā yī miàn"
+    },
     "images": [
       {
         "image": "lobsteryimeinzenpeninsula",
@@ -278,27 +268,25 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Singapore-style noodles",
-        "Cantonese": {
-          "text": "星洲炒米粉",
-          "wkty": [
-            "星洲炒米",
-            "星洲",
-            "星",
-            "洲",
-            "州",
-            "炒",
-            "米粉",
-            "米",
-            "粉"
-          ]
-        },
-        "Yale": "sīng jāu cháau maih fán",
-        "Pinyin": "xīng zhōu chǎo mǐ fěn"
-      }
-    ],
+    "word": {
+      "English": "Singapore-style noodles",
+      "Cantonese": {
+        "text": "星洲炒米粉",
+        "wkty": [
+          "星洲炒米",
+          "星洲",
+          "星",
+          "洲",
+          "州",
+          "炒",
+          "米粉",
+          "米",
+          "粉"
+        ]
+      },
+      "Yale": "sīng jāu cháau maih fán",
+      "Pinyin": "xīng zhōu chǎo mǐ fěn"
+    },
     "images": [
       {
         "image": "singaporenoodlescalifornianoodlehouse",
@@ -349,31 +337,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Hong Kong-style crispy noodles",
-        "Cantonese": {
-          "text": "兩面黃",
-          "wkty": [
-            "兩面",
-            "兩",
-            "面",
-            "黃"
-          ]
-        },
-        "Yale": "léuhng mihn wòhng",
-        "Simplified": {
-          "text": "两面黄",
-          "wkty": [
-            "两面",
-            "两",
-            "面",
-            "黄"
-          ]
-        },
-        "Pinyin": "liǎng miàn huáng"
-      }
-    ],
+    "word": {
+      "English": "Hong Kong-style crispy noodles",
+      "Cantonese": {
+        "text": "兩面黃",
+        "wkty": [
+          "兩面",
+          "兩",
+          "面",
+          "黃"
+        ]
+      },
+      "Yale": "léuhng mihn wòhng",
+      "Simplified": {
+        "text": "两面黄",
+        "wkty": [
+          "两面",
+          "两",
+          "面",
+          "黄"
+        ]
+      },
+      "Pinyin": "liǎng miàn huáng"
+    },
     "images": [
       {
         "image": "hkcrispynoodlesluckyhosue",
@@ -411,33 +397,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "snail noodles",
-        "Cantonese": {
-          "text": "螺螄粉",
-          "wkty": [
-            "螺螄粉",
-            "螺螄",
-            "螺",
-            "螄",
-            "粉"
-          ]
-        },
-        "Yale": "lòh sī fán",
-        "Simplified": {
-          "text": "螺蛳粉",
-          "wkty": [
-            "螺蛳粉",
-            "螺蛳",
-            "螺",
-            "蛳",
-            "粉"
-          ]
-        },
-        "Pinyin": "luó sī fěn"
-      }
-    ],
+    "word": {
+      "English": "snail noodles",
+      "Cantonese": {
+        "text": "螺螄粉",
+        "wkty": [
+          "螺螄粉",
+          "螺螄",
+          "螺",
+          "螄",
+          "粉"
+        ]
+      },
+      "Yale": "lòh sī fán",
+      "Simplified": {
+        "text": "螺蛳粉",
+        "wkty": [
+          "螺蛳粉",
+          "螺蛳",
+          "螺",
+          "蛳",
+          "粉"
+        ]
+      },
+      "Pinyin": "luó sī fěn"
+    },
     "images": [
       {
         "image": "snailnoodles99ranch",

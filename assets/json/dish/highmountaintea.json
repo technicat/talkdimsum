@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "high mountain tea",
-                "Cantonese": {
-                    "text": "高山茶",
-                    "wkty": [
-                        "高山",
-                        "高",
-                        "山",
-                        "茶"
-                    ]
-                },
-                "Yale": "gōu sāan chàh",
-                "Pinyin": "gāo shān chá"
-            }
-        ],
+        "word": {
+            "English": "high mountain tea",
+            "Cantonese": {
+                "text": "高山茶",
+                "wkty": [
+                    "高山",
+                    "高",
+                    "山",
+                    "茶"
+                ]
+            },
+            "Yale": "gōu sāan chàh",
+            "Pinyin": "gāo shān chá"
+        },
         "images": [
             {
                 "image": "highmountainteaeverygrain",
@@ -46,26 +44,24 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Alishan tea",
-                "Cantonese": {
-                    "text": "阿里山高山茶",
-                    "wkty": [
-                        "阿里山",
-                        "阿",
-                        "里",
-                        "山",
-                        "高山",
-                        "高",
-                        "茶"
-                    ]
-                },
-                "Yale": "a léih sāan gōu sāan chàh",
-                "Jyutping": " caa4",
-                "Pinyin": "Ā lǐ Shān gāo shān chá"
-            }
-        ],
+        "word": {
+            "English": "Alishan tea",
+            "Cantonese": {
+                "text": "阿里山高山茶",
+                "wkty": [
+                    "阿里山",
+                    "阿",
+                    "里",
+                    "山",
+                    "高山",
+                    "高",
+                    "茶"
+                ]
+            },
+            "Yale": "a léih sāan gōu sāan chàh",
+            "Jyutping": " caa4",
+            "Pinyin": "Ā lǐ Shān gāo shān chá"
+        },
         "images": [
             {
                 "image": "alishanteaandwhisk",

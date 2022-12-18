@@ -1,13 +1,11 @@
 [
     {
         "English": "congee",
-        "words": [
-            {
-                "Cantonese": "粥",
-                "Yale": "jūk",
-                "Pinyin": "zhōu"
-            }
-        ],
+        "word": {
+            "Cantonese": "粥",
+            "Yale": "jūk",
+            "Pinyin": "zhōu"
+        },
         "images": [
             {
                 "image": "congeepraisehouse"
@@ -62,21 +60,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "plain congee",
-                "Cantonese": {
-                    "text": "白粥",
-                    "wkty": [
-                        "白粥",
-                        "白",
-                        "粥"
-                    ]
-                },
-                "Yale": "baahk jūk",
-                "Pinyin": "bái zhōu"
-            }
-        ],
+        "word": {
+            "English": "plain congee",
+            "Cantonese": {
+                "text": "白粥",
+                "wkty": [
+                    "白粥",
+                    "白",
+                    "粥"
+                ]
+            },
+            "Yale": "baahk jūk",
+            "Pinyin": "bái zhōu"
+        },
         "images": [
             {
                 "image": "plainjook"
@@ -102,35 +98,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "congee w/ dried scallops",
-                "Cantonese": {
-                    "text": "瑤柱白粥",
-                    "wkty": [
-                        "瑤柱",
-                        "瑤",
-                        "柱",
-                        "白粥",
-                        "白",
-                        "粥"
-                    ]
-                },
-                "Simplified": {
-                    "text": "瑶柱白粥",
-                    "wkty": [
-                        "瑶柱",
-                        "瑶",
-                        "柱",
-                        "白粥",
-                        "白",
-                        "粥"
-                    ]
-                },
-                "Yale": "yìuh chyúh baahk jūk",
-                "Pinyin": "yáo zhù bái zhōu"
-            }
-        ],
+        "word": {
+            "English": "congee w/ dried scallops",
+            "Cantonese": {
+                "text": "瑤柱白粥",
+                "wkty": [
+                    "瑤柱",
+                    "瑤",
+                    "柱",
+                    "白粥",
+                    "白",
+                    "粥"
+                ]
+            },
+            "Simplified": {
+                "text": "瑶柱白粥",
+                "wkty": [
+                    "瑶柱",
+                    "瑶",
+                    "柱",
+                    "白粥",
+                    "白",
+                    "粥"
+                ]
+            },
+            "Yale": "yìuh chyúh baahk jūk",
+            "Pinyin": "yáo zhù bái zhōu"
+        },
         "images": [
             {
                 "image": "dryscallopscongeeyummyrice",
@@ -154,25 +148,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pork w/ preserved egg congee",
-                "Cantonese": {
-                    "text": "皮蛋瘦肉粥",
-                    "wkty": [
-                        "皮蛋",
-                        "皮",
-                        "蛋",
-                        "瘦肉",
-                        "瘦",
-                        "肉",
-                        "粥"
-                    ]
-                },
-                "Yale": "pèih daahn sau yuhk jūk",
-                "Pinyin": "pí dàn shòu ròu zhōu"
-            }
-        ],
+        "word": {
+            "English": "pork w/ preserved egg congee",
+            "Cantonese": {
+                "text": "皮蛋瘦肉粥",
+                "wkty": [
+                    "皮蛋",
+                    "皮",
+                    "蛋",
+                    "瘦肉",
+                    "瘦",
+                    "肉",
+                    "粥"
+                ]
+            },
+            "Yale": "pèih daahn sau yuhk jūk",
+            "Pinyin": "pí dàn shòu ròu zhōu"
+        },
         "images": [
             {
                 "image": "preservedeggporkjooknewasianbbq",
@@ -241,15 +233,13 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fish congee",
-                "Cantonese": "魚片粥",
-                "Yale": "yú pín jūk",
-                "Simplified": "鱼片粥",
-                "Pinyin": "yú piàn zhōu"
-            }
-        ],
+        "word": {
+            "English": "fish congee",
+            "Cantonese": "魚片粥",
+            "Yale": "yú pín jūk",
+            "Simplified": "鱼片粥",
+            "Pinyin": "yú piàn zhōu"
+        },
         "images": [
             {
                 "image": "fishporridgegoldenhorse",
@@ -293,42 +283,40 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fish ball congee",
-                "Cantonese": {
-                    "text": "生菜鯪魚球粥",
-                    "wkty": [
-                        "生菜",
-                        "生",
-                        "菜",
-                        "鯪魚球",
-                        "鯪魚",
-                        "鯪",
-                        "魚",
-                        "球",
-                        "粥"
-                    ]
-                },
-                "Yale": "sāang choi lèhng yùh kàuh jūk",
-                "Jyutping": "saang1 coi3 lehng4 yu4 kau4 jūk",
-                "Simplified": {
-                    "text": "生菜鲮鱼球粥",
-                    "wkty": [
-                        "生菜",
-                        "生",
-                        "菜",
-                        "鯪鱼球",
-                        "鯪鱼",
-                        "鯪",
-                        "魚",
-                        "球",
-                        "粥"
-                    ]
-                },
-                "Pinyin": "shēng cài líng yú qiú zhōu"
-            }
-        ],
+        "word": {
+            "English": "fish ball congee",
+            "Cantonese": {
+                "text": "生菜鯪魚球粥",
+                "wkty": [
+                    "生菜",
+                    "生",
+                    "菜",
+                    "鯪魚球",
+                    "鯪魚",
+                    "鯪",
+                    "魚",
+                    "球",
+                    "粥"
+                ]
+            },
+            "Yale": "sāang choi lèhng yùh kàuh jūk",
+            "Jyutping": "saang1 coi3 lehng4 yu4 kau4 jūk",
+            "Simplified": {
+                "text": "生菜鲮鱼球粥",
+                "wkty": [
+                    "生菜",
+                    "生",
+                    "菜",
+                    "鯪鱼球",
+                    "鯪鱼",
+                    "鯪",
+                    "魚",
+                    "球",
+                    "粥"
+                ]
+            },
+            "Pinyin": "shēng cài líng yú qiú zhōu"
+        },
         "images": [
             {
                 "image": "fishballcongeeskseafood",
@@ -351,31 +339,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "seafood congee",
-                "Cantonese": {
-                    "text": "海鮮粥",
-                    "wkty": [
-                        "海鮮",
-                        "海",
-                        "鮮",
-                        "粥"
-                    ]
-                },
-                "Yale": "hói sīn jūk",
-                "Simplified": {
-                    "text": "海鲜粥",
-                    "wkty": [
-                        "海鲜",
-                        "海",
-                        "鲜",
-                        "粥"
-                    ]
-                },
-                "Pinyin": "hǎi xiān zhōu"
-            }
-        ],
+        "word": {
+            "English": "seafood congee",
+            "Cantonese": {
+                "text": "海鮮粥",
+                "wkty": [
+                    "海鮮",
+                    "海",
+                    "鮮",
+                    "粥"
+                ]
+            },
+            "Yale": "hói sīn jūk",
+            "Simplified": {
+                "text": "海鲜粥",
+                "wkty": [
+                    "海鲜",
+                    "海",
+                    "鲜",
+                    "粥"
+                ]
+            },
+            "Pinyin": "hǎi xiān zhōu"
+        },
         "images": [
             {
                 "image": "seafoodcongeeislandmalaysian",
@@ -409,15 +395,13 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "shredded roast duck congee",
-                "Cantonese": "鴨絲粥",
-                "Yale": "ngaap si jūk",
-                "Simplified": "鸭丝粥",
-                "Pinyin": "yā sī zhōu"
-            }
-        ],
+        "word": {
+            "English": "shredded roast duck congee",
+            "Cantonese": "鴨絲粥",
+            "Yale": "ngaap si jūk",
+            "Simplified": "鸭丝粥",
+            "Pinyin": "yā sī zhōu"
+        },
         "images": [
             {
                 "image": "shreddedroastduckjookbroadwaybistro",
@@ -439,31 +423,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "chicken congee",
-                "Cantonese": {
-                    "text": "雞肉粥",
-                    "wkty": [
-                        "雞肉",
-                        "雞",
-                        "肉",
-                        "粥"
-                    ]
-                },
-                "Yale": "gāi yuhk jūk",
-                "Simplified": {
-                    "text": "鸡肉粥",
-                    "wkty": [
-                        "鸡肉",
-                        "鸡",
-                        "肉",
-                        "粥"
-                    ]
-                },
-                "Pinyin": "jī ròu zhōu"
-            }
-        ],
+        "word": {
+            "English": "chicken congee",
+            "Cantonese": {
+                "text": "雞肉粥",
+                "wkty": [
+                    "雞肉",
+                    "雞",
+                    "肉",
+                    "粥"
+                ]
+            },
+            "Yale": "gāi yuhk jūk",
+            "Simplified": {
+                "text": "鸡肉粥",
+                "wkty": [
+                    "鸡肉",
+                    "鸡",
+                    "肉",
+                    "粥"
+                ]
+            },
+            "Pinyin": "jī ròu zhōu"
+        },
         "images": [
             {
                 "image": "mushroomchickencongeeyummybo2",
@@ -488,33 +470,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Sha Tin chicken congee",
-                "Cantonese": {
-                    "text": "沙田雞粥",
-                    "wkty": [
-                        "沙田",
-                        "沙",
-                        "田",
-                        "雞",
-                        "粥"
-                    ]
-                },
-                "Yale": "sā tìhn gāi jūk",
-                "Simplified": {
-                    "text": "沙田鸡粥",
-                    "wkty": [
-                        "沙田",
-                        "沙",
-                        "田",
-                        "鸡",
-                        "粥"
-                    ]
-                },
-                "Pinyin": "shā tián jī zhōu"
-            }
-        ],
+        "word": {
+            "English": "Sha Tin chicken congee",
+            "Cantonese": {
+                "text": "沙田雞粥",
+                "wkty": [
+                    "沙田",
+                    "沙",
+                    "田",
+                    "雞",
+                    "粥"
+                ]
+            },
+            "Yale": "sā tìhn gāi jūk",
+            "Simplified": {
+                "text": "沙田鸡粥",
+                "wkty": [
+                    "沙田",
+                    "沙",
+                    "田",
+                    "鸡",
+                    "粥"
+                ]
+            },
+            "Pinyin": "shā tián jī zhōu"
+        },
         "images": [
             {
                 "image": "shatincongeeskseafood",
@@ -537,35 +517,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "abalone w/ shredded chicken congee",
-                "Cantonese": {
-                    "text": "鮑魚雞絲粥",
-                    "wkty": [
-                        "鮑魚",
-                        "鮑",
-                        "魚",
-                        "雞",
-                        "絲",
-                        "粥"
-                    ]
-                },
-                "Yale": "bāau yùh gāi sī jūk",
-                "Simplified": {
-                    "text": "鲍鱼鸡丝粥",
-                    "wkty": [
-                        "鲍鱼",
-                        "鲍",
-                        "鱼",
-                        "丝",
-                        "丝",
-                        "粥"
-                    ]
-                },
-                "Pinyin": "bào yú jī sī zhōu"
-            }
-        ],
+        "word": {
+            "English": "abalone w/ shredded chicken congee",
+            "Cantonese": {
+                "text": "鮑魚雞絲粥",
+                "wkty": [
+                    "鮑魚",
+                    "鮑",
+                    "魚",
+                    "雞",
+                    "絲",
+                    "粥"
+                ]
+            },
+            "Yale": "bāau yùh gāi sī jūk",
+            "Simplified": {
+                "text": "鲍鱼鸡丝粥",
+                "wkty": [
+                    "鲍鱼",
+                    "鲍",
+                    "鱼",
+                    "丝",
+                    "丝",
+                    "粥"
+                ]
+            },
+            "Pinyin": "bào yú jī sī zhōu"
+        },
         "images": [
             {
                 "image": "abaloneshreddedchickencongeehkgarden",

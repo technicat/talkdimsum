@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "tofu skin roll",
-                "Cantonese": {
-                    "text": "鮮竹卷",
-                    "wkty": [
-                        "鮮竹卷",
-                        "鮮",
-                        "竹",
-                        "卷"
-                    ]
-                },
-                "Yale": "sīn juk gyún",
-                "Pinyin": "xiān zhú juǎn"
-            }
-        ],
+        "word": {
+            "English": "tofu skin roll",
+            "Cantonese": {
+                "text": "鮮竹卷",
+                "wkty": [
+                    "鮮竹卷",
+                    "鮮",
+                    "竹",
+                    "卷"
+                ]
+            },
+            "Yale": "sīn juk gyún",
+            "Pinyin": "xiān zhú juǎn"
+        },
         "images": [
             {
                 "image": "tofuskinrollyumcha3",
@@ -48,23 +46,21 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fried tofu skin roll",
-                "Cantonese": {
-                    "text": "腐皮卷",
-                    "wkty": [
-                        "腐皮卷",
-                        "腐皮",
-                        "腐",
-                        "皮",
-                        "卷"
-                    ]
-                },
-                "Yale": "fuh pèih gyún",
-                "Pinyin": "fǔ pí juǎn"
-            }
-        ],
+        "word": {
+            "English": "fried tofu skin roll",
+            "Cantonese": {
+                "text": "腐皮卷",
+                "wkty": [
+                    "腐皮卷",
+                    "腐皮",
+                    "腐",
+                    "皮",
+                    "卷"
+                ]
+            },
+            "Yale": "fuh pèih gyún",
+            "Pinyin": "fǔ pí juǎn"
+        },
         "images": [
             {
                 "image": "friedtofuskinrollkj",
@@ -97,39 +93,37 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fried tofu skin roll w/ shrimp",
-                "Cantonese": {
-                    "text": "鮮蝦腐皮卷",
-                    "wkty": [
-                        "鮮蝦",
-                        "鮮",
-                        "蝦",
-                        "腐皮卷",
-                        "腐皮",
-                        "腐",
-                        "皮",
-                        "卷"
-                    ]
-                },
-                "Yale": "sīn hā fuh pèih gyún",
-                "Simplified": {
-                    "text": "鲜虾腐皮卷",
-                    "wkty": [
-                        "鲜虾",
-                        "鲜",
-                        "虾",
-                        "腐皮卷",
-                        "腐皮",
-                        "腐",
-                        "皮",
-                        "卷"
-                    ]
-                },
-                "Pinyin": "xiān xiā fǔ pí juǎn"
-            }
-        ],
+        "word": {
+            "English": "fried tofu skin roll w/ shrimp",
+            "Cantonese": {
+                "text": "鮮蝦腐皮卷",
+                "wkty": [
+                    "鮮蝦",
+                    "鮮",
+                    "蝦",
+                    "腐皮卷",
+                    "腐皮",
+                    "腐",
+                    "皮",
+                    "卷"
+                ]
+            },
+            "Yale": "sīn hā fuh pèih gyún",
+            "Simplified": {
+                "text": "鲜虾腐皮卷",
+                "wkty": [
+                    "鲜虾",
+                    "鲜",
+                    "虾",
+                    "腐皮卷",
+                    "腐皮",
+                    "腐",
+                    "皮",
+                    "卷"
+                ]
+            },
+            "Pinyin": "xiān xiā fǔ pí juǎn"
+        },
         "images": [
             {
                 "image": "sesamerollwithshrimppingpangpong",

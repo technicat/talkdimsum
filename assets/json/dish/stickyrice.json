@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "English": "lotus leaf sticky rice",
-                "Cantonese": {
-                    "text": "糯米雞",
-                    "wkty": [
-                        "糯米雞",
-                        "糯米",
-                        "糯",
-                        "米",
-                        "雞"
-                    ]
-                },
-                "Yale": "noh mái gāi",
-                "Simplified": {
-                    "text": "糯米鸡",
-                    "wkty": [
-                        "糯米鸡",
-                        "糯米",
-                        "糯",
-                        "米",
-                        "鸡"
-                    ]
-                },
-                "Pinyin": "nuò mǐ jī"
-            }
-        ],
+        "word": {
+            "English": "lotus leaf sticky rice",
+            "Cantonese": {
+                "text": "糯米雞",
+                "wkty": [
+                    "糯米雞",
+                    "糯米",
+                    "糯",
+                    "米",
+                    "雞"
+                ]
+            },
+            "Yale": "noh mái gāi",
+            "Simplified": {
+                "text": "糯米鸡",
+                "wkty": [
+                    "糯米鸡",
+                    "糯米",
+                    "糯",
+                    "米",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "nuò mǐ jī"
+        },
         "images": [
             {
                 "image": "lotusleafyumchaopen",
@@ -74,22 +72,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "sticky rice dumpling",
-                "Cantonese": "粽",
-                "Yale": "jung",
-                "Mandarin": {
-                    "text": "粽子",
-                    "wkty": [
-                        "粽子",
-                        "粽",
-                        "子"
-                    ]
-                },
-                "Pinyin": "zòng zi"
-            }
-        ],
+        "word": {
+            "English": "sticky rice dumpling",
+            "Cantonese": "粽",
+            "Yale": "jung",
+            "Mandarin": {
+                "text": "粽子",
+                "wkty": [
+                    "粽子",
+                    "粽",
+                    "子"
+                ]
+            },
+            "Pinyin": "zòng zi"
+        },
         "images": [
             {
                 "image": "zongzidiamondbakery",
@@ -134,37 +130,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "stir-fried sticky rice",
-                "Cantonese": {
-                    "text": "生炒糯米飯",
-                    "wkty": [
-                        "生炒糯米飯",
-                        "生",
-                        "炒",
-                        "糯米",
-                        "糯",
-                        "米",
-                        "飯"
-                    ]
-                },
-                "Yale": "sāang cháau noh máih faahn",
-                "Simplified": {
-                    "text": "生炒糯米饭",
-                    "wkty": [
-                        "生炒糯米饭",
-                        "生",
-                        "炒",
-                        "糯米",
-                        "糯",
-                        "米",
-                        "饭"
-                    ]
-                },
-                "Pinyin": "shēng chǎo nuò mǐ fàn"
-            }
-        ],
+        "word": {
+            "English": "stir-fried sticky rice",
+            "Cantonese": {
+                "text": "生炒糯米飯",
+                "wkty": [
+                    "生炒糯米飯",
+                    "生",
+                    "炒",
+                    "糯米",
+                    "糯",
+                    "米",
+                    "飯"
+                ]
+            },
+            "Yale": "sāang cháau noh máih faahn",
+            "Simplified": {
+                "text": "生炒糯米饭",
+                "wkty": [
+                    "生炒糯米饭",
+                    "生",
+                    "炒",
+                    "糯米",
+                    "糯",
+                    "米",
+                    "饭"
+                ]
+            },
+            "Pinyin": "shēng chǎo nuò mǐ fàn"
+        },
         "images": [
             {
                 "image": "shiitakestickyricewithsausageyumcha",

@@ -1,21 +1,19 @@
 [
   {
-    "words": [
-      {
-        "English": "white tea",
-        "Cantonese": {
-          "text": "白茶",
-          "wkty": [
-            "白茶",
-            "白",
-            "茶"
-          ]
-        },
-        "Yale": "baahk chàh",
-        "Jyutping": "baak6 caa4",
-        "Pinyin": "bái chá"
-      }
-    ],
+    "word": {
+      "English": "white tea",
+      "Cantonese": {
+        "text": "白茶",
+        "wkty": [
+          "白茶",
+          "白",
+          "茶"
+        ]
+      },
+      "Yale": "baahk chàh",
+      "Jyutping": "baak6 caa4",
+      "Pinyin": "bái chá"
+    },
     "images": [
       {
         "image": "saumeiteapingpangpong",
@@ -50,30 +48,28 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "sau-mei tea",
-        "Cantonese": {
-          "text": "壽眉",
-          "wkty": [
-            "壽眉",
-            "壽",
-            "眉"
-          ]
-        },
-        "Yale": "sauh mèih",
-        "Jyutping": "saau6 mei4",
-        "Simplified": {
-          "text": "寿眉",
-          "wkty": [
-            "寿眉",
-            "寿",
-            "眉"
-          ]
-        },
-        "Pinyin": "shòu méi"
-      }
-    ],
+    "word": {
+      "English": "sau-mei tea",
+      "Cantonese": {
+        "text": "壽眉",
+        "wkty": [
+          "壽眉",
+          "壽",
+          "眉"
+        ]
+      },
+      "Yale": "sauh mèih",
+      "Jyutping": "saau6 mei4",
+      "Simplified": {
+        "text": "寿眉",
+        "wkty": [
+          "寿眉",
+          "寿",
+          "眉"
+        ]
+      },
+      "Pinyin": "shòu méi"
+    },
     "images": [
       {
         "image": "saumeiteapingpangpong4",
@@ -106,15 +102,13 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "gong-mei tea",
-        "Cantonese": "貢眉",
-        "Simplified": "贡眉",
-        "Yale": "gung mèih",
-        "Pinyin": "gòng méi"
-      }
-    ],
+    "word": {
+      "English": "gong-mei tea",
+      "Cantonese": "貢眉",
+      "Simplified": "贡眉",
+      "Yale": "gung mèih",
+      "Pinyin": "gòng méi"
+    },
     "images": [
       {
         "image": "gongmeicaketeaandwhisk",
@@ -143,34 +137,32 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "silver needle tea",
-        "Cantonese": {
-          "text": "白毫銀針",
-          "wkty": [
-            "白毫",
-            "白",
-            "毫",
-            "銀",
-            "針"
-          ]
-        },
-        "Yale": "baahk hòuh ngàhn jām",
-        "Jyutping": "baak6 ho4 ngaan4 zam1",
-        "Simplified": {
-          "text": "白毫银针",
-          "wkty": [
-            "白毫",
-            "白",
-            "毫",
-            "银",
-            "针"
-          ]
-        },
-        "Pinyin": "bái háo yín zhēn"
-      }
-    ],
+    "word": {
+      "English": "silver needle tea",
+      "Cantonese": {
+        "text": "白毫銀針",
+        "wkty": [
+          "白毫",
+          "白",
+          "毫",
+          "銀",
+          "針"
+        ]
+      },
+      "Yale": "baahk hòuh ngàhn jām",
+      "Jyutping": "baak6 ho4 ngaan4 zam1",
+      "Simplified": {
+        "text": "白毫银针",
+        "wkty": [
+          "白毫",
+          "白",
+          "毫",
+          "银",
+          "针"
+        ]
+      },
+      "Pinyin": "bái háo yín zhēn"
+    },
     "images": [
       {
         "image": "silverneedleteawikipedia",
@@ -213,23 +205,21 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "white peony tea",
-        "Cantonese": {
-          "text": "白牡丹",
-          "wkty": [
-            "白",
-            "牡丹",
-            "牡",
-            "丹"
-          ]
-        },
-        "Yale": "baahk máauh dāan",
-        "Jyutping": "baak6 maau5 daan1",
-        "Pinyin": "bái mǔ dan"
-      }
-    ],
+    "word": {
+      "English": "white peony tea",
+      "Cantonese": {
+        "text": "白牡丹",
+        "wkty": [
+          "白",
+          "牡丹",
+          "牡",
+          "丹"
+        ]
+      },
+      "Yale": "baahk máauh dāan",
+      "Jyutping": "baak6 maau5 daan1",
+      "Pinyin": "bái mǔ dan"
+    },
     "images": [
       {
         "image": "whitepeonyteafoojoy",

@@ -1,28 +1,26 @@
 [
    {
-      "words": [
-         {
-            "English": "moon cake",
-            "Cantonese": {
-               "text": "月餅",
-               "wkty": [
-                  "月餅",
-                  "月",
-                  "餅"
-               ]
-            },
-            "Yale": "yuht béng",
-            "Simplified": {
-               "text": "月饼",
-               "wkty": [
-                  "月饼",
-                  "月",
-                  "饼"
-               ]
-            },
-            "Pinyin": "yuè bǐng"
-         }
-      ],
+      "word": {
+         "English": "moon cake",
+         "Cantonese": {
+            "text": "月餅",
+            "wkty": [
+               "月餅",
+               "月",
+               "餅"
+            ]
+         },
+         "Yale": "yuht béng",
+         "Simplified": {
+            "text": "月饼",
+            "wkty": [
+               "月饼",
+               "月",
+               "饼"
+            ]
+         },
+         "Pinyin": "yuè bǐng"
+      },
       "images": [
          {
             "image": "mooncake168"
@@ -72,35 +70,33 @@
       ]
    },
    {
-      "words": [
-         {
-            "English": "red bean moon cake",
-            "Cantonese": {
-               "text": "紅豆月餅",
-               "wkty": [
-                  "紅豆",
-                  "紅",
-                  "豆",
-                  "月餅",
-                  "月",
-                  "餅"
-               ]
-            },
-            "Yale": "hùhng dáu yuht béng",
-            "Simplified": {
-               "text": "红豆月饼",
-               "wkty": [
-                  "红豆",
-                  "红",
-                  "豆",
-                  "月饼",
-                  "月",
-                  "饼"
-               ]
-            },
-            "Pinyin": "hóng dòu yuè bǐng"
-         }
-      ],
+      "word": {
+         "English": "red bean moon cake",
+         "Cantonese": {
+            "text": "紅豆月餅",
+            "wkty": [
+               "紅豆",
+               "紅",
+               "豆",
+               "月餅",
+               "月",
+               "餅"
+            ]
+         },
+         "Yale": "hùhng dáu yuht béng",
+         "Simplified": {
+            "text": "红豆月饼",
+            "wkty": [
+               "红豆",
+               "红",
+               "豆",
+               "月饼",
+               "月",
+               "饼"
+            ]
+         },
+         "Pinyin": "hóng dòu yuè bǐng"
+      },
       "images": [
          {
             "image": "redbeanmooncakesunrisebakery",
@@ -140,35 +136,33 @@
       ]
    },
    {
-      "words": [
-         {
-            "English": "lotus seed moon cake",
-            "Cantonese": {
-               "text": "蓮蓉月餅",
-               "wkty": [
-                  "蓮蓉",
-                  "蓮",
-                  "蓉",
-                  "月餅",
-                  "月",
-                  "餅"
-               ]
-            },
-            "Yale": "lìhn yùhng yuht béng",
-            "Simplified": {
-               "text": "莲蓉月饼",
-               "wkty": [
-                  "蓮蓉",
-                  "蓮",
-                  "蓉",
-                  "月饼",
-                  "月",
-                  "饼"
-               ]
-            },
-            "Pinyin": "lián róng yuè bǐng"
-         }
-      ],
+      "word": {
+         "English": "lotus seed moon cake",
+         "Cantonese": {
+            "text": "蓮蓉月餅",
+            "wkty": [
+               "蓮蓉",
+               "蓮",
+               "蓉",
+               "月餅",
+               "月",
+               "餅"
+            ]
+         },
+         "Yale": "lìhn yùhng yuht béng",
+         "Simplified": {
+            "text": "莲蓉月饼",
+            "wkty": [
+               "蓮蓉",
+               "蓮",
+               "蓉",
+               "月饼",
+               "月",
+               "饼"
+            ]
+         },
+         "Pinyin": "lián róng yuè bǐng"
+      },
       "images": [
          {
             "image": "lotuspastemooncakesunrisebakery",
@@ -187,35 +181,33 @@
       "resources": []
    },
    {
-      "words": [
-         {
-            "English": "pineapple moon cake",
-            "Cantonese": {
-               "text": "鳳梨月餅",
-               "wkty": [
-                  "菠蘿",
-                  "菠",
-                  "蘿",
-                  "月餅",
-                  "月",
-                  "餅"
-               ]
-            },
-            "Yale": "fuhng lèih yuht béng",
-            "Simplified": {
-               "text": "凤梨月饼",
-               "wkty": [
-                  "凤梨",
-                  "凤",
-                  "梨",
-                  "月饼",
-                  "月",
-                  "饼"
-               ]
-            },
-            "Pinyin": "fèng lí yuè bǐng"
-         }
-      ],
+      "word": {
+         "English": "pineapple moon cake",
+         "Cantonese": {
+            "text": "鳳梨月餅",
+            "wkty": [
+               "菠蘿",
+               "菠",
+               "蘿",
+               "月餅",
+               "月",
+               "餅"
+            ]
+         },
+         "Yale": "fuhng lèih yuht béng",
+         "Simplified": {
+            "text": "凤梨月饼",
+            "wkty": [
+               "凤梨",
+               "凤",
+               "梨",
+               "月饼",
+               "月",
+               "饼"
+            ]
+         },
+         "Pinyin": "fèng lí yuè bǐng"
+      },
       "images": [
          {
             "image": "pineapplemooncakesunrisebakery",

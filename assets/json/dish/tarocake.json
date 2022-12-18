@@ -1,32 +1,30 @@
 [
   {
-    "words": [
-      {
-        "Cantonese": {
-          "text": "芋頭糕",
-          "wkty": [
-            "芋頭糕",
-            "芋頭",
-            "芋",
-            "頭",
-            "糕"
-          ]
-        },
-        "Simplified":  {
-          "text": "芋头糕",
-          "wkty": [
-            "芋头糕",
-            "芋头",
-            "芋",
-            "头",
-            "糕"
-          ]
-        },
-        "English": "taro cake",
-        "Yale": "wuh táu gōu",
-        "Pinyin": "yù tou gāo"
-      }
-    ],
+    "word": {
+      "Cantonese": {
+        "text": "芋頭糕",
+        "wkty": [
+          "芋頭糕",
+          "芋頭",
+          "芋",
+          "頭",
+          "糕"
+        ]
+      },
+      "Simplified": {
+        "text": "芋头糕",
+        "wkty": [
+          "芋头糕",
+          "芋头",
+          "芋",
+          "头",
+          "糕"
+        ]
+      },
+      "English": "taro cake",
+      "Yale": "wuh táu gōu",
+      "Pinyin": "yù tou gāo"
+    },
     "images": [
       {
         "image": "tarocakeyumcha",

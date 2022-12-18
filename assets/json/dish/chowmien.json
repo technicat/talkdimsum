@@ -1,29 +1,27 @@
 [
   {
-    "words": [
-      {
-        "English": "stir-fried noodles",
-        "Cantonese": {
-          "text": "炒麵",
-          "wkty": [
-            "炒麵",
-            "炒",
-            "麵"
-          ]
-        },
-        "Yale": "cháau mihn",
-        "Jyutping": "caau2 min6",
-        "Simplified": {
-          "text": "炒面",
-          "wkty": [
-            "炒面",
-            "炒",
-            "面"
-          ]
-        },
-        "Pinyin": "chǎo miàn"
-      }
-    ],
+    "word": {
+      "English": "stir-fried noodles",
+      "Cantonese": {
+        "text": "炒麵",
+        "wkty": [
+          "炒麵",
+          "炒",
+          "麵"
+        ]
+      },
+      "Yale": "cháau mihn",
+      "Jyutping": "caau2 min6",
+      "Simplified": {
+        "text": "炒面",
+        "wkty": [
+          "炒面",
+          "炒",
+          "面"
+        ]
+      },
+      "Pinyin": "chǎo miàn"
+    },
     "images": [
       {
         "image": "chowmeindimsumcafe",
@@ -66,37 +64,35 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "soy sauce stir-fried noodles",
-        "Cantonese": {
-          "text": "豉油皇炒麵",
-          "wkty": [
-            "豉油",
-            "豉",
-            "油",
-            "皇",
-            "炒麵",
-            "炒",
-            "麵"
-          ]
-        },
-        "Yale": "sih yàuh wòhng cháau mihn",
-        "Simplified": {
-          "text": "豉油皇炒面",
-          "wkty": [
-            "豉油",
-            "豉",
-            "油",
-            "皇",
-            "炒面",
-            "炒",
-            "面"
-          ]
-        },
-        "Pinyin": "chǐ yóu huáng chǎo miàn"
-      }
-    ],
+    "word": {
+      "English": "soy sauce stir-fried noodles",
+      "Cantonese": {
+        "text": "豉油皇炒麵",
+        "wkty": [
+          "豉油",
+          "豉",
+          "油",
+          "皇",
+          "炒麵",
+          "炒",
+          "麵"
+        ]
+      },
+      "Yale": "sih yàuh wòhng cháau mihn",
+      "Simplified": {
+        "text": "豉油皇炒面",
+        "wkty": [
+          "豉油",
+          "豉",
+          "油",
+          "皇",
+          "炒面",
+          "炒",
+          "面"
+        ]
+      },
+      "Pinyin": "chǐ yóu huáng chǎo miàn"
+    },
     "images": [
       {
         "image": "soysaucenoodlestimhowan",

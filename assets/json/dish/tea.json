@@ -1,31 +1,29 @@
 [
     {
-        "words": [
-            {
-                "English": "Chinese tea",
-                "Cantonese": {
-                    "text": "中國茶",
-                    "wkty": [
-                        "中國",
-                        "中",
-                        "國",
-                        "茶"
-                    ]
-                },
-                "Yale": "jūng gwok chàh",
-                "Jyutping": "zung1 gwok3 caa4",
-                "Simplified": {
-                    "text": "中国茶",
-                    "wkty": [
-                        "中国",
-                        "中",
-                        "国",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "zhōng guó chá"
-            }
-        ],
+        "word": {
+            "English": "Chinese tea",
+            "Cantonese": {
+                "text": "中國茶",
+                "wkty": [
+                    "中國",
+                    "中",
+                    "國",
+                    "茶"
+                ]
+            },
+            "Yale": "jūng gwok chàh",
+            "Jyutping": "zung1 gwok3 caa4",
+            "Simplified": {
+                "text": "中国茶",
+                "wkty": [
+                    "中国",
+                    "中",
+                    "国",
+                    "茶"
+                ]
+            },
+            "Pinyin": "zhōng guó chá"
+        },
         "images": [
             {
                 "image": "teaandwhisk",
@@ -78,40 +76,38 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "famous teas",
-                "Cantonese": {
-                    "text": "中國十大名茶",
-                    "wkty": [
-                        "中國",
-                        "中",
-                        "國",
-                        "十",
-                        "大名",
-                        "大",
-                        "名",
-                        "茶"
-                    ]
-                },
-                "Yale": "jūng gwok sahp daaih mìhng chàh",
-                "Jyutping": "zung1 gwok3 sap6 daai6 ming4 caa4",
-                "Simplified": {
-                    "text": "中国十大名茶",
-                    "wkty": [
-                        "中国",
-                        "中",
-                        "国",
-                        "十",
-                        "大名",
-                        "大",
-                        "名",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "Zhōng guó shí dà míng chá"
-            }
-        ],
+        "word": {
+            "English": "famous teas",
+            "Cantonese": {
+                "text": "中國十大名茶",
+                "wkty": [
+                    "中國",
+                    "中",
+                    "國",
+                    "十",
+                    "大名",
+                    "大",
+                    "名",
+                    "茶"
+                ]
+            },
+            "Yale": "jūng gwok sahp daaih mìhng chàh",
+            "Jyutping": "zung1 gwok3 sap6 daai6 ming4 caa4",
+            "Simplified": {
+                "text": "中国十大名茶",
+                "wkty": [
+                    "中国",
+                    "中",
+                    "国",
+                    "十",
+                    "大名",
+                    "大",
+                    "名",
+                    "茶"
+                ]
+            },
+            "Pinyin": "Zhōng guó shí dà míng chá"
+        },
         "images": [
             {
                 "image": "teagrotto",
@@ -139,22 +135,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "teabag",
-                "Cantonese": {
-                    "text": "茶包",
-                    "wkty": [
-                        "茶包",
-                        "茶",
-                        "包"
-                    ]
-                },
-                "Yale": "chàh bāau",
-                "Jyutping": "caa4 bau1",
-                "Pinyin": "há bāo"
-            }
-        ],
+        "word": {
+            "English": "teabag",
+            "Cantonese": {
+                "text": "茶包",
+                "wkty": [
+                    "茶包",
+                    "茶",
+                    "包"
+                ]
+            },
+            "Yale": "chàh bāau",
+            "Jyutping": "caa4 bau1",
+            "Pinyin": "há bāo"
+        },
         "images": [
             {
                 "image": "greentea88noodlepapa",

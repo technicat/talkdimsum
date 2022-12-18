@@ -1,40 +1,38 @@
 [
     {
-        "words": [
-            {
-                "English": "sesame ball",
-                "Cantonese": {
-                    "text": "煎堆",
-                    "wkty": [
-                        "煎堆",
-                        "煎",
-                        "堆"
-                    ]
-                },
-                "Yale": "jīn dēui",
-                "Mandarin": {
-                    "text": "芝麻球",
-                    "wkty": [
-                        "芝麻球",
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "球"
-                    ]
-                },
-                "Simplified": {
-                    "text": "芝v球",
-                    "wkty": [
-                        "芝麻球",
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "球"
-                    ]
-                },
-                "Pinyin": "jiān duī"
-            }
-        ],
+        "word": {
+            "English": "sesame ball",
+            "Cantonese": {
+                "text": "煎堆",
+                "wkty": [
+                    "煎堆",
+                    "煎",
+                    "堆"
+                ]
+            },
+            "Yale": "jīn dēui",
+            "Mandarin": {
+                "text": "芝麻球",
+                "wkty": [
+                    "芝麻球",
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "球"
+                ]
+            },
+            "Simplified": {
+                "text": "芝v球",
+                "wkty": [
+                    "芝麻球",
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "球"
+                ]
+            },
+            "Pinyin": "jiān duī"
+        },
         "images": [
             {
                 "image": "sesameballfoods2go2",
@@ -87,35 +85,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lotus seed sesame ball",
-                "Cantonese": {
-                    "text": "蓮蓉煎堆",
-                    "wkty": [
-                        "蓮蓉",
-                        "蓮",
-                        "蓉",
-                        "煎堆",
-                        "煎",
-                        "堆"
-                    ]
-                },
-                "Yale": "lìhn yùhng jīn dēui",
-                "Simplified": {
-                    "text": "莲蓉煎堆",
-                    "wkty": [
-                        "莲蓉",
-                        "莲",
-                        "蓉",
-                        "煎堆",
-                        "煎",
-                        "堆"
-                    ]
-                },
-                "Pinyin": "lián róng jiān duī"
-            }
-        ],
+        "word": {
+            "English": "lotus seed sesame ball",
+            "Cantonese": {
+                "text": "蓮蓉煎堆",
+                "wkty": [
+                    "蓮蓉",
+                    "蓮",
+                    "蓉",
+                    "煎堆",
+                    "煎",
+                    "堆"
+                ]
+            },
+            "Yale": "lìhn yùhng jīn dēui",
+            "Simplified": {
+                "text": "莲蓉煎堆",
+                "wkty": [
+                    "莲蓉",
+                    "莲",
+                    "蓉",
+                    "煎堆",
+                    "煎",
+                    "堆"
+                ]
+            },
+            "Pinyin": "lián róng jiān duī"
+        },
         "images": [
             {
                 "image": "sesameballslotusseeddimsumcafe",
@@ -140,24 +136,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "red bean sesame ball",
-                "Cantonese": {
-                    "text": "豆沙煎堆",
-                    "wkty": [
-                        "豆沙",
-                        "豆",
-                        "沙",
-                        "煎堆",
-                        "煎",
-                        "堆"
-                    ]
-                },
-                "Yale": "dauh sā jīn dēui",
-                "Pinyin": "dòu shā jiān duī"
-            }
-        ],
+        "word": {
+            "English": "red bean sesame ball",
+            "Cantonese": {
+                "text": "豆沙煎堆",
+                "wkty": [
+                    "豆沙",
+                    "豆",
+                    "沙",
+                    "煎堆",
+                    "煎",
+                    "堆"
+                ]
+            },
+            "Yale": "dauh sā jīn dēui",
+            "Pinyin": "dòu shā jiān duī"
+        },
         "images": [
             {
                 "image": "sesameballssfsupermaket",
@@ -191,24 +185,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lava custard sesame ball",
-                "Cantonese": {
-                    "text": "流沙煎堆",
-                    "wkty": [
-                        "流沙",
-                        "流",
-                        "沙",
-                        "煎堆",
-                        "煎",
-                        "堆"
-                    ]
-                },
-                "Yale": "làu sā jīn dēui",
-                "Pinyin": "iú shā jiān duī"
-            }
-        ],
+        "word": {
+            "English": "lava custard sesame ball",
+            "Cantonese": {
+                "text": "流沙煎堆",
+                "wkty": [
+                    "流沙",
+                    "流",
+                    "沙",
+                    "煎堆",
+                    "煎",
+                    "堆"
+                ]
+            },
+            "Yale": "làu sā jīn dēui",
+            "Pinyin": "iú shā jiān duī"
+        },
         "images": [
             {
                 "image": "lavasesameballtimhowan",

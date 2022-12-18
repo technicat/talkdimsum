@@ -1,35 +1,33 @@
 [
   {
-    "words": [
-      {
-        "English": "soy sauce",
-        "Cantonese": {
-          "text": "豉油",
-          "wkty": [
-            "豉油",
-            "豉"
-          ]
-        },
-        "Mandarin": {
-          "text": "醬油",
-          "wkty": [
-            "醬油",
-            "醬",
-            "油"
-          ]
-        },
-        "Yale": "sih yàuh",
-        "Simplified": {
-          "text": "酱油",
-          "wkty": [
-            "酱油",
-            "酱",
-            "油"
-          ]
-        },
-        "Pinyin": "jiàng yóu"
-      }
-    ],
+    "word": {
+      "English": "soy sauce",
+      "Cantonese": {
+        "text": "豉油",
+        "wkty": [
+          "豉油",
+          "豉"
+        ]
+      },
+      "Mandarin": {
+        "text": "醬油",
+        "wkty": [
+          "醬油",
+          "醬",
+          "油"
+        ]
+      },
+      "Yale": "sih yàuh",
+      "Simplified": {
+        "text": "酱油",
+        "wkty": [
+          "酱油",
+          "酱",
+          "油"
+        ]
+      },
+      "Pinyin": "jiàng yóu"
+    },
     "images": [
       {
         "image": "soysaucechinamama",
@@ -69,40 +67,38 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "sweet soy sauce",
-        "Cantonese": {
-          "text": "甜豉油",
-          "wkty": [
-            "甜",
-            "豉油",
-            "豉",
-            "油"
-          ]
-        },
-        "Yale": "tìhm sih yàuh",
-        "Mandarin": {
-          "text": "甜醬油",
-          "wkty": [
-            "甜",
-            "醬油",
-            "醬",
-            "油"
-          ]
-        },
-        "Simplified": {
-          "text": "甜酱油",
-          "wkty": [
-            "甜",
-            "酱油",
-            "酱",
-            "油"
-          ]
-        },
-        "Pinyin": "tián jiàng yóu"
-      }
-    ],
+    "word": {
+      "English": "sweet soy sauce",
+      "Cantonese": {
+        "text": "甜豉油",
+        "wkty": [
+          "甜",
+          "豉油",
+          "豉",
+          "油"
+        ]
+      },
+      "Yale": "tìhm sih yàuh",
+      "Mandarin": {
+        "text": "甜醬油",
+        "wkty": [
+          "甜",
+          "醬油",
+          "醬",
+          "油"
+        ]
+      },
+      "Simplified": {
+        "text": "甜酱油",
+        "wkty": [
+          "甜",
+          "酱油",
+          "酱",
+          "油"
+        ]
+      },
+      "Pinyin": "tián jiàng yóu"
+    },
     "images": [
       {
         "image": "sweetsoysauce168market",
@@ -130,24 +126,22 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "mushroom soy sauce",
-        "Cantonese": {
-          "text": "蘑菇老抽",
-          "wkty": [
-            "蘑菇",
-            "蘑",
-            "菇",
-            "老抽",
-            "老",
-            "抽"
-          ]
-        },
-        "Yale": "mòh gū lóuh chāu",
-        "Pinyin": "mó gu lǎo chōu"
-      }
-    ],
+    "word": {
+      "English": "mushroom soy sauce",
+      "Cantonese": {
+        "text": "蘑菇老抽",
+        "wkty": [
+          "蘑菇",
+          "蘑",
+          "菇",
+          "老抽",
+          "老",
+          "抽"
+        ]
+      },
+      "Yale": "mòh gū lóuh chāu",
+      "Pinyin": "mó gu lǎo chōu"
+    },
     "images": [
       {
         "image": "mushroomsoysauce168market",
@@ -168,22 +162,20 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "sesame oil",
-        "Cantonese": {
-          "text": "香油",
-          "wkty": [
-            "香油",
-            "香",
-            "油"
-          ]
-        },
-        "Yale": "hēung yàuh",
-        "Jyutping": "hoeng1 jau4",
-        "Pinyin": "xiāng yóu"
-      }
-    ],
+    "word": {
+      "English": "sesame oil",
+      "Cantonese": {
+        "text": "香油",
+        "wkty": [
+          "香油",
+          "香",
+          "油"
+        ]
+      },
+      "Yale": "hēung yàuh",
+      "Jyutping": "hoeng1 jau4",
+      "Pinyin": "xiāng yóu"
+    },
     "images": [
       {
         "image": "sesameoil99ranch",

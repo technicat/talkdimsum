@@ -1,22 +1,20 @@
 [
     {
-        "words": [
-            {
-                "English": "Earl Grey tea",
-                "Cantonese": {
-                    "text": "伯爵茶",
-                    "wkty": [
-                        "伯爵茶",
-                        "伯爵",
-                        "伯",
-                        "爵",
-                        "茶"
-                    ]
-                },
-                "Yale": "baak jeuk chàh",
-                "Pinyin": "bó jué chá"
-            }
-        ],
+        "word": {
+            "English": "Earl Grey tea",
+            "Cantonese": {
+                "text": "伯爵茶",
+                "wkty": [
+                    "伯爵茶",
+                    "伯爵",
+                    "伯",
+                    "爵",
+                    "茶"
+                ]
+            },
+            "Yale": "baak jeuk chàh",
+            "Pinyin": "bó jué chá"
+        },
         "images": [
             {
                 "image": "earlgraybadowl",

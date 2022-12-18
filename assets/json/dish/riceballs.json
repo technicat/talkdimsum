@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "rice balls",
-                "Cantonese": {
-                    "text": "湯圓",
-                    "wkty": [
-                        "湯圓",
-                        "湯",
-                        "圓"
-                    ]
-                },
-                "Yale": "tōng yún",
-                "Simplified": {
-                    "text": "汤圆",
-                    "wkty": [
-                        "湯圓",
-                        "湯",
-                        "圓"
-                    ]
-                },
-                "Pinyin": "tāng yuán"
-            }
-        ],
+        "word": {
+            "English": "rice balls",
+            "Cantonese": {
+                "text": "湯圓",
+                "wkty": [
+                    "湯圓",
+                    "湯",
+                    "圓"
+                ]
+            },
+            "Yale": "tōng yún",
+            "Simplified": {
+                "text": "汤圆",
+                "wkty": [
+                    "湯圓",
+                    "湯",
+                    "圓"
+                ]
+            },
+            "Pinyin": "tāng yuán"
+        },
         "images": [
             {
                 "image": "riceballs",
@@ -82,39 +80,37 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "sesame rice balls",
-                "Cantonese": {
-                    "text": "黑芝麻湯圓",
-                    "wkty": [
-                        "黑芝麻",
-                        "黑",
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "湯圓",
-                        "湯",
-                        "圓"
-                    ]
-                },
-                "Yale": "hāk jī màh tōng yún",
-                "Simplified": {
-                    "text": "黑芝麻汤圆",
-                    "wkty": [
-                        "黑芝麻",
-                        "黑",
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "汤圆",
-                        "汤",
-                        "圆"
-                    ]
-                },
-                "Pinyin": "hēi zhī ma tāng yuán"
-            }
-        ],
+        "word": {
+            "English": "sesame rice balls",
+            "Cantonese": {
+                "text": "黑芝麻湯圓",
+                "wkty": [
+                    "黑芝麻",
+                    "黑",
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "湯圓",
+                    "湯",
+                    "圓"
+                ]
+            },
+            "Yale": "hāk jī màh tōng yún",
+            "Simplified": {
+                "text": "黑芝麻汤圆",
+                "wkty": [
+                    "黑芝麻",
+                    "黑",
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "汤圆",
+                    "汤",
+                    "圆"
+                ]
+            },
+            "Pinyin": "hēi zhī ma tāng yuán"
+        },
         "images": [
             {
                 "image": "sesamericeballs",
@@ -146,35 +142,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "peanut rice balls",
-                "Cantonese": {
-                    "text": "花生湯圓",
-                    "wkty": [
-                        "花生",
-                        "花",
-                        "生",
-                        "湯圓",
-                        "湯",
-                        "圓"
-                    ]
-                },
-                "Yale": "fā sāng tōng yún",
-                "Simplified": {
-                    "text": "花生汤圆",
-                    "wkty": [
-                        "花生",
-                        "花",
-                        "生",
-                        "汤圆",
-                        "汤",
-                        "圆"
-                    ]
-                },
-                "Pinyin": "huā shēng tāng yuán"
-            }
-        ],
+        "word": {
+            "English": "peanut rice balls",
+            "Cantonese": {
+                "text": "花生湯圓",
+                "wkty": [
+                    "花生",
+                    "花",
+                    "生",
+                    "湯圓",
+                    "湯",
+                    "圓"
+                ]
+            },
+            "Yale": "fā sāng tōng yún",
+            "Simplified": {
+                "text": "花生汤圆",
+                "wkty": [
+                    "花生",
+                    "花",
+                    "生",
+                    "汤圆",
+                    "汤",
+                    "圆"
+                ]
+            },
+            "Pinyin": "huā shēng tāng yuán"
+        },
         "images": [
             {
                 "image": "peanutriceballs",
@@ -196,35 +190,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "red bean rice balls",
-                "Cantonese": {
-                    "text": "豆沙湯圓",
-                    "wkty": [
-                        "豆沙",
-                        "豆",
-                        "沙",
-                        "湯圓",
-                        "湯",
-                        "圓"
-                    ]
-                },
-                "Yale": "dauh sā tōng yún",
-                "Simplified": {
-                    "text": "豆沙汤圆",
-                    "wkty": [
-                        "豆沙",
-                        "豆",
-                        "沙",
-                        "汤圓",
-                        "汤",
-                        "圓"
-                    ]
-                },
-                "Pinyin": "dòu shā tāng yuán"
-            }
-        ],
+        "word": {
+            "English": "red bean rice balls",
+            "Cantonese": {
+                "text": "豆沙湯圓",
+                "wkty": [
+                    "豆沙",
+                    "豆",
+                    "沙",
+                    "湯圓",
+                    "湯",
+                    "圓"
+                ]
+            },
+            "Yale": "dauh sā tōng yún",
+            "Simplified": {
+                "text": "豆沙汤圆",
+                "wkty": [
+                    "豆沙",
+                    "豆",
+                    "沙",
+                    "汤圓",
+                    "汤",
+                    "圓"
+                ]
+            },
+            "Pinyin": "dòu shā tāng yuán"
+        },
         "images": [
             {
                 "image": "redbeanriceballs2",
@@ -247,37 +239,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "green tea fried sesame ball",
-                "Cantonese": {
-                    "text": "綠茶炸湯圓",
-                    "wkty": [
-                        "綠茶",
-                        "綠",
-                        "茶",
-                        "炸",
-                        "湯圓",
-                        "湯",
-                        "圓"
-                    ]
-                },
-                "Yale": "luhk chàh ja tōng yún",
-                "Simplified": {
-                    "text": "绿茶炸汤圓",
-                    "wkty": [
-                        "绿茶",
-                        "绿",
-                        "茶",
-                        "炸",
-                        "汤圓",
-                        "汤",
-                        "圓"
-                    ]
-                },
-                "Pinyin": "lǜ chá zhà tāng yuán"
-            }
-        ],
+        "word": {
+            "English": "green tea fried sesame ball",
+            "Cantonese": {
+                "text": "綠茶炸湯圓",
+                "wkty": [
+                    "綠茶",
+                    "綠",
+                    "茶",
+                    "炸",
+                    "湯圓",
+                    "湯",
+                    "圓"
+                ]
+            },
+            "Yale": "luhk chàh ja tōng yún",
+            "Simplified": {
+                "text": "绿茶炸汤圓",
+                "wkty": [
+                    "绿茶",
+                    "绿",
+                    "茶",
+                    "炸",
+                    "汤圓",
+                    "汤",
+                    "圓"
+                ]
+            },
+            "Pinyin": "lǜ chá zhà tāng yuán"
+        },
         "images": [
             {
                 "image": "greenteasesameballnewasian6",
@@ -295,22 +285,20 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "rice balls in syrup",
-                "Cantonese": {
-                    "text": "糖不甩",
-                    "wkty": [
-                        "糖不甩",
-                        "糖",
-                        "不",
-                        "甩"
-                    ]
-                },
-                "Yale": "tòhng bāt lāt",
-                "Pinyin": "táng bù shuǎi"
-            }
-        ],
+        "word": {
+            "English": "rice balls in syrup",
+            "Cantonese": {
+                "text": "糖不甩",
+                "wkty": [
+                    "糖不甩",
+                    "糖",
+                    "不",
+                    "甩"
+                ]
+            },
+            "Yale": "tòhng bāt lāt",
+            "Pinyin": "táng bù shuǎi"
+        },
         "images": [
             {
                 "image": "peanutcoatedriceballssweethoneydessert",

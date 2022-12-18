@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "English": "water chestnut cake",
-                "Cantonese": {
-                    "text": "馬蹄糕",
-                    "wkty": [
-                        "馬蹄糕",
-                        "馬蹄",
-                        "馬",
-                        "蹄",
-                        "糕"
-                    ]
-                },
-                "Yale": "máh tàih gōu",
-                "Simplified": {
-                    "text": "马蹄糕",
-                    "wkty": [
-                        "马蹄糕",
-                        "马蹄",
-                        "马",
-                        "蹄",
-                        "糕"
-                    ]
-                },
-                "Pinyin": "mǎ tí gāo"
-            }
-        ],
+        "word": {
+            "English": "water chestnut cake",
+            "Cantonese": {
+                "text": "馬蹄糕",
+                "wkty": [
+                    "馬蹄糕",
+                    "馬蹄",
+                    "馬",
+                    "蹄",
+                    "糕"
+                ]
+            },
+            "Yale": "máh tàih gōu",
+            "Simplified": {
+                "text": "马蹄糕",
+                "wkty": [
+                    "马蹄糕",
+                    "马蹄",
+                    "马",
+                    "蹄",
+                    "糕"
+                ]
+            },
+            "Pinyin": "mǎ tí gāo"
+        },
         "images": [
             {
                 "image": "waterchestnutcakeimperialgarden2",
@@ -66,22 +64,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "coconut pudding",
-                "Cantonese": {
-                    "text": "椰汁糕",
-                    "wkty": [
-                        "椰汁",
-                        "椰",
-                        "汁",
-                        "糕"
-                    ]
-                },
-                "Yale": "yèh jāp gōu",
-                "Pinyin": "yē zhī gāo"
-            }
-        ],
+        "word": {
+            "English": "coconut pudding",
+            "Cantonese": {
+                "text": "椰汁糕",
+                "wkty": [
+                    "椰汁",
+                    "椰",
+                    "汁",
+                    "糕"
+                ]
+            },
+            "Yale": "yèh jāp gōu",
+            "Pinyin": "yē zhī gāo"
+        },
         "images": [
             {
                 "image": "coconutpuddingyumcha",
@@ -134,31 +130,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mung bean cake",
-                "Cantonese": {
-                    "text": "綠豆糕",
-                    "wkty": [
-                        "綠豆",
-                        "綠",
-                        "豆",
-                        "糕"
-                    ]
-                },
-                "Yale": "luhk dáu gōu",
-                "Simplified": {
-                    "text": "绿豆糕",
-                    "wkty": [
-                        "绿豆",
-                        "绿",
-                        "豆",
-                        "糕"
-                    ]
-                },
-                "Pinyin": "lǜ dòu gāo"
-            }
-        ],
+        "word": {
+            "English": "mung bean cake",
+            "Cantonese": {
+                "text": "綠豆糕",
+                "wkty": [
+                    "綠豆",
+                    "綠",
+                    "豆",
+                    "糕"
+                ]
+            },
+            "Yale": "luhk dáu gōu",
+            "Simplified": {
+                "text": "绿豆糕",
+                "wkty": [
+                    "绿豆",
+                    "绿",
+                    "豆",
+                    "糕"
+                ]
+            },
+            "Pinyin": "lǜ dòu gāo"
+        },
         "images": [
             {
                 "image": "mungbeanpancakeyumcha",

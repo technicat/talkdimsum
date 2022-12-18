@@ -1,29 +1,27 @@
 [
   {
-    "words": [
-      {
-        "English": "Taiwanese sticky rice",
-        "Cantonese": {
-          "text": "油飯",
-          "wkty": [
-            "油飯",
-            "油",
-            "飯"
-          ]
-        },
-        "Yale": "yàuh faahn",
-        "Jyutping": "jau4 faan6",
-        "Simplified": {
-          "text": "油饭",
-          "wkty": [
-            "油饭",
-            "油",
-            "饭"
-          ]
-        },
-        "Pinyin": "yóu fàn"
-      }
-    ],
+    "word": {
+      "English": "Taiwanese sticky rice",
+      "Cantonese": {
+        "text": "油飯",
+        "wkty": [
+          "油飯",
+          "油",
+          "飯"
+        ]
+      },
+      "Yale": "yàuh faahn",
+      "Jyutping": "jau4 faan6",
+      "Simplified": {
+        "text": "油饭",
+        "wkty": [
+          "油饭",
+          "油",
+          "饭"
+        ]
+      },
+      "Pinyin": "yóu fàn"
+    },
     "images": [
       {
         "image": "seasonedricebigwong",
@@ -63,34 +61,32 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "minced pork rice",
-        "Cantonese": {
-          "text": "滷肉飯",
-          "wkty": [
-            "滷肉飯",
-            "滷肉",
-            "滷",
-            "肉",
-            "飯"
-          ]
-        },
-        "Yale": "lóuh yuhk faahn",
-        "Jyutping": "lo5 juk6 faan6",
-        "Simplified": {
-          "text": "卤肉饭",
-          "wkty": [
-            "卤肉饭",
-            "卤肉",
-            "卤",
-            "肉",
-            "饭"
-          ]
-        },
-        "Pinyin": "lǔ ròu fàn"
-      }
-    ],
+    "word": {
+      "English": "minced pork rice",
+      "Cantonese": {
+        "text": "滷肉飯",
+        "wkty": [
+          "滷肉飯",
+          "滷肉",
+          "滷",
+          "肉",
+          "飯"
+        ]
+      },
+      "Yale": "lóuh yuhk faahn",
+      "Jyutping": "lo5 juk6 faan6",
+      "Simplified": {
+        "text": "卤肉饭",
+        "wkty": [
+          "卤肉饭",
+          "卤肉",
+          "卤",
+          "肉",
+          "饭"
+        ]
+      },
+      "Pinyin": "lǔ ròu fàn"
+    },
     "images": [
       {
         "image": "louroufaneverygrain",
@@ -138,31 +134,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "popcorn chicken rice",
-        "Cantonese": {
-          "text": "鹽酥雞飯",
-          "wkty": [
-            "鹽",
-            "酥",
-            "雞",
-            "飯"
-          ]
-        },
-        "Yale": "yìhm sōu gāi faahn",
-        "Simplified": {
-          "text": "盐酥鸡饭",
-          "wkty": [
-            "盐",
-            "酥",
-            "鸡",
-            "饭"
-          ]
-        },
-        "Pinyin": "yán sū jī fàn"
-      }
-    ],
+    "word": {
+      "English": "popcorn chicken rice",
+      "Cantonese": {
+        "text": "鹽酥雞飯",
+        "wkty": [
+          "鹽",
+          "酥",
+          "雞",
+          "飯"
+        ]
+      },
+      "Yale": "yìhm sōu gāi faahn",
+      "Simplified": {
+        "text": "盐酥鸡饭",
+        "wkty": [
+          "盐",
+          "酥",
+          "鸡",
+          "饭"
+        ]
+      },
+      "Pinyin": "yán sū jī fàn"
+    },
     "images": [
       {
         "image": "popcornchickenricesweetheart",
@@ -186,31 +180,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Taiwanese sausage rice",
-        "Cantonese": {
-          "text": "香腸飯",
-          "wkty": [
-            "香腸",
-            "香",
-            "腸",
-            "飯"
-          ]
-        },
-        "Yale": "hēung chéung faahn",
-        "Simplified": {
-          "text": "香肠饭",
-          "wkty": [
-            "香肠",
-            "香",
-            "肠",
-            "饭"
-          ]
-        },
-        "Pinyin": "xiāng cháng fàn"
-      }
-    ],
+    "word": {
+      "English": "Taiwanese sausage rice",
+      "Cantonese": {
+        "text": "香腸飯",
+        "wkty": [
+          "香腸",
+          "香",
+          "腸",
+          "飯"
+        ]
+      },
+      "Yale": "hēung chéung faahn",
+      "Simplified": {
+        "text": "香肠饭",
+        "wkty": [
+          "香肠",
+          "香",
+          "肠",
+          "饭"
+        ]
+      },
+      "Pinyin": "xiāng cháng fàn"
+    },
     "images": [
       {
         "image": "taiwanesesausagerice",

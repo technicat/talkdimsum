@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "Chinese broccoli",
-                "Cantonese": {
-                    "text": "芥蘭",
-                    "wkty": [
-                        "芥蘭",
-                        "芥",
-                        "蘭"
-                    ]
-                },
-                "Yale": "gaai láan",
-                "Simplified": {
-                    "text": "芥兰",
-                    "wkty": [
-                        "芥兰",
-                        "芥",
-                        "兰"
-                    ]
-                },
-                "Pinyin": "gài lán"
-            }
-        ],
+        "word": {
+            "English": "Chinese broccoli",
+            "Cantonese": {
+                "text": "芥蘭",
+                "wkty": [
+                    "芥蘭",
+                    "芥",
+                    "蘭"
+                ]
+            },
+            "Yale": "gaai láan",
+            "Simplified": {
+                "text": "芥兰",
+                "wkty": [
+                    "芥兰",
+                    "芥",
+                    "兰"
+                ]
+            },
+            "Pinyin": "gài lán"
+        },
         "images": [
             {
                 "image": "chinesebroccolibigwong",
@@ -48,35 +46,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Chinese broccoli with oyster sauce",
-                "Cantonese": {
-                    "text": "蠔油芥蘭",
-                    "wkty": [
-                        "蠔油",
-                        "蠔",
-                        "油",
-                        "芥蘭",
-                        "芥",
-                        "蘭"
-                    ]
-                },
-                "Yale": "hòuh yàuh gaai láan",
-                "Simplified": {
-                    "text": "蚝油芥蘭",
-                    "wkty": [
-                        "蚝油",
-                        "蚝",
-                        "油",
-                        "芥蘭",
-                        "芥",
-                        "蘭"
-                    ]
-                },
-                "Pinyin": "háo yóu gài lán"
-            }
-        ],
+        "word": {
+            "English": "Chinese broccoli with oyster sauce",
+            "Cantonese": {
+                "text": "蠔油芥蘭",
+                "wkty": [
+                    "蠔油",
+                    "蠔",
+                    "油",
+                    "芥蘭",
+                    "芥",
+                    "蘭"
+                ]
+            },
+            "Yale": "hòuh yàuh gaai láan",
+            "Simplified": {
+                "text": "蚝油芥蘭",
+                "wkty": [
+                    "蚝油",
+                    "蚝",
+                    "油",
+                    "芥蘭",
+                    "芥",
+                    "蘭"
+                ]
+            },
+            "Pinyin": "háo yóu gài lán"
+        },
         "images": [
             {
                 "image": "chinesebroccolidimsumcafe",

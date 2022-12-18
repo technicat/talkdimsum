@@ -1,27 +1,25 @@
 [
    {
-      "words": [
-         {
-            "English": "red wine",
-            "Cantonese": {
-               "text": "紅酒",
-               "wkty": [
-                  "紅酒",
-                  "紅",
-                  "酒"
-               ]
-            },
-            "Simplified": {
-               "text": "红酒",
-               "wkty": [
-                  "红酒",
-                  "红",
-                  "酒"
-               ]
-            },
-            "Pinyin": "hóng jiǔ"
-         }
-      ],
+      "word": {
+         "English": "red wine",
+         "Cantonese": {
+            "text": "紅酒",
+            "wkty": [
+               "紅酒",
+               "紅",
+               "酒"
+            ]
+         },
+         "Simplified": {
+            "text": "红酒",
+            "wkty": [
+               "红酒",
+               "红",
+               "酒"
+            ]
+         },
+         "Pinyin": "hóng jiǔ"
+      },
       "images": [
          {
             "image": "redwinesprouts",
@@ -43,15 +41,13 @@
       ]
    },
    {
-      "words": [
-         {
-            "Cantonese": "美樂",
-            "Simplified": "美乐",
-            "English": "merlot",
-            "Yale": "méih lohk",
-            "Pinyin": "měi lè"
-         }
-      ],
+      "word": {
+         "Cantonese": "美樂",
+         "Simplified": "美乐",
+         "English": "merlot",
+         "Yale": "méih lohk",
+         "Pinyin": "měi lè"
+      },
       "images": [
          {
             "image": "merlotsprouts",
@@ -72,31 +68,29 @@
       ]
    },
    {
-      "words": [
-         {
-            "English": "pinot noir",
-            "Cantonese": {
-               "text": "黑比諾",
-               "wkty": [
-                  "黑比諾",
-                  "黑",
-                  "比",
-                  "諾"
-               ]
-            },
-            "Yale": "hāk béi nohk",
-            "Simplified": {
-               "text": "黑比诺",
-               "wkty": [
-                  "黑比诺",
-                  "黑",
-                  "比",
-                  "诺"
-               ]
-            },
-            "Pinyin": "Hēi bǐ nuò"
-         }
-      ],
+      "word": {
+         "English": "pinot noir",
+         "Cantonese": {
+            "text": "黑比諾",
+            "wkty": [
+               "黑比諾",
+               "黑",
+               "比",
+               "諾"
+            ]
+         },
+         "Yale": "hāk béi nohk",
+         "Simplified": {
+            "text": "黑比诺",
+            "wkty": [
+               "黑比诺",
+               "黑",
+               "比",
+               "诺"
+            ]
+         },
+         "Pinyin": "Hēi bǐ nuò"
+      },
       "images": [
          {
             "image": "pinotnoirsprouts",

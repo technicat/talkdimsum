@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "salt and pepper",
-                "Cantonese": {
-                    "text": "椒鹽",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽"
-                    ]
-                },
-                "Yale": "jīu yìhm",
-                "Simplified": {
-                    "text": "椒盐",
-                    "wkty": [
-                        "椒盐",
-                        "椒",
-                        "盐"
-                    ]
-                },
-                "Pinyin": "jiāo yán"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper",
+            "Cantonese": {
+                "text": "椒鹽",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽"
+                ]
+            },
+            "Yale": "jīu yìhm",
+            "Simplified": {
+                "text": "椒盐",
+                "wkty": [
+                    "椒盐",
+                    "椒",
+                    "盐"
+                ]
+            },
+            "Pinyin": "jiāo yán"
+        },
         "images": [
             {
                 "image": "saltandpeppersquid88noodlepapa",
@@ -45,31 +43,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper shrimp",
-                "Cantonese": {
-                    "text": "椒鹽蝦",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "蝦"
-                    ]
-                },
-                "Yale": "jīu yìhm hā",
-                "Simplified": {
-                    "text": "椒盐虾",
-                    "wkty": [
-                        "椒盐",
-                        "椒",
-                        "盐",
-                        "虾"
-                    ]
-                },
-                "Pinyin": "jiāo yán xiā"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper shrimp",
+            "Cantonese": {
+                "text": "椒鹽蝦",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "蝦"
+                ]
+            },
+            "Yale": "jīu yìhm hā",
+            "Simplified": {
+                "text": "椒盐虾",
+                "wkty": [
+                    "椒盐",
+                    "椒",
+                    "盐",
+                    "虾"
+                ]
+            },
+            "Pinyin": "jiāo yán xiā"
+        },
         "images": [
             {
                 "image": "saltandpeppershrimpyumcha",
@@ -109,35 +105,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper squid",
-                "Cantonese": {
-                    "text": "椒鹽魷魚",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "魷魚",
-                        "魷",
-                        "魚"
-                    ]
-                },
-                "Yale": "jīu yìhm yàuh yú",
-                "Simplified": {
-                    "text": "椒盐鱿鱼",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "盐",
-                        "鱿鱼",
-                        "鱿",
-                        "鱼"
-                    ]
-                },
-                "Pinyin": "jiāo yán xyóu yú"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper squid",
+            "Cantonese": {
+                "text": "椒鹽魷魚",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "魷魚",
+                    "魷",
+                    "魚"
+                ]
+            },
+            "Yale": "jīu yìhm yàuh yú",
+            "Simplified": {
+                "text": "椒盐鱿鱼",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "盐",
+                    "鱿鱼",
+                    "鱿",
+                    "鱼"
+                ]
+            },
+            "Pinyin": "jiāo yán xyóu yú"
+        },
         "images": [
             {
                 "image": "saltandpeppercalamaridimsumcafe2",
@@ -177,35 +171,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper chicken wings",
-                "Cantonese": {
-                    "text": "椒鹽雞翅",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "雞翅",
-                        "雞",
-                        "翅"
-                    ]
-                },
-                "Yale": "jīu yìhm gāi chi",
-                "Simplified": {
-                    "text": "椒盐鸡翅",
-                    "wkty": [
-                        "椒盐",
-                        "椒",
-                        "盐",
-                        "鸡翅",
-                        "鸡",
-                        "翅"
-                    ]
-                },
-                "Pinyin": "jiāo yán jī ch"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper chicken wings",
+            "Cantonese": {
+                "text": "椒鹽雞翅",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "雞翅",
+                    "雞",
+                    "翅"
+                ]
+            },
+            "Yale": "jīu yìhm gāi chi",
+            "Simplified": {
+                "text": "椒盐鸡翅",
+                "wkty": [
+                    "椒盐",
+                    "椒",
+                    "盐",
+                    "鸡翅",
+                    "鸡",
+                    "翅"
+                ]
+            },
+            "Pinyin": "jiāo yán jī ch"
+        },
         "images": [
             {
                 "image": "saltandpepperchickenwingsbigwong",
@@ -245,33 +237,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper fish",
-                "Cantonese": {
-                    "text": "椒鹽魚片",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "魚",
-                        "片"
-                    ]
-                },
-                "Yale": "jīu yìhm yú pín",
-                "Simplified": {
-                    "text": "椒盐鱼片",
-                    "wkty": [
-                        "椒盐",
-                        "椒",
-                        "盐",
-                        "鱼",
-                        "片"
-                    ]
-                },
-                "Pinyin": "jiāo yán yú piàn"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper fish",
+            "Cantonese": {
+                "text": "椒鹽魚片",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "魚",
+                    "片"
+                ]
+            },
+            "Yale": "jīu yìhm yú pín",
+            "Simplified": {
+                "text": "椒盐鱼片",
+                "wkty": [
+                    "椒盐",
+                    "椒",
+                    "盐",
+                    "鱼",
+                    "片"
+                ]
+            },
+            "Pinyin": "jiāo yán yú piàn"
+        },
         "images": [
             {
                 "image": "saltandpepperfishchefchings",
@@ -294,35 +284,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper tofu",
-                "Cantonese": {
-                    "text": "椒鹽豆腐",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "Yale": "jīu yìhm dauh fuh",
-                "Simplified": {
-                    "text": "椒盐豆腐",
-                    "wkty": [
-                        "椒盐",
-                        "盐",
-                        "鹽",
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "Pinyin": "jiāo yán dòu fu"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper tofu",
+            "Cantonese": {
+                "text": "椒鹽豆腐",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Yale": "jīu yìhm dauh fuh",
+            "Simplified": {
+                "text": "椒盐豆腐",
+                "wkty": [
+                    "椒盐",
+                    "盐",
+                    "鹽",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Pinyin": "jiāo yán dòu fu"
+        },
         "images": [
             {
                 "image": "saltandpeppertofuskseafood2",
@@ -352,35 +340,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper pork chop",
-                "Cantonese": {
-                    "text": "椒鹽排骨",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "排骨",
-                        "排",
-                        "骨"
-                    ]
-                },
-                "Yale": "jīu yìhm pàaih gwāt",
-                "Simplified": {
-                    "text": "椒盐排骨",
-                    "wkty": [
-                        "椒盐",
-                        "椒",
-                        "盐",
-                        "排骨",
-                        "排",
-                        "骨"
-                    ]
-                },
-                "Pinyin": "jiāo yán pái gǔ"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper pork chop",
+            "Cantonese": {
+                "text": "椒鹽排骨",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "排骨",
+                    "排",
+                    "骨"
+                ]
+            },
+            "Yale": "jīu yìhm pàaih gwāt",
+            "Simplified": {
+                "text": "椒盐排骨",
+                "wkty": [
+                    "椒盐",
+                    "椒",
+                    "盐",
+                    "排骨",
+                    "排",
+                    "骨"
+                ]
+            },
+            "Pinyin": "jiāo yán pái gǔ"
+        },
         "images": [
             {
                 "image": "saltandpepperporkbigwong",
@@ -405,35 +391,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper eggplant",
-                "Cantonese": {
-                    "text": "椒鹽茄子",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "茄子",
-                        "茄",
-                        "子"
-                    ]
-                },
-                "Yale": "jīu yìhm ké jí",
-                "Simplified": {
-                    "text": "椒盐茄子",
-                    "wkty": [
-                        "椒盐",
-                        "椒",
-                        "盐",
-                        "茄子",
-                        "茄",
-                        "子"
-                    ]
-                },
-                "Pinyin": "jiāo yán qié zi"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper eggplant",
+            "Cantonese": {
+                "text": "椒鹽茄子",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Yale": "jīu yìhm ké jí",
+            "Simplified": {
+                "text": "椒盐茄子",
+                "wkty": [
+                    "椒盐",
+                    "椒",
+                    "盐",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Pinyin": "jiāo yán qié zi"
+        },
         "images": [
             {
                 "image": "saltandpeppereggplant",
@@ -450,31 +434,29 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "salt and pepper crab",
-                "Cantonese": {
-                    "text": "椒鹽鉗",
-                    "wkty": [
-                        "椒鹽",
-                        "椒",
-                        "鹽",
-                        "鉗"
-                    ]
-                },
-                "Yale": "jīu yìhm háaih",
-                "Simplified": {
-                    "text": "椒盐鉗",
-                    "wkty": [
-                        "椒盐",
-                        "椒",
-                        "盐",
-                        "鉗"
-                    ]
-                },
-                "Pinyin": "jiāo yán xiè"
-            }
-        ],
+        "word": {
+            "English": "salt and pepper crab",
+            "Cantonese": {
+                "text": "椒鹽鉗",
+                "wkty": [
+                    "椒鹽",
+                    "椒",
+                    "鹽",
+                    "鉗"
+                ]
+            },
+            "Yale": "jīu yìhm háaih",
+            "Simplified": {
+                "text": "椒盐鉗",
+                "wkty": [
+                    "椒盐",
+                    "椒",
+                    "盐",
+                    "鉗"
+                ]
+            },
+            "Pinyin": "jiāo yán xiè"
+        },
         "images": [
             {
                 "image": "saltandpeppercrabbananaleafcafe",

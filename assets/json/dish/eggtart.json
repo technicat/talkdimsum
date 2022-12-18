@@ -1,29 +1,27 @@
 [
   {
-    "words": [
-      {
-        "English": "egg tart",
-        "Cantonese": {
-          "text": "蛋撻",
-          "wkty": [
-            "蛋撻",
-            "蛋",
-            "撻"
-          ]
-        },
-        "Yale": "daahn tāat",
-        "Jyutping": "daan6 taat1",
-        "Simplified": {
-          "text": "蛋挞",
-          "wkty": [
-            "蛋挞",
-            "蛋",
-            "挞"
-          ]
-        },
-        "Pinyin": "dàn tà"
-      }
-    ],
+    "word": {
+      "English": "egg tart",
+      "Cantonese": {
+        "text": "蛋撻",
+        "wkty": [
+          "蛋撻",
+          "蛋",
+          "撻"
+        ]
+      },
+      "Yale": "daahn tāat",
+      "Jyutping": "daan6 taat1",
+      "Simplified": {
+        "text": "蛋挞",
+        "wkty": [
+          "蛋挞",
+          "蛋",
+          "挞"
+        ]
+      },
+      "Pinyin": "dàn tà"
+    },
     "images": [
       {
         "image": "eggtartmixedmarket168",
@@ -77,35 +75,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Hong Kong-style egg tart",
-        "Cantonese": {
-          "text": "港式蛋撻",
-          "wkty": [
-            "港式",
-            "港",
-            "式",
-            "蛋撻",
-            "蛋",
-            "撻"
-          ]
-        },
-        "Yale": "góng sīk daahn tāat",
-        "Simplified": {
-          "text": "港式蛋挞",
-          "wkty": [
-            "港式",
-            "港",
-            "式",
-            "蛋挞",
-            "蛋",
-            "挞"
-          ]
-        },
-        "Pinyin": "Gǎng sh dàn tà"
-      }
-    ],
+    "word": {
+      "English": "Hong Kong-style egg tart",
+      "Cantonese": {
+        "text": "港式蛋撻",
+        "wkty": [
+          "港式",
+          "港",
+          "式",
+          "蛋撻",
+          "蛋",
+          "撻"
+        ]
+      },
+      "Yale": "góng sīk daahn tāat",
+      "Simplified": {
+        "text": "港式蛋挞",
+        "wkty": [
+          "港式",
+          "港",
+          "式",
+          "蛋挞",
+          "蛋",
+          "挞"
+        ]
+      },
+      "Pinyin": "Gǎng sh dàn tà"
+    },
     "images": [
       {
         "image": "eggtartkj",
@@ -170,29 +166,27 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Portuguese egg tart",
-        "Cantonese": {
-          "text": "葡撻",
-          "wkty": [
-            "葡撻",
-            "葡",
-            "撻"
-          ]
-        },
-        "Yale": "pòu tāat",
-        "Simplified":  {
-          "text": "葡挞",
-          "wkty": [
-            "葡撻",
-            "葡",
-            "撻"
-          ]
-        },
-        "Pinyin": "Pú tà"
-      }
-    ],
+    "word": {
+      "English": "Portuguese egg tart",
+      "Cantonese": {
+        "text": "葡撻",
+        "wkty": [
+          "葡撻",
+          "葡",
+          "撻"
+        ]
+      },
+      "Yale": "pòu tāat",
+      "Simplified": {
+        "text": "葡挞",
+        "wkty": [
+          "葡撻",
+          "葡",
+          "撻"
+        ]
+      },
+      "Pinyin": "Pú tà"
+    },
     "images": [
       {
         "image": "portugueseeggtartpingpangpong",

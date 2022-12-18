@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "dessert",
-                "Cantonese": {
-                    "text": "甜品",
-                    "wkty": [
-                        "甜品",
-                        "甜",
-                        "品"
-                    ]
-                },
-                "Yale": "tìhm bán",
-                "Jyutping": "tim4 ban2",
-                "Pinyin": "tián pǐn"
-            }
-        ],
+        "word": {
+            "English": "dessert",
+            "Cantonese": {
+                "text": "甜品",
+                "wkty": [
+                    "甜品",
+                    "甜",
+                    "品"
+                ]
+            },
+            "Yale": "tìhm bán",
+            "Jyutping": "tim4 ban2",
+            "Pinyin": "tián pǐn"
+        },
         "images": [
             {
                 "image": "walnutsoupandtarosagopuddingsweethoneydesserts",
@@ -46,24 +44,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mango pancake",
-                "Cantonese": {
-                    "text": "芒果班戟",
-                    "wkty": [
-                        "芒果",
-                        "芒",
-                        "果",
-                        "班戟",
-                        "班",
-                        "戟"
-                    ]
-                },
-                "Yale": "mōng gwó bāan kīk",
-                "Pinyin": "máng guǒ bān jǐ"
-            }
-        ],
+        "word": {
+            "English": "mango pancake",
+            "Cantonese": {
+                "text": "芒果班戟",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "班戟",
+                    "班",
+                    "戟"
+                ]
+            },
+            "Yale": "mōng gwó bāan kīk",
+            "Pinyin": "máng guǒ bān jǐ"
+        },
         "images": [
             {
                 "image": "mangopancakesweettalk",
@@ -98,31 +94,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "fried milk",
-                "Cantonese": {
-                    "text": "炸鮮奶",
-                    "wkty": [
-                        "炸",
-                        "鮮奶",
-                        "鮮",
-                        "奶"
-                    ]
-                },
-                "Yale": "ja sīn náaih",
-                "Simplified": {
-                    "text": "炸鲜奶",
-                    "wkty": [
-                        "炸",
-                        "鲜奶",
-                        "v",
-                        "奶"
-                    ]
-                },
-                "Pinyin": "zhá xiān nǎi"
-            }
-        ],
+        "word": {
+            "English": "fried milk",
+            "Cantonese": {
+                "text": "炸鮮奶",
+                "wkty": [
+                    "炸",
+                    "鮮奶",
+                    "鮮",
+                    "奶"
+                ]
+            },
+            "Yale": "ja sīn náaih",
+            "Simplified": {
+                "text": "炸鲜奶",
+                "wkty": [
+                    "炸",
+                    "鲜奶",
+                    "v",
+                    "奶"
+                ]
+            },
+            "Pinyin": "zhá xiān nǎi"
+        },
         "images": [
             {
                 "image": "friedmilksweetheart",
@@ -148,21 +142,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "grass jelly",
-                "Cantonese": {
-                    "text": "仙草",
-                    "wkty": [
-                        "仙草",
-                        "仙",
-                        "草"
-                    ]
-                },
-                "Yale": "sīn chóu",
-                "Pinyin": "xiān cǎo"
-            }
-        ],
+        "word": {
+            "English": "grass jelly",
+            "Cantonese": {
+                "text": "仙草",
+                "wkty": [
+                    "仙草",
+                    "仙",
+                    "草"
+                ]
+            },
+            "Yale": "sīn chóu",
+            "Pinyin": "xiān cǎo"
+        },
         "images": [
             {
                 "image": "icygrassjellysignaturemeetfresh",
@@ -194,22 +186,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "steamed egg",
-                "Cantonese": {
-                    "text": "蒸水蛋",
-                    "wkty": [
-                        "蒸水蛋",
-                        "蒸",
-                        "水",
-                        "蛋"
-                    ]
-                },
-                "Yale": "jīng séui dáan",
-                "Pinyin": "zhēng shuǐ dàn"
-            }
-        ],
+        "word": {
+            "English": "steamed egg",
+            "Cantonese": {
+                "text": "蒸水蛋",
+                "wkty": [
+                    "蒸水蛋",
+                    "蒸",
+                    "水",
+                    "蛋"
+                ]
+            },
+            "Yale": "jīng séui dáan",
+            "Pinyin": "zhēng shuǐ dàn"
+        },
         "images": [
             {
                 "image": "steamedeggyummyrice",

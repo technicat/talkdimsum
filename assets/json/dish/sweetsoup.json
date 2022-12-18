@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "sweet soup",
-                "Cantonese": {
-                    "text": "糖水",
-                    "wkty": [
-                        "糖水",
-                        "糖",
-                        "水"
-                    ]
-                },
-                "Yale": "tòhng séui",
-                "Jyupting": "tong4 seoi2",
-                "Pinyin": "táng shuǐ"
-            }
-        ],
+        "word": {
+            "English": "sweet soup",
+            "Cantonese": {
+                "text": "糖水",
+                "wkty": [
+                    "糖水",
+                    "糖",
+                    "水"
+                ]
+            },
+            "Yale": "tòhng séui",
+            "Jyupting": "tong4 seoi2",
+            "Pinyin": "táng shuǐ"
+        },
         "images": [
             {
                 "image": "redbeansoupkitchen2",
@@ -37,34 +35,32 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "紅豆湯",
-                    "wkty": [
-                        "紅豆湯",
-                        "紅豆",
-                        "紅",
-                        "豆",
-                        "湯"
-                    ]
-                },
-                "Simplified": {
-                    "text": "红豆汤",
-                    "wkty": [
-                        "红豆汤",
-                        "红豆",
-                        "红",
-                        "豆",
-                        "汤"
-                    ]
-                },
-                "English": "red bean soup",
-                "Yale": "hùhng dáu tōng",
-                "Jyupting": "hung4 dau2 tong1",
-                "Pinyin": "hóng dòu tāng"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "紅豆湯",
+                "wkty": [
+                    "紅豆湯",
+                    "紅豆",
+                    "紅",
+                    "豆",
+                    "湯"
+                ]
+            },
+            "Simplified": {
+                "text": "红豆汤",
+                "wkty": [
+                    "红豆汤",
+                    "红豆",
+                    "红",
+                    "豆",
+                    "汤"
+                ]
+            },
+            "English": "red bean soup",
+            "Yale": "hùhng dáu tōng",
+            "Jyupting": "hung4 dau2 tong1",
+            "Pinyin": "hóng dòu tāng"
+        },
         "images": [
             {
                 "image": "redbeansouptaiwu",
@@ -106,23 +102,21 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "sweet potato soup",
-                "Cantonese": {
-                    "text": "番薯糖水",
-                    "wkty": [
-                        "番薯糖水",
-                        "番薯",
-                        "番",
-                        "薯",
-                        "糖水"
-                    ]
-                },
-                "Yale": "fāan syú tòhng séui",
-                "Pinyin": "fān shǔ táng shuǐ"
-            }
-        ],
+        "word": {
+            "English": "sweet potato soup",
+            "Cantonese": {
+                "text": "番薯糖水",
+                "wkty": [
+                    "番薯糖水",
+                    "番薯",
+                    "番",
+                    "薯",
+                    "糖水"
+                ]
+            },
+            "Yale": "fāan syú tòhng séui",
+            "Pinyin": "fān shǔ táng shuǐ"
+        },
         "images": [
             {
                 "image": "sweetpotatosoupkj",
@@ -159,31 +153,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "龜苓膏",
-                    "wkty": [
-                        "龜苓膏",
-                        "龜",
-                        "苓",
-                        "膏"
-                    ]
-                },
-                "Simplified": {
-                    "text": "龟苓膏",
-                    "wkty": [
-                        "龟苓膏",
-                        "龟",
-                        "苓",
-                        "膏"
-                    ]
-                },
-                "English": "herbal jelly",
-                "Yale": "gwāi lìhng gōu",
-                "Pinyin": "guī líng gāo"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "龜苓膏",
+                "wkty": [
+                    "龜苓膏",
+                    "龜",
+                    "苓",
+                    "膏"
+                ]
+            },
+            "Simplified": {
+                "text": "龟苓膏",
+                "wkty": [
+                    "龟苓膏",
+                    "龟",
+                    "苓",
+                    "膏"
+                ]
+            },
+            "English": "herbal jelly",
+            "Yale": "gwāi lìhng gōu",
+            "Pinyin": "guī líng gāo"
+        },
         "images": [
             {
                 "image": "herbaljellysweettalk",

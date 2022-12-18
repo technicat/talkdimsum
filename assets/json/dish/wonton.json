@@ -1,29 +1,27 @@
 [
    {
-      "words": [
-         {
-            "English": "wonton",
-            "Cantonese": {
-               "text": "雲吞",
-               "wkty": [
-                  "雲吞",
-                  "雲",
-                  "吞"
-               ]
-            },
-            "Yale": "wàhn tān",
-            "Jyutping": "wan6 tan1",
-            "Simplified": {
-               "text": "云吞",
-               "wkty": [
-                  "雲吞",
-                  "雲",
-                  "吞"
-               ]
-            },
-            "Pinyin": "yún tūn"
-         }
-      ],
+      "word": {
+         "English": "wonton",
+         "Cantonese": {
+            "text": "雲吞",
+            "wkty": [
+               "雲吞",
+               "雲",
+               "吞"
+            ]
+         },
+         "Yale": "wàhn tān",
+         "Jyutping": "wan6 tan1",
+         "Simplified": {
+            "text": "云吞",
+            "wkty": [
+               "雲吞",
+               "雲",
+               "吞"
+            ]
+         },
+         "Pinyin": "yún tūn"
+      },
       "images": [
          {
             "image": "wontonsoup2",
@@ -50,35 +48,33 @@
       ]
    },
    {
-      "words": [
-         {
-            "English": "red oil wonton",
-            "Cantonese": {
-               "text": "紅油抄手",
-               "wkty": [
-                  "紅油",
-                  "紅",
-                  "油",
-                  "抄手",
-                  "抄",
-                  "手"
-               ]
-            },
-            "Yale": "hùhng yàuh chāau sáu",
-            "Simplified": {
-               "text": "红油抄手",
-               "wkty": [
-                  "红油",
-                  "红",
-                  "油",
-                  "抄手",
-                  "抄",
-                  "手"
-               ]
-            },
-            "Pinyin": "hóng yóu chāo shǒu"
-         }
-      ],
+      "word": {
+         "English": "red oil wonton",
+         "Cantonese": {
+            "text": "紅油抄手",
+            "wkty": [
+               "紅油",
+               "紅",
+               "油",
+               "抄手",
+               "抄",
+               "手"
+            ]
+         },
+         "Yale": "hùhng yàuh chāau sáu",
+         "Simplified": {
+            "text": "红油抄手",
+            "wkty": [
+               "红油",
+               "红",
+               "油",
+               "抄手",
+               "抄",
+               "手"
+            ]
+         },
+         "Pinyin": "hóng yóu chāo shǒu"
+      },
       "images": [
          {
             "image": "redoilwontontimhowan",

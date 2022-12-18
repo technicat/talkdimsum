@@ -1,28 +1,26 @@
 [
     {
-        "words": [
-            {
-                "English": "wonton noodle soup",
-                "Cantonese": {
-                    "text": "雲吞麵",
-                    "wkty": [
-                        "雲吞麵",
-                        "雲吞",
-                        "麵"
-                    ]
-                },
-                "Simplified": {
-                    "text": "云吞面",
-                    "wkty": [
-                        "云吞面",
-                        "云吞",
-                        "面"
-                    ]
-                },
-                "Yale": "wàhn tān mihn",
-                "Pinyin": "yún tūn miàn"
-            }
-        ],
+        "word": {
+            "English": "wonton noodle soup",
+            "Cantonese": {
+                "text": "雲吞麵",
+                "wkty": [
+                    "雲吞麵",
+                    "雲吞",
+                    "麵"
+                ]
+            },
+            "Simplified": {
+                "text": "云吞面",
+                "wkty": [
+                    "云吞面",
+                    "云吞",
+                    "面"
+                ]
+            },
+            "Yale": "wàhn tān mihn",
+            "Pinyin": "yún tūn miàn"
+        },
         "images": [
             {
                 "image": "wontonnoodlesoup88noodlepapa",
@@ -76,35 +74,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "roast duck wonton noodle soup",
-                "Cantonese": {
-                    "text": "燒鴨雲吞麵",
-                    "wkty": [
-                        "燒鴨",
-                        "燒",
-                        "鴨",
-                        "雲吞麵",
-                        "雲吞",
-                        "麵"
-                    ]
-                },
-                "Yale": "sīu aap wàhn tān mihn",
-                "Simplified": {
-                    "text": "烧鸭云吞面",
-                    "wkty": [
-                        "烧鸭",
-                        "烧",
-                        "鸭",
-                        "云吞面",
-                        "云吞",
-                        "面"
-                    ]
-                },
-                "Pinyin": "shāo yā yún tūn miàn"
-            }
-        ],
+        "word": {
+            "English": "roast duck wonton noodle soup",
+            "Cantonese": {
+                "text": "燒鴨雲吞麵",
+                "wkty": [
+                    "燒鴨",
+                    "燒",
+                    "鴨",
+                    "雲吞麵",
+                    "雲吞",
+                    "麵"
+                ]
+            },
+            "Yale": "sīu aap wàhn tān mihn",
+            "Simplified": {
+                "text": "烧鸭云吞面",
+                "wkty": [
+                    "烧鸭",
+                    "烧",
+                    "鸭",
+                    "云吞面",
+                    "云吞",
+                    "面"
+                ]
+            },
+            "Pinyin": "shāo yā yún tūn miàn"
+        },
         "images": [
             {
                 "image": "roastduckwontonnoodlesoup",

@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "salted egg",
-        "Cantonese": {
-          "text": "鹹蛋",
-          "wkty": [
-            "鹹蛋",
-            "鹹",
-            "蛋"
-          ]
-        },
-        "Yale": "hàahm dáan",
-        "Simplified": {
-          "text": "咸蛋",
-          "wkty": [
-            "咸蛋",
-            "咸",
-            "蛋"
-          ]
-        },
-        "Pinyin": "xián dàn"
-      }
-    ],
+    "word": {
+      "English": "salted egg",
+      "Cantonese": {
+        "text": "鹹蛋",
+        "wkty": [
+          "鹹蛋",
+          "鹹",
+          "蛋"
+        ]
+      },
+      "Yale": "hàahm dáan",
+      "Simplified": {
+        "text": "咸蛋",
+        "wkty": [
+          "咸蛋",
+          "咸",
+          "蛋"
+        ]
+      },
+      "Pinyin": "xián dàn"
+    },
     "images": [
       {
         "image": "salty_egg_wikipedia",
@@ -53,29 +51,27 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "soy egg",
-        "Cantonese": {
-          "text": "滷蛋",
-          "wkty": [
-            "滷蛋",
-            "滷",
-            "蛋"
-          ]
-        },
-        "Yale": "lóuh dáan",
-        "Simplified": {
-          "text": "卤蛋",
-          "wkty": [
-            "滷蛋",
-            "滷",
-            "蛋"
-          ]
-        },
-        "Pinyin": "lǔ dàn"
-      }
-    ],
+    "word": {
+      "English": "soy egg",
+      "Cantonese": {
+        "text": "滷蛋",
+        "wkty": [
+          "滷蛋",
+          "滷",
+          "蛋"
+        ]
+      },
+      "Yale": "lóuh dáan",
+      "Simplified": {
+        "text": "卤蛋",
+        "wkty": [
+          "滷蛋",
+          "滷",
+          "蛋"
+        ]
+      },
+      "Pinyin": "lǔ dàn"
+    },
     "images": [
       {
         "image": "soyegg",
@@ -99,33 +95,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "tea egg",
-        "Cantonese": {
-          "text": "茶葉蛋",
-          "wkty": [
-            "茶葉蛋",
-            "茶葉",
-            "茶",
-            "葉",
-            "蛋"
-          ]
-        },
-        "Yale": "chàh yihp dáan",
-        "Simplified": {
-          "text": "茶叶蛋",
-          "wkty": [
-            "茶叶蛋",
-            "茶叶",
-            "茶",
-            "叶",
-            "蛋"
-          ]
-        },
-        "Pinyin": "chá yè dàn"
-      }
-    ],
+    "word": {
+      "English": "tea egg",
+      "Cantonese": {
+        "text": "茶葉蛋",
+        "wkty": [
+          "茶葉蛋",
+          "茶葉",
+          "茶",
+          "葉",
+          "蛋"
+        ]
+      },
+      "Yale": "chàh yihp dáan",
+      "Simplified": {
+        "text": "茶叶蛋",
+        "wkty": [
+          "茶叶蛋",
+          "茶叶",
+          "茶",
+          "叶",
+          "蛋"
+        ]
+      },
+      "Pinyin": "chá yè dàn"
+    },
     "images": [
       {
         "image": "teaegg99ranch",
@@ -161,23 +155,21 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "egg foo young",
-        "Cantonese": {
-          "text": "芙蓉蛋",
-          "wkty": [
-            "芙蓉蛋",
-            "芙蓉",
-            "芙",
-            "蓉",
-            "蛋"
-          ]
-        },
-        "Yale": "fùh yùhng dáan",
-        "Pinyin": "fú róng dàn"
-      }
-    ],
+    "word": {
+      "English": "egg foo young",
+      "Cantonese": {
+        "text": "芙蓉蛋",
+        "wkty": [
+          "芙蓉蛋",
+          "芙蓉",
+          "芙",
+          "蓉",
+          "蛋"
+        ]
+      },
+      "Yale": "fùh yùhng dáan",
+      "Pinyin": "fú róng dàn"
+    },
     "images": [
       {
         "image": "eggfooyoungredshrimp",

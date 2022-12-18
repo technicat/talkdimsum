@@ -1,30 +1,28 @@
 [
     {
-        "words": [
-            {
-                "English": "stuffed eggplant",
-                "Cantonese": {
-                    "text": "釀茄子",
-                    "wkty": [
-                        "釀",
-                        "茄子",
-                        "茄",
-                        "子"
-                    ]
-                },
-                "Yale": "yeuhng ké jí",
-                "Simplified": {
-                    "text": "酿茄子",
-                    "wkty": [
-                        "酿",
-                        "茄子",
-                        "茄",
-                        "子"
-                    ]
-                },
-                "Pinyin": "niàng qié zi"
-            }
-        ],
+        "word": {
+            "English": "stuffed eggplant",
+            "Cantonese": {
+                "text": "釀茄子",
+                "wkty": [
+                    "釀",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Yale": "yeuhng ké jí",
+            "Simplified": {
+                "text": "酿茄子",
+                "wkty": [
+                    "酿",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Pinyin": "niàng qié zi"
+        },
         "images": [
             {
                 "image": "stuffedeggplantdimsumcafe",
@@ -55,31 +53,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "stuffed mushrooms",
-                "Cantonese": {
-                    "text": "釀蘑菇",
-                    "wkty": [
-                        "釀",
-                        "蘑菇",
-                        "蘑",
-                        "菇"
-                    ]
-                },
-                "Yale": "yeuhng mòh gū",
-                "Simplified": {
-                    "text": "酿蘑菇",
-                    "wkty": [
-                        "酿",
-                        "蘑菇",
-                        "蘑",
-                        "菇"
-                    ]
-                },
-                "Pinyin": "niàng mó gu"
-            }
-        ],
+        "word": {
+            "English": "stuffed mushrooms",
+            "Cantonese": {
+                "text": "釀蘑菇",
+                "wkty": [
+                    "釀",
+                    "蘑菇",
+                    "蘑",
+                    "菇"
+                ]
+            },
+            "Yale": "yeuhng mòh gū",
+            "Simplified": {
+                "text": "酿蘑菇",
+                "wkty": [
+                    "酿",
+                    "蘑菇",
+                    "蘑",
+                    "菇"
+                ]
+            },
+            "Pinyin": "niàng mó gu"
+        },
         "images": [
             {
                 "image": "stuffedmushroomsdimsumcafe",
@@ -96,31 +92,29 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "stuffed bell peppers",
-                "Cantonese": {
-                    "text": "釀青椒",
-                    "wkty": [
-                        "釀",
-                        "青椒",
-                        "青",
-                        "椒"
-                    ]
-                },
-                "Yale": "yeuhng chēng jīu",
-                "Simplified": {
-                    "text": "酿青椒",
-                    "wkty": [
-                        "酿",
-                        "青椒",
-                        "青",
-                        "椒"
-                    ]
-                },
-                "Pinyin": "niàng qīng jiāo"
-            }
-        ],
+        "word": {
+            "English": "stuffed bell peppers",
+            "Cantonese": {
+                "text": "釀青椒",
+                "wkty": [
+                    "釀",
+                    "青椒",
+                    "青",
+                    "椒"
+                ]
+            },
+            "Yale": "yeuhng chēng jīu",
+            "Simplified": {
+                "text": "酿青椒",
+                "wkty": [
+                    "酿",
+                    "青椒",
+                    "青",
+                    "椒"
+                ]
+            },
+            "Pinyin": "niàng qīng jiāo"
+        },
         "images": [
             {
                 "image": "stuffedbellpeppers"

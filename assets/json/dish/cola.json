@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "cola",
-        "Cantonese": {
-          "text": "可樂",
-          "wkty": [
-            "可樂",
-            "可",
-            "樂"
-          ]
-        },
-        "Yale": "hó lohk",
-        "Simplified": {
-          "text": "可乐",
-          "wkty": [
-            "可樂",
-            "可",
-            "樂"
-          ]
-        },
-        "Pinyin": "kě lè"
-      }
-    ],
+    "word": {
+      "English": "cola",
+      "Cantonese": {
+        "text": "可樂",
+        "wkty": [
+          "可樂",
+          "可",
+          "樂"
+        ]
+      },
+      "Yale": "hó lohk",
+      "Simplified": {
+        "text": "可乐",
+        "wkty": [
+          "可樂",
+          "可",
+          "樂"
+        ]
+      },
+      "Pinyin": "kě lè"
+    },
     "images": [
       {
         "image": "coladethai",
@@ -45,37 +43,35 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "lemon cola",
-        "Cantonese": {
-          "text": "檸檬可樂",
-          "wkty": [
-            "檸檬可樂",
-            "檸檬",
-            "檸",
-            "檬",
-            "可樂",
-            "可",
-            "樂"
-          ]
-        },
-        "Yale": "nìhng mūng hó lohk",
-        "Simplified": {
-          "text": "柠檬可乐",
-          "wkty": [
-            "柠檬可樂",
-            "柠檬",
-            "柠",
-            "檬",
-            "可乐",
-            "可",
-            "乐"
-          ]
-        },
-        "Pinyin": "níng méng kě lè"
-      }
-    ],
+    "word": {
+      "English": "lemon cola",
+      "Cantonese": {
+        "text": "檸檬可樂",
+        "wkty": [
+          "檸檬可樂",
+          "檸檬",
+          "檸",
+          "檬",
+          "可樂",
+          "可",
+          "樂"
+        ]
+      },
+      "Yale": "nìhng mūng hó lohk",
+      "Simplified": {
+        "text": "柠檬可乐",
+        "wkty": [
+          "柠檬可樂",
+          "柠檬",
+          "柠",
+          "檬",
+          "可乐",
+          "可",
+          "乐"
+        ]
+      },
+      "Pinyin": "níng méng kě lè"
+    },
     "images": [
       {
         "image": "lemoncolaluckyhouse",
@@ -99,33 +95,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "diet Coke",
-        "Cantonese": {
-          "text": "健怡可樂",
-          "wkty": [
-            "健",
-            "怡",
-            "可樂",
-            "可",
-            "樂"
-          ]
-        },
-        "Yale": "gihn yìh hó lohk",
-        "Simplified": {
-          "text": "健怡可乐",
-          "wkty": [
-            "健",
-            "怡",
-            "可乐",
-            "可",
-            "乐"
-          ]
-        },
-        "Pinyin": "jiàn yí Kě lè"
-      }
-    ],
+    "word": {
+      "English": "diet Coke",
+      "Cantonese": {
+        "text": "健怡可樂",
+        "wkty": [
+          "健",
+          "怡",
+          "可樂",
+          "可",
+          "樂"
+        ]
+      },
+      "Yale": "gihn yìh hó lohk",
+      "Simplified": {
+        "text": "健怡可乐",
+        "wkty": [
+          "健",
+          "怡",
+          "可乐",
+          "可",
+          "乐"
+        ]
+      },
+      "Pinyin": "jiàn yí Kě lè"
+    },
     "images": [
       {
         "image": "dietcoke",
@@ -148,21 +142,19 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Pepsi",
-        "Cantonese": {
-          "text": "百事",
-          "wkty": [
-            "百事",
-            "百",
-            "事"
-          ]
-        },
-        "Yale": "baak sih",
-        "Pinyin": "bǎi shì"
-      }
-    ],
+    "word": {
+      "English": "Pepsi",
+      "Cantonese": {
+        "text": "百事",
+        "wkty": [
+          "百事",
+          "百",
+          "事"
+        ]
+      },
+      "Yale": "baak sih",
+      "Pinyin": "bǎi shì"
+    },
     "images": [
       {
         "image": "pepsidimsumcafe",

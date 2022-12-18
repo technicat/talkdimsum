@@ -1,29 +1,27 @@
 [
   {
-    "words": [
-      {
-        "English": "chicken feet",
-        "Cantonese": {
-          "text": "鳳爪",
-          "wkty": [
-            "鳳爪",
-            "鳳",
-            "爪"
-          ]
-        },
-        "Yale": "fuhng jáau",
-        "Jyutping": "fung6 zaau2",
-        "Simplified": {
-          "text": "凤爪",
-          "wkty": [
-            "凤爪",
-            "凤",
-            "爪"
-          ]
-        },
-        "Pinyin": "fèng zhǎo"
-      }
-    ],
+    "word": {
+      "English": "chicken feet",
+      "Cantonese": {
+        "text": "鳳爪",
+        "wkty": [
+          "鳳爪",
+          "鳳",
+          "爪"
+        ]
+      },
+      "Yale": "fuhng jáau",
+      "Jyutping": "fung6 zaau2",
+      "Simplified": {
+        "text": "凤爪",
+        "wkty": [
+          "凤爪",
+          "凤",
+          "爪"
+        ]
+      },
+      "Pinyin": "fèng zhǎo"
+    },
     "images": [
       {
         "image": "chickenfeetkj",
@@ -67,35 +65,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "sweet and sour chicken feet",
-        "Cantonese": {
-          "text": "白雲鳳爪",
-          "wkty": [
-            "白雲",
-            "白",
-            "雲",
-            "鳳爪",
-            "鳳",
-            "爪"
-          ]
-        },
-        "Yale": "baahk wàhn fuhng jáau",
-        "Simplified": {
-          "text": "白云凤爪",
-          "wkty": [
-            "白云",
-            "白",
-            "云",
-            "凤爪",
-            "凤",
-            "爪"
-          ]
-        },
-        "Pinyin": "Bái yún fèng zhǎo"
-      }
-    ],
+    "word": {
+      "English": "sweet and sour chicken feet",
+      "Cantonese": {
+        "text": "白雲鳳爪",
+        "wkty": [
+          "白雲",
+          "白",
+          "雲",
+          "鳳爪",
+          "鳳",
+          "爪"
+        ]
+      },
+      "Yale": "baahk wàhn fuhng jáau",
+      "Simplified": {
+        "text": "白云凤爪",
+        "wkty": [
+          "白云",
+          "白",
+          "云",
+          "凤爪",
+          "凤",
+          "爪"
+        ]
+      },
+      "Pinyin": "Bái yún fèng zhǎo"
+    },
     "images": [
       {
         "image": "thaichickenfeetnewasian3",

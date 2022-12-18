@@ -1,32 +1,30 @@
 [
     {
-        "words": [
-            {
-                "English": "custard bun",
-                "Cantonese": {
-                    "text": "奶黃包",
-                    "wkty": [
-                        "奶黃包",
-                        "奶黃",
-                        "奶",
-                        "黃",
-                        "包"
-                    ]
-                },
-                "Yale": "náaih wòhng bāau",
-                "Simplified": {
-                    "text": "奶黄包",
-                    "wkty": [
-                        "奶黄包",
-                        "奶黄",
-                        "奶",
-                        "黄",
-                        "包"
-                    ]
-                },
-                "Pinyin": "nǎi huáng bāo"
-            }
-        ],
+        "word": {
+            "English": "custard bun",
+            "Cantonese": {
+                "text": "奶黃包",
+                "wkty": [
+                    "奶黃包",
+                    "奶黃",
+                    "奶",
+                    "黃",
+                    "包"
+                ]
+            },
+            "Yale": "náaih wòhng bāau",
+            "Simplified": {
+                "text": "奶黄包",
+                "wkty": [
+                    "奶黄包",
+                    "奶黄",
+                    "奶",
+                    "黄",
+                    "包"
+                ]
+            },
+            "Pinyin": "nǎi huáng bāo"
+        },
         "images": [
             {
                 "image": "custardbundimsumcafe",
@@ -74,39 +72,37 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "bunny custard bun",
-                "Cantonese": {
-                    "text": "小兔奶黃包",
-                    "wkty": [
-                        "小兔",
-                        "小",
-                        "兔",
-                        "奶黃包",
-                        "奶黃",
-                        "奶",
-                        "黃",
-                        "包"
-                    ]
-                },
-                "Yale": "síu tou náaih wòhng bāau",
-                "Simplified": {
-                    "text": "小兔奶黄包",
-                    "wkty": [
-                        "小兔",
-                        "小",
-                        "兔",
-                        "奶黄包",
-                        "奶黄",
-                        "奶",
-                        "黄",
-                        "包"
-                    ]
-                },
-                "Pinyin": "xiǎo tù nǎi huáng bāo"
-            }
-        ],
+        "word": {
+            "English": "bunny custard bun",
+            "Cantonese": {
+                "text": "小兔奶黃包",
+                "wkty": [
+                    "小兔",
+                    "小",
+                    "兔",
+                    "奶黃包",
+                    "奶黃",
+                    "奶",
+                    "黃",
+                    "包"
+                ]
+            },
+            "Yale": "síu tou náaih wòhng bāau",
+            "Simplified": {
+                "text": "小兔奶黄包",
+                "wkty": [
+                    "小兔",
+                    "小",
+                    "兔",
+                    "奶黄包",
+                    "奶黄",
+                    "奶",
+                    "黄",
+                    "包"
+                ]
+            },
+            "Pinyin": "xiǎo tù nǎi huáng bāo"
+        },
         "images": [
             {
                 "image": "rabbitcustardbun",
@@ -130,39 +126,37 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "piglet custard bun",
-                "Cantonese": {
-                    "text": "小豬奶黃包",
-                    "wkty": [
-                        "小豬",
-                        "小",
-                        "豬",
-                        "奶黃包",
-                        "奶黃",
-                        "奶",
-                        "黃",
-                        "包"
-                    ]
-                },
-                "Yale": "síu jyū náaih wòhng bāau",
-                "Simplified": {
-                    "text": "小猪奶黄包",
-                    "wkty": [
-                        "小猪",
-                        "小",
-                        "猪",
-                        "奶黃包",
-                        "奶黄",
-                        "奶",
-                        "黄",
-                        "包"
-                    ]
-                },
-                "Pinyin": "xiǎo zhū nǎi huáng bāo"
-            }
-        ],
+        "word": {
+            "English": "piglet custard bun",
+            "Cantonese": {
+                "text": "小豬奶黃包",
+                "wkty": [
+                    "小豬",
+                    "小",
+                    "豬",
+                    "奶黃包",
+                    "奶黃",
+                    "奶",
+                    "黃",
+                    "包"
+                ]
+            },
+            "Yale": "síu jyū náaih wòhng bāau",
+            "Simplified": {
+                "text": "小猪奶黄包",
+                "wkty": [
+                    "小猪",
+                    "小",
+                    "猪",
+                    "奶黃包",
+                    "奶黄",
+                    "奶",
+                    "黄",
+                    "包"
+                ]
+            },
+            "Pinyin": "xiǎo zhū nǎi huáng bāo"
+        },
         "images": [
             {
                 "image": "pigletcustardbungingercafe",
@@ -186,22 +180,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "molten custard bun",
-                "Cantonese": {
-                    "text": "流沙包",
-                    "wkty": [
-                        "流沙",
-                        "流",
-                        "沙",
-                        "包"
-                    ]
-                },
-                "Yale": "làu sā bāau",
-                "Pinyin": "liú shā bāo"
-            }
-        ],
+        "word": {
+            "English": "molten custard bun",
+            "Cantonese": {
+                "text": "流沙包",
+                "wkty": [
+                    "流沙",
+                    "流",
+                    "沙",
+                    "包"
+                ]
+            },
+            "Yale": "làu sā bāau",
+            "Pinyin": "liú shā bāo"
+        },
         "images": [
             {
                 "image": "steamedlavacakeyumcha",

@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "fried rice",
-        "Cantonese": {
-          "text": "炒飯",
-          "wkty": [
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "cháau faahn",
-        "Simplified": {
-          "text": "炒饭",
-          "wkty": [
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "fried rice",
+      "Cantonese": {
+        "text": "炒飯",
+        "wkty": [
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "cháau faahn",
+      "Simplified": {
+        "text": "炒饭",
+        "wkty": [
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "chǎo fàn"
+    },
     "images": [
       {
         "image": "yangchowfriedricetimhowan",
@@ -44,35 +42,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "seafood fried rice",
-        "Cantonese": {
-          "text": "海鮮炒飯",
-          "wkty": [
-            "海鮮",
-            "海",
-            "鮮",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "hói sīn cháau faahn",
-        "Simplified": {
-          "text": "海鲜炒饭",
-          "wkty": [
-            "海鲜",
-            "海",
-            "鲜",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "hǎi xiān chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "seafood fried rice",
+      "Cantonese": {
+        "text": "海鮮炒飯",
+        "wkty": [
+          "海鮮",
+          "海",
+          "鮮",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "hói sīn cháau faahn",
+      "Simplified": {
+        "text": "海鲜炒饭",
+        "wkty": [
+          "海鲜",
+          "海",
+          "鲜",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "hǎi xiān chǎo fàn"
+    },
     "images": [
       {
         "image": "seafoodfriedriceniugu",
@@ -100,37 +96,35 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Yangzhou fried rice",
-        "Cantonese": {
-          "text": "揚州炒飯",
-          "wkty": [
-            "揚州炒飯",
-            "揚州",
-            "揚",
-            "州",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Simplified": {
-          "text": "扬州炒饭",
-          "wkty": [
-            "扬州炒飯",
-            "扬州",
-            "扬",
-            "州",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Yale": "yèuhng jāu cháau faahn",
-        "Pinyin": "Yáng zhōu chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "Yangzhou fried rice",
+      "Cantonese": {
+        "text": "揚州炒飯",
+        "wkty": [
+          "揚州炒飯",
+          "揚州",
+          "揚",
+          "州",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Simplified": {
+        "text": "扬州炒饭",
+        "wkty": [
+          "扬州炒飯",
+          "扬州",
+          "扬",
+          "州",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Yale": "yèuhng jāu cháau faahn",
+      "Pinyin": "Yáng zhōu chǎo fàn"
+    },
     "images": [
       {
         "image": "yangchowfriedricenorthsidecafe",
@@ -189,35 +183,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Chinese sausage fried rice",
-        "Cantonese": {
-          "text": "臘腸炒飯",
-          "wkty": [
-            "臘腸",
-            "臘",
-            "腸",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "laahp chéung cháau faahn",
-        "Simplified": {
-          "text": "腊肠炒饭",
-          "wkty": [
-            "腊肠",
-            "腊",
-            "肠",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "là cháng chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "Chinese sausage fried rice",
+      "Cantonese": {
+        "text": "臘腸炒飯",
+        "wkty": [
+          "臘腸",
+          "臘",
+          "腸",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "laahp chéung cháau faahn",
+      "Simplified": {
+        "text": "腊肠炒饭",
+        "wkty": [
+          "腊肠",
+          "腊",
+          "肠",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "là cháng chǎo fàn"
+    },
     "images": [
       {
         "image": "chinesesausagefriedriceshinschinesegourmet",
@@ -253,31 +245,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "chicken fried rice",
-        "Cantonese": {
-          "text": "雞炒飯",
-          "wkty": [
-            "雞",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "gāi cháau faahn",
-        "Simplified": {
-          "text": "鸡炒饭",
-          "wkty": [
-            "鸡",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "jī chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "chicken fried rice",
+      "Cantonese": {
+        "text": "雞炒飯",
+        "wkty": [
+          "雞",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "gāi cháau faahn",
+      "Simplified": {
+        "text": "鸡炒饭",
+        "wkty": [
+          "鸡",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "jī chǎo fàn"
+    },
     "images": [
       {
         "image": "chickenfriedricestratcafe",
@@ -300,35 +290,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "shrimp fried rice",
-        "Cantonese": {
-          "text": "蝦仁炒飯",
-          "wkty": [
-            "蝦仁",
-            "蝦",
-            "仁",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "hā yàhn cháau faahn",
-        "Simplified": {
-          "text": "虾仁炒饭",
-          "wkty": [
-            "虾仁",
-            "虾",
-            "仁",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "xiā rén chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "shrimp fried rice",
+      "Cantonese": {
+        "text": "蝦仁炒飯",
+        "wkty": [
+          "蝦仁",
+          "蝦",
+          "仁",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "hā yàhn cháau faahn",
+      "Simplified": {
+        "text": "虾仁炒饭",
+        "wkty": [
+          "虾仁",
+          "虾",
+          "仁",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "xiā rén chǎo fàn"
+    },
     "images": [
       {
         "image": "shrimpfriedrice",
@@ -352,35 +340,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "BBQ pork fried rice",
-        "Cantonese": {
-          "text": "叉燒炒飯",
-          "wkty": [
-            "叉燒",
-            "叉",
-            "燒",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "chā sīu cháau faahn",
-        "Simplified": {
-          "text": "叉烧炒饭",
-          "wkty": [
-            "叉烧",
-            "叉",
-            "烧",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "chā shāo chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "BBQ pork fried rice",
+      "Cantonese": {
+        "text": "叉燒炒飯",
+        "wkty": [
+          "叉燒",
+          "叉",
+          "燒",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "chā sīu cháau faahn",
+      "Simplified": {
+        "text": "叉烧炒饭",
+        "wkty": [
+          "叉烧",
+          "叉",
+          "烧",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "chā shāo chǎo fàn"
+    },
     "images": [
       {
         "image": "chasiufriedricezenpeninsula",
@@ -412,37 +398,35 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "chicken w/ salted fish fried rice",
-        "Cantonese": {
-          "text": "鹹魚雞炒飯",
-          "wkty": [
-            "鹹魚",
-            "鹹",
-            "魚",
-            "雞",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "hàahm yú gāi cháau faahn",
-        "Simplified": {
-          "text": "咸鱼鸡炒饭",
-          "wkty": [
-            "咸鱼",
-            "咸",
-            "鱼",
-            "鸡",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "xián yú jī chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "chicken w/ salted fish fried rice",
+      "Cantonese": {
+        "text": "鹹魚雞炒飯",
+        "wkty": [
+          "鹹魚",
+          "鹹",
+          "魚",
+          "雞",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "hàahm yú gāi cháau faahn",
+      "Simplified": {
+        "text": "咸鱼鸡炒饭",
+        "wkty": [
+          "咸鱼",
+          "咸",
+          "鱼",
+          "鸡",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "xián yú jī chǎo fàn"
+    },
     "images": [
       {
         "image": "saltedfishchickenfriedricedimsumcafe",
@@ -472,39 +456,37 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "spam fried rice",
-        "Cantonese": {
-          "text": "午餐肉炒飯",
-          "wkty": [
-            "午餐肉",
-            "午餐",
-            "午",
-            "餐",
-            "肉",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "ńgh chāan yuhk cháau faahn",
-        "Simplified": {
-          "text": "午餐肉炒饭",
-          "wkty": [
-            "午餐肉",
-            "午餐",
-            "午",
-            "餐",
-            "肉",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "wǔ cān ròu chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "spam fried rice",
+      "Cantonese": {
+        "text": "午餐肉炒飯",
+        "wkty": [
+          "午餐肉",
+          "午餐",
+          "午",
+          "餐",
+          "肉",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "ńgh chāan yuhk cháau faahn",
+      "Simplified": {
+        "text": "午餐肉炒饭",
+        "wkty": [
+          "午餐肉",
+          "午餐",
+          "午",
+          "餐",
+          "肉",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "wǔ cān ròu chǎo fàn"
+    },
     "images": [
       {
         "image": "spamfriedriceisland2",
@@ -527,31 +509,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "vegetable fried rice",
-        "Cantonese": {
-          "text": "素炒飯",
-          "wkty": [
-            "素",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "sou cháau faahn",
-        "Simplified": {
-          "text": "素炒饭",
-          "wkty": [
-            "素",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "sù chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "vegetable fried rice",
+      "Cantonese": {
+        "text": "素炒飯",
+        "wkty": [
+          "素",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "sou cháau faahn",
+      "Simplified": {
+        "text": "素炒饭",
+        "wkty": [
+          "素",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "sù chǎo fàn"
+    },
     "images": [
       {
         "image": "vegfriedricedimsumcaf2",
@@ -579,31 +559,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "egg fried rice",
-        "Cantonese": {
-          "text": "蛋炒飯",
-          "wkty": [
-            "蛋",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "dáan cháau faahn",
-        "Simplified": {
-          "text": "蛋炒饭",
-          "wkty": [
-            "蛋",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "dàn chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "egg fried rice",
+      "Cantonese": {
+        "text": "蛋炒飯",
+        "wkty": [
+          "蛋",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "dáan cháau faahn",
+      "Simplified": {
+        "text": "蛋炒饭",
+        "wkty": [
+          "蛋",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "dàn chǎo fàn"
+    },
     "images": [
       {
         "image": "shanghaieggfriedriceshanghaitaste",
@@ -635,35 +613,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Fujian fried rice",
-        "Cantonese": {
-          "text": "福建炒飯",
-          "wkty": [
-            "福建",
-            "福",
-            "建",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "fūk gin cháau faahn",
-        "Simplified": {
-          "text": "福建炒饭",
-          "wkty": [
-            "福建",
-            "福",
-            "建",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "Fú jiàn chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "Fujian fried rice",
+      "Cantonese": {
+        "text": "福建炒飯",
+        "wkty": [
+          "福建",
+          "福",
+          "建",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "fūk gin cháau faahn",
+      "Simplified": {
+        "text": "福建炒饭",
+        "wkty": [
+          "福建",
+          "福",
+          "建",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "Fú jiàn chǎo fàn"
+    },
     "images": [
       {
         "image": "fujianfriedriceckkitchen",
@@ -693,35 +669,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "pineapple fried rice",
-        "Cantonese": {
-          "text": "菠蘿炒飯",
-          "wkty": [
-            "菠蘿",
-            "菠",
-            "蘿",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "bō lòh cháau faahn",
-        "Simplified": {
-          "text": "菠萝炒饭",
-          "wkty": [
-            "菠萝",
-            "菠",
-            "萝",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "bō luó chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "pineapple fried rice",
+      "Cantonese": {
+        "text": "菠蘿炒飯",
+        "wkty": [
+          "菠蘿",
+          "菠",
+          "蘿",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "bō lòh cháau faahn",
+      "Simplified": {
+        "text": "菠萝炒饭",
+        "wkty": [
+          "菠萝",
+          "菠",
+          "萝",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "bō luó chǎo fàn"
+    },
     "images": [
       {
         "image": "pineapplefriedricebananaleafcafe",
@@ -744,33 +718,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "XO fried rice",
-        "Cantonese": {
-          "text": "XO醬炒飯",
-          "wkty": [
-            "XO醬",
-            "醬",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "XO jeung cháau faahn",
-        "Simplified": {
-          "text": "XO酱炒饭",
-          "wkty": [
-            "XO酱",
-            "酱",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "XO jiàng chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "XO fried rice",
+      "Cantonese": {
+        "text": "XO醬炒飯",
+        "wkty": [
+          "XO醬",
+          "醬",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "XO jeung cháau faahn",
+      "Simplified": {
+        "text": "XO酱炒饭",
+        "wkty": [
+          "XO酱",
+          "酱",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "XO jiàng chǎo fàn"
+    },
     "images": [
       {
         "image": "xofriedricexialongbao",
@@ -794,31 +766,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Singapore fried rice",
-        "Cantonese": {
-          "text": "新加坡炒飯",
-          "wkty": [
-            "新加坡",
-            "炒飯",
-            "炒",
-            "飯"
-          ]
-        },
-        "Yale": "sān ga bō cháau faahn",
-        "Simplified": {
-          "text": "新加坡炒饭",
-          "wkty": [
-            "新加坡",
-            "炒饭",
-            "炒",
-            "饭"
-          ]
-        },
-        "Pinyin": "Xīn jiā pō chǎo fàn"
-      }
-    ],
+    "word": {
+      "English": "Singapore fried rice",
+      "Cantonese": {
+        "text": "新加坡炒飯",
+        "wkty": [
+          "新加坡",
+          "炒飯",
+          "炒",
+          "飯"
+        ]
+      },
+      "Yale": "sān ga bō cháau faahn",
+      "Simplified": {
+        "text": "新加坡炒饭",
+        "wkty": [
+          "新加坡",
+          "炒饭",
+          "炒",
+          "饭"
+        ]
+      },
+      "Pinyin": "Xīn jiā pō chǎo fàn"
+    },
     "images": [
       {
         "image": "singaporefriedricebananaleafcafe",

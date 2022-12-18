@@ -1,14 +1,13 @@
 [
     {
-        "words": [
+        "word":
             {
                 "English": "honey walnut shrimp",
                 "Cantonese": "西汁蝦",
                 "Simplified": "西汁虾",
                 "Yale": "sāi jāp hā",
                 "Pinyin": "xī zhī xiā"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "honeywalnutshrimpkj",
@@ -52,7 +51,7 @@
         ]
     },
     {
-        "words": [
+        "word":
             {
                 "English": "fried shrimp",
                 "Cantonese": {
@@ -75,8 +74,7 @@
                     ]
                 },
                 "Pinyin": "zhà xiā zǐ"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "friedshrimpdimsumcafe",
@@ -93,15 +91,14 @@
         "resources": []
     },
     {
-        "words": [
+        "word":
             {
                 "Cantonese": "芋蝦",
                 "Simplified": "芋虾",
                 "English": "taro shrimp",
                 "Yale": "wuh hā",
                 "Pinyin": "yù xiā"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "taroshrimpyumcha",
@@ -119,7 +116,7 @@
         "resources": []
     },
     {
-        "words": [
+        "word":
             {
                 "English": "shrimp chips",
                 "Cantonese": {
@@ -140,8 +137,7 @@
                     ]
                 },
                 "Pinyin": "xiā piàn"
-            }
-        ],
+            },
         "images": [
             {
                 "image": "shrimpchipscalifornianoodlehouse",

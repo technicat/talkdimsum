@@ -1,32 +1,30 @@
 [
   {
-    "words": [
-      {
-        "English": "turnip cake",
-        "Cantonese": {
-          "text": "蘿蔔糕",
-          "wkty": [
-            "蘿蔔糕",
-            "蘿蔔",
-            "蘿",
-            "蔔",
-            "糕"
-          ]
-        },
-        "Yale": "lò baahk gōu",
-        "Simplified": {
-          "text": "萝卜糕",
-          "wkty": [
-            "萝卜糕",
-            "萝卜",
-            "萝",
-            "卜",
-            "糕"
-          ]
-        },
-        "Pinyin": "luó bo gāo"
-      }
-    ],
+    "word": {
+      "English": "turnip cake",
+      "Cantonese": {
+        "text": "蘿蔔糕",
+        "wkty": [
+          "蘿蔔糕",
+          "蘿蔔",
+          "蘿",
+          "蔔",
+          "糕"
+        ]
+      },
+      "Yale": "lò baahk gōu",
+      "Simplified": {
+        "text": "萝卜糕",
+        "wkty": [
+          "萝卜糕",
+          "萝卜",
+          "萝",
+          "卜",
+          "糕"
+        ]
+      },
+      "Pinyin": "luó bo gāo"
+    },
     "images": [
       {
         "image": "turnipcakedimsumco",
@@ -116,35 +114,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "pan-fried turnip cake",
-        "Cantonese": {
-          "text": "煎蘿蔔糕",
-          "wkty": [
-            "煎",
-            "蘿蔔糕",
-            "蘿蔔",
-            "蘿",
-            "蔔",
-            "糕"
-          ]
-        },
-        "Yale": "jīn lò baahk gōu",
-        "Simplified": {
-          "text": "煎萝卜糕",
-          "wkty": [
-            "煎",
-            "萝卜糕",
-            "萝卜",
-            "萝",
-            "卜",
-            "糕"
-          ]
-        },
-        "Pinyin": "jiān luó bo gāo"
-      }
-    ],
+    "word": {
+      "English": "pan-fried turnip cake",
+      "Cantonese": {
+        "text": "煎蘿蔔糕",
+        "wkty": [
+          "煎",
+          "蘿蔔糕",
+          "蘿蔔",
+          "蘿",
+          "蔔",
+          "糕"
+        ]
+      },
+      "Yale": "jīn lò baahk gōu",
+      "Simplified": {
+        "text": "煎萝卜糕",
+        "wkty": [
+          "煎",
+          "萝卜糕",
+          "萝卜",
+          "萝",
+          "卜",
+          "糕"
+        ]
+      },
+      "Pinyin": "jiān luó bo gāo"
+    },
     "images": [
       {
         "image": "turnipcakekj2",
@@ -180,35 +176,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "steamed turnip cake",
-        "Cantonese": {
-          "text": "蒸蘿蔔糕",
-          "wkty": [
-            "蒸",
-            "蘿蔔糕",
-            "蘿蔔",
-            "蘿",
-            "蔔",
-            "糕"
-          ]
-        },
-        "Yale": "jīng lò baahk gōu",
-        "Simplified": {
-          "text": "蒸萝卜糕",
-          "wkty": [
-            "蒸",
-            "萝卜糕",
-            "萝卜",
-            "萝卜",
-            "卜",
-            "糕"
-          ]
-        },
-        "Pinyin": "zhēng luó bo gāo"
-      }
-    ],
+    "word": {
+      "English": "steamed turnip cake",
+      "Cantonese": {
+        "text": "蒸蘿蔔糕",
+        "wkty": [
+          "蒸",
+          "蘿蔔糕",
+          "蘿蔔",
+          "蘿",
+          "蔔",
+          "糕"
+        ]
+      },
+      "Yale": "jīng lò baahk gōu",
+      "Simplified": {
+        "text": "蒸萝卜糕",
+        "wkty": [
+          "蒸",
+          "萝卜糕",
+          "萝卜",
+          "萝卜",
+          "卜",
+          "糕"
+        ]
+      },
+      "Pinyin": "zhēng luó bo gāo"
+    },
     "images": [
       {
         "image": "steamedturnipcakepingpangpong",
@@ -227,47 +221,45 @@
     "resources": []
   },
   {
-    "words": [
-      {
-        "English": "Singapore-style turnip cake",
-        "Cantonese": {
-          "text": "星洲炒蘿蔔糕",
-          "wkty": [
-            "星洲",
-            "星",
-            "洲",
-            "炒",
-            "蘿蔔糕",
-            "蘿蔔",
-            "蘿",
-            "蔔",
-            "糕"
-          ]
-        },
-        "Mandarin": {
-          "text": "菜頭粿",
-          "wkty": [
-            "菜頭粿",
-            "菜頭",
-            "菜",
-            "頭",
-            "粿"
-          ]
-        },
-        "Yale": "sīng jāu cháau lò baahk gōu",
-        "Simplified": {
-          "text": "菜头粿",
-          "wkty": [
-            "菜头粿",
-            "菜头",
-            "菜",
-            "头",
-            "粿"
-          ]
-        },
-        "Pinyin": "cài tóu guǒ"
-      }
-    ],
+    "word": {
+      "English": "Singapore-style turnip cake",
+      "Cantonese": {
+        "text": "星洲炒蘿蔔糕",
+        "wkty": [
+          "星洲",
+          "星",
+          "洲",
+          "炒",
+          "蘿蔔糕",
+          "蘿蔔",
+          "蘿",
+          "蔔",
+          "糕"
+        ]
+      },
+      "Mandarin": {
+        "text": "菜頭粿",
+        "wkty": [
+          "菜頭粿",
+          "菜頭",
+          "菜",
+          "頭",
+          "粿"
+        ]
+      },
+      "Yale": "sīng jāu cháau lò baahk gōu",
+      "Simplified": {
+        "text": "菜头粿",
+        "wkty": [
+          "菜头粿",
+          "菜头",
+          "菜",
+          "头",
+          "粿"
+        ]
+      },
+      "Pinyin": "cài tóu guǒ"
+    },
     "images": [
       {
         "image": "singaporeturnipcakecafeselina",
@@ -290,39 +282,37 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "stir-fried turnip cake w/ XO sauce",
-        "Cantonese": {
-          "text": "XO醬炒蘿蔔糕",
-          "wkty": [
-            "XO醬",
-            "醬",
-            "炒",
-            "蘿蔔糕",
-            "蘿蔔",
-            "蘿",
-            "蔔",
-            "糕"
-          ]
-        },
-        "Yale": "XO jeung cháau lò baahk gōu",
-        "Simplified": {
-          "text": "XO酱炒萝卜糕",
-          "wkty": [
-            "XO酱",
-            "酱",
-            "炒",
-            "蘿蔔糕",
-            "萝卜",
-            "萝",
-            "卜",
-            "糕"
-          ]
-        },
-        "Pinyin": "XO jiàng chǎo luó bo gāo"
-      }
-    ],
+    "word": {
+      "English": "stir-fried turnip cake w/ XO sauce",
+      "Cantonese": {
+        "text": "XO醬炒蘿蔔糕",
+        "wkty": [
+          "XO醬",
+          "醬",
+          "炒",
+          "蘿蔔糕",
+          "蘿蔔",
+          "蘿",
+          "蔔",
+          "糕"
+        ]
+      },
+      "Yale": "XO jeung cháau lò baahk gōu",
+      "Simplified": {
+        "text": "XO酱炒萝卜糕",
+        "wkty": [
+          "XO酱",
+          "酱",
+          "炒",
+          "蘿蔔糕",
+          "萝卜",
+          "萝",
+          "卜",
+          "糕"
+        ]
+      },
+      "Pinyin": "XO jiàng chǎo luó bo gāo"
+    },
     "images": [
       {
         "image": "stirfriedturnipcakewithxosauce2cafesalina",

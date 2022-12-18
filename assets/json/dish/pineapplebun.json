@@ -1,32 +1,30 @@
 [
   {
-    "words": [
-      {
-        "English": "pineapple bun",
-        "Cantonese": {
-          "text": "菠蘿包",
-          "wkty": [
-            "菠蘿包",
-            "菠蘿",
-            "菠",
-            "蘿",
-            "包"
-          ]
-        },
-        "Yale": "bō lòh bāau",
-        "Simplified": {
-          "text": "菠萝包",
-          "wkty": [
-            "菠萝包",
-            "菠萝",
-            "菠",
-            "萝",
-            "包"
-          ]
-        },
-        "Pinyin": "bō luó bāo"
-      }
-    ],
+    "word": {
+      "English": "pineapple bun",
+      "Cantonese": {
+        "text": "菠蘿包",
+        "wkty": [
+          "菠蘿包",
+          "菠蘿",
+          "菠",
+          "蘿",
+          "包"
+        ]
+      },
+      "Yale": "bō lòh bāau",
+      "Simplified": {
+        "text": "菠萝包",
+        "wkty": [
+          "菠萝包",
+          "菠萝",
+          "菠",
+          "萝",
+          "包"
+        ]
+      },
+      "Pinyin": "bō luó bāo"
+    },
     "images": [
       {
         "image": "pineapplebun168market",
@@ -100,33 +98,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "pineapple bun w/ butter",
-        "Cantonese": {
-          "text": "菠蘿油",
-          "wkty": [
-            "菠蘿包",
-            "菠蘿",
-            "菠",
-            "蘿",
-            "包"
-          ]
-        },
-        "Yale": "bō lòh yàuh",
-        "Simplified": {
-          "text": "菠萝油",
-          "wkty": [
-            "菠萝包",
-            "菠萝",
-            "菠",
-            "萝",
-            "包"
-          ]
-        },
-        "Pinyin": "bō luó yóu"
-      }
-    ],
+    "word": {
+      "English": "pineapple bun w/ butter",
+      "Cantonese": {
+        "text": "菠蘿油",
+        "wkty": [
+          "菠蘿包",
+          "菠蘿",
+          "菠",
+          "蘿",
+          "包"
+        ]
+      },
+      "Yale": "bō lòh yàuh",
+      "Simplified": {
+        "text": "菠萝油",
+        "wkty": [
+          "菠萝包",
+          "菠萝",
+          "菠",
+          "萝",
+          "包"
+        ]
+      },
+      "Pinyin": "bō luó yóu"
+    },
     "images": [
       {
         "image": "pineapplebunwithbutterjjnoodle",
@@ -152,37 +148,35 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "pineapple lava custard bun",
-        "Cantonese": {
-          "text": "菠蘿流沙包",
-          "wkty": [
-            "菠蘿",
-            "菠",
-            "蘿",
-            "流沙",
-            "流",
-            "沙",
-            "包"
-          ]
-        },
-        "Yale": "bō lòh làu sāa bāau",
-        "Simplified": {
-          "text": "菠萝流沙包",
-          "wkty": [
-            "菠萝",
-            "菠",
-            "萝",
-            "流沙",
-            "流",
-            "沙",
-            "包"
-          ]
-        },
-        "Pinyin": "bō luó liú shā bāo"
-      }
-    ],
+    "word": {
+      "English": "pineapple lava custard bun",
+      "Cantonese": {
+        "text": "菠蘿流沙包",
+        "wkty": [
+          "菠蘿",
+          "菠",
+          "蘿",
+          "流沙",
+          "流",
+          "沙",
+          "包"
+        ]
+      },
+      "Yale": "bō lòh làu sāa bāau",
+      "Simplified": {
+        "text": "菠萝流沙包",
+        "wkty": [
+          "菠萝",
+          "菠",
+          "萝",
+          "流沙",
+          "流",
+          "沙",
+          "包"
+        ]
+      },
+      "Pinyin": "bō luó liú shā bāo"
+    },
     "images": [
       {
         "image": "pineapplelavacakerevealedyumcha",

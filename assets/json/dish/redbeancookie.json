@@ -1,24 +1,22 @@
 [
     {
-        "words": [
-            {
-                "English": "red bean paste triangle",
-                "Cantonese": {
-                    "text": "豆沙三角餅",
-                    "wkty": [
-                        "豆沙",
-                        "豆",
-                        "沙",
-                        "三角",
-                        "三",
-                        "角",
-                        "餅"
-                    ]
-                },
-                "Yale": "dauh sā sāam gok béng",
-                "Pinyin": "dòu shā sān jiǎo bǐng"
-            }
-        ],
+        "word": {
+            "English": "red bean paste triangle",
+            "Cantonese": {
+                "text": "豆沙三角餅",
+                "wkty": [
+                    "豆沙",
+                    "豆",
+                    "沙",
+                    "三角",
+                    "三",
+                    "角",
+                    "餅"
+                ]
+            },
+            "Yale": "dauh sā sāam gok béng",
+            "Pinyin": "dòu shā sān jiǎo bǐng"
+        },
         "images": [
             {
                 "image": "redbeantrianglediamondbakery",

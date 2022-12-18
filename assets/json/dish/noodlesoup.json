@@ -1,30 +1,28 @@
 [
     {
-        "words": [
-            {
-                "English": "dumpling noodle soup",
-                "Cantonese": {
-                    "text": "水餃麵",
-                    "wkty": [
-                        "水餃",
-                        "水",
-                        "餃",
-                        "麵"
-                    ]
-                },
-                "Yale": "séui gáau mihn",
-                "Simplified": {
-                    "text": "水饺麵",
-                    "wkty": [
-                        "水饺",
-                        "水",
-                        "饺",
-                        "麵"
-                    ]
-                },
-                "Pinyin": "shuǐ jiǎo miàn"
-            }
-        ],
+        "word": {
+            "English": "dumpling noodle soup",
+            "Cantonese": {
+                "text": "水餃麵",
+                "wkty": [
+                    "水餃",
+                    "水",
+                    "餃",
+                    "麵"
+                ]
+            },
+            "Yale": "séui gáau mihn",
+            "Simplified": {
+                "text": "水饺麵",
+                "wkty": [
+                    "水饺",
+                    "水",
+                    "饺",
+                    "麵"
+                ]
+            },
+            "Pinyin": "shuǐ jiǎo miàn"
+        },
         "images": [
             {
                 "image": "shrimpdumplingnoodlesoupasianbbq",
@@ -47,37 +45,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "beef brisket and noodles in clear broth",
-                "Cantonese": {
-                    "text": "清湯牛腩粉",
-                    "wkty": [
-                        "清湯",
-                        "清",
-                        "湯",
-                        "牛腩",
-                        "牛",
-                        "腩",
-                        "粉"
-                    ]
-                },
-                "Yale": "chīng tōng ngàuh náahm fán",
-                "Simplified": {
-                    "text": "清汤牛腩粉",
-                    "wkty": [
-                        "清湯",
-                        "清",
-                        "湯",
-                        "牛腩",
-                        "牛",
-                        "腩",
-                        "粉"
-                    ]
-                },
-                "Pinyin": "qīng tāng niú nǎn fěn"
-            }
-        ],
+        "word": {
+            "English": "beef brisket and noodles in clear broth",
+            "Cantonese": {
+                "text": "清湯牛腩粉",
+                "wkty": [
+                    "清湯",
+                    "清",
+                    "湯",
+                    "牛腩",
+                    "牛",
+                    "腩",
+                    "粉"
+                ]
+            },
+            "Yale": "chīng tōng ngàuh náahm fán",
+            "Simplified": {
+                "text": "清汤牛腩粉",
+                "wkty": [
+                    "清湯",
+                    "清",
+                    "湯",
+                    "牛腩",
+                    "牛",
+                    "腩",
+                    "粉"
+                ]
+            },
+            "Pinyin": "qīng tāng niú nǎn fěn"
+        },
         "images": [
             {
                 "image": "beefstewclearbrothnoodle88noodlepapa",
@@ -100,33 +96,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Taiwanese beef noodle soup",
-                "Cantonese": {
-                    "text": "牛肉麵",
-                    "wkty": [
-                        "牛肉麵",
-                        "牛肉",
-                        "牛",
-                        "肉",
-                        "麵"
-                    ]
-                },
-                "Yale": "ngàuh yuhk mihn",
-                "Simplified": {
-                    "text": "牛肉面",
-                    "wkty": [
-                        "牛肉面",
-                        "牛肉",
-                        "牛",
-                        "肉",
-                        "面"
-                    ]
-                },
-                "Pinyin": "niú ròu miàn"
-            }
-        ],
+        "word": {
+            "English": "Taiwanese beef noodle soup",
+            "Cantonese": {
+                "text": "牛肉麵",
+                "wkty": [
+                    "牛肉麵",
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "麵"
+                ]
+            },
+            "Yale": "ngàuh yuhk mihn",
+            "Simplified": {
+                "text": "牛肉面",
+                "wkty": [
+                    "牛肉面",
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "面"
+                ]
+            },
+            "Pinyin": "niú ròu miàn"
+        },
         "images": [
             {
                 "image": "beefstewnoodleteastation",
@@ -157,21 +151,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "laksa",
-                "Cantonese": {
-                    "text": "叻沙",
-                    "wkty": [
-                        "叻沙",
-                        "叻",
-                        "沙"
-                    ]
-                },
-                "Yale": "lahk sā",
-                "Pinyin": "lè shā"
-            }
-        ],
+        "word": {
+            "English": "laksa",
+            "Cantonese": {
+                "text": "叻沙",
+                "wkty": [
+                    "叻沙",
+                    "叻",
+                    "沙"
+                ]
+            },
+            "Yale": "lahk sā",
+            "Pinyin": "lè shā"
+        },
         "images": [
             {
                 "image": "laksanoodlepapa",
@@ -213,37 +205,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "tomato fried egg noodle soup",
-                "Cantonese": {
-                    "text": "番茄煎蛋麵",
-                    "wkty": [
-                        "番茄",
-                        "番",
-                        "茄",
-                        "煎蛋",
-                        "煎",
-                        "蛋",
-                        "麵"
-                    ]
-                },
-                "Yale": "fāan ké jīn dáan mihn",
-                "Simplified": {
-                    "text": "番茄煎蛋面",
-                    "wkty": [
-                        "番茄",
-                        "番",
-                        "茄",
-                        "煎蛋",
-                        "煎",
-                        "蛋",
-                        "面"
-                    ]
-                },
-                "Pinyin": "fān qi jiān dàn miàn"
-            }
-        ],
+        "word": {
+            "English": "tomato fried egg noodle soup",
+            "Cantonese": {
+                "text": "番茄煎蛋麵",
+                "wkty": [
+                    "番茄",
+                    "番",
+                    "茄",
+                    "煎蛋",
+                    "煎",
+                    "蛋",
+                    "麵"
+                ]
+            },
+            "Yale": "fāan ké jīn dáan mihn",
+            "Simplified": {
+                "text": "番茄煎蛋面",
+                "wkty": [
+                    "番茄",
+                    "番",
+                    "茄",
+                    "煎蛋",
+                    "煎",
+                    "蛋",
+                    "面"
+                ]
+            },
+            "Pinyin": "fān qi jiān dàn miàn"
+        },
         "images": [
             {
                 "image": "tomatofriedeggnoodlesoupnoodlehead",

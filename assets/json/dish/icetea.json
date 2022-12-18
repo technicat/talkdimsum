@@ -1,28 +1,26 @@
 [
   {
-    "words": [
-      {
-        "English": "ice tea",
-        "Cantonese": {
-          "text": "冰茶",
-          "wkty": [
-            "冰茶",
-            "冰",
-            "茶"
-          ]
-        },
-        "Yale": "bīng chàh",
-        "Simplified": {
-          "text": "冰茶",
-          "wkty": [
-            "冰茶",
-            "冰",
-            "茶"
-          ]
-        },
-        "Pinyin": "bīng chá"
-      }
-    ],
+    "word": {
+      "English": "ice tea",
+      "Cantonese": {
+        "text": "冰茶",
+        "wkty": [
+          "冰茶",
+          "冰",
+          "茶"
+        ]
+      },
+      "Yale": "bīng chàh",
+      "Simplified": {
+        "text": "冰茶",
+        "wkty": [
+          "冰茶",
+          "冰",
+          "茶"
+        ]
+      },
+      "Pinyin": "bīng chá"
+    },
     "images": [
       {
         "image": "iceteadimsumcafe",

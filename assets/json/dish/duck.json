@@ -1,36 +1,34 @@
 [
   {
-    "words": [
-      {
-        "English": "Peking duck",
-        "Cantonese": {
-          "text": "北京烤鴨",
-          "wkty": [
-            "北京烤鴨",
-            "北京",
-            "北",
-            "京",
-            "烤鴨",
-            "烤",
-            "鴨"
-          ]
-        },
-        "Yale": "bāk gīng hāau ngaap",
-        "Simplified": {
-          "text": "北京烤鸭",
-          "wkty": [
-            "北京烤鸭",
-            "北京",
-            "北",
-            "京",
-            "烤鸭",
-            "烤",
-            "鸭"
-          ]
-        },
-        "Pinyin": "běi jīng kǎo yā"
-      }
-    ],
+    "word": {
+      "English": "Peking duck",
+      "Cantonese": {
+        "text": "北京烤鴨",
+        "wkty": [
+          "北京烤鴨",
+          "北京",
+          "北",
+          "京",
+          "烤鴨",
+          "烤",
+          "鴨"
+        ]
+      },
+      "Yale": "bāk gīng hāau ngaap",
+      "Simplified": {
+        "text": "北京烤鸭",
+        "wkty": [
+          "北京烤鸭",
+          "北京",
+          "北",
+          "京",
+          "烤鸭",
+          "烤",
+          "鸭"
+        ]
+      },
+      "Pinyin": "běi jīng kǎo yā"
+    },
     "images": [
       {
         "image": "pekingduckzenpeninsula",
@@ -63,15 +61,13 @@
     ]
   },
   {
-    "words": [
-      {
-        "Cantonese": "素鴨",
-        "Simplified": "素鸭",
-        "English": "vegetarian duck",
-        "Yale": "sou ngaap",
-        "Pinyin": "sù yā"
-      }
-    ],
+    "word": {
+      "Cantonese": "素鴨",
+      "Simplified": "素鸭",
+      "English": "vegetarian duck",
+      "Yale": "sou ngaap",
+      "Pinyin": "sù yā"
+    },
     "images": [
       {
         "image": "vegetarianduck",

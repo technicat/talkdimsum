@@ -1,13 +1,11 @@
 [
   {
-    "words": [
-      {
-        "English": "flaky pastry",
-        "Cantonese": "酥",
-        "Yale": "sōu",
-        "Pinyin": "sū"
-      }
-    ],
+    "word": {
+      "English": "flaky pastry",
+      "Cantonese": "酥",
+      "Yale": "sōu",
+      "Pinyin": "sū"
+    },
     "images": [
       {
         "image": "chasiusouopenpingpangpong",
@@ -27,33 +25,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "BBQ pork puff",
-        "Cantonese": {
-          "text": "叉燒酥",
-          "wkty": [
-            "叉燒酥",
-            "叉燒",
-            "叉",
-            "燒",
-            "酥"
-          ]
-        },
-        "Yale": "chā sīu sōu",
-        "Simplified": {
-          "text": "叉烧酥",
-          "wkty": [
-            "叉烧酥",
-            "叉烧",
-            "叉",
-            "烧",
-            "酥"
-          ]
-        },
-        "Pinyin": "chā shāo sū"
-      }
-    ],
+    "word": {
+      "English": "BBQ pork puff",
+      "Cantonese": {
+        "text": "叉燒酥",
+        "wkty": [
+          "叉燒酥",
+          "叉燒",
+          "叉",
+          "燒",
+          "酥"
+        ]
+      },
+      "Yale": "chā sīu sōu",
+      "Simplified": {
+        "text": "叉烧酥",
+        "wkty": [
+          "叉烧酥",
+          "叉烧",
+          "叉",
+          "烧",
+          "酥"
+        ]
+      },
+      "Pinyin": "chā shāo sū"
+    },
     "images": [
       {
         "image": "bbqporkpastrydimsumcafe",
@@ -92,31 +88,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "radish puff",
-        "Cantonese": {
-          "text": "蘿蔔酥",
-          "wkty": [
-            "蘿蔔",
-            "蘿",
-            "蔔",
-            "酥"
-          ]
-        },
-        "Yale": "lò baahk sōu",
-        "Simplified": {
-          "text": "萝卜酥",
-          "wkty": [
-            "萝卜",
-            "萝",
-            "卜",
-            "酥"
-          ]
-        },
-        "Pinyin": "luó bo sū"
-      }
-    ],
+    "word": {
+      "English": "radish puff",
+      "Cantonese": {
+        "text": "蘿蔔酥",
+        "wkty": [
+          "蘿蔔",
+          "蘿",
+          "蔔",
+          "酥"
+        ]
+      },
+      "Yale": "lò baahk sōu",
+      "Simplified": {
+        "text": "萝卜酥",
+        "wkty": [
+          "萝卜",
+          "萝",
+          "卜",
+          "酥"
+        ]
+      },
+      "Pinyin": "luó bo sū"
+    },
     "images": [
       {
         "image": "radishpuffs"
@@ -146,31 +140,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "durian puff",
-        "Cantonese": {
-          "text": "榴蓮酥",
-          "wkty": [
-            "榴蓮",
-            "榴",
-            "蓮",
-            "酥"
-          ]
-        },
-        "Yale": "làuh lìhn sōu",
-        "Simplified": {
-          "text": "榴莲酥",
-          "wkty": [
-            "榴莲",
-            "榴",
-            "莲",
-            "酥"
-          ]
-        },
-        "Pinyin": "liú lián sū"
-      }
-    ],
+    "word": {
+      "English": "durian puff",
+      "Cantonese": {
+        "text": "榴蓮酥",
+        "wkty": [
+          "榴蓮",
+          "榴",
+          "蓮",
+          "酥"
+        ]
+      },
+      "Yale": "làuh lìhn sōu",
+      "Simplified": {
+        "text": "榴莲酥",
+        "wkty": [
+          "榴莲",
+          "榴",
+          "莲",
+          "酥"
+        ]
+      },
+      "Pinyin": "liú lián sū"
+    },
     "images": [
       {
         "image": "durianpuffyumcha",
@@ -193,23 +185,21 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "Chinese doughnut",
-        "Cantonese": {
-          "text": "牛脷酥",
-          "wkty": [
-            "牛脷酥",
-            "牛脷",
-            "牛",
-            "脷",
-            "酥"
-          ]
-        },
-        "Yale": "ngàuh leih sōu",
-        "Pinyin": "niú lì sū"
-      }
-    ],
+    "word": {
+      "English": "Chinese doughnut",
+      "Cantonese": {
+        "text": "牛脷酥",
+        "wkty": [
+          "牛脷酥",
+          "牛脷",
+          "牛",
+          "脷",
+          "酥"
+        ]
+      },
+      "Yale": "ngàuh leih sōu",
+      "Pinyin": "niú lì sū"
+    },
     "images": [
       {
         "image": "chinesedoughnutricetogo",
@@ -235,33 +225,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "pineapple cake",
-        "Cantonese": {
-          "text": "鳳梨酥",
-          "wkty": [
-            "鳳梨酥",
-            "鳳梨",
-            "鳳",
-            "梨",
-            "酥"
-          ]
-        },
-        "Yale": "fuhng lèih sōu",
-        "Simplified": {
-          "text": "凤梨酥",
-          "wkty": [
-            "凤梨酥",
-            "凤梨",
-            "凤",
-            "梨",
-            "酥"
-          ]
-        },
-        "Pinyin": "fèng lí sū"
-      }
-    ],
+    "word": {
+      "English": "pineapple cake",
+      "Cantonese": {
+        "text": "鳳梨酥",
+        "wkty": [
+          "鳳梨酥",
+          "鳳梨",
+          "鳳",
+          "梨",
+          "酥"
+        ]
+      },
+      "Yale": "fuhng lèih sōu",
+      "Simplified": {
+        "text": "凤梨酥",
+        "wkty": [
+          "凤梨酥",
+          "凤梨",
+          "凤",
+          "梨",
+          "酥"
+        ]
+      },
+      "Pinyin": "fèng lí sū"
+    },
     "images": [
       {
         "image": "pineapplecakeeverygrain",
@@ -292,22 +280,20 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "taro paste pastry",
-        "Cantonese": {
-          "text": "芋泥酥",
-          "wkty": [
-            "芋泥",
-            "芋",
-            "泥",
-            "酥"
-          ]
-        },
-        "Yale": "wuh nàih sōu",
-        "Pinyin": "yù ní sū"
-      }
-    ],
+    "word": {
+      "English": "taro paste pastry",
+      "Cantonese": {
+        "text": "芋泥酥",
+        "wkty": [
+          "芋泥",
+          "芋",
+          "泥",
+          "酥"
+        ]
+      },
+      "Yale": "wuh nàih sōu",
+      "Pinyin": "yù ní sū"
+    },
     "images": [
       {
         "image": "taropastepastrycakesignbfbakery",
@@ -323,31 +309,29 @@
     "resources": []
   },
   {
-    "words": [
-      {
-        "English": "salted egg yolk pastry",
-        "Cantonese": {
-          "text": "蛋黃酥",
-          "wkty": [
-            "蛋黃",
-            "蛋",
-            "黃",
-            "酥"
-          ]
-        },
-        "Yale": "dáan wóng sōu",
-        "Simplified": {
-          "text": "蛋黄酥",
-          "wkty": [
-            "蛋黄",
-            "蛋",
-            "黄",
-            "酥"
-          ]
-        },
-        "Pinyin": "dàn huáng sū"
-      }
-    ],
+    "word": {
+      "English": "salted egg yolk pastry",
+      "Cantonese": {
+        "text": "蛋黃酥",
+        "wkty": [
+          "蛋黃",
+          "蛋",
+          "黃",
+          "酥"
+        ]
+      },
+      "Yale": "dáan wóng sōu",
+      "Simplified": {
+        "text": "蛋黄酥",
+        "wkty": [
+          "蛋黄",
+          "蛋",
+          "黄",
+          "酥"
+        ]
+      },
+      "Pinyin": "dàn huáng sū"
+    },
     "images": [
       {
         "image": "saltedeggyolkpastrybfbakery",
@@ -369,22 +353,20 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "preserved egg pastry",
-        "Cantonese": {
-          "text": "皮蛋酥",
-          "wkty": [
-            "皮蛋",
-            "皮",
-            "蛋",
-            "酥"
-          ]
-        },
-        "Yale": "pèih dáan sōu",
-        "Pinyin": "pí dàn sū"
-      }
-    ],
+    "word": {
+      "English": "preserved egg pastry",
+      "Cantonese": {
+        "text": "皮蛋酥",
+        "wkty": [
+          "皮蛋",
+          "皮",
+          "蛋",
+          "酥"
+        ]
+      },
+      "Yale": "pèih dáan sōu",
+      "Pinyin": "pí dàn sū"
+    },
     "images": [
       {
         "image": "preservedeggpastrydiamondbakery",
@@ -405,22 +387,20 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "mung bean pastry",
-        "Cantonese": {
-          "text": "綠豆酥",
-          "wkty": [
-            "綠豆",
-            "綠",
-            "豆",
-            "酥"
-          ]
-        },
-        "Yale": "luhk dauh sōu",
-        "Pinyin": "lǜ dòu sū"
-      }
-    ],
+    "word": {
+      "English": "mung bean pastry",
+      "Cantonese": {
+        "text": "綠豆酥",
+        "wkty": [
+          "綠豆",
+          "綠",
+          "豆",
+          "酥"
+        ]
+      },
+      "Yale": "luhk dauh sōu",
+      "Pinyin": "lǜ dòu sū"
+    },
     "images": [
       {
         "image": "mungbeanpastrydiamondbakery",
@@ -441,31 +421,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "lotus seed pastry",
-        "Cantonese": {
-          "text": "蓮蓉酥",
-          "wkty": [
-            "蓮蓉",
-            "蓮",
-            "蓉",
-            "酥"
-          ]
-        },
-        "Yale": "lìhn yùhng sōu",
-        "Simplified": {
-          "text": "莲蓉酥",
-          "wkty": [
-            "莲蓉",
-            "莲",
-            "蓉",
-            "酥"
-          ]
-        },
-        "Pinyin": "lián róng sū"
-      }
-    ],
+    "word": {
+      "English": "lotus seed pastry",
+      "Cantonese": {
+        "text": "蓮蓉酥",
+        "wkty": [
+          "蓮蓉",
+          "蓮",
+          "蓉",
+          "酥"
+        ]
+      },
+      "Yale": "lìhn yùhng sōu",
+      "Simplified": {
+        "text": "莲蓉酥",
+        "wkty": [
+          "莲蓉",
+          "莲",
+          "蓉",
+          "酥"
+        ]
+      },
+      "Pinyin": "lián róng sū"
+    },
     "images": [
       {
         "image": "lotuspastecakediamondbakery",

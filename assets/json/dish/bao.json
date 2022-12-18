@@ -1,22 +1,20 @@
 [
     {
-        "words": [
-            {
-                "English": "bao",
-                "Cantonese": "包",
-                "Yale": "bāau",
-                "Jyutping": "baau1",
-                "Mandarin": {
-                    "text": "包子",
-                    "wkty": [
-                        "包子",
-                        "包",
-                        "子"
-                    ]
-                },
-                "Pinyin": "bāo zi"
-            }
-        ],
+        "word": {
+            "English": "bao",
+            "Cantonese": "包",
+            "Yale": "bāau",
+            "Jyutping": "baau1",
+            "Mandarin": {
+                "text": "包子",
+                "wkty": [
+                    "包子",
+                    "包",
+                    "子"
+                ]
+            },
+            "Pinyin": "bāo zi"
+        },
         "images": [
             {
                 "image": "moltencustardbunkj",
@@ -44,21 +42,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "big bao",
-                "Cantonese": {
-                    "text": "大包",
-                    "wkty": [
-                        "大包",
-                        "大",
-                        "包"
-                    ]
-                },
-                "Yale": "daaih bāau",
-                "Pinyin": "dà bāo"
-            }
-        ],
+        "word": {
+            "English": "big bao",
+            "Cantonese": {
+                "text": "大包",
+                "wkty": [
+                    "大包",
+                    "大",
+                    "包"
+                ]
+            },
+            "Yale": "daaih bāau",
+            "Pinyin": "dà bāo"
+        },
         "images": [
             {
                 "image": "porkbunwishfuldumpling",
@@ -79,32 +75,30 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "taro bun",
-                "Cantonese": {
-                    "text": "芋頭包",
-                    "wkty": [
-                        "芋頭",
-                        "芋",
-                        "頭",
-                        "包"
-                    ]
-                },
-                "Yale": "wuh táu bāau",
-                "Jyutping": "wu6 tau2 baau1",
-                "Simplified": {
-                    "text": "芋头包",
-                    "wkty": [
-                        "芋头",
-                        "芋",
-                        "头",
-                        "包"
-                    ]
-                },
-                "Pinyin": "yù tou bāo"
-            }
-        ],
+        "word": {
+            "English": "taro bun",
+            "Cantonese": {
+                "text": "芋頭包",
+                "wkty": [
+                    "芋頭",
+                    "芋",
+                    "頭",
+                    "包"
+                ]
+            },
+            "Yale": "wuh táu bāau",
+            "Jyutping": "wu6 tau2 baau1",
+            "Simplified": {
+                "text": "芋头包",
+                "wkty": [
+                    "芋头",
+                    "芋",
+                    "头",
+                    "包"
+                ]
+            },
+            "Pinyin": "yù tou bāo"
+        },
         "images": [
             {
                 "image": "tarobunkj",
@@ -137,16 +131,14 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": "雞包",
-                "Simplified": "鸡包",
-                "English": "chicken bun",
-                "Yale": "gāi bāau",
-                "Jyupting": "gai1 baau1",
-                "Pinyin": "jī bāo"
-            }
-        ],
+        "word": {
+            "Cantonese": "雞包",
+            "Simplified": "鸡包",
+            "English": "chicken bun",
+            "Yale": "gāi bāau",
+            "Jyupting": "gai1 baau1",
+            "Pinyin": "jī bāo"
+        },
         "images": [
             {
                 "image": "chickenbundimsumcafe",
@@ -172,24 +164,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pan-fried pork bun",
-                "Cantonese": {
-                    "text": "生煎包",
-                    "wkty": [
-                        "生煎包",
-                        "生煎",
-                        "生",
-                        "煎",
-                        "包"
-                    ]
-                },
-                "Yale": "sāang jīn bāau",
-                "Jyutping": "saang1 jin1 baau1",
-                "Pinyin": "shēng jiān bāo"
-            }
-        ],
+        "word": {
+            "English": "pan-fried pork bun",
+            "Cantonese": {
+                "text": "生煎包",
+                "wkty": [
+                    "生煎包",
+                    "生煎",
+                    "生",
+                    "煎",
+                    "包"
+                ]
+            },
+            "Yale": "sāang jīn bāau",
+            "Jyutping": "saang1 jin1 baau1",
+            "Pinyin": "shēng jiān bāo"
+        },
         "images": [
             {
                 "image": "porkbunpingpangpong",
@@ -236,16 +226,14 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "pork belly bun",
-                "Cantonese": "叉包",
-                "Mandarin": "割包",
-                "Yale": "chā bāau",
-                "Jyutping": "caa1 baau1",
-                "Pinyin": "gē bāo"
-            }
-        ],
+        "word": {
+            "English": "pork belly bun",
+            "Cantonese": "叉包",
+            "Mandarin": "割包",
+            "Yale": "chā bāau",
+            "Jyutping": "caa1 baau1",
+            "Pinyin": "gē bāo"
+        },
         "images": [
             {
                 "image": "porkbellybaofatchoy",
@@ -298,31 +286,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Chinese hamburger",
-                "Cantonese": {
-                    "text": "肉夾饃",
-                    "wkty": [
-                        "肉夾饃",
-                        "肉",
-                        "夾",
-                        "饃"
-                    ]
-                },
-                "Yale": "yuhk gaap mòh",
-                "Simplified": {
-                    "text": "肉夹馍",
-                    "wkty": [
-                        "肉夾馍",
-                        "肉",
-                        "夾",
-                        "馍"
-                    ]
-                },
-                "Pinyin": "ròu jiā mó"
-            }
-        ],
+        "word": {
+            "English": "Chinese hamburger",
+            "Cantonese": {
+                "text": "肉夾饃",
+                "wkty": [
+                    "肉夾饃",
+                    "肉",
+                    "夾",
+                    "饃"
+                ]
+            },
+            "Yale": "yuhk gaap mòh",
+            "Simplified": {
+                "text": "肉夹馍",
+                "wkty": [
+                    "肉夾馍",
+                    "肉",
+                    "夾",
+                    "馍"
+                ]
+            },
+            "Pinyin": "ròu jiā mó"
+        },
         "images": [
             {
                 "image": "chinesehamburgerwishfuldumpling",

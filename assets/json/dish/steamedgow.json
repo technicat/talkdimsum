@@ -1,14 +1,12 @@
 [
     {
-        "words": [
-            {
-                "Cantonese": "餃",
-                "Simplified": "饺",
-                "English": "dumpling",
-                "Yale": "gáau",
-                "Pinyin": "jiǎo"
-            }
-        ],
+        "word": {
+            "Cantonese": "餃",
+            "Simplified": "饺",
+            "English": "dumpling",
+            "Yale": "gáau",
+            "Pinyin": "jiǎo"
+        },
         "images": [
             {
                 "image": "chickengingerdumplings8east",
@@ -23,29 +21,27 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "shrimp dumpling",
-                "Cantonese": {
-                    "text": "蝦餃",
-                    "wkty": [
-                        "蝦餃",
-                        "蝦",
-                        "餃"
-                    ]
-                },
-                "Yale": "hā gáau",
-                "Simplified": {
-                    "text": "虾饺",
-                    "wkty": [
-                        "虾饺",
-                        "虾",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "xiā jiǎo"
-            }
-        ],
+        "word": {
+            "English": "shrimp dumpling",
+            "Cantonese": {
+                "text": "蝦餃",
+                "wkty": [
+                    "蝦餃",
+                    "蝦",
+                    "餃"
+                ]
+            },
+            "Yale": "hā gáau",
+            "Simplified": {
+                "text": "虾饺",
+                "wkty": [
+                    "虾饺",
+                    "虾",
+                    "饺"
+                ]
+            },
+            "Pinyin": "xiā jiǎo"
+        },
         "images": [
             {
                 "image": "hagowhkgarden",
@@ -109,31 +105,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "shrimp and chive dumpling",
-                "Cantonese": {
-                    "text": "韭菜餃",
-                    "wkty": [
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "餃"
-                    ]
-                },
-                "Yale": "gáu choi gáau",
-                "Simplified": {
-                    "text": "韭菜饺",
-                    "wkty": [
-                        "韭菜",
-                        "韭",
-                        "菜",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "jiǔ cài jiǎo"
-            }
-        ],
+        "word": {
+            "English": "shrimp and chive dumpling",
+            "Cantonese": {
+                "text": "韭菜餃",
+                "wkty": [
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "餃"
+                ]
+            },
+            "Yale": "gáu choi gáau",
+            "Simplified": {
+                "text": "韭菜饺",
+                "wkty": [
+                    "韭菜",
+                    "韭",
+                    "菜",
+                    "饺"
+                ]
+            },
+            "Pinyin": "jiǔ cài jiǎo"
+        },
         "images": [
             {
                 "image": "chiveandshrimpdumplingtimhowan",
@@ -160,31 +154,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "spinach and shrimp dumpling",
-                "Cantonese": {
-                    "text": "菠菜餃",
-                    "wkty": [
-                        "菠菜",
-                        "菠",
-                        "菜",
-                        "餃"
-                    ]
-                },
-                "Yale": "bō choi gáau",
-                "Simplified": {
-                    "text": "菠菜饺",
-                    "wkty": [
-                        "菠菜",
-                        "菠",
-                        "菜",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "bō cài jiǎo"
-            }
-        ],
+        "word": {
+            "English": "spinach and shrimp dumpling",
+            "Cantonese": {
+                "text": "菠菜餃",
+                "wkty": [
+                    "菠菜",
+                    "菠",
+                    "菜",
+                    "餃"
+                ]
+            },
+            "Yale": "bō choi gáau",
+            "Simplified": {
+                "text": "菠菜饺",
+                "wkty": [
+                    "菠菜",
+                    "菠",
+                    "菜",
+                    "饺"
+                ]
+            },
+            "Pinyin": "bō cài jiǎo"
+        },
         "images": [
             {
                 "image": "steamedspinachdumplingdimsumcafe2",
@@ -210,33 +202,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "scallop and shrimp dumpling",
-                "Cantonese": {
-                    "text": "蝦帶子餃",
-                    "wkty": [
-                        "蝦",
-                        "帶子",
-                        "帶",
-                        "子",
-                        "餃"
-                    ]
-                },
-                "Yale": "hā dáai jí gáau",
-                "Simplified": {
-                    "text": "虾带子饺",
-                    "wkty": [
-                        "虾",
-                        "带子",
-                        "带",
-                        "子",
-                        "饺s"
-                    ]
-                },
-                "Pinyin": "xiā dài zi jiǎo"
-            }
-        ],
+        "word": {
+            "English": "scallop and shrimp dumpling",
+            "Cantonese": {
+                "text": "蝦帶子餃",
+                "wkty": [
+                    "蝦",
+                    "帶子",
+                    "帶",
+                    "子",
+                    "餃"
+                ]
+            },
+            "Yale": "hā dáai jí gáau",
+            "Simplified": {
+                "text": "虾带子饺",
+                "wkty": [
+                    "虾",
+                    "带子",
+                    "带",
+                    "子",
+                    "饺s"
+                ]
+            },
+            "Pinyin": "xiā dài zi jiǎo"
+        },
         "images": [
             {
                 "image": "scallopandshrimpdumplingchinarepublic",
@@ -255,31 +245,29 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "pea shoot dumpling",
-                "Cantonese": {
-                    "text": "豆苗餃",
-                    "wkty": [
-                        "豆苗",
-                        "豆",
-                        "苗",
-                        "餃"
-                    ]
-                },
-                "Yale": "dauh mìuh gáau",
-                "Simplified": {
-                    "text": "豆苗饺",
-                    "wkty": [
-                        "豆苗",
-                        "豆",
-                        "苗",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "dòu miáo jiǎo"
-            }
-        ],
+        "word": {
+            "English": "pea shoot dumpling",
+            "Cantonese": {
+                "text": "豆苗餃",
+                "wkty": [
+                    "豆苗",
+                    "豆",
+                    "苗",
+                    "餃"
+                ]
+            },
+            "Yale": "dauh mìuh gáau",
+            "Simplified": {
+                "text": "豆苗饺",
+                "wkty": [
+                    "豆苗",
+                    "豆",
+                    "苗",
+                    "饺"
+                ]
+            },
+            "Pinyin": "dòu miáo jiǎo"
+        },
         "images": [
             {
                 "image": "shrimpandpeadumplingmingtasty",
@@ -296,21 +284,19 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "mushroom dumpling",
-                "Cantonese": {
-                    "text": "雜菇餃",
-                    "wkty": [
-                        "雜",
-                        "菇",
-                        "餃"
-                    ]
-                },
-                "Yale": "jaahp gū gáau",
-                "Pinyin": "zá gū jiǎo"
-            }
-        ],
+        "word": {
+            "English": "mushroom dumpling",
+            "Cantonese": {
+                "text": "雜菇餃",
+                "wkty": [
+                    "雜",
+                    "菇",
+                    "餃"
+                ]
+            },
+            "Yale": "jaahp gū gáau",
+            "Pinyin": "zá gū jiǎo"
+        },
         "images": [
             {
                 "image": "mushroomdumplingsdimsumcafe",
@@ -328,35 +314,33 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "spinach and mushroom dumpling",
-                "Cantonese": {
-                    "text": "菠菜雜菇餃",
-                    "wkty": [
-                        "菠菜",
-                        "菠",
-                        "菜",
-                        "雜",
-                        "菇",
-                        "餃"
-                    ]
-                },
-                "Yale": "bō choi jaahp gū gáau",
-                "Simplified": {
-                    "text": "菠菜雜菇饺",
-                    "wkty": [
-                        "菠菜",
-                        "菠",
-                        "菜",
-                        "雜",
-                        "菇",
-                        "饺"
-                    ]
-                },
-                "Pinyin": "bō cài zá gū jiǎo"
-            }
-        ],
+        "word": {
+            "English": "spinach and mushroom dumpling",
+            "Cantonese": {
+                "text": "菠菜雜菇餃",
+                "wkty": [
+                    "菠菜",
+                    "菠",
+                    "菜",
+                    "雜",
+                    "菇",
+                    "餃"
+                ]
+            },
+            "Yale": "bō choi jaahp gū gáau",
+            "Simplified": {
+                "text": "菠菜雜菇饺",
+                "wkty": [
+                    "菠菜",
+                    "菠",
+                    "菜",
+                    "雜",
+                    "菇",
+                    "饺"
+                ]
+            },
+            "Pinyin": "bō cài zá gū jiǎo"
+        },
         "images": [
             {
                 "image": "steamedspinachandmushroomdumplingdimsumcafe",

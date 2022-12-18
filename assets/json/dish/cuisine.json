@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "Beijing cuisine",
-                "Cantonese": {
-                    "text": "京菜",
-                    "wkty": [
-                        "京菜",
-                        "京",
-                        "菜"
-                    ]
-                },
-                "Yale": "gīng choi",
-                "Pinyin": "jīng cà"
-            }
-        ],
+        "word": {
+            "English": "Beijing cuisine",
+            "Cantonese": {
+                "text": "京菜",
+                "wkty": [
+                    "京菜",
+                    "京",
+                    "菜"
+                ]
+            },
+            "Yale": "gīng choi",
+            "Pinyin": "jīng cà"
+        },
         "images": [
             {
                 "image": "beijing",
@@ -33,30 +31,28 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Cantonese cuisine",
-                "Cantonese": {
-                    "text": "粵菜",
-                    "wkty": [
-                        "粵菜",
-                        "粵",
-                        "菜"
-                    ]
-                },
-                "Yale": "yuht choi",
-                "Jyutping": "jyut6 coi3",
-                "Simplified": {
-                    "text": "粤菜",
-                    "wkty": [
-                        "粤菜",
-                        "粤",
-                        "菜"
-                    ]
-                },
-                "Pinyin": "yuè cà"
-            }
-        ],
+        "word": {
+            "English": "Cantonese cuisine",
+            "Cantonese": {
+                "text": "粵菜",
+                "wkty": [
+                    "粵菜",
+                    "粵",
+                    "菜"
+                ]
+            },
+            "Yale": "yuht choi",
+            "Jyutping": "jyut6 coi3",
+            "Simplified": {
+                "text": "粤菜",
+                "wkty": [
+                    "粤菜",
+                    "粤",
+                    "菜"
+                ]
+            },
+            "Pinyin": "yuè cà"
+        },
         "images": [
             {
                 "image": "guangdong",
@@ -75,22 +71,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Chaozhou cuisine",
-                "Cantonese": {
-                    "text": "潮州菜",
-                    "wkty": [
-                        "潮州",
-                        "潮",
-                        "州",
-                        "菜"
-                    ]
-                },
-                "Yale": "chìuh jāu choi",
-                "Pinyin": "cháo zhōu cài"
-            }
-        ],
+        "word": {
+            "English": "Chaozhou cuisine",
+            "Cantonese": {
+                "text": "潮州菜",
+                "wkty": [
+                    "潮州",
+                    "潮",
+                    "州",
+                    "菜"
+                ]
+            },
+            "Yale": "chìuh jāu choi",
+            "Pinyin": "cháo zhōu cài"
+        },
         "images": [
             {
                 "image": "chaozhou",
@@ -133,29 +127,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Fujian cuisine",
-                "Cantonese": {
-                    "text": "閩菜",
-                    "wkty": [
-                        "閩菜",
-                        "閩",
-                        "菜"
-                    ]
-                },
-                "Yale": "máhn choi",
-                "Simplified": {
-                    "text": "闽菜",
-                    "wkty": [
-                        "闽菜",
-                        "闽",
-                        "菜"
-                    ]
-                },
-                "Pinyin": "mǐn cài"
-            }
-        ],
+        "word": {
+            "English": "Fujian cuisine",
+            "Cantonese": {
+                "text": "閩菜",
+                "wkty": [
+                    "閩菜",
+                    "閩",
+                    "菜"
+                ]
+            },
+            "Yale": "máhn choi",
+            "Simplified": {
+                "text": "闽菜",
+                "wkty": [
+                    "闽菜",
+                    "闽",
+                    "菜"
+                ]
+            },
+            "Pinyin": "mǐn cài"
+        },
         "images": [
             {
                 "image": "fujian",
@@ -182,21 +174,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Hunan cuisine",
-                "Cantonese": {
-                    "text": "湘菜",
-                    "wkty": [
-                        "湘菜",
-                        "湘",
-                        "菜"
-                    ]
-                },
-                "Yale": "sēung choi",
-                "Pinyin": "xiāng cài"
-            }
-        ],
+        "word": {
+            "English": "Hunan cuisine",
+            "Cantonese": {
+                "text": "湘菜",
+                "wkty": [
+                    "湘菜",
+                    "湘",
+                    "菜"
+                ]
+            },
+            "Yale": "sēung choi",
+            "Pinyin": "xiāng cài"
+        },
         "images": [
             {
                 "image": "hunan",
@@ -215,20 +205,18 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Shaanxi cuisine",
-                "Cantonese": {
-                    "text": "秦菜",
-                    "wkty": [
-                        "秦",
-                        "菜"
-                    ]
-                },
-                "Yale": "chèuhn choi",
-                "Pinyin": "qín cài"
-            }
-        ],
+        "word": {
+            "English": "Shaanxi cuisine",
+            "Cantonese": {
+                "text": "秦菜",
+                "wkty": [
+                    "秦",
+                    "菜"
+                ]
+            },
+            "Yale": "chèuhn choi",
+            "Pinyin": "qín cài"
+        },
         "images": [
             {
                 "image": "shaanxi",
@@ -247,29 +235,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Shanghai cuisine",
-                "Cantonese": {
-                    "text": "滬菜",
-                    "wkty": [
-                        "滬菜",
-                        "滬",
-                        "菜"
-                    ]
-                },
-                "Yale": "lóuh choi",
-                "Simplified": {
-                    "text": "沪菜",
-                    "wkty": [
-                        "沪菜",
-                        "沪",
-                        "菜"
-                    ]
-                },
-                "Pinyin": "lǔ cài"
-            }
-        ],
+        "word": {
+            "English": "Shanghai cuisine",
+            "Cantonese": {
+                "text": "滬菜",
+                "wkty": [
+                    "滬菜",
+                    "滬",
+                    "菜"
+                ]
+            },
+            "Yale": "lóuh choi",
+            "Simplified": {
+                "text": "沪菜",
+                "wkty": [
+                    "沪菜",
+                    "沪",
+                    "菜"
+                ]
+            },
+            "Pinyin": "lǔ cài"
+        },
         "images": [
             {
                 "image": "shanghai",
@@ -288,21 +274,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Sichuan cuisine",
-                "Cantonese": {
-                    "text": "川菜",
-                    "wkty": [
-                        "川菜",
-                        "川",
-                        "菜"
-                    ]
-                },
-                "Yale": "chyūn choi",
-                "Pinyin": "chuān cà"
-            }
-        ],
+        "word": {
+            "English": "Sichuan cuisine",
+            "Cantonese": {
+                "text": "川菜",
+                "wkty": [
+                    "川菜",
+                    "川",
+                    "菜"
+                ]
+            },
+            "Yale": "chyūn choi",
+            "Pinyin": "chuān cà"
+        },
         "images": [
             {
                 "image": "sichuan",
@@ -329,14 +313,12 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Taiwan cuisine",
-                "Cantonese": "台菜",
-                "Yale": "tòih choi",
-                "Pinyin": "tái cà"
-            }
-        ],
+        "word": {
+            "English": "Taiwan cuisine",
+            "Cantonese": "台菜",
+            "Yale": "tòih choi",
+            "Pinyin": "tái cà"
+        },
         "images": [
             {
                 "image": "taiwan",
@@ -367,14 +349,12 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Yunnan cuisine",
-                "Cantonese": "滇菜",
-                "Yale": "tìhn choi",
-                "Pinyin": "diān cà"
-            }
-        ],
+        "word": {
+            "English": "Yunnan cuisine",
+            "Cantonese": "滇菜",
+            "Yale": "tìhn choi",
+            "Pinyin": "diān cà"
+        },
         "images": [
             {
                 "image": "yunnan",
@@ -397,30 +377,28 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "dim sum",
-                "Cantonese": {
-                    "text": "點心",
-                    "wkty": [
-                        "點心",
-                        "點",
-                        "心"
-                    ]
-                },
-                "Yale": "dím sām",
-                "Simplified": {
-                    "text": "点心",
-                    "wkty": [
-                        "点心",
-                        "点",
-                        "心"
-                    ]
-                },
-                "Jyutping": "dim2 sam1",
-                "Pinyin": "diǎn xin"
-            }
-        ],
+        "word": {
+            "English": "dim sum",
+            "Cantonese": {
+                "text": "點心",
+                "wkty": [
+                    "點心",
+                    "點",
+                    "心"
+                ]
+            },
+            "Yale": "dím sām",
+            "Simplified": {
+                "text": "点心",
+                "wkty": [
+                    "点心",
+                    "点",
+                    "心"
+                ]
+            },
+            "Jyutping": "dim2 sam1",
+            "Pinyin": "diǎn xin"
+        },
         "images": [
             {
                 "image": "assortednewasianbbq",
@@ -476,22 +454,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Hong Kong-style",
-                "Cantonese": {
-                    "text": "港式",
-                    "wkty": [
-                        "港式",
-                        "港",
-                        "式"
-                    ]
-                },
-                "Yale": "góng sīk",
-                "Jyutping": "gong2 sik1",
-                "Pinyin": "gǎng shì"
-            }
-        ],
+        "word": {
+            "English": "Hong Kong-style",
+            "Cantonese": {
+                "text": "港式",
+                "wkty": [
+                    "港式",
+                    "港",
+                    "式"
+                ]
+            },
+            "Yale": "góng sīk",
+            "Jyutping": "gong2 sik1",
+            "Pinyin": "gǎng shì"
+        },
         "images": [
             {
                 "image": "hongkong",
@@ -514,14 +490,12 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": "素",
-                "English": "vegetarian",
-                "Yale": "sou",
-                "Pinyin": "sù"
-            }
-        ],
+        "word": {
+            "Cantonese": "素",
+            "English": "vegetarian",
+            "Yale": "sou",
+            "Pinyin": "sù"
+        },
         "images": [
             {
                 "image": "chefkennysvegandimsum",
@@ -544,29 +518,27 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "seafood",
-                "Cantonese": {
-                    "text": "海鮮",
-                    "wkty": [
-                        "海鮮",
-                        "海",
-                        "鮮"
-                    ]
-                },
-                "Yale": "hói sīn",
-                "Simplified": {
-                    "text": "海鲜",
-                    "wkty": [
-                        "海鲜",
-                        "海",
-                        "鲜"
-                    ]
-                },
-                "Pinyin": "hǎi xiān"
-            }
-        ],
+        "word": {
+            "English": "seafood",
+            "Cantonese": {
+                "text": "海鮮",
+                "wkty": [
+                    "海鮮",
+                    "海",
+                    "鮮"
+                ]
+            },
+            "Yale": "hói sīn",
+            "Simplified": {
+                "text": "海鲜",
+                "wkty": [
+                    "海鲜",
+                    "海",
+                    "鲜"
+                ]
+            },
+            "Pinyin": "hǎi xiān"
+        },
         "images": [
             {
                 "image": "seafoodplatternewasianbbq",
@@ -585,14 +557,12 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "new dishes",
-                "Cantonese": "新菜",
-                "Yale": "sān choi",
-                "Pinyin": "xīn cài"
-            }
-        ],
+        "word": {
+            "English": "new dishes",
+            "Cantonese": "新菜",
+            "Yale": "sān choi",
+            "Pinyin": "xīn cài"
+        },
         "images": [
             {
                 "image": "hkgardenassorted2",

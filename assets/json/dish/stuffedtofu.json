@@ -1,32 +1,30 @@
 [
   {
-    "words": [
-      {
-        "English": "stuffed tofu",
-        "Cantonese": {
-          "text": "釀豆腐",
-          "wkty": [
-            "釀豆腐",
-            "釀",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "Yale": "yeuhng dauh fuh",
-        "Simplified": {
-          "text": "酿豆腐",
-          "wkty": [
-            "酿豆腐",
-            "酿",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "Pinyin": "niàng dòu fu"
-      }
-    ],
+    "word": {
+      "English": "stuffed tofu",
+      "Cantonese": {
+        "text": "釀豆腐",
+        "wkty": [
+          "釀豆腐",
+          "釀",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "Yale": "yeuhng dauh fuh",
+      "Simplified": {
+        "text": "酿豆腐",
+        "wkty": [
+          "酿豆腐",
+          "酿",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "Pinyin": "niàng dòu fu"
+    },
     "images": [
       {
         "image": "shrimppastetofudimsumcafe",
@@ -62,35 +60,33 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "steamed tofu w/ minced shrimp",
-        "Cantonese": {
-          "text": "蒸釀豆腐",
-          "wkty": [
-            "蒸",
-            "釀豆腐",
-            "釀",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "Yale": "jīng yeuhng dauh fuh",
-        "Simplified": {
-          "text": "蒸酿豆腐",
-          "wkty": [
-            "蒸",
-            "酿豆腐",
-            "酿",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "Pinyin": "zhēng niàng dòu fu"
-      }
-    ],
+    "word": {
+      "English": "steamed tofu w/ minced shrimp",
+      "Cantonese": {
+        "text": "蒸釀豆腐",
+        "wkty": [
+          "蒸",
+          "釀豆腐",
+          "釀",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "Yale": "jīng yeuhng dauh fuh",
+      "Simplified": {
+        "text": "蒸酿豆腐",
+        "wkty": [
+          "蒸",
+          "酿豆腐",
+          "酿",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "Pinyin": "zhēng niàng dòu fu"
+    },
     "images": [
       {
         "image": "steamedtofuwithmincedshrimp",
@@ -112,39 +108,37 @@
     ]
   },
   {
-    "words": [
-      {
-        "Cantonese": {
-          "text": "蝦仁釀豆腐",
-          "wkty": [
-            "蝦仁",
-            "蝦",
-            "仁",
-            "釀豆腐",
-            "釀",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "Simplified":  {
-          "text": "虾仁酿豆腐",
-          "wkty": [
-            "虾仁",
-            "虾",
-            "仁",
-            "酿豆腐",
-            "酿",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "English": "stuffed tofu w/ shrimp",
-        "Yale": "hā yàn yeuhng dauh fuh",
-        "Pinyin": "xiā rén niàng dòu fu"
-      }
-    ],
+    "word": {
+      "Cantonese": {
+        "text": "蝦仁釀豆腐",
+        "wkty": [
+          "蝦仁",
+          "蝦",
+          "仁",
+          "釀豆腐",
+          "釀",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "Simplified": {
+        "text": "虾仁酿豆腐",
+        "wkty": [
+          "虾仁",
+          "虾",
+          "仁",
+          "酿豆腐",
+          "酿",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "English": "stuffed tofu w/ shrimp",
+      "Yale": "hā yàn yeuhng dauh fuh",
+      "Pinyin": "xiā rén niàng dòu fu"
+    },
     "images": [
       {
         "image": "crispyskintofushrimp"
@@ -162,33 +156,31 @@
     "resources": []
   },
   {
-    "words": [
-      {
-        "English": "stuffed tofu w/ fish",
-        "Cantonese": {
-          "text": "魚滑豆腐",
-          "wkty": [
-            "魚",
-            "滑",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "Yale": "yú waht dauh fuh",
-        "Simplified": {
-          "text": "鱼滑豆腐",
-          "wkty": [
-            "鱼",
-            "滑",
-            "豆腐",
-            "豆",
-            "腐"
-          ]
-        },
-        "Pinyin": "yú huá dòu fu"
-      }
-    ],
+    "word": {
+      "English": "stuffed tofu w/ fish",
+      "Cantonese": {
+        "text": "魚滑豆腐",
+        "wkty": [
+          "魚",
+          "滑",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "Yale": "yú waht dauh fuh",
+      "Simplified": {
+        "text": "鱼滑豆腐",
+        "wkty": [
+          "鱼",
+          "滑",
+          "豆腐",
+          "豆",
+          "腐"
+        ]
+      },
+      "Pinyin": "yú huá dòu fu"
+    },
     "images": [
       {
         "image": "fishstuffedtofuyumcha",

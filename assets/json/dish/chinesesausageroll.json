@@ -1,29 +1,27 @@
 [
     {
-        "words": [
-            {
-                "English": "Chinese sausage",
-                "Cantonese": {
-                    "text": "臘腸",
-                    "wkty": [
-                        "臘腸",
-                        "臘",
-                        "腸"
-                    ]
-                },
-                "Yale": "laahp chéung",
-                "Jyutping": "laap6 ceung2",
-                "Simplified": {
-                    "text": "腊肠",
-                    "wkty": [
-                        "腊肠",
-                        "腊",
-                        "肠"
-                    ]
-                },
-                "Pinyin": "là cháng"
-            }
-        ],
+        "word": {
+            "English": "Chinese sausage",
+            "Cantonese": {
+                "text": "臘腸",
+                "wkty": [
+                    "臘腸",
+                    "臘",
+                    "腸"
+                ]
+            },
+            "Yale": "laahp chéung",
+            "Jyutping": "laap6 ceung2",
+            "Simplified": {
+                "text": "腊肠",
+                "wkty": [
+                    "腊肠",
+                    "腊",
+                    "肠"
+                ]
+            },
+            "Pinyin": "là cháng"
+        },
         "images": [
             {
                 "image": "chinesesausageflockandfowl",
@@ -51,31 +49,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Chinese sausage roll",
-                "Cantonese": {
-                    "text": "臘腸卷",
-                    "wkty": [
-                        "臘腸",
-                        "臘",
-                        "腸",
-                        "卷"
-                    ]
-                },
-                "Yale": "laahp chéung gyún",
-                "Simplified": {
-                    "text": "腊肠卷",
-                    "wkty": [
-                        "腊肠",
-                        "腊",
-                        "肠",
-                        "卷"
-                    ]
-                },
-                "Pinyin": "là cháng juàn"
-            }
-        ],
+        "word": {
+            "English": "Chinese sausage roll",
+            "Cantonese": {
+                "text": "臘腸卷",
+                "wkty": [
+                    "臘腸",
+                    "臘",
+                    "腸",
+                    "卷"
+                ]
+            },
+            "Yale": "laahp chéung gyún",
+            "Simplified": {
+                "text": "腊肠卷",
+                "wkty": [
+                    "腊肠",
+                    "腊",
+                    "肠",
+                    "卷"
+                ]
+            },
+            "Pinyin": "là cháng juàn"
+        },
         "images": [
             {
                 "image": "sausagerolldimsumcafe",

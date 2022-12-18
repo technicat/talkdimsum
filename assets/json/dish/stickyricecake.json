@@ -1,30 +1,28 @@
 [
     {
-        "words": [
-            {
-                "English": "sticky rice cake w/ red bean paste",
-                "Cantonese": {
-                    "text": "豆沙餅",
-                    "wkty": [
-                        "豆沙",
-                        "豆",
-                        "沙",
-                        "餅"
-                    ]
-                },
-                "Yale": "dauh sā béng",
-                "Simplified": {
-                    "text": "豆沙饼",
-                    "wkty": [
-                        "豆沙",
-                        "豆",
-                        "沙",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "dòushā bǐng"
-            }
-        ],
+        "word": {
+            "English": "sticky rice cake w/ red bean paste",
+            "Cantonese": {
+                "text": "豆沙餅",
+                "wkty": [
+                    "豆沙",
+                    "豆",
+                    "沙",
+                    "餅"
+                ]
+            },
+            "Yale": "dauh sā béng",
+            "Simplified": {
+                "text": "豆沙饼",
+                "wkty": [
+                    "豆沙",
+                    "豆",
+                    "沙",
+                    "饼"
+                ]
+            },
+            "Pinyin": "dòushā bǐng"
+        },
         "images": [
             {
                 "image": "stickyricecakewithredbeanpastepingpangpong",
@@ -47,35 +45,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "sticky rice cake w/ black sesame paste",
-                "Cantonese": {
-                    "text": "黑芝麻餅",
-                    "wkty": [
-                        "黑芝麻",
-                        "黑",
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "餅"
-                    ]
-                },
-                "Yale": "hāk jī màh béng",
-                "Simplified": {
-                    "text": "黑芝麻饼",
-                    "wkty": [
-                        "黑芝麻",
-                        "黑",
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "hēi zhī ma bǐng"
-            }
-        ],
+        "word": {
+            "English": "sticky rice cake w/ black sesame paste",
+            "Cantonese": {
+                "text": "黑芝麻餅",
+                "wkty": [
+                    "黑芝麻",
+                    "黑",
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "餅"
+                ]
+            },
+            "Yale": "hāk jī màh béng",
+            "Simplified": {
+                "text": "黑芝麻饼",
+                "wkty": [
+                    "黑芝麻",
+                    "黑",
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "饼"
+                ]
+            },
+            "Pinyin": "hēi zhī ma bǐng"
+        },
         "images": [
             {
                 "image": "blacksesamecakehkgarden",
@@ -99,31 +95,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "sticky rice cake w/ green tea paste",
-                "Cantonese": {
-                    "text": "綠茶餅",
-                    "wkty": [
-                        "綠茶",
-                        "綠",
-                        "茶",
-                        "餅"
-                    ]
-                },
-                "Yale": "luhk chàh béng",
-                "Simplified": {
-                    "text": "绿茶饼",
-                    "wkty": [
-                        "绿茶",
-                        "绿",
-                        "茶",
-                        "饼"
-                    ]
-                },
-                "Pinyin": "lǜ chá bǐng"
-            }
-        ],
+        "word": {
+            "English": "sticky rice cake w/ green tea paste",
+            "Cantonese": {
+                "text": "綠茶餅",
+                "wkty": [
+                    "綠茶",
+                    "綠",
+                    "茶",
+                    "餅"
+                ]
+            },
+            "Yale": "luhk chàh béng",
+            "Simplified": {
+                "text": "绿茶饼",
+                "wkty": [
+                    "绿茶",
+                    "绿",
+                    "茶",
+                    "饼"
+                ]
+            },
+            "Pinyin": "lǜ chá bǐng"
+        },
         "images": [
             {
                 "image": "greenteastickyricepingpangpong5",

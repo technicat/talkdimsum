@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "soda",
-                "Cantonese": {
-                    "text": "汽水",
-                    "wkty": [
-                        "汽水",
-                        "汽",
-                        "水"
-                    ]
-                },
-                "Yale": "hei séui",
-                "Pinyin": "qì shuǐ"
-            }
-        ],
+        "word": {
+            "English": "soda",
+            "Cantonese": {
+                "text": "汽水",
+                "wkty": [
+                    "汽水",
+                    "汽",
+                    "水"
+                ]
+            },
+            "Yale": "hei séui",
+            "Pinyin": "qì shuǐ"
+        },
         "images": [
             {
                 "image": "soda99ranch",
@@ -35,21 +33,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "7 Up",
-                "Cantonese": {
-                    "text": "七喜",
-                    "wkty": [
-                        "七喜",
-                        "七",
-                        "喜"
-                    ]
-                },
-                "Yale": "chāt héi",
-                "Pinyin": "qī xǐ"
-            }
-        ],
+        "word": {
+            "English": "7 Up",
+            "Cantonese": {
+                "text": "七喜",
+                "wkty": [
+                    "七喜",
+                    "七",
+                    "喜"
+                ]
+            },
+            "Yale": "chāt héi",
+            "Pinyin": "qī xǐ"
+        },
         "images": [
             {
                 "image": "7uptacostand",
@@ -72,33 +68,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "salted lime 7 Up",
-                "Cantonese": {
-                    "text": "鹹檸七",
-                    "wkty": [
-                        "鹹檸七",
-                        "鹹檸",
-                        "鹹",
-                        "檸",
-                        "七"
-                    ]
-                },
-                "Yale": "hàahm nìhng chāt héi",
-                "Simplified": {
-                    "text": "咸柠七",
-                    "wkty": [
-                        "咸柠七",
-                        "咸柠",
-                        "咸",
-                        "柠",
-                        "七"
-                    ]
-                },
-                "Pinyin": "xián níng qī"
-            }
-        ],
+        "word": {
+            "English": "salted lime 7 Up",
+            "Cantonese": {
+                "text": "鹹檸七",
+                "wkty": [
+                    "鹹檸七",
+                    "鹹檸",
+                    "鹹",
+                    "檸",
+                    "七"
+                ]
+            },
+            "Yale": "hàahm nìhng chāt héi",
+            "Simplified": {
+                "text": "咸柠七",
+                "wkty": [
+                    "咸柠七",
+                    "咸柠",
+                    "咸",
+                    "柠",
+                    "七"
+                ]
+            },
+            "Pinyin": "xián níng qī"
+        },
         "images": [
             {
                 "image": "saltedlemon7upluckyhouse",
@@ -131,21 +125,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Sprite",
-                "Cantonese": {
-                    "text": "雪碧",
-                    "wkty": [
-                        "雪碧",
-                        "雪",
-                        "碧"
-                    ]
-                },
-                "Yale": "syut bīk",
-                "Pinyin": "Xuě bì"
-            }
-        ],
+        "word": {
+            "English": "Sprite",
+            "Cantonese": {
+                "text": "雪碧",
+                "wkty": [
+                    "雪碧",
+                    "雪",
+                    "碧"
+                ]
+            },
+            "Yale": "syut bīk",
+            "Pinyin": "Xuě bì"
+        },
         "images": [
             {
                 "image": "spritetakeout",
@@ -167,30 +159,28 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Fanta",
-                "Cantonese": {
-                    "text": "芬達",
-                    "wkty": [
-                        "芬達",
-                        "芬",
-                        "達"
-                    ]
-                },
-                "Yale": "fēn daaht",
-                "Jyutping": "fan1 daat6",
-                "Simplified": {
-                    "text": "芬达",
-                    "wkty": [
-                        "芬达",
-                        "芬",
-                        "达"
-                    ]
-                },
-                "Pinyin": "fēn dá"
-            }
-        ],
+        "word": {
+            "English": "Fanta",
+            "Cantonese": {
+                "text": "芬達",
+                "wkty": [
+                    "芬達",
+                    "芬",
+                    "達"
+                ]
+            },
+            "Yale": "fēn daaht",
+            "Jyutping": "fan1 daat6",
+            "Simplified": {
+                "text": "芬达",
+                "wkty": [
+                    "芬达",
+                    "芬",
+                    "达"
+                ]
+            },
+            "Pinyin": "fēn dá"
+        },
         "images": [
             {
                 "image": "fantatacostand",

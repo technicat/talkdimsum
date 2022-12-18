@@ -1,34 +1,32 @@
 [
   {
-    "words": [
-      {
-        "English": "daikon brisket stew",
-        "Cantonese": {
-          "text": "蘿蔔牛腩",
-          "wkty": [
-            "蘿蔔",
-            "蘿",
-            "蔔",
-            "牛腩",
-            "牛",
-            "腩"
-          ]
-        },
-        "Yale": "lòh baahk ngàuh náahm",
-        "Simplified": {
-          "text": "萝卜牛腩",
-          "wkty": [
-            "萝卜",
-            "萝",
-            "卜",
-            "牛腩",
-            "牛",
-            "腩"
-          ]
-        },
-        "Pinyin": "luó bo niú nǎn"
-      }
-    ],
+    "word": {
+      "English": "daikon brisket stew",
+      "Cantonese": {
+        "text": "蘿蔔牛腩",
+        "wkty": [
+          "蘿蔔",
+          "蘿",
+          "蔔",
+          "牛腩",
+          "牛",
+          "腩"
+        ]
+      },
+      "Yale": "lòh baahk ngàuh náahm",
+      "Simplified": {
+        "text": "萝卜牛腩",
+        "wkty": [
+          "萝卜",
+          "萝",
+          "卜",
+          "牛腩",
+          "牛",
+          "腩"
+        ]
+      },
+      "Pinyin": "luó bo niú nǎn"
+    },
     "images": [
       {
         "image": "beefbrisketurniptimhowan",
@@ -62,21 +60,19 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "beef tendon",
-        "Cantonese": {
-          "text": "牛筋",
-          "wkty": [
-            "牛筋",
-            "牛",
-            "筋"
-          ]
-        },
-        "Yale": "ngàuh gān",
-        "Pinyin": "niú jīn"
-      }
-    ],
+    "word": {
+      "English": "beef tendon",
+      "Cantonese": {
+        "text": "牛筋",
+        "wkty": [
+          "牛筋",
+          "牛",
+          "筋"
+        ]
+      },
+      "Yale": "ngàuh gān",
+      "Pinyin": "niú jīn"
+    },
     "images": [
       {
         "image": "beeftendondimsumcafe",
@@ -107,33 +103,31 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "beef jerky",
-        "Cantonese": {
-          "text": "牛肉乾",
-          "wkty": [
-            "牛肉乾",
-            "牛肉",
-            "牛",
-            "肉",
-            "乾"
-          ]
-        },
-        "Yale": "ngàuh yuhk gōn",
-        "Simplified": {
-          "text": "牛肉干",
-          "wkty": [
-            "牛肉干",
-            "牛肉",
-            "牛",
-            "肉",
-            "干"
-          ]
-        },
-        "Pinyin": "niú ròu gān"
-      }
-    ],
+    "word": {
+      "English": "beef jerky",
+      "Cantonese": {
+        "text": "牛肉乾",
+        "wkty": [
+          "牛肉乾",
+          "牛肉",
+          "牛",
+          "肉",
+          "乾"
+        ]
+      },
+      "Yale": "ngàuh yuhk gōn",
+      "Simplified": {
+        "text": "牛肉干",
+        "wkty": [
+          "牛肉干",
+          "牛肉",
+          "牛",
+          "肉",
+          "干"
+        ]
+      },
+      "Pinyin": "niú ròu gān"
+    },
     "images": [
       {
         "image": "htybeefjerky",
@@ -165,31 +159,29 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "braised beef shin",
-        "Cantonese": {
-          "text": "滷牛腱",
-          "wkty": [
-            "滷",
-            "牛腱",
-            "牛",
-            "腱"
-          ]
-        },
-        "Yale": "lóuh ngàuh gin",
-        "Simplified": {
-          "text": "卤牛腱",
-          "wkty": [
-            "滷",
-            "牛腱",
-            "牛",
-            "腱"
-          ]
-        },
-        "Pinyin": "lǔ niú jiàn"
-      }
-    ],
+    "word": {
+      "English": "braised beef shin",
+      "Cantonese": {
+        "text": "滷牛腱",
+        "wkty": [
+          "滷",
+          "牛腱",
+          "牛",
+          "腱"
+        ]
+      },
+      "Yale": "lóuh ngàuh gin",
+      "Simplified": {
+        "text": "卤牛腱",
+        "wkty": [
+          "滷",
+          "牛腱",
+          "牛",
+          "腱"
+        ]
+      },
+      "Pinyin": "lǔ niú jiàn"
+    },
     "images": [
       {
         "image": "beefshinkitchen",

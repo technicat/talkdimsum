@@ -1,13 +1,11 @@
 [
     {
-        "words": [
-            {
-                "English": "cake",
-                "Cantonese": "糕",
-                "Yale": "gōu",
-                "Pinyin": "gāo"
-            }
-        ],
+        "word": {
+            "English": "cake",
+            "Cantonese": "糕",
+            "Yale": "gōu",
+            "Pinyin": "gāo"
+        },
         "images": [
             {
                 "image": "cakehkgarden",
@@ -21,23 +19,21 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "sweet rice cake",
-                "Cantonese": {
-                    "text": "白糖糕",
-                    "wkty": [
-                        "白糖糕",
-                        "白糖",
-                        "白",
-                        "糖",
-                        "糕"
-                    ]
-                },
-                "Yale": "baahk tòhng gōu",
-                "Pinyin": "bái táng gāo"
-            }
-        ],
+        "word": {
+            "English": "sweet rice cake",
+            "Cantonese": {
+                "text": "白糖糕",
+                "wkty": [
+                    "白糖糕",
+                    "白糖",
+                    "白",
+                    "糖",
+                    "糕"
+                ]
+            },
+            "Yale": "baahk tòhng gōu",
+            "Pinyin": "bái táng gāo"
+        },
         "images": [
             {
                 "image": "sweetricecakeyumcha",

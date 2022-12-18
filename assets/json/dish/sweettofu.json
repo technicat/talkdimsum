@@ -1,22 +1,20 @@
 [
     {
-        "words": [
-            {
-                "English": "tofu pudding",
-                "Cantonese": {
-                    "text": "豆腐花",
-                    "wkty": [
-                        "豆腐花",
-                        "豆腐",
-                        "豆",
-                        "腐",
-                        "花"
-                    ]
-                },
-                "Yale": "dauh fuh fā",
-                "Pinyin": "dòu fu huā"
-            }
-        ],
+        "word": {
+            "English": "tofu pudding",
+            "Cantonese": {
+                "text": "豆腐花",
+                "wkty": [
+                    "豆腐花",
+                    "豆腐",
+                    "豆",
+                    "腐",
+                    "花"
+                ]
+            },
+            "Yale": "dauh fuh fā",
+            "Pinyin": "dòu fu huā"
+        },
         "images": [
             {
                 "image": "tofupuddingpingpangpong",
@@ -66,25 +64,23 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "almond tofu",
-                "Cantonese": {
-                    "text": "杏仁豆腐",
-                    "wkty": [
-                        "杏仁豆腐",
-                        "杏仁",
-                        "杏",
-                        "仁",
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "Yale": "hahng yàhn dauh fuh",
-                "Pinyin": "xìng rén dòu fu"
-            }
-        ],
+        "word": {
+            "English": "almond tofu",
+            "Cantonese": {
+                "text": "杏仁豆腐",
+                "wkty": [
+                    "杏仁豆腐",
+                    "杏仁",
+                    "杏",
+                    "仁",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Yale": "hahng yàhn dauh fuh",
+            "Pinyin": "xìng rén dòu fu"
+        },
         "images": [
             {
                 "image": "almondtofukirin",

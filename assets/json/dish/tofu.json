@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "tofu",
-                "Cantonese": {
-                    "text": "豆腐",
-                    "wkty": [
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "Yale": "dauh fuh",
-                "Pinyin": "dòu fǔ"
-            }
-        ],
+        "word": {
+            "English": "tofu",
+            "Cantonese": {
+                "text": "豆腐",
+                "wkty": [
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Yale": "dauh fuh",
+            "Pinyin": "dòu fǔ"
+        },
         "images": [
             {
                 "image": "mapotofuxiangxiang",
@@ -33,35 +31,33 @@
         ]
     },
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "滷汁豆腐",
-                    "wkty": [
-                        "滷汁",
-                        "滷",
-                        "汁",
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "Simplified": {
-                    "text": "卤汁豆腐",
-                    "wkty": [
-                        "卤汁",
-                        "卤",
-                        "汁",
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "English": "marinated tofu",
-                "Yale": "lóuh jāp dauh fuh",
-                "Pinyin": "lǔ zhī dòu fǔ"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "滷汁豆腐",
+                "wkty": [
+                    "滷汁",
+                    "滷",
+                    "汁",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Simplified": {
+                "text": "卤汁豆腐",
+                "wkty": [
+                    "卤汁",
+                    "卤",
+                    "汁",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "English": "marinated tofu",
+            "Yale": "lóuh jāp dauh fuh",
+            "Pinyin": "lǔ zhī dòu fǔ"
+        },
         "images": [
             {
                 "image": "marinatedtofupearlbay",
@@ -80,24 +76,22 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mapo tofu",
-                "Cantonese": {
-                    "text": "麻婆豆腐",
-                    "wkty": [
-                        "麻婆豆腐",
-                        "麻",
-                        "婆",
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "Yale": "màh pòh dauh fuh",
-                "Pinyin": "má pó dòu fǔ"
-            }
-        ],
+        "word": {
+            "English": "mapo tofu",
+            "Cantonese": {
+                "text": "麻婆豆腐",
+                "wkty": [
+                    "麻婆豆腐",
+                    "麻",
+                    "婆",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Yale": "màh pòh dauh fuh",
+            "Pinyin": "má pó dòu fǔ"
+        },
         "images": [
             {
                 "image": "mapotofunoodleexchange",
@@ -177,22 +171,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "egg tofu",
-                "Cantonese": {
-                    "text": "蛋豆腐",
-                    "wkty": [
-                        "蛋",
-                        "豆腐",
-                        "豆",
-                        "腐"
-                    ]
-                },
-                "Yale": "dáan dauh fuh",
-                "Pinyin": "dàn dòu fǔ"
-            }
-        ],
+        "word": {
+            "English": "egg tofu",
+            "Cantonese": {
+                "text": "蛋豆腐",
+                "wkty": [
+                    "蛋",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Yale": "dáan dauh fuh",
+            "Pinyin": "dàn dòu fǔ"
+        },
         "images": [
             {
                 "image": "eggtofuhkgarden",

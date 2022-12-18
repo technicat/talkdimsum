@@ -3,7 +3,7 @@
     "lines": [
         {
             "name": "a",
-            "words": [
+            "word":
                 {
                     "English": "What is your name?",
                     "Cantonese": "你叫咩名",
@@ -16,7 +16,7 @@
         },
         {
             "name": "b",
-            "words": [
+            "word":
                 {
                     "English": "My name is...",
                     "Cantonese": "我個名叫...",

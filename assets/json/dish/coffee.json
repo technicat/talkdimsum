@@ -1,20 +1,18 @@
 [
     {
-        "words": [
-            {
-                "English": "coffee",
-                "Cantonese": {
-                    "text": "咖啡",
-                    "wkty": [
-                        "咖啡",
-                        "咖",
-                        "啡"
-                    ]
-                },
-                "Yale": "ga fē",
-                "Pinyin": "kā fēi"
-            }
-        ],
+        "word": {
+            "English": "coffee",
+            "Cantonese": {
+                "text": "咖啡",
+                "wkty": [
+                    "咖啡",
+                    "咖",
+                    "啡"
+                ]
+            },
+            "Yale": "ga fē",
+            "Pinyin": "kā fēi"
+        },
         "images": [
             {
                 "image": "coffeejj",

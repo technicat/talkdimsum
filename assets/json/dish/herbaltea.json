@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "honey citrus tea",
-                "Cantonese": {
-                    "text": "柚子茶",
-                    "wkty": [
-                        "柚子",
-                        "柚",
-                        "子",
-                        "茶"
-                    ]
-                },
-                "Yale": "yáu jí chàh",
-                "Pinyin": "yòu zi chá"
-            }
-        ],
+        "word": {
+            "English": "honey citrus tea",
+            "Cantonese": {
+                "text": "柚子茶",
+                "wkty": [
+                    "柚子",
+                    "柚",
+                    "子",
+                    "茶"
+                ]
+            },
+            "Yale": "yáu jí chàh",
+            "Pinyin": "yòu zi chá"
+        },
         "images": [
             {
                 "image": "honeycitrustea88noodlepapa",
@@ -41,15 +39,13 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "honey lemon tea",
-                "Cantonese": "熱檸蜜",
-                "Yale": "yiht lìhng maht",
-                "Simplified": "热柠蜜",
-                "Pinyin": "rè níng mì"
-            }
-        ],
+        "word": {
+            "English": "honey lemon tea",
+            "Cantonese": "熱檸蜜",
+            "Yale": "yiht lìhng maht",
+            "Simplified": "热柠蜜",
+            "Pinyin": "rè níng mì"
+        },
         "images": [
             {
                 "image": "honeylemonteaslice88noodlepapa",
@@ -77,15 +73,13 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "ice honey lemon tea",
-                "Cantonese": "凍檸蜜",
-                "Yale": "dung lìhng maht",
-                "Simplified": "冻柠蜜",
-                "Pinyin": "dòng níng mì"
-            }
-        ],
+        "word": {
+            "English": "ice honey lemon tea",
+            "Cantonese": "凍檸蜜",
+            "Yale": "dung lìhng maht",
+            "Simplified": "冻柠蜜",
+            "Pinyin": "dòng níng mì"
+        },
         "images": [
             {
                 "image": "icehoneylemonteacafeorchid",
@@ -116,22 +110,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "grass jelly drink",
-                "Cantonese": {
-                    "text": "仙草蜜",
-                    "wkty": [
-                        "仙草",
-                        "仙",
-                        "草",
-                        "蜜"
-                    ]
-                },
-                "Yale": "sīn chóu maht",
-                "Pinyin": "xiān cǎo mì"
-            }
-        ],
+        "word": {
+            "English": "grass jelly drink",
+            "Cantonese": {
+                "text": "仙草蜜",
+                "wkty": [
+                    "仙草",
+                    "仙",
+                    "草",
+                    "蜜"
+                ]
+            },
+            "Yale": "sīn chóu maht",
+            "Pinyin": "xiān cǎo mì"
+        },
         "images": [
             {
                 "image": "grassjellydrink",
@@ -160,37 +152,35 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lemongrass barley tea",
-                "Cantonese": {
-                    "text": "香茅大麥茶",
-                    "wkty": [
-                        "香茅",
-                        "香",
-                        "茅",
-                        "大麥",
-                        "大",
-                        "麥",
-                        "茶"
-                    ]
-                },
-                "Yale": "hēung màauh daaih mahk chàh",
-                "Simplified": {
-                    "text": "香茅大麦茶",
-                    "wkty": [
-                        "香茅",
-                        "香",
-                        "茅",
-                        "大麦",
-                        "大",
-                        "麦",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "xiāng máo dà mài chá"
-            }
-        ],
+        "word": {
+            "English": "lemongrass barley tea",
+            "Cantonese": {
+                "text": "香茅大麥茶",
+                "wkty": [
+                    "香茅",
+                    "香",
+                    "茅",
+                    "大麥",
+                    "大",
+                    "麥",
+                    "茶"
+                ]
+            },
+            "Yale": "hēung màauh daaih mahk chàh",
+            "Simplified": {
+                "text": "香茅大麦茶",
+                "wkty": [
+                    "香茅",
+                    "香",
+                    "茅",
+                    "大麦",
+                    "大",
+                    "麦",
+                    "茶"
+                ]
+            },
+            "Pinyin": "xiāng máo dà mài chá"
+        },
         "images": [
             {
                 "image": "lemongrassbarleytea",
@@ -214,31 +204,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "eight treasures tea",
-                "Cantonese": {
-                    "text": "八寶茶",
-                    "wkty": [
-                        "八寶",
-                        "八",
-                        "寶",
-                        "茶"
-                    ]
-                },
-                "Yale": "baat bóu chàh",
-                "Simplified": {
-                    "text": "八宝茶",
-                    "wkty": [
-                        "八宝",
-                        "八",
-                        "宝",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "bā bǎo chá"
-            }
-        ],
+        "word": {
+            "English": "eight treasures tea",
+            "Cantonese": {
+                "text": "八寶茶",
+                "wkty": [
+                    "八寶",
+                    "八",
+                    "寶",
+                    "茶"
+                ]
+            },
+            "Yale": "baat bóu chàh",
+            "Simplified": {
+                "text": "八宝茶",
+                "wkty": [
+                    "八宝",
+                    "八",
+                    "宝",
+                    "茶"
+                ]
+            },
+            "Pinyin": "bā bǎo chá"
+        },
         "images": [
             {
                 "image": "eighttreasuresherbaltea8east",

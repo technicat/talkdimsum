@@ -1,21 +1,19 @@
 [
     {
-        "words": [
-            {
-                "English": "red bean paste bun",
-                "Cantonese": {
-                    "text": "豆沙包",
-                    "wkty": [
-                        "豆沙",
-                        "豆",
-                        "沙",
-                        "包"
-                    ]
-                },
-                "Yale": "dauh sā bāau",
-                "Pinyin": "dòu shā bāo"
-            }
-        ],
+        "word": {
+            "English": "red bean paste bun",
+            "Cantonese": {
+                "text": "豆沙包",
+                "wkty": [
+                    "豆沙",
+                    "豆",
+                    "沙",
+                    "包"
+                ]
+            },
+            "Yale": "dauh sā bāau",
+            "Pinyin": "dòu shā bāo"
+        },
         "images": [
             {
                 "image": "steamedredbeanbunyumcha",
@@ -59,22 +57,20 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "sesame paste bun",
-                "Cantonese": {
-                    "text": "芝麻包",
-                    "wkty": [
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "包"
-                    ]
-                },
-                "Yale": "jī màh bāau",
-                "Pinyin": "zhī ma bāo"
-            }
-        ],
+        "word": {
+            "English": "sesame paste bun",
+            "Cantonese": {
+                "text": "芝麻包",
+                "wkty": [
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "包"
+                ]
+            },
+            "Yale": "jī màh bāau",
+            "Pinyin": "zhī ma bāo"
+        },
         "images": [
             {
                 "image": "blacksesamebunkj",
@@ -118,33 +114,31 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "lotus seed bun",
-                "Cantonese": {
-                    "text": "蓮蓉包",
-                    "wkty": [
-                        "蓮蓉包",
-                        "蓮蓉",
-                        "蓮",
-                        "蓉",
-                        "包"
-                    ]
-                },
-                "Yale": "lìhn yùhng bāau",
-                "Simplified": {
-                    "text": "莲蓉包",
-                    "wkty": [
-                        "莲蓉包",
-                        "莲蓉",
-                        "莲",
-                        "蓉",
-                        "包"
-                    ]
-                },
-                "Pinyin": "lián róng bāo"
-            }
-        ],
+        "word": {
+            "English": "lotus seed bun",
+            "Cantonese": {
+                "text": "蓮蓉包",
+                "wkty": [
+                    "蓮蓉包",
+                    "蓮蓉",
+                    "蓮",
+                    "蓉",
+                    "包"
+                ]
+            },
+            "Yale": "lìhn yùhng bāau",
+            "Simplified": {
+                "text": "莲蓉包",
+                "wkty": [
+                    "莲蓉包",
+                    "莲蓉",
+                    "莲",
+                    "蓉",
+                    "包"
+                ]
+            },
+            "Pinyin": "lián róng bāo"
+        },
         "images": [
             {
                 "image": "sweetlotuspastebunimperialgarden",

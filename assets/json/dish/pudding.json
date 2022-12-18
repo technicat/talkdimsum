@@ -1,6 +1,6 @@
 [
   {
-    "words": [
+    "word":
       {
         "English": "mango pudding",
         "Cantonese": {
@@ -29,8 +29,7 @@
           ]
         },
         "Pinyin": "máng guǒ bù dīng"
-      }
-    ],
+      },
     "images": [
       {
         "image": "mangopuddingyumcha",
@@ -88,7 +87,7 @@
     ]
   },
   {
-    "words": [
+    "word":
       {
         "English": "baked tapioca pudding",
         "Cantonese": {
@@ -104,8 +103,7 @@
         },
         "Yale": "sāi máih bou dīn",
         "Pinyin": "xī mǐ bù diàn"
-      }
-    ],
+      },
     "images": [
       {
         "image": "tapiocapuddingzenpeninsula2",

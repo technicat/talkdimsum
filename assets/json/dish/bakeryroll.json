@@ -1,23 +1,21 @@
 [
     {
-        "words": [
-            {
-                "English": "black sesame roll",
-                "Cantonese": {
-                    "text": "芝麻卷",
-                    "wkty": [
-                        "黑芝麻",
-                        "黑",
-                        "芝麻",
-                        "芝",
-                        "麻",
-                        "卷"
-                    ]
-                },
-                "Yale": "jī màh gyún",
-                "Pinyin": "zhī ma juǎn"
-            }
-        ],
+        "word": {
+            "English": "black sesame roll",
+            "Cantonese": {
+                "text": "芝麻卷",
+                "wkty": [
+                    "黑芝麻",
+                    "黑",
+                    "芝麻",
+                    "芝",
+                    "麻",
+                    "卷"
+                ]
+            },
+            "Yale": "jī màh gyún",
+            "Pinyin": "zhī ma juǎn"
+        },
         "images": [
             {
                 "image": "blacksesamerollsverticalluckyhouse",
@@ -45,31 +43,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "coconut roll",
-                "Cantonese": {
-                    "text": "椰絲卷",
-                    "wkty": [
-                        "椰絲",
-                        "椰",
-                        "絲",
-                        "卷"
-                    ]
-                },
-                "Yale": "yèh sī gyún",
-                "Simplified": {
-                    "text": "椰丝卷",
-                    "wkty": [
-                        "椰丝",
-                        "椰",
-                        "丝",
-                        "卷"
-                    ]
-                },
-                "Pinyin": "yē sī juàn"
-            }
-        ],
+        "word": {
+            "English": "coconut roll",
+            "Cantonese": {
+                "text": "椰絲卷",
+                "wkty": [
+                    "椰絲",
+                    "椰",
+                    "絲",
+                    "卷"
+                ]
+            },
+            "Yale": "yèh sī gyún",
+            "Simplified": {
+                "text": "椰丝卷",
+                "wkty": [
+                    "椰丝",
+                    "椰",
+                    "丝",
+                    "卷"
+                ]
+            },
+            "Pinyin": "yē sī juàn"
+        },
         "images": [
             {
                 "image": "coconutrollsdimsumcafe",
@@ -93,21 +89,19 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "biscuit roll",
-                "Cantonese": {
-                    "text": "蛋卷",
-                    "wkty": [
-                        "蛋卷",
-                        "蛋",
-                        "卷"
-                    ]
-                },
-                "Yale": "daahn gyún",
-                "Pinyin": "dàn juǎn"
-            }
-        ],
+        "word": {
+            "English": "biscuit roll",
+            "Cantonese": {
+                "text": "蛋卷",
+                "wkty": [
+                    "蛋卷",
+                    "蛋",
+                    "卷"
+                ]
+            },
+            "Yale": "daahn gyún",
+            "Pinyin": "dàn juǎn"
+        },
         "images": [
             {
                 "image": "biscuitroll2"

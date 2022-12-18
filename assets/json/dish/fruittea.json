@@ -1,22 +1,20 @@
 [
     {
-        "words": [
-            {
-                "English": "fruit tea",
-                "Cantonese": {
-                    "text": "水果茶",
-                    "wkty": [
-                        "水果",
-                        "水",
-                        "果",
-                        "茶"
-                    ]
-                },
-                "Yale": "séui gwó chàh",
-                "Jyutping": "seoi2 gwo2 caa4",
-                "Pinyin": "shuǐ guǒ chá"
-            }
-        ],
+        "word": {
+            "English": "fruit tea",
+            "Cantonese": {
+                "text": "水果茶",
+                "wkty": [
+                    "水果",
+                    "水",
+                    "果",
+                    "茶"
+                ]
+            },
+            "Yale": "séui gwó chàh",
+            "Jyutping": "seoi2 gwo2 caa4",
+            "Pinyin": "shuǐ guǒ chá"
+        },
         "images": [
             {
                 "image": "sweettalk",
@@ -43,36 +41,34 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "mango green tea",
-                "Cantonese": {
-                    "text": "芒果綠茶",
-                    "wkty": [
-                        "芒果",
-                        "芒",
-                        "果",
-                        "綠茶",
-                        "綠",
-                        "茶"
-                    ]
-                },
-                "Yale": "mōng gwó luhk chàh",
-                "Jyutping": "mong1 gwo2 luk6 caa4",
-                "Simplified": {
-                    "text": "芒果绿茶",
-                    "wkty": [
-                        "芒果",
-                        "芒",
-                        "果",
-                        "绿茶",
-                        "绿",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "máng guǒ lǜ chá"
-            }
-        ],
+        "word": {
+            "English": "mango green tea",
+            "Cantonese": {
+                "text": "芒果綠茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "mōng gwó luhk chàh",
+            "Jyutping": "mong1 gwo2 luk6 caa4",
+            "Simplified": {
+                "text": "芒果绿茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "máng guǒ lǜ chá"
+        },
         "images": [
             {
                 "image": "mangogreenteameetfresh",
@@ -92,36 +88,34 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "mango black tea",
-                "Cantonese": {
-                    "text": "芒果紅茶",
-                    "wkty": [
-                        "芒果",
-                        "芒",
-                        "果",
-                        "紅茶",
-                        "紅",
-                        "茶"
-                    ]
-                },
-                "Yale": "mōng gwó hùhng chàh",
-                "Jyutping": "mong1 gwo2 hung4 caa4",
-                "Simplified": {
-                    "text": "芒果红茶",
-                    "wkty": [
-                        "芒果",
-                        "芒",
-                        "果",
-                        "红茶",
-                        "红",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "máng guǒ hóng chá"
-            }
-        ],
+        "word": {
+            "English": "mango black tea",
+            "Cantonese": {
+                "text": "芒果紅茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "紅茶",
+                    "紅",
+                    "茶"
+                ]
+            },
+            "Yale": "mōng gwó hùhng chàh",
+            "Jyutping": "mong1 gwo2 hung4 caa4",
+            "Simplified": {
+                "text": "芒果红茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "红茶",
+                    "红",
+                    "茶"
+                ]
+            },
+            "Pinyin": "máng guǒ hóng chá"
+        },
         "images": [
             {
                 "image": "mangoblackteacloudtea",
@@ -141,38 +135,36 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "English": "passion fruit green tea",
-                "Cantonese": {
-                    "text": "百香果綠茶",
-                    "wkty": [
-                        "百香果",
-                        "百",
-                        "香",
-                        "果",
-                        "綠茶",
-                        "綠",
-                        "茶"
-                    ]
-                },
-                "Yale": "baak hēung gwó luhk chàh",
-                "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
-                "Simplified": {
-                    "text": "百香果绿茶",
-                    "wkty": [
-                        "百香果",
-                        "百",
-                        "香",
-                        "果",
-                        "绿茶",
-                        "绿",
-                        "茶"
-                    ]
-                },
-                "Pinyin": "bǎi xiāng guǒ lǜ chá"
-            }
-        ],
+        "word": {
+            "English": "passion fruit green tea",
+            "Cantonese": {
+                "text": "百香果綠茶",
+                "wkty": [
+                    "百香果",
+                    "百",
+                    "香",
+                    "果",
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "baak hēung gwó luhk chàh",
+            "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
+            "Simplified": {
+                "text": "百香果绿茶",
+                "wkty": [
+                    "百香果",
+                    "百",
+                    "香",
+                    "果",
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "bǎi xiāng guǒ lǜ chá"
+        },
         "images": [
             {
                 "image": "passionfruitgreenteameetfresh",
@@ -192,23 +184,21 @@
         "resources": []
     },
     {
-        "words": [
-            {
-                "Cantonese": {
-                    "text": "杏仁茶",
-                    "wkty": [
-                        "杏仁茶",
-                        "杏仁",
-                        "杏",
-                        "仁",
-                        "茶"
-                    ]
-                },
-                "English": "almond tea",
-                "Yale": "hahng yàhn chàh",
-                "Pinyin": "xìng rén chá"
-            }
-        ],
+        "word": {
+            "Cantonese": {
+                "text": "杏仁茶",
+                "wkty": [
+                    "杏仁茶",
+                    "杏仁",
+                    "杏",
+                    "仁",
+                    "茶"
+                ]
+            },
+            "English": "almond tea",
+            "Yale": "hahng yàhn chàh",
+            "Pinyin": "xìng rén chá"
+        },
         "images": [
             {
                 "image": "almondteameetfresh",

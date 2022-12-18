@@ -1,29 +1,27 @@
 [
     {
-        "words": [
-            {
-                "English": "soup dumpling",
-                "Cantonese": {
-                    "text": "湯包",
-                    "wkty": [
-                        "湯包",
-                        "湯",
-                        "包"
-                    ]
-                },
-                "Yale": "tōng bāau",
-                "Jyutping": "tong1 baau1",
-                "Simplified": {
-                    "text": "汤包",
-                    "wkty": [
-                        "汤包",
-                        "汤",
-                        "包"
-                    ]
-                },
-                "Pinyin": "tāng bāo"
-            }
-        ],
+        "word": {
+            "English": "soup dumpling",
+            "Cantonese": {
+                "text": "湯包",
+                "wkty": [
+                    "湯包",
+                    "湯",
+                    "包"
+                ]
+            },
+            "Yale": "tōng bāau",
+            "Jyutping": "tong1 baau1",
+            "Simplified": {
+                "text": "汤包",
+                "wkty": [
+                    "汤包",
+                    "汤",
+                    "包"
+                ]
+            },
+            "Pinyin": "tāng bāo"
+        },
         "images": [
             {
                 "image": "siulungbaodimsumcafe",
@@ -44,31 +42,29 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "Shanghai dumpling",
-                "Cantonese": {
-                    "text": "小籠包",
-                    "wkty": [
-                        "小籠包",
-                        "小",
-                        "籠",
-                        "包"
-                    ]
-                },
-                "Yale": "síu lùhng bāau",
-                "Simplified": {
-                    "text": "小笼包",
-                    "wkty": [
-                        "小籠包",
-                        "小",
-                        "籠",
-                        "包"
-                    ]
-                },
-                "Pinyin": "xiǎo lóng bāo"
-            }
-        ],
+        "word": {
+            "English": "Shanghai dumpling",
+            "Cantonese": {
+                "text": "小籠包",
+                "wkty": [
+                    "小籠包",
+                    "小",
+                    "籠",
+                    "包"
+                ]
+            },
+            "Yale": "síu lùhng bāau",
+            "Simplified": {
+                "text": "小笼包",
+                "wkty": [
+                    "小籠包",
+                    "小",
+                    "籠",
+                    "包"
+                ]
+            },
+            "Pinyin": "xiǎo lóng bāo"
+        },
         "images": [
             {
                 "image": "shanghaidumplingsrevealedyumcha",
@@ -113,52 +109,50 @@
         ]
     },
     {
-        "words": [
-            {
-                "English": "chocolate Shanghai dumpling",
-                "Cantonese": {
-                    "text": "朱古力小籠包",
-                    "wkty": [
-                        "朱古力",
-                        "朱",
-                        "古",
-                        "力",
-                        "小籠包",
-                        "小",
-                        "籠",
-                        "包"
-                    ]
-                },
-                "Yale": "jyū gū līk síu lùhng bāau",
-                "Mandarin": {
-                    "text": "巧克力小籠包",
-                    "wkty": [
-                        "巧克力",
-                        "巧",
-                        "克",
-                        "力",
-                        "小籠包",
-                        "小",
-                        "籠",
-                        "包"
-                    ]
-                },
-                "Simplified": {
-                    "text": "巧克力小笼包",
-                    "wkty": [
-                        "巧克力",
-                        "巧",
-                        "克",
-                        "力",
-                        "小笼包",
-                        "小",
-                        "笼",
-                        "包"
-                    ]
-                },
-                "Pinyin": "qiǎo kè lì xiǎo lóng bāo"
-            }
-        ],
+        "word": {
+            "English": "chocolate Shanghai dumpling",
+            "Cantonese": {
+                "text": "朱古力小籠包",
+                "wkty": [
+                    "朱古力",
+                    "朱",
+                    "古",
+                    "力",
+                    "小籠包",
+                    "小",
+                    "籠",
+                    "包"
+                ]
+            },
+            "Yale": "jyū gū līk síu lùhng bāau",
+            "Mandarin": {
+                "text": "巧克力小籠包",
+                "wkty": [
+                    "巧克力",
+                    "巧",
+                    "克",
+                    "力",
+                    "小籠包",
+                    "小",
+                    "籠",
+                    "包"
+                ]
+            },
+            "Simplified": {
+                "text": "巧克力小笼包",
+                "wkty": [
+                    "巧克力",
+                    "巧",
+                    "克",
+                    "力",
+                    "小笼包",
+                    "小",
+                    "笼",
+                    "包"
+                ]
+            },
+            "Pinyin": "qiǎo kè lì xiǎo lóng bāo"
+        },
         "images": [
             {
                 "image": "chocolatebananaxlbxiaolongbao",

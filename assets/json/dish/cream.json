@@ -1,23 +1,21 @@
 [
   {
-    "words": [
-      {
-        "English": "walnut soup",
-        "Cantonese": {
-          "text": "核桃糊",
-          "wkty": [
-            "核桃糊",
-            "核桃",
-            "核",
-            "桃",
-            "糊"
-          ]
-        },
-        "Yale": "haht tòuh wùh",
-        "Jyutping": "hat6 to2 wu4",
-        "Pinyin": "hé tao hù"
-      }
-    ],
+    "word": {
+      "English": "walnut soup",
+      "Cantonese": {
+        "text": "核桃糊",
+        "wkty": [
+          "核桃糊",
+          "核桃",
+          "核",
+          "桃",
+          "糊"
+        ]
+      },
+      "Yale": "haht tòuh wùh",
+      "Jyutping": "hat6 to2 wu4",
+      "Pinyin": "hé tao hù"
+    },
     "images": [
       {
         "image": "walnutsoupsweethoneydesserts",
@@ -44,24 +42,22 @@
     ]
   },
   {
-    "words": [
-      {
-        "English": "black sesame soup",
-        "Cantonese": {
-          "text": "黑芝麻糊",
-          "wkty": [
-            "黑芝麻",
-            "黑",
-            "芝麻",
-            "芝",
-            "麻",
-            "糊"
-          ]
-        },
-        "Yale": "hāk jī màh wùh",
-        "Pinyin": "hēi zhī má hù"
-      }
-    ],
+    "word": {
+      "English": "black sesame soup",
+      "Cantonese": {
+        "text": "黑芝麻糊",
+        "wkty": [
+          "黑芝麻",
+          "黑",
+          "芝麻",
+          "芝",
+          "麻",
+          "糊"
+        ]
+      },
+      "Yale": "hāk jī màh wùh",
+      "Pinyin": "hēi zhī má hù"
+    },
     "images": [
       {
         "image": "blacksesamesoupsweethoneydessert",
