@@ -192,6 +192,19 @@
             "檸檬",
             "茶"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/winter-melon-tea/"
+            },
+            {
+                "name": "China Yummy Food",
+                "URL": "https://www.chinayummyfood.com/winter-melon-tea/"
+            },
+            {
+                "name": "Miss Chinese Food",
+                "URL": "https://misschinesefood.com/winter-melon-tea-2/"
+            }
+        ]
     }
 ]
