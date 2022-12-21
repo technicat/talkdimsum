@@ -220,7 +220,7 @@
             ],
             "lat": 40.76127031351562,
             "lon": -73.83310031546658,
-            "city": "New York",
+            "city": "Flushing",
             "address": "36-36 Prince Street Flushing, NY 11354"
         },
         {
@@ -499,6 +499,23 @@
             "lon": -73.997760,
             "city": "New York",
             "address": "5 EAST BROADWAY, NEW YORK CITY"
+        },
+        {
+            "title": "Dim Sum Palace (Chinatown)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumpalace.com/"
+                },
+                {
+                    "name": "The Lo-Down",
+                    "URL": "https://www.thelodownny.com/leslog/2022/12/dim-sum-palace-opens-at-27-division-st.html"
+                }
+            ],
+            "lat": 40.71412878286646,
+            "lon": -73.99605163020284,
+            "city": "New York",
+            "address": "27 Division St, New York, NY 10002"
         },
         {
             "title": "Dim Sum Palace (Hell's Kitchen)",
