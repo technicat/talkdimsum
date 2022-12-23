@@ -22,7 +22,7 @@ The Chinese/Mandarin/Simplified fields are either strings or text/wkty pairs. If
 
 ## Images
 
-The images are landscape but not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin).
+The images are landscape but not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin). They are all JPEG files suffixed .jpg (the Flutter code assumes this, the Swift code doesn't care).
 
 ## Restaurants
 
