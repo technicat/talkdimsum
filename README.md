@@ -18,7 +18,7 @@ Yale romanization specifies the Cantonese pronunciation, and Pinyin specifies th
 
 As this database is focused on Cantonese dim sum (at least originally), the words are keyed by the Cantonese text. Mandarin is only specified if it differs from the Cantonese, and Simplified is the simplified characters version of the Mandarin (implicit or explicit), but again only specified if they are different.
 
-The Chinese/Mandarin/Simplified fields are either strings or text/wkty pairs. In-progress: moving the *resource* wiktionary link lists from full URLs to a more concise *wkty* list of just the characters or character groups -- let the apps create the URLs by appending the characters to the common wiktionary URL path. If the Cantonese/Mandarin/Simplified is just a string and not a text/wkty pair, then it is assumed there should only be links generated for the individual characters.
+The Chinese/Mandarin/Simplified fields are either strings or text/wkty pairs. If the Cantonese/Mandarin/Simplified is just a string and not a text/wkty pair, then it is assumed there should only be wiktionary links generated for the individual characters.
 
 ## Images
 
