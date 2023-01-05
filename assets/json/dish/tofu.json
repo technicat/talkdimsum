@@ -210,5 +210,40 @@
                 "URL": "https://en.wikipedia.org/wiki/Tofu#Egg_tofu"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "salted meat tofu ribbons",
+            "Cantonese": {
+                "text": "鹹肉百葉",
+                "wkty": [
+                    "鹹肉",
+                    "鹹",
+                    "肉"
+                ]
+            },
+            "Yale": "hàahm yuhk baak yihp",
+            "Simplified": {
+                "text": "咸肉百叶",
+                "wkty": [
+                    "咸肉",
+                    "咸",
+                    "肉"
+                ]
+            },
+            "Pinyin": "xián ròu bǎi yè"
+        },
+        "images": [
+            {
+                "image": "saltedmeattofuribbonnoodleking",
+                "place": "Noodle King, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Cured pork (sometimes translated as bacon, but this isn't crispy), stewed with strips of tofu pressed into sheets.",
+        "tags": [
+            "豆腐"
+        ],
+        "resources": [
+        ]
     }
 ]
