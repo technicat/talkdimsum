@@ -1,6 +1,6 @@
-These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com), both the Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the [Flutter version](https://github.com/technicat/dartdimsum) (copy.scm is a Gauche script that copies these files to my local copies of those repos). The Flutter code is not regularly updated, so it may not run this data.
+These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com), both the Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the [Flutter version](https://github.com/technicat/dartdimsum) (copy.scm is a Gauche script that copies these files to my local copies of those repos). The Flutter code is not currently maintained, so it would need to be updated to load the latest data.
 
-This repo also servers as the Issues database for the app and download site for Flutter builds (which I don't update often, so feel free to file an Issue for a new build).
+This repo also servers as the Issues database for the app and download site for the mot recent Flutter builds.
 
 ## Items
 
