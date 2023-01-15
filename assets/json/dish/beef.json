@@ -1,6 +1,42 @@
 [
   {
     "word": {
+      "English": "pickled mustard greens with beef",
+      "Cantonese": {
+        "text": "酸菜炒牛肉",
+        "wkty": [
+          "酸菜",
+          "酸",
+          "菜",
+          "炒",
+          "牛",
+          "牛肉",
+          "肉"
+        ]
+      },
+      "Yale": "syūn choi ngàuh yuhk",
+      "Pinyin": "suān cài niú ròu"
+    },
+    "images": [
+      {
+        "image": "pickledmustardgreensbeefyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "{酸菜} is [picked mustard greens](https://www.chinasichuanfood.com/pickled-mustard-green-recipe/), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), so 酸菜炒牛肉is *picked mustard greens stir-fried beef*.",
+    "tags": [
+      "酸菜",
+      "牛肉"
+    ],
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/beef-and-pickled-mustard-greens-haam-choy/"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "daikon brisket stew",
       "Cantonese": {
         "text": "蘿蔔牛腩",
