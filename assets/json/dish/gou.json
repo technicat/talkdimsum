@@ -20,6 +20,26 @@
     },
     {
         "word": {
+            "English": "Western-style cake",
+            "Cantonese": "蛋糕",
+            "Yale": "daahn gōu",
+            "Pinyin": "dàn gāo"
+        },
+        "images": [
+            {
+                "image": "cakediamondbakery",
+                "place": "Diamond Bakery, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Chinese bakeries often offer Western-style cakes.\n\n**Characters**\n\n{蛋} is *egg*, and {糕} is *cake, so {蛋糕} is *egg cake*.",
+        "tags": [
+            "蛋",
+            "糕"
+        ],
+        "resources": []
+    },
+    {
+        "word": {
             "English": "sweet rice cake",
             "Cantonese": {
                 "text": "白糖糕",
