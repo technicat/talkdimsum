@@ -309,6 +309,31 @@
             "title": "Central Seafood",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://007-chinese-food.square.site/"
+                },
+                {
+                    "name": "Buffalo News",
+                    "URL": "https://buffalonews.com/entertainment/dining/restaurants/burmese-family-brings-dim-sum-from-west-side-bazaar-to-southtowns/article_ee440206-96ad-11ed-99a4-6fb81d1c0014.html"
+                },
+                {
+                    "name": "West Side Bazaar",
+                    "URL": "https://www.westsidebazaar.com/007_chinese_foods"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/007-chinese-food-hamburg-2"
+                }
+            ],
+            "lat": 42.71919094983287,
+            "lon":  -78.839417159957,
+            "city": "Hamburg",
+            "address": "84 Lake St Hamburg, NY 14075"
+        },
+        {
+            "title": "Central Seafood",
+            "links": [
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/central-seafood-hartsdale"
                 }
