@@ -50,26 +50,25 @@
         "word": {
             "English": "orange chicken",
             "Cantonese": {
-                "text": "橙花雞",
+                "text": "陳皮雞",
                 "wkty": [
-                    "橙花雞",
-                    "橙",
-                    "花",
+                    "陳皮",
+                    "陳",
+                    "皮",
                     "雞"
                 ]
             },
-            "Yale": "cháang fā gāi",
-            "Jyutping": "caang2 faa1 gai1",
+            "Yale": "chàhn pèih gāi",
             "Simplified": {
-                "text": "橙花鸡",
+                "text": "陈皮鸡",
                 "wkty": [
-                    "橙花鸡",
-                    "橙",
-                    "花",
+                    "陈皮",
+                    "陈",
+                    "皮",
                     "鸡"
                 ]
             },
-            "Pinyin": "chéng huā jī"
+            "Pinyin": "chén pí jī"
         },
         "images": [
             {
@@ -77,8 +76,10 @@
                 "place": "DE Thai, Las Vegas, Nevada"
             }
         ],
-        "description": "[Orange chicken](https://en.wikipedia.org/wiki/Orange_chicken), battered fried chicken coated in an orange sauce, is a Chinese-American dish, claimed to have been invented by Panda Express.\n\n**Characters**\n\n{橙} is *orange* (both the color and the fruit), and {花} is *flower*. Together 橙花 is *orange peel* (although sometimes tangerine peel is used). And {雞} is *chicken*, so {橙花雞} is *orange peel chicken*.",
+        "description": "[Orange chicken](https://en.wikipedia.org/wiki/Orange_chicken), battered fried chicken coated in an orange sauce, is most known in the US as a Chinese-American dish, claimed to have been invented by Panda Express, but like many Chinese-American dishes there is a Chinese antecendent, in this case a not so sweet and Hunan dish that incorporates tangerine peel (considered in China to have both medicinal and snack value).\n\n**Characters**\n\n{陳皮} is *tangerine peel* (or more generally *citrus peel*), and {雞} is *chicken*, so 陳皮雞 is *tangerine peel chicken* or *citrus peel chicken*. Actually {陳} is *old* and {皮} is *skin*, so really 陳皮雞 is *old skin chicken* (the alternative names for the Chinese-American version I've seen, 橙花雞 *orange flower chicken* or 橙子雞 *orange chicken*, sound more appetizing!)",
         "tags": [
+            "湘菜",
+            "陳皮",
             "美式",
             "雞",
             "茶餐廳"
@@ -87,6 +88,10 @@
             {
                 "name": "Made with Lau",
                 "URL": "https://www.madewithlau.com/recipes/orange-chicken"
+            },
+            {
+                "name": "NPR",
+                "URL": "https://www.npr.org/sections/thesalt/2017/10/30/560822270/orange-chicken-panda-express-gift-to-american-chinese-food-turns-30"
             },
             {
                 "name": "Wikipedia",
