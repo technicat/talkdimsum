@@ -5,14 +5,18 @@
             "title": "Lucky Lou Seafood Dim Sum Restaurant",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://benyuerestaurant.com/"
+                },
+                {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/lucky-lou-seafood-dimsum-restaurant-indianapolis"
+                    "URL": "https://www.yelp.com/biz/benyue-restaurant-indianapolis"
                 }
             ],
-            "lat": 39.818920,
-            "lon": -86.227150,
+            "lat": 39.909375413517175,
+            "lon":  -86.06537900238118,
             "city": "Indianapolis",
-            "address": "3623 Commercial Dr Indianapolis, IN 46222"
+            "address": "6020 E 82nd St Indianapolis, IN 46250"
         },
         {
             "title": "Royal Mandarin Express",
