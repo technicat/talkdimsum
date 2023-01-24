@@ -424,14 +424,19 @@
                 "place": "Orchids Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "Deep-fried pork chop strips seasoned with with salt and pepper.\n\n**Characters**\n\n{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant),so 椒鹽茄子 is *pepper salt eggplant*.",
+        "description": "Eggplant seasoned with with salt and pepper.\n\n**Characters**\n\n{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant),so 椒鹽茄子 is *pepper salt eggplant*.",
         "tags": [
             "茶餐廳",
             "茄子",
             "素",
             "椒鹽"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "Momma Cuisine",
+                "URL": "https://mommacuisine.com/recipes/salt-and-pepper-eggplant"
+            }
+        ]
     },
     {
         "word": {
