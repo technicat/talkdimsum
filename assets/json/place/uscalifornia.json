@@ -244,6 +244,10 @@
                     "URL": "https://www.capitalseafoodbeverlyhills.com/"
                 },
                 {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/los-angeles/reviews/capital-seafood"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/capital-seafood-beverly-hills-beverly-hills-2"
                 }
@@ -773,6 +777,10 @@
                     "URL": "http://www.ixlbdimsumeats.com/"
                 },
                 {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/los-angeles/reviews/ixlb-dimsum-eats"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ixlb-dimsum-eats-los-angeles-2"
                 }
@@ -1077,6 +1085,10 @@
                     "URL": "http://www.nbcrestaurant.com/"
                 },
                 {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/los-angeles/reviews/nbc-seafood-restaurant"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/nbc-seafood-restaurant-monterey-park"
                 }
@@ -1302,6 +1314,10 @@
                 {
                     "name": "site",
                     "URL": "https://www.lucky1restaurant.com/"
+                },
+                {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/los-angeles/reviews/lucky-1-dim-sum"
                 },
                 {
                     "name": "Yelp",
@@ -2346,6 +2362,10 @@
                     "URL": "https://la.eater.com/2022/12/13/23507545/bistro-1968-dim-sum-restaurant-san-gabriel-opening-photos"
                 },
                 {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/los-angeles/reviews/bistro-1986"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/bistro-1968-san-gabriel"
                 }
@@ -2367,6 +2387,27 @@
             "lon": -118.101150,
             "city": "San Gabriel",
             "address": "140 W Valley Blvd, Ste 4D, San Gabriel, CA 91776"
+        },
+        {
+            "title": "Hong Kong Dim Sum House",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://hkdimsumhouse.com/"
+                },
+                {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/los-angeles/reviews/hong-kong-dim-sum-house"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-dim-sum-house-san-gabriel-2"
+                }
+            ],
+            "lat": 34.1029698923394,
+            "lon": -118.11189812954761,
+            "city": "San Gabriel",
+            "address": "827 W Las Tunas Dr San Gabriel, CA 91776"
         },
         {
             "title": "Jade Cathay",
