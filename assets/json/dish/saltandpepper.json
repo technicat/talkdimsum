@@ -442,7 +442,7 @@
         "word": {
             "English": "salt and pepper crab",
             "Cantonese": {
-                "text": "椒鹽鉗",
+                "text": "椒鹽蟹",
                 "wkty": [
                     "椒鹽",
                     "椒",
@@ -452,7 +452,7 @@
             },
             "Yale": "jīu yìhm háaih",
             "Simplified": {
-                "text": "椒盐鉗",
+                "text": "椒盐蟹",
                 "wkty": [
                     "椒盐",
                     "椒",
@@ -468,19 +468,41 @@
                 "place": "Banana Leaf Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Deep-fried soft shell crab seasoned with with salt and pepper.\n\n**Characters**\n\n{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {鉗} is *crab*, so 椒鹽鉗 is *pepper salt crab*.",
+        "description": "Deep-fried soft shell crab seasoned with with salt and pepper.\n\n**Characters**\n\n{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {蟹} is *crab*, so 椒鹽鉗 is *pepper salt crab*.",
         "tags": [
             "新菜",
             "茶餐廳",
             "海鮮",
-            "鉗",
+            "蟹",
             "椒鹽"
         ],
         "resources": [
             {
+                "name": "Andrew Zimmerman",
+                "URL": " https://andrewzimmern.com/recipes/crispy-salt-pepper-crab-legs/"
+            },
+            {
                 "name": "Asian Inspirations",
                 "URL": "https://asianinspirations.com.au/recipes/salt-and-pepper-soft-shell-crab/"
+            },
+            {
+                "name": "Crab-o-licious",
+                "URL": "https://www.crab-o-licious.com/salt-and-pepper-crab.html"
+            },
+            {
+                "name": "Food and Wine",
+                "URL": "https://www.foodandwine.com/recipes/salt-and-pepper-crab"
+            },
+            {
+                "name": "SBS",
+                "URL": "https://www.sbs.com.au/food/recipes/salt-and-pepper-crab"
+            },
+            {
+                "name": "Vicky Pham",
+                "URL": "https://www.vickypham.com/blog/salt-pepper-crab-cua-rang-muoi"
             }
+            
+           
         ]
     }
 ]
