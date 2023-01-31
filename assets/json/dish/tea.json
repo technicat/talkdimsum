@@ -1,48 +1,6 @@
 [
     {
         "word": {
-            "English": "tea leaves",
-            "Cantonese": {
-                "text": "茶葉",
-                "wkty": [
-                    "茶葉",
-                    "茶",
-                    "葉",
-                    "蛋"
-                ]
-            },
-            "Yale": "chàh yihp",
-            "Simplified": {
-                "text": "茶叶",
-                "wkty": [
-                    "茶叶",
-                    "茶",
-                    "叶",
-                    "蛋"
-                ]
-            },
-            "Pinyin": "chá yè"
-        },
-        "images": [
-            {
-                "image": "",
-                "place": "Las Vegas"
-            }
-        ],
-        "description": "Chinese tea is traditionally prepared with loose leaf tea, ranging from the no-frills [grandpa-style](https://afternoonteareads.com/why-grandpa-style-is-the-best-way-to-enjoy-tea/) to the elaborate [gongfu tea ceremony](https://en.wikipedia.org/wiki/Gongfu_tea_ceremony).**Characters**\n\n{茶葉} is *tea leaves*({茶} is [tea](https://en.wikipedia.org/wiki/Tea), {葉} is *leaf*).",
-        "tags": [
-            "茶",
-            "蛋"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tea_bag"
-            }
-        ]
-    },
-    {
-        "word": {
             "English": "Chinese tea",
             "Cantonese": {
                 "text": "中國茶",
@@ -114,6 +72,49 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Chinese_tea"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "tea leaves",
+            "Cantonese": {
+                "text": "茶葉",
+                "wkty": [
+                    "茶葉",
+                    "茶",
+                    "葉",
+                    "蛋"
+                ]
+            },
+            "Yale": "chàh yihp",
+            "Simplified": {
+                "text": "茶叶",
+                "wkty": [
+                    "茶叶",
+                    "茶",
+                    "叶",
+                    "蛋"
+                ]
+            },
+            "Pinyin": "chá yè"
+        },
+        "images": [
+            {
+                "image": "teatableeverygrain",
+                "place": "Every Grain, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Chinese tea is traditionally prepared with loose leaf tea, ranging from the no-frills [grandpa-style](https://afternoonteareads.com/why-grandpa-style-is-the-best-way-to-enjoy-tea/) to the elaborate [gongfu tea ceremony](https://en.wikipedia.org/wiki/Gongfu_tea_ceremony).\n\n**Characters**\n\n{茶葉} is *tea leaves*({茶} is [tea](https://en.wikipedia.org/wiki/Tea), {葉} is *leaf*).",
+        "tags": [
+            "中國茶",
+            "茶",
+            "蛋"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tea_bag"
             }
         ]
     },
