@@ -149,5 +149,50 @@
                 "URL": "https://en.wikipedia.org/wiki/Gunpowder_tea"
             }
         ]
+    },
+    {
+        "word": {
+            "Cantonese":  {
+                "text": "雲霧茶",
+                "wkty": [
+                    "雲霧",
+                    "雲",
+                    "霧",
+                    "茶"
+                ]
+            },
+            "Simplified":  {
+                "text": "云雾茶",
+                "wkty": [
+                    "云雾",
+                    "云",
+                    "雾",
+                    "茶"
+                ]
+            },
+            "English": "clouds and mist",
+            "Yale": "wàhn mouh chàh",
+            "Pinyin": "yún wù chá"
+        },
+        "images": [
+            {
+                "image": "cloudsandmistteaandwhisk",
+                "place": "Tea and Whisk, Las Vegas, Nevada"
+            }
+        ],
+        "description": "{雲} is *clouds*, {霧} is *mist*, and {茶} is *tea*, so 雲霧茶 is *clouds mist tea*.",
+        "tags": [
+            "熱飲",
+            "飲品",
+            "茶",
+            "熱茶",
+            "中國茶"
+        ],
+        "resources": [
+            {
+                "name": "Tea Guardian",
+                "URL": "https://www.teaguardian.com/quality-varieties/tea-varieties/roasted-green-tea-yunwu/"
+            }
+        ]
     }
 ]
