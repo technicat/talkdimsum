@@ -1,0 +1,63 @@
+[
+    {
+        "word": {
+            "Cantonese": "碧螺春",
+            "English": "biluochun",
+            "Yale": "bīk lòh chēun",
+            "Pinyin": "bì luó chūn"
+        },
+        "images": [
+            {
+                "image": "biluochunteaandwhisk",
+                "place": "Tea and Whisk, Las Vegas, Nevada"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "熱飲",
+            "飲品",
+            "茶",
+            "熱茶",
+            "中國茶"
+        ],
+        "resources": [
+            {
+                "name": "Tea for Me Please",
+                "URL": "https://www.teaformeplease.com/meet-the-tea-bi-luo-chun/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Biluochun"
+            }
+        ]
+    },
+    {
+        "word": {
+            "Cantonese": "雲霧",
+            "Simplified": "云雾",
+            "English": "clouds and mist",
+            "Yale": "wàhn mouh",
+            "Pinyin": "yún wù"
+        },
+        "images": [
+            {
+                "image": "cloudsandmistteaandwhisk",
+                "place": "Tea and Whisk, Las Vegas, Nevada"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "熱飲",
+            "飲品",
+            "茶",
+            "熱茶",
+            "中國茶"
+        ],
+        "resources": [
+            {
+                "name": "Tea Guardian",
+                "URL": "https://www.teaguardian.com/quality-varieties/tea-varieties/roasted-green-tea-yunwu/"
+            }
+        ]
+    }
+]
