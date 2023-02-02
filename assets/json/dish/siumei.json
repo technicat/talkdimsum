@@ -259,5 +259,73 @@
                 "URL": "https://thewoksoflife.com/2015/03/cantonese-roast-pork-belly/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "soy sauce chicken",
+            "Cantonese": {
+                "text": "豉油雞",
+                "wkty": [
+                    "豉油雞",
+                    "豉油",
+                    "豉",
+                    "油",
+                    "雞"
+                    
+                ]
+            },
+            "Yale": "sih yàuh gāi",
+            "Simplified": {
+                "text": "豉油鸡",
+                "wkty": [
+                    "豉油鸡",
+                    "豉油",
+                    "豉",
+                    "油",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "chǐ yóu jī"
+        },
+        "images": [
+            {
+                "image": "soysaucechickennewasianbbqandnoodles",
+                "place": "New Asian BBQ & Noodles, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A Cantonese siumei dish, chicken coocked with soy sauce.\n\n**Characters**{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*.\n\n",
+        "tags": [
+            "粵菜",
+            "燒味",
+            "肉",
+            "燒",
+            "雞"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/easy-chinese-soy-sauce-chicken/"
+            },
+            {
+                "name": "Made with Lau",
+                "URL": "https://www.madewithlau.com/recipes/soy-sauce-chicken"
+            },
+            {
+                "name": "Rasa Malaysia",
+                "URL": "https://rasamalaysia.com/chinese-soy-sauce-chicken-recipe/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/soy-sauce-chicken/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Soy_sauce_chicken"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/soy-sauce-chicken/"
+            }
+        ]
     }
 ]
