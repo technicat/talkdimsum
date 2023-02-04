@@ -2,6 +2,23 @@
     "name": "New Jersey",
     "places": [
         {
+            "title": "Brother Seafood",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.brotherseafoodcherryhill.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/brother-seafood-restaurant-cherry-hill-2"
+                }
+            ],
+            "lat": 39.88941858498515,
+            "lon":  -75.01612330046585 ,
+            "city": "Cherry Hill",
+            "address": "1475 Brace Rd Cherry Hill, NJ 08034"
+        },
+        {
             "title": "Dim Sum II",
             "links": [
                 {
