@@ -185,5 +185,80 @@
                 "URL": "https://mealsonbudget.wordpress.com/2009/06/15/rice-6-0-three-treasures-rice-%E4%B8%89%E5%AF%B6%E9%A3%AF/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "soy sauce chicken rice",
+            "Cantonese": {
+                "text": "豉油雞飯",
+                "wkty": [
+                    "豉油雞",
+                    "豉油",
+                    "豉",
+                    "油",
+                    "雞"
+                    
+                ]
+            },
+            "Yale": "sih yàuh gāi faahn",
+            "Simplified": {
+                "text": "豉油鸡饭",
+                "wkty": [
+                    "豉油鸡",
+                    "豉油",
+                    "豉",
+                    "油",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "chǐ yóu jī fàn"
+        },
+        "images": [
+            {
+                "image": "soysaucechickenriceasianbbqandnoodles",
+                "place": "New Asian BBQ & Noodles, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A Cantonese [siu-mei](https://en.wikipedia.org/wiki/Siu_mei) dish, chicken cooked with soy sauce, served on rice.\n\n**Characters**\n\n{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*. {飯} is *rice*",
+        "tags": [
+            "新菜",
+            "豉油",
+            "粵菜",
+            "燒味",
+            "肉",
+            "燒",
+            "雞",
+            "白飯"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/easy-chinese-soy-sauce-chicken/"
+            },
+            {
+                "name": "Made with Lau",
+                "URL": "https://www.madewithlau.com/recipes/soy-sauce-chicken"
+            },
+            {
+                "name": "Rasa Malaysia",
+                "URL": "https://rasamalaysia.com/chinese-soy-sauce-chicken-recipe/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/soy-sauce-chicken/"
+            },
+            {
+                "name": "Simple Chinese Food",
+                "URL": "https://simplechinesefood.com/recipe/soy-sauce-chicken-rice-188399"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Soy_sauce_chicken"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/soy-sauce-chicken/"
+            }
+        ]
     }
 ]
