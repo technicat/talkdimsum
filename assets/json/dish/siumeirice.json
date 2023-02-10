@@ -1,6 +1,55 @@
 [
     {
         "word": {
+            "English": "siu mei rice",
+            "Cantonese": {
+                "text": "燒味飯",
+                "wkty": [
+                    "燒味",
+                    "燒",
+                    "味",
+                    "飯"
+                ]
+            },
+            "Yale": "sīu meih faahn",
+            "Simplified": {
+                "text": "烧味饭",
+                "wkty": [
+                    "烧味",
+                    "烧",
+                    "味",
+                    "饭"
+                ]
+            },
+            "Pinyin": "shāo wèi fàn"
+        },
+        "images": [
+            {
+                "image": "siumeiricebbqking",
+                "place": "BBQ King, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei), [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats (basically Cantonese BBQ), served on steamed rice, usually with a vegetable such as bok choy or Chinese broccoli.\n\n**Characters**\n\n{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*.\n\nSiu mei is also known as {燒臘} (sīu laahp), *roast cured meat*.\n\n{燒} is also the first character in {燒賣} [siu mai](http://en.wikipedia.org/wiki/Shumai).",
+        "tags": [
+            "粵菜",
+            "燒味飯",
+            "燒味",
+            "肉",
+            "燒"
+        ],
+        "resources": [
+            {
+                "name": "The Culture Trip",
+                "URL": "https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Siu_mei"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "BBQ pork rice",
             "Cantonese": {
                 "text": "叉燒飯",
@@ -34,6 +83,7 @@
             "粵菜",
             "茶餐廳",
             "叉燒",
+            "燒味飯",
             "燒味",
             "飯",
             "肉",
@@ -133,6 +183,7 @@
             "茶餐廳",
             "燒鴨",
             "鴨",
+            "燒味飯",
             "燒味",
             "飯",
             "肉",
@@ -225,6 +276,7 @@
             "新菜",
             "豉油",
             "粵菜",
+            "燒味飯",
             "燒味",
             "肉",
             "燒",
