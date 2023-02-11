@@ -29,13 +29,15 @@
                 "place": "BBQ King, Las Vegas, Nevada"
             }
         ],
-        "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei), [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats (basically Cantonese BBQ), served on steamed rice, usually with a vegetable such as bok choy or Chinese broccoli.\n\n**Characters**\n\n{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*.\n\nSiu mei is also known as {燒臘} (sīu laahp), *roast cured meat*.\n\n{燒} is also the first character in {燒賣} [siu mai](http://en.wikipedia.org/wiki/Shumai).",
+        "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei), [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats (basically Cantonese BBQ), served on steamed rice, usually with a vegetable such as [bok choy](https://en.wikipedia.org/wiki/Bok_choy) or [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan).\n\n**Characters**\n\n{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*. {飯} is *rice*, so 燒味飯 is *roast flavor rice*.",
         "tags": [
             "粵菜",
             "燒味飯",
             "燒味",
             "肉",
-            "燒"
+            "燒",
+            "白飯",
+            "飯"
         ],
         "resources": [
             {
@@ -78,7 +80,7 @@
                 "place": "Chubby Boy BBQ, Las Vegas, Nevada"
             }
         ],
-        "description": "[Cha siu](https://en.wikipedia.org/wiki/Char_siu) served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{叉燒} is [Cha siu](https://en.wikipedia.org/wiki/Char_siu),  and {飯} is *rice*, so 叉燒飯 is *BBQ pork rice*.",
+        "description": "[Cha siu](https://en.wikipedia.org/wiki/Char_siu) served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{叉燒} is [Cha siu](https://en.wikipedia.org/wiki/Char_siu), and {飯} is *rice*, so 叉燒飯 is *BBQ pork rice*.",
         "tags": [
             "粵菜",
             "茶餐廳",
