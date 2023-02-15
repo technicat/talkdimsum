@@ -87,7 +87,7 @@
                 "place": "Tea Station, Las Vegas, Nevada"
             }
         ],
-        "description": "A pan-roasted green tea, Dragon Well tea is considered one of the [Chinese Top Ten Famous Teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas).\n\n**Characters**\n\n{龍} is *dragon* and {井} is *well, so {龍井} is *dragon well*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 龍井茶 is *dragon well tea*.\n\n{龍井} is the village [Longjing](https://en.wikipedia.org/wiki/Longjing,_Hangzhou) where this tea originated, so it's often listed as “Longjing” (or “lung ching”) tea.",
+        "description": "A pan-roasted [green tea](https://en.wikipedia.org/wiki/Green_tea#Chinese_green_tea), Dragon Well tea is considered one of the [Chinese Top Ten Famous Teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas).\n\n**Characters**\n\n{龍} is *dragon* and {井} is *well, so {龍井} is *dragon well*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 龍井茶 is *dragon well tea*.\n\n{龍井} is the village [Longjing](https://en.wikipedia.org/wiki/Longjing,_Hangzhou) where this tea originated, so it's often listed as “Longjing” (or “lung ching”) tea.",
         "tags": [
             "熱飲",
             "飲品",
@@ -127,7 +127,7 @@
                 "place": "Foo Joy"
             }
         ],
-        "description": "[Gunpowder tea](https://en.wikipedia.org/wiki/Gunpowder_tea) is a tea, usually green or oolong, that is prepared by rolling the leaves into small pellets. The English name *gunpowder* might be based on the round shape, or the smoky flavor, or the Mandarin pronunciation of 剛泡的 (gāng pào de), which is *fresh brewed*.\n\n**Characters**\n\n{珠} is *bead* or *pearl*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so this is sometimes called *pearl tea* (not to be confused with boba tea!)",
+        "description": "[Gunpowder tea](https://en.wikipedia.org/wiki/Gunpowder_tea) is a green tea that is prepared by rolling the leaves into small pellets. The English name *gunpowder* might be based on the round shape, or the smoky flavor, or the Mandarin pronunciation of 剛泡的 (gāng pào de), which is *fresh brewed*.\n\n**Characters**\n\n{珠} is *bead* or *pearl*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so this is sometimes called *pearl tea* (not to be confused with boba tea!)",
         "tags": [
             "熱飲",
             "飲品",
@@ -138,6 +138,10 @@
         "resources": [
             {
                 "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/green-tea/gunpowder-tea/"
+            },
+            {
+                "name": "https://www.ohhowcivilized.com/gunpowder-green-tea/",
                 "URL": "https://www.letsdrinktea.com/types-of-tea/green-tea/gunpowder-tea/"
             },
             {
@@ -184,7 +188,7 @@
                 "place": "Tea and Whisk, Las Vegas, Nevada"
             }
         ],
-        "description": "Also, called by its Mandarin pronuncation *yun wu*, this is a green tea is named for the cloudy mountainous areas where it is grown.\n\n**Characters**\n\n{雲} is *clouds*, {霧} is *mist*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 雲霧茶 is *clouds mist tea*.",
+        "description": "Also, called by its Mandarin pronuncation *yun wu*, this is a [green tea](https://en.wikipedia.org/wiki/Green_tea#Chinese_green_tea) is named for the cloudy mountainous areas where it is grown.\n\n**Characters**\n\n{雲} is *clouds*, {霧} is *mist*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 雲霧茶 is *clouds mist tea*.",
         "tags": [
             "綠茶",
             "熱飲",
