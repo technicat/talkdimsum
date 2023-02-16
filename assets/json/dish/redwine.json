@@ -109,5 +109,39 @@
             "URL": "https://en.wikipedia.org/wiki/Pinot_noir"
          }
       ]
+   },
+   {
+      "word": {
+         "English": "Cabernet Sauvignon",
+         "Cantonese": {
+            "text": "赤霞珠",
+            "wkty": [
+               "赤霞珠",
+               "赤",
+               "霞",
+               "珠"
+            ]
+         },
+         "Yale": "chek hàh jyū",
+         "Pinyin": "chì xiá zhū"
+      },
+      "images": [
+         {
+            "image": "cabernetsprouts",
+            "place": "Sprouts, Las Vegas, Nevada"
+         }
+      ],
+      "description": "{赤} is *red*, {霞} is *cloud*, and {珠} is *bead*, so {赤霞珠} is *red cloud bead*.",
+      "tags": [
+         "酒",
+         "紅酒",
+         "飲品"
+      ],
+      "resources": [
+         {
+            "name": "Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Cabernet_Sauvignon"
+         }
+      ]
    }
 ]
