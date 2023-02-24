@@ -192,5 +192,53 @@
                 "URL": "https://www.thericelover.com/healthy-mung-bean-cakes/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "ice cream",
+            "Cantonese": {
+                "text": "雪糕",
+                "wkty": [
+                    "雪糕",
+                    "雪",
+                    "糕"
+                ]
+            },
+            "Yale": "syut gōu",
+            "Mandarin": {
+                "text": "冰淇淋",
+                "wkty": [
+                    "冰淇淋",
+                    "冰",
+                    "淇淋",
+                    "淇",
+                    "淋"
+                ]
+            },
+            "Pinyin": "bīng qí lín"
+        },
+        "images": [
+            {
+                "image": "greenteaicecream",
+                "place": "Las Vegas, Nevada"
+            }
+        ],
+        "description": "Ice cream is thought of as a Western treat, but frozen desserts have (somehow) been available throughout Asia far longer than in Europe.\n\n**Characters**\n\nThe Cantonese word for ice cream {雪糕} is *snow cake* ({雪} is *snow*, and {糕} is *cake*). The Mandarin 冰淇淋 is the more literal *ice cream* (冰} is *ice* and {淇淋} is a loanword for *cream*)",
+        "tags": [
+            "綠豆",
+            "糕",
+            "煎",
+            "甜品"
+        ],
+        "resources": [
+            {
+                "name": "E-Chinese Learning",
+                "URL": "https://www.echineselearning.com/blog/chinese-ice-cream-ranking"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Ice_cream"
+            }
+        ]
     }
 ]
