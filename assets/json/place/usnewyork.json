@@ -811,6 +811,27 @@
             "address": "43 W 65th St New York, NY 10023"
         },
         {
+            "title": "Shun Lee Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.shunleerestaurants.com/location/shun-lee-palace/"
+                },
+                {
+                    "name": "Wikipedia",
+                    "URL": "https://en.wikipedia.org/wiki/Shun_Lee_Palace"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shun-lee-palace-new-york"
+                }
+            ],
+            "lat": 40.75962149171615, 
+            "lon": -73.9690509446144,
+            "city": "New York",
+            "address": "155 E 55th St New York, NY 10022"
+        },
+        {
             "title": "Shun Lee West",
             "links": [
                 {
