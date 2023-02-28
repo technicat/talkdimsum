@@ -32,6 +32,38 @@
     },
     {
         "word": {
+            "English": "satay tofu",
+            "Cantonese": {
+                "text": "沙爹豆腐",
+                "wkty": [
+                    "沙爹",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Yale": "sā dē dauh fuh",
+            "Pinyin": "shā diē dòu fǔ"
+        },
+        "images": [
+            {
+                "image": "sataytofubananaleafcafe",
+                "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Satay](https://en.wikipedia.org/wiki/Satay) tofu is tofu served Malaysian-style in a peanut sauce.\n\n**Characters**\n\n{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay) and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 沙爹豆腐 is *satay tofu*.",
+        "tags": [
+            "豆腐"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Tofu"
+            }
+        ]
+    },
+    {
+        "word": {
             "Cantonese": {
                 "text": "滷汁豆腐",
                 "wkty": [
@@ -98,7 +130,7 @@
                 "place": "Noodle Exchange, Las Vegas, Nevada"
             }
         ],
-        "description": "[Mapo tofu](https://en.wikipedia.org/wiki/Mapo_doufu)is one of the most well known [Sichuan](https://en.wikipedia.org/wiki/Sichuan) dishes, soft tofu simmered in a spicy sauce with minced beef or pork.\n\n**Characters**\n\n{麻} is short for 麻臉 which means *pockmarked face*, {婆} is short for {婆婆} which means *old lady*, and {豆腐} is *tofu*, so {麻婆豆腐} is *pockmarked old lady tofu*.\n\nThe dish is apparently named (affectionately, I assume) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox.",
+        "description": "[Mapo tofu](https://en.wikipedia.org/wiki/Mapo_doufu)is one of the most well known [Sichuan](https://en.wikipedia.org/wiki/Sichuan) dishes, soft tofu simmered in a spicy sauce with minced beef or pork.\n\n**Characters**\n\n{麻} is short for 麻臉 which means *pockmarked face*, {婆} is short for {婆婆} which means *old lady*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so {麻婆豆腐} is *pockmarked old lady tofu*.\n\nThe dish is apparently named (affectionately, I assume) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox.",
         "tags": [
             "豆腐",
             "川菜"
@@ -191,7 +223,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "[Egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu) is made from eggs and soy milk, typically packaged as a tube (so it's often called *tofu scallops* due to how it's sliced). It has the consistency of silken tofu.\n\n**Origin**\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name {玉子豆腐}, or in Chinese as 日本豆腐 (*Japan tofu*). However, the Japanese version is made from eggs and dashi.\n\n**Characters**\n\n{蛋} is *egg*, and {豆腐} is *tofu*, so 蛋豆腐 is [egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu).",
+        "description": "[Egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu) is made from eggs and soy milk, typically packaged as a tube (so it's often called *tofu scallops* due to how it's sliced). It has the consistency of silken tofu.\n\n**Origin**\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name {玉子豆腐}, or in Chinese as 日本豆腐 (*Japan tofu*). However, the Japanese version is made from eggs and dashi.\n\n**Characters**\n\n{蛋} is *egg*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 蛋豆腐 is [egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu).",
         "tags": [
             "豆腐",
             "蛋"
