@@ -57,6 +57,10 @@
         ],
         "resources": [
             {
+                "name": "Food.com",
+                "URL": "https://www.food.com/recipe/malaysian-tofu-satay-293750"
+            },
+            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Tofu"
             }
