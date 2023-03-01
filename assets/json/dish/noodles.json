@@ -342,7 +342,7 @@
         "place": "California Noodle House, Las Vegas, Nevada"
       }
     ],
-    "description": "Thin rice nooodles flavored with curry powder, [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n**Origin**\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.\n\n**Characters**\n\n{星洲} (sometimes written as 星州) is a short name for *Singapore*. {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {米粉} is *rice noodles*. Often shortened to {星洲炒米} or even 星米.",
+    "description": "Thin rice noodles flavored with curry powder, [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with vegetables, meat (typically some combination of shrimp, chicken, beef, chia siu...) and scrambled eggs.\n\n**Origin**\n\nDespite the name, these noodles probably did not originate from Singapore. More likely, they were invented in Hong Kong and named after Singapore due to the curry ingredient.\n\n**Characters**\n\n{星洲} (sometimes written as 星州) is a short name for *Singapore*. {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {米粉} is *rice noodles*. Often shortened to {星洲炒米} or even 星米.",
     "tags": [
       "茶餐廳",
       "星洲",
@@ -383,6 +383,68 @@
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/2013/11/singapore-noodles-mei-fun/"
       }
+    ]
+  },
+  {
+    "word": {
+      "English": "chicken w/ salted fish noodles",
+      "Cantonese": {
+        "text": "鹹魚雞炒米粉",
+        "wkty": [
+          "鹹魚",
+          "鹹",
+          "魚",
+          "雞",
+          "炒飯",
+          "炒",
+          "米粉",
+          "米",
+          "粉"
+        ]
+      },
+      "Yale": "hàahm yú gāi cháau maih fán",
+      "Simplified": {
+        "text": "咸鱼鸡炒米粉",
+        "wkty": [
+          "咸鱼",
+          "咸",
+          "鱼",
+          "鸡",
+          "炒饭",
+          "炒",
+          "米粉",
+          "米",
+          "粉"
+        ]
+      },
+      "Pinyin": "xián yú jī chǎo mǐ fěn"
+    },
+    "images": [
+      {
+        "image": "chickensaltedfishnoodlesislandmalaysian",
+        "place": "Island Malaysian, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Thin rice noodles [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with chicken and [salted fish](https://en.wikipedia.org/wiki/Cantonese_salted_fish). Basically the same as [chicken with salted fish fried rice](https://thewoksoflife.com/2014/07/cantonese-chicken-salted-fish-fried-rice/) but with noodles instead of fried rice.\n\n**Characters**\n\n{鹹} is *salty*, {魚} is *fish*, {雞} is *chicken*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {米粉} is *rice noodles*. So 鹹魚雞炒米粉 is *salty fish chicken stir-fried rice noodles.*",
+    "resources": [
+      {
+        "name": "Ang Sarap",
+        "URL": "https://www.angsarap.net/2011/12/08/chicken-and-salted-fish-fried-rice/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2014/07/cantonese-chicken-salted-fish-fried-rice/"
+      }
+    ],
+    "tags": [
+      "新菜",
+      "粵菜",
+      "炒",
+      "鹹魚",
+      "魚",
+      "雞",
+      "米",
+      "米粉"
     ]
   },
   {
