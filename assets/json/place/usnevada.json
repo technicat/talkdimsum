@@ -350,6 +350,19 @@
       "lon": -115.2083416,
       "city": "Las Vegas",
       "address": "4945 W Tropicana Ave, Paradise"
+    },
+    {
+      "title": "CaiE Oriental Asian Bistro",
+      "links": [
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/caie-oriental-asian-bistro-sparks"
+        }
+      ],
+      "lat": 39.53330702234557,
+      "lon": -119.71776350232338,
+      "city": "Sparks",
+      "address": "1565 E Lincoln Way Sparks, NV 89434"
     }
   ]
 }

@@ -120,6 +120,47 @@
     },
     {
         "word": {
+            "English": "teapot",
+            "Cantonese": {
+                "text": "茶壺",
+                "wkty": [
+                    "茶壺",
+                    "茶",
+                    "壺"
+                ]
+            },
+            "Yale": "chàh wú",
+            "Simplified": {
+                "text": "茶壶",
+                "wkty": [
+                    "茶壶",
+                    "茶",
+                    "壶"
+                ]
+            },
+            "Pinyin": "chá hú"
+        },
+        "images": [
+            {
+                "image": "teapotlepho",
+                "place": "Le Pho, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Except when served [grandpa-style](https://afternoonteareads.com/why-grandpa-style-is-the-best-way-to-enjoy-tea/), Chinese tea is traditionally served in [teapots](https://thechineseteashop.com/pages/how-to-choose-a-chinese-teapot).\n\n**Characters**\n\n{茶} is [tea](https://en.wikipedia.org/wiki/Tea) and {壺} is *pot*, so 茶壺 is *tea pot*.",
+        "tags": [
+            "中國茶",
+            "茶",
+            "蛋"
+        ],
+        "resources": [
+            {
+                "name": "The Chinese Tea Shop",
+                "URL": "https://thechineseteashop.com/pages/how-to-choose-a-chinese-teapot"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "famous teas",
             "Cantonese": {
                 "text": "中國十大名茶",
