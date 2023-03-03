@@ -395,6 +395,23 @@
             "address": "950 King Dr Ste 100 King Plaza Shopping Ctr Daly City, CA 94015"
         },
         {
+            "title": "Tasty Box Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.tastyboxbbq.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/tasty-box-bistro-diamond-bar"
+                }
+            ],
+            "lat": 33.97484261742608,
+            "lon": -117.83781188899117,
+            "city": "Diamond Bar",
+            "address": "2839 S Diamond Bar Blvd Diamond Bar, CA 91765"
+        },
+        {
             "title": "Golden Sand Harbor",
             "links": [
                 {
