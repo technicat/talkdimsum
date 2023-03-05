@@ -179,7 +179,7 @@
                 "place": "BBQ King, Las Vegas, Nevada"
             }
         ],
-        "description": "Crispy pork belly served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{烤鴨} is *roast duck*, and {飯} is *rice*, so 燒鴨飯 is *roast duck rice*.",
+        "description": "Cantontese-style roast duck served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{烤鴨} is *roast duck*, and {飯} is *rice*, so 燒鴨飯 is *roast duck rice*.",
         "tags": [
             "粵菜",
             "茶餐廳",
@@ -191,7 +191,40 @@
             "肉",
             "白飯"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "CiCi Li",
+                "URL": "https://cicili.tv/cantonese-roasted-duck/"
+            },
+            {
+                "name": "The Domestic Man",
+                "URL": "https://thedomesticman.com/2019/06/26/cantonese-roast-duck/"
+            },
+            {
+                "name": "Guai Shu Shu",
+                "URL": "https://www.guaishushu1.com/roast-duck-%E7%83%A4%E9%B8%AD%EF%BC%89/"
+            },
+            {
+                "name": "Like a Chinese",
+                "URL": "https://likeachinese.com/cantonese-roast-duck/"
+            },
+            {
+                "name": "Oh My Food",
+                "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
+            },
+            {
+                "name": "Miss Chinese Food",
+                "URL": "https://misschinesefood.com/cantonese-roast-duck/"
+            },
+            {
+                "name": "Simple Chinese Food",
+                "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/roasted-braised-duck/"
+            }
+        ]
     },
     {
         "word": {
