@@ -117,6 +117,23 @@
             "address": "7415 Southwest Pkwy Austin, TX 78735"
         },
         {
+            "title": "Qi",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://qiaustin.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/qi-austin-austin-2"
+                }
+            ],
+            "lat": 30.270778803733112,
+            "lon":  -97.7523749872405,
+            "city": "Austin",
+            "address": "835 W 6th St Ste 114 Austin, TX 78703"
+        },
+        {
             "title": "Shanghai Restaurant",
             "links": [
                 {
