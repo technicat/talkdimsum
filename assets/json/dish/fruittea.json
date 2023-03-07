@@ -85,7 +85,12 @@
             "水果",
             "茶"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "Heavenly Homemakers",
+                "URL": "https://www.heavenlyhomemakers.com/how-to-make-mango-sweet-or-unsweet-tea"
+            }
+        ]
     },
     {
         "word": {
@@ -132,7 +137,16 @@
             "水果",
             "茶"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "food.com",
+                "URL": "https://www.food.com/recipe/mango-iced-tea-229477"
+            },
+            {
+                "name": "Heavenly Homemakers",
+                "URL": "https://www.heavenlyhomemakers.com/how-to-make-mango-sweet-or-unsweet-tea"
+            }
+        ]
     },
     {
         "word": {
