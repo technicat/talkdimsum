@@ -203,6 +203,47 @@
     },
     {
         "word": {
+            "English": "scallop dumpling",
+            "Cantonese": {
+                "text": "帶子餃",
+                "wkty": [
+                    "帶子",
+                    "帶",
+                    "子",
+                    "餃"
+                ]
+            },
+            "Yale": "dáai jí gáau",
+            "Simplified": {
+                "text": "带子饺",
+                "wkty": [
+                    "带子",
+                    "带",
+                    "子",
+                    "饺"
+                ]
+            },
+            "Pinyin": "dài zi jiǎo"
+        },
+        "images": [
+            {
+                "image": "scallopdumplingdimsumlicious",
+                "place": "Dimsumlicious, Las Vegas"
+            }
+        ],
+        "description": "Like shrimp dumplings, but filled with scallops.\n\n**Characters**\n\n{帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *scallop dumpling*.",
+        "tags": [
+            "新菜",
+            "蒸",
+            "帶子",
+            "蒸",
+            "海鮮",
+            "點心"
+        ],
+        "resources": []
+    },
+    {
+        "word": {
             "English": "scallop and shrimp dumpling",
             "Cantonese": {
                 "text": "蝦帶子餃",
