@@ -135,6 +135,57 @@
     },
     {
         "word": {
+            "English": "cilantro and scallion rice roll",
+            "Cantonese": {
+                "text": "芫茜蔥腸粉",
+                "wkty": [
+                    "芫茜",
+                    "芫",
+                    "茜",
+                    "蔥",
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "yùhn sāi chūng chéung fán",
+            "Simplified": {
+                "text": "芫茜葱肠粉",
+                "wkty": [
+                    "芫茜",
+                    "芫",
+                    "茜",
+                    "蔥",
+                    "肠粉",
+                    "肠",
+                    "粉"
+                ]
+            },
+            "Pinyin": "yán qiàn cōng cháng fěn"
+        },
+        "images": [
+            {
+                "image": "cilantroscallionricerolldimsumlicious",
+                "place": "Dimsumlicious, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Plain rice rolls served with scallions.\n\n**Characters**\n\n{芫茜} is *cilantro*, {蔥} is *scallions*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll).",
+        "tags": [
+            "新菜",
+            "芫茜",
+            "粵菜",
+            "腸粉",
+            "豉油",
+            "蔥",
+            "蒸",
+            "粉",
+            "素",
+            "點心"
+        ],
+        "resources": []
+    },
+    {
+        "word": {
             "English": "shrimp rice roll",
             "Cantonese": {
                 "text": "鮮蝦腸粉",
