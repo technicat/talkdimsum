@@ -350,5 +350,72 @@
         "URL": "https://en.christinesrecipes.com/2015/03/beef-brisket-in-clear-broth.html"
       }
     ]
+  },
+  {
+    "word": {
+      "English": "chicken feet soup",
+      "Cantonese": {
+        "text": "雞腳湯",
+        "wkty": [
+          "雞腳",
+          "雞",
+          "腳",
+          "湯"
+        ]
+      },
+      "Yale": "gāi geuk tōng",
+      "Simplified": {
+        "text": "鸡脚汤",
+        "wkty": [
+          "鸡脚",
+          "鸡",
+          "脚",
+          "汤"
+        ]
+      },
+      "Pinyin": "jījiǎo tāng"
+    },
+    "images": [
+      {
+        "image": "chickenfeetsouppingpangpong",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Cantonese soup made with chicken feet, ginger, and peanuts\n\n**Characters**\n\n{雞腳} is *chicken feet*  and {湯} is *soup*.",
+    "tags": [
+      "湯",
+      "雞腳",
+      "粵菜"
+    ],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chicken-feet-soup/"
+      },
+      {
+        "name": "Greedy Girl Gourmet",
+        "URL": "https://www.greedygirlgourmet.com/chinese-chicken-feet-soup/"
+      },
+      {
+        "name": "The Honest Spoonful",
+        "URL": "https://thehonestspoonful.com/grilled-chicken-hearts-and-chicken-feet-clone/"
+      },
+      {
+        "name": "Simple Chinese Food",
+        "URL": " https://simplechinesefood.com/recipe/chicken-feet-nourishing-soup"
+      },
+      {
+        "name": "Souper Diaries",
+        "URL": "https://souperdiaries.com/chicken-feet-soup/"
+      },
+      {
+        "name": "Wok and Kin",
+        "URL": "https://www.wokandkin.com/chicken-feet-soup/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/cantonese-chicken-feet-soup/"
+      }
+    ]
   }
 ]
