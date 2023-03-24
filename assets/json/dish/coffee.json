@@ -19,7 +19,7 @@
                 "place": "JJ's Noodles, Las Vegas, Nevada"
             }
         ],
-        "description": "Coffee is not exactly a traditional dim sum drunk, but it's a common offering with Hong Kong breakfasts and lunches, particularly at Hong Kong-style cafes ([cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng)).\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a cup of coffee, ask for 一杯咖啡 (yāt būi ga fē in Cantonese, yī bēi kā fēi in Mandarin), *one cup of water*.\n\n**Characters**\n\nThis is a [loanword](https://en.wikipedia.org/wiki/Loanword) -- the pronunciation (ga fē in Cantonese, kā fēi in Mandarin) sounds more or less like *coffee*.\n\n The first character {咖} is similarly used in the [loanword](https://en.wikipedia.org/wiki/Loanword) for curry, 咖喱 (ga lēi).",
+        "description": "[Coffee](https://en.wikipedia.org/wiki/Coffee) is not exactly a traditional dim sum drunk, but it's a common offering with Hong Kong breakfasts and lunches, particularly at Hong Kong-style cafes ([cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng)).\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a cup of coffee, ask for 一杯咖啡 (yāt būi ga fē in Cantonese, yī bēi kā fēi in Mandarin), *one cup of water*.\n\n**Characters**\n\nThis is a [loanword](https://en.wikipedia.org/wiki/Loanword) -- the pronunciation (ga fē in Cantonese, kā fēi in Mandarin) sounds more or less like [coffee](https://en.wikipedia.org/wiki/Coffee).\n\n The first character {咖} is similarly used in the [loanword](https://en.wikipedia.org/wiki/Loanword) for curry, 咖喱 (ga lēi).",
         "tags": [
             "熱飲",
             "早餐",
@@ -27,7 +27,12 @@
             "飲品",
             "咖啡"
         ],
-        "resources": []
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Coffee"
+            }
+        ]
     },
     {
         "word": {
@@ -68,7 +73,7 @@
                 "place": "Bungalow Coffee, Las Vegas, Nevada"
             }
         ],
-        "description": "During a trip to Macau, one of my colleagues unsuccessfully ordered a latte. This entry (and this app) would have been handy!\n\n**Characters**\n\nThe Cantonese for latte is 鮮奶咖啡, *fresh milk coffee* ({鮮} is *fresh*, {奶} is *milk*, and {咖啡} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for *coffee*.\n\nThe Mandarin word for [latte](https://en.wikipedia.org/wiki/Latte) is simply the [loanword](https://en.wikipedia.org/wiki/Loanword) {拿鐵} (the Mandarin pronunciation ná tiě sounds more or less like *latte* (the Cantonese pronunciation nàh tit no so much), or the fuller {拿鐵咖啡} (ná tiě kā fēi), *latte coffee*.",
+        "description": "During a trip to Macau, one of my colleagues unsuccessfully ordered a [latte](https://en.wikipedia.org/wiki/Latte). This entry (and this app) would have been handy!\n\n**Characters**\n\nThe Cantonese for latte is 鮮奶咖啡, *fresh milk coffee* ({鮮} is *fresh*, {奶} is *milk*, and {咖啡} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for *coffee*.\n\nThe Mandarin word for [latte](https://en.wikipedia.org/wiki/Latte) is simply the [loanword](https://en.wikipedia.org/wiki/Loanword) {拿鐵} (the Mandarin pronunciation ná tiě sounds more or less like *latte* (the Cantonese pronunciation nàh tit no so much), or the fuller {拿鐵咖啡} (ná tiě kā fēi), *latte coffee*.",
         "tags": [
             "鮮奶",
             "熱飲",
