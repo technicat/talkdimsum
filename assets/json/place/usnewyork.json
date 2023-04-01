@@ -849,6 +849,23 @@
             "address": "43 W 65th St New York, NY 10023"
         },
         {
+            "title": "Steam",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://steam-nyc.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/steam-shanghai-asian-fusion-new-york-2"
+                }
+            ],
+            "lat": 40.73574415874517,
+            "lon": -73.99775318691204,
+            "city": "New York",
+            "address": "470 6th Ave, New York, NY 10011"
+        },
+        {
             "title": "Tim Ho Wan (East Village)",
             "links": [
                 {
