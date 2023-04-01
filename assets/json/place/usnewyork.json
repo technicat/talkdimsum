@@ -645,6 +645,23 @@
             "address": "18 E Broadway, New York, NY 10002"
         },
         {
+            "title": "Goody Fresh Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goodydimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/goody-fresh-dimsum-new-york"
+                }
+            ],
+            "lat": 40.745651688637,
+            "lon": -73.98814675517531,
+            "city": "New York",
+            "address": "513 6th Ave New York, NY 10011"
+        },
+        {
             "title": "House of Joy",
             "links": [
                 {
