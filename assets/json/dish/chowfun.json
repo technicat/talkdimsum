@@ -226,5 +226,90 @@
                 "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"
             }
         ]
+    },
+    {
+        "word":
+            {
+                "English": "char kway teow",
+                "Cantonese": {
+                    "text": "炒貴刁",
+                    "wkty": [
+                        "炒貴刁",
+                        "炒",
+                        "貴刁",
+                        "貴",
+                        "刁"
+                    ]
+                },
+                "Yale": "gōn cháau hā hòh",
+                "Mandarin": {
+                    "text": "炒粿條",
+                    "wkty": [
+                        "炒粿條",
+                        "炒",
+                        "粿條",
+                        "粿",
+                        "條"
+                    ]
+                },
+                "Simplified": {
+                    "text": "炒粿条",
+                    "wkty": [
+                        "炒粿条",
+                        "炒",
+                        "粿条",
+                        "條",
+                        "条"
+                    ]
+                },
+                "Pinyin": "gān chǎo xiā hé"
+            },
+        "images": [
+            {
+                "image": "charkwayteowislandmalaysian.jpg",
+                "place": "Island Malaysian, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A popular Malaysian dish and street food staple, originally developed for Chinese in Southeast Asia, this stir-fried with seafood (usually shrimp), meat (typically Chinese sausage), scrambled egg, and chili paste.",
+        "tags": [
+            "炒",
+            "海鮮",
+            "蝦",
+            "河粉"
+        ],
+        "resources": [
+            {
+                "name": "Curious Cuisiniere",
+                "URL": "https://www.curiouscuisiniere.com/char-kway-teow/"
+            },
+            {
+                "name": "Nyonya Cooking",
+                "URL": "https://www.nyonyacooking.com/recipes/penang-char-kuey-teow~r1DzuvivfqbX"
+            },
+            {
+                "name": "NYT Cooking",
+                "URL": "https://cooking.nytimes.com/recipes/8609-char-kway-teow"
+            },
+            {
+                "name": "Posh Journal",
+                "URL": "https://poshjournal.com/char-kway-teow"
+            },
+            {
+                "name": "RecipeTinEats",
+                "URL": "https://www.recipetineats.com/char-kway-teow/"
+            },
+            {
+                "name": "The Spruce Eats",
+                "URL": "https://www.thespruceeats.com/char-kway-teow-recipe-3030395"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Char_kway_teow"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/char-kway-teow/"
+            }
+        ]
     }
 ]
