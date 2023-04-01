@@ -29,6 +29,7 @@
         ],
         "description": "Red oil is chili oil (traditionally made from Sichuan peppers), which, naturally, looks red. It's as spicy as it looks.\n\n**Characters**\n\n{紅}is *red*, and {油} is *oil*, so {紅油} is *red oil*.",
         "tags": [
+            "辣椒",
             "川菜",
             "紅油",
             "油"
@@ -107,6 +108,7 @@
         ],
         "description": "[Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) style chili oil contains garlic and soy sauce.\n\n**Characters**\n\n{潮州} is [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) (also spelled Teochew or Chiuchow or Chiu Chow), and {辣椒油} is *chili oil*.",
         "tags": [
+            "辣椒",
             "潮州菜",
             "紅油",
             "油"
@@ -127,6 +129,57 @@
             {
                 "name": "Xia Chu Fang",
                 "URL": "https://www.xiachufang.com/recipe/102216808/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "Guilin chili sauce",
+            "Cantonese": {
+                "text": "桂林辣椒酱",
+                "wkty": 
+                [
+                   "桂林",
+                   "桂",
+                   "林",
+                   "辣椒",
+                   "辣",
+                   "椒",
+                   "酱"
+                ]
+            },
+            "Yale": "gwai làhm laaht jīu jeung",
+            "Simplified": {
+                "text": "桂林辣椒酱",
+                "wkty": 
+                [
+                   "桂林",
+                   "桂",
+                   "林",
+                   "辣椒",
+                   "辣",
+                   "椒",
+                   "酱"
+                ]
+            },
+            "Pinyin": "guì lín là jiāo jiàng"
+        },
+        "images": [
+            {
+                "image": "guilinchilisauce168market",
+                "place": "168 Market, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A chili sauce made from chili, garlic, and fermented soybeans that is a specialty of [Guilin](https://en.wikipedia.org/wiki/Guilin)",
+        "tags": [
+            "辣椒",
+            "紅油",
+            "油"
+        ],
+        "resources": [
+            {
+                "name": "Food Dictator",
+                "URL": "https://www.thefooddictator.com/the-hirshon-guilin-chili-sauce-%E6%A1%82%E6%9E%97%E8%BE%A3%E6%A4%92%E9%85%B1/"
             }
         ]
     }
