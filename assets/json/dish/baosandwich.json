@@ -1,0 +1,129 @@
+[
+    {
+        "word": {
+            "English": "pork belly bun",
+            "Cantonese": "叉包",
+            "Mandarin": "割包",
+            "Yale": "chā bāau",
+            "Jyutping": "caa1 baau1",
+            "Pinyin": "gē bāo"
+        },
+        "images": [
+            {
+                "image": "porkbellybaofatchoy",
+                "place": "Fat Choy, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Meat, usually pork belly, served taco-like in a soft doughy [bao](https://en.wikipedia.org/wiki/Baozi) wrapper. Originating from Fuzhou, this is a popular street food in Taiwan.\n\n**Characters**\n\nKnown as 叉包 (chā bāau in Cantonese) in Hong Kong, {割包} (gē bāo in Mandarin) elsewhere and similarly “gua bao” in English.",
+        "tags": [
+            "閩菜",
+            "包",
+            "蒸"
+        ],
+        "resources": [
+            {
+                "name": "Angel Wong's Kitchen",
+                "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
+            },
+            {
+                "name": "Cooking in Chinglish",
+                "URL": "https://cookinginchinglish.com/gua-bao-pork-belly-bao-with-pickled-carrots-and-daikon/"
+            },
+            {
+                "name": "CNN",
+                "URL": "https://www.cnn.com/travel/article/gua-bao-taiwan/index.html"
+            },
+            {
+                "name": "Gastrosenses",
+                "URL": "https://www.gastrosenses.com/blog/gua-bao-with-glazed-pork-belly/"
+            },
+            {
+                "name": "Nom Life",
+                "URL": "https://www.lifeofnoms.com/blog/tfc"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/gua-bao-pork-belly-buns/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Gua_bao"
+            },
+            {
+                "name": "Wok & Kin",
+                "URL": "https://www.wokandkin.com/taiwanese-pork-belly-bao-gua-bao/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "Chinese hamburger",
+            "Cantonese": {
+                "text": "肉夾饃",
+                "wkty": [
+                    "肉夾饃",
+                    "肉",
+                    "夾",
+                    "饃"
+                ]
+            },
+            "Yale": "yuhk gaap mòh",
+            "Simplified": {
+                "text": "肉夹馍",
+                "wkty": [
+                    "肉夾馍",
+                    "肉",
+                    "夾",
+                    "馍"
+                ]
+            },
+            "Pinyin": "ròu jiā mó"
+        },
+        "images": [
+            {
+                "image": "chinesehamburgerwishfuldumpling",
+                "place": "Wishful Dumpling, Las Vegas, Nevada"
+            }
+        ],
+        "description": "This street food originating from the [Shaanxi](https://en.wikipedia.org/wiki/Shaanxi) province in Northern China is often listed in English by its Mandarin pronunciation [Roujiamo](https://en.wikipedia.org/wiki/en:Roujiamo) or simply *Chinese hamburger*, although it's really more like a pita sandwich: meat, usually pork, served in a sliced baked or pan-fried bun.\n\n**Books**\n\nXi'an Famous Foods by Jason Wang (Xi'an is the capital of Shaanxi\n\n**Characters**\n\n{肉} is *meat*, {夾} is *sandwiched between*, and {饃} is *bun*. So {肉夾饃} is *meat sandwiched between bun*.",
+        "tags": [
+            "秦菜",
+            "肉",
+            "包"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/chinese-hamburger-pork-belly-buns/"
+            },
+            {
+                "name": "China Yummy Food",
+                "URL": "https://www.chinayummyfood.com/chinese-hamburger-rou-jia-mo/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/chinese-pork-burger/"
+            },
+            {
+                "name": "Tour Beijing",
+                "URL": "https://www.tour-beijing.com/china_travel_guide/xian_culture/xian_traditional_food/chinese_hamburger/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/en:Roujiamo"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/"
+            },
+            {
+                "name": "Woon Heng",
+                "URL": "https://woonheng.com/vegan-rou-jia-mo-chinese-hamburger/"
+            }
+        ]
+    }
+]
