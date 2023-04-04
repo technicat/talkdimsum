@@ -198,7 +198,7 @@
                 "place": "Kitchen, Millbrae, California"
             }
         ],
-        "description": "Steamed [bao](https://en.wikipedia.org/wiki/Baozi) made to resemble peaches, filled with lotus seed or red bean paste, traditionally presented to elderly at birthday parties to signify longevity.\n\n**Characters**\n\n{壽桃} is a *longevity peach* ({壽} is *long life* and {桃} is *peach*), and {包} is *bun*.",
+        "description": "Steamed [bao](https://en.wikipedia.org/wiki/Baozi) made to resemble [peaches of immortality](https://en.wikipedia.org/wiki/Peaches_of_Immortality), filled with lotus seed or red bean paste, traditionally presented to elderly at birthday parties to signify longevity.\n\n**Characters**\n\n{壽桃} is a [longevity peach](https://en.wikipedia.org/wiki/Longevity_peach) ({壽} is *long life* and {桃} is *peach*), and {包} is *bun*.",
         "tags": [
             "新菜",
             "桃",
@@ -218,6 +218,10 @@
             {
                 "name": "Side Chef",
                 "URL": "https://www.sidechef.com/recipes/93934/longevity_peach_buns/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Longevity_peach"
             }
         ]
     }
