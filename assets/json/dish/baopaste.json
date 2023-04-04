@@ -165,5 +165,60 @@
                 "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "longevity peach bun",
+            "Cantonese": {
+                "text": "壽桃包",
+                "wkty": [
+                    "壽桃包",
+                    "壽桃",
+                    "壽",
+                    "桃",
+                    "包"
+                ]
+            },
+            "Yale": "sauh tòuh bāau",
+            "Simplified": {
+                "text": "寿桃包",
+                "wkty": [
+                    "寿桃包",
+                    "寿桃",
+                    "寿",
+                    "桃",
+                    "包"
+                ]
+            },
+            "Pinyin": "shòu táo bāo"
+        },
+        "images": [
+            {
+                "image": "longevitybaokitchen",
+                "place": "Kitchen, Millbrae, California"
+            }
+        ],
+        "description": "Steamed [bao](https://en.wikipedia.org/wiki/Baozi) made to resemble peaches, filled with lotus seed or red bean paste, traditionally presented to elderly at birthday parties to signify longevity.\n\n**Characters**\n\n{壽桃} is a *longevity peach* ({壽} is *long life* and {桃} is *peach*), and {包} is *bun*.",
+        "tags": [
+            "新菜",
+            "桃",
+            "包",
+            "蒸"
+        ],
+        "resources": [
+           
+            {
+                "name": "Every Bunny Eats",
+                "URL": "https://www.everybunnyeats.com/shoutao-lian-rong-bao-longevity-peach-lotus-paste-steamed-buns/"
+            },
+            {
+                "name": "Huang Kitchen",
+                "URL": "https://www.huangkitchen.com/longevity-peach-buns/"
+            },
+            {
+                "name": "Side Chef",
+                "URL": "https://www.sidechef.com/recipes/93934/longevity_peach_buns/"
+            }
+        ]
     }
 ]
