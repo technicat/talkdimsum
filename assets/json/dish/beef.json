@@ -15,7 +15,8 @@
         ]
       },
       "Yale": "syūn choi ngàuh yuhk",
-      "Pinyin": "suān cài niú ròu"
+      "Pinyin": "suān cài niú ròu",
+      "description": "{酸菜} is [picked mustard greens](https://www.chinasichuanfood.com/pickled-mustard-green-recipe/) {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), so 酸菜炒牛肉is *picked mustard greens stir-fried beef*.\n\n{酸} is *sour* same as in *hot and sour soup* and *sweet and sour*, and {菜} is *vegetable*, so picked mustard greens is *sour vegetable*."
     },
     "images": [
       {
@@ -23,7 +24,7 @@
         "place": "Yum Cha, Las Vegas, Nevada"
       }
     ],
-    "description": "A homestyle Cantonese dish (a recipe is listed in the book [Chinese Soul Food](https://mychinesesoulfood.com/vegetarian-chinese-soul-food/)), picked mustard greens stir-fried with beef.\n\n**Characters**\n\n{酸菜} is [picked mustard greens](https://www.chinasichuanfood.com/pickled-mustard-green-recipe/) {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), so 酸菜炒牛肉is *picked mustard greens stir-fried beef*.\n\n{酸} is *sour* same as in *hot and sour soup* and *sweet and sour*, and {菜} is *vegetable*, so picked mustard greens is *sour vegetable*.",
+    "description": "A homestyle Cantonese dish (a recipe is listed in the book [Chinese Soul Food](https://mychinesesoulfood.com/vegetarian-chinese-soul-food/)), picked mustard greens stir-fried with beef.",
     "tags": [
       "粵菜",
       "酸菜",
@@ -62,7 +63,8 @@
           "腩"
         ]
       },
-      "Pinyin": "luó bo niú nǎn"
+      "Pinyin": "luó bo niú nǎn",
+      "description": "{蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), {牛腩} is *beef brisket* ({牛} is *beef*, and {腩} is *brisket*), so 蘿蔔牛腩 is *daikon beef brisket*."
     },
     "images": [
       {
@@ -70,7 +72,7 @@
         "place": "Tim Ho Wan, Las Vegas, Nevada"
       }
     ],
-    "description": "Slices of brisket and chunks of daikon.\n\n**Characters**\n\n{蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), {牛腩} is *beef brisket* ({牛} is *beef*, and {腩} is *brisket*), so 蘿蔔牛腩 is *daikon beef brisket*.",
+    "description": "Slices of brisket and chunks of daikon.",
     "tags": [
       "新菜",
       "牛肉",
@@ -108,7 +110,8 @@
         ]
       },
       "Yale": "ngàuh gān",
-      "Pinyin": "niú jīn"
+      "Pinyin": "niú jīn",
+      "description": "{牛} *cow*, and {筋} is *muscle* or *tendon*, so {牛筋} is *cow tendon*."
     },
     "images": [
       {
@@ -116,7 +119,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "[Beef tendon](https://en.wikipedia.org/wiki/Tendon_as_food#China) slow-cooked until it's gelatinous.\n\n**Characters**\n\n{牛} *cow*, and {筋} is *muscle* or *tendon*, so {牛筋} is *cow tendon*.",
+    "description": "[Beef tendon](https://en.wikipedia.org/wiki/Tendon_as_food#China) slow-cooked until it's gelatinous.",
     "tags": [
       "牛肉",
       "牛筋",
@@ -163,7 +166,8 @@
           "干"
         ]
       },
-      "Pinyin": "niú ròu gān"
+      "Pinyin": "niú ròu gān",
+      "description": "{牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), and {乾} is *dry*, so 牛肉乾 is *beef dry*."
     },
     "images": [
       {
@@ -171,7 +175,7 @@
         "place": "168 Market, Las Vegas, Nevada"
       }
     ],
-    "description": "Chinese beef jerky is marinaded with soy sauce and sugar, sometimes honey and other sauces, and not always made with beef (the [original version](https://en.wikipedia.org/wiki/Bakkwa) from Fujian is often made with pork or mutton). The result is tender and flavorful (sometimes fruit-flavored!).\n\n**Personal note**\n\nThis was one of the snacks I used to have as a kid from our Chinatown shopping runs (infrequent, when you live in Iowa), and when I finally tried American beef jerky, I thought, you've got to be kidding.\n\n**Characters**\n\n{牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), and {乾} is *dry*, so 牛肉乾 is *beef dry*.",
+    "description": "Chinese beef jerky is marinaded with soy sauce and sugar, sometimes honey and other sauces, and not always made with beef (the [original version](https://en.wikipedia.org/wiki/Bakkwa) from Fujian is often made with pork or mutton). The result is tender and flavorful (sometimes fruit-flavored!).\n\n**Personal note**\n\nThis was one of the snacks I used to have as a kid from our Chinatown shopping runs (infrequent, when you live in Iowa), and when I finally tried American beef jerky, I thought, you've got to be kidding.",
     "tags": [
       "閩菜",
       "牛肉"
@@ -225,7 +229,7 @@
         "place": "The Kitchen, Millbrae, California"
       }
     ],
-    "description": "*Beef shin* (otherwise known as [beef shank](https://en.wikipedia.org/wiki/Beef_shank)) braised then sliced and served cold.\n\n**Characters**\n\n{滷} is *braised*, and {牛腱} is *beef shank*.",
+    "description": "*Beef shin* (otherwise known as [beef shank](https://en.wikipedia.org/wiki/Beef_shank)) braised then sliced and served cold.",
     "tags": [
       "牛肉",
       "牛腱",
