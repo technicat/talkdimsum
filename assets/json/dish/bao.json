@@ -13,7 +13,8 @@
                     "子"
                 ]
             },
-            "Pinyin": "bāo zi"
+            "Pinyin": "bāo zi",
+            "description": "{包} is *bun* (specifically a filled bun), and more generally denotes a *package* or *bag*, which the character resembles.\n\nIn Mandarin, {包} is suffixed with {子}, which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n{包} is also part of 打包 (dá bāau), which you say to indicate you want leftovers wrapped up to go."
         },
         "images": [
             {
@@ -21,7 +22,7 @@
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "[Bao](https://en.wikipedia.org/wiki/Baozi), a core component of classic dim sum, are wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings (non-filled bao are called [mantou](http://en.wikipedia.org/wiki/Mantou), the original name for filled and non-filled bao and still used that way in some regions).\n\n**Characters**\n\n{包} is *bun* (specifically a filled bun), and more generally denotes a *package* or *bag*, which the character resembles.\n\nIn Mandarin, {包} is suffixed with {子}, which generally denotes small things or offspring (the character resembles a baby with its arms spread).\n\n{包} is also part of 打包 (dá bāau), which you say to indicate you want leftovers wrapped up to go.",
+        "description": "[Bao](https://en.wikipedia.org/wiki/Baozi), a core component of classic dim sum, are wheat buns (mostly steamed, but some are baked or pan-fried), with various fillings (non-filled bao are called [mantou](http://en.wikipedia.org/wiki/Mantou), the original name for filled and non-filled bao and still used that way in some regions).",
         "tags": [
             "包",
             "蒸"
@@ -53,7 +54,8 @@
                 ]
             },
             "Yale": "daaih bāau",
-            "Pinyin": "dà bāo"
+            "Pinyin": "dà bāo",
+            "description": "{大}is *big* (the character looks like a person with arms spread), and {包} is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)), so {大包} is *big bun*.\n\nNot to be confused with {打包} (dá bāau), which you say to indicate you want leftovers wrapped/boxed/bagged to go."
         },
         "images": [
             {
@@ -61,7 +63,7 @@
                 "place": "Wishful Dumpling, Las Vegas, Nevada"
             }
         ],
-        "description": "An [extra large](https://en.wikipedia.org/wiki/Da_Bao) steamed [bao](https://en.wikipedia.org/wiki/Baozi) (a meal in itself) typically filled with minced pork or chicken, Chinese sausage,boiled egg, or alterntively vegetables.\n\n**Characters**\n\n{大}is *big* (the character looks like a person with arms spread), and {包} is *bun* (specifically a filled bun - non-filled is [mantou]((http://en.wikipedia.org/wiki/Mantou)), so {大包} is *big bun*.\n\nNot to be confused with {打包} (dá bāau), which you say to indicate you want leftovers wrapped/boxed/bagged to go.",
+        "description": "An [extra large](https://en.wikipedia.org/wiki/Da_Bao) steamed [bao](https://en.wikipedia.org/wiki/Baozi) (a meal in itself) typically filled with minced pork or chicken, Chinese sausage,boiled egg, or alterntively vegetables.",
         "tags": [
             "包",
             "蒸"
@@ -96,7 +98,8 @@
                     "包"
                 ]
             },
-            "Pinyin": "yù tou bāo"
+            "Pinyin": "yù tou bāo",
+            "description": "{芋頭} is [taro](https://en.wikipedia.org/wiki/Taro), and {包} is *bun*, so 芋頭包 is *taro bun*."
         },
         "images": [
             {
@@ -104,7 +107,7 @@
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "A steamed [bao](https://en.wikipedia.org/wiki/Baozi) containing taro paste.\n\n**Characters**\n\n{芋頭} is [taro](https://en.wikipedia.org/wiki/Taro), and {包} is *bun*, so 芋頭包 is *taro bun*.",
+        "description": "A steamed [bao](https://en.wikipedia.org/wiki/Baozi) containing taro paste.",
         "tags": [
             "芋頭",
             "包",
@@ -136,7 +139,8 @@
             "English": "chicken bun",
             "Yale": "gāi bāau",
             "Jyupting": "gai1 baau1",
-            "Pinyin": "jī bāo"
+            "Pinyin": "jī bāo",
+            "description": "{雞} is *chicken*, and {包} is *bun*, so 雞包 is *chicken bun*."
         },
         "images": [
             {
@@ -144,7 +148,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "[Bao](https://en.wikipedia.org/wiki/Baozi) with thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom.\n\n**History**\n\nOriginated in northern China.\n\n**Characters**\n\n{雞} is *chicken*, and {包} is *bun*, so 雞包 is *chicken bun*.",
+        "description": "[Bao](https://en.wikipedia.org/wiki/Baozi) with thick dough, twisted at the top, containing chicken, other meat (pork/sausage/shrimp) and items such as black mushroom.\n\n**History**\n\nOriginated in northern China.",
         "tags": [
             "點心",
             "雞",
@@ -177,7 +181,8 @@
             },
             "Yale": "sāang jīn bāau",
             "Jyutping": "saang1 jin1 baau1",
-            "Pinyin": "shēng jiān bāo"
+            "Pinyin": "shēng jiān bāo",
+            "description": "{生} is *raw*, and {煎} is *pan-fried*, so {生煎包} is *raw-fried bun*."
         },
         "images": [
             {
@@ -185,7 +190,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "description": "A thick pan-fried [bao](https://en.wikipedia.org/wiki/Baozi) with a juicy pork mixture inside, also known by its Mandarin pronunciation as *Shengjian bao*, *Shengjian bun*, or [Shengian mantou](https://en.wikipedia.org/wiki/Shengjian_mantou).\n\n**Characters**\n\n{生} is *raw*, and {煎} is *pan-fried*, so {生煎包} is *raw-fried bun*.",
+        "description": "A thick pan-fried [bao](https://en.wikipedia.org/wiki/Baozi) with a juicy pork mixture inside, also known by its Mandarin pronunciation as *Shengjian bao*, *Shengjian bun*, or [Shengian mantou](https://en.wikipedia.org/wiki/Shengjian_mantou).",
         "tags": [
             "滬菜",
             "點心",
