@@ -25,7 +25,8 @@
                     "包"
                 ]
             },
-            "Pinyin": "ròu sōng miàn bāo"
+            "Pinyin": "ròu sōng miàn bāo",
+            "description": "{肉} is *meat*, and {鬆} is *loose*, so {肉鬆} is *loose meat*. {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包}, so *bread* is *flour bun*). Altogether 肉鬆麵包 is *loose meat bread*."
         },
         "images": [
             {
@@ -33,7 +34,7 @@
                 "place": "99 Ranch Market, Las Vegas, Nevada"
             }
         ],
-        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with [dried shredded pork](https://en.wikipedia.org/wiki/Rousong).\n\n**Characters**\n\n{肉} is *meat*, and {鬆} is *loose*, so {肉鬆} is *loose meat*. {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包}, so *bread* is *flour bun*). Altogether 肉鬆麵包 is *loose meat bread*.",
+        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with [dried shredded pork](https://en.wikipedia.org/wiki/Rousong).",
         "tags": [
             "肉鬆",
             "豬肉",
@@ -75,7 +76,8 @@
                     "包"
                 ]
             },
-            "Pinyin": "cōng huā miàn bāo"
+            "Pinyin": "cōng huā miàn bāo",
+            "description": "蔥花 is *chopped scallion* ({蔥} is *scallion* and {花} is *flower*, so it's *scallion flower*) {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包}, so *bread* is *flour bun*). Altogether 蔥花麵包 is *chopped scallion bread*."
         },
         "images": [
             {
@@ -83,7 +85,7 @@
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with chopped scallions (also known as green onions, so this is often listed as *green onion bun* or *green onion bread*).\n\n**Characters**\n\nc蔥花 is *chopped scallion* ({蔥} is *scallion* and {花} is *flower*, so it's *scallion flower*) {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包}, so *bread* is *flour bun*). Altogether 蔥花麵包 is *chopped scallion bread*.",
+        "description": "A [bao](https://en.wikipedia.org/wiki/Baozi) topped with chopped scallions (also known as green onions, so this is often listed as *green onion bun* or *green onion bread*).",
         "tags": [
             "焗",
             "麵包",
@@ -138,7 +140,8 @@
                     "包"
                 ]
             },
-            "Pinyin": "tí zi miàn bāo"
+            "Pinyin": "tí zi miàn bāo",
+            "description": "{提子} is *raisin*, and {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包}, so *bread* is *flour bun*). Altogether, 提子麵包 is *raisin bread*."
         },
         "images": [
             {
@@ -146,7 +149,7 @@
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "description": "Raisin bread is a standard Chinese bakery offering, white bread with raisins mixed in. Personally, I like it with peanut butter.\n\n**Characters**\n\n{提子} is *raisin*, and {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包}, so *bread* is *flour bun*). Altogether, 提子麵包 is *raisin bread*.",
+        "description": "Raisin bread is a standard Chinese bakery offering, white bread with raisins mixed in. Personally, I like it with peanut butter.",
         "tags": [
             "提子",
             "焗",
@@ -188,7 +191,8 @@
                     "包"
                 ]
             },
-            "Pinyin": "yù tou miàn bāo"
+            "Pinyin": "yù tou miàn bāo",
+            "description": "{芋頭} is [taro](https://en.wikipedia.org/wiki/Taro), and {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包} is *bun*, so *bread* is *flour bun*). Altogether, 芋頭麵包 is *taro bread* (not to be confused with *taro bun*, which is 芋頭包)."
         },
         "images": [
             {
@@ -196,7 +200,7 @@
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "description": "Taro bread is similar to Chinese raisin bread but with taro paste mixed in instead of raisins.\n\n**Characters**\n\n{芋頭} is [taro](https://en.wikipedia.org/wiki/Taro), and {麵包} is *bread* ({麵} is *flour* and also *noodles*, {包} is *bun*, so *bread* is *flour bun*). Altogether, 芋頭麵包 is *taro bread* (not to be confused with *taro bun*, which is 芋頭包).",
+        "description": "Taro bread is similar to Chinese raisin bread but with taro paste mixed in instead of raisins.",
         "tags": [
             "焗",
             "麵包",
