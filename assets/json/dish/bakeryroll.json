@@ -14,7 +14,8 @@
                 ]
             },
             "Yale": "jī màh gyún",
-            "Pinyin": "zhī ma juǎn"
+            "Pinyin": "zhī ma juǎn",
+            "description": "{芝麻} is *sesame*, and {卷} is *roll*, so {黑芝麻} is *sesame roll*."
         },
         "images": [
             {
@@ -22,7 +23,7 @@
                 "place": "Lucky House, Las Vegas, Nevada"
             }
         ],
-        "description": "[Black sesame rolls](https://en.wikipedia.org/wiki/Black_sesame_rollBlack) consist of sesame paste chilled in sheets and then rolled up.\n\n**Characters**\n\n{芝麻} is *sesame*, and {卷} is *roll*, so {黑芝麻} is *sesame roll*.",
+        "description": "[Black sesame rolls](https://en.wikipedia.org/wiki/Black_sesame_roll) consist of sesame paste chilled in sheets and then rolled up.",
         "tags": [
             "港式",
             "茶餐廳",
@@ -64,7 +65,8 @@
                     "卷"
                 ]
             },
-            "Pinyin": "yē sī juàn"
+            "Pinyin": "yē sī juàn",
+            "description": "{椰} is *coconut*, and {絲} is *shreds*, so {椰絲} is *coconut shreds*. {卷} is *roll*, so 椰絲卷 is *coconut shreds roll*."
         },
         "images": [
             {
@@ -72,7 +74,7 @@
                 "place": "Dim Sum Cafe"
             }
         ],
-        "description": "Rolls with shredded coconut.\n\n**Characters**\n\n{椰} is *coconut*, and {絲} is *shreds*, so {椰絲} is *coconut shreds*. {卷} is *roll*, so 椰絲卷 is *coconut shreds roll*.",
+        "description": "Rolls with shredded coconut.",
         "tags": [
             "茶餐廳",
             "港式",
@@ -100,14 +102,15 @@
                 ]
             },
             "Yale": "daahn gyún",
-            "Pinyin": "dàn juǎn"
+            "Pinyin": "dàn juǎn",
+            "description": "{蛋} is *egg*, and {卷} is *roll*, so {蛋卷} is [egg roll](https://en.wikipedia.org/wiki/Biscuit_roll) (never mind that the Chinese-American version of spring rolls are often called egg rolls)."
         },
         "images": [
             {
                 "image": "biscuitroll2"
             }
         ],
-        "description": "[Biscuit rolls](https://en.wikipedia.org/wiki/Biscuit_roll) are crispy tubes made of flour, butter, egg and sugar. This is a bakery and snack item easily found in Chinese grocery stores stacked inside large square tins.\n\n**Characters**\n\n{蛋} is *egg*, and {卷} is *roll*, so {蛋卷} is [egg roll](https://en.wikipedia.org/wiki/Biscuit_roll) (never mind that the Chinese-American version of spring rolls are often called egg rolls).",
+        "description": "[Biscuit rolls](https://en.wikipedia.org/wiki/Biscuit_roll) are crispy tubes made of flour, butter, egg and sugar. This is a bakery and snack item easily found in Chinese grocery stores stacked inside large square tins.",
         "tags": [
             "港式",
             "蛋",
