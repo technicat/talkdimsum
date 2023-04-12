@@ -12,7 +12,8 @@
                 ]
             },
             "Yale": "dauh sā bāau",
-            "Pinyin": "dòu shā bāo"
+            "Pinyin": "dòu shā bāo",
+            "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {包} is *bun*, so 豆沙包 is *bean paste bun*."
         },
         "images": [
             {
@@ -20,7 +21,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.\n\n{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {包} is *bun*, so 豆沙包 is *bean paste bun*.",
+        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.",
         "tags": [
             "豆沙",
             "紅色",
@@ -69,7 +70,8 @@
                 ]
             },
             "Yale": "jī màh bāau",
-            "Pinyin": "zhī ma bāo"
+            "Pinyin": "zhī ma bāo",
+            "description": "{芝麻} is *sesame paste*, and {包} is *bun*, so 芝麻包 is *sesame paste bun*."
         },
         "images": [
             {
@@ -77,7 +79,7 @@
                 "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "Fluffy steamed buns filled with black sesame seed paste.\n\n{芝麻} is *sesame paste*, and {包} is *bun*, so 芝麻包 is *sesame paste bun*.",
+        "description": "Fluffy steamed buns filled with black sesame seed paste.",
         "tags": [
             "黑芝麻",
             "芝麻",
@@ -137,7 +139,8 @@
                     "包"
                 ]
             },
-            "Pinyin": "lián róng bāo"
+            "Pinyin": "lián róng bāo",
+            "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)), and {包} is *bun*, so 蓮蓉包 is *lotus seed paste bun*."
         },
         "images": [
             {
@@ -145,7 +148,7 @@
                 "place": "Imperial Garden, Fresno, California"
             }
         ],
-        "description": "Steamed buns filled with lotus seed paste.\n\n**Characters**\n\n{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)), and {包} is *bun*, so 蓮蓉包 is *lotus seed paste bun*.",
+        "description": "Steamed buns filled with lotus seed paste.",
         "tags": [
             "點心",
             "蓮蓉",
@@ -190,7 +193,8 @@
                     "包"
                 ]
             },
-            "Pinyin": "shòu táo bāo"
+            "Pinyin": "shòu táo bāo",
+            "description": "{壽桃} is a [longevity peach](https://en.wikipedia.org/wiki/Longevity_peach) ({壽} is *long life* and {桃} is *peach*), and {包} is *bun*."
         },
         "images": [
             {
@@ -198,7 +202,7 @@
                 "place": "Kitchen, Millbrae, California"
             }
         ],
-        "description": "Steamed [bao](https://en.wikipedia.org/wiki/Baozi) made to resemble [peaches of immortality](https://en.wikipedia.org/wiki/Peaches_of_Immortality), filled with lotus seed or red bean paste, traditionally presented to elderly at birthday parties to signify longevity.\n\n**Characters**\n\n{壽桃} is a [longevity peach](https://en.wikipedia.org/wiki/Longevity_peach) ({壽} is *long life* and {桃} is *peach*), and {包} is *bun*.",
+        "description": "Steamed [bao](https://en.wikipedia.org/wiki/Baozi) made to resemble [peaches of immortality](https://en.wikipedia.org/wiki/Peaches_of_Immortality), filled with lotus seed or red bean paste, traditionally presented to elderly at birthday parties to signify longevity.",
         "tags": [
             "新菜",
             "桃",
