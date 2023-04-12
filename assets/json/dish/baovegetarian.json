@@ -12,14 +12,15 @@
                 ]
             },
             "Yale": "sou choi bāau",
-            "Pinyin": "sù cài bāo"
+            "Pinyin": "sù cài bāo",
+            "description": "{素菜} is *vegetarian dish*({素} is *vegetarian* and {菜} often refers to vegetables but also more generally a type of food), and 包 is *bun*, so 素菜包 is *vegetarian bun*."
         },
         "images": [
             {
                 "image": "vegetarianbun"
             }
         ],
-        "description": "Steamed wheat buns with vegetable fillings.\n\n**Characters**\n\n{素菜} is *vegetarian dish*({素} is *vegetarian* and {菜} often refers to vegetables but also more generally a type of food), and 包 is *bun*, so 素菜包 is *vegetarian bun*.",
+        "description": "Steamed wheat buns with vegetable fillings.",
         "tags": [
             "包",
             "素",
