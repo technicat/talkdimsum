@@ -19,14 +19,15 @@
                "饼"
             ]
          },
-         "Pinyin": "yuè bǐng"
+         "Pinyin": "yuè bǐng",
+         "description": "{月} is *moon*, and {餅} is a round pastry or cake, so {月餅} is *moon cake*."
       },
       "images": [
          {
             "image": "mooncake168"
          }
       ],
-      "description": "A thick puck-shaped cake with a paste filling, a tradition for the mid-autumn Moon Festival.\n\n**Trivia**\n\nAccording to legend (though not history), secret messages hidden in mooncakes coordinated the Chinese overthrow of Mongol rule.\n\n**Books**\n\n[Mooncakes and Milk Bread](https://eatchofood.com/) by Kristina Cho provides recipes and anecdotes of traditional and new Chinese bakery items, and also some dim sum.\n\n**Characters**\n\n{月} is *moon*, and {餅} is a round pastry or cake, so {月餅} is *moon cake*.",
+      "description": "A thick puck-shaped cake with a paste filling, a tradition for the mid-autumn Moon Festival.\n\n**Trivia**\n\nAccording to legend (though not history), secret messages hidden in mooncakes coordinated the Chinese overthrow of Mongol rule.\n\n**Books**\n\n[Mooncakes and Milk Bread](https://eatchofood.com/) by Kristina Cho provides recipes and anecdotes of traditional and new Chinese bakery items, and also some dim sum.",
       "tags": [
          "月餅",
          "餅",
@@ -95,7 +96,8 @@
                "饼"
             ]
          },
-         "Pinyin": "hóng dòu yuè bǐng"
+         "Pinyin": "hóng dòu yuè bǐng",
+         "description": "{紅豆} is [red bean](https://en.wikipedia.org/wiki/Adzuki_bean)) ({紅} is *red*, and {豆} is *bean*). {月} is *moon*, and {餅} is a round pastry or cake, so 紅豆月餅 is *red bean moon cake*."
       },
       "images": [
          {
@@ -103,7 +105,7 @@
             "place": "Sunrie Bakery, Las Vegas, Nevada"
          }
       ],
-      "description": "Moon cake filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))).\n\n{紅豆} is [red bean](https://en.wikipedia.org/wiki/Adzuki_bean)) ({紅} is *red*, and {豆} is *bean*). {月} is *moon*, and {餅} is a round pastry or cake, so 紅豆月餅 is *red bean moon cake*.",
+      "description": "Moon cake filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))).",
       "tags": [
          "月餅",
          "紅色",
@@ -161,7 +163,8 @@
                "饼"
             ]
          },
-         "Pinyin": "lián róng yuè bǐng"
+         "Pinyin": "lián róng yuè bǐng",
+         "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)). {月} is *moon*, and {餅} is a round pastry or cake, so *lotus paste moon cake*."
       },
       "images": [
          {
@@ -169,7 +172,7 @@
             "place": "Sunrise Bakery, Las Vegas, Nevada"
          }
       ],
-      "description": "Moon cake filled with [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste).\n\n**Characters**\n\n{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)). {月} is *moon*, and {餅} is a round pastry or cake, so *lotus paste moon cake*.",
+      "description": "Moon cake filled with [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste).",
       "tags": [
          "月餅",
          "蓮蓉",
@@ -206,7 +209,8 @@
                "饼"
             ]
          },
-         "Pinyin": "fèng lí yuè bǐng"
+         "Pinyin": "fèng lí yuè bǐng",
+         "description": "{鳳梨} is *pineapple*, {月} is *moon*, and {餅} is a round pastry or cake, so *pineapple moon cake*."
       },
       "images": [
          {
@@ -214,7 +218,7 @@
             "place": "Sunrise Bakery, Las Vegas, Nevada"
          }
       ],
-      "description": "Moon cake filled with pineapple paste.\n\n{鳳梨} is *pineapple*, {月} is *moon*, and {餅} is a round pastry or cake, so *pineapple moon cake*.",
+      "description": "Moon cake filled with pineapple paste.",
       "tags": [
          "菠蘿",
          "月餅",
