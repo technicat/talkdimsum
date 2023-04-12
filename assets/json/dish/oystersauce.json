@@ -19,7 +19,8 @@
                     "油"
                 ]
             },
-            "Pinyin": "háo yóu"
+            "Pinyin": "háo yóu",
+            "description": "{蠔} is *oyster*, and {油} is *oil*, so {蠔油} is *oyster oil*."
         },
         "images": [
             {
@@ -27,7 +28,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) is a thick dark brown sauce made from oyster extracts, particularly popular in Cantoneses dishes, added to vegetables and noodles.\n\nVegetarian oyster sauce is available, made with mushrooms.\n\n**Characters**\n\n{蠔} is *oyster*, and {油} is *oil*, so {蠔油} is *oyster oil*.",
+        "description": "[Oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) is a thick dark brown sauce made from oyster extracts, particularly popular in Cantoneses dishes, added to vegetables and noodles.\n\nVegetarian oyster sauce is available, made with mushrooms.",
         "tags": [
             "粵菜",
             "蠔油",
@@ -71,7 +72,8 @@
                     "油"
                 ]
             },
-            "Pinyin": "sù shí háo yóu"
+            "Pinyin": "sù shí háo yóu",
+            "description": "{素食} is *vegetarian*. {蠔} is *oyster*, and {油} is *oil*, so {蠔油} is *oyster oil*, and 素食蠔油 is *vegetarian oyster oil*."
         },
         "images": [
             {
@@ -79,7 +81,7 @@
                 "place": "168 Market, Las Vegas, Nevada"
             }
         ],
-        "description": "Vegan [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) typically substitutes mushrooms for oysters.\n\n**Characters**\n\n{素食} is *vegetarian*. {蠔} is *oyster*, and {油} is *oil*, so {蠔油} is *oyster oil*, and 素食蠔油 is *vegetarian oyster oil*.",
+        "description": "Vegan [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce) typically substitutes mushrooms for oysters.",
         "tags": [
             "素",
             "純素",
