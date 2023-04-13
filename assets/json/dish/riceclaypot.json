@@ -23,7 +23,8 @@
                     "饭"
                 ]
             },
-            "Pinyin": "bāo zǐ fàn"
+            "Pinyin": "bāo zǐ fàn",
+            "description": "{煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯} is *rice* (cooked), so 煲仔飯 is *clay pot rice*."
         },
         "images": [
             {
@@ -31,7 +32,7 @@
                 "place": "Yummy Rice, Las Vegas, Nevada"
             }
         ],
-        "description": "Classic Cantonese home cooking, this dish combines meat and vegetable toppings with rice in a clay pot (or tinfoil, for takeout). The result is rice flavored with the juices from the toppings and a bit burnt and crispy on the bottom against the bowl.\n\n**Takeout Tip**\n\nIt's possible to get clay pot rice as takeout cooked in a tinfoil pot (but it does taste much in a clay pot).\n\n**Characters**\n\n{煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯} is *rice* (cooked), so 煲仔飯 is *clay pot rice*.",
+        "description": "Classic Cantonese home cooking, this dish combines meat and vegetable toppings with rice in a clay pot (or tinfoil, for takeout). The result is rice flavored with the juices from the toppings and a bit burnt and crispy on the bottom against the bowl.\n\n**Takeout Tip**\n\nIt's possible to get clay pot rice as takeout cooked in a tinfoil pot (but it does taste much in a clay pot).",
         "tags": [
             "煲仔飯",
             "粵菜",
@@ -111,7 +112,8 @@
                     "饭"
                 ]
             },
-            "Pinyin": "rì shì mán yú bāo zǐ fàn"
+            "Pinyin": "rì shì mán yú bāo zǐ fàn",
+            "description": "{日式} is *Japanese-style*, {鰻魚} is *eel*, {煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯} is *rice* (cooked), so 日式鰻魚煲仔飯 is *Japense-style eel clay pot rice*."
         },
         "images": [
             {
@@ -119,7 +121,7 @@
                 "place": "Yummy Rice, Las Vegas, Nevada"
             }
         ],
-        "description": "Clay pot rice topped with Japanese-style eel.\n\n**Characters**\n\n{日式} is *Japanese-style*, {鰻魚} is *eel*, {煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯} is *rice* (cooked), so 日式鰻魚煲仔飯 is *Japense-style eel clay pot rice*.",
+        "description": "Clay pot rice topped with Japanese-style eel.",
         "tags": [
             "新菜",
             "日式",
@@ -176,7 +178,8 @@
                     "饭"
                 ]
             },
-            "Pinyin": "xiāng gū bāo zǐ fàn"
+            "Pinyin": "xiāng gū bāo zǐ fàn",
+            "description": "{香菇} is [shiitake mushroom](https://en.wikipedia.org/wiki/Shiitake), 滑雞 is [slippery chicken*](https://misschinesefood.com/the-slippery-steamed-chicken/), ({滑} is *slippery* and {雞} is *chicken*), {煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯} is *rice* (cooked), so 香菇滑雞煲仔飯 is *shiitake mushroom slippery chicken clay pot rice*."
         },
         "images": [
             {
@@ -184,7 +187,7 @@
                 "place": "Yummy Rice, Las Vegas, Nevada"
             }
         ],
-        "description": "Clay pot rice topped with mushrooms and chicken.\n\n**Characters**\n\n{香菇} is [shiitake mushroom](https://en.wikipedia.org/wiki/Shiitake), 滑雞 is [slippery chicken*](https://misschinesefood.com/the-slippery-steamed-chicken/), ({滑} is *slippery* and {雞} is *chicken*), {煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯} is *rice* (cooked), so 香菇滑雞煲仔飯 is *shiitake mushroom slippery chicken clay pot rice*.",
+        "description": "Clay pot rice topped with mushrooms and chicken.",
         "tags": [
             "新菜",
             "香菇",
@@ -241,7 +244,8 @@
                 ]
             },
             "Yale": "hàahm yùh yuhk béng bōu jái faahn",
-            "Pinyin": "xián yú ròu bǐng bāo zǐ fàn"
+            "Pinyin": "xián yú ròu bǐng bāo zǐ fàn",
+            "description": "{鹹} is *salty*, {魚} is *fish*, {肉餅} is *meat patty*, {煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯}is *rice* (cooked), so 鹹魚肉餅煲仔飯 is *salty fish meat patty clay pot rice*."
         },
         "images": [
             {
@@ -249,7 +253,7 @@
                 "place": "Yummy Rice, Las Vegas, Nevada"
             }
         ],
-        "description": "Clay pot rice topped with a steamed pork patty mixed with [salted fish](https://en.wikipedia.org/wiki/Cantonese_salted_fish).\n\n**Characters**\n\n{鹹} is *salty*, {魚} is *fish*, {肉餅} is *meat patty*, {煲仔} is *clay pot* ({煲} is *pot*, and {仔} is *small* or *child*), and {飯}is *rice* (cooked), so 鹹魚肉餅煲仔飯 is *salty fish meat patty clay pot rice*.",
+        "description": "Clay pot rice topped with a steamed pork patty mixed with [salted fish](https://en.wikipedia.org/wiki/Cantonese_salted_fish).",
         "tags": [
             "鹹魚蒸肉餅",
             "新菜",
