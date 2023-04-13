@@ -23,7 +23,8 @@
           "卷"
         ]
       },
-      "Pinyin": "tián suān jī juǎn"
+      "Pinyin": "tián suān jī juǎn",
+      "description": "{甜酸} is *sweet and sour* ({甜} is *sweet*, and {酸} is *sour*), {雞} is *chicken*, and {卷} is *roll*, so 甜酸雞卷 is *sweet and sour chicken roll*."
     },
     "images": [
       {
@@ -31,7 +32,7 @@
         "place": "Yum Cha, Las Vegas, Nevada"
       }
     ],
-    "description": "Rolls of [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) with chicken inside, in a sweet and sour sauce.\n\n**Characters**\n\n{甜酸} is *sweet and sour* ({甜} is *sweet*, and {酸} is *sour*), {雞} is *chicken*, and {卷} is *roll*, so 甜酸雞卷 is *sweet and sour chicken roll*.",
+    "description": "Rolls of [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) with chicken inside, in a sweet and sour sauce.",
     "tags": [
       "豆腐皮",
       "雞",
@@ -82,7 +83,8 @@
           "块"
         ]
       },
-      "Pinyin": "tián suān hǎi xiān kuài"
+      "Pinyin": "tián suān hǎi xiān kuài",
+      "description": "{甜酸} is *sweet and sour* ({甜} is *sweet*, and {酸} is *sour*), {海鮮} is *seafood*, and {塊} is basically a *lump* or *nugget*.\n\nLikewise, chicken nuggets are called literally *chicken nugget* {雞塊} (gāi faai)."
     },
     "images": [
       {
@@ -90,7 +92,7 @@
         "place": "Yum Cha, Las Vegas, Nevada"
       }
     ],
-    "description": "Kind of like chicken nuggets, but seafood.\n\n**Characters**\n\n{甜酸} is *sweet and sour* ({甜} is *sweet*, and {酸} is *sour*), {海鮮} is *seafood*, and {塊} is basically a *lump* or *nugget*.\n\nLikewise, chicken nuggets are called literally *chicken nugget* {雞塊} (gāi faai).",
+    "description": "Kind of like chicken nuggets, but seafood.",
     "tags": [
       "甜酸",
       "蒸",
