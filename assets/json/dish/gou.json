@@ -23,7 +23,8 @@
             "English": "Western-style cake",
             "Cantonese": "蛋糕",
             "Yale": "daahn gōu",
-            "Pinyin": "dàn gāo"
+            "Pinyin": "dàn gāo",
+            "description": "{蛋} is *egg*, and {糕} is *cake*, so {蛋糕} is *egg cake*."
         },
         "images": [
             {
@@ -31,7 +32,7 @@
                 "place": "Diamond Bakery, Las Vegas, Nevada"
             }
         ],
-        "description": "Chinese bakeries often offer Western-style cakes.\n\n**Characters**\n\n{蛋} is *egg*, and {糕} is *cake*, so {蛋糕} is *egg cake*.",
+        "description": "Chinese bakeries often offer Western-style cakes.",
         "tags": [
             "蛋",
             "糕"
@@ -52,7 +53,8 @@
                 ]
             },
             "Yale": "baahk tòhng gōu",
-            "Pinyin": "bái táng gāo"
+            "Pinyin": "bái táng gāo",
+            "description": "{白糖} is *white sugar* ({白} is *white* and {糖} is *sugar*), and {糕} is *cake*, so {白糖糕} is *white sugar cake*."
         },
         "images": [
             {
@@ -60,7 +62,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "This spongy cake is made from rice flour and sugar, fermented then steamed. Also known as [steamed rice cake](http://www.chinasichuanfood.com/steamed-rice-cake/), [white sugar sponge cake](https://en.wikipedia.org/wiki/White_sugar_sponge_cake), *fermented rice cake*, or *white honeycomb cake* because of the air gaps within the cake.\n\n**Characters**\n\n{白糖} is *white sugar* ({白} is *white* and {糖} is *sugar*), and {糕} is *cake*, so {白糖糕} is *white sugar cake*.",
+        "description": "This spongy cake is made from rice flour and sugar, fermented then steamed. Also known as [steamed rice cake](http://www.chinasichuanfood.com/steamed-rice-cake/), [white sugar sponge cake](https://en.wikipedia.org/wiki/White_sugar_sponge_cake), *fermented rice cake*, or *white honeycomb cake* because of the air gaps within the cake.",
         "tags": [
             "白糖",
             "糕",
