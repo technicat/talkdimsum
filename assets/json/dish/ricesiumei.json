@@ -21,7 +21,8 @@
                     "饭"
                 ]
             },
-            "Pinyin": "shāo wèi fàn"
+            "Pinyin": "shāo wèi fàn",
+            "description": "{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*. {飯} is *rice*, so 燒味飯 is *roast flavor rice*."
         },
         "images": [
             {
@@ -29,7 +30,7 @@
                 "place": "BBQ King, Las Vegas, Nevada"
             }
         ],
-        "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei), [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats (basically Cantonese BBQ), served on steamed rice, usually with a vegetable such as [bok choy](https://en.wikipedia.org/wiki/Bok_choy) or [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan).\n\n**Characters**\n\n{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*. {飯} is *rice*, so 燒味飯 is *roast flavor rice*.",
+        "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei), [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats (basically Cantonese BBQ), served on steamed rice, usually with a vegetable such as [bok choy](https://en.wikipedia.org/wiki/Bok_choy) or [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan).",
         "tags": [
             "粵菜",
             "燒味飯",
@@ -248,7 +249,8 @@
                     "饭"
                 ]
             },
-            "Pinyin": "sān bǎo fàn"
+            "Pinyin": "sān bǎo fàn",
+            "description": "{三} is *three*, {寶} is *treasure*, and {飯} is *rice*, so 三寶飯 is *three treasure rice*.\n\nIt's easy to remember the first three number words: one, two, three is {一}, {二}, {三}. The pattern ends after that."
         },
         "images": [
             {
@@ -256,7 +258,7 @@
                 "place": "Big Wong, Las Vegas, Nevada"
             }
         ],
-        "description": "Three meats served on rice\n\n**Characters**\n\n{三} is *three*, {寶} is *treasure*, and {飯} is *rice*, so 三寶飯 is *three treasure rice*.\n\nIt's easy to remember the first three number words: one, two, three is {一}, {二}, {三}. The pattern ends after that.",
+        "description": "Three meats served on rice.",
         "tags": [
             "粵菜",
             "茶餐廳",
@@ -298,7 +300,8 @@
                     "鸡"
                 ]
             },
-            "Pinyin": "chǐ yóu jī fàn"
+            "Pinyin": "chǐ yóu jī fàn",
+            "description": "{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*. {飯} is *rice*."
         },
         "images": [
             {
@@ -306,7 +309,7 @@
                 "place": "New Asian BBQ & Noodles, Las Vegas, Nevada"
             }
         ],
-        "description": "A Cantonese [siu-mei](https://en.wikipedia.org/wiki/Siu_mei) dish, chicken cooked with soy sauce, served on rice.\n\n**Characters**\n\n{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*. {飯} is *rice*",
+        "description": "A Cantonese [siu-mei](https://en.wikipedia.org/wiki/Siu_mei) dish, chicken cooked with soy sauce, served on rice.",
         "tags": [
             "新菜",
             "豉油",
