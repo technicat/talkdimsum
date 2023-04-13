@@ -28,7 +28,8 @@
             },
             "English": "fried wonton",
             "Yale": "ja wàhn tān",
-            "Pinyin": "zhà yún tūn"
+            "Pinyin": "zhà yún tūn",
+            "description": "{炸} is *deep-fried* (the radical {火} on the left side of the character is *fire*), and the next two characters comprise *won ton*."
         },
         "images": [
             {
@@ -36,7 +37,7 @@
                 "place": "Northside Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Deep fried wonton (dumplings with shrimp and pork).\n\n**Characters**\n\n{炸} is *deep-fried* (the radical {火} on the left side of the character is *fire*), and the next two characters comprise *won ton*.",
+        "description": "Deep fried wonton (dumplings with shrimp and pork).",
         "tags": [
             "炸雲吞",
             "茶餐廳",
@@ -79,7 +80,8 @@
                     "吞"
                 ]
             },
-            "Pinyin": "zhà xiā yún tūn"
+            "Pinyin": "zhà xiā yún tūn",
+            "description": "{炸} is *deep-fried*, and {蝦} is *shrimp*."
         },
         "images": [
             {
@@ -87,7 +89,7 @@
                 "place": "KJ Dim Sum and Seafood"
             }
         ],
-        "description": "Fried wonton with just shrimp inside.\n\n{炸} is *deep-fried*, and {蝦} is *shrimp*.",
+        "description": "Fried wonton with just shrimp inside.",
         "tags": [
             "炸雲吞",
             "茶餐廳",
