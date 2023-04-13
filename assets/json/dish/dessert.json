@@ -12,7 +12,8 @@
             },
             "Yale": "tìhm bán",
             "Jyutping": "tim4 ban2",
-            "Pinyin": "tián pǐn"
+            "Pinyin": "tián pǐn",
+            "description": "{甜} is *sweet*, and {品} is *item*, so it's basically *sweets*."
         },
         "images": [
             {
@@ -20,7 +21,7 @@
                 "place": "Sweet Honey Desserts, Las Vegas, Nevada"
             }
         ],
-        "description": "[Chinese desserts](https://en.wikipedia.org/wiki/Chinese_desserts) include pastries, candies, cakes, jellies and puddings. Even though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!\n\n**Characters**\n\n{甜} is *sweet*, and {品} is *item*, so it's basically *sweets*.",
+        "description": "[Chinese desserts](https://en.wikipedia.org/wiki/Chinese_desserts) include pastries, candies, cakes, jellies and puddings. Even though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!",
         "tags": [
             "甜品"
         ],
@@ -58,7 +59,8 @@
                 ]
             },
             "Yale": "mōng gwó bāan kīk",
-            "Pinyin": "máng guǒ bān jǐ"
+            "Pinyin": "máng guǒ bān jǐ",
+            "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for *mango* (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {班戟} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *pancake* (the Cantonese, at least, sounds similar) so 芒果班戟 is *mango pancake* (even though it's not really a pancake)."
         },
         "images": [
             {
@@ -66,7 +68,7 @@
                 "place": "Sweet Talk, Las Vegas, Nevada"
             }
         ],
-        "description": "A popular Hong Kong dessert, [mango](https://en.wikipedia.org/wiki/Mango) topped with whipped cream and wrapped in a crepe.\n\n**Characters**\n\n{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for *mango* (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {班戟} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *pancake* (the Cantonese, at least, sounds similar) so 芒果班戟 is *mango pancake* (even though it's not really a pancake).",
+        "description": "A popular Hong Kong dessert, [mango](https://en.wikipedia.org/wiki/Mango) topped with whipped cream and wrapped in a crepe.",
         "tags": [
             "港式",
             "芒果",
@@ -115,7 +117,8 @@
                     "奶"
                 ]
             },
-            "Pinyin": "zhá xiān nǎi"
+            "Pinyin": "zhá xiān nǎi",
+            "description": "{炸} is *deep-fried*, {鮮} is *fresh*, and {奶} is *milk*, so 炸鮮奶 is *deep-fried fresh milk* (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n{鮮奶} is also part of the name for latte, *fresh milk coffee* (鮮奶咖啡)."
         },
         "images": [
             {
@@ -123,7 +126,7 @@
                 "place": "Sweet Heart, Las Vegas, Nevada"
             }
         ],
-        "description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.\n\n**Characters**\n\n{炸} is *deep-fried*, {鮮} is *fresh*, and {奶} is *milk*, so 炸鮮奶 is *deep-fried fresh milk* (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n{鮮奶} is also part of the name for latte, *fresh milk coffee* (鮮奶咖啡).",
+        "description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.",
         "tags": [
             "鮮奶",
             "炸",
@@ -154,7 +157,8 @@
                 ]
             },
             "Yale": "sīn chóu",
-            "Pinyin": "xiān cǎo"
+            "Pinyin": "xiān cǎo",
+            "description": "{仙} is *divine* or *mystical* or *magical*, and {草} is *grass*, so you can think of {仙草} as *magic grass*, which refers to both the herb and the jelly made from it.\n\nBoth characters are phono-semantic, i.e. one component indicates the meaning and the other gives a hint as to the sound (and sometimes provides double-duty in providing some meaning). {仙} is composed of the semantic {亻}), which is the radical for *person*, and the phonetic {山}, which is *mountain*. {草} is composed of the semantic {⺾}) which is grass or a plant, and the phonetic {早} which means *early*."
         },
         "images": [
             {
@@ -162,7 +166,7 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "description": "[Grass jelly](https://en.wikipedia.org/wiki/Grass_jelly) is served as dessert or mixed in drinks.\n\n**Characters**\n\n{仙} is *divine* or *mystical* or *magical*, and {草} is *grass*, so you can think of {仙草} as *magic grass*, which refers to both the herb and the jelly made from it.\n\nBoth characters are phono-semantic, i.e. one component indicates the meaning and the other gives a hint as to the sound (and sometimes provides double-duty in providing some meaning). {仙} is composed of the semantic {亻}), which is the radical for *person*, and the phonetic {山}, which is *mountain*. {草} is composed of the semantic {⺾}) which is grass or a plant, and the phonetic {早} which means *early*.",
+        "description": "[Grass jelly](https://en.wikipedia.org/wiki/Grass_jelly) is served as dessert or mixed in drinks.",
         "tags": [
             "仙草",
             "飲品"
@@ -199,7 +203,8 @@
                 ]
             },
             "Yale": "jīng séui dáan",
-            "Pinyin": "zhēng shuǐ dàn"
+            "Pinyin": "zhēng shuǐ dàn",
+            "description": "{蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {水} is *water*, and {蛋} is *egg*, so {蒸水蛋} is *steamed water egg*."
         },
         "images": [
             {
@@ -207,7 +212,7 @@
                 "place": "Yummy Rice, Las Vegas, Nevada"
             }
         ],
-        "description": "Egg mixed with water and then steamed. Basically steamed scrambled egg, but resembling a custard.\n\n**Characters**\n\n{蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {水} is *water*, and {蛋} is *egg*, so {蒸水蛋} is *steamed water egg*.",
+        "description": "Egg mixed with water and then steamed. Basically steamed scrambled egg, but resembling a custard.",
         "tags": [
             "新菜",
             "蒸",
