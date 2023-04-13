@@ -4,7 +4,8 @@
             "English": "fried shrimp roll",
             "Cantonese": "炸蝦卷",
             "Yale": "ja hā gyún",
-            "Pinyin": "zhà xiā juǎn"
+            "Pinyin": "zhà xiā juǎn",
+            "description": "{炸} is *deep-fried*, {蝦} is *shrimp*. {卷} is *roll*, so 炸蝦卷 is *deep-fried shrimp roll*."
         },
         "images": [
             {
@@ -12,7 +13,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) with just shrimp inside.\n\n**Characters**\n\n{炸} is *deep-fried*, {蝦} is *shrimp*. {卷} is *roll*, so 炸蝦卷 is *deep-fried shrimp roll*.",
+        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) with just shrimp inside.",
         "tags": [
             "春卷",
             "炸",
@@ -42,7 +43,8 @@
                 ]
             },
             "Yale": "ja hói choi gyún",
-            "Pinyin": "zhà hǎi cài juǎn"
+            "Pinyin": "zhà hǎi cài juǎn",
+            "description": "{炸} is *deep-fried*, {海菜} is *seaweed*, and {卷} is *roll*, so 炸海菜卷 is *deep-fried seaweed roll*."
         },
         "images": [
             {
@@ -50,7 +52,7 @@
                 "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "description": "Deep-fried rolls with a seaweed wrapper, typically with shrimp inside.\n\n**Characters**\n\n{炸} is *deep-fried*, {海菜} is *seaweed*, and {卷} is *roll*, so 炸海菜卷 is *deep-fried seaweed roll*.",
+        "description": "Deep-fried rolls with a seaweed wrapper, typically with shrimp inside.",
         "tags": [
             "海菜",
             "炸",
