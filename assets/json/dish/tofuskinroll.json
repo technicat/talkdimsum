@@ -12,7 +12,8 @@
                 ]
             },
             "Yale": "sīn juk gyún",
-            "Pinyin": "xiān zhú juǎn"
+            "Pinyin": "xiān zhú juǎn",
+            "description": "{鮮} is *fresh*, {竹} is *bamboo*, and {卷} is *roll*, so {鮮竹卷} is *fresh bamboo roll*."
         },
         "images": [
             {
@@ -20,7 +21,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Dried [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) wrapped around bamboo shoots and other vegetable or meat fillings and steamed.\n\n**Characters**\n\n{鮮} is *fresh*, {竹} is *bamboo*, and {卷} is *roll*, so {鮮竹卷} is *fresh bamboo roll*.",
+        "description": "Dried [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) wrapped around bamboo shoots and other vegetable or meat fillings and steamed.",
         "tags": [
             "豆腐皮",
             "竹卷",
@@ -59,7 +60,8 @@
                 ]
             },
             "Yale": "fuh pèih gyún",
-            "Pinyin": "fǔ pí juǎn"
+            "Pinyin": "fǔ pí juǎn",
+            "description": "{腐皮} refers to the skin made out of fermented bean curd ({腐} is *stinky* and {皮} is *skin*, but don't worry, it's not stinky) and {卷} is *roll*, so 腐皮卷 is *stinky skin roll*."
         },
         "images": [
             {
@@ -67,7 +69,7 @@
                 "place": "KJ Dim Sum and Seafood"
             }
         ],
-        "description": "A pan-fried [tofu skin roll](http://en.wikipedia.org/wiki/Tofu_skin_roll), where the skin is made from fermented bean curd wrapped around vegetable or meat fillings and steamed.\n\n**Characters**\n\n{腐皮} refers to the skin made out of fermented bean curd ({腐} is *stinky* and {皮} is *skin*, but don't worry, it's not stinky) and {卷} is *roll*, so 腐皮卷 is *stinky skin roll*.",
+        "description": "A pan-fried [tofu skin roll](http://en.wikipedia.org/wiki/Tofu_skin_roll), where the skin is made from fermented bean curd wrapped around vegetable or meat fillings and steamed.",
         "tags": [
             "豆腐皮",
             "腐皮卷",
@@ -122,7 +124,8 @@
                     "卷"
                 ]
             },
-            "Pinyin": "xiān xiā fǔ pí juǎn"
+            "Pinyin": "xiān xiā fǔ pí juǎn",
+            "description": "{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*), {腐皮} refers to the skin made out of fermented bean curd ({腐} is *stinky* and {皮} is *skin*, but don't worry, it's not stinky) and {卷} is *roll*, so 鮮蝦腐皮卷 is *fresh shrimp stinky skin roll*."
         },
         "images": [
             {
@@ -130,7 +133,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevadaå"
             }
         ],
-        "description": "Pan-fried [tofu skin rolls](http://en.wikipedia.org/wiki/Tofu_skin_roll) filled with shrimp.\n\n**Characters**\n\n{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*), {腐皮} refers to the skin made out of fermented bean curd ({腐} is *stinky* and {皮} is *skin*, but don't worry, it's not stinky) and {卷} is *roll*, so 鮮蝦腐皮卷 is *fresh shrimp stinky skin roll*.",
+        "description": "Pan-fried [tofu skin rolls](http://en.wikipedia.org/wiki/Tofu_skin_roll) filled with shrimp.",
         "tags": [
             "豆腐皮",
             "點心",
