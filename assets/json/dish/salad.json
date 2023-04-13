@@ -14,7 +14,8 @@
         ]
       },
       "Yale": "hói cho sà léut",
-      "Pinyin": "hǎi cǎo shā lǜ"
+      "Pinyin": "hǎi cǎo shā lǜ",
+      "description": "{海草} is *seaweed* ({海} is *ocean* or *sea*, and {草} is *grass*, so {海草} is *sea grass*). {沙律} is the Cantonese [loanword](https://en.wikipedia.org/wiki/Loanword) for *salad* (pronounced *sà léut*), while the Mandarin loanword for *salad* is {沙拉} (pronounced *shā lā*)."
     },
     "images": [
       {
@@ -22,7 +23,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "Seaweed salad is a standard dim sum item.\n\n**Characters**\n\n{海草} is *seaweed* ({海} is *ocean* or *sea*, and {草} is *grass*, so {海草} is *sea grass*). {沙律} is the Cantonese [loanword](https://en.wikipedia.org/wiki/Loanword) for *salad* (pronounced *sà léut*), while the Mandarin loanword for *salad* is {沙拉} (pronounced *shā lā*).",
+    "description": "Seaweed salad is a standard dim sum item.",
     "tags": [
       "菜",
       "海草",
@@ -62,7 +63,8 @@
         ]
       },
       "Yale": "lèuhng buhn hói jit",
-      "Pinyin": "liáng bàn hǎi lǜ"
+      "Pinyin": "liáng bàn hǎi lǜ",
+      "description": "{涼} is *cold*, and {拌} is *mix* or *blend*, so 涼拌 is *cold mix*, while {海蜇} is [jellyfish](https://en.wikipedia.org/wiki/Jellyfish) ({海} is *sea* and {蜇} is *sting*). So 涼拌海蜇 is *cold mix sea sting*."
     },
     "images": [
       {
@@ -70,7 +72,7 @@
         "place": "Jasmine Seafood, San Diego, California"
       }
     ],
-    "description": "Marinated strips of jellyfish.\n\n**Characters**\n\n{涼} is *cold*, and {拌} is *mix* or *blend*, so 涼拌 is *cold mix*, while {海蜇} is [jellyfish](https://en.wikipedia.org/wiki/Jellyfish) ({海} is *sea* and {蜇} is *sting*). So 涼拌海蜇 is *cold mix sea sting*.",
+    "description": "Marinated strips of jellyfish.",
     "tags": [
       "海蜇",
       "凍",
