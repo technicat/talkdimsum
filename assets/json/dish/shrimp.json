@@ -6,7 +6,8 @@
                 "Cantonese": "西汁蝦",
                 "Simplified": "西汁虾",
                 "Yale": "sāi jāp hā",
-                "Pinyin": "xī zhī xiā"
+                "Pinyin": "xī zhī xiā",
+                "description": "{西} is *Western*, {汁} is *sauce*, and {蝦} is *shrimp*, so 西汁蝦 is *Western sauce shrimp*."
             },
         "images": [
             {
@@ -14,7 +15,7 @@
                 "place": "KJ Seafood and Dim Sum, Las Vegas, Nevada"
             }
         ],
-        "description": "Lightly-battered fried shrimp tossed with candy-glazed walnuts and a creamy sauce. The honey in the English name refers to the walnut glaze, but sometimes it's just a sugary syrup.\n\n**Characters**\n\n{西} is *Western*, {汁} is *sauce*, and {蝦} is *shrimp*, so 西汁蝦 is *Western sauce shrimp*.",
+        "description": "Lightly-battered fried shrimp tossed with candy-glazed walnuts and a creamy sauce. The honey in the English name refers to the walnut glaze, but sometimes it's just a sugary syrup.",
         "tags": [
             "核桃",
             "炸",
@@ -73,7 +74,8 @@
                         "仔"
                     ]
                 },
-                "Pinyin": "zhà xiā zǐ"
+                "Pinyin": "zhà xiā zǐ",
+                "description": "{炸} is *deep-fried*, and {蝦仔} is *small shrimp* ({蝦} is *shrimp* and {仔} is *child*), so 炸蝦仔 is *deep-fried small shrimp*."
             },
         "images": [
             {
@@ -81,7 +83,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Deep-fried shrimp.\n\n**Characters**\n\n{炸} is *deep-fried*, and {蝦仔} is *small shrimp* ({蝦} is *shrimp* and {仔} is *child*), so 炸蝦仔 is *deep-fried small shrimp*.",
+        "description": "Deep-fried shrimp.",
         "tags": [
             "炸",
             "蝦",
@@ -97,7 +99,8 @@
                 "Simplified": "芋虾",
                 "English": "taro shrimp",
                 "Yale": "wuh hā",
-                "Pinyin": "yù xiā"
+                "Pinyin": "yù xiā",
+                "description": "{芋} is [taro](https://en.wikipedia.org/wiki/Taro) (short for {芋頭}), and {蝦} is *shrimp*, so 芋頭蝦 is *taro shrimp*."
             },
         "images": [
             {
@@ -105,7 +108,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Fried shrimp with a taro coating, similar to taro dumplings.\n\n**Characters**\n\n{芋} is [taro](https://en.wikipedia.org/wiki/Taro) (short for {芋頭}), and {蝦} is *shrimp*, so 芋頭蝦 is *taro shrimp*.",
+        "description": "Fried shrimp with a taro coating, similar to taro dumplings.",
         "tags": [
             "芋頭",
             "炸",
@@ -136,7 +139,8 @@
                         "片"
                     ]
                 },
-                "Pinyin": "xiā piàn"
+                "Pinyin": "xiā piàn",
+                "description": "{蝦} is *shrimp*, and {片} is *slice* (same word used in fish fillet), so 蝦片 is *shrimp slice*."
             },
         "images": [
             {
@@ -144,7 +148,7 @@
                 "place": "California Noodle House, Las Vegas, Nevada"
             }
         ],
-        "description": "Deep-fried shrimp-flavored chips, similar to potato chips (there's also a version shaped more like french fries). Also known as [prawn crackers](https://en.wikipedia.org/wiki/Prawn_cracker).\n\nLike potato chips, shrimp chips are a snack food you can buy in little (and big) bags at the grocery store, and sometimes used to garnish restaurant dishes.\n\n**Characters**\n\n{蝦} is *shrimp*, and {片} is *slice* (same word used in fish fillet), so 蝦片 is *shrimp slice*.",
+        "description": "Deep-fried shrimp-flavored chips, similar to potato chips (there's also a version shaped more like french fries). Also known as [prawn crackers](https://en.wikipedia.org/wiki/Prawn_cracker).\n\nLike potato chips, shrimp chips are a snack food you can buy in little (and big) bags at the grocery store, and sometimes used to garnish restaurant dishes.",
         "tags": [
             "炸",
             "蝦",
