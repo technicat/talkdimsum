@@ -21,7 +21,8 @@
                     "茶"
                 ]
             },
-            "Pinyin": "dòng níng chá"
+            "Pinyin": "dòng níng chá",
+            "description": "{凍} is *cold*, {檸} is short for *lemon*, ({檸檬} nìhng mūng) and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 凍檸茶 is *cold lemon tea*."
         },
         "images": [
             {
@@ -29,7 +30,7 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "description": "Hong Kong-style sweetened ice lemon tea.\n\n**Characters**\n\n{凍} is *cold*, {檸} is short for *lemon*, ({檸檬} nìhng mūng) and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 凍檸茶 is *cold lemon tea*.\n\nThis drink is a staple of the 茶餐廳 (chàh chāan tēng), inexpensive casual eateries featuring “Canto-Western” cuisine. In fact, ice lemon tea is typically made with Lipton tea. When I worked in Hong Kong, I always ordered this in the company cafeteria and after drinking half of it would mix in a can of Pepsi.",
+        "description": "Hong Kong-style sweetened ice lemon tea. This drink is a staple of the 茶餐廳 (chàh chāan tēng), inexpensive casual eateries featuring “Canto-Western” cuisine. In fact, ice lemon tea is typically made with Lipton tea. When I worked in Hong Kong, I always ordered this in the company cafeteria and after drinking half of it would mix in a can of Pepsi.",
         "tags": [
             "冷飲",
             "檸檬",
@@ -84,7 +85,8 @@
                     "茶"
                 ]
             },
-            "Pinyin": "rè níng chá"
+            "Pinyin": "rè níng chá",
+            "description": "{熱} is *hot*,, {檸} is short for *lemon* ({檸檬} nìhng mūng), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 熱檸茶 is *hot lemon tea*."
         },
         "images": [
             {
@@ -92,7 +94,7 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "description": "The hot version of Hong Kong-style sweetened ice lemon tea.\n\n**Characters**\n\n{熱} is *hot*,, {檸} is short for *lemon* ({檸檬} nìhng mūng), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 熱檸茶 is *hot lemon tea*.",
+        "description": "The hot version of Hong Kong-style sweetened ice lemon tea.",
         "tags": [
             "飲品",
             "熱飲",
