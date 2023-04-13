@@ -11,7 +11,8 @@
                 ]
             },
             "Yale": "náaih chàh",
-            "Pinyin": "nǎi chá"
+            "Pinyin": "nǎi chá",
+            "description": "{奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶} is [milk tea](https://en.wikipedia.org/wiki/Milk_tea)."
         },
         "images": [
             {
@@ -19,7 +20,7 @@
                 "place": "JJ Noodle Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Although Chinese tea is not traditionally drunk with milk added, variations of [milk tea](https://en.wikipedia.org/wiki/Milk_tea) (known in Britain as just [tea](https://en.wikipedia.org/wiki/Tea)) are popular in Asia, including Hong Kong-style milk tea, boba (bubble) milk tea (invented in Taiwan), and Thai tea (which is why the [Milk Tea Alliance](https://en.wikipedia.org/wiki/Milk_Tea_Alliance), an online democratic solidarity movement in Southeast Asia, is so named).\n\n**Characters**\n\n{奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}",
+        "description": "{奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}",
         "tags": [
             "奶茶",
             "茶",
@@ -59,7 +60,8 @@
                 ]
             },
             "Yale": "góng sīk náaih chàh",
-            "Pinyin": "gǎng shì nǎi chá"
+            "Pinyin": "gǎng shì nǎi chá",
+            "description": "{港式} is *Hong Kong-style*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 港式奶茶 is *Hong Kong-style milk tea*.\n\nThe tea is traditionally strained through a sackcloth that darkens from use, so the tea is also known as 絲襪奶茶 (sī maht náaih chàh) *silk stocking milk tea*"
         },
         "images": [
             {
@@ -67,7 +69,7 @@
                 "place": "JJ Noodle Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Hong Kong-style milk tea, made with loads of black tea (so this is strong stuff) and evaporated or condensed milk.\n\n**Characters**\n\n{港式} is *Hong Kong-style*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 港式奶茶 is *Hong Kong-style milk tea*.\n\nThe tea is traditionally strained through a sackcloth that darkens from use, so the tea is also known as 絲襪奶茶 (sī maht náaih chàh) *silk stocking milk tea*",
+        "description": "Hong Kong-style milk tea, made with loads of black tea (so this is strong stuff) and evaporated or condensed milk.",
         "tags": [
             "港式",
             "飲品",
@@ -119,7 +121,8 @@
                     "鴦"
                 ]
             },
-            "Pinyin": "yuān yāng"
+            "Pinyin": "yuān yāng",
+            "description": "{鴛鴦} is the name for Mandarin ducks, where {鴛} refers to the male duck and {鴦} refers to female duck.\n\n{鴛鴦} is symbolic of couples, and, in the case of this coffee/tea mix, odd couples."
         },
         "images": [
             {
@@ -127,7 +130,7 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "description": "A popular Hong Kong mix of coffee and Hong Kong style milk tea.\n\n**Characters**\n\n{鴛鴦} is the name for Mandarin ducks, where {鴛} refers to the male duck and {鴦} refers to female duck.\n\n{鴛鴦} is symbolic of couples, and, in the case of this coffee/tea mix, odd couples.",
+        "description": "A popular Hong Kong mix of coffee and Hong Kong style milk tea.",
         "tags": [
             "咖啡",
             "鴛鴦",
@@ -175,7 +178,8 @@
             },
             "Yale": "bō ba náaih chàh",
             "Jyutping": "bo1 baa3 naai6 caa4",
-            "Pinyin": "bō bà nǎi chá"
+            "Pinyin": "bō bà nǎi chá",
+            "description": "{波霸} is *boba*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether {波霸奶茶} is *boba milk tea*."
         },
         "images": [
             {
@@ -183,7 +187,7 @@
                 "place": "Happy Lemon, Las Vegas, Nevada"
             }
         ],
-        "description": "Milk tea with tapioca balls (boba), a concoction invented in Taiwan, although exactly where is disputed, according to [The Boba Book](https://www.thebobabook.com).\n\n**Trivia**\n\n*Boba* is a slangy reference from the 80s, not to a Star Wars bounty hunter but instead a popular Hong Kong actress (think big bobas), so the drink is often termed more genteely as [bubble tea](https://en.wikipedia.org/wiki/Bubble_tea) (particularly in Taiwan where it was invented) and [pearl milk tea](https://simplechinesefood.com/recipe/pearl-milk-tea-134332).\n\n**Characters**\n\n{波霸} is *boba*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether {波霸奶茶} is *boba milk tea*.",
+        "description": "Milk tea with tapioca balls (boba), a concoction invented in Taiwan, although exactly where is disputed, according to [The Boba Book](https://www.thebobabook.com).\n\n**Trivia**\n\n*Boba* is a slangy reference from the 80s, not to a Star Wars bounty hunter but instead a popular Hong Kong actress (think big bobas), so the drink is often termed more genteely as [bubble tea](https://en.wikipedia.org/wiki/Bubble_tea) (particularly in Taiwan where it was invented) and [pearl milk tea](https://simplechinesefood.com/recipe/pearl-milk-tea-134332).",
         "tags": [
             "台菜",
             "臺灣",
@@ -222,7 +226,8 @@
                 ]
             },
             "Yale": "hāk tòhng náaih chàh",
-            "Pinyin": "hēi táng nǎi chá"
+            "Pinyin": "hēi táng nǎi chá",
+            "description": "{黑} is *black* and {糖} is *sugar*, so {黑糖} is *black sugar*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 黑糖奶茶 is *black sugar milk tea*."
         },
         "images": [
             {
@@ -230,7 +235,7 @@
                 "place": "Tiger Sugar, Las Vegas, Nevada"
             }
         ],
-        "description": "Milk tea mixed with a brown sugar syrup. Also known as *tiger milk tea* due to the swirl of brown sugar syrup and cream or milk.\n\n**Characters**\n\ns{黑} is *black* and {糖} is *sugar*, so {黑糖} is *black sugar*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 黑糖奶茶 is *black sugar milk tea*.",
+        "description": "Milk tea mixed with a brown sugar syrup. Also known as *tiger milk tea* due to the swirl of brown sugar syrup and cream or milk.",
         "tags": [
             "臺灣",
             "波霸",
