@@ -19,7 +19,8 @@
                     "圓"
                 ]
             },
-            "Pinyin": "tāng yuán"
+            "Pinyin": "tāng yuán",
+            "description": "{湯} is *soup*, and {圓} is *ball* , so {湯圓} is *soup ball*.\n\nIn some Cantonese-speaking regions, {湯丸} is used with the same pronunciation and meaning."
         },
         "images": [
             {
@@ -27,7 +28,7 @@
                 "place": "Technicat, Las Vegas, Nevada"
             }
         ],
-        "description": "Boiled balls of glutinous rice with a sweet filling, such as black sesame seeds or crushed peanuts.\n\nThese are easy to find frozen in Asian grocery stores. To prepare, just boil a few minutes until they float!\n\n**Characters**\n\n{湯} is *soup*, and {圓} is *ball* , so {湯圓} is *soup ball*.\n\nIn some Cantonese-speaking regions, {湯丸} is used with the same pronunciation and meaning.",
+        "description": "Boiled balls of glutinous rice with a sweet filling, such as black sesame seeds or crushed peanuts.\n\nThese are easy to find frozen in Asian grocery stores. To prepare, just boil a few minutes until they float!",
         "tags": [
             "湯丸",
             "湯圓",
@@ -109,7 +110,8 @@
                     "圆"
                 ]
             },
-            "Pinyin": "hēi zhī ma tāng yuán"
+            "Pinyin": "hēi zhī ma tāng yuán",
+            "description": "{黑芝麻} is “*black sesame* ({黑} is *black*, and {芝麻} is *sesame*). {湯} is *soup*, and {圓} is *ball* (sometimes {丸} is used with the same pronunciation and meaning), so 黑芝麻湯圓 is *black sesame soup ball*."
         },
         "images": [
             {
@@ -117,7 +119,7 @@
                 "place": "Technicat, Las Vegas, Nevada"
             }
         ],
-        "description": "Rice balls with a black sesame seed filling.\n\n**Characters**\n\n{黑芝麻} is “*black sesame* ({黑} is *black*, and {芝麻} is *sesame*). {湯} is *soup*, and {圓} is *ball* (sometimes {丸} is used with the same pronunciation and meaning), so 黑芝麻湯圓 is *black sesame soup ball*.",
+        "description": "Rice balls with a black sesame seed filling.",
         "tags": [
             "芝麻",
             "黑芝麻",
@@ -167,7 +169,8 @@
                     "圆"
                 ]
             },
-            "Pinyin": "huā shēng tāng yuán"
+            "Pinyin": "huā shēng tāng yuán",
+            "description": "{花生} is *peanut*, {湯} is *soup*, and {圓} is *ball* , so {湯圓} is *peanut soup ball*."
         },
         "images": [
             {
@@ -175,7 +178,7 @@
                 "place": "Technicat"
             }
         ],
-        "description": "Rice balls filled with crushed peanuts or peanut butter.\n\n**Characters**\n\n{花生} is *peanut*, {湯} is *soup*, and {圓} is *ball* , so {湯圓} is *peanut soup ball*.",
+        "description": "Rice balls filled with crushed peanuts or peanut butter.",
         "tags": [
             "花生",
             "湯丸",
@@ -215,7 +218,8 @@
                     "圓"
                 ]
             },
-            "Pinyin": "dòu shā tāng yuán"
+            "Pinyin": "dòu shā tāng yuán",
+            "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {湯} is *soup*, and {圓} is *ball* , so 豆沙汤圆 is *red bean soup ball*."
         },
         "images": [
             {
@@ -223,7 +227,7 @@
                 "place": "Technicat, Las Vegas, Nevada"
             }
         ],
-        "description": "Rice balls fille with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))).\n\n**Characters**\n\n{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {湯} is *soup*, and {圓} is *ball* , so 豆沙汤圆 is *red bean soup ball*.",
+        "description": "Rice balls fille with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))).",
         "tags": [
             "湯圓",
             "豆沙",
@@ -266,7 +270,8 @@
                     "圓"
                 ]
             },
-            "Pinyin": "lǜ chá zhà tāng yuán"
+            "Pinyin": "lǜ chá zhà tāng yuán",
+            "description": "{綠茶} os *grean tea*, and {炸} is *deep-fried*. {湯} is *soup*, and {圓} is *ball*, so 绿茶炸汤圓 is *green tea fried soup ball*."
         },
         "images": [
             {
@@ -274,7 +279,7 @@
                 "place": "New Asian Cuisine, Fresno, California"
             }
         ],
-        "description": "Deep-fried green-tea mixed glutinous rice balls with black sesame paste inside.\n\n**Characters**\n\n{綠茶} os *grean tea*, and {炸} is *deep-fried*. {湯} is *soup*, and {圓} is *ball*, so 绿茶炸汤圓 is *green tea fried soup ball*.",
+        "description": "Deep-fried green-tea mixed glutinous rice balls with black sesame paste inside.",
         "tags": [
             "湯圓",
             "綠茶",
@@ -297,7 +302,8 @@
                 ]
             },
             "Yale": "tòhng bāt lāt",
-            "Pinyin": "táng bù shuǎi"
+            "Pinyin": "táng bù shuǎi",
+            "description": "{糖} is *sugar*, and 不甩 is “cannot detach,” so basically, really syrupy!"
         },
         "images": [
             {
@@ -305,7 +311,7 @@
                 "place": "SweetHoney Dessert, Garden Grove, California"
             }
         ],
-        "description": "These rice balls have no filling, but instead are doused in syrup and topped with crushed peanuts.\n\n{糖} is *sugar*, and 不甩 is “cannot detach,” so basically, really syrupy!",
+        "description": "These rice balls have no filling, but instead are doused in syrup and topped with crushed peanuts.",
         "tags": [
             "糖",
             "花生",
