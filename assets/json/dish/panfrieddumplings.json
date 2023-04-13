@@ -23,7 +23,8 @@
             },
             "English": "pan-fried vegetable dumpling",
             "Yale": "jīn sou choi gáau",
-            "Pinyin": "jiān sù cài jiǎo"
+            "Pinyin": "jiān sù cài jiǎo",
+            "description": "{煎} is *pan-fried*, {素菜} is *vegetable dish*, and {餃} is *dumpling*"
         },
         "images": [
             {
@@ -31,7 +32,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Pan-fried dumplings filled with minced vegetables such as cabbage and carrots.\n\n**Characters**\n\n{煎} is *pan-fried*, {素菜} is *vegetable dish*, and {餃} is *dumpling*",
+        "description": "Pan-fried dumplings filled with minced vegetables such as cabbage and carrots.",
         "tags": [
             "煎",
             "素菜",
@@ -74,7 +75,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "jiān jiǔ cài jiǎo"
+            "Pinyin": "jiān jiǔ cài jiǎo",
+            "description": "{煎} is *pan-fried*, {韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so it's *Chinese chives dumpling*."
         },
         "images": [
             {
@@ -82,7 +84,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Pan-fried dumplings filled with shrimp and [Chinese chives]((https://en.wikipedia.org/wiki/Allium_tuberosum#China)).\n\n**Characters**\n\n{煎} is *pan-fried*, {韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so it's *Chinese chives dumpling*.",
+        "description": "Pan-fried dumplings filled with shrimp and [Chinese chives]((https://en.wikipedia.org/wiki/Allium_tuberosum#China)).",
         "tags": [
             "餃",
             "煎",
@@ -134,7 +136,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "ǎng ròu jiǔ cài jiǎo"
+            "Pinyin": "ǎng ròu jiǔ cài jiǎo",
+            "description": "仿肉 is *imitation meat*, {韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so 仿肉韭菜餃 is *imitation meat Chinese chives dumpling*."
         },
         "images": [
             {
@@ -142,7 +145,7 @@
                 "place": "Yum Cha, Las Vegas, Nevada"
             }
         ],
-        "description": "Pan-fried dumplings filled with chives and imitation meat instead of shrimp.\n\n**Characters**\n\n仿肉 is *imitation meat*, {韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so 仿肉韭菜餃 is *imitation meat Chinese chives dumpling*.",
+        "description": "Pan-fried dumplings filled with chives and imitation meat instead of shrimp.",
         "tags": [
             "仿肉",
             "煎",
@@ -182,7 +185,8 @@
                     "貼"
                 ]
             },
-            "Pinyin": "guō tiē"
+            "Pinyin": "guō tiē",
+            "description": "{鍋} is *pot* (the cookware), and {貼} is *stick*, so, yeah, {鍋貼} does mean *potsticker*."
         },
         "images": [
             {
@@ -190,7 +194,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Oddly known as *potstickers* in English (and in Boston, even more oddly known as *Peking ravioli*), these thick-skinned dumplings from northern China are steamed and then pan-fried, with a meat filling.\n\n**Trivia**\n\nAs you may have guessed, the name [Peking ravioli](https://www.npr.org/sections/thesalt/2016/03/30/472147018/peking-ravioli-and-other-chinese-dishes-youll-only-find-in-boston) was coined to appeal to the large Italian community in Boston, by pioneering Chinese-American chef [Joyce Chen](https://en.wikipedia.org/wiki/Joyce_Chen_(chef)). And *potsticker* was coined by Chinese-American physician and author [Buwei Yang Chao](https://en.wikipedia.org/wiki/Buwei_Yang_Chao) (along with the term *stir-fry*) in the classic [How to Cook and Eat in Chinese](https://en.wikipedia.org/wiki/How_to_Cook_and_Eat_in_Chinese)\n\n**Characters**\n\n{鍋} is *pot* (the cookware), and {貼} is *stick*, so, yeah, {鍋貼} does mean *potsticker*.",
+        "description": "Oddly known as *potstickers* in English (and in Boston, even more oddly known as *Peking ravioli*), these thick-skinned dumplings from northern China are steamed and then pan-fried, with a meat filling.\n\n**Trivia**\n\nAs you may have guessed, the name [Peking ravioli](https://www.npr.org/sections/thesalt/2016/03/30/472147018/peking-ravioli-and-other-chinese-dishes-youll-only-find-in-boston) was coined to appeal to the large Italian community in Boston, by pioneering Chinese-American chef [Joyce Chen](https://en.wikipedia.org/wiki/Joyce_Chen_(chef)). And *potsticker* was coined by Chinese-American physician and author [Buwei Yang Chao](https://en.wikipedia.org/wiki/Buwei_Yang_Chao) (along with the term *stir-fry*) in the classic [How to Cook and Eat in Chinese](https://en.wikipedia.org/wiki/How_to_Cook_and_Eat_in_Chinese).",
         "tags": [
             "蒸",
             "煎",
