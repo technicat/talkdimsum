@@ -128,7 +128,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "jiǔ cài jiǎo"
+            "Pinyin": "jiǔ cài jiǎo",
+            "description": "{韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so 韭菜餃 is *Chinese chives dumpling*."
         },
         "images": [
             {
@@ -136,7 +137,7 @@
                 "place": "Tim Ho Wan, Las Vegas, Nevada"
             }
         ],
-        "description": "Steamed dumplings filled with shrimp and Chinese chives.\n\n**Characters**\n\n{韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so 韭菜餃 is *Chinese chives dumpling*.",
+        "description": "Steamed dumplings filled with shrimp and Chinese chives.",
         "tags": [
             "蒸",
             "韭菜",
