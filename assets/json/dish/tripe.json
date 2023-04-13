@@ -11,14 +11,15 @@
                 ]
             },
             "Yale": "ngàuh tóuh",
-            "Pinyin": "niú dǔ"
+            "Pinyin": "niú dǔ",
+            "description": "{牛} is *cow*, {肚} is *stomach*, so {牛肚} is *cow stomach*."
         },
         "images": [
             {
                 "image": "tripe"
             }
         ],
-        "description": "Beef tripe, steamed with garlic and ginger.\n\n**Characters**\n\n{牛} is *cow*, {肚} is *stomach*, so {牛肚} is *cow stomach*.",
+        "description": "Beef tripe, steamed with garlic and ginger.",
         "tags": [
             "薑",
             "蒸",
@@ -58,7 +59,8 @@
                     "杂"
                 ]
             },
-            "Pinyin": "niú zá"
+            "Pinyin": "niú zá",
+            "description": "{牛} is *cow*, and {雜} is *mix*, so {牛雜} is *cow mix*."
         },
         "images": [
             {
@@ -66,7 +68,7 @@
                 "place": "Hong Kong Garden Seafood and Dim Sum, Las Vegas, Nevada"
             }
         ],
-        "description": "Tripe stewed with Chinese turnips.\n\n**Characters**\n\n{牛} is *cow*, and {雜} is *mix*, so {牛雜} is *cow mix*.",
+        "description": "Tripe stewed with Chinese turnips.",
         "tags": [
             "肉",
             "牛肉",
