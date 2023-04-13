@@ -71,17 +71,15 @@
                 ]
             },
             "Yale": "baahk jūk",
-            "Pinyin": "bái zhōu"
+            "Pinyin": "bái zhōu",
+            "description": "{白} is *white* or *plain* (both meanings work in this case), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so {白粥} is *plain congee*."
         },
         "images": [
             {
                 "image": "plainjook"
-            },
-            {
-                "image": "jook"
             }
         ],
-        "description": "Plain [congee](http://en.wikipedia.org/wiki/Congee), with nothing mixed in.\n\n.{白} is *white* or *plain* (both meanings work in this case), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so {白粥} is *plain congee*.",
+        "description": "Plain [congee](http://en.wikipedia.org/wiki/Congee), with nothing mixed in.",
         "tags": [
             "早餐",
             "茶餐廳",
@@ -123,7 +121,8 @@
                 ]
             },
             "Yale": "yìuh chyúh baahk jūk",
-            "Pinyin": "yáo zhù bái zhōu"
+            "Pinyin": "yáo zhù bái zhōu",
+            "description": "{瑤柱} is *dried scallops*, {白粥} is *plain congee*, ({白} is *white* or *plain*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)), so 瑤柱白粥 is “dried scallops plain congee.”"
         },
         "images": [
             {
@@ -131,7 +130,7 @@
                 "place": "Yummy Rice, Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with dried scallops.\n\n.**Characters**\n\n{瑤柱} is *dried scallops*, {白粥} is *plain congee*, ({白} is *white* or *plain*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)), so 瑤柱白粥 is “dried scallops plain congee.”",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with dried scallops.",
         "tags": [
             "早餐",
             "茶餐廳",
@@ -163,7 +162,8 @@
                 ]
             },
             "Yale": "pèih daahn sau yuhk jūk",
-            "Pinyin": "pí dàn shòu ròu zhōu"
+            "Pinyin": "pí dàn shòu ròu zhōu",
+            "description": "{皮蛋} is *preserved egg*, {瘦肉} is *pork* ({瘦} is *pig*, and {肉} is *meat), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
         },
         "images": [
             {
@@ -171,7 +171,7 @@
                 "place": "New Asian BBQ, Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with salty pork and [preserved egg](https://en.wikipedia.org/wiki/Century_egg), which are eggs that jelly while encased in clay mixture for weeks to months (also known with some exaggeration as *centry egg*, *hundred-year egg*, *thousand-year egg*, *thousand-year-old egg*, or *millennium egg*). This is a standard congee offered during dim sum.\n\n**Characters**\n\n{皮蛋} is *preserved egg*, {瘦肉} is *pork* ({瘦} is *pig*, and {肉} is *meat), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee).",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with salty pork and [preserved egg](https://en.wikipedia.org/wiki/Century_egg), which are eggs that jelly while encased in clay mixture for weeks to months (also known with some exaggeration as *centry egg*, *hundred-year egg*, *thousand-year egg*, *thousand-year-old egg*, or *millennium egg*). This is a standard congee offered during dim sum.",
         "tags": [
             "早餐",
             "粥",
@@ -238,7 +238,8 @@
             "Cantonese": "魚片粥",
             "Yale": "yú pín jūk",
             "Simplified": "鱼片粥",
-            "Pinyin": "yú piàn zhōu"
+            "Pinyin": "yú piàn zhōu",
+            "description": "{魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
         },
         "images": [
             {
@@ -246,7 +247,7 @@
                 "place": "Golden Horse Seafood, Portland, Oregon"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with slices of fish fillet. This is a standard rice porridge served for breakfast and dim sum.\n\n**Characters**\n\n{魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee).",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with slices of fish fillet. This is a standard rice porridge served for breakfast and dim sum.",
         "tags": [
             "早餐",
             "粥",
@@ -315,7 +316,8 @@
                     "粥"
                 ]
             },
-            "Pinyin": "shēng cài líng yú qiú zhōu"
+            "Pinyin": "shēng cài líng yú qiú zhōu",
+            "description": "{生菜} is *lettuce*, {鯪魚} is Chinese mud carp, also known as *dace*, {球} is *ball*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
         },
         "images": [
             {
@@ -323,7 +325,7 @@
                 "place": "SK Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with fish balls and lettuce.\n\n**Characters**\n\n{生菜} is *lettuce*, {鯪魚} is Chinese mud carp, also known as *dace*, {球} is *ball*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee).",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with fish balls and lettuce.",
         "tags": [
             "粥",
             "魚",
@@ -360,7 +362,8 @@
                     "粥"
                 ]
             },
-            "Pinyin": "hǎi xiān zhōu"
+            "Pinyin": "hǎi xiān zhōu",
+            "description": "{海鮮} is *seafood* ({海} is *ocean* and {鮮} is *fresh*, so *seafood* is *ocean fresh*). {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 海鲜粥 is *seafood porridge*."
         },
         "images": [
             {
@@ -368,7 +371,7 @@
                 "place": "Island Malaysian, Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with a variety of seafood.\n\n**Characters**\n\n{海鮮} is *seafood* ({海} is *ocean* and {鮮} is *fresh*, so *seafood* is *ocean fresh*). {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 海鲜粥 is *seafood porridge*.",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with a variety of seafood.",
         "tags": [
             "海鮮",
             "粥",
@@ -400,7 +403,8 @@
             "Cantonese": "鴨絲粥",
             "Yale": "ngaap si jūk",
             "Simplified": "鸭丝粥",
-            "Pinyin": "yā sī zhōu"
+            "Pinyin": "yā sī zhōu",
+            "description": "{鴨} is *duck*, and {絲} is *wire* or *thread*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 鴨絲粥 is *duck thread congee*."
         },
         "images": [
             {
@@ -408,7 +412,7 @@
                 "place": "Broadway Bistro, Millbrae, California"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with shreds of roast duck.\n\n**Characters**\n\n{鴨} is *duck*, and {絲} is *wire* or *thread*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 鴨絲粥 is *duck thread congee*.",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with shreds of roast duck.",
         "tags": [
             "粥",
             "鴨",
@@ -444,7 +448,8 @@
                     "粥"
                 ]
             },
-            "Pinyin": "jī ròu zhōu"
+            "Pinyin": "jī ròu zhōu",
+            "description": "{雞} is *chicken*, {肉} is *meat*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 雞肉粥 is *chicken meat congee*."
         },
         "images": [
             {
@@ -452,7 +457,7 @@
                 "place": "Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with chicken.\n\n**Characters**\n\n{雞} is *chicken*, {肉} is *meat*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 雞肉粥 is *chicken meat congee*.",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with chicken.",
         "tags": [
             "粥",
             "雞",
@@ -493,7 +498,8 @@
                     "粥"
                 ]
             },
-            "Pinyin": "shā tián jī zhōu"
+            "Pinyin": "shā tián jī zhōu",
+            "description": "{沙田} is [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), {雞} is *chicken*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 沙田雞粥 is *Sha Tin chicken congee*.\n\n**Related Words**\n\n{沙田} is literally *sandy field*, where {沙} is *sandy*, and {田} is *field*."
         },
         "images": [
             {
@@ -501,7 +507,7 @@
                 "place": "SK Seafood, Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with pieces of chicken, originating from [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), a town in Hong Kong's eastern New Territories (and site of Hong Kong's [first powered airplane flight](https://en.wikipedia.org/wiki/Aviation_history_of_Hong_Kong)).\n\n**Characters**\n\n{沙田} is [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), {雞} is *chicken*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 沙田雞粥 is *Sha Tin chicken congee*.\n\n**Related Words**\n\n{沙田} is literally *sandy field*, where {沙} is *sandy*, and {田} is *field*.",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with pieces of chicken, originating from [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), a town in Hong Kong's eastern New Territories (and site of Hong Kong's [first powered airplane flight](https://en.wikipedia.org/wiki/Aviation_history_of_Hong_Kong)).",
         "tags": [
             "粥"
         ],
@@ -542,7 +548,8 @@
                     "粥"
                 ]
             },
-            "Pinyin": "bào yú jī sī zhōu"
+            "Pinyin": "bào yú jī sī zhōu",
+            "description": "{鮑魚} is [abalone](https://en.wikipedia.org/wiki/Abalone), 雞絲 is *chicken thread*, and [congee](http://en.wikipedia.org/wiki/Congee), so 鮑魚雞絲粥 is *abalone chicken thread congee*."
         },
         "images": [
             {
@@ -550,7 +557,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with abalone and shredded chicken.\n\n{鮑魚} is [abalone](https://en.wikipedia.org/wiki/Abalone), 雞絲 is *chicken thread*, and [congee](http://en.wikipedia.org/wiki/Congee), so 鮑魚雞絲粥 is *abalone chicken thread congee*.",
+        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with abalone and shredded chicken.",
         "tags": [
             "鮑魚",
             "雞",
