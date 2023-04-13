@@ -21,7 +21,8 @@
                     "饼"
                 ]
             },
-            "Pinyin": "dòushā bǐng"
+            "Pinyin": "dòushā bǐng",
+            "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {餅} is *cookie* or (usually round) *cake*, so 豆沙餅 is *red bean cake*."
         },
         "images": [
             {
@@ -29,7 +30,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "description": "Glutinous rice filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))), pan-fried.\n\n**Characters**\n\n{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {餅} is *cookie* or (usually round) *cake*, so 豆沙餅 is *red bean cake*.",
+        "description": "Glutinous rice filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))), pan-fried.",
         "tags": [
             "豆沙",
             "餅",
@@ -70,7 +71,8 @@
                     "饼"
                 ]
             },
-            "Pinyin": "hēi zhī ma bǐng"
+            "Pinyin": "hēi zhī ma bǐng",
+            "description": "{黑} is *black*, and {芝麻} is *sesame seed*, and together {黑芝麻} is *black sesame seed paste*. {餅} is *cookie* or (usually round) *cake*, so 黑芝麻餅 is *black sesame seed paste cake*."
         },
         "images": [
             {
@@ -78,7 +80,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "Glutinous rice with a black sesame paste filling, pan-fried.\n\n**Characters**\n\n{黑} is *black*, and {芝麻} is *sesame seed*, and together {黑芝麻} is *black sesame seed paste*. {餅} is *cookie* or (usually round) *cake*, so 黑芝麻餅 is *black sesame seed paste cake*.",
+        "description": "Glutinous rice with a black sesame paste filling, pan-fried.",
         "tags": [
             "黑芝麻",
             "芝麻",
@@ -116,7 +118,8 @@
                     "饼"
                 ]
             },
-            "Pinyin": "lǜ chá bǐng"
+            "Pinyin": "lǜ chá bǐng",
+            "description": "{綠茶} is *green tea*, and {餅} is *cookie* or *cake*."
         },
         "images": [
             {
@@ -124,7 +127,7 @@
                 "place": "Ping Pang Pong, Las Vegas, Nevada"
             }
         ],
-        "description": "Glutinous rice with a green tea paste filling.\n\n**Characters**\n\n{綠茶} is *green tea*, and {餅} is *cookie* or *cake*.",
+        "description": "Glutinous rice with a green tea paste filling.",
         "tags": [
             "綠茶",
             "餅",

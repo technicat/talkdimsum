@@ -21,7 +21,8 @@
                     "子"
                 ]
             },
-            "Pinyin": "niàng qié zi"
+            "Pinyin": "niàng qié zi",
+            "description": "{釀} is used to describe stuffed vegetables, and {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant), so 釀茄子 is *stuffed eggplant*."
         },
         "images": [
             {
@@ -29,7 +30,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "In the same manner as stuffed tofu, this is [eggplant](https://en.wikipedia.org/wiki/Eggplant) (Chinese/Japanese eggplant, which is longer and thinner than Western eggplant), stuffed and served with a thick soy sauce.\n\n**Characters**\n\n{釀} is used to describe stuffed vegetables, and {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant), so 釀茄子 is *stuffed eggplant*.",
+        "description": "In the same manner as stuffed tofu, this is [eggplant](https://en.wikipedia.org/wiki/Eggplant) (Chinese/Japanese eggplant, which is longer and thinner than Western eggplant), stuffed and served with a thick soy sauce.",
         "tags": [
             "煎",
             "釀",
@@ -78,7 +79,8 @@
                     "菇"
                 ]
             },
-            "Pinyin": "niàng mó gu"
+            "Pinyin": "niàng mó gu",
+            "description": "{釀} is used to describe stuffed vegetables, and {蘑菇} is *mushroom*, so 釀蘑菇 is *stuffed mushroom*."
         },
         "images": [
             {
@@ -86,7 +88,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "In the same manner as stuffed tofu, this mushrooms are stuffed and served with a thick soy sauce.\n\n**Characters**\n\n{釀} is used to describe stuffed vegetables, and {蘑菇} is *mushroom*, so 釀蘑菇 is *stuffed mushroom*.",
+        "description": "In the same manner as stuffed tofu, this mushrooms are stuffed and served with a thick soy sauce.",
         "tags": [
             "菇",
             "釀",
@@ -117,14 +119,15 @@
                     "椒"
                 ]
             },
-            "Pinyin": "niàng qīng jiāo"
+            "Pinyin": "niàng qīng jiāo",
+            "description": "{釀} is used to describe stuffed vegetables, {青椒} is *green pepper* ({青} is *green* or sometimes *blue* or *green-blue*) and {椒} is *pepper*, so 釀青椒 is *stuffed green pepper*."
         },
         "images": [
             {
                 "image": "stuffedbellpeppers"
             }
         ],
-        "description": "In the same manner as stuffed tofu, these bell peppers are stuffed and served with a thick soy sauce.\n\n**Characters**\n\n{釀} is used to describe stuffed vegetables, {青椒} is *green pepper* ({青} is *green* or sometimes *blue* or *green-blue*) and {椒} is *pepper*, so 釀青椒 is *stuffed green pepper*.",
+        "description": "In the same manner as stuffed tofu, these bell peppers are stuffed and served with a thick soy sauce.",
         "tags": [
             "釀",
             "青椒",
