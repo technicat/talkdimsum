@@ -19,7 +19,8 @@
                     "油"
                 ]
             },
-            "Pinyin": "hóng yóu"
+            "Pinyin": "hóng yóu",
+            "description": "{紅}is *red*, and {油} is *oil*, so {紅油} is *red oil*."
         },
         "images": [
             {
@@ -27,7 +28,7 @@
                 "place": "Chengdu Taste, Las Vegas, Nevada"
             }
         ],
-        "description": "Red oil is chili oil (traditionally made from Sichuan peppers), which, naturally, looks red. It's as spicy as it looks.\n\n**Characters**\n\n{紅}is *red*, and {油} is *oil*, so {紅油} is *red oil*.",
+        "description": "Red oil is chili oil (traditionally made from Sichuan peppers), which, naturally, looks red. It's as spicy as it looks.",
         "tags": [
             "辣椒",
             "川菜",
@@ -98,7 +99,8 @@
                 ]
             },
             "Yale": "chìuh jāu laaht jīu yàuh",
-            "Pinyin": "cháo zhōu là jiāo yóu"
+            "Pinyin": "cháo zhōu là jiāo yóu",
+            "description": "{潮州} is [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) (also spelled Teochew or Chiuchow or Chiu Chow), and {辣椒油} is *chili oil*."
         },
         "images": [
             {
@@ -106,7 +108,7 @@
                 "place": "168 Market, Las Vegas, Nevada"
             }
         ],
-        "description": "[Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) style chili oil contains garlic and soy sauce.\n\n**Characters**\n\n{潮州} is [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) (also spelled Teochew or Chiuchow or Chiu Chow), and {辣椒油} is *chili oil*.",
+        "description": "[Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) style chili oil contains garlic and soy sauce.",
         "tags": [
             "辣椒",
             "潮州菜",
