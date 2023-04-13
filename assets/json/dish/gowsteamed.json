@@ -5,7 +5,8 @@
             "Simplified": "饺",
             "English": "dumpling",
             "Yale": "gáau",
-            "Pinyin": "jiǎo"
+            "Pinyin": "jiǎo",
+            "description": "{餃} is descended from {角}, which is *corner* or *horn*, which is also used to name some dumplings (although more often baked or deep-fried instead of steamed or boiled)."
         },
         "images": [
             {
@@ -13,7 +14,7 @@
                 "place": "8 East, Las Vegas, Nevada"
             }
         ],
-        "description": "Chinese dumplings, typically steamed, boiled, or pan-fried.\n\n**Characters**\n\n{餃} is descended from {角}, which is *corner* or *horn*, which is also used to name some dumplings (although more often baked or deep-fried instead of steamed or boiled).",
+        "description": "Chinese dumplings, typically steamed, boiled, or pan-fried.",
         "tags": [
             "餃",
             "點心"
@@ -40,7 +41,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "xiā jiǎo"
+            "Pinyin": "xiā jiǎo",
+            "description": "{蝦} is *shrimp*, and {餃} is *dumpling*, so {蝦餃} is [shrimp dumpling](http://en.wikipedia.org/wiki/Har_gow)."
         },
         "images": [
             {
@@ -48,7 +50,7 @@
                 "place": "Hong Kong Garden, Las Vegas, Nevada"
             }
         ],
-        "description": "Steamed bonnet-shaped [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called *crystal shrimp dumplings*). This dish, along with siu mai, is a hallmark of Cantonese dim sum (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“)\n\n**Pronunciation**\n\nThe name of this dish is typically written in English as *har gow*, but like many English spellings of Chinese pronunciation (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“\n\n**Characters**\n\n{蝦} is *shrimp*, and {餃} is *dumpling*, so {蝦餃} is [shrimp dumpling](http://en.wikipedia.org/wiki/Har_gow).",
+        "description": "Steamed bonnet-shaped [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called *crystal shrimp dumplings*). This dish, along with siu mai, is a hallmark of Cantonese dim sum (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“)\n\n**Pronunciation**\n\nThe name of this dish is typically written in English as *har gow*, but like many English spellings of Chinese pronunciation (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“",
         "tags": [
             "粵菜",
             "蒸",
@@ -175,7 +177,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "bō cài jiǎo"
+            "Pinyin": "bō cài jiǎo",
+            "description": "{菠菜} is *spinach*, and {餃} is *dumpling*"
         },
         "images": [
             {
@@ -183,7 +186,7 @@
                 "place": "Dim Sum Cafe"
             }
         ],
-        "description": "A sticky, translucent wrapper filled with spinach and shrimp.\n\n**Characters**\n\n{菠菜} is *spinach*, and {餃} is *dumpling*",
+        "description": "A sticky, translucent wrapper filled with spinach and shrimp.",
         "tags": [
             "蒸",
             "菠菜",
@@ -223,7 +226,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "dài zi jiǎo"
+            "Pinyin": "dài zi jiǎo",
+            "description": "{帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *scallop dumpling*."
         },
         "images": [
             {
@@ -231,7 +235,7 @@
                 "place": "Dimsumlicious, Las Vegas"
             }
         ],
-        "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with scallops.\n\n**Characters**\n\n{帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *scallop dumpling*.",
+        "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with scallops.",
         "tags": [
             "新菜",
             "餃",
@@ -271,7 +275,8 @@
                     "饺s"
                 ]
             },
-            "Pinyin": "xiā dài zi jiǎo"
+            "Pinyin": "xiā dài zi jiǎo",
+            "description": "{蝦} is *shrimp*, {帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *shrimp scallop dumpling*."
         },
         "images": [
             {
@@ -279,7 +284,7 @@
                 "place": "China Republic, Rancho Cucamonga, California"
             }
         ],
-        "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with both scallops and shrimp.\n\n**Characters**\n\n{蝦} is *shrimp*, {帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *shrimp scallop dumpling*.",
+        "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with both scallops and shrimp.",
         "tags": [
             "蒸",
             "帶子",
@@ -317,7 +322,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "dòu miáo jiǎo"
+            "Pinyin": "dòu miáo jiǎo",
+            "description": "{豆苗} is *pea sprout* ({豆} is *bean*, and {苗} is *shoot* or *sprout*), and {餃} is *dumpling*.\n\nBy the way, {疫苗} (yihk mìuh in Cantonese, yì miáo in Mandarin), literally *plague sprou*, is the word for *vaccine*."
         },
         "images": [
             {
@@ -325,7 +331,7 @@
                 "place": "Ming Tasty, Sunnyvale, California"
             }
         ],
-        "description": "A sticky, translucent wrapper filled with pea shoots.\n\n**Characters**\n\n{豆苗} is *pea sprout* ({豆} is *bean*, and {苗} is *shoot* or *sprout*), and {餃} is *dumpling*.\n\nBy the way, {疫苗} (yihk mìuh in Cantonese, yì miáo in Mandarin), literally *plague sprou*, is the word for *vaccine*.",
+        "description": "A sticky, translucent wrapper filled with pea shoots.",
         "tags": [
             "點心",
             "餃",
@@ -346,7 +352,8 @@
                 ]
             },
             "Yale": "jaahp gū gáau",
-            "Pinyin": "zá gū jiǎo"
+            "Pinyin": "zá gū jiǎo",
+            "description": "{雜} is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 雜菇餃 is *mixed mushroom dumpling*."
         },
         "images": [
             {
@@ -354,7 +361,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "A sticky, translucent wrapper filled with mushroom.\n\n**Characters**\n\n{雜} is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 雜菇餃 is *mixed mushroom dumpling*.",
+        "description": "A sticky, translucent wrapper filled with mushroom.",
         "tags": [
             "餃",
             "菇",
@@ -390,7 +397,8 @@
                     "饺"
                 ]
             },
-            "Pinyin": "bō cài zá gū jiǎo"
+            "Pinyin": "bō cài zá gū jiǎo",
+            "description": "{菠菜} is *spinach*, 雜 is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 菠菜雜菇餃 is *spinach mixed mushroom dumpling*."
         },
         "images": [
             {
@@ -398,7 +406,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "Same as the steamed spinach dumplings, but also with mushrooms.\n\n**Characters**\n\n{菠菜} is *spinach*, 雜 is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 菠菜雜菇餃 is *spinach mixed mushroom dumpling*.",
+        "description": "Same as the steamed spinach dumplings, but also with mushrooms.",
         "tags": [
             "蒸菠菜餃",
             "蒸",
