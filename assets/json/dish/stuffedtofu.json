@@ -23,7 +23,8 @@
           "腐"
         ]
       },
-      "Pinyin": "niàng dòu fu"
+      "Pinyin": "niàng dòu fu",
+      "description": "{釀} is *stuffed*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu)."
     },
     "images": [
       {
@@ -31,7 +32,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "Originating with the Hakka people who migrated to Southern China, these are blocks of tofu that are hollowed out and stuffed, usually with pork, shrimp, or fish, and served with a thick combination of soy sauce and oyster sauce. The tofu can be steamed, pan-fried, or deep-fried.\n\n**Characters**\n\n{釀} is *stuffed*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu).",
+    "description": "Originating with the Hakka people who migrated to Southern China, these are blocks of tofu that are hollowed out and stuffed, usually with pork, shrimp, or fish, and served with a thick combination of soy sauce and oyster sauce. The tofu can be steamed, pan-fried, or deep-fried.",
     "tags": [
       "釀豆腐",
       "豆腐",
@@ -85,7 +86,8 @@
           "腐"
         ]
       },
-      "Pinyin": "zhēng niàng dòu fu"
+      "Pinyin": "zhēng niàng dòu fu",
+      "description": "{蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), and {釀豆腐} is [stuffed tofu](https://en.wikipedia.org/wiki/Yong_tau_foo)."
     },
     "images": [
       {
@@ -93,7 +95,7 @@
         "place": "Hong Kong Garden, Las Vegas, Nevada"
       }
     ],
-    "description": "Steamed puck-shaped slabs of tofu topped with minced shrimp.\n\n**Characters**\n\n{蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), and {釀豆腐} is [stuffed tofu](https://en.wikipedia.org/wiki/Yong_tau_foo).",
+    "description": "Steamed puck-shaped slabs of tofu topped with minced shrimp.",
     "tags": [
       "釀豆腐",
       "豆腐",
@@ -141,14 +143,15 @@
       },
       "English": "stuffed tofu w/ shrimp",
       "Yale": "hā yàn yeuhng dauh fuh",
-      "Pinyin": "xiā rén niàng dòu fu"
+      "Pinyin": "xiā rén niàng dòu fu",
+      "description": "{蝦仁} is shelled shrimp, {釀} is *stuffed*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu)."
     },
     "images": [
       {
         "image": "crispyskintofushrimp"
       }
     ],
-    "description": "Deep-fried tofu stuffed with shrimp.\n\n**Characters**\n\n{蝦仁} is shelled shrimp, {釀} is *stuffed*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu).",
+    "description": "Deep-fried tofu stuffed with shrimp.",
     "tags": [
       "釀豆腐",
       "炸",
@@ -183,7 +186,8 @@
           "腐"
         ]
       },
-      "Pinyin": "yú huá dòu fu"
+      "Pinyin": "yú huá dòu fu",
+      "description": "{魚滑} is [fish paste](https://en.wikipedia.org/wiki/Fish_paste) ({魚} is *fish*, and {滑} is *smooth* or *slippery*), and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 魚滑豆腐 is *fish paste tofu*."
     },
     "images": [
       {
@@ -191,7 +195,7 @@
         "place": "Yum Cha, Las Vegas, Nevada"
       }
     ],
-    "description": "Tofu stuffed with fish paste.\n\n**Characters**\n\n{魚滑} is [fish paste](https://en.wikipedia.org/wiki/Fish_paste) ({魚} is *fish*, and {滑} is *smooth* or *slippery*), and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 魚滑豆腐 is *fish paste tofu*.",
+    "description": "Tofu stuffed with fish paste.",
     "tags": [
       "釀豆腐",
       "豆腐",
