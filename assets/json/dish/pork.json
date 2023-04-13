@@ -27,14 +27,15 @@
           "猪"
         ]
       },
-      "Pinyin": "piàn pí kǎo rǔ zhū"
+      "Pinyin": "piàn pí kǎo rǔ zhū",
+      "description": "{烤乳豬} is *roast suckling pig*."
     },
     "images": [
       {
         "image": "sucklingpig"
       }
     ],
-    "description": "Slices of roast pig, with a melty fatty layer between the crispy (brittle) skin and the tender meat.\n\n**Characters**\n\n{烤乳豬} is *roast suckling pig*.",
+    "description": "Slices of roast pig, with a melty fatty layer between the crispy (brittle) skin and the tender meat.",
     "tags": [
       "點心",
       "豬肉"
@@ -56,14 +57,15 @@
       },
       "Yale": "ńgh chāan yuhk",
       "Jyutping": "ng5 caan1 juk4",
-      "Pinyin": "wǔ cān ròu"
+      "Pinyin": "wǔ cān ròu",
+      "description": "{午餐} is *lunch*, and {肉} is *meat*, so {午餐肉} is *lunch meat*.\n\n{午} is *noon* and {餐} is *meal*, so {午餐} lunch is *noon meal*. Similarly, {早} is *early*, so {早餐} is *early meal*, i.e. breakfast."
     },
     "images": [
       {
         "image": "spamgreenland"
       }
     ],
-    "description": "In Hong Kong, as in places like Hawaii and the Philippines, [Spam](https://en.wikipedia.org/wiki/Spam_(food)) (and its generic knockoffs known in English as *luncheon meat*) became popular after World War II and was integrated into the local cuisine, particularly in [cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng) dishes, such as sandwiches, spam fried rice, spam ramen, macaroni and spam...\n\n**Characters**\n\n{午餐} is *lunch*, and {肉} is *meat*, so {午餐肉} is *lunch meat*.\n\n{午} is *noon* and {餐} is *meal*, so {午餐} lunch is *noon meal*. Similarly, {早} is *early*, so {早餐} is *early meal*, i.e. breakfast.",
+    "description": "In Hong Kong, as in places like Hawaii and the Philippines, [Spam](https://en.wikipedia.org/wiki/Spam_(food)) (and its generic knockoffs known in English as *luncheon meat*) became popular after World War II and was integrated into the local cuisine, particularly in [cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng) dishes, such as sandwiches, spam fried rice, spam ramen, macaroni and spam...",
     "tags": [
       "茶餐廳",
       "午餐肉",
