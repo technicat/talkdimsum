@@ -20,7 +20,8 @@
             "饭"
           ]
         },
-        "Pinyin": "bái fàn"
+        "Pinyin": "bái fàn",
+        "description": "{白} is *white*, and {飯} is *rice* (cooked), so {白飯} is *white rice*.\n\nRice is so intrinsic to Chinese cuisine that {食飯} (sihk faahn), *eat rice*, generally means to have a meal (specifically, a Chinese meal)."
       },
     "images": [
       {
@@ -28,7 +29,7 @@
         "place": "Dim Sum Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "Plain steamed white rice (although, really, it's boiled), usually served in small bowls, or a big bowl from which it is served in small bowls.\n\n**Characters**\n\n{白} is *white*, and {飯} is *rice* (cooked), so {白飯} is *white rice*.\n\nRice is so intrinsic to Chinese cuisine that {食飯} (sihk faahn), *eat rice*, generally means to have a meal (specifically, a Chinese meal).",
+    "description": "Plain steamed white rice (although, really, it's boiled), usually served in small bowls, or a big bowl from which it is served in small bowls.",
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -88,7 +89,8 @@
             "饭"
           ]
         },
-        "Pinyin": "Hǎi nán jī fàn"
+        "Pinyin": "Hǎi nán jī fàn",
+        "description": "{海南} is [Hainan](https://en.wikipedia.org/wiki/Hainan), a southern province in China. {雞} is *chicken*, and {飯} is *rice* (cooked), so 海南雞飯 is *Hainan chicken rice*."
       },
     "images": [
       {
@@ -96,7 +98,7 @@
         "place": "Flock and Fowl, Las Vegas, Nevada"
       }
     ],
-    "description": "Poached chicken combined with rice seasoned from the chicken stock. Originating in Hainan and spread through Asia by Hainanese immigrants, this dish is so popular in Singapore that it's considered a national dish there (when people complain about immigrants, they never complain about the food).\n\n**Characters**\n\n{海南} is [Hainan](https://en.wikipedia.org/wiki/Hainan), a southern province in China. {雞} is *chicken*, and {飯} is *rice* (cooked), so 海南雞飯 is *Hainan chicken rice*.",
+    "description": "Poached chicken combined with rice seasoned from the chicken stock. Originating in Hainan and spread through Asia by Hainanese immigrants, this dish is so popular in Singapore that it's considered a national dish there (when people complain about immigrants, they never complain about the food).",
     "resources": [
       {
         "name": "Angel Wong's Kitchen",
@@ -142,7 +144,8 @@
             "饭"
           ]
         },
-        "Pinyin": "zhà jī fàn"
+        "Pinyin": "zhà jī fàn",
+        "description": "{炸} is *deep-fried*, {雞} is *chicken*, and {飯} is *rice* (cooked), so 蒸 is *fried chicken rice*."
       },
     "images": [
       {
@@ -150,7 +153,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n{炸} is *deep-fried*, {雞} is *chicken*, and {飯} is *rice* (cooked), so 蒸 is *fried chicken rice*.",
+    "description": "Deep-fried pork chop served on white rice.",
     "tags": [
       "茶餐廳",
       "雞",
@@ -184,7 +187,8 @@
             "饭"
           ]
         },
-        "Pinyin": "zhà zhū bā fàn"
+        "Pinyin": "zhà zhū bā fàn",
+        "description": "{炸} is *deep-fried*, {豬扒} is *pork chop*, and {飯} is *rice* (cooked), so 炸豬扒飯 is *deep-fried pork chop rice*."
       },
     "images": [
       {
@@ -192,7 +196,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "description": "Deep-fried pork chop served on white rice.\n\n**Characters**\n\n{炸} is *deep-fried*, {豬扒} is *pork chop*, and {飯} is *rice* (cooked), so 炸豬扒飯 is *deep-fried pork chop rice*.",
+    "description": "Deep-fried pork chop served on white rice.",
     "tags": [
       "茶餐廳",
       "豬扒",
@@ -228,7 +232,8 @@
             "饭"
           ]
         },
-        "Pinyin": "dōng gū zhēng jī fàn"
+        "Pinyin": "dōng gū zhēng jī fàn",
+        "description": "{冬菇} is *winter mushroom* (a high-grade [shiitake](https://en.wikipedia.org/wiki/Shiitake)), {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {雞} is *chicken*, and {飯} is *rice* (cooked), so *mushroom steamed chicken rice*."
       },
     "images": [
       {
@@ -236,7 +241,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "description": "Steamed chicken and mushrooms served on white rice.\n\n**Characters**\n\n{冬菇} is *winter mushroom* (a high-grade [shiitake](https://en.wikipedia.org/wiki/Shiitake)), {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {雞} is *chicken*, and {飯} is *rice* (cooked), so *mushroom steamed chicken rice*.",
+    "description": "Steamed chicken and mushrooms served on white rice.",
     "tags": [
       "冬菇",
       "茶餐廳",
@@ -274,7 +279,8 @@
             "饭"
           ]
         },
-        "Pinyin": "mán yú fàn"
+        "Pinyin": "mán yú fàn",
+        "description": "{鰻魚} is [eel](https://en.wikipedia.org/wiki/Eel) and {飯} is *rice* (cooked), so 鰻魚飯 is *eel rice*."
       },
     "images": [
       {
@@ -282,7 +288,7 @@
         "place": "Big Wong, Las Vegas, Nevada"
       }
     ],
-    "description": "Grilled eel served on white rice.\n\n**Characters**\n\n{鰻魚} is [eel](https://en.wikipedia.org/wiki/Eel) and {飯} is *rice* (cooked), so 鰻魚飯 is *eel rice*.",
+    "description": "Grilled eel served on white rice.",
     "tags": [
       "茶餐廳",
       "鰻魚",
@@ -304,7 +310,8 @@
         "Cantonese": "薑蔥鴨飯",
         "Yale": "gēung chūng aap faahn",
         "Simplified": "姜蔥鸭饭",
-        "Pinyin": "jiāng cōng yā fàn"
+        "Pinyin": "jiāng cōng yā fàn",
+        "description": "{飯} is *rice* (cooked)."
       },
     "images": [
       {
@@ -312,7 +319,7 @@
         "place": "Banana Leaf Cafe, Las Vegas, Nevada"
       }
     ],
-    "description": "**Characters**\n\n{飯} is *rice* (cooked).",
+    "description": "",
     "tags": [
       "蔥",
       "鴨",
@@ -357,7 +364,8 @@
           ]
         },
         "Yale": "jīng dūng choi ngàuh yuhk faahn",
-        "Pinyin": "zhēng dōng cài niú ròu fàn"
+        "Pinyin": "zhēng dōng cài niú ròu fàn",
+        "description": "{飯} is *rice* (cooked)."
       },
     "images": [
       {
@@ -365,7 +373,7 @@
         "place": "Tim Ho Wan, Las Vegas, Nevada"
       }
     ],
-    "description": "\n\n**Characters**\n\n{飯} is *rice* (cooked).",
+    "description": "",
     "tags": [
       "新菜",
       "冬菜",
