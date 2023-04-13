@@ -11,7 +11,8 @@
         ]
       },
       "Yale": "máih jáu",
-      "Pinyin": "mǐ jiǔ"
+      "Pinyin": "mǐ jiǔ",
+      "description": "{米} is (uncooked) *rice*, and {酒} is *liquor*, so {米酒} is *rice liquor*."
     },
     "images": [
       {
@@ -19,7 +20,7 @@
         "place": "Las Vegas, Nevada"
       }
     ],
-    "description": "Wine made from fermented rice.\n\n**Characters**\n\n{米} is (uncooked) *rice*, and {酒} is *liquor*, so {米酒} is *rice liquor*.",
+    "description": "Wine made from fermented rice.",
     "tags": [
       "米酒",
       "酒",
@@ -68,7 +69,8 @@
           "酒"
         ]
       },
-      "Pinyin": "shào xīng jiǔ"
+      "Pinyin": "shào xīng jiǔ",
+      "description": "{紹酒} is short for {紹興酒} where {紹興} is [Shaoxing](https://en.wikipedia.org/wiki/Shaoxing), the city in the Zhejiang province where this wine originated, and {酒} is *liquor*,"
     },
     "images": [
       {
@@ -76,7 +78,7 @@
         "place": "Las Vegas, Nevada"
       }
     ],
-    "description": "Shaoxing wine is one of the best known traditional Chinese rice wines, dating back over two thousand years, and is widely used as a cooking wine.\n\n**Characters**\n\n{紹酒} is short for {紹興酒} where {紹興} is [Shaoxing](https://en.wikipedia.org/wiki/Shaoxing), the city in the Zhejiang province where this wine originated, and {酒} is *liquor*,",
+    "description": "Shaoxing wine is one of the best known traditional Chinese rice wines, dating back over two thousand years, and is widely used as a cooking wine.",
     "tags": [
       "浙菜",
       "米酒",
