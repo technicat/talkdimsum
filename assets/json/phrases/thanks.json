@@ -10,7 +10,7 @@
                     "Yale": "m̀h gòi",
                     "Mandarin": "謝謝",
                     "Pinyin": "Xièxiè",
-                    "description": "{唔} is *no* and {該} is *should*, so {唔該} is *not should* or basically *no need*."
+                    "description": "In Cantonese, {唔} is *no* and {該} is *should*, so {唔該} is *not should* or basically *no need*.\n\nIn Mandarin, {謝} is *thank*, so {謝謝} is *thank thank* or *thanks*."
                 },
                 {
                     "Cantonese": "多謝",
@@ -18,7 +18,7 @@
                     "English": "Thanks a lot",
                     "Yale": "dò jeh",
                     "Pinyin": "duō xiè",
-                    "description": "{多} is *many* or *much*, and {謝} is *thanks*, so {多謝} is *many thanks*, or *thank you very much*."
+                    "description": "{多} is *many* or *much*, and {謝} is *thank* (same as in the Mandarin {謝謝} for *thanks*), so {多謝} is *many thanks*, or *thank you very much*."
                 }
             ]
         },
@@ -32,7 +32,7 @@
                     "English": "You're welcome",
                     "Yale": "mh sái haak hei",
                     "Pinyin": "bù kèqì",
-                    "description": "{唔使} is *no need*, and {客氣} is *courtesy*, so {唔使客氣} is *no need for the courtesy*."
+                    "description": "In Cantonese, {唔使} is *no need*, and {客氣} is *courtesy*, so {唔使客氣} is *no need for the courtesy*.\n\n{不} is *not* or *no*, so {不客氣} is similarly *no need for the courtesy*."
                 }
             ]
         }
