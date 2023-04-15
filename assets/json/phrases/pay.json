@@ -8,8 +8,8 @@
                     "Cantonese": "埋單",
                     "Simplified": "埋单",
                     "English": "(I'm ready for the) check",
-                    "Yale": "Màaih dāan",
-                    "Pinyin": "Mái dān"
+                    "Yale": "màaih dāan",
+                    "Pinyin": "mái dān"
                 },
                 {
                     "Cantonese": "唔該埋單",
@@ -35,15 +35,16 @@
                     "Mandarin": "你接受信用卡嗎",
                     "Simplified": "你接受信用卡吗",
                     "English": "Do you take credit cards?",
-                    "Yale": "Néih deih sāu-m̀h-sāu sun-yoong-caht gah",
-                    "Pinyin": "Nǐ jiēshòu xìnyòngkǎ ma"
+                    "Yale": "néih deih sāu-m̀h-sāu sun-yoong-caht gah",
+                    "Pinyin": "nǐ jiēshòu xìnyòngkǎ ma"
                 },
                 {
                     "Cantonese": "唔使找",
                     "Mandarin": "不用找",
                     "English": "Keep the change",
-                    "Yale": "mMh sái jáau",
-                    "Pinyin": "Bù yòng zhǎo"
+                    "Yale": "mh sái jáau",
+                    "Pinyin": "bù yòng zhǎo",
+                    "description": "{唔使} is *no need*."
                 }
             ]
         }
