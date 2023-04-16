@@ -6,17 +6,20 @@
             "words": [
                 {
                     "Cantonese": "埋單",
-                    "Simplified": "埋单",
+                    "Mandarin": "買單",
+                    "Simplified": "买单",
                     "English": "(I'm ready for the) check",
                     "Yale": "màaih dāan",
-                    "Pinyin": "mái dān"
+                    "Pinyin": "mǎi dān",
+                    "description": "In Cantonese, {埋} is *bury* or *conceal*, and {單} is *bill*, so {埋單} is *bury the bill*. The Mandarin word uses a different first character to mimic the Cantonese pronunciation, but {買} is *buy*, so {買單} is *buy the bill*, so that makes sense, too."
                 },
                 {
                     "Cantonese": "唔該埋單",
                     "Simplified": "請埋单",
                     "English": "Check, please!",
                     "Yale": "mh'gōi màaih dāan",
-                    "Pinyin": "qǐng mái dān"
+                    "Pinyin": "qǐng mái dān",
+                    "description": "In Cantonese, {唔該} is *thanks* but also *please* or *excuse me*, and {埋單} is *ready for the check*, so 唔該埋單 is *excuse me, I'm ready for the check*. In Mandarin, {請} is *please*, and {埋单} is *ready for the check*, so similarly 請埋单 is *please, I'm ready for the check*."
                 },
                 {
                     "Cantonese": "我请你",
