@@ -5,10 +5,31 @@
             "name": "a",
             "words": [
                 {
-                    "Cantonese": "埋單",
-                    "Mandarin": "買單",
-                    "Simplified": "买单",
                     "English": "(I'm ready for the) check",
+                    "Cantonese": {
+                        "text": "埋單",
+                        "wkty": [
+                            "埋單",
+                            "埋",
+                            "單"
+                        ]
+                    },
+                    "Mandarin":  {
+                        "text": "買單",
+                        "wkty": [
+                            "買單",
+                            "買",
+                            "單"
+                        ]
+                    },
+                    "Simplified":  {
+                        "text": "买单",
+                        "wkty": [
+                            "买单",
+                            "买",
+                            "单"
+                        ]
+                    },
                     "Yale": "màaih dāan",
                     "Pinyin": "mǎi dān",
                     "description": "In Cantonese, {埋} is *bury* or *conceal*, and {單} is *bill*, so {埋單} is *bury the bill*. The Mandarin word uses a different first character to mimic the Cantonese pronunciation, but {買} is *buy*, so {買單} is *buy the bill*, so that makes sense, too."
