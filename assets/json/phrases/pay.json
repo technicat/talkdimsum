@@ -50,7 +50,13 @@
                     "description": "{我} is *I*, {请} is *invite* or *treat*, and {你} is *you*, so 我请你 is *I treat you*."
                 },
                 {
-                    "Cantonese": "AA制",
+                    "Cantonese": {
+                        "text": "AA制",
+                        "wkty": [
+                            "AA制",
+                            "制"
+                        ]
+                    },
                     "English": "Let's split the bill",
                     "Yale": "AA jai",
                     "Pinyin": "AA zhì",
