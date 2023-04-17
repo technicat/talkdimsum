@@ -71,8 +71,24 @@
                     "Pinyin": "nǐ jiēshòu xìnyòngkǎ ma"
                 },
                 {
-                    "Cantonese": "唔使找",
-                    "Mandarin": "不用找",
+                    "Cantonese": {
+                        "text": "唔使找",
+                        "wkty": [
+                            "唔使",
+                            "唔",
+                            "使",
+                            "找"
+                        ]
+                    },
+                    "Mandarin": {
+                        "text": "不用找",
+                        "wkty": [
+                            "不用",
+                            "不",
+                            "用",
+                            "找"
+                        ]
+                    },
                     "English": "Keep the change",
                     "Yale": "mh sái jáau",
                     "Pinyin": "bù yòng zhǎo",
