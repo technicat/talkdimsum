@@ -5,18 +5,46 @@
             "name": "a",
             "words": [
                 {
-                    "Cantonese": "唔該",
                     "English": "Thanks",
+                    "Cantonese": {
+                        "text": "唔該",
+                        "wkty": [
+                            "唔該",
+                            "唔",
+                            "該"
+                        ]
+                    },
                     "Yale": "m̀h gòi",
-                    "Mandarin": "謝謝",
+                    "Mandarin": {
+                        "text": "謝謝",
+                        "wkty": [
+                            "謝謝",
+                            "謝",
+                            "謝"
+                        ]
+                    },
                     "Pinyin": "Xièxiè",
                     "description": "In Cantonese, {唔} is *no* and {該} is *should*, so {唔該} is *not should* or basically *no need*.\n\nIn Mandarin, {謝} is *thank*, so {謝謝} is *thank thank* or *thanks*."
                 },
                 {
-                    "Cantonese": "多謝",
-                    "Simplified": "多谢",
                     "English": "Thanks a lot",
+                    "Cantonese": {
+                        "text": "多謝",
+                        "wkty": [
+                            "多謝",
+                            "多",
+                            "謝"
+                        ]
+                    },
                     "Yale": "dò jeh",
+                    "Simplified": {
+                        "text": "多谢",
+                        "wkty": [
+                            "多谢",
+                            "多",
+                            "谢"
+                        ]
+                    },
                     "Pinyin": "duō xiè",
                     "description": "{多} is *many* or *much*, and {謝} is *thank* (same as in the Mandarin {謝謝} for *thanks*), so {多謝} is *many thanks*, or *thank you very much*."
                 }
@@ -26,11 +54,31 @@
             "name": "b",
             "words": [
                 {
-                    "Cantonese": "唔使客氣",
-                    "Mandarin": "不客氣",
-                    "Simplified": "不客气",
                     "English": "You're welcome",
+                    "Cantonese": {
+                        "text": "唔使客氣",
+                        "wkty": [
+                            "唔使客氣",
+                            "唔使",
+                            "唔",
+                            "使",
+                            "客氣",
+                            "客",
+                            "氣"
+                        ]
+                    },
                     "Yale": "mh sái haak hei",
+                    "Mandarin": {
+                        "text": "不客氣",
+                        "wkty": [
+                            "不客氣",
+                            "不客",
+                            "不",
+                            "客",
+                            "氣"
+                        ]
+                    },
+                    "Simplified": "不客气",
                     "Pinyin": "bù kèqì",
                     "description": "In Cantonese, {唔使} is *no need*, and {客氣} is *courtesy*, so {唔使客氣} is *no need for the courtesy*.\n\n{不} is *not* or *no*, so {不客氣} is similarly *no need for the courtesy*."
                 }
