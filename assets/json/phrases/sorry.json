@@ -5,10 +5,28 @@
             "name": "a",
             "words": [
                 {
-                    "Cantonese": "對唔住",
                     "English": "I'm sorry",
+                    "Cantonese": {
+                        "text": "對唔住",
+                        "wkty": [
+                            "對唔住",
+                            "對",
+                            "唔住",
+                            "唔",
+                            "住"
+                        ]
+                    },
                     "Yale": "deui m̀h jyuh",
-                    "Mandarin": "對不起",
+                    "Mandarin": {
+                        "text": "對不起",
+                        "wkty": [
+                            "對不起",
+                            "對",
+                            "不起",
+                            "不",
+                            "起"
+                        ]
+                    },
                     "Pinyin": "duì bù qǐ",
                     "description":"In Cantonese, {對} is *correct*, and {唔住} is *cannot*, so {對唔住} is loosely *cannot correct*. In Mandarin, also starts with {對} but ends with {不起} which also means *cannot*, and {對不起}is loosely *cannot correct*."
                 },
