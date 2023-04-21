@@ -492,6 +492,19 @@
             "address": "207 Bowery New York, NY 10002"
         },
         {
+            "title": "Dim Sum Garden",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-garden-new-york"
+                }
+            ],
+            "lat": 40.74998409950736,
+            "lon": -73.97751747476076,
+            "city": "New York",
+            "address": "338 Lexington Ave, New York, NY 10016"
+        },
+        {
             "title": "Dim Sum Go Go",
             "links": [
                 {
