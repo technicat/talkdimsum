@@ -211,6 +211,23 @@
             "address": "36-36 Prince Street Flushing, NY 11354"
         },
         {
+            "title": "Dim Sum Garden",
+            "links": [
+                {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/new-york/reviews/dim-sum-garden-nyc"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-garden-%E7%A8%BB%E9%A6%99%E9%BB%9E%E5%BF%83%E5%9D%8A-flushing-2"
+                }
+            ],
+            "lat": 40.758738379173245,
+            "lon":  -73.83128290359626,
+            "city": "Flushing",
+            "address": "13505 40th Rd, Flushing, NY 11354"
+        },
+        {
             "title": "Dim Sum Garden Express",
             "links": [
                 {
@@ -494,6 +511,10 @@
         {
             "title": "Dim Sum Garden",
             "links": [
+                {
+                    "name": "I Just Want to Eat",
+                    "URL": "https://www.ijustwanttoeat.com/post/restaurant-review/chinese-dim-sum-garden-nyc-new-york"
+                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dimsum-garden-new-york"
