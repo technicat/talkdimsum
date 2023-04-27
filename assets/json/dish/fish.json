@@ -25,16 +25,19 @@
     ],
     "description": "Deep-fried fish filet.",
     "tags": [
-      "多春魚",
+      "新菜",
       "海鮮",
       "魚",
-      "炸",
-      "點心"
+      "炸"
     ],
     "resources": [
       {
-        "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Smelt_(fish)"
+        "name": "Chinese Food Recipes",
+        "URL": "http://www.chinesefoodrecipes.org/chinese-fish-recipes/deep-fried-fish-fillets/"
+      },
+      {
+        "name": "Miss Chinese Food",
+        "URL": "https://misschinesefood.com/deep-fried-dragon-fish-fillet/"
       }
     ]
   },
