@@ -1,6 +1,45 @@
 [
   {
     "word": {
+      "English": "fried fish filet",
+      "Cantonese": {
+        "text": "炸魚扒",
+        "wkty": [
+          "炸",
+          "多春魚",
+          "多",
+          "春",
+          "魚"
+        ]
+      },
+      "Simplified": "炸鱼扒",
+      "Yale": "ja yú pàh",
+      "Pinyin": "zhà yú bā",
+      "description": "{炸} is *deep-fried*, {魚} is *fish*, and {扒} is the same word used in {豬扒} *pork chop*, so 炸魚扒 is *deep-fried fish chop*,"
+    },
+    "images": [
+      {
+        "image": "friedfishfilet",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Deep-fried fish filet.",
+    "tags": [
+      "多春魚",
+      "海鮮",
+      "魚",
+      "炸",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Smelt_(fish)"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "fried smelt",
       "Cantonese": {
         "text": "炸多春魚",
