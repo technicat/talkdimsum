@@ -1,6 +1,6 @@
 These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com), both the Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the [Flutter version](https://github.com/technicat/dartdimsum) (copy.scm is a Gauche script that copies these files to my local copies of those repos). The Flutter code is not currently maintained, so it would need to be updated to load the latest data.
 
-This repo also servers as the Issues database for the app and download site for the mot recent Flutter builds.
+This repo also serves as the Issues database for the app and download site for the most recent Flutter builds.
 
 ## Items
 
@@ -28,7 +28,7 @@ The images are landscape but not consistent in aspect. They are scaled down to a
 
 All the restaurant links and data are found manually on the Internet, and I add them if it looks like they're still operating and serve Cantonese-style dim sum, at the very least ha gow and siu mai (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and PF Chang's, which does list dim sum on their menu but it's just spring rolls and potstickers).
 
-The list was originally just in the US (actually, just Las Vegas), but someone from Canada complained (the reputation of Canadians for politeness is really exaggerated), so I started trying to get all countries in, but now I'm thinking I'll reduce the workload by ignoring countries that I'm excluding on the App Store based on reasons such as [genocidal practices](https://www.genocidewatch.com/countries-at-risk) (I didn't really want to try entering every dim sum eatery in China, anyway) and [outlawing homosexuality](https://www.bbc.com/news/world-43822234).
+I started out listing restaurants just in my city, then other states, then all over the world (excluding some for reasons such as [genocidal practices](https://www.genocidewatch.com/countries-at-risk) and [outlawing homosexuality](https://www.bbc.com/news/world-43822234)), but that's just not feasible )especially in Asia), and I got tired of low ratings and reviews complaining I didn't include their city (especially in Europe), so it's back to just the US now.
 
 For the restaurant links, the restaurant's own website is listed first if available, but no Facebook (because, Facebook), and other links are listed aphabetically by site name. I try to avoid any food ordering sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, not so much in Europe, and OpenRice is better in Asia) and typically has enough photos so I can tell if it's real dim sum, Travelocity is omitted because it hangs my link checker.
 
