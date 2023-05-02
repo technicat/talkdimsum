@@ -1,6 +1,40 @@
 [
   {
     "word": {
+      "Cantonese": {
+        "text": "蔗汁",
+        "wkty": [
+          "蔗汁",
+          "蔗",
+          "汁"
+        ]
+      },
+      "English": "sugarcane juice",
+      "Yale": "je jāp",
+      "Pinyin": "zhè zhī",
+      "description": "{蔗} is [sugarcane](https://en.wikipedia.org/wiki/Sugarcane), and {汁} is *juice*, so {蔗汁} is [sugarcane juice](https://en.wikipedia.org/wiki/Sugarcane_juice)."
+    },
+    "images": [
+      {
+        "image": "dragonfruitsugarcanejuicesugarmama",
+        "place": "Sugar Mama, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Sugarcane juice](https://en.wikipedia.org/wiki/Sugarcane_juice) is a (very sugary) liquid made from pressed [sugarcane](https://en.wikipedia.org/wiki/Sugarcane).",
+    "tags": [
+      "蔗",
+      "汁",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Sugarcane_juice"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "cider",
       "Cantonese": {
         "text": "西打",

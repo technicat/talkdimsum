@@ -1,9 +1,7 @@
 [
     {
         "English": "sugar",
-        "Cantonese": {
-            "text": "糖"
-        },
+        "Cantonese": "糖",
         "Yale": "tòhng",
         "Pinyin": "táng"
     },
@@ -45,5 +43,11 @@
         },
         "Yale": "hāk tòhng",
         "Pinyin": "hēi táng"
+    },
+    {
+        "Cantonese": "蔗",
+        "English": "sugarcane",
+        "Yale": "je",
+        "Pinyin": "zhè"
     }
 ]
