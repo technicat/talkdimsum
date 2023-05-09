@@ -1,6 +1,32 @@
 [
   {
     "word": {
+      "English": "orange",
+      "Cantonese": "橙",
+      "Yale": "cháang",
+      "Jyutping": "caang2",
+      "Pinyin": "chéng",
+      "description": "As in English, {橙} denotes both the [fruit](https://en.wikipedia.org/wiki/Orange_(fruit)) and the [color](https://en.wikipedia.org/wiki/Orange_(colour)."
+    },
+    "images": [
+      {
+        "image": "orangeswendys",
+        "place": "Wendy's Noodle Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "As in English, {橙} denotes both the [fruit](https://en.wikipedia.org/wiki/Orange_(fruit)) and the [color](https://en.wikipedia.org/wiki/Orange_(colour).",
+    "tags": [
+      "橙"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Orange_(fruit)"
+      }
+    ]
+  },
+  {
+    "word": {
       "Cantonese": {
         "text": "蔗汁",
         "wkty": [
