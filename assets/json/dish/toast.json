@@ -1,0 +1,107 @@
+[
+    {
+        "word": {
+            "English": "Hong Kong-style French toast",
+            "Cantonese": {
+                "text": "港式西多士",
+                "wkty": [
+                    "港式",
+                    "港",
+                    "式",
+                    "西多士",
+                    "西",
+                    "多士",
+                    "多",
+                    "士"
+                ]
+            },
+            "Yale": "góng sīk sāi dō sih",
+            "Pinyin": "gǎng shì xī duō shì",
+            "description": "{港式} is *Hong Kong-style* ({港} the second character of Hong Kong, and {式} is style, so it's *Kong-style*). {西} is West or Western, and {多士} is *toast* (the Cantonese *dō sih* sounds like toast), so French toast is referred to as *Western toast* (which is a better name, as French toast dates back to the Roman Empire)."
+        },
+        "images": [
+            {
+                "image": "pbfrenchtoastsweetheart",
+                "place": "Sweet Heart Dessert, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Hong Kong-style [French toast](https://en.wikipedia.org/wiki/French_toast) is a heart-attack inducing combination made from thick-sliced white bread deep-fried in egg batter, topped with some combination of butter, condensed milk, jam or syrup and typically presented in sandwich form with peanut butter or other filling.",
+        "tags": [
+            "早餐",
+            "港式",
+            "西多士",
+            "多士",
+            "茶餐廳"
+        ],
+        "resources": [
+            {
+                "name": "Chinese-American Family",
+                "URL": "https://www.chineseamericanfamily.com/how-to-make-hong-kong-style-french-toast/"
+            },
+            {
+                "name": "Cook with Dana",
+                "URL": "https://cookwithdana.com/hong-kong-french-toast/"
+            },
+            {
+                "name": "Honest Cooking",
+                "URL": "https://honestcooking.com/hong-kong-style-french-toast/"
+            },
+            {
+                "name": "Hong Kong University",
+                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/4"
+            },
+            {
+                "name": "Steven's Kitchen",
+                "URL": "https://steves-kitchen.com/hong-kong-style-french-toast/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/French_toast#Hong_Kong"
+            },
+            {
+                "name": "Vicky Tales",
+                "URL": "https://vickytales.com/hong-kong-style-french-toast/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "honey toast",
+            "Cantonese": {
+                "text": "蜂蜜多士",
+                "wkty": [
+                    "蜂蜜",
+                    "蜂",
+                    "蜜",
+                    "多士",
+                    "多",
+                    "士"
+                ]
+            },
+            "Yale": "fūng maht dō sih",
+            "Pinyin": "fēng mì duō shì",
+            "description": "{蜂蜜} is *honey* (actually *bee honey*), and {多士} is *toast* (the Cantonese *dō sih* sounds like toast), so 蜂蜜多士 is *honey toast*."
+        },
+        "images": [
+            {
+                "image": "honeytoastlapastte",
+                "place": "La Postte, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Honey toast](https://en.wikipedia.org/wiki/Honey_toast) (originally from Japan where it is known as *Shibuya toast*, *Shibuya honey toast*, or just *brick toast*), is a thick toast cut into cubes, coated with butter and honey, and filled/topped with goodies such as fruit, peanut butter, chocolate, whipped cream, or ice cream.",
+        "tags": [
+            "蜜",
+            "多士"
+        ],
+        "resources": [
+            {
+                "name": "Shokudo Japanese",
+                "URL": "https://shokudojapanese.com/honey-toast/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Honey_toast"
+            }
+        ]
+    }
+]
