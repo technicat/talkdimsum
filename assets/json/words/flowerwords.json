@@ -1,5 +1,18 @@
 [
     {
+        "English": "jasmine",
+        "Cantonese": {
+            "text": "茉莉",
+            "wkty": [
+                "茉莉",
+                "茉",
+                "莉"
+            ]
+        },
+        "Yale": "muht léi",
+        "Pinyin": "mò liá"
+    },
+    {
         "English": "minced garlic",
         "Cantonese": {
             "text": "蒜蓉",
@@ -66,6 +79,32 @@
         "English": "dragon",
         "Yale": "lùhng",
         "Pinyin": "lóng"
+    },
+    {
+        "Cantonese": "菊",
+        "English": "chrysanthemum",
+        "Yale": "gūk",
+        "Pinyin": "jú"
+    },
+    {
+        "English": "flower",
+        "Cantonese": "花",
+        "Yale": "fā",
+        "Pinyin": "huā"
+    },
+    {
+        "English": "osmanthus",
+        "Cantonese": {
+            "text": "桂花",
+            "wkty": [
+                "桂花",
+                "桂",
+                "花"
+            ]
+        },
+        "Yale": "gwai fā",
+        "Pinyin": "guì huā",
+        "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {茶} is *tea*."
     },
     {
         "English": "bread",

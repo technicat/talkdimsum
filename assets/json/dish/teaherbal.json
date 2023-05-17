@@ -275,5 +275,46 @@
                 "URL": "https://travelbranyik.com/how-to-make-chinese-eight-treasures-tea-at-home-%E5%85%AB%E5%AE%9D%E8%8C%B6-ba-bao-cha/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "osmanthus tea",
+            "Cantonese": {
+                "text": "桂花茶",
+                "wkty": [
+                    "桂花",
+                    "桂",
+                    "花",
+                    "茶"  
+                ]
+            },
+            "Yale": "gwai fā chàh",
+            "Pinyin": "guì huā chá",
+            "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {茶} is *tea*."
+        },
+        "images": [
+            {
+                "image": "osmanthustealapostte",
+                "place": "La Postte, Las Vegas, Nevada"
+            }
+        ],
+        "description": "An herbal tea brewed with dried [osmanthus] flower.",
+        "tags": [
+            "桂花",
+            "花",
+            "茶",
+            "飲品",
+            "熱飲"
+        ],
+        "resources": [
+            {
+                "name": "Simple Loose Leaf",
+                "URL": "https://simplelooseleaf.com/blog/herbal-tea/osmanthus-tea/"
+            },
+            {
+                "name": "Tested Teas",
+                "URL": "https://testedteas.com/what-is-osmanthus-tea/"
+            }
+        ]
     }
 ]
