@@ -13,74 +13,6 @@
         "Pinyin": "mò liá"
     },
     {
-        "English": "minced garlic",
-        "Cantonese": {
-            "text": "蒜蓉",
-            "wkty": [
-                "蒜蓉",
-                "蒜",
-                "蓉"
-            ]
-        },
-        "Yale": "syun yùhng",
-        "Jyutping": "syun3 jung4",
-        "Pinyin": "suàn róng"
-    },
-    {
-        "English": "dumpling",
-        "Cantonese": "餃",
-        "Simplified": "饺",
-        "Yale": "gáau",
-        "Pinyin": "jiǎo"
-    },
-    {
-        "English": "boiled dumpling",
-        "Cantonese": {
-            "text": "水餃",
-            "wkty": [
-                "水餃",
-                "水",
-                "餃"
-            ]
-        },
-        "Simplified": {
-            "text": "水饺",
-            "wkty": [
-                "水饺",
-                "水",
-                "饺"
-            ]
-        },
-        "Yale": "séui gáau",
-        "Pinyin": "shuǐ jiǎo"
-    },
-    {
-        "Cantonese": "角",
-        "English": "horn-shaped",
-        "Yale": "gok",
-        "Pinyin": "jiǎo"
-    },
-    {
-        "Cantonese": "卷",
-        "English": "roll",
-        "Yale": "gyún",
-        "Pinyin": "juǎn"
-    },
-    {
-        "Cantonese": "麵",
-        "Simplified": "面",
-        "English": "noodles",
-        "Yale": "mihn",
-        "Pinyin": "miàn"
-    },
-    {
-        "Cantonese": "龍",
-        "Simplified": "龙",
-        "English": "dragon",
-        "Yale": "lùhng",
-        "Pinyin": "lóng"
-    },
-    {
         "Cantonese": "菊",
         "English": "chrysanthemum",
         "Yale": "gūk",
@@ -105,32 +37,5 @@
         "Yale": "gwai fā",
         "Pinyin": "guì huā",
         "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {茶} is *tea*."
-    },
-    {
-        "English": "bread",
-        "Cantonese": {
-            "text": "麵包",
-            "wkty": [
-                "麵包",
-                "麵",
-                "包"
-            ]
-        },
-        "Yale": "mihn bāau",
-        "Pinyin": "miàn bāo"
-    },
-    {
-        "English": "salad",
-        "Cantonese": {
-            "text": "沙律",
-            "wkty": [
-                "沙律",
-                "沙",
-                "律"
-            ]
-        },
-        "Mandarin": "沙拉",
-        "Yale": "sà léut",
-        "Pinyin": "shā lā"
     }
 ]
