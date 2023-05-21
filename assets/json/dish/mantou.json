@@ -78,6 +78,67 @@
   },
   {
     "word": {
+      "English": "fried mantou",
+      "Cantonese": {
+        "text": "炸饅頭",
+        "wkty": [
+          "炸",
+          "饅頭",
+          "饅",
+          "頭"
+        ]
+      },
+      "Yale": "ja màahn tàuh",
+      "Simplified": {
+        "text": "炸馒头",
+        "wkty": [
+          "炸",
+          "馒头",
+          "馒",
+          "头"
+        ]
+      },
+      "Pinyin": "zhà mán tou",
+      "description": "{炸} is *deep-fried*, and {饅頭} is [mantou](http://en.wikipedia.org/wiki/Mantou), so 炸饅頭 is *deep-fried mantou*."
+    },
+    "images": [
+      {
+        "image": "friedmantoudongtingchun"
+      }
+    ],
+    "description": "Deep-fried [mantou](http://en.wikipedia.org/wiki/Mantou), often listed as *golden mantou* or *deep-fried bun*, are typically served with condensed milk as a dip or glaze, much like a cinnamon bun.",
+    "tags": [
+      "新菜",
+      "饅頭",
+      "蒸",
+      "素",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "Ash Baber",
+        "URL": "https://ashbaber.com/fried-mantou-with-condensed-milk/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/fried-mantou-with-condensed-milk/"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/chinese-dessert-fried-mantou/"
+      },
+      {
+        "name": "Food Panda",
+        "URL": "https://magazine.foodpanda.my/dish-of-the-day-deep-fried-chinese-bun/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Mantou"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "abalone and chicken in mantou cup",
       "Cantonese": {
         "text": "鮑魚滑雞窩",
