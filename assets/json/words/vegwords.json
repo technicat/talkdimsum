@@ -13,11 +13,17 @@
         "Pinyin": "xī lán huā"
     },
     {
-        "English": "scallion",
-        "Cantonese": "蔥",
-        "Yale": "chūng",
-        "Simplified": "葱",
-        "Pinyin": "cōng"
+        "English": "eggplant",
+        "Cantonese": {
+            "text": "茄子",
+            "wkty": [
+                "茄子",
+                "茄",
+                "子"
+            ]
+        },
+        "Yale": "ké jí",
+        "Pinyin": "qié zi"
     },
     {
         "English": "onion",
@@ -41,17 +47,11 @@
         "Pinyin": "yáng cōng"
     },
     {
-        "English": "eggplant",
-        "Cantonese": {
-            "text": "茄子",
-            "wkty": [
-                "茄子",
-                "茄",
-                "子"
-            ]
-        },
-        "Yale": "ké jí",
-        "Pinyin": "qié zi"
+        "English": "scallion",
+        "Cantonese": "蔥",
+        "Yale": "chūng",
+        "Simplified": "葱",
+        "Pinyin": "cōng"
     },
     {
         "English": "sesame seed",
