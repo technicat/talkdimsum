@@ -123,56 +123,27 @@
   },
   {
     "word": {
-      "Cantonese": "水",
-      "English": "water",
-      "Yale": "séui",
-      "Pinyin": "shuǐ",
-      "description": "The glyph origins of {水} resemble a flowing stream. {氵} is the left radical form of this character, so if you see a character with that on the left, chances are it has something to do with water or liquid, e.g. {酒} *liquor*, {油} *oil* (the edible kind) or *sauce*, {海} *ocean*, and {清} *soup*.\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a glass of water, ask for 一杯水 (yāt būi séui in Cantonese, yī bēi shuǐ in Mandarin), *one cup of water*."
+      "English": "slushie",
+      "Cantonese": "冰沙",
+      "Yale": "bīng sā",
+      "Pinyin": "bīng shā",
+      "description": "{冰} is *ice* and {沙} is *sand* (same word as used in *lava custard*), so 冰沙 is *ice sand*."
     },
     "images": [
       {
-        "image": "watersweethoneydessert",
-        "place": "Sweet Honey Dessert, Las Vegas, Nevada"
+        "image": "slushieteawayplus",
+        "place": "Tea Way Plus, Las Vegas, Nevada"
       }
     ],
     "description": "",
     "tags": [
-      "水",
       "飲品"
     ],
     "resources": [
       {
         "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Water"
+        "URL": "https://en.wikipedia.org/wiki/Slushys"
       }
     ]
-  },
-  {
-    "word": {
-      "Cantonese": {
-        "text": "冰水",
-        "wkty": [
-          "冰水",
-          "冰",
-          "水"
-        ]
-      },
-      "English": "ice water",
-      "Yale": "bīng séui",
-      "Pinyin": "bīng shuǐ",
-      "description": "{冰} is *ice*, and {水} is *water*, so {冰水} is *ice water*.\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a glass of ice water, ask for 一杯冰水 (yāt būi bīng séui in Cantonese, yī bēi bīng shuǐ in Mandarin), *one cup of ice water*."
-    },
-    "images": [
-      {
-        "image": "waterislandmalaysian",
-        "place": "Island Malaysian, Las Vegas, Nevada"
-      }
-    ],
-    "description": "",
-    "tags": [
-      "飲品",
-      "水"
-    ],
-    "resources": []
   }
 ]

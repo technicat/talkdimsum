@@ -24,5 +24,33 @@
         "URL": "https://en.wikipedia.org/wiki/Water"
       }
     ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "冰水",
+        "wkty": [
+          "冰水",
+          "冰",
+          "水"
+        ]
+      },
+      "English": "ice water",
+      "Yale": "bīng séui",
+      "Pinyin": "bīng shuǐ",
+      "description": "{冰} is *ice*, and {水} is *water*, so {冰水} is *ice water*.\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a glass of ice water, ask for 一杯冰水 (yāt būi bīng séui in Cantonese, yī bēi bīng shuǐ in Mandarin), *one cup of ice water*."
+    },
+    "images": [
+      {
+        "image": "waterislandmalaysian",
+        "place": "Island Malaysian, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "飲品",
+      "水"
+    ],
+    "resources": []
   }
 ]
