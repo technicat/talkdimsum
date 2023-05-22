@@ -1,6 +1,51 @@
 [
     {
         "word": {
+            "English": "latiao",
+            "Cantonese": {
+                "text": "辣條",
+                "wkty": [
+                    "辣條",
+                    "辣",
+                    "條"
+                ]
+            },
+            "Yale": "laaht tíu",
+            "Simplified": {
+                "text": "辣条",
+                "wkty": [
+                    "辣条",
+                    "辣",
+                    "条"
+                ]
+            },
+            "Pinyin": "là tiáo",
+            "description": "{辣} is *spicy*, and {條} is *strip* (like bacon strip), so {辣條} is *spicy strip*.\n\n{條} is also the classifier for long thin items, so one strip of latiao is 一條辣條."
+        },
+        "images": [
+            {
+                "image": "latiao",
+                "place": "Las Vegas"
+            }
+        ],
+        "description": "[Latiao](https://en.wikipedia.org/wiki/Latiao), the Mandarin pronunciation, are a popular snack originating from the Hunan provice, consiting of small spicy strips of fried gluten.",
+        "tags": [
+            "辣",
+            "條"
+        ],
+        "resources": [
+            {
+                "name": "Chinosity",
+                "URL": "https://www.chinosity.com/2020/03/27/a-beginners-guide-to-chinese-snacks/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Latiao"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "fried dough",
             "Cantonese": {
                 "text": "油炸鬼",
