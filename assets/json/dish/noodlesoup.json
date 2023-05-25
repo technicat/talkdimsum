@@ -99,36 +99,34 @@
     },
     {
         "word": {
-            "English": "red-braised beef noodles soup",
+            "English": "red-braised brisket noodle soup",
             "Cantonese": {
-                "text": "紅燒牛肉麵",
+                "text": "紅燒牛腩麵",
                 "wkty": [
                     "紅燒",
                     "紅",
                     "燒",
-                    "牛肉麵",
-                    "牛肉",
+                    "牛腩",
                     "牛",
-                    "肉",
+                    "腩",
                     "麵"
                 ]
             },
-            "Yale": "hùhng sīu ngàuh yuhk mihn",
+            "Yale": "hùhng sīu ngàuh náahm mihn",
             "Simplified": {
                 "text": "红烧牛腩面",
                 "wkty": [
                     "红烧",
                     "红",
                     "燒",
-                    "牛肉面",
-                    "牛肉",
+                    "牛腩",
                     "牛",
-                    "肉",
+                    "腩",
                     "面"
                 ]
             },
-            "Pinyin": "hóng shāo niú ròu miàn",
-            "description": "{紅燒} is *red-braised*, ({紅} is *red*, and {燒} is *baked(). {牛肉} is *beef*, and {麵} is *noodle*, so 紅燒牛肉麵 is *red-braised beef noodles*."
+            "Pinyin": "hóng shāo niú nǎn miàn",
+            "description": "{紅燒} is *red-braised*, ({紅} is *red*, and {燒} is *baked(). {牛腩} is [brisket](https://en.wikipedia.org/wiki/Brisket), and {麵} is *noodle*, so 紅燒牛肉麵 is *red-braised beef brisket noodles*."
         },
         "images": [
             {
@@ -136,7 +134,7 @@
                 "place": "Noodlehead, Las Vegas, Nevada"
             }
         ],
-        "description": "A Sichuan beef stew with noodles.",
+        "description": "Red-braised (with soy sauce or, in Sichuan, with chili), beef brisket in a noodle soup.",
         "tags": [
             "牛肉",
             "麵"
@@ -191,7 +189,7 @@
                 ]
             },
             "Pinyin": "Tái wān niú ròu miàn",
-            "description": "{臺灣} is [Taiwan](https://en.wikipedia.org/wiki/Taiwan) {牛肉} is *beef*, and {麵} is *noodles*, so {牛肉麵} is *beef noodles*."
+            "description": "{臺灣} is [Taiwan](https://en.wikipedia.org/wiki/Taiwan) {牛肉} is *beef*, and {麵} is *noodles*, so {牛肉麵} is *beef noodles*. Altogether it's *Taiwan beef noodles*, although often (of course in Taiwan) it's just {牛肉麵} *beef noodles*"
         },
         "images": [
             {
@@ -215,13 +213,13 @@
                 "name": "Auntie Emily",
                 "URL": "https://auntieemily.com/taiwanese-beef-noodle-soup-%e7%b4%85%e7%87%92%e7%89%9b%e8%82%89%e9%ba%b5/"
             },
-        {
-            "name": "Auntie Emily",
-            "URL": "https://cookinginchinglish.com/taiwanese-beef-noodle-soup/"
-        },
+            {
+                "name": "Auntie Emily",
+                "URL": "https://cookinginchinglish.com/taiwanese-beef-noodle-soup/"
+            },
             {
                 "name": "The Savory Chopstick",
-                "URL": "hhttps://www.thesavorychopstick.com/taiwanese-braised-beef-noodle-soup/"
+                "URL": "https://www.thesavorychopstick.com/taiwanese-braised-beef-noodle-soup/"
             },
             {
                 "name": "Wikipedia",
