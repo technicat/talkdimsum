@@ -146,5 +146,31 @@
         "URL": "https://en.wikipedia.org/wiki/Category:Chinese_drinks"
       }
     ]
+  },
+  {
+    "word": {
+      "Cantonese": "酸奶",
+      "English": "yogurt",
+      "Yale": "syūn náaih",
+      "Pinyin": "suān nǎi",
+      "description": "{酸} is *sour*, and {奶} is *milk*, so {酸奶} is *sour milk*."
+    },
+    "images": [
+      {
+        "image": "purplericeyogurtyomie",
+        "place": "Yomie, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "奶",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yogurt"
+      }
+    ]
   }
 ]
