@@ -38,5 +38,51 @@
                 "URL": "https://en.wikipedia.org/wiki/Earl_Grey_tea"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "Darjeeling tea",
+            "Cantonese": {
+                "text": "大吉嶺茶",
+                "wkty": [
+                    "大吉嶺",
+                    "大",
+                    "吉",
+                    "爵",
+                    "茶"
+                ]
+            },
+            "Simplified": {
+                "text": "大吉岭茶",
+                "wkty": [
+                    "大吉嶺",
+                    "大",
+                    "吉",
+                    "岭",
+                    "茶"
+                ]
+            },
+            "Yale": "daaih gāt líhng chàh",
+            "Pinyin": "dà jí lǐng chá",
+            "description": "大吉嶺 is *darjeeling* (the Mandarin pronunciation in particular sounds ike it), and 茶 is *tea*."
+        },
+        "images": [
+            {
+                "image": "darjeelingrosaliecafe",
+                "place": "Rosalie Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Darjeeling tea is a black tea originating fron the Darjeeing district in West Bengal, India.",
+        "tags": [
+            "茶餐廳",
+            "飲品",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Darjeeling_tea"
+            }
+        ]
     }
 ]
