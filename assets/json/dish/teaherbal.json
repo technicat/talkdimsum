@@ -332,7 +332,7 @@
             },
             "Yale": "tòuh fā chàh",
             "Pinyin": "táo huā chá",
-            "description": "{桃花} is *peach blossom* ({桃} is *peach* and {花} is *flower), and {茶} is *tea*. So 桃花茶 is *peach blossom tea*."
+            "description": "{桃花} is *peach blossom* ({桃} is *peach* and {花} is *flower*), and {茶} is *tea*. So 桃花茶 is *peach blossom tea*."
         },
         "images": [
             {
@@ -354,6 +354,64 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Peach_blossom_tea"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "jiaogulan",
+            "Cantonese": {
+                "text": "絞股藍",
+                "wkty": [
+                    "絞",
+                    "股",
+                    "藍"
+                ]
+            },
+            "Simplified": {
+                "text": "绞股蓝",
+                "wkty": [
+                    "绞",
+                    "股",
+                    "蓝"
+                ]
+            },
+            "Yale": "gáau gú làahm",
+            "Pinyin": "jiǎo gǔ lán",
+            "description": "{絞} is *twist*, {股} is *section* and {藍} is *blue* or *blue plant*), and {茶} is *tea*. So 絞股藍 is basically *twisty blue plant*."
+        },
+        "images": [
+            {
+                "image": "jaogulanteagrotto",
+                "place": "Tea Grotto, Salt Lake City, Utah"
+            }
+        ],
+        "description": "[Jiaogulan](https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum) is a twisty vine with purported medicinal benefits (often called *southern ginseng*) popularly brewed as a tea.",
+        "tags": [
+            "花茶",
+            "桃",
+            "桃花",
+            "花",
+            "茶",
+            "飲品",
+            "熱飲"
+        ],
+        "resources": [
+            {
+                "name": "Very Well Health",
+                "URL": "https://www.verywellhealth.com/the-lowdown-on-jiaogulan-88940"
+            },
+            {
+                "name": "Way of Leaf",
+                "URL": "https://wayofleaf.com/supplements/adaptogens/jiaogulan"
+            },
+            {
+                "name": "WebMD",
+                "URL": "https://www.webmd.com/vitamins/ai/ingredientmono-265/jiaogulan"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum"
             }
         ]
     }
