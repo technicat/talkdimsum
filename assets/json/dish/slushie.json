@@ -1,7 +1,7 @@
 [
     {
         "word": {
-            "English": "slushie",
+            "English": "slush",
             "Cantonese": "冰沙",
             "Yale": "bīng sā",
             "Pinyin": "bīng shā",
@@ -13,7 +13,7 @@
                 "place": "Tea Way Plus, Las Vegas, Nevada"
             }
         ],
-        "description": "Slushies can often be found in boba tea shops these days.",
+        "description": "Slushes can often be found in boba tea shops these days.",
         "tags": [
             "冰沙",
             "飲品"
@@ -27,7 +27,7 @@
     },
     {
         "word": {
-            "English": "lychee slushie",
+            "English": "lychee slush",
             "Cantonese": {
                 "text": "荔枝冰沙",
                 "wkty": [
@@ -39,8 +39,8 @@
                 ]
             },
             "Yale": "laih jī bīng sā",
-            "Pinyin": "bīng shā",
-            "description": "{冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*."
+            "Pinyin": "lì zhī bīng shā",
+            "description": "{荔枝} is [lychee](https://en.wikipedia.org/wiki/Lychee). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 荔枝冰沙 is *lychee ice sand*."
         },
         "images": [
             {
@@ -48,10 +48,46 @@
                 "place": "Vivi Bubble Tea, Salt Lake City, Utah"
             }
         ],
-        "description": "[Lychee](https://en.wikipedia.org/wiki/Lychee) flavored slushie.",
+        "description": "[Lychee](https://en.wikipedia.org/wiki/Lychee) flavored slush.",
         "tags": [
             "冰沙",
             "荔枝",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Slushy"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "strawberry slush",
+            "Cantonese": {
+                "text": "草莓冰沙",
+                "wkty": [
+                    "草莓",
+                    "草",
+                    "莓",
+                    "冰",
+                    "沙"
+                ]
+            },
+            "Yale": "chóu múi bīng sā",
+            "Pinyin": "cǎo méi bīng shā",
+            "description": "{草莓} is [strawberry](https://en.wikipedia.org/wiki/Strawberry). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *strawyberry ice sand*."
+        },
+        "images": [
+            {
+                "image": "strawberryslushteaway",
+                "place": "Tea Way Plus, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Strawberry](https://en.wikipedia.org/wiki/Strawberry) flavored slush.",
+        "tags": [
+            "冰沙",
+            "草莓",
             "飲品"
         ],
         "resources": [
