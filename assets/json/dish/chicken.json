@@ -517,5 +517,54 @@
                 "URL": "https://thewoksoflife.com/coca-cola-chicken-wings/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "gui fei chicken",
+            "Cantonese": {
+                "text": "貴妃雞",
+                "wkty": [
+                    "貴妃",
+                    "貴",
+                    "妃",
+                    "鸡"
+                ]
+            },
+            "Yale": "gwai fēi gāi",
+            "Simplified": {
+                "text": "贵妃鸡",
+                "wkty": [
+                    "贵妃",
+                    "贵",
+                    "妃",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "guì fēi jī",
+            "description": "{貴妃} is the title of a high-ranking imperial concubine, in this case referring to the famous (or infamous) [Yang Gui Feng](https://en.wikipedia.org/wiki/Yang_Guifei), and {雞} is *chicken*."
+        },
+        "images": [
+            {
+                "image": "guifuichickengoldenpalace",
+                "place": "Golden Palace, San Jose, California"
+            }
+        ],
+        "description": "Gui fei chicken is a Cantonese dish similar to Hainan chicken but with the chicken soaked in different flavorints. It's also known as Empress chicken (it was allegedly a favorite dish of a famous concubine who ruled as an Empress), although that name is also applied to stir-fried chicken wings.",
+        "tags": [
+        ],
+        "resources": [
+            {
+                "name": "Magic Table",
+                "URL": "https://magicattable.wordpress.com/2020/06/25/empress-chicken-%E8%B4%B5%E5%A6%83%E9%B8%A1/"
+            },
+            {
+                "name": "Tatler",
+                "URL": "https://www.tatlerasia.com/dining/food/chinese-new-year-recipe-guifei-chicken-by-chef-yvonne-yuen"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
+            }
+        ]
     }
 ]
