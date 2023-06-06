@@ -348,24 +348,6 @@
             "address": "342 N Clovis Ave, Clovis, CA 93612"
         },
         {
-            "title": "Golden Palace",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://goldenpalacesanjose.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/golden-palace-san-jose"
-                }
-
-            ],
-            "lat": 37.30436715248376,
-            "lon":  -122.03182037485537,
-            "city": "Cupertino",
-            "address": "1146 S De Anza Blvd San Jose, CA 95129"
-        },
-        {
             "title": "Dim Sum King",
             "links": [
                 {
@@ -2464,6 +2446,24 @@
             "lon": -118.11189812954761,
             "city": "San Gabriel",
             "address": "827 W Las Tunas Dr San Gabriel, CA 91776"
+        },
+        {
+            "title": "Golden Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://goldenpalacesanjose.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-palace-san-jose"
+                }
+
+            ],
+            "lat": 37.30436715248376,
+            "lon":  -122.03182037485537,
+            "city": "San Jose",
+            "address": "1146 S De Anza Blvd San Jose, CA 95129"
         },
         {
             "title": "Jade Cathay",
