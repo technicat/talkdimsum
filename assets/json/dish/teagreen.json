@@ -211,5 +211,37 @@
                 "URL": "https://www.teaguardian.com/quality-varieties/tea-varieties/roasted-green-tea-yunwu/"
             }
         ]
+    },
+    {
+        "word": {
+            "Cantonese": "碧螺春",
+            "English": "biluochun",
+            "Yale": "bīk lòh chēun",
+            "Pinyin": "bì luó chūn"
+        },
+        "images": [
+            {
+                "image": "biluochun",
+                "place": "R&F Market, South Salt Lake, Utah"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "熱飲",
+            "飲品",
+            "茶",
+            "熱茶",
+            "中國茶"
+        ],
+        "resources": [
+            {
+                "name": "Tea for Me Please",
+                "URL": "https://www.teaformeplease.com/meet-the-tea-bi-luo-chun/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Biluochun"
+            }
+        ]
     }
 ]
