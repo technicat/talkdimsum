@@ -214,19 +214,29 @@
     },
     {
         "word": {
-            "Cantonese": "碧螺春",
+            "Cantonese": {
+                "text": "碧螺春",
+                "wkty": [
+                    "碧螺春",
+                    "碧",
+                    "螺",
+                    "春"
+                ]
+            },
             "English": "biluochun",
             "Yale": "bīk lòh chēun",
-            "Pinyin": "bì luó chūn"
+            "Pinyin": "bì luó chūn",
+             "description": "{碧} is *green*, {螺} is *snail* (referring to the spiral shape of the leaves), and {春} is *spring* (referring to its harvesting season), so {碧螺春} is *green snail spring*."
         },
         "images": [
             {
-                "image": "biluochun",
+                "image": "biluochunrandfmarket",
                 "place": "R&F Market, South Salt Lake, Utah"
             }
         ],
-        "description": "",
+        "description": "[Biluochun](https://en.wikipedia.org/wiki/Biluochun) (the Mandarin pronunciation), is a [famous](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas) green tea originating from teh Dongting mountain region near Lake Tai in Suzhou, although now it's also grown in other provinces and in Taiwan.",
         "tags": [
+            "中國十大名茶",
             "熱飲",
             "飲品",
             "茶",
