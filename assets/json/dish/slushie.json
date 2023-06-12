@@ -76,7 +76,7 @@
             },
             "Yale": "chóu múi bīng sā",
             "Pinyin": "cǎo méi bīng shā",
-            "description": "{草莓} is [strawberry](https://en.wikipedia.org/wiki/Strawberry). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *strawyberry ice sand*."
+            "description": "{草莓} is [strawberry](https://en.wikipedia.org/wiki/Strawberry). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *strawberry ice sand*."
         },
         "images": [
             {
@@ -88,6 +88,42 @@
         "tags": [
             "冰沙",
             "草莓",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Slushy"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "mango slush",
+            "Cantonese": {
+                "text": "芒果冰沙",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "冰",
+                    "沙"
+                ]
+            },
+            "Yale": "mōng gwó bīng sā",
+            "Pinyin": "máng guǒ bīng shā",
+            "description": "{芒果} is [mango](https://en.wikipedia.org/wiki/Mango). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *mango ice sand*."
+        },
+        "images": [
+            {
+                "image": "mangoslushabouttea",
+                "place": "About Tea, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Mango](https://en.wikipedia.org/wiki/Mango) flavored slush.",
+        "tags": [
+            "冰沙",
+            "芒果",
             "飲品"
         ],
         "resources": [
