@@ -526,7 +526,7 @@
                     "貴妃",
                     "貴",
                     "妃",
-                    "鸡"
+                    "雞"
                 ]
             },
             "Yale": "gwai fēi gāi",
@@ -563,6 +563,66 @@
             {
                 "name": "Tatler",
                 "URL": "https://www.tatlerasia.com/dining/food/chinese-new-year-recipe-guifei-chicken-by-chef-yvonne-yuen"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "sha cha chicken",
+            "Cantonese": {
+                "text": "沙茶雞",
+                "wkty": [
+                    "沙茶",
+                    "沙",
+                    "茶",
+                    "雞"
+                ]
+            },
+            "Yale": "sā chàh gāi",
+            "Simplified": {
+                "text": "沙茶鸡",
+                "wkty": [
+                    "沙茶",
+                    "沙",
+                    "茶",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "shā chá jī",
+            "description": "{沙茶} is [sha cha sauce](https://en.wikipedia.org/wiki/Shacha_sauce), and {雞} is *chicken*."
+        },
+        "images": [
+            {
+                "image": "shachachickenmandarin",
+                "place": "The Mandarin, Cedar City, Utah"
+            }
+        ],
+        "description": "Stir-fried chicken served in [sha cha sauce](https://en.wikipedia.org/wiki/Shacha_sauce), which was originally adapted from the peanut-based satay sauce but now has completely different ingredients, such as soy sauce, garlic, chilies, and dried shrimp. It is sometimes referred to as *Chinese BBQ sauce*.",
+        "tags": [
+            "沙茶",
+            "新菜",
+            "雞"
+        ],
+        "resources": [
+            {
+                "name": "Black Sesame Kitchen",
+                "URL": "https://blacksesamekitchen.com/sha-cha-chicken/"
+            },
+            {
+                "name": "China Food Online Menu",
+                "URL": "https://chinafoodonlinemenu.com/sha-cha-chicken/"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/sha-cha-chicken/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/sha-cha-chicken/"
             },
             {
                 "name": "Wikipedia",
