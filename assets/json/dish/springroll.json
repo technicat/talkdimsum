@@ -31,6 +31,10 @@
         ],
         "resources": [
             {
+                "name": "Aunt Emily",
+                "URL": "https://auntieemily.com/cantonese-spring-rolls/"
+            },
+            {
                 "name": "Dim Sum Guide",
                 "URL": "https://dimsumguide.com/site/view/Spring-Roll"
             },
@@ -111,6 +115,54 @@
             {
                 "name": "Viet World Kitchen",
                 "URL": "https://eggwansfoododyssey.com/2010/04/19/vegetarian-spring-rolls/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "Shanghai spring roll",
+            "Cantonese": {
+                "text": "上海春卷",
+                "wkty": [
+                    "上海",
+                    "上",
+                    "海",
+                    "春卷",
+                    "春",
+                    "卷"
+                ]
+            },
+            "Yale": "sheuhng hói chēun gyún",
+            "Pinyin": "Shàng hǎi chūn juǎn",
+            "description": "{上} is *up* or *above* or *on*, and {海} is *ocean* or *sea*, so 上海 is *on the ocean* or *on the sea*, and [Shanghai](https://en.wikipedia.org/wiki/Shanghai) is a *city on the sea*. {春} is *Spring*, and {卷} is *roll*, so {春卷} is *Spring roll*."
+        },
+        "images": [
+            {
+                "image": "shanghaispringrollmandarin",
+                "place": "The Mandarin, Cedar City, Utah"
+            }
+        ],
+        "description": "Shanghai spring rolls are typically filled with pork, napa cabbage, and shiitake mushrooms.",
+        "tags": [
+            "新菜",
+            "滬菜",
+            "春卷",
+            "豬肉",
+            "炸",
+            "卷"
+        ],
+        "resources": [
+            {
+                "name": "Asian Cooking Mom",
+                "URL": "https://www.asiancookingmom.com/shanghai-spring-rolls-%E4%B8%8A%E6%B5%B7%E6%98%A5%E5%8D%B7-shanghai-chun-juan/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "http://en.wikipedia.org/wiki/Spring_roll"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/shanghai-style-spring-rolls/"
             }
         ]
     }
