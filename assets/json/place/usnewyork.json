@@ -258,6 +258,23 @@
             "address": "4207 Main St Flushing, NY 11355"
         },
         {
+            "title": "Fifty Bay",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.50baynyc.com"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fifty-bay-flushing"
+                }
+            ],
+            "lat": 40.76517097201193,
+            "lon": -73.81327803205282,
+            "city": "Flushing",
+            "address": "150-50 Northern Blvd Flushing, NY 11354"
+        },
+        {
             "title": "New Lake Pavilion",
             "links": [
                 {
