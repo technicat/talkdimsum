@@ -629,5 +629,64 @@
                 "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "Hunan chicken",
+            "Cantonese": {
+                "text": "湖南雞",
+                "wkty": [
+                    "湖南",
+                    "湖",
+                    "南",
+                    "雞"
+                ]
+            },
+            "Yale": "wùh nàahm gāi",
+            "Simplified": {
+                "text": "湖南鸡",
+                "wkty": [
+                    "湖南",
+                    "湖",
+                    "南",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "hú nán jī",
+            "description": "{湖南} is [Hunan](https://en.wikipedia.org/wiki/Hunan), and {雞} is *chicken*."
+        },
+        "images": [
+            {
+                "image": "hunanchickenmandarin",
+                "place": "The Mandarin, Cedar City, Utah"
+            }
+        ],
+        "description": "A Chinese-American dish ostensibly originating from the Hunan province, this is stir-fried chicken served in spicy chili bean sauce.",
+        "tags": [
+            "新菜",
+            "雞"
+        ],
+        "resources": [
+            {
+                "name": "Black Sesame Kitchen",
+                "URL": "https://blacksesamekitchen.com/sha-cha-chicken/"
+            },
+            {
+                "name": "Delighted Cooking",
+                "URL": "https://www.delightedcooking.com/what-is-hunan-chicken.htm"
+            },
+            {
+                "name": "Chili Pepper Madness",
+                "URL": "https://www.chilipeppermadness.com/recipes/hunan-chicken/"
+            },
+            {
+                "name": "The Big Man's World",
+                "URL": "https://thebigmansworld.com/hunan-chicken/"
+            },
+            {
+                "name": "Rasa Malaysia",
+                "URL": "https://rasamalaysia.com/hunan-chicken-recipe/"
+            }
+        ]
     }
 ]
