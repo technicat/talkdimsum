@@ -2120,7 +2120,7 @@
             "lat": 37.618293692331285,
             "lon": -122.38900855683416,
             "city": "San Francisco",
-            "address": "Sfo International Airport International Terminal G San Francisco, CA 94128"
+            "address": "SFO International Airport International Terminal G San Francisco, CA 94128"
         },
         {
             "title": "Lai Hong Lounge",
@@ -2524,6 +2524,19 @@
             "lon": -122.136790,
             "city": "San Leandro",
             "address": "699 Lewelling Blvd, Ste 212, San Leandro, CA 94579"
+        },
+        {
+            "title": "Dim Sum House",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-house-san-lorenzo"
+                }
+            ],
+            "lat": 37.67124121619649,
+            "lon": -122.12429925918171,
+            "city": "San Lorenzo",
+            "address": "754 Bockman Rd San Lorenzo, CA 94580"
         },
         {
             "title": "Champagne Seafood Restaurant",
