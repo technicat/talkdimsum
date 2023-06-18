@@ -46,6 +46,10 @@
         "URL": "https://medium.com/@fluentup/soy-sauces-from-around-asia-986a0a459a4e"
       },
       {
+        "name": "Food Network",
+        "URL": "https://www.foodnetwork.com/how-to/packages/food-network-essentials/types-of-soy-sauce"
+      },
+      {
         "name": "Mala Food",
         "URL": "https://malafood.com/en/the-complete-guide-to-soy-suaces"
       },
@@ -60,6 +64,55 @@
       {
         "name": "Wikipedia",
         "URL": "https://en.wikipedia.org/wiki/Soy_sauce"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/soy-sauce/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "light soy sauce",
+      "Cantonese": {
+        "text": "生抽",
+        "wkty":[
+          "生抽",
+          "生",
+          "抽"
+        ]
+      },
+      "Yale": "sāang chāu",
+      "Pinyin": "shēng chōu",
+      "description": "{生} is *life* (in a *fresh* sense, similar to the word for *lettuce*, {生菜} *life vegetable*), and {抽} is short for another word for *soy sauce* {抽油}, *smoky sauce* or *smoky oil*. So {生抽} is *fresh soy sauce* or *life smoky oil*."
+    },
+    "images": [
+      {
+        "image": "lightsoysaucechinatownsupermarket",
+        "place": "Chinatown Supermarket, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Light [Soy sauce](https://en.wikipedia.org/wiki/Soy_sauce), specifically Chinese light soy sauce (different from Japanese light soy sauce), is a thinner and lighter, but saltier, soy sauce, that is the default soy sauce used in cooking.",
+    "tags": [
+      "豉油",
+      "油"
+    ],
+    "resources": [
+      {
+        "name": "FluentUp",
+        "URL": "https://medium.com/@fluentup/soy-sauces-from-around-asia-986a0a459a4e"
+      },
+      {
+        "name": "Mala Food",
+        "URL": "https://malafood.com/en/the-complete-guide-to-soy-suaces"
+      },
+      {
+        "name": "Spruce Eats",
+        "URL": "https://www.thespruceeats.com/types-of-chinese-soy-sauce-694628"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Soy_sauce#Brewed"
       },
       {
         "name": "The Woks of Life",
