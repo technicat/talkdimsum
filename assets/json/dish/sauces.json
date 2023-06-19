@@ -1,6 +1,28 @@
 [
   {
     "word": {
+      "English": "sauce",
+      "Cantonese": "醬",
+      "Yale": "jeung",
+      "Simplified": "酱",
+      "Pinyin": "jiàng",
+      "description": ""
+    },
+    "images": [
+      {
+        "image": "hoisinsauce",
+        "place": "Las Vegas, Nevada"
+      }
+    ],
+    "description": "{酱} is a [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters) combination of {將} and {酉}",
+    "tags": [
+      "醬"
+    ],
+    "resources": [
+    ]
+  },
+  {
+    "word": {
       "English": "curry",
       "Cantonese": {
         "text": "咖喱",
@@ -25,8 +47,12 @@
     ],
     "resources": [
       {
+        "name": "LTL Shanghai",
+        "URL": "https://www.ltl-shanghai.com/chinese-sauces/"
+      },
+      {
         "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Curry#China"
+        "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_sauces"
       }
     ]
   },
@@ -65,6 +91,7 @@
     ],
     "description": "[Hoisin sauce](https://en.wikipedia.org/wiki/Hoisin_sauce) is a dark, thick sauce made from soybeans and other flavors and spices.",
     "tags": [
+      "醬",
       "粵菜",
       "海鮮醬",
       "海鮮"
@@ -105,7 +132,8 @@
     ],
     "description": "A 1980s Hong Kong invention (with rival claims as to which restaurant), [XO sauce](https://en.wikipedia.org/wiki/XO_sauce) is a thick sauce containing dried seafood, ham, and flavorings such as chili peppers. XO sauce borrows its name from XO (extra old) [cognac](https://en.wikipedia.org/wiki/Cognac) (popular in Hong Kong), along with the pricing (over a hundred dollars for some jars, although you can pick it up for a more reasonable price at an Asian supermarket), and packaging (often in a fancy box).",
     "tags": [
-      "港式"
+      "港式",
+      "醬"
     ],
     "resources": [
       {
