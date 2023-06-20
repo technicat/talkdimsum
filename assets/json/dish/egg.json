@@ -1,6 +1,36 @@
 [
   {
     "word": {
+      "English": "egg",
+      "Cantonese": "蛋",
+      "Yale": "dáan",
+      "Jyutping": "daan2",
+      "Pinyin": "dàn"
+    },
+    "images": [
+      {
+        "image": "steamedegg8east",
+        "place": "8East, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "蛋"
+    ],
+    "resources": [
+
+      {
+        "name": "Omnivore's Cookbook",
+        "URL": "https://omnivorescookbook.com/an-introduction-to-chinese-eggs/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/25-chinese-egg-recipes/"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "salted egg",
       "Cantonese": {
         "text": "鹹蛋",
