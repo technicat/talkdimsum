@@ -255,5 +255,58 @@
                 "URL": "https://en.wikipedia.org/wiki/Baozhong_tea"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "dahongpao",
+            "Cantonese": {
+                "text": "大紅袍",
+                "wkty": [
+                    "大紅袍",
+                    "大",
+                    "紅",
+                    "袍"
+                ]
+            },
+            "Yale": "daaih hùhng pòuh",
+            "Simplified": {
+                "text": "大红袍",
+                "wkty": [
+                    "大红袍",
+                    "大",
+                    "红",
+                    "袍"
+                ]
+            },
+            "Pinyin": "dà hóng páo",
+            "description": "大 is *big*, 紅 is *red*, and 袍 is *gown*, so {大紅袍} is *big red gown*. Legend has it that this tea was administered by a monk to an ailing scholar who similarly revived the emporer with the tea and was rewarded with a big red gown (monk got nothing)."
+        },
+        "images": [
+            {
+                "image": "dahongpaorandfmarket",
+                "place": "R and F Market, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[da hong pao](https://en.wikipedia.org/wiki/Da_Hong_Pao), the Mandarin pronunciation of this tea, is a traditionally expensive [Wuyi](https://en.wikipedia.org/wiki/Wuyi_tea) oolong tea (but affordable if you buy the ones that aren't from the original da hong pao trees).",
+        "tags": [
+            "熱飲",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "烏龍茶",
+            "中国茶",
+            "茶",
+            "荔枝"
+        ],
+        "resources": [
+            {
+                "name": "One Sip of Tea",
+                "URL": "https://onesipoftea.com/da-hong-pao-tea-guide/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Da_Hong_Pao"
+            }
+        ]
     }
 ]
