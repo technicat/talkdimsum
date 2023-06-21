@@ -80,6 +80,68 @@
     },
     {
         "word": {
+            "English": "peach oolong tea",
+            "Cantonese": {
+                "text": "蜜桃烏龍茶",
+                "wkty": [
+                    "蜜桃",
+                    "蜜",
+                    "桃",
+                    "烏龍茶",
+                    "烏龍",
+                    "烏",
+                    "龍",
+                    "茶"
+                ]
+            },
+            "Yale": "maht tòuh wu lùhng chàh",
+            "Simplified": {
+                "text": "蜜桃乌龙茶",
+                "wkty": [
+                    "蜜桃",
+                    "蜜",
+                    "桃",
+                    "乌龙茶",
+                    "乌龙",
+                    "乌",
+                    "龙",
+                    "茶"
+                ]
+            },
+            "Pinyin": "mì táo wū lóng chá",
+            "description": "{蜜桃} is *sweet peach* ({蜜} is *hone* and {桃} is *peach*). {烏龍} is *black dragon*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {烏龍茶} is *black dragon tea*, and 蜜桃烏龍茶 is *honey peach black dragon tea*."
+        },
+        "images": [
+            {
+                "image": "oolongteanewasianbbq",
+                "place": "New Asian BBQ, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Oolong](https://en.wikipedia.org/wiki/Oolong) tea scented with dried peaches.",
+        "tags": [
+            "花茶",
+            "桃",
+            "熱飲",
+            "烏龍茶",
+            "中國茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Kitu Cafe",
+                "URL": "https://kitucafe.com/peach-oloong-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Oolong"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "gui fei oolong tea",
             "Cantonese": {
                 "text": "貴妃烏龍茶",
