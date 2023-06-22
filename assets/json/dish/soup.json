@@ -429,5 +429,58 @@
         "URL": "https://thewoksoflife.com/cantonese-chicken-feet-soup/"
       }
     ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "酸梅湯",
+        "wkty": [
+          "酸梅湯",
+          "酸梅",
+          "酸",
+          "梅",
+          "湯"
+        ]
+      },
+      "Simplified": {
+        "text": "酸梅汤",
+        "wkty": [
+          "酸梅湯",
+          "酸梅",
+          "酸",
+          "梅",
+          "汤"
+        ]
+      },
+      "English": "sour plum drink",
+      "Yale": "syūn mùih tōng",
+      "Pinyin": "suān méi tāng",
+      "description": "{酸梅} is *sour plum* and {湯} is *soup*, so {酸梅湯} is *sour plum soup*."
+    },
+    "images": [
+      {
+        "image": "sourplumdrinkpacket",
+        "place": "R and F Market, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Sour plum drinks are made with sour plums, rock sugar, and other ingredients such as dried osmanthus and hawthorn. It's typically served cold as a popular summer drink.",
+    "tags": [
+      "飲品",
+      "湯"
+    ],
+    "resources": [
+      {
+        "name": "Simple Chinese Food",
+        "URL": "hhttps://simplechinesefood.com/recipe/sour-plum-drink"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Suanmeitang"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/sour-plum-drink-suan-mei-tang/"
+      }
+    ]
   }
 ]
