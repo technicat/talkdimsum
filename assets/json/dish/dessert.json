@@ -190,5 +190,48 @@
                 "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "taro ball",
+            "Cantonese": {
+                "text": "芋圓",
+                "wkty": [
+                    "芋圓",
+                    "芋",
+                    "圓"
+                ]
+            },
+            "Simplified": {
+                "text": "芋圆",
+                "wkty": [
+                    "芋圆",
+                    "芋",
+                    "圆"
+                ]
+            },
+            "Yale": "wuh yùhn",
+            "Pinyin": "yù yuán",
+            "description": "{芋} is short for *taro* and {圆} is *ball*, so {芋圓} is *taro ball*."
+        },
+        "images": [
+            {
+                "image": "miniqtofupuddingmeetfresh",
+                "place": "Meet Fresh, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Taro balls](https://en.wikipedia.org/wiki/Taro_ball) are a Taiwanese dessert topping, like boba but made from mashed taro.",
+        "tags": [
+            "台菜",
+            "芋頭",
+            "甜品"
+        ],
+        "resources": [
+           
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Taro_ball"
+            }
+        ]
     }
 ]
