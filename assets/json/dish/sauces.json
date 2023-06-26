@@ -18,8 +18,7 @@
     "tags": [
       "醬"
     ],
-    "resources": [
-    ]
+    "resources": []
   },
   {
     "word": {
@@ -160,7 +159,7 @@
     "images": [
       {
         "image": "redvinegarkitchen",
-        "place": "Kitchen, Millbraie, California"
+        "place": "Kitchen, Millbrae, California"
       }
     ],
     "description": "Vinegar made from rice wine. Chinese rice vinegar comes in a variety of colors, or even clear, but red vinegar is often used as a dipping sauce.",
@@ -180,6 +179,33 @@
       {
         "name": "The Woks of Life",
         "URL": "https://thewoksoflife.com/chinese-sauces-vinegars-oils/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fish sauce",
+      "Cantonese": "魚露",
+      "Simplified": "鱼露",
+      "Yale": "yùh louh",
+      "Pinyin": "yú lù",
+      "description": "{魚} is *fish*, and {露} is *syrup* or *nectar*."
+    },
+    "images": [
+      {
+        "image": "fishsaucerandfmarket",
+        "place": "R and F Market, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Fish sauce is made from salted fermented fish (usually anchovies) or krill.",
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Fish_sauce"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/fish-sauce/"
       }
     ]
   }

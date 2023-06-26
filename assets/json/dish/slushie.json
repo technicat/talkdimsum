@@ -13,7 +13,7 @@
                 "place": "Tea Way Plus, Las Vegas, Nevada"
             }
         ],
-        "description": "Slushes can often be found in boba tea shops these days.",
+        "description": "Slushes can often be found in boba tea shops these days (so naturally they are often served with boba or other toppins).",
         "tags": [
             "冷飲",
             "冰沙",
@@ -54,6 +54,44 @@
             "冷飲",
             "冰沙",
             "荔枝",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Slushy"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "passionfruit slush",
+            "Cantonese": {
+                "text": "百香果冰沙",
+                "wkty": [
+                    "百香果",
+                    "百香",
+                    "百",
+                    "香",
+                    "果",
+                    "冰",
+                    "沙"
+                ]
+            },
+            "Yale": "bīng sā",
+            "Pinyin": "bīng shā",
+            "description": "{冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*."
+        },
+        "images": [
+            {
+                "image": "passionfruitslushabouttea",
+                "place": "About Tea, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Slush made with [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) juice.",
+        "tags": [
+            "冷飲",
+            "冰沙",
             "飲品"
         ],
         "resources": [
