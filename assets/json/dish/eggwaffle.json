@@ -1,40 +1,41 @@
 [
-  {
-    "word": {
-      "English": "egg waffle",
-      "Cantonese": {
-        "text": "雞蛋仔",
-        "wkty": [
-          "雞蛋",
-          "雞",
-          "蛋",
-          "仔"
+    {
+        "word": {
+            "English": "egg waffle",
+            "Cantonese": {
+                "text": "雞蛋仔",
+                "wkty": [
+                    "雞蛋",
+                    "雞",
+                    "蛋",
+                    "仔"
+                ]
+            },
+            "Yale": "gāi dáan jái ",
+            "Pinyin": "jī dàn zǐ",
+            "description": "{雞蛋} is *chicken egg* ({雞} is *chicken* and {蛋} is *egg*), and {仔} is *child* or *little*, so {雞蛋仔} is *little chicken eggs*."
+        },
+        "images": [
+            {
+                "image": "eggwafflemeetfresh",
+                "place": "Meet Fresh, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Egg waffles, so named because the instead of indentations they feature egg-shaped bubbles, are a Hong Kong street food snack dating back to the 1950s.",
+        "tags": [
+            "雞蛋仔",
+            "港式",
+            "甜品"
+        ],
+        "resources": [
+            {
+                "name": "The Kitchn",
+                "URL": "https://www.thekitchn.com/bubble-waffles-recipe-23245877"
+            },
+            {
+                "name": "Christine's Recipes",
+                "URL": "https://en.christinesrecipes.com/2010/09/hong-kong-style-egg-waffle-original.html"
+            }
         ]
-      },
-      "Yale": "gāi dáan jái ",
-      "Pinyin": "jī dàn zǐ",
-      "description": "{雞蛋} is *chicken egg* ({雞} is *chicken* and {蛋} is *egg*), and {仔} is *child* or *little*, so {雞蛋仔} is *little chicken eggs*."
-    },
-    "images": [
-      {
-        "image": "eggwafflemeetfresh",
-        "place": "Meet Fresh, South Salt Lake, Utah"
-      }
-    ],
-    "description": "Egg waffles, so named because the instead of indentations they feature egg-shaped bubbles, are a Hong Kong street food snack dating back to the 1950s.",
-    "tags": [
-      "港式",
-      "甜品"
-    ],
-    "resources": [
-      {
-        "name": "The Kitchn",
-        "URL": "https://www.thekitchn.com/bubble-waffles-recipe-23245877"
-      },
-      {
-        "name": "Christine's Recipes",
-        "URL": "https://en.christinesrecipes.com/2010/09/hong-kong-style-egg-waffle-original.html"
-      }
-    ]
-  }
+    }
 ]
