@@ -223,5 +223,48 @@
                 "URL": "https://en.wikipedia.org/wiki/Lapsang_souchong"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "jinjunmei",
+            "Cantonese": "金駿眉",
+            "Yale": "gām jeun mèih",
+            "Simplified": "金骏眉",
+            "Pinyin": "jīn jùn méi",
+            "description": "{金} is *gold*, {駿} is *spirited horse* or *steed*, and {眉} is *eyebrow*, so 金駿眉 is *gold steed eyebrow*."
+        },
+        "images": [
+            {
+                "image": "jinjunmeirandfmarket",
+                "place": "R and F Market, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Jinhunmei](https://en.wikipedia.org/wiki/Jin_Jun_Mei_tea) (the Mandarin pronunciation), also known as *golden eyebrows* (referring to the appearance of the leaves, akin to the *longevity eyebrow* tea), is a fashionable (introduced in 2005) expensive black tea made from buds harvested from tea plants in the Wuyi Mountains.",
+        "tags": [
+            "閩菜",
+            "飲品",
+            "茶",
+            "熱茶",
+            "紅茶",
+            "中國茶"
+        ],
+        "resources": [
+            {
+                "name": "Ooika",
+                "URL": "https://ooika.co/learn/jin-jun-mei"
+            },
+            {
+                "name": "Tealyra",
+                "URL": "https://www.tealyra.com/blog/how-to-brew-jin-jun-mei-tea-to-preserve-its-beneficial-properties/"
+            },
+            {
+                "name": "Tea Trekker",
+                "URL": "https://www.teatrekker.com/product/jin-jun-mei/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Jin_Jun_Mei_tea"
+            }
+        ]
     }
 ]
