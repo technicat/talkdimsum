@@ -19,6 +19,7 @@
                     "茉莉",
                     "茉",
                     "莉",
+                    "花",
                     "茶"
                 ]
             },
@@ -100,6 +101,66 @@
             {
                 "name": "Simple Chinese Food",
                 "URL": "https://simplechinesefood.com/recipe/jasmine-honey-cold-brew-tea"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "dragon pearl jasmine tea",
+            "Cantonese": {
+                "text": "龍珠茉莉",
+                "wkty": [
+                    "龍珠",
+                    "龍",
+                    "珠",
+                    "茉莉",
+                    "茉",
+                    "莉"
+                ]
+            },
+            "Simplified": {
+                "text": "龙珠茉莉",
+                "wkty": [
+                    "龙珠",
+                    "龙",
+                    "珠",
+                    "茉莉",
+                    "茉",
+                    "莉"
+                ]
+            },
+            "Yale": "lùhng jyū muht léi",
+            "Pinyin": "lóng zhū mò li",
+            "description": "{龍珠} is *dragon pearl* ({龍} is *dragon* and {珠} is *pearl*), also refers to the anime [Dragon Ball](https://en.wikipedia.org/wiki/Dragon_Ball), and {茉莉} is [jasmine](https://en.wikipedia.org/wiki/Jasmine)."
+        },
+        "images": [
+            {
+                "image": "dragonpearljasminetearandfmarket",
+                "place": "R and F Market, South Salt Lake, Utah"
+            }
+        ],
+        "description": "This is a [jasmine tea](https://en.wikipedia.org/wiki/Jasmine_tea) with the tea leaves curled up like pearls.",
+        "tags": [
+            "花茶",
+            "飲品",
+            "中國茶",
+            "茶",
+            "茉莉",
+            "香片",
+            "綠茶"
+        ],
+        "resources": [
+            {
+                "name": "China Furniture Online",
+                "URL": "https://www.chinafurnitureonline.com/the-dragons-pearl"
+            },
+            {
+                "name": "Everything Dragon Shop",
+                "URL": "https://www.everythingdragonshop.com/dragon-articles/the-story-of-dragon-pearl-jasmine-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Dragon_Ball"
             }
         ]
     }
