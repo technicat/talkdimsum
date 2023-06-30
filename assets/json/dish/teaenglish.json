@@ -84,5 +84,33 @@
                 "URL": "https://en.wikipedia.org/wiki/Darjeeling_tea"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "Lipton",
+            "Cantonese": "立頓",
+            "Simplified": "立顿",
+            "Yale": "laahp deuhn",
+            "Pinyin": "lì dùn",
+            "description": "{立頓} is a loanword, where the Cantonese pronunciation sounds like *Lipton*."
+        },
+        "images": [
+            {
+                "image": "lipton",
+                "place": ""
+            }
+        ],
+        "description": "[Lipton](https://en.wikipedia.org/wiki/Lipton) is a British-American tea brand with an international presence. It's a standard ingredient of [Hong Kong style iced lemon tea](https://www.thehongkongcookery.com/2014/06/hong-kong-style-iced-lemon-tea.html).",
+        "tags": [
+            "茶餐廳",
+            "飲品",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Lipton"
+            }
+        ]
     }
 ]
