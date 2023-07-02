@@ -121,7 +121,7 @@
                 }
             ],
             "lat": 40.68527223634763,
-            "lon":  -73.99179510197712,
+            "lon": -73.99179510197712,
             "city": "Brooklyn",
             "address": "196 Smith St Brooklyn, NY 11201"
         },
@@ -223,7 +223,7 @@
                 }
             ],
             "lat": 40.758738379173245,
-            "lon":  -73.83128290359626,
+            "lon": -73.83128290359626,
             "city": "Flushing",
             "address": "13505 40th Rd, Flushing, NY 11354"
         },
@@ -322,7 +322,7 @@
                 }
             ],
             "lat": 40.718036272043534,
-            "lon":  -73.83518591546789,
+            "lon": -73.83518591546789,
             "city": "Forest Hills",
             "address": "113-09 Queens Blvd, Forest Hills, NY 11375"
         },
@@ -347,7 +347,7 @@
                 }
             ],
             "lat": 42.71919094983287,
-            "lon":  -78.839417159957,
+            "lon": -78.839417159957,
             "city": "Hamburg",
             "address": "84 Lake St Hamburg, NY 14075"
         },
@@ -521,7 +521,7 @@
                 }
             ],
             "lat": 40.721432836454355,
-            "lon":  -73.99337755964818,
+            "lon": -73.99337755964818,
             "city": "New York",
             "address": "207 Bowery New York, NY 10002"
         },
@@ -627,7 +627,7 @@
                 }
             ],
             "lat": 40.72609767083801,
-            "lon":  -73.99001831546768,
+            "lon": -73.99001831546768,
             "city": "New York",
             "address": "59 2nd Ave, New York, NY 10003"
         },
@@ -874,7 +874,7 @@
                 }
             ],
             "lat": 40.77305237893898,
-            "lon":  -73.9814680443023,
+            "lon": -73.9814680443023,
             "city": "New York",
             "address": "43 W 65th St New York, NY 10023"
         },
@@ -894,7 +894,7 @@
                     "URL": "https://www.yelp.com/biz/shun-lee-palace-new-york"
                 }
             ],
-            "lat": 40.75962149171615, 
+            "lat": 40.75962149171615,
             "lon": -73.9690509446144,
             "city": "New York",
             "address": "155 E 55th St New York, NY 10022"
@@ -912,7 +912,7 @@
                 }
             ],
             "lat": 40.77305237893898,
-            "lon":  -73.9814680443023,
+            "lon": -73.9814680443023,
             "city": "New York",
             "address": "43 W 65th St New York, NY 10023"
         },
@@ -980,7 +980,7 @@
                 }
             ],
             "lat": 40.71530678037894,
-            "lon":  -73.9981414308123,
+            "lon": -73.9981414308123,
             "city": "New York",
             "address": "24 Pell St New York, NY 10013"
         },
@@ -997,9 +997,26 @@
                 }
             ],
             "lat": 40.73608848738867,
-            "lon":  -73.99167111546734,
+            "lon": -73.99167111546734,
             "city": "New York",
             "address": "15 Union Square W New York, NY 10003"
+        },
+        {
+            "title": "Jia Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://jia-dimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/jia-dim-sum-port-washington-2"
+                }
+            ],
+            "lat": 40.83959395870976,
+            "lon": -73.70369586088525,
+            "city": "Port Washington",
+            "address": "84 Old Shore Rd Port Washington, NY 11050"
         },
         {
             "title": "Crown One",
