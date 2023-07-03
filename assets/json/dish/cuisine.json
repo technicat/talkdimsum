@@ -69,6 +69,10 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Yue-Cantonese"
             }
         ]
     },
@@ -172,6 +176,10 @@
                 "URL": "https://en.wikipedia.org/wiki/Fujian_cuisine"
             },
             {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Min-Fujian"
+            },
+            {
                 "name": "Yum Chinese Food",
                 "URL": "https://www.yumchinesefood.com/cuisines/fujian/"
             }
@@ -206,6 +214,10 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Hunan_cuisine"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Xiang-Hunan"
             }
         ]
     },
@@ -242,6 +254,50 @@
     },
     {
         "word": {
+            "English": "Shandong cuisine",
+            "Cantonese": {
+                "text": "魯菜",
+                "wkty": [
+                    "魯菜",
+                    "魯",
+                    "菜"
+                ]
+            },
+            "Yale": "lóuh choi",
+            "Simplified": {
+                "text": "鲁菜",
+                "wkty": [
+                    "鲁菜",
+                    "鲁",
+                    "菜"
+                ]
+            },
+            "Pinyin": "lǔ cài",
+            "description": "{鲁} is another name for *Shanghai*, and {菜} is *vegetable* or *dish* or *cuisine*, so {滬菜} is *Shanghai cuisine* or *Hu cuisine*."
+        },
+        "images": [
+            {
+                "image": "shandong",
+                "place": "Wikipedia"
+            }
+        ],
+        "description": "[Shandong cuisine](https://en.wikipedia.org/wiki/Shandong_cuisine), one of the [Eight Great Chinese Cuisines](https://thewoksoflife.com/8-chinese-cuisines/) is one of the oldest and most influential Chinese cuisines",
+        "tags": [
+            "滬菜"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Lu-shandong"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Shandong_cuisine"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "Shanghai cuisine",
             "Cantonese": {
                 "text": "滬菜",
@@ -251,7 +307,7 @@
                     "菜"
                 ]
             },
-            "Yale": "lóuh choi",
+            "Yale": "wuh choi",
             "Simplified": {
                 "text": "沪菜",
                 "wkty": [
@@ -260,8 +316,8 @@
                     "菜"
                 ]
             },
-            "Pinyin": "lǔ cài",
-            "description": "{滬} is another name for *Shanghai*, and {菜} is *vegetable* or *dish* or *cuisine*, so {滬菜} is *Shanghai cuisine* or *Hu cuisine*."
+            "Pinyin": "hù cài",
+            "description": "{滬} is another name for *Shanghai* (short for {滬江}), and {菜} is *vegetable* or *dish* or *cuisine*, so {滬菜} is *Shanghai cuisine* or *Hu cuisine*."
         },
         "images": [
             {
@@ -269,7 +325,7 @@
                 "place": "Wikipedia"
             }
         ],
-        "description": "[Shanghai cuisine](https://en.wikipedia.org/wiki/Shanghai_cuisine)\n\n**Books**\n\n*Land of Fish and Rice: Recipes from the Culinary Heart of China* by [Fuschia Dunlop](http://www.fuchsiadunlop.com/), and [My Shanghai](https://bettysliu.com/my-shanghai-cookbook/) by [Betty Liu](https://bettysliu.com/) cover the cuisine of [Jiagnan](https://en.wikipedia.org/wiki/Jiangnan), the region surrounding Shanghai.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shanghai_in_China_(%2Ball_claims_hatched).svg)",
+        "description": "[Shanghai cuisine](https://en.wikipedia.org/wiki/Shanghai_cuisine), also known as Hu cuisine, is sometimes considered part of [Jiangsu cuisine](https://en.wikipedia.org/wiki/Jiangsu_cuisine).\n\n**Books**\n\n*Land of Fish and Rice: Recipes from the Culinary Heart of China* by [Fuschia Dunlop](http://www.fuchsiadunlop.com/), and [My Shanghai](https://bettysliu.com/my-shanghai-cookbook/) by [Betty Liu](https://bettysliu.com/) cover the cuisine of [Jiagnan](https://en.wikipedia.org/wiki/Jiangnan), the region surrounding Shanghai.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shanghai_in_China_(%2Ball_claims_hatched).svg)",
         "tags": [
             "滬菜"
         ],
@@ -277,6 +333,10 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Su-Jiangsu"
             }
         ]
     },
@@ -317,6 +377,10 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Chuan-Sichuan"
             }
         ]
     },
