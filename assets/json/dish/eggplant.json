@@ -76,30 +76,37 @@
         "word": {
             "English": "eggplant with potato and peppers",
             "Cantonese": {
-                "text": "",
+                "text": "地三鮮",
                 "wkty": [
+                    "地三鮮",
+                    "地",
+                    "三",
+                    "鮮"
                 ]
             },
-            "Yale": "",
+            "Yale": "deih sāam sīn",
             "Simplified": {
-                "text": "",
+                "text": "地三鲜",
                 "wkty": [
-                   
+                    "地三鲜",
+                    "地",
+                    "三",
+                    "鲜"
                 ]
             },
-            "Pinyin": "",
-            "description": "."
+            "Pinyin": "dì sān xiān",
+            "description": "{地} is *earth*, {三} is *three*, and {鮮} is *fresh* (as in food*, so {地三鮮} is *earth three fresh foods*."
         },
         "images": [
             {
-                "image": "eggplantpotatopeppers",
-                "place": "Chinese Tast, South Salt Lake, Utah"
+                "image": "eggplantpotatopepperschinesetaste",
+                "place": "Chinese Taste, South Salt Lake, Utah"
             }
         ],
-        "description": "",
+        "description": "This is a Shandong dish",
         "tags": [
-            "素",
-            "魚香",
+            "新菜",
+            "魯菜",
             "茄子"
         ],
         "resources": [
