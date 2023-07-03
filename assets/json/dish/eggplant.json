@@ -1,0 +1,112 @@
+[
+    {
+        "word": {
+            "English": "fish fragrant eggplant",
+            "Cantonese": {
+                "text": "魚香茄子",
+                "wkty": [
+                    "魚香",
+                    "魚",
+                    "香",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Yale": "yùh hēung ké jí",
+            "Simplified": {
+                "text": "鱼香茄子",
+                "wkty": [
+                    "鱼香",
+                    "鱼",
+                    "香",
+                    "茄子",
+                    "茄",
+                    "子"
+                ]
+            },
+            "Pinyin": "yú xiāng qié z",
+            "description": "{魚} is *fish*, and {香} is *fragrant* (same {香} used in Hong Kong {香港}), so {魚香} is *fish fragrant*. And {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant), so 魚香茄子 is *fish fragrant eggplant*."
+        },
+        "images": [
+            {
+                "image": "eggplantgarlic2xialongbao",
+                "place": "Xiao Long Bao, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Despite the name, this Sichuan dish has no fish in it (but perhaps playing it safe, it's often listed as *eggplant with garlic*).",
+        "tags": [
+            "川菜",
+            "素",
+            "魚香",
+            "茄子"
+        ],
+        "resources": [
+            {
+                "name": "Lost Laowai",
+                "URL": "https://www.lostlaowai.com/recipes/main-dish/fish-fragrant-eggplant-yu-xiang-qie-zi/"
+            },
+            {
+                "name": "The Omnivores Cookbook",
+                "URL": "https://omnivorescookbook.com/sichuan-eggplant/"
+            },
+            {
+                "name": "Pups with Chopsticks",
+                "URL": "https://pupswithchopsticks.com/chinese-eggplant-with-garlic-sauce/"
+            },
+            {
+                "name": "The Rice Lover",
+                "URL": "https://www.thericelover.com/yuxiang-eggplant/"
+            },
+            {
+                "name": "Sybaritica",
+                "URL": "https://sybaritica.me/yu-xiang-eggplant-%e9%ad%9a%e9%a6%99%e8%8c%84%e5%ad%90/"
+            },
+            {
+                "name": "That Spicy Chick",
+                "URL": "https://thatspicychick.com/yu-xiang-eggplant/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chinese-eggplant-garlic-sauce/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "eggplant with potato and peppers",
+            "Cantonese": {
+                "text": "",
+                "wkty": [
+                ]
+            },
+            "Yale": "",
+            "Simplified": {
+                "text": "",
+                "wkty": [
+                   
+                ]
+            },
+            "Pinyin": "",
+            "description": "."
+        },
+        "images": [
+            {
+                "image": "eggplantpotatopeppers",
+                "place": "Chinese Tast, South Salt Lake, Utah"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "素",
+            "魚香",
+            "茄子"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/di-san-xian-stir-fry/"
+            }
+        ]
+    }
+]
