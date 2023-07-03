@@ -95,7 +95,7 @@
                 ]
             },
             "Pinyin": "dì sān xiān",
-            "description": "{地} is *earth*, {三} is *three*, and {鮮} is *fresh* (as in food*, so {地三鮮} is *earth three fresh foods*."
+            "description": "{地} is *earth*, {三} is *three*, and {鮮} is *fresh* (as in food*), so {地三鮮} is *earth three fresh foods*."
         },
         "images": [
             {
@@ -103,13 +103,22 @@
                 "place": "Chinese Taste, South Salt Lake, Utah"
             }
         ],
-        "description": "This is a Shandong dish",
+        "description": "This is a popular Shandong dish consisting of eggplant, potatoes, and peppers deep-fried or stir-fried and coated in a sauce.",
         "tags": [
             "新菜",
+            "素",
             "魯菜",
             "茄子"
         ],
         "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/di-san-xian-chinese-sauteed-potato-eggplants-and-green-peppers/"
+            },
+            {
+                "name": "The Omnivores Cookbook",
+                "URL": "https://omnivorescookbook.com/di-san-xian-recipe/"
+            },
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/di-san-xian-stir-fry/"
