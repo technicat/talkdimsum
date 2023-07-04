@@ -95,7 +95,7 @@
                 ]
             },
             "Pinyin": "dì sān xiān",
-            "description": "{地} is *earth*, {三} is *three*, and {鮮} is *fresh* (as in food*), so {地三鮮} is *earth three fresh foods*."
+            "description": "{地} is *earth*, {三} is *three*, and {鮮} is *fresh* or *delicious* (freshness is highly prized in food), so {地三鮮} is *earth three fresh foods* or more delectably *three earthly treasures*."
         },
         "images": [
             {
@@ -103,7 +103,7 @@
                 "place": "Chinese Taste, South Salt Lake, Utah"
             }
         ],
-        "description": "This is a popular [Shandong](https://en.wikipedia.org/wiki/Shandong_cuisine) dish consisting of eggplant, potatoes, and peppers deep-fried or stir-fried and coated in a sauce.",
+        "description": "This is a popular [Shandong](https://en.wikipedia.org/wiki/Shandong_cuisine) dish consisting of eggplant, potatoes, and peppers deep-fried or stir-fried and coated in a sauce made with light soy sauce and Shaoxing wine.",
         "tags": [
             "新菜",
             "素",
@@ -118,6 +118,14 @@
             {
                 "name": "The Omnivores Cookbook",
                 "URL": "https://omnivorescookbook.com/di-san-xian-recipe/"
+            },
+            {
+                "name": "The Plant-based Wok",
+                "URL": "https://theplantbasedwok.com/stir-fried-eggplant-potato-and-pepper-di-san-xian/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Disanxian"
             },
             {
                 "name": "The Woks of Life",
