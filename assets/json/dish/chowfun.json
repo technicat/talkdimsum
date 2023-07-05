@@ -206,7 +206,7 @@
                     ]
                 },
                 "Pinyin": "gān chǎo xiā hé",
-                "description": "{乾} is “dry” (there is a “wet” version with gravy), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), 蝦 is “shrimp,” and {河} is short for {河粉} (hòh fán) which is the flat rice noodle."
+                "description": "{乾} is *dry* (there is a *wet* version with gravy), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), 蝦 is *shrimp*, and {河} is short for {河粉} (hòh fán) which is the flat rice noodle."
             },
         "images": [
             {
@@ -215,6 +215,58 @@
             }
         ],
         "description": "Chow fun with shrimp.",
+        "tags": [
+            "粵菜",
+            "炒",
+            "海鮮",
+            "蝦",
+            "河粉",
+            "茶餐廳"
+        ],
+        "resources": [
+            {
+                "name": "Made with Lau",
+                "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"
+            }
+        ]
+    },
+    {
+        "word":
+            {
+                "English": "shrimp w/ scrambled egg and satay chow fun",
+                "Cantonese": {
+                    "text": "沙爹滑蛋蝦炒河",
+                    "wkty": [
+                        "沙爹",
+                        "沙",
+                        "爹",
+                        "蝦",
+                        "炒",
+                        "河"
+                    ]
+                },
+                "Yale": "sā dē waaht dáan cháau hā hòh",
+                "Simplified": {
+                    "text": "沙爹滑蛋虾炒河",
+                    "wkty": [
+                        "沙爹",
+                        "沙",
+                        "爹",
+                        "虾",
+                        "炒",
+                        "河"
+                    ]
+                },
+                "Pinyin": "shā diē huá dàn chǎo xiā hé",
+                "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay), {蝦} is *shrimp*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying),and {河} is short for {河粉} (hòh fán) which is the flat rice noodle."
+            },
+        "images": [
+            {
+                "image": "shrimpscrambledeggsataychowfunorchidsgarden",
+                "place": "Orchids Garden, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Chow fun with shrimp, scrambled egg, and satay sauce.",
         "tags": [
             "粵菜",
             "炒",

@@ -43,5 +43,19 @@
         "Yale": "maht",
         "Jyutping": "mut6",
         "Pinyin": "mì"
+    },
+    {
+        "English": "satay",
+        "Cantonese": {
+            "text": "沙爹",
+            "wkty": [
+                "沙爹",
+                "沙",
+                "爹"
+            ]
+        },
+        "Yale": "sā dē",
+        "Pinyin": "shā diē",
+        "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay)."
     }
 ]
