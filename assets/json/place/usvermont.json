@@ -5,12 +5,16 @@
             "title": "Cafe Dim Sum",
             "links": [
                 {
+                    "name": "site",
+                    "URL": "https://cafe-dim-sum.business.site/"
+                },
+                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/cafe-dim-sum-burlington"
                 }
             ],
             "lat": 44.477583161629674,
-            "lon":  -73.2144339306961,
+            "lon": -73.2144339306961,
             "city": "Burlington",
             "address": "95 St Paul St Burlington, VT 05401"
         }
