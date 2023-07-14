@@ -348,6 +348,7 @@
     ],
     "description": "Slices of brisket and chunks of daikon in a clear soup.",
     "tags": [
+      "港式",
       "湯",
       "清湯",
       "牛肉",
@@ -356,8 +357,20 @@
     ],
     "resources": [
       {
+        "name": "Aunt Emily",
+        "URL": "https://auntieemily.com/beef-brisket-in-clear-broth/"
+      },
+      {
         "name": "Christine's Recipes",
         "URL": "https://en.christinesrecipes.com/2015/03/beef-brisket-in-clear-broth.html"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/beef-brisket-in-clear-broth"
+      },
+      {
+        "name": "Sweet Rehab",
+        "URL": "https://www.sweetrehab.ca/post/beef-brisket-in-clear-broth"
       }
     ]
   },
