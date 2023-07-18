@@ -1,6 +1,80 @@
 [
   {
     "word": {
+      "Cantonese": "麵",
+      "Simplified": "面",
+      "English": "wheat noodles",
+      "Yale": "mihn",
+      "Pinyin": "miàn",
+      "description": "{麵} is [noodles](https://en.wikipedia.org/wiki/Noodle)."
+    },
+    "images": [
+      {
+        "image": "hkcrispynoodlesonlycapitalseafood",
+        "place": "Capital Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chinese [wheat noodles](https://en.wikipedia.org/wiki/Chinese_noodles#Wheat) (as opposed to [rice noodles](https://en.wikipedia.org/wiki/Chinese_noodles#Rice)) are made from wheat flour and water, sometimes with salt, and, for [egg noodles](https://en.wikipedia.org/wiki/Chinese_noodles#Lye-water_or_egg), egg or lye.",
+    "tags": [
+      "麵"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chinese_noodles#Wheat"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "豆腐茄子麵",
+        "wkty": [
+          "豆腐",
+          "茄子",
+          "茄",
+          "子",
+          "麵"
+        ]
+      },
+      "Simplified": {
+        "text": "豆腐茄子麵",
+        "wkty": [
+          "豆腐",
+          "茄子",
+          "茄",
+          "子",
+          "面"
+        ]
+      },
+      "English": "eggplant tofu noodles",
+      "Yale": "mihn",
+      "Pinyin": "miàn",
+      "description": "{豆腐} is *tofu*, {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 豆腐茄子麵 is *tofu eggplant noodles*."
+    },
+    "images": [
+      {
+        "image": "eggplanttofunoodlesonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Wheat noodles topped with eggplant and tofu.",
+    "tags": [
+      "新菜",
+      "豆腐",
+      "茄子",
+      "麵",
+      "素"
+    ],
+    "resources": [
+      {
+        "name": "My Tasty Curry",
+        "URL": "https://mytastycurry.com/chinese-eggplant-tofu"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "scallion oil noodles",
       "Cantonese": {
         "text": "蔥油拌麵",
