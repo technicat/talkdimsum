@@ -1,28 +1,27 @@
 [
   {
-    "word":
-      {
-        "English": "white rice",
-        "Cantonese": {
-          "text": "白飯",
-          "wkty": [
-            "白飯",
-            "白",
-            "飯"
-          ]
-        },
-        "Yale": "baahk faahn",
-        "Simplified": {
-          "text": "白饭",
-          "wkty": [
-            "白饭",
-            "白",
-            "饭"
-          ]
-        },
-        "Pinyin": "bái fàn",
-        "description": "{白} is *white*, and {飯} is *rice* (cooked), so {白飯} is *white rice*.\n\nRice is so intrinsic to Chinese cuisine that {食飯} (sihk faahn), *eat rice*, generally means to have a meal (specifically, a Chinese meal)."
+    "word": {
+      "English": "white rice",
+      "Cantonese": {
+        "text": "白飯",
+        "wkty": [
+          "白飯",
+          "白",
+          "飯"
+        ]
       },
+      "Yale": "baahk faahn",
+      "Simplified": {
+        "text": "白饭",
+        "wkty": [
+          "白饭",
+          "白",
+          "饭"
+        ]
+      },
+      "Pinyin": "bái fàn",
+      "description": "{白} is *white*, and {飯} is *rice* (cooked), so {白飯} is *white rice*.\n\nRice is so intrinsic to Chinese cuisine that {食飯} (sihk faahn), *eat rice*, generally means to have a meal (specifically, a Chinese meal)."
+    },
     "images": [
       {
         "image": "whitericedimsumcafe2",
@@ -65,335 +64,100 @@
     ]
   },
   {
-    "word":
-      {
-        "English": "Hainanese chicken rice",
-        "Cantonese": {
-          "text": "海南雞飯",
-          "wkty": [
-            "海南",
-            "海",
-            "南",
-            "雞",
-            "飯"
-          ]
-        },
-        "Yale": "hói nàahm gāi faahn",
-        "Simplified": {
-          "text": "海南鸡饭",
-          "wkty": [
-            "海南",
-            "海",
-            "南",
-            "鸡",
-            "饭"
-          ]
-        },
-        "Pinyin": "Hǎi nán jī fàn",
-        "description": "{海南} is [Hainan](https://en.wikipedia.org/wiki/Hainan), a southern province in China. {雞} is *chicken*, and {飯} is *rice* (cooked), so 海南雞飯 is *Hainan chicken rice*."
+    "word": {
+      "English": "purple rice",
+      "Cantonese": {
+        "text": "黑米",
+        "wkty": [
+          "黑米",
+          "黑",
+          "米"
+        ]
       },
+      "Yale": "hāk máih",
+      "Pinyin": "hēi mǐ",
+      "description": "{黑} is *black*, and {米} is rice, so {黑米} is *black rice*."
+    },
     "images": [
       {
-        "image": "hainanchickenflockandfowl",
-        "place": "Flock and Fowl, Las Vegas, Nevada"
+        "image": "purplericeeverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
       }
     ],
-    "description": "Poached chicken combined with rice seasoned from the chicken stock. Originating in Hainan and spread through Asia by Hainanese immigrants, this dish is so popular in Singapore that it's considered a national dish there (when people complain about immigrants, they never complain about the food).",
+    "description": "Purple rice is also known as [black rice](https://en.wikipedia.org/wiki/Black_rice), the color before it's cooked, and also forbidden rice or the emperor's rice, as it was legendarily reserved for the emporer.",
     "resources": [
       {
-        "name": "Angel Wong's Kitchen",
-        "URL": "https://www.angelwongskitchen.com/hainanese-chicken-rice--28023213353862239151-h462inaacuten-j299-fagraven.html"
+        "name": "My Korean Kitchen",
+        "URL": "https://mykoreankitchen.com/purple-rice/"
       },
       {
-        "name": "Honest Food Talks",
-        "URL": "https://www.honestfoodtalks.com/hainanese-chicken-rice-recipe/"
+        "name": "Simply Suwanee",
+        "URL": "https://www.simplysuwanee.com/how-to-make-purple-sticky-rice/"
       },
       {
-        "name": "The Woks of Life",
-        "URL": "https://thewoksoflife.com/hainanese-chicken-rice-%E6%B5%B7%E5%8D%97%E9%B8%A1/"
+        "name": "The Viet Vegan",
+        "URL": "https://thevietvegan.com/how-to-make-purple-rice/"
+      },
+      {
+        "name": "The Spruce Eats",
+        "URL": "https://www.thespruceeats.com/what-is-forbidden-rice-1664717"
+      },
+      {
+        "name": "Fine Dining Lovers",
+        "URL": "https://www.finedininglovers.com/article/purple-rice-what-is-it-how-to-cook-it"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Black_rice"
       }
     ],
     "tags": [
-      "茶餐廳",
-      "海南",
-      "雞",
+      "蒸",
       "飯",
-      "白飯"
+      "素"
     ]
   },
   {
-    "word":
-      {
-        "English": "fried chicken on rice",
-        "Cantonese": {
-          "text": "炸雞飯",
-          "wkty": [
-            "炸雞",
-            "炸",
-            "雞",
-            "飯"
-          ]
-        },
-        "Yale": "ja gāi faahn",
-        "Simplified": {
-          "text": "炸鸡饭",
-          "wkty": [
-            "炸鸡",
-            "炸",
-            "鸡",
-            "饭"
-          ]
-        },
-        "Pinyin": "zhà jī fàn",
-        "description": "{炸} is *deep-fried*, {雞} is *chicken*, and {飯} is *rice* (cooked), so 蒸 is *fried chicken rice*."
+    "word": {
+      "English": "jasmine rice",
+      "Cantonese": {
+        "text": "茉莉香米",
+        "wkty": [
+          "茉莉香米",
+          "茉莉",
+          "茉",
+          "莉",
+          "香米",
+          "香",
+          "米"
+        ]
       },
+      "Yale": "muht léi hēung máih",
+      "Pinyin": "mò liá xiāng mǐ",
+      "description": "{茉莉} is [jasmine](https://en.wikipedia.org/wiki/Jasmine), and {香米} is *fragrant rice*, {香} is *fragrant*, and {米} is rice, so {茉莉香米} is *jasmine fragrant rice*."
+    },
     "images": [
       {
-        "image": "friedchickenricebigwong",
-        "place": "Big Wong, Las Vegas, Nevada"
+        "image": "jasminericerf",
+        "place": "R and F Market, South Salt Lake, Utah"
       }
     ],
-    "description": "Deep-fried pork chop served on white rice.",
-    "tags": [
-      "茶餐廳",
-      "雞",
-      "飯",
-      "白飯"
-    ],
-    "resources": []
-  },
-  {
-    "word":
-      {
-        "English": "fried pork chop on rice",
-        "Cantonese": {
-          "text": "炸豬扒飯",
-          "wkty": [
-            "炸",
-            "豬扒",
-            "豬",
-            "扒",
-            "飯"
-          ]
-        },
-        "Yale": "ja jyū pàh faahn",
-        "Simplified": {
-          "text": "炸猪扒饭",
-          "wkty": [
-            "炸",
-            "豬扒",
-            "豬",
-            "扒",
-            "饭"
-          ]
-        },
-        "Pinyin": "zhà zhū bā fàn",
-        "description": "{炸} is *deep-fried*, {豬扒} is *pork chop*, and {飯} is *rice* (cooked), so 炸豬扒飯 is *deep-fried pork chop rice*."
-      },
-    "images": [
-      {
-        "image": "porkchopricebigwong",
-        "place": "Big Wong, Las Vegas, Nevada"
-      }
-    ],
-    "description": "Deep-fried pork chop served on white rice.",
-    "tags": [
-      "茶餐廳",
-      "豬扒",
-      "豬",
-      "白飯"
-    ],
-    "resources": []
-  },
-  {
-    "word":
-      {
-        "English": "steamed chicken w/ mushrooms on rice",
-        "Cantonese": {
-          "text": "冬菇蒸雞飯",
-          "wkty": [
-            "冬菇",
-            "冬",
-            "菇",
-            "蒸",
-            "雞",
-            "飯"
-          ]
-        },
-        "Yale": "dūng gū jīng gāi faahn",
-        "Simplified": {
-          "text": "冬菇蒸鸡饭",
-          "wkty": [
-            "冬菇",
-            "冬",
-            "菇",
-            "蒸",
-            "鸡",
-            "饭"
-          ]
-        },
-        "Pinyin": "dōng gū zhēng jī fàn",
-        "description": "{冬菇} is *winter mushroom* (a high-grade [shiitake](https://en.wikipedia.org/wiki/Shiitake)), {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {雞} is *chicken*, and {飯} is *rice* (cooked), so *mushroom steamed chicken rice*."
-      },
-    "images": [
-      {
-        "image": "steamedchickenricebigwong",
-        "place": "Big Wong, Las Vegas, Nevada"
-      }
-    ],
-    "description": "Steamed chicken and mushrooms served on white rice.",
-    "tags": [
-      "冬菇",
-      "茶餐廳",
-      "雞",
-      "飯",
-      "白飯"
-    ],
+    "description": "[Jasmine rice](https://en.wikipedia.org/wiki/Jasmine_rice) is a long grain fragrant, or aromatic, rice primarily grown in Southeast Asia.",
     "resources": [
       {
-        "name": "Christine's Recipes",
-        "URL": "https://en.christinesrecipes.com/2010/02/steamed-chicken-rice.html"
-      }
-    ]
-  },
-  {
-    "word":
-      {
-        "English": "grilled eel on rice",
-        "Cantonese": {
-          "text": "鰻魚飯",
-          "wkty": [
-            "鰻魚",
-            "鰻",
-            "魚",
-            "飯"
-          ]
-        },
-        "Yale": "màahn yú faahn",
-        "Simplified": {
-          "text": "鳗鱼饭",
-          "wkty": [
-            "鳗鱼",
-            "鳗",
-            "鱼",
-            "饭"
-          ]
-        },
-        "Pinyin": "mán yú fàn",
-        "description": "{鰻魚} is [eel](https://en.wikipedia.org/wiki/Eel) and {飯} is *rice* (cooked), so 鰻魚飯 is *eel rice*."
+        "name": "The Spruce Eats",
+        "URL": "https://www.thespruceeats.com/cooking-with-jasmine-rice-2355377"
       },
-    "images": [
       {
-        "image": "eelricebigwong",
-        "place": "Big Wong, Las Vegas, Nevada"
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Jasmine_rice"
       }
     ],
-    "description": "Grilled eel served on white rice.",
     "tags": [
-      "茶餐廳",
-      "鰻魚",
-      "魚",
+      "茉莉",
+      "蒸",
       "飯",
-      "白飯"
-    ],
-    "resources": [
-      {
-        "name": "Learn Chinese Food",
-        "URL": "https://learnchinesefood.com/detail%3D9261"
-      }
-    ]
-  },
-  {
-    "word":
-      {
-        "English": "ginger duck w/ scallions on rice",
-        "Cantonese": "薑蔥鴨飯",
-        "Yale": "gēung chūng aap faahn",
-        "Simplified": "姜蔥鸭饭",
-        "Pinyin": "jiāng cōng yā fàn",
-        "description": "{飯} is *rice* (cooked)."
-      },
-    "images": [
-      {
-        "image": "gingerscallionduckricebananaleafcafe",
-        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
-      }
-    ],
-    "description": "",
-    "tags": [
-      "蔥",
-      "鴨",
-      "薑",
-      "飯",
-      "白飯"
-    ],
-    "resources": []
-  },
-  {
-    "word":
-      {
-        "English": "minced beef on rice",
-        "Cantonese": {
-          "text": "蒸冬菜牛肉餅飯",
-          "wkty": [
-            "蒸",
-            "冬菜",
-            "冬",
-            "菜",
-            "牛肉",
-            "牛",
-            "肉餅",
-            "肉",
-            "餅",
-            "飯"
-          ]
-        },
-        "Simplified": {
-          "text": "蒸冬菜牛肉餅饭",
-          "wkty": [
-            "蒸",
-            "冬菜",
-            "冬",
-            "菜",
-            "牛肉",
-            "牛",
-            "肉餅",
-            "肉",
-            "餅",
-            "饭"
-          ]
-        },
-        "Yale": "jīng dūng choi ngàuh yuhk faahn",
-        "Pinyin": "zhēng dōng cài niú ròu fàn",
-        "description": "{飯} is *rice* (cooked)."
-      },
-    "images": [
-      {
-        "image": "mincedbeeffriedeggricetimhowan",
-        "place": "Tim Ho Wan, Las Vegas, Nevada"
-      }
-    ],
-    "description": "",
-    "tags": [
-      "冬菜",
-      "牛肉",
-      "肉餅",
-      "飯",
-      "白飯"
-    ],
-    "resources": [
-      {
-        "name": "Cook Eat Share",
-        "URL": "https://cookeatshare.com/recipes/steamed-beef-mince-on-rice-778501/external"
-      },
-      {
-        "name": "Christine's Recipes",
-        "URL": "https://en.christinesrecipes.com/2015/05/steamed-beef-mince-on-rice.html"
-      },
-      {
-        "name": "Jackie M",
-        "URL": "https://jackiem.com.au/2019/08/15/steamed-minced-beef-with-rice-yum-cha-recipe/"
-      }
+      "素"
     ]
   }
 ]

@@ -1,0 +1,334 @@
+[
+  {
+    "word":
+      {
+        "English": "Hainanese chicken rice",
+        "Cantonese": {
+          "text": "海南雞飯",
+          "wkty": [
+            "海南",
+            "海",
+            "南",
+            "雞",
+            "飯"
+          ]
+        },
+        "Yale": "hói nàahm gāi faahn",
+        "Simplified": {
+          "text": "海南鸡饭",
+          "wkty": [
+            "海南",
+            "海",
+            "南",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "Hǎi nán jī fàn",
+        "description": "{海南} is [Hainan](https://en.wikipedia.org/wiki/Hainan), a southern province in China. {雞} is *chicken*, and {飯} is *rice* (cooked), so 海南雞飯 is *Hainan chicken rice*."
+      },
+    "images": [
+      {
+        "image": "hainanchickenflockandfowl",
+        "place": "Flock and Fowl, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Poached chicken combined with rice seasoned from the chicken stock. Originating in Hainan and spread through Asia by Hainanese immigrants, this dish is so popular in Singapore that it's considered a national dish there (when people complain about immigrants, they never complain about the food).",
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/hainanese-chicken-rice--28023213353862239151-h462inaacuten-j299-fagraven.html"
+      },
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/hainanese-chicken-rice-recipe/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/hainanese-chicken-rice-%E6%B5%B7%E5%8D%97%E9%B8%A1/"
+      }
+    ],
+    "tags": [
+      "茶餐廳",
+      "海南",
+      "雞",
+      "飯",
+      "白飯"
+    ]
+  },
+  {
+    "word":
+      {
+        "English": "fried chicken on rice",
+        "Cantonese": {
+          "text": "炸雞飯",
+          "wkty": [
+            "炸雞",
+            "炸",
+            "雞",
+            "飯"
+          ]
+        },
+        "Yale": "ja gāi faahn",
+        "Simplified": {
+          "text": "炸鸡饭",
+          "wkty": [
+            "炸鸡",
+            "炸",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "zhà jī fàn",
+        "description": "{炸} is *deep-fried*, {雞} is *chicken*, and {飯} is *rice* (cooked), so 蒸 is *fried chicken rice*."
+      },
+    "images": [
+      {
+        "image": "friedchickenricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Deep-fried pork chop served on white rice.",
+    "tags": [
+      "茶餐廳",
+      "雞",
+      "飯",
+      "白飯"
+    ],
+    "resources": []
+  },
+  {
+    "word":
+      {
+        "English": "fried pork chop on rice",
+        "Cantonese": {
+          "text": "炸豬扒飯",
+          "wkty": [
+            "炸",
+            "豬扒",
+            "豬",
+            "扒",
+            "飯"
+          ]
+        },
+        "Yale": "ja jyū pàh faahn",
+        "Simplified": {
+          "text": "炸猪扒饭",
+          "wkty": [
+            "炸",
+            "豬扒",
+            "豬",
+            "扒",
+            "饭"
+          ]
+        },
+        "Pinyin": "zhà zhū bā fàn",
+        "description": "{炸} is *deep-fried*, {豬扒} is *pork chop*, and {飯} is *rice* (cooked), so 炸豬扒飯 is *deep-fried pork chop rice*."
+      },
+    "images": [
+      {
+        "image": "porkchopricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Deep-fried pork chop served on white rice.",
+    "tags": [
+      "茶餐廳",
+      "豬扒",
+      "豬",
+      "白飯"
+    ],
+    "resources": []
+  },
+  {
+    "word":
+      {
+        "English": "steamed chicken w/ mushrooms on rice",
+        "Cantonese": {
+          "text": "冬菇蒸雞飯",
+          "wkty": [
+            "冬菇",
+            "冬",
+            "菇",
+            "蒸",
+            "雞",
+            "飯"
+          ]
+        },
+        "Yale": "dūng gū jīng gāi faahn",
+        "Simplified": {
+          "text": "冬菇蒸鸡饭",
+          "wkty": [
+            "冬菇",
+            "冬",
+            "菇",
+            "蒸",
+            "鸡",
+            "饭"
+          ]
+        },
+        "Pinyin": "dōng gū zhēng jī fàn",
+        "description": "{冬菇} is *winter mushroom* (a high-grade [shiitake](https://en.wikipedia.org/wiki/Shiitake)), {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {雞} is *chicken*, and {飯} is *rice* (cooked), so *mushroom steamed chicken rice*."
+      },
+    "images": [
+      {
+        "image": "steamedchickenricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Steamed chicken and mushrooms served on white rice.",
+    "tags": [
+      "冬菇",
+      "茶餐廳",
+      "雞",
+      "飯",
+      "白飯"
+    ],
+    "resources": [
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2010/02/steamed-chicken-rice.html"
+      }
+    ]
+  },
+  {
+    "word":
+      {
+        "English": "grilled eel on rice",
+        "Cantonese": {
+          "text": "鰻魚飯",
+          "wkty": [
+            "鰻魚",
+            "鰻",
+            "魚",
+            "飯"
+          ]
+        },
+        "Yale": "màahn yú faahn",
+        "Simplified": {
+          "text": "鳗鱼饭",
+          "wkty": [
+            "鳗鱼",
+            "鳗",
+            "鱼",
+            "饭"
+          ]
+        },
+        "Pinyin": "mán yú fàn",
+        "description": "{鰻魚} is [eel](https://en.wikipedia.org/wiki/Eel) and {飯} is *rice* (cooked), so 鰻魚飯 is *eel rice*."
+      },
+    "images": [
+      {
+        "image": "eelricebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Grilled eel served on white rice.",
+    "tags": [
+      "茶餐廳",
+      "鰻魚",
+      "魚",
+      "飯",
+      "白飯"
+    ],
+    "resources": [
+      {
+        "name": "Learn Chinese Food",
+        "URL": "https://learnchinesefood.com/detail%3D9261"
+      }
+    ]
+  },
+  {
+    "word":
+      {
+        "English": "ginger duck w/ scallions on rice",
+        "Cantonese": "薑蔥鴨飯",
+        "Yale": "gēung chūng aap faahn",
+        "Simplified": "姜蔥鸭饭",
+        "Pinyin": "jiāng cōng yā fàn",
+        "description": "{飯} is *rice* (cooked)."
+      },
+    "images": [
+      {
+        "image": "gingerscallionduckricebananaleafcafe",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "蔥",
+      "鴨",
+      "薑",
+      "飯",
+      "白飯"
+    ],
+    "resources": []
+  },
+  {
+    "word":
+      {
+        "English": "minced beef on rice",
+        "Cantonese": {
+          "text": "蒸冬菜牛肉餅飯",
+          "wkty": [
+            "蒸",
+            "冬菜",
+            "冬",
+            "菜",
+            "牛肉",
+            "牛",
+            "肉餅",
+            "肉",
+            "餅",
+            "飯"
+          ]
+        },
+        "Simplified": {
+          "text": "蒸冬菜牛肉餅饭",
+          "wkty": [
+            "蒸",
+            "冬菜",
+            "冬",
+            "菜",
+            "牛肉",
+            "牛",
+            "肉餅",
+            "肉",
+            "餅",
+            "饭"
+          ]
+        },
+        "Yale": "jīng dūng choi ngàuh yuhk faahn",
+        "Pinyin": "zhēng dōng cài niú ròu fàn",
+        "description": "{飯} is *rice* (cooked)."
+      },
+    "images": [
+      {
+        "image": "mincedbeeffriedeggricetimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "冬菜",
+      "牛肉",
+      "肉餅",
+      "飯",
+      "白飯"
+    ],
+    "resources": [
+      {
+        "name": "Cook Eat Share",
+        "URL": "https://cookeatshare.com/recipes/steamed-beef-mince-on-rice-778501/external"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2015/05/steamed-beef-mince-on-rice.html"
+      },
+      {
+        "name": "Jackie M",
+        "URL": "https://jackiem.com.au/2019/08/15/steamed-minced-beef-with-rice-yum-cha-recipe/"
+      }
+    ]
+  }
+]
