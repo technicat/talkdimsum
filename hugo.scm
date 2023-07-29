@@ -15,7 +15,7 @@
    (v "v|verbose")
    . restargs)
   (if (not h)
-    (let ((r (read-categories "assets/json/dishes.categories.json")))
+    (let ((r (read-categories "assets/json/dish/categories.json")))
      (if v (print r))
      (if o
         (write-categories r o))))))
