@@ -17,9 +17,10 @@
    (v "v|verbose")
    . restargs)
   (if (not h)
-   (let ((cats (read-json "assets/json/dish/categories.json")))
+   (let ((cats (read-json "assets/json/dish/categories.json"))
+         (dishes (read-dishes)))
     (if v (print cats))
-    (read-dishes)))))
+    (if v (print dishes))))))
 
 (define (help file)
  (print "dimsum.scm -f file -o outfile -v -h"))
@@ -27,7 +28,6 @@
 
 (define read-dishes
  (let ((files (read-json "assets/json/dish/dishes.json")))
-  (for-each (lambda (file)
-             (let ((dishes (read-json #"assets/json/dish/~|file|.json")))
-              (print dishes)))
-   files)))
+  (fold 'concat (map (lambda (file)
+                      (read-json #"assets/json/dish/~|file|.json"))
+                 files) [])))
