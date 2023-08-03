@@ -18,14 +18,15 @@
    . restargs)
   (if (not h)
    (let ((dishes (read-dishes)))
-    (if v (print dishes))
+    (if v (for-each (lambda (dish) (print dish))
+    dishes))
     (if o (write-dishes dishes))))))
 
 (define (help file)
  (print "hugo.scm -o -v -h"))
 
 (define (read-dishes)
- (let ((files (read-json "assets/json/dish/dishes.json")))
+ (let ((files (read-json "assets/json/dishes.json")))
   (fold 'concat (map (lambda (file)
                       (read-json #"assets/json/dish/~|file|.json"))
                  files) [])))
@@ -36,7 +37,7 @@
   dishes))
 
 (define (write-dish-file dish)
- (let ((file #"../hugodimsum/content/talkdimsum/dishes/~(cantonese dish)"))
+ (let ((file #"../hugodimsum/content/talkdimsum/dishes/~(text (cantonese dish))"))
   (call-with-output-file file (lambda (out)
                                (write-dish dish out)))))
 
