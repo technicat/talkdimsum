@@ -32,8 +32,8 @@
 
 (define (write-dishes dishes)
  (for-each (lambda (dish)
-            (write-dish-file dish)
-            dishes)))
+            (write-dish-file dish))
+  dishes))
 
 (define (write-dish-file dish)
  (let ((file #"../hugodimsum/content/talkdimsum/dishes/~(cantonese dish)"))
