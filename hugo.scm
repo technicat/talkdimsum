@@ -17,17 +17,17 @@
    (v "v|verbose")
    . restargs)
   (if (not h)
-    (let ((cats (read-json "assets/json/dish/categories.json"))
-      (dishes (read-json "assets/json/dish/dishes.json")))
-     (if v (print cats))
-       (if v (print dishes))
-     (if o
-        (write-categories cats o))))))
+   (let ((cats (read-json "assets/json/dish/categories.json")))
+    (if v (print cats))
+    (read-dishes)))))
 
 (define (help file)
  (print "dimsum.scm -f file -o outfile -v -h"))
 
-(define (write-categories r file)
- (call-with-output-file file
-  (lambda (out)
-    (for-each (lambda (r) (markdown-profile r out)) p))))
+
+(define read-dishes
+ (let ((files (read-json "assets/json/dish/dishes.json")))
+  (for-each (lambda (file)
+             (let ((dishes (read-json #"assets/json/dish/~|file|.json")))
+              (print dishes)))
+   files)))
