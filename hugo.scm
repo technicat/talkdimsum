@@ -3,11 +3,13 @@
 ; convert json files for hugo website
 
 (use file.util)
+(use gauche.array)
 (use gauche.collection)
 (use gauche.parseopt)
 (use rfc.json)
 
 (include "../schematic/lib/json.scm")
+(include "../schematic/lib/md.scm")
 
 (define (main args)
  (let-args (cdr args)
@@ -18,8 +20,7 @@
    . restargs)
   (if (not h)
    (let ((dishes (read-dishes)))
-    (if v (for-each (lambda (dish) (print dish))
-    dishes))
+    (if v (print dishes))
     (if o (write-dishes dishes))))))
 
 (define (help file)
@@ -27,9 +28,9 @@
 
 (define (read-dishes)
  (let ((files (read-json "assets/json/dishes.json")))
-  (fold 'concat (map (lambda (file)
-                      (read-json #"assets/json/dish/~|file|.json"))
-                 files) [])))
+  (concatenate (vector->list (vector-map (lambda (file)
+                                          (vector->list (read-json #"assets/json/dish/~|file|.json")))
+                              files)))))
 
 (define (write-dishes dishes)
  (for-each (lambda (dish)
