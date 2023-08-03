@@ -23,12 +23,30 @@
 (define (help file)
  (print "dimsum.scm -f file -o outfile -v -h"))
 
-
 (define (read-dishes)
  (let ((files (read-json "assets/json/dish/dishes.json")))
   (fold 'concat (map (lambda (file)
                       (read-json #"assets/json/dish/~|file|.json"))
                  files) [])))
 
+(define (write-dishes dishes)
+ (for-each (lambda (dish)
+            (write-dish dish)
+            dishes)))
+
+(define (write-dish dish)
+ (let ((file #"../hugodimsum/talkdimsum/dishes/~(cantonese dish)"))
+  (call-with-output-file file (lambda (out)
+                               (print-dish dish)))))
+
 (define (read-cats)
  (let ((words (read-json "assets/json/dish/categories.json")))))
+
+(define (word dish)
+ (res-value "word" dish))
+
+(define (english dish)
+ (res-value "English" (word dish)))
+
+(define (cantonese dish)
+ (res-value "Cantonese" (word dish)))
