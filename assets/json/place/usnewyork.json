@@ -586,6 +586,10 @@
                 {
                     "name": "The Lo-Down",
                     "URL": "https://www.thelodownny.com/leslog/2022/12/dim-sum-palace-opens-at-27-division-st.html"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-16"
                 }
             ],
             "lat": 40.71412878286646,
@@ -619,7 +623,7 @@
                 },
                 {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-7?osq=dim+sum+palace"
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-7"
                 }
             ],
             "lat": 40.76299228714489,
@@ -636,7 +640,7 @@
                 },
                 {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-9?osq=dim+sum+palace"
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-9"
                 }
             ],
             "lat": 40.72609767083801,
@@ -645,7 +649,7 @@
             "address": "59 2nd Ave, New York, NY 10003"
         },
         {
-            "title": "Dim Sum Palace (Midtown 33rd)",
+            "title": "Dim Sum Palace (Koreatown)",
             "links": [
                 {
                     "name": "site",
@@ -653,13 +657,30 @@
                 },
                 {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-11?osq=dim+sum+palace"
+                    "URL": "https://www.yelp.com/biz/dim-sum-palace-new-york-11"
                 }
             ],
             "lat": 40.748794150120226,
             "lon": -73.98677213081123,
             "city": "New York",
             "address": "33 W 33rd St, New York, NY 10001"
+        },
+        {
+            "title": "Dim Sum Palace (Financial District)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumpalace.com/"
+                },
+                {
+                    "name": "Shore News Network",
+                    "URL": "https://www.shorenewsnetwork.com/2023/07/28/city-hall-will-soon-be-steps-away-from-the-newest-dim-sum-palace/"
+                }
+            ],
+            "lat": 40.70965449147085,
+            "lon": -74.00732768972767,
+            "city": "New York",
+            "address": "123 William Street, New York, NY 10038"
         },
         {
             "title": "Dim Sum Sam",
