@@ -7,6 +7,8 @@
 (use gauche.parseopt)
 (use rfc.json)
 
+(include "../schematic/lib/json.scm")
+
 (define (main args)
  (let-args (cdr args)
   ((h "h|help" => (cut help (car args)))
@@ -15,21 +17,15 @@
    (v "v|verbose")
    . restargs)
   (if (not h)
-    (let ((r (read-categories "assets/json/dish/categories.json")))
-     (if v (print r))
+    (let ((cats (read-json "assets/json/dish/categories.json"))
+      (dishes (read-json "assets/json/dish/dishes.json")))
+     (if v (print cats))
+       (if v (print dishes))
      (if o
-        (write-categories r o))))))
+        (write-categories cats o))))))
 
 (define (help file)
  (print "dimsum.scm -f file -o outfile -v -h"))
-
-(define (read-categories file)
- (guard (e (else (print #"JSON error in ~file")
-            (print (condition-message e))
-            #\f))
-  ; assume one json obj, otherwise use parse-json*
-  (let ((exp (call-with-input-file file parse-json)))
-   exp)))
 
 (define (write-categories r file)
  (call-with-output-file file
