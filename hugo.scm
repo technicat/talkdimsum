@@ -40,7 +40,11 @@
                                (write-dish dish out)))))
 
 (define (write-dish dish out)
- (h1 (english dish) out))
+ (write-string "---" out)
+ (newline out)
+ (write-string (english dish) out)
+ (newline out)
+ (write-string "---" out))
 
 (define (read-cats)
  (let ((words (read-json "assets/json/dish/categories.json")))))
