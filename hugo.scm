@@ -31,13 +31,16 @@
 
 (define (write-dishes dishes)
  (for-each (lambda (dish)
-            (write-dish dish)
+            (write-dish-file dish)
             dishes)))
 
-(define (write-dish dish)
+(define (write-dish-file dish)
  (let ((file #"../hugodimsum/talkdimsum/dishes/~(cantonese dish)"))
   (call-with-output-file file (lambda (out)
-                               (print-dish dish)))))
+                               (write-dish dish out)))))
+
+(define (write-dish dish out)
+ (h1 (english dish) out))
 
 (define (read-cats)
  (let ((words (read-json "assets/json/dish/categories.json")))))
@@ -50,3 +53,10 @@
 
 (define (cantonese dish)
  (res-value "Cantonese" (word dish)))
+
+(define (text chinese)
+ (if (string? chinese)
+  chinese
+  (res-value "text" chinese)))
+
+
