@@ -1,6 +1,6 @@
 #!/usr/local/bin/gosh
 
-; convert json files to hugo
+; convert json files for hugo website
 
 (use file.util)
 (use gauche.collection)
@@ -13,15 +13,16 @@
  (let-args (cdr args)
   ((h "h|help" => (cut help (car args)))
    (f "f|file=s")
-   (o "o|out=s")
+   (o "o|out")
    (v "v|verbose")
    . restargs)
   (if (not h)
    (let ((dishes (read-dishes)))
-    (if v (print dishes))))))
+    (if v (print dishes))
+    (if o (write-dishes dishes))))))
 
 (define (help file)
- (print "dimsum.scm -f file -o outfile -v -h"))
+ (print "hugo.scm -o -v -h"))
 
 (define (read-dishes)
  (let ((files (read-json "assets/json/dish/dishes.json")))
@@ -35,7 +36,7 @@
             dishes)))
 
 (define (write-dish-file dish)
- (let ((file #"../hugodimsum/talkdimsum/dishes/~(cantonese dish)"))
+ (let ((file #"../hugodimsum/content/talkdimsum/dishes/~(cantonese dish)"))
   (call-with-output-file file (lambda (out)
                                (write-dish dish out)))))
 
