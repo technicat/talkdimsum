@@ -15,16 +15,21 @@
  (let-args (cdr args)
   ((h "h|help" => (cut help (car args)))
    (f "f|file=s")
+    (o "i|image")
    (o "o|out")
    (v "v|verbose")
    . restargs)
   (if (not h)
    (let ((dishes (read-dishes)))
+    (if i (copy-images))
     (if v (print dishes))
     (if o (write-dishes dishes))))))
 
 (define (help file)
- (print "hugo.scm -o -v -h"))
+ (print "hugo.scm -o -v -i -h"))
+
+(define (copy-images)
+(copy-directory* "assets/images" "../hugodimsum/assets/images" :if-exists :supersede))
 
 (define (read-dishes)
  (let ((files (read-json "assets/json/dishes.json")))
@@ -38,7 +43,7 @@
   dishes))
 
 (define (write-dish-file dish)
- (let ((file #"../hugodimsum/content/talkdimsum/dishes/~(text (cantonese dish)).md"))
+ (let ((file #"../hugodimsum/content/dishes/~(text (cantonese dish)).md"))
   (call-with-output-file file (lambda (out)
                                (write-dish dish out)))))
 
@@ -51,10 +56,16 @@
  (newline out)
  (write-string "---" out)
  (h1 "Chinese" out)
-  (write-string #"Cantonese: ~(text (cantonese dish))" out)
-  (h1 "Description" out)
-  (write-string (description dish) out)
- (newline out))
+ (write-string #"Cantonese: ~(text (cantonese dish))" out)
+ (h1 "Description" out)
+ (write-string (description dish) out)
+ (news out)
+ (let ((wd (word-description dish)))
+  (if wd
+   (begin
+    (h2 "Characters" out)
+    (write-string (word-description dish) out)
+    (newline out)))))
 
 (define (read-cats)
  (let ((words (read-json "assets/json/dish/categories.json")))))
@@ -75,5 +86,8 @@
 
 (define (description dish)
  (res-value "description" dish))
+
+(define (word-description dish)
+ (res-value "description" (word dish)))
 
 
