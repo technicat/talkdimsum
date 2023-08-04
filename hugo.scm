@@ -15,7 +15,7 @@
  (let-args (cdr args)
   ((h "h|help" => (cut help (car args)))
    (f "f|file=s")
-    (o "i|image")
+   (i "i|image")
    (o "o|out")
    (v "v|verbose")
    . restargs)
@@ -29,7 +29,7 @@
  (print "hugo.scm -o -v -i -h"))
 
 (define (copy-images)
-(copy-directory* "assets/images" "../hugodimsum/assets/images" :if-exists :supersede))
+ (copy-directory* "assets/images" "../hugodimsum/assets/images" :if-exists :supersede))
 
 (define (read-dishes)
  (let ((files (read-json "assets/json/dishes.json")))
