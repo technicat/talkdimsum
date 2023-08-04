@@ -29,7 +29,7 @@
  (print "hugo.scm -o -v -i -h"))
 
 (define (copy-images)
- (copy-directory* "assets/images" "../hugodimsum/assets/images" :if-exists :supersede))
+ (copy-directory* "assets/images" "../hugodimsum/content/dishes/images" :if-exists :supersede))
 
 (define (read-dishes)
  (let ((files (read-json "assets/json/dishes.json")))
@@ -59,6 +59,10 @@
  (h1 "Chinese" out)
  (write-string #"Cantonese: ~(text (cantonese dish))" out)
  (news out)
+ (if (yale dish)
+  (write-string (yale dish) out)
+  (write-string "Missing Yale" out))
+ (news out)
  (embed (image-place dish) #"images/~(image-name dish)" out)
  (news out)
  (write-dish-description dish out))
@@ -75,9 +79,6 @@
     (write-string (word-description dish) out)
     (newline out)))))
 
-(define (read-cats)
- (let ((words (read-json "assets/json/dish/categories.json")))))
-
 (define (word dish)
  (res-value "word" dish))
 
@@ -91,7 +92,7 @@
  (res-value "Mandarin" (word dish)))
 
 (define (simplified dish)
- (res-value "simplified" (word dish)))
+ (res-value "Simplified" (word dish)))
 
 (define (yale dish)
  (res-value "Yale" (word dish)))
@@ -119,4 +120,7 @@
 (define (word-description dish)
  (res-value "description" (word dish)))
 
+; categories
 
+(define (read-cats)
+ (let ((words (read-json "assets/json/dish/categories.json")))))
