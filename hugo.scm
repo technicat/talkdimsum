@@ -38,16 +38,23 @@
   dishes))
 
 (define (write-dish-file dish)
- (let ((file #"../hugodimsum/content/talkdimsum/dishes/~(text (cantonese dish))"))
+ (let ((file #"../hugodimsum/content/talkdimsum/dishes/~(text (cantonese dish)).md"))
   (call-with-output-file file (lambda (out)
                                (write-dish dish out)))))
 
 (define (write-dish dish out)
  (write-string "---" out)
  (newline out)
- (write-string (english dish) out)
+ (write-string #"title: ~(english dish)" out)
  (newline out)
- (write-string "---" out))
+ (write-string #"showDate: false" out)
+ (newline out)
+ (write-string "---" out)
+ (h1 "Chinese" out)
+  (write-string #"Cantonese: ~(text (cantonese dish))" out)
+  (h1 "Description" out)
+  (write-string (description dish) out)
+ (newline out))
 
 (define (read-cats)
  (let ((words (read-json "assets/json/dish/categories.json")))))
@@ -65,5 +72,8 @@
  (if (string? chinese)
   chinese
   (res-value "text" chinese)))
+
+(define (description dish)
+ (res-value "description" dish))
 
 
