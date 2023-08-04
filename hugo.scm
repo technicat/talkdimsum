@@ -55,14 +55,22 @@
  (write-string #"showDate: false" out)
  (newline out)
  (write-string "---" out)
+ (news out)
  (h1 "Chinese" out)
  (write-string #"Cantonese: ~(text (cantonese dish))" out)
+ (news out)
+ (embed (image-place dish) #"images/~(image-name dish)" out)
+ (news out)
+ (write-dish-description dish out))
+
+(define (write-dish-description dish out)
  (h1 "Description" out)
  (write-string (description dish) out)
  (news out)
  (let ((wd (word-description dish)))
   (if wd
    (begin
+    (news out)
     (h2 "Characters" out)
     (write-string (word-description dish) out)
     (newline out)))))
@@ -78,6 +86,27 @@
 
 (define (cantonese dish)
  (res-value "Cantonese" (word dish)))
+
+(define (mandarin dish)
+ (res-value "Mandarin" (word dish)))
+
+(define (simplified dish)
+ (res-value "simplified" (word dish)))
+
+(define (yale dish)
+ (res-value "Yale" (word dish)))
+
+(define (pinyin dish)
+ (res-value "Pinyin" (word dish)))
+
+(define (image dish)
+ (vector-ref (res-value "images" dish) 0))
+
+(define (image-name dish)
+ (res-value "image" (image dish)))
+
+(define (image-place dish)
+ (res-value "place" (image dish)))
 
 (define (text chinese)
  (if (string? chinese)
