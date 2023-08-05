@@ -50,9 +50,12 @@
 (define (write-dish-header dish out)
  (write-string "---" out)
  (newline out)
- (write-string #"title: ~(english dish)" out)
+ (write-string #"title: \"~(english dish)\"" out)
  (newline out)
- (write-string "tags: []" out)
+ (let ((tags (tags dish)))
+  (if tags
+   (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
+    (write-string #"tags: [~(comma-list qtags)]" out))))
  (newline out)
  (write-string #"showDate: false" out)
  (newline out)
@@ -68,8 +71,8 @@
   (write-string (yale dish) out)
   (write-string "Missing Yale" out))
  (news out)
-; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
-  (embed (image-place dish) #"images/~(image-name dish).jpg" out)
+ ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
+ (embed (image-place dish) #"images/~(image-name dish).jpg" out)
  (news out)
  (write-dish-description dish out))
 
@@ -125,6 +128,9 @@
 
 (define (word-description dish)
  (res-value "description" (word dish)))
+
+(define (tags dish)
+ (res-value "tags" dish))
 
 ; categories
 
