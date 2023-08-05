@@ -38,14 +38,24 @@
                 files))))
 
 (define (write-dishes dishes)
- (for-each (lambda (dish)
-            (write-dish-file dish))
-  dishes))
+ (let ((cats (read-cats)))
+  (for-each (lambda (dish)
+             (write-dish-file dish))
+   dishes)))
 
 (define (write-dish-file dish)
  (let ((file #"../hugodimsum/content/dishes/~(text (cantonese dish)).md"))
   (call-with-output-file file (lambda (out)
                                (write-dish dish out)))))
+
+
+(define (write-dish dish out)
+ (write-dish-header dish out)
+ (write-dish-chinese dish out)
+ ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
+ (embed (image-place dish) #"images/~(image-name dish).jpg" out)
+ (news out)
+ (write-dish-description dish out))
 
 ; header
 
@@ -69,35 +79,24 @@
   (if tags
    (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
     (write-string #"tags: [~(comma-list qtags)]" out)))
-    (newline out)))
+  (newline out)))
 
 (define (write-dish-cats dish out)
  (let ((tags (tags dish)))
   (if tags
    (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
     (write-string #"categories: [~(comma-list qtags)]" out)))
-    (newline out)))
+  (newline out)))
 
 (define (write-dish-date dish out)
  (write-string #"showDate: false" out)
  (newline out))
 
-; dish body
-
-(define (write-dish dish out)
- (write-dish-header dish out)
- (write-dish-chinese dish out)
- (write-dish-simplified dish out)
- ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
- (embed (image-place dish) #"images/~(image-name dish).jpg" out)
- (news out)
- (write-dish-description dish out))
-
 (define (write-dish-chinese dish out)
  (h1 "Chinese" out)
  (write-dish-cantonese dish out)
  (write-dish-mandarin dish out)
- )
+ (write-dish-simplified dish out))
 
 (define (write-dish-cantonese dish out)
  (h2 "Cantonese" out)
@@ -183,4 +182,4 @@
 ; categories
 
 (define (read-cats)
- (let ((words (read-json "assets/json/dish/categories.json")))))
+ (read-json "assets/json/categories.json"))
