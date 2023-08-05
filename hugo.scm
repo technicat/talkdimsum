@@ -7,6 +7,8 @@
 (use gauche.collection)
 (use gauche.parseopt)
 (use rfc.json)
+(use scheme.list)
+(use scheme.set)
 
 (include "../schematic/lib/json.scm")
 (include "../schematic/lib/md.scm")
@@ -40,17 +42,17 @@
 (define (write-dishes dishes)
  (let ((cats (read-cats)))
   (for-each (lambda (dish)
-             (write-dish-file dish))
+             (write-dish-file dish cats))
    dishes)))
 
-(define (write-dish-file dish)
+(define (write-dish-file dish cats)
  (let ((file #"../hugodimsum/content/dishes/~(text (cantonese dish)).md"))
   (call-with-output-file file (lambda (out)
-                               (write-dish dish out)))))
+                               (write-dish dish out cats)))))
 
 
-(define (write-dish dish out)
- (write-dish-header dish out)
+(define (write-dish dish out cats)
+ (write-dish-header dish out cats)
  (write-dish-chinese dish out)
  ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
  (embed (image-place dish) #"images/~(image-name dish).jpg" out)
@@ -59,11 +61,11 @@
 
 ; header
 
-(define (write-dish-header dish out)
+(define (write-dish-header dish out cats)
  (write-string "---" out)
  (newline out)
  (write-dish-title dish out)
- (write-dish-cats dish out)
+ (write-dish-cats dish out cats)
  (write-dish-tags dish out)
  (write-string #"showDate: false" out)
  (newline out)
@@ -81,12 +83,15 @@
     (write-string #"tags: [~(comma-list qtags)]" out)))
   (newline out)))
 
-(define (write-dish-cats dish out)
+(define (write-dish-cats dish out cats)
  (let ((tags (tags dish)))
   (if tags
-   (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
-    (write-string #"categories: [~(comma-list qtags)]" out)))
-  (newline out)))
+   (let ((qcats (map (lambda (cat) #"\"~cat\"")
+                 (lset-intersection equal?
+                  (vector->list cats )
+                  (vector->list tags)))))
+    (write-string #"categories: [~(comma-list qcats)]" out)
+    (newline out)))))
 
 (define (write-dish-date dish out)
  (write-string #"showDate: false" out)
