@@ -30,7 +30,7 @@
         ],
         "description": "Cold noodles in a sesame sauce.",
         "tags": [
-            "新菜",
+            "涼麵",
             "芝麻",
             "麵"
         ],
@@ -42,6 +42,57 @@
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/cold-sesame-noodles/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "shredded chicken cold noodles",
+            "Cantonese": {
+                "text": "雞絲涼麵",
+                "wkty": [
+                    "雞",
+                    "絲",
+                    "涼麵",
+                    "涼",
+                    "麵"
+                ]
+            },
+            "Yale": "gāi sī lèuhng mihn",
+            "Simplified": {
+                "text": "鸡丝凉面",
+                "wkty": [
+                    "鸡",
+                    "丝",
+                    "凉面",
+                    "凉",
+                    "面"
+                ]
+            },
+            "Pinyin": "jī sī liáng miàn",
+            "description": "{雞} is *chicken, and {絲} is *threads*, so 雞絲 is *chicken threads*. {涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {涼麵} is *cold noodles*."
+        },
+        "images": [
+            {
+                "image": "coldnoodlesshangartisan",
+                "place": "Shang Artisan Noodles, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Sichuan cold noodles in a sesame sauce topped with shredded chicken.",
+        "tags": [
+            "涼麵",
+            "新菜",
+            "芝麻",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cold_noodles"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/cold-noodles-with-shredded-chicken/"
             }
         ]
     },
@@ -83,6 +134,7 @@
         "description": "Spicy cold noodles tossed in chili oil and Sichuan peppers.",
         "tags": [
             "新菜",
+            "涼麵",
             "四川",
             "川菜",
             "新菜",
