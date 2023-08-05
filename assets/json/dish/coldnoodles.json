@@ -20,7 +20,7 @@
                 ]
             },
             "Pinyin": "liáng miàn",
-            "description": "{涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {涼麵} is *cold noodles*."
+            "description": "{涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {涼麵} is [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles)."
         },
         "images": [
             {
@@ -28,10 +28,9 @@
                 "place": "Shang Artisan Noodles, Las Vegas, Nevada"
             }
         ],
-        "description": "Cold noodles in a sesame sauce.",
+        "description": "Chinese cold noodles are often assumed to be of the Sichuan variety, but there are other regional varieties with different types of noodles, such as Shanghai cold noodles.",
         "tags": [
             "涼麵",
-            "芝麻",
             "麵"
         ],
         "resources": [
@@ -70,7 +69,7 @@
                 ]
             },
             "Pinyin": "jī sī liáng miàn",
-            "description": "{雞} is *chicken, and {絲} is *threads*, so 雞絲 is *chicken threads*. {涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {涼麵} is *cold noodles*."
+            "description": "{雞} is *chicken, and {絲} is *threads*, so 雞絲 is *chicken threads*. {涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {涼麵} is [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles)."
         },
         "images": [
             {
@@ -78,7 +77,7 @@
                 "place": "Shang Artisan Noodles, Las Vegas, Nevada"
             }
         ],
-        "description": "Sichuan cold noodles in a sesame sauce topped with shredded chicken.",
+        "description": "Sichuan [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles) in a sesame sauce topped with shredded chicken.",
         "tags": [
             "涼麵",
             "新菜",
@@ -131,9 +130,10 @@
                 "place": "One More Noodle House, South Salt Lake, Utah"
             }
         ],
-        "description": "Spicy cold noodles tossed in chili oil and Sichuan peppers.",
+        "description": "Spicy [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles) tossed in chili oil and Sichuan peppers.",
         "tags": [
             "新菜",
+            "素",
             "涼麵",
             "四川",
             "川菜",
