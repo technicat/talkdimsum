@@ -47,20 +47,42 @@
   (call-with-output-file file (lambda (out)
                                (write-dish dish out)))))
 
+; header
+
 (define (write-dish-header dish out)
  (write-string "---" out)
  (newline out)
- (write-string #"title: \"~(english dish)\"" out)
- (newline out)
- (let ((tags (tags dish)))
-  (if tags
-   (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
-    (write-string #"tags: [~(comma-list qtags)]" out))))
- (newline out)
+ (write-dish-title dish out)
+ (write-dish-cats dish out)
+ (write-dish-tags dish out)
  (write-string #"showDate: false" out)
  (newline out)
  (write-string "---" out)
  (news out))
+
+(define (write-dish-title dish out)
+ (write-string #"title: \"~(english dish)\"" out)
+ (newline out))
+
+(define (write-dish-tags dish out)
+ (let ((tags (tags dish)))
+  (if tags
+   (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
+    (write-string #"tags: [~(comma-list qtags)]" out)))
+    (newline out)))
+
+(define (write-dish-cats dish out)
+ (let ((tags (tags dish)))
+  (if tags
+   (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
+    (write-string #"categories: [~(comma-list qtags)]" out)))
+    (newline out)))
+
+(define (write-dish-date dish out)
+ (write-string #"showDate: false" out)
+ (newline out))
+
+; dish body
 
 (define (write-dish dish out)
  (write-dish-header dish out)
