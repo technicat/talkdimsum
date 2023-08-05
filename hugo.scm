@@ -33,9 +33,9 @@
 
 (define (read-dishes)
  (let ((files (read-json "assets/json/dishes.json")))
-  (concatenate (vector->list (vector-map (lambda (file)
-                                          (vector->list (read-json #"assets/json/dish/~|file|.json")))
-                              files)))))
+  (concatenate (map (lambda (file)
+                     (vector->list (read-json #"assets/json/dish/~|file|.json")))
+                files))))
 
 (define (write-dishes dishes)
  (for-each (lambda (dish)
