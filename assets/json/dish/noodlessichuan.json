@@ -99,7 +99,7 @@
                 "place": "One More Noodle House, South Salt Lake, Utah"
             }
         ],
-        "description": "Dan dan noodles with beef instead of pork.",
+        "description": "[Dan dan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with beef instead of pork.",
         "tags": [
             "新菜",
             "擔擔麵",
@@ -112,28 +112,12 @@
         ],
         "resources": [
             {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
-            },
-            {
-                "name": "Nom Life",
-                "URL": "https://www.lifeofnoms.com/blog/dandannoodles"
-            },
-            {
-                "name": "The Plant-Based Wok",
-                "URL": "https://theplantbasedwok.com/vegan-dan-dan-noodles/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/dan-dan-noodles/"
+                "name": "Umi Organic",
+                "URL": "https://www.umiorganic.com/recipe-blog/2021/3/24/dan-dan-noodles-with-ground-beef"
             },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/dan-dan-noodles/"
             }
         ]
     },
