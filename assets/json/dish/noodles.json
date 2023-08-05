@@ -27,6 +27,47 @@
   },
   {
     "word": {
+      "Cantonese": "油潑扯麵",
+      "Simplified": "油泼扯面",
+      "English": "biangbiang noodles",
+      "Yale": "yàuh put ché mihn",
+      "Pinyin": "yóu pō chě miàn",
+      "description": "{油} is *oil*, {潑} is *spill* or *splash*, {扯} is *pull*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 油潑扯麵 is *oil splashed pulled noodles*."
+    },
+    "images": [
+      {
+        "image": "oiltossednoodlesonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Biangbiang noodles are thick wide noodles named after the sound made from the noodles slapping, are also often listed as hot oil noodles or oil-tossed noodles or the Mandarin pronunciation *youpo chemian* (or *youpo mian* for short) of the alternate characters (the character for *biang* is terribly complex, consisting of up to 58 strokes!). This is a well-known [Shaanxi]([Shaanxi](https://en.wikipedia.org/wiki/Shaanxi)) dish.",
+    "tags": [
+      "新菜",
+      "油",
+      "秦菜",
+      "麵"
+    ],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/biang-biang-mian-biang-biang-noodles/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/biang-biang-noodles/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Biangbiang_noodles"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/hot-oil-noodles-you-po-mian/"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "cold noodles",
       "Cantonese": {
         "text": "涼麵",
@@ -76,6 +117,8 @@
         "text": "豆腐茄子麵",
         "wkty": [
           "豆腐",
+          "豆",
+          "腐",
           "茄子",
           "茄",
           "子",
@@ -86,6 +129,8 @@
         "text": "豆腐茄子麵",
         "wkty": [
           "豆腐",
+          "豆",
+          "腐",
           "茄子",
           "茄",
           "子",
@@ -93,8 +138,8 @@
         ]
       },
       "English": "eggplant tofu noodles",
-      "Yale": "mihn",
-      "Pinyin": "miàn",
+      "Yale": "dauh fuh mihn",
+      "Pinyin": "dòu fǔ miàn",
       "description": "{豆腐} is *tofu*, {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 豆腐茄子麵 is *tofu eggplant noodles*."
     },
     "images": [
@@ -112,6 +157,10 @@
       "素"
     ],
     "resources": [
+      {
+        "name": "The Curious Chickpea",
+        "URL": "https://www.thecuriouschickpea.com/spicy-sichuan-noodles-with-eggplant/"
+      },
       {
         "name": "My Tasty Curry",
         "URL": "https://mytastycurry.com/chinese-eggplant-tofu"
@@ -150,7 +199,7 @@
         "place": "99 Ranch, Las Vegas, Nevada"
       }
     ],
-    "description": "A noodle soup made with snail broth.",
+    "description": "A rice noodle soup made with snail broth.",
     "tags": [
       "螺螄",
       "麵"
