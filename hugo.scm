@@ -65,6 +65,7 @@
 (define (write-dish dish out)
  (write-dish-header dish out)
  (write-dish-chinese dish out)
+ (write-dish-simplified dish out)
  ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
  (embed (image-place dish) #"images/~(image-name dish).jpg" out)
  (news out)
@@ -83,7 +84,7 @@
  (if (yale dish)
   (write-string (yale dish) out)
   (write-string "Missing Yale" out))
-  (news out))
+ (news out))
 
 (define (write-dish-mandarin dish out)
  (h2 "Mandarin" out)
@@ -92,7 +93,12 @@
  (if (pinyin dish)
   (write-string (pinyin dish) out)
   (write-string "Missing Pinyin" out))
-  (news out))
+ (news out))
+
+(define (write-dish-simplified dish out)
+ (h2 "Simplified" out)
+ (write-string (text (simplified dish)) out)
+ (news out))
 
 (define (write-dish-description dish out)
  (h1 "Description" out)
@@ -120,7 +126,8 @@
   (cantonese dish)))
 
 (define (simplified dish)
- (res-value "Simplified" (word dish)))
+ (or (res-value "Simplified" (word dish))
+  (mandarin dish)))
 
 (define (yale dish)
  (res-value "Yale" (word dish)))
