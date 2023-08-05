@@ -30,6 +30,80 @@
         ],
         "description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.",
         "tags": [
+            "擔擔麵",
+            "辣",
+            "紅油",
+            "四川",
+            "川菜",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
+            },
+            {
+                "name": "Nom Life",
+                "URL": "https://www.lifeofnoms.com/blog/dandannoodles"
+            },
+            {
+                "name": "The Plant-Based Wok",
+                "URL": "https://theplantbasedwok.com/vegan-dan-dan-noodles/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/dan-dan-noodles/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/dan-dan-noodles/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "beef dandan noodles",
+            "Cantonese": {
+                "text": "牛肉擔擔麵",
+                "wkty": [
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "擔擔麵",
+                    "擔",
+                    "麵"
+                ]
+            },
+            "Yale": "ngàuh yuhk daam daam mihn",
+            "Simplified": {
+                "text": "牛肉担担面",
+                "wkty": [
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "担担面",
+                    "担",
+                    "面"
+                ]
+            },
+            "Pinyin": "niú ròu dàn dàn miàn",
+            "description": "{牛肉} is *beef* ({牛} is *cow* and {肉} is *meat*). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). 牛肉担担面 is *beef dan dan noodles*."
+        },
+        "images": [
+            {
+                "image": "beefdandannoodlesonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Dan dan noodles with beef instead of pork.",
+        "tags": [
+            "新菜",
+            "擔擔麵",
+            "牛肉",
             "辣",
             "紅油",
             "四川",
@@ -100,6 +174,7 @@
         "tags": [
             "涼麵",
             "新菜",
+            "辣",
             "芝麻",
             "麵"
         ],
@@ -152,6 +227,7 @@
         "description": "Spicy [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles) tossed in chili oil and Sichuan peppers.",
         "tags": [
             "新菜",
+            "辣",
             "素",
             "涼麵",
             "四川",
