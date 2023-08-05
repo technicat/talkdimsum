@@ -27,6 +27,51 @@
   },
   {
     "word": {
+      "English": "cold noodles",
+      "Cantonese": {
+        "text": "涼麵",
+        "wkty": [
+          "涼麵",
+          "涼",
+          "麵"
+        ]
+      },
+      "Yale": "lèuhng mihn",
+      "Simplified": {
+        "text": "凉面",
+        "wkty": [
+          "凉面",
+          "凉",
+          "面"
+        ]
+      },
+      "Pinyin": "liáng miàn",
+      "description": "{涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {涼麵} is [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles)."
+    },
+    "images": [
+      {
+        "image": "coldnoodlesshangartisan",
+        "place": "Shang Artisan Noodles, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chinese cold noodles are often assumed to be of the Sichuan variety, but there are other regional varieties with different types of noodles, such as Shanghai cold noodles.",
+    "tags": [
+      "涼麵",
+      "麵"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cold_noodles"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/cold-sesame-noodles/"
+      }
+    ]
+  },
+  {
+    "word": {
       "Cantonese": {
         "text": "豆腐茄子麵",
         "wkty": [

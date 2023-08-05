@@ -1,46 +1,65 @@
 [
     {
         "word": {
-            "English": "cold noodles",
+            "English": "dandan noodles",
             "Cantonese": {
-                "text": "涼麵",
+                "text": "擔擔麵",
                 "wkty": [
-                    "涼麵",
-                    "涼",
+                    "擔擔麵",
+                    "擔",
                     "麵"
                 ]
             },
-            "Yale": "lèuhng mihn",
+            "Yale": "daam daam mihn",
             "Simplified": {
-                "text": "凉面",
+                "text": "担担面",
                 "wkty": [
-                    "凉面",
-                    "凉",
+                    "担担面",
+                    "担",
                     "面"
                 ]
             },
-            "Pinyin": "liáng miàn",
-            "description": "{涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {涼麵} is [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles)."
+            "Pinyin": "dàn dàn miàn",
+            "description": "擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle)."
         },
         "images": [
             {
-                "image": "coldnoodlesshangartisan",
-                "place": "Shang Artisan Noodles, Las Vegas, Nevada"
+                "image": "dandannoodleseverygrain",
+                "place": "Every Grain, Las Vegas, Nevada"
             }
         ],
-        "description": "Chinese cold noodles are often assumed to be of the Sichuan variety, but there are other regional varieties with different types of noodles, such as Shanghai cold noodles.",
+        "description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.",
         "tags": [
-            "涼麵",
+            "辣",
+            "紅油",
+            "四川",
+            "川菜",
             "麵"
         ],
         "resources": [
             {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
+            },
+            {
+                "name": "Nom Life",
+                "URL": "https://www.lifeofnoms.com/blog/dandannoodles"
+            },
+            {
+                "name": "The Plant-Based Wok",
+                "URL": "https://theplantbasedwok.com/vegan-dan-dan-noodles/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/dan-dan-noodles/"
+            },
+            {
                 "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cold_noodles"
+                "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
             },
             {
                 "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/cold-sesame-noodles/"
+                "URL": "https://thewoksoflife.com/dan-dan-noodles/"
             }
         ]
     },
