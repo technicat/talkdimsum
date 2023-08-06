@@ -43,63 +43,6 @@
     },
     {
         "word": {
-            "English": "mango black tea",
-            "Cantonese": {
-                "text": "芒果紅茶",
-                "wkty": [
-                    "芒果",
-                    "芒",
-                    "果",
-                    "紅茶",
-                    "紅",
-                    "茶"
-                ]
-            },
-            "Yale": "mōng gwó hùhng chàh",
-            "Jyutping": "mong1 gwo2 hung4 caa4",
-            "Simplified": {
-                "text": "芒果红茶",
-                "wkty": [
-                    "芒果",
-                    "芒",
-                    "果",
-                    "红茶",
-                    "红",
-                    "茶"
-                ]
-            },
-            "Pinyin": "máng guǒ hóng chá",
-            "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [mango](https://en.wikipedia.org/wiki/Mango) (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {紅茶} is [black tea](https://en.wikipedia.org/wiki/Black_tea), so 芒果紅茶 is *mango black tea*."
-        },
-        "images": [
-            {
-                "image": "mangoblackteacloudtea",
-                "place": "Cloud Tea, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Black tea brewed with mango.",
-        "tags": [
-            "冷飲",
-            "水果茶",
-            "飲品",
-            "紅茶",
-            "芒果",
-            "水果",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "food.com",
-                "URL": "https://www.food.com/recipe/mango-iced-tea-229477"
-            },
-            {
-                "name": "Heavenly Homemakers",
-                "URL": "https://www.heavenlyhomemakers.com/how-to-make-mango-sweet-or-unsweet-tea"
-            }
-        ]
-    },
-    {
-        "word": {
             "Cantonese": {
                 "text": "杏仁茶",
                 "wkty": [
