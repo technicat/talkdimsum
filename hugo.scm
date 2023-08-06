@@ -188,6 +188,15 @@
 (define (tags dish)
  (res-value "tags" dish))
 
+(define (refs dish)
+ (res-value "refs" dish))
+
+(define (ref-name ref)
+ (res-value "name" ref))
+
+(define (ref-url ref)
+ (res-value "URL" ref))
+
 ; categories
 
 (define (read-cats)
