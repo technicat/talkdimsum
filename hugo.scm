@@ -25,7 +25,7 @@
    (let ((dishes (read-dishes)))
     (if i (copy-images))
     (if v (print dishes))
-    (if o (write-dishes dishes))))))
+    (if o (write-dishes (reverse dishes)))))))
 
 (define (help file)
  (print "hugo.scm -o -v -i -h"))
@@ -53,9 +53,9 @@
 
 (define (write-dish dish out cats)
  (write-dish-header dish out cats)
+ (write-dish-embed dish out)
  (write-dish-chinese dish out)
  ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
- (write-dish-embed dish out)
  (write-dish-description dish out))
 
 (define (write-dish-embed dish out)
@@ -102,13 +102,13 @@
  (newline out))
 
 (define (write-dish-chinese dish out)
- (h1 "Chinese" out)
+ (h2"Chinese" out)
  (write-dish-cantonese dish out)
  (write-dish-mandarin dish out)
  (write-dish-simplified dish out))
 
 (define (write-dish-cantonese dish out)
- (h2 "Cantonese" out)
+ (h3 "Cantonese" out)
  (write-string (text (cantonese dish)) out)
  (news out)
  (if (yale dish)
@@ -117,7 +117,7 @@
  (news out))
 
 (define (write-dish-mandarin dish out)
- (h2 "Mandarin" out)
+ (h3 "Mandarin" out)
  (write-string (text (mandarin dish)) out)
  (news out)
  (if (pinyin dish)
@@ -126,19 +126,19 @@
  (news out))
 
 (define (write-dish-simplified dish out)
- (h2 "Simplified" out)
+ (h3 "Simplified" out)
  (write-string (text (simplified dish)) out)
  (news out))
 
 (define (write-dish-description dish out)
- (h1 "Description" out)
+ (h2 "Description" out)
  (write-string (description dish) out)
  (news out)
  (let ((wd (word-description dish)))
   (if wd
    (begin
     (news out)
-    (h2 "Characters" out)
+    (h3 "Characters" out)
     (write-string (word-description dish) out)
     (newline out)))))
 
