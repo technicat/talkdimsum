@@ -31,7 +31,7 @@
  (print "hugo.scm -o -v -i -h"))
 
 (define (copy-images)
- (copy-directory* "assets/images" "../hugodimsum/content/dishes/images" :if-exists :supersede))
+ (copy-directory* "assets/images" "../hugodimsum/assets/images" :if-exists :supersede))
 
 (define (read-dishes)
  (let ((files (read-json "assets/json/dishes.json")))
