@@ -55,9 +55,13 @@
  (write-dish-header dish out cats)
  (write-dish-chinese dish out)
  ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
- (embed (image-place dish) #"images/~(image-name dish).jpg" out)
- (news out)
+ (write-dish-embed dish out)
  (write-dish-description dish out))
+
+(define (write-dish-embed dish out)
+ (news out)
+ (embed (image-place dish) #"images/~(image-name dish).jpg" out)
+ (news out))
 
 ; header
 
