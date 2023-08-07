@@ -160,14 +160,14 @@
 
 (define (write-dish-description dish out)
  (h2 "Description" out)
- (write-string (description dish) out)
+ (write-string (replace-wkty (description dish)) out)
  (news out)
  (let ((wd (word-description dish)))
   (if wd
    (begin
     (news out)
     (h3 "Characters" out)
-    (write-string (word-description dish) out)
+    (write-string (replace-wkty wd) out)
     (newline out)))))
 
 (define (word dish)
@@ -217,6 +217,9 @@
 
 (define (word-description dish)
  (res-value "description" (word dish)))
+
+(define (replace-wkty text)
+  (regexp-replace-all #/{([^{]*)}/ text "[\\1](https://en.wiktionary.org/wiki/\\1)"))
 
 (define (tags dish)
  (res-value "tags" dish))
