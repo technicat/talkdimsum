@@ -90,7 +90,7 @@
  (news out))
 
 (define (write-dish-ref ref out)
- (link (ref-name ref) (ref-url ref) out)
+ (bullet (linkstr (ref-name ref) (ref-url ref)) out)
  (newline out))
 
 (define (write-dish-tags dish out)
@@ -122,8 +122,7 @@
 
 (define (write-dish-cantonese dish out)
  (h3 "Cantonese" out)
- (write-string (text (cantonese dish)) out)
- (news out)
+ (write-dish-text (cantonese dish) out)
  (if (yale dish)
   (write-string (yale dish) out)
   (write-string "Missing Yale" out))
@@ -131,8 +130,7 @@
 
 (define (write-dish-mandarin dish out)
  (h3 "Mandarin" out)
- (write-string (text (mandarin dish)) out)
- (news out)
+ (write-dish-text (mandarin dish) out)
  (if (pinyin dish)
   (write-string (pinyin dish) out)
   (write-string "Missing Pinyin" out))
@@ -140,7 +138,10 @@
 
 (define (write-dish-simplified dish out)
  (h3 "Simplified" out)
- (write-string (text (simplified dish)) out)
+ (write-dish-text (simplified dish) out))
+
+(define (write-dish-text chinese out)
+ (write-string (text chinese) out)
  (news out))
 
 (define (write-dish-description dish out)
@@ -194,7 +195,7 @@
 
 (define (wkty chinese)
  (if (string? chinese)
-  (string->list chinese)
+  (map (lambda (c) (string c)) chinese)
   (res-value "wkty" chinese)))
 
 (define (description dish)
