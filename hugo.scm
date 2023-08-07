@@ -151,7 +151,8 @@
  (h4 "Wiktionary" out)
  (let ((wkty (wkty chinese)))
   (if wkty
-   (for-each (lambda (chars) (write-string chars out))
+   (for-each (lambda (chars)
+              (bullet (linkstr chars #"https://en.wiktionary.org/wiki/~chars" )out))
     wkty)
    (write-string "Missing wiktionary" out))
   (news out)))
