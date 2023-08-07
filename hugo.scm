@@ -142,7 +142,19 @@
 
 (define (write-dish-text chinese out)
  (write-string (text chinese) out)
+ (news out)
+ (write-dish-wkty chinese out)
  (news out))
+
+(define (write-dish-wkty chinese out)
+ (h4 "Wiktionary" out)
+ (let ((wkty (wkty chinese)))
+  (if wkty
+   (for-each (lambda (chars) (write-string chars out))
+    wkty)
+   (write-string "Missing wiktionary" out))
+  (news out)))
+
 
 (define (write-dish-description dish out)
  (h2 "Description" out)
