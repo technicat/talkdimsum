@@ -56,7 +56,9 @@
  (write-dish-embed dish out)
  (write-dish-chinese dish out)
  ; (write-string #"{{< figure src=\"images/~(image-name dish).jpg\" title=\"~(image-place dish)\" >}}" out)
- (write-dish-description dish out))
+ (write-dish-description dish out)
+ (if (refs dish)
+  (write-dish-refs dish out)))
 
 (define (write-dish-embed dish out)
  (news out)
@@ -70,7 +72,8 @@
  (newline out)
  (write-dish-title dish out)
  (write-dish-cats dish out cats)
- (write-dish-tags dish out)
+ (if (tags dish)
+  (write-dish-tags dish out))
  (write-string #"showDate: false" out)
  (newline out)
  (write-string "---" out)
@@ -78,6 +81,16 @@
 
 (define (write-dish-title dish out)
  (write-string #"title: \"~(english dish)\"" out)
+ (newline out))
+
+(define (write-dish-refs dish out)
+ (h2 "References" out)
+ (for-each (lambda (ref) (write-dish-ref ref out))
+  (refs dish))
+ (news out))
+
+(define (write-dish-ref ref out)
+ (link (ref-name ref) (ref-url ref) out)
  (newline out))
 
 (define (write-dish-tags dish out)
@@ -181,7 +194,7 @@
 
 (define (wkty chinese)
  (if (string? chinese)
-  chinese
+  (string->list chinese)
   (res-value "wkty" chinese)))
 
 (define (description dish)
@@ -194,7 +207,7 @@
  (res-value "tags" dish))
 
 (define (refs dish)
- (res-value "refs" dish))
+ (res-value "resources" dish))
 
 (define (ref-name ref)
  (res-value "name" ref))
