@@ -102,7 +102,7 @@
  (newline out))
 
 (define (write-dish-chinese dish out)
- (h2"Chinese" out)
+ (h2 "Chinese" out)
  (write-dish-cantonese dish out)
  (write-dish-mandarin dish out)
  (write-dish-simplified dish out))
@@ -178,6 +178,11 @@
  (if (string? chinese)
   chinese
   (res-value "text" chinese)))
+
+(define (wkty chinese)
+ (if (string? chinese)
+  chinese
+  (res-value "wkty" chinese)))
 
 (define (description dish)
  (res-value "description" dish))
