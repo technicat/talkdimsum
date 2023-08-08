@@ -407,7 +407,7 @@
     "word": {
       "English": "chicken w/ salted fish fried rice",
       "Cantonese": {
-        "text": "鹹魚雞炒飯",
+        "text": "鹹魚雞粒炒飯",
         "wkty": [
           "鹹魚",
           "鹹",
@@ -418,9 +418,9 @@
           "飯"
         ]
       },
-      "Yale": "hàahm yú gāi cháau faahn",
+      "Yale": "hàahm yú gāi lāp cháau faahn",
       "Simplified": {
-        "text": "咸鱼鸡炒饭",
+        "text": "咸鱼鸡粒炒饭",
         "wkty": [
           "咸鱼",
           "咸",
@@ -431,8 +431,8 @@
           "饭"
         ]
       },
-      "Pinyin": "xián yú jī chǎo fàn",
-      "description": "{鹹} is *salty*, {魚} is *fish*, {雞} is *chicken*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 鹹魚雞炒飯 is *salty fish chicken stir-fried rice*."
+      "Pinyin": "xián yú jī lì chǎo fàn",
+      "description": "{鹹} is *salty*, {魚} is *fish*, {雞} is *chicken*, {粒} is *pieces*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 鹹魚雞炒飯 is *salty fish chicken pieces stir-fried rice*."
     },
     "images": [
       {
@@ -445,6 +445,22 @@
       {
         "name": "Ang Sarap",
         "URL": "https://www.angsarap.net/2011/12/08/chicken-and-salted-fish-fried-rice/"
+      },
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/salted-fish-and-chicken-fried-rice/"
+      },
+      {
+        "name": "Auntie Emily",
+        "URL": "https://auntieemily.com/chicken-and-salted-fish-fried-rice/"
+      },
+      {
+        "name": "Gourmet Traveller",
+        "URL": "https://www.gourmettraveller.com.au/recipes/chefs-recipes/cantonese-fried-rice-with-chicken-salted-fish-and-bean-sprouts-7304"
+      },
+      {
+        "name": "Sea Salt with Food",
+        "URL": "http://www.seasaltwithfood.com/2014/04/fried-rice-with-chicken-and-salted-fish.html"
       },
       {
         "name": "The Woks of Life",
