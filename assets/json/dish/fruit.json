@@ -1,6 +1,39 @@
 [
     {
         "word": {
+            "English": "mango",
+            "Cantonese": {
+                "text": "芒果",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果"
+                ]
+            },
+            "Yale": "mōng gwó",
+            "Jyutping": "mong1 gwo2",
+            "Pinyin": "máng guǒ",
+            "description": "{芒} is phonetic for the first syllable in [mango](https://en.wikipedia.org/wiki/Mango), and {果} is *fruit*."
+        },
+        "images": [
+            {
+                "image": "mangotriohuilaushan",
+                "place": "Hui Lau Shan, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Mango is a tropical fruit, likely originating from south Asia, and present in many Hong Kong desserts such as [mango pudding](https://en.wikipedia.org/wiki/Mango_pudding), mango pancakes, and fruit teas.",
+        "tags": [
+            "芒果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Mango"
+            }
+        ]
+    },
+    {
+        "word": {
             "Cantonese": "菠蘿",
             "Simplified": "菠萝",
             "English": "pineapple",
