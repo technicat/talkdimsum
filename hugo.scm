@@ -22,7 +22,10 @@
    (v "v|verbose")
    . restargs)
   (if (not h)
-   (let ((dishes (read-dishes)))
+   (let ((dishes (read-dishes))
+         (words (read-words))
+         (phrases (read-phrases))
+         (places (read-places)))
     (if i (copy-images))
     (if v (print dishes))
     (if o (write-dishes (reverse dishes)))))))
@@ -239,3 +242,12 @@
 
   (define (read-cats)
    (read-json "assets/json/categories.json"))
+
+  (define (read-words)
+   (read-json "assets/json/words.json"))
+
+  (define (read-places)
+   (read-json "assets/json/countries.json"))
+
+  (define (read-phrases)
+   (read-json "assets/json/phrases.json"))
