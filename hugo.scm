@@ -121,7 +121,7 @@
  (write-dish-simplified dish out))
 
 (define (write-dish-cantonese dish out)
- (h3 "Cantonese" out)
+ (h3 (linkstr "Cantonese" "https://en.wikipedia.org/wiki/Cantonese") out)
  (write-dish-text (cantonese dish) out)
  (if (yale dish)
   (let ((yalestr (linkstr "Yale" "https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese")))
@@ -131,11 +131,11 @@
  (write-dish-wkty (cantonese dish) out))
 
 (define (write-dish-mandarin dish out)
- (h3 "Mandarin" out)
+ (h3 (linkstr "Mandarin" "https://en.wikipedia.org/wiki/Mandarin_Chinese")  out)
  (write-dish-text (mandarin dish) out)
  (if (pinyin dish)
   (let ((str (linkstr "Mandarin" "https://en.wikipedia.org/wiki/Pinyin")))
-   (h4 "Pronunciation (~str)" out)
+   (h4 #"Pronunciation (~str)" out)
    (write-string (pinyin dish) out))
   (write-string "Missing Pinyin" out))
  (write-dish-wkty (mandarin dish) out))
