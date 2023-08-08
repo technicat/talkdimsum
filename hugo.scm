@@ -123,18 +123,20 @@
 (define (write-dish-cantonese dish out)
  (h3 "Cantonese" out)
  (write-dish-text (cantonese dish) out)
- (h4 "Pronunciation (Yale)" out)
  (if (yale dish)
-  (write-string (yale dish) out)
+  (let ((yalestr (linkstr "Yale" "https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese")))
+   (h4 #"Pronunciation (~yalestr)" out)
+   (write-string (yale dish) out))
   (write-string "Missing Yale" out))
  (write-dish-wkty (cantonese dish) out))
 
 (define (write-dish-mandarin dish out)
  (h3 "Mandarin" out)
  (write-dish-text (mandarin dish) out)
- (h4 "Pronunciation (Pinyin)" out)
  (if (pinyin dish)
-  (write-string (pinyin dish) out)
+  (let ((str (linkstr "Mandarin" "https://en.wikipedia.org/wiki/Pinyin")))
+   (h4 "Pronunciation (~str)" out)
+   (write-string (pinyin dish) out))
   (write-string "Missing Pinyin" out))
  (write-dish-wkty (mandarin dish) out))
 
@@ -219,21 +221,21 @@
  (res-value "description" (word dish)))
 
 (define (replace-wkty text)
-  (regexp-replace-all #/{([^{]*)}/ text "[\\1](https://en.wiktionary.org/wiki/\\1)"))
+ (regexp-replace-all #/{([^{]*)}/ text "[\\1](https://en.wiktionary.org/wiki/\\1)"))
 
-(define (tags dish)
- (res-value "tags" dish))
+  (define (tags dish)
+   (res-value "tags" dish))
 
-(define (refs dish)
- (res-value "resources" dish))
+  (define (refs dish)
+   (res-value "resources" dish))
 
-(define (ref-name ref)
- (res-value "name" ref))
+  (define (ref-name ref)
+   (res-value "name" ref))
 
-(define (ref-url ref)
- (res-value "URL" ref))
+  (define (ref-url ref)
+   (res-value "URL" ref))
 
-; categories
+  ; categories
 
-(define (read-cats)
- (read-json "assets/json/categories.json"))
+  (define (read-cats)
+   (read-json "assets/json/categories.json"))
