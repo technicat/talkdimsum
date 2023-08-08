@@ -28,7 +28,7 @@
          (places (read-places)))
     (if i (copy-images))
     (if v (print dishes))
-    (if o (write-dishes (reverse dishes)))))))
+    (if o (write-dishes dishes))))))
 
 (define (help file)
  (print "hugo.scm -o -v -i -h"))
@@ -245,7 +245,10 @@
    (read-json "assets/json/categories.json"))
 
   (define (read-words)
-   (read-json "assets/json/words.json"))
+   (let ((files (read-json "assets/json/words.json")))
+    (concatenate (map (lambda (file)
+                     (vector->list (read-json #"assets/json/words/~|file|.json")))
+                files))))
 
   (define (read-places)
    (read-json "assets/json/countries.json"))
