@@ -25,7 +25,7 @@
    (let ((dishes (read-dishes))
          (words (read-words))
          (phrases (read-phrases))
-        (places (read-places)))
+         (places (read-places)))
     (if i (copy-images))
     (if v (print dishes))
     (if o (write-dishes dishes))))))
@@ -258,6 +258,6 @@
 
   (define (read-phrases)
    (let ((files (read-json "assets/json/phrases.json")))
-   (concatenate (map (lambda (file)
+    (concatenate (map (lambda (file)
                        (read-json #"assets/json/phrases/~|file|.json"))
                   files))))
