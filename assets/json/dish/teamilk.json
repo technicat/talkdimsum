@@ -104,50 +104,6 @@
     },
     {
         "word": {
-            "English": "milk green tea",
-            "Cantonese": {
-                "text": "奶綠",
-                "wkty": [
-                    "奶綠",
-                    "奶",
-                    "綠"
-                ]
-            },
-            "Simplified": {
-                "text": "奶绿",
-                "wkty": [
-                    "奶绿",
-                    "奶",
-                    "绿"
-                ]
-            },
-            "Yale": "náaih luhk",
-            "Pinyin": "nǎi lǜ ",
-            "description": "{奶} is *milk* and {綠} is *green*, so {奶綠} is *milk green* (short for milk green tea)."
-        },
-        "images": [
-            {
-                "image": "wintermelonmilkgreenteakungfu",
-                "place": "Kung Fu Tea, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Milk tea is by default made with black tea, but green tea is also an option.",
-        "tags": [
-            "奶綠",
-            "奶茶",
-            "茶",
-            "飲品"
-        ],
-        "resources": [
-           
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Milk_tea"
-            }
-        ]
-    },
-    {
-        "word": {
             "English": "coffee with tea",
             "Cantonese": {
                 "text": "鴛鴦",

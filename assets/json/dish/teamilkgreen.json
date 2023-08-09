@@ -1,0 +1,127 @@
+[
+    {
+        "word": {
+            "English": "milk green tea",
+            "Cantonese": {
+                "text": "奶綠",
+                "wkty": [
+                    "奶綠",
+                    "奶",
+                    "綠"
+                ]
+            },
+            "Simplified": {
+                "text": "奶绿",
+                "wkty": [
+                    "奶绿",
+                    "奶",
+                    "绿"
+                ]
+            },
+            "Yale": "náaih luhk",
+            "Pinyin": "nǎi lǜ ",
+            "description": "{奶} is *milk* and {綠} is *green*, so {奶綠} is *milk green* (short for milk green tea)."
+        },
+        "images": [
+            {
+                "image": "wintermelonmilkgreenteakungfu",
+                "place": "Kung Fu Tea, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Milk tea is by default made with black tea, but green tea is also an option.",
+        "tags": [
+            "奶綠",
+            "奶茶",
+            "茶",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Milk_tea"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "winter melon milk green tea",
+            "Cantonese": {
+                "text": "冬瓜奶綠",
+                "wkty": [
+                    "冬瓜",
+                    "冬",
+                    "瓜""奶綠",
+                    "奶",
+                    "綠"
+                ]
+            },
+            "Simplified": {
+                "text": "冬瓜奶绿",
+                "wkty": [
+                    "冬瓜",
+                    "冬",
+                    "瓜""奶绿",
+                    "奶",
+                    "绿"
+                ]
+            },
+            "Yale": "dūng gwā náaih luhk",
+            "Pinyin": "dōng guā nǎi lǜ ",
+            "description": "{冬} is *winter*, and {瓜} is *melon* (or *gourd* or *squash*), so {冬瓜} is *winter melon*. {奶} is *milk* and {綠} is *green*, so {奶綠} is *milk green* (short for milk green tea). Altogether, 冬瓜奶綠 is *winter melon milk green tea*."
+        },
+        "images": [
+            {
+                "image": "wintermelonmilkgreenteakungfu",
+                "place": "Kung Fu Tea, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Milk green tea flavored with winter melon.",
+        "tags": [
+            "奶綠",
+            "奶茶",
+            "茶",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Delicious Not Gorgeous",
+                "URL": "https://deliciousnotgorgeous.com/wintermelon-milk-tea/"
+            },
+            {
+                "name": "Mama Loves a Drink",
+                "URL": "https://www.mamalovesadrink.com/winter-melon-milk-tea/"
+            },
+            {
+                "name": "My Vegan Minimalist",
+                "URL": "https://myveganminimalist.com/winter-melon-milk-tea/"
+            },
+            {
+                "name": "Perfect Brew",
+                "URL": "https://myveganminimalist.com/winter-melon-milk-tea/"},
+            {
+                "name": "Perfect Brew",
+                "URL": "https://www.perfectbrew.com/blog/how-to-make-winter-melon-milk-tea/"
+            },
+            {
+                "name": "Picky Eater Blog",
+                "URL": "https://pickyeaterblog.com/wintermelon-milk-tea/"
+            },
+            {
+                "name": "Recipe Marker",
+                "URL": "https://recipemarker.com/winter-melon-milk-tea-recipe/"
+            },
+            {
+                "name": "Sugar Yums",
+                "URL": "https://sugaryums.com/wintermelon-milk-tea/"
+            },
+            {
+                "name": "Tea Joy",
+                "URL": "https://www.teajoy.com/articles/wintermelon-milk-tea-recipe"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Milk_tea"
+            }
+        ]
+    }
+]
