@@ -33,6 +33,8 @@
 (define (help file)
  (print "hugo.scm -o -v -i -h"))
 
+(define words (make-hash-table))
+
 (define (copy-images)
  (copy-directory* "assets/images" "../hugodimsum/assets/images" :if-exists :supersede))
 
