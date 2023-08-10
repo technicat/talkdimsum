@@ -37,6 +37,50 @@
   {
     "word": {
       "Cantonese": {
+        "text": "菠蘿汁",
+        "wkty": [
+          "菠蘿",
+          "菠",
+          "蘿",
+          "汁"
+        ]
+      },
+      "Simplified": {
+        "text": "菠萝汁",
+        "wkty": [
+          "菠萝",
+          "菠",
+          "萝"
+        ]
+      },
+      "English": "pineapple juice",
+      "Yale": "bō lòh jāp",
+      "Pinyin": "bō luó zhī",
+      "description": "{菠蘿} is [pineapple](https://en.wikipedia.org/wiki/Pineapple), and {汁} is *juice*, so 菠蘿汁 is [pineapple juice](https://en.wikipedia.org/wiki/Pineapple_juice)."
+    },
+    "images": [
+      {
+        "image": "pineapplejuicetraderjoes",
+        "place": "Trader Joe's, Draper, Utah"
+      }
+    ],
+    "description": ".",
+    "tags": [
+      "菠蘿",
+      "蔗",
+      "汁",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Pineapple_juice"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
         "text": "蔗汁",
         "wkty": [
           "蔗汁",

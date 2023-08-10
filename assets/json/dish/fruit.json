@@ -34,8 +34,22 @@
     },
     {
         "word": {
-            "Cantonese": "菠蘿",
-            "Simplified": "菠萝",
+            "Cantonese": {
+                "text": "菠蘿",
+                "wkty": [
+                    "菠蘿",
+                    "菠",
+                    "蘿"
+                ]
+            },
+            "Simplified": {
+                "text": "菠萝",
+                "wkty": [
+                    "菠萝",
+                    "菠",
+                    "萝"
+                ]
+            },
             "English": "pineapple",
             "Yale": "bō lòh",
             "Pinyin": "bō luó",
