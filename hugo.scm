@@ -26,6 +26,9 @@
          (words (read-words))
          (phrases (read-phrases))
          (places (read-places)))
+    (for-each (lambda (word)
+               (add-word word))
+     words)
     (if i (copy-images))
     (if v (print dishes))
     (if o (write-dishes dishes))))))
@@ -34,6 +37,9 @@
  (print "hugo.scm -o -v -i -h"))
 
 (define words (make-hash-table))
+
+(define (add-word word)
+ (hash-table-put!  words (cantonese word) word))
 
 (define (copy-images)
  (copy-directory* "assets/images" "../hugodimsum/assets/images" :if-exists :supersede))
