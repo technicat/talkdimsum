@@ -110,7 +110,7 @@
 (define (write-dish-tags dish out)
  (let ((tags (tags dish)))
   (if tags
-   (let ((qtags (map (lambda (tag) #"\"~tag\"") tags)))
+   (let ((qtags (map (lambda (tag) (tag-display tag)) tags)))
     (write-string #"tags: [~(comma-list qtags)]" out)))
   (newline out)))
 
@@ -123,6 +123,12 @@
                   (vector->list tags)))))
     (write-string #"categories: [~(comma-list qcats)]" out)
     (newline out)))))
+
+(define (tag-display tag)
+  (let ((word (hash-table-get words tag)))
+    (if word
+      #"\"~tag ~(english word)\""
+      #"\"tag\"")))
 
 (define (write-dish-date dish out)
  (write-string #"showDate: false" out)
