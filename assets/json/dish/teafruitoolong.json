@@ -1,0 +1,55 @@
+[
+    {
+        "word": {
+            "English": "strawberry oolong tea",
+            "Cantonese": {
+                "text": "草莓烏龍",
+                "wkty": [
+                    "草莓",
+                    "草",
+                    "莓",
+                    "烏龍",
+                    "烏",
+                    "龍"
+                    
+                ]
+            },
+            "Yale": "chóu múi wu lùhng",
+            "Simplified": {
+                "text": "草莓乌龙",
+                "wkty": [
+                    "草莓",
+                    "草",
+                    "莓",
+                    "乌龙",
+                    "乌",
+                    "龙"
+                ]
+            },
+            "Pinyin": "cǎo méi wū lóng",
+            "description": "{草莓} is a [strawberry](https://en.wikipedia.org/wiki/Strawberry) ({草} is *straw* and {莓} is *berry*), and {烏龍} is [Oolong](https://en.wikipedia.org/wiki/Oolong) or literally *black dragon*, so 草莓烏龍 is *strawberry black dragon*."
+        },
+        "images": [
+            {
+                "image": "strawberryoolongteameetfresh",
+                "place": "Meet Fresh, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Oolong tea mixed with strawberry.",
+        "tags": [
+            "烏龍茶",
+            "冷飲",
+            "水果茶",
+            "飲品",
+            "士多啤梨",
+            "水果",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Ono Tea",
+                "URL": "https://onotea.com/strawberry-oolong-tea/"
+            }
+        ]
+    }
+]
