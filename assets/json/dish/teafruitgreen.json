@@ -205,13 +205,70 @@
                 "place": "Meet Fresh, Las Vegas, Nevada"
             }
         ],
-        "description": "Green tea mixed with strawberry.",
+        "description": "Green tea mixed with [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)).",
         "tags": [
             "冷飲",
             "水果茶",
             "飲品",
             "綠茶",
             "百香果",
+            "水果",
+            "茶"
+        ],
+        "resources": []
+    },
+    {
+        "word": {
+            "English": "passion fruit orange green tea",
+            "Cantonese": {
+                "text": "橙子百香果綠茶",
+                "wkty": [
+                    "橙子",
+                    "橙",
+                    "子",
+                    "百香果",
+                    "百",
+                    "香",
+                    "果",
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "baak hēung gwó luhk chàh",
+            "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
+            "Simplified": {
+                "text": "橙子百香果绿茶",
+                "wkty": [
+                    "橙子",
+                    "橙",
+                    "子",
+                    "百香果",
+                    "百",
+                    "香",
+                    "果",
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "bǎi xiāng guǒ lǜ chá",
+            "description": "{百} is *hundred*, {香} is *fragrant*, and {果}is *fruit*, so {百香果} is *hundred fragrant fruit*. {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香果綠茶 is *hundred fragrant fruit green tea*."
+        },
+        "images": [
+            {
+                "image": "passionfruitorangegreenteameetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Green tea mixed with [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) and orange.",
+        "tags": [
+            "冷飲",
+            "水果茶",
+            "飲品",
+            "綠茶",
+            "百香果",
+            "橙",
             "水果",
             "茶"
         ],
