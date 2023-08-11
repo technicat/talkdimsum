@@ -125,10 +125,10 @@
     (newline out)))))
 
 (define (tag-display tag)
-  (let ((word (hash-table-get words tag)))
+  (let ((word #false)) ;(hash-table-get words tag)))
     (if word
       #"\"~tag ~(english word)\""
-      #"\"tag\"")))
+      #"\"~tag\"")))
 
 (define (write-dish-date dish out)
  (write-string #"showDate: false" out)
