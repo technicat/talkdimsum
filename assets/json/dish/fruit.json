@@ -1,6 +1,42 @@
 [
     {
         "word": {
+            "English": "orange",
+            "Cantonese": "橙",
+            "Yale": "cháang",
+            "Jyutping": "caang2",
+            "Pinyin": "chéng",
+            "description": "As in English, {橙} denotes both the [fruit](https://en.wikipedia.org/wiki/Orange_(fruit)) and the [color](https://en.wikipedia.org/wiki/Orange_(colour))."
+        },
+        "images": [
+            {
+                "image": "orangeswendys",
+                "place": "Wendy's Noodle Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Oranges](https://en.wikipedia.org/wiki/Orange_(fruit)) originated in China and neighboring regions. [Mandarin oranges](https://en.wikipedia.org/wiki/Mandarin_orange) in particular are a traditional gift/offering during Chinese New Year, because the Cantonese word for Mandarin orange, 柑 (gām) sounds like the word for gold, 金 (gām).",
+        "tags": [
+            "橙",
+            "水果",
+            "橙"
+        ],
+        "resources": [
+            {
+                "name": "Michelin Guide",
+                "URL": "https://guide.michelin.com/us/en/article/features/mandarin-orange-varieties-chinese-new-year"
+            },
+            {
+                "name": "My Recipes",
+                "URL": "https://www.myrecipes.com/extracrispy/why-mandarin-oranges-mean-luck-in-the-new-year"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Orange_(fruit)"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "mango",
             "Cantonese": {
                 "text": "芒果",

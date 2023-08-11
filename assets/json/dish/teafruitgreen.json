@@ -54,6 +54,65 @@
     },
     {
         "word": {
+            "English": "mango orange green tea",
+            "Cantonese": {
+                "text": "芒果柳橙綠茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "柳橙",
+                    "柳",
+                    "橙",
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "mōng gwó láuh cháang luhk chàh",
+            "Simplified": {
+                "text": "芒果柳橙绿茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "柳橙",
+                    "柳",
+                    "橙",
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "máng guǒ liǔ chéng lǜ chá",
+            "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [mango](https://en.wikipedia.org/wiki/Mango) (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 芒果綠茶 is *mango green tea*."
+        },
+        "images": [
+            {
+                "image": "mangoorangegreenteameetfresh",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Green tea mixed with mango and orange.",
+        "tags": [
+            "冷飲",
+            "水果茶",
+            "飲品",
+            "綠茶",
+            "芒果",
+            "橙",
+            "水果",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Heavenly Homemakers",
+                "URL": "https://www.heavenlyhomemakers.com/how-to-make-mango-sweet-or-unsweet-tea"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "strawberry green tea",
             "Cantonese": {
                 "text": "草莓綠茶",
