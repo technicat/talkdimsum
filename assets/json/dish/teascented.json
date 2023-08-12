@@ -41,212 +41,327 @@
         ]
     },
     {
-    "word": {
-        "English": "chrysanthemum tea",
-        "Cantonese": {
-            "text": "菊花茶",
-            "wkty": [
-                "菊花茶",
-                "菊花",
-                "菊",
-                "花",
-                "茶"
-            ]
+        "word": {
+            "English": "chrysanthemum tea",
+            "Cantonese": {
+                "text": "菊花茶",
+                "wkty": [
+                    "菊花茶",
+                    "菊花",
+                    "菊",
+                    "花",
+                    "茶"
+                ]
+            },
+            "Yale": "gūk fā chàh",
+            "Pinyin": "jú huā chá",
+            "description": "{菊花} is *chrysanthemum flower* ({菊} is *chrysanthemum* and {花} is *flower*), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {菊花茶} is *chrysanthemum flower tea*."
         },
-        "Yale": "gūk fā chàh",
-        "Pinyin": "jú huā chá",
-        "description": "{菊花} is *chrysanthemum flower* ({菊} is *chrysanthemum* and {花} is *flower*), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {菊花茶} is *chrysanthemum flower tea*."
+        "images": [
+            {
+                "image": "chrysanthemumteadimsumcafe",
+                "place": "Dim Sum Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A light sweet herbal tea brewed with chyrsanthemum flower blossoms, [chrysanthmum tea](https://en.wikipedia.org/wiki/Chrysanthemum_tea) is the standard non-caffeinated tea option in dim sum restaurants.",
+        "tags": [
+            "花茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "中國茶",
+            "茶",
+            "菊",
+            "花",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Chrysanthemum-Tea"
+            },
+            {
+                "name": "Oh How Civilized",
+                "URL": "https://www.ohhowcivilized.com/chrysanthemum-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chrysanthemum_tea"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/2018/03/chrysanthemum-tea-benefits/"
+            }
+        ]
     },
-    "images": [
-        {
-            "image": "chrysanthemumteadimsumcafe",
-            "place": "Dim Sum Cafe, Las Vegas, Nevada"
-        }
-    ],
-    "description": "A light sweet herbal tea brewed with chyrsanthemum flower blossoms, [chrysanthmum tea](https://en.wikipedia.org/wiki/Chrysanthemum_tea) is the standard non-caffeinated tea option in dim sum restaurants.",
-    "tags": [
-        "花茶",
-        "飲品",
-        "熱飲",
-        "熱茶",
-        "中國茶",
-        "茶",
-        "菊",
-        "花",
-        "點心"
-    ],
-    "resources": [
-        {
-            "name": "Dim Sum Guide",
-            "URL": "https://dimsumguide.com/site/view/Chrysanthemum-Tea"
+    {
+        "word": {
+            "English": "Pu'er tea",
+            "Cantonese": {
+                "text": "普洱茶",
+                "wkty": [
+                    "普洱茶",
+                    "普洱",
+                    "普",
+                    "洱",
+                    "茶"
+                ]
+            },
+            "Yale": "póu néi chàh",
+            "Pinyin": "pǔ ěr chá",
+            "description": "{普洱} is *Pu'er* (the English spelling is patterned after the Mandarin pronunciation), the city in Yunnan associated with the tea. And {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {普洱茶} is *Pu'er tea*."
         },
-        {
-            "name": "Oh How Civilized",
-            "URL": "https://www.ohhowcivilized.com/chrysanthemum-tea/"
-        },
-        {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Chrysanthemum_tea"
-        },
-        {
-            "name": "The Woks of Life",
-            "URL": "https://thewoksoflife.com/2018/03/chrysanthemum-tea-benefits/"
-        }
-    ]
-},
-{
-    "word": {
-        "English": "Pu'er tea",
-        "Cantonese": {
-            "text": "普洱茶",
-            "wkty": [
-                "普洱茶",
-                "普洱",
-                "普",
-                "洱",
-                "茶"
-            ]
-        },
-        "Yale": "póu néi chàh",
-        "Pinyin": "pǔ ěr chá",
-        "description": "{普洱} is *Pu'er* (the English spelling is patterned after the Mandarin pronunciation), the city in Yunnan associated with the tea. And {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {普洱茶} is *Pu'er tea*."
+        "images": [
+            {
+                "image": "puerteanewasian2",
+                "place": "New Asian Cuisine, Fresno, California"
+            }
+        ],
+        "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) is a dark, fully fermented tea grown in the Yunnan province of China. It is *post-fermented*, where the leaves age even after drying.\n\n**Trivia**\n\nThe Dragonball Z character [Puar](https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters#Puar) is named after Pu'er tea.",
+        "tags": [
+            "滇菜",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "中國茶",
+            "茶",
+            "普洱",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Art of Tea",
+                "URL": "https://www.artoftea.com/what-is-tea/what-is-puerh-tea"
+            },
+            {
+                "name": "Dim Sum Guide",
+                "URL": "https://dimsumguide.com/site/view/Bou-Lei-Tea"
+            },
+            {
+                "name": "The Chinese Tea Shop",
+                "URL": "http://www.thechineseteashop.com/puerhtea.html"
+            },
+            {
+                "name": "Hong Kong University",
+                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/29"
+            },
+            {
+                "name": "Let's Drink Tea",
+                "URL": "https://www.letsdrinktea.com/types-of-tea/pu-erh-tea/"
+            },
+            {
+                "name": "NPR",
+                "URL": "https://www.npr.org/sections/thesalt/2017/03/14/518792925/why-puer-a-complex-tea-draws-rapt-fans-and-big-dollars"
+            },
+            {
+                "name": "Tea for Me Please",
+                "URL": "https://www.teaformeplease.com/puerh/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Pu%27er_tea"
+            }
+        ]
     },
-    "images": [
-        {
-            "image": "puerteanewasian2",
-            "place": "New Asian Cuisine, Fresno, California"
-        }
-    ],
-    "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) is a dark, fully fermented tea grown in the Yunnan province of China. It is *post-fermented*, where the leaves age even after drying.\n\n**Trivia**\n\nThe Dragonball Z character [Puar](https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters#Puar) is named after Pu'er tea.",
-    "tags": [
-        "滇菜",
-        "飲品",
-        "熱飲",
-        "熱茶",
-        "中國茶",
-        "茶",
-        "普洱",
-        "點心"
-    ],
-    "resources": [
-        {
-            "name": "Art of Tea",
-            "URL": "https://www.artoftea.com/what-is-tea/what-is-puerh-tea"
+    {
+        "word": {
+            "English": "chrysanthemum Pu'er tea",
+            "Cantonese": {
+                "text": "菊普",
+                "wkty": [
+                    "菊普",
+                    "菊",
+                    "普",
+                    "茶"
+                ]
+            },
+            "Yale": "gūk póu",
+            "Pinyin": "jú pǔ",
+            "description": "{菊} is *chrysanthemum*, and {普} is the first character for *Pu'er* ({普洱}), so {菊普} is *chrysanthemum Pu'er*.\n\nOr think of it as a mashup of chrysanthemum tea ({菊花茶}) and Pu'er tea ({普洱茶}), and combine the first characters from the two names."
         },
-        {
-            "name": "Dim Sum Guide",
-            "URL": "https://dimsumguide.com/site/view/Bou-Lei-Tea"
-        },
-        {
-            "name": "The Chinese Tea Shop",
-            "URL": "http://www.thechineseteashop.com/puerhtea.html"
-        },
-        {
-            "name": "Hong Kong University",
-            "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/29"
-        },
-        {
-            "name": "Let's Drink Tea",
-            "URL": "https://www.letsdrinktea.com/types-of-tea/pu-erh-tea/"
-        },
-        {
-            "name": "NPR",
-            "URL": "https://www.npr.org/sections/thesalt/2017/03/14/518792925/why-puer-a-complex-tea-draws-rapt-fans-and-big-dollars"
-        },
-        {
-            "name": "Tea for Me Please",
-            "URL": "https://www.teaformeplease.com/puerh/"
-        },
-        {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Pu%27er_tea"
-        }
-    ]
-},
-{
-    "word": {
-        "English": "chrysanthemum Pu'er tea",
-        "Cantonese": {
-            "text": "菊普",
-            "wkty": [
-                "菊普",
-                "菊",
-                "普",
-                "茶"
-            ]
-        },
-        "Yale": "gūk póu",
-        "Pinyin": "jú pǔ",
-        "description": "{菊} is *chrysanthemum*, and {普} is the first character for *Pu'er* ({普洱}), so {菊普} is *chrysanthemum Pu'er*.\n\nOr think of it as a mashup of chrysanthemum tea ({菊花茶}) and Pu'er tea ({普洱茶}), and combine the first characters from the two names."
+        "images": [
+            {
+                "image": "gukbochinatowneatery",
+                "place": "Cafe Salina, Millbrae, California"
+            }
+        ],
+        "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) blended with chrysanthemum to add a lighter flavor and fragrance.",
+        "tags": [
+            "花茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "中國茶",
+            "茶",
+            "菊",
+            "花",
+            "普洱",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Pu%27er_tea"
+            }
+        ]
     },
-    "images": [
-        {
-            "image": "gukbochinatowneatery",
-            "place": "Cafe Salina, Millbrae, California"
-        }
-    ],
-    "description": "[Pu'er tea](https://en.wikipedia.org/wiki/Pu%27er_tea) blended with chrysanthemum to add a lighter flavor and fragrance.",
-    "tags": [
-        "花茶",
-        "飲品",
-        "熱飲",
-        "熱茶",
-        "中國茶",
-        "茶",
-        "菊",
-        "花",
-        "普洱",
-        "點心"
-    ],
-    "resources": [
-        {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Pu%27er_tea"
-        }
-    ]
-},
-{
-    "word": {
-        "English": "lychee tea",
-        "Cantonese": {
-            "text": "荔枝茶",
-            "wkty": [
-                "荔枝",
-                "荔",
-                "枝",
-                "茶"
-            ]
+    {
+        "word": {
+            "English": "lychee tea",
+            "Cantonese": {
+                "text": "荔枝茶",
+                "wkty": [
+                    "荔枝",
+                    "荔",
+                    "枝",
+                    "茶"
+                ]
+            },
+            "Yale": "laih jī chàh",
+            "Pinyin": "lì zhī chá",
+            "description": "{荔枝} is [lychee](https://en.wikipedia.org/wiki/Lychee), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 荔枝茶 is *lychee tea*."
         },
-        "Yale": "laih jī chàh",
-        "Pinyin": "lì zhī chá",
-        "description": "{荔枝} is [lychee](https://en.wikipedia.org/wiki/Lychee), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 荔枝茶 is *lychee tea*."
+        "images": [
+            {
+                "image": "lycheeblackteacafesalina",
+                "place": "Cafe Salina, Millbrae, California"
+            }
+        ],
+        "description": "Black tea scented with [lychee](https://en.wikipedia.org/wiki/Lychee) peels, so it's got a fruity taste.",
+        "tags": [
+            "花茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "中國茶",
+            "茶",
+            "荔枝",
+            "茶餐廳"
+        ],
+        "resources": [
+            {
+                "name": "The Tao of Tea",
+                "URL": "https://taooftea.com/product/lychee/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Lychee"
+            }
+        ]
     },
-    "images": [
-        {
-            "image": "lycheeblackteacafesalina",
-            "place": "Cafe Salina, Millbrae, California"
-        }
-    ],
-    "description": "Black tea scented with [lychee](https://en.wikipedia.org/wiki/Lychee) peels, so it's got a fruity taste.",
-    "tags": [
-        "花茶",
-        "飲品",
-        "熱飲",
-        "熱茶",
-        "中國茶",
-        "茶",
-        "荔枝",
-        "茶餐廳"
-    ],
-    "resources": [
-        {
-            "name": "The Tao of Tea",
-            "URL": "https://taooftea.com/product/lychee/"
+    {
+        "word": {
+            "English": "peach oolong",
+            "Cantonese": {
+                "text": "蜜桃烏龍",
+                "wkty": [
+                    "蜜桃",
+                    "蜜",
+                    "桃",
+                    "烏龍",
+                    "烏",
+                    "龍"
+                ]
+            },
+            "Yale": "maht tòuh wu lùhng",
+            "Simplified": {
+                "text": "蜜桃乌龙",
+                "wkty": [
+                    "蜜桃",
+                    "蜜",
+                    "桃",
+                    "乌龙",
+                    "乌",
+                    "龙"
+                ]
+            },
+            "Pinyin": "mì táo wū lóng",
+            "description": "{蜜桃} is *sweet peach* ({蜜} is *hone* and {桃} is *peach*). {烏龍} is *oolong* or literally *black dragon*, short for [oolong tea](https://en.wikipedia.org/wiki/Oolong) ({烏龍茶}). So 蜜桃烏龍 is *sweet peach oolong* or *honey peach black dragon tea*."
         },
-        {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Lychee"
-        }
-    ]
-}
+        "images": [
+            {
+                "image": "peachoolongrandfmarket",
+                "place": "R and F Market, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Oolong](https://en.wikipedia.org/wiki/Oolong) tea scented with dried peaches.",
+        "tags": [
+            "花茶",
+            "桃",
+            "熱飲",
+            "烏龍茶",
+            "中國茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Kitu Cafe",
+                "URL": "https://kitucafe.com/peach-oloong-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Oolong"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "osmanthus oolong",
+            "Cantonese": {
+                "text": "桂花烏龍",
+                "wkty": [
+                    "桂花",
+                    "桂",
+                    "花",
+                    "烏龍",
+                    "烏",
+                    "龍"
+                ]
+            },
+            "Yale": "gwai fā wu lùhng",
+            "Simplified": {
+                "text": "桂花乌龙",
+                "wkty": [
+                    "桂花",
+                    "桂",
+                    "花",
+                    "乌龙",
+                    "乌",
+                    "龙"
+                ]
+            },
+            "Pinyin": "guì huā wū lóng",
+            "description": "{桂花} is *osmanthus* ({桂} is *osmanthus* and {花} is *flower*). {烏龍} is *oolong* or literally *black dragon*, short for [oolong tea](https://en.wikipedia.org/wiki/Oolong) ({烏龍茶}). So 桂花烏龍 is *osmanthus oolong* or *osmanthus black dragon*."
+        },
+        "images": [
+            {
+                "image": "osmanthusoolongrandfmarket",
+                "place": "R and F Market, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Oolong](https://en.wikipedia.org/wiki/Oolong) tea scented with dried osmanthus flowers.",
+        "tags": [
+            "花茶",
+            "熱飲",
+            "烏龍茶",
+            "中國茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Tao of Tea",
+                "URL": "https://taooftea.com/product/osmanthus-oolong/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Oolong"
+            }
+        ]
+    }
 ]
