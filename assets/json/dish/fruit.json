@@ -43,49 +43,89 @@
     },
     {
         "word": {
-        "English": "kiwi",
-        "Cantonese": {
-            "text": "奇異果",
-            "wkty": [
-                "奇異果",
-                "奇異",
-                "奇",
-                "異",
-                "果"
-            ]
+            "English": "durian",
+            "Cantonese": {
+                "text": "榴蓮",
+                "wkty": [
+                    "榴蓮",
+                    "榴",
+                    "蓮"
+                ]
+            },
+            "Yale": "làuh lìhn",
+            "Simplified": {
+                "text": "榴莲",
+                "wkty": [
+                    "榴莲",
+                    "榴",
+                    "莲"
+                ]
+            },
+            "Pinyin": "liú lián"
         },
-        "Yale": "kèi yih gwó",
-        "Jyutping": "kei4 ji6 gwo2",
-        "Simplified": {
-            "text": "奇异果",
-            "wkty": [
-                "奇异果",
-                "奇异",
-                "奇",
-                "异",
-                "果"
-            ]
-        },
-        "Pinyin": "qí yì guǒ",
-        "description": "{奇異} sounds like *kiwi* but also means *strange*, and {果} is *fruit*, so {奇異果} is *strange fruit*."
+        "images": [
+            {
+                "image": "durian99ranch",
+                "place": "99 Ranch, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Peanuts are grown mostly in tropical and subtropical regions, with production led by China.",
+        "tags": [
+            "榴莲",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Durian",
+                "URL": "https://en.wikipedia.org/wiki/Durian"
+            }
+        ]
     },
-    "images": [
-        {
-            "image": "kiwirandfmarket",
-            "place": "Chinatown Supermarket, South Salt Lake, Utah"
-        }
-    ],
-    "description": "[Kiwi](https://en.wikipedia.org/wiki/Kiwifruit) are native to China also known as *Chinese gooseberry*.",
-    "tags": [
-        "奇異果",
-        "水果"
-    ],
-    "resources": [
-        {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Kiwifruit"
-        }
-    ]
+    {
+        "word": {
+            "English": "kiwi",
+            "Cantonese": {
+                "text": "奇異果",
+                "wkty": [
+                    "奇異果",
+                    "奇異",
+                    "奇",
+                    "異",
+                    "果"
+                ]
+            },
+            "Yale": "kèi yih gwó",
+            "Jyutping": "kei4 ji6 gwo2",
+            "Simplified": {
+                "text": "奇异果",
+                "wkty": [
+                    "奇异果",
+                    "奇异",
+                    "奇",
+                    "异",
+                    "果"
+                ]
+            },
+            "Pinyin": "qí yì guǒ",
+            "description": "{奇異} sounds like *kiwi* but also means *strange*, and {果} is *fruit*, so {奇異果} is *strange fruit*."
+        },
+        "images": [
+            {
+                "image": "kiwirandfmarket",
+                "place": "Chinatown Supermarket, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Kiwi](https://en.wikipedia.org/wiki/Kiwifruit) are native to China also known as *Chinese gooseberry*.",
+        "tags": [
+            "奇異果",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Kiwifruit"
+            }
+        ]
     },
     {
         "word": {
@@ -194,6 +234,39 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Pineapple"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "peanut",
+            "Cantonese": {
+                "text": "花生",
+                "wkty": [
+                    "花生",
+                    "花",
+                    "生"
+                ]
+            },
+            "Yale": "fā sāng",
+            "Pinyin": "huā shēng",
+            "description": ""
+        },
+        "images": [
+            {
+                "image": "peanuts168market",
+                "place": "168 Market, Las Vegas, Nevada"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "花生",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Peanut"
             }
         ]
     }
