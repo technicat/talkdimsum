@@ -43,6 +43,51 @@
     },
     {
         "word": {
+            "English": "dragonfruit",
+            "Cantonese": {
+                "text": "火龍果",
+                "wkty": [
+                    "火龍果",
+                    "火龍",
+                    "火",
+                    "龍",
+                    "果"
+                ]
+            },
+            "Yale": "fó lùhng gwó",
+            "Simplified": {
+                "text": "火龙果",
+                "wkty": [
+                    "火龙果",
+                    "火龙",
+                    "火",
+                    "龙",
+                    "果"
+                ]
+            },
+            "Pinyin": "huǒ lóng guǒ",
+            "description": "{火龍} is *fire dragon* ({火} is *fire* and {龍} is *dragon*), and {果} is *fruit*, so {火龍果} is *fire dragon fruit*."
+        },
+        "images": [
+            {
+                "image": "dragonfruit99ranch",
+                "place": "99 Ranch, Las Vegas, Nevada"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "火龍果",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Pitaya#Dragon_fruit,_Selenicereus"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "durian",
             "Cantonese": {
                 "text": "榴蓮",
