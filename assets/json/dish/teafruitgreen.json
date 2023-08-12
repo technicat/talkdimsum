@@ -169,11 +169,59 @@
     },
     {
         "word": {
+            "English": "strawberry passion fruit green tea",
+            "Cantonese": {
+                "text": "草莓百香綠茶",
+                "wkty": [
+                    "草莓",
+                    "草",
+                    "莓",
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "chóu múi baak hēung luhk chàh",
+            "Simplified": {
+                "text": "草莓百香绿茶",
+                "wkty": [
+                    "草莓",
+                    "草",
+                    "莓",
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "cǎo méi bǎi xiāng lǜ chá",
+            "description": "{草莓} is a [strawberry](https://en.wikipedia.org/wiki/Strawberry) ({草} is *straw* and {莓} is *berry*), and 百香 is short for [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) ({百香果, *hundred fragrant fruit*). So 草莓百香綠茶 is *strawberry hundred fragrant green tea*."
+        },
+        "images": [
+            {
+                "image": "strawberrypassionfruitgreenteameetfresh",
+                "place": "Meet Fresh, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Green tea mixed with strawberry and passion fruit.",
+        "tags": [
+            "冷飲",
+            "水果茶",
+            "飲品",
+            "綠茶",
+            "士多啤梨",
+            "百香果",
+            "水果",
+            "茶"
+        ],
+        "resources": [
+        ]
+    },
+    {
+        "word": {
             "English": "passion fruit green tea",
             "Cantonese": {
-                "text": "百香果綠茶",
+                "text": "百香綠茶",
                 "wkty": [
-                    "百香果",
                     "百",
                     "香",
                     "果",
@@ -182,12 +230,11 @@
                     "茶"
                 ]
             },
-            "Yale": "baak hēung gwó luhk chàh",
-            "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
+            "Yale": "baak hēung luhk chàh",
+            "Jyutping": "baak3 hoeng1 luk6 caa4",
             "Simplified": {
-                "text": "百香果绿茶",
+                "text": "百香绿茶",
                 "wkty": [
-                    "百香果",
                     "百",
                     "香",
                     "果",
@@ -196,8 +243,8 @@
                     "茶"
                 ]
             },
-            "Pinyin": "bǎi xiāng guǒ lǜ chá",
-            "description": "{百} is *hundred*, {香} is *fragrant*, and {果}is *fruit*, so {百香果} is *hundred fragrant fruit*. {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香果綠茶 is *hundred fragrant fruit green tea*."
+            "Pinyin": "bǎi xiāng lǜ chá",
+            "description": "百香 is short for [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) ({百香果, *hundred fragrant fruit*). {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香綠茶 is *hundred fragrant green tea*."
         },
         "images": [
             {
@@ -221,7 +268,7 @@
         "word": {
             "English": "passion fruit orange green tea",
             "Cantonese": {
-                "text": "橙子百香果綠茶",
+                "text": "橙子百香綠茶",
                 "wkty": [
                     "橙子",
                     "橙",
@@ -235,15 +282,14 @@
                     "茶"
                 ]
             },
-            "Yale": "baak hēung gwó luhk chàh",
-            "Jyutping": "baak3 hoeng1 gwo2 luk6 caa4",
+            "Yale": "baak hēung luhk chàh",
+            "Jyutping": "baak3 hoeng1 luk6 caa4",
             "Simplified": {
-                "text": "橙子百香果绿茶",
+                "text": "橙子百香绿茶",
                 "wkty": [
                     "橙子",
                     "橙",
                     "子",
-                    "百香果",
                     "百",
                     "香",
                     "果",
@@ -252,8 +298,8 @@
                     "茶"
                 ]
             },
-            "Pinyin": "bǎi xiāng guǒ lǜ chá",
-            "description": "{橙子} is the Mandarin word for *orange*, {百} is *hundred*, {香} is *fragrant*, and {果}is *fruit*, so {百香果} is *hundred fragrant fruit*. {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香果綠茶 is *orange hundred fragrant fruit green tea*."
+            "Pinyin": "bǎi xiāng lǜ chá",
+            "description": "{橙子} is the Mandarin word for *orange*, and 百香 is short for [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) ({百香果, *hundred fragrant fruit*). {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香綠茶 is *orange hundred fragrant green tea*."
         },
         "images": [
             {
