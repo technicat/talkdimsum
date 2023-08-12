@@ -21,7 +21,7 @@
                 ]
             },
             "Pinyin": "píng guǒ",
-            "description": "{果} is *fruit*."
+            "description": "{蘋} is from a Sanskrit translation and {果} is *fruit*."
         },
         "images": [
             {
@@ -41,114 +41,160 @@
             }
         ]
     },
-{
-    "word": {
-        "English": "orange",
-        "Cantonese": "橙",
-        "Yale": "cháang",
-        "Jyutping": "caang2",
-        "Pinyin": "chéng",
-        "description": "As in English, {橙} denotes both the [fruit](https://en.wikipedia.org/wiki/Orange_(fruit)) and the [color](https://en.wikipedia.org/wiki/Orange_(colour))."
-    },
-    "images": [
-        {
-            "image": "orangeswendys",
-            "place": "Wendy's Noodle Cafe, Las Vegas, Nevada"
-        }
-    ],
-    "description": "[Oranges](https://en.wikipedia.org/wiki/Orange_(fruit)) originated in China and neighboring regions. [Mandarin oranges](https://en.wikipedia.org/wiki/Mandarin_orange) in particular are a traditional gift/offering during Chinese New Year, because the Cantonese word for Mandarin orange, 柑 (gām) sounds like the word for gold, 金 (gām).",
-    "tags": [
-        "水果",
-        "橙"
-    ],
-    "resources": [
-        {
-            "name": "Michelin Guide",
-            "URL": "https://guide.michelin.com/us/en/article/features/mandarin-orange-varieties-chinese-new-year"
-        },
-        {
-            "name": "My Recipes",
-            "URL": "https://www.myrecipes.com/extracrispy/why-mandarin-oranges-mean-luck-in-the-new-year"
-        },
-        {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Orange_(fruit)"
-        }
-    ]
-},
-{
-    "word": {
-        "English": "mango",
+    {
+        "word": {
+        "English": "kiwi",
         "Cantonese": {
-            "text": "芒果",
+            "text": "奇異果",
             "wkty": [
-                "芒果",
-                "芒",
+                "奇異果",
+                "奇異",
+                "奇",
+                "異",
                 "果"
             ]
         },
-        "Yale": "mōng gwó",
-        "Jyutping": "mong1 gwo2",
-        "Pinyin": "máng guǒ",
-        "description": "{芒} is phonetic for the first syllable in [mango](https://en.wikipedia.org/wiki/Mango), and {果} is *fruit* but also sounds like the second syllable in [mango](https://en.wikipedia.org/wiki/Mango)."
-    },
-    "images": [
-        {
-            "image": "mangotriohuilaushan",
-            "place": "Hui Lau Shan, Las Vegas, Nevada"
-        }
-    ],
-    "description": "Mango is a tropical fruit, likely originating from south Asia, and present in many Hong Kong desserts such as [mango pudding](https://en.wikipedia.org/wiki/Mango_pudding), mango pancakes, and fruit teas.",
-    "tags": [
-        "芒果",
-        "水果"
-    ],
-    "resources": [
-        {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Mango"
-        }
-    ]
-},
-{
-    "word": {
-        "Cantonese": {
-            "text": "菠蘿",
-            "wkty": [
-                "菠蘿",
-                "菠",
-                "蘿"
-            ]
-        },
+        "Yale": "kèi yih gwó",
+        "Jyutping": "kei4 ji6 gwo2",
         "Simplified": {
-            "text": "菠萝",
+            "text": "奇异果",
             "wkty": [
-                "菠萝",
-                "菠",
-                "萝"
+                "奇异果",
+                "奇异",
+                "奇",
+                "异",
+                "果"
             ]
         },
-        "English": "pineapple",
-        "Yale": "bō lòh",
-        "Pinyin": "bō luó",
-        "description": "{菠蘿} is a phonetic word for [pineapple](https://en.wikipedia.org/wiki/Pineapple) (although it's not very close). In Taiwan, {鳳梨} is more commonly used."
+        "Pinyin": "qí yì guǒ",
+        "description": "{奇異} sounds like *kiwi* but also means *strange*, and {果} is *fruit*, so {奇異果} is *strange fruit*."
     },
     "images": [
         {
-            "image": "pineapplechinatownsupermarket",
+            "image": "kiwirandfmarket",
             "place": "Chinatown Supermarket, South Salt Lake, Utah"
         }
     ],
-    "description": "[Pineapples](https://en.wikipedia.org/wiki/Pineapple) originated in South America and are cultivated in tropical climes around the world, including [Taiwan](https://en.wikipedia.org/wiki/Pineapple_production_in_Taiwan), famous for their [pineapple cakes](https://en.wikipedia.org/wiki/Pineapple_cake) (featured in their airport gift shops).",
+    "description": "[Kiwi](https://en.wikipedia.org/wiki/Kiwifruit) are native to China also known as *Chinese gooseberry*.",
     "tags": [
-        "菠蘿",
+        "奇異果",
         "水果"
     ],
     "resources": [
         {
             "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Pineapple"
+            "URL": "https://en.wikipedia.org/wiki/Kiwifruit"
         }
     ]
-}
+    },
+    {
+        "word": {
+            "English": "orange",
+            "Cantonese": "橙",
+            "Yale": "cháang",
+            "Jyutping": "caang2",
+            "Pinyin": "chéng",
+            "description": "As in English, {橙} denotes both the [fruit](https://en.wikipedia.org/wiki/Orange_(fruit)) and the [color](https://en.wikipedia.org/wiki/Orange_(colour))."
+        },
+        "images": [
+            {
+                "image": "orangeswendys",
+                "place": "Wendy's Noodle Cafe, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Oranges](https://en.wikipedia.org/wiki/Orange_(fruit)) originated in China and neighboring regions. [Mandarin oranges](https://en.wikipedia.org/wiki/Mandarin_orange) in particular are a traditional gift/offering during Chinese New Year, because the Cantonese word for Mandarin orange, 柑 (gām) sounds like the word for gold, 金 (gām).",
+        "tags": [
+            "水果",
+            "橙"
+        ],
+        "resources": [
+            {
+                "name": "Michelin Guide",
+                "URL": "https://guide.michelin.com/us/en/article/features/mandarin-orange-varieties-chinese-new-year"
+            },
+            {
+                "name": "My Recipes",
+                "URL": "https://www.myrecipes.com/extracrispy/why-mandarin-oranges-mean-luck-in-the-new-year"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Orange_(fruit)"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "mango",
+            "Cantonese": {
+                "text": "芒果",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果"
+                ]
+            },
+            "Yale": "mōng gwó",
+            "Jyutping": "mong1 gwo2",
+            "Pinyin": "máng guǒ",
+            "description": "{芒} is phonetic for the first syllable in [mango](https://en.wikipedia.org/wiki/Mango), and {果} is *fruit* but also sounds like the second syllable in [mango](https://en.wikipedia.org/wiki/Mango)."
+        },
+        "images": [
+            {
+                "image": "mangotriohuilaushan",
+                "place": "Hui Lau Shan, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Mango is a tropical fruit, likely originating from south Asia, and present in many Hong Kong desserts such as [mango pudding](https://en.wikipedia.org/wiki/Mango_pudding), mango pancakes, and fruit teas.",
+        "tags": [
+            "芒果",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Mango"
+            }
+        ]
+    },
+    {
+        "word": {
+            "Cantonese": {
+                "text": "菠蘿",
+                "wkty": [
+                    "菠蘿",
+                    "菠",
+                    "蘿"
+                ]
+            },
+            "Simplified": {
+                "text": "菠萝",
+                "wkty": [
+                    "菠萝",
+                    "菠",
+                    "萝"
+                ]
+            },
+            "English": "pineapple",
+            "Yale": "bō lòh",
+            "Pinyin": "bō luó",
+            "description": "{菠蘿} is a phonetic word for [pineapple](https://en.wikipedia.org/wiki/Pineapple) (although it's not very close). In Taiwan, {鳳梨} is more commonly used."
+        },
+        "images": [
+            {
+                "image": "pineapplechinatownsupermarket",
+                "place": "Chinatown Supermarket, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Pineapples](https://en.wikipedia.org/wiki/Pineapple) originated in South America and are cultivated in tropical climes around the world, including [Taiwan](https://en.wikipedia.org/wiki/Pineapple_production_in_Taiwan), famous for their [pineapple cakes](https://en.wikipedia.org/wiki/Pineapple_cake) (featured in their airport gift shops).",
+        "tags": [
+            "菠蘿",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Pineapple"
+            }
+        ]
+    }
 ]
