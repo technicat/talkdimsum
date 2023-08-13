@@ -100,6 +100,23 @@
             "address": "13500 Beach Blvd Ste 25 Jacksonville, FL 32224"
         },
         {
+            "title": "Lucky Cat Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.luckycatdimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/lucky-cat-dim-sum-restaurant-jacksonville"
+                }
+            ],
+            "lat": 30.185679895576765,
+            "lon": -81.60846761716394,
+            "city": "Jacksonville",
+            "address": "10550 Old St Augustine Rd Ste 28 Jacksonville, FL 32257"
+        },
+        {
             "title": "S & R Dim Sum",
             "links": [
                 {
