@@ -2,6 +2,43 @@
   {
     "word": {
       "Cantonese": {
+        "text": "芒果汁",
+        "wkty": [
+          "芒果汁",
+          "芒果",
+          "芒",
+          "果",
+          "汁"
+        ]
+      },
+      "English": "mango juice",
+      "Yale": "mōng gwó jāp",
+      "Pinyin": "máng guǒ zhī",
+      "description": "{芒果} is [mango](https://en.wikipedia.org/wiki/Mango), and {汁} is *juice*, so {芒果汁}  is [mango juice](https://en.wikipedia.org/wiki/Mango_juice)."
+    },
+    "images": [
+      {
+        "image": "mangojuicetraderjoes",
+        "place": "Trader Joe's, Draper, Utah"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "果汁",
+      "芒果",
+      "汁",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mango_juice"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
         "text": "菠蘿汁",
         "wkty": [
           "菠蘿",
@@ -31,6 +68,7 @@
     ],
     "description": "Pineapple juice is popular in Southeast Asia although not quite as much in China.",
     "tags": [
+      "果汁",
       "菠蘿",
       "蔗",
       "汁",
@@ -66,6 +104,7 @@
     ],
     "description": "[Sugarcane juice](https://en.wikipedia.org/wiki/Sugarcane_juice) is a (very sugary) liquid made from pressed [sugarcane](https://en.wikipedia.org/wiki/Sugarcane).",
     "tags": [
+      "果汁",
       "冷飲",
       "蔗",
       "汁",
@@ -121,6 +160,7 @@
     ],
     "description": "",
     "tags": [
+      "果汁",
       "冷飲",
       "酒",
       "飲品"
