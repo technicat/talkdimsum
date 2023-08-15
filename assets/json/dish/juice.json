@@ -2,6 +2,40 @@
   {
     "word": {
       "Cantonese": {
+        "text": "果汁",
+        "wkty": [
+          "果汁",
+          "果",
+          "汁"
+        ]
+      },
+      "English": "fruit juice",
+      "Yale": "gwó āp",
+      "Pinyin": "guǒ zhī",
+      "description": "{果} is [fruit](https://en.wikipedia.org/wiki/Fruit), and {汁} is *juice* (also *sauce*), so {果汁}  is [fruit juice](https://en.wikipedia.org/wiki/Fruit_juice)."
+    },
+    "images": [
+      {
+        "image": "passionfruitsugarcanejuicesugarmama",
+        "place": "Sugar Mama, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "果汁",
+      "汁",
+      "飲品"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Fruit_juice"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
         "text": "芒果汁",
         "wkty": [
           "芒果汁",
