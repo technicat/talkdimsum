@@ -202,5 +202,31 @@
                 "URL": "https://en.wikipedia.org/wiki/Fanta"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "sarsaparilla",
+            "Cantonese": "沙示",
+            "Yale": "sā sih",
+            "Pinyin": "shā shì"
+        },
+        "images": [
+            {
+                "image": "sarsaparilla",
+                "place": "Chinatown Supermarket, South Salt Lake, utah"
+            }
+        ],
+        "description": "[Sarsaparilla](https://en.wikipedia.org/wiki/Sarsaparilla_(soft_drink)) .",
+        "tags": [
+            "冷飲",
+            "汽水",
+            "飲品"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Sarsaparilla_(soft_drink)"
+            }
+        ]
     }
 ]
