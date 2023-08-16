@@ -35,7 +35,7 @@
                 "place": "China a Go Go, Las Vegas, Nevada"
             }
         ],
-        "description": "[Cashew chicken](https://en.wikipedia.org/wiki/Cashew_chicken) is a sstir-fried mix of diced chicken and cashews.\n\n**History**\n\nThis is a Chinese-American dish, and also a Chinese-Missouri dish (Springfield, Missouri), invented by David Leong (who immigrated from China at the age of 20 in time to enlist in the Army and storm the beaches of Normandy, then moved to Springfield and figured out the way to introduce Chinese food to Americans is to deep-fry it. He lived to 99.",
+        "description": "[Cashew chicken](https://en.wikipedia.org/wiki/Cashew_chicken) is a stir-fried mix of diced chicken and cashews.\n\n**History**\n\nThis is a Chinese-American dish, and also a Chinese-Missouri dish (Springfield, Missouri), invented by David Leong, who immigrated from China at the age of 20 in time to enlist in the Army and storm the beaches of Normandy, then moved to Springfield and figured out the way to introduce Chinese food to Americans is to deep-fry it. He lived to 99.",
         "tags": [
             "腰果",
             "美式",
@@ -45,6 +45,10 @@
             "茶餐廳"
         ],
         "resources": [
+            {
+                "name": "Christie at Home",
+                "URL": "https://christieathome.com/blog/cashew-chicken/"
+            },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Cashew_chicken"
