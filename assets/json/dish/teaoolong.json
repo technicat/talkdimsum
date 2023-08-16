@@ -161,6 +161,60 @@
     },
     {
         "word": {
+            "English": "jade oolong",
+            "Cantonese": {
+                "text": "翠玉烏龍",
+                "wkty": [
+                    "烏龍",
+                    "烏",
+                    "龍",
+                    "茶"
+                ]
+            },
+            "Yale": "cheui yuhk wu lùhng",
+            "Simplified": {
+                "text": "翠玉乌龙",
+                "wkty": [
+                    "乌龙",
+                    "乌",
+                    "龙"
+                ]
+            },
+            "Pinyin": "cuì yù wū lóng",
+            "description": "{翠} is *blue-green* and {玉} is *jade*, {烏龍} is *oolong* or literally *black dragon*. So 翠玉烏龍 is *blue-green jade black dragon*."
+        },
+        "images": [
+            {
+                "image": "jadeoolong",
+                "place": "Tea Zaanti, Salt Lake City, Utah"
+            }
+        ],
+        "description": "This is a light oolong tea from Taiwan.",
+        "tags": [
+            "台菜",
+            "臺灣",
+            "熱飲",
+            "烏龍茶",
+            "中國茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "茶",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Curious Tea",
+                "URL": "https://www.curioustea.com/tea/oolong-tea/jade-oolong/"
+            },
+            {
+                "name": "Echo Cha",
+                "URL": "https://learn.eco-cha.com/article/172-what-is-jade-oolong"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "milk oolong tea",
             "Cantonese": {
                 "text": "奶香",
@@ -183,8 +237,8 @@
         "description": "Not to be confused with [milk tea](https://en.wikipedia.org/wiki/Milk_tea), which is tea with milk added, milk oolong tea is an [oolong](https://en.wikipedia.org/wiki/Oolong) tea that has a naturally milky taste.\n\n**Origin**\n\nThis specific variety of oolong originated in Taiwan and is named 金萱 ([Jin Xuan](https://en.wikipedia.org/wiki/Jin_Xuan_tea) in Mandarin, literally Golden Daylily), but sometimes the term *milk oolong* is more broadly applied to other varieties of oolong or even those with milk-flavored additives.",
         "tags": [
             "台菜",
-            "熱飲",
             "臺灣",
+            "熱飲",
             "烏龍茶",
             "飲品",
             "熱飲",
