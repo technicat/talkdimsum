@@ -73,10 +73,21 @@
             "港式",
             "芒果",
             "班戟",
-            "甜品",
-            "點心"
+            "甜品"
         ],
         "resources": [
+            {
+                "name": "Ash Baber",
+                "URL": "https://ashbaber.com/hong-kong-style-mango-pancakes/"
+            },
+            {
+                "name": "Auntie Emily",
+                "URL": "https://auntieemily.com/hong-kong-style-mango-pancake/"
+            },
+            {
+                "name": "Christie at Home",
+                "URL": "https://christieathome.com/blog/hong-kong-style-mango-pancake/"
+            },
             {
                 "name": "Cook with Dana",
                 "URL": "https://cookwithdana.com/mango-pancake-hong-kong-style/"
@@ -100,6 +111,10 @@
             {
                 "name": "Wok and Kin",
                 "URL": "https://www.wokandkin.com/mango-pancakes/"
+            },
+            {
+                "name": "Yum of China",
+                "URL": "https://www.yumofchina.com/mango-pancakes/"
             }
         ]
     },
@@ -235,7 +250,6 @@
             "甜品"
         ],
         "resources": [
-           
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Taro_ball"
