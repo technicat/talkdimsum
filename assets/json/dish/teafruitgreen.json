@@ -138,7 +138,7 @@
                 ]
             },
             "Pinyin": "cǎo méi lǜ chá",
-            "description": "{草莓} is a [strawberry](https://en.wikipedia.org/wiki/Strawberry) ({草} is *straw* and {莓} is *berry*), so 草莓綠茶 is *strawberry green tea*."
+            "description": "{草莓} is a [strawberry](https://en.wikipedia.org/wiki/Strawberry) ({草} is *straw* and {莓} is *berry*), and {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea). So 草莓綠茶 is *strawberry green tea*."
         },
         "images": [
             {
@@ -194,7 +194,7 @@
                 ]
             },
             "Pinyin": "cǎo méi bǎi xiāng lǜ chá",
-            "description": "{草莓} is a [strawberry](https://en.wikipedia.org/wiki/Strawberry) ({草} is *straw* and {莓} is *berry*), and 百香 is short for [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) ({百香果, *hundred fragrant fruit*). So 草莓百香綠茶 is *strawberry hundred fragrant green tea*."
+            "description": "{草莓} is a [strawberry](https://en.wikipedia.org/wiki/Strawberry) ({草} is *straw* and {莓} is *berry*), 百香 is short for [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) ({百香果, *hundred fragrant fruit*), and {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea). So 草莓百香綠茶 is *strawberry hundred fragrant green tea*."
         },
         "images": [
             {
@@ -282,8 +282,7 @@
                     "茶"
                 ]
             },
-            "Yale": "baak hēung luhk chàh",
-            "Jyutping": "baak3 hoeng1 luk6 caa4",
+            "Yale": "cháang jí baak hēung luhk chàh",
             "Simplified": {
                 "text": "橙子百香绿茶",
                 "wkty": [
@@ -298,7 +297,7 @@
                     "茶"
                 ]
             },
-            "Pinyin": "bǎi xiāng lǜ chá",
+            "Pinyin": "chéng zi bǎi xiāng lǜ chá",
             "description": "{橙子} is the Mandarin word for *orange*, and 百香 is short for [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) ({百香果, *hundred fragrant fruit*). {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 百香綠茶 is *orange hundred fragrant green tea*."
         },
         "images": [
@@ -319,5 +318,67 @@
             "茶"
         ],
         "resources": []
+    },
+    {
+        "word": {
+            "English": "strawberry orange green tea",
+            "Cantonese": {
+                "text": "草莓柳橙綠茶",
+                "wkty": [
+                    "草莓",
+                    "草",
+                    "莓",
+                    "柳橙",
+                    "柳",
+                    "橙",
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "chóu múi láuh cháang luhk chàh",
+            "Simplified": {
+                "text": "草莓柳橙绿茶",
+                "wkty": [
+                    "草莓",
+                    "草",
+                    "莓",
+                    "柳橙",
+                    "柳",
+                    "橙",
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "cǎo méi liǔ chéng lǜ chá",
+            "description": "{草莓} is a [strawberry](https://en.wikipedia.org/wiki/Strawberry) ({草} is *straw* and {莓} is *berry*), {柳橙} is *orange* (in Taiwan, literally *willow orange*), and {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 草莓綠茶 is *strawberry green tea*."
+        },
+        "images": [
+            {
+                "image": "strawberryjasminegreenteameetfresh",
+                "place": "Meet Fresh, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Green tea mixed with strawberry and orange.",
+        "tags": [
+            "冷飲",
+            "水果茶",
+            "飲品",
+            "綠茶",
+            "士多啤梨",
+            "水果",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "The Cookful",
+                "URL": "https://thecookful.com/strawberry-green-tea/"
+            },
+            {
+                "name": "Rasa Malaysia",
+                "URL": "https://rasamalaysia.com/strawberry-green-tea/"
+            }
+        ]
     }
 ]
