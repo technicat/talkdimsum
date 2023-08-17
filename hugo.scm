@@ -133,10 +133,6 @@
    #"\"~tag ~(english word)\""
    #"\"~tag\"")))
 
-(define (write-dish-date dish out)
- (write-string #"showDate: false" out)
- (newline out))
-
 (define (write-dish-chinese dish out)
  (h2 "Chinese" out)
  (write-dish-cantonese dish out)
