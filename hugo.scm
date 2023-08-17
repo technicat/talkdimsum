@@ -12,6 +12,7 @@
 
 (include "../schematic/lib/json.scm")
 (include "../schematic/lib/md.scm")
+(include "../schematic/lib/hugo.scm")
 
 (define (main args)
  (let-args (cdr args)
@@ -91,7 +92,7 @@
 ; header
 
 (define (write-dish-header dish out cats)
- (write-string "---" out)
+ (hugo-header-line out)
  (newline out)
  (write-dish-title dish out)
  (write-dish-cats dish out cats)
@@ -99,7 +100,7 @@
   (write-dish-tags dish out))
  (write-string #"showDate: false" out)
  (newline out)
- (write-string "---" out)
+ (hugo-header-line out)
  (news out))
 
 (define (write-dish-title dish out)
