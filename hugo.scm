@@ -19,6 +19,7 @@
    (f "f|file=s")
    (i "i|image")
    (d "d|dishes")
+   (p "p|places")
    (v "v|verbose")
    . restargs)
   (if (not h)
@@ -26,15 +27,18 @@
          (words (read-words))
          (phrases (read-phrases))
          (places (read-places)))
-    (for-each (lambda (word)
-               (add-word word))
-     words)
-    (for-each (lambda (dish)
-               (add-word (word dish)))
-     dishes)
+    (add-words words dishes)
     (if i (copy-images))
-    (if v (print dishes))
-    (if d (write-dishes dishes))))))
+    (if d (if v (print dishes)
+           (write-dishes dishes)))))))
+
+(define (add-words words dishes)
+ (for-each (lambda (word)
+            (add-word word))
+  words)
+ (for-each (lambda (dish)
+            (add-word (word dish)))
+  dishes))
 
 (define (help file)
  (print "hugo.scm -o -v -i -h"))
@@ -125,10 +129,10 @@
     (newline out)))))
 
 (define (tag-display tag)
-  (let ((word #false)) ;(hash-table-get words tag)))
-    (if word
-      #"\"~tag ~(english word)\""
-      #"\"~tag\"")))
+ (let ((word #false)) ;(hash-table-get words tag)))
+  (if word
+   #"\"~tag ~(english word)\""
+   #"\"~tag\"")))
 
 (define (write-dish-date dish out)
  (write-string #"showDate: false" out)
