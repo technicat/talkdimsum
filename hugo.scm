@@ -116,8 +116,7 @@
  (let ((tags (tags dish)))
   (if tags
    (let ((qtags (map (lambda (tag) (tag-display tag)) tags)))
-    (write-string #"tags: [~(comma-list qtags)]" out)))
-  (newline out)))
+    (hugo-tags (comma-list qtags) out)))))
 
 (define (write-dish-cats dish out cats)
  (let ((tags (tags dish)))
@@ -126,8 +125,7 @@
                  (lset-intersection equal?
                   (vector->list cats )
                   (vector->list tags)))))
-    (write-string #"categories: [~(comma-list qcats)]" out)
-    (newline out)))))
+    (hugo-cats (comma-list qcats) out)))))
 
 (define (tag-display tag)
  (let ((word #false)) ;(hash-table-get words tag)))
