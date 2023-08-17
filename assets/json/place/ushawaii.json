@@ -275,6 +275,19 @@
             "lon": -157.843450,
             "city": "Honolulu",
             "address": "1411 Kapiolani Blvd  Ste 1  Honolulu, HI 96814"
+        },
+        {
+            "title": "YYK Dim Sum",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz_photos/yyk-dim-sum-honolulu"
+                }
+            ],
+            "lat": 21.29213936867075,
+            "lon": -157.8460267751228,
+            "city": "Honolulu",
+            "address": "1450 Ala Moana Blvd Honolulu, HI 96814"
         }
     ]
 }
