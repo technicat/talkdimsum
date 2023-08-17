@@ -18,7 +18,7 @@
   ((h "h|help" => (cut help (car args)))
    (f "f|file=s")
    (i "i|image")
-   (o "o|out")
+   (d "d|dishes")
    (v "v|verbose")
    . restargs)
   (if (not h)
@@ -34,7 +34,7 @@
      dishes)
     (if i (copy-images))
     (if v (print dishes))
-    (if o (write-dishes dishes))))))
+    (if d (write-dishes dishes))))))
 
 (define (help file)
  (print "hugo.scm -o -v -i -h"))
