@@ -54,6 +54,65 @@
     },
     {
         "word": {
+            "English": "mango passion fruit green tea",
+            "Cantonese": {
+                "text": "芒果百香綠茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "百",
+                    "香",
+                    "果",
+                    "綠茶",
+                    "綠",
+                    "茶"
+                ]
+            },
+            "Yale": "mōng gwó baak hēung luhk chàh",
+            "Simplified": {
+                "text": "芒果百香绿茶",
+                "wkty": [
+                    "芒果",
+                    "芒",
+                    "果",
+                    "百",
+                    "香",
+                    "果",
+                    "绿茶",
+                    "绿",
+                    "茶"
+                ]
+            },
+            "Pinyin": "máng guǒ bǎi xiāng lǜ chá",
+            "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [mango](https://en.wikipedia.org/wiki/Mango) (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*). 百香 is short for [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) ({百香果, *hundred fragrant fruit*). And {綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), so 芒果百香綠茶 is *mango hundred fragrant fruit green tea*."
+        },
+        "images": [
+            {
+                "image": "mangopassionfruitgreentea",
+                "place": "Meet Fresh, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Green tea mixed with mango and passion fruit.",
+        "tags": [
+            "百香果",
+            "冷飲",
+            "水果茶",
+            "飲品",
+            "綠茶",
+            "芒果",
+            "水果",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Heavenly Homemakers",
+                "URL": "https://www.heavenlyhomemakers.com/how-to-make-mango-sweet-or-unsweet-tea"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "mango orange green tea",
             "Cantonese": {
                 "text": "芒果柳橙綠茶",
@@ -176,6 +235,9 @@
                     "草莓",
                     "草",
                     "莓",
+                    "百",
+                    "香",
+                    "果",
                     "綠茶",
                     "綠",
                     "茶"
@@ -188,6 +250,9 @@
                     "草莓",
                     "草",
                     "莓",
+                    "百",
+                    "香",
+                    "果",
                     "绿茶",
                     "绿",
                     "茶"
