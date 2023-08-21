@@ -53,5 +53,41 @@
       "水"
     ],
     "resources": []
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "凍水",
+        "wkty": [
+          "凍水",
+          "凍",
+          "水"
+        ]
+      },
+      "Simplified": {
+        "text": "冻水",
+        "wkty": [
+          "冻水",
+          "冻",
+          "水"
+        ]
+      },
+      "English": "cold water",
+      "Yale": "dong séui",
+      "Pinyin": "dòng shuǐ",
+      "description": "{凍} is *cold*, and {水} is *water*, so {凍水} is *cold water*.\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a glass of cold water, ask for 一杯凍水 (yāt būi dong séui in Cantonese, yī bēi dòng shuǐ in Mandarin), *one cup of cold water*."
+    },
+    "images": [
+      {
+        "image": "coldwateroodlenoodle",
+        "place": "Oodle Noodle, Las Vegas, Nevada"
+      }
+    ],
+    "description": "",
+    "tags": [
+      "飲品",
+      "水"
+    ],
+    "resources": []
   }
 ]
