@@ -286,6 +286,9 @@
 (define (place-title place)
    (res-value "title" place))
 
+(define (place-address place)
+   (res-value "address" place))
+
 (define (read-places)
    (let ((us (read-json "assets/json/place/us.json")))
     (map (lambda (file)
@@ -317,6 +320,6 @@
  (news out))
 
 (define (write-region-place place out)
-  (print place)
   (h2 (place-title place) out)
+  (write-string (place-address place) out)
  (news out))
