@@ -348,9 +348,9 @@
           "蛋"
         ]
       },
-      "Yale": "āan ké cháau dáan",
+      "Yale": "fāan ké cháau dáan",
       "Pinyin": "fān qié chǎo dàn",
-      "description": "番茄 is *tomato* and 炒蛋 is *scrambled egg* (炒蛋 is stir-fried and {蛋} is *egg*."
+      "description": "番茄 is *tomato* and 炒蛋 is *scrambled egg* ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) and {蛋} is *egg*), so {番茄炒蛋} is *tomato stir-fried egg*."
     },
     "images": [
       {
@@ -360,6 +360,7 @@
     ],
     "description": "A popular homestyle dish, a soupy mix of scrambled eggs stir-fried with tomatoes, usually served on steamed rice.",
     "tags": [
+      "新菜",
       "炒蛋",
       "蛋",
       "番茄",

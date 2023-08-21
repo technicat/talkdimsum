@@ -42,9 +42,23 @@
         "Pinyin": "liú shā"
     },
     {
-        "English": "scrambled egg",
+        "English": "soft scrambled egg",
         "Cantonese": "滑蛋",
         "Pinyin": "huá dàn",
         "description": "{滑} is *slippery*, and {蛋} is *egg*, so {滑蛋} is *slippery egg*."
+    },
+    {
+        "English": "stir-fried egg",
+        "Cantonese": {
+            "text": "炒蛋",
+            "wkty": [
+                "炒蛋",
+                "炒",
+                "蛋"
+            ]
+        },
+        "Yale": "cháau dáan",
+        "Pinyin": "chǎo dàn",
+        "description": "{炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {蛋} is *egg*, so {炒蛋} is *stir-fried egg*."
     }
 ]
