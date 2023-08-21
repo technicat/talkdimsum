@@ -277,8 +277,14 @@
 (define (country-regions country)
    (res-value "regions" country))
 
-(define (region-name state)
-   (res-value "name" state))
+(define (region-name region)
+   (res-value "name" region))
+
+(define (region-places region)
+   (res-value "places" region))
+
+(define (place-title place)
+   (res-value "title" place))
 
 (define (read-places)
    (let ((us (read-json "assets/json/place/us.json")))
@@ -297,7 +303,10 @@
               (write-region region out)))))
 
 (define (write-region region out)
-  (write-region-header region out))
+  (write-region-header region out)
+  (for-each (lambda (place)
+             (write-region-place place out))
+    (region-places region)))
 
 (define (write-region-header region out)
  (hugo-header-line out)
@@ -305,4 +314,9 @@
  (hugo-title (region-name region) out)
  (hugo-date-none out)
  (hugo-header-line out)
+ (news out))
+
+(define (write-region-place place out)
+  (print place)
+  (h2 (place-title place) out)
  (news out))
