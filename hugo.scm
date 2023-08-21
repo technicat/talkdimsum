@@ -289,6 +289,15 @@
 (define (place-address place)
    (res-value "address" place))
 
+(define (place-links place)
+   (res-value "links" place))
+
+(define (link-name link)
+   (res-value "name" link))
+
+(define (link-url link)
+   (res-value "URL" link))
+
 (define (read-places)
    (let ((us (read-json "assets/json/place/us.json")))
     (map (lambda (file)
@@ -321,5 +330,19 @@
 
 (define (write-region-place place out)
   (h2 (place-title place) out)
-  (write-string (place-address place) out)
+  (write-place-address place out)
+  (write-place-links place out)
  (news out))
+
+(define (write-place-address place out)
+  (write-string (place-address place) out)
+  (news out))
+
+
+(define (write-place-links place out)
+ (for-each (lambda (link)
+             (write-place-link link out))
+  (place-links place)))
+
+(define (write-place-link link out)
+  (bullet (linkstr (link-name link) (link-url link)) out))
