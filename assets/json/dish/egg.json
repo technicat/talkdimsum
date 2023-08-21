@@ -332,5 +332,52 @@
         "URL": "https://www.theworktop.com/breakfast-brunch-recipes/chinese-steamed-egg/"
       }
     ]
+  },
+  {
+    "word": {
+      "English": "tomato egg",
+      "Cantonese": {
+        "text": "番茄炒蛋",
+        "wkty": [
+          "番茄炒蛋",
+          "番茄",
+          "番",
+          "茄",
+          "炒蛋",
+          "炒",
+          "蛋"
+        ]
+      },
+      "Yale": "āan ké cháau dáan",
+      "Pinyin": "fān qié chǎo dàn",
+      "description": "番茄 is *tomato* and 炒蛋 is *scrambled egg* (炒蛋 is stir-fried and {蛋} is *egg*."
+    },
+    "images": [
+      {
+        "image": "tomatoeggchinesetaste",
+        "place": "Chinese Taste, South Salt Lake, Utah"
+      }
+    ],
+    "description": "A popular homestyle dish, a soupy mix of scrambled eggs stir-fried with tomatoes, usually served on steamed rice.",
+    "tags": [
+      "炒蛋",
+      "蛋",
+      "番茄",
+      "家常菜"
+    ],
+    "resources": [
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/rice-with-tomato-scrambled-eggs"
+      },
+      {
+        "name": "Umami Days",
+        "URL": "https://umamidays.com/chinese-style-scrambled-eggs-with-tomatoes/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/stir-fried-tomato-and-egg/"
+      }
+    ]
   }
 ]
