@@ -314,7 +314,7 @@
                 ]
             },
             "Pinyin": "fān qi jiān dàn miàn",
-            "description": "{番茄} is *tomato*, {煎蛋} is *fried egg* ({煎} is *pan-fried* and {蛋} is *egg*), and {麵} is *noodles*."
+            "description": "{番茄} is [tomato](https://en.wikipedia.org/wiki/Tomato), {煎蛋} is *fried egg* ({煎} is *pan-fried* and {蛋} is *egg*), and {麵} is *noodles*."
         },
         "images": [
             {
@@ -325,6 +325,7 @@
         "description": "",
         "tags": [
             "煎蛋",
+            "蛋",
             "番茄",
             "湯",
             "麵"
