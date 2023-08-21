@@ -277,7 +277,7 @@
 (define (country-regions country)
    (res-value "regions" country))
 
-(define (state-name state)
+(define (region-name state)
    (res-value "name" state))
 
 (define (read-places)
@@ -287,19 +287,22 @@
                   (country-regions us))))
 
 (define (write-places places)
-  (for-each (lambda (state)
-             (write-state-file state))
+  (for-each (lambda (region)
+             (write-region-file region))
     places))
 
-(define (write-state-file state)
- (let ((file #"../hugodimsum/content/places/~(state-name state).md"))
+(define (write-region-file region)
+ (let ((file #"../hugodimsum/content/places/~(region-name region).md"))
   (call-with-output-file file (lambda (out)
-              (write-state-header state out)))))
+              (write-region region out)))))
 
-(define (write-state-header state out)
+(define (write-region region out)
+  (write-region-header region out))
+
+(define (write-region-header region out)
  (hugo-header-line out)
  (newline out)
- (hugo-title (state-name state) out)
+ (hugo-title (region-name region) out)
  (hugo-date-none out)
  (hugo-header-line out)
  (news out))
