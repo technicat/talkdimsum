@@ -266,14 +266,40 @@
                        (vector->list (read-json #"assets/json/words/~|file|.json")))
                   files))))
 
-  (define (read-places)
-   (let ((files (read-json "assets/json/countries.json")))
-    (concatenate (map (lambda (file)
-                       (read-json #"assets/json/place/~|file|.json"))
-                  files))))
-
   (define (read-phrases)
    (let ((files (read-json "assets/json/phrases.json")))
     (concatenate (map (lambda (file)
                        (read-json #"assets/json/phrases/~|file|.json"))
                   files))))
+
+; places
+
+(define (country-regions country)
+   (res-value "regions" country))
+
+(define (state-name state)
+   (res-value "name" state))
+
+(define (read-places)
+   (let ((us (read-json "assets/json/place/us.json")))
+    (map (lambda (file)
+                       (read-json #"assets/json/place/~|file|.json"))
+                  (country-regions us))))
+
+(define (write-places places)
+  (for-each (lambda (state)
+             (write-state-file state))
+    places))
+
+(define (write-state-file state)
+ (let ((file #"../hugodimsum/content/places/~(state-name state).md"))
+  (call-with-output-file file (lambda (out)
+              (write-state-header state out)))))
+
+(define (write-state-header state out)
+ (hugo-header-line out)
+ (newline out)
+ (hugo-title (state-name state) out)
+ (hugo-date-none out)
+ (hugo-header-line out)
+ (news out))
