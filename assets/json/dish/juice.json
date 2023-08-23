@@ -76,7 +76,7 @@
       "English": "orange juice",
       "Yale": "cháang jāp",
       "Pinyin": "chéng zhī",
-      "description": "{橙} is *orange*, and {汁} is *juice*, so 菠蘿汁 is [pineapple juice](https://en.wikipedia.org/wiki/Pineapple_juice)."
+      "description": "{橙} is *orange*, and {汁} is *juice*, so 菠蘿汁 is [orange juice](https://en.wikipedia.org/wiki/Orange_juice)."
     },
     "images": [
       {
@@ -84,10 +84,11 @@
         "place": "Walgreens, Salt Lake City, Utah"
       }
     ],
-    "description": "Orange juice is popular in Southeast Asia although not quite as much in China.",
+    "description": "",
     "tags": [
+      "冷飲",
       "果汁",
-      "蔗",
+      "橙",
       "汁",
       "飲品"
     ],
@@ -105,7 +106,6 @@
         "wkty": [
           "菠蘿",
           "菠",
-          "蘿",
           "汁"
         ]
       },
@@ -131,8 +131,8 @@
     "description": "Pineapple juice is popular in Southeast Asia although not quite as much in China.",
     "tags": [
       "果汁",
+      "冷飲",
       "菠蘿",
-      "蔗",
       "汁",
       "飲品"
     ],
