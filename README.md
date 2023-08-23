@@ -1,8 +1,16 @@
-These are the JSON files and images (minus icons and logos) for [Talk Dim Sum](http://talkdimsum.com), both the Swift version on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the [Flutter version](https://github.com/technicat/dartdimsum) (archived but open source), and also some of the data is now presented on the website.
+These are the JSON files and images (minus icons and logos) for Talk Dim Sum on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) and the [website](http://talkdimsum.com) on the Swift version 
+
+## Other repos
+
+ An archived [Flutter version](https://github.com/technicat/dartdimsum), open source but would have to be updated to read the latest version of this data.
+
+ Swift utilities, dim sum and language support are in the [SwiftSys](https://github.com/technicat/swiftsys) repo.
+
+ Some Gauche Scheme libraries used to check/copy/convert these files are in the [Schematic](https://github.com/technicat/schematic) repo.
 
 ## Scripts
 
-Scome scripts written in Gauche Scheme:
+Some scripts written in Gauche Scheme:
 
 copy.scm copies the data to the Swift project.
 
