@@ -95,7 +95,7 @@
                 ]
             },
             "Pinyin": "niú ròu dàn dàn miàn",
-            "description": "{牛肉} is *beef* ({牛} is *cow* and {肉} is *meat*). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). 牛肉担担面 is *beef dan dan noodles*."
+            "description": "{牛肉} is *beef* ({牛} is *cow* and {肉} is *meat*). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). 牛肉担担面 is *beef dandan noodles*."
         },
         "images": [
             {
@@ -103,7 +103,7 @@
                 "place": "One More Noodle House, South Salt Lake, Utah"
             }
         ],
-        "description": "[Dan dan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with beef instead of pork.",
+        "description": "[Dandan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with beef instead of pork.",
         "tags": [
             "新菜",
             "擔擔麵",
@@ -161,7 +161,6 @@
         "description": "Sichuan [cold noodles](https://en.wikipedia.org/wiki/Cold_noodles) in a sesame sauce topped with shredded chicken.",
         "tags": [
             "涼麵",
-            "新菜",
             "辣",
             "芝麻",
             "麵"
@@ -221,7 +220,6 @@
             "涼麵",
             "四川",
             "川菜",
-            "新菜",
             "芝麻",
             "麵"
         ],
@@ -273,6 +271,75 @@
             {
                 "name": "Yun's Family Table",
                 "URL": "https://yunsfamilytable.com/recipes/sichuan-cold-noodles/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "tofu dandan noodles",
+            "Cantonese": {
+                "text": "豆腐擔擔麵",
+                "wkty": [
+                    "豆腐",
+                    "豆",
+                    "腐",
+                    "擔擔麵",
+                    "擔",
+                    "麵"
+                ]
+            },
+            "Yale": "dauh fuh daam daam mihn",
+            "Simplified": {
+                "text": "豆腐担担面",
+                "wkty": [
+                    "豆腐",
+                    "豆",
+                    "腐",
+                    "担担面",
+                    "担",
+                    "面"
+                ]
+            },
+            "Pinyin": "dòu fǔ dàn dàn miàn",
+            "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). So 豆腐擔擔麵 is *tofu dandan noodles*."
+        },
+        "images": [
+            {
+                "image": "tofudandannoodlesonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Dandan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with tofu instead of pork.",
+        "tags": [
+            "新菜",
+            "豆腐",
+            "擔擔麵",
+            "辣",
+            "紅油",
+            "四川",
+            "川菜",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "Always Delicious",
+                "URL": "https://allwaysdelicious.com/vegetarian-dan-dan-noodles/"
+            },
+            {
+                "name": "Archana's Kitchen",
+                "URL": "https://www.archanaskitchen.com/sichuan-dan-dan-noodles-recipe-sesame-noodles-with-crispy-tofu-recipe"
+            },
+            {
+                "name": "Asian Inspirations",
+                "URL": "https://asianinspirations.com.au/recipes/dan-dan-tofu-noodles/"
+            },
+            {
+                "name": "Crowded Kitchen",
+                "URL": "https://www.crowdedkitchen.com/vegan-dan-dan-noodles/"
+            },
+            {
+                "name": "The View from Great Island",
+                "URL": "https://theviewfromgreatisland.com/vegan-dan-dan-noodles/"
             }
         ]
     }
