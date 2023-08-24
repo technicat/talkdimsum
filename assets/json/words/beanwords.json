@@ -36,15 +36,16 @@
     {
         "English": "tofu skin",
         "Cantonese": {
-            "text": "豆腐皮",
+            "text": "腐皮",
             "wkty": [
-                "豆腐",
-                "豆",
+                "腐皮",
+                "腐",
                 "皮"
             ]
         },
         "Yale": "dauh fuh pèih",
-        "Pinyin": "dòu fǔ pí"
+        "Pinyin": "dòu fǔ pí",
+        "description": "{腐皮} is short for {豆腐皮}, which is literally [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) ({豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu) and {皮} is skin)."
     },
     {
         "English": "lotus seed paste",
