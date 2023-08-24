@@ -2,6 +2,23 @@
     "name": "Maryland",
     "places": [
         {
+            "title": "Peter Chang",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://peterchangbaltimore.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/peter-chang-baltimore-baltimore"
+                }
+            ],
+            "lat": 39.30064932073702,
+            "lon": -76.58999863212277,
+            "city": "Baltimore",
+            "address": "1923 Ashland Ave, Baltimore, MD 21205"
+        },
+        {
             "title": "Asian Court",
             "links": [
                 {
