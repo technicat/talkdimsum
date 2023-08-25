@@ -114,62 +114,6 @@
   },
   {
     "word": {
-      "Cantonese": {
-        "text": "豆腐茄子麵",
-        "wkty": [
-          "豆腐",
-          "豆",
-          "腐",
-          "茄子",
-          "茄",
-          "子",
-          "麵"
-        ]
-      },
-      "Simplified": {
-        "text": "豆腐茄子麵",
-        "wkty": [
-          "豆腐",
-          "豆",
-          "腐",
-          "茄子",
-          "茄",
-          "子",
-          "面"
-        ]
-      },
-      "English": "eggplant tofu noodles",
-      "Yale": "dauh fuh mihn",
-      "Pinyin": "dòu fǔ miàn",
-      "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 豆腐茄子麵 is *tofu eggplant noodles*."
-    },
-    "images": [
-      {
-        "image": "eggplanttofunoodlesonemorenoodlehouse",
-        "place": "One More Noodle House, South Salt Lake, Utah"
-      }
-    ],
-    "description": "Wheat noodles topped with eggplant and tofu.",
-    "tags": [
-      "新菜",
-      "豆腐",
-      "茄子",
-      "麵",
-      "素"
-    ],
-    "resources": [
-      {
-        "name": "The Curious Chickpea",
-        "URL": "https://www.thecuriouschickpea.com/spicy-sichuan-noodles-with-eggplant/"
-      },
-      {
-        "name": "My Tasty Curry",
-        "URL": "https://mytastycurry.com/chinese-eggplant-tofu"
-      }
-    ]
-  },
-  {
-    "word": {
       "English": "snail noodles",
       "Cantonese": {
         "text": "螺螄粉",

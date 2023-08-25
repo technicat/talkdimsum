@@ -314,5 +314,39 @@
                 "URL": "https://en.wikipedia.org/wiki/Peanut"
             }
         ]
+    },
+    {
+        "word": {
+            "Cantonese": {
+                "text": "冬瓜",
+                "wkty": [
+                    "冬瓜",
+                    "冬",
+                    "瓜"
+                ]
+            },
+            "English": "winter melon",
+            "Yale": "dūng gwā",
+            "Jyutping": "dung1 gwaa1",
+            "Pinyin": "dōng guā",
+            "description": "{冬} is *winter*, and {瓜} is *melon* (or *gourd* or *squash*), so {冬瓜} is *winter melon*."
+        },
+        "images": [
+            {
+                "image": "wintermelonchinatownsupermarket",
+                "place": "Chinatown Supermarket, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Winter melon, also known as wax gourd due to its waxy coating (which contributes to a long shelf life), is present in a variety of Chinese foods, from winter melon soup, candies, stir-frieds, and winter melon teas.",
+        "tags": [
+            "冬瓜",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Winter_melon"
+            }
+        ]
     }
 ]

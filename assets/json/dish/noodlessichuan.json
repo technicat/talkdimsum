@@ -343,5 +343,130 @@
                 "URL": "https://theviewfromgreatisland.com/vegan-dan-dan-noodles/"
             }
         ]
+    },
+    {
+        "word": {
+            "Cantonese": {
+                "text": "豆腐茄子麵",
+                "wkty": [
+                    "豆腐",
+                    "豆",
+                    "腐",
+                    "茄子",
+                    "茄",
+                    "子",
+                    "麵"
+                ]
+            },
+            "Simplified": {
+                "text": "豆腐茄子麵",
+                "wkty": [
+                    "豆腐",
+                    "豆",
+                    "腐",
+                    "茄子",
+                    "茄",
+                    "子",
+                    "面"
+                ]
+            },
+            "English": "eggplant tofu noodles",
+            "Yale": "dauh fuh mihn",
+            "Pinyin": "dòu fǔ miàn",
+            "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 豆腐茄子麵 is *tofu eggplant noodles*."
+        },
+        "images": [
+            {
+                "image": "eggplanttofunoodlesonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Wheat noodles topped with eggplant and tofu.",
+        "tags": [
+            "川菜",
+            "新菜",
+            "豆腐",
+            "茄子",
+            "麵",
+            "素"
+        ],
+        "resources": [
+            {
+                "name": "The Curious Chickpea",
+                "URL": "https://www.thecuriouschickpea.com/spicy-sichuan-noodles-with-eggplant/"
+            },
+            {
+                "name": "My Tasty Curry",
+                "URL": "https://mytastycurry.com/chinese-eggplant-tofu"
+            }
+        ]
+    },
+    {
+        "word": {
+            "Cantonese": {
+                "text": "肉沫茄子麵",
+                "wkty": [
+                    "豆腐",
+                    "豆",
+                    "腐",
+                    "茄子",
+                    "茄",
+                    "子",
+                    "麵"
+                ]
+            },
+            "Simplified": {
+                "text": "肉沫茄子麵",
+                "wkty": [
+                    "豆腐",
+                    "豆",
+                    "腐",
+                    "茄子",
+                    "茄",
+                    "子",
+                    "面"
+                ]
+            },
+            "English": "eggplant with pork noodles",
+            "Yale": "yuhk muht mihn",
+            "Pinyin": "ròu mò miàn",
+            "description": "肉沫 is minced pork ({肉} is *meat* and {沫} is foam or suds, so 肉沫 is *meat suds*), {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). Altogether, 肉沫茄子麵 is *meat suds eggplant noodles*."
+        },
+        "images": [
+            {
+                "image": "eggplantporknoodlesonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Wheat noodles topped with eggpant and minced pork.",
+        "tags": [
+            "川菜",
+            "肉沫",
+            "新菜",
+            "茄子",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/chinese-eggplants-with-minced-pork/"
+            },
+            {
+                "name": "Pantry No. 7",
+                "URL": "https://pantryno7.com/eggplant-pork-noodles/"
+            },
+            {
+                "name": "Posh Journal",
+                "URL": "https://poshjournal.com/chinese-eggplant-with-minced-pork"
+            },
+            {
+                "name": "Serious Eats",
+                "URL": "https://www.seriouseats.com/sichuan-style-braised-eggplant-recipe"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/braised-eggplant-pork/"
+            }
+        ]
     }
 ]
