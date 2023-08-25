@@ -1,6 +1,46 @@
 [
   {
     "word": {
+      "English": "taro",
+      "Cantonese": {
+        "text": "芋頭",
+        "wkty": [
+          "芋頭",
+          "芋",
+          "頭"
+        ]
+      },
+      "Simplified": {
+        "text": "芋头",
+        "wkty": [
+          "芋头",
+          "芋",
+          "头"
+        ]
+      },
+      "Yale": "wuh táu",
+      "Pinyin": "yù tou",
+      "description": "芋头 is *taro* and 芋头 is *head*."
+    },
+    "images": [
+      {
+        "image": "taro",
+        "place": ""
+      }
+    ],
+    "description": "Taro is a root vegetable popular in Asia and Africa. It's basically the potato of Chinese cuisine, mashed, steamed and stir-fried in various dishes, in dim sum as taro cakes and taro dumplings.",
+    "tags": [
+      "芋頭"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Taro"
+      }
+    ]
+  },
+  {
+    "word": {
       "Cantonese": {
         "text": "芋頭糕",
         "wkty": [
@@ -23,7 +63,8 @@
       },
       "English": "taro cake",
       "Yale": "wuh táu gōu",
-      "Pinyin": "yù tou gāo"
+      "Pinyin": "yù tou gāo",
+      "description": "{芋頭} is *taro* and {糕} is *cake*."
     },
     "images": [
       {
