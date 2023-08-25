@@ -101,6 +101,7 @@
         ],
         "description": "This street food originating from the [Shaanxi](https://en.wikipedia.org/wiki/Shaanxi) province in Northern China is often listed in English by its Mandarin pronunciation [Roujiamo](https://en.wikipedia.org/wiki/en:Roujiamo) or simply *Chinese hamburger*, although it's really more like a pita sandwich: meat, usually pork, served in a sliced baked or pan-fried bun.\n\n**Books**\n\nXi'an Famous Foods by Jason Wang (Xi'an is the capital of Shaanxi",
         "tags": [
+            "肉夾饃",
             "秦菜",
             "肉",
             "包"
@@ -119,10 +120,6 @@
                 "URL": "https://redhousespice.com/chinese-pork-burger/"
             },
             {
-                "name": "Tour Beijing",
-                "URL": "https://www.tour-beijing.com/china_travel_guide/xian_culture/xian_traditional_food/chinese_hamburger/"
-            },
-            {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/en:Roujiamo"
             },
@@ -133,6 +130,69 @@
             {
                 "name": "Woon Heng",
                 "URL": "https://woonheng.com/vegan-rou-jia-mo-chinese-hamburger/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "Chinese beef hamburger",
+            "Cantonese": {
+                "text": "牛肉夾饃",
+                "wkty": [
+                    "肉夾饃",
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "夾",
+                    "饃"
+                ]
+            },
+            "Yale": "ngàuh yuhk gaap mòh",
+            "Simplified": {
+                "text": "牛肉夹馍",
+                "wkty": [
+                    "肉夾馍",
+                    "牛肉",
+                    "牛",
+                    "肉",
+                    "夾",
+                    "馍"
+                ]
+            },
+            "Pinyin": "niú ròu jiā mó",
+            "description": "{牛肉} is *beef*, {夾} is *sandwiched between*, and {饃} is *bun*. So {牛肉夾饃} is *beef sandwiched between bun*."
+        },
+        "images": [
+            {
+                "image": "beefhamburgeronemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "A Chinese hamburger filled with beef",
+        "tags": [
+            "新菜",
+            "肉夾饃",
+            "秦菜",
+            "牛肉",
+            "肉",
+            "包"
+        ],
+        "resources": [
+            {
+                "name": "China Yummy Food",
+                "URL": "https://www.chinayummyfood.com/chinese-hamburger-rou-jia-mo/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/chinese-pork-burger/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/en:Roujiamo"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/"
             }
         ]
     }
