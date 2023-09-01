@@ -1,0 +1,72 @@
+[
+    {
+        "word": {
+            "English": "zhajiangmian",
+            "Cantonese": {
+                "text": "炸醬麵",
+                "wkty": [
+                    "炸醬麵",
+                    "炸醬",
+                    "炸",
+                    "醬",
+                    "麵"
+                ]
+            },
+            "Yale": "ja jeung mihn",
+            "Simplified": {
+                "text": "炸酱面",
+                "wkty": [
+                    "炸酱面",
+                    "炸酱",
+                    "炸",
+                    "酱",
+                    "面"
+                ]
+            },
+            "Pinyin": "zhá jiàng miàn",
+            "description": "{炸醬} is *fried black bean sauce* ({炸} is *fried* and {醬} is *sauce*). {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 炸醬麵 is *fried black bean sauce noodles*."
+        },
+        "images": [
+            {
+                "image": "zhajiangmianonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Zhajiangmian](https://en.wikipedia.org/wiki/Zhajiangmian), the Mandarin pronunciation of this dish, is a popular noodle dish topped with black bean sauce that originated in [Shandong](https://en.wikipedia.org/wiki/Shandong) with variations adopted other regions and countries ([Jajangmyeon](https://en.wikipedia.org/wiki/Jajangmyeon) in Korea, [Jajamen](https://en.wikipedia.org/wiki/Morioka_Jajamen) in Japan).",
+        "tags": [
+            "新菜",
+            "滬菜",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "196 Flavors",
+                "URL": "https://www.196flavors.com/zhajiangmian/"
+            },
+            {
+                "name": "I Am a Food Blog",
+                "URL": "https://iamafoodblog.com/extra-easy-zha-jiang-mian-recipe/"
+            },
+            {
+                "name": "Omnivore's Cookbook",
+                "URL": "https://omnivorescookbook.com/homemade-zha-jiang-mian-fried-sauce-noodles/"
+            },
+            {
+                "name": "Red House Spice",
+                "URL": "https://redhousespice.com/zha-jiang-mian/"
+            },
+            {
+                "name": "Taste Atlas",
+                "URL": "https://www.tasteatlas.com/zhajiangmian"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Zhajiangmian"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/beijing-fried-sauce-noodles-zha-jiang-mian/"
+            }
+        ]
+    }
+]
