@@ -42,16 +42,33 @@
         "word": {
             "English": "chocolate egg waffle",
             "Cantonese": {
-                "text": "雞蛋仔",
+                "text": "朱古力雞蛋仔",
                 "wkty": [
+                    "朱古力",
+                    "朱",
+                    "古",
+                    "力",
                     "雞蛋",
                     "雞",
                     "蛋",
                     "仔"
                 ]
             },
-            "Yale": "gāi dáan jái ",
-            "Pinyin": "jī dàn zǐ",
+            "Yale": "jyū gū līk gāi dáan jái ",
+            "Mandarin": {
+                "text": "朱古力雞蛋仔",
+                "wkty": [
+                    "巧克力",
+                    "巧",
+                    "克",
+                    "力",
+                    "雞蛋",
+                    "雞",
+                    "蛋",
+                    "仔"
+                ]
+            },
+            "Pinyin": "qiǎo kè lì jī dàn zǐ",
             "description": "{雞蛋} is *chicken egg* ({雞} is *chicken* and {蛋} is *egg*), and {仔} is *child* or *little*, so {雞蛋仔} is *little chicken eggs*."
         },
         "images": [
