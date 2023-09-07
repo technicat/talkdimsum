@@ -14,7 +14,7 @@
                 }
             ],
             "lat": 27.389794957428585,
-            "lon":  -82.45792825998795,
+            "lon": -82.45792825998795,
             "city": "Bradenton",
             "address": "8194 Tourist Center Dr Bradenton, FL 34201"
         },
@@ -219,6 +219,23 @@
             "address": "801 Brickell Bay Dr Miami, FL 33131"
         },
         {
+            "title": "Gold Marquess Fine Chinese Cuisine",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.goldmarquess.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
+                }
+            ],
+            "lat": 26.009550,
+            "lon": -80.256650,
+            "city": "Miami",
+            "address": "8525 Pines Blvd Pembroke Pines, FL 33024"
+        },
+        {
             "title": "Kon Chau",
             "links": [
                 {
@@ -299,7 +316,7 @@
                 }
             ],
             "lat": 25.818018789364075,
-            "lon":  -80.12242611583976,
+            "lon": -80.12242611583976,
             "city": "Miami Beach",
             "address": "4441 Collins Ave Miami Beach, FL 33140"
         },
@@ -346,7 +363,7 @@
                 }
             ],
             "lat": 28.488786704602468,
-            "lon":  -81.42956567927584,
+            "lon": -81.42956567927584,
             "city": "Orlando",
             "address": "4192 Conroy Rd Ste 109 and 110 Orlando, FL 32839"
         },
@@ -381,20 +398,24 @@
             "address": "10041 Pines Blvd Pembroke Pines, FL 33024"
         },
         {
-            "title": "Gold Marquess Fine Chinese Cuisine",
+            "title": "New Hong Kong House",
             "links": [
                 {
                     "name": "site",
-                    "URL": "http://www.goldmarquess.com/"
+                    "URL": "https://newhongkonghouse.com/"
+                },
+                {
+                    "name": "Pensacola News Journal",
+                    "URL": "https://www.pnj.com/story/entertainment/dining/2023/09/06/new-hong-kong-house-brings-chinese-dim-sum-menu-to-pensacola/70716411007/"
                 },
                 {
                     "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/gold-marquess-fine-chinese-cuisine-pembroke-pines"
+                    "URL": "https://www.yelp.com/biz/new-hong-kong-house-no-title"
                 }
             ],
-            "lat": 26.009550,
-            "lon": -80.256650,
-            "city": "Miami",
+            "lat": 26.009928821327616,
+            "lon": -80.25658210381826,
+            "city": "Pensacola",
             "address": "8525 Pines Blvd Pembroke Pines, FL 33024"
         },
         {
