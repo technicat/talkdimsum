@@ -348,5 +348,41 @@
                 "URL": "https://en.wikipedia.org/wiki/Winter_melon"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "passion fruit",
+            "Cantonese": {
+                "text": "百香果",
+                "wkty": [
+                    "百香果",
+                    "百香",
+                    "百",
+                    "香",
+                    "果"
+                ]
+            },
+            "Yale": "baak hēung gwó",
+            "Jyutping": "baak3 hoeng1 gwo2",
+            "Pinyin": "bǎi xiāng guǒ",
+            "description": "{百} is *hundred*, {香} is *fragrant*, and {果}is [fruit](https://en.wikipedia.org/wiki/Fruit), so {百香果} is *hundred fragrant fruit*."
+        },
+        "images": [
+            {
+                "image": "passionfruitdriedchinatownsupermarket",
+                "place": "Chinatown Supermarket, South Salt Lake, Utah"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "百香果",
+            "水果"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Passion_fruit_(fruit)"
+            }
+        ]
     }
 ]
