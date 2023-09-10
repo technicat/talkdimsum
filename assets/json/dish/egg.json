@@ -175,12 +175,16 @@
         "place": "99 Ranch Market, Las Vegas, Nevada"
       }
     ],
-    "description": "[Tea eggs](https://en.wikipedia.org/wiki/Tea_egg) are boiled then cracked then boiled again or soaked in a mixture of soy sauce and spices. Also known as “marble egg” as the cracked shells create a marbled appearance.",
+    "description": "[Tea eggs](https://en.wikipedia.org/wiki/Tea_egg) are boiled then cracked then boiled again or soaked in a mixture of soy sauce, tea, and spices. Also known as *marble egg* as the cracked shells create a marbled appearance.",
     "tags": [
       "茶",
       "蛋"
     ],
     "resources": [
+      {
+        "name": "Better Homes and Gardens",
+        "URL": "https://www.bhg.com/recipes/trends/tea-egg/"
+      },
       {
         "name": "China Sichuan Food",
         "URL": "https://www.chinasichuanfood.com/chinese-tea-eggs-marbled-eggs/"
