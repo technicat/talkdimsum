@@ -147,6 +147,60 @@
                 "URL": "https://yunsfamilytable.com/recipes/sichuan-cold-noodles/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "ya cai cold noodles",
+            "Cantonese": {
+                "text": "芽菜涼麵",
+                "wkty": [
+                    "芽菜",
+                    "芽",
+                    "菜",
+                    "涼麵",
+                    "涼",
+                    "麵"
+                ]
+            },
+            "Yale": "ngàh choi lèuhng mihn",
+            "Simplified": {
+                "text": "芽菜凉面",
+                "wkty": [
+                    "芽菜",
+                    "芽",
+                    "菜",
+                    "凉面",
+                    "凉",
+                    "面"
+                ]
+            },
+            "Pinyin": "yá cài liáng miàn",
+            "description": "{芽菜} is [ya cai](https://en.wikipedia.org/wiki/Ya_cai), {涼} is *cold*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 四川凉面 is *Sichuan cold noodles*."
+        },
+        "images": [
+            {
+                "image": "yacaicoldnoodlesonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Cold noodles served with  [ya cai](https://en.wikipedia.org/wiki/Ya_cai), a Sichuan pickled mustard green.",
+        "tags": [
+            "新菜",
+            "芽菜",
+            "花生",
+            "辣",
+            "素",
+            "涼麵",
+            "四川",
+            "川菜",
+            "芝麻",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Ya_cai"
+            }
+        ]
     }
-   
 ]
