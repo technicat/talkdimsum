@@ -2,6 +2,19 @@
   "name": "Nevada",
   "places": [
     {
+      "title": "Chef Cheng's Chinese Restaurant",
+      "links": [
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/chef-chengs-chinese-restaurant-elko"
+        }
+      ],
+      "lat": 40.83935722690871,
+      "lon": -115.75592141875592,
+      "city": "Elko",
+      "address": "1309 Idaho St Elko, NV 89801"
+    },
+    {
       "title": "Chef Kenny's Vegan Dim Sum",
       "links": [
         {
