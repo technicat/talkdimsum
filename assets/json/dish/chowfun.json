@@ -65,7 +65,7 @@
                     ]
                 },
                 "Pinyin": "gān chǎo niú hé",
-                "description": "{乾炒} is “dry-fried” ({乾} is “dry” and {炒} is “stir-fried”) which refers to the technique of stir-frying with only oil, no or little additional liquids are sauces added, {牛} is short for {牛肉} is *beef* ({牛} is *cow*) and 河 is short for 河粉 (hòh fán) which is the flat rice noodle."
+                "description": "{乾炒} is “dry-fried” ({乾} is *dry( and {炒} is “stir-fried”) which refers to the technique of stir-frying with only oil, no or little additional liquids are sauces added, {牛} is short for {牛肉} is *beef* ({牛} is *cow*) and 河 is short for 河粉 (hòh fán) which is the flat rice noodle."
             },
         "images": [
             {
@@ -73,7 +73,7 @@
                 "place": "Dim Sum Cafe, Las Vegas, Nevada"
             }
         ],
-        "description": "A [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) classic, [beef chow fun](https://en.wikipedia.org/wiki/Beef_chow_fun)  consists of wide flat rice noodles [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with beef and bean sprouts.",
+        "description": "A [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) classic, [beef chow fun](https://en.wikipedia.org/wiki/Beef_chow_fun) consists of wide flat rice noodles [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with beef and bean sprouts.",
         "tags": [
             "粵菜",
             "炒",
@@ -130,6 +130,74 @@
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/beef-chow-fun-noodles/"
+            }
+        ]
+    },
+    {
+        "word":
+            {
+                "English": "wet beef chow fun",
+                "Cantonese": {
+                    "text": "湿炒牛河",
+                    "wkty": [
+                        "乾炒牛河",
+                        "乾炒",
+                        "乾",
+                        "炒",
+                        "牛肉",
+                        "牛",
+                        "河粉",
+                        "河"
+                    ]
+                },
+                "Yale": "sāp cháau ngàuh hòh",
+                "Simplified": {
+                    "text": "湿炒牛河",
+                    "wkty": [
+                        "干炒牛河",
+                        "干炒",
+                        "乾",
+                        "炒",
+                        "牛肉",
+                        "牛",
+                        "河粉",
+                        "河"
+                    ]
+                },
+                "Pinyin": "shī chǎo niú hé",
+                "description": "{湿} is *wet*, {牛} is short for {牛肉}, which is *beef* ({牛} is *cow*) and 河 is short for 河粉 (hòh fán) which is the flat rice noodle."
+            },
+        "images": [
+            {
+                "image": "wetbeefchowfungoldenflower",
+                "place": "Golden Flower, Reno, Nevada"
+            }
+        ],
+        "description": "Stir-fried like dry beef chow fun but then mixed with a thick sauce.",
+        "tags": [
+            "新菜",
+            "粵菜",
+            "炒",
+            "河粉",
+            "牛肉",
+            "茶餐廳"
+        ],
+        "resources": [
+            {
+                "name": "Busy But Cooking",
+                "URL": "https://busybutcooking.com/saucy-beef-chow-fun-with-vegetables/"
+            },
+            {
+                "name": "Chinese Food and Other Stuff",
+                "URL": "https://chinesefoodandotherstuff.com/blog/2018/7/1/beef-chow-fun"
+            },
+            {
+                "name": "Made with Lau",
+                "URL": "https://www.madewithlau.com/recipes/beef-chow-fun-with-gravy"
+            },
+            {
+                "name": "Pups with Chopsticks",
+                "URL": "https://pupswithchopsticks.com/saucy-beef-chow-ho-fun-with-gravy/"
             }
         ]
     },
