@@ -365,6 +365,36 @@
       "address": "115 E Moana Ln Ste 102 Reno, NV 89502"
     },
     {
+      "title": "Honey Bakery",
+      "links": [
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/honey-bakery-reno"
+        }
+      ],
+      "lat": 39.5282830332919,
+      "lon": -119.82951080347839,
+      "city": "Reno",
+      "address": "403 Keystone Ave Reno, NV 89503"
+    },
+    {
+      "title": "Rice Box Kitchen",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.riceboxkitchen.com/"
+        },
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/rice-box-kitchen-reno"
+        }
+      ],
+      "lat": 39.519379874634595,
+      "lon":  -119.81024768813467,
+      "city": "Reno",
+      "address": "555 S Virginia St Ste 103 Reno, NV 89501"
+    },
+    {
       "title": "CaiE Oriental Asian Bistro",
       "links": [
         {
