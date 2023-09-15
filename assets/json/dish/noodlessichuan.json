@@ -319,5 +319,66 @@
                 "URL": "https://thewoksoflife.com/braised-eggplant-pork/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "red-braised beef brisket noodle soup",
+            "Cantonese": {
+                "text": "紅燒牛腩麵",
+                "wkty": [
+                    "紅燒",
+                    "紅",
+                    "燒",
+                    "牛腩",
+                    "牛",
+                    "腩",
+                    "麵"
+                ]
+            },
+            "Yale": "hùhng sīu ngàuh náahm mihn",
+            "Simplified": {
+                "text": "红烧牛腩面",
+                "wkty": [
+                    "红烧",
+                    "红",
+                    "燒",
+                    "牛腩",
+                    "牛",
+                    "腩",
+                    "面"
+                ]
+            },
+            "Pinyin": "hóng shāo niú nǎn miàn",
+            "description": "{紅燒} is *red-braised*, ({紅} is *red*, and {燒} is *baked(). {牛腩} is [brisket](https://en.wikipedia.org/wiki/Brisket), and {麵} is *noodle*, so 紅燒牛肉麵 is *red-braised beef brisket noodles*."
+        },
+        "images": [
+            {
+                "image": "redbraisedbeefbrisketnoodlesoupnoodlehead",
+                "place": "Noodlehead, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Red-braised (with soy sauce or, in Sichuan, with chili), beef brisket in a noodle soup.",
+        "tags": [
+            "牛肉",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/braised-beef-noodles/"
+            },
+            {
+                "name": "Tha Mala Market",
+                "URL": "https://blog.themalamarket.com/sichuan-red-braised-beef-noodle-soup-hong-shao-niu-rou-mian-using-the-instant-pot-or-not/"
+            },
+            {
+                "name": "Serves4",
+                "URL": "https://www.serves4.com/braised-beef-noodle-soup.html"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/braised-beef-noodle-soup/"
+            }
+        ]
     }
 ]
