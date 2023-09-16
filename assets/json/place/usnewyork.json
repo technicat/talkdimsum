@@ -556,7 +556,7 @@
             "address": "338 Lexington Ave, New York, NY 10016"
         },
         {
-            "title": "Dim Sum Go Go",
+            "title": "Dim Sum Go Go (Chinatown)",
             "links": [
                 {
                     "name": "site",
@@ -575,6 +575,23 @@
             "lon": -73.997760,
             "city": "New York",
             "address": "5 East Broadway, New York, NY 10038"
+        },
+        {
+            "title": "Dim Sum Go Go (East Village)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumgogonyc.com/east-village"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-go-go-east-village-new-york"
+                }
+            ],
+            "lat": 40.73105071346186,
+            "lon": -73.98320950341744,
+            "city": "New York",
+            "address": "221 1st Ave New York, NY 10003"
         },
         {
             "title": "Dim Sum Palace (Chinatown)",
