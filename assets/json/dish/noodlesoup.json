@@ -275,5 +275,62 @@
                 "URL": "https://www.foodiebaker.com/chinese-tomato-egg-noodle-soup/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "pickled mustard greens with pork noodle soup",
+            "Cantonese": {
+                "text": "雪菜肉絲湯麵",
+                "wkty": [
+                    "雪菜",
+                    "雪",
+                    "菜",
+                    "肉絲",
+                    "肉",
+                    "絲",
+                    "湯麵",
+                    "湯",
+                    "麵"
+                ]
+            },
+            "Yale": "syut choi yuhk sī tōng mihn",
+            "Simplified": {
+                "text": "雪菜肉丝汤面",
+                "wkty": [
+                    "雪菜",
+                    "雪",
+                    "菜",
+                    "肉丝",
+                    "肉",
+                    "丝",
+                    "汤面",
+                    "汤",
+                    "面"
+                ]
+            },
+            "Pinyin": "xuě cài ròu sī tāng miàn",
+            "description": "{湯} is *soup*, and {麵} is *noodles*, so {湯麵} is *soup noodles*. Sometimes the characters are reversed, {麵湯} is *noodle soup*."
+        },
+        "images": [
+            {
+                "image": "pickledmustardgreensporknoodlesoup",
+                "place": "Shanghai Bistro, Reno, Nevada"
+            }
+        ],
+        "description": "A noodle soup with shredded pork and pickled mustard greens.",
+        "tags": [
+            "新菜",
+            "雪菜",
+            "肉絲",
+            "湯麵",
+            "湯",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/noodle-soup-pork-pickled-greens/"
+            }
+        ]
     }
 ]
