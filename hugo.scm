@@ -283,8 +283,8 @@
   (define (region-places region)
    (res-value "places" region))
 
-  (define (place-title place)
-   (res-value "title" place))
+  (define (place-name place)
+   (res-value "name" place))
 
   (define (place-address place)
    (res-value "address" place))
@@ -345,7 +345,7 @@
    (news out))
 
   (define (write-region-place place out)
-   (h2 (place-title place) out)
+   (h2 (place-name place) out)
    (write-place-address place out)
    (write-place-links place out)
    (news out))
