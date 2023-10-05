@@ -1,26 +1,24 @@
 [
     {
-        "word": {
-            "English": "noodle soup",
-            "Cantonese": {
-                "text": "湯麵",
-                "wkty": [
-                    "湯麵",
-                    "湯",
-                    "麵"
-                ]
-            },
-            "Yale": "tōng mihn",
-            "Simplified": {
-                "text": "汤面",
-                "wkty": [
-                    "汤面",
-                    "面"
-                ]
-            },
-            "Pinyin": "tāng miàn",
-            "description": "{湯} is *soup*, and {麵} is *noodles*, so {湯麵} is *soup noodles*. Sometimes the characters are reversed, {麵湯} is *noodle soup*."
-        }
+        "English": "noodle soup",
+        "Cantonese": {
+            "text": "湯麵",
+            "wkty": [
+                "湯麵",
+                "湯",
+                "麵"
+            ]
+        },
+        "Yale": "tōng mihn",
+        "Simplified": {
+            "text": "汤面",
+            "wkty": [
+                "汤面",
+                "面"
+            ]
+        },
+        "Pinyin": "tāng miàn",
+        "description": "{湯} is *soup*, and {麵} is *noodles*, so {湯麵} is *soup noodles*. Sometimes the characters are reversed, {麵湯} is *noodle soup*."
     },
     {
         "English": "minced garlic",
@@ -101,6 +99,7 @@
         "English": "strip",
         "Cantonese": "條",
         "Yale": "tíu",
-        "Simplified": "条"
+        "Simplified": "条",
+        "Pinyin": "tiáo"
     }
 ]
