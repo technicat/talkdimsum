@@ -2,7 +2,7 @@
     "name": "Kansas",
     "places": [
         {
-            "title": "ABC Cafe",
+            "name": "ABC Cafe",
             "links": [
                 {
                     "name": "site",
@@ -19,7 +19,7 @@
             "address": "10001 W 87th St Overland Park, KS 66212"
         },
         {
-            "title": "Bo Lings Chinese",
+            "name": "Bo Lings Chinese",
             "links": [
                 {
                     "name": "site",
@@ -36,7 +36,7 @@
             "address": "8973 Metcalf Ave, Overland Park, KS 66212"
         },
         {
-            "title": "Pine and Bamboo Garden",
+            "name": "Pine and Bamboo Garden",
             "links": [
                 {
                     "name": "site",

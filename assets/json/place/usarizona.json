@@ -2,7 +2,7 @@
     "name": "Arizona",
     "places": [
         {
-            "title": "Dim Sum Cafe",
+            "name": "Dim Sum Cafe",
             "links": [
                 {
                     "name": "Yelp",
@@ -15,7 +15,7 @@
             "address": "2711 S Alma School Rd, Ste 2, Mesa, AZ 85210"
         },
         {
-            "title": "Mekong Palace",
+            "name": "Mekong Palace",
             "links": [
                 {
                     "name": "site",
@@ -32,7 +32,7 @@
             "address": "66 S Dobson Rd, Ste 120, Mesa, AZ 85202"
         },
         {
-            "title": "Phoenix Palace",
+            "name": "Phoenix Palace",
             "links": [
                 {
                     "name": "Yelp",
@@ -45,7 +45,7 @@
             "address": "2075 N Dobson Rd, Chandler, AZ 85224"
         },
         {
-            "title": "Great Wall Cuisine",
+            "name": "Great Wall Cuisine",
             "links": [
                 {
                     "name": "Yelp",
@@ -58,7 +58,7 @@
             "address": "3446 W Camelback Rd, Ste 155, Phoenix, AZ 85017"
         },
         {
-            "title": "China Phoenix",
+            "name": "China Phoenix",
             "links": [
                 {
                     "name": "site",
@@ -75,7 +75,7 @@
             "address": "7090 N Oracle Rd Ste 172 Tucson, AZ 85704"
         },
         {
-            "title": "Go Dim Sum",
+            "name": "Go Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -100,7 +100,7 @@
             "address": "3504 E Grant Road, Tucson, AZ 85716"
         },
         {
-            "title": "Lucky Panda",
+            "name": "Lucky Panda",
             "links": [
                 {
                     "name": "Yelp",
@@ -113,7 +113,7 @@
             "address": "4016 N 1st Ave Unit 100 Tucson, AZ 85719"
         },
         {
-            "title": "Sushi Lounge",
+            "name": "Sushi Lounge",
             "links": [
                 {
                     "name": "Yelp",

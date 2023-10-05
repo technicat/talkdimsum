@@ -2,7 +2,7 @@
   "name": "Nevada",
   "places": [
     {
-      "title": "Chef Cheng's Chinese Restaurant",
+      "name": "Chef Cheng's Chinese Restaurant",
       "links": [
         {
           "name": "Yelp",
@@ -15,7 +15,7 @@
       "address": "1309 Idaho St Elko, NV 89801"
     },
     {
-      "title": "Chef Kenny's Vegan Dim Sum",
+      "name": "Chef Kenny's Vegan Dim Sum",
       "links": [
         {
           "name": "site",
@@ -32,7 +32,7 @@
       "address": "5570 W Flamingo Rd Las Vegas, NV 89103"
     },
     {
-      "title": "China Poblano",
+      "name": "China Poblano",
       "links": [
         {
           "name": "site",
@@ -49,7 +49,7 @@
       "address": "3708 Las Vegas Blvd S Fl 2 Boulevard Tower Las Vegas, NV 89109"
     },
     {
-      "title": "Dim Sum Cafe",
+      "name": "Dim Sum Cafe",
       "links": [
         {
           "name": "site",
@@ -66,7 +66,7 @@
       "address": "3700 S Hualapai Way, Las Vegas, Nevada"
     },
     {
-      "title": "Dimsumlicious",
+      "name": "Dimsumlicious",
       "links": [
         {
           "name": "Yelp",
@@ -79,7 +79,7 @@
       "address": "5700 Spring Mountain Rd Ste A Las Vegas, NV 89146"
     },
     {
-      "title": "Foods 2 Go",
+      "name": "Foods 2 Go",
       "links": [
         {
           "name": "Yelp",
@@ -92,7 +92,7 @@
       "address": "5000 S Decatur Blvd Ste 1"
     },
     {
-      "title": "Hong Kong Café",
+      "name": "Hong Kong Café",
       "links": [
         {
           "name": "site",
@@ -109,7 +109,7 @@
       "address": "3325 Las Vegas Blvd S"
     },
     {
-      "title": "Hong Kong Garden",
+      "name": "Hong Kong Garden",
       "links": [
         {
           "name": "site",
@@ -126,7 +126,7 @@
       "address": "5300 Spring Mountain Rd"
     },
     {
-      "title": "KJ Dim Sum & Seafood",
+      "name": "KJ Dim Sum & Seafood",
       "links": [
         {
           "name": "site",
@@ -143,7 +143,7 @@
       "address": "4000 W Flamingo Rd, Las Vegas"
     },
     {
-      "title": "Lemongrass",
+      "name": "Lemongrass",
       "links": [
         {
           "name": "site",
@@ -160,7 +160,7 @@
       "address": "3730 Las Vegas Blvd S"
     },
     {
-      "title": "Lucky House Asian Cafe",
+      "name": "Lucky House Asian Cafe",
       "links": [
         {
           "name": "site",
@@ -177,7 +177,7 @@
       "address": "5960 W Spring Mountain Rd"
     },
     {
-      "title": "New Asian BBQ",
+      "name": "New Asian BBQ",
       "links": [
         {
           "name": "Yelp",
@@ -190,7 +190,7 @@
       "address": "5150 Spring Mountain Rd Ste 6"
     },
     {
-      "title": "Noodle Asia",
+      "name": "Noodle Asia",
       "links": [
         {
           "name": "site",
@@ -207,7 +207,7 @@
       "address": "3355 Las Vegas Blvd S Las Vegas, NV 89109"
     },
     {
-      "title": "Noodle House Chinese Restaurant",
+      "name": "Noodle House Chinese Restaurant",
       "links": [
         {
           "name": "site",
@@ -224,7 +224,7 @@
       "address": "3655 S Las Vegas Blvd"
     },
     {
-      "title": "Orchids Garden Chinese Restaurant",
+      "name": "Orchids Garden Chinese Restaurant",
       "links": [
         {
           "name": "site",
@@ -241,7 +241,7 @@
       "address": "5485 W Sahara Ave and Lindell Road"
     },
     {
-      "title": "Ping Pang Pong",
+      "name": "Ping Pang Pong",
       "links": [
         {
           "name": "site",
@@ -258,7 +258,7 @@
       "address": "4000 W Flamingo Rd"
     },
     {
-      "title": "Rainbow Kitchen",
+      "name": "Rainbow Kitchen",
       "links": [
         {
           "name": "Yelp",
@@ -271,7 +271,7 @@
       "address": "7537 S Rainbow Blvd"
     },
     {
-      "title": "Red 8",
+      "name": "Red 8",
       "links": [
         {
           "name": "site",
@@ -288,7 +288,7 @@
       "address": "3131 Las Vegas Blvd S"
     },
     {
-      "title": "Tim Ho Wan",
+      "name": "Tim Ho Wan",
       "links": [
         {
           "name": "site",
@@ -305,7 +305,7 @@
       "address": "4321 W. Flamingo Road Las Vegas, NV 89103"
     },
     {
-      "title": "Wazuzu",
+      "name": "Wazuzu",
       "links": [
         {
           "name": "site",
@@ -322,7 +322,7 @@
       "address": "3131 Las Vegas Blvd S"
     },
     {
-      "title": "Wing Lei",
+      "name": "Wing Lei",
       "links": [
         {
           "name": "site",
@@ -339,7 +339,7 @@
       "address": "3131 Las Vegas Blvd S"
     },
     {
-      "title": "Yum Cha",
+      "name": "Yum Cha",
       "links": [
         {
           "name": "Yelp",
@@ -352,7 +352,7 @@
       "address": "4945 W Tropicana Ave, Paradise"
     },
     {
-      "title": "Dim Sum Hut",
+      "name": "Dim Sum Hut",
       "links": [
         {
           "name": "Yelp",
@@ -365,7 +365,7 @@
       "address": "115 E Moana Ln Ste 102 Reno, NV 89502"
     },
     {
-      "title": "Honey Bakery",
+      "name": "Honey Bakery",
       "links": [
         {
           "name": "Yelp",
@@ -378,7 +378,7 @@
       "address": "403 Keystone Ave Reno, NV 89503"
     },
     {
-      "title": "Rice Box Kitchen",
+      "name": "Rice Box Kitchen",
       "links": [
         {
           "name": "site",
@@ -395,7 +395,7 @@
       "address": "555 S Virginia St Ste 103 Reno, NV 89501"
     },
     {
-      "title": "CaiE Oriental Asian Bistro",
+      "name": "CaiE Oriental Asian Bistro",
       "links": [
         {
           "name": "Yelp",
@@ -408,7 +408,7 @@
       "address": "1565 E Lincoln Way Sparks, NV 89434"
     },
     {
-      "title": "The Spot Dim Sum and Boba",
+      "name": "The Spot Dim Sum and Boba",
       "links": [
         {
           "name": "Yelp",

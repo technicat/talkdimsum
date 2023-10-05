@@ -2,7 +2,7 @@
     "name": "Washington",
     "places": [
         {
-            "title": "Dim Sum Factory",
+            "name": "Dim Sum Factory",
             "links": [
                 {
                     "name": "site",
@@ -19,7 +19,7 @@
             "address": "4092 Factoria Mall Blvd SE, Bellevue, WA 98006"
         },
         {
-            "title": "King's Chinese",
+            "name": "King's Chinese",
             "links": [
                 {
                     "name": "Yelp",
@@ -32,7 +32,7 @@
             "address": "13200 NE 20th St Ste 400 Bellevue, WA 98005"
         },
         {
-            "title": "Top Gun",
+            "name": "Top Gun",
             "links": [
                 {
                     "name": "site",
@@ -49,7 +49,7 @@
             "address": "12450 SE 38th St, Bellevue, WA 98006"
         },
         {
-            "title": "Fashion Dim Sum",
+            "name": "Fashion Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -66,7 +66,7 @@
             "address": "22923 Hwy 99, Edmonds, WA 98026"
         },
         {
-            "title": "T&T Seafood",
+            "name": "T&T Seafood",
             "links": [
                 {
                     "name": "site",
@@ -83,7 +83,7 @@
             "address": "22511 Hwy 99, Ste 103, Edmonds, WA 98026"
         },
         {
-            "title": "Engimono Ramen & Dim Sum",
+            "name": "Engimono Ramen & Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -100,7 +100,7 @@
             "address":"1426 S 324th St Suite B-201 Federal Way, WA 9800"
         },
         {
-            "title": "Macky's Dim Sum",
+            "name": "Macky's Dim Sum",
             "links": [
                 {
                     "name": "Yelp",
@@ -113,7 +113,7 @@
             "address": "28 E Sunset Way Issaquah, WA 98027"
         },
         {
-            "title": "Imperial Garden",
+            "name": "Imperial Garden",
             "links": [
                 {
                     "name": "site",
@@ -130,7 +130,7 @@
             "address": "18230 E Valley Hwy, Ste 116, Kent, WA 98032"
         },
         {
-            "title": "Lucky House",
+            "name": "Lucky House",
             "links": [
                 {
                     "name": "site",
@@ -147,7 +147,7 @@
             "address": "317 E Smith St Kent, WA 98030t"
         },
         {
-            "title": "Early Bird Cafe",
+            "name": "Early Bird Cafe",
             "links": [
                 {
                     "name": "site",
@@ -164,7 +164,7 @@
             "address": "967 6th St S Kirkland, WA 98033"
         },
         {
-            "title": "U Lin Asian Bistro",
+            "name": "U Lin Asian Bistro",
             "links": [
                 {
                     "name": "site",
@@ -181,7 +181,7 @@
             "address": "1120 164th St SW, Lynnwood, WA 98087"
         },
         {
-            "title": "Tiger Garden",
+            "name": "Tiger Garden",
             "links": [
                 {
                     "name": "Yelp",
@@ -194,7 +194,7 @@
             "address": "2885 78th Ave SE Mercer Island, WA 98040"
         },
         {
-            "title": "Renton Seafood",
+            "name": "Renton Seafood",
             "links": [
                 {
                     "name": "site",
@@ -211,7 +211,7 @@
             "address": "4250 NE 4th St Ste A Renton, WA 98059"
         },
         {
-            "title": "Bamboo Village",
+            "name": "Bamboo Village",
             "links": [
                 {
                     "name": "Yelp",
@@ -224,7 +224,7 @@
             "address": "4900 Stone Way N, Seattle, WA 98103"
         },
         {
-            "title": "Beacon BBQ",
+            "name": "Beacon BBQ",
             "links": [
                 {
                     "name": "Yelp",
@@ -237,7 +237,7 @@
             "address": "4886 Beacon Ave S, Seattle, WA 98108"
         },
         {
-            "title": "Dim Sum House",
+            "name": "Dim Sum House",
             "links": [
                 {
                     "name": "Yelp",
@@ -250,7 +250,7 @@
             "address": "4860 Beacon Ave S, Seattle, WA 98108"
         },
         {
-            "title": "Dim Sum King",
+            "name": "Dim Sum King",
             "links": [
                 {
                     "name": "Yelp",
@@ -263,7 +263,7 @@
             "address": "617 S Jackson St, Seattle, WA 98104"
         },
         {
-            "title": "Foo Lam",
+            "name": "Foo Lam",
             "links": [
                 {
                     "name": "Yelp",
@@ -276,7 +276,7 @@
             "address": "7101 Martin Luther King Jr Way S, Seattle, WA 98118"
         },
         {
-            "title": "Golden Daisy Restaurant",
+            "name": "Golden Daisy Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -293,7 +293,7 @@
             "address": "2518 Beacon Ave S, Seattle, WA 98144"
         },
         {
-            "title": "Harbor City",
+            "name": "Harbor City",
             "links": [
                 {
                     "name": "Yelp",
@@ -310,7 +310,7 @@
             "address": "707 S King St, Seattle, WA 98104"
         },
         {
-            "title": "Honey Court Seafood Restaurant",
+            "name": "Honey Court Seafood Restaurant",
             "links": [
                 {
                     "name": "Yelp",
@@ -323,7 +323,7 @@
             "address": "516 Maynard Ave S, Seattle, WA 98104"
         },
         {
-            "title": "HK Dim Sum",
+            "name": "HK Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -340,7 +340,7 @@
             "address": "13200 Aurora Ave N, Ste F, Seattle, WA 98133"
         },
         {
-            "title": "Homestyle Dim Sum",
+            "name": "Homestyle Dim Sum",
             "links": [
                 {
                     "name": "Yelp",
@@ -353,7 +353,7 @@
             "address": "664 S Weller St, Seattle, WA 98104"
         },
         {
-            "title": "Hong Kong Bistro",
+            "name": "Hong Kong Bistro",
             "links": [
                 {
                     "name": "Yelp",
@@ -366,7 +366,7 @@
             "address": "507 Maynard Ave S, Ste 511C, Seattle, WA 98104"
         },
         {
-            "title": "Jade Garden",
+            "name": "Jade Garden",
             "links": [
                 {
                     "name": "Yelp",
@@ -379,7 +379,7 @@
             "address": "424 7th Ave S, Seattle, WA 98104"
         },
         {
-            "title": "Joyale",
+            "name": "Joyale",
             "links": [
                 {
                     "name": "site",
@@ -396,7 +396,7 @@
             "address": "900 S Jackson St, Seattle, WA 98104"
         },
         {
-            "title": "Joy Palace",
+            "name": "Joy Palace",
             "links": [
                 {
                     "name": "site",
@@ -413,7 +413,7 @@
             "address": "6030 Martin Luther King Jr Way S, Seattle, WA 98118"
         },
         {
-            "title": "Ocean Star",
+            "name": "Ocean Star",
             "links": [
                 {
                     "name": "site",
@@ -430,7 +430,7 @@
             "address": "605 7th Ave S, Seattle, WA 98104"
         },
         {
-            "title": "Purple Dot Cafe",
+            "name": "Purple Dot Cafe",
             "links": [
                 {
                     "name": "Yelp",
@@ -443,7 +443,7 @@
             "address": "515 Maynard Ave S, Seattle, WA 98104"
         },
         {
-            "title": "Regent Bakery and Cafe",
+            "name": "Regent Bakery and Cafe",
             "links": [
                 {
                     "name": "site",
@@ -460,7 +460,7 @@
             "address": "1404 E Pine St, Seattle, WA 98122"
         },
         {
-            "title": "Harbor City",
+            "name": "Harbor City",
             "links": [
                 {
                     "name": "site",
@@ -477,7 +477,7 @@
             "address": "4816 Pacific Ave  Tacoma, WA 98408"
         },
         {
-            "title": "Ming Palace",
+            "name": "Ming Palace",
             "links": [
                 {
                     "name": "site",

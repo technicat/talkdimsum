@@ -2,7 +2,7 @@
     "name": "Kentucky",
     "places": [
         {
-            "title": "Enson Harbor",
+            "name": "Enson Harbor",
             "links": [
                 {
                     "name": "site",
@@ -19,7 +19,7 @@
             "address": "25 Fairfield Ave Bellevue, KY 41073"
         },
         {
-            "title": "Jade Palace",
+            "name": "Jade Palace",
             "links": [
                 {
                     "name": "site",
@@ -36,7 +36,7 @@
             "address": "1109 Herr Ln Louisville, KY 40222"
         },
         {
-            "title": "Oriental House",
+            "name": "Oriental House",
             "links": [
                 {
                     "name": "Yelp",

@@ -2,7 +2,7 @@
     "name": "Colorado",
     "places": [
         {
-            "title": "Emperor Palace",
+            "name": "Emperor Palace",
             "links": [
                 {
                     "name": "Yelp",
@@ -15,7 +15,7 @@
             "address": "6700 W 120th Ave Broomfield, CO 80020"
         },
         {
-            "title": "Empress Seafood Restaurant",
+            "name": "Empress Seafood Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -32,7 +32,7 @@
             "address": "2825 W Alameda Ave Denver, CO 80219"
         },
         {
-            "title": "Star Kitchen",
+            "name": "Star Kitchen",
             "links": [
                 {
                     "name": "site",
@@ -49,7 +49,7 @@
             "address": "2917 W Mississippi Ave, Ste 5, Denver, CO 80219"
         },
         {
-            "title": "Super Star Asian Cuisine",
+            "name": "Super Star Asian Cuisine",
             "links": [
                 {
                     "name": "Yelp",

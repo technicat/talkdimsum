@@ -2,7 +2,7 @@
     "name": "Texas",
     "places": [
         {
-            "title": "ABC Seafood Chinese Restaurant",
+            "name": "ABC Seafood Chinese Restaurant",
             "links": [
                 {
                     "name": "Yelp",
@@ -15,7 +15,7 @@
             "address": "2420 E Arkansas Ln, Ste 216, Arlington, TX 76014"
         },
         {
-            "title": "Kowloon Chinese Seafood",
+            "name": "Kowloon Chinese Seafood",
             "links": [
                 {
                     "name": "Yelp",
@@ -28,7 +28,7 @@
             "address": "100 W Pioneer Pkwy, Ste 146, Arlington, TX 76010"
         },
         {
-            "title": "Chinatown North",
+            "name": "Chinatown North",
             "links": [
                 {
                     "name": "site",
@@ -45,7 +45,7 @@
             "address": "3407 Greystone Dr Austin, TX 78731"
         },
         {
-            "title": "Chinatown Westlake",
+            "name": "Chinatown Westlake",
             "links": [
                 {
                     "name": "site",
@@ -58,7 +58,7 @@
             "address": "2712 Bee Cave Rd Ste 124 Austin, TX 78746"
         },
         {
-            "title": "Jade Restaurant",
+            "name": "Jade Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -75,7 +75,7 @@
             "address": "3801 N Capital Of Texas Hwy, C200, Austin, TX 78746"
         },
         {
-            "title": "Lin Asian Bar and Dim Sum",
+            "name": "Lin Asian Bar and Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -92,7 +92,7 @@
             "address": "1203 W 6th St Austin, TX 78703"
         },
         {
-            "title": "Ling Wu",
+            "name": "Ling Wu",
             "links": [
                 {
                     "name": "site",
@@ -117,7 +117,7 @@
             "address": "7415 Southwest Pkwy Austin, TX 78735"
         },
         {
-            "title": "Qi",
+            "name": "Qi",
             "links": [
                 {
                     "name": "site",
@@ -134,7 +134,7 @@
             "address": "835 W 6th St Ste 114 Austin, TX 78703"
         },
         {
-            "title": "Shanghai Restaurant",
+            "name": "Shanghai Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -151,7 +151,7 @@
             "address": "6718 Middle Fiskville Rd Austin, TX 78752"
         },
         {
-            "title": "Wu Chow",
+            "name": "Wu Chow",
             "links": [
                 {
                     "name": "site",
@@ -168,7 +168,7 @@
             "address": "500 W 5th St Austin, TX 78701"
         },
         {
-            "title": "Xian Noodles",
+            "name": "Xian Noodles",
             "links": [
                 {
                     "name": "site",
@@ -185,7 +185,7 @@
             "address": "3401 Esperanza Crossing Ste 106 Austin, TX 78758"
         },
         {
-            "title": "Bushi Bushi",
+            "name": "Bushi Bushi",
             "links": [
                 {
                     "name": "site",
@@ -202,7 +202,7 @@
             "address": "4930 Belt Line Rd, Ste 100, Dallas, TX 75254"
         },
         {
-            "title": "Li Min Dim Sum",
+            "name": "Li Min Dim Sum",
             "links": [
                 {
                     "name": "Yelp",
@@ -215,7 +215,7 @@
             "address": "18101 Preston Rd Ste 106 Dallas, TX 75252"
         },
         {
-            "title": "Garden Restaurant",
+            "name": "Garden Restaurant",
             "links": [
                 {
                     "name": "Yelp",
@@ -228,7 +228,7 @@
             "address": "3555 W Walnut St, Garland, TX 75042"
         },
         {
-            "title": "The Pearl",
+            "name": "The Pearl",
             "links": [
                 {
                     "name": "site",
@@ -245,7 +245,7 @@
             "address": "2625 W Pioneer Pkwy, Grand Prairie, TX 75051"
         },
         {
-            "title": "Crown Seafood Restaurant",
+            "name": "Crown Seafood Restaurant",
             "links": [
                 {
                     "name": "Yelp",
@@ -258,7 +258,7 @@
             "address": "10796 Bellaire Blvd, Ste C, Houston, TX 77072"
         },
         {
-            "title": "Dim Sum King",
+            "name": "Dim Sum King",
             "links": [
                 {
                     "name": "Yelp",
@@ -271,7 +271,7 @@
             "address": "9160 Bellaire Blvd, Ste B, Houston, TX 77036"
         },
         {
-            "title": "Fung's Kitchen",
+            "name": "Fung's Kitchen",
             "links": [
                 {
                     "name": "site",
@@ -288,7 +288,7 @@
             "address": "7320 Sw Fwy, Ste 115, Houston, TX 77074"
         },
         {
-            "title": "Ginger and Fork",
+            "name": "Ginger and Fork",
             "links": [
                 {
                     "name": "site",
@@ -305,7 +305,7 @@
             "address": "4705 Inker St Houston, TX 77007"
         },
         {
-            "title": "Golden Dim Sum",
+            "name": "Golden Dim Sum",
             "links": [
                 {
                     "name": "Yelp",
@@ -318,7 +318,7 @@
             "address": "10600 Bellaire Blvd, Ste 105, Houston, TX 77072"
         },
         {
-            "title": "HK Dim Sum",
+            "name": "HK Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -335,7 +335,7 @@
             "address": "9889 Bellaire Blvd, Ste 110, Houston, TX 77036"
         },
         {
-            "title": "Kim Son",
+            "name": "Kim Son",
             "links": [
                 {
                     "name": "site",
@@ -352,7 +352,7 @@
             "address": "10603 Bellaire Blvd, Houston, TX 77072"
         },
         {
-            "title": "Ocean Palace",
+            "name": "Ocean Palace",
             "links": [
                 {
                     "name": "site",
@@ -369,7 +369,7 @@
             "address": "11215 Bellaire Blvd, Houston, TX 77072"
         },
         {
-            "title": "Taste of Mulan",
+            "name": "Taste of Mulan",
             "links": [
                 {
                     "name": "site",
@@ -386,7 +386,7 @@
             "address": "510 Gray Street, Houston, TX 77072"
         },
         {
-            "title": "Dim Sum Box",
+            "name": "Dim Sum Box",
             "links": [
                 {
                     "name": "site",
@@ -403,7 +403,7 @@
             "address": "1223 Grand W Blvd Bldg B, Unit B-107 Katy, TX 77449"
         },
         {
-            "title": "Tim Ho Wan",
+            "name": "Tim Ho Wan",
             "links": [
                 {
                     "name": "site",
@@ -424,7 +424,7 @@
             "address": "23330 Grand Circle Blvd, Suite 180, Katy, TX 77449"
         },
         {
-            "title": "JS Chen's Dim Sum & BBQ",
+            "name": "JS Chen's Dim Sum & BBQ",
             "links": [
                 {
                     "name": "site",
@@ -441,7 +441,7 @@
             "address": "240 Legacy, Ste 118 Plano, TX 75023"
         },
         {
-            "title": "Zhang's Kitchen",
+            "name": "Zhang's Kitchen",
             "links": [
                 {
                     "name": "site",
@@ -458,7 +458,7 @@
             "address": "3948 Legacy Dr, Ste 103, Plano, TX 75023"
         },
         {
-            "title": "Golden Joy BBQ",
+            "name": "Golden Joy BBQ",
             "links": [
                 {
                     "name": "site",
@@ -475,7 +475,7 @@
             "address": "1475 Belt Line Rd, Ste 260, Richardson, TX 75081"
         },
         {
-            "title": "Kirin Court Chinese Restaurant",
+            "name": "Kirin Court Chinese Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -492,7 +492,7 @@
             "address": "221 W Polk St, Ste 210, Richardson, TX 75081"
         },
         {
-            "title": "Golden Wok",
+            "name": "Golden Wok",
             "links": [
                 {
                     "name": "site",
@@ -509,7 +509,7 @@
             "address": "8822 Wurzbach Rd San Antonio, TX 78240"
         },
         {
-            "title": "New Palace",
+            "name": "New Palace",
             "links": [
                 {
                     "name": "Yelp",

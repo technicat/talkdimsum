@@ -2,7 +2,7 @@
     "name": "Connecticut",
     "places": [
         {
-            "title": "Steamed",
+            "name": "Steamed",
             "links": [
                 {
                     "name": "Yelp",
@@ -15,7 +15,7 @@
             "address": "77 Whitney Ave New Haven, CT 06510"
         },
         {
-            "title": "Steamed",
+            "name": "Steamed",
             "links": [
                 {
                     "name": "Yelp",
@@ -28,7 +28,7 @@
             "address": "670 Boston Post Rd Madison, CT 06443"
         },
         {
-            "title": "Golden Palace",
+            "name": "Golden Palace",
             "links": [
                 {
                     "name": "site",

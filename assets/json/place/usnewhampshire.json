@@ -2,7 +2,7 @@
     "name": "New Hampshire",
     "places": [
         {
-            "title": "Golden Tao Restaurant",
+            "name": "Golden Tao Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -19,7 +19,7 @@
             "address": "270 Amory St Manchester, NH 03102"
         },
         {
-            "title": "North Garden Restaurant",
+            "name": "North Garden Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -36,7 +36,7 @@
             "address": "715 Mast Rd Manchester, NH 03102"
         },
         {
-            "title": "Zhong's Restaurant",
+            "name": "Zhong's Restaurant",
             "links": [
                 {
                     "name": "site",

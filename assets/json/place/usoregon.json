@@ -2,7 +2,7 @@
     "name": "Oregon",
     "places": [
         {
-            "title": "East Harbor",
+            "name": "East Harbor",
             "links": [
                 {
                     "name": "site",
@@ -19,7 +19,7 @@
             "address": "18855 SW Tualatin Valley Hwy Aloha, OR 97006"
         },
         {
-            "title": "China Town Restaurant",
+            "name": "China Town Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -36,7 +36,7 @@
             "address": "14125 SW Walker Rd, Beaverton, OR 97006"
         },
         {
-            "title": "Spice 'N Steam",
+            "name": "Spice 'N Steam",
             "links": [
                 {
                     "name": "Yelp",
@@ -49,7 +49,7 @@
             "address": "165 W 11th Ave Eugene, OR 97401"
         },
         {
-            "title": "Best Taste To Go",
+            "name": "Best Taste To Go",
             "links": [
                 {
                     "name": "Yelp",
@@ -62,7 +62,7 @@
             "address": "8350 SE Division St Portland, OR 97266"
         },
         {
-            "title": "Excellent Cuisine",
+            "name": "Excellent Cuisine",
             "links": [
                 {
                     "name": "PDX Monthly",
@@ -79,7 +79,7 @@
             "address": "8733 SE Division St Ste 101 Portland, OR 97266"
         },
         {
-            "title": "Gold Garden Seafood Restaurant",
+            "name": "Gold Garden Seafood Restaurant",
             "links": [
                 {
                     "name": "Yelp",
@@ -92,7 +92,7 @@
             "address": "1818 SE 122nd Ave Portland, OR 97233"
         },
         {
-            "title": "Goodworld Chinese Restaurant",
+            "name": "Goodworld Chinese Restaurant",
             "links": [
                 {
                     "name": "site",
@@ -109,7 +109,7 @@
             "address": "5055 NE 122nd Ave Portland, OR 97230"
         },
         {
-            "title": "HK Cafe",
+            "name": "HK Cafe",
             "links": [
                 {
                     "name": "Yelp",
@@ -122,7 +122,7 @@
             "address": "4410 SE 82nd Ave, Portland, OR 97266"
         },
         {
-            "title": "Ocean City Seafood Restaurant",
+            "name": "Ocean City Seafood Restaurant",
             "links": [
                 {
                     "name": "Yelp",
@@ -135,7 +135,7 @@
             "address": "3016 SE 82nd Ave, Portland, OR 97266"
         },
         {
-            "title": "Pure Spice",
+            "name": "Pure Spice",
             "links": [
                 {
                     "name": "site",
@@ -152,7 +152,7 @@
             "address": "2446 SE 87th Ave Ste 101 Portland, OR 97216"
         },
         {
-            "title": "Queenz Asian Cuisine",
+            "name": "Queenz Asian Cuisine",
             "links": [
                 {
                     "name": "site",
@@ -169,7 +169,7 @@
             "address": "8225 SW Apple Way, Portland, OR 97225"
         },
         {
-            "title": "Yong Kang Street",
+            "name": "Yong Kang Street",
             "links": [
                 {
                     "name": "Yelp",
@@ -182,7 +182,7 @@
             "address": "700 SW 5th Ave Portland, OR 97204"
         },
         {
-            "title": "Canton Phoenix",
+            "name": "Canton Phoenix",
             "links": [
                 {
                     "name": "site",

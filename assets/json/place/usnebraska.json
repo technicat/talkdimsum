@@ -2,7 +2,7 @@
     "name": "Nebraska",
     "places": [
         {
-            "title": "Sina Way Chinese Cuisine",
+            "name": "Sina Way Chinese Cuisine",
             "links": [
                 {
                     "name": "Yelp",
@@ -15,7 +15,7 @@
             "address": "2211 Capehart Rd Ste 101 Bellevue, NE 68123"
         },
         {
-            "title": "Grand Fortune Cuisine",
+            "name": "Grand Fortune Cuisine",
             "links": [
                 {
                     "name": "Yelp",
@@ -28,7 +28,7 @@
             "address": "17330 W Center Rd Ste 106 Omaha, NE 68130"
         },
         {
-            "title": "New Gold Mountain",
+            "name": "New Gold Mountain",
             "links": [
                 {
                     "name": "site",

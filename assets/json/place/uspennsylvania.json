@@ -2,7 +2,7 @@
     "name": "Pennsylvania",
     "places": [
         {
-            "title": "Noval Kitchen",
+            "name": "Noval Kitchen",
             "links": [
                 {
                     "name": "NPR",
@@ -19,7 +19,7 @@
             "address": "2342 Easton Ave Bethlehem, PA 18017"
         },
         {
-            "title": "Tom's Dim Sum",
+            "name": "Tom's Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -36,7 +36,7 @@
             "address": "13 E State St Media, PA 19063"
         },
         {
-            "title": "M&M Dim Sum",
+            "name": "M&M Dim Sum",
             "links": [
                 {
                     "name": "Yelp",
@@ -49,7 +49,7 @@
             "address": "1776 E Lancaster Ave Paoli, PA 19301"
         },
         {
-            "title": "Dim Sum & Noodle",
+            "name": "Dim Sum & Noodle",
             "links": [
                 {
                     "name": "site",
@@ -66,7 +66,7 @@
             "address": "2000 Hamilton St Ste 104 Philadelphia, PA 19130"
         },
         {
-            "title": "Dim Sum Garden",
+            "name": "Dim Sum Garden",
             "links": [
                 {
                     "name": "site",
@@ -83,7 +83,7 @@
             "address": "1020 Race St, Philadelphia, PA 19107"
         },
         {
-            "title": "Dim Sum House Rittenhouse",
+            "name": "Dim Sum House Rittenhouse",
             "links": [
                 {
                     "name": "site",
@@ -100,7 +100,7 @@
             "address": "1930 Chestnut St, Philadelphia, PA 19102"
         },
         {
-            "title": "Dim Sum House University City",
+            "name": "Dim Sum House University City",
             "links": [
                 {
                     "name": "site",
@@ -117,7 +117,7 @@
             "address": "3939 Chestnut St, Fl 2, Philadelphia, PA 19104"
         },
         {
-            "title": "Grand Palace",
+            "name": "Grand Palace",
             "links": [
                 {
                     "name": "site",
@@ -138,7 +138,7 @@
             "address": "600 Washington Ave Philadelphia, PA 19147"
         },
         {
-            "title": "Jade Harbor",
+            "name": "Jade Harbor",
             "links": [
                 {
                     "name": "Yelp",
@@ -151,7 +151,7 @@
             "address": "6863 Bustleton Ave Philadelphia, PA 19149"
         },
         {
-            "title": "Nom Wah",
+            "name": "Nom Wah",
             "links": [
                 {
                     "name": "site",
@@ -168,7 +168,7 @@
             "address": "218 N 13th St Philadelphia, PA 19107"
         },
         {
-            "title": "Ocean City",
+            "name": "Ocean City",
             "links": [
                 {
                     "name": "Yelp",
@@ -181,7 +181,7 @@
             "address": "234 N 9th St Philadelphia, PA 19107"
         },
         {
-            "title": "Ocean Harbor",
+            "name": "Ocean Harbor",
             "links": [
                 {
                     "name": "Yelp",
@@ -194,7 +194,7 @@
             "address": "1023 Race St Philadelphia, PA 19107"
         },
         {
-            "title": "Sang Kee Noodle House",
+            "name": "Sang Kee Noodle House",
             "links": [
                 {
                     "name": "Yelp",
@@ -207,7 +207,7 @@
             "address": "3549 Chestnut St Philadelphia, PA 19104"
         },
         {
-            "title": "Tom's Dim Sum",
+            "name": "Tom's Dim Sum",
             "links": [
                 {
                     "name": "site",
@@ -224,7 +224,7 @@
             "address": "59 N 11th St Philadelphia, PA 19107"
         },
         {
-            "title": "Wokano",
+            "name": "Wokano",
             "links": [
                 {
                     "name": "Yelp",
@@ -237,7 +237,7 @@
             "address": "1100 Washington Ave Philadelphia, PA 19147"
         },
         {
-            "title": "Parlor Dim Sum",
+            "name": "Parlor Dim Sum",
             "links": [
                 {
                     "name": "site",

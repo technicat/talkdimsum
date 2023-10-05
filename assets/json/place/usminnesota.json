@@ -2,7 +2,7 @@
     "name": "Minnesota",
     "places": [
         {
-            "title": "Mandarin Kitchen",
+            "name": "Mandarin Kitchen",
             "links": [
                 {
                     "name": "Yelp",
@@ -15,7 +15,7 @@
             "address": "8766 Lyndale Ave S Minneapolis, MN 55420"
         },
         {
-            "title": "JUN",
+            "name": "JUN",
             "links": [
                 {
                     "name": "site",
@@ -32,7 +32,7 @@
             "address": "730 N Washington Ave Minneapolis, MN 55401"
         },
         {
-            "title": "Pagoda",
+            "name": "Pagoda",
             "links": [
                 {
                     "name": "site",
@@ -49,7 +49,7 @@
             "address": "1417 4th St SE Minneapolis, MN 55414"
         },
         {
-            "title": "Yangtze",
+            "name": "Yangtze",
             "links": [
                 {
                     "name": "site",
