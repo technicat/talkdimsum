@@ -368,7 +368,7 @@
                 "URL": "https://www.chinasichuanfood.com/braised-beef-noodles/"
             },
             {
-                "name": "Tha Mala Market",
+                "name": "The Mala Market",
                 "URL": "https://blog.themalamarket.com/sichuan-red-braised-beef-noodle-soup-hong-shao-niu-rou-mian-using-the-instant-pot-or-not/"
             },
             {
@@ -378,6 +378,68 @@
             {
                 "name": "The Woks of Life",
                 "URL": "https://thewoksoflife.com/braised-beef-noodle-soup/"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "hot and sour noodles",
+            "Cantonese": {
+                "text": "酸辣粉",
+                "wkty": [
+                    "酸辣湯",
+                    "酸",
+                    "辣",
+                    "粉"
+                ]
+            },
+            "Yale": "syūn laaht fán",
+            "Pinyin": "suān là fěn",
+            "description": ""
+        },
+        "images": [
+            {
+                "image": "suanlafenonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "牛肉",
+            "麵"
+        ],
+        "resources": [
+            {
+                "name": "Baking Hermann",
+                "URL": "https://bakinghermann.com/all-recipes/hot-and-sour-noodle-soup-suan-la-fen"
+            },
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/hot-and-sour-sweet-potato-noodles/"
+            },
+            {
+                "name": "Chinese Food Wiki",
+                "URL": "https://www.chinesefoodwiki.org/Suan_La_Fen"
+            },
+            {
+                "name": "The Mala Market",
+                "URL": "https://blog.themalamarket.com/sour-and-spicy-sweet-potato-noodles-suan-la-fen-and-a-spicy-girl-graduates/"
+            },
+            {
+                "name": "Omnivore's Cookbook",
+                "URL": "https://omnivorescookbook.com/suan-la-fen/"
+            },
+            {
+                "name": "Yi's Sichuan Kitchen",
+                "URL": "https://sichuankitchenrecipes.com/2022/10/12/sichuan-suan-la-fen-hot-and-sour-glass-noodle-soup/"
+            },
+            {
+                "name": "Tasting Table",
+                "URL": "https://www.tastingtable.com/1268227/what-makes-suan-le-fen-hot-sour-glass-noodle-soup-unique/"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/suan-la-fen-hot-sour-sweet-potato-glass-noodle-soup/"
             }
         ]
     }
