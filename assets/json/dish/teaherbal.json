@@ -161,6 +161,57 @@
     },
     {
         "word": {
+            "English": "barley tea",
+            "Cantonese": {
+                "text": "大麥茶",
+                "wkty": [
+                    "大麥",
+                    "大",
+                    "麥",
+                    "茶"
+                ]
+            },
+            "Yale": "daaih mahk chàh",
+            "Simplified": {
+                "text": "香茅大麦茶",
+                "wkty": [
+                    "大麦",
+                    "大",
+                    "麦",
+                    "茶"
+                ]
+            },
+            "Pinyin": "dà mài chá",
+            "description": "{大麥} is *barley*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 大麥茶 is *barley tea*."
+        },
+        "images": [
+            {
+                "image": "barleyteaonemorenoodlehouse",
+                "place": "One More Noodle House, South Salt Lake, Utah"
+            }
+        ],
+        "description": "[Barley tea](https://en.wikipedia.org/wiki/Barley_tea) is an [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) popular in China, Japan, and Korea, made with [barley](https://en.wikipedia.org/wiki/Barley). Can be served hot or cold.",
+        "tags": [
+            "飲品",
+            "熱飲",
+            "冷飲",
+            "熱茶",
+            "香茅",
+            "大麥"
+        ],
+        "resources": [
+            {
+                "name": "Oh How Civilized",
+                "URL": "https://www.ohhowcivilized.com/barley-tea/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Barley_tea"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "lemongrass barley tea",
             "Cantonese": {
                 "text": "香茅大麥茶",
@@ -209,10 +260,6 @@
             {
                 "name": "No Frills Inspirations",
                 "URL": "https://www.nofrillsrecipes.com/2018/09/lemon-grass-barley-drink.html"
-            },
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/barley-tea/"
             }
         ]
     },
