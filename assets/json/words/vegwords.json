@@ -6,6 +6,28 @@
         "Pinyin": "zhú"
     },
     {
+        "English": "barley",
+        "Cantonese": {
+            "text": "大麥",
+            "wkty": [
+                "大麥",
+                "大",
+                "麥"
+            ]
+        },
+        "Yale": "daaih mahk",
+        "Simplified": {
+            "text": "大麦",
+            "wkty": [
+                "大麦",
+                "大",
+                "麦"
+            ]
+        },
+        "Pinyin": "dà mài",
+        "description": "{大} is *big* and {麥} is a grain such as *barley*, *rye*, or *wheat*."
+    },
+    {
         "English": "broccoli",
         "Cantonese": "西蘭花",
         "Simplified": "西兰花",
