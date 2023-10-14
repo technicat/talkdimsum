@@ -2616,6 +2616,23 @@
             "address": "1202 Chapala St, Santa Barbara, CA 93101"
         },
         {
+            "name": "iChina",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.ichinarestaurant.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ichina-santa-clara"
+                }
+            ],
+            "lat": 37.32477856955832,
+            "lon": -121.94710524591375,
+            "city": "Santa Clara",
+            "address": "2855 Stevens Creek Blvd Ste 1891 Westfield Valley Fair Santa Clara, CA 95050"
+        },
+        {
             "name": "Hang Ah Dim Sum",
             "links": [
                 {
