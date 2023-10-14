@@ -1133,6 +1133,23 @@
             "address": "153 Castro St, Mountain View, CA 94041"
         },
         {
+            "name": "Empress M",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://empressm.us/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/empress-m-napa"
+                }
+            ],
+            "lat": 38.2905022888356,
+            "lon": -122.27527720353929,
+            "city": "Napa",
+            "address": "221 Silverado Trl Napa, CA 94559"
+        },
+        {
             "name": "A&W Seafood Restaurant",
             "links": [
                 {
