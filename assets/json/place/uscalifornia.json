@@ -1295,7 +1295,7 @@
                 }
             ],
             "lat": 37.898405651060756,
-            "lon":  -122.30763287636809,
+            "lon": -122.30763287636809,
             "city": "Richmond",
             "address": "3288 Pierce St Ste A118 Pacific East Mall Richmond, CA 94804"
         },
@@ -2135,7 +2135,7 @@
                 }
             ],
             "lat": 37.776356323610635,
-            "lon":  -122.40881587354167,
+            "lon": -122.40881587354167,
             "city": "San Francisco",
             "address": "1136 Folsom St San Francisco, CA 94103"
         },
@@ -2272,7 +2272,7 @@
                 }
             ],
             "lat": 37.7984268430107,
-            "lon":  -122.40562014438814,
+            "lon": -122.40562014438814,
             "city": "San Francisco",
             "address": "504 Broadway San Francisco, CA 94133"
         },
@@ -2456,7 +2456,7 @@
                 }
             ],
             "lat": 34.097914020715116,
-            "lon":  -118.09054814448737,
+            "lon": -118.09054814448737,
             "city": "San Gabriel",
             "address": "402 S San Gabriel Blvd Ste A San Gabriel, CA 91776"
         },
@@ -2505,10 +2505,9 @@
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/golden-palace-san-jose"
                 }
-
             ],
             "lat": 37.30436715248376,
-            "lon":  -122.03182037485537,
+            "lon": -122.03182037485537,
             "city": "San Jose",
             "address": "1146 S De Anza Blvd San Jose, CA 95129"
         },
@@ -2976,6 +2975,23 @@
             "lon": -117.956080,
             "city": "Westminster",
             "address": "15351 Brookhurst St, Ste 106, Westminster, CA 92683"
+        },
+        {
+            "name": "Youyou",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.hardrockhotelsacramento.com/restaurants/youyu"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/youyu-noodle-bar-wheatland"
+                }
+            ],
+            "lat": 39.05091194114853,
+            "lon": -121.51265891884606,
+            "city": "Wheatland",
+            "address": "3317 Forty Mile Rd Wheatland, CA 95692"
         }
     ]
 }
