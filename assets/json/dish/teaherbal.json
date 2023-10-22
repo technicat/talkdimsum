@@ -437,7 +437,7 @@
                 "place": "Tea Grotto, Salt Lake City, Utah"
             }
         ],
-        "description": "[Jiaogulan](https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum) (the Mandarin pronunciation) sis a twisty vine with purported medicinal benefits (often called *southern ginseng*) popularly brewed as a tea.",
+        "description": "[Jiaogulan](https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum) (the Mandarin pronunciation) is a twisty vine with purported medicinal benefits (often called *southern ginseng*) popularly brewed as a tea.",
         "tags": [
             "花茶",
             "桃",
@@ -463,6 +463,54 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "jiaduobao",
+            "Cantonese": {
+                "text": "加多寶",
+                "wkty": [
+                    "加多",
+                    "加",
+                    "多",
+                    "寶"
+                ]
+            },
+            "Simplified":  {
+                "text": "加多宝",
+                "wkty": [
+                    "加多",
+                    "加",
+                    "多",
+                    "宝"
+                ]
+            },
+            "Yale": "gā dō bóu",
+            "Pinyin": "jiā duō bǎo",
+            "description": "{加多} is *add more* ({加} is *add* and {多} is *more*) and {寶} is *treasure*, so 加多寶 is *add more treasure*."
+        },
+        "images": [
+            {
+                "image": "jiaduobao",
+                "place": "Chinatown Supermarket, South Salt Lake, Utah"
+            }
+        ],
+        "description": "Jiaduobao (Mandarin pronunciation) is a popular brand of herbal tea, made from water, sugar, chrysanthemum, licorice, and other ingredients, and sold in recognizable red cans.\n\nIt was known as [wanglaoji](https://en.wikipedia.org/wiki/Wong_Lo_Kat_) (wang lo kat in Cantonese), but after a trademark dispute has since been marketed under the company name and competes with wanglaoji, which is sold in green boxes. It's kind of like the cola wars.\n\nIn Hong Kong, I used to buy a can daily from the vending machine in my corporate apartment, and it had the option of warming up the can for a nice warm tea before rolling it out.",
+        "tags": [
+            "花茶",
+            "桃",
+            "桃花",
+            "花",
+            "茶",
+            "飲品",
+            "熱飲"
+        ],
+        "resources": [
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Wong_Lo_Kat"
             }
         ]
     }
