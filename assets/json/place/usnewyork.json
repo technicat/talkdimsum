@@ -66,6 +66,23 @@
             "address": "209 Central Ave Albany, NY 12206"
         },
         {
+            "name": "Shanghai You Garden",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://shanghaiyougardennyc.com/bayside-ny/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shanghai-you-garden-bayside"
+                }
+            ],
+            "lat": 40.76361802483608, 
+            "lon": -73.77065360341574,
+            "city": "Bayside",
+            "address": "41-07 Bell Blvd, Bayside, NY 11361"
+        },
+        {
             "name": "The Orient Restaurant",
             "links": [
                 {
@@ -312,6 +329,23 @@
             "lon": -73.834244,
             "city": "Flushing",
             "address": "136-20 Roosevelt Ave 3F Flushing, NY 11354"
+        },
+        {
+            "name": "Shanghai You Garden",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://shanghaiyougardennyc.com/flushing-ny/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shanghai-you-garden-flushing-3"
+                }
+            ],
+            "lat": 40.7591233851765,
+            "lon": -73.83051401690804,
+            "city": "Flushing",
+            "address": "135-33 40th Road, Flushing, NY 11354"
         },
         {
             "name": "One East Ocean Palace",
@@ -1158,6 +1192,23 @@
             "lon": -76.879150,
             "city": "Waterloo",
             "address": "678 State Route 318 Waterloo, NY 13165"
+        },
+        {
+            "name": "Shanghai You Garden",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://shanghaiyougardennyc.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shanghai-you-garden-westbury"
+                }
+            ],
+            "lat": 40.74664286382205,
+            "lon": -73.59561313225274,
+            "city": "Westbury",
+            "address": "1500 Old Country Rd Ste 112, Unit 103, Westbury, NY 11590"
         },
         {
             "name": "Golden Duck",

@@ -177,5 +177,72 @@
                 "URL": "https://en.wikipedia.org/wiki/Prawn_cracker"
             }
         ]
+    },
+
+    {
+        "word": {
+            "English": "cashew shrimp",
+            "Cantonese": {
+                "text": "腰果蝦",
+                "wkty": [
+                    "腰果",
+                    "腰",
+                    "果",
+                    "蝦"
+                ]
+            },
+            "Yale": "yīu gwó hā",
+            "Simplified": {
+                "text": "腰果虾",
+                "wkty": [
+                    "腰果",
+                    "腰",
+                    "果",
+                    "虾"
+                ]
+            },
+            "Pinyin": "yāo guǒ xiā",
+            "description": "{腰果} is *cashew*, and {蝦} is *shrimp* , so 腰果蝦 is *cashew shrimp*."
+        },
+        "images": [
+            {
+                "image": "cashewshrimpmandarin",
+                "place": "Mandarin, Cedar City, Utah"
+            }
+        ],
+        "description": "[Cashew shrimp](https://en.wikipedia.org/wiki/Cashew_chicken) is a stir-fried mix of shrimp and cashews.",
+        "tags": [
+            "新菜",
+            "腰果",
+            "美式",
+            "蝦",
+            "炒"
+        ],
+        "resources": [
+            {
+                "name": "The Endless Meal",
+                "URL": "https://www.theendlessmeal.com/cashew-shrimp/"
+            },
+            {
+                "name": "Erren's Kitchen",
+                "URL": "https://www.errenskitchen.com/10-minute-cashew-shrimp/"
+            },
+            {
+                "name": "Martha Stewart",
+                "URL": "https://www.marthastewart.com/1534045/cashew-shrimp"
+            },
+            {
+                "name": "New York Times",
+                "URL": "https://cooking.nytimes.com/recipes/6498-ken-homs-shrimp-with-cashew-nuts"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Cashew_chicken"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/cashew-shrimp-stir-fry/"
+            }
+        ]
     }
 ]
