@@ -89,5 +89,52 @@
       "水"
     ],
     "resources": []
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "熱水",
+        "wkty": [
+          "熱水",
+          "熱",
+          "水"
+        ]
+      },
+      "Simplified": {
+        "text": "热水",
+        "wkty": [
+          "热水",
+          "热",
+          "水"
+        ]
+      },
+      "English": "hot water",
+      "Yale": "yiht séui",
+      "Pinyin": "rè shuǐ",
+      "description": "{熱} is *hot*, and {水} is *water*, so {熱水} is *hot water*.\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a glass of cold water, ask for 一杯熱水 (yāt būi yiht séui in Cantonese, yī bēi dòng shuǐ in Mandarin), *one cup of cold water*."
+    },
+    "images": [
+      {
+        "image": "hotwaterchinatowneatery",
+        "place": "Chinatown Eatery"
+      }
+    ],
+    "description": "Chinese restaurants often serve not just cold water but also hot water.",
+    "tags": [
+      "熱飲",
+      "飲品",
+      "水"
+    ],
+    "resources": [
+      {
+        "name": "The Culture Trip",
+        "URL": "https://theculturetrip.com/asia/china/articles/why-do-chinese-people-drink-hot-water"
+      }
+      {
+        "name": "Intersections",
+        "URL": "https://sites.duke.edu/intersections/2021/12/01/why-do-chinese-people-love-hot-water/"
+      }
+      
+    ]
   }
 ]
