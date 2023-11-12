@@ -2311,6 +2311,23 @@
             "address": "3224 22nd St San Francisco, CA 94110"
         },
         {
+            "name": "Red A Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.redadimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/red-a-dim-sum-san-francisco-2"
+                }
+            ],
+            "lat": 37.783272097587464,
+            "lon":  -122.46620541890778,
+            "city": "San Francisco",
+            "address": "634 Clement St San Francisco, CA 94118"
+        },
+        {
             "name": "Riverside Seafood Restaurant",
             "links": [
                 {

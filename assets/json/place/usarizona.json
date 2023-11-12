@@ -58,6 +58,23 @@
             "address": "3446 W Camelback Rd, Ste 155, Phoenix, AZ 85017"
         },
         {
+            "name": "Chef J Dim Sum & Chinese Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.chefjscottsdale.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/chef-j-dim-sum-and-chinese-bistro-scottsdale-4"
+                }
+            ],
+            "lat": 33.57004757927789, 
+            "lon": -111.8862580191006,
+            "city": "Scottsdale",
+            "address": "9030 E Via Linda Ste 100 Scottsdale, AZ 85258"
+        },
+        {
             "name": "China Phoenix",
             "links": [
                 {
