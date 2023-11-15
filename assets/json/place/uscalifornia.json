@@ -160,6 +160,23 @@
             "address": "1220 S Golden W Ave, Arcadia, CA 91007"
         },
         {
+            "name": "Sam Woo Cafe",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.samwoocafe.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sam-woo-cafe-artesia"
+                }
+            ],
+            "lat": 33.8574537540247,
+            "lon": -118.08477737469147,
+            "city": "Artesia",
+            "address": "11688 S St Ste 105 Artesia, CA 90701"
+        },
+        {
             "name": "Seafood House",
             "links": [
                 {
