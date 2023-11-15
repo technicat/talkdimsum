@@ -369,6 +369,23 @@
             "address": "11215 Bellaire Blvd, Houston, TX 77072"
         },
         {
+            "name": "Shanghai Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://onedimsum.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/shanghai-restaurant-%E6%9D%B1%E9%9B%B2%E9%96%A3-houston"
+                }
+            ],
+            "lat": 29.70681926950232,
+            "lon": -95.55306920368992,
+            "city": "Houston",
+            "address": "9888 Bellaire Blvd Ste 106 Houston, TX 77036"
+        },
+        {
             "name": "Taste of Mulan",
             "links": [
                 {
