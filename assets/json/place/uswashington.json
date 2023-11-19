@@ -150,10 +150,6 @@
             "name": "Early Bird Cafe",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://cafekirkland.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/early-bird-cafe-kirkland"
                 }
@@ -181,25 +177,8 @@
             "address": "1120 164th St SW, Lynnwood, WA 98087"
         },
         {
-            "name": "Tiger Garden",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/tiger-garden-mercer-island"
-                }
-            ],
-            "lat": 47.584600,
-            "lon": -122.234189,
-            "city": "Mercer Island",
-            "address": "2885 78th Ave SE Mercer Island, WA 98040"
-        },
-        {
             "name": "Renton Seafood",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://rentonseafood.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/renton-seafood-restaurant-renton"
@@ -296,7 +275,7 @@
             "name": "Harbor City",
             "links": [
                 {
-                    "name": "Yelp",
+                    "name": "site",
                     "URL": "https://harborcityseattle.com/"
                 },
                 {
@@ -325,10 +304,6 @@
         {
             "name": "HK Dim Sum",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://hongkongdimsumrestaurant.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/hk-dim-sum-seattle-3"
@@ -399,10 +374,6 @@
             "name": "Joy Palace",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "http://www.joypalaceseattle.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/joy-palace-seafood-restaurant-seattle"
                 }
@@ -415,10 +386,6 @@
         {
             "name": "Ocean Star",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.seattleoceanstar.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ocean-star-seattle"
@@ -479,10 +446,6 @@
         {
             "name": "Ming Palace",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.mingpalacewa.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/ming-palace-tacoma"
