@@ -5,10 +5,6 @@
             "name": "East Harbor",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.eastharborrestaurant.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/east-harbor-aloha-2"
                 }
@@ -122,19 +118,6 @@
             "address": "4410 SE 82nd Ave, Portland, OR 97266"
         },
         {
-            "name": "Ocean City Seafood Restaurant",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/ocean-city-seafood-restaurant-portland"
-                }
-            ],
-            "lat": 45.500260,
-            "lon": -122.578190,
-            "city": "Portland",
-            "address": "3016 SE 82nd Ave, Portland, OR 97266"
-        },
-        {
             "name": "Pure Spice",
             "links": [
                 {
@@ -155,10 +138,6 @@
             "name": "Queenz Asian Cuisine",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://queenzllc.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/queenz-asian-cuisine-portland"
                 }
@@ -167,19 +146,6 @@
             "lon": -122.761971,
             "city": "Portland",
             "address": "8225 SW Apple Way, Portland, OR 97225"
-        },
-        {
-            "name": "Yong Kang Street",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/yong-kang-street-portland"
-                }
-            ],
-            "lat": 45.518640,
-            "lon": -122.677420,
-            "city": "Portland",
-            "address": "700 SW 5th Ave Portland, OR 97204"
         },
         {
             "name": "Canton Phoenix",
