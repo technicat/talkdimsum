@@ -1,39 +1,35 @@
 {
-    "name":"Oklahoma",
-    "places":
-[
-    {
-        "name": "Fung's Kitchen",
-         "links":
-        [
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/fungs-kitchen-oklahoma-city"
-            }
-        ],
-        "lat": 35.501960,
-        "lon": -97.534210,
-        "city": "Oklahoma City",
-        "address": "3321 North Classen Boulevard, Oklahoma City, OK 73118"
+    "name": "Oklahoma",
+    "places": [
+        {
+            "name": "Fung's Kitchen",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/fungs-kitchen-oklahoma-city"
+                }
+            ],
+            "lat": 35.501960,
+            "lon": -97.534210,
+            "city": "Oklahoma City",
+            "address": "3321 North Classen Boulevard, Oklahoma City, OK 73118"
         },
-    
-    {
-        "name": "Grand House Asian Bistro",
-         "links":
-        [
-            {
-                "name":"site",
-                "URL":"http://grandhouseokc.com/"
-            },
-            {
-                "name":"Yelp",
-                "URL": "https://www.yelp.com/biz/grand-house-asian-bistro-oklahoma-city"
-            }
-        ],
-        "lat": 35.496710,
-        "lon": -97.534830,
-        "city": "Oklahoma City",
-        "address": "2701 N Classen Blvd, Oklahoma City, OK 73106"
-    }
+        {
+            "name": "Grand House Asian Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://grandhouseokc.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/grand-house-asian-bistro-oklahoma-city"
+                }
+            ],
+            "lat": 35.496710,
+            "lon": -97.534830,
+            "city": "Oklahoma City",
+            "address": "2701 N Classen Blvd, Oklahoma City, OK 73106"
+        }
     ]
 }
