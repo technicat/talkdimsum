@@ -83,6 +83,23 @@
             "address": "7900 Westpark Dr. McLean, VA 22102"
         },
         {
+            "name": "And Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.anddimsumbar.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/and-dim-sum-richmond"
+                }
+            ],
+            "lat": 37.54656891410604,
+            "lon": -77.44243033232219,
+            "city": "Richmond",
+            "address": "305 Brook Rd Richmond, VA 23220"
+        },
+        {
             "name": "Full Kee",
             "links": [
                 {
