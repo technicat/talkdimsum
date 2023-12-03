@@ -190,6 +190,23 @@
             "address": "4250 NE 4th St Ste A Renton, WA 98059"
         },
         {
+            "name": "Triumph Valley",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.triumphvalley.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/triumph-valley-renton"
+                }
+            ],
+            "lat": 47.44580223109299,
+            "lon": -122.2174664163634,
+            "city": "Renton",
+            "address": "3750 E Valley Rd Renton, WA 98057"
+        },
+        {
             "name": "Bamboo Village",
             "links": [
                 {
