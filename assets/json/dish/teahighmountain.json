@@ -99,5 +99,83 @@
                 "URL": "https://www.teafromtaiwan.com/Alishan_area"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "gui fei oolong tea",
+            "Cantonese": {
+                "text": "貴妃烏龍茶",
+                "wkty": [
+                    "貴妃",
+                    "貴",
+                    "妃",
+                    "烏龍茶",
+                    "烏龍",
+                    "烏",
+                    "龍",
+                    "茶"
+                ]
+            },
+            "Yale": "gwai fēi wu lùhng chàh",
+            "Simplified": {
+                "text": "贵妃乌龙茶",
+                "wkty": [
+                    "贵妃",
+                    "贵",
+                    "妃",
+                    "乌龙茶",
+                    "乌龙",
+                    "乌",
+                    "龙",
+                    "茶"
+                ]
+            },
+            "Pinyin": "guì fēi wū lóng chá",
+            "description": "{貴妃} is the title of a high-ranking imperial concubine, in this case referring to the famous (or infamous) [Yang Gui Feng](https://en.wikipedia.org/wiki/Yang_Guifei). {烏龍} is *black dragon*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {烏龍茶} is *black dragon tea*, and *貴妃烏龍茶* is *imperial concubine black dragon tea*."
+        },
+        "images": [
+            {
+                "image": "guifuioolong",
+                "place": "Tea Zaanti, Salt Lake City, Utah"
+            }
+        ],
+        "description": "Gui fei oolong tea (gui fei is the Mandarin pronunciation), from the mountainous [Nantou County](https://en.wikipedia.org/wiki/Nantou_County) in Taiwan, is a [beauty tea](https://teaepicure.com/oriental-beauty-bug-bitten-teas/), ironically brewed from leaves that have been nibbled upon by bugs, which induces a healing reaction that imparts a sweetened flavor.",
+        "tags": [
+            "熱飲",
+            "高山茶",
+            "烏龍茶",
+            "中國茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "茶",
+            "點心"
+        ],
+        "resources": [
+            {
+                "name": "Curious Tea",
+                "URL": "https://www.curioustea.com/tea/oolong-tea/gui-fei-oolong/"
+            },
+            {
+                "name": "Ohio Tea Company",
+                "URL": "https://www.ohioteaco.com/Gui-Fei_p_2974.html"
+            },
+            {
+                "name": "Taiwan Leaf Tea",
+                "URL": "https://taiwanleaftea.com/oolong-tea/royal-gui-fei-oolong"
+            },
+            {
+                "name": "Tao of Tea",
+                "URL": "https://taooftea.com/product/gui-fei/"
+            },
+            {
+                "name": "Teapicure",
+                "URL": "https://teaepicure.com/oriental-beauty-bug-bitten-teas/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
+            }
+        ]
     }
 ]
