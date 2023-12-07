@@ -92,6 +92,19 @@
       "address": "5000 S Decatur Blvd Ste 1"
     },
     {
+      "name": "Genting Palace",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.rwlasvegas.com/dining/genting-palace/"
+        }
+      ],
+      "lat": 36.134248182688104,
+      "lon":  -115.1676040034306,
+      "city": "Las Vegas",
+      "address": "3000 South Las Vegas Boulevard, Las Vegas, Nevada 89109"
+    },
+    {
       "name": "Hong Kong Café",
       "links": [
         {
