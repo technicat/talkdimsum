@@ -20,7 +20,7 @@
                 "place": "Xiang Xiang, Las Vegas, Nevada"
             }
         ],
-        "description": "[Tofu](https://en.wikipedia.org/wiki/Tofu) is generally known as bean curd (coagulated soybean milk), but in Chinese cuisine also refers to a variety of tofu-like dishes and desserts with a gelatin consistency.\n\n**Pronunciation**\n\nThe name *tofu* is based the pronunciation of the Japanese word, which is derived from the Mandarin pronunciation (starts with a d sound), which is just a bit different from the Cantonese pronuncation (starts with a *dow* sound instead of *doh*).",
+        "description": "[Tofu](https://en.wikipedia.org/wiki/Tofu) is generally known as bean curd (coagulated soybean milk), but in Chinese cuisine also refers to a variety of tofu-like dishes and desserts with a gelatin consistency.\n\n**Pronunciation**\n\nThe name *tofu* is based on the pronunciation of the Japanese word, which is derived from the Mandarin pronunciation (starts with a d sound), which is just a bit different from the Cantonese pronuncation (starts with a *dow* sound instead of *doh*).",
         "tags": [
             "豆腐"
         ],
@@ -28,6 +28,39 @@
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Tofu"
+            }
+        ]
+    },
+    {
+        "word": {
+            "English": "deep-fried tofu",
+            "Cantonese": {
+                "text": "炸豆腐",
+                "wkty": [
+                    "炸",
+                    "豆腐",
+                    "豆",
+                    "腐"
+                ]
+            },
+            "Yale": "ja dauh fuh",
+            "Pinyin": "zhà dòu fǔ",
+            "description": "{炸} is *deep-fried*,  and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 炸豆腐 is *deep-fried tofu*."
+        },
+        "images": [
+            {
+                "image": "deepfriedtofumandarin",
+                "place": "Mandarin, Cedar City, Utah"
+            }
+        ],
+        "description": "Also listed as *crispy tofu*, deep-fried cubes of [tofu](https://en.wikipedia.org/wiki/Tofu), usually served with a dipping sauce.",
+        "tags": [
+            "豆腐"
+        ],
+        "resources": [
+            {
+                "name": "Eating China",
+                "URL": "https://www.eatingchina.com/recipes/deep-fried-tofu.htm"
             }
         ]
     },
