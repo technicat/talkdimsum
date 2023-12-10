@@ -5,10 +5,6 @@
             "name": "Noval Kitchen",
             "links": [
                 {
-                    "name": "NPR",
-                    "URL": "https://wlvr.org/2022/08/new-bethlehem-restaurant-offers-authentic-asian-eats-including-cantonese-cuisine-and-dim-sum/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/noval-kitchen-bethlehem"
                 }
@@ -19,15 +15,24 @@
             "address": "2342 Easton Ave Bethlehem, PA 18017"
         },
         {
+            "name": "Dim Sum Factory",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumfactoryusa.com/store1.html"
+                }
+            ],
+            "lat": 40.18085665141482,
+            "lon":  -75.13469157116393,
+            "city": "Horsham",
+            "address": "303 Horsham Road, Horsham, PA 19044"
+        },
+        {
             "name": "Tom's Dim Sum",
             "links": [
                 {
                     "name": "site",
                     "URL": "http://tomsdimsum.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/toms-dim-sum-media"
                 }
             ],
             "lat": 39.918030,
@@ -54,10 +59,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.dimsumandnoodle.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-and-noodle-philadelphia"
                 }
             ],
             "lat": 39.962180,
@@ -66,15 +67,24 @@
             "address": "2000 Hamilton St Ste 104 Philadelphia, PA 19130"
         },
         {
+            "name": "Dim Sum Factory",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumfactoryusa.com/store1.html"
+                }
+            ],
+            "lat": 40.08348965688984,
+            "lon": -75.04821287116391,
+            "city": "Philadelphia",
+            "address": "8925 Krewstown Rd Philadelphia PA 19115 "
+        },
+        {
             "name": "Dim Sum Garden",
             "links": [
                 {
                     "name": "site",
                     "URL": "http://www.dimsumgardenphilly.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-garden-philadelphia"
                 }
             ],
             "lat": 39.955143,
@@ -88,10 +98,6 @@
                 {
                     "name": "site",
                     "URL": "http://dimsum.house/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-house-philadelphia-3"
                 }
             ],
             "lat": 39.955956,
@@ -105,10 +111,6 @@
                 {
                     "name": "site",
                     "URL": "http://dimsum.house/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-house-philadelphia"
                 }
             ],
             "lat": 39.955956,
@@ -126,10 +128,6 @@
                 {
                     "name": "Philadelphia Inquirer",
                     "URL": "https://www.inquirer.com/food/dim-sum-cart-philadelphia-20221028.html"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/grand-palace-restaurant-philadelphia"
                 }
             ],
             "lat": 39.93467269201024,
@@ -156,10 +154,6 @@
                 {
                     "name": "site",
                     "URL": "https://nomwah.com/philadelphia/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/nom-wah-philadelphia-philadelphia-2"
                 }
             ],
             "lat": 39.956585,
@@ -212,10 +206,6 @@
                 {
                     "name": "site",
                     "URL": "http://tomsdimsum.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/toms-dim-sum-philadelphia"
                 }
             ],
             "lat": 39.953280,
@@ -246,10 +236,6 @@
                 {
                     "name": "Post-Gazette",
                     "URL": "https://www.post-gazette.com/life/dining/2022/08/29/parlor-dim-sum-lawrenceville-open/stories/202208260100"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/the-parlor-dim-sum-and-cantonese-bbq-pittsburgh"
                 }
             ],
             "lat": 40.47183495174677,
