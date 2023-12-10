@@ -5,8 +5,8 @@
             "name": "Steamed",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/steamed-new-haven"
+                    "name": "site",
+                    "URL": "https://www.steamednewhaven.com/"
                 }
             ],
             "lat": 41.312585,
@@ -18,8 +18,8 @@
             "name": "Steamed",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/steamed-madison"
+                    "name": "site",
+                    "URL": "https://www.steamedmadison.com/"
                 }
             ],
             "lat": 41.279049,
@@ -33,10 +33,6 @@
                 {
                     "name": "site",
                     "URL": "http://www.goldenpalace-ct.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/golden-palace-uncasville"
                 }
             ],
             "lat": 41.484036,
