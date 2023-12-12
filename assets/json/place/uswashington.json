@@ -15,11 +15,11 @@
             "address": "4092 Factoria Mall Blvd SE, Bellevue, WA 98006"
         },
         {
-            "name": "King's Chinese",
+            "name": "Royal Kitchen",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/kings-chinese-restaurant-bellevue"
+                    "name": "site",
+                    "URL": "https://www.royalkitchenbellevue.com/"
                 }
             ],
             "lat": 47.628590,
@@ -83,8 +83,8 @@
             "name": "Macky's Dim Sum",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/mackys-dim-sum-issaquah"
+                    "name": "Weeblyte",
+                    "URL": "https://mackys-dim-sum.weeblyte.com/"
                 }
             ],
             "lat": 47.530222,
@@ -122,8 +122,8 @@
             "name": "Early Bird Cafe",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/early-bird-cafe-kirkland"
+                    "name": "site",
+                    "URL": "https://kirklandearlybirdcafe.com/"
                 }
             ],
             "lat": 47.66712200846537,
@@ -356,8 +356,8 @@
             "name": "Ocean Star",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/ocean-star-seattle"
+                    "name": "site",
+                    "URL": "https://www.oceanstarseattle.com/"
                 }
             ],
             "lat": 47.597260,
