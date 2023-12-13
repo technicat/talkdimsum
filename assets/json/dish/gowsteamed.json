@@ -108,6 +108,49 @@
     },
     {
         "word": {
+            "English": "lobster shrimp dumpling",
+            "Cantonese": {
+                "text": "龍皇蝦餃",
+                "wkty": [
+                    "蝦餃",
+                    "蝦",
+                    "餃"
+                ]
+            },
+            "Yale": "lùhng wòhng hā gáau",
+            "Simplified": {
+                "text": "龍皇虾饺",
+                "wkty": [
+                    "虾饺",
+                    "虾",
+                    "饺"
+                ]
+            },
+            "Pinyin": "lóng huáng xiā jiǎo",
+            "description": "{龍} is *dragon* (short for *lobster*, which is {龍蝦}, *dragon shrimp*, {皇} is *king*, {蝦} is *shrimp*, and {餃} is *dumpling*, so 龍皇蝦餃 is *dragon king shrimp dumpling*."
+        },
+        "images": [
+            {
+                "image": "lobsterhagowteapalette",
+                "place": "Tea Palette Lounge, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A deluxe version of [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow) with lobster.",
+        "tags": [
+            "新菜",
+            "龍蝦",
+            "粵菜",
+            "蒸",
+            "蝦",
+            "餃",
+            "海鮮",
+            "點心"
+        ],
+        "resources": [
+        ]
+    },
+    {
+        "word": {
             "English": "shrimp and chive dumpling",
             "Cantonese": {
                 "text": "韭菜餃",
