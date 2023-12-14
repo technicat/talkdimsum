@@ -1,752 +1,442 @@
 [
-    {
-        "word": {
-            "English": "rice roll",
-            "Cantonese": {
-                "text": "腸粉",
-                "wkty": [
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "chéung fán",
-            "Simplified": {
-                "text": "肠粉",
-                "wkty": [
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "cháng fěn",
-             "description": "The first character {腸} is the word for *intestine* (as in sausage), and the second character {粉} is *flour* (as in rice flour), so you can think of {腸粉} as *sausage of rice flour*.\n\nIn longer variations of this dish name, the last character is often omitted in speech, for example *hā chéung fán* (shrimp rice roll) is often called *hā chéung*.\n\n**Ordering**\n\n{條} is the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so for example to order one strip of fried dough, you'd specify 一條腸粉 (in Cantonese, yāt tíu chéung fán) *one strip of rice roll*.\n\nBut typically multiple strips will be served on a plate, in which case you'd order 一碟腸粉  (in Cantonese, yāt dihp chéung fán) *one plate of rice rolls*."
-        },
-        "images": [
-            {
-                "image": "ricerollshkgarden",
-                "place": "Hong Kong Garden Seafood and Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice rolls, also known as [rice noodle rolls](http://en.wikipedia.org/wiki/Rice_noodle_roll) are steamed sheets of rice flour dough rolled up and typically filled with shrimp, beef or [BBQ pork](https://en.wikipedia.org/wiki/Char_siu), although the plain variety (just the noodles, doused in soy sauce, for example) is a popular street food.",
-        "tags": [
-            "粵菜",
-            "早餐",
-            "腸粉",
-            "蒸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/46156.html"
-            },
-            {
-                "name": "China Food Wiki",
-                "URL": "https://www.chinesefoodwiki.org/Rice_Noodle_Roll"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/cheung-fun-steamed-rice-noodles/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/cheung-fun-steamed-rice-noodle-roll/"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/rice-noodle-rolls-cheung-fun/"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/cheung-fun-%e8%85%b8%e7%b2%89-hk-rice-noodles/"
-            },
-            {
-                "name": "Eat Cho Food",
-                "URL": "https://eatchofood.com/blog/2021/3/9/homemade-cheung-fun-rice-noodle-rolls"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "https://thewoksoflife.com/2015/01/cheung-fun-homemade-rice-noodles/"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/26"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/rice-noodle-roll-cheung-fun-%E8%85%B8%E7%B2%89/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/cheung-fun/"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/chee-cheong-fun-steamed-rice-rolls.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Rice_noodle_roll"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/cheung-fun-homemade-rice-noodles/"
-            }
-        ]
+  {
+    "word": {
+      "English": "rice roll",
+      "Cantonese": {
+        "text": "腸粉",
+        "wkty": ["腸粉", "腸", "粉"]
+      },
+      "Yale": "chéung fán",
+      "Simplified": {
+        "text": "肠粉",
+        "wkty": ["肠粉", "肠", "粉"]
+      },
+      "Pinyin": "cháng fěn",
+      "description": "The first character {腸} is the word for *intestine* (as in sausage), and the second character {粉} is *flour* (as in rice flour), so you can think of {腸粉} as *sausage of rice flour*.\n\nIn longer variations of this dish name, the last character is often omitted in speech, for example *hā chéung fán* (shrimp rice roll) is often called *hā chéung*.\n\n**Ordering**\n\n{條} is the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so for example to order one strip of fried dough, you'd specify 一條腸粉 (in Cantonese, yāt tíu chéung fán) *one strip of rice roll*.\n\nBut typically multiple strips will be served on a plate, in which case you'd order 一碟腸粉  (in Cantonese, yāt dihp chéung fán) *one plate of rice rolls*."
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "蔥腸粉",
-                "wkty": [
-                    "蔥",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Simplified": {
-                "text": "葱肠粉",
-                "wkty": [
-                    "蔥",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "English": "scallion rice roll",
-            "Yale": "chūng chéung fán",
-            "Pinyin": "cōng cháng fěn",
-            "description": "{蔥} is *scallions*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "scallionricerolltimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Plain rice rolls served with scallions.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "蔥",
-            "蒸",
-            "粉",
-            "素",
-            "點心"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "ricerollshkgarden",
+        "place": "Hong Kong Garden Seafood and Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice rolls, also known as [rice noodle rolls](http://en.wikipedia.org/wiki/Rice_noodle_roll) are steamed sheets of rice flour dough rolled up and typically filled with shrimp, beef or [BBQ pork](https://en.wikipedia.org/wiki/Char_siu), although the plain variety (just the noodles, doused in soy sauce, for example) is a popular street food.",
+    "tags": ["粵菜", "早餐", "腸粉", "蒸", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/46156.html"
+      },
+      {
+        "name": "China Food Wiki",
+        "URL": "https://www.chinesefoodwiki.org/Rice_Noodle_Roll"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/cheung-fun-steamed-rice-noodles/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/cheung-fun-steamed-rice-noodle-roll/"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/rice-noodle-rolls-cheung-fun/"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/cheung-fun-%e8%85%b8%e7%b2%89-hk-rice-noodles/"
+      },
+      {
+        "name": "Eat Cho Food",
+        "URL": "https://eatchofood.com/blog/2021/3/9/homemade-cheung-fun-rice-noodle-rolls"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "https://thewoksoflife.com/2015/01/cheung-fun-homemade-rice-noodles/"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/26"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/rice-noodle-roll-cheung-fun-%E8%85%B8%E7%B2%89/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/cheung-fun/"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/chee-cheong-fun-steamed-rice-rolls.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Rice_noodle_roll"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/cheung-fun-homemade-rice-noodles/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "蔥腸粉",
+        "wkty": ["蔥", "腸粉", "腸", "粉"]
+      },
+      "Simplified": {
+        "text": "葱肠粉",
+        "wkty": ["蔥", "肠粉", "肠", "粉"]
+      },
+      "English": "scallion rice roll",
+      "Yale": "chūng chéung fán",
+      "Pinyin": "cōng cháng fěn",
+      "description": "{蔥} is *scallions*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "cilantro and scallion rice roll",
-            "Cantonese": {
-                "text": "芫茜蔥腸粉",
-                "wkty": [
-                    "芫茜",
-                    "芫",
-                    "茜",
-                    "蔥",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "yùhn sāi chūng chéung fán",
-            "Simplified": {
-                "text": "芫茜葱肠粉",
-                "wkty": [
-                    "芫茜",
-                    "芫",
-                    "茜",
-                    "蔥",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "yán qiàn cōng cháng fěn",
-            "description": "{芫茜} is *cilantro*, {蔥} is *scallions*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "cilantroscallionricerolldimsumlicious",
-                "place": "Dimsumlicious, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Plain rice rolls served with scallions.",
-        "tags": [
-            "芫茜",
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "蔥",
-            "蒸",
-            "粉",
-            "素",
-            "點心"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "scallionricerolltimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Plain rice rolls served with scallions.",
+    "tags": ["粵菜", "腸粉", "豉油", "蔥", "蒸", "粉", "素", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "cilantro and scallion rice roll",
+      "Cantonese": {
+        "text": "芫茜蔥腸粉",
+        "wkty": ["芫茜", "芫", "茜", "蔥", "腸粉", "腸", "粉"]
+      },
+      "Yale": "yùhn sāi chūng chéung fán",
+      "Simplified": {
+        "text": "芫茜葱肠粉",
+        "wkty": ["芫茜", "芫", "茜", "蔥", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "yán qiàn cōng cháng fěn",
+      "description": "{芫茜} is *cilantro*, {蔥} is *scallions*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "shrimp rice roll",
-            "Cantonese": {
-                "text": "鮮蝦腸粉",
-                "wkty": [
-                    "鮮蝦",
-                    "鮮",
-                    "蝦",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "sīn hā chéung fán",
-            "Simplified": {
-                "text": "鲜虾肠粉",
-                "wkty": [
-                    "鲜虾",
-                    "鲜",
-                    "虾",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "xiān xiā cháng fěn",
-            "description": "{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*), {腸粉} is *rice roll*, so 鮮蝦腸粉 is *fresh shrimp rice roll*.\n\n鮮蝦 (sīn hā) is a commonly-used fancy name for shrimp, so sometimes you'll see just 蝦腸粉 (hā chéung fán), but when ordering, you usually say the even shorter 蝦腸 (hā chéung)."
-        },
-        "images": [
-            {
-                "image": "shrimpricerollchangs",
-                "place": "Chang's Hong Kong Cuisine, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Rice rolls](http://en.wikipedia.org/wiki/Rice_noodle_roll) filled with shrimp, and steamed, then served with soy sauce.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "蒸",
-            "蝦",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Rice-roll-with-Shrimp"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/shrimp-rice-noodle-rolls-cheung-fun/"
-            }
-        ]
+    "images": [
+      {
+        "image": "cilantroscallionricerolldimsumlicious",
+        "place": "Dimsumlicious, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Plain rice rolls served with scallions.",
+    "tags": ["芫茜", "粵菜", "腸粉", "豉油", "蔥", "蒸", "粉", "素", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "shrimp rice roll",
+      "Cantonese": {
+        "text": "鮮蝦腸粉",
+        "wkty": ["鮮蝦", "鮮", "蝦", "腸粉", "腸", "粉"]
+      },
+      "Yale": "sīn hā chéung fán",
+      "Simplified": {
+        "text": "鲜虾肠粉",
+        "wkty": ["鲜虾", "鲜", "虾", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "xiān xiā cháng fěn",
+      "description": "{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*), {腸粉} is *rice roll*, so 鮮蝦腸粉 is *fresh shrimp rice roll*.\n\n鮮蝦 (sīn hā) is a commonly-used fancy name for shrimp, so sometimes you'll see just 蝦腸粉 (hā chéung fán), but when ordering, you usually say the even shorter 蝦腸 (hā chéung)."
     },
-    {
-        "word": {
-            "English": "dried shrimp rice roll",
-            "Cantonese": {
-                "text": "蝦米腸粉",
-                "wkty": [
-                    "蝦米",
-                    "蝦",
-                    "米",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "hā máih chéung fán",
-            "Simplified": {
-                "text": "虾米肠粉",
-                "wkty": [
-                    "虾米",
-                    "虾",
-                    "米",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "xiā mǐ cháng fěn",
-            "description": "{蝦} is shrimp and {米} normally refers to grains of rice, so {蝦米} is like grains of shrimp. And {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "driedshrimpricerollhorizontalluckyhouse",
-                "place": "Lucky House, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice noodle rolls with tiny dried shrimp.",
-        "tags": [
-            "粵菜",
-            "蝦米",
-            "腸粉",
-            "豉油",
-            "蒸",
-            "蝦",
-            "海鮮",
-            "點心"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "shrimpricerollchangs",
+        "place": "Chang's Hong Kong Cuisine, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Rice rolls](http://en.wikipedia.org/wiki/Rice_noodle_roll) filled with shrimp, and steamed, then served with soy sauce.",
+    "tags": ["粵菜", "腸粉", "豉油", "蒸", "蝦", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Rice-roll-with-Shrimp"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/shrimp-rice-noodle-rolls-cheung-fun/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "dried shrimp rice roll",
+      "Cantonese": {
+        "text": "蝦米腸粉",
+        "wkty": ["蝦米", "蝦", "米", "腸粉", "腸", "粉"]
+      },
+      "Yale": "hā máih chéung fán",
+      "Simplified": {
+        "text": "虾米肠粉",
+        "wkty": ["虾米", "虾", "米", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "xiā mǐ cháng fěn",
+      "description": "{蝦} is shrimp and {米} normally refers to grains of rice, so {蝦米} is like grains of shrimp. And {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "shrimp and chives rice roll",
-            "Cantonese": {
-                "text": "韮黃鮮蝦腸粉",
-                "wkty": [
-                    "韮",
-                    "黃",
-                    "鮮蝦",
-                    "鮮",
-                    "蝦",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "gáu wòhng sīn hā chéung fán",
-            "Simplified": {
-                "text": "韭黄鲜虾肠粉",
-                "wkty": [
-                    "韮",
-                    "黄",
-                    "鲜虾",
-                    "鲜",
-                    "虾",
-                    "腸粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "jiǔ huáng xiān xiā cháng fěn",
-            "description": "韮黃 is *Chinese chives* (also known as *garlic chives), specifically chive sprouts. {鮮} is *fresh*, {蝦} is *shrimp*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll). So the whole thing is *chives and fresh shrimp rice roll*.\n\nRice rolls with shrimp are standard dim sum, but I've only seen this variation with Chinese chives at Tim Ho Wan."
-        },
-        "images": [
-            {
-                "image": "shrimpandchivericerolltimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice roll with shrimp and Chinese chives.\n\nRice rolls with shrimp are standard dim sum, but I've only seen this variation with Chinese chives at Tim Ho Wan.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "蒸",
-            "韭菜",
-            "蝦",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Chives",
-                "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
-            }
-        ]
+    "images": [
+      {
+        "image": "driedshrimpricerollhorizontalluckyhouse",
+        "place": "Lucky House, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice noodle rolls with tiny dried shrimp.",
+    "tags": ["粵菜", "蝦米", "腸粉", "豉油", "蒸", "蝦", "海鮮", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "shrimp and chives rice roll",
+      "Cantonese": {
+        "text": "韮黃鮮蝦腸粉",
+        "wkty": ["韮", "黃", "鮮蝦", "鮮", "蝦", "腸粉", "腸", "粉"]
+      },
+      "Yale": "gáu wòhng sīn hā chéung fán",
+      "Simplified": {
+        "text": "韭黄鲜虾肠粉",
+        "wkty": ["韮", "黄", "鲜虾", "鲜", "虾", "腸粉", "肠", "粉"]
+      },
+      "Pinyin": "jiǔ huáng xiān xiā cháng fěn",
+      "description": "韮黃 is *Chinese chives* (also known as *garlic chives), specifically chive sprouts. {鮮} is *fresh*, {蝦} is *shrimp*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll). So the whole thing is *chives and fresh shrimp rice roll*.\n\nRice rolls with shrimp are standard dim sum, but I've only seen this variation with Chinese chives at Tim Ho Wan."
     },
-    {
-        "word": {
-            "English": "beef rice roll",
-            "Cantonese": {
-                "text": "牛肉腸粉",
-                "wkty": [
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "ngàuh yuhk chéung fán",
-            "Simplified": {
-                "text": "牛肉肠粉",
-                "wkty": [
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "niú ròu cháng fěn",
-            "description": "{牛肉} is *beef* ({牛} is *cow*. {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "beefricerollyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice roll will with beef inside.\n\n**Ordering**\n\nWhen ordering, you typically use the abbreviated 牛肉腸 (ngàuh yuhk chéung).",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "點心",
-            "蒸",
-            "牛肉"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Rice-roll-with-Beef"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/rolls/beef-che"
-            }
-        ]
+    "images": [
+      {
+        "image": "shrimpandchivericerolltimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice roll with shrimp and Chinese chives.\n\nRice rolls with shrimp are standard dim sum, but I've only seen this variation with Chinese chives at Tim Ho Wan.",
+    "tags": ["粵菜", "腸粉", "豉油", "蒸", "韭菜", "蝦", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "Chives",
+        "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "beef rice roll",
+      "Cantonese": {
+        "text": "牛肉腸粉",
+        "wkty": ["牛肉", "牛", "肉", "腸粉", "腸", "粉"]
+      },
+      "Yale": "ngàuh yuhk chéung fán",
+      "Simplified": {
+        "text": "牛肉肠粉",
+        "wkty": ["牛肉", "牛", "肉", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "niú ròu cháng fěn",
+      "description": "{牛肉} is *beef* ({牛} is *cow*. {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "BBQ pork rice roll",
-            "Cantonese": {
-                "text": "叉燒腸粉",
-                "wkty": [
-                    "叉燒",
-                    "叉",
-                    "燒",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "chā sīu chéung fán",
-            "Simplified": {
-                "text": "叉烧肠粉",
-                "wkty": [
-                    "叉燒",
-                    "叉",
-                    "燒",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "chā shāo cháng fěn",
-            "description": "The first two characters 叉燒 stand for [BBQ pork](https://en.wikipedia.org/wiki/Char_siu). {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "bbqporkriceroll",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice roll will with [BBQ pork](https://en.wikipedia.org/wiki/Char_siu) inside.\n\n**Ordering**\n\nWhen ordering, you typically use the abbreviated 叉燒腸 (chā sīu chéung).",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "叉燒",
-            "豬肉",
-            "蒸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Rice-roll-with-Barbecued-Pork"
-            }
-        ]
+    "images": [
+      {
+        "image": "beefricerollyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice roll will with beef inside.\n\n**Ordering**\n\nWhen ordering, you typically use the abbreviated 牛肉腸 (ngàuh yuhk chéung).",
+    "tags": ["粵菜", "腸粉", "豉油", "點心", "蒸", "牛肉"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Rice-roll-with-Beef"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/rolls/beef-che"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "BBQ pork rice roll",
+      "Cantonese": {
+        "text": "叉燒腸粉",
+        "wkty": ["叉燒", "叉", "燒", "腸粉", "腸", "粉"]
+      },
+      "Yale": "chā sīu chéung fán",
+      "Simplified": {
+        "text": "叉烧肠粉",
+        "wkty": ["叉燒", "叉", "燒", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "chā shāo cháng fěn",
+      "description": "The first two characters 叉燒 stand for [BBQ pork](https://en.wikipedia.org/wiki/Char_siu). {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "salmon rice roll",
-            "Cantonese": {
-                "text": "三文魚腸粉",
-                "wkty": [
-                    "三文魚",
-                    "三",
-                    "文",
-                    "魚",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "sāam màhn yùh chéung fán",
-            "Simplified": {
-                "text": "三文鱼肠粉",
-                "wkty": [
-                    "三文鱼",
-                    "三",
-                    "文",
-                    "鱼",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "sān wén yú cháng fěn",
-            "description": "{三文魚} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *salmon* (三文 sounds like *salmon*, and {魚} is *fish*), and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "salmonricerollmingtasty1",
-                "place": "Ming Tasty, Sunnyvale, California"
-            }
-        ],
-        "description": "Rice roll will with salmon inside. I've only seen this at Ming Tasty in Sunnyvale, California.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "點心",
-            "三文魚",
-            "蒸",
-            "海鮮"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "bbqporkriceroll",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice roll will with [BBQ pork](https://en.wikipedia.org/wiki/Char_siu) inside.\n\n**Ordering**\n\nWhen ordering, you typically use the abbreviated 叉燒腸 (chā sīu chéung).",
+    "tags": ["粵菜", "腸粉", "叉燒", "豬肉", "蒸", "點心"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Rice-roll-with-Barbecued-Pork"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salmon rice roll",
+      "Cantonese": {
+        "text": "三文魚腸粉",
+        "wkty": ["三文魚", "三", "文", "魚", "腸粉", "腸", "粉"]
+      },
+      "Yale": "sāam màhn yùh chéung fán",
+      "Simplified": {
+        "text": "三文鱼肠粉",
+        "wkty": ["三文鱼", "三", "文", "鱼", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "sān wén yú cháng fěn",
+      "description": "{三文魚} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *salmon* (三文 sounds like *salmon*, and {魚} is *fish*), and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "rice roll w/ lobster in black bean sauce",
-            "Cantonese": {
-                "text": "豉汁龍蝦腸粉",
-                "wkty": [
-                    "豉汁",
-                    "豉",
-                    "汁",
-                    "龍蝦",
-                    "龍",
-                    "蝦",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "sih jāp lùhng hā chéung fán",
-            "Simplified": {
-                "text": "豉汁龙虾肠粉",
-                "wkty": [
-                    "豉汁",
-                    "豉",
-                    "汁",
-                    "龙虾",
-                    "龙",
-                    "虾",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "chǐ zhī lóng xiā cháng fěn",
-            "description": "{豉汁} is *black bean sauce*, ({豉} is *salted fermented black bean* and {汁} is *sauce*), {龍蝦} is *lobster* ({龍} is *dragon* and {蝦} is *shrimp*, so lobster is *dragon shrimp*), and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "lobstercheungfuntimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice roll will with lobster and black bean sauce inside. This is a gourmet item I've only seen this at [Tim Ho Wan](http://www.timhowanusa.com/) in Las Vegas. A version with water chestnuts is available at Lung King Heen at the Four Seasons in Hong Kong.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "點心",
-            "豉汁",
-            "龍蝦",
-            "蒸",
-            "海鮮"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "salmonricerollmingtasty1",
+        "place": "Ming Tasty, Sunnyvale, California"
+      }
+    ],
+    "description": "Rice roll will with salmon inside. I've only seen this at Ming Tasty in Sunnyvale, California.",
+    "tags": ["粵菜", "腸粉", "豉油", "點心", "三文魚", "蒸", "海鮮"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "rice roll w/ lobster in black bean sauce",
+      "Cantonese": {
+        "text": "豉汁龍蝦腸粉",
+        "wkty": ["豉汁", "豉", "汁", "龍蝦", "龍", "蝦", "腸粉", "腸", "粉"]
+      },
+      "Yale": "sih jāp lùhng hā chéung fán",
+      "Simplified": {
+        "text": "豉汁龙虾肠粉",
+        "wkty": ["豉汁", "豉", "汁", "龙虾", "龙", "虾", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "chǐ zhī lóng xiā cháng fěn",
+      "description": "{豉汁} is *black bean sauce*, ({豉} is *salted fermented black bean* and {汁} is *sauce*), {龍蝦} is *lobster* ({龍} is *dragon* and {蝦} is *shrimp*, so lobster is *dragon shrimp*), and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "curry shrimp rice roll",
-            "Cantonese": {
-                "text": "咖喱蝦腸粉",
-                "wkty": [
-                    "咖喱",
-                    "咖",
-                    "喱",
-                    "蝦",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "ga lēi hā chéung fán",
-            "Simplified": {
-                "text": "咖喱虾肠粉",
-                "wkty": [
-                    "咖喱",
-                    "咖",
-                    "喱",
-                    "虾",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "gā lí xiā cháng fěn",
-            "description": "{咖喱} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [curry](https://en.wikipedia.org/wiki/Curry), 蝦 is *shrimp*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "curryshrimpricerollyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Shrimp rice rolls in a curry sauce.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "咖喱",
-            "蒸",
-            "蝦",
-            "粉",
-            "點心"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "lobstercheungfuntimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice roll will with lobster and black bean sauce inside. This is a gourmet item I've only seen this at [Tim Ho Wan](http://www.timhowanusa.com/) in Las Vegas. A version with water chestnuts is available at Lung King Heen at the Four Seasons in Hong Kong.",
+    "tags": ["粵菜", "腸粉", "豉油", "點心", "豉汁", "龍蝦", "蒸", "海鮮"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "curry shrimp rice roll",
+      "Cantonese": {
+        "text": "咖喱蝦腸粉",
+        "wkty": ["咖喱", "咖", "喱", "蝦", "腸粉", "腸", "粉"]
+      },
+      "Yale": "ga lēi hā chéung fán",
+      "Simplified": {
+        "text": "咖喱虾肠粉",
+        "wkty": ["咖喱", "咖", "喱", "虾", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "gā lí xiā cháng fěn",
+      "description": "{咖喱} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [curry](https://en.wikipedia.org/wiki/Curry), 蝦 is *shrimp*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "shredded chicken w/ bitter melon rice roll",
-            "Cantonese": {
-                "text": "涼瓜雞絲腸粉",
-                "wkty": [
-                    "涼瓜",
-                    "涼",
-                    "瓜",
-                    "雞",
-                    "絲",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "lèuhng gwā gāi sī chéung fán",
-            "Simplified": {
-                "text": "涼瓜鸡丝肠粉",
-                "wkty": [
-                    "涼瓜",
-                    "涼",
-                    "瓜",
-                    "鸡",
-                    "丝",
-                    "肠粉",
-                    "肠",
-                    "粉"
-                ]
-            },
-            "Pinyin": "liáng guā jī sī cháng fěn",
-            "description": "{涼瓜} is *bitter melon*, {雞} is *chicken, and {絲} is *threads*, so 雞絲 is *chicken threads*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "ricerollwithshreddedchickenandbittermeloncafesalina",
-                "place": "Ming Tasty, Sunnyvale, California"
-            }
-        ],
-        "description": "Rice roll will with shredded chicken and [bitter melon](https://en.wikipedia.org/wiki/Momordica_charantia) inside.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "涼瓜",
-            "雞絲",
-            "雞",
-            "粉",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Rice-Flour-Roll-with-Shredded-Chicken"
-            }
-        ]
+    "images": [
+      {
+        "image": "curryshrimpricerollyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Shrimp rice rolls in a curry sauce.",
+    "tags": ["粵菜", "腸粉", "咖喱", "蒸", "蝦", "粉", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "shredded chicken w/ bitter melon rice roll",
+      "Cantonese": {
+        "text": "涼瓜雞絲腸粉",
+        "wkty": ["涼瓜", "涼", "瓜", "雞", "絲", "腸粉", "腸", "粉"]
+      },
+      "Yale": "lèuhng gwā gāi sī chéung fán",
+      "Simplified": {
+        "text": "涼瓜鸡丝肠粉",
+        "wkty": ["涼瓜", "涼", "瓜", "鸡", "丝", "肠粉", "肠", "粉"]
+      },
+      "Pinyin": "liáng guā jī sī cháng fěn",
+      "description": "{涼瓜} is *bitter melon*, {雞} is *chicken, and {絲} is *threads*, so 雞絲 is *chicken threads*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "fish fillet rice roll",
-            "Cantonese": {
-                "text": "魚片腸粉",
-                "wkty": [
-                    "魚",
-                    "片",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "yú pín chéung fán",
-            "Simplified": {
-                "text": "鱼片肠粉",
-                "wkty": [
-                    "鱼",
-                    "片",
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Pinyin": "yú piàn cháng fěn",
-            "description": "{魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "fishfilletricerolldimsumlicious",
-                "place": "Dimsumlicious, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice roll containing slices of fish.",
-        "tags": [
-            "魚片",
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "粉",
-            "點心"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "ricerollwithshreddedchickenandbittermeloncafesalina",
+        "place": "Ming Tasty, Sunnyvale, California"
+      }
+    ],
+    "description": "Rice roll will with shredded chicken and [bitter melon](https://en.wikipedia.org/wiki/Momordica_charantia) inside.",
+    "tags": ["粵菜", "腸粉", "豉油", "涼瓜", "雞絲", "雞", "粉", "點心"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Rice-Flour-Roll-with-Shredded-Chicken"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fish fillet rice roll",
+      "Cantonese": {
+        "text": "魚片腸粉",
+        "wkty": ["魚", "片", "腸粉", "腸", "粉"]
+      },
+      "Yale": "yú pín chéung fán",
+      "Simplified": {
+        "text": "鱼片肠粉",
+        "wkty": ["鱼", "片", "腸粉", "腸", "粉"]
+      },
+      "Pinyin": "yú piàn cháng fěn",
+      "description": "{魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
     },
-    {
-        "word": {
-            "English": "soft shell crab rice roll",
-            "Cantonese": {
-                "text": "蟹腸粉",
-                "wkty": [
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Yale": "háaih chéung fán",
-            "Simplified": {
-                "text": "蟹肠粉",
-                "wkty": [
-                    "腸粉",
-                    "腸",
-                    "粉"
-                ]
-            },
-            "Pinyin": "xiè cháng fěn",
-            "description": ", and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
-        },
-        "images": [
-            {
-                "image": "softshellcrabricerollteapalette",
-                "place": "Tea Palette, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Rice roll containing soft shell crab.",
-        "tags": [
-            "粵菜",
-            "腸粉",
-            "豉油",
-            "粉",
-            "點心"
-        ],
-        "resources": []
-    }
+    "images": [
+      {
+        "image": "fishfilletricerolldimsumlicious",
+        "place": "Dimsumlicious, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice roll containing slices of fish.",
+    "tags": ["魚片", "粵菜", "腸粉", "豉油", "粉", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "soft shell crab rice roll",
+      "Cantonese": {
+        "text": "軟殼蟹腸粉",
+        "wkty": ["軟", "殼", "蟹", "腸粉", "腸", "粉"]
+      },
+      "Yale": "yúhn hok háaih chéung fán",
+      "Simplified": {
+        "text": "软壳蟹肠粉",
+        "wkty": ["软", "壳", "蟹", "腸粉", "腸", "粉"]
+      },
+      "Pinyin": "ruǎn qiào xiè cháng fěn",
+      "description": "{軟} is *soft*, {殼} is *shell*, and {殼} is *crab*, so 軟殼蟹 is *soft shell crab*, and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
+    },
+    "images": [
+      {
+        "image": "softshellcrabricerollteapalette",
+        "place": "Tea Palette, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Rice roll containing soft shell crab.",
+    "tags": ["粵菜", "腸粉", "豉油", "粉", "點心"],
+    "resources": []
+  }
 ]
