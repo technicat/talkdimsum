@@ -709,5 +709,44 @@
             "點心"
         ],
         "resources": []
+    },
+    {
+        "word": {
+            "English": "soft shell crab rice roll",
+            "Cantonese": {
+                "text": "蟹腸粉",
+                "wkty": [
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Yale": "háaih chéung fán",
+            "Simplified": {
+                "text": "蟹肠粉",
+                "wkty": [
+                    "腸粉",
+                    "腸",
+                    "粉"
+                ]
+            },
+            "Pinyin": "xiè cháng fěn",
+            "description": ", and {腸粉} is [rice roll](http://en.wikipedia.org/wiki/Rice_noodle_roll)."
+        },
+        "images": [
+            {
+                "image": "softshellcrabricerollteapalette",
+                "place": "Tea Palette, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Rice roll containing soft shell crab.",
+        "tags": [
+            "粵菜",
+            "腸粉",
+            "豉油",
+            "粉",
+            "點心"
+        ],
+        "resources": []
     }
 ]
