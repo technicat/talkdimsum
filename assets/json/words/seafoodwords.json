@@ -6,6 +6,20 @@
         "Pinyin": "xiè"
     },
     {
+        "English": "soft shell crab",
+        "Cantonese": {
+          "text": "軟殼蟹",
+          "wkty": ["軟", "殼", "蟹"]
+        },
+        "Yale": "yúhn hok háaih",
+        "Simplified": {
+          "text": "软壳蟹",
+          "wkty": ["软", "壳", "蟹"]
+        },
+        "Pinyin": "ruǎn qiào xiè",
+        "description": "{軟} is *soft*, {殼} is *shell*, and {殼} is *crab*, so 軟殼蟹 is *soft shell crab*."
+      },
+    {
         "English": "lobster",
         "Cantonese": {
             "text": "龍蝦",
