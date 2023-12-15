@@ -1,52 +1,44 @@
 [
-    {
-        "English": "crab",
-        "Cantonese": "蟹",
-        "Yale": "háaih",
-        "Pinyin": "xiè"
+  {
+    "English": "crab",
+    "Cantonese": "蟹",
+    "Yale": "háaih",
+    "Pinyin": "xiè"
+  },
+  {
+    "English": "soft shell crab",
+    "Cantonese": {
+      "text": "軟殼蟹",
+      "wkty": ["軟", "殼", "蟹"]
     },
-    {
-        "English": "soft shell crab",
-        "Cantonese": {
-          "text": "軟殼蟹",
-          "wkty": ["軟", "殼", "蟹"]
-        },
-        "Yale": "yúhn hok háaih",
-        "Simplified": {
-          "text": "软壳蟹",
-          "wkty": ["软", "壳", "蟹"]
-        },
-        "Pinyin": "ruǎn qiào xiè",
-        "description": "{軟} is *soft*, {殼} is *shell*, and {殼} is *crab*, so 軟殼蟹 is *soft shell crab*."
-      },
-    {
-        "English": "lobster",
-        "Cantonese": {
-            "text": "龍蝦",
-            "wkty": [
-                "龍蝦",
-                "龍",
-                "蝦"
-            ]
-        },
-        "Yale": "lùhng hā",
-        "Jyutping": "lung4 haa1",
-        "Simplified": {
-            "text": "龙虾",
-            "wkty": [
-                "龙虾",
-                "龙",
-                "虾"
-            ]
-        },
-        "Pinyin": "lóng xiā"
+    "Yale": "yúhn hok háaih",
+    "Simplified": {
+      "text": "软壳蟹",
+      "wkty": ["软", "壳", "蟹"]
     },
-    {
-        "English": "shrimp",
-        "Cantonese": "蝦",
-        "Yale": "hā",
-        "Jyutping": "haa1",
-        "Simplified": "虾",
-        "Pinyin": "xiā"
-    }
+    "Pinyin": "ruǎn qiào xiè",
+    "description": "{軟} is *soft*, {殼} is *shell*, and {殼} is *crab*, so 軟殼蟹 is *soft shell crab*."
+  },
+  {
+    "English": "lobster",
+    "Cantonese": {
+      "text": "龍蝦",
+      "wkty": ["龍蝦", "龍", "蝦"]
+    },
+    "Yale": "lùhng hā",
+    "Jyutping": "lung4 haa1",
+    "Simplified": {
+      "text": "龙虾",
+      "wkty": ["龙虾", "龙", "虾"]
+    },
+    "Pinyin": "lóng xiā"
+  },
+  {
+    "English": "shrimp",
+    "Cantonese": "蝦",
+    "Yale": "hā",
+    "Jyutping": "haa1",
+    "Simplified": "虾",
+    "Pinyin": "xiā"
+  }
 ]
