@@ -281,5 +281,44 @@
                 "URL": "https://en.wikipedia.org/wiki/Da_Hong_Pao"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "four seasons oolong",
+            "Cantonese": {
+                "text": "四季春",
+                "wkty": [
+                    "四季",
+                    "四",
+                    "季",
+                    "春"
+                ]
+            },
+            "Yale": "",
+            "Pinyin": "",
+            "description": "."
+        },
+        "images": [
+            {
+                "image": "fourseasonsoolongbrewtea",
+                "place": "Brew Tea, Las Vegas, Nevada"
+            }
+        ],
+        "description": "[Oolong](https://en.wikipedia.org/wiki/Oolong).",
+        "tags": [
+            "熱飲",
+            "烏龍茶",
+            "中國茶",
+            "飲品",
+            "熱飲",
+            "熱茶",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Curious Tea",
+                "URL": "https://www.curioustea.com/tea/oolong-tea/four-seasons-oolong/"
+            }
+        ]
     }
 ]
