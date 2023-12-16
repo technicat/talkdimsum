@@ -46,10 +46,6 @@
                 {
                     "name": "site",
                     "URL": "http://www.bostongreattastebakery.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/great-taste-bakery-and-restaurant-boston"
                 }
             ],
             "lat": 42.351150,
@@ -74,8 +70,8 @@
             "name": "Winsor Dim Sum Café",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/winsor-dim-sum-caf%C3%A9-boston-2"
+                    "name": "site",
+                    "URL": "https://www.winsordimsum.com/"
                 }
             ],
             "lat": 42.350980,
