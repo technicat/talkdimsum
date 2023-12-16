@@ -294,9 +294,9 @@
                     "春"
                 ]
             },
-            "Yale": "",
-            "Pinyin": "",
-            "description": "{四季} is *four seasons* ({四} is *four* and {季} is *season*). {春} is *spring* (the season), so {四季春} is *four seasons spring*."
+            "Yale": "sei gwai chēun",
+            "Pinyin": "sì jì chūn",
+            "description": "{四季} is *four seasons* ({四} is *four* and {季} is *season*). {春} is *spring* (the season), so {四季春} is *four seasons spring*, alluding to its year-round harvest quality."
         },
         "images": [
             {
@@ -304,7 +304,7 @@
                 "place": "Brew Tea, Las Vegas, Nevada"
             }
         ],
-        "description": "[Oolong](https://en.wikipedia.org/wiki/Oolong).",
+        "description": "Four seasons oolong, also known by its Mandarin pronunciation Si Ji Chun, is an [oolong](https://en.wikipedia.org/wiki/Oolong) tea developed in Taiwan and now also grown in Thailand and Vietnam.",
         "tags": [
             "熱飲",
             "烏龍茶",
@@ -318,6 +318,10 @@
             {
                 "name": "Curious Tea",
                 "URL": "https://www.curioustea.com/tea/oolong-tea/four-seasons-oolong/"
+            },
+            {
+                "name": "Tea Epicure",
+                "URL": "https://teaepicure.com/oolong-tea-guide/"
             }
         ]
     }
