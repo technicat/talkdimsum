@@ -7,10 +7,6 @@
                 {
                     "name": "site",
                     "URL": "http://www.dimsumsarasota.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-king-bradenton"
                 }
             ],
             "lat": 27.389794957428585,
@@ -337,12 +333,8 @@
             "name": "818 Best Dim Sum",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.818bestdimsum.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/818-best-dim-sum-orlando"
+                    "name": "Scott Joseph's Orlando Restaurant Guide",
+                    "URL": "https://scottjosephorlando.com/818-best-dim-sum/"
                 }
             ],
             "lat": 28.488786704602468,
@@ -397,8 +389,8 @@
             "name": "Ginger Dim Sum",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/ginger-dim-sum-port-charlotte"
+                    "name": "site",
+                    "URL": "https://www.gingerdimsum.com/"
                 }
             ],
             "lat": 27.00561997597728,
