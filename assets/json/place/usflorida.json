@@ -70,8 +70,8 @@
             "name": "Hong Kong Bistro",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/hong-kong-bistro-jacksonville-7"
+                    "name": "site",
+                    "URL": "https://www.hongkongbistrojax.com/"
                 }
             ],
             "lat": 30.285379061954785,
@@ -252,8 +252,12 @@
             "name": "Sang's Chinese Food",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/sangs-chinese-food-north-miami-beach"
+                    "name": "site",
+                    "URL": "https://www.sangschinesefoodanddimsum.getsauce.com/"
+                },
+                {
+                    "name": "The Infatuation",
+                    "URL": "https://www.theinfatuation.com/miami/reviews/sangs-chinese-food"
                 }
             ],
             "lat": 25.926370,
