@@ -1664,6 +1664,19 @@
             "address": "601 Grant Ave San Francisco, CA 94108"
         },
         {
+            "name": "Dim Sum King",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-king-san-francisco"
+                }
+            ],
+            "lat": 37.723610482476474,
+            "lon": -122.43544444568748,
+            "city": "San Francisco",
+            "address": "4675 Mission St San Francisco, CA 94112"
+        },
+        {
             "name": "Dim Sum Kitchen",
             "links": [
                 {
