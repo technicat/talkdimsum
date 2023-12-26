@@ -572,5 +572,60 @@
                 "URL": "https://rasamalaysia.com/hunan-chicken-recipe/"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "bang bang chicken",
+            "Cantonese": {
+                "text": "棒棒雞",
+                "wkty": [
+                    "棒",
+                    "雞"
+                ]
+            },
+            "Yale": "páahng páahng gāi",
+            "Simplified": {
+                "text": "棒棒鸡",
+                "wkty": [
+                    "棒",
+                    "鸡"
+                ]
+            },
+            "Pinyin": "bàng bàng jī",
+            "description": ", and {雞} is *chicken*."
+        },
+        "images": [
+            {
+                "image": "ponponchickenhunanexpress",
+                "place": "Hunan Express, Taylorsville, Utah"
+            }
+        ],
+        "description": "The Chinese-American version of this dish more resembles other deep-fried Chinese-American concoctions like orange chicken or sesame chicken, rather than the original Sichuan street food consisting of shredded chicken served in a spicy sauce with cucumbers. ",
+        "tags": [
+            "新菜",
+            "雞"
+        ],
+        "resources": [
+            {
+                "name": "Insanely Good",
+                "URL": "https://insanelygoodrecipes.com/bang-bang-chicken/"
+            },
+            {
+                "name": "Jo Jo Cooks",
+                "URL": "https://www.jocooks.com/recipes/bang-bang-chicken/"
+            },
+            {
+                "name": "Omnivore's Cookbook",
+                "URL": "https://omnivorescookbook.com/recipes/bang-bang-chicken"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Bang_bang_chicken"
+            },
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/bang-bang-chicken-sichuan/"
+            }
+        ]
     }
 ]
