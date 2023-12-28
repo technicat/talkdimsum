@@ -227,6 +227,19 @@
             "address": "1100 Washington Ave Philadelphia, PA 19147"
         },
         {
+            "name": "Dim Sum Court",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.dimsumcourt.com/"
+                }
+            ],
+            "lat": 40.133863240209536,
+            "lon":  -75.5175712744111,
+            "city": "Phoenixville",
+            "address": "236 Bridge St, Phoenixville, PA 19460-3495"
+        },
+        {
             "name": "Parlor Dim Sum",
             "links": [
                 {
