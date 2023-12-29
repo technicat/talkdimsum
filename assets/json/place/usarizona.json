@@ -5,8 +5,8 @@
             "name": "Dim Sum Cafe",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-cafe-mesa-5"
+                    "name": "site",
+                    "URL": "https://www.dimsumcafemesa.com/"
                 }
             ],
             "lat": 33.365240,
@@ -20,10 +20,6 @@
                 {
                     "name": "site",
                     "URL": "https://www.mekongpalace.com/"
-                },
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/mekong-palace-mesa"
                 }
             ],
             "lat": 33.413520,
@@ -35,8 +31,8 @@
             "name": "Phoenix Palace",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/phoenix-palace-chandler-2"
+                    "name": "site",
+                    "URL": "https://www.phoenixpalacechandleraz.com/"
                 }
             ],
             "lat": 33.345940,
@@ -48,8 +44,8 @@
             "name": "Great Wall Cuisine",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/great-wall-cuisine-phoenix"
+                    "name": "site",
+                    "URL": "https://greatwallcuisineaz.com/"
                 }
             ],
             "lat": 33.510450,
