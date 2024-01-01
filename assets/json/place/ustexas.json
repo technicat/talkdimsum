@@ -205,6 +205,19 @@
             "address": "2625 W Pioneer Pkwy, Grand Prairie, TX 75051"
         },
         {
+            "name": "Chef Kenny's Asian Vegan",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.chefkennyshouston.com/"
+                }
+            ],
+            "lat": 29.714851199713447,
+            "lon": -95.57204853067311,
+            "city": "Houston",
+            "address": "6128 Wilcrest Dr, Houston, TX 77072"
+        },
+        {
             "name": "Crown Seafood Restaurant",
             "links": [
                 {
@@ -221,8 +234,8 @@
             "name": "Dim Sum King",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/dim-sum-king-houston"
+                    "name": "site",
+                    "URL": "https://www.dimsumkingtx.com/"
                 }
             ],
             "lat": 29.705040,
@@ -268,6 +281,19 @@
             "lon": -95.566910,
             "city": "Houston",
             "address": "10600 Bellaire Blvd, Ste 105, Houston, TX 77072"
+        },
+        {
+            "name": "Golden Dim Sum 2",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/golden-dim-sum-houston-3"
+                }
+            ],
+            "lat": 29.706366095063007,
+            "lon": -95.554890032526,
+            "city": "Houston",
+            "address": "9968 Bellaire Blvd Ste 160 Houston, TX 77036"
         },
         {
             "name": "HK Dim Sum",
@@ -415,6 +441,19 @@
             "lon": -96.734490,
             "city": "Richardson",
             "address": "221 W Polk St, Ste 210, Richardson, TX 75081"
+        },
+        {
+            "name": "Dim Sum Oriental Cuisine",
+            "links": [
+                {
+                    "name": "My San Antonio",
+                    "URL": "https://www.mysanantonio.com/food/restaurants/article/Review-Dim-Sum-Oriental-Cuisine-a-Chinese-dim-14359057.php"
+                }
+            ],
+            "lat": 29.542046462234815,
+            "lon": -98.52702545951557,
+            "city": "San Antonio",
+            "address": "2313 NW Military Highway, Suite 125 San Antonio, TX 78231"
         },
         {
             "name": "Golden Wok",
