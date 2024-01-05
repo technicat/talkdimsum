@@ -119,6 +119,19 @@
             "address": "366 River Street, Hackensack, New Jersey 07601"
         },
         {
+            "name": "Crown Palace",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.crownpalacerestaurant.com/"
+                }
+            ],
+            "lat": 40.31510712812549,
+            "lon": -74.24796037440235,
+            "city": "Marlboro",
+            "address": "8 North Main Street, Marlboro, NJ 07746"
+        },
+        {
             "name": "Papa Noodles",
             "links": [
                 {
