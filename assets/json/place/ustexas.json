@@ -153,6 +153,19 @@
             "address": "3401 Esperanza Crossing Ste 106 Austin, TX 78758"
         },
         {
+            "name": "Duck 'n Bao",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://ducknbao.com/"
+                }
+            ],
+            "lat": 29.972257544067123,
+            "lon": -95.68920420368008,
+            "city": "Cypress",
+            "address": "17333 Spring Cypress Rd Suite H, Cypress, TX 77429"
+        },
+        {
             "name": "Bushi Bushi",
             "links": [
                 {
@@ -242,6 +255,19 @@
             "lon": -95.524900,
             "city": "Houston",
             "address": "9160 Bellaire Blvd, Ste B, Houston, TX 77036"
+        },
+        {
+            "name": "Duck 'n Bao",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://ducknbao.com/"
+                }
+            ],
+            "lat": 29.761026249997872,
+            "lon":  -95.41720903067149,
+            "city": "Houston",
+            "address": "5535 Memorial Dr Suite O, Houston TX 77007"
         },
         {
             "name": "Fung's Kitchen",
