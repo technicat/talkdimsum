@@ -2,6 +2,23 @@
     "name": "Colorado",
     "places": [
         {
+            "name": "Nana's Dim Sum and Dumplings",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://nanasdumplingsboulder.com/"
+                },
+                {
+                    "name": "Westword",
+                    "URL": "https://www.westword.com/guide/denver-restaurants/nanas-dim-sum-and-dumplings-18750236"
+                }
+            ],
+            "lat": 40.007969463474566,
+            "lon": -105.27647531684426,
+            "city": "Boulder",
+            "address": "1125 13th Street, Boulder, CO 80302"
+        },
+        {
             "name": "Emperor Palace",
             "links": [
                 {
