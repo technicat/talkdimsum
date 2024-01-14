@@ -224,7 +224,7 @@
     },
     {
         "word": {
-            "English": "teabag",
+            "English": "tea bag",
             "Cantonese": {
                 "text": "茶包",
                 "wkty": [
@@ -235,7 +235,8 @@
             },
             "Yale": "chàh bāau",
             "Jyutping": "caa4 bau1",
-            "Pinyin": "há bāo"
+            "Pinyin": "chá bāo",
+            "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea), and {包} is *bag*, (the same [bao](https://en.wikipedia.org/wiki/Baozi) as in dim sum buns)."
         },
         "images": [
             {
@@ -243,7 +244,7 @@
                 "place": "88 Noodle Papa, Las Vegas, Nevada"
             }
         ],
-        "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea), and {包} is *bag*, (the same [bao](https://en.wikipedia.org/wiki/Baozi) as in dim sum buns).",
+        "description": "**Origin Story**\n\nThe first commercial tea bags (although not the first patented tea bags) were developed over a hundred years ago by Thomas Sullivan, a New York coffee and tea importer. Legend has it that his silk tea bags were only meant for packaging but customers just brewed the whole thing, and eureka, a product was born!",
         "tags": [
             "飲品",
             "熱飲",
