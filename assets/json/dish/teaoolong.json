@@ -1,328 +1,255 @@
 [
-    {
-        "word": {
-            "English": "oolong tea",
-            "Cantonese": {
-                "text": "烏龍茶",
-                "wkty": [
-                    "烏龍茶",
-                    "烏龍",
-                    "烏",
-                    "龍",
-                    "茶"
-                ]
-            },
-            "Yale": "wu lùhng chàh",
-            "Simplified": {
-                "text": "乌龙茶",
-                "wkty": [
-                    "乌龙茶",
-                    "乌龙",
-                    "乌",
-                    "龙",
-                    "茶"
-                ]
-            },
-            "Pinyin": "wū lóng chá",
-            "description": "{烏龍} is *black dragon*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {烏龍茶} is *black dragon tea*.\n\n**Pronunciation*\n\n[Oolong](https://en.wikipedia.org/wiki/Oolong) ({烏龍} wu lùhng) rhymes with the name of the peninsula area of Hong Kong, [Kowloon](https://en.wikipedia.org/wiki/Kowloon) ({九龍} gáu lùhng). That second character {龍} is also the first character for lobster ({龍蝦} lùhng hā), *dragon shrimp*.\n\n**Origin Stories**\n\nThere are a few origin stories for the name (literally *black dragon*). One is that oolong tea evolved from a Dragon-Phoenix tribute tea and later renamed Black Dragon. Another theory for the name is that oolong tea first existed in the Wuyi Mountains region. Another story is that the tea was discovered by a man named Wu Liang, who accidentally let the tea leaves ferment (after getting distracted by a deer)."
-        },
-        "images": [
-            {
-                "image": "oolongteanewasianbbq",
-                "place": "New Asian BBQ, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Oolong](https://en.wikipedia.org/wiki/Oolong), the Mandarin pronunciation (also similar to the Cantonese pronunciation), is a brown tea with slightly fermented leaves and moderate caffeine content (less than that of black tea but more than green tea).",
-        "tags": [
-            "熱飲",
-            "烏龍茶",
-            "中國茶",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Art of Tea",
-                "URL": "https://www.artoftea.com/history-of-oolong-tea"
-            },
-            {
-                "name": "The Chinese Tea Shop",
-                "URL": "http://www.thechineseteashop.com/oolongtea.html"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Oolong-Tea"
-            },
-            {
-                "name": "Fergus Murray",
-                "URL": "https://oolong.co.uk/tea/"
-            },
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/"
-            },
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/oolong-tea/"
-            },
-            {
-                "name": "Teatulia",
-                "URL": "https://www.teatulia.com/tea-varieties/what-is-oolong-tea.htm"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Oolong"
-            }
-        ]
+  {
+    "word": {
+      "English": "oolong tea",
+      "Cantonese": {
+        "text": "烏龍茶",
+        "wkty": ["烏龍茶", "烏龍", "烏", "龍", "茶"]
+      },
+      "Yale": "wu lùhng chàh",
+      "Simplified": {
+        "text": "乌龙茶",
+        "wkty": ["乌龙茶", "乌龙", "乌", "龙", "茶"]
+      },
+      "Pinyin": "wū lóng chá",
+      "description": "{烏龍} is *black dragon*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {烏龍茶} is *black dragon tea*.\n\n**Pronunciation*\n\n[Oolong](https://en.wikipedia.org/wiki/Oolong) ({烏龍} wu lùhng) rhymes with the name of the peninsula area of Hong Kong, [Kowloon](https://en.wikipedia.org/wiki/Kowloon) ({九龍} gáu lùhng). That second character {龍} is also the first character for lobster ({龍蝦} lùhng hā), *dragon shrimp*.\n\n**Origin Stories**\n\nThere are a few origin stories for the name (literally *black dragon*). One is that oolong tea evolved from a Dragon-Phoenix tribute tea and later renamed Black Dragon. Another theory for the name is that oolong tea first existed in the Wuyi Mountains region. Another story is that the tea was discovered by a man named Wu Liang, who accidentally let the tea leaves ferment (after getting distracted by a deer)."
     },
-    {
-        "word": {
-            "English": "jade oolong",
-            "Cantonese": {
-                "text": "翠玉烏龍",
-                "wkty": [
-                    "烏龍",
-                    "烏",
-                    "龍",
-                    "茶"
-                ]
-            },
-            "Yale": "cheui yuhk wu lùhng",
-            "Simplified": {
-                "text": "翠玉乌龙",
-                "wkty": [
-                    "乌龙",
-                    "乌",
-                    "龙"
-                ]
-            },
-            "Pinyin": "cuì yù wū lóng",
-            "description": "{翠} is *blue-green* and {玉} is *jade*, {烏龍} is *oolong* or literally *black dragon*. So 翠玉烏龍 is *blue-green jade black dragon*."
-        },
-        "images": [
-            {
-                "image": "jadeoolong",
-                "place": "Tea Zaanti, Salt Lake City, Utah"
-            }
-        ],
-        "description": "This is a light oolong tea from Taiwan.",
-        "tags": [
-            "台菜",
-            "臺灣",
-            "熱飲",
-            "烏龍茶",
-            "中國茶",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Curious Tea",
-                "URL": "https://www.curioustea.com/tea/oolong-tea/jade-oolong/"
-            },
-            {
-                "name": "Echo Cha",
-                "URL": "https://learn.eco-cha.com/article/172-what-is-jade-oolong"
-            }
-        ]
+    "images": [
+      {
+        "image": "oolongteanewasianbbq",
+        "place": "New Asian BBQ, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Oolong](https://en.wikipedia.org/wiki/Oolong), the Mandarin pronunciation (also similar to the Cantonese pronunciation), is a brown tea with slightly fermented leaves and moderate caffeine content (less than that of black tea but more than green tea).",
+    "tags": ["熱飲", "烏龍茶", "中國茶", "飲品", "熱飲", "熱茶", "茶", "點心"],
+    "resources": [
+      {
+        "name": "Art of Tea",
+        "URL": "https://www.artoftea.com/history-of-oolong-tea"
+      },
+      {
+        "name": "The Chinese Tea Shop",
+        "URL": "http://www.thechineseteashop.com/oolongtea.html"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Oolong-Tea"
+      },
+      {
+        "name": "Fergus Murray",
+        "URL": "https://oolong.co.uk/tea/"
+      },
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/"
+      },
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/oolong-tea/"
+      },
+      {
+        "name": "Teatulia",
+        "URL": "https://www.teatulia.com/tea-varieties/what-is-oolong-tea.htm"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Oolong"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "jade oolong",
+      "Cantonese": {
+        "text": "翠玉烏龍",
+        "wkty": ["烏龍", "烏", "龍", "茶"]
+      },
+      "Yale": "cheui yuhk wu lùhng",
+      "Simplified": {
+        "text": "翠玉乌龙",
+        "wkty": ["乌龙", "乌", "龙"]
+      },
+      "Pinyin": "cuì yù wū lóng",
+      "description": "{翠} is *blue-green* and {玉} is *jade*, {烏龍} is *oolong* or literally *black dragon*. So 翠玉烏龍 is *blue-green jade black dragon*."
     },
-    {
-        "word": {
-            "English": "milk oolong tea",
-            "Cantonese": {
-                "text": "奶香",
-                "wkty": [
-                    "奶香",
-                    "奶",
-                    "香"
-                ]
-            },
-            "Yale": "náaih hēung",
-            "Pinyin": "nǎi xiāng",
-            "description": "{奶} is *milk*, and {香} is *fragrant*, so {奶香} is *milk fragrant*."
-        },
-        "images": [
-            {
-                "image": "milkyoolongeverygrain",
-                "place": "Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Not to be confused with [milk tea](https://en.wikipedia.org/wiki/Milk_tea), which is tea with milk added, milk oolong tea is an [oolong](https://en.wikipedia.org/wiki/Oolong) tea that has a naturally milky taste.\n\n**Origin**\n\nThis specific variety of oolong originated in Taiwan and is named 金萱 ([Jin Xuan](https://en.wikipedia.org/wiki/Jin_Xuan_tea) in Mandarin, literally Golden Daylily), but sometimes the term *milk oolong* is more broadly applied to other varieties of oolong or even those with milk-flavored additives.",
-        "tags": [
-            "台菜",
-            "臺灣",
-            "熱飲",
-            "烏龍茶",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Red Blossom Tea Company",
-                "URL": "https://redblossomtea.com/blogs/red-blossom-blog/what-is-milk-oolong-tea"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Jin_Xuan_tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "jadeoolong",
+        "place": "Tea Zaanti, Salt Lake City, Utah"
+      }
+    ],
+    "description": "This is a light oolong tea from Taiwan.",
+    "tags": [
+      "台菜",
+      "臺灣",
+      "熱飲",
+      "烏龍茶",
+      "中國茶",
+      "飲品",
+      "熱飲",
+      "熱茶",
+      "茶",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "Curious Tea",
+        "URL": "https://www.curioustea.com/tea/oolong-tea/jade-oolong/"
+      },
+      {
+        "name": "Echo Cha",
+        "URL": "https://learn.eco-cha.com/article/172-what-is-jade-oolong"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "milk oolong tea",
+      "Cantonese": {
+        "text": "奶香",
+        "wkty": ["奶香", "奶", "香"]
+      },
+      "Yale": "náaih hēung",
+      "Pinyin": "nǎi xiāng",
+      "description": "{奶} is *milk*, and {香} is *fragrant*, so {奶香} is *milk fragrant*."
     },
-    {
-        "word": {
-            "English": "baozhong tea",
-            "Cantonese": {
-                "text": "包種茶",
-                "wkty": [
-                    "包種茶",
-                    "包",
-                    "種",
-                    "茶"
-                ]
-            },
-            "Yale": "bāau júng chàh",
-            "Simplified": {
-                "text": "包种茶",
-                "wkty": [
-                    "包种茶",
-                    "包",
-                    "种",
-                    "茶"
-                ]
-            },
-            "Pinyin": "bāo zhǒng chá",
-            "description": "包種 is *wrapped kind*, referring to the traditional method of wrapping the leaves in paper during the drying process."
-        },
-        "images": [
-            {
-                "image": "pouchongteateastation",
-                "place": "Tea Station, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Baozhong tea](https://en.wikipedia.org/wiki/Baozhong_tea) is a lightly oxidized tea, between green and [oolong](https://en.wikipedia.org/wiki/Oolong) teas (usually classified as oolong), often listed as *pouchong tea*.",
-        "tags": [
-            "熱飲",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "烏龍茶",
-            "中國茶",
-            "茶",
-            "荔枝"
-        ],
-        "resources": [
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/pouchong-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Baozhong_tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "milkyoolongeverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Not to be confused with [milk tea](https://en.wikipedia.org/wiki/Milk_tea), which is tea with milk added, milk oolong tea is an [oolong](https://en.wikipedia.org/wiki/Oolong) tea that has a naturally milky taste.\n\n**Origin**\n\nThis specific variety of oolong originated in Taiwan and is named 金萱 ([Jin Xuan](https://en.wikipedia.org/wiki/Jin_Xuan_tea) in Mandarin, literally Golden Daylily), but sometimes the term *milk oolong* is more broadly applied to other varieties of oolong or even those with milk-flavored additives.",
+    "tags": [
+      "台菜",
+      "臺灣",
+      "熱飲",
+      "烏龍茶",
+      "飲品",
+      "熱飲",
+      "熱茶",
+      "茶",
+      "中國茶"
+    ],
+    "resources": [
+      {
+        "name": "Red Blossom Tea Company",
+        "URL": "https://redblossomtea.com/blogs/red-blossom-blog/what-is-milk-oolong-tea"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Jin_Xuan_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "baozhong tea",
+      "Cantonese": {
+        "text": "包種茶",
+        "wkty": ["包種茶", "包", "種", "茶"]
+      },
+      "Yale": "bāau júng chàh",
+      "Simplified": {
+        "text": "包种茶",
+        "wkty": ["包种茶", "包", "种", "茶"]
+      },
+      "Pinyin": "bāo zhǒng chá",
+      "description": "包種 is *wrapped kind*, referring to the traditional method of wrapping the leaves in paper during the drying process."
     },
-    {
-        "word": {
-            "English": "dahongpao",
-            "Cantonese": {
-                "text": "大紅袍",
-                "wkty": [
-                    "大紅袍",
-                    "大",
-                    "紅",
-                    "袍"
-                ]
-            },
-            "Yale": "daaih hùhng pòuh",
-            "Simplified": {
-                "text": "大红袍",
-                "wkty": [
-                    "大红袍",
-                    "大",
-                    "红",
-                    "袍"
-                ]
-            },
-            "Pinyin": "dà hóng páo",
-            "description": "大 is *big*, 紅 is *red*, and 袍 is *gown*, so {大紅袍} is *big red gown*. Legend has it that this tea was administered by a monk to an ailing scholar who similarly revived the emporer with the tea and was rewarded with a big red gown (monk got nothing)."
-        },
-        "images": [
-            {
-                "image": "dahongpaorandfmarket",
-                "place": "R and F Market, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[da hong pao](https://en.wikipedia.org/wiki/Da_Hong_Pao), the Mandarin pronunciation of this tea, is a traditionally expensive [Wuyi](https://en.wikipedia.org/wiki/Wuyi_tea) oolong tea (but affordable if you buy the ones that aren't from the original da hong pao trees).",
-        "tags": [
-            "熱飲",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "烏龍茶",
-            "中國茶",
-            "茶",
-            "荔枝"
-        ],
-        "resources": [
-            {
-                "name": "One Sip of Tea",
-                "URL": "https://onesipoftea.com/da-hong-pao-tea-guide/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Da_Hong_Pao"
-            }
-        ]
+    "images": [
+      {
+        "image": "pouchongteateastation",
+        "place": "Tea Station, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Baozhong tea](https://en.wikipedia.org/wiki/Baozhong_tea) is a lightly oxidized tea, between green and [oolong](https://en.wikipedia.org/wiki/Oolong) teas (usually classified as oolong), often listed as *pouchong tea*.",
+    "tags": ["熱飲", "飲品", "熱飲", "熱茶", "烏龍茶", "中國茶", "茶", "荔枝"],
+    "resources": [
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/pouchong-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Baozhong_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "dahongpao",
+      "Cantonese": {
+        "text": "大紅袍",
+        "wkty": ["大紅袍", "大", "紅", "袍"]
+      },
+      "Yale": "daaih hùhng pòuh",
+      "Simplified": {
+        "text": "大红袍",
+        "wkty": ["大红袍", "大", "红", "袍"]
+      },
+      "Pinyin": "dà hóng páo",
+      "description": "{大} is *big*, {紅} is *red*, and {袍} is *gown*, so {大紅袍} is *big red gown*. Legend has it that this tea was administered by a monk to an ailing scholar who similarly revived the emporer with the tea and was rewarded with a big red gown (monk got nothing)."
     },
-    {
-        "word": {
-            "English": "four seasons oolong",
-            "Cantonese": {
-                "text": "四季春",
-                "wkty": [
-                    "四季",
-                    "四",
-                    "季",
-                    "春"
-                ]
-            },
-            "Yale": "sei gwai chēun",
-            "Pinyin": "sì jì chūn",
-            "description": "{四季} is *four seasons* ({四} is *four* and {季} is *season*). {春} is *spring* (the season), so {四季春} is *four seasons spring*, alluding to its year-round harvest quality."
-        },
-        "images": [
-            {
-                "image": "fourseasonsoolongbrewtea",
-                "place": "Brew Tea, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Four seasons oolong, also known by its Mandarin pronunciation Si Ji Chun, is an [oolong](https://en.wikipedia.org/wiki/Oolong) tea developed in Taiwan and now also grown in Thailand and Vietnam.",
-        "tags": [
-            "熱飲",
-            "烏龍茶",
-            "中國茶",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "Curious Tea",
-                "URL": "https://www.curioustea.com/tea/oolong-tea/four-seasons-oolong/"
-            },
-            {
-                "name": "Tea Epicure",
-                "URL": "https://teaepicure.com/oolong-tea-guide/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "dahongpaorandfmarket",
+        "place": "R and F Market, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[da hong pao](https://en.wikipedia.org/wiki/Da_Hong_Pao), the Mandarin pronunciation of this tea, is a traditionally expensive [Wuyi](https://en.wikipedia.org/wiki/Wuyi_tea) oolong tea (but affordable if you buy the ones that aren't from the original da hong pao trees).\n\n**Trivia**\n\nWhen Nixon made his famous visit to China, Mao gifted him with a rare and expensive batch of da hong pao. Nixon was insulted by the gift of a a clump of leaves until an official set him straight.",
+    "tags": ["熱飲", "飲品", "熱飲", "熱茶", "烏龍茶", "中國茶", "茶", "荔枝"],
+    "resources": [
+      {
+        "name": "BBC",
+        "URL": "https://www.bbc.com/travel/article/20160425-the-pot-of-tea-that-costs-10000"
+      },
+      {
+        "name": "Coffee Tea Kingdom",
+        "URL": "https://coffeeteakingdom.com/da-hong-pao-tea/"
+      },
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://letsdrinktea.com/types-of-tea/oolong-tea/big-red-robe-tea/"
+      },
+      {
+        "name": "One Sip of Tea",
+        "URL": "https://onesipoftea.com/da-hong-pao-tea-guide/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Da_Hong_Pao"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "four seasons oolong",
+      "Cantonese": {
+        "text": "四季春",
+        "wkty": ["四季", "四", "季", "春"]
+      },
+      "Yale": "sei gwai chēun",
+      "Pinyin": "sì jì chūn",
+      "description": "{四季} is *four seasons* ({四} is *four* and {季} is *season*). {春} is *spring* (the season), so {四季春} is *four seasons spring*, alluding to its year-round harvest quality."
+    },
+    "images": [
+      {
+        "image": "fourseasonsoolongbrewtea",
+        "place": "Brew Tea, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Four seasons oolong, also known by its Mandarin pronunciation Si Ji Chun, is an [oolong](https://en.wikipedia.org/wiki/Oolong) tea developed in Taiwan and now also grown in Thailand and Vietnam.",
+    "tags": ["熱飲", "烏龍茶", "中國茶", "飲品", "熱飲", "熱茶", "茶"],
+    "resources": [
+      {
+        "name": "Curious Tea",
+        "URL": "https://www.curioustea.com/tea/oolong-tea/four-seasons-oolong/"
+      },
+      {
+        "name": "Tea Epicure",
+        "URL": "https://teaepicure.com/oolong-tea-guide/"
+      }
+    ]
+  }
 ]
