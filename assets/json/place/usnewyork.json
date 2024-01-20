@@ -873,11 +873,28 @@
             "address": "610 9th Ave., New York, NY 10036"
         },
         {
+            "name": "Uncle Lou",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.unclelounyc.com/"
+                },
+                {
+                    "name": "Timeout",
+                    "URL": "https://www.timeout.com/newyork/restaurants/uncle-lou"
+                }
+            ],
+            "lat": 40.7163509862022,
+            "lon": -73.99930694564583,
+            "city": "New York",
+            "address": "73 Mulberry St 10013"
+        },
+        {
             "name": "Vegetarian Dim Sum House",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/vegetarian-dim-sum-house-new-york"
+                    "name": "site",
+                    "URL": "https://www.vegetariandimsumhouse.com/"
                 }
             ],
             "lat": 40.71530678037894,
@@ -915,8 +932,8 @@
             "name": "Crown One",
             "links": [
                 {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/crown-one-queens-2"
+                    "name": "site",
+                    "URL": "https://crownoneny.com/"
                 }
             ],
             "lat": 40.765858,
