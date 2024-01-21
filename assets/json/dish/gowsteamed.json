@@ -1,464 +1,389 @@
 [
-    {
-        "word": {
-            "Cantonese": "餃",
-            "Simplified": "饺",
-            "English": "dumpling",
-            "Yale": "gáau",
-            "Pinyin": "jiǎo",
-            "description": "{餃} is descended from {角}, which is *corner* or *horn*, which is also used to name some dumplings (although more often baked or deep-fried instead of steamed or boiled)."
-        },
-        "images": [
-            {
-                "image": "chickengingerdumplings8east",
-                "place": "8 East, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Chinese dumplings, typically steamed, boiled, or pan-fried.",
-        "tags": [
-            "餃",
-            "點心"
-        ],
-        "resources": []
+  {
+    "word": {
+      "Cantonese": "餃",
+      "Mandarin": {
+        "text": "餃子",
+        "wkty": ["餃子", "餃", "子"]
+      },
+      "Simplified": {
+        "text": "饺子",
+        "wkty": ["饺子", "饺", "子"]
+      },
+      "English": "dumpling",
+      "Yale": "gáau",
+      "Pinyin": "jiǎo",
+      "description": "{餃} is descended from {角}, which is *corner* or *horn*, which is also used to name some dumplings (although more often baked or deep-fried instead of steamed or boiled).\n\nIn Mandarin, {餃} is suffixed with {子}, which generally denotes small things or offspring (the character resembles a baby with its arms spread)."
     },
-    {
-        "word": {
-            "English": "shrimp dumpling",
-            "Cantonese": {
-                "text": "蝦餃",
-                "wkty": [
-                    "蝦餃",
-                    "蝦",
-                    "餃"
-                ]
-            },
-            "Yale": "hā gáau",
-            "Simplified": {
-                "text": "虾饺",
-                "wkty": [
-                    "虾饺",
-                    "虾",
-                    "饺"
-                ]
-            },
-            "Pinyin": "xiā jiǎo",
-            "description": "{蝦} is *shrimp*, and {餃} is *dumpling*, so {蝦餃} is [shrimp dumpling](http://en.wikipedia.org/wiki/Har_gow)."
-        },
-        "images": [
-            {
-                "image": "hagowhkgarden",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Steamed bonnet-shaped [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called *crystal shrimp dumplings*). This dish, along with siu mai, is a hallmark of Cantonese dim sum (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“)\n\n**Pronunciation**\n\nThe name of this dish is typically written in English as *har gow*, but like many English spellings of Chinese pronunciation (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“",
-        "tags": [
-            "粵菜",
-            "蒸",
-            "蝦",
-            "餃",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/124238.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/har-gow-dim-sum-dumplings/"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Shrimp-Dumpling"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/23"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/har-gow-crystal-prawn-dumplings/"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-3-ha-gao-dumplings/"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/ha-gow-shrimp-dumpling.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Har_gow"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/10/har-gow/"
-            },
-            {
-                "name": "Yan Can Cook",
-                "URL": "https://yancancook.com/home/recipe/har-gau-prawn-dumplings/"
-            },
-            {
-                "name": "Yum Cha Guide",
-                "URL": "http://www.yumchaguide.com/portfolio/steamed-prawn-dumplings/"
-            }
-        ]
+    "images": [
+      {
+        "image": "chickengingerdumplings8east",
+        "place": "8 East, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chinese dumplings, typically steamed, boiled, or pan-fried.",
+    "tags": ["餃", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://redhousespice.com/dumpling-guide/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Jiaozi"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "shrimp dumpling",
+      "Cantonese": {
+        "text": "蝦餃",
+        "wkty": ["蝦餃", "蝦", "餃"]
+      },
+      "Yale": "hā gáau",
+      "Simplified": {
+        "text": "虾饺",
+        "wkty": ["虾饺", "虾", "饺"]
+      },
+      "Pinyin": "xiā jiǎo",
+      "description": "{蝦} is *shrimp*, and {餃} is *dumpling*, so {蝦餃} is [shrimp dumpling](http://en.wikipedia.org/wiki/Har_gow)."
     },
-    {
-        "word": {
-            "English": "lobster shrimp dumpling",
-            "Cantonese": {
-                "text": "龍皇蝦餃",
-                "wkty": [
-                    "蝦餃",
-                    "蝦",
-                    "餃"
-                ]
-            },
-            "Yale": "lùhng wòhng hā gáau",
-            "Simplified": {
-                "text": "龍皇虾饺",
-                "wkty": [
-                    "虾饺",
-                    "虾",
-                    "饺"
-                ]
-            },
-            "Pinyin": "lóng huáng xiā jiǎo",
-            "description": "{龍} is *dragon* (short for *lobster*, which is {龍蝦}, *dragon shrimp*, {皇} is *king*, {蝦} is *shrimp*, and {餃} is *dumpling*, so 龍皇蝦餃 is *dragon king shrimp dumpling*."
-        },
-        "images": [
-            {
-                "image": "lobsterhagowteapalette",
-                "place": "Tea Palette Lounge, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A deluxe version of [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow) with lobster.",
-        "tags": [
-            "新菜",
-            "龍蝦",
-            "粵菜",
-            "蒸",
-            "蝦",
-            "餃",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-        ]
+    "images": [
+      {
+        "image": "hagowhkgarden",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Steamed bonnet-shaped [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), encased in a thin, pleated (typically twelve pleats), translucent skin (these are often called *crystal shrimp dumplings*). This dish, along with siu mai, is a hallmark of Cantonese dim sum (and so are the servers in dim sum restaurants pushing the carts and announcing “hā gáau, sīu maaih“)\n\n**Pronunciation**\n\nThe name of this dish is typically written in English as *har gow*, but like many English spellings of Chinese pronunciation (in this case, Cantonese), it's a bit off. There's no “r“ sound, so it's more like laughing “haw haw“ instead of “har har.“",
+    "tags": ["粵菜", "蒸", "蝦", "餃", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/124238.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/har-gow-dim-sum-dumplings/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Shrimp-Dumpling"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/23"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/har-gow-crystal-prawn-dumplings/"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-3-ha-gao-dumplings/"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/ha-gow-shrimp-dumpling.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Har_gow"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/10/har-gow/"
+      },
+      {
+        "name": "Yan Can Cook",
+        "URL": "https://yancancook.com/home/recipe/har-gau-prawn-dumplings/"
+      },
+      {
+        "name": "Yum Cha Guide",
+        "URL": "http://www.yumchaguide.com/portfolio/steamed-prawn-dumplings/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "egg dumpling",
+      "Cantonese": {
+        "text": "蛋餃",
+        "wkty": ["蛋餃", "蛋", "餃"]
+      },
+      "Yale": "daahn gáau",
+      "Simplified": {
+        "text": "蛋饺",
+        "wkty": ["蛋饺", "蛋", "饺"]
+      },
+      "Pinyin": "dán jiǎo",
+      "description": "{蛋} is *egg*, and {餃} is *dumpling*, so {蛋餃} is [egg dumpling](https://thewoksoflife.com/egg-dumplings/)."
     },
-    {
-        "word": {
-            "English": "shrimp and chive dumpling",
-            "Cantonese": {
-                "text": "韭菜餃",
-                "wkty": [
-                    "韭菜",
-                    "韭",
-                    "菜",
-                    "餃"
-                ]
-            },
-            "Yale": "gáu choi gáau",
-            "Simplified": {
-                "text": "韭菜饺",
-                "wkty": [
-                    "韭菜",
-                    "韭",
-                    "菜",
-                    "饺"
-                ]
-            },
-            "Pinyin": "jiǔ cài jiǎo",
-            "description": "{韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so 韭菜餃 is *Chinese chives dumpling*."
-        },
-        "images": [
-            {
-                "image": "chiveandshrimpdumplingtimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Steamed dumplings filled with shrimp and Chinese chives.",
-        "tags": [
-            "蒸",
-            "韭菜",
-            "蝦",
-            "餃",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Chives",
-                "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Shrimp-and-Chive-Dumplings"
-            }
-        ]
+    "images": [
+      {
+        "image": "eggdumplingrandf",
+        "place": "R and F Market, Salt Lake City, Utah"
+      }
+    ],
+    "description": "A Chinese New Year tradition, these dumplings use scrambled egg to wrap minced meat (typically pork), so basically omelets.",
+    "tags": ["蒸", "餃"],
+    "resources": [
+        {
+            "name": "Huang Kitchen",
+            "URL": "https://www.huangkitchen.com/homestyle-chinese-egg-dumplings/"
+          },
+      {
+        "name": "Myriad Recipes",
+        "URL": "https://myriadrecipes.com/chinese-egg-dumplings-dan-jiao/"
+      },
+      {
+        "name": "Use Real Butter",
+        "URL": "https://userealbutter.com/2012/01/22/chinese-egg-dumplings-dan-jiao-recipe/"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/chinese-egg-dumplings.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Har_gow"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/egg-dumplings/"
+      },
+      {
+        "name": "Yan Can Cook",
+        "URL": "https://yancancook.com/home/recipe/har-gau-prawn-dumplings/"
+      },
+      {
+        "name": "Yum Cha Guide",
+        "URL": "http://www.yumchaguide.com/portfolio/steamed-prawn-dumplings/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lobster shrimp dumpling",
+      "Cantonese": {
+        "text": "龍皇蝦餃",
+        "wkty": ["蝦餃", "蝦", "餃"]
+      },
+      "Yale": "lùhng wòhng hā gáau",
+      "Simplified": {
+        "text": "龍皇虾饺",
+        "wkty": ["虾饺", "虾", "饺"]
+      },
+      "Pinyin": "lóng huáng xiā jiǎo",
+      "description": "{龍} is *dragon* (short for *lobster*, which is {龍蝦}, *dragon shrimp*, {皇} is *king*, {蝦} is *shrimp*, and {餃} is *dumpling*, so 龍皇蝦餃 is *dragon king shrimp dumpling*."
     },
-    {
-        "word": {
-            "English": "spinach and shrimp dumpling",
-            "Cantonese": {
-                "text": "菠菜餃",
-                "wkty": [
-                    "菠菜",
-                    "菠",
-                    "菜",
-                    "餃"
-                ]
-            },
-            "Yale": "bō choi gáau",
-            "Simplified": {
-                "text": "菠菜饺",
-                "wkty": [
-                    "菠菜",
-                    "菠",
-                    "菜",
-                    "饺"
-                ]
-            },
-            "Pinyin": "bō cài jiǎo",
-            "description": "{菠菜} is *spinach*, and {餃} is *dumpling*"
-        },
-        "images": [
-            {
-                "image": "steamedspinachdumplingdimsumcafe2",
-                "place": "Dim Sum Cafe"
-            }
-        ],
-        "description": "A sticky, translucent wrapper filled with spinach and shrimp.",
-        "tags": [
-            "蒸",
-            "菠菜",
-            "餃",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Javaholic",
-                "URL": "http://rumahmakanmurni.blogspot.com/2010/05/spinach-and-shrimp-dumplings.html"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2018/03/steamed-crystal-dumplings/"
-            }
-        ]
+    "images": [
+      {
+        "image": "lobsterhagowteapalette",
+        "place": "Tea Palette Lounge, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A deluxe version of [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow) with lobster.",
+    "tags": ["新菜", "龍蝦", "粵菜", "蒸", "蝦", "餃", "海鮮", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "shrimp and chive dumpling",
+      "Cantonese": {
+        "text": "韭菜餃",
+        "wkty": ["韭菜", "韭", "菜", "餃"]
+      },
+      "Yale": "gáu choi gáau",
+      "Simplified": {
+        "text": "韭菜饺",
+        "wkty": ["韭菜", "韭", "菜", "饺"]
+      },
+      "Pinyin": "jiǔ cài jiǎo",
+      "description": "{韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餃} is *dumpling*, so 韭菜餃 is *Chinese chives dumpling*."
     },
-    {
-        "word": {
-            "English": "scallop dumpling",
-            "Cantonese": {
-                "text": "帶子餃",
-                "wkty": [
-                    "帶子",
-                    "帶",
-                    "子",
-                    "餃"
-                ]
-            },
-            "Yale": "dáai jí gáau",
-            "Simplified": {
-                "text": "带子饺",
-                "wkty": [
-                    "带子",
-                    "带",
-                    "子",
-                    "饺"
-                ]
-            },
-            "Pinyin": "dài zi jiǎo",
-            "description": "{帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *scallop dumpling*."
-        },
-        "images": [
-            {
-                "image": "scallopdumplingdimsumlicious",
-                "place": "Dimsumlicious, Las Vegas"
-            }
-        ],
-        "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with scallops.",
-        "tags": [
-            "餃",
-            "帶子",
-            "蒸",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Auntie Emily's Kitchen",
-                "URL": "https://auntieemily.com/crystal-scallop-dumplings-%E6%B0%B4%E6%99%B6%E5%B8%B6%E5%AD%90%E9%A4%83/"
-            }
-        ]
+    "images": [
+      {
+        "image": "chiveandshrimpdumplingtimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Steamed dumplings filled with shrimp and Chinese chives.",
+    "tags": ["蒸", "韭菜", "蝦", "餃", "點心"],
+    "resources": [
+      {
+        "name": "Chives",
+        "URL": "https://en.wikipedia.org/wiki/Allium_tuberosum#China"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Shrimp-and-Chive-Dumplings"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "spinach and shrimp dumpling",
+      "Cantonese": {
+        "text": "菠菜餃",
+        "wkty": ["菠菜", "菠", "菜", "餃"]
+      },
+      "Yale": "bō choi gáau",
+      "Simplified": {
+        "text": "菠菜饺",
+        "wkty": ["菠菜", "菠", "菜", "饺"]
+      },
+      "Pinyin": "bō cài jiǎo",
+      "description": "{菠菜} is *spinach*, and {餃} is *dumpling*"
     },
-    {
-        "word": {
-            "English": "scallop and shrimp dumpling",
-            "Cantonese": {
-                "text": "蝦帶子餃",
-                "wkty": [
-                    "蝦",
-                    "帶子",
-                    "帶",
-                    "子",
-                    "餃"
-                ]
-            },
-            "Yale": "hā dáai jí gáau",
-            "Simplified": {
-                "text": "虾带子饺",
-                "wkty": [
-                    "虾",
-                    "带子",
-                    "带",
-                    "子",
-                    "饺s"
-                ]
-            },
-            "Pinyin": "xiā dài zi jiǎo",
-            "description": "{蝦} is *shrimp*, {帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *shrimp scallop dumpling*."
-        },
-        "images": [
-            {
-                "image": "scallopandshrimpdumplingchinarepublic",
-                "place": "China Republic, Rancho Cucamonga, California"
-            }
-        ],
-        "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with both scallops and shrimp.",
-        "tags": [
-            "蒸",
-            "帶子",
-            "餃",
-            "蝦",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Auntie Emily's Kitchen",
-                "URL": "https://auntieemily.com/crystal-scallop-dumplings-%E6%B0%B4%E6%99%B6%E5%B8%B6%E5%AD%90%E9%A4%83/"
-            }
-        ]
+    "images": [
+      {
+        "image": "steamedspinachdumplingdimsumcafe2",
+        "place": "Dim Sum Cafe"
+      }
+    ],
+    "description": "A sticky, translucent wrapper filled with spinach and shrimp.",
+    "tags": ["蒸", "菠菜", "餃", "點心"],
+    "resources": [
+      {
+        "name": "Javaholic",
+        "URL": "http://rumahmakanmurni.blogspot.com/2010/05/spinach-and-shrimp-dumplings.html"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2018/03/steamed-crystal-dumplings/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "scallop dumpling",
+      "Cantonese": {
+        "text": "帶子餃",
+        "wkty": ["帶子", "帶", "子", "餃"]
+      },
+      "Yale": "dáai jí gáau",
+      "Simplified": {
+        "text": "带子饺",
+        "wkty": ["带子", "带", "子", "饺"]
+      },
+      "Pinyin": "dài zi jiǎo",
+      "description": "{帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *scallop dumpling*."
     },
-    {
-        "word": {
-            "English": "pea shoot dumpling",
-            "Cantonese": {
-                "text": "豆苗餃",
-                "wkty": [
-                    "豆苗",
-                    "豆",
-                    "苗",
-                    "餃"
-                ]
-            },
-            "Yale": "dauh mìuh gáau",
-            "Simplified": {
-                "text": "豆苗饺",
-                "wkty": [
-                    "豆苗",
-                    "豆",
-                    "苗",
-                    "饺"
-                ]
-            },
-            "Pinyin": "dòu miáo jiǎo",
-            "description": "{豆苗} is *pea sprout* ({豆} is *bean*, and {苗} is *shoot* or *sprout*), and {餃} is *dumpling*.\n\nBy the way, {疫苗} (yihk mìuh in Cantonese, yì miáo in Mandarin), literally *plague sprou*, is the word for *vaccine*."
-        },
-        "images": [
-            {
-                "image": "shrimpandpeashootdumplinghongkongteahouse",
-                "place": "Hong Kong Tea House, Salt Lake City, Utah"
-            }
-        ],
-        "description": "A sticky, translucent wrapper filled with pea shoots and shrimp.",
-        "tags": [
-            "點心",
-            "餃",
-            "豆苗",
-            "蒸"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "scallopdumplingdimsumlicious",
+        "place": "Dimsumlicious, Las Vegas"
+      }
+    ],
+    "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with scallops.",
+    "tags": ["餃", "帶子", "蒸", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "Auntie Emily's Kitchen",
+        "URL": "https://auntieemily.com/crystal-scallop-dumplings-%E6%B0%B4%E6%99%B6%E5%B8%B6%E5%AD%90%E9%A4%83/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "scallop and shrimp dumpling",
+      "Cantonese": {
+        "text": "蝦帶子餃",
+        "wkty": ["蝦", "帶子", "帶", "子", "餃"]
+      },
+      "Yale": "hā dáai jí gáau",
+      "Simplified": {
+        "text": "虾带子饺",
+        "wkty": ["虾", "带子", "带", "子", "饺s"]
+      },
+      "Pinyin": "xiā dài zi jiǎo",
+      "description": "{蝦} is *shrimp*, {帶子} is *scallop*, and {餃} is *dumpling*, so 蝦帶子餃 is *shrimp scallop dumpling*."
     },
-    {
-        "word": {
-            "English": "mushroom dumpling",
-            "Cantonese": {
-                "text": "雜菇餃",
-                "wkty": [
-                    "雜",
-                    "菇",
-                    "餃"
-                ]
-            },
-            "Yale": "jaahp gū gáau",
-            "Pinyin": "zá gū jiǎo",
-            "description": "{雜} is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 雜菇餃 is *mixed mushroom dumpling*."
-        },
-        "images": [
-            {
-                "image": "mushroomdumplingsdimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A sticky, translucent wrapper filled with mushroom.",
-        "tags": [
-            "餃",
-            "菇",
-            "素",
-            "蒸",
-            "點心"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "scallopandshrimpdumplingchinarepublic",
+        "place": "China Republic, Rancho Cucamonga, California"
+      }
+    ],
+    "description": "Like [shrimp dumplings](http://en.wikipedia.org/wiki/Har_gow), but filled with both scallops and shrimp.",
+    "tags": ["蒸", "帶子", "餃", "蝦", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "Auntie Emily's Kitchen",
+        "URL": "https://auntieemily.com/crystal-scallop-dumplings-%E6%B0%B4%E6%99%B6%E5%B8%B6%E5%AD%90%E9%A4%83/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "pea shoot dumpling",
+      "Cantonese": {
+        "text": "豆苗餃",
+        "wkty": ["豆苗", "豆", "苗", "餃"]
+      },
+      "Yale": "dauh mìuh gáau",
+      "Simplified": {
+        "text": "豆苗饺",
+        "wkty": ["豆苗", "豆", "苗", "饺"]
+      },
+      "Pinyin": "dòu miáo jiǎo",
+      "description": "{豆苗} is *pea sprout* ({豆} is *bean*, and {苗} is *shoot* or *sprout*), and {餃} is *dumpling*.\n\nBy the way, {疫苗} (yihk mìuh in Cantonese, yì miáo in Mandarin), literally *plague sprou*, is the word for *vaccine*."
     },
-    {
-        "word": {
-            "English": "spinach and mushroom dumpling",
-            "Cantonese": {
-                "text": "菠菜雜菇餃",
-                "wkty": [
-                    "菠菜",
-                    "菠",
-                    "菜",
-                    "雜",
-                    "菇",
-                    "餃"
-                ]
-            },
-            "Yale": "bō choi jaahp gū gáau",
-            "Simplified": {
-                "text": "菠菜雜菇饺",
-                "wkty": [
-                    "菠菜",
-                    "菠",
-                    "菜",
-                    "雜",
-                    "菇",
-                    "饺"
-                ]
-            },
-            "Pinyin": "bō cài zá gū jiǎo",
-            "description": "{菠菜} is *spinach*, 雜 is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 菠菜雜菇餃 is *spinach mixed mushroom dumpling*."
-        },
-        "images": [
-            {
-                "image": "steamedspinachandmushroomdumplingdimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Same as the steamed spinach dumplings, but also with mushrooms.",
-        "tags": [
-            "蒸菠菜餃",
-            "蒸",
-            "菠菜",
-            "餃",
-            "素",
-            "菇",
-            "點心"
-        ],
-        "resources": []
-    }
+    "images": [
+      {
+        "image": "shrimpandpeashootdumplinghongkongteahouse",
+        "place": "Hong Kong Tea House, Salt Lake City, Utah"
+      }
+    ],
+    "description": "A sticky, translucent wrapper filled with pea shoots and shrimp.",
+    "tags": ["點心", "餃", "豆苗", "蒸"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "mushroom dumpling",
+      "Cantonese": {
+        "text": "雜菇餃",
+        "wkty": ["雜", "菇", "餃"]
+      },
+      "Yale": "jaahp gū gáau",
+      "Pinyin": "zá gū jiǎo",
+      "description": "{雜} is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 雜菇餃 is *mixed mushroom dumpling*."
+    },
+    "images": [
+      {
+        "image": "mushroomdumplingsdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A sticky, translucent wrapper filled with mushroom.",
+    "tags": ["餃", "菇", "素", "蒸", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "spinach and mushroom dumpling",
+      "Cantonese": {
+        "text": "菠菜雜菇餃",
+        "wkty": ["菠菜", "菠", "菜", "雜", "菇", "餃"]
+      },
+      "Yale": "bō choi jaahp gū gáau",
+      "Simplified": {
+        "text": "菠菜雜菇饺",
+        "wkty": ["菠菜", "菠", "菜", "雜", "菇", "饺"]
+      },
+      "Pinyin": "bō cài zá gū jiǎo",
+      "description": "{菠菜} is *spinach*, 雜 is *mix*, {菇} is *mushroom*, and {餃} is *dumpling*, so 菠菜雜菇餃 is *spinach mixed mushroom dumpling*."
+    },
+    "images": [
+      {
+        "image": "steamedspinachandmushroomdumplingdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Same as the steamed spinach dumplings, but also with mushrooms.",
+    "tags": ["蒸菠菜餃", "蒸", "菠菜", "餃", "素", "菇", "點心"],
+    "resources": []
+  }
 ]
