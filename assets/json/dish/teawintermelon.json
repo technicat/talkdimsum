@@ -43,6 +43,14 @@
                 "URL": "https://www.chinayummyfood.com/winter-melon-tea/"
             },
             {
+                "name": "Daily Cooking Quest",
+                "URL": "https://dailycookingquest.com/winter-melon-tea.html"
+            },
+            {
+                "name": "Kitchen Misadventures",
+                "URL": "https://kitchenmisadventures.com/winter-melon-tea"
+            },
+            {
                 "name": "Miss Chinese Food",
                 "URL": "https://misschinesefood.com/winter-melon-tea-2/"
             }
@@ -74,7 +82,7 @@
                 "place": "No. 1 Boba Tea, Las Vegas, Nevada"
             }
         ],
-        "description": "",
+        "description": "Winter melon tea brewed with chamomile.",
         "tags": [
             "冷飲",
             "台菜",
@@ -85,18 +93,6 @@
             "茶"
         ],
         "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/winter-melon-tea/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/winter-melon-tea/"
-            },
-            {
-                "name": "Miss Chinese Food",
-                "URL": "https://misschinesefood.com/winter-melon-tea-2/"
-            }
         ]
     },
     {
