@@ -50,6 +50,57 @@
     },
     {
         "word": {
+            "English": "winter melon chamomile",
+            "Cantonese": {
+                "text": "冬瓜洋甘菊",
+                "wkty": [
+                    "冬瓜茶",
+                    "冬瓜",
+                    "冬",
+                    "瓜",
+                    "洋",
+                    "甘菊",
+                    "甘",
+                    "菊"
+                ]
+            },
+            "Yale": "dūng gwā yèuhng gām gūk",
+            "Pinyin": "shuǐ guǒ yáng gān jú",
+            "description": "{冬} is *winter* and {瓜} is *melon*, so {冬瓜} is *winter melon*. {洋} is *ocean* or *vast*, and {甘菊} is [chamomile](https://en.wikipedia.org/wiki/Chamomile)."
+        },
+        "images": [
+            {
+                "image": "wintermelonchamomileno1boba",
+                "place": "No. 1 Boba Tea, Las Vegas, Nevada"
+            }
+        ],
+        "description": "",
+        "tags": [
+            "冷飲",
+            "台菜",
+            "冬瓜茶",
+            "飲品",
+            "冬瓜",
+            "水果",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "China Sichuan Food",
+                "URL": "https://www.chinasichuanfood.com/winter-melon-tea/"
+            },
+            {
+                "name": "China Yummy Food",
+                "URL": "https://www.chinayummyfood.com/winter-melon-tea/"
+            },
+            {
+                "name": "Miss Chinese Food",
+                "URL": "https://misschinesefood.com/winter-melon-tea-2/"
+            }
+        ]
+    },
+    {
+        "word": {
             "English": "grass jelly winter melon tea",
             "Cantonese": {
                 "text": "冬瓜仙草茶",
