@@ -363,5 +363,61 @@
                 "URL": "https://en.wikipedia.org/wiki/Oolong"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "osmanthus green tea",
+            "Cantonese": {
+                "text": "桂花綠茶",
+                "wkty": [
+                    "桂花",
+                    "桂",
+                    "花",
+                    "綠茶",
+                    "綠",
+                    "茶"  
+                ]
+            },
+            "Yale": "gwai fā luhk chàh",
+            "Pinyin": "guì huā lǜ chá",
+            "Simplified": {
+                "text": "桂花绿茶",
+                "wkty": [
+                    "桂花",
+                    "桂",
+                    "花",
+                    "绿茶",
+                    "绿",
+                    "茶"  
+                ]
+            },
+            "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {綠茶} is *green tea* ({綠} is *green* and {茶} is *tea*)."
+        },
+        "images": [
+            {
+                "image": "osmanthusgreentea",
+                "place": ""
+            }
+        ],
+        "description": "Green tea brewed with [osmanthus]((https://en.wikipedia.org/wiki/Osmanthus)) flowers.",
+        "tags": [
+            "綠茶",
+            "花茶",
+            "桂花",
+            "花",
+            "茶",
+            "飲品",
+            "熱飲"
+        ],
+        "resources": [
+            {
+                "name": "Runming Tea",
+                "URL": "https://www.runmingtea.com/bloglist.html?blog_id=289"
+            },
+            {
+                "name": "Tea Senz",
+                "URL": "https://www.teasenz.com/chinese-tea/osmanthus-green-tea-recipe.html"
+            }
+        ]
     }
 ]
