@@ -2252,6 +2252,19 @@
             "address": "1339 N 1st St, San Jose, CA 95112"
         },
         {
+            "name": "Mr. Siu Mai",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/mr-siumai-san-jose"
+                }
+            ],
+            "lat": 37.40701465211176,
+            "lon":  -121.8865328458734,
+            "city": "San Jose",
+            "address": "2070 North Capitol Ave San Jose, CA 95132"
+        },
+        {
             "name": "Ocean Delight Seafood Restaurant",
             "links": [
                 {
