@@ -4,11 +4,7 @@
       "English": "white tea",
       "Cantonese": {
         "text": "白茶",
-        "wkty": [
-          "白茶",
-          "白",
-          "茶"
-        ]
+        "wkty": ["白茶", "白", "茶"]
       },
       "Yale": "baahk chàh",
       "Jyutping": "baak6 caa4",
@@ -50,24 +46,64 @@
   },
   {
     "word": {
+      "English": "organic white tea",
+      "Cantonese": {
+        "text": "有機白茶",
+        "wkty": ["有機", "有", "機", "白茶", "白", "茶"]
+      },
+      "Simplified": {
+        "text": "有机白茶",
+        "wkty": ["有机", "有", "机", "白茶", "白", "茶"]
+      },
+      "Yale": "yáuh gēi baahk chàh",
+      "Pinyin": "yǒu jī bái chá",
+      "description": "{有機} is *organic*, {白} is *white*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {白茶} is [white tea](https://en.wikipedia.org/wiki/White_tea)."
+    },
+    "images": [
+      {
+        "image": "organicwhiteteachungchou",
+        "name": "Chung Chou City, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A light, minimally processed, tea made from leaves harvested traditionally in Fujian, dating back at least as long ago as the Song Dynasty. White tea is harvested in the spring, when the the buds are still unopened and covered with white hairs, hence the name. The main varieties of white tea are [white peony](https://en.wikipedia.org/wiki/Bai_Mudan), [silver needle](https://en.wikipedia.org/wiki/Baihao_Yinzhen), [sau mei](https://en.wikipedia.org/wiki/Shoumei_tea) (otherwise known as *longevity eyebrows*), and [gong-mei](https://teapedia.org/en/Gong_Mei) (otherwise known as *tribute eyebrows*).\n\n**Preparation**\n\nAs white tea leaves are more delicate and less oxidized, they can be steeped in lower temperature water than the darker teas, 185-210 degrees Fahrenheit according to Simon Beckwith in [A Little Tea Book](https://inpursuitoftea.com/products/little-tea-book).",
+    "tags": [
+      "閩菜",
+      "白茶",
+      "白色",
+      "中國茶",
+      "飲品",
+      "熱飲",
+      "熱茶",
+      "茶",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "Art of Tea",
+        "URL": "https://www.artoftea.com/what-is-tea/what-is-white-tea"
+      },
+      {
+        "name": "Teatulia",
+        "URL": "https://www.teatulia.com/tea-varieties/what-is-white-tea.htm"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/White_tea"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "sau-mei tea",
       "Cantonese": {
         "text": "壽眉",
-        "wkty": [
-          "壽眉",
-          "壽",
-          "眉"
-        ]
+        "wkty": ["壽眉", "壽", "眉"]
       },
       "Yale": "sauh mèih",
       "Jyutping": "saau6 mei4",
       "Simplified": {
         "text": "寿眉",
-        "wkty": [
-          "寿眉",
-          "寿",
-          "眉"
-        ]
+        "wkty": ["寿眉", "寿", "眉"]
       },
       "Pinyin": "shòu méi",
       "description": "{壽} is *long life*, and {眉} is *eyebrow*, so besides the Cantonese and Mandarin pronunciations, sometimes this tea is referred to in English with the literal translations *long life eyebrow tea* or *longevity eyebrow tea*."
@@ -79,15 +115,7 @@
       }
     ],
     "description": "Also known by its Mandarin pronunciation *shao-mei*, this is a [white tea](https://en.wikipedia.org/wiki/White_tea) produced mostly in the Fujian and Gaunxi regions. If your dim sum place serves a white tea, this is probably it. The name of this tea stems from the leaves' resemblance to the eyebrows of the Taoist deity of longevity.",
-    "tags": [
-      "閩菜",
-      "飲品",
-      "熱飲",
-      "熱茶",
-      "茶",
-      "白茶",
-      "中國茶"
-    ],
+    "tags": ["閩菜", "飲品", "熱飲", "熱茶", "茶", "白茶", "中國茶"],
     "resources": [
       {
         "name": "Dim Sum Guide",
@@ -119,15 +147,7 @@
       }
     ],
     "description": "This [white tea](https://en.wikipedia.org/wiki/White_tea) is similar in name and appearance (eyebrows) to sau-mei tea, but rarer, harvested later and thus a higher grade.",
-    "tags": [
-      "閩菜",
-      "飲品",
-      "熱飲",
-      "熱茶",
-      "茶",
-      "白茶",
-      "中國茶"
-    ],
+    "tags": ["閩菜", "飲品", "熱飲", "熱茶", "茶", "白茶", "中國茶"],
     "resources": [
       {
         "name": "Bana Tea Company",
@@ -144,25 +164,13 @@
       "English": "silver needle tea",
       "Cantonese": {
         "text": "白毫銀針",
-        "wkty": [
-          "白毫",
-          "白",
-          "毫",
-          "銀",
-          "針"
-        ]
+        "wkty": ["白毫", "白", "毫", "銀", "針"]
       },
       "Yale": "baahk hòuh ngàhn jām",
       "Jyutping": "baak6 ho4 ngaan4 zam1",
       "Simplified": {
         "text": "白毫银针",
-        "wkty": [
-          "白毫",
-          "白",
-          "毫",
-          "银",
-          "针"
-        ]
+        "wkty": ["白毫", "白", "毫", "银", "针"]
       },
       "Pinyin": "bái háo yín zhēn",
       "description": "{白} is *white*, {毫} is *hair*, {銀} is *silver*, and {針} is *needle*, so the full name is *white hair silver needle*. *White hair* describes the downy exterior of the buds, while *silver needle* refers to the shape of the buds. But usually it's just 銀針 (*silver needle*)."
@@ -213,12 +221,7 @@
       "English": "white peony tea",
       "Cantonese": {
         "text": "白牡丹",
-        "wkty": [
-          "白",
-          "牡丹",
-          "牡",
-          "丹"
-        ]
+        "wkty": ["白", "牡丹", "牡", "丹"]
       },
       "Yale": "baahk máauh dāan",
       "Jyutping": "baak6 maau5 daan1",
@@ -232,16 +235,7 @@
       }
     ],
     "description": "White peony tea, also listed by its Mandarin pronunciation [bai mudan](https://en.wikipedia.org/wiki/Bai_Mudan), is a [white tea](https://en.wikipedia.org/wiki/White_tea) that is harvested with two leaves for each bud. The name *white peony* describes how the leaves unfurl when brewed.",
-    "tags": [
-      "閩菜",
-      "飲品",
-      "熱飲",
-      "熱茶",
-      "茶",
-      "白茶",
-      "中國茶",
-      "福建"
-    ],
+    "tags": ["閩菜", "飲品", "熱飲", "熱茶", "茶", "白茶", "中國茶", "福建"],
     "resources": [
       {
         "name": "Last Tea",
@@ -270,14 +264,7 @@
       "English": "Fuding white tea",
       "Cantonese": {
         "text": "福鼎白茶",
-        "wkty": [
-          "福鼎",
-          "福",
-          "鼎",
-          "白茶",
-          "白",
-          "茶"
-        ]
+        "wkty": ["福鼎", "福", "鼎", "白茶", "白", "茶"]
       },
       "Yale": "fūk díng baahk chàh",
       "Pinyin": "fú dǐng bái chá",
@@ -290,16 +277,7 @@
       }
     ],
     "description": "[White tea](https://en.wikipedia.org/wiki/White_tea) from [Fuding](https://en.wikipedia.org/wiki/Fuding), a city in [Fujian](https://en.wikipedia.org/wiki/Fujian) province.",
-    "tags": [
-      "閩菜",
-      "飲品",
-      "熱飲",
-      "熱茶",
-      "茶",
-      "白茶",
-      "中國茶",
-      "福建"
-    ],
+    "tags": ["閩菜", "飲品", "熱飲", "熱茶", "茶", "白茶", "中國茶", "福建"],
     "resources": [
       {
         "name": "Jian Tea",
