@@ -1,105 +1,92 @@
 [
-    {
-        "English": "noodle soup",
-        "Cantonese": {
-            "text": "湯麵",
-            "wkty": [
-                "湯麵",
-                "湯",
-                "麵"
-            ]
-        },
-        "Yale": "tōng mihn",
-        "Simplified": {
-            "text": "汤面",
-            "wkty": [
-                "汤面",
-                "面"
-            ]
-        },
-        "Pinyin": "tāng miàn",
-        "description": "{湯} is *soup*, and {麵} is *noodles*, so {湯麵} is *soup noodles*. Sometimes the characters are reversed, {麵湯} is *noodle soup*."
+  {
+    "English": "noodle soup",
+    "Cantonese": {
+      "text": "湯麵",
+      "wkty": ["湯麵", "湯", "麵"]
     },
-    {
-        "English": "minced garlic",
-        "Cantonese": {
-            "text": "蒜蓉",
-            "wkty": [
-                "蒜蓉",
-                "蒜",
-                "蓉"
-            ]
-        },
-        "Yale": "syun yùhng",
-        "Jyutping": "syun3 jung4",
-        "Pinyin": "suàn róng"
+    "Yale": "tōng mihn",
+    "Simplified": {
+      "text": "汤面",
+      "wkty": ["汤面", "面"]
     },
-    {
-        "English": "boiled dumpling",
-        "Cantonese": {
-            "text": "水餃",
-            "wkty": [
-                "水餃",
-                "水",
-                "餃"
-            ]
-        },
-        "Simplified": {
-            "text": "水饺",
-            "wkty": [
-                "水饺",
-                "水",
-                "饺"
-            ]
-        },
-        "Yale": "séui gáau",
-        "Pinyin": "shuǐ jiǎo"
+    "Pinyin": "tāng miàn",
+    "description": "{湯} is *soup*, and {麵} is *noodles*, so {湯麵} is *soup noodles*. Sometimes the characters are reversed, {麵湯} is *noodle soup*."
+  },
+  {
+    "English": "minced garlic",
+    "Cantonese": {
+      "text": "蒜蓉",
+      "wkty": ["蒜蓉", "蒜", "蓉"]
     },
-    {
-        "Cantonese": "卷",
-        "English": "roll",
-        "Yale": "gyún",
-        "Pinyin": "juǎn"
+    "Yale": "syun yùhng",
+    "Jyutping": "syun3 jung4",
+    "Pinyin": "suàn róng"
+  },
+  {
+    "English": "boiled dumpling",
+    "Cantonese": {
+      "text": "水餃",
+      "wkty": ["水餃", "水", "餃"]
     },
-    {
-        "Cantonese": "龍",
-        "Simplified": "龙",
-        "English": "dragon",
-        "Yale": "lùhng",
-        "Pinyin": "lóng"
+    "Simplified": {
+      "text": "水饺",
+      "wkty": ["水饺", "水", "饺"]
     },
-    {
-        "English": "bread",
-        "Cantonese": {
-            "text": "麵包",
-            "wkty": [
-                "麵包",
-                "麵",
-                "包"
-            ]
-        },
-        "Yale": "mihn bāau",
-        "Pinyin": "miàn bāo"
+    "Yale": "séui gáau",
+    "Pinyin": "shuǐ jiǎo"
+  },
+  {
+    "Cantonese": "卷",
+    "English": "roll",
+    "Yale": "gyún",
+    "Pinyin": "juǎn"
+  },
+  {
+    "Cantonese": "龍",
+    "Simplified": "龙",
+    "English": "dragon",
+    "Yale": "lùhng",
+    "Pinyin": "lóng"
+  },
+  {
+    "English": "bread",
+    "Cantonese": {
+      "text": "麵包",
+      "wkty": ["麵包", "麵", "包"]
     },
-    {
-        "English": "salad",
-        "Cantonese": {
-            "text": "沙律",
-            "wkty": [
-                "沙律",
-                "沙",
-                "律"
-            ]
-        },
-        "Mandarin": "沙拉",
-        "Yale": "sà léut",
-        "Pinyin": "shā lā"
+    "Yale": "mihn bāau",
+    "Pinyin": "miàn bāo"
+  },
+  {
+    "English": "salad",
+    "Cantonese": {
+      "text": "沙律",
+      "wkty": ["沙律", "沙", "律"]
     },
-    {
-        "English": "strip",
-        "Cantonese": "條",
-        "Yale": "tíu",
-        "Simplified": "条",
-        "Pinyin": "tiáo"
-    }
+    "Mandarin": "沙拉",
+    "Yale": "sà léut",
+    "Pinyin": "shā lā"
+  },
+  {
+    "English": "strip",
+    "Cantonese": "條",
+    "Yale": "tíu",
+    "Simplified": "条",
+    "Pinyin": "tiáo"
+  },
+  {
+    "English": "organic",
+    "Cantonese": {
+      "text": "有機",
+      "wkty": ["有機", "有", "機"]
+    },
+    "Simplified": {
+      "text": "有机",
+      "wkty": ["有机", "有", "机"]
+    },
+    "Yale": "yáuh gēi",
+    "Pinyin": "yǒu jī",
+    "description": "{有} is *give* and {機} is *opportunity* (also *machine*), so {有機} is *give opportunity*."
+  }
 ]
