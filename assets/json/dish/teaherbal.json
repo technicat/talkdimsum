@@ -513,5 +513,49 @@
                 "URL": "https://en.wikipedia.org/wiki/Wong_Lo_Kat"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "chamomile tea",
+            "Cantonese": {
+                "text": "洋甘菊",
+                "wkty": [
+                    "洋",
+                    "甘菊",
+                    "甘",
+                    "菊"
+                ]
+            },
+            "Yale": "yèuhng gām gūk",
+            "Pinyin": "yáng gān jú",
+            "description": "{冬} is *winter* and {瓜} is *melon*, so {冬瓜} is *winter melon*. {洋} is *ocean* or *vast*, and {甘菊} is [chamomile](https://en.wikipedia.org/wiki/Chamomile)."
+        },
+        "images": [
+            {
+                "image": "chamomileteachungchoucity",
+                "place": "Chung Chou City, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Tea brewed with [chamomile](https://en.wikipedia.org/wiki/Chamomile).",
+        "tags": [
+            "花茶",
+            "洋甘菊",
+            "飲品",
+            "茶"
+        ],
+        "resources": [
+            {
+                "name": "Chinese Teas 101",
+                "URL": "https://chineseteas101.com/how-to-make-chamomile-tea/"
+            },
+            {
+                "name": "Coffee and Tea Experts",
+                "URL": "https://coffeeandteaexperts.com/is-chamomile-tea-chinese-a-complete-guide-to-chamomile-tea-from-china/"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Chamomile#Tea"
+            }
+        ]
     }
 ]
