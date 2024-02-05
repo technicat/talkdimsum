@@ -69,10 +69,6 @@
       "name": "Top Island Seafood Restaurant",
       "links": [
         {
-          "name": "site",
-          "URL": "https://topislandtogo.com/"
-        },
-        {
           "name": "Yelp",
           "URL": "https://www.yelp.com/biz/top-island-seafood-restaurant-alhambra"
         }
@@ -128,10 +124,6 @@
     {
       "name": "Chef Tony",
       "links": [
-        {
-          "name": "site",
-          "URL": "https://www.cheftonyarcadia.com/"
-        },
         {
           "name": "Eater LA",
           "URL": "https://la.eater.com/2021/9/22/22688701/chef-tony-arcadia-dim-sum-restaurant-opening"
@@ -190,23 +182,6 @@
       "address": "18329 S Pioneer Blvd, Artesia, CA 90701"
     },
     {
-      "name": "New Fusion Dim Sum & BBQ",
-      "links": [
-        {
-          "name": "site",
-          "URL": "https://www.newfusiondimsum.com/"
-        },
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/new-fusion-azusa-2"
-        }
-      ],
-      "lat": 34.13388379206391,
-      "lon": -117.90393854448634,
-      "city": "Asuza",
-      "address": "353 E Foothill Blvd Azusa, CA 91702"
-    },
-    {
       "name": "Phoenix Café",
       "links": [
         {
@@ -224,23 +199,6 @@
       "address": "888 Bicycle Casino Dr, Bell Gardens, CA 90201"
     },
     {
-      "name": "China Village Seafood Restaurant",
-      "links": [
-        {
-          "name": "site",
-          "URL": "http://www.chinavillagebelmont.com/"
-        },
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/china-village-seafood-restaurant-belmont"
-        }
-      ],
-      "lat": 37.52188,
-      "lon": -122.27479,
-      "city": "Belmont",
-      "address": "600 Ralston Ave, Belmont, CA 94002"
-    },
-    {
       "name": "Dumpling Express",
       "links": [
         {
@@ -256,10 +214,6 @@
     {
       "name": "Capital Seafood",
       "links": [
-        {
-          "name": "site",
-          "URL": "https://www.capitalseafoodbeverlyhills.com/"
-        },
         {
           "name": "The Infatuation",
           "URL": "https://www.theinfatuation.com/los-angeles/reviews/capital-seafood"
