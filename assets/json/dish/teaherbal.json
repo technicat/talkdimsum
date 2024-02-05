@@ -557,5 +557,48 @@
                 "URL": "https://en.wikipedia.org/wiki/Chamomile#Tea"
             }
         ]
+    },
+    {
+        "word": {
+            "English": "burdock tea",
+            "Cantonese": {
+                "text": "牛蒡茶",
+                "wkty": [
+                    "牛蒡",
+                    "牛",
+                    "蒡",
+                    "茶"
+                ]
+            },
+            "Yale": "ngàuh bóng chàh",
+            "Pinyin": "niú bàng chá",
+            "description": "{牛蒡} is [burdock](https://en.wikipedia.org/wiki/Arctium), a fruit which resembles a large grapefruit), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 牛蒡茶 is *burdock tea*."
+        },
+        "images": [
+            {
+                "image": "burdockteachungchoucity",
+                "place": "Chung Chou City, Las Vegas, Nevada"
+            }
+        ],
+        "description": "A traditional medicinal [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from burdock root.\n\n**Trivia**\n\nThe hooked burrs covering burdock inspired the invention of [Velcro](https://en.wikipedia.org/wiki/Velcro).",
+        "tags": [
+            "牛蒡",
+            "飲品",
+            "熱飲",
+            "蜜",
+            "茶",
+            "熱茶",
+            "中國茶"
+        ],
+        "resources": [
+            {
+                "name": "Tea Joy",
+                "URL": "https://www.teajoy.com/articles/burdock-root-tea-recipe"
+            },
+            {
+                "name": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Arctium"
+            }
+        ]
     }
 ]
