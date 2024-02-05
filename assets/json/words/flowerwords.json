@@ -1,55 +1,43 @@
 [
-    {
-        "English": "jasmine",
-        "Cantonese": {
-            "text": "茉莉",
-            "wkty": [
-                "茉莉",
-                "茉",
-                "莉"
-            ]
-        },
-        "Yale": "muht léi",
-        "Pinyin": "mò liá"
+  {
+    "English": "jasmine",
+    "Cantonese": {
+      "text": "茉莉",
+      "wkty": ["茉莉", "茉", "莉"]
     },
-    {
-        "Cantonese": "菊",
-        "English": "chrysanthemum",
-        "Yale": "gūk",
-        "Pinyin": "jú"
+    "Yale": "muht léi",
+    "Pinyin": "mò liá"
+  },
+  {
+    "Cantonese": "菊",
+    "English": "chrysanthemum",
+    "Yale": "gūk",
+    "Pinyin": "jú"
+  },
+  {
+    "English": "flower",
+    "Cantonese": "花",
+    "Yale": "fā",
+    "Pinyin": "huā"
+  },
+  {
+    "English": "osmanthus",
+    "Cantonese": {
+      "text": "桂花",
+      "wkty": ["桂花", "桂", "花"]
     },
-    {
-        "English": "flower",
-        "Cantonese": "花",
-        "Yale": "fā",
-        "Pinyin": "huā"
+    "Yale": "gwai fā",
+    "Pinyin": "guì huā",
+    "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {茶} is *tea*."
+  },
+  {
+    "English": "peach blossom",
+    "Cantonese": {
+      "text": "桃花",
+      "wkty": ["桃花", "桃", "花"]
     },
-    {
-        "English": "osmanthus",
-        "Cantonese": {
-            "text": "桂花",
-            "wkty": [
-                "桂花",
-                "桂",
-                "花"
-            ]
-        },
-        "Yale": "gwai fā",
-        "Pinyin": "guì huā",
-        "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {茶} is *tea*."
-    },
-    {
-        "English": "peach blossom",
-        "Cantonese": {
-            "text": "桃花",
-            "wkty": [
-                "桃花",
-                "桃",
-                "花"
-            ]
-        },
-        "Yale": "tòuh fā",
-        "Pinyin": "táo huā",
-        "description": "{桃花} is *peach blossom* ({桃} is *peach* and {花} is *flower*)"
-    }
+    "Yale": "tòuh fā",
+    "Pinyin": "táo huā",
+    "description": "{桃花} is *peach blossom* ({桃} is *peach* and {花} is *flower*)"
+  }
 ]
