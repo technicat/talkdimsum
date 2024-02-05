@@ -1,25 +1,21 @@
 [
-    {
-        "word": {
-            "Cantonese": "油",
-            "English": "oil",
-            "Yale": "yàuh",
-            "Jyutping": "jau4",
-            "Pinyin": "yóu",
-            "description": "The left [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {氵} is *water*, indicating this is liquid, and the right [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {由} indicates the sound."
-        },
-        "images": [
-            {
-                "image": "oiltimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "{油}, like it's English translation *oil*, refers to petroleum and plant oils like sesame oil, but also denotes the more liquid sauces such as soy sauce and chili oil, and even butter.",
-        "tags": [
-            "油"
-        ],
-        "resources": [
-           
-        ]
-    }
+  {
+    "word": {
+      "Cantonese": "油",
+      "English": "oil",
+      "Yale": "yàuh",
+      "Jyutping": "jau4",
+      "Pinyin": "yóu",
+      "description": "The left [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {氵} is *water*, indicating this is liquid, and the right [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {由} indicates the sound."
+    },
+    "images": [
+      {
+        "image": "oiltimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "{油}, like it's English translation *oil*, refers to petroleum and plant oils like sesame oil, but also denotes the more liquid sauces such as soy sauce and chili oil, and even butter.",
+    "tags": ["油"],
+    "resources": []
+  }
 ]
