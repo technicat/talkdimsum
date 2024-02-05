@@ -357,8 +357,8 @@
       "name": "Tasty Box Bistro",
       "links": [
         {
-          "name": "site",
-          "URL": "https://www.tastyboxbbq.com/"
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/tasty-box-diamond-bar"
         }
       ],
       "lat": 33.97484261742608,
@@ -409,8 +409,8 @@
       "name": "Mayflower Restaurant",
       "links": [
         {
-          "name": "site",
-          "URL": "http://mayflowerdublin.com/"
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/mayflower-restaurant-dublin"
         }
       ],
       "lat": 37.704098,
@@ -625,23 +625,6 @@
       "lon": -117.77117,
       "city": "Irvine",
       "address": "14825 Jeffrey Rd, Irvine, CA 92618"
-    },
-    {
-      "name": "Dim Sum 101",
-      "links": [
-        {
-          "name": "site",
-          "URL": "https://www.dimsum101lomita.com/"
-        },
-        {
-          "name": "Press-Telegram",
-          "URL": "https://www.presstelegram.com/2022/07/23/enjoy-dim-sum-all-day-in-lomita-at-101-dim-sum-artisan/"
-        }
-      ],
-      "lat": 33.804842610711454,
-      "lon": -118.32601893100288,
-      "city": "Lomita",
-      "address": "2418 Lomita Blvd #A Lomita, CA 90717"
     },
     {
       "name": "Bao Dim Sum House",
