@@ -1,664 +1,559 @@
 [
-    {
-        "word": {
-            "English": "Beijing cuisine",
-            "Cantonese": {
-                "text": "京菜",
-                "wkty": [
-                    "京菜",
-                    "京",
-                    "菜"
-                ]
-            },
-            "Yale": "gīng choi",
-            "Pinyin": "jīng cà",
-            "description": "{京} is short for Beijing (second character of the name, meaning *capital*), and {菜} is *vegetable* or *dish* or *cuisine*. So {京菜} is Beijing cusine or literally *capital cuisine*.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)"
-        },
-        "images": [
-            {
-                "image": "beijing",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Beijing cuisine](https://en.wikipedia.org/wiki/Beijing_cuisine) is influenced both by the imperial court menus of Beijing (the most famous probably is [Peking duck](https://en.wikipedia.org/wiki/Peking_duck)) and food of the surrounding provices.",
-        "tags": [
-            "京菜"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Beijing_cuisine"
-            }
-        ]
+  {
+    "word": {
+      "English": "Beijing cuisine",
+      "Cantonese": {
+        "text": "京菜",
+        "wkty": ["京菜", "京", "菜"]
+      },
+      "Yale": "gīng choi",
+      "Pinyin": "jīng cà",
+      "description": "{京} is short for Beijing (second character of the name, meaning *capital*), and {菜} is *vegetable* or *dish* or *cuisine*. So {京菜} is Beijing cusine or literally *capital cuisine*.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beijing_in_China_(%2Ball_claims_hatched).svg)"
     },
-    {
-        "word": {
-            "English": "Cantonese cuisine",
-            "Cantonese": {
-                "text": "粵菜",
-                "wkty": [
-                    "粵菜",
-                    "粵",
-                    "菜"
-                ]
-            },
-            "Yale": "yuht choi",
-            "Jyutping": "jyut6 coi3",
-            "Simplified": {
-                "text": "粤菜",
-                "wkty": [
-                    "粤菜",
-                    "粤",
-                    "菜"
-                ]
-            },
-            "Pinyin": "yuè cà",
-            "description": "{粵} is generally synonmyous with Cantonese (although technically it refers to Yue language of which includes both Cantonese and Taishanese), and {菜} is *vegetable* or *dish* or *cuisine*, so {粵菜} is *Cantonese cuisine* or *Yue cuisine*.\n\n**Books**\n\nGrace Young's most recent book, *Stir-frying to the Sky's Edge*, features recipes and anecdotes from the Chinese global diaspora."
-        },
-        "images": [
-            {
-                "image": "guangdong",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Cantonese cuisine](https://en.wikipedia.org/wiki/Cantonese_cuisine), one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/), is the food of [Guangdong province](https://en.wikipedia.org/wiki/Guangdong). The mysteriously mangled English name Canton sometimes refers to the provice, sometimes to the capital [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou), and even sometimes to a [river](https://en.wikipedia.org/wiki/Pearl_River) in the province.\n\nMore precisely it's the food of Cantonese speakers, and there are other distinct cuisines in the region such as [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou_cuisin) and [Hakka](https://en.wikipedia.org/wiki/Hakka_cuisine))\n\nCantonese cooking is known for minimal seasoning and showcasing the flavor of fresh ingredients via steaming and stir-frying. The taste of properly stir-fried dishes is known in Cantonese as {鑊氣}, pronounced *wohk hei* and often spelled *wok hay*, translated by [Grace Young](https://www.graceyoung.com/) as *breath of a wok* ({鑊} is a *wok*, and {氣}, pronounced *qì* in Mandarin, is well known to mean *vital energy* but also just denotes *air* or *gas*).\n\nThere are some mildly spicy items (salt and pepper seasoning, curry dishes), but if you want something that'll make you sweat, head over to Hunan or Sichuan cuisines.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangdong_in_China_(%2Ball_claims_hatched).svg)",
-        "tags": [
-            "粵菜"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cantonese_cuisine"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Yue-Cantonese"
-            }
-        ]
+    "images": [
+      {
+        "image": "beijing",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Beijing cuisine](https://en.wikipedia.org/wiki/Beijing_cuisine) is influenced both by the imperial court menus of Beijing (the most famous probably is [Peking duck](https://en.wikipedia.org/wiki/Peking_duck)) and food of the surrounding provices.",
+    "tags": ["京菜"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Beijing_cuisine"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Cantonese cuisine",
+      "Cantonese": {
+        "text": "粵菜",
+        "wkty": ["粵菜", "粵", "菜"]
+      },
+      "Yale": "yuht choi",
+      "Jyutping": "jyut6 coi3",
+      "Simplified": {
+        "text": "粤菜",
+        "wkty": ["粤菜", "粤", "菜"]
+      },
+      "Pinyin": "yuè cà",
+      "description": "{粵} is generally synonmyous with Cantonese (although technically it refers to Yue language of which includes both Cantonese and Taishanese), and {菜} is *vegetable* or *dish* or *cuisine*, so {粵菜} is *Cantonese cuisine* or *Yue cuisine*.\n\n**Books**\n\nGrace Young's most recent book, *Stir-frying to the Sky's Edge*, features recipes and anecdotes from the Chinese global diaspora."
     },
-    {
-        "word": {
-            "English": "Chaozhou cuisine",
-            "Cantonese": {
-                "text": "潮州菜",
-                "wkty": [
-                    "潮州",
-                    "潮",
-                    "州",
-                    "菜"
-                ]
-            },
-            "Yale": "chìuh jāu choi",
-            "Pinyin": "cháo zhōu cài",
-            "description": "{潮州} is [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou), and {菜} is *vegetable* or *dish* or *cuisine*, so 潮州菜 is [Chaozhou cuisine](https://en.wikipedia.org/wiki/Chaozhou_cuisine)."
-        },
-        "images": [
-            {
-                "image": "chaozhou",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Chaozhou cuisine](https://en.wikipedia.org/wiki/Chaozhou_cuisine)is also known as Chiuchow cuisine or Teochow cuisine or Chaoshan cuisine (Chaoshan is the area surrounding the city of Chaozhou on the eastern end of Guangdong provice). Chaozhou cuisine is distinct from Cantonese cuisine (sometimes labeled a subset), but Chaozhou-style [fun guo](https://en.wikipedia.org/wiki/Fun_guo) is a standard Cantonese dim sum item.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangdong_subdivisions_-_Chaozhou.svg)",
-        "tags": [
-            "潮州菜"
-        ],
-        "resources": [
-            {
-                "name": "Little Bellevue Kitchen",
-                "URL": "https://littlebellevuekitchen.blogspot.com/2020/07/chiu-chow-fun-gor-teochew-dumplings.html"
-            },
-            {
-                "name": "Feast Glorious Feast",
-                "URL": "https://feastgloriousfeast.com/fun-guo/"
-            },
-            {
-                "name": "Flying Tiger Emporium",
-                "URL": "https://flyingtigeremporium.com/teochew-dumplings-chiu-chow-fen-guo-fun-kor-%E6%BD%AE%E5%B7%9E%E7%B2%89%E6%9E%9C/"
-            },
-            {
-                "name": "Mom's Chinese Kitchen",
-                "URL": "http://www.momschinesekitchen.com/chiu-chow-fun-gor/"
-            },
-            {
-                "name": "Slightly Astray",
-                "URL": "https://www.slightlyastray.com/a-sampling-of-chaozhou-cuisine/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Chaozhou_cuisine"
-            },
-            {
-                "name": "Yum Cha Guide",
-                "URL": "http://www.yumchaguide.com/portfolio/chiu-chow-dumpling/"
-            }
-        ]
+    "images": [
+      {
+        "image": "guangdong",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Cantonese cuisine](https://en.wikipedia.org/wiki/Cantonese_cuisine), one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/), is the food of [Guangdong province](https://en.wikipedia.org/wiki/Guangdong). The mysteriously mangled English name Canton sometimes refers to the provice, sometimes to the capital [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou), and even sometimes to a [river](https://en.wikipedia.org/wiki/Pearl_River) in the province.\n\nMore precisely it's the food of Cantonese speakers, and there are other distinct cuisines in the region such as [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou_cuisin) and [Hakka](https://en.wikipedia.org/wiki/Hakka_cuisine))\n\nCantonese cooking is known for minimal seasoning and showcasing the flavor of fresh ingredients via steaming and stir-frying. The taste of properly stir-fried dishes is known in Cantonese as {鑊氣}, pronounced *wohk hei* and often spelled *wok hay*, translated by [Grace Young](https://www.graceyoung.com/) as *breath of a wok* ({鑊} is a *wok*, and {氣}, pronounced *qì* in Mandarin, is well known to mean *vital energy* but also just denotes *air* or *gas*).\n\nThere are some mildly spicy items (salt and pepper seasoning, curry dishes), but if you want something that'll make you sweat, head over to Hunan or Sichuan cuisines.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangdong_in_China_(%2Ball_claims_hatched).svg)",
+    "tags": ["粵菜"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Yue-Cantonese"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Chaozhou cuisine",
+      "Cantonese": {
+        "text": "潮州菜",
+        "wkty": ["潮州", "潮", "州", "菜"]
+      },
+      "Yale": "chìuh jāu choi",
+      "Pinyin": "cháo zhōu cài",
+      "description": "{潮州} is [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou), and {菜} is *vegetable* or *dish* or *cuisine*, so 潮州菜 is [Chaozhou cuisine](https://en.wikipedia.org/wiki/Chaozhou_cuisine)."
     },
-    {
-        "word": {
-            "English": "Fujian cuisine",
-            "Cantonese": {
-                "text": "閩菜",
-                "wkty": [
-                    "閩菜",
-                    "閩",
-                    "菜"
-                ]
-            },
-            "Yale": "máhn choi",
-            "Simplified": {
-                "text": "闽菜",
-                "wkty": [
-                    "闽菜",
-                    "闽",
-                    "菜"
-                ]
-            },
-            "Pinyin": "mǐn cài",
-            "description": "{福建} is the full name for Fujian (fūk gin in Cantonese, fú jiàn in Mandarin), but is an alternate {閩} is a short name [Fujian](https://en.wikipedia.org/wiki/Fujian), and {菜} is *vegetable* or *dish* or *cuisine*, so {閩菜} is *Fujian cuisine* or *Min cuisine*."
-        },
-        "images": [
-            {
-                "image": "fujian",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Fujian cuisine](https://en.wikipedia.org/wiki/Fujian_cuisine), the food of the [Fujian](https://en.wikipedia.org/wiki/Fujian) province and one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/).\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fujian_in_China_(%2Ball_claims_hatched).svg)",
-        "tags": [
-            "閩菜"
-        ],
-        "resources": [
-            {
-                "name": "Cchatty",
-                "URL": "https://www.cchatty.com/Fujian-Cuisine-g-100031?hl=en"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Fujian_cuisine"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Min-Fujian"
-            },
-            {
-                "name": "Yum Chinese Food",
-                "URL": "https://www.yumchinesefood.com/cuisines/fujian/"
-            }
-        ]
+    "images": [
+      {
+        "image": "chaozhou",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Chaozhou cuisine](https://en.wikipedia.org/wiki/Chaozhou_cuisine)is also known as Chiuchow cuisine or Teochow cuisine or Chaoshan cuisine (Chaoshan is the area surrounding the city of Chaozhou on the eastern end of Guangdong provice). Chaozhou cuisine is distinct from Cantonese cuisine (sometimes labeled a subset), but Chaozhou-style [fun guo](https://en.wikipedia.org/wiki/Fun_guo) is a standard Cantonese dim sum item.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangdong_subdivisions_-_Chaozhou.svg)",
+    "tags": ["潮州菜"],
+    "resources": [
+      {
+        "name": "Little Bellevue Kitchen",
+        "URL": "https://littlebellevuekitchen.blogspot.com/2020/07/chiu-chow-fun-gor-teochew-dumplings.html"
+      },
+      {
+        "name": "Feast Glorious Feast",
+        "URL": "https://feastgloriousfeast.com/fun-guo/"
+      },
+      {
+        "name": "Flying Tiger Emporium",
+        "URL": "https://flyingtigeremporium.com/teochew-dumplings-chiu-chow-fen-guo-fun-kor-%E6%BD%AE%E5%B7%9E%E7%B2%89%E6%9E%9C/"
+      },
+      {
+        "name": "Mom's Chinese Kitchen",
+        "URL": "http://www.momschinesekitchen.com/chiu-chow-fun-gor/"
+      },
+      {
+        "name": "Slightly Astray",
+        "URL": "https://www.slightlyastray.com/a-sampling-of-chaozhou-cuisine/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chaozhou_cuisine"
+      },
+      {
+        "name": "Yum Cha Guide",
+        "URL": "http://www.yumchaguide.com/portfolio/chiu-chow-dumpling/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Fujian cuisine",
+      "Cantonese": {
+        "text": "閩菜",
+        "wkty": ["閩菜", "閩", "菜"]
+      },
+      "Yale": "máhn choi",
+      "Simplified": {
+        "text": "闽菜",
+        "wkty": ["闽菜", "闽", "菜"]
+      },
+      "Pinyin": "mǐn cài",
+      "description": "{福建} is the full name for Fujian (fūk gin in Cantonese, fú jiàn in Mandarin), but is an alternate {閩} is a short name [Fujian](https://en.wikipedia.org/wiki/Fujian), and {菜} is *vegetable* or *dish* or *cuisine*, so {閩菜} is *Fujian cuisine* or *Min cuisine*."
     },
-    {
-        "word": {
-            "English": "Hunan cuisine",
-            "Cantonese": {
-                "text": "湘菜",
-                "wkty": [
-                    "湘菜",
-                    "湘",
-                    "菜"
-                ]
-            },
-            "Yale": "sēung choi",
-            "Pinyin": "xiāng cài",
-            "description": "{湘} is the [Xiang River](https://en.wikipedia.org/wiki/Xiang_River) in Hunan and also an abbreviation for [Hunan](https://en.wikipedia.org/wiki/Hunan), and {菜} is *vegetable* or *dish* or *cuisine*, so {湘菜} is *Hunan cuisine* or *Xiang cuisine*."
-        },
-        "images": [
-            {
-                "image": "hunan",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Hunan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine) is one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/). Hunan cuisine is known for a characteristic spiciness, although it is a dry spiciness, different from the numbing spiciness ({麻辣} of [Sichuan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine)).\n\n**Books**\n\nRevolutionary Chinese Cookbook: Recipes from Hunan Province by [Fuschia Dunlop](http://www.fuchsiadunlop.com/).\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hunan_in_China_(%2Ball_claims_hatched).svg)",
-        "tags": [
-            "湘菜"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Hunan_cuisine"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Xiang-Hunan"
-            }
-        ]
+    "images": [
+      {
+        "image": "fujian",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Fujian cuisine](https://en.wikipedia.org/wiki/Fujian_cuisine), the food of the [Fujian](https://en.wikipedia.org/wiki/Fujian) province and one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/).\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fujian_in_China_(%2Ball_claims_hatched).svg)",
+    "tags": ["閩菜"],
+    "resources": [
+      {
+        "name": "Cchatty",
+        "URL": "https://www.cchatty.com/Fujian-Cuisine-g-100031?hl=en"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Fujian_cuisine"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Min-Fujian"
+      },
+      {
+        "name": "Yum Chinese Food",
+        "URL": "https://www.yumchinesefood.com/cuisines/fujian/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Hunan cuisine",
+      "Cantonese": {
+        "text": "湘菜",
+        "wkty": ["湘菜", "湘", "菜"]
+      },
+      "Yale": "sēung choi",
+      "Pinyin": "xiāng cài",
+      "description": "{湘} is the [Xiang River](https://en.wikipedia.org/wiki/Xiang_River) in Hunan and also an abbreviation for [Hunan](https://en.wikipedia.org/wiki/Hunan), and {菜} is *vegetable* or *dish* or *cuisine*, so {湘菜} is *Hunan cuisine* or *Xiang cuisine*."
     },
-    {
-        "word": {
-            "English": "Shaanxi cuisine",
-            "Cantonese": {
-                "text": "秦菜",
-                "wkty": [
-                    "秦",
-                    "菜"
-                ]
-            },
-            "Yale": "chèuhn choi",
-            "Pinyin": "qín cài",
-            "description": "{秦} is *Qin*, another name for the region (birthplace of the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty), China's first imperial dynasty), and {菜} is *vegetable* or *dish* or *cuisine*, so {秦菜} is *Shaanxi cuisine* or *Qin cuisine*."
-        },
-        "images": [
-            {
-                "image": "shaanxi",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Shaanxi cuisine](https://en.wikipedia.org/wiki/Shaanxi_cuisine), influenced by neighboring Shanxi and Sichuan provinces, is characterized by an abundance of lamb dishes and fragrant spiciness (香辣). It's most well-known dish is probably the so-called [Chinese hamburger](https://en.wikipedia.org/wiki/Roujiamo) (more like a pita sandwich), popular throughout China and increasingly outside.\n\n**Books**\n\n[Xi'an Famous Foods](https://www.xianfoods.com/book) by Jason Wang recounts the history and Shaanxi recipes (Xi'an is the capital of Shaanxi) of his New York-based restaurants.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shaanxi_in_China_(%2Ball_claims_hatched).svg)",
-        "tags": [
-            "秦菜"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
-            }
-        ]
+    "images": [
+      {
+        "image": "hunan",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Hunan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine) is one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/). Hunan cuisine is known for a characteristic spiciness, although it is a dry spiciness, different from the numbing spiciness ({麻辣} of [Sichuan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine)).\n\n**Books**\n\nRevolutionary Chinese Cookbook: Recipes from Hunan Province by [Fuschia Dunlop](http://www.fuchsiadunlop.com/).\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hunan_in_China_(%2Ball_claims_hatched).svg)",
+    "tags": ["湘菜"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hunan_cuisine"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Xiang-Hunan"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Shaanxi cuisine",
+      "Cantonese": {
+        "text": "秦菜",
+        "wkty": ["秦", "菜"]
+      },
+      "Yale": "chèuhn choi",
+      "Pinyin": "qín cài",
+      "description": "{秦} is *Qin*, another name for the region (birthplace of the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty), China's first imperial dynasty), and {菜} is *vegetable* or *dish* or *cuisine*, so {秦菜} is *Shaanxi cuisine* or *Qin cuisine*."
     },
-    {
-        "word": {
-            "English": "Shandong cuisine",
-            "Cantonese": {
-                "text": "魯菜",
-                "wkty": [
-                    "魯菜",
-                    "魯",
-                    "菜"
-                ]
-            },
-            "Yale": "lóuh choi",
-            "Simplified": {
-                "text": "鲁菜",
-                "wkty": [
-                    "鲁菜",
-                    "鲁",
-                    "菜"
-                ]
-            },
-            "Pinyin": "lǔ cài",
-            "description": "{鲁} is [Lu](https://en.wikipedia.org/wiki/Lu_(state)), one of the ancient states that comprise what is now the province of [Shandong](https://en.wikipedia.org/wiki/Shandong). {菜} is *vegetable* or *dish* or *cuisine*, so {滬菜} is *Shandong cuisine* or *Lu cuisine*."
-        },
-        "images": [
-            {
-                "image": "shandong",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Shandong cuisine](https://en.wikipedia.org/wiki/Shandong_cuisine), also known as Lu cuisine, is one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/) and one of the oldest and most influential Chinese cuisines.",
-        "tags": [
-            "滬菜"
-        ],
-        "resources": [
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Lu-shandong"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Shandong_cuisine"
-            }
-        ]
+    "images": [
+      {
+        "image": "shaanxi",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Shaanxi cuisine](https://en.wikipedia.org/wiki/Shaanxi_cuisine), influenced by neighboring Shanxi and Sichuan provinces, is characterized by an abundance of lamb dishes and fragrant spiciness (香辣). It's most well-known dish is probably the so-called [Chinese hamburger](https://en.wikipedia.org/wiki/Roujiamo) (more like a pita sandwich), popular throughout China and increasingly outside.\n\n**Books**\n\n[Xi'an Famous Foods](https://www.xianfoods.com/book) by Jason Wang recounts the history and Shaanxi recipes (Xi'an is the capital of Shaanxi) of his New York-based restaurants.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shaanxi_in_China_(%2Ball_claims_hatched).svg)",
+    "tags": ["秦菜"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Shandong cuisine",
+      "Cantonese": {
+        "text": "魯菜",
+        "wkty": ["魯菜", "魯", "菜"]
+      },
+      "Yale": "lóuh choi",
+      "Simplified": {
+        "text": "鲁菜",
+        "wkty": ["鲁菜", "鲁", "菜"]
+      },
+      "Pinyin": "lǔ cài",
+      "description": "{鲁} is [Lu](https://en.wikipedia.org/wiki/Lu_(state)), one of the ancient states that comprise what is now the province of [Shandong](https://en.wikipedia.org/wiki/Shandong). {菜} is *vegetable* or *dish* or *cuisine*, so {滬菜} is *Shandong cuisine* or *Lu cuisine*."
     },
-    {
-        "word": {
-            "English": "Shanghai cuisine",
-            "Cantonese": {
-                "text": "滬菜",
-                "wkty": [
-                    "滬菜",
-                    "滬",
-                    "菜"
-                ]
-            },
-            "Yale": "wuh choi",
-            "Simplified": {
-                "text": "沪菜",
-                "wkty": [
-                    "沪菜",
-                    "沪",
-                    "菜"
-                ]
-            },
-            "Pinyin": "hù cài",
-            "description": "{滬} is another name for *Shanghai* (short for {滬江}), and {菜} is *vegetable* or *dish* or *cuisine*, so {滬菜} is *Shanghai cuisine* or *Hu cuisine*."
-        },
-        "images": [
-            {
-                "image": "shanghai",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Shanghai cuisine](https://en.wikipedia.org/wiki/Shanghai_cuisine), also known as Hu cuisine, overlaps with neighboring cuisines in the Jiangnan region (known as The Land of Fish and Rice), including [Jiangsu cuisine](https://en.wikipedia.org/wiki/Jiangsu_cuisine) and [Zhejiang cuisine](https://en.wikipedia.org/wiki/Zhejiang_cuisine).\n\n**Books**\n\n*Land of Fish and Rice: Recipes from the Culinary Heart of China* by [Fuschia Dunlop](http://www.fuchsiadunlop.com/), and [My Shanghai](https://bettysliu.com/my-shanghai-cookbook/) by [Betty Liu](https://bettysliu.com/) cover the cuisine of [Jiagnan](https://en.wikipedia.org/wiki/Jiangnan), the region surrounding Shanghai.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shanghai_in_China_(%2Ball_claims_hatched).svg)",
-        "tags": [
-            "滬菜"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Shanghai_cuisine"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Su-Jiangsu"
-            }
-        ]
+    "images": [
+      {
+        "image": "shandong",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Shandong cuisine](https://en.wikipedia.org/wiki/Shandong_cuisine), also known as Lu cuisine, is one of the [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/) and one of the oldest and most influential Chinese cuisines.",
+    "tags": ["滬菜"],
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Lu-shandong"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Shandong_cuisine"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Shanghai cuisine",
+      "Cantonese": {
+        "text": "滬菜",
+        "wkty": ["滬菜", "滬", "菜"]
+      },
+      "Yale": "wuh choi",
+      "Simplified": {
+        "text": "沪菜",
+        "wkty": ["沪菜", "沪", "菜"]
+      },
+      "Pinyin": "hù cài",
+      "description": "{滬} is another name for *Shanghai* (short for {滬江}), and {菜} is *vegetable* or *dish* or *cuisine*, so {滬菜} is *Shanghai cuisine* or *Hu cuisine*."
     },
-    {
-        "word": {
-            "English": "Sichuan cuisine",
-            "Cantonese": {
-                "text": "川菜",
-                "wkty": [
-                    "川菜",
-                    "川",
-                    "菜"
-                ]
-            },
-            "Yale": "chyūn choi",
-            "Pinyin": "chuān cà",
-            "description": "The Chinese characters for Sichuan, {四川}, is *four rivers* ({四} is *four* and {川} is (and looks like) *river*). {菜} is *vegetables* but also more generally type of *dish* or *cuisine*, so {四川菜} is *Sichuan cuisine*. But it's generally shortened to {川菜}."
-        },
-        "images": [
-            {
-                "image": "sichuan",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Sichuan cuisine](https://en.wikipedia.org/wiki/Sichuan_cuisine), one of the great [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/), is the food of [Sichuan](https://en.wikipedia.org/wiki/Sichuan) province (otherwise known in English as Szechuan), famous, or notorious, for its [spiciness](https://en.wikipedia.org/wiki/Mala_(seasoning)), although the cuisine features a variety of flavors and spice levels.\n\n**Books**\n\n*The Food of Sichuan* by [Fuschia Dunlop](http://www.fuchsiadunlop.com/) is a compendium of Sichuan recipes and reminiscences. I also recommend her memoir.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sichuan_in_China_(%2Ball_claims_hatched).svg)",
-        "tags": [
-            "川菜"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/"
-            },
-            {
-                "name": "Mala Food",
-                "URL": "https://malafood.com/en/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Sichuan_cuisine"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Chuan-Sichuan"
-            }
-        ]
+    "images": [
+      {
+        "image": "shanghai",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Shanghai cuisine](https://en.wikipedia.org/wiki/Shanghai_cuisine), also known as Hu cuisine, overlaps with neighboring cuisines in the Jiangnan region (known as The Land of Fish and Rice), including [Jiangsu cuisine](https://en.wikipedia.org/wiki/Jiangsu_cuisine) and [Zhejiang cuisine](https://en.wikipedia.org/wiki/Zhejiang_cuisine).\n\n**Books**\n\n*Land of Fish and Rice: Recipes from the Culinary Heart of China* by [Fuschia Dunlop](http://www.fuchsiadunlop.com/), and [My Shanghai](https://bettysliu.com/my-shanghai-cookbook/) by [Betty Liu](https://bettysliu.com/) cover the cuisine of [Jiagnan](https://en.wikipedia.org/wiki/Jiangnan), the region surrounding Shanghai.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shanghai_in_China_(%2Ball_claims_hatched).svg)",
+    "tags": ["滬菜"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Su-Jiangsu"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Sichuan cuisine",
+      "Cantonese": {
+        "text": "川菜",
+        "wkty": ["川菜", "川", "菜"]
+      },
+      "Yale": "chyūn choi",
+      "Pinyin": "chuān cà",
+      "description": "The Chinese characters for Sichuan, {四川}, is *four rivers* ({四} is *four* and {川} is (and looks like) *river*). {菜} is *vegetables* but also more generally type of *dish* or *cuisine*, so {四川菜} is *Sichuan cuisine*. But it's generally shortened to {川菜}."
     },
-    {
-        "word": {
-            "English": "Taiwan cuisine",
-            "Cantonese": "台菜",
-            "Yale": "tòih choi",
-            "Pinyin": "tái cà",
-            "description": "{台} is an abbreviation for Taiwan, and {菜} is *vegetables* but also more generally type of *dish* or *cuisine*, so 台菜 is *Taiwan cuisine*."
-        },
-        "images": [
-            {
-                "image": "taiwan",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "Taiwanese cuisine, thoughly largely derived from waves of migration from mainland China, from the early [Hakka](https://en.wikipedia.org/wiki/Hakka_cuisine), to those who fled the Chinese civil war at the end of World War II, and later, is also influenced by the [indigineous people](https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples) of Taiwan, [Japanese cuisine](https://en.wikipedia.org/wiki/Japanese_cuisine) (dating from the period of Japanese rule), and various international sources.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Locator_map_of_the_ROC_Taiwan.svg",
-        "tags": [
-            "台菜"
-        ],
-        "resources": [
-            {
-                "name": "Chinese Food Wiki",
-                "URL": "https://www.eater.com/2019/3/6/18241036/what-is-taiwanese-food-traditional-cuisine"
-            },
-            {
-                "name": "Choo Choo Ca Chew",
-                "URL": "https://www.choochoocachew.com/taiwanesefoodintro/"
-            },
-            {
-                "name": "Eating China",
-                "URL": "https://www.eatingchina.com/articles/taiwan-food.htm"
-            },
-            {
-                "name": "Travel Food Atlas",
-                "URL": "https://travelfoodatlas.com/taiwanese-food"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
-            }
-        ]
+    "images": [
+      {
+        "image": "sichuan",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Sichuan cuisine](https://en.wikipedia.org/wiki/Sichuan_cuisine), one of the great [eight great cuisines of China](https://thewoksoflife.com/8-chinese-cuisines/), is the food of [Sichuan](https://en.wikipedia.org/wiki/Sichuan) province (otherwise known in English as Szechuan), famous, or notorious, for its [spiciness](https://en.wikipedia.org/wiki/Mala_(seasoning)), although the cuisine features a variety of flavors and spice levels.\n\n**Books**\n\n*The Food of Sichuan* by [Fuschia Dunlop](http://www.fuchsiadunlop.com/) is a compendium of Sichuan recipes and reminiscences. I also recommend her memoir.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sichuan_in_China_(%2Ball_claims_hatched).svg)",
+    "tags": ["川菜"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/"
+      },
+      {
+        "name": "Mala Food",
+        "URL": "https://malafood.com/en/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/8-chinese-cuisines/#Chuan-Sichuan"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Taiwan cuisine",
+      "Cantonese": "台菜",
+      "Yale": "tòih choi",
+      "Pinyin": "tái cà",
+      "description": "{台} is an abbreviation for Taiwan, and {菜} is *vegetables* but also more generally type of *dish* or *cuisine*, so 台菜 is *Taiwan cuisine*."
     },
-    {
-        "word": {
-            "English": "Yunnan cuisine",
-            "Cantonese": "滇菜",
-            "Yale": "tìhn choi",
-            "Pinyin": "diān cà",
-            "description": "{滇} is an abbreviation for Yunnan (it's a lake in the province), {菜} is *vegetables* but also more generally type of *dish* or *cuisine*, so 滇菜 is *Yunnan cuisine* or *Dian cuisine*."
-        },
-        "images": [
-            {
-                "image": "yunnan",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Yunnan cuisine](https://en.wikipedia.org/wiki/Yunnan_cuisine), is the food of [Yunnan](https://en.wikipedia.org/wiki/Yunnan) province.",
-        "tags": [
-            "滇菜"
-        ],
-        "resources": [
-            {
-                "name": "Chinese Food Wiki",
-                "URL": "https://www.chinesefoodwiki.org/Yunnan_Food"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Yunnan_cuisine"
-            }
-        ]
+    "images": [
+      {
+        "image": "taiwan",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "Taiwanese cuisine, thoughly largely derived from waves of migration from mainland China, from the early [Hakka](https://en.wikipedia.org/wiki/Hakka_cuisine), to those who fled the Chinese civil war at the end of World War II, and later, is also influenced by the [indigineous people](https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples) of Taiwan, [Japanese cuisine](https://en.wikipedia.org/wiki/Japanese_cuisine) (dating from the period of Japanese rule), and various international sources.\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Locator_map_of_the_ROC_Taiwan.svg",
+    "tags": ["台菜"],
+    "resources": [
+      {
+        "name": "Chinese Food Wiki",
+        "URL": "https://www.eater.com/2019/3/6/18241036/what-is-taiwanese-food-traditional-cuisine"
+      },
+      {
+        "name": "Choo Choo Ca Chew",
+        "URL": "https://www.choochoocachew.com/taiwanesefoodintro/"
+      },
+      {
+        "name": "Eating China",
+        "URL": "https://www.eatingchina.com/articles/taiwan-food.htm"
+      },
+      {
+        "name": "Travel Food Atlas",
+        "URL": "https://travelfoodatlas.com/taiwanese-food"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Yunnan cuisine",
+      "Cantonese": "滇菜",
+      "Yale": "tìhn choi",
+      "Pinyin": "diān cà",
+      "description": "{滇} is an abbreviation for Yunnan (it's a lake in the province), {菜} is *vegetables* but also more generally type of *dish* or *cuisine*, so 滇菜 is *Yunnan cuisine* or *Dian cuisine*."
     },
-    {
-        "word": {
-            "English": "dim sum",
-            "Cantonese": {
-                "text": "點心",
-                "wkty": [
-                    "點心",
-                    "點",
-                    "心"
-                ]
-            },
-            "Yale": "dím sām",
-            "Simplified": {
-                "text": "点心",
-                "wkty": [
-                    "点心",
-                    "点",
-                    "心"
-                ]
-            },
-            "Jyutping": "dim2 sam1",
-            "Pinyin": "diǎn xin",
-            "description": "{點} is *a bit* or *a touch*, and {心} is *heart* (the character looks like a heart), so {點心} can be translated as *a bit of heart* or *a touch of heart* or *touching the heart* (Grace Young in [The Breath of a Wok](https://www.graceyoung.com/cookbooks/cookbook-2/) translates it as *a dot on the heart*). Anyway, the origin of the term is debated.\n\n{點} is also the first character in *why* ({點解} dím gáai) and *o'clock* {(點鐘) dím jūng}. {心} is also the second character in *be careful!* ({小心} síu sām), *happy* ({開心} hōi sām) and the vegetable *choy sum* ({菜心} choi sām)."
-        },
-        "images": [
-            {
-                "image": "pingpangpong5",
-                "place": "Ping Pang Pong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Dim sum](http://en.wikipedia.org/wiki/Dim_sum) are shared small dishes or steamer baskets of dumplings and other typically bite-sized foods.\n\n**History**\n\nDim sum dishes originated from all over China and some even have Western influences, but dim sum as a Hong Kong and [Cantonese cuisine](https://en.wikipedia.org/wiki/Cantonese_cuisine) (The English spelling is close to the Cantonese pronunciation *dím sām*) originated in the *yum cha* (drink tea) tradition of travelers stopping at teahouses for tea and snacks along the Silk Road (so dim sum was an early version of truck stop food).\n\nDim sum is known for being served in on carts in large restaurants, but these days it can be found in a variety of settings ranging from banquet-sized restaurants to cozier Hong Kong-style cafes (cha chaan teng) and ordered off a menu.\n\n**Books**\n\n[The Dim Sum Field Guide](https://www.penguinrandomhouse.com/books/533493/the-dim-sum-field-guide-by-carolyn-phillips/) by Carolyn Phillips is an illustrated overview of dim sum, Dim Sum: The Art of Chinese Tea Lunch by Ellen Leong Blonder is an illustrated collection of recipes and some background info. Dim Sum by Janice Wong and Ma Jian Jun presents recipes for traditional and new dim sum with a focus on the flour used in the wrappings. The [Nom Wah Cookbook](https://nomwah.com/cookbook/) by Wilson Tang features recipes from the Nom Wah Tea Parlor, a New York Chinatown institution, and profiles the immigrants and their descendants who've kept multi-generational businesses alive in Chinatown. Grace Young's The Wisdom of the Chinese Kitchen includes some dim sum recipes.\n\n**Books for Kids**\n\n[Dim Sum for Everyone!](https://gracelin.com/dim-sum-for-everyone/) by Grace Lin is an illustrated dim sum family outing. Dim Sum Time by Sin Siu Tang and Andrew Sun teaches Cantonese dim sum phrases.",
-        "tags": [
-            "粵菜",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/43392.html"
-            },
-            {
-                "name": "The Food Ranger",
-                "URL": "https://www.thefoodranger.com/what-is-dim-sum-the-ultimate-guide/"
-            },
-            {
-                "name": "Honest Food Talks",
-                "URL": "https://www.honestfoodtalks.com/dim-sum-guide-yum-cha/"
-            },
-            {
-                "name": "Hong Kong Tourism Board",
-                "URL": "http://www.dimsumcentral.com/what-is-dim-sum/"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/dimsum-info"
-            },
-            {
-                "name": "LTL Mandarin School",
-                "URL": "https://ltl-taiwan.com/what-is-dim-sum/"
-            },
-            {
-                "name": "Resy",
-                "URL": "https://blog.resy.com/2022/09/why-dim-sum-is-the-best-brunch/"
-            },
-            {
-                "name": "Resy",
-                "URL": "https://blog.resy.com/2022/09/why-dim-sum-matters-more-than-ever/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Dim_sum"
-            },
-            {
-                "name": "Zolima",
-                "URL": "https://zolimacitymag.com/pop-cantonese-%e9%bb%9e%e5%bf%83-dim-sum/"
-            }
-        ]
+    "images": [
+      {
+        "image": "yunnan",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Yunnan cuisine](https://en.wikipedia.org/wiki/Yunnan_cuisine), is the food of [Yunnan](https://en.wikipedia.org/wiki/Yunnan) province.",
+    "tags": ["滇菜"],
+    "resources": [
+      {
+        "name": "Chinese Food Wiki",
+        "URL": "https://www.chinesefoodwiki.org/Yunnan_Food"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yunnan_cuisine"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "dim sum",
+      "Cantonese": {
+        "text": "點心",
+        "wkty": ["點心", "點", "心"]
+      },
+      "Yale": "dím sām",
+      "Simplified": {
+        "text": "点心",
+        "wkty": ["点心", "点", "心"]
+      },
+      "Jyutping": "dim2 sam1",
+      "Pinyin": "diǎn xin",
+      "description": "{點} is *a bit* or *a touch*, and {心} is *heart* (the character looks like a heart), so {點心} can be translated as *a bit of heart* or *a touch of heart* or *touching the heart* (Grace Young in [The Breath of a Wok](https://www.graceyoung.com/cookbooks/cookbook-2/) translates it as *a dot on the heart*). Anyway, the origin of the term is debated.\n\n{點} is also the first character in *why* ({點解} dím gáai) and *o'clock* {(點鐘) dím jūng}. {心} is also the second character in *be careful!* ({小心} síu sām), *happy* ({開心} hōi sām) and the vegetable *choy sum* ({菜心} choi sām)."
     },
-    {
-        "word": {
-            "English": "Hong Kong-style",
-            "Cantonese": {
-                "text": "港式",
-                "wkty": [
-                    "港式",
-                    "港",
-                    "式"
-                ]
-            },
-            "Yale": "góng sīk",
-            "Jyutping": "gong2 sik1",
-            "Pinyin": "gǎng shì",
-            "description": "{港} the second character of *Hong Kong*, and {式} is style, so {港式} is *Kong-style*."
-        },
-        "images": [
-            {
-                "image": "hongkong",
-                "place": "Wikipedia"
-            }
-        ],
-        "description": "[Hong Kong cuisine](https://en.wikipedia.org/wiki/Hong_Kong_cuisine) is of course largely Chinese (in particular, Cantonese) but it has benefited from a continuing influx of other Asian and Western influences, resulting in some original takes, like Hong Kong-style [French toast](https://en.wikipedia.org/wiki/French_toast), Hong Kong-style iced lemon tea, Hong Kong-style egg tarts...\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hong_Kong_in_China_(%2Ball_claims_hatched).svg)",
-        "tags": [
-            "港式"
-        ],
-        "resources": [
-            {
-                "name": "Wikimedia",
-                "URL": "https://commons.wikimedia.org/wiki/File:Hong_Kong_in_China_(%2Ball_claims_hatched).svg)"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Hong_Kong_cuisine"
-            }
-        ]
+    "images": [
+      {
+        "image": "pingpangpong5",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Dim sum](http://en.wikipedia.org/wiki/Dim_sum) are shared small dishes or steamer baskets of dumplings and other typically bite-sized foods.\n\n**History**\n\nDim sum dishes originated from all over China and some even have Western influences, but dim sum as a Hong Kong and [Cantonese cuisine](https://en.wikipedia.org/wiki/Cantonese_cuisine) (The English spelling is close to the Cantonese pronunciation *dím sām*) originated in the *yum cha* (drink tea) tradition of travelers stopping at teahouses for tea and snacks along the Silk Road (so dim sum was an early version of truck stop food).\n\nDim sum is known for being served in on carts in large restaurants, but these days it can be found in a variety of settings ranging from banquet-sized restaurants to cozier Hong Kong-style cafes (cha chaan teng) and ordered off a menu.\n\n**Books**\n\n[The Dim Sum Field Guide](https://www.penguinrandomhouse.com/books/533493/the-dim-sum-field-guide-by-carolyn-phillips/) by Carolyn Phillips is an illustrated overview of dim sum, Dim Sum: The Art of Chinese Tea Lunch by Ellen Leong Blonder is an illustrated collection of recipes and some background info. Dim Sum by Janice Wong and Ma Jian Jun presents recipes for traditional and new dim sum with a focus on the flour used in the wrappings. The [Nom Wah Cookbook](https://nomwah.com/cookbook/) by Wilson Tang features recipes from the Nom Wah Tea Parlor, a New York Chinatown institution, and profiles the immigrants and their descendants who've kept multi-generational businesses alive in Chinatown. Grace Young's The Wisdom of the Chinese Kitchen includes some dim sum recipes.\n\n**Books for Kids**\n\n[Dim Sum for Everyone!](https://gracelin.com/dim-sum-for-everyone/) by Grace Lin is an illustrated dim sum family outing. Dim Sum Time by Sin Siu Tang and Andrew Sun teaches Cantonese dim sum phrases.",
+    "tags": ["粵菜", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/43392.html"
+      },
+      {
+        "name": "The Food Ranger",
+        "URL": "https://www.thefoodranger.com/what-is-dim-sum-the-ultimate-guide/"
+      },
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/dim-sum-guide-yum-cha/"
+      },
+      {
+        "name": "Hong Kong Tourism Board",
+        "URL": "http://www.dimsumcentral.com/what-is-dim-sum/"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/dimsum-info"
+      },
+      {
+        "name": "LTL Mandarin School",
+        "URL": "https://ltl-taiwan.com/what-is-dim-sum/"
+      },
+      {
+        "name": "Resy",
+        "URL": "https://blog.resy.com/2022/09/why-dim-sum-is-the-best-brunch/"
+      },
+      {
+        "name": "Resy",
+        "URL": "https://blog.resy.com/2022/09/why-dim-sum-matters-more-than-ever/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Dim_sum"
+      },
+      {
+        "name": "Zolima",
+        "URL": "https://zolimacitymag.com/pop-cantonese-%e9%bb%9e%e5%bf%83-dim-sum/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Hong Kong-style",
+      "Cantonese": {
+        "text": "港式",
+        "wkty": ["港式", "港", "式"]
+      },
+      "Yale": "góng sīk",
+      "Jyutping": "gong2 sik1",
+      "Pinyin": "gǎng shì",
+      "description": "{港} the second character of *Hong Kong*, and {式} is style, so {港式} is *Kong-style*."
     },
-    {
-        "word": {
-            "Cantonese": "素",
-            "English": "vegetarian",
-            "Yale": "sou",
-            "Pinyin": "sù",
-            "description": "{素} is typically used in conjunction with a term to mean *vegetarian*, e.g. {素菜} (sou choi) is *vegetarian dish*, {素餐} is *vegetarian meal*, {素食} is *vegetarian food*.\n\n{素} also means *simple*, *plain*, or *clear*, so {素月} is a bright and clear moon, {素顏} is *face without makeup*, and {素數} is *prime number*."
-        },
-        "images": [
-            {
-                "image": "chefkennysvegandimsum",
-                "place": "Chef Kenny's Vegan Dim Sum, Las Vegas, Nevada"
-            }
-        ],
-        "description": "With a long history of Buddhism and people just not able to afford meat, Chinese cuisine traditionally excels in flavorful and textured vegetable dishes and also “mock” meats made from [tofu](https://en.wikipedia.org/wiki/Tofu) and wheat gluten (yes, gluten).\n\n**Books**\n\n[Vegetarian Chinese Soul Food](https://mychinesesoulfood.com/vegetarian-chinese-soul-food/) by [Hsiao-Ching Chou](https://mychinesesoulfood.com/about/)",
-        "tags": [
-            "素"
-        ],
-        "resources": [
-            {
-                "name": "Vice",
-                "URL": "https://www.vice.com/en/article/8xyqqz/the-origins-of-fake-meat-are-rooted-in-chinese-cooking"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Vegetarianism_by_country#China"
-            }
-        ]
+    "images": [
+      {
+        "image": "hongkong",
+        "place": "Wikipedia"
+      }
+    ],
+    "description": "[Hong Kong cuisine](https://en.wikipedia.org/wiki/Hong_Kong_cuisine) is of course largely Chinese (in particular, Cantonese) but it has benefited from a continuing influx of other Asian and Western influences, resulting in some original takes, like Hong Kong-style [French toast](https://en.wikipedia.org/wiki/French_toast), Hong Kong-style iced lemon tea, Hong Kong-style egg tarts...\n\n**Graphics Credit**\n\n[TUBS, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hong_Kong_in_China_(%2Ball_claims_hatched).svg)",
+    "tags": ["港式"],
+    "resources": [
+      {
+        "name": "Wikimedia",
+        "URL": "https://commons.wikimedia.org/wiki/File:Hong_Kong_in_China_(%2Ball_claims_hatched).svg)"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hong_Kong_cuisine"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": "素",
+      "English": "vegetarian",
+      "Yale": "sou",
+      "Pinyin": "sù",
+      "description": "{素} is typically used in conjunction with a term to mean *vegetarian*, e.g. {素菜} (sou choi) is *vegetarian dish*, {素餐} is *vegetarian meal*, {素食} is *vegetarian food*.\n\n{素} also means *simple*, *plain*, or *clear*, so {素月} is a bright and clear moon, {素顏} is *face without makeup*, and {素數} is *prime number*."
     },
-    {
-        "word": {
-            "English": "seafood",
-            "Cantonese": {
-                "text": "海鮮",
-                "wkty": [
-                    "海鮮",
-                    "海",
-                    "鮮"
-                ]
-            },
-            "Yale": "hói sīn",
-            "Simplified": {
-                "text": "海鲜",
-                "wkty": [
-                    "海鲜",
-                    "海",
-                    "鲜"
-                ]
-            },
-            "Pinyin": "hǎi xiān"
-        },
-        "images": [
-            {
-                "image": "seafoodplatternewasianbbq",
-                "place": "New Asian BBQ, Las Vegas, Nevada"
-            }
-        ],
-        "description": "\n\nCantonese cuisine and other coastal Chinese cuisines are known for fresh seafood, exemplified by how the word for *seafood* {海鮮} joins *ocean* {海} and *fresh* {鮮} is *fresh*, so *seafood* is *ocean fresh*.\n\nAnd {鮮}, which also by itself means *seafood*, consists of left and right [radicals](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {魚} and {羊} which mean *fish* and *fresh*, respectively.\n\n**Similar Words**\n\n{海} is also part of {海菜} (*ocean vegetable*, i.e. *seaweed*).\n\n{鮮} is also part of {新鮮} (*new fresh*, more commonly used as a standalone word for *fresh*).",
-        "tags": [
-            "海鮮"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Seafood"
-            }
-        ]
+    "images": [
+      {
+        "image": "chefkennysvegandimsum",
+        "place": "Chef Kenny's Vegan Dim Sum, Las Vegas, Nevada"
+      }
+    ],
+    "description": "With a long history of Buddhism and people just not able to afford meat, Chinese cuisine traditionally excels in flavorful and textured vegetable dishes and also “mock” meats made from [tofu](https://en.wikipedia.org/wiki/Tofu) and wheat gluten (yes, gluten).\n\n**Books**\n\n[Vegetarian Chinese Soul Food](https://mychinesesoulfood.com/vegetarian-chinese-soul-food/) by [Hsiao-Ching Chou](https://mychinesesoulfood.com/about/)",
+    "tags": ["素"],
+    "resources": [
+      {
+        "name": "Vice",
+        "URL": "https://www.vice.com/en/article/8xyqqz/the-origins-of-fake-meat-are-rooted-in-chinese-cooking"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Vegetarianism_by_country#China"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "seafood",
+      "Cantonese": {
+        "text": "海鮮",
+        "wkty": ["海鮮", "海", "鮮"]
+      },
+      "Yale": "hói sīn",
+      "Simplified": {
+        "text": "海鲜",
+        "wkty": ["海鲜", "海", "鲜"]
+      },
+      "Pinyin": "hǎi xiān"
     },
-    {
-        "word": {
-            "English": "new dishes",
-            "Cantonese": "新菜",
-            "Yale": "sān choi",
-            "Pinyin": "xīn cài",
-            "description": "{新} is *new*, and {菜} is *dish* (or *vegetable* or *cuisine*), so 新菜 is *new dish*."
-        },
-        "images": [
-            {
-                "image": "hkgardenassorted2",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "This category is updated with the latest dishes added to this app.",
-        "tags": [
-            "新菜"
-        ],
-        "resources": []
-    }
+    "images": [
+      {
+        "image": "seafoodplatternewasianbbq",
+        "place": "New Asian BBQ, Las Vegas, Nevada"
+      }
+    ],
+    "description": "\n\nCantonese cuisine and other coastal Chinese cuisines are known for fresh seafood, exemplified by how the word for *seafood* {海鮮} joins *ocean* {海} and *fresh* {鮮} is *fresh*, so *seafood* is *ocean fresh*.\n\nAnd {鮮}, which also by itself means *seafood*, consists of left and right [radicals](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {魚} and {羊} which mean *fish* and *fresh*, respectively.\n\n**Similar Words**\n\n{海} is also part of {海菜} (*ocean vegetable*, i.e. *seaweed*).\n\n{鮮} is also part of {新鮮} (*new fresh*, more commonly used as a standalone word for *fresh*).",
+    "tags": ["海鮮"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Seafood"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "new dishes",
+      "Cantonese": "新菜",
+      "Yale": "sān choi",
+      "Pinyin": "xīn cài",
+      "description": "{新} is *new*, and {菜} is *dish* (or *vegetable* or *cuisine*), so 新菜 is *new dish*."
+    },
+    "images": [
+      {
+        "image": "hkgardenassorted2",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "This category is updated with the latest dishes added to this app.",
+    "tags": ["新菜"],
+    "resources": []
+  }
 ]

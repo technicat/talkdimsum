@@ -1,61 +1,57 @@
 [
-    {
-        "word": {
-            "English": "steamed",
-            "Cantonese": "蒸",
-            "Yale": "jīng",
-            "Jyutping": "zing1",
-            "Pinyin": "zhēng",
-            "description": "{蒸} is a [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters) compound of the semantic {艸}, which is *grass*, at top and {烝} at the bottom. Mnemonic tip: I think of the four lines at bottom as lines of steam."
-        },
-        "images": [
-            {
-                "image": "assortednewasianbbq",
-                "place": "New Asian BBQ, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Steaming](https://www.thespruceeats.com/chinese-steaming-recipes-p2-694402) is one of the main cooking techniques in [Chinese cuisine](https://en.wikipedia.org/wiki/Chinese_cuisine) (alongside stir-frying and deep-frying), especially in dim sum, as evidenced by the stacks of [bamboo steaming baskets](https://thewoksoflife.com/how-to-use-bamboo-steamer/).",
-        "tags": [
-            "蒸"
-        ],
-        "resources": [
-            {
-                "name": "The Spruce eats",
-                "URL": "https://www.thespruceeats.com/chinese-steaming-recipes-p2-694402"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/how-to-use-bamboo-steamer/"
-            }
-        ]
+  {
+    "word": {
+      "English": "steamed",
+      "Cantonese": "蒸",
+      "Yale": "jīng",
+      "Jyutping": "zing1",
+      "Pinyin": "zhēng",
+      "description": "{蒸} is a [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters) compound of the semantic {艸}, which is *grass*, at top and {烝} at the bottom. Mnemonic tip: I think of the four lines at bottom as lines of steam."
     },
-    {
-        "word": {
-          "English": "stir-fried",
-          "Cantonese": "炒",
-          "Yale": "cháau",
-          "Pinyin": "chǎo",
-          "description": "{炒} is a [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters) compound of the semantic {火}, which is *fire*, and the phonetic {少}, which is *few* or *less*."
-        },
-        "images": [
-          {
-            "image": "saltyfishfriedriceislandmalaysian",
-            "place": "Island Malaysian, Las Vegas, Nevada"
-          }
-        ],
-        "description": "Stir-frying aptly describes the technique of stirring and tossing ingredients with oil heated in a wok. The English term [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) was coined in the 1945 cookbook[How to Cook and Eat in Chinese](https://en.wikipedia.org/wiki/How_to_Cook_and_Eat_in_Chinese), written by [Buwei Yang Chao](https://en.wikipedia.org/wiki/Buwei_Yang_Chao), who was one of the first physicians to practice Western medicine in China.",
-        "tags": [
-          "炒"
-        ],
-        "resources": [
-          {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Stir_frying"
-          },
-          {
-            "name": "The Woks of Life",
-            "URL": "https://thewoksoflife.com/how-to-make-stir-fry/"
-          }
-        ]
+    "images": [
+      {
+        "image": "assortednewasianbbq",
+        "place": "New Asian BBQ, Las Vegas, Nevada"
       }
+    ],
+    "description": "[Steaming](https://www.thespruceeats.com/chinese-steaming-recipes-p2-694402) is one of the main cooking techniques in [Chinese cuisine](https://en.wikipedia.org/wiki/Chinese_cuisine) (alongside stir-frying and deep-frying), especially in dim sum, as evidenced by the stacks of [bamboo steaming baskets](https://thewoksoflife.com/how-to-use-bamboo-steamer/).",
+    "tags": ["蒸"],
+    "resources": [
+      {
+        "name": "The Spruce eats",
+        "URL": "https://www.thespruceeats.com/chinese-steaming-recipes-p2-694402"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/how-to-use-bamboo-steamer/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "stir-fried",
+      "Cantonese": "炒",
+      "Yale": "cháau",
+      "Pinyin": "chǎo",
+      "description": "{炒} is a [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters) compound of the semantic {火}, which is *fire*, and the phonetic {少}, which is *few* or *less*."
+    },
+    "images": [
+      {
+        "image": "saltyfishfriedriceislandmalaysian",
+        "place": "Island Malaysian, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Stir-frying aptly describes the technique of stirring and tossing ingredients with oil heated in a wok. The English term [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) was coined in the 1945 cookbook[How to Cook and Eat in Chinese](https://en.wikipedia.org/wiki/How_to_Cook_and_Eat_in_Chinese), written by [Buwei Yang Chao](https://en.wikipedia.org/wiki/Buwei_Yang_Chao), who was one of the first physicians to practice Western medicine in China.",
+    "tags": ["炒"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Stir_frying"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/how-to-make-stir-fry/"
+      }
+    ]
+  }
 ]

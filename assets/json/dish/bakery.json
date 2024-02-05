@@ -1,28 +1,26 @@
 [
-    {
-        "word": {
-            "Cantonese": "餅店",
-            "English": "bakery"
-        },
-        "images": [
-            {
-                "image": "bfbakerywrapped",
-                "place": "BF Bakery, las Vegas, Nevada"
-            }
-        ],
-        "description": "Chinese bakeries feature a variety of baked goods (naturally), snacks, and desserts, with some influences from the West (Portuguese-style egg tarts, hot dog buns...) and other parts of Asia.",
-        "tags": [
-            "餅店"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_bakery_products"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/category/recipes/chinese-bakery/"
-            }
-        ]
-    }
+  {
+    "word": {
+      "Cantonese": "餅店",
+      "English": "bakery"
+    },
+    "images": [
+      {
+        "image": "bfbakerywrapped",
+        "place": "BF Bakery, las Vegas, Nevada"
+      }
+    ],
+    "description": "Chinese bakeries feature a variety of baked goods (naturally), snacks, and desserts, with some influences from the West (Portuguese-style egg tarts, hot dog buns...) and other parts of Asia.",
+    "tags": ["餅店"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_bakery_products"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/category/recipes/chinese-bakery/"
+      }
+    ]
+  }
 ]

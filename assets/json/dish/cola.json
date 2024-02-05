@@ -4,20 +4,12 @@
       "English": "cola",
       "Cantonese": {
         "text": "可樂",
-        "wkty": [
-          "可樂",
-          "可",
-          "樂"
-        ]
+        "wkty": ["可樂", "可", "樂"]
       },
       "Yale": "hó lohk",
       "Simplified": {
         "text": "可乐",
-        "wkty": [
-          "可樂",
-          "可",
-          "樂"
-        ]
+        "wkty": ["可樂", "可", "樂"]
       },
       "Pinyin": "kě lè",
       "description": "{可樂} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cola* (the Mandarin pronunciation *kě lè* is pretty close), but in a punny way it also means *entertaining*.\n\n{可} by itself is *able to* (but is generally used in {可以} for that meaning).\n\n{樂} by itself is *music* (but more generally used in {音樂} for that meaning). So you can remember {可樂} as *can music*."
@@ -29,13 +21,7 @@
       }
     ],
     "description": "[Cola](https://en.wikipedia.org/wiki/Cola) soft drink. You would use this word when ordering a Coke (but there's another word specifically for Pepsi).\n\n**Ordering**\n\n{杯} is *cup* (or mug or glass) and is the [measure word](https://en.wikipedia.org/wiki/Measure_word) for water (and other drinks), and {一} is *one*, so to order a glass of cola, ask for 一杯可樂 (yāt būi hó lohk in Cantonese, yī bēi kě lè in Mandarin), *one cup of cola*.",
-    "tags": [
-      "冷飲",
-      "可樂",
-      "汽水",
-      "飲品",
-      "茶餐廳"
-    ],
+    "tags": ["冷飲", "可樂", "汽水", "飲品", "茶餐廳"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -48,28 +34,12 @@
       "English": "lemon cola",
       "Cantonese": {
         "text": "檸檬可樂",
-        "wkty": [
-          "檸檬可樂",
-          "檸檬",
-          "檸",
-          "檬",
-          "可樂",
-          "可",
-          "樂"
-        ]
+        "wkty": ["檸檬可樂", "檸檬", "檸", "檬", "可樂", "可", "樂"]
       },
       "Yale": "nìhng mūng hó lohk",
       "Simplified": {
         "text": "柠檬可乐",
-        "wkty": [
-          "柠檬可樂",
-          "柠檬",
-          "柠",
-          "檬",
-          "可乐",
-          "可",
-          "乐"
-        ]
+        "wkty": ["柠檬可樂", "柠檬", "柠", "檬", "可乐", "可", "乐"]
       },
       "Pinyin": "níng méng kě lè",
       "description": "This word combines two [loanwords](https://en.wikipedia.org/wiki/Loanword) -- {檸檬} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *lemon*, and {可樂} is (and sounds like) *cola*, so 柠檬可乐 is *lemon cola*."
@@ -81,14 +51,7 @@
       }
     ],
     "description": "[Cola](https://en.wikipedia.org/wiki/Cola) soft drink with slices of lemon.",
-    "tags": [
-      "冷飲",
-      "檸檬",
-      "可樂",
-      "汽水",
-      "飲品",
-      "茶餐廳"
-    ],
+    "tags": ["冷飲", "檸檬", "可樂", "汽水", "飲品", "茶餐廳"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -101,24 +64,12 @@
       "English": "diet Coke",
       "Cantonese": {
         "text": "健怡可樂",
-        "wkty": [
-          "健",
-          "怡",
-          "可樂",
-          "可",
-          "樂"
-        ]
+        "wkty": ["健", "怡", "可樂", "可", "樂"]
       },
       "Yale": "gihn yìh hó lohk",
       "Simplified": {
         "text": "健怡可乐",
-        "wkty": [
-          "健",
-          "怡",
-          "可乐",
-          "可",
-          "乐"
-        ]
+        "wkty": ["健", "怡", "可乐", "可", "乐"]
       },
       "Pinyin": "jiàn yí Kě lè"
     },
@@ -129,13 +80,7 @@
       }
     ],
     "description": "{健} is *healthy*, {怡} is *pleasure*, and {健怡} is *cola*, so 健怡可樂 is *healthy pleasure cola* (which sounds more enticing than just *diet cola*).",
-    "tags": [
-      "冷飲",
-      "可樂",
-      "汽水",
-      "飲品",
-      "茶餐廳"
-    ],
+    "tags": ["冷飲", "可樂", "汽水", "飲品", "茶餐廳"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -148,11 +93,7 @@
       "English": "Pepsi",
       "Cantonese": {
         "text": "百事",
-        "wkty": [
-          "百事",
-          "百",
-          "事"
-        ]
+        "wkty": ["百事", "百", "事"]
       },
       "Yale": "baak sih",
       "Pinyin": "bǎi shì",
@@ -165,13 +106,7 @@
       }
     ],
     "description": "The Cantonese for [Pepsi](https://en.wikipedia.org/wiki/Pepsi) is *baak sih*, which sort of sounds like *Pepsi* (the Mandarin pronuncation *bǎi shì* is further off). Technically, it's short for 百事可樂, Pepsi-Cola (baak sih hó lohk), but as in English, people usually don't bother saying the full name (and which is why in Hong Kong, I would order Pepsi more often than Coke because I found the Cantonese for *Pepsi* easier to say than the Cantonese for *cola*).",
-    "tags": [
-      "冷飲",
-      "可樂",
-      "汽水",
-      "飲品",
-      "茶餐廳"
-    ],
+    "tags": ["冷飲", "可樂", "汽水", "飲品", "茶餐廳"],
     "resources": [
       {
         "name": "Wikipedia",

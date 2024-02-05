@@ -1,91 +1,62 @@
 [
-    {
-        "word": {
-            "English": "choy sum",
-            "Cantonese": {
-                "text": "菜心",
-                "wkty": [
-                    "菜心",
-                    "菜",
-                    "心"
-                ]
-            },
-            "Yale": "choi sām",
-            "Pinyin": "cài xīn",
-            "description": "{菜} is *vegetable* and {心} is *heart* (same sum {心} as in dim sum {點心}) so {菜心} is *heart of the vegetable*."
-        },
-        "images": [
-            {
-                "image": "choysumbigwong",
-                "place": "Big Wong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Choy sum](https://en.wikipedia.org/wiki/Choy_sum) is a leafy green vegetable similar to [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan).",
-        "tags": [
-            "菜心",
-            "菜",
-            "蒸"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Choy_sum"
-            }
-        ]
+  {
+    "word": {
+      "English": "choy sum",
+      "Cantonese": {
+        "text": "菜心",
+        "wkty": ["菜心", "菜", "心"]
+      },
+      "Yale": "choi sām",
+      "Pinyin": "cài xīn",
+      "description": "{菜} is *vegetable* and {心} is *heart* (same sum {心} as in dim sum {點心}) so {菜心} is *heart of the vegetable*."
     },
-    {
-        "word": {
-            "English": "choy sum with oyster sauce",
-            "Cantonese": {
-                "text": "蠔油菜心",
-                "wkty": [
-                    "蠔油",
-                    "蠔",
-                    "油",
-                    "菜心",
-                    "菜",
-                    "心"
-                ]
-            },
-            "Yale": "hòuh yàuh choi sām",
-            "Simplified": {
-                "text": "蚝油菜心",
-                "wkty": [
-                    "蚝油",
-                    "蚝",
-                    "油",
-                    "菜心",
-                    "菜",
-                    "心"
-                ]
-            },
-            "Pinyin": "háo yóu cài xīn",
-            "description": "{蠔油} is *oyster sauce* ({蠔} is *oyster* and {油} is *oil*, so *oyster oil*), and {菜心} is *choy sum*."
-        },
-        "images": [
-            {
-                "image": "choisumkj",
-                "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Choy sum](https://en.wikipedia.org/wiki/Choy_sum) boiled or steamed and served with [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce).",
-        "tags": [
-            "粵菜",
-            "蠔油時蔬",
-            "蠔油",
-            "菜心",
-            "菜",
-            "蒸"
-        ],
-        "resources": [
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/vegetables/choy-sum-with-oyster-sauce"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2016/01/yu-choy-recipe/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "choysumbigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Choy sum](https://en.wikipedia.org/wiki/Choy_sum) is a leafy green vegetable similar to [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan).",
+    "tags": ["菜心", "菜", "蒸"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Choy_sum"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "choy sum with oyster sauce",
+      "Cantonese": {
+        "text": "蠔油菜心",
+        "wkty": ["蠔油", "蠔", "油", "菜心", "菜", "心"]
+      },
+      "Yale": "hòuh yàuh choi sām",
+      "Simplified": {
+        "text": "蚝油菜心",
+        "wkty": ["蚝油", "蚝", "油", "菜心", "菜", "心"]
+      },
+      "Pinyin": "háo yóu cài xīn",
+      "description": "{蠔油} is *oyster sauce* ({蠔} is *oyster* and {油} is *oil*, so *oyster oil*), and {菜心} is *choy sum*."
+    },
+    "images": [
+      {
+        "image": "choisumkj",
+        "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Choy sum](https://en.wikipedia.org/wiki/Choy_sum) boiled or steamed and served with [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce).",
+    "tags": ["粵菜", "蠔油時蔬", "蠔油", "菜心", "菜", "蒸"],
+    "resources": [
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/vegetables/choy-sum-with-oyster-sauce"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2016/01/yu-choy-recipe/"
+      }
+    ]
+  }
 ]

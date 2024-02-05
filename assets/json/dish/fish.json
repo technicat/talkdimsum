@@ -4,13 +4,7 @@
       "English": "fried fish filet",
       "Cantonese": {
         "text": "炸魚扒",
-        "wkty": [
-          "炸",
-          "多春魚",
-          "多",
-          "春",
-          "魚"
-        ]
+        "wkty": ["炸", "多春魚", "多", "春", "魚"]
       },
       "Simplified": "炸鱼扒",
       "Yale": "ja yú pàh",
@@ -24,11 +18,7 @@
       }
     ],
     "description": "Deep-fried fish filet.",
-    "tags": [
-      "海鮮",
-      "魚",
-      "炸"
-    ],
+    "tags": ["海鮮", "魚", "炸"],
     "resources": [
       {
         "name": "Chinese Food Recipes",
@@ -45,13 +35,7 @@
       "English": "fried smelt",
       "Cantonese": {
         "text": "炸多春魚",
-        "wkty": [
-          "炸",
-          "多春魚",
-          "多",
-          "春",
-          "魚"
-        ]
+        "wkty": ["炸", "多春魚", "多", "春", "魚"]
       },
       "Mandarin": "炸胡瓜魚",
       "Simplified": "炸胡瓜鱼",
@@ -66,13 +50,7 @@
       }
     ],
     "description": "Deep-fried whole smelt.",
-    "tags": [
-      "多春魚",
-      "海鮮",
-      "魚",
-      "炸",
-      "點心"
-    ],
+    "tags": ["多春魚", "海鮮", "魚", "炸", "點心"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -85,13 +63,7 @@
       "English": "fish fillet with black bean sauce",
       "Cantonese": {
         "text": "豉汁斑球",
-        "wkty": [
-          "豉汁",
-          "豉",
-          "汁",
-          "斑",
-          "球"
-        ]
+        "wkty": ["豉汁", "豉", "汁", "斑", "球"]
       },
       "Yale": "sih jāp bāan kàuh",
       "Jyutping": "si6 zap1 baan1 kau4",
@@ -105,11 +77,7 @@
       }
     ],
     "description": "Pieces of fish [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with black bean sauce and vegetables such as bell peppers.",
-    "tags": [
-      "海鮮",
-      "豉汁",
-      "魚"
-    ],
+    "tags": ["海鮮", "豉汁", "魚"],
     "resources": [
       {
         "name": "Rasa Malaysia",

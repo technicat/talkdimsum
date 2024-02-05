@@ -4,24 +4,12 @@
       "English": "pineapple bun",
       "Cantonese": {
         "text": "菠蘿包",
-        "wkty": [
-          "菠蘿包",
-          "菠蘿",
-          "菠",
-          "蘿",
-          "包"
-        ]
+        "wkty": ["菠蘿包", "菠蘿", "菠", "蘿", "包"]
       },
       "Yale": "bō lòh bāau",
       "Simplified": {
         "text": "菠萝包",
-        "wkty": [
-          "菠萝包",
-          "菠萝",
-          "菠",
-          "萝",
-          "包"
-        ]
+        "wkty": ["菠萝包", "菠萝", "菠", "萝", "包"]
       },
       "Pinyin": "bō luó bāo",
       "description": "{菠蘿} is *pineapple*, and {包} is *bun*, so {菠蘿包} is *pineapple bun*.\n\nAdd {蜜} to {菠蘿} and you get the word for jackfruit {菠蘿蜜} (bō lòh maht)"
@@ -33,16 +21,7 @@
       }
     ],
     "description": "Bun with a sweet crunchy top in a crosshatch pattern reminiscent of a pineapple. Sometimes there is a filling, but it's almost never pineapple - more often custard or coconut.",
-    "tags": [
-      "菠蘿包",
-      "港式",
-      "茶餐廳",
-      "菠蘿",
-      "包",
-      "椰",
-      "焗",
-      "甜品"
-    ],
+    "tags": ["菠蘿包", "港式", "茶餐廳", "菠蘿", "包", "椰", "焗", "甜品"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -103,24 +82,12 @@
       "English": "pineapple bun w/ butter",
       "Cantonese": {
         "text": "菠蘿油",
-        "wkty": [
-          "菠蘿包",
-          "菠蘿",
-          "菠",
-          "蘿",
-          "包"
-        ]
+        "wkty": ["菠蘿包", "菠蘿", "菠", "蘿", "包"]
       },
       "Yale": "bō lòh yàuh",
       "Simplified": {
         "text": "菠萝油",
-        "wkty": [
-          "菠萝包",
-          "菠萝",
-          "菠",
-          "萝",
-          "包"
-        ]
+        "wkty": ["菠萝包", "菠萝", "菠", "萝", "包"]
       },
       "Pinyin": "bō luó yóu",
       "description": "{菠蘿} is *pineapple*, and {油} is *oil* but is short for *butter*, which is *cow oil* {牛油} (ngàuh yàuh) or *milk oil* {奶油} (náaih yàuh)."
@@ -155,28 +122,12 @@
       "English": "pineapple lava custard bun",
       "Cantonese": {
         "text": "菠蘿流沙包",
-        "wkty": [
-          "菠蘿",
-          "菠",
-          "蘿",
-          "流沙",
-          "流",
-          "沙",
-          "包"
-        ]
+        "wkty": ["菠蘿", "菠", "蘿", "流沙", "流", "沙", "包"]
       },
       "Yale": "bō lòh làu sāa bāau",
       "Simplified": {
         "text": "菠萝流沙包",
-        "wkty": [
-          "菠萝",
-          "菠",
-          "萝",
-          "流沙",
-          "流",
-          "沙",
-          "包"
-        ]
+        "wkty": ["菠萝", "菠", "萝", "流沙", "流", "沙", "包"]
       },
       "Pinyin": "bō luó liú shā bāo",
       "description": "{菠蘿} is *pineapple*, {流} is *flowing*, {沙} is *sand* (together {流沙} is *flowing sand* or *quicksand*), and {包} is *bun*, so 菠蘿流沙包 is *pineapple quicksand bun*."

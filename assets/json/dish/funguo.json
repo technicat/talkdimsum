@@ -1,124 +1,86 @@
 [
-    {
-        "word":
-            {
-                "English": "Chaozhou style dumpling",
-                "Cantonese": {
-                    "text": "潮州粉粿",
-                    "wkty": [
-                        "潮州",
-                        "潮",
-                        "州",
-                        "粉粿",
-                        "粉",
-                        "粿"
-                    ]
-                },
-                "Yale": "chìuh jāu fán gwó",
-                "Pinyin": "cháo zhōu fěn guǒ",
-                "description": "{潮州} is [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) (also spelled Teochew or Chiuchow or Chiu Chow), the cuisine and area of China where these dumplings originated. {粉} refers to the starchy wrapper, and the fourth character {粿} by itself means a rice cake but sometimes {果} is used instead, which is [fruit](https://en.wikipedia.org/wiki/Fruit)."
-            },
-        "images": [
-            {
-                "image": "chuchoidumplingdimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "These half-moon shaped steamed dumplings are wrapped with a translucent skin and contain a chopped mixture of pork, shrimp, chives, peanuts...",
-        "tags": [
-            "花生",
-            "潮州菜",
-            "粉粿",
-            "果",
-            "豬",
-            "豬肉",
-            "蝦",
-            "蒸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2014/11/teochew-dumplings.html"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Chiu-Chao-Style-Dumpling"
-            },
-            {
-                "name": "Gin's Kitchen",
-                "URL": "https://ginskitchen.wordpress.com/2013/05/03/chiu-chow-fun-gor-teochew-dumplings/"
-            },
-            {
-                "name": "Mom's Chinese Kitchen",
-                "URL": "http://www.momschinesekitchen.com/chiu-chow-fun-gor/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/mixed-protein/fun-guo"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/teochew-dumplings.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Fun_guo"
-            }
-        ]
+  {
+    "word": {
+      "English": "Chaozhou style dumpling",
+      "Cantonese": {
+        "text": "潮州粉粿",
+        "wkty": ["潮州", "潮", "州", "粉粿", "粉", "粿"]
+      },
+      "Yale": "chìuh jāu fán gwó",
+      "Pinyin": "cháo zhōu fěn guǒ",
+      "description": "{潮州} is [Chaozhou](https://en.wikipedia.org/wiki/Chaozhou) (also spelled Teochew or Chiuchow or Chiu Chow), the cuisine and area of China where these dumplings originated. {粉} refers to the starchy wrapper, and the fourth character {粿} by itself means a rice cake but sometimes {果} is used instead, which is [fruit](https://en.wikipedia.org/wiki/Fruit)."
     },
-    {
-        "word":
-            {
-                "English": "steamed shrimp dumpling",
-                "Cantonese": {
-                    "text": "鮮蝦粉粿",
-                    "wkty": [
-                        "鮮蝦",
-                        "鮮",
-                        "蝦",
-                        "粉粿",
-                        "粉",
-                        "粿"
-                    ]
-                },
-                "Yale": "sīn hā fán gwó",
-                "Simplified": {
-                    "text": "鲜虾粉粿",
-                    "wkty": [
-                        "鲜虾",
-                        "鲜",
-                        "虾",
-                        "粉粿",
-                        "粉",
-                        "粿"
-                    ]
-                },
-                "Pinyin": "xiān xiā fěn guǒ",
-                "description": "{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*)."
-            },
-        "images": [
-            {
-                "image": "shrimpfunguodimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Shrimp wrapped in a translucent skin, steamed.",
-        "tags": [
-            "粉粿",
-            "蝦",
-            "蒸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Cooking with Morgane",
-                "URL": "http://www.cookingwithmorgane.com/en/recipe/fun-guo-chinese-dumplings.html"
-            },
-            {
-                "name": "Traditional Chinese Recipes",
-                "URL": "http://traditionalchineserecipes.blogspot.com/2011/08/fun-gwor-pork-and-shrimp-dumpling.html"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "chuchoidumplingdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "These half-moon shaped steamed dumplings are wrapped with a translucent skin and contain a chopped mixture of pork, shrimp, chives, peanuts...",
+    "tags": ["花生", "潮州菜", "粉粿", "果", "豬", "豬肉", "蝦", "蒸", "點心"],
+    "resources": [
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2014/11/teochew-dumplings.html"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Chiu-Chao-Style-Dumpling"
+      },
+      {
+        "name": "Gin's Kitchen",
+        "URL": "https://ginskitchen.wordpress.com/2013/05/03/chiu-chow-fun-gor-teochew-dumplings/"
+      },
+      {
+        "name": "Mom's Chinese Kitchen",
+        "URL": "http://www.momschinesekitchen.com/chiu-chow-fun-gor/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/mixed-protein/fun-guo"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/teochew-dumplings.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Fun_guo"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "steamed shrimp dumpling",
+      "Cantonese": {
+        "text": "鮮蝦粉粿",
+        "wkty": ["鮮蝦", "鮮", "蝦", "粉粿", "粉", "粿"]
+      },
+      "Yale": "sīn hā fán gwó",
+      "Simplified": {
+        "text": "鲜虾粉粿",
+        "wkty": ["鲜虾", "鲜", "虾", "粉粿", "粉", "粿"]
+      },
+      "Pinyin": "xiān xiā fěn guǒ",
+      "description": "{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*)."
+    },
+    "images": [
+      {
+        "image": "shrimpfunguodimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Shrimp wrapped in a translucent skin, steamed.",
+    "tags": ["粉粿", "蝦", "蒸", "點心"],
+    "resources": [
+      {
+        "name": "Cooking with Morgane",
+        "URL": "http://www.cookingwithmorgane.com/en/recipe/fun-guo-chinese-dumplings.html"
+      },
+      {
+        "name": "Traditional Chinese Recipes",
+        "URL": "http://traditionalchineserecipes.blogspot.com/2011/08/fun-gwor-pork-and-shrimp-dumpling.html"
+      }
+    ]
+  }
 ]

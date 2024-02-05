@@ -4,15 +4,7 @@
       "English": "pickled mustard greens with beef",
       "Cantonese": {
         "text": "酸菜炒牛肉",
-        "wkty": [
-          "酸菜",
-          "酸",
-          "菜",
-          "炒",
-          "牛",
-          "牛肉",
-          "肉"
-        ]
+        "wkty": ["酸菜", "酸", "菜", "炒", "牛", "牛肉", "肉"]
       },
       "Yale": "syūn choi ngàuh yuhk",
       "Pinyin": "suān cài niú ròu",
@@ -25,12 +17,7 @@
       }
     ],
     "description": "A homestyle Cantonese dish (a recipe is listed in the book [Chinese Soul Food](https://mychinesesoulfood.com/vegetarian-chinese-soul-food/)), picked mustard greens stir-fried with beef.",
-    "tags": [
-      "家常菜",
-      "粵菜",
-      "酸菜",
-      "牛肉"
-    ],
+    "tags": ["家常菜", "粵菜", "酸菜", "牛肉"],
     "resources": [
       {
         "name": "The Woks of Life",
@@ -43,26 +30,12 @@
       "English": "daikon brisket stew",
       "Cantonese": {
         "text": "蘿蔔牛腩",
-        "wkty": [
-          "蘿蔔",
-          "蘿",
-          "蔔",
-          "牛腩",
-          "牛",
-          "腩"
-        ]
+        "wkty": ["蘿蔔", "蘿", "蔔", "牛腩", "牛", "腩"]
       },
       "Yale": "lòh baahk ngàuh náahm",
       "Simplified": {
         "text": "萝卜牛腩",
-        "wkty": [
-          "萝卜",
-          "萝",
-          "卜",
-          "牛腩",
-          "牛",
-          "腩"
-        ]
+        "wkty": ["萝卜", "萝", "卜", "牛腩", "牛", "腩"]
       },
       "Pinyin": "luó bo niú nǎn",
       "description": "{蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), {牛腩} is *beef brisket* ({牛} is *beef*, and {腩} is *brisket*), so 蘿蔔牛腩 is *daikon beef brisket*."
@@ -74,11 +47,7 @@
       }
     ],
     "description": "Slices of brisket and chunks of daikon.",
-    "tags": [
-      "牛肉",
-      "牛腩",
-      "蘿蔔"
-    ],
+    "tags": ["牛肉", "牛腩", "蘿蔔"],
     "resources": [
       {
         "name": "Cooking with Team J",
@@ -103,10 +72,7 @@
       "English": "beef tendon",
       "Cantonese": {
         "text": "牛筋",
-        "wkty": [
-          "牛筋",
-          "牛"
-        ]
+        "wkty": ["牛筋", "牛"]
       },
       "Yale": "ngàuh gān",
       "Pinyin": "niú jīn",
@@ -119,12 +85,7 @@
       }
     ],
     "description": "[Beef tendon](https://en.wikipedia.org/wiki/Tendon_as_food#China) slow-cooked until it's gelatinous.",
-    "tags": [
-      "牛肉",
-      "牛筋",
-      "蒸",
-      "點心"
-    ],
+    "tags": ["牛肉", "牛筋", "蒸", "點心"],
     "resources": [
       {
         "name": "Ang Sarap",
@@ -145,24 +106,12 @@
       "English": "beef jerky",
       "Cantonese": {
         "text": "牛肉乾",
-        "wkty": [
-          "牛肉乾",
-          "牛肉",
-          "牛",
-          "肉",
-          "乾"
-        ]
+        "wkty": ["牛肉乾", "牛肉", "牛", "肉", "乾"]
       },
       "Yale": "ngàuh yuhk gōn",
       "Simplified": {
         "text": "牛肉干",
-        "wkty": [
-          "牛肉干",
-          "牛肉",
-          "牛",
-          "肉",
-          "干"
-        ]
+        "wkty": ["牛肉干", "牛肉", "牛", "肉", "干"]
       },
       "Pinyin": "niú ròu gān",
       "description": "{牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), and {乾} is *dry*, so 牛肉乾 is *beef dry*."
@@ -174,10 +123,7 @@
       }
     ],
     "description": "Chinese beef jerky is marinaded with soy sauce and sugar, sometimes honey and other sauces, and not always made with beef (the [original version](https://en.wikipedia.org/wiki/Bakkwa) from Fujian is often made with pork or mutton). The result is tender and flavorful (sometimes fruit-flavored!).\n\n**Personal Note**\n\nThis was one of the snacks I used to have as a kid from our Chinatown shopping runs (infrequent, when you live in Iowa), and when I finally tried American beef jerky, I thought, you've got to be kidding.",
-    "tags": [
-      "閩菜",
-      "牛肉"
-    ],
+    "tags": ["閩菜", "牛肉"],
     "resources": [
       {
         "name": "The Hong Kong Cookery",
@@ -202,22 +148,12 @@
       "English": "braised beef shin",
       "Cantonese": {
         "text": "滷牛腱",
-        "wkty": [
-          "滷",
-          "牛腱",
-          "牛",
-          "腱"
-        ]
+        "wkty": ["滷", "牛腱", "牛", "腱"]
       },
       "Yale": "lóuh ngàuh gin",
       "Simplified": {
         "text": "卤牛腱",
-        "wkty": [
-          "滷",
-          "牛腱",
-          "牛",
-          "腱"
-        ]
+        "wkty": ["滷", "牛腱", "牛", "腱"]
       },
       "Pinyin": "lǔ niú jiàn"
     },
@@ -228,11 +164,7 @@
       }
     ],
     "description": "*Beef shin* (otherwise known as [beef shank](https://en.wikipedia.org/wiki/Beef_shank)) braised then sliced and served cold.",
-    "tags": [
-      "牛肉",
-      "牛腱",
-      "牛筋"
-    ],
+    "tags": ["牛肉", "牛腱", "牛筋"],
     "resources": [
       {
         "name": "Angel Wong's Kitchen",

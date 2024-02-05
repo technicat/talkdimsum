@@ -1,259 +1,205 @@
 [
-    {
-        "word": {
-            "English": "dessert",
-            "Cantonese": {
-                "text": "甜品",
-                "wkty": [
-                    "甜品",
-                    "甜",
-                    "品"
-                ]
-            },
-            "Yale": "tìhm bán",
-            "Jyutping": "tim4 ban2",
-            "Pinyin": "tián pǐn",
-            "description": "{甜} is *sweet*, and {品} is *item*, so it's basically *sweets*."
-        },
-        "images": [
-            {
-                "image": "walnutsoupandtarosagopuddingsweethoneydesserts",
-                "place": "Sweet Honey Desserts, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Chinese desserts](https://en.wikipedia.org/wiki/Chinese_desserts) include pastries, candies, cakes, jellies and puddings. Even though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!",
-        "tags": [
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "Chinese Dessert Recipes",
-                "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/"
-            },
-            {
-                "name": "Hong Kong Tourism Board",
-                "URL": "https://www.discoverhongkong.com/in/explore/dining/hong-kong-traditional-desserts.html"
-            },
-            {
-                "name": "Matador",
-                "URL": "https://matadornetwork.com/read/sweet-savory-delicious-chinese-desserts/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Chinese_desserts"
-            }
-        ]
+  {
+    "word": {
+      "English": "dessert",
+      "Cantonese": {
+        "text": "甜品",
+        "wkty": ["甜品", "甜", "品"]
+      },
+      "Yale": "tìhm bán",
+      "Jyutping": "tim4 ban2",
+      "Pinyin": "tián pǐn",
+      "description": "{甜} is *sweet*, and {品} is *item*, so it's basically *sweets*."
     },
-    {
-        "word": {
-            "English": "mango pancake",
-            "Cantonese": {
-                "text": "芒果班戟",
-                "wkty": [
-                    "芒果",
-                    "芒",
-                    "果",
-                    "班戟",
-                    "班",
-                    "戟"
-                ]
-            },
-            "Yale": "mōng gwó bāan kīk",
-            "Pinyin": "máng guǒ bān jǐ",
-            "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for *mango* (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {班戟} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *pancake* (the Cantonese, at least, sounds similar) so 芒果班戟 is *mango pancake* (even though it's not really a pancake)."
-        },
-        "images": [
-            {
-                "image": "mangopancakesweettalk",
-                "place": "Sweet Talk, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A popular Hong Kong dessert, [mango](https://en.wikipedia.org/wiki/Mango) topped with whipped cream and wrapped in a crepe.",
-        "tags": [
-            "港式",
-            "芒果",
-            "班戟",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "Ash Baber",
-                "URL": "https://ashbaber.com/hong-kong-style-mango-pancakes/"
-            },
-            {
-                "name": "Auntie Emily",
-                "URL": "https://auntieemily.com/hong-kong-style-mango-pancake/"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/hong-kong-style-mango-pancake/"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/mango-pancake-hong-kong-style/"
-            },
-            {
-                "name": "Easy Chinese Recipes",
-                "URL": "https://www.easychineserecipes.com/hong-kong-style-mango-pancake/"
-            },
-            {
-                "name": "Hot Thai Kitchen",
-                "URL": "https://hot-thai-kitchen.com/hong-kong-mango-pancake/"
-            },
-            {
-                "name": "Recipe Tin Eats",
-                "URL": "https://www.recipetineats.com/mango-pancakes/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/mango-pancake/"
-            },
-            {
-                "name": "Wok and Kin",
-                "URL": "https://www.wokandkin.com/mango-pancakes/"
-            },
-            {
-                "name": "Yum of China",
-                "URL": "https://www.yumofchina.com/mango-pancakes/"
-            }
-        ]
+    "images": [
+      {
+        "image": "walnutsoupandtarosagopuddingsweethoneydesserts",
+        "place": "Sweet Honey Desserts, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Chinese desserts](https://en.wikipedia.org/wiki/Chinese_desserts) include pastries, candies, cakes, jellies and puddings. Even though we translate these as dessert items, and often they're eaten at the end of meals, feel free to eat them at any time!",
+    "tags": ["甜品"],
+    "resources": [
+      {
+        "name": "Chinese Dessert Recipes",
+        "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/"
+      },
+      {
+        "name": "Hong Kong Tourism Board",
+        "URL": "https://www.discoverhongkong.com/in/explore/dining/hong-kong-traditional-desserts.html"
+      },
+      {
+        "name": "Matador",
+        "URL": "https://matadornetwork.com/read/sweet-savory-delicious-chinese-desserts/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chinese_desserts"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "mango pancake",
+      "Cantonese": {
+        "text": "芒果班戟",
+        "wkty": ["芒果", "芒", "果", "班戟", "班", "戟"]
+      },
+      "Yale": "mōng gwó bāan kīk",
+      "Pinyin": "máng guǒ bān jǐ",
+      "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for *mango* (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {班戟} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *pancake* (the Cantonese, at least, sounds similar) so 芒果班戟 is *mango pancake* (even though it's not really a pancake)."
     },
-    {
-        "word": {
-            "English": "fried milk",
-            "Cantonese": {
-                "text": "炸鮮奶",
-                "wkty": [
-                    "炸",
-                    "鮮奶",
-                    "鮮",
-                    "奶"
-                ]
-            },
-            "Yale": "ja sīn náaih",
-            "Simplified": {
-                "text": "炸鲜奶",
-                "wkty": [
-                    "炸",
-                    "鲜奶",
-                    "v",
-                    "奶"
-                ]
-            },
-            "Pinyin": "zhá xiān nǎi",
-            "description": "{炸} is *deep-fried*, {鮮} is *fresh*, and {奶} is *milk*, so 炸鮮奶 is *deep-fried fresh milk* (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n{鮮奶} is also part of the name for latte, *fresh milk coffee* (鮮奶咖啡)."
-        },
-        "images": [
-            {
-                "image": "friedmilksweetheart",
-                "place": "Sweet Heart, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.",
-        "tags": [
-            "鮮奶",
-            "炸",
-            "奶",
-            "甜品",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/fried-milk/"
-            },
-            {
-                "name": "Red Cook",
-                "URL": "https://redcook.net/2014/07/08/fried-milk-custard/"
-            }
-        ]
+    "images": [
+      {
+        "image": "mangopancakesweettalk",
+        "place": "Sweet Talk, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A popular Hong Kong dessert, [mango](https://en.wikipedia.org/wiki/Mango) topped with whipped cream and wrapped in a crepe.",
+    "tags": ["港式", "芒果", "班戟", "甜品"],
+    "resources": [
+      {
+        "name": "Ash Baber",
+        "URL": "https://ashbaber.com/hong-kong-style-mango-pancakes/"
+      },
+      {
+        "name": "Auntie Emily",
+        "URL": "https://auntieemily.com/hong-kong-style-mango-pancake/"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/hong-kong-style-mango-pancake/"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/mango-pancake-hong-kong-style/"
+      },
+      {
+        "name": "Easy Chinese Recipes",
+        "URL": "https://www.easychineserecipes.com/hong-kong-style-mango-pancake/"
+      },
+      {
+        "name": "Hot Thai Kitchen",
+        "URL": "https://hot-thai-kitchen.com/hong-kong-mango-pancake/"
+      },
+      {
+        "name": "Recipe Tin Eats",
+        "URL": "https://www.recipetineats.com/mango-pancakes/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/mango-pancake/"
+      },
+      {
+        "name": "Wok and Kin",
+        "URL": "https://www.wokandkin.com/mango-pancakes/"
+      },
+      {
+        "name": "Yum of China",
+        "URL": "https://www.yumofchina.com/mango-pancakes/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fried milk",
+      "Cantonese": {
+        "text": "炸鮮奶",
+        "wkty": ["炸", "鮮奶", "鮮", "奶"]
+      },
+      "Yale": "ja sīn náaih",
+      "Simplified": {
+        "text": "炸鲜奶",
+        "wkty": ["炸", "鲜奶", "v", "奶"]
+      },
+      "Pinyin": "zhá xiān nǎi",
+      "description": "{炸} is *deep-fried*, {鮮} is *fresh*, and {奶} is *milk*, so 炸鮮奶 is *deep-fried fresh milk* (although Chinese milk-based desserts typically originate from the days of powdered milk).\n\n{鮮奶} is also part of the name for latte, *fresh milk coffee* (鮮奶咖啡)."
     },
-    {
-        "word": {
-            "English": "grass jelly",
-            "Cantonese": {
-                "text": "仙草",
-                "wkty": [
-                    "仙草",
-                    "仙",
-                    "草"
-                ]
-            },
-            "Yale": "sīn chóu",
-            "Pinyin": "xiān cǎo",
-            "description": "{仙} is *divine* or *mystical* or *magical*, and {草} is *grass*, so you can think of {仙草} as *magic grass*, which refers to both the herb and the jelly made from it.\n\nBoth characters are [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters), i.e. one component indicates the meaning and the other gives a hint as to the sound (and sometimes provides double-duty in providing some meaning). {仙} is composed of the semantic {亻}), which is the [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) for *person*, and the phonetic {山}, which is *mountain*. {草} is composed of the semantic {⺾}) which is grass or a plant, and the phonetic {早} which means *early*."
-        },
-        "images": [
-            {
-                "image": "icygrassjellysignaturemeetfresh",
-                "place": "Meet Fresh, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Grass jelly](https://en.wikipedia.org/wiki/Grass_jelly) is served as dessert or mixed in drinks.",
-        "tags": [
-            "仙草",
-            "飲品",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/grass-jelly-cincau/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/grass-jelly/"
-            },
-            {
-                "name": "Honest Food Talks",
-                "URL": "https://www.honestfoodtalks.com/grass-jelly-recipe-cincau-boba/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
-            }
-        ]
+    "images": [
+      {
+        "image": "friedmilksweetheart",
+        "place": "Sweet Heart, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Sometimes called fried milk custard or fried milk custard balls, this dessert is made with milk thickened with cornstarch and cooled, then coated in a batter and deep-fried.",
+    "tags": ["鮮奶", "炸", "奶", "甜品", "茶餐廳"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/fried-milk/"
+      },
+      {
+        "name": "Red Cook",
+        "URL": "https://redcook.net/2014/07/08/fried-milk-custard/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "grass jelly",
+      "Cantonese": {
+        "text": "仙草",
+        "wkty": ["仙草", "仙", "草"]
+      },
+      "Yale": "sīn chóu",
+      "Pinyin": "xiān cǎo",
+      "description": "{仙} is *divine* or *mystical* or *magical*, and {草} is *grass*, so you can think of {仙草} as *magic grass*, which refers to both the herb and the jelly made from it.\n\nBoth characters are [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters), i.e. one component indicates the meaning and the other gives a hint as to the sound (and sometimes provides double-duty in providing some meaning). {仙} is composed of the semantic {亻}), which is the [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) for *person*, and the phonetic {山}, which is *mountain*. {草} is composed of the semantic {⺾}) which is grass or a plant, and the phonetic {早} which means *early*."
     },
-    {
-        "word": {
-            "English": "taro ball",
-            "Cantonese": {
-                "text": "芋圓",
-                "wkty": [
-                    "芋圓",
-                    "芋",
-                    "圓"
-                ]
-            },
-            "Simplified": {
-                "text": "芋圆",
-                "wkty": [
-                    "芋圆",
-                    "芋",
-                    "圆"
-                ]
-            },
-            "Yale": "wuh yùhn",
-            "Pinyin": "yù yuán",
-            "description": "{芋} is short for *taro* and {圆} is *ball*, so {芋圓} is *taro ball*."
-        },
-        "images": [
-            {
-                "image": "miniqtofupuddingmeetfresh",
-                "place": "Meet Fresh, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[Taro balls](https://en.wikipedia.org/wiki/Taro_ball) are a Taiwanese dessert topping, like boba but made from mashed taro.",
-        "tags": [
-            "台菜",
-            "芋頭",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Taro_ball"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "icygrassjellysignaturemeetfresh",
+        "place": "Meet Fresh, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Grass jelly](https://en.wikipedia.org/wiki/Grass_jelly) is served as dessert or mixed in drinks.",
+    "tags": ["仙草", "飲品", "甜品"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/grass-jelly-cincau/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/grass-jelly/"
+      },
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/grass-jelly-recipe-cincau-boba/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "taro ball",
+      "Cantonese": {
+        "text": "芋圓",
+        "wkty": ["芋圓", "芋", "圓"]
+      },
+      "Simplified": {
+        "text": "芋圆",
+        "wkty": ["芋圆", "芋", "圆"]
+      },
+      "Yale": "wuh yùhn",
+      "Pinyin": "yù yuán",
+      "description": "{芋} is short for *taro* and {圆} is *ball*, so {芋圓} is *taro ball*."
+    },
+    "images": [
+      {
+        "image": "miniqtofupuddingmeetfresh",
+        "place": "Meet Fresh, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[Taro balls](https://en.wikipedia.org/wiki/Taro_ball) are a Taiwanese dessert topping, like boba but made from mashed taro.",
+    "tags": ["台菜", "芋頭", "甜品"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Taro_ball"
+      }
+    ]
+  }
 ]

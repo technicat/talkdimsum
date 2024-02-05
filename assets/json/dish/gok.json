@@ -13,9 +13,7 @@
       }
     ],
     "description": "{角} is *corner*, *angle*, or *horn*, and in this context indicates a horn-shaped dumpling.",
-    "tags": [
-      "角"
-    ],
+    "tags": ["角"],
     "resources": []
   },
   {
@@ -23,12 +21,7 @@
       "English": "taro dumpling",
       "Cantonese": {
         "text": "芋角",
-        "wkty": [
-          "芋角",
-          "芋頭",
-          "芋",
-          "角"
-        ]
+        "wkty": ["芋角", "芋頭", "芋", "角"]
       },
       "Yale": "wuh gok",
       "Pinyin": "yù jiǎo",
@@ -41,13 +34,7 @@
       }
     ],
     "description": "A classic dim sum item, [taro dumplings](http://en.wikipedia.org/wiki/Taro_dumpling), sometimes called *taro croquettes*, *taro puffs*, or *yam puffs* (the Chinese word for taro is also the word for sweet potato), are football-shaped shells of mashed taro enclosing a seasoned ground pork filling, deep-fried until fluffy and crispy with a honeycomb appearance. Often cut in half when served.",
-    "tags": [
-      "芋頭",
-      "豬肉",
-      "炸",
-      "角",
-      "點心"
-    ],
+    "tags": ["芋頭", "豬肉", "炸", "角", "點心"],
     "resources": [
       {
         "name": "Adora's Box",
@@ -84,24 +71,12 @@
       "English": "deep-fried dumpling",
       "Cantonese": {
         "text": "鹹水角",
-        "wkty": [
-          "鹹水角",
-          "鹹水",
-          "鹹",
-          "水",
-          "角"
-        ]
+        "wkty": ["鹹水角", "鹹水", "鹹", "水", "角"]
       },
       "Yale": "hàahm séui gok",
       "Simplified": {
         "text": "咸水角",
-        "wkty": [
-          "咸水角",
-          "咸水",
-          "咸",
-          "水",
-          "角"
-        ]
+        "wkty": ["咸水角", "咸水", "咸", "水", "角"]
       },
       "Pinyin": "xián shuǐ jiǎo",
       "description": "{鹹} is *salty*, {水} is *water*, and {角} is *horn-shaped*, so {鹹水角} is *salt water horn-shaped dumpling*."
@@ -113,12 +88,7 @@
       }
     ],
     "description": "Deep-fried dumplings with a sticky rice-flour shell and filled with pork.\n\nAt a dim sum shop in a Vietnamese supermarket, I heard a customer refer to these dumplings as “footballs” (and the server understood), although they are not the only football-shaped dim sum.",
-    "tags": [
-      "豬肉",
-      "炸",
-      "角",
-      "點心"
-    ],
+    "tags": ["豬肉", "炸", "角", "點心"],
     "resources": [
       {
         "name": "Dim Sum Guide",
@@ -139,12 +109,7 @@
       "English": "curry puff",
       "Cantonese": {
         "text": "咖喱角",
-        "wkty": [
-          "咖喱",
-          "咖",
-          "喱",
-          "角"
-        ]
+        "wkty": ["咖喱", "咖", "喱", "角"]
       },
       "Yale": "ga lēi gok",
       "Pinyin": "kā li jiǎo",
@@ -157,13 +122,7 @@
       }
     ],
     "description": "A flaky puff pastry filled with curry and beef or potatoes.",
-    "tags": [
-      "咖喱角",
-      "咖喱",
-      "焗",
-      "角",
-      "點心"
-    ],
+    "tags": ["咖喱角", "咖喱", "焗", "角", "點心"],
     "resources": [
       {
         "name": "Dimsumptuous",
@@ -184,24 +143,12 @@
       "English": "BBQ chicken puff",
       "Cantonese": {
         "text": "雞叉燒角",
-        "wkty": [
-          "雞",
-          "叉燒",
-          "叉",
-          "燒",
-          "角"
-        ]
+        "wkty": ["雞", "叉燒", "叉", "燒", "角"]
       },
       "Yale": "gāi chā sīu gok",
       "Simplified": {
         "text": "鸡叉烧角",
-        "wkty": [
-          "鸡",
-          "叉烧",
-          "叉",
-          "烧",
-          "角"
-        ]
+        "wkty": ["鸡", "叉烧", "叉", "烧", "角"]
       },
       "Pinyin": "jī chā shāo jiǎo",
       "description": "{角} is *horn-shaped*,"
@@ -213,13 +160,7 @@
       }
     ],
     "description": "A flaky puff pastry filled with BBQ chicken.",
-    "tags": [
-      "咖喱角",
-      "咖喱",
-      "焗",
-      "角",
-      "點心"
-    ],
+    "tags": ["咖喱角", "咖喱", "焗", "角", "點心"],
     "resources": [
       {
         "name": "Dimsumptuous",
@@ -250,13 +191,7 @@
       }
     ],
     "description": "A deep-fried [wonton](https://en.wikipedia.org/wiki/Wonton)  filled with cream cheese and (often imitation) crab meat. This is an American invention (the cream cheese is a tip-off), popular in Chinese-American restaurants, possibly originating at Trader Vic's.",
-    "tags": [
-      "炸雲吞",
-      "茶餐廳",
-      "蟹",
-      "角",
-      "美式"
-    ],
+    "tags": ["炸雲吞", "茶餐廳", "蟹", "角", "美式"],
     "resources": [
       {
         "name": "Adora's Box",

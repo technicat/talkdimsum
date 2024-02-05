@@ -1,140 +1,106 @@
 [
-    {
-        "word": {
-            "English": "fish fragrant eggplant",
-            "Cantonese": {
-                "text": "魚香茄子",
-                "wkty": [
-                    "魚香",
-                    "魚",
-                    "香",
-                    "茄子",
-                    "茄",
-                    "子"
-                ]
-            },
-            "Yale": "yùh hēung ké jí",
-            "Simplified": {
-                "text": "鱼香茄子",
-                "wkty": [
-                    "鱼香",
-                    "鱼",
-                    "香",
-                    "茄子",
-                    "茄",
-                    "子"
-                ]
-            },
-            "Pinyin": "yú xiāng qié z",
-            "description": "{魚} is *fish*, and {香} is *fragrant* (same {香} used in Hong Kong {香港}), so {魚香} is *fish fragrant*. And {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant), so 魚香茄子 is *fish fragrant eggplant*."
-        },
-        "images": [
-            {
-                "image": "eggplantgarlic2xialongbao",
-                "place": "Xiao Long Bao, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Despite the name, this Sichuan dish has no fish in it (but perhaps playing it safe, it's often listed as *eggplant with garlic*).",
-        "tags": [
-            "川菜",
-            "素",
-            "魚香",
-            "茄子"
-        ],
-        "resources": [
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/chinese-spicy-garlic-eggplant/"
-            },
-            {
-                "name": "Lost Laowai",
-                "URL": "https://www.lostlaowai.com/recipes/main-dish/fish-fragrant-eggplant-yu-xiang-qie-zi/"
-            },
-            {
-                "name": "The Omnivores Cookbook",
-                "URL": "https://omnivorescookbook.com/sichuan-eggplant/"
-            },
-            {
-                "name": "Pups with Chopsticks",
-                "URL": "https://pupswithchopsticks.com/chinese-eggplant-with-garlic-sauce/"
-            },
-            {
-                "name": "The Rice Lover",
-                "URL": "https://www.thericelover.com/yuxiang-eggplant/"
-            },
-            {
-                "name": "Sybaritica",
-                "URL": "https://sybaritica.me/yu-xiang-eggplant-%e9%ad%9a%e9%a6%99%e8%8c%84%e5%ad%90/"
-            },
-            {
-                "name": "That Spicy Chick",
-                "URL": "https://thatspicychick.com/yu-xiang-eggplant/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/chinese-eggplant-garlic-sauce/"
-            }
-        ]
+  {
+    "word": {
+      "English": "fish fragrant eggplant",
+      "Cantonese": {
+        "text": "魚香茄子",
+        "wkty": ["魚香", "魚", "香", "茄子", "茄", "子"]
+      },
+      "Yale": "yùh hēung ké jí",
+      "Simplified": {
+        "text": "鱼香茄子",
+        "wkty": ["鱼香", "鱼", "香", "茄子", "茄", "子"]
+      },
+      "Pinyin": "yú xiāng qié z",
+      "description": "{魚} is *fish*, and {香} is *fragrant* (same {香} used in Hong Kong {香港}), so {魚香} is *fish fragrant*. And {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant), so 魚香茄子 is *fish fragrant eggplant*."
     },
-    {
-        "word": {
-            "English": "eggplant with potato and peppers",
-            "Cantonese": {
-                "text": "地三鮮",
-                "wkty": [
-                    "地三鮮",
-                    "地",
-                    "三",
-                    "鮮"
-                ]
-            },
-            "Yale": "deih sāam sīn",
-            "Simplified": {
-                "text": "地三鲜",
-                "wkty": [
-                    "地三鲜",
-                    "地",
-                    "三",
-                    "鲜"
-                ]
-            },
-            "Pinyin": "dì sān xiān",
-            "description": "{地} is *earth*, {三} is *three*, and {鮮} is *fresh* or *delicious* (freshness is highly prized in food), so {地三鮮} is *earth three fresh foods* or more delectably *three earthly treasures*."
-        },
-        "images": [
-            {
-                "image": "eggplantpotatopepperschinesetaste",
-                "place": "Chinese Taste, South Salt Lake, Utah"
-            }
-        ],
-        "description": "This is a popular [Shandong](https://en.wikipedia.org/wiki/Shandong_cuisine) dish consisting of eggplant, potatoes, and peppers deep-fried or stir-fried and coated in a sauce made with light soy sauce and Shaoxing wine.",
-        "tags": [
-            "新菜",
-            "素",
-            "魯菜",
-            "茄子"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/di-san-xian-chinese-sauteed-potato-eggplants-and-green-peppers/"
-            },
-            {
-                "name": "The Omnivores Cookbook",
-                "URL": "https://omnivorescookbook.com/di-san-xian-recipe/"
-            },
-            {
-                "name": "The Plant-based Wok",
-                "URL": "https://theplantbasedwok.com/stir-fried-eggplant-potato-and-pepper-di-san-xian/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Disanxian"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/di-san-xian-stir-fry/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "eggplantgarlic2xialongbao",
+        "place": "Xiao Long Bao, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Despite the name, this Sichuan dish has no fish in it (but perhaps playing it safe, it's often listed as *eggplant with garlic*).",
+    "tags": ["川菜", "素", "魚香", "茄子"],
+    "resources": [
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/chinese-spicy-garlic-eggplant/"
+      },
+      {
+        "name": "Lost Laowai",
+        "URL": "https://www.lostlaowai.com/recipes/main-dish/fish-fragrant-eggplant-yu-xiang-qie-zi/"
+      },
+      {
+        "name": "The Omnivores Cookbook",
+        "URL": "https://omnivorescookbook.com/sichuan-eggplant/"
+      },
+      {
+        "name": "Pups with Chopsticks",
+        "URL": "https://pupswithchopsticks.com/chinese-eggplant-with-garlic-sauce/"
+      },
+      {
+        "name": "The Rice Lover",
+        "URL": "https://www.thericelover.com/yuxiang-eggplant/"
+      },
+      {
+        "name": "Sybaritica",
+        "URL": "https://sybaritica.me/yu-xiang-eggplant-%e9%ad%9a%e9%a6%99%e8%8c%84%e5%ad%90/"
+      },
+      {
+        "name": "That Spicy Chick",
+        "URL": "https://thatspicychick.com/yu-xiang-eggplant/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-eggplant-garlic-sauce/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "eggplant with potato and peppers",
+      "Cantonese": {
+        "text": "地三鮮",
+        "wkty": ["地三鮮", "地", "三", "鮮"]
+      },
+      "Yale": "deih sāam sīn",
+      "Simplified": {
+        "text": "地三鲜",
+        "wkty": ["地三鲜", "地", "三", "鲜"]
+      },
+      "Pinyin": "dì sān xiān",
+      "description": "{地} is *earth*, {三} is *three*, and {鮮} is *fresh* or *delicious* (freshness is highly prized in food), so {地三鮮} is *earth three fresh foods* or more delectably *three earthly treasures*."
+    },
+    "images": [
+      {
+        "image": "eggplantpotatopepperschinesetaste",
+        "place": "Chinese Taste, South Salt Lake, Utah"
+      }
+    ],
+    "description": "This is a popular [Shandong](https://en.wikipedia.org/wiki/Shandong_cuisine) dish consisting of eggplant, potatoes, and peppers deep-fried or stir-fried and coated in a sauce made with light soy sauce and Shaoxing wine.",
+    "tags": ["新菜", "素", "魯菜", "茄子"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/di-san-xian-chinese-sauteed-potato-eggplants-and-green-peppers/"
+      },
+      {
+        "name": "The Omnivores Cookbook",
+        "URL": "https://omnivorescookbook.com/di-san-xian-recipe/"
+      },
+      {
+        "name": "The Plant-based Wok",
+        "URL": "https://theplantbasedwok.com/stir-fried-eggplant-potato-and-pepper-di-san-xian/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Disanxian"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/di-san-xian-stir-fry/"
+      }
+    ]
+  }
 ]

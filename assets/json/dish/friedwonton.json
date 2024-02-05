@@ -1,113 +1,74 @@
 [
-    {
-        "word": {
-            "Cantonese": {
-                "text": "炸雲吞",
-                "wkty": [
-                    "炸",
-                    "雲吞",
-                    "雲",
-                    "吞"
-                ]
-            },
-            "Mandarin": {
-                "text": "炸餛飩",
-                "wkty": [
-                    "餛飩",
-                    "餛",
-                    "飩"
-                ]
-            },
-            "Simplified": {
-                "text": "炸馄饨",
-                "wkty": [
-                    "馄饨",
-                    "馄",
-                    "饨"
-                ]
-            },
-            "English": "fried wonton",
-            "Yale": "ja wàhn tān",
-            "Pinyin": "zhà yún tūn",
-            "description": "{炸} is *deep-fried* (the [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {火} on the left side of the character is *fire*), and the next two characters comprise *won ton*."
-        },
-        "images": [
-            {
-                "image": "friedwontonnorthsidecafe",
-                "place": "Northside Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Deep fried wonton (dumplings with shrimp and pork).",
-        "tags": [
-            "炸雲吞",
-            "茶餐廳",
-            "雲吞",
-            "炸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Wonton"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/fried-wontons/"
-            }
-        ]
+  {
+    "word": {
+      "Cantonese": {
+        "text": "炸雲吞",
+        "wkty": ["炸", "雲吞", "雲", "吞"]
+      },
+      "Mandarin": {
+        "text": "炸餛飩",
+        "wkty": ["餛飩", "餛", "飩"]
+      },
+      "Simplified": {
+        "text": "炸馄饨",
+        "wkty": ["馄饨", "馄", "饨"]
+      },
+      "English": "fried wonton",
+      "Yale": "ja wàhn tān",
+      "Pinyin": "zhà yún tūn",
+      "description": "{炸} is *deep-fried* (the [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) {火} on the left side of the character is *fire*), and the next two characters comprise *won ton*."
     },
-    {
-        "word": {
-            "English": "fried shrimp wonton",
-            "Cantonese": {
-                "text": "炸蝦雲吞",
-                "wkty": [
-                    "炸",
-                    "蝦",
-                    "雲吞",
-                    "雲",
-                    "吞"
-                ]
-            },
-            "Yale": "ja hā wàhn tān",
-            "Simplified": {
-                "text": "炸虾云吞",
-                "wkty": [
-                    "炸",
-                    "虾",
-                    "云吞",
-                    "云",
-                    "吞"
-                ]
-            },
-            "Pinyin": "zhà xiā yún tūn",
-            "description": "{炸} is *deep-fried*, and {蝦} is *shrimp*."
-        },
-        "images": [
-            {
-                "image": "friedshrimpwontonkj",
-                "place": "KJ Dim Sum and Seafood"
-            }
-        ],
-        "description": "Fried wonton with just shrimp inside.",
-        "tags": [
-            "炸雲吞",
-            "茶餐廳",
-            "炸",
-            "蝦",
-            "雲吞",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Wonton"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/fried-wontons/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "friedwontonnorthsidecafe",
+        "place": "Northside Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Deep fried wonton (dumplings with shrimp and pork).",
+    "tags": ["炸雲吞", "茶餐廳", "雲吞", "炸", "點心"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Wonton"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/fried-wontons/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fried shrimp wonton",
+      "Cantonese": {
+        "text": "炸蝦雲吞",
+        "wkty": ["炸", "蝦", "雲吞", "雲", "吞"]
+      },
+      "Yale": "ja hā wàhn tān",
+      "Simplified": {
+        "text": "炸虾云吞",
+        "wkty": ["炸", "虾", "云吞", "云", "吞"]
+      },
+      "Pinyin": "zhà xiā yún tūn",
+      "description": "{炸} is *deep-fried*, and {蝦} is *shrimp*."
+    },
+    "images": [
+      {
+        "image": "friedshrimpwontonkj",
+        "place": "KJ Dim Sum and Seafood"
+      }
+    ],
+    "description": "Fried wonton with just shrimp inside.",
+    "tags": ["炸雲吞", "茶餐廳", "炸", "蝦", "雲吞", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Wonton"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/fried-wontons/"
+      }
+    ]
+  }
 ]

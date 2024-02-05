@@ -1,108 +1,73 @@
 [
-    {
-        "word": {
-            "English": "Chinese broccoli",
-            "Cantonese": {
-                "text": "芥蘭",
-                "wkty": [
-                    "芥蘭",
-                    "芥",
-                    "蘭"
-                ]
-            },
-            "Yale": "gaai láan",
-            "Simplified": {
-                "text": "芥兰",
-                "wkty": [
-                    "芥兰",
-                    "芥",
-                    "兰"
-                ]
-            },
-            "Pinyin": "gài lán"
-        },
-        "images": [
-            {
-                "image": "chinesebroccolibigwong",
-                "place": "Big Wong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan) is also known as Chinese kale, or *gai lan* like the Chinese pronunciation).\n\nEarly Chinese immigrants in America had to use broccoli as a substitute, so you could call broccoli *American gai lan*.",
-        "tags": [
-            "芥蘭",
-            "菜",
-            "蒸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Kai-lan"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/chinese-broccoli-gai-lan/"
-            }
-        ]
+  {
+    "word": {
+      "English": "Chinese broccoli",
+      "Cantonese": {
+        "text": "芥蘭",
+        "wkty": ["芥蘭", "芥", "蘭"]
+      },
+      "Yale": "gaai láan",
+      "Simplified": {
+        "text": "芥兰",
+        "wkty": ["芥兰", "芥", "兰"]
+      },
+      "Pinyin": "gài lán"
     },
-    {
-        "word": {
-            "English": "Chinese broccoli with oyster sauce",
-            "Cantonese": {
-                "text": "蠔油芥蘭",
-                "wkty": [
-                    "蠔油",
-                    "蠔",
-                    "油",
-                    "芥蘭",
-                    "芥",
-                    "蘭"
-                ]
-            },
-            "Yale": "hòuh yàuh gaai láan",
-            "Simplified": {
-                "text": "蚝油芥蘭",
-                "wkty": [
-                    "蚝油",
-                    "蚝",
-                    "油",
-                    "芥蘭",
-                    "芥",
-                    "蘭"
-                ]
-            },
-            "Pinyin": "háo yóu gài lán",
-            "description": "{蠔油} is *oyster sauce* ({蠔} is *oyster* and {油} is *oil*, so more specifically *oyster oil*), and {芥蘭} is [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan), so 蠔油芥蘭 is *oyster sauce Chinese broccoli*."
-        },
-        "images": [
-            {
-                "image": "chinesebroccolidimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan), boiled or steamed and served with [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce).",
-        "tags": [
-            "粵菜",
-            "芥蘭",
-            "蠔油時蔬",
-            "蠔油",
-            "菜",
-            "蒸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Made with Lau",
-                "URL": "https://madewithlau.com/recipes/chinese-broccoli-oyster-sauce"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-14-chinese-broccoli/"
-            },
-            {
-                "name": "Wok & Kin",
-                "URL": "https://www.wokandkin.com/chinese-brocoli-gai-lan-with-oyster-sauce/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "chinesebroccolibigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan) is also known as Chinese kale, or *gai lan* like the Chinese pronunciation).\n\nEarly Chinese immigrants in America had to use broccoli as a substitute, so you could call broccoli *American gai lan*.",
+    "tags": ["芥蘭", "菜", "蒸", "點心"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Kai-lan"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-broccoli-gai-lan/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Chinese broccoli with oyster sauce",
+      "Cantonese": {
+        "text": "蠔油芥蘭",
+        "wkty": ["蠔油", "蠔", "油", "芥蘭", "芥", "蘭"]
+      },
+      "Yale": "hòuh yàuh gaai láan",
+      "Simplified": {
+        "text": "蚝油芥蘭",
+        "wkty": ["蚝油", "蚝", "油", "芥蘭", "芥", "蘭"]
+      },
+      "Pinyin": "háo yóu gài lán",
+      "description": "{蠔油} is *oyster sauce* ({蠔} is *oyster* and {油} is *oil*, so more specifically *oyster oil*), and {芥蘭} is [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan), so 蠔油芥蘭 is *oyster sauce Chinese broccoli*."
+    },
+    "images": [
+      {
+        "image": "chinesebroccolidimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan), boiled or steamed and served with [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce).",
+    "tags": ["粵菜", "芥蘭", "蠔油時蔬", "蠔油", "菜", "蒸", "點心"],
+    "resources": [
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/chinese-broccoli-oyster-sauce"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-14-chinese-broccoli/"
+      },
+      {
+        "name": "Wok & Kin",
+        "URL": "https://www.wokandkin.com/chinese-brocoli-gai-lan-with-oyster-sauce/"
+      }
+    ]
+  }
 ]

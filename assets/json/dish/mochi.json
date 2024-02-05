@@ -1,214 +1,146 @@
 [
-    {
-        "word": {
-            "English": "mochi",
-            "Cantonese": {
-                "text": "糯米糍",
-                "wkty": [
-                    "糯米",
-                    "糯",
-                    "米",
-                    "糍"
-                ]
-            },
-            "Yale": "noh máih chìh",
-            "Pinyin": "nuò mǐ cí",
-            "description": "{糯} is *glutinous* and {米} is *rice* (in particular, uncooked rice or rice grains) so {糯米} is *glutinous rice*.\n\n, Add 糍 is a sticky rice cake, and together {糯米糍} is *sticky rice ball* like Japanese mochi (and sounds similar to *mochi*)."
-        },
-        "images": [
-            {
-                "image": "dessertzenpeninsula",
-                "place": "Zen Peninsula, Millbrae, California"
-            }
-        ],
-        "description": "Glutinous rice balls, often coated with coconut and filled with something sweet.",
-        "tags": [
-            "糯米",
-            "米糍",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/sticky-rice-balls-nuomici/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/sticky-rice-cake-lo-mai-chi/"
-            },
-            {
-                "name": "Sunflower Food Galore",
-                "URL": "https://sunflower-recipes.blogspot.com/2010/02/lo-mai-chee-with-red-bean-paste.html"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/lo-mai-chi.html"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/peanut-mochi-coconut/"
-            }
-        ]
+  {
+    "word": {
+      "English": "mochi",
+      "Cantonese": {
+        "text": "糯米糍",
+        "wkty": ["糯米", "糯", "米", "糍"]
+      },
+      "Yale": "noh máih chìh",
+      "Pinyin": "nuò mǐ cí",
+      "description": "{糯} is *glutinous* and {米} is *rice* (in particular, uncooked rice or rice grains) so {糯米} is *glutinous rice*.\n\n, Add 糍 is a sticky rice cake, and together {糯米糍} is *sticky rice ball* like Japanese mochi (and sounds similar to *mochi*)."
     },
-    {
-        "word": {
-            "English": "soft grated coconut mochi",
-            "Cantonese": {
-                "text": "椰絲糯米糍",
-                "wkty": [
-                    "椰絲",
-                    "椰",
-                    "絲",
-                    "糯米",
-                    "糯",
-                    "米",
-                    "糍"
-                ]
-            },
-            "Yale": "yèh sī máih chìh",
-            "Simplified": {
-                "text": "椰丝糯米糍",
-                "wkty": [
-                    "椰丝",
-                    "椰",
-                    "丝",
-                    "糯米",
-                    "糯",
-                    "米",
-                    "糍"
-                ]
-            },
-            "Pinyin": "yē sī mǐ cí",
-            "description": "{椰絲} is shredded coconut, and {糯米} is “mochi.”"
-        },
-        "images": [
-            {
-                "image": "coconutmochiyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Mochi filled with shredded coconut.",
-        "tags": [
-            "椰",
-            "絲",
-            "椰絲",
-            "米糍",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/sticky-rice-balls-nuomici/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Lo_mai_chi"
-            }
-        ]
+    "images": [
+      {
+        "image": "dessertzenpeninsula",
+        "place": "Zen Peninsula, Millbrae, California"
+      }
+    ],
+    "description": "Glutinous rice balls, often coated with coconut and filled with something sweet.",
+    "tags": ["糯米", "米糍", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/sticky-rice-balls-nuomici/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/sticky-rice-cake-lo-mai-chi/"
+      },
+      {
+        "name": "Sunflower Food Galore",
+        "URL": "https://sunflower-recipes.blogspot.com/2010/02/lo-mai-chee-with-red-bean-paste.html"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/lo-mai-chi.html"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/peanut-mochi-coconut/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "soft grated coconut mochi",
+      "Cantonese": {
+        "text": "椰絲糯米糍",
+        "wkty": ["椰絲", "椰", "絲", "糯米", "糯", "米", "糍"]
+      },
+      "Yale": "yèh sī máih chìh",
+      "Simplified": {
+        "text": "椰丝糯米糍",
+        "wkty": ["椰丝", "椰", "丝", "糯米", "糯", "米", "糍"]
+      },
+      "Pinyin": "yē sī mǐ cí",
+      "description": "{椰絲} is shredded coconut, and {糯米} is “mochi.”"
     },
-    {
-        "word": {
-            "English": "mung bean mochi",
-            "Cantonese": {
-                "text": "綠豆米糍",
-                "wkty": [
-                    "綠豆",
-                    "綠",
-                    "豆",
-                    "米",
-                    "糍"
-                ]
-            },
-            "Yale": "luhk dáu máih chìh",
-            "Simplified": {
-                "text": "绿豆米糍",
-                "wkty": [
-                    "绿豆",
-                    "绿",
-                    "豆",
-                    "米",
-                    "糍"
-                ]
-            },
-            "Pinyin": "lǜ dòu mǐ cí",
-            "description": "{綠豆} is [mung bean](https://en.wikipedia.org/wiki/Mung_bean) ({綠} is *green*, and {豆} is *bean*, but *green bean* is actually *mung bean*), and 糯米 is “mochi.”"
-        },
-        "images": [
-            {
-                "image": "mungbeanmochiyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Mochi filled with [mung bean](https://en.wikipedia.org/wiki/Mung_bean) paste.",
-        "tags": [
-            "綠豆",
-            "米糍",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/sticky-rice-balls-nuomici/"
-            },
-            {
-                "name": "Mung Bean",
-                "URL": "https://en.wikipedia.org/wiki/Mung_bean"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Lo_mai_chi"
-            }
-        ]
+    "images": [
+      {
+        "image": "coconutmochiyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Mochi filled with shredded coconut.",
+    "tags": ["椰", "絲", "椰絲", "米糍", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/sticky-rice-balls-nuomici/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Lo_mai_chi"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "mung bean mochi",
+      "Cantonese": {
+        "text": "綠豆米糍",
+        "wkty": ["綠豆", "綠", "豆", "米", "糍"]
+      },
+      "Yale": "luhk dáu máih chìh",
+      "Simplified": {
+        "text": "绿豆米糍",
+        "wkty": ["绿豆", "绿", "豆", "米", "糍"]
+      },
+      "Pinyin": "lǜ dòu mǐ cí",
+      "description": "{綠豆} is [mung bean](https://en.wikipedia.org/wiki/Mung_bean) ({綠} is *green*, and {豆} is *bean*, but *green bean* is actually *mung bean*), and 糯米 is “mochi.”"
     },
-    {
-        "word": {
-            "English": "mochi ice cream",
-            "Cantonese": {
-                "text": "雪糕糯米糍",
-                "wkty": [
-                    "雪糕",
-                    "雪",
-                    "糕",
-                    "糯米",
-                    "糯",
-                    "米",
-                    "糍"
-                ]
-            },
-            "Yale": "syut gōu noh máih chìh",
-            "Pinyin": "xuě gāo nuò mǐ cí",
-            "description": "{雪} is *snow*, and {糕} is *cake*. Together {雪糕} is *ice cream*, (useful to know during summer in Hong Kong!)."
-        },
-        "images": [
-            {
-                "image": "icecreammochi",
-                "place": ""
-            }
-        ],
-        "description": "Mochi ice cream is Japanese mochi filled with ice cream encased. So it's not dim sum, but it's a popular dessert, and I've seen it on dim sum menus.\n\nMochi ice cream is actually a Japanese-American creation, invented by [Frances Hashimoto](https://en.wikipedia.org/wiki/Frances_Hashimoto) of Mikawaya, a family-run Japanese confectionary based in Los Angeles. Her parents had to close the business during World War II when they were sent to an internment camp, where Frances was born, but after the war they restarted the business and eventually Frances took over the company and made mochi history.",
-        "tags": [
-            "雪糕",
-            "糕",
-            "糯米",
-            "米糍",
-            "素",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "LA Times",
-                "URL": "https://www.latimes.com/local/obituaries/la-xpm-2012-nov-07-la-me-frances-hashimoto-20121107-story.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Mochi_ice_cream"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "mungbeanmochiyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Mochi filled with [mung bean](https://en.wikipedia.org/wiki/Mung_bean) paste.",
+    "tags": ["綠豆", "米糍", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/sticky-rice-balls-nuomici/"
+      },
+      {
+        "name": "Mung Bean",
+        "URL": "https://en.wikipedia.org/wiki/Mung_bean"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Lo_mai_chi"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "mochi ice cream",
+      "Cantonese": {
+        "text": "雪糕糯米糍",
+        "wkty": ["雪糕", "雪", "糕", "糯米", "糯", "米", "糍"]
+      },
+      "Yale": "syut gōu noh máih chìh",
+      "Pinyin": "xuě gāo nuò mǐ cí",
+      "description": "{雪} is *snow*, and {糕} is *cake*. Together {雪糕} is *ice cream*, (useful to know during summer in Hong Kong!)."
+    },
+    "images": [
+      {
+        "image": "icecreammochi",
+        "place": ""
+      }
+    ],
+    "description": "Mochi ice cream is Japanese mochi filled with ice cream encased. So it's not dim sum, but it's a popular dessert, and I've seen it on dim sum menus.\n\nMochi ice cream is actually a Japanese-American creation, invented by [Frances Hashimoto](https://en.wikipedia.org/wiki/Frances_Hashimoto) of Mikawaya, a family-run Japanese confectionary based in Los Angeles. Her parents had to close the business during World War II when they were sent to an internment camp, where Frances was born, but after the war they restarted the business and eventually Frances took over the company and made mochi history.",
+    "tags": ["雪糕", "糕", "糯米", "米糍", "素", "甜品"],
+    "resources": [
+      {
+        "name": "LA Times",
+        "URL": "https://www.latimes.com/local/obituaries/la-xpm-2012-nov-07-la-me-frances-hashimoto-20121107-story.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mochi_ice_cream"
+      }
+    ]
+  }
 ]

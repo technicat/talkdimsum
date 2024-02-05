@@ -1,278 +1,193 @@
 [
-    {
-        "word": {
-            "English": "stir-fried pea shoots in garlic",
-            "Cantonese": {
-                "text": "蒜蓉炒豆苗",
-                "wkty": [
-                    "蒜蓉",
-                    "蒜",
-                    "蓉",
-                    "豆苗",
-                    "豆",
-                    "苗"
-                ]
-            },
-            "Yale": "syun yùhng dauh mìuh",
-            "Pinyin": "suàn róng dòu miáo",
-            "description": "{蒜蓉} is *minced garlic*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {豆苗} is *pea sprout* ({豆} is *bean*, and {苗} is *shoot* or *sprout*), so 蒜蓉炒豆苗 is *minced garlic stir-fried pea shoots*."
-        },
-        "images": [
-            {
-                "image": "daowunewasianbbq",
-                "place": "New Asian BBQ, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Pea shoots [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) in minced garlic.",
-        "tags": [
-            "豆苗",
-            "蒜蓉",
-            "炒",
-            "素",
-            "菜"
-        ],
-        "resources": [
-            {
-                "name": "Omnivore's Cookbook",
-                "URL": "https://omnivorescookbook.com/stir-fried-pea-shoots/"
-            }
-        ]
+  {
+    "word": {
+      "English": "stir-fried pea shoots in garlic",
+      "Cantonese": {
+        "text": "蒜蓉炒豆苗",
+        "wkty": ["蒜蓉", "蒜", "蓉", "豆苗", "豆", "苗"]
+      },
+      "Yale": "syun yùhng dauh mìuh",
+      "Pinyin": "suàn róng dòu miáo",
+      "description": "{蒜蓉} is *minced garlic*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {豆苗} is *pea sprout* ({豆} is *bean*, and {苗} is *shoot* or *sprout*), so 蒜蓉炒豆苗 is *minced garlic stir-fried pea shoots*."
     },
-    {
-        "word": {
-            "English": "spinach in garlic",
-            "Cantonese": {
-                "text": "蒜蓉菠菜",
-                "wkty": [
-                    "蒜蓉",
-                    "蒜",
-                    "蓉",
-                    "菠菜",
-                    "菠",
-                    "菜"
-                ]
-            },
-            "Yale": "syun yùhng bō choi",
-            "Jyutping": "syun3 jung4 bo1 coi3",
-            "Pinyin": "suàn róng bō cài",
-            "description": "{蒜蓉} is *minced garlic*, and {菠菜} is *spinach*."
-        },
-        "images": [
-            {
-                "image": "garlicspinachxiaolongbao",
-                "place": "Xiao Long Bao Dumplings, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Spinach [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) in minced garlic.",
-        "tags": [
-            "蒜蓉",
-            "菠菜",
-            "炒",
-            "素",
-            "菜"
-        ],
-        "resources": [
-            {
-                "name": "Traditional Chinese Recipes",
-                "URL": "https://traditionalchineserecipes.blogspot.com/2011/05/suan-bo-cai-garlic-spinach.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "daowunewasianbbq",
+        "place": "New Asian BBQ, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Pea shoots [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) in minced garlic.",
+    "tags": ["豆苗", "蒜蓉", "炒", "素", "菜"],
+    "resources": [
+      {
+        "name": "Omnivore's Cookbook",
+        "URL": "https://omnivorescookbook.com/stir-fried-pea-shoots/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "spinach in garlic",
+      "Cantonese": {
+        "text": "蒜蓉菠菜",
+        "wkty": ["蒜蓉", "蒜", "蓉", "菠菜", "菠", "菜"]
+      },
+      "Yale": "syun yùhng bō choi",
+      "Jyutping": "syun3 jung4 bo1 coi3",
+      "Pinyin": "suàn róng bō cài",
+      "description": "{蒜蓉} is *minced garlic*, and {菠菜} is *spinach*."
     },
-    {
-        "word": {
-            "English": "bok choy in garlic",
-            "Cantonese": {
-                "text": "蒜蓉白菜",
-                "wkty": [
-                    "蒜蓉",
-                    "蒜",
-                    "蓉",
-                    "白菜",
-                    "白",
-                    "菜"
-                ]
-            },
-            "Yale": "syun yùhng baahk choi",
-            "Jyutping": "syun3 jung4 baak6 coi3",
-            "Pinyin": "suàn róng bái cài",
-            "description": "{蒜蓉} is *minced garlic*, and {白菜} is [bok choy](https://en.wikipedia.org/wiki/Bok_choy) , so 蒜蓉白菜 is *minced garlic bok choy*."
-        },
-        "images": [
-            {
-                "image": "garlicbokchoywishfuldumpling",
-                "place": "Wishful Dumpling, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Bok choy [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) in minced garlic.",
-        "tags": [
-            "蒜蓉",
-            "白菜",
-            "炒",
-            "素",
-            "菜"
-        ],
-        "resources": [
-            {
-                "name": "Rasa Malaysia",
-                "URL": "https://rasamalaysia.com/garlic-bok-choy/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/garlic-baby-bok-choy/"
-            }
-        ]
+    "images": [
+      {
+        "image": "garlicspinachxiaolongbao",
+        "place": "Xiao Long Bao Dumplings, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Spinach [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) in minced garlic.",
+    "tags": ["蒜蓉", "菠菜", "炒", "素", "菜"],
+    "resources": [
+      {
+        "name": "Traditional Chinese Recipes",
+        "URL": "https://traditionalchineserecipes.blogspot.com/2011/05/suan-bo-cai-garlic-spinach.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "bok choy in garlic",
+      "Cantonese": {
+        "text": "蒜蓉白菜",
+        "wkty": ["蒜蓉", "蒜", "蓉", "白菜", "白", "菜"]
+      },
+      "Yale": "syun yùhng baahk choi",
+      "Jyutping": "syun3 jung4 baak6 coi3",
+      "Pinyin": "suàn róng bái cài",
+      "description": "{蒜蓉} is *minced garlic*, and {白菜} is [bok choy](https://en.wikipedia.org/wiki/Bok_choy) , so 蒜蓉白菜 is *minced garlic bok choy*."
     },
-    {
-        "word": {
-            "English": "choy sum in garlic",
-            "Cantonese": {
-                "text": "蒜蓉菜心",
-                "wkty": [
-                    "蒜蓉",
-                    "蒜",
-                    "蓉",
-                    "菜心",
-                    "菜",
-                    "心"
-                ]
-            },
-            "Yale": "syun yùhng choi sām",
-            "Jyutping": "syun3 jung4 coi3 sam1",
-            "Pinyin": "suàn róng cài xīn",
-            "description": "{蒜蓉} is *minced garlic*, and {菜心} is *choy sum*."
-        },
-        "images": [
-            {
-                "image": "choysumwithgarlicbulbs",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Choy sum stir-fried in garlic.",
-        "tags": [
-            "蒜蓉",
-            "菜心",
-            "炒",
-            "菜",
-            "蒸"
-        ],
-        "resources": [
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/choy-sum-with-garlic"
-            },
-            {
-                "name": "Serious Eats",
-                "URL": "https://www.seriouseats.com/recipes/2014/05/stir-fried-choy-sum-minced-garlic-recipe.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "garlicbokchoywishfuldumpling",
+        "place": "Wishful Dumpling, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Bok choy [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) in minced garlic.",
+    "tags": ["蒜蓉", "白菜", "炒", "素", "菜"],
+    "resources": [
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/garlic-bok-choy/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/garlic-baby-bok-choy/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "choy sum in garlic",
+      "Cantonese": {
+        "text": "蒜蓉菜心",
+        "wkty": ["蒜蓉", "蒜", "蓉", "菜心", "菜", "心"]
+      },
+      "Yale": "syun yùhng choi sām",
+      "Jyutping": "syun3 jung4 coi3 sam1",
+      "Pinyin": "suàn róng cài xīn",
+      "description": "{蒜蓉} is *minced garlic*, and {菜心} is *choy sum*."
     },
-    {
-        "word": {
-            "English": "ong choy in garlic",
-            "Cantonese": {
-                "text": "蒜蓉蕹菜",
-                "wkty": [
-                    "蒜蓉",
-                    "蒜",
-                    "蓉",
-                    "蕹菜",
-                    "蕹",
-                    "菜"
-                ]
-            },
-            "Yale": "syun yùhng ung choi",
-            "Jyutping": "syun3 jung4 ung3 coi3",
-            "Pinyin": "suàn róng wèng cài",
-            "description": "{蒜蓉} is *minced garlic*, and {蕹菜} is *ong choy*."
-        },
-        "images": [
-            {
-                "image": "ongchoykungfuthai",
-                "place": "Kung Fu Thai and Chinese, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Also known as Chinese water spinach. featuring long hollow stems, ong choy is typically stir-fried, with garlic, for example.",
-        "tags": [
-            "蒜蓉",
-            "蕹菜",
-            "炒",
-            "素",
-            "菜"
-        ],
-        "resources": [
-            {
-                "name": "Cook with Kelly",
-                "URL": "http://www.cookwithkelly.com/2011/04/ong-choy-stir-fried-with-garlic-and.html"
-            },
-            {
-                "name": "Easy Chinese Recipes",
-                "URL": "https://www.easychineserecipes.com/ong-choy-stir-fry/"
-            },
-            {
-                "name": "Onolicious",
-                "URL": "https://onolicioushawaii.com/ong-choy/"
-            },
-            {
-                "name": "Vietnamese Recipes",
-                "URL": "https://vietnamesefood.com.vn/vietnamese-recipes/vietnamese-dish-recipes/fried-ong-choy-with-garlic-recipe-rau-muong-xao-toi.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Stir_fried_water_spinach"
-            },
-            {
-                "name": "Wok and Kin",
-                "URL": "https://www.wokandkin.com/stir-fried-water-spinach-with-fermented-bean-curd/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/ong-choy-xo-sauce/"
-            }
-        ]
+    "images": [
+      {
+        "image": "choysumwithgarlicbulbs",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Choy sum stir-fried in garlic.",
+    "tags": ["蒜蓉", "菜心", "炒", "菜", "蒸"],
+    "resources": [
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/choy-sum-with-garlic"
+      },
+      {
+        "name": "Serious Eats",
+        "URL": "https://www.seriouseats.com/recipes/2014/05/stir-fried-choy-sum-minced-garlic-recipe.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "ong choy in garlic",
+      "Cantonese": {
+        "text": "蒜蓉蕹菜",
+        "wkty": ["蒜蓉", "蒜", "蓉", "蕹菜", "蕹", "菜"]
+      },
+      "Yale": "syun yùhng ung choi",
+      "Jyutping": "syun3 jung4 ung3 coi3",
+      "Pinyin": "suàn róng wèng cài",
+      "description": "{蒜蓉} is *minced garlic*, and {蕹菜} is *ong choy*."
     },
-    {
-        "word": {
-            "English": "Chinese broccoli in garlic",
-            "Cantonese": {
-                "text": "蒜蓉芥蘭",
-                "wkty": [
-                    "蒜蓉",
-                    "蒜",
-                    "蓉",
-                    "芥蘭",
-                    "芥",
-                    "蘭"
-                ]
-            },
-            "Simplified": {
-                "text": "蒜蓉芥兰",
-                "wkty": [
-                    "蒜蓉",
-                    "蒜",
-                    "蓉",
-                    "芥兰",
-                    "芥",
-                    "兰"
-                ]
-            },
-            "Yale": "syun yùhng gaai láan",
-            "Pinyin": "suàn róng gài lán",
-            "description": "{蒜蓉} is *minced garlic*, and {芥蘭} is [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan), so 蒜蓉芥蘭 is *minced garlic Chinese broccoli*."
-        },
-        "images": [
-            {
-                "image": "chinesebroccoliwithgarlicbigwong",
-                "place": "Big Wong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan) stir-fried in garlic.",
-        "tags": [
-            "蒜蓉",
-            "蕹菜",
-            "炒",
-            "芥蘭",
-            "菜"
-        ],
-        "resources": []
-    }
+    "images": [
+      {
+        "image": "ongchoykungfuthai",
+        "place": "Kung Fu Thai and Chinese, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Also known as Chinese water spinach. featuring long hollow stems, ong choy is typically stir-fried, with garlic, for example.",
+    "tags": ["蒜蓉", "蕹菜", "炒", "素", "菜"],
+    "resources": [
+      {
+        "name": "Cook with Kelly",
+        "URL": "http://www.cookwithkelly.com/2011/04/ong-choy-stir-fried-with-garlic-and.html"
+      },
+      {
+        "name": "Easy Chinese Recipes",
+        "URL": "https://www.easychineserecipes.com/ong-choy-stir-fry/"
+      },
+      {
+        "name": "Onolicious",
+        "URL": "https://onolicioushawaii.com/ong-choy/"
+      },
+      {
+        "name": "Vietnamese Recipes",
+        "URL": "https://vietnamesefood.com.vn/vietnamese-recipes/vietnamese-dish-recipes/fried-ong-choy-with-garlic-recipe-rau-muong-xao-toi.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Stir_fried_water_spinach"
+      },
+      {
+        "name": "Wok and Kin",
+        "URL": "https://www.wokandkin.com/stir-fried-water-spinach-with-fermented-bean-curd/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/ong-choy-xo-sauce/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Chinese broccoli in garlic",
+      "Cantonese": {
+        "text": "蒜蓉芥蘭",
+        "wkty": ["蒜蓉", "蒜", "蓉", "芥蘭", "芥", "蘭"]
+      },
+      "Simplified": {
+        "text": "蒜蓉芥兰",
+        "wkty": ["蒜蓉", "蒜", "蓉", "芥兰", "芥", "兰"]
+      },
+      "Yale": "syun yùhng gaai láan",
+      "Pinyin": "suàn róng gài lán",
+      "description": "{蒜蓉} is *minced garlic*, and {芥蘭} is [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan), so 蒜蓉芥蘭 is *minced garlic Chinese broccoli*."
+    },
+    "images": [
+      {
+        "image": "chinesebroccoliwithgarlicbigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan) stir-fried in garlic.",
+    "tags": ["蒜蓉", "蕹菜", "炒", "芥蘭", "菜"],
+    "resources": []
+  }
 ]

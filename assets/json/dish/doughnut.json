@@ -1,95 +1,53 @@
 [
-    {
-        "word": {
-            "Cantonese": {
-                "text": "白糖沙翁",
-                "wkty": [
-                    "白糖",
-                    "白",
-                    "糖",
-                    "沙翁",
-                    "沙",
-                    "翁"
-                ]
-            },
-            "English": "Chinese sugar doughnut",
-            "Yale": "baahk tòhng sā yūng",
-            "Pinyin": "bái táng shā wēng",
-            "description": "{白糖} is *white sugar* ({白} is *white*, and {糖} is *sugar*)."
-        },
-        "images": [
-            {
-                "image": "chinesedoughnutpingpangpong",
-                "place": "Ping Pang Pong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A fluffy, deep-fried spherical pastry coated in sugar. Also known as *Chinese donuts*, *Chinese doughnuts*, *Chinese egg puffs*, *Chinese sugar egg puffs*, and even *Chinese beignet*.",
-        "tags": [
-            "白糖沙翁",
-            "白糖",
-            "沙翁",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Dessert First Girl",
-                "URL": "https://dessertfirstgirl.com/2015/02/sugar-egg-puffs.html"
-            }
-        ]
+  {
+    "word": {
+      "Cantonese": {
+        "text": "白糖沙翁",
+        "wkty": ["白糖", "白", "糖", "沙翁", "沙", "翁"]
+      },
+      "English": "Chinese sugar doughnut",
+      "Yale": "baahk tòhng sā yūng",
+      "Pinyin": "bái táng shā wēng",
+      "description": "{白糖} is *white sugar* ({白} is *white*, and {糖} is *sugar*)."
     },
-    {
-        "word": {
-            "English": "pumpkin custard ball",
-            "Cantonese": {
-                "text": "奶黃南瓜沙翁",
-                "wkty": [
-                    "奶黃",
-                    "奶",
-                    "黃",
-                    "南瓜",
-                    "南",
-                    "瓜",
-                    "沙翁",
-                    "沙",
-                    "翁"
-                ]
-            },
-            "Yale": "náaih wòhng nàahm gwā sā yūng",
-            "Simplified": {
-                "text": "奶黄南瓜沙翁",
-                "wkty": [
-                    "奶黃",
-                    "奶",
-                    "黃",
-                    "南瓜",
-                    "南",
-                    "瓜",
-                    "沙翁",
-                    "沙",
-                    "翁"
-                ]
-            },
-            "Pinyin": "nǎi huáng nán guā shā wēng",
-            "description": "{奶} is *milk*, and {黃} is *yellow*, so {嬭黃} is *milk yellow* or *custard*. 南瓜 is “pumpkin.” 沙翁 is a Chinese doughnut. So it's “custard pumpkin doughnut.”"
-        },
-        "images": [
-            {
-                "image": "pumpkincustardballtimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A pumpkin-flavored Chinese doughnut with a custard filling. I've only seen these at [Tim Ho Wan](http://www.timhowanusa.com/), listed in English as *pumpkin roll*.",
-        "tags": [
-            "白糖沙翁",
-            "白糖",
-            "素",
-            "南瓜",
-            "奶皇",
-            "甜品",
-            "點心"
-        ],
-        "resources": []
-    }
+    "images": [
+      {
+        "image": "chinesedoughnutpingpangpong",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A fluffy, deep-fried spherical pastry coated in sugar. Also known as *Chinese donuts*, *Chinese doughnuts*, *Chinese egg puffs*, *Chinese sugar egg puffs*, and even *Chinese beignet*.",
+    "tags": ["白糖沙翁", "白糖", "沙翁", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "Dessert First Girl",
+        "URL": "https://dessertfirstgirl.com/2015/02/sugar-egg-puffs.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "pumpkin custard ball",
+      "Cantonese": {
+        "text": "奶黃南瓜沙翁",
+        "wkty": ["奶黃", "奶", "黃", "南瓜", "南", "瓜", "沙翁", "沙", "翁"]
+      },
+      "Yale": "náaih wòhng nàahm gwā sā yūng",
+      "Simplified": {
+        "text": "奶黄南瓜沙翁",
+        "wkty": ["奶黃", "奶", "黃", "南瓜", "南", "瓜", "沙翁", "沙", "翁"]
+      },
+      "Pinyin": "nǎi huáng nán guā shā wēng",
+      "description": "{奶} is *milk*, and {黃} is *yellow*, so {嬭黃} is *milk yellow* or *custard*. 南瓜 is “pumpkin.” 沙翁 is a Chinese doughnut. So it's “custard pumpkin doughnut.”"
+    },
+    "images": [
+      {
+        "image": "pumpkincustardballtimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A pumpkin-flavored Chinese doughnut with a custard filling. I've only seen these at [Tim Ho Wan](http://www.timhowanusa.com/), listed in English as *pumpkin roll*.",
+    "tags": ["白糖沙翁", "白糖", "素", "南瓜", "奶皇", "甜品", "點心"],
+    "resources": []
+  }
 ]

@@ -1,44 +1,32 @@
 [
-    {
-        "word": {
-            "English": "blanched lettuce",
-            "Cantonese": {
-                "text": "白灼生菜",
-                "wkty": [
-                    "白",
-                    "灼",
-                    "生菜",
-                    "生",
-                    "菜"
-                ]
-            },
-            "Yale": "baahk cheuk sāang choi",
-            "Pinyin": "bái zhuó shēng cà",
-            "description": "白灼 is *water-boiled* and {生菜} is *lettuce*."
-        },
-        "images": [
-            {
-                "image": "blanchedlettucetimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Lettuce that has been blanched (quickly boiled then cooled) and served in a sauce.",
-        "tags": [
-            "生菜",
-            "菜",
-            "蒸",
-            "素",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "My Chinese Recipes",
-                "URL": "https://www.mychineserecipes.com/recipe/chinese-lettuce-garlic-oil-recipe/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Blanching_(cooking)"
-            }
-        ]
-    }
+  {
+    "word": {
+      "English": "blanched lettuce",
+      "Cantonese": {
+        "text": "白灼生菜",
+        "wkty": ["白", "灼", "生菜", "生", "菜"]
+      },
+      "Yale": "baahk cheuk sāang choi",
+      "Pinyin": "bái zhuó shēng cà",
+      "description": "白灼 is *water-boiled* and {生菜} is *lettuce*."
+    },
+    "images": [
+      {
+        "image": "blanchedlettucetimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Lettuce that has been blanched (quickly boiled then cooled) and served in a sauce.",
+    "tags": ["生菜", "菜", "蒸", "素", "點心"],
+    "resources": [
+      {
+        "name": "My Chinese Recipes",
+        "URL": "https://www.mychineserecipes.com/recipe/chinese-lettuce-garlic-oil-recipe/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Blanching_(cooking)"
+      }
+    ]
+  }
 ]

@@ -1,41 +1,31 @@
 [
-    {
-        "word": {
-            "English": "vegetarian bun",
-            "Cantonese": {
-                "text": "素菜包",
-                "wkty": [
-                    "素菜",
-                    "素",
-                    "菜",
-                    "包"
-                ]
-            },
-            "Yale": "sou choi bāau",
-            "Pinyin": "sù cài bāo",
-            "description": "{素菜} is *vegetarian dish*({素} is *vegetarian* and {菜} often refers to vegetables but also more generally a type of food), and 包 is *bun*, so 素菜包 is *vegetarian bun*."
-        },
-        "images": [
-            {
-                "image": "vegetarianbun"
-            }
-        ],
-        "description": "Steamed wheat buns with vegetable fillings.",
-        "tags": [
-            "包",
-            "素",
-            "蒸",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/vegetarian-steamed-buns/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2017/01/steamed-vegetable-buns/"
-            }
-        ]
-    }
+  {
+    "word": {
+      "English": "vegetarian bun",
+      "Cantonese": {
+        "text": "素菜包",
+        "wkty": ["素菜", "素", "菜", "包"]
+      },
+      "Yale": "sou choi bāau",
+      "Pinyin": "sù cài bāo",
+      "description": "{素菜} is *vegetarian dish*({素} is *vegetarian* and {菜} often refers to vegetables but also more generally a type of food), and 包 is *bun*, so 素菜包 is *vegetarian bun*."
+    },
+    "images": [
+      {
+        "image": "vegetarianbun"
+      }
+    ],
+    "description": "Steamed wheat buns with vegetable fillings.",
+    "tags": ["包", "素", "蒸", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/vegetarian-steamed-buns/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2017/01/steamed-vegetable-buns/"
+      }
+    ]
+  }
 ]

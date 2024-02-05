@@ -1,292 +1,225 @@
 [
-    {
-        "word": {
-            "English": "BBQ pork bun",
-            "Cantonese": {
-                "text": "叉燒包",
-                "wkty": [
-                    "叉燒包",
-                    "叉燒",
-                    "叉",
-                    "燒",
-                    "包"
-                ]
-            },
-            "Yale": "chā sīu bāau",
-            "Simplified": {
-                "text": "叉烧包",
-                "wkty": [
-                    "叉烧包",
-                    "叉烧",
-                    "叉",
-                    "烧",
-                    "包"
-                ]
-            },
-            "Pinyin": "chā shāo bāo",
-            "description": "{叉燒} is [BBQ pork]([Cha siu](https://en.wikipedia.org/wiki/Char_siu)) ({叉} is *fork*, and {燒} is *roasted*, so {叉燒} is *fork roasted*). {包} is *bun*, so {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao)"
-        },
-        "images": [
-            {
-                "image": "bbqporkbunyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "This [bao](https://en.wikipedia.org/wiki/Baozi) is unique in how the white, fluffy bread splits like a craggy rock formation, often with seams that reveal the filling of [BBQ pork](https://en.wikipedia.org/wiki/Char_siu) mixed with a sauce (ingredients include hoisin, oyster and soy sauce).\n\n**Eating Tips**\n\nThis is one of your heavier dim sum buns, so watch out, you can fill up on these easily.",
-        "tags": [
-            "粵菜",
-            "叉燒包",
-            "海鮮醬",
-            "點心",
-            "豬",
-            "豬肉",
-            "蒸",
-            "叉燒",
-            "包"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/102977.html"
-            },
-            {
-                "name": "Cha Siu",
-                "URL": "https://en.wikipedia.org/wiki/Char_siu"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-bbq-pork-buns/"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Barbecued-Pork-Bun"
-            },
-            {
-                "name": "Dimsumptuous",
-                "URL": "http://www.dimsumptuous.com/2014/01/char-siew-bao-steamed-bun.html"
-            },
-            {
-                "name": "#Legend",
-                "URL": "https://hashtaglegend.com/culture/secret-life-char-siu-bao/"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/1"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/char-siu-bao/"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-8-steamed-char-siu-bao/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/char-siu-bao"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/barbecued-pork-steamed-bun-char-siu-bao.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Cha_siu_bao"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/05/steamed-bbq-pork-buns-char-siu-bao/"
-            },
-            {
-                "name": "Yum Cha Guide",
-                "URL": "http://www.yumchaguide.com/portfolio/bbq-pork-bun/"
-            }
-        ]
+  {
+    "word": {
+      "English": "BBQ pork bun",
+      "Cantonese": {
+        "text": "叉燒包",
+        "wkty": ["叉燒包", "叉燒", "叉", "燒", "包"]
+      },
+      "Yale": "chā sīu bāau",
+      "Simplified": {
+        "text": "叉烧包",
+        "wkty": ["叉烧包", "叉烧", "叉", "烧", "包"]
+      },
+      "Pinyin": "chā shāo bāo",
+      "description": "{叉燒} is [BBQ pork]([Cha siu](https://en.wikipedia.org/wiki/Char_siu)) ({叉} is *fork*, and {燒} is *roasted*, so {叉燒} is *fork roasted*). {包} is *bun*, so {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao)"
     },
-    {
-        "word": {
-            "English": "baked BBQ pork bun",
-            "Cantonese": {
-                "text": "焗叉燒包",
-                "wkty": [
-                    "焗",
-                    "叉燒包",
-                    "叉燒",
-                    "叉",
-                    "燒",
-                    "包"
-                ]
-            },
-            "Yale": "guhk chā sīu bāau",
-            "Simplified": {
-                "text": "焗叉烧包",
-                "wkty": [
-                    "焗",
-                    "叉烧包",
-                    "叉烧",
-                    "叉",
-                    "烧",
-                    "包"
-                ]
-            },
-            "Pinyin": "jú chā shāo bāo",
-            "description": "{焗} is *baked*, and {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao).\n\nAlso known in Chinese as {叉燒餐包} (chā sīu chāan bāau in Cantonese, chā shāo cān bāo in Mandarin), where 餐包 is a western-style dinner roll, literally *dinner bao*, so it's *bbq pork dinner roll*."
-        },
-        "images": [
-            {
-                "image": "bakedchasiubaohkgarden",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A baked version of the [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao), with the same [Cha siu](https://en.wikipedia.org/wiki/Char_siu) filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and typically glazed on top with honey.",
-        "tags": [
-            "粵菜",
-            "焗叉燒包",
-            "叉燒包",
-            "豬",
-            "豬肉",
-            "焗",
-            "叉燒",
-            "包",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/char-siu-bao-baked-buns-recipe/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2008/09/incredible-baked-cha-shao-bao-chinese.html"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-2-honeyed-pork-buns-baked-char-siu-bao/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/baked-char-siu-bao"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/chinese-bbq-pork-buns-cha-siu-bao/"
-            }
-        ]
+    "images": [
+      {
+        "image": "bbqporkbunyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "This [bao](https://en.wikipedia.org/wiki/Baozi) is unique in how the white, fluffy bread splits like a craggy rock formation, often with seams that reveal the filling of [BBQ pork](https://en.wikipedia.org/wiki/Char_siu) mixed with a sauce (ingredients include hoisin, oyster and soy sauce).\n\n**Eating Tips**\n\nThis is one of your heavier dim sum buns, so watch out, you can fill up on these easily.",
+    "tags": [
+      "粵菜",
+      "叉燒包",
+      "海鮮醬",
+      "點心",
+      "豬",
+      "豬肉",
+      "蒸",
+      "叉燒",
+      "包"
+    ],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/102977.html"
+      },
+      {
+        "name": "Cha Siu",
+        "URL": "https://en.wikipedia.org/wiki/Char_siu"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-bbq-pork-buns/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Barbecued-Pork-Bun"
+      },
+      {
+        "name": "Dimsumptuous",
+        "URL": "http://www.dimsumptuous.com/2014/01/char-siew-bao-steamed-bun.html"
+      },
+      {
+        "name": "#Legend",
+        "URL": "https://hashtaglegend.com/culture/secret-life-char-siu-bao/"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/1"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/char-siu-bao/"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-8-steamed-char-siu-bao/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/char-siu-bao"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/barbecued-pork-steamed-bun-char-siu-bao.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Cha_siu_bao"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/05/steamed-bbq-pork-buns-char-siu-bao/"
+      },
+      {
+        "name": "Yum Cha Guide",
+        "URL": "http://www.yumchaguide.com/portfolio/bbq-pork-bun/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "baked BBQ pork bun",
+      "Cantonese": {
+        "text": "焗叉燒包",
+        "wkty": ["焗", "叉燒包", "叉燒", "叉", "燒", "包"]
+      },
+      "Yale": "guhk chā sīu bāau",
+      "Simplified": {
+        "text": "焗叉烧包",
+        "wkty": ["焗", "叉烧包", "叉烧", "叉", "烧", "包"]
+      },
+      "Pinyin": "jú chā shāo bāo",
+      "description": "{焗} is *baked*, and {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao).\n\nAlso known in Chinese as {叉燒餐包} (chā sīu chāan bāau in Cantonese, chā shāo cān bāo in Mandarin), where 餐包 is a western-style dinner roll, literally *dinner bao*, so it's *bbq pork dinner roll*."
     },
-    {
-        "word": {
-            "English": "crispy baked BBQ pork bun",
-            "Cantonese": {
-                "text": "酥皮焗叉燒包",
-                "wkty": [
-                    "酥皮",
-                    "酥",
-                    "皮",
-                    "焗",
-                    "叉燒包",
-                    "叉燒",
-                    "叉",
-                    "燒",
-                    "包"
-                ]
-            },
-            "Yale": "sōu pèih guhk chā sīu bāau",
-            "Simplified": {
-                "text": "酥皮焗叉烧包",
-                "wkty": [
-                    "酥皮",
-                    "酥",
-                    "皮",
-                    "焗",
-                    "叉烧包",
-                    "叉烧",
-                    "叉",
-                    "烧",
-                    "包"
-                ]
-            },
-            "Pinyin": "sū pí jú chā shāo bāo",
-            "description": "{酥皮} is *flaky skin* ({酥} is *flaky pastry* and {皮} is *skin*), {焗} is *baked*, and {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao), so 酥皮焗叉燒包 is *flaky skin BBQ pork bun*."
-        },
-        "images": [
-            {
-                "image": "bakedchasiubaotimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "This baked [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao) is a signature dish of the [Tim Ho Wan](http://timhowan.com/) dim sum chain, distinguished by it's crispy toast-like outer texture.",
-        "tags": [
-            "粵菜",
-            "酥",
-            "焗叉燒包",
-            "叉燒包",
-            "豬",
-            "豬肉",
-            "焗",
-            "叉燒",
-            "包",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "The Plant-Based Wok",
-                "URL": "https://www.namethedish.com/bread/snow-mountain-char-siu-bao/"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/tim-ho-wan-bbq-pork-buns.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "bakedchasiubaohkgarden",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A baked version of the [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao), with the same [Cha siu](https://en.wikipedia.org/wiki/Char_siu) filling but a smooth [bao](https://en.wikipedia.org/wiki/Baozi) that's baked to a toasty brown and typically glazed on top with honey.",
+    "tags": [
+      "粵菜",
+      "焗叉燒包",
+      "叉燒包",
+      "豬",
+      "豬肉",
+      "焗",
+      "叉燒",
+      "包",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/char-siu-bao-baked-buns-recipe/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/09/incredible-baked-cha-shao-bao-chinese.html"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-2-honeyed-pork-buns-baked-char-siu-bao/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/pork-buns/baked-char-siu-bao"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-bbq-pork-buns-cha-siu-bao/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "crispy baked BBQ pork bun",
+      "Cantonese": {
+        "text": "酥皮焗叉燒包",
+        "wkty": ["酥皮", "酥", "皮", "焗", "叉燒包", "叉燒", "叉", "燒", "包"]
+      },
+      "Yale": "sōu pèih guhk chā sīu bāau",
+      "Simplified": {
+        "text": "酥皮焗叉烧包",
+        "wkty": ["酥皮", "酥", "皮", "焗", "叉烧包", "叉烧", "叉", "烧", "包"]
+      },
+      "Pinyin": "sū pí jú chā shāo bāo",
+      "description": "{酥皮} is *flaky skin* ({酥} is *flaky pastry* and {皮} is *skin*), {焗} is *baked*, and {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao), so 酥皮焗叉燒包 is *flaky skin BBQ pork bun*."
     },
-    {
-        "word": {
-            "English": "vegan BBQ pork bun",
-            "Cantonese": {
-                "text": "仿肉叉燒包",
-                "wkty": [
-                    "仿",
-                    "肉",
-                    "叉燒包",
-                    "叉燒",
-                    "叉",
-                    "包"
-                ]
-            },
-            "Yale": "fóng yuhk chā sīu bāau",
-            "Simplified": {
-                "text": "仿肉叉烧包",
-                "wkty": [
-                    "仿",
-                    "肉",
-                    "叉烧包",
-                    "叉烧",
-                    "叉",
-                    "包"
-                ]
-            },
-            "Pinyin": "ǎng ròu chā shāo bāo",
-            "description": "仿肉 is *imitation meat*, and {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao)."
-        },
-        "images": [
-            {
-                "image": "imitationmeatbaoyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A vegetarian version of the [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao), with imitation meat in place of the [BBQ pork](https://en.wikipedia.org/wiki/Char_siu).",
-        "tags": [
-            "粵菜",
-            "叉燒包",
-            "仿肉",
-            "素",
-            "包",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "The Plant-Based Wok",
-                "URL": "https://theplantbasedwok.com/vegan-char-siu-bao/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "bakedchasiubaotimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "This baked [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao) is a signature dish of the [Tim Ho Wan](http://timhowan.com/) dim sum chain, distinguished by it's crispy toast-like outer texture.",
+    "tags": [
+      "粵菜",
+      "酥",
+      "焗叉燒包",
+      "叉燒包",
+      "豬",
+      "豬肉",
+      "焗",
+      "叉燒",
+      "包",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "The Plant-Based Wok",
+        "URL": "https://www.namethedish.com/bread/snow-mountain-char-siu-bao/"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/tim-ho-wan-bbq-pork-buns.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "vegan BBQ pork bun",
+      "Cantonese": {
+        "text": "仿肉叉燒包",
+        "wkty": ["仿", "肉", "叉燒包", "叉燒", "叉", "包"]
+      },
+      "Yale": "fóng yuhk chā sīu bāau",
+      "Simplified": {
+        "text": "仿肉叉烧包",
+        "wkty": ["仿", "肉", "叉烧包", "叉烧", "叉", "包"]
+      },
+      "Pinyin": "ǎng ròu chā shāo bāo",
+      "description": "仿肉 is *imitation meat*, and {叉燒包} is [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao)."
+    },
+    "images": [
+      {
+        "image": "imitationmeatbaoyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A vegetarian version of the [BBQ pork bun](http://en.wikipedia.org/wiki/Cha_siu_bao), with imitation meat in place of the [BBQ pork](https://en.wikipedia.org/wiki/Char_siu).",
+    "tags": ["粵菜", "叉燒包", "仿肉", "素", "包", "點心"],
+    "resources": [
+      {
+        "name": "The Plant-Based Wok",
+        "URL": "https://theplantbasedwok.com/vegan-char-siu-bao/"
+      }
+    ]
+  }
 ]

@@ -1,48 +1,36 @@
 [
-    {
-        "word": {
-            "English": "pork sung",
-            "Cantonese": {
-                "text": "肉鬆",
-                "wkty": [
-                    "肉鬆",
-                    "肉",
-                    "鬆"
-                ]
-            },
-            "Yale": "yuhk sūng",
-            "Simplified": {
-                "text": "肉松",
-                "wkty": [
-                    "肉松",
-                    "肉",
-                    "松"
-                ]
-            },
-            "Pinyin": "ròu sōng",
-            "description": "{肉} is *meat*, and {鬆} is *loose*, so {肉鬆} is *loose meat*."
-        },
-        "images": [
-            {
-                "image": "porkfloss99ranch",
-                "place": "99 Ranch Market, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Dried shredded pork that serves as a topping or filling, for example with congee and [pork sung buns](https://thewoksoflife.com/2016/03/pork-sung-buns/).\n\nAlso known as *pork floss* or *meat floss* or by the Mandarin pronunciation [rousong](https://en.wikipedia.org/wiki/Rousong)",
-        "tags": [
-            "肉鬆",
-            "豬肉",
-            "肉"
-        ],
-        "resources": [
-            {
-                "name": "Miss Chinese Food",
-                "URL": "https://misschinesefood.com/homemade-pork-floss/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Rousong"
-            }
-        ]
-    }
+  {
+    "word": {
+      "English": "pork sung",
+      "Cantonese": {
+        "text": "肉鬆",
+        "wkty": ["肉鬆", "肉", "鬆"]
+      },
+      "Yale": "yuhk sūng",
+      "Simplified": {
+        "text": "肉松",
+        "wkty": ["肉松", "肉", "松"]
+      },
+      "Pinyin": "ròu sōng",
+      "description": "{肉} is *meat*, and {鬆} is *loose*, so {肉鬆} is *loose meat*."
+    },
+    "images": [
+      {
+        "image": "porkfloss99ranch",
+        "place": "99 Ranch Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Dried shredded pork that serves as a topping or filling, for example with congee and [pork sung buns](https://thewoksoflife.com/2016/03/pork-sung-buns/).\n\nAlso known as *pork floss* or *meat floss* or by the Mandarin pronunciation [rousong](https://en.wikipedia.org/wiki/Rousong)",
+    "tags": ["肉鬆", "豬肉", "肉"],
+    "resources": [
+      {
+        "name": "Miss Chinese Food",
+        "URL": "https://misschinesefood.com/homemade-pork-floss/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Rousong"
+      }
+    ]
+  }
 ]

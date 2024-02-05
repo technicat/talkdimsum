@@ -1,233 +1,155 @@
 [
-   {
-      "word": {
-         "English": "moon cake",
-         "Cantonese": {
-            "text": "月餅",
-            "wkty": [
-               "月餅",
-               "月",
-               "餅"
-            ]
-         },
-         "Yale": "yuht béng",
-         "Simplified": {
-            "text": "月饼",
-            "wkty": [
-               "月饼",
-               "月",
-               "饼"
-            ]
-         },
-         "Pinyin": "yuè bǐng",
-         "description": "{月} is *moon*, and {餅} is a round pastry or cake, so {月餅} is *moon cake*."
+  {
+    "word": {
+      "English": "moon cake",
+      "Cantonese": {
+        "text": "月餅",
+        "wkty": ["月餅", "月", "餅"]
       },
-      "images": [
-         {
-            "image": "mooncake168"
-         }
-      ],
-      "description": "A thick puck-shaped cake with a paste filling, a tradition for the mid-autumn Moon Festival.\n\n**Trivia**\n\nAccording to legend (though not history), secret messages hidden in mooncakes coordinated the Chinese overthrow of Mongol rule.\n\n**Books**\n\n[Mooncakes and Milk Bread](https://eatchofood.com/) by Kristina Cho provides recipes and anecdotes of traditional and new Chinese bakery items, and also some dim sum.",
-      "tags": [
-         "月餅",
-         "餅",
-         "焗",
-         "素",
-         "甜品"
-      ],
-      "resources": [
-         {
-            "name": "Adventures with Kake",
-            "URL": "https://kake.dreamwidth.org/56338.html"
-         },
-         {
-            "name": "China Sichuan Food",
-            "URL": "https://www.chinasichuanfood.com/chinese-moon-cake-traditional-version/"
-         },
-         {
-            "name": "Chinatownology",
-            "URL": "https://www.chinatownology.com/Chinese_pastry_guide.html#mooncake"
-         },
-         {
-            "name": "Christine's Recipes",
-            "URL": "https://en.christinesrecipes.com/2011/09/traditional-mooncakes.html"
-         },
-         {
-            "name": "Christine's Recipes",
-            "URL": "https://www.honestfoodtalks.com/snow-skin-mooncake-recipe/"
-         },
-         {
-            "name": "The Plant-Based Wok",
-            "URL": "https://theplantbasedwok.com/vegan-mooncakes-6-ways/"
-         },
-         {
-            "name": "The Woks of Life",
-            "URL": "https://thewoksoflife.com/2016/09/lotus-mooncakes-egg-yolks/"
-         },
-         {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Mooncake"
-         }
-      ]
-   },
-   {
-      "word": {
-         "English": "red bean moon cake",
-         "Cantonese": {
-            "text": "紅豆月餅",
-            "wkty": [
-               "紅豆",
-               "紅",
-               "豆",
-               "月餅",
-               "月",
-               "餅"
-            ]
-         },
-         "Yale": "hùhng dáu yuht béng",
-         "Simplified": {
-            "text": "红豆月饼",
-            "wkty": [
-               "红豆",
-               "红",
-               "豆",
-               "月饼",
-               "月",
-               "饼"
-            ]
-         },
-         "Pinyin": "hóng dòu yuè bǐng",
-         "description": "{紅豆} is [red bean](https://en.wikipedia.org/wiki/Adzuki_bean)) ({紅} is *red*, and {豆} is *bean*). {月} is *moon*, and {餅} is a round pastry or cake, so 紅豆月餅 is *red bean moon cake*."
+      "Yale": "yuht béng",
+      "Simplified": {
+        "text": "月饼",
+        "wkty": ["月饼", "月", "饼"]
       },
-      "images": [
-         {
-            "image": "redbeanmooncakesunrisebakery",
-            "place": "Sunrie Bakery, Las Vegas, Nevada"
-         }
-      ],
-      "description": "Moon cake filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))).",
-      "tags": [
-         "月餅",
-         "紅色",
-         "餅",
-         "焗",
-         "素",
-         "甜品"
-      ],
-      "resources": [
-         {
-            "name": "Wikipedia",
-            "URL": "https://en.wikipedia.org/wiki/Mooncake"
-         },
-         {
-            "name": "The Woks of Life",
-            "URL": "https://thewoksoflife.com/2016/09/lotus-mooncakes-egg-yolks/"
-         },
-         {
-            "name": "China Sichuan Food",
-            "URL": "https://www.chinasichuanfood.com/chinese-moon-cake-traditional-version/"
-         },
-         {
-            "name": "Christine's Recipes",
-            "URL": "https://en.christinesrecipes.com/2011/09/traditional-mooncakes.html"
-         },
-         {
-            "name": "Adventures with Kake",
-            "URL": "https://kake.dreamwidth.org/56338.html"
-         }
-      ]
-   },
-   {
-      "word": {
-         "English": "lotus seed moon cake",
-         "Cantonese": {
-            "text": "蓮蓉月餅",
-            "wkty": [
-               "蓮蓉",
-               "蓮",
-               "蓉",
-               "月餅",
-               "月",
-               "餅"
-            ]
-         },
-         "Yale": "lìhn yùhng yuht béng",
-         "Simplified": {
-            "text": "莲蓉月饼",
-            "wkty": [
-               "蓮蓉",
-               "蓮",
-               "蓉",
-               "月饼",
-               "月",
-               "饼"
-            ]
-         },
-         "Pinyin": "lián róng yuè bǐng",
-         "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)). {月} is *moon*, and {餅} is a round pastry or cake, so *lotus paste moon cake*."
+      "Pinyin": "yuè bǐng",
+      "description": "{月} is *moon*, and {餅} is a round pastry or cake, so {月餅} is *moon cake*."
+    },
+    "images": [
+      {
+        "image": "mooncake168"
+      }
+    ],
+    "description": "A thick puck-shaped cake with a paste filling, a tradition for the mid-autumn Moon Festival.\n\n**Trivia**\n\nAccording to legend (though not history), secret messages hidden in mooncakes coordinated the Chinese overthrow of Mongol rule.\n\n**Books**\n\n[Mooncakes and Milk Bread](https://eatchofood.com/) by Kristina Cho provides recipes and anecdotes of traditional and new Chinese bakery items, and also some dim sum.",
+    "tags": ["月餅", "餅", "焗", "素", "甜品"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/56338.html"
       },
-      "images": [
-         {
-            "image": "lotuspastemooncakesunrisebakery",
-            "place": "Sunrise Bakery, Las Vegas, Nevada"
-         }
-      ],
-      "description": "Moon cake filled with [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste).",
-      "tags": [
-         "月餅",
-         "蓮蓉",
-         "餅",
-         "焗",
-         "素",
-         "甜品"
-      ],
-      "resources": []
-   },
-   {
-      "word": {
-         "English": "pineapple moon cake",
-         "Cantonese": {
-            "text": "鳳梨月餅",
-            "wkty": [
-               "菠蘿",
-               "菠",
-               "蘿",
-               "月餅",
-               "月",
-               "餅"
-            ]
-         },
-         "Yale": "fuhng lèih yuht béng",
-         "Simplified": {
-            "text": "凤梨月饼",
-            "wkty": [
-               "凤梨",
-               "凤",
-               "梨",
-               "月饼",
-               "月",
-               "饼"
-            ]
-         },
-         "Pinyin": "fèng lí yuè bǐng",
-         "description": "{鳳梨} is *pineapple*, {月} is *moon*, and {餅} is a round pastry or cake, so *pineapple moon cake*."
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-moon-cake-traditional-version/"
       },
-      "images": [
-         {
-            "image": "pineapplemooncakesunrisebakery",
-            "place": "Sunrise Bakery, Las Vegas, Nevada"
-         }
-      ],
-      "description": "Moon cake filled with pineapple paste.",
-      "tags": [
-         "菠蘿",
-         "月餅",
-         "鳳梨",
-         "餅",
-         "焗",
-         "素",
-         "甜品"
-      ],
-      "resources": []
-   }
+      {
+        "name": "Chinatownology",
+        "URL": "https://www.chinatownology.com/Chinese_pastry_guide.html#mooncake"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2011/09/traditional-mooncakes.html"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://www.honestfoodtalks.com/snow-skin-mooncake-recipe/"
+      },
+      {
+        "name": "The Plant-Based Wok",
+        "URL": "https://theplantbasedwok.com/vegan-mooncakes-6-ways/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2016/09/lotus-mooncakes-egg-yolks/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mooncake"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "red bean moon cake",
+      "Cantonese": {
+        "text": "紅豆月餅",
+        "wkty": ["紅豆", "紅", "豆", "月餅", "月", "餅"]
+      },
+      "Yale": "hùhng dáu yuht béng",
+      "Simplified": {
+        "text": "红豆月饼",
+        "wkty": ["红豆", "红", "豆", "月饼", "月", "饼"]
+      },
+      "Pinyin": "hóng dòu yuè bǐng",
+      "description": "{紅豆} is [red bean](https://en.wikipedia.org/wiki/Adzuki_bean)) ({紅} is *red*, and {豆} is *bean*). {月} is *moon*, and {餅} is a round pastry or cake, so 紅豆月餅 is *red bean moon cake*."
+    },
+    "images": [
+      {
+        "image": "redbeanmooncakesunrisebakery",
+        "place": "Sunrie Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Moon cake filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))).",
+    "tags": ["月餅", "紅色", "餅", "焗", "素", "甜品"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mooncake"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2016/09/lotus-mooncakes-egg-yolks/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-moon-cake-traditional-version/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2011/09/traditional-mooncakes.html"
+      },
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/56338.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lotus seed moon cake",
+      "Cantonese": {
+        "text": "蓮蓉月餅",
+        "wkty": ["蓮蓉", "蓮", "蓉", "月餅", "月", "餅"]
+      },
+      "Yale": "lìhn yùhng yuht béng",
+      "Simplified": {
+        "text": "莲蓉月饼",
+        "wkty": ["蓮蓉", "蓮", "蓉", "月饼", "月", "饼"]
+      },
+      "Pinyin": "lián róng yuè bǐng",
+      "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)). {月} is *moon*, and {餅} is a round pastry or cake, so *lotus paste moon cake*."
+    },
+    "images": [
+      {
+        "image": "lotuspastemooncakesunrisebakery",
+        "place": "Sunrise Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Moon cake filled with [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste).",
+    "tags": ["月餅", "蓮蓉", "餅", "焗", "素", "甜品"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "pineapple moon cake",
+      "Cantonese": {
+        "text": "鳳梨月餅",
+        "wkty": ["菠蘿", "菠", "蘿", "月餅", "月", "餅"]
+      },
+      "Yale": "fuhng lèih yuht béng",
+      "Simplified": {
+        "text": "凤梨月饼",
+        "wkty": ["凤梨", "凤", "梨", "月饼", "月", "饼"]
+      },
+      "Pinyin": "fèng lí yuè bǐng",
+      "description": "{鳳梨} is *pineapple*, {月} is *moon*, and {餅} is a round pastry or cake, so *pineapple moon cake*."
+    },
+    "images": [
+      {
+        "image": "pineapplemooncakesunrisebakery",
+        "place": "Sunrise Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Moon cake filled with pineapple paste.",
+    "tags": ["菠蘿", "月餅", "鳳梨", "餅", "焗", "素", "甜品"],
+    "resources": []
+  }
 ]

@@ -4,13 +4,7 @@
       "English": "walnut soup",
       "Cantonese": {
         "text": "核桃糊",
-        "wkty": [
-          "核桃糊",
-          "核桃",
-          "核",
-          "桃",
-          "糊"
-        ]
+        "wkty": ["核桃糊", "核桃", "核", "桃", "糊"]
       },
       "Yale": "haht tòuh wùh",
       "Jyutping": "hat6 to2 wu4",
@@ -24,13 +18,7 @@
       }
     ],
     "description": "[Walnut soup](https://en.wikipedia.org/wiki/Walnut_soup) is a dessert made with water, finely ground walnuts, rice flour, and sugar.",
-    "tags": [
-      "糖水",
-      "糊",
-      "湯",
-      "核桃",
-      "甜品"
-    ],
+    "tags": ["糖水", "糊", "湯", "核桃", "甜品"],
     "resources": [
       {
         "name": "East Meets Kitchen",
@@ -47,14 +35,7 @@
       "English": "black sesame soup",
       "Cantonese": {
         "text": "黑芝麻糊",
-        "wkty": [
-          "黑芝麻",
-          "黑",
-          "芝麻",
-          "芝",
-          "麻",
-          "糊"
-        ]
+        "wkty": ["黑芝麻", "黑", "芝麻", "芝", "麻", "糊"]
       },
       "Yale": "hāk jī màh wùh",
       "Pinyin": "hēi zhī má hù",
@@ -67,14 +48,7 @@
       }
     ],
     "description": "A dessert made with black sesame.",
-    "tags": [
-      "糖水",
-      "粵菜",
-      "糊",
-      "湯",
-      "黑芝麻",
-      "甜品"
-    ],
+    "tags": ["糖水", "粵菜", "糊", "湯", "黑芝麻", "甜品"],
     "resources": [
       {
         "name": "China Sichuan Food",

@@ -1,246 +1,172 @@
 [
-    {
-        "word": {
-            "English": "custard bun",
-            "Cantonese": {
-                "text": "奶黃包",
-                "wkty": [
-                    "奶黃包",
-                    "奶黃",
-                    "奶",
-                    "黃",
-                    "包"
-                ]
-            },
-            "Yale": "náaih wòhng bāau",
-            "Simplified": {
-                "text": "奶黄包",
-                "wkty": [
-                    "奶黄包",
-                    "奶黄",
-                    "奶",
-                    "黄",
-                    "包"
-                ]
-            },
-            "Pinyin": "nǎi huáng bāo",
-            "description": "{奶} is *milk*, and {黃} is *yellow*, so {奶黃} is *milk yellow* or *custard*, and {奶黃包} is *custard bun*."
-        },
-        "images": [
-            {
-                "image": "custardbundimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Steamed buns with a custard filling. Strictly speaking, the custard in this bun is thick, almost crumbly, and the molten custard variety goes by a different name, {流沙包}, but {奶黃包} is often used to refer to both versions.",
-        "tags": [
-            "奶皇",
-            "包",
-            "蒸",
-            "蛋",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/custard-bun-milk-yolk-buns/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/chinese-steamed-custard-bun/"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Egg-Custard-Bun"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/chinese-steamed-custard-buns/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/steamed-custard-buns/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/custard-buns"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2016/09/nai-wong-bao-custard-buns/"
-            }
-        ]
+  {
+    "word": {
+      "English": "custard bun",
+      "Cantonese": {
+        "text": "奶黃包",
+        "wkty": ["奶黃包", "奶黃", "奶", "黃", "包"]
+      },
+      "Yale": "náaih wòhng bāau",
+      "Simplified": {
+        "text": "奶黄包",
+        "wkty": ["奶黄包", "奶黄", "奶", "黄", "包"]
+      },
+      "Pinyin": "nǎi huáng bāo",
+      "description": "{奶} is *milk*, and {黃} is *yellow*, so {奶黃} is *milk yellow* or *custard*, and {奶黃包} is *custard bun*."
     },
-    {
-        "word": {
-            "English": "bunny custard bun",
-            "Cantonese": {
-                "text": "小兔奶黃包",
-                "wkty": [
-                    "小兔",
-                    "小",
-                    "兔",
-                    "奶黃包",
-                    "奶黃",
-                    "奶",
-                    "黃",
-                    "包"
-                ]
-            },
-            "Yale": "síu tou náaih wòhng bāau",
-            "Simplified": {
-                "text": "小兔奶黄包",
-                "wkty": [
-                    "小兔",
-                    "小",
-                    "兔",
-                    "奶黄包",
-                    "奶黄",
-                    "奶",
-                    "黄",
-                    "包"
-                ]
-            },
-            "Pinyin": "xiǎo tù nǎi huáng bāo",
-            "description": "{小} is *small*, {兔} is *rabbit*, {奶} is *milk*, and {黃} is *yellow*, so {嬭黃} is *milk yellow* or *custard*, and {嬭黃包} is *custard bun*. Altogether, 小兔奶黃包 is *small rabbit custard bun*."
-        },
-        "images": [
-            {
-                "image": "rabbitcustardbun",
-                "place": "168 Market, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Steamed custard buns shaped to look like small rabbits.",
-        "tags": [
-            "奶皇",
-            "包",
-            "蒸",
-            "蛋",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/vegetarian-dumplings/custard-dumplings"
-            }
-        ]
+    "images": [
+      {
+        "image": "custardbundimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Steamed buns with a custard filling. Strictly speaking, the custard in this bun is thick, almost crumbly, and the molten custard variety goes by a different name, {流沙包}, but {奶黃包} is often used to refer to both versions.",
+    "tags": ["奶皇", "包", "蒸", "蛋", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/custard-bun-milk-yolk-buns/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/chinese-steamed-custard-bun/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Egg-Custard-Bun"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/chinese-steamed-custard-buns/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/steamed-custard-buns/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/custard-buns"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2016/09/nai-wong-bao-custard-buns/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "bunny custard bun",
+      "Cantonese": {
+        "text": "小兔奶黃包",
+        "wkty": ["小兔", "小", "兔", "奶黃包", "奶黃", "奶", "黃", "包"]
+      },
+      "Yale": "síu tou náaih wòhng bāau",
+      "Simplified": {
+        "text": "小兔奶黄包",
+        "wkty": ["小兔", "小", "兔", "奶黄包", "奶黄", "奶", "黄", "包"]
+      },
+      "Pinyin": "xiǎo tù nǎi huáng bāo",
+      "description": "{小} is *small*, {兔} is *rabbit*, {奶} is *milk*, and {黃} is *yellow*, so {嬭黃} is *milk yellow* or *custard*, and {嬭黃包} is *custard bun*. Altogether, 小兔奶黃包 is *small rabbit custard bun*."
     },
-    {
-        "word": {
-            "English": "piglet custard bun",
-            "Cantonese": {
-                "text": "小豬奶黃包",
-                "wkty": [
-                    "小豬",
-                    "小",
-                    "豬",
-                    "奶黃包",
-                    "奶黃",
-                    "奶",
-                    "黃",
-                    "包"
-                ]
-            },
-            "Yale": "síu jyū náaih wòhng bāau",
-            "Simplified": {
-                "text": "小猪奶黄包",
-                "wkty": [
-                    "小猪",
-                    "小",
-                    "猪",
-                    "奶黃包",
-                    "奶黄",
-                    "奶",
-                    "黄",
-                    "包"
-                ]
-            },
-            "Pinyin": "xiǎo zhū nǎi huáng bāo",
-            "description": "{小} is *small*, {豬} is *pig*, {奶} is *milk*, and {黃} is *yellow*, so {嬭黃} is *milk yellow* or *custard*, and {嬭黃包} is *custard bun*, so altogether 小豬奶黃包 is *piglet custard bun*."
-        },
-        "images": [
-            {
-                "image": "pigletcustardbungingercafe",
-                "place": "Ginger Cafe, Gilroy, California"
-            }
-        ],
-        "description": "Steamed custard buns shaped to look like piglets.",
-        "tags": [
-            "奶皇",
-            "包",
-            "蒸",
-            "蛋",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/vegetarian-dumplings/custard-dumplings"
-            }
-        ]
+    "images": [
+      {
+        "image": "rabbitcustardbun",
+        "place": "168 Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Steamed custard buns shaped to look like small rabbits.",
+    "tags": ["奶皇", "包", "蒸", "蛋", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/vegetarian-dumplings/custard-dumplings"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "piglet custard bun",
+      "Cantonese": {
+        "text": "小豬奶黃包",
+        "wkty": ["小豬", "小", "豬", "奶黃包", "奶黃", "奶", "黃", "包"]
+      },
+      "Yale": "síu jyū náaih wòhng bāau",
+      "Simplified": {
+        "text": "小猪奶黄包",
+        "wkty": ["小猪", "小", "猪", "奶黃包", "奶黄", "奶", "黄", "包"]
+      },
+      "Pinyin": "xiǎo zhū nǎi huáng bāo",
+      "description": "{小} is *small*, {豬} is *pig*, {奶} is *milk*, and {黃} is *yellow*, so {嬭黃} is *milk yellow* or *custard*, and {嬭黃包} is *custard bun*, so altogether 小豬奶黃包 is *piglet custard bun*."
     },
-    {
-        "word": {
-            "English": "molten custard bun",
-            "Cantonese": {
-                "text": "流沙包",
-                "wkty": [
-                    "流沙",
-                    "流",
-                    "沙",
-                    "包"
-                ]
-            },
-            "Yale": "làu sā bāau",
-            "Pinyin": "liú shā bāo",
-            "description": "{流} is *flowing* and {沙} is *sand*. Together {流沙} is *flowing sand* or *quicksand*. {包} is *bun*, so 流沙包 is *quicksand bun*.\n\nIf you leave out the first character so it's just {沙包} (sā bāau) *sand bag*, that refers to punching bags used in gyms.”"
-        },
-        "images": [
-            {
-                "image": "steamedlavacakeyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A recent Hong Kong-invented variation of custard buns, these have a molten custard filling made from the yolk of [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg), (often called *salted egg custard*), typically listed as *lava custard bun* or *lava bun* (or *lava custard bun* or *molten lava bun*...), *phoenix bun*, and I've also seen *golden sand bun*.",
-        "tags": [
-            "鹹蛋",
-            "流沙包",
-            "流沙",
-            "包",
-            "蒸",
-            "蛋",
-            "甜品",
-            "港式",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "The 350 Degree Oven",
-                "URL": "http://www.the350degreeoven.com/2012/10/chinese-taiwanese/liu-sa-bao-chinese-salted-egg-custard-steamed-bun/"
-            },
-            {
-                "name": "Bear Naked Food",
-                "URL": "http://www.bearnakedfood.com/2016/05/27/molten-lava-bun/"
-            },
-            {
-                "name": "stuarte",
-                "URL": "https://stuarte.co/2017/molten-lava-egg-custard-bun/"
-            },
-            {
-                "name": "Taste of Asian Food",
-                "URL": "https://tasteasianfood.com/liu-sha-bao/"
-            },
-            {
-                "name": "Tasting Table",
-                "URL": "https://www.tastingtable.com/1246462/egg-custard-buns/"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/pandan-liu-sha-bao-salted-egg-yolks-custard-pandan-steamed-buns.html"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "pigletcustardbungingercafe",
+        "place": "Ginger Cafe, Gilroy, California"
+      }
+    ],
+    "description": "Steamed custard buns shaped to look like piglets.",
+    "tags": ["奶皇", "包", "蒸", "蛋", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/dumplings/vegetarian-dumplings/custard-dumplings"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "molten custard bun",
+      "Cantonese": {
+        "text": "流沙包",
+        "wkty": ["流沙", "流", "沙", "包"]
+      },
+      "Yale": "làu sā bāau",
+      "Pinyin": "liú shā bāo",
+      "description": "{流} is *flowing* and {沙} is *sand*. Together {流沙} is *flowing sand* or *quicksand*. {包} is *bun*, so 流沙包 is *quicksand bun*.\n\nIf you leave out the first character so it's just {沙包} (sā bāau) *sand bag*, that refers to punching bags used in gyms.”"
+    },
+    "images": [
+      {
+        "image": "steamedlavacakeyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A recent Hong Kong-invented variation of custard buns, these have a molten custard filling made from the yolk of [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg), (often called *salted egg custard*), typically listed as *lava custard bun* or *lava bun* (or *lava custard bun* or *molten lava bun*...), *phoenix bun*, and I've also seen *golden sand bun*.",
+    "tags": [
+      "鹹蛋",
+      "流沙包",
+      "流沙",
+      "包",
+      "蒸",
+      "蛋",
+      "甜品",
+      "港式",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "The 350 Degree Oven",
+        "URL": "http://www.the350degreeoven.com/2012/10/chinese-taiwanese/liu-sa-bao-chinese-salted-egg-custard-steamed-bun/"
+      },
+      {
+        "name": "Bear Naked Food",
+        "URL": "http://www.bearnakedfood.com/2016/05/27/molten-lava-bun/"
+      },
+      {
+        "name": "stuarte",
+        "URL": "https://stuarte.co/2017/molten-lava-egg-custard-bun/"
+      },
+      {
+        "name": "Taste of Asian Food",
+        "URL": "https://tasteasianfood.com/liu-sha-bao/"
+      },
+      {
+        "name": "Tasting Table",
+        "URL": "https://www.tastingtable.com/1246462/egg-custard-buns/"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/pandan-liu-sha-bao-salted-egg-yolks-custard-pandan-steamed-buns.html"
+      }
+    ]
+  }
 ]

@@ -1,52 +1,40 @@
 [
-    {
-        "word": {
-            "English": "steamed dumpling",
-            "Cantonese": {
-                "text": "蒸餃",
-                "wkty": [
-                    "蒸餃",
-                    "蒸",
-                    "餃"
-                ]
-            },
-            "Yale": "jīng gáau",
-            "Simplified": {
-                "text": "蒸饺",
-                "wkty": [
-                    "蒸饺",
-                    "蒸",
-                    "饺"
-                ]
-            },
-            "Pinyin": "zhēng jiǎo",
-            "description": "{蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), and {餃} is *dumpling*."
-        },
-        "images": [
-            {
-                "image": "steameddumplingschinarepublic",
-                "place": "China Republic, Rancho Cucamonga, California"
-            }
-        ],
-        "description": "These traditional Chinese [dumplings](https://en.wikipedia.org/wiki/Jiaozi) are served steamed in dim sum restaurants (also pan-fried, see [potstickers](http://en.wikipedia.org/wiki/Jiaozi#Guoties)). They have a thick wrapper and are filled with meat and chopped vegetables.",
-        "tags": [
-            "蒸",
-            "餃",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/how-to-make-dumplings/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Jiaozi"
-            },
-            {
-                "name": "Woon Heng",
-                "URL": "https://woonheng.com/vegan-vegetable-dumpling-jiao-zi/"
-            }
-        ]
-    }
+  {
+    "word": {
+      "English": "steamed dumpling",
+      "Cantonese": {
+        "text": "蒸餃",
+        "wkty": ["蒸餃", "蒸", "餃"]
+      },
+      "Yale": "jīng gáau",
+      "Simplified": {
+        "text": "蒸饺",
+        "wkty": ["蒸饺", "蒸", "饺"]
+      },
+      "Pinyin": "zhēng jiǎo",
+      "description": "{蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), and {餃} is *dumpling*."
+    },
+    "images": [
+      {
+        "image": "steameddumplingschinarepublic",
+        "place": "China Republic, Rancho Cucamonga, California"
+      }
+    ],
+    "description": "These traditional Chinese [dumplings](https://en.wikipedia.org/wiki/Jiaozi) are served steamed in dim sum restaurants (also pan-fried, see [potstickers](http://en.wikipedia.org/wiki/Jiaozi#Guoties)). They have a thick wrapper and are filled with meat and chopped vegetables.",
+    "tags": ["蒸", "餃", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/how-to-make-dumplings/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Jiaozi"
+      },
+      {
+        "name": "Woon Heng",
+        "URL": "https://woonheng.com/vegan-vegetable-dumpling-jiao-zi/"
+      }
+    ]
+  }
 ]

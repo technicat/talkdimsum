@@ -1,133 +1,91 @@
 [
-    {
-        "word": {
-            "English": "black sesame roll",
-            "Cantonese": {
-                "text": "芝麻卷",
-                "wkty": [
-                    "黑芝麻",
-                    "黑",
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "卷"
-                ]
-            },
-            "Yale": "jī màh gyún",
-            "Pinyin": "zhī ma juǎn",
-            "description": "{芝麻} is *sesame*, and {卷} is *roll*, so {黑芝麻} is *sesame roll*."
-        },
-        "images": [
-            {
-                "image": "blacksesamerollsverticalluckyhouse",
-                "place": "Lucky House, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Black sesame rolls](https://en.wikipedia.org/wiki/Black_sesame_roll) consist of sesame paste chilled in sheets and then rolled up.",
-        "tags": [
-            "港式",
-            "茶餐廳",
-            "黑芝麻",
-            "芝麻",
-            "卷",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Black-Sesame-Roll"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Black_sesame_roll"
-            }
-        ]
+  {
+    "word": {
+      "English": "black sesame roll",
+      "Cantonese": {
+        "text": "芝麻卷",
+        "wkty": ["黑芝麻", "黑", "芝麻", "芝", "麻", "卷"]
+      },
+      "Yale": "jī màh gyún",
+      "Pinyin": "zhī ma juǎn",
+      "description": "{芝麻} is *sesame*, and {卷} is *roll*, so {黑芝麻} is *sesame roll*."
     },
-    {
-        "word": {
-            "English": "coconut roll",
-            "Cantonese": {
-                "text": "椰絲卷",
-                "wkty": [
-                    "椰絲",
-                    "椰",
-                    "絲",
-                    "卷"
-                ]
-            },
-            "Yale": "yèh sī gyún",
-            "Simplified": {
-                "text": "椰丝卷",
-                "wkty": [
-                    "椰丝",
-                    "椰",
-                    "丝",
-                    "卷"
-                ]
-            },
-            "Pinyin": "yē sī juàn",
-            "description": "{椰} is *coconut*, and {絲} is *shreds*, so {椰絲} is *coconut shreds*. {卷} is *roll*, so 椰絲卷 is *coconut shreds roll*."
-        },
-        "images": [
-            {
-                "image": "coconutrollsdimsumcafe",
-                "place": "Dim Sum Cafe"
-            }
-        ],
-        "description": "Rolls with shredded coconut.",
-        "tags": [
-            "茶餐廳",
-            "港式",
-            "椰",
-            "椰絲",
-            "卷",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2014/07/inside-hong-kong-coconut-buns/"
-            }
-        ]
+    "images": [
+      {
+        "image": "blacksesamerollsverticalluckyhouse",
+        "place": "Lucky House, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Black sesame rolls](https://en.wikipedia.org/wiki/Black_sesame_roll) consist of sesame paste chilled in sheets and then rolled up.",
+    "tags": ["港式", "茶餐廳", "黑芝麻", "芝麻", "卷", "甜品"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Black-Sesame-Roll"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Black_sesame_roll"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "coconut roll",
+      "Cantonese": {
+        "text": "椰絲卷",
+        "wkty": ["椰絲", "椰", "絲", "卷"]
+      },
+      "Yale": "yèh sī gyún",
+      "Simplified": {
+        "text": "椰丝卷",
+        "wkty": ["椰丝", "椰", "丝", "卷"]
+      },
+      "Pinyin": "yē sī juàn",
+      "description": "{椰} is *coconut*, and {絲} is *shreds*, so {椰絲} is *coconut shreds*. {卷} is *roll*, so 椰絲卷 is *coconut shreds roll*."
     },
-    {
-        "word": {
-            "English": "biscuit roll",
-            "Cantonese": {
-                "text": "蛋卷",
-                "wkty": [
-                    "蛋卷",
-                    "蛋",
-                    "卷"
-                ]
-            },
-            "Yale": "daahn gyún",
-            "Pinyin": "dàn juǎn",
-            "description": "{蛋} is *egg*, and {卷} is *roll*, so {蛋卷} is [egg roll](https://en.wikipedia.org/wiki/Biscuit_roll) (never mind that the Chinese-American version of spring rolls are often called egg rolls)."
-        },
-        "images": [
-            {
-                "image": "biscuitroll2"
-            }
-        ],
-        "description": "[Biscuit rolls](https://en.wikipedia.org/wiki/Biscuit_roll) are crispy tubes made of flour, butter, egg and sugar. This is a bakery and snack item easily found in Chinese grocery stores stacked inside large square tins.",
-        "tags": [
-            "港式",
-            "蛋",
-            "卷",
-            "焗",
-            "素",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "Diversivore",
-                "URL": "https://www.diversivore.com/chinese-biscuit-rolls/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Biscuit_roll"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "coconutrollsdimsumcafe",
+        "place": "Dim Sum Cafe"
+      }
+    ],
+    "description": "Rolls with shredded coconut.",
+    "tags": ["茶餐廳", "港式", "椰", "椰絲", "卷", "甜品"],
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2014/07/inside-hong-kong-coconut-buns/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "biscuit roll",
+      "Cantonese": {
+        "text": "蛋卷",
+        "wkty": ["蛋卷", "蛋", "卷"]
+      },
+      "Yale": "daahn gyún",
+      "Pinyin": "dàn juǎn",
+      "description": "{蛋} is *egg*, and {卷} is *roll*, so {蛋卷} is [egg roll](https://en.wikipedia.org/wiki/Biscuit_roll) (never mind that the Chinese-American version of spring rolls are often called egg rolls)."
+    },
+    "images": [
+      {
+        "image": "biscuitroll2"
+      }
+    ],
+    "description": "[Biscuit rolls](https://en.wikipedia.org/wiki/Biscuit_roll) are crispy tubes made of flour, butter, egg and sugar. This is a bakery and snack item easily found in Chinese grocery stores stacked inside large square tins.",
+    "tags": ["港式", "蛋", "卷", "焗", "素", "甜品"],
+    "resources": [
+      {
+        "name": "Diversivore",
+        "URL": "https://www.diversivore.com/chinese-biscuit-rolls/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Biscuit_roll"
+      }
+    ]
+  }
 ]

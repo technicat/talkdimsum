@@ -1,199 +1,159 @@
 [
-    {
-        "word": {
-            "English": "pork belly bun",
-            "Cantonese": "叉包",
-            "Mandarin": "割包",
-            "Yale": "chā bāau",
-            "Jyutping": "caa1 baau1",
-            "Pinyin": "gē bāo",
-            "description": "Known as 叉包 (chā bāau in Cantonese) in Hong Kong, {割包} (gē bāo in Mandarin) elsewhere and similarly “gua bao” in English."
-        },
-        "images": [
-            {
-                "image": "porkbellybaofatchoy",
-                "place": "Fat Choy, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Meat, usually pork belly, served taco-like in a soft doughy [bao](https://en.wikipedia.org/wiki/Baozi) wrapper. Originating from Fuzhou, this is a popular street food in Taiwan.",
-        "tags": [
-            "閩菜",
-            "包",
-            "蒸"
-        ],
-        "resources": [
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
-            },
-            {
-                "name": "Choo Choo Ca Chew",
-                "URL": "https://www.choochoocachew.com/guabao/"
-            },
-            {
-                "name": "Cooking in Chinglish",
-                "URL": "https://cookinginchinglish.com/gua-bao-pork-belly-bao-with-pickled-carrots-and-daikon/"
-            },
-            {
-                "name": "CNN",
-                "URL": "https://www.cnn.com/travel/article/gua-bao-taiwan/index.html"
-            },
-            {
-                "name": "Gastrosenses",
-                "URL": "https://www.gastrosenses.com/blog/gua-bao-with-glazed-pork-belly/"
-            },
-            {
-                "name": "Little Fat Boy",
-                "URL": "https://littlefatboy.com/recipes/taiwanese-salt-and-pepper-fried-chicken-gua-bao"
-            },
-            {
-                "name": "Nom Life",
-                "URL": "https://www.lifeofnoms.com/blog/tfc"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/gua-bao-pork-belly-buns/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Gua_bao"
-            },
-            {
-                "name": "Wok & Kin",
-                "URL": "https://www.wokandkin.com/taiwanese-pork-belly-bao-gua-bao/"
-            }
-        ]
+  {
+    "word": {
+      "English": "pork belly bun",
+      "Cantonese": "叉包",
+      "Mandarin": "割包",
+      "Yale": "chā bāau",
+      "Jyutping": "caa1 baau1",
+      "Pinyin": "gē bāo",
+      "description": "Known as 叉包 (chā bāau in Cantonese) in Hong Kong, {割包} (gē bāo in Mandarin) elsewhere and similarly “gua bao” in English."
     },
-    {
-        "word": {
-            "English": "Chinese hamburger",
-            "Cantonese": {
-                "text": "肉夾饃",
-                "wkty": [
-                    "肉夾饃",
-                    "肉",
-                    "夾",
-                    "饃"
-                ]
-            },
-            "Yale": "yuhk gaap mòh",
-            "Simplified": {
-                "text": "肉夹馍",
-                "wkty": [
-                    "肉夾馍",
-                    "肉",
-                    "夾",
-                    "馍"
-                ]
-            },
-            "Pinyin": "ròu jiā mó",
-            "description": "{肉} is *meat*, {夾} is *sandwiched between*, and {饃} is *bun*. So {肉夾饃} is *meat sandwiched between bun*."
-        },
-        "images": [
-            {
-                "image": "chinesehamburgerwishfuldumpling",
-                "place": "Wishful Dumpling, Las Vegas, Nevada"
-            }
-        ],
-        "description": "This street food originating from the [Shaanxi](https://en.wikipedia.org/wiki/Shaanxi) province in Northern China is often listed in English by its Mandarin pronunciation [Roujiamo](https://en.wikipedia.org/wiki/en:Roujiamo) or simply *Chinese hamburger*, although it's really more like a pita sandwich: meat, usually pork, served in a sliced baked or pan-fried bun.\n\n**Books**\n\nXi'an Famous Foods by Jason Wang (Xi'an is the capital of Shaanxi",
-        "tags": [
-            "肉夾饃",
-            "秦菜",
-            "肉",
-            "包"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-hamburger-pork-belly-buns/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/chinese-hamburger-rou-jia-mo/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/chinese-pork-burger/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/en:Roujiamo"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/"
-            },
-            {
-                "name": "Woon Heng",
-                "URL": "https://woonheng.com/vegan-rou-jia-mo-chinese-hamburger/"
-            }
-        ]
+    "images": [
+      {
+        "image": "porkbellybaofatchoy",
+        "place": "Fat Choy, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Meat, usually pork belly, served taco-like in a soft doughy [bao](https://en.wikipedia.org/wiki/Baozi) wrapper. Originating from Fuzhou, this is a popular street food in Taiwan.",
+    "tags": ["閩菜", "包", "蒸"],
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.angelwongskitchen.com/taiwaneseporkbao.html"
+      },
+      {
+        "name": "Choo Choo Ca Chew",
+        "URL": "https://www.choochoocachew.com/guabao/"
+      },
+      {
+        "name": "Cooking in Chinglish",
+        "URL": "https://cookinginchinglish.com/gua-bao-pork-belly-bao-with-pickled-carrots-and-daikon/"
+      },
+      {
+        "name": "CNN",
+        "URL": "https://www.cnn.com/travel/article/gua-bao-taiwan/index.html"
+      },
+      {
+        "name": "Gastrosenses",
+        "URL": "https://www.gastrosenses.com/blog/gua-bao-with-glazed-pork-belly/"
+      },
+      {
+        "name": "Little Fat Boy",
+        "URL": "https://littlefatboy.com/recipes/taiwanese-salt-and-pepper-fried-chicken-gua-bao"
+      },
+      {
+        "name": "Nom Life",
+        "URL": "https://www.lifeofnoms.com/blog/tfc"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/gua-bao-pork-belly-buns/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Gua_bao"
+      },
+      {
+        "name": "Wok & Kin",
+        "URL": "https://www.wokandkin.com/taiwanese-pork-belly-bao-gua-bao/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Chinese hamburger",
+      "Cantonese": {
+        "text": "肉夾饃",
+        "wkty": ["肉夾饃", "肉", "夾", "饃"]
+      },
+      "Yale": "yuhk gaap mòh",
+      "Simplified": {
+        "text": "肉夹馍",
+        "wkty": ["肉夾馍", "肉", "夾", "馍"]
+      },
+      "Pinyin": "ròu jiā mó",
+      "description": "{肉} is *meat*, {夾} is *sandwiched between*, and {饃} is *bun*. So {肉夾饃} is *meat sandwiched between bun*."
     },
-    {
-        "word": {
-            "English": "Chinese beef hamburger",
-            "Cantonese": {
-                "text": "牛肉夾饃",
-                "wkty": [
-                    "肉夾饃",
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "夾",
-                    "饃"
-                ]
-            },
-            "Yale": "ngàuh yuhk gaap mòh",
-            "Simplified": {
-                "text": "牛肉夹馍",
-                "wkty": [
-                    "肉夾馍",
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "夾",
-                    "馍"
-                ]
-            },
-            "Pinyin": "niú ròu jiā mó",
-            "description": "{牛肉} is *beef*, {夾} is *sandwiched between*, and {饃} is *bun*. So {牛肉夾饃} is *beef sandwiched between bun*."
-        },
-        "images": [
-            {
-                "image": "beefhamburgeronemorenoodlehouse",
-                "place": "One More Noodle House, South Salt Lake, Utah"
-            }
-        ],
-        "description": "A [Chinese hamburger](https://en.wikipedia.org/wiki/en:Roujiamo) filled with beef",
-        "tags": [
-            "新菜",
-            "肉夾饃",
-            "秦菜",
-            "牛肉",
-            "肉",
-            "包"
-        ],
-        "resources": [
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/chinese-hamburger-rou-jia-mo/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/chinese-pork-burger/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/en:Roujiamo"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "chinesehamburgerwishfuldumpling",
+        "place": "Wishful Dumpling, Las Vegas, Nevada"
+      }
+    ],
+    "description": "This street food originating from the [Shaanxi](https://en.wikipedia.org/wiki/Shaanxi) province in Northern China is often listed in English by its Mandarin pronunciation [Roujiamo](https://en.wikipedia.org/wiki/en:Roujiamo) or simply *Chinese hamburger*, although it's really more like a pita sandwich: meat, usually pork, served in a sliced baked or pan-fried bun.\n\n**Books**\n\nXi'an Famous Foods by Jason Wang (Xi'an is the capital of Shaanxi",
+    "tags": ["肉夾饃", "秦菜", "肉", "包"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-hamburger-pork-belly-buns/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/chinese-hamburger-rou-jia-mo/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/chinese-pork-burger/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/en:Roujiamo"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/"
+      },
+      {
+        "name": "Woon Heng",
+        "URL": "https://woonheng.com/vegan-rou-jia-mo-chinese-hamburger/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Chinese beef hamburger",
+      "Cantonese": {
+        "text": "牛肉夾饃",
+        "wkty": ["肉夾饃", "牛肉", "牛", "肉", "夾", "饃"]
+      },
+      "Yale": "ngàuh yuhk gaap mòh",
+      "Simplified": {
+        "text": "牛肉夹馍",
+        "wkty": ["肉夾馍", "牛肉", "牛", "肉", "夾", "馍"]
+      },
+      "Pinyin": "niú ròu jiā mó",
+      "description": "{牛肉} is *beef*, {夾} is *sandwiched between*, and {饃} is *bun*. So {牛肉夾饃} is *beef sandwiched between bun*."
+    },
+    "images": [
+      {
+        "image": "beefhamburgeronemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "A [Chinese hamburger](https://en.wikipedia.org/wiki/en:Roujiamo) filled with beef",
+    "tags": ["新菜", "肉夾饃", "秦菜", "牛肉", "肉", "包"],
+    "resources": [
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/chinese-hamburger-rou-jia-mo/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/chinese-pork-burger/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/en:Roujiamo"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-hamburgers-rou-jia-mo/"
+      }
+    ]
+  }
 ]

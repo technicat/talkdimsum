@@ -1,262 +1,183 @@
 [
-    {
-        "word": {
-            "English": "Chinese tea",
-            "Cantonese": {
-                "text": "中國茶",
-                "wkty": [
-                    "中國",
-                    "中",
-                    "國",
-                    "茶"
-                ]
-            },
-            "Yale": "jūng gwok chàh",
-            "Jyutping": "zung1 gwok3 caa4",
-            "Simplified": {
-                "text": "中国茶",
-                "wkty": [
-                    "中国",
-                    "中",
-                    "国",
-                    "茶"
-                ]
-            },
-            "Pinyin": "zhōng guó chá",
-            "description": "{中国} is *China* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea)."
-        },
-        "images": [
-            {
-                "image": "teaandwhisk",
-                "place": "Tea and Whisk, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Chinese tea](https://en.wikipedia.org/wiki/Chinese_tea), hot, loose leaf tea served in a big pot, originated thousands of years ago (legend has it that it was discovered when tea leaves accidentally landed in hot water) and is so integral to dim sum (teahouses actually predate the advent of dim sum) that 飲茶 *yám chàh* (Cantonese for *drink tea*) also means to go out for dim sum. \n\n**Varieties**\n\nThere is a huge variety of Chinese tea, which can be split into categories such as green, black, white, scented... Jasmine and oolong tea is standard, and chrysanthemum is a common non-caffeinated option, but large Chinese restaurants usually offer many more (I once asked “what tea do you have?” and they responded “what do you want?”\n\n**Books**\n\n[A Little Tea Book](https://inpursuitoftea.com/products/little-tea-book) by Simon Beckwith describes the varieties of teas (not just Chinese), their characteristics, and proper preparation. [The Dim Sum Field Guide](https://www.penguinrandomhouse.com/books/533493/the-dim-sum-field-guide-by-carolyn-phillips/) by Carolyn Phillips lists teas commonly served with dim sum.",
-        "tags": [
-            "中國茶",
-            "飲品",
-            "點心",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/43203.html"
-            },
-            {
-                "name": "Babel Carp",
-                "URL": "https://babelcarp.org/babelcarp/"
-            },
-            {
-                "name": "China Channel",
-                "URL": "https://chinachannel.org/2019/03/05/dim-sum-tea/"
-            },
-            {
-                "name": "Culture",
-                "URL": "https://en.wikipedia.org/wiki/Chinese_tea_culture"
-            },
-            {
-                "name": "NPR",
-                "URL": "https://www.npr.org/sections/thesalt/2016/01/26/464437173/worlds-oldest-tea-discovered-in-an-ancient-chinese-emperors-tomb"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/best-teas-with-dim-sum/"
-            },
-            {
-                "name": "Says",
-                "URL": "https://says.com/my/lifestyle/types-of-chinese-tea-taste-and-differences-found-in-malaysian-chinese-restaurants"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Chinese_tea"
-            }
-        ]
+  {
+    "word": {
+      "English": "Chinese tea",
+      "Cantonese": {
+        "text": "中國茶",
+        "wkty": ["中國", "中", "國", "茶"]
+      },
+      "Yale": "jūng gwok chàh",
+      "Jyutping": "zung1 gwok3 caa4",
+      "Simplified": {
+        "text": "中国茶",
+        "wkty": ["中国", "中", "国", "茶"]
+      },
+      "Pinyin": "zhōng guó chá",
+      "description": "{中国} is *China* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea)."
     },
-    {
-        "word": {
-            "English": "tea leaves",
-            "Cantonese": {
-                "text": "茶葉",
-                "wkty": [
-                    "茶葉",
-                    "茶",
-                    "葉",
-                    "蛋"
-                ]
-            },
-            "Yale": "chàh yihp",
-            "Simplified": {
-                "text": "茶叶",
-                "wkty": [
-                    "茶叶",
-                    "茶",
-                    "叶",
-                    "蛋"
-                ]
-            },
-            "Pinyin": "chá yè",
-            "description": "{茶葉} is *tea leaves*({茶} is [tea](https://en.wikipedia.org/wiki/Tea), {葉} is *leaf*)."
-        },
-        "images": [
-            {
-                "image": "teatableeverygrain",
-                "place": "Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Chinese tea is traditionally prepared with loose leaf tea, ranging from the no-frills [grandpa-style](https://afternoonteareads.com/why-grandpa-style-is-the-best-way-to-enjoy-tea/) to the elaborate [gongfu tea ceremony](https://en.wikipedia.org/wiki/Gongfu_tea_ceremony).",
-        "tags": [
-            "中國茶",
-            "茶",
-            "蛋"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tea_bag"
-            }
-        ]
+    "images": [
+      {
+        "image": "teaandwhisk",
+        "place": "Tea and Whisk, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Chinese tea](https://en.wikipedia.org/wiki/Chinese_tea), hot, loose leaf tea served in a big pot, originated thousands of years ago (legend has it that it was discovered when tea leaves accidentally landed in hot water) and is so integral to dim sum (teahouses actually predate the advent of dim sum) that 飲茶 *yám chàh* (Cantonese for *drink tea*) also means to go out for dim sum. \n\n**Varieties**\n\nThere is a huge variety of Chinese tea, which can be split into categories such as green, black, white, scented... Jasmine and oolong tea is standard, and chrysanthemum is a common non-caffeinated option, but large Chinese restaurants usually offer many more (I once asked “what tea do you have?” and they responded “what do you want?”\n\n**Books**\n\n[A Little Tea Book](https://inpursuitoftea.com/products/little-tea-book) by Simon Beckwith describes the varieties of teas (not just Chinese), their characteristics, and proper preparation. [The Dim Sum Field Guide](https://www.penguinrandomhouse.com/books/533493/the-dim-sum-field-guide-by-carolyn-phillips/) by Carolyn Phillips lists teas commonly served with dim sum.",
+    "tags": ["中國茶", "飲品", "點心", "飲品", "熱飲", "熱茶", "茶"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/43203.html"
+      },
+      {
+        "name": "Babel Carp",
+        "URL": "https://babelcarp.org/babelcarp/"
+      },
+      {
+        "name": "China Channel",
+        "URL": "https://chinachannel.org/2019/03/05/dim-sum-tea/"
+      },
+      {
+        "name": "Culture",
+        "URL": "https://en.wikipedia.org/wiki/Chinese_tea_culture"
+      },
+      {
+        "name": "NPR",
+        "URL": "https://www.npr.org/sections/thesalt/2016/01/26/464437173/worlds-oldest-tea-discovered-in-an-ancient-chinese-emperors-tomb"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/best-teas-with-dim-sum/"
+      },
+      {
+        "name": "Says",
+        "URL": "https://says.com/my/lifestyle/types-of-chinese-tea-taste-and-differences-found-in-malaysian-chinese-restaurants"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chinese_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "tea leaves",
+      "Cantonese": {
+        "text": "茶葉",
+        "wkty": ["茶葉", "茶", "葉", "蛋"]
+      },
+      "Yale": "chàh yihp",
+      "Simplified": {
+        "text": "茶叶",
+        "wkty": ["茶叶", "茶", "叶", "蛋"]
+      },
+      "Pinyin": "chá yè",
+      "description": "{茶葉} is *tea leaves*({茶} is [tea](https://en.wikipedia.org/wiki/Tea), {葉} is *leaf*)."
     },
-    {
-        "word": {
-            "English": "teapot",
-            "Cantonese": {
-                "text": "茶壺",
-                "wkty": [
-                    "茶壺",
-                    "茶",
-                    "壺"
-                ]
-            },
-            "Yale": "chàh wú",
-            "Simplified": {
-                "text": "茶壶",
-                "wkty": [
-                    "茶壶",
-                    "茶",
-                    "壶"
-                ]
-            },
-            "Pinyin": "chá hú",
-            "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea) and {壺} is *pot*, so 茶壺 is *tea pot*."
-        },
-        "images": [
-            {
-                "image": "teapotlepho",
-                "place": "Le Pho, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Except when served [grandpa-style](https://afternoonteareads.com/why-grandpa-style-is-the-best-way-to-enjoy-tea/), Chinese tea is traditionally served in [teapots](https://thechineseteashop.com/pages/how-to-choose-a-chinese-teapot).",
-        "tags": [
-            "中國茶",
-            "茶",
-            "蛋"
-        ],
-        "resources": [
-            {
-                "name": "The Chinese Tea Shop",
-                "URL": "https://thechineseteashop.com/pages/how-to-choose-a-chinese-teapot"
-            }
-        ]
+    "images": [
+      {
+        "image": "teatableeverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chinese tea is traditionally prepared with loose leaf tea, ranging from the no-frills [grandpa-style](https://afternoonteareads.com/why-grandpa-style-is-the-best-way-to-enjoy-tea/) to the elaborate [gongfu tea ceremony](https://en.wikipedia.org/wiki/Gongfu_tea_ceremony).",
+    "tags": ["中國茶", "茶", "蛋"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tea_bag"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "teapot",
+      "Cantonese": {
+        "text": "茶壺",
+        "wkty": ["茶壺", "茶", "壺"]
+      },
+      "Yale": "chàh wú",
+      "Simplified": {
+        "text": "茶壶",
+        "wkty": ["茶壶", "茶", "壶"]
+      },
+      "Pinyin": "chá hú",
+      "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea) and {壺} is *pot*, so 茶壺 is *tea pot*."
     },
-    {
-        "word": {
-            "English": "famous teas",
-            "Cantonese": {
-                "text": "中國十大名茶",
-                "wkty": [
-                    "中國",
-                    "中",
-                    "國",
-                    "十",
-                    "大名",
-                    "大",
-                    "名",
-                    "茶"
-                ]
-            },
-            "Yale": "jūng gwok sahp daaih mìhng chàh",
-            "Jyutping": "zung1 gwok3 sap6 daai6 ming4 caa4",
-            "Simplified": {
-                "text": "中国十大名茶",
-                "wkty": [
-                    "中国",
-                    "中",
-                    "国",
-                    "十",
-                    "大名",
-                    "大",
-                    "名",
-                    "茶"
-                ]
-            },
-            "Pinyin": "Zhōng guó shí dà míng chá",
-            "description": "{中國} is *China* or *Chinese*, {十} is *ten*, {大} is *big*, {名} is *name*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 中國十大名茶is *Chinese top ten big name teas*."
-        },
-        "images": [
-            {
-                "image": "teagrotto",
-                "place": "Tea Grotto, Salt Lake City, Utah"
-            }
-        ],
-        "description": "For over the past hundred years, there have been various official and unofficial lists of [top ten Chinese teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas), so if you combine all the different lists, it's a lot more than ten! Teas that have made the lists(s) include West Lake Dragon Well, Dongting Biluochun, Huangshan Maofeng, Lu Shan Cloud, Xinyang Maojian, Wuyi tea, Tieguanyin, and Keemun.",
-        "tags": [
-            "中國十大名茶",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Seven Cups",
-                "URL": "https://sevencups.com/learn-about-tea/famous-chinese-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas"
-            }
-        ]
+    "images": [
+      {
+        "image": "teapotlepho",
+        "place": "Le Pho, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Except when served [grandpa-style](https://afternoonteareads.com/why-grandpa-style-is-the-best-way-to-enjoy-tea/), Chinese tea is traditionally served in [teapots](https://thechineseteashop.com/pages/how-to-choose-a-chinese-teapot).",
+    "tags": ["中國茶", "茶", "蛋"],
+    "resources": [
+      {
+        "name": "The Chinese Tea Shop",
+        "URL": "https://thechineseteashop.com/pages/how-to-choose-a-chinese-teapot"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "famous teas",
+      "Cantonese": {
+        "text": "中國十大名茶",
+        "wkty": ["中國", "中", "國", "十", "大名", "大", "名", "茶"]
+      },
+      "Yale": "jūng gwok sahp daaih mìhng chàh",
+      "Jyutping": "zung1 gwok3 sap6 daai6 ming4 caa4",
+      "Simplified": {
+        "text": "中国十大名茶",
+        "wkty": ["中国", "中", "国", "十", "大名", "大", "名", "茶"]
+      },
+      "Pinyin": "Zhōng guó shí dà míng chá",
+      "description": "{中國} is *China* or *Chinese*, {十} is *ten*, {大} is *big*, {名} is *name*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 中國十大名茶is *Chinese top ten big name teas*."
     },
-    {
-        "word": {
-            "English": "tea bag",
-            "Cantonese": {
-                "text": "茶包",
-                "wkty": [
-                    "茶包",
-                    "茶",
-                    "包"
-                ]
-            },
-            "Yale": "chàh bāau",
-            "Jyutping": "caa4 bau1",
-            "Pinyin": "chá bāo",
-            "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea), and {包} is *bag*, (the same [bao](https://en.wikipedia.org/wiki/Baozi) as in dim sum buns)."
-        },
-        "images": [
-            {
-                "image": "greentea88noodlepapa",
-                "place": "88 Noodle Papa, Las Vegas, Nevada"
-            }
-        ],
-        "description": "**Origin Story**\n\nThe first commercial tea bags (although not the first patented tea bags) were developed over a hundred years ago by Thomas Sullivan, a New York coffee and tea importer. Legend has it that his silk tea bags were only meant for packaging but customers just brewed the whole thing, and eureka, a product was born!",
-        "tags": [
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶",
-            "包"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tea_bag"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "teagrotto",
+        "place": "Tea Grotto, Salt Lake City, Utah"
+      }
+    ],
+    "description": "For over the past hundred years, there have been various official and unofficial lists of [top ten Chinese teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas), so if you combine all the different lists, it's a lot more than ten! Teas that have made the lists(s) include West Lake Dragon Well, Dongting Biluochun, Huangshan Maofeng, Lu Shan Cloud, Xinyang Maojian, Wuyi tea, Tieguanyin, and Keemun.",
+    "tags": ["中國十大名茶", "飲品", "熱飲", "熱茶", "茶", "中國茶"],
+    "resources": [
+      {
+        "name": "Seven Cups",
+        "URL": "https://sevencups.com/learn-about-tea/famous-chinese-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "tea bag",
+      "Cantonese": {
+        "text": "茶包",
+        "wkty": ["茶包", "茶", "包"]
+      },
+      "Yale": "chàh bāau",
+      "Jyutping": "caa4 bau1",
+      "Pinyin": "chá bāo",
+      "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea), and {包} is *bag*, (the same [bao](https://en.wikipedia.org/wiki/Baozi) as in dim sum buns)."
+    },
+    "images": [
+      {
+        "image": "greentea88noodlepapa",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
+    ],
+    "description": "**Origin Story**\n\nThe first commercial tea bags (although not the first patented tea bags) were developed over a hundred years ago by Thomas Sullivan, a New York coffee and tea importer. Legend has it that his silk tea bags were only meant for packaging but customers just brewed the whole thing, and eureka, a product was born!",
+    "tags": ["飲品", "熱飲", "熱茶", "茶", "包"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tea_bag"
+      }
+    ]
+  }
 ]

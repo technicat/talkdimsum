@@ -1,247 +1,194 @@
 [
-    {
-        "word": {
-            "English": "water chestnut cake",
-            "Cantonese": {
-                "text": "馬蹄糕",
-                "wkty": [
-                    "馬蹄糕",
-                    "馬蹄",
-                    "馬",
-                    "蹄",
-                    "糕"
-                ]
-            },
-            "Yale": "máh tàih gōu",
-            "Simplified": {
-                "text": "马蹄糕",
-                "wkty": [
-                    "马蹄糕",
-                    "马蹄",
-                    "马",
-                    "蹄",
-                    "糕"
-                ]
-            },
-            "Pinyin": "mǎ tí gāo",
-            "description": "{馬蹄} is *water chestnut*, and {糕} is *cake*, so {馬蹄糕} is *water chestnut cake*."
-        },
-        "images": [
-            {
-                "image": "waterchestnutcakeimperialgarden2",
-                "place": "Imperial Garden, Fresno, California"
-            }
-        ],
-        "description": "[Water chestnut cake](https://en.wikipedia.org/wiki/Water_chestnut_cake) is a translucent jelly made from shredded [Chinese water chestnuts](https://en.wikipedia.org/wiki/Eleocharis_dulcis).",
-        "tags": [
-            "馬蹄",
-            "糕",
-            "凍",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/water-chestnut-cake/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2013/01/water-chestnut-cake.html"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Water-Chestnut-Cake"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2017/01/chinese-water-chestnut-cake.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Water_chestnut_cake"
-            }
-        ]
+  {
+    "word": {
+      "English": "water chestnut cake",
+      "Cantonese": {
+        "text": "馬蹄糕",
+        "wkty": ["馬蹄糕", "馬蹄", "馬", "蹄", "糕"]
+      },
+      "Yale": "máh tàih gōu",
+      "Simplified": {
+        "text": "马蹄糕",
+        "wkty": ["马蹄糕", "马蹄", "马", "蹄", "糕"]
+      },
+      "Pinyin": "mǎ tí gāo",
+      "description": "{馬蹄} is *water chestnut*, and {糕} is *cake*, so {馬蹄糕} is *water chestnut cake*."
     },
-    {
-        "word": {
-            "English": "coconut pudding",
-            "Cantonese": {
-                "text": "椰汁糕",
-                "wkty": [
-                    "椰汁",
-                    "椰",
-                    "汁",
-                    "糕"
-                ]
-            },
-            "Yale": "yèh jāp gōu",
-            "Pinyin": "yē zhī gāo",
-            "description": "{椰汁}is [coconut milk](https://en.wikipedia.org/wiki/Coconut_milk) ({椰} is *coconut* and {汁} means *juice*) and {糕} is *cake*, so 椰汁糕 is *coconut milk cake*."
-        },
-        "images": [
-            {
-                "image": "coconutpuddingyumcha",
-                "place": "Yum Cha, Las Vegas, NV"
-            }
-        ],
-        "description": "Coconut pudding (also known as [coconut bar](https://en.wikipedia.org/wiki/Coconut_bar)) is a chilled jelly made with coconut milk and either gelatin or cornstarch.",
-        "tags": [
-            "粵菜",
-            "椰汁",
-            "椰",
-            "汁",
-            "糕",
-            "果",
-            "凍",
-            "素",
-            "布甸",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/coconut-milk-pudding/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2014/06/coconut-milk-pudding.html"
-            },
-            {
-                "name": "Memorable Dishes",
-                "URL": "http://www.memorabledishes.com/asian-coconut-pudding/"
-            },
-            {
-                "name": "Mommy's Blog",
-                "URL": "http://jollymommybaker.blogspot.com/2010/09/chinese-style-coconut-pudding.html"
-            },
-            {
-                "name": "Sally's Temple",
-                "URL": "http://sallytemple.com/coconutmilkpudding/"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-13-coconut-milk-pudding-2/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Coconut_bar"
-            }
-        ]
+    "images": [
+      {
+        "image": "waterchestnutcakeimperialgarden2",
+        "place": "Imperial Garden, Fresno, California"
+      }
+    ],
+    "description": "[Water chestnut cake](https://en.wikipedia.org/wiki/Water_chestnut_cake) is a translucent jelly made from shredded [Chinese water chestnuts](https://en.wikipedia.org/wiki/Eleocharis_dulcis).",
+    "tags": ["馬蹄", "糕", "凍", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/water-chestnut-cake/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2013/01/water-chestnut-cake.html"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Water-Chestnut-Cake"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2017/01/chinese-water-chestnut-cake.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Water_chestnut_cake"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "coconut pudding",
+      "Cantonese": {
+        "text": "椰汁糕",
+        "wkty": ["椰汁", "椰", "汁", "糕"]
+      },
+      "Yale": "yèh jāp gōu",
+      "Pinyin": "yē zhī gāo",
+      "description": "{椰汁}is [coconut milk](https://en.wikipedia.org/wiki/Coconut_milk) ({椰} is *coconut* and {汁} means *juice*) and {糕} is *cake*, so 椰汁糕 is *coconut milk cake*."
     },
-    {
-        "word": {
-            "English": "mung bean cake",
-            "Cantonese": {
-                "text": "綠豆糕",
-                "wkty": [
-                    "綠豆",
-                    "綠",
-                    "豆",
-                    "糕"
-                ]
-            },
-            "Yale": "luhk dáu gōu",
-            "Simplified": {
-                "text": "绿豆糕",
-                "wkty": [
-                    "绿豆",
-                    "绿",
-                    "豆",
-                    "糕"
-                ]
-            },
-            "Pinyin": "lǜ dòu gāo",
-            "description": "{綠豆} is [mung bean](https://en.wikipedia.org/wiki/Mung_bean) ({綠} is *green*, and {豆} is *bean*, but *green bean* is actually *mung bean*), and {糕} is *cake*, so 綠豆糕 is *mung bean cake*."
-        },
-        "images": [
-            {
-                "image": "mungbeanpancakeyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A cake filled with [mung bean](https://en.wikipedia.org/wiki/Mung_bean) paste.",
-        "tags": [
-            "綠豆",
-            "糕",
-            "煎",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "Ariel's Love Kitchen",
-                "URL": "http://ariels-love-kitchen.com/?p=449"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/mung-bean-cake/"
-            },
-            {
-                "name": "Chinatownology",
-                "URL": "https://www.chinatownology.com/Chinese_pastry_guide.html#greenbean"
-            },
-            {
-                "name": "Ellina's Life Space",
-                "URL": "https://www.ellinaguo.com/recipe/green-bean-cake/"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2019/06/green-mung-bean-cakes.html"
-            },
-            {
-                "name": "The Rice Lover",
-                "URL": "https://www.thericelover.com/healthy-mung-bean-cakes/"
-            }
-        ]
+    "images": [
+      {
+        "image": "coconutpuddingyumcha",
+        "place": "Yum Cha, Las Vegas, NV"
+      }
+    ],
+    "description": "Coconut pudding (also known as [coconut bar](https://en.wikipedia.org/wiki/Coconut_bar)) is a chilled jelly made with coconut milk and either gelatin or cornstarch.",
+    "tags": [
+      "粵菜",
+      "椰汁",
+      "椰",
+      "汁",
+      "糕",
+      "果",
+      "凍",
+      "素",
+      "布甸",
+      "甜品",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/coconut-milk-pudding/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2014/06/coconut-milk-pudding.html"
+      },
+      {
+        "name": "Memorable Dishes",
+        "URL": "http://www.memorabledishes.com/asian-coconut-pudding/"
+      },
+      {
+        "name": "Mommy's Blog",
+        "URL": "http://jollymommybaker.blogspot.com/2010/09/chinese-style-coconut-pudding.html"
+      },
+      {
+        "name": "Sally's Temple",
+        "URL": "http://sallytemple.com/coconutmilkpudding/"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-13-coconut-milk-pudding-2/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Coconut_bar"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "mung bean cake",
+      "Cantonese": {
+        "text": "綠豆糕",
+        "wkty": ["綠豆", "綠", "豆", "糕"]
+      },
+      "Yale": "luhk dáu gōu",
+      "Simplified": {
+        "text": "绿豆糕",
+        "wkty": ["绿豆", "绿", "豆", "糕"]
+      },
+      "Pinyin": "lǜ dòu gāo",
+      "description": "{綠豆} is [mung bean](https://en.wikipedia.org/wiki/Mung_bean) ({綠} is *green*, and {豆} is *bean*, but *green bean* is actually *mung bean*), and {糕} is *cake*, so 綠豆糕 is *mung bean cake*."
     },
-    {
-        "word": {
-            "English": "ice cream",
-            "Cantonese": {
-                "text": "雪糕",
-                "wkty": [
-                    "雪糕",
-                    "雪",
-                    "糕"
-                ]
-            },
-            "Yale": "syut gōu",
-            "Mandarin": {
-                "text": "冰淇淋",
-                "wkty": [
-                    "冰淇淋",
-                    "冰",
-                    "淇淋",
-                    "淇",
-                    "淋"
-                ]
-            },
-            "Pinyin": "bīng qí lín",
-            "description": "The Cantonese word for [ice cream](https://en.wikipedia.org/wiki/Ice_cream) {雪糕} is *snow cake* ({雪} is *snow*, and {糕} is *cake*). The Mandarin 冰淇淋 is the more literal *ice cream* ({冰} is *ice* and {淇淋} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cream*)."
-        },
-        "images": [
-            {
-                "image": "greenteaicecream",
-                "place": "Las Vegas, Nevada"
-            }
-        ],
-        "description": "Ice cream is thought of as a Western treat, but frozen desserts have (somehow) been available throughout Asia far longer than in Europe.",
-        "tags": [
-            "雪糕",
-            "糕",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "E-Chinese Learning",
-                "URL": "https://www.echineselearning.com/blog/chinese-ice-cream-ranking"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Ice_cream"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "mungbeanpancakeyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A cake filled with [mung bean](https://en.wikipedia.org/wiki/Mung_bean) paste.",
+    "tags": ["綠豆", "糕", "煎", "甜品"],
+    "resources": [
+      {
+        "name": "Ariel's Love Kitchen",
+        "URL": "http://ariels-love-kitchen.com/?p=449"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/mung-bean-cake/"
+      },
+      {
+        "name": "Chinatownology",
+        "URL": "https://www.chinatownology.com/Chinese_pastry_guide.html#greenbean"
+      },
+      {
+        "name": "Ellina's Life Space",
+        "URL": "https://www.ellinaguo.com/recipe/green-bean-cake/"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2019/06/green-mung-bean-cakes.html"
+      },
+      {
+        "name": "The Rice Lover",
+        "URL": "https://www.thericelover.com/healthy-mung-bean-cakes/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "ice cream",
+      "Cantonese": {
+        "text": "雪糕",
+        "wkty": ["雪糕", "雪", "糕"]
+      },
+      "Yale": "syut gōu",
+      "Mandarin": {
+        "text": "冰淇淋",
+        "wkty": ["冰淇淋", "冰", "淇淋", "淇", "淋"]
+      },
+      "Pinyin": "bīng qí lín",
+      "description": "The Cantonese word for [ice cream](https://en.wikipedia.org/wiki/Ice_cream) {雪糕} is *snow cake* ({雪} is *snow*, and {糕} is *cake*). The Mandarin 冰淇淋 is the more literal *ice cream* ({冰} is *ice* and {淇淋} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cream*)."
+    },
+    "images": [
+      {
+        "image": "greenteaicecream",
+        "place": "Las Vegas, Nevada"
+      }
+    ],
+    "description": "Ice cream is thought of as a Western treat, but frozen desserts have (somehow) been available throughout Asia far longer than in Europe.",
+    "tags": ["雪糕", "糕", "甜品"],
+    "resources": [
+      {
+        "name": "E-Chinese Learning",
+        "URL": "https://www.echineselearning.com/blog/chinese-ice-cream-ranking"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Ice_cream"
+      }
+    ]
+  }
 ]

@@ -1,152 +1,116 @@
 [
-    {
-        "word": {
-            "Cantonese": {
-                "text": "雞尾包",
-                "wkty": [
-                    "雞尾",
-                    "雞",
-                    "尾",
-                    "包"
-                ]
-            },
-            "Simplified": {
-                "text": "鸡尾包",
-                "wkty": [
-                    "鸡尾",
-                    "鸡",
-                    "尾",
-                    "包"
-                ]
-            },
-            "English": "cocktail bun",
-            "Yale": "gāi méih bāau",
-            "Jyutping": "gai1 méi5 bao1",
-            "Pinyin": "jī wěi bāo",
-            "description": "{雞} is *chicken*, {尾} is *tail*, so {雞尾} is literally *cocktail*. {包} is *bun*, so 雞尾包 is *cocktail bun*."
-        },
-        "images": [
-            {
-                "image": "cocktailbun"
-            }
-        ],
-        "description": "An elongated [bao](https://en.wikipedia.org/wiki/Baozi) with a buttery shredded coconut filling, the [cocktail bun](http://en.wikipedia.org/wiki/Cocktail_bun) was invented in the 1950s as a way to recycle day-old buns by turning them into a “cocktail mix” of fillings for new buns.",
-        "tags": [
-            "雞",
-            "尾",
-            "雞尾",
-            "包",
-            "椰",
-            "甜品",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/coconut-buns-cocktail-buns/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2014/07/tangzhong-cocktail-buns.html"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/cocktail-bun/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Cocktail_bun"
-            },
-            {
-                "name": "Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/07/coconut-buns-cocktail-buns/"
-            }
-        ]
+  {
+    "word": {
+      "Cantonese": {
+        "text": "雞尾包",
+        "wkty": ["雞尾", "雞", "尾", "包"]
+      },
+      "Simplified": {
+        "text": "鸡尾包",
+        "wkty": ["鸡尾", "鸡", "尾", "包"]
+      },
+      "English": "cocktail bun",
+      "Yale": "gāi méih bāau",
+      "Jyutping": "gai1 méi5 bao1",
+      "Pinyin": "jī wěi bāo",
+      "description": "{雞} is *chicken*, {尾} is *tail*, so {雞尾} is literally *cocktail*. {包} is *bun*, so 雞尾包 is *cocktail bun*."
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "腸仔包",
-                "wkty": [
-                    "腸仔包",
-                    "腸仔",
-                    "腸",
-                    "仔",
-                    "包"
-                ]
-            },
-            "Simplified": "肠仔包",
-            "English": "Chinese hot dog bun",
-            "Yale": "chéung jái bāau",
-            "Pinyin": "cháng zǐ bāo",
-            "description": "{腸仔} is *sausage*, and {包} is *bun*, so {腸仔包} is *sausage bun*.\n\nThe Chinese for *hot dog* is {熱狗} (yiht gáu), where {熱} is *hot* and {狗} is *dog*."
-        },
-        "images": [
-            {
-                "image": "hotdogbundiamondbakery",
-                "place": "Diamond Bakery, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A popular bakery item, [Chinese hot dog buns](https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/) are hot dogs baked in a roll (not fully enclosed like most [bao](https://en.wikipedia.org/wiki/Baozi)).",
-        "tags": [
-            "包",
-            "焗",
-            "熱狗"
-        ],
-        "resources": [
-            {
-                "name": "Bread Babe",
-                "URL": "http://www.breadbabe.com/home/2016/5/31/chinese-hot-dog-rolls"
-            },
-            {
-                "name": "Cooking in Chinglish",
-                "URL": "https://cookinginchinglish.com/bunny-sausage-bun/"
-            },
-            {
-                "name": "Instructables",
-                "URL": "https://www.instructables.com/id/Asian-hot-dog-buns/"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/chinese-hot-dog/"
-            },
-            {
-                "name": "Wai Sek Mao",
-                "URL": "https://waisekmao.typepad.com/blog/2009/05/chinese-bakery-style-hot-dog-buns.html"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/"
-            }
-        ]
+    "images": [
+      {
+        "image": "cocktailbun"
+      }
+    ],
+    "description": "An elongated [bao](https://en.wikipedia.org/wiki/Baozi) with a buttery shredded coconut filling, the [cocktail bun](http://en.wikipedia.org/wiki/Cocktail_bun) was invented in the 1950s as a way to recycle day-old buns by turning them into a “cocktail mix” of fillings for new buns.",
+    "tags": ["雞", "尾", "雞尾", "包", "椰", "甜品", "茶餐廳"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/coconut-buns-cocktail-buns/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2014/07/tangzhong-cocktail-buns.html"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/cocktail-bun/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Cocktail_bun"
+      },
+      {
+        "name": "Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/07/coconut-buns-cocktail-buns/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "腸仔包",
+        "wkty": ["腸仔包", "腸仔", "腸", "仔", "包"]
+      },
+      "Simplified": "肠仔包",
+      "English": "Chinese hot dog bun",
+      "Yale": "chéung jái bāau",
+      "Pinyin": "cháng zǐ bāo",
+      "description": "{腸仔} is *sausage*, and {包} is *bun*, so {腸仔包} is *sausage bun*.\n\nThe Chinese for *hot dog* is {熱狗} (yiht gáu), where {熱} is *hot* and {狗} is *dog*."
     },
-    {
-        "word": {
-            "English": "snow mountain bun",
-            "Cantonese": {
-                "text": "雪山包",
-                "wkty": [
-                    "雪山",
-                    "雪",
-                    "山",
-                    "包"
-                ]
-            },
-            "Yale": "syut sāan bāau",
-            "Pinyin": "xuě shān bāo",
-            "description": "{雪} is *snow*, {山} is *mountain*, and {包} is *bun*, so 雪山包 is *snow mountain bun*."
-        },
-        "images": [
-            {
-                "image": "snowmountainbun",
-                "place": "Ping Pang Pong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or ([red beans](https://en.wikipedia.org/wiki/Adzuki_bean)).",
-        "tags": [
-            "焗",
-            "包"
-        ],
-        "resources": []
-    }
+    "images": [
+      {
+        "image": "hotdogbundiamondbakery",
+        "place": "Diamond Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A popular bakery item, [Chinese hot dog buns](https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/) are hot dogs baked in a roll (not fully enclosed like most [bao](https://en.wikipedia.org/wiki/Baozi)).",
+    "tags": ["包", "焗", "熱狗"],
+    "resources": [
+      {
+        "name": "Bread Babe",
+        "URL": "http://www.breadbabe.com/home/2016/5/31/chinese-hot-dog-rolls"
+      },
+      {
+        "name": "Cooking in Chinglish",
+        "URL": "https://cookinginchinglish.com/bunny-sausage-bun/"
+      },
+      {
+        "name": "Instructables",
+        "URL": "https://www.instructables.com/id/Asian-hot-dog-buns/"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/chinese-hot-dog/"
+      },
+      {
+        "name": "Wai Sek Mao",
+        "URL": "https://waisekmao.typepad.com/blog/2009/05/chinese-bakery-style-hot-dog-buns.html"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/03/chinese-hot-dog-buns/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "snow mountain bun",
+      "Cantonese": {
+        "text": "雪山包",
+        "wkty": ["雪山", "雪", "山", "包"]
+      },
+      "Yale": "syut sāan bāau",
+      "Pinyin": "xuě shān bāo",
+      "description": "{雪} is *snow*, {山} is *mountain*, and {包} is *bun*, so 雪山包 is *snow mountain bun*."
+    },
+    "images": [
+      {
+        "image": "snowmountainbun",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Baked [bao](https://en.wikipedia.org/wiki/Baozi) with a white crisp coating on top, resembling a snow-topped mountain (so it's sometimes listed as *snow-topped bun*). Typically filled with cha siu or something sweet like custard or ([red beans](https://en.wikipedia.org/wiki/Adzuki_bean)).",
+    "tags": ["焗", "包"],
+    "resources": []
+  }
 ]

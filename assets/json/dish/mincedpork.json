@@ -1,134 +1,90 @@
 [
-    {
-        "word": {
-            "English": "salted egg w/ minced pork",
-            "Cantonese": {
-                "text": "鹹蛋蒸肉餅",
-                "wkty": [
-                    "鹹蛋",
-                    "鹹",
-                    "蛋",
-                    "蒸",
-                    "肉餅",
-                    "肉",
-                    "餅"
-                ]
-            },
-            "Yale": "hàahm dáan jīng yuhk béng",
-            "Simplified": {
-                "text": "咸蛋蒸肉饼",
-                "wkty": [
-                    "咸蛋",
-                    "咸",
-                    "蛋",
-                    "蒸",
-                    "肉饼",
-                    "肉",
-                    "饼"
-                ]
-            },
-            "Pinyin": "xián dàn zhēng ròu bǐng",
-            "description": "{鹹蛋} is [salted egg](https://en.wikipedia.org/wiki/Salted_duck_egg) ({鹹} is *salty*, and {蛋} is *egg) {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), and {肉餅} is *meat patty*. So 鹹蛋蒸肉餅 is *salted egg steamed meat patty*."
-        },
-        "images": [
-            {
-                "image": "saltedeggmincedporkyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A classic Cantonese homestyle dish, this is a steamed pork patty with [salted egg](https://en.wikipedia.org/wiki/Salted_duck_egg) on top.",
-        "tags": [
-            "家常菜",
-            "粵菜",
-            "肉餅",
-            "肉",
-            "豬肉"
-        ],
-        "resources": [
-            {
-                "name": "Beyond Norm",
-                "URL": "https://beyondnorm.com/2018/11/28/meat-patty-salted-egg-recipe/"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/steamed-pork-with-salted-egg/"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2015/08/steamed-pork-patty-with-salted-duck-egg.html"
-            },
-            {
-                "name": "Life is Great",
-                "URL": "https://pickyin.blogspot.com/2014/01/hakka-salted-egg-steamed-pork.html"
-            },
-            {
-                "name": "Life is Great",
-                "URL": "https://madewithlau.com/recipes/steamed-pork-patty"
-            }
-        ]
+  {
+    "word": {
+      "English": "salted egg w/ minced pork",
+      "Cantonese": {
+        "text": "鹹蛋蒸肉餅",
+        "wkty": ["鹹蛋", "鹹", "蛋", "蒸", "肉餅", "肉", "餅"]
+      },
+      "Yale": "hàahm dáan jīng yuhk béng",
+      "Simplified": {
+        "text": "咸蛋蒸肉饼",
+        "wkty": ["咸蛋", "咸", "蛋", "蒸", "肉饼", "肉", "饼"]
+      },
+      "Pinyin": "xián dàn zhēng ròu bǐng",
+      "description": "{鹹蛋} is [salted egg](https://en.wikipedia.org/wiki/Salted_duck_egg) ({鹹} is *salty*, and {蛋} is *egg) {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), and {肉餅} is *meat patty*. So 鹹蛋蒸肉餅 is *salted egg steamed meat patty*."
     },
-    {
-        "word": {
-            "English": "salted fish w/ minced pork",
-            "Cantonese": {
-                "text": "鹹魚蒸肉餅",
-                "wkty": [
-                    "鹹魚",
-                    "鹹",
-                    "魚",
-                    "蒸",
-                    "肉餅",
-                    "肉",
-                    "餅"
-                ]
-            },
-            "Yale": "hàahm yùh jīng yuhk béng",
-            "Simplified": {
-                "text": "咸鱼蒸肉饼",
-                "wkty": [
-                    "咸鱼",
-                    "咸",
-                    "鱼",
-                    "蒸",
-                    "肉饼",
-                    "肉",
-                    "饼"
-                ]
-            },
-            "Pinyin": "xián yú zhēng ròu bǐng",
-            "description": "{鹹} is *salty*, {魚} is *fish*, {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {肉餅} is *meat patty*."
-        },
-        "images": [
-            {
-                "image": "saltedfishmincedporkclaypotyummyrice",
-                "place": "Yummy Rice, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A steamed pork patty mixed with [salted fish](https://en.wikipedia.org/wiki/Cantonese_salted_fish).",
-        "tags": [
-            "鹹魚蒸肉餅",
-            "肉餅",
-            "鹹魚",
-            "肉",
-            "豬肉"
-        ],
-        "resources": [
-            {
-                "name": "Huang's Kitchen",
-                "URL": "https://www.huangkitchen.com/steamed-minced-pork-with-salted-fish/"
-            },
-            {
-                "name": "NOMSS.COM",
-                "URL": "https://www.nomss.com/steamed-minced-pork-with-salted-fish/"
-            },
-            {
-                "name": "Wok & Kin",
-                "URL": "https://www.wokandkin.com/steamed-pork-mince-salted-fish/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/steamed-pork-salted-fish/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "saltedeggmincedporkyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A classic Cantonese homestyle dish, this is a steamed pork patty with [salted egg](https://en.wikipedia.org/wiki/Salted_duck_egg) on top.",
+    "tags": ["家常菜", "粵菜", "肉餅", "肉", "豬肉"],
+    "resources": [
+      {
+        "name": "Beyond Norm",
+        "URL": "https://beyondnorm.com/2018/11/28/meat-patty-salted-egg-recipe/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/steamed-pork-with-salted-egg/"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2015/08/steamed-pork-patty-with-salted-duck-egg.html"
+      },
+      {
+        "name": "Life is Great",
+        "URL": "https://pickyin.blogspot.com/2014/01/hakka-salted-egg-steamed-pork.html"
+      },
+      {
+        "name": "Life is Great",
+        "URL": "https://madewithlau.com/recipes/steamed-pork-patty"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salted fish w/ minced pork",
+      "Cantonese": {
+        "text": "鹹魚蒸肉餅",
+        "wkty": ["鹹魚", "鹹", "魚", "蒸", "肉餅", "肉", "餅"]
+      },
+      "Yale": "hàahm yùh jīng yuhk béng",
+      "Simplified": {
+        "text": "咸鱼蒸肉饼",
+        "wkty": ["咸鱼", "咸", "鱼", "蒸", "肉饼", "肉", "饼"]
+      },
+      "Pinyin": "xián yú zhēng ròu bǐng",
+      "description": "{鹹} is *salty*, {魚} is *fish*, {蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {肉餅} is *meat patty*."
+    },
+    "images": [
+      {
+        "image": "saltedfishmincedporkclaypotyummyrice",
+        "place": "Yummy Rice, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A steamed pork patty mixed with [salted fish](https://en.wikipedia.org/wiki/Cantonese_salted_fish).",
+    "tags": ["鹹魚蒸肉餅", "肉餅", "鹹魚", "肉", "豬肉"],
+    "resources": [
+      {
+        "name": "Huang's Kitchen",
+        "URL": "https://www.huangkitchen.com/steamed-minced-pork-with-salted-fish/"
+      },
+      {
+        "name": "NOMSS.COM",
+        "URL": "https://www.nomss.com/steamed-minced-pork-with-salted-fish/"
+      },
+      {
+        "name": "Wok & Kin",
+        "URL": "https://www.wokandkin.com/steamed-pork-mince-salted-fish/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/steamed-pork-salted-fish/"
+      }
+    ]
+  }
 ]

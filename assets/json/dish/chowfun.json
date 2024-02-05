@@ -1,447 +1,295 @@
 [
-    {
-        "word":
-            {
-                "English": "chow fun",
-                "Cantonese": {
-                    "text": "河粉",
-                    "wkty": [
-                        "河粉",
-                        "河",
-                        "粉"
-                    ]
-                },
-                "Yale": "hòh fán",
-                "Pinyin": "hé fěn"
-            },
-        "images": [
-            {
-                "image": "chowfunnorthsidecafe",
-                "place": "Northside Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) wide flat rice noodles. The English pronunciation *chow fun* actually corresponds to the Chinese {炒粉} (cháau fán in Cantonese) which is short for {沙河粉} (sā hòh fán), where {沙河} is the town where these noodles are believed to have originated and {粉} (fán) is *rice noodles*.\n\n**Ordering**\n\n{碟} is the classifier for *plate*, so you'd order 一碟河粉 (in Cantonese, yāt dihp hòh fán) *one plate of chow fun*.",
-        "tags": [
-            "炒",
-            "粵菜",
-            "河粉"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Shahe_fen"
-            }
-        ]
+  {
+    "word": {
+      "English": "chow fun",
+      "Cantonese": {
+        "text": "河粉",
+        "wkty": ["河粉", "河", "粉"]
+      },
+      "Yale": "hòh fán",
+      "Pinyin": "hé fěn"
     },
-    {
-        "word":
-            {
-                "English": "beef chow fun",
-                "Cantonese": {
-                    "text": "乾炒牛河",
-                    "wkty": [
-                        "乾炒牛河",
-                        "乾炒",
-                        "乾",
-                        "炒",
-                        "牛肉",
-                        "牛",
-                        "河粉",
-                        "河"
-                    ]
-                },
-                "Yale": "gōn cháau ngàuh hòh",
-                "Simplified": {
-                    "text": "干炒牛河",
-                    "wkty": [
-                        "干炒牛河",
-                        "干炒",
-                        "乾",
-                        "炒",
-                        "牛肉",
-                        "牛",
-                        "河粉",
-                        "河"
-                    ]
-                },
-                "Pinyin": "gān chǎo niú hé",
-                "description": "{乾炒} is “dry-fried” ({乾} is *dry( and {炒} is “stir-fried”) which refers to the technique of stir-frying with only oil, no or little additional liquids are sauces added, {牛} is short for {牛肉} is *beef* ({牛} is *cow*) and 河 is short for 河粉 (hòh fán) which is the flat rice noodle."
-            },
-        "images": [
-            {
-                "image": "beefchowfundimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) classic, [beef chow fun](https://en.wikipedia.org/wiki/Beef_chow_fun) consists of wide flat rice noodles [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with beef and bean sprouts.",
-        "tags": [
-            "粵菜",
-            "炒",
-            "河粉",
-            "牛肉",
-            "茶餐廳",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/beef-rice-noodles-stir-fry.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/beef-chow-fun/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/beef-chow-fun-fried-ho-fun-noodles/"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/beef-chow-fun/"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/beef-chow-fun-stir-fried-rice-noodles/"
-            },
-            {
-                "name": "Food Touring",
-                "URL": "https://food-touring.com/2014/02/09/guangdong-beef-chow-fun/"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/6"
-            },
-            {
-                "name": "Panda Cheffy",
-                "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dry-beef-chow-fun-dry-fried-beef-rice-noodles-b31dcbcc1e55"
-            },
-            {
-                "name": "Pups with Chopsticks",
-                "URL": "https://pupswithchopsticks.com/beef-chow-fun/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/beef-chow-fun/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Beef_chow_fun"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/beef-chow-fun-noodles/"
-            }
-        ]
+    "images": [
+      {
+        "image": "chowfunnorthsidecafe",
+        "place": "Northside Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) wide flat rice noodles. The English pronunciation *chow fun* actually corresponds to the Chinese {炒粉} (cháau fán in Cantonese) which is short for {沙河粉} (sā hòh fán), where {沙河} is the town where these noodles are believed to have originated and {粉} (fán) is *rice noodles*.\n\n**Ordering**\n\n{碟} is the classifier for *plate*, so you'd order 一碟河粉 (in Cantonese, yāt dihp hòh fán) *one plate of chow fun*.",
+    "tags": ["炒", "粵菜", "河粉"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Shahe_fen"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "beef chow fun",
+      "Cantonese": {
+        "text": "乾炒牛河",
+        "wkty": ["乾炒牛河", "乾炒", "乾", "炒", "牛肉", "牛", "河粉", "河"]
+      },
+      "Yale": "gōn cháau ngàuh hòh",
+      "Simplified": {
+        "text": "干炒牛河",
+        "wkty": ["干炒牛河", "干炒", "乾", "炒", "牛肉", "牛", "河粉", "河"]
+      },
+      "Pinyin": "gān chǎo niú hé",
+      "description": "{乾炒} is “dry-fried” ({乾} is *dry( and {炒} is “stir-fried”) which refers to the technique of stir-frying with only oil, no or little additional liquids are sauces added, {牛} is short for {牛肉} is *beef* ({牛} is *cow*) and 河 is short for 河粉 (hòh fán) which is the flat rice noodle."
     },
-    {
-        "word":
-            {
-                "English": "wet beef chow fun",
-                "Cantonese": {
-                    "text": "湿炒牛河",
-                    "wkty": [
-                        "乾炒牛河",
-                        "乾炒",
-                        "乾",
-                        "炒",
-                        "牛肉",
-                        "牛",
-                        "河粉",
-                        "河"
-                    ]
-                },
-                "Yale": "sāp cháau ngàuh hòh",
-                "Simplified": {
-                    "text": "湿炒牛河",
-                    "wkty": [
-                        "干炒牛河",
-                        "干炒",
-                        "乾",
-                        "炒",
-                        "牛肉",
-                        "牛",
-                        "河粉",
-                        "河"
-                    ]
-                },
-                "Pinyin": "shī chǎo niú hé",
-                "description": "{湿} is *wet*, {牛} is short for {牛肉}, which is *beef* ({牛} is *cow*) and 河 is short for 河粉 (hòh fán) which is the flat rice noodle."
-            },
-        "images": [
-            {
-                "image": "wetbeefchowfungoldenflower",
-                "place": "Golden Flower, Reno, Nevada"
-            }
-        ],
-        "description": "Stir-fried like dry beef chow fun but then mixed with a thick sauce.",
-        "tags": [
-            "新菜",
-            "粵菜",
-            "炒",
-            "河粉",
-            "牛肉",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Busy But Cooking",
-                "URL": "https://busybutcooking.com/saucy-beef-chow-fun-with-vegetables/"
-            },
-            {
-                "name": "Chinese Food and Other Stuff",
-                "URL": "https://chinesefoodandotherstuff.com/blog/2018/7/1/beef-chow-fun"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/beef-chow-fun-with-gravy"
-            },
-            {
-                "name": "Pups with Chopsticks",
-                "URL": "https://pupswithchopsticks.com/saucy-beef-chow-ho-fun-with-gravy/"
-            }
-        ]
+    "images": [
+      {
+        "image": "beefchowfundimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) classic, [beef chow fun](https://en.wikipedia.org/wiki/Beef_chow_fun) consists of wide flat rice noodles [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with beef and bean sprouts.",
+    "tags": ["粵菜", "炒", "河粉", "牛肉", "茶餐廳", "點心"],
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/beef-rice-noodles-stir-fry.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/beef-chow-fun/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/beef-chow-fun-fried-ho-fun-noodles/"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/beef-chow-fun/"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/beef-chow-fun-stir-fried-rice-noodles/"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/02/09/guangdong-beef-chow-fun/"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/6"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dry-beef-chow-fun-dry-fried-beef-rice-noodles-b31dcbcc1e55"
+      },
+      {
+        "name": "Pups with Chopsticks",
+        "URL": "https://pupswithchopsticks.com/beef-chow-fun/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/beef-chow-fun/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Beef_chow_fun"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/beef-chow-fun-noodles/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "wet beef chow fun",
+      "Cantonese": {
+        "text": "湿炒牛河",
+        "wkty": ["乾炒牛河", "乾炒", "乾", "炒", "牛肉", "牛", "河粉", "河"]
+      },
+      "Yale": "sāp cháau ngàuh hòh",
+      "Simplified": {
+        "text": "湿炒牛河",
+        "wkty": ["干炒牛河", "干炒", "乾", "炒", "牛肉", "牛", "河粉", "河"]
+      },
+      "Pinyin": "shī chǎo niú hé",
+      "description": "{湿} is *wet*, {牛} is short for {牛肉}, which is *beef* ({牛} is *cow*) and 河 is short for 河粉 (hòh fán) which is the flat rice noodle."
     },
-    {
-        "word":
-            {
-                "English": "chicken chow fun",
-                "Cantonese": {
-                    "text": "乾炒雞河",
-                    "wkty": [
-                        "乾炒",
-                        "乾",
-                        "炒",
-                        "雞",
-                        "河粉",
-                        "河"
-                    ]
-                },
-                "Yale": "gōn cháau gāi hòh",
-                "Simplified": {
-                    "text": "干炒鸡河",
-                    "wkty": [
-                        "干炒",
-                        "干",
-                        "炒",
-                        "鸡",
-                        "河粉",
-                        "河"
-                    ]
-                },
-                "Pinyin": "gān chǎo jī hé",
-                "description": "{乾} is *dry* (there is a “wet” version with gravy), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {雞} is *chicken* and 河 is short for {河粉} (hòh fán) which is the flat rice noodle."
-            },
-        "images": [
-            {
-                "image": "chickenchowfundimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Chow fun with chicken.",
-        "tags": [
-            "粵菜",
-            "炒",
-            "雞",
-            "河粉",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/index/by-type/rice-noodle/"
-            }
-        ]
+    "images": [
+      {
+        "image": "wetbeefchowfungoldenflower",
+        "place": "Golden Flower, Reno, Nevada"
+      }
+    ],
+    "description": "Stir-fried like dry beef chow fun but then mixed with a thick sauce.",
+    "tags": ["新菜", "粵菜", "炒", "河粉", "牛肉", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Busy But Cooking",
+        "URL": "https://busybutcooking.com/saucy-beef-chow-fun-with-vegetables/"
+      },
+      {
+        "name": "Chinese Food and Other Stuff",
+        "URL": "https://chinesefoodandotherstuff.com/blog/2018/7/1/beef-chow-fun"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/beef-chow-fun-with-gravy"
+      },
+      {
+        "name": "Pups with Chopsticks",
+        "URL": "https://pupswithchopsticks.com/saucy-beef-chow-ho-fun-with-gravy/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "chicken chow fun",
+      "Cantonese": {
+        "text": "乾炒雞河",
+        "wkty": ["乾炒", "乾", "炒", "雞", "河粉", "河"]
+      },
+      "Yale": "gōn cháau gāi hòh",
+      "Simplified": {
+        "text": "干炒鸡河",
+        "wkty": ["干炒", "干", "炒", "鸡", "河粉", "河"]
+      },
+      "Pinyin": "gān chǎo jī hé",
+      "description": "{乾} is *dry* (there is a “wet” version with gravy), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {雞} is *chicken* and 河 is short for {河粉} (hòh fán) which is the flat rice noodle."
     },
-    {
-        "word":
-            {
-                "English": "shrimp chow fun",
-                "Cantonese": {
-                    "text": "乾炒蝦河",
-                    "wkty": [
-                        "乾炒",
-                        "乾",
-                        "炒",
-                        "蝦",
-                        "河"
-                    ]
-                },
-                "Yale": "gōn cháau hā hòh",
-                "Simplified": {
-                    "text": "干炒虾河",
-                    "wkty": [
-                        "干炒",
-                        "干",
-                        "炒",
-                        "虾",
-                        "河"
-                    ]
-                },
-                "Pinyin": "gān chǎo xiā hé",
-                "description": "{乾} is *dry* (there is a *wet* version with gravy), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), 蝦 is *shrimp*, and {河} is short for {河粉} (hòh fán) which is the flat rice noodle."
-            },
-        "images": [
-            {
-                "image": "shrimpchowfundimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Chow fun with shrimp.",
-        "tags": [
-            "粵菜",
-            "炒",
-            "海鮮",
-            "蝦",
-            "河粉",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Made with Lau",
-                "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"
-            }
-        ]
+    "images": [
+      {
+        "image": "chickenchowfundimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chow fun with chicken.",
+    "tags": ["粵菜", "炒", "雞", "河粉", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/index/by-type/rice-noodle/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "shrimp chow fun",
+      "Cantonese": {
+        "text": "乾炒蝦河",
+        "wkty": ["乾炒", "乾", "炒", "蝦", "河"]
+      },
+      "Yale": "gōn cháau hā hòh",
+      "Simplified": {
+        "text": "干炒虾河",
+        "wkty": ["干炒", "干", "炒", "虾", "河"]
+      },
+      "Pinyin": "gān chǎo xiā hé",
+      "description": "{乾} is *dry* (there is a *wet* version with gravy), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), 蝦 is *shrimp*, and {河} is short for {河粉} (hòh fán) which is the flat rice noodle."
     },
-    {
-        "word":
-            {
-                "English": "shrimp w/ scrambled egg and satay chow fun",
-                "Cantonese": {
-                    "text": "沙爹滑蛋蝦炒河",
-                    "wkty": [
-                        "沙爹",
-                        "沙",
-                        "爹",
-                        "滑",
-                        "蛋",
-                        "蝦",
-                        "炒",
-                        "河"
-                    ]
-                },
-                "Yale": "sā dē waaht dáan cháau hā hòh",
-                "Simplified": {
-                    "text": "沙爹滑蛋虾炒河",
-                    "wkty": [
-                        "沙爹",
-                        "沙",
-                        "爹",
-                        "滑",
-                        "蛋",
-                        "虾",
-                        "炒",
-                        "河"
-                    ]
-                },
-                "Pinyin": "shā diē huá dàn chǎo xiā hé",
-                "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay). {滑} is *slippery*, and {蛋} is *egg*, so {滑蛋} is *slippery egg* (soft scrambled egg). {蝦} is *shrimp*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying),and {河} is short for {河粉} (hòh fán) which is the flat rice noodle."
-            },
-        "images": [
-            {
-                "image": "shrimpscrambledeggsataychowfunorchidsgarden",
-                "place": "Orchids Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Chow fun with shrimp, scrambled egg, and satay sauce.",
-        "tags": [
-            "粵菜",
-            "炒",
-            "海鮮",
-            "蝦",
-            "河粉",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Made with Lau",
-                "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"
-            }
-        ]
+    "images": [
+      {
+        "image": "shrimpchowfundimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chow fun with shrimp.",
+    "tags": ["粵菜", "炒", "海鮮", "蝦", "河粉", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "shrimp w/ scrambled egg and satay chow fun",
+      "Cantonese": {
+        "text": "沙爹滑蛋蝦炒河",
+        "wkty": ["沙爹", "沙", "爹", "滑", "蛋", "蝦", "炒", "河"]
+      },
+      "Yale": "sā dē waaht dáan cháau hā hòh",
+      "Simplified": {
+        "text": "沙爹滑蛋虾炒河",
+        "wkty": ["沙爹", "沙", "爹", "滑", "蛋", "虾", "炒", "河"]
+      },
+      "Pinyin": "shā diē huá dàn chǎo xiā hé",
+      "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay). {滑} is *slippery*, and {蛋} is *egg*, so {滑蛋} is *slippery egg* (soft scrambled egg). {蝦} is *shrimp*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying),and {河} is short for {河粉} (hòh fán) which is the flat rice noodle."
     },
-    {
-        "word":
-            {
-                "English": "char kway teow",
-                "Cantonese": {
-                    "text": "炒貴刁",
-                    "wkty": [
-                        "炒貴刁",
-                        "炒",
-                        "貴刁",
-                        "貴",
-                        "刁"
-                    ]
-                },
-                "Yale": "cháau gwai dīu",
-                "Mandarin": {
-                    "text": "炒粿條",
-                    "wkty": [
-                        "炒粿條",
-                        "炒",
-                        "粿條",
-                        "粿",
-                        "條"
-                    ]
-                },
-                "Simplified": {
-                    "text": "炒粿条",
-                    "wkty": [
-                        "炒粿条",
-                        "炒",
-                        "粿条",
-                        "條",
-                        "条"
-                    ]
-                },
-                "Pinyin": "chǎo guǒ tiáo",
-                "description": "{炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and the second two characters ({貴刁} in Cantonese, {粿條} in Mandarin), is *flat rice noodle*."
-            },
-        "images": [
-            {
-                "image": "charkwayteowislandmalaysian",
-                "place": "Island Malaysian, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A popular Malaysian dish and street food staple, originally developed for Chinese in Southeast Asia, this stir-fried with seafood (usually shrimp), meat (typically Chinese sausage), scrambled egg, and chili paste.",
-        "tags": [
-            "炒",
-            "海鮮",
-            "蝦",
-            "河粉"
-        ],
-        "resources": [
-            {
-                "name": "Curious Cuisiniere",
-                "URL": "https://www.curiouscuisiniere.com/char-kway-teow/"
-            },
-            {
-                "name": "Nyonya Cooking",
-                "URL": "https://www.nyonyacooking.com/recipes/penang-char-kuey-teow~r1DzuvivfqbX"
-            },
-            {
-                "name": "NYT Cooking",
-                "URL": "https://cooking.nytimes.com/recipes/8609-char-kway-teow"
-            },
-            {
-                "name": "Posh Journal",
-                "URL": "https://poshjournal.com/char-kway-teow"
-            },
-            {
-                "name": "RecipeTinEats",
-                "URL": "https://www.recipetineats.com/char-kway-teow/"
-            },
-            {
-                "name": "The Spruce Eats",
-                "URL": "https://www.thespruceeats.com/char-kway-teow-recipe-3030395"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Char_kway_teow"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/char-kway-teow/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "shrimpscrambledeggsataychowfunorchidsgarden",
+        "place": "Orchids Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chow fun with shrimp, scrambled egg, and satay sauce.",
+    "tags": ["粵菜", "炒", "海鮮", "蝦", "河粉", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/shrimp-chow-fun"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "char kway teow",
+      "Cantonese": {
+        "text": "炒貴刁",
+        "wkty": ["炒貴刁", "炒", "貴刁", "貴", "刁"]
+      },
+      "Yale": "cháau gwai dīu",
+      "Mandarin": {
+        "text": "炒粿條",
+        "wkty": ["炒粿條", "炒", "粿條", "粿", "條"]
+      },
+      "Simplified": {
+        "text": "炒粿条",
+        "wkty": ["炒粿条", "炒", "粿条", "條", "条"]
+      },
+      "Pinyin": "chǎo guǒ tiáo",
+      "description": "{炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and the second two characters ({貴刁} in Cantonese, {粿條} in Mandarin), is *flat rice noodle*."
+    },
+    "images": [
+      {
+        "image": "charkwayteowislandmalaysian",
+        "place": "Island Malaysian, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A popular Malaysian dish and street food staple, originally developed for Chinese in Southeast Asia, this stir-fried with seafood (usually shrimp), meat (typically Chinese sausage), scrambled egg, and chili paste.",
+    "tags": ["炒", "海鮮", "蝦", "河粉"],
+    "resources": [
+      {
+        "name": "Curious Cuisiniere",
+        "URL": "https://www.curiouscuisiniere.com/char-kway-teow/"
+      },
+      {
+        "name": "Nyonya Cooking",
+        "URL": "https://www.nyonyacooking.com/recipes/penang-char-kuey-teow~r1DzuvivfqbX"
+      },
+      {
+        "name": "NYT Cooking",
+        "URL": "https://cooking.nytimes.com/recipes/8609-char-kway-teow"
+      },
+      {
+        "name": "Posh Journal",
+        "URL": "https://poshjournal.com/char-kway-teow"
+      },
+      {
+        "name": "RecipeTinEats",
+        "URL": "https://www.recipetineats.com/char-kway-teow/"
+      },
+      {
+        "name": "The Spruce Eats",
+        "URL": "https://www.thespruceeats.com/char-kway-teow-recipe-3030395"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Char_kway_teow"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/char-kway-teow/"
+      }
+    ]
+  }
 ]

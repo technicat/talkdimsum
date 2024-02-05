@@ -3,11 +3,7 @@
     "word": {
       "Cantonese": {
         "text": "果汁",
-        "wkty": [
-          "果汁",
-          "果",
-          "汁"
-        ]
+        "wkty": ["果汁", "果", "汁"]
       },
       "English": "fruit juice",
       "Yale": "gwó āp",
@@ -21,11 +17,7 @@
       }
     ],
     "description": "",
-    "tags": [
-      "果汁",
-      "汁",
-      "飲品"
-    ],
+    "tags": ["果汁", "汁", "飲品"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -37,13 +29,7 @@
     "word": {
       "Cantonese": {
         "text": "芒果汁",
-        "wkty": [
-          "芒果汁",
-          "芒果",
-          "芒",
-          "果",
-          "汁"
-        ]
+        "wkty": ["芒果汁", "芒果", "芒", "果", "汁"]
       },
       "English": "mango juice",
       "Yale": "mōng gwó jāp",
@@ -57,12 +43,7 @@
       }
     ],
     "description": "",
-    "tags": [
-      "果汁",
-      "芒果",
-      "汁",
-      "飲品"
-    ],
+    "tags": ["果汁", "芒果", "汁", "飲品"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -85,13 +66,7 @@
       }
     ],
     "description": "",
-    "tags": [
-      "冷飲",
-      "果汁",
-      "橙",
-      "汁",
-      "飲品"
-    ],
+    "tags": ["冷飲", "果汁", "橙", "汁", "飲品"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -103,19 +78,11 @@
     "word": {
       "Cantonese": {
         "text": "菠蘿汁",
-        "wkty": [
-          "菠蘿",
-          "菠",
-          "汁"
-        ]
+        "wkty": ["菠蘿", "菠", "汁"]
       },
       "Simplified": {
         "text": "菠萝汁",
-        "wkty": [
-          "菠萝",
-          "菠",
-          "萝"
-        ]
+        "wkty": ["菠萝", "菠", "萝"]
       },
       "English": "pineapple juice",
       "Yale": "bō lòh jāp",
@@ -129,13 +96,7 @@
       }
     ],
     "description": "Pineapple juice is popular in Southeast Asia although not quite as much in China.",
-    "tags": [
-      "果汁",
-      "冷飲",
-      "菠蘿",
-      "汁",
-      "飲品"
-    ],
+    "tags": ["果汁", "冷飲", "菠蘿", "汁", "飲品"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -147,11 +108,7 @@
     "word": {
       "Cantonese": {
         "text": "蔗汁",
-        "wkty": [
-          "蔗汁",
-          "蔗",
-          "汁"
-        ]
+        "wkty": ["蔗汁", "蔗", "汁"]
       },
       "English": "sugarcane juice",
       "Yale": "je jāp",
@@ -165,13 +122,7 @@
       }
     ],
     "description": "[Sugarcane juice](https://en.wikipedia.org/wiki/Sugarcane_juice) is a (very sugary) liquid made from pressed [sugarcane](https://en.wikipedia.org/wiki/Sugarcane).",
-    "tags": [
-      "果汁",
-      "冷飲",
-      "蔗",
-      "汁",
-      "飲品"
-    ],
+    "tags": ["果汁", "冷飲", "蔗", "汁", "飲品"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -184,32 +135,16 @@
       "English": "cider",
       "Cantonese": {
         "text": "西打",
-        "wkty": [
-          "西打",
-          "西",
-          "打"
-        ]
+        "wkty": ["西打", "西", "打"]
       },
       "Yale": "sāi dá",
       "Mandarin": {
         "text": "蘋果酒",
-        "wkty": [
-          "蘋果酒",
-          "蘋果",
-          "蘋",
-          "果",
-          "酒"
-        ]
+        "wkty": ["蘋果酒", "蘋果", "蘋", "果", "酒"]
       },
       "Simplified": {
         "text": "苹果酒",
-        "wkty": [
-          "苹果酒",
-          "苹果",
-          "苹",
-          "果",
-          "酒"
-        ]
+        "wkty": ["苹果酒", "苹果", "苹", "果", "酒"]
       },
       "Pinyin": "píng guǒ jiǔ",
       "description": "Apple [cider](https://en.wikipedia.org/wiki/Cider) is known in Cantonese by a loanword {西打} pronounced sāi dá, and in Mandarin by a more literal {蘋果酒]} ({蘋果} is *apple*, and {酒} is *alcohol*, so 蘋果酒 is *apple alcohol*)."
@@ -221,12 +156,7 @@
       }
     ],
     "description": "",
-    "tags": [
-      "果汁",
-      "冷飲",
-      "酒",
-      "飲品"
-    ],
+    "tags": ["果汁", "冷飲", "酒", "飲品"],
     "resources": [
       {
         "name": "Wikipedia",

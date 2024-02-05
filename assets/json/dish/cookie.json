@@ -4,24 +4,12 @@
       "English": "wife cake",
       "Cantonese": {
         "text": "老婆餅",
-        "wkty": [
-          "老婆餅",
-          "老婆",
-          "老",
-          "婆",
-          "餅"
-        ]
+        "wkty": ["老婆餅", "老婆", "老", "婆", "餅"]
       },
       "Yale": "lóuh pòh béng",
       "Simplified": {
         "text": "老婆饼",
-        "wkty": [
-          "老婆饼",
-          "老婆",
-          "老",
-          "婆",
-          "饼"
-        ]
+        "wkty": ["老婆饼", "老婆", "老", "婆", "饼"]
       },
       "Pinyin": "lǎo po bǐng",
       "description": "{老婆} is *wife* ({老} is *old*, and {婆} is *lady*, so it's just like the American use of *old lady* to mean *wife*). {餅} is *cookie* or *pastry*."
@@ -32,14 +20,7 @@
       }
     ],
     "description": "Wife cake is a Cantonese [bakery item](https://en.wikipedia.org/wiki/List_of_Chinese_bakery_products). Also known as [sweetheart cake](http://en.wikipedia.org/wiki/Sweetheart_cake), it's a round flaky pastry filled with a wintermelon paste.\n\n**Origins**\n\nThere are several stories explaining the name of this pastry, for example an ailing man named it after his wife who sold herself into slavery to pay for his doctor (apparently they didn't have Medicare for All), or less dramatically, a man like this pastry his wife made so much that he named it after her.",
-    "tags": [
-      "粵菜",
-      "老婆",
-      "餅",
-      "焗",
-      "素",
-      "甜品"
-    ],
+    "tags": ["粵菜", "老婆", "餅", "焗", "素", "甜品"],
     "resources": [
       {
         "name": "China Yummy Food",
@@ -68,22 +49,12 @@
       "English": "lotus seed pie",
       "Cantonese": {
         "text": "蓮蓉餅",
-        "wkty": [
-          "蓮蓉",
-          "蓮",
-          "蓉",
-          "餅"
-        ]
+        "wkty": ["蓮蓉", "蓮", "蓉", "餅"]
       },
       "Yale": "lìhn yùhng béng",
       "Simplified": {
         "text": "莲蓉饼",
-        "wkty": [
-          "莲蓉",
-          "莲",
-          "蓉",
-          "饼"
-        ]
+        "wkty": ["莲蓉", "莲", "蓉", "饼"]
       },
       "Pinyin": "lián róng bǐng",
       "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*). {餅} is *cookie* or *pastry*."
@@ -94,14 +65,7 @@
       }
     ],
     "description": "A pastry filled with [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste).",
-    "tags": [
-      "蓮",
-      "蓮蓉",
-      "餅",
-      "焗",
-      "素",
-      "甜品"
-    ],
+    "tags": ["蓮", "蓮蓉", "餅", "焗", "素", "甜品"],
     "resources": []
   },
   {
@@ -109,24 +73,12 @@
       "English": "almond cookie",
       "Cantonese": {
         "text": "杏仁餅",
-        "wkty": [
-          "杏仁餅",
-          "杏仁",
-          "杏",
-          "仁",
-          "餅"
-        ]
+        "wkty": ["杏仁餅", "杏仁", "杏", "仁", "餅"]
       },
       "Yale": "hahng yàhn béng",
       "Simplified": {
         "text": "杏仁饼",
-        "wkty": [
-          "杏仁饼",
-          "杏仁",
-          "杏",
-          "仁",
-          "饼"
-        ]
+        "wkty": ["杏仁饼", "杏仁", "杏", "仁", "饼"]
       },
       "Pinyin": "xìng rén bǐng",
       "description": "{杏仁} is *almond*, and {餅} is *cookie*, so {杏仁餅} is *almond cookie*."
@@ -138,16 +90,7 @@
       }
     ],
     "description": "These almond-flavored crumbly cookies were introduced by early Chinese-American immigrants but are now popular worldwide and can be found in Chinatowns, Chinese bakeries and restaurants. There is typically an almond in the center of the cookie that is supposed to bring good luck.",
-    "tags": [
-      "曲奇",
-      "小食",
-      "杏仁",
-      "餅",
-      "焗",
-      "素",
-      "美國",
-      "甜品"
-    ],
+    "tags": ["曲奇", "小食", "杏仁", "餅", "焗", "素", "美國", "甜品"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -172,20 +115,12 @@
       "English": "fortune cookie",
       "Cantonese": {
         "text": "簽語餅",
-        "wkty": [
-          "簽",
-          "語",
-          "餅"
-        ]
+        "wkty": ["簽", "語", "餅"]
       },
       "Yale": "chīm yúh béng",
       "Simplified": {
         "text": "签语饼",
-        "wkty": [
-          "签",
-          "语",
-          "饼"
-        ]
+        "wkty": ["签", "语", "饼"]
       },
       "Pinyin": "qiān yǔ bǐng",
       "description": "{簽} is a slip of paper, {語} generally means *to say* but in this case specifically is *proverb*, and {餅} is *cookie*. So 簽語餅 is *paper proverb cookie*."
@@ -197,11 +132,7 @@
       }
     ],
     "description": "[Fortune cookies](https://en.wikipedia.org/wiki/Fortune_cookie) are ubiquitious in Chinese-American restaurants and can be found in bakeries and grocery stores (but I've never seen one in Hong Kong).\n\n**History**\n\nThere's debate whether fortune cookies are of Chinese-American or Japanese-American origin, and whether they originated in San Francisco or Los Angeles, but either way, it could be claimed they derive from Japan in the form of [tsujiura senbei](https://en.wikipedia.org/wiki/Tsujiura), notes baked into crackers.",
-    "tags": [
-      "小食",
-      "餅",
-      "甜品"
-    ],
+    "tags": ["小食", "餅", "甜品"],
     "resources": [
       {
         "name": "China Yummy Food",
@@ -226,11 +157,7 @@
       "English": "cookie",
       "Cantonese": {
         "text": "曲奇",
-        "wkty": [
-          "曲奇",
-          "曲",
-          "奇"
-        ]
+        "wkty": ["曲奇", "曲", "奇"]
       },
       "Yale": "kūk kèih",
       "Pinyin": "qǔ qí",
@@ -243,13 +170,7 @@
       }
     ],
     "description": "Western-style cookies. If you go into a Chinese supermarket, the cookie section will include tins of Chinese biscuits but also tins of European cookies.",
-    "tags": [
-      "曲奇",
-      "餅",
-      "焗",
-      "素",
-      "甜品"
-    ],
+    "tags": ["曲奇", "餅", "焗", "素", "甜品"],
     "resources": [
       {
         "name": "Wikipedia",

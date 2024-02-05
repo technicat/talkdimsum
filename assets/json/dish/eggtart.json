@@ -4,21 +4,13 @@
       "English": "egg tart",
       "Cantonese": {
         "text": "蛋撻",
-        "wkty": [
-          "蛋撻",
-          "蛋",
-          "撻"
-        ]
+        "wkty": ["蛋撻", "蛋", "撻"]
       },
       "Yale": "daahn tāat",
       "Jyutping": "daan6 taat1",
       "Simplified": {
         "text": "蛋挞",
-        "wkty": [
-          "蛋挞",
-          "蛋",
-          "挞"
-        ]
+        "wkty": ["蛋挞", "蛋", "挞"]
       },
       "Pinyin": "dàn tà",
       "description": "{蛋} is *egg*, and {撻} is a [loanword](https://en.wikipedia.org/wiki/Loanword) that sounds like for *tart*, so {蛋撻} is *egg tart*."
@@ -30,16 +22,7 @@
       }
     ],
     "description": "Small circular pastry shells filled with a yellow eggy custard. The crust is flaky and the custard surface is smooth and shiny.\n\nUsually 蛋撻 refers to Hong Kong-style egg tarts, but it can refer to a variety of egg tarts including Portuguese-style egg tarts.",
-    "tags": [
-      "蛋撻",
-      "小食",
-      "蛋",
-      "撻",
-      "焗",
-      "素",
-      "甜品",
-      "點心"
-    ],
+    "tags": ["蛋撻", "小食", "蛋", "撻", "焗", "素", "甜品", "點心"],
     "resources": [
       {
         "name": "Cooking with Team J",
@@ -80,26 +63,12 @@
       "English": "Hong Kong-style egg tart",
       "Cantonese": {
         "text": "港式蛋撻",
-        "wkty": [
-          "港式",
-          "港",
-          "式",
-          "蛋撻",
-          "蛋",
-          "撻"
-        ]
+        "wkty": ["港式", "港", "式", "蛋撻", "蛋", "撻"]
       },
       "Yale": "góng sīk daahn tāat",
       "Simplified": {
         "text": "港式蛋挞",
-        "wkty": [
-          "港式",
-          "港",
-          "式",
-          "蛋挞",
-          "蛋",
-          "挞"
-        ]
+        "wkty": ["港式", "港", "式", "蛋挞", "蛋", "挞"]
       },
       "Pinyin": "Gǎng sh dàn tà",
       "description": "{港式} is *Hong-Kong style* ({港} is the second character of Hong Kong {香港}, and {式} is *style*), so {港式} is *Kong-style*). {蛋} is *egg*, and {撻} is a [loanword](https://en.wikipedia.org/wiki/Loanword) that sounds like for *tart*, so 港式蛋撻 is *Hong Kong-style egg tart*."
@@ -172,20 +141,12 @@
       "English": "Portuguese egg tart",
       "Cantonese": {
         "text": "葡撻",
-        "wkty": [
-          "葡撻",
-          "葡",
-          "撻"
-        ]
+        "wkty": ["葡撻", "葡", "撻"]
       },
       "Yale": "pòu tāat",
       "Simplified": {
         "text": "葡挞",
-        "wkty": [
-          "葡撻",
-          "葡",
-          "撻"
-        ]
+        "wkty": ["葡撻", "葡", "撻"]
       },
       "Pinyin": "Pú tà",
       "description": "{葡} is short for *Portugal* (the full word is {葡萄牙} pòuh tòuh ngàh) and {撻} is the same *taat* as in *dan taat*, so {葡撻} is *Portuguese tart*."
@@ -197,17 +158,7 @@
       }
     ],
     "description": "Portuguese-style egg tarts, originating from Macau and a specialty there, feature a burnt top on the custard filling reminiscent of creme brulee.\n\n**History**\n\nThey are derived from the Portuguse [pastel de nata](https://en.wikipedia.org/wiki/Pastel_de_nata).\n\n**Pro Tip**\n\nIn Hong Kong you can get good Portuguese egg tarts at KFC.",
-    "tags": [
-      "小食",
-      "蛋撻",
-      "蛋",
-      "撻",
-      "焗",
-      "素",
-      "葡國",
-      "甜品",
-      "點心"
-    ],
+    "tags": ["小食", "蛋撻", "蛋", "撻", "焗", "素", "葡國", "甜品", "點心"],
     "resources": [
       {
         "name": "BBC Travel",

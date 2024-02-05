@@ -1,201 +1,144 @@
 [
-    {
-        "word": {
-            "English": "Hong Kong cafe",
-            "Cantonese": {
-                "text": "茶餐廳",
-                "wkty": [
-                    "茶餐廳",
-                    "茶",
-                    "餐廳",
-                    "餐",
-                    "廳"
-                ]
-            },
-            "Yale": "chàh chāan tēng",
-            "Jyutping": "caa4 caan1 teng1",
-            "Simplified": {
-                "text": "茶餐厅",
-                "wkty": [
-                    "茶餐厅",
-                    "茶",
-                    "餐廳",
-                    "餐",
-                    "厅"
-                ]
-            },
-            "Pinyin": "chá cān tīng",
-            "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea), {餐} is *meal* (e.g. {早餐} is *early meal* aka *breakfast*) and {廳} is *hall*, so it's *tea dining hall* or *tea restaurant*."
-        },
-        "images": [
-            {
-                "image": "chasiufanhkicelemonteawinkee",
-                "place": "Win Kee HK BBQ and Noodles, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Hong Kong style cafes, known as [cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng), arising from the hustle and bustle of post-WWII Hong Kong, serve a mixture of Hong Kong style Western foods (e.g. Hong Kong-style sandwiches) and Chinese food.",
-        "tags": [
-            "茶餐廳",
-            "港式"
-        ],
-        "resources": [
-            {
-                "name": "Culture Trip",
-                "URL": "https://theculturetrip.com/asia/china/hong-kong/articles/how-to-order-at-a-cha-chaan-teng-in-hong-kong/"
-            },
-            {
-                "name": "Food Republic",
-                "URL": "https://www.foodrepublic.com/2016/06/16/inside-hong-kongs-dirt-cheap-cha-chaan-teng-restaurants/"
-            },
-            {
-                "name": "FluentUp",
-                "URL": "https://medium.com/@fluentup/the-origin-of-the-hong-kong-cha-chaan-teng-5c998aa26e6"
-            },
-            {
-                "name": "Hong Kong Cheapo",
-                "URL": "https://hongkongcheapo.com/eating-and-drinking/cha-chaan-teng/"
-            },
-            {
-                "name": "Hong Kong Tourism Board",
-                "URL": "https://www.discoverhongkong.com/in/explore/dining/hong-kong-must-try-traditional-diners.html"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/cha-chaan-teng-info"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng"
-            }
-        ]
+  {
+    "word": {
+      "English": "Hong Kong cafe",
+      "Cantonese": {
+        "text": "茶餐廳",
+        "wkty": ["茶餐廳", "茶", "餐廳", "餐", "廳"]
+      },
+      "Yale": "chàh chāan tēng",
+      "Jyutping": "caa4 caan1 teng1",
+      "Simplified": {
+        "text": "茶餐厅",
+        "wkty": ["茶餐厅", "茶", "餐廳", "餐", "厅"]
+      },
+      "Pinyin": "chá cān tīng",
+      "description": "{茶} is [tea](https://en.wikipedia.org/wiki/Tea), {餐} is *meal* (e.g. {早餐} is *early meal* aka *breakfast*) and {廳} is *hall*, so it's *tea dining hall* or *tea restaurant*."
     },
-    {
-        "word": {
-            "English": "breakfast",
-            "Cantonese": {
-                "text": "早餐",
-                "wkty": [
-                    "早餐",
-                    "早",
-                    "餐"
-                ]
-            },
-            "Yale": "jóu chāan",
-            "Pinyin": "zǎo cān",
-            "description": "{早} is *early*, and {餐} is *meal*, so {早餐} is *early meal*."
-        },
-        "images": [
-            {
-                "image": "luckyhouseasiancafebreakfast",
-                "place": "Lucky House Asian Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Traditional Chinese breakfasts tend to be simple, featuring congee, rice rolls, and dumplings, but in Hong Kong breakfast can include Western items (with a Hong Kong twist). For example, a cha chaan teng breakfast set can include congee, condensed milk toast, and coffee (with unlimited refills).",
-        "tags": [
-            "早餐"
-        ],
-        "resources": [
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/chinese-breakfast/"
-            }
-        ]
+    "images": [
+      {
+        "image": "chasiufanhkicelemonteawinkee",
+        "place": "Win Kee HK BBQ and Noodles, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Hong Kong style cafes, known as [cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng), arising from the hustle and bustle of post-WWII Hong Kong, serve a mixture of Hong Kong style Western foods (e.g. Hong Kong-style sandwiches) and Chinese food.",
+    "tags": ["茶餐廳", "港式"],
+    "resources": [
+      {
+        "name": "Culture Trip",
+        "URL": "https://theculturetrip.com/asia/china/hong-kong/articles/how-to-order-at-a-cha-chaan-teng-in-hong-kong/"
+      },
+      {
+        "name": "Food Republic",
+        "URL": "https://www.foodrepublic.com/2016/06/16/inside-hong-kongs-dirt-cheap-cha-chaan-teng-restaurants/"
+      },
+      {
+        "name": "FluentUp",
+        "URL": "https://medium.com/@fluentup/the-origin-of-the-hong-kong-cha-chaan-teng-5c998aa26e6"
+      },
+      {
+        "name": "Hong Kong Cheapo",
+        "URL": "https://hongkongcheapo.com/eating-and-drinking/cha-chaan-teng/"
+      },
+      {
+        "name": "Hong Kong Tourism Board",
+        "URL": "https://www.discoverhongkong.com/in/explore/dining/hong-kong-must-try-traditional-diners.html"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/cha-chaan-teng-info"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cha_chaan_teng"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "breakfast",
+      "Cantonese": {
+        "text": "早餐",
+        "wkty": ["早餐", "早", "餐"]
+      },
+      "Yale": "jóu chāan",
+      "Pinyin": "zǎo cān",
+      "description": "{早} is *early*, and {餐} is *meal*, so {早餐} is *early meal*."
     },
-    {
-        "word": {
-            "English": "fried cuttlefish ball",
-            "Cantonese": {
-                "text": "炸墨魚丸",
-                "wkty": [
-                    "炸",
-                    "墨魚丸",
-                    "墨魚",
-                    "墨",
-                    "魚",
-                    "丸"
-                ]
-            },
-            "Yale": "ja mahk yùh yún",
-            "Simplified": {
-                "text": "炸墨鱼丸",
-                "wkty": [
-                    "炸",
-                    "墨鱼丸",
-                    "墨鱼",
-                    "墨",
-                    "鱼",
-                    "丸"
-                ]
-            },
-            "Pinyin": "hà mò yú wán",
-            "description": "{炸} is *deep-fried*, {墨魚} is [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish), ({墨} is *ink*, {魚} is *fish*, so {墨魚} is *ink fish*) and {丸} is *ball*. All in all, 炸墨魚丸 is *deep-fried ink fish ball*."
-        },
-        "images": [
-            {
-                "image": "friedcuttlefishballsweetheart",
-                "place": "Sweet Heart Dessert, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Deep-fried [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish) balls.",
-        "tags": [
-            "炸",
-            "墨魚",
-            "丸",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Rasa Malaysia",
-                "URL": "https://rasamalaysia.com/fried-cuttlefish-balls/"
-            }
-        ]
+    "images": [
+      {
+        "image": "luckyhouseasiancafebreakfast",
+        "place": "Lucky House Asian Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Traditional Chinese breakfasts tend to be simple, featuring congee, rice rolls, and dumplings, but in Hong Kong breakfast can include Western items (with a Hong Kong twist). For example, a cha chaan teng breakfast set can include congee, condensed milk toast, and coffee (with unlimited refills).",
+    "tags": ["早餐"],
+    "resources": [
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/chinese-breakfast/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fried cuttlefish ball",
+      "Cantonese": {
+        "text": "炸墨魚丸",
+        "wkty": ["炸", "墨魚丸", "墨魚", "墨", "魚", "丸"]
+      },
+      "Yale": "ja mahk yùh yún",
+      "Simplified": {
+        "text": "炸墨鱼丸",
+        "wkty": ["炸", "墨鱼丸", "墨鱼", "墨", "鱼", "丸"]
+      },
+      "Pinyin": "hà mò yú wán",
+      "description": "{炸} is *deep-fried*, {墨魚} is [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish), ({墨} is *ink*, {魚} is *fish*, so {墨魚} is *ink fish*) and {丸} is *ball*. All in all, 炸墨魚丸 is *deep-fried ink fish ball*."
     },
-    {
-        "word": {
-            "English": "french fries",
-            "Cantonese": {
-                "text": "炸薯條",
-                "wkty": [
-                    "炸薯條",
-                    "炸",
-                    "薯條",
-                    "薯",
-                    "條"
-                ]
-            },
-            "Yale": "ja syùh tíu",
-            "Jyutping": "zaa3 syu4 tiu2",
-            "Simplified": {
-                "text": "炸薯条",
-                "wkty": [
-                    "炸薯条",
-                    "炸",
-                    "薯条",
-                    "薯",
-                    "条"
-                ]
-            },
-            "Pinyin": "zhá shǔ tiáo",
-            "description": "{炸} is *deep-fried*, {薯} is *potato* (also sweet potato), and {條} is a strip, so {炸薯條} is *deep-fried potato strip*.\n\n**Ordering**\n\n{條} is also the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so if for some reason you wanted to order one french fry, you'd specify 一條炸薯條 (in Cantonese, yāt tíu ja syùh tíu) *one strip of deep-fried potato strip*.\n\nIn the more typical case, you'd order 一碟炸薯條  (in Cantonese, yāt dihp ja syùh tíu) *one plate of deep-fried potato strips*."
-        },
-        "images": [
-            {
-                "image": "frenchfriesluckyhouse",
-                "place": "Lucky House Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Hong Kong cafes serve sandwiches, so why not [french fries](https://en.wikipedia.org/wiki/French_fries)?",
-        "tags": [
-            "條",
-            "炸",
-            "薯",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/French_fries"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "friedcuttlefishballsweetheart",
+        "place": "Sweet Heart Dessert, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Deep-fried [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish) balls.",
+    "tags": ["炸", "墨魚", "丸", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/fried-cuttlefish-balls/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "french fries",
+      "Cantonese": {
+        "text": "炸薯條",
+        "wkty": ["炸薯條", "炸", "薯條", "薯", "條"]
+      },
+      "Yale": "ja syùh tíu",
+      "Jyutping": "zaa3 syu4 tiu2",
+      "Simplified": {
+        "text": "炸薯条",
+        "wkty": ["炸薯条", "炸", "薯条", "薯", "条"]
+      },
+      "Pinyin": "zhá shǔ tiáo",
+      "description": "{炸} is *deep-fried*, {薯} is *potato* (also sweet potato), and {條} is a strip, so {炸薯條} is *deep-fried potato strip*.\n\n**Ordering**\n\n{條} is also the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so if for some reason you wanted to order one french fry, you'd specify 一條炸薯條 (in Cantonese, yāt tíu ja syùh tíu) *one strip of deep-fried potato strip*.\n\nIn the more typical case, you'd order 一碟炸薯條  (in Cantonese, yāt dihp ja syùh tíu) *one plate of deep-fried potato strips*."
+    },
+    "images": [
+      {
+        "image": "frenchfriesluckyhouse",
+        "place": "Lucky House Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Hong Kong cafes serve sandwiches, so why not [french fries](https://en.wikipedia.org/wiki/French_fries)?",
+    "tags": ["條", "炸", "薯", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/French_fries"
+      }
+    ]
+  }
 ]

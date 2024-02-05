@@ -1,172 +1,123 @@
 [
-    {
-        "word": {
-            "English": "latiao",
-            "Cantonese": {
-                "text": "辣條",
-                "wkty": [
-                    "辣條",
-                    "辣",
-                    "條"
-                ]
-            },
-            "Yale": "laaht tíu",
-            "Simplified": {
-                "text": "辣条",
-                "wkty": [
-                    "辣条",
-                    "辣",
-                    "条"
-                ]
-            },
-            "Pinyin": "là tiáo",
-            "description": "{辣} is *spicy*, and {條} is *strip* (like bacon strip), so {辣條} is *spicy strip*.\n\n**Ordering**\n\n{條} is also the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so one strip of latiao is 一條辣條."
-        },
-        "images": [
-            {
-                "image": "latiao",
-                "place": "Koala Market, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Latiao](https://en.wikipedia.org/wiki/Latiao), the Mandarin pronunciation, are a popular snack originating from the Hunan provice, consiting of small spicy strips of fried gluten.",
-        "tags": [
-            "湘菜",
-            "辣",
-            "條"
-        ],
-        "resources": [
-            {
-                "name": "Chinosity",
-                "URL": "https://www.chinosity.com/2020/03/27/a-beginners-guide-to-chinese-snacks/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Latiao"
-            }
-        ]
+  {
+    "word": {
+      "English": "latiao",
+      "Cantonese": {
+        "text": "辣條",
+        "wkty": ["辣條", "辣", "條"]
+      },
+      "Yale": "laaht tíu",
+      "Simplified": {
+        "text": "辣条",
+        "wkty": ["辣条", "辣", "条"]
+      },
+      "Pinyin": "là tiáo",
+      "description": "{辣} is *spicy*, and {條} is *strip* (like bacon strip), so {辣條} is *spicy strip*.\n\n**Ordering**\n\n{條} is also the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so one strip of latiao is 一條辣條."
     },
-    {
-        "word": {
-            "English": "fried dough",
-            "Cantonese": {
-                "text": "油炸鬼",
-                "wkty": [
-                    "油炸鬼",
-                    "油炸",
-                    "油",
-                    "炸",
-                    "鬼"
-                ]
-            },
-            "Yale": "yàuh ja gwái",
-            "Mandarin": {
-                "text": "油條",
-                "wkty": [
-                    "油條",
-                    "油",
-                    "條"
-                ]
-            },
-            "Simplified": {
-                "text": "油条",
-                "wkty": [
-                    "油条",
-                    "油",
-                    "条"
-                ]
-            },
-            "Pinyin": "yóu tiáo",
-            "description": "The Cantonese name [油炸鬼](https://en..org/wiki/%E6%B2%B9%E7%82%B8%E9%AC%BC) is *oil fried ghost* ({油} is *oil*, {炸} is *deep-fried*, and {鬼} is *ghost*), so there's a [story](https://en.wikipedia.org/wiki/Youtiao) behind that.\n\nThe Mandarin name just consists of {油}, which is *oil*, and {條}, which is *strip* (like bacon strip), so {油條} is *oil strip*.\n\n**Ordering**\n\n{條} is also the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so for example to order one strip of fried dough, you'd specify in Cantonese 一條油炸鬼 (yāt tíu yàuh ja gwái) *one strip of oil deep-fried ghost* or ,somewhat redundantly in Mandarin, 一條油條 (yī tiáo yóu tiáo) *one strip of oil strip*.\n\nBut typically, in a restaurant at least, multiple strips will be served on a plate, in which case you'd order 一碟油炸鬼  (in Cantonese, yāt dihp yàuh ja gwái) *one plate of deep-fried ghosts*."
-        },
-        "images": [
-            {
-                "image": "frieddoughyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A stick of deep-fried dough, basically a long doughnut, listed variously in English as *Chinese cruller*, *Chinese doughnut*, [Chinese churro](https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-youtiao-churro-cruller-74313b5c3a4c) (pretty similar), by the Mandarin pronunciation [youtiao](https://en.wikipedia.org/wiki/Youtiao), and, a directly translation of the Mandarin name), *oil stick*.\n\nTypically served at breakfast with congee or soy milk, sometimes cut into short segments for convenience when serving.",
-        "tags": [
-            "條",
-            "油",
-            "早餐",
-            "油条",
-            "點心",
-            "素",
-            "炸",
-            "條"
-        ],
-        "resources": [
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/chinese-doughnut-recipe-crisp-fried-breadstick--2783326781-yoacuteutiaacuteo.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/youtiao-chinese-oil-stick-chinese-cruller/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/youtiao/"
-            },
-            {
-                "name": "Panda Cheffy",
-                "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-youtiao-churro-cruller-74313b5c3a4c"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/chinese-doughnut-stick/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Youtiao"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "http://thewoksoflife.com/2015/08/youtiao-recipe/"
-            }
-        ]
+    "images": [
+      {
+        "image": "latiao",
+        "place": "Koala Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Latiao](https://en.wikipedia.org/wiki/Latiao), the Mandarin pronunciation, are a popular snack originating from the Hunan provice, consiting of small spicy strips of fried gluten.",
+    "tags": ["湘菜", "辣", "條"],
+    "resources": [
+      {
+        "name": "Chinosity",
+        "URL": "https://www.chinosity.com/2020/03/27/a-beginners-guide-to-chinese-snacks/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Latiao"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fried dough",
+      "Cantonese": {
+        "text": "油炸鬼",
+        "wkty": ["油炸鬼", "油炸", "油", "炸", "鬼"]
+      },
+      "Yale": "yàuh ja gwái",
+      "Mandarin": {
+        "text": "油條",
+        "wkty": ["油條", "油", "條"]
+      },
+      "Simplified": {
+        "text": "油条",
+        "wkty": ["油条", "油", "条"]
+      },
+      "Pinyin": "yóu tiáo",
+      "description": "The Cantonese name [油炸鬼](https://en..org/wiki/%E6%B2%B9%E7%82%B8%E9%AC%BC) is *oil fried ghost* ({油} is *oil*, {炸} is *deep-fried*, and {鬼} is *ghost*), so there's a [story](https://en.wikipedia.org/wiki/Youtiao) behind that.\n\nThe Mandarin name just consists of {油}, which is *oil*, and {條}, which is *strip* (like bacon strip), so {油條} is *oil strip*.\n\n**Ordering**\n\n{條} is also the [classifier](https://en.wikipedia.org/wiki/List_of_Chinese_classifiers) for long thin items, so for example to order one strip of fried dough, you'd specify in Cantonese 一條油炸鬼 (yāt tíu yàuh ja gwái) *one strip of oil deep-fried ghost* or ,somewhat redundantly in Mandarin, 一條油條 (yī tiáo yóu tiáo) *one strip of oil strip*.\n\nBut typically, in a restaurant at least, multiple strips will be served on a plate, in which case you'd order 一碟油炸鬼  (in Cantonese, yāt dihp yàuh ja gwái) *one plate of deep-fried ghosts*."
     },
-    {
-        "word": {
-            "English": "fried dough crepe",
-            "Cantonese": {
-                "text": "炸兩",
-                "wkty": [
-                    "炸兩",
-                    "炸",
-                    "兩"
-                ]
-            },
-            "Yale": "ja léung",
-            "Simplified": {
-                "text": "炸两",
-                "wkty": [
-                    "炸两",
-                    "炸",
-                    "两"
-                ]
-            },
-            "Pinyin": "zhá liǎng",
-            "description": "{炸} is *deep-fried* and {兩} is *two* (not as in *one, two, three* buat as in a *couple of*) so {炸兩} is *deep-fried twice*."
-        },
-        "images": [
-            {
-                "image": "ricerollfrieddough"
-            }
-        ],
-        "description": "Rice roll wrapped around fried dough. Often served with porridge.",
-        "tags": [
-            "油条",
-            "腸粉",
-            "點心",
-            "炸",
-            "素"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Zhaliang"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "frieddoughyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A stick of deep-fried dough, basically a long doughnut, listed variously in English as *Chinese cruller*, *Chinese doughnut*, [Chinese churro](https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-youtiao-churro-cruller-74313b5c3a4c) (pretty similar), by the Mandarin pronunciation [youtiao](https://en.wikipedia.org/wiki/Youtiao), and, a directly translation of the Mandarin name), *oil stick*.\n\nTypically served at breakfast with congee or soy milk, sometimes cut into short segments for convenience when serving.",
+    "tags": ["條", "油", "早餐", "油条", "點心", "素", "炸", "條"],
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/chinese-doughnut-recipe-crisp-fried-breadstick--2783326781-yoacuteutiaacuteo.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/youtiao-chinese-oil-stick-chinese-cruller/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/youtiao/"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-youtiao-churro-cruller-74313b5c3a4c"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/chinese-doughnut-stick/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Youtiao"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "http://thewoksoflife.com/2015/08/youtiao-recipe/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fried dough crepe",
+      "Cantonese": {
+        "text": "炸兩",
+        "wkty": ["炸兩", "炸", "兩"]
+      },
+      "Yale": "ja léung",
+      "Simplified": {
+        "text": "炸两",
+        "wkty": ["炸两", "炸", "两"]
+      },
+      "Pinyin": "zhá liǎng",
+      "description": "{炸} is *deep-fried* and {兩} is *two* (not as in *one, two, three* buat as in a *couple of*) so {炸兩} is *deep-fried twice*."
+    },
+    "images": [
+      {
+        "image": "ricerollfrieddough"
+      }
+    ],
+    "description": "Rice roll wrapped around fried dough. Often served with porridge.",
+    "tags": ["油条", "腸粉", "點心", "炸", "素"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Zhaliang"
+      }
+    ]
+  }
 ]

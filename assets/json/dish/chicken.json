@@ -1,641 +1,482 @@
 [
-    {
-        "word": {
-            "English": "mango chicken",
-            "Cantonese": {
-                "text": "芒果雞",
-                "wkty": [
-                    "芒果",
-                    "芒",
-                    "果",
-                    "雞"
-                ]
-            },
-            "Yale": "mōng gwó gāi",
-            "Simplified": {
-                "text": "芒果鸡",
-                "wkty": [
-                    "芒果",
-                    "芒",
-                    "果",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "máng guǒ jī",
-            "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [mango](https://en.wikipedia.org/wiki/Mango) (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*),  and {雞} is *chicken*, so 芒果雞 is *mango chicken*."
-        },
-        "images": [
-            {
-                "image": "mangochickenbananaleafcafe",
-                "place": "Banana Leaf Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Mango chicken](https://rasamalaysia.com/malaysian-mango-chicken/) is a Malaysian dish, chicken stir-fried with mango slivers.",
-        "tags": [
-            "芒果",
-            "雞"
-        ],
-        "resources": [
-            {
-                "name": "Asian Inspirations",
-                "URL": "https://asianinspirations.com.au/recipes/malaysian-mango-chicken/"
-            },
-            {
-                "name": "Rasa Malaysia",
-                "URL": "https://rasamalaysia.com/malaysian-mango-chicken/"
-            }
-        ]
+  {
+    "word": {
+      "English": "mango chicken",
+      "Cantonese": {
+        "text": "芒果雞",
+        "wkty": ["芒果", "芒", "果", "雞"]
+      },
+      "Yale": "mōng gwó gāi",
+      "Simplified": {
+        "text": "芒果鸡",
+        "wkty": ["芒果", "芒", "果", "鸡"]
+      },
+      "Pinyin": "máng guǒ jī",
+      "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [mango](https://en.wikipedia.org/wiki/Mango) (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*),  and {雞} is *chicken*, so 芒果雞 is *mango chicken*."
     },
-    {
-        "word": {
-            "English": "orange chicken",
-            "Cantonese": {
-                "text": "陳皮雞",
-                "wkty": [
-                    "陳皮",
-                    "陳",
-                    "皮",
-                    "雞"
-                ]
-            },
-            "Yale": "chàhn pèih gāi",
-            "Simplified": {
-                "text": "陈皮鸡",
-                "wkty": [
-                    "陈皮",
-                    "陈",
-                    "皮",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "chén pí jī",
-            "description": "{陳皮} is [citrus peel](https://en.wikipedia.org/wiki/Chenpi) (made from [mandarin oranges](https://en.wikipedia.org/wiki/Mandarin_orange), and {雞} is *chicken*, so 陳皮雞 is *tangerine peel chicken* or *citrus peel chicken*. Actually {陳} is *old* and {皮} is *skin*, so really 陳皮雞 is *old skin chicken* (the alternative names for the Chinese-American version I've seen, 橙花雞 *orange flower chicken* or 橙子雞 *orange chicken* ([Wikipedia](https://en.wikipedia.org/wiki/Orange_chicken)), or 鮮橙雞柳 *fresh orange chicken fillet* ([Made with Lau](https://www.madewithlau.com/recipes/orange-chicken)) sound more appetizing!)"
-        },
-        "images": [
-            {
-                "image": "orangechickndethai",
-                "place": "DE Thai, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Orange chicken](https://en.wikipedia.org/wiki/Orange_chicken), battered fried chicken coated in an orange sauce, is most known in the US as a Chinese-American dish, claimed to have been invented by Panda Express, but like many Chinese-American dishes there is a Chinese antecendent, in this case a not so sweet and Hunan dish that incorporates tangerine peel (considered in China to have both medicinal and snack value).",
-        "tags": [
-            "湘菜",
-            "陳皮",
-            "美式",
-            "雞",
-            "橙",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/orange-chicken/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/orange-chicken"
-            },
-            {
-                "name": "NPR",
-                "URL": "https://www.npr.org/sections/thesalt/2017/10/30/560822270/orange-chicken-panda-express-gift-to-american-chinese-food-turns-30"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Orange_chicken"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/orange-chicken/"
-            }
-        ]
+    "images": [
+      {
+        "image": "mangochickenbananaleafcafe",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Mango chicken](https://rasamalaysia.com/malaysian-mango-chicken/) is a Malaysian dish, chicken stir-fried with mango slivers.",
+    "tags": ["芒果", "雞"],
+    "resources": [
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/malaysian-mango-chicken/"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/malaysian-mango-chicken/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "orange chicken",
+      "Cantonese": {
+        "text": "陳皮雞",
+        "wkty": ["陳皮", "陳", "皮", "雞"]
+      },
+      "Yale": "chàhn pèih gāi",
+      "Simplified": {
+        "text": "陈皮鸡",
+        "wkty": ["陈皮", "陈", "皮", "鸡"]
+      },
+      "Pinyin": "chén pí jī",
+      "description": "{陳皮} is [citrus peel](https://en.wikipedia.org/wiki/Chenpi) (made from [mandarin oranges](https://en.wikipedia.org/wiki/Mandarin_orange), and {雞} is *chicken*, so 陳皮雞 is *tangerine peel chicken* or *citrus peel chicken*. Actually {陳} is *old* and {皮} is *skin*, so really 陳皮雞 is *old skin chicken* (the alternative names for the Chinese-American version I've seen, 橙花雞 *orange flower chicken* or 橙子雞 *orange chicken* ([Wikipedia](https://en.wikipedia.org/wiki/Orange_chicken)), or 鮮橙雞柳 *fresh orange chicken fillet* ([Made with Lau](https://www.madewithlau.com/recipes/orange-chicken)) sound more appetizing!)"
     },
-    {
-        "word": {
-            "English": "sesame chicken",
-            "Cantonese": {
-                "text": "芝麻雞",
-                "wkty": [
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "雞"
-                ]
-            },
-            "Yale": "jī màh gāi",
-            "Simplified": {
-                "text": "芝麻鸡",
-                "wkty": [
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "zhī ma jī",
-            "description": "{芝麻} is *sesame* and {雞} is *chicken*, so 芝麻雞 is [sesame chicken](https://en.wikipedia.org/wiki/Sesame_chicken)."
-        },
-        "images": [
-            {
-                "image": "sesamechickenchinagourmet",
-                "place": "China Gourmet, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Battered fried chicken coated in a sweet sauce and sprinkled with sesame seeds. This is a Chinese-American dish.",
-        "tags": [
-            "芝麻",
-            "美式",
-            "雞",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Adora's Box",
-                "URL": "http://www.adorasbox.com/2011/03/sesame-and-cashew-chicken.html"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/sesame-chicken/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Sesame_chicken"
-            }
-        ]
+    "images": [
+      {
+        "image": "orangechickndethai",
+        "place": "DE Thai, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Orange chicken](https://en.wikipedia.org/wiki/Orange_chicken), battered fried chicken coated in an orange sauce, is most known in the US as a Chinese-American dish, claimed to have been invented by Panda Express, but like many Chinese-American dishes there is a Chinese antecendent, in this case a not so sweet and Hunan dish that incorporates tangerine peel (considered in China to have both medicinal and snack value).",
+    "tags": ["湘菜", "陳皮", "美式", "雞", "橙", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/orange-chicken/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/orange-chicken"
+      },
+      {
+        "name": "NPR",
+        "URL": "https://www.npr.org/sections/thesalt/2017/10/30/560822270/orange-chicken-panda-express-gift-to-american-chinese-food-turns-30"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Orange_chicken"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/orange-chicken/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "sesame chicken",
+      "Cantonese": {
+        "text": "芝麻雞",
+        "wkty": ["芝麻", "芝", "麻", "雞"]
+      },
+      "Yale": "jī màh gāi",
+      "Simplified": {
+        "text": "芝麻鸡",
+        "wkty": ["芝麻", "芝", "麻", "鸡"]
+      },
+      "Pinyin": "zhī ma jī",
+      "description": "{芝麻} is *sesame* and {雞} is *chicken*, so 芝麻雞 is [sesame chicken](https://en.wikipedia.org/wiki/Sesame_chicken)."
     },
-    {
-        "word": {
-            "English": "lemon chicken",
-            "Cantonese": {
-                "text": "檸檬雞",
-                "wkty": [
-                    "檸檬",
-                    "檸",
-                    "檬",
-                    "雞"
-                ]
-            },
-            "Yale": "nìhng mūng gāi",
-            "Jyutping": "ning4 mung1 gai1",
-            "Simplified": {
-                "text": "柠檬鸡",
-                "wkty": [
-                    "柠檬",
-                    "柠",
-                    "檬",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "níng méng jī",
-            "description": "{檸檬} is a [loanword](https://en.wikipedia.org/wiki/Loanword)  for *lemon*, and {雞} is *chicken*, so 檸檬雞 is *sesame chicken*."
-        },
-        "images": [
-            {
-                "image": "lemonchickenchinagogo",
-                "place": "China a Go Go, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Battered fried chicken coated in a sweet lemon sauce.\n\nThis is a Chinese-American (or Chinese-Canadian, or Chinese-British) dish.",
-        "tags": [
-            "檸檬",
-            "美式",
-            "雞",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Adora's Box",
-                "URL": "http://www.adorasbox.com/2011/10/mandarin-orange-and-lemon-chicken.html"
-            },
-            {
-                "name": "Honest Food Talks",
-                "URL": "https://www.honestfoodtalks.com/chinese-lemon-chicken-recipe/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/lemon-chicken"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Lemon_chicken"
-            }
-        ]
+    "images": [
+      {
+        "image": "sesamechickenchinagourmet",
+        "place": "China Gourmet, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Battered fried chicken coated in a sweet sauce and sprinkled with sesame seeds. This is a Chinese-American dish.",
+    "tags": ["芝麻", "美式", "雞", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Adora's Box",
+        "URL": "http://www.adorasbox.com/2011/03/sesame-and-cashew-chicken.html"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/sesame-chicken/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Sesame_chicken"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lemon chicken",
+      "Cantonese": {
+        "text": "檸檬雞",
+        "wkty": ["檸檬", "檸", "檬", "雞"]
+      },
+      "Yale": "nìhng mūng gāi",
+      "Jyutping": "ning4 mung1 gai1",
+      "Simplified": {
+        "text": "柠檬鸡",
+        "wkty": ["柠檬", "柠", "檬", "鸡"]
+      },
+      "Pinyin": "níng méng jī",
+      "description": "{檸檬} is a [loanword](https://en.wikipedia.org/wiki/Loanword)  for *lemon*, and {雞} is *chicken*, so 檸檬雞 is *sesame chicken*."
     },
-    {
-        "word": {
-            "English": "General Tso's chicken",
-            "Cantonese": {
-                "text": "左宗棠雞",
-                "wkty": [
-                    "左",
-                    "宗",
-                    "棠",
-                    "雞"
-                ]
-            },
-            "Yale": "jó jūng tòhng gāi",
-            "Simplified": {
-                "text": "左宗棠鸡",
-                "wkty": [
-                    "左",
-                    "宗",
-                    "棠",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "zuǒ zōng táng jī",
-            "description": "左宗棠 is General Tso's full name (sans “General”), and {雞} is *chicken*."
-        },
-        "images": [
-            {
-                "image": "generaltsochickengreatwall",
-                "place": "Great Wall, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Another battered fried chicken coated in a sweet sauce, [General Tso's chicken](https://en.wikipedia.org/wiki/General_Tso's_chicken) just has to be a Chinese-American dish (and in fact there are competing claims to its invention by restaurants in New York City).\n\n**History**\n\n[General Tso](https://en.wikipedia.org/wiki/Zuo_Zongtang) was indeed a famous Chinese general, born in Hunan. Fuschia Dunlop in Revolutionary Chinese Cookbook devotes several pages to the story of the general dish and this dish and it is now associated with [Hunan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine). And [The Search for General Tso](https://en.wikipedia.org/wiki/The_Search_for_General_Tso) is a documentary covering Chinese-American cuisine, the history of Chinese-American immigration, and General Tso himself.",
-        "tags": [
-            "美式",
-            "雞",
-            "湘菜"
-        ],
-        "resources": [
-            {
-                "name": "Adora's Box",
-                "URL": "http://www.adorasbox.com/2013/08/general-tsos-chicken.html"
-            },
-            {
-                "name": "Chinese Food Wiki",
-                "URL": "https://www.chinesefoodwiki.org/General_Tso%E2%80%99s_Chicken"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/general-tso-chicken/"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/general-chicken-recipe/"
-            },
-            {
-                "name": "Made With Lau",
-                "URL": "https://madewithlau.com/recipes/general-tsos-chicken"
-            },
-            {
-                "name": "Viet World Kitchen",
-                "URL": "https://eggwansfoododyssey.com/2014/10/02/general-tso-chicken-recipe/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/General_Tso's_chicken"
-            }
-        ]
+    "images": [
+      {
+        "image": "lemonchickenchinagogo",
+        "place": "China a Go Go, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Battered fried chicken coated in a sweet lemon sauce.\n\nThis is a Chinese-American (or Chinese-Canadian, or Chinese-British) dish.",
+    "tags": ["檸檬", "美式", "雞", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Adora's Box",
+        "URL": "http://www.adorasbox.com/2011/10/mandarin-orange-and-lemon-chicken.html"
+      },
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/chinese-lemon-chicken-recipe/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/lemon-chicken"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Lemon_chicken"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "General Tso's chicken",
+      "Cantonese": {
+        "text": "左宗棠雞",
+        "wkty": ["左", "宗", "棠", "雞"]
+      },
+      "Yale": "jó jūng tòhng gāi",
+      "Simplified": {
+        "text": "左宗棠鸡",
+        "wkty": ["左", "宗", "棠", "鸡"]
+      },
+      "Pinyin": "zuǒ zōng táng jī",
+      "description": "左宗棠 is General Tso's full name (sans “General”), and {雞} is *chicken*."
     },
-    {
-        "word": {
-            "English": "popcorn chicken",
-            "Cantonese": {
-                "text": "鹽酥雞",
-                "wkty": [
-                    "鹽",
-                    "酥",
-                    "雞"
-                ]
-            },
-            "Yale": "yìhm sōu gāi",
-            "Jyutping": "jim6 so1 gai1",
-            "Simplified": {
-                "text": "盐酥鸡",
-                "wkty": [
-                    "盐",
-                    "酥",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "yán sū jī",
-            "description": "{鹽} is *salty*, {酥} is the same word used for flaky pastries and in this context is *crispy* or *crunchy*, and {雞} is *chicken*, so 鹽酥雞 is *salty crunchy chicken*."
-        },
-        "images": [
-            {
-                "image": "popcornchickensweetheart",
-                "place": "Sweet Heart Dessert House, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Taiwanese popcorn chicken](https://www.wokandkin.com/taiwanese-popcorn-chicken/) is a particularly crunchy and spicy (seasoned with Sichuan pepper) street food and snack.",
-        "tags": [
-            "辣",
-            "台菜",
-            "茶餐廳",
-            "臺灣",
-            "雞"
-        ],
-        "resources": [
-            {
-                "name": "Wok and Kin",
-                "URL": "https://www.wokandkin.com/taiwanese-popcorn-chicken/"
-            }
-        ]
+    "images": [
+      {
+        "image": "generaltsochickengreatwall",
+        "place": "Great Wall, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Another battered fried chicken coated in a sweet sauce, [General Tso's chicken](https://en.wikipedia.org/wiki/General_Tso's_chicken) just has to be a Chinese-American dish (and in fact there are competing claims to its invention by restaurants in New York City).\n\n**History**\n\n[General Tso](https://en.wikipedia.org/wiki/Zuo_Zongtang) was indeed a famous Chinese general, born in Hunan. Fuschia Dunlop in Revolutionary Chinese Cookbook devotes several pages to the story of the general dish and this dish and it is now associated with [Hunan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine). And [The Search for General Tso](https://en.wikipedia.org/wiki/The_Search_for_General_Tso) is a documentary covering Chinese-American cuisine, the history of Chinese-American immigration, and General Tso himself.",
+    "tags": ["美式", "雞", "湘菜"],
+    "resources": [
+      {
+        "name": "Adora's Box",
+        "URL": "http://www.adorasbox.com/2013/08/general-tsos-chicken.html"
+      },
+      {
+        "name": "Chinese Food Wiki",
+        "URL": "https://www.chinesefoodwiki.org/General_Tso%E2%80%99s_Chicken"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/general-tso-chicken/"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/general-chicken-recipe/"
+      },
+      {
+        "name": "Made With Lau",
+        "URL": "https://madewithlau.com/recipes/general-tsos-chicken"
+      },
+      {
+        "name": "Viet World Kitchen",
+        "URL": "https://eggwansfoododyssey.com/2014/10/02/general-tso-chicken-recipe/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/General_Tso's_chicken"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "popcorn chicken",
+      "Cantonese": {
+        "text": "鹽酥雞",
+        "wkty": ["鹽", "酥", "雞"]
+      },
+      "Yale": "yìhm sōu gāi",
+      "Jyutping": "jim6 so1 gai1",
+      "Simplified": {
+        "text": "盐酥鸡",
+        "wkty": ["盐", "酥", "鸡"]
+      },
+      "Pinyin": "yán sū jī",
+      "description": "{鹽} is *salty*, {酥} is the same word used for flaky pastries and in this context is *crispy* or *crunchy*, and {雞} is *chicken*, so 鹽酥雞 is *salty crunchy chicken*."
     },
-    {
-        "word": {
-            "English": "cola chicken wings",
-            "Cantonese": {
-                "text": "可樂雞翅",
-                "wkty": [
-                    "可樂",
-                    "可",
-                    "樂",
-                    "雞翅",
-                    "雞",
-                    "翅"
-                ]
-            },
-            "Yale": "hó lohk gāi chi",
-            "Simplified": {
-                "text": "可乐鸡翅",
-                "wkty": [
-                    "可乐",
-                    "可",
-                    "乐",
-                    "鸡翅",
-                    "鸡",
-                    "翅"
-                ]
-            },
-            "Pinyin": "kě lè jī chì",
-            "description": "{可樂} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cola* (especially the Mandarin pronunciation *kě lè*), and {雞翅} is *chicken wing*, so 可樂雞翅 is [cola chicken wings](https://thewoksoflife.com/coca-cola-chicken-wings/)."
-        },
-        "images": [
-            {
-                "image": "colachickenwingsluckyhousecafe",
-                "place": "Lucky House Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Chicken wings marinaded in a sauce with cola.",
-        "tags": [
-            "茶餐廳",
-            "雞",
-            "雞翅",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/coca-cola-chicken-wings/"
-            },
-            {
-                "name": "Eat What Tonight",
-                "URL": "https://eatwhattonight.com/2015/10/coca-cola-chicken-wingsmid-joints/"
-            },
-            {
-                "name": "Noob Cook",
-                "URL": "https://noobcook.com/coca-cola-chicken-wings/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/coca-cola-chicken-wings/"
-            },
-            {
-                "name": "Simple Chinese Food",
-                "URL": "https://simplechinesefood.com/recipe/coke-chicken-wings-255315"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/coca-cola-chicken-wings/"
-            }
-        ]
+    "images": [
+      {
+        "image": "popcornchickensweetheart",
+        "place": "Sweet Heart Dessert House, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Taiwanese popcorn chicken](https://www.wokandkin.com/taiwanese-popcorn-chicken/) is a particularly crunchy and spicy (seasoned with Sichuan pepper) street food and snack.",
+    "tags": ["辣", "台菜", "茶餐廳", "臺灣", "雞"],
+    "resources": [
+      {
+        "name": "Wok and Kin",
+        "URL": "https://www.wokandkin.com/taiwanese-popcorn-chicken/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "cola chicken wings",
+      "Cantonese": {
+        "text": "可樂雞翅",
+        "wkty": ["可樂", "可", "樂", "雞翅", "雞", "翅"]
+      },
+      "Yale": "hó lohk gāi chi",
+      "Simplified": {
+        "text": "可乐鸡翅",
+        "wkty": ["可乐", "可", "乐", "鸡翅", "鸡", "翅"]
+      },
+      "Pinyin": "kě lè jī chì",
+      "description": "{可樂} is a [loanword](https://en.wikipedia.org/wiki/Loanword) for *cola* (especially the Mandarin pronunciation *kě lè*), and {雞翅} is *chicken wing*, so 可樂雞翅 is [cola chicken wings](https://thewoksoflife.com/coca-cola-chicken-wings/)."
     },
-    {
-        "word": {
-            "English": "gui fei chicken",
-            "Cantonese": {
-                "text": "貴妃雞",
-                "wkty": [
-                    "貴妃",
-                    "貴",
-                    "妃",
-                    "雞"
-                ]
-            },
-            "Yale": "gwai fēi gāi",
-            "Simplified": {
-                "text": "贵妃鸡",
-                "wkty": [
-                    "贵妃",
-                    "贵",
-                    "妃",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "guì fēi jī",
-            "description": "{貴妃} is the title of a high-ranking imperial concubine, in this case referring to the famous (or infamous) [Yang Gui Feng](https://en.wikipedia.org/wiki/Yang_Guifei), and {雞} is *chicken*."
-        },
-        "images": [
-            {
-                "image": "guifeichickengoldenpalace",
-                "place": "Golden Palace, San Jose, California"
-            }
-        ],
-        "description": "Gui fei chicken is a [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) dish similar to Hainan chicken but with the chicken soaked in different flavors. It's also known as Empress chicken (it was allegedly a favorite dish of a famous concubine who ruled as an Empress), although that name is also applied to stir-fried chicken wings.",
-        "tags": [
-            "新菜",
-            "貴妃",
-            "粵菜",
-            "雞"
-        ],
-        "resources": [
-            {
-                "name": "Magic Table",
-                "URL": "https://magicattable.wordpress.com/2020/06/25/empress-chicken-%E8%B4%B5%E5%A6%83%E9%B8%A1/"
-            },
-            {
-                "name": "Tatler",
-                "URL": "https://www.tatlerasia.com/dining/food/chinese-new-year-recipe-guifei-chicken-by-chef-yvonne-yuen"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
-            }
-        ]
+    "images": [
+      {
+        "image": "colachickenwingsluckyhousecafe",
+        "place": "Lucky House Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chicken wings marinaded in a sauce with cola.",
+    "tags": ["茶餐廳", "雞", "雞翅", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/coca-cola-chicken-wings/"
+      },
+      {
+        "name": "Eat What Tonight",
+        "URL": "https://eatwhattonight.com/2015/10/coca-cola-chicken-wingsmid-joints/"
+      },
+      {
+        "name": "Noob Cook",
+        "URL": "https://noobcook.com/coca-cola-chicken-wings/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/coca-cola-chicken-wings/"
+      },
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/coke-chicken-wings-255315"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/coca-cola-chicken-wings/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "gui fei chicken",
+      "Cantonese": {
+        "text": "貴妃雞",
+        "wkty": ["貴妃", "貴", "妃", "雞"]
+      },
+      "Yale": "gwai fēi gāi",
+      "Simplified": {
+        "text": "贵妃鸡",
+        "wkty": ["贵妃", "贵", "妃", "鸡"]
+      },
+      "Pinyin": "guì fēi jī",
+      "description": "{貴妃} is the title of a high-ranking imperial concubine, in this case referring to the famous (or infamous) [Yang Gui Feng](https://en.wikipedia.org/wiki/Yang_Guifei), and {雞} is *chicken*."
     },
-    {
-        "word": {
-            "English": "sha cha chicken",
-            "Cantonese": {
-                "text": "沙茶雞",
-                "wkty": [
-                    "沙茶",
-                    "沙",
-                    "茶",
-                    "雞"
-                ]
-            },
-            "Yale": "sā chàh gāi",
-            "Simplified": {
-                "text": "沙茶鸡",
-                "wkty": [
-                    "沙茶",
-                    "沙",
-                    "茶",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "shā chá jī",
-            "description": "{沙茶} is [sha cha sauce](https://en.wikipedia.org/wiki/Shacha_sauce), and {雞} is *chicken*."
-        },
-        "images": [
-            {
-                "image": "shachachickenmandarin",
-                "place": "The Mandarin, Cedar City, Utah"
-            }
-        ],
-        "description": "Stir-fried chicken served in [sha cha sauce](https://en.wikipedia.org/wiki/Shacha_sauce), which was originally adapted from the peanut-based satay sauce but now has completely different ingredients, such as soy sauce, garlic, chilies, and dried shrimp. It is sometimes referred to as *Chinese BBQ sauce*.",
-        "tags": [
-            "沙茶",
-            "雞"
-        ],
-        "resources": [
-            {
-                "name": "Black Sesame Kitchen",
-                "URL": "https://blacksesamekitchen.com/sha-cha-chicken/"
-            },
-            {
-                "name": "China Food Online Menu",
-                "URL": "https://chinafoodonlinemenu.com/sha-cha-chicken/"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/sha-cha-chicken/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/sha-cha-chicken/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
-            }
-        ]
+    "images": [
+      {
+        "image": "guifeichickengoldenpalace",
+        "place": "Golden Palace, San Jose, California"
+      }
+    ],
+    "description": "Gui fei chicken is a [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine) dish similar to Hainan chicken but with the chicken soaked in different flavors. It's also known as Empress chicken (it was allegedly a favorite dish of a famous concubine who ruled as an Empress), although that name is also applied to stir-fried chicken wings.",
+    "tags": ["新菜", "貴妃", "粵菜", "雞"],
+    "resources": [
+      {
+        "name": "Magic Table",
+        "URL": "https://magicattable.wordpress.com/2020/06/25/empress-chicken-%E8%B4%B5%E5%A6%83%E9%B8%A1/"
+      },
+      {
+        "name": "Tatler",
+        "URL": "https://www.tatlerasia.com/dining/food/chinese-new-year-recipe-guifei-chicken-by-chef-yvonne-yuen"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "sha cha chicken",
+      "Cantonese": {
+        "text": "沙茶雞",
+        "wkty": ["沙茶", "沙", "茶", "雞"]
+      },
+      "Yale": "sā chàh gāi",
+      "Simplified": {
+        "text": "沙茶鸡",
+        "wkty": ["沙茶", "沙", "茶", "鸡"]
+      },
+      "Pinyin": "shā chá jī",
+      "description": "{沙茶} is [sha cha sauce](https://en.wikipedia.org/wiki/Shacha_sauce), and {雞} is *chicken*."
     },
-    {
-        "word": {
-            "English": "Hunan chicken",
-            "Cantonese": {
-                "text": "湖南雞",
-                "wkty": [
-                    "湖南",
-                    "湖",
-                    "南",
-                    "雞"
-                ]
-            },
-            "Yale": "wùh nàahm gāi",
-            "Simplified": {
-                "text": "湖南鸡",
-                "wkty": [
-                    "湖南",
-                    "湖",
-                    "南",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "hú nán jī",
-            "description": "{湖南} is [Hunan](https://en.wikipedia.org/wiki/Hunan), and {雞} is *chicken*."
-        },
-        "images": [
-            {
-                "image": "hunanchickenmandarin",
-                "place": "The Mandarin, Cedar City, Utah"
-            }
-        ],
-        "description": "A Chinese-American dish ostensibly originating from the Hunan province, this is stir-fried chicken served in spicy chili bean sauce.",
-        "tags": [
-            "新菜",
-            "雞"
-        ],
-        "resources": [
-            {
-                "name": "Black Sesame Kitchen",
-                "URL": "https://blacksesamekitchen.com/sha-cha-chicken/"
-            },
-            {
-                "name": "Delighted Cooking",
-                "URL": "https://www.delightedcooking.com/what-is-hunan-chicken.htm"
-            },
-            {
-                "name": "Chili Pepper Madness",
-                "URL": "https://www.chilipeppermadness.com/recipes/hunan-chicken/"
-            },
-            {
-                "name": "The Big Man's World",
-                "URL": "https://thebigmansworld.com/hunan-chicken/"
-            },
-            {
-                "name": "Rasa Malaysia",
-                "URL": "https://rasamalaysia.com/hunan-chicken-recipe/"
-            }
-        ]
+    "images": [
+      {
+        "image": "shachachickenmandarin",
+        "place": "The Mandarin, Cedar City, Utah"
+      }
+    ],
+    "description": "Stir-fried chicken served in [sha cha sauce](https://en.wikipedia.org/wiki/Shacha_sauce), which was originally adapted from the peanut-based satay sauce but now has completely different ingredients, such as soy sauce, garlic, chilies, and dried shrimp. It is sometimes referred to as *Chinese BBQ sauce*.",
+    "tags": ["沙茶", "雞"],
+    "resources": [
+      {
+        "name": "Black Sesame Kitchen",
+        "URL": "https://blacksesamekitchen.com/sha-cha-chicken/"
+      },
+      {
+        "name": "China Food Online Menu",
+        "URL": "https://chinafoodonlinemenu.com/sha-cha-chicken/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/sha-cha-chicken/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/sha-cha-chicken/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Hunan chicken",
+      "Cantonese": {
+        "text": "湖南雞",
+        "wkty": ["湖南", "湖", "南", "雞"]
+      },
+      "Yale": "wùh nàahm gāi",
+      "Simplified": {
+        "text": "湖南鸡",
+        "wkty": ["湖南", "湖", "南", "鸡"]
+      },
+      "Pinyin": "hú nán jī",
+      "description": "{湖南} is [Hunan](https://en.wikipedia.org/wiki/Hunan), and {雞} is *chicken*."
     },
-    {
-        "word": {
-            "English": "bang bang chicken",
-            "Cantonese": {
-                "text": "棒棒雞",
-                "wkty": [
-                    "棒",
-                    "雞"
-                ]
-            },
-            "Yale": "páahng páahng gāi",
-            "Simplified": {
-                "text": "棒棒鸡",
-                "wkty": [
-                    "棒",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "bàng bàng jī",
-            "description": "{棒} is a wooden stick used to tenderize the meat, and {雞} is *chicken*."
-        },
-        "images": [
-            {
-                "image": "bangbangchickenhunanexpress",
-                "place": "Hunan Express, Taylorsville, Utah"
-            }
-        ],
-        "description": "The original Sichuan street food consists of shredded steamed or poached chicken served in a spicy sauce with cucumbers, also listed as *pon pon chicken* (close to the Cantonese pronunciation) or *bon bon chicken* (close to the Mandarin pronunciation, so the *bang* is pronunced *bong*, not *bang* like in *big bang*). The Chinese-American version is deep-fried and often topped with mayonnaise, a sign that we're not in Sichuan, anymore (another sign - its presence on the Cheesecake Factory menu).",
-        "tags": [
-            "新菜",
-            "川菜",
-            "新菜",
-            "雞"
-        ],
-        "resources": [
-            {
-                "name": "Insanely Good",
-                "URL": "https://insanelygoodrecipes.com/bang-bang-chicken/"
-            },
-            {
-                "name": "Jo Jo Cooks",
-                "URL": "https://www.jocooks.com/recipes/bang-bang-chicken/"
-            },
-            {
-                "name": "Kitchen Sanctuary",
-                "URL": "https://www.kitchensanctuary.com/bang-bang-chicken/"
-            },
-            {
-                "name": "Omnivore's Cookbook",
-                "URL": "https://omnivorescookbook.com/recipes/bang-bang-chicken"
-            },
-            {
-                "name": "Recipe Majik",
-                "URL": "https://www.recipemagik.com/bang-bang-chicken/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Bang_bang_chicken"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/bang-bang-chicken-sichuan/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "hunanchickenmandarin",
+        "place": "The Mandarin, Cedar City, Utah"
+      }
+    ],
+    "description": "A Chinese-American dish ostensibly originating from the Hunan province, this is stir-fried chicken served in spicy chili bean sauce.",
+    "tags": ["新菜", "雞"],
+    "resources": [
+      {
+        "name": "Black Sesame Kitchen",
+        "URL": "https://blacksesamekitchen.com/sha-cha-chicken/"
+      },
+      {
+        "name": "Delighted Cooking",
+        "URL": "https://www.delightedcooking.com/what-is-hunan-chicken.htm"
+      },
+      {
+        "name": "Chili Pepper Madness",
+        "URL": "https://www.chilipeppermadness.com/recipes/hunan-chicken/"
+      },
+      {
+        "name": "The Big Man's World",
+        "URL": "https://thebigmansworld.com/hunan-chicken/"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/hunan-chicken-recipe/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "bang bang chicken",
+      "Cantonese": {
+        "text": "棒棒雞",
+        "wkty": ["棒", "雞"]
+      },
+      "Yale": "páahng páahng gāi",
+      "Simplified": {
+        "text": "棒棒鸡",
+        "wkty": ["棒", "鸡"]
+      },
+      "Pinyin": "bàng bàng jī",
+      "description": "{棒} is a wooden stick used to tenderize the meat, and {雞} is *chicken*."
+    },
+    "images": [
+      {
+        "image": "bangbangchickenhunanexpress",
+        "place": "Hunan Express, Taylorsville, Utah"
+      }
+    ],
+    "description": "The original Sichuan street food consists of shredded steamed or poached chicken served in a spicy sauce with cucumbers, also listed as *pon pon chicken* (close to the Cantonese pronunciation) or *bon bon chicken* (close to the Mandarin pronunciation, so the *bang* is pronunced *bong*, not *bang* like in *big bang*). The Chinese-American version is deep-fried and often topped with mayonnaise, a sign that we're not in Sichuan, anymore (another sign - its presence on the Cheesecake Factory menu).",
+    "tags": ["新菜", "川菜", "新菜", "雞"],
+    "resources": [
+      {
+        "name": "Insanely Good",
+        "URL": "https://insanelygoodrecipes.com/bang-bang-chicken/"
+      },
+      {
+        "name": "Jo Jo Cooks",
+        "URL": "https://www.jocooks.com/recipes/bang-bang-chicken/"
+      },
+      {
+        "name": "Kitchen Sanctuary",
+        "URL": "https://www.kitchensanctuary.com/bang-bang-chicken/"
+      },
+      {
+        "name": "Omnivore's Cookbook",
+        "URL": "https://omnivorescookbook.com/recipes/bang-bang-chicken"
+      },
+      {
+        "name": "Recipe Majik",
+        "URL": "https://www.recipemagik.com/bang-bang-chicken/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Bang_bang_chicken"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/bang-bang-chicken-sichuan/"
+      }
+    ]
+  }
 ]

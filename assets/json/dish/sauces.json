@@ -15,9 +15,7 @@
       }
     ],
     "description": "{酱} is a [phono-semantic](https://en.wikipedia.org/wiki/Chinese_character_classification#Phono-semantic_compound_characters) combination of {將} and {酉}",
-    "tags": [
-      "醬"
-    ],
+    "tags": ["醬"],
     "resources": []
   },
   {
@@ -25,11 +23,7 @@
       "English": "curry",
       "Cantonese": {
         "text": "咖喱",
-        "wkty": [
-          "咖喱",
-          "咖",
-          "喱"
-        ]
+        "wkty": ["咖喱", "咖", "喱"]
       },
       "Yale": "ga lēi",
       "Pinyin": "kā li"
@@ -41,9 +35,7 @@
       }
     ],
     "description": "Curry is not part of traditional Chinese cuisine but appears in some popular Hong Kong dishes, mostly as curry sauce (curry fish balls, curry chicken and curry beef on rice) and as curry powder (Singapore-style noodles).\n\n{咖喱} is a [loanword](https://en.wikipedia.org/wiki/Loanword) (*ga lēi* in Cantonese, *kā li* in Mandarin) that sounds like [curry](https://en.wikipedia.org/wiki/Curry).",
-    "tags": [
-      "咖喱"
-    ],
+    "tags": ["咖喱"],
     "resources": [
       {
         "name": "LTL Shanghai",
@@ -60,24 +52,12 @@
       "English": "hoisin sauce",
       "Cantonese": {
         "text": "海鮮醬",
-        "wkty": [
-          "海鮮醬",
-          "海鮮",
-          "海",
-          "鮮",
-          "醬"
-        ]
+        "wkty": ["海鮮醬", "海鮮", "海", "鮮", "醬"]
       },
       "Yale": "hói sīn jeung",
       "Simplified": {
         "text": "海鲜酱",
-        "wkty": [
-          "海鲜酱",
-          "海鲜",
-          "海",
-          "鲜",
-          "酱"
-        ]
+        "wkty": ["海鲜酱", "海鲜", "海", "鲜", "酱"]
       },
       "Pinyin": "hǎi xiān jiàng",
       "description": "{海鮮} is *seafood* ({海} is *ocean* and {鮮} is *fresh*, so *seafood* is literally *ocean fresh*). {醬} is *sauce*, so altogether {海鮮醬} is *seafood sauce* (even though it doesn't contain seafood, so if you see a bottle labeled *vegan hoisin sauce*, well, obviously)."
@@ -89,12 +69,7 @@
       }
     ],
     "description": "[Hoisin sauce](https://en.wikipedia.org/wiki/Hoisin_sauce) is a dark, thick sauce made from soybeans and other flavors and spices.",
-    "tags": [
-      "醬",
-      "粵菜",
-      "海鮮醬",
-      "海鮮"
-    ],
+    "tags": ["醬", "粵菜", "海鮮醬", "海鮮"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -107,18 +82,12 @@
       "English": "XO sauce",
       "Cantonese": {
         "text": "XO醬",
-        "wkty": [
-          "XO醬",
-          "醬"
-        ]
+        "wkty": ["XO醬", "醬"]
       },
       "Yale": "XO jeung",
       "Simplified": {
         "text": "XO酱",
-        "wkty": [
-          "XO酱",
-          "酱"
-        ]
+        "wkty": ["XO酱", "酱"]
       },
       "Pinyin": "XO jiàng",
       "description": "{醬} is *sauce*."
@@ -130,10 +99,7 @@
       }
     ],
     "description": "A 1980s Hong Kong invention (with rival claims as to which restaurant), [XO sauce](https://en.wikipedia.org/wiki/XO_sauce) is a thick sauce containing dried seafood, ham, and flavorings such as chili peppers. XO sauce borrows its name from XO (extra old) [cognac](https://en.wikipedia.org/wiki/Cognac) (popular in Hong Kong), along with the pricing (over a hundred dollars for some jars, although you can pick it up for a more reasonable price at an Asian supermarket), and packaging (often in a fancy box).",
-    "tags": [
-      "港式",
-      "醬"
-    ],
+    "tags": ["港式", "醬"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -146,11 +112,7 @@
       "English": "rice vinegar",
       "Cantonese": {
         "text": "米醋",
-        "wkty": [
-          "米醋",
-          "米",
-          "醋"
-        ]
+        "wkty": ["米醋", "米", "醋"]
       },
       "Yale": "máih chou",
       "Pinyin": "mǐ cù",
@@ -198,10 +160,7 @@
       }
     ],
     "description": "[Fish sauce](https://en.wikipedia.org/wiki/Fish_sauce) is made from salted fermented fish (usually anchovies) or krill. It originated in China and is used in some East Asian recipes but hugely popular in Southeast Asia.\n\n**Books**\n\nThe [Red Boat Fish Sauce Cookbook](https://redboatfishsauce.com/pages/red-boat-cookbook), features many fish sauce recipes (mostly Vietnamese) and a heartwarming recounting of their family journey and how they built their authentic quality fish sauce business.",
-    "tags": [
-      "魚",
-      "海鮮"
-    ],
+    "tags": ["魚", "海鮮"],
     "resources": [
       {
         "name": "Hot Thai Kitchen",

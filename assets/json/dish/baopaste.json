@@ -1,231 +1,174 @@
 [
-    {
-        "word": {
-            "English": "red bean paste bun",
-            "Cantonese": {
-                "text": "豆沙包",
-                "wkty": [
-                    "豆沙",
-                    "豆",
-                    "沙",
-                    "包"
-                ]
-            },
-            "Yale": "dauh sā bāau",
-            "Pinyin": "dòu shā bāo",
-            "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {包} is *bun*, so 豆沙包 is *bean paste bun*."
-        },
-        "images": [
-            {
-                "image": "steamedredbeanbunyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.",
-        "tags": [
-            "豆沙",
-            "紅色",
-            "包",
-            "蒸",
-            "素",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/homemade-red-bean-buns/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/red-bean-buns-dou-sha-bao/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/red-bean-buns/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/bean-paste-buns"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Red_bean_paste#Chinese"
-            }
-        ]
+  {
+    "word": {
+      "English": "red bean paste bun",
+      "Cantonese": {
+        "text": "豆沙包",
+        "wkty": ["豆沙", "豆", "沙", "包"]
+      },
+      "Yale": "dauh sā bāau",
+      "Pinyin": "dòu shā bāo",
+      "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {包} is *bun*, so 豆沙包 is *bean paste bun*."
     },
-    {
-        "word": {
-            "English": "sesame paste bun",
-            "Cantonese": {
-                "text": "芝麻包",
-                "wkty": [
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "包"
-                ]
-            },
-            "Yale": "jī màh bāau",
-            "Pinyin": "zhī ma bāo",
-            "description": "{芝麻} is *sesame paste*, and {包} is *bun*, so 芝麻包 is *sesame paste bun*."
-        },
-        "images": [
-            {
-                "image": "blacksesamebunkj",
-                "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Fluffy steamed buns filled with black sesame seed paste.",
-        "tags": [
-            "黑芝麻",
-            "芝麻",
-            "包",
-            "蒸",
-            "素",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/black-sesame-buns/"
-            },
-            {
-                "name": "Cooking in Chinglish",
-                "URL": "https://cookinginchinglish.com/hedgehog-black-sesame-bun/"
-            },
-            {
-                "name": "One Happy Bite",
-                "URL": "https://onehappybite.com/black-sesame-steamed-buns/"
-            },
-            {
-                "name": "The Plant-Based Wok",
-                "URL": "https://theplantbasedwok.com/black-sesame-steamed-buns/"
-            },
-            {
-                "name": "Simple Chinese Food",
-                "URL": "https://simplechinesefood.com/recipe/black-sesame-bun"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/sesame-baozi"
-            }
-        ]
+    "images": [
+      {
+        "image": "steamedredbeanbunyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Fluffy steamed buns filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)). The paste can be chunky with fragments of beans or a smooth paste.",
+    "tags": ["豆沙", "紅色", "包", "蒸", "素", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/homemade-red-bean-buns/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/red-bean-buns-dou-sha-bao/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/red-bean-buns/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/bean-paste-buns"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Red_bean_paste#Chinese"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "sesame paste bun",
+      "Cantonese": {
+        "text": "芝麻包",
+        "wkty": ["芝麻", "芝", "麻", "包"]
+      },
+      "Yale": "jī màh bāau",
+      "Pinyin": "zhī ma bāo",
+      "description": "{芝麻} is *sesame paste*, and {包} is *bun*, so 芝麻包 is *sesame paste bun*."
     },
-    {
-        "word": {
-            "English": "lotus seed bun",
-            "Cantonese": {
-                "text": "蓮蓉包",
-                "wkty": [
-                    "蓮蓉包",
-                    "蓮蓉",
-                    "蓮",
-                    "蓉",
-                    "包"
-                ]
-            },
-            "Yale": "lìhn yùhng bāau",
-            "Simplified": {
-                "text": "莲蓉包",
-                "wkty": [
-                    "莲蓉包",
-                    "莲蓉",
-                    "莲",
-                    "蓉",
-                    "包"
-                ]
-            },
-            "Pinyin": "lián róng bāo",
-            "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)), and {包} is *bun*, so 蓮蓉包 is *lotus seed paste bun*."
-        },
-        "images": [
-            {
-                "image": "sweetlotuspastebunimperialgarden",
-                "place": "Imperial Garden, Fresno, California"
-            }
-        ],
-        "description": "Steamed buns filled with lotus seed paste.",
-        "tags": [
-            "點心",
-            "蓮蓉",
-            "包"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Lotus-Seed-Paste-Bun"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/lotus-seed-paste-buns"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
-            }
-        ]
+    "images": [
+      {
+        "image": "blacksesamebunkj",
+        "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Fluffy steamed buns filled with black sesame seed paste.",
+    "tags": ["黑芝麻", "芝麻", "包", "蒸", "素", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/black-sesame-buns/"
+      },
+      {
+        "name": "Cooking in Chinglish",
+        "URL": "https://cookinginchinglish.com/hedgehog-black-sesame-bun/"
+      },
+      {
+        "name": "One Happy Bite",
+        "URL": "https://onehappybite.com/black-sesame-steamed-buns/"
+      },
+      {
+        "name": "The Plant-Based Wok",
+        "URL": "https://theplantbasedwok.com/black-sesame-steamed-buns/"
+      },
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/black-sesame-bun"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/sesame-baozi"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lotus seed bun",
+      "Cantonese": {
+        "text": "蓮蓉包",
+        "wkty": ["蓮蓉包", "蓮蓉", "蓮", "蓉", "包"]
+      },
+      "Yale": "lìhn yùhng bāau",
+      "Simplified": {
+        "text": "莲蓉包",
+        "wkty": ["莲蓉包", "莲蓉", "莲", "蓉", "包"]
+      },
+      "Pinyin": "lián róng bāo",
+      "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)), and {包} is *bun*, so 蓮蓉包 is *lotus seed paste bun*."
     },
-    {
-        "word": {
-            "English": "longevity peach bun",
-            "Cantonese": {
-                "text": "壽桃包",
-                "wkty": [
-                    "壽桃包",
-                    "壽桃",
-                    "壽",
-                    "桃",
-                    "包"
-                ]
-            },
-            "Yale": "sauh tòuh bāau",
-            "Simplified": {
-                "text": "寿桃包",
-                "wkty": [
-                    "寿桃包",
-                    "寿桃",
-                    "寿",
-                    "桃",
-                    "包"
-                ]
-            },
-            "Pinyin": "shòu táo bāo",
-            "description": "{壽桃} is a [longevity peach](https://en.wikipedia.org/wiki/Longevity_peach) ({壽} is *long life* and {桃} is *peach*), and {包} is *bun*."
-        },
-        "images": [
-            {
-                "image": "longevitybaokitchen",
-                "place": "Kitchen, Millbrae, California"
-            }
-        ],
-        "description": "Steamed [bao](https://en.wikipedia.org/wiki/Baozi) made to resemble [peaches of immortality](https://en.wikipedia.org/wiki/Peaches_of_Immortality), filled with lotus seed or red bean paste, traditionally presented to elderly at birthday parties to signify longevity.",
-        "tags": [
-            "桃",
-            "包",
-            "蒸"
-        ],
-        "resources": [
-           
-            {
-                "name": "Every Bunny Eats",
-                "URL": "https://www.everybunnyeats.com/shoutao-lian-rong-bao-longevity-peach-lotus-paste-steamed-buns/"
-            },
-            {
-                "name": "Huang Kitchen",
-                "URL": "https://www.huangkitchen.com/longevity-peach-buns/"
-            },
-            {
-                "name": "Side Chef",
-                "URL": "https://www.sidechef.com/recipes/93934/longevity_peach_buns/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Longevity_peach"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "sweetlotuspastebunimperialgarden",
+        "place": "Imperial Garden, Fresno, California"
+      }
+    ],
+    "description": "Steamed buns filled with lotus seed paste.",
+    "tags": ["點心", "蓮蓉", "包"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Lotus-Seed-Paste-Bun"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/baozi-and-mantou/sweet-buns/lotus-seed-paste-buns"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Lotus_seed_bun"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "longevity peach bun",
+      "Cantonese": {
+        "text": "壽桃包",
+        "wkty": ["壽桃包", "壽桃", "壽", "桃", "包"]
+      },
+      "Yale": "sauh tòuh bāau",
+      "Simplified": {
+        "text": "寿桃包",
+        "wkty": ["寿桃包", "寿桃", "寿", "桃", "包"]
+      },
+      "Pinyin": "shòu táo bāo",
+      "description": "{壽桃} is a [longevity peach](https://en.wikipedia.org/wiki/Longevity_peach) ({壽} is *long life* and {桃} is *peach*), and {包} is *bun*."
+    },
+    "images": [
+      {
+        "image": "longevitybaokitchen",
+        "place": "Kitchen, Millbrae, California"
+      }
+    ],
+    "description": "Steamed [bao](https://en.wikipedia.org/wiki/Baozi) made to resemble [peaches of immortality](https://en.wikipedia.org/wiki/Peaches_of_Immortality), filled with lotus seed or red bean paste, traditionally presented to elderly at birthday parties to signify longevity.",
+    "tags": ["桃", "包", "蒸"],
+    "resources": [
+      {
+        "name": "Every Bunny Eats",
+        "URL": "https://www.everybunnyeats.com/shoutao-lian-rong-bao-longevity-peach-lotus-paste-steamed-buns/"
+      },
+      {
+        "name": "Huang Kitchen",
+        "URL": "https://www.huangkitchen.com/longevity-peach-buns/"
+      },
+      {
+        "name": "Side Chef",
+        "URL": "https://www.sidechef.com/recipes/93934/longevity_peach_buns/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Longevity_peach"
+      }
+    ]
+  }
 ]

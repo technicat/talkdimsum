@@ -1,590 +1,435 @@
 [
-    {
-        "word": {
-            "English": "congee",
-            "Cantonese": "粥",
-            "Yale": "jūk",
-            "Pinyin": "zhōu"
-        },
-        "images": [
-            {
-                "image": "congeepraisehouse"
-            }
-        ],
-        "description": "Rice porridge, also known as [congee](http://en.wikipedia.org/wiki/Congee) (originating from the Tamil word for rice porridge, *kanji*) or *jook* (the Cantonese pronunciation), is prepared by boiling rice in water for a long time, until the rice is thick and soft.\n\nA staple of Chinese breakfasts (and popular throughout Asia) it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\n**Personal Taste**\n\nI like to mix half jasmine and half glutinous rice (a tip I found on the web but I don't remember where) for a nice thick texture, and put in fermented tofu, [pork sung](https://en.wikipedia.org/wiki/Rousong), [soy eggs](https://en.wikipedia.org/wiki/Soy_egg) or just boiled eggs, and maybe throw in some peanuts.\n\n**Books*\n\nIn The Wisdom of the Chinese Kitchen, Grace Young explains that congee is one of the harmonizing soups, and in [Chinese Soul Food](https://mychinesesoulfood.com/vegetarian-chinese-soul-food/) by [Hsiao-Ching Chou](https://mychinesesoulfood.com/about/) describes how you can make congee from the leftover rice stuck at the bottom of your pot.\n\n[Fuschia Dunlop](http://www.fuchsiadunlop.com/) in Every Grain of Rice relates that {煲電話粥} (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally [cooking telephone congee](https://zolimacitymag.com/cooking-telephone-congee/), is slang for a long telephone conversation. {煲} is *to cook*, {電話} is *telephone*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee).",
-        "tags": [
-            "早餐",
-            "粥",
-            "豬",
-            "素",
-            "熱",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/how-to-make-congee-rice-porridge/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/chinese-porridge/"
-            },
-            {
-                "name": "Dimsumptuous",
-                "URL": "http://www.dimsumptuous.com/2013/05/hk-congee.html"
-            },
-            {
-                "name": "Food Touring",
-                "URL": "https://food-touring.com/2014/02/24/southern-china-jook/"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2013/04/chinese-congee.html"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/congee/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/congee/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Congee"
-            },
-            {
-                "name": "Year of Congee",
-                "URL": "https://yearofcongee.blogspot.com/2014/01/how-to-reheat-your-congee.html"
-            },
-            {
-                "name": "ZolimaCity",
-                "URL": "https://zolimacitymag.com/cooking-telephone-congee/"
-            }
-        ]
+  {
+    "word": {
+      "English": "congee",
+      "Cantonese": "粥",
+      "Yale": "jūk",
+      "Pinyin": "zhōu"
     },
-    {
-        "word": {
-            "English": "plain congee",
-            "Cantonese": {
-                "text": "白粥",
-                "wkty": [
-                    "白粥",
-                    "白",
-                    "粥"
-                ]
-            },
-            "Yale": "baahk jūk",
-            "Pinyin": "bái zhōu",
-            "description": "{白} is *white* or *plain* (both meanings work in this case), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so {白粥} is *plain congee*."
-        },
-        "images": [
-            {
-                "image": "plainjook"
-            }
-        ],
-        "description": "Plain [congee](http://en.wikipedia.org/wiki/Congee), with nothing mixed in.",
-        "tags": [
-            "早餐",
-            "茶餐廳",
-            "粥",
-            "豬",
-            "素",
-            "熱"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Plain-Congee"
-            }
-        ]
+    "images": [
+      {
+        "image": "congeepraisehouse"
+      }
+    ],
+    "description": "Rice porridge, also known as [congee](http://en.wikipedia.org/wiki/Congee) (originating from the Tamil word for rice porridge, *kanji*) or *jook* (the Cantonese pronunciation), is prepared by boiling rice in water for a long time, until the rice is thick and soft.\n\nA staple of Chinese breakfasts (and popular throughout Asia) it can be served plain or include ingredients such as beef, fish, or pork and preserved egg.\n\n**Personal Taste**\n\nI like to mix half jasmine and half glutinous rice (a tip I found on the web but I don't remember where) for a nice thick texture, and put in fermented tofu, [pork sung](https://en.wikipedia.org/wiki/Rousong), [soy eggs](https://en.wikipedia.org/wiki/Soy_egg) or just boiled eggs, and maybe throw in some peanuts.\n\n**Books*\n\nIn The Wisdom of the Chinese Kitchen, Grace Young explains that congee is one of the harmonizing soups, and in [Chinese Soul Food](https://mychinesesoulfood.com/vegetarian-chinese-soul-food/) by [Hsiao-Ching Chou](https://mychinesesoulfood.com/about/) describes how you can make congee from the leftover rice stuck at the bottom of your pot.\n\n[Fuschia Dunlop](http://www.fuchsiadunlop.com/) in Every Grain of Rice relates that {煲電話粥} (bōu dihn wá jūk in Cantonese, bāo diàn huà zhōu in Mandarin), literally [cooking telephone congee](https://zolimacitymag.com/cooking-telephone-congee/), is slang for a long telephone conversation. {煲} is *to cook*, {電話} is *telephone*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee).",
+    "tags": ["早餐", "粥", "豬", "素", "熱", "茶餐廳"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/how-to-make-congee-rice-porridge/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/chinese-porridge/"
+      },
+      {
+        "name": "Dimsumptuous",
+        "URL": "http://www.dimsumptuous.com/2013/05/hk-congee.html"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/02/24/southern-china-jook/"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2013/04/chinese-congee.html"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/congee/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/congee/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Congee"
+      },
+      {
+        "name": "Year of Congee",
+        "URL": "https://yearofcongee.blogspot.com/2014/01/how-to-reheat-your-congee.html"
+      },
+      {
+        "name": "ZolimaCity",
+        "URL": "https://zolimacitymag.com/cooking-telephone-congee/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "plain congee",
+      "Cantonese": {
+        "text": "白粥",
+        "wkty": ["白粥", "白", "粥"]
+      },
+      "Yale": "baahk jūk",
+      "Pinyin": "bái zhōu",
+      "description": "{白} is *white* or *plain* (both meanings work in this case), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so {白粥} is *plain congee*."
     },
-    {
-        "word": {
-            "English": "congee w/ dried scallops",
-            "Cantonese": {
-                "text": "瑤柱白粥",
-                "wkty": [
-                    "瑤柱",
-                    "瑤",
-                    "柱",
-                    "白粥",
-                    "白",
-                    "粥"
-                ]
-            },
-            "Simplified": {
-                "text": "瑶柱白粥",
-                "wkty": [
-                    "瑶柱",
-                    "瑶",
-                    "柱",
-                    "白粥",
-                    "白",
-                    "粥"
-                ]
-            },
-            "Yale": "yìuh chyúh baahk jūk",
-            "Pinyin": "yáo zhù bái zhōu",
-            "description": "{瑤柱} is *dried scallops*, {白粥} is *plain congee*, ({白} is *white* or *plain*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)), so 瑤柱白粥 is “dried scallops plain congee.”"
-        },
-        "images": [
-            {
-                "image": "dryscallopscongeeyummyrice",
-                "place": "Yummy Rice, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with dried scallops.",
-        "tags": [
-            "早餐",
-            "茶餐廳",
-            "粥",
-            "豬",
-            "素",
-            "熱"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Plain-Congee"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "https://www.thehongkongcookery.com/2024/01/basic-congee-with-dried-scallop-and.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "plainjook"
+      }
+    ],
+    "description": "Plain [congee](http://en.wikipedia.org/wiki/Congee), with nothing mixed in.",
+    "tags": ["早餐", "茶餐廳", "粥", "豬", "素", "熱"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Plain-Congee"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "congee w/ dried scallops",
+      "Cantonese": {
+        "text": "瑤柱白粥",
+        "wkty": ["瑤柱", "瑤", "柱", "白粥", "白", "粥"]
+      },
+      "Simplified": {
+        "text": "瑶柱白粥",
+        "wkty": ["瑶柱", "瑶", "柱", "白粥", "白", "粥"]
+      },
+      "Yale": "yìuh chyúh baahk jūk",
+      "Pinyin": "yáo zhù bái zhōu",
+      "description": "{瑤柱} is *dried scallops*, {白粥} is *plain congee*, ({白} is *white* or *plain*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)), so 瑤柱白粥 is “dried scallops plain congee.”"
     },
-    {
-        "word": {
-            "English": "pork w/ preserved egg congee",
-            "Cantonese": {
-                "text": "皮蛋瘦肉粥",
-                "wkty": [
-                    "皮蛋",
-                    "皮",
-                    "蛋",
-                    "瘦肉",
-                    "瘦",
-                    "肉",
-                    "粥"
-                ]
-            },
-            "Yale": "pèih daahn sau yuhk jūk",
-            "Pinyin": "pí dàn shòu ròu zhōu",
-            "description": "{皮蛋} is *preserved egg*, {瘦肉} is *pork* ({瘦} is *pig*, and {肉} is *meat), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
-        },
-        "images": [
-            {
-                "image": "preservedeggporkjooknewasianbbq",
-                "place": "New Asian BBQ, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with salty pork and [preserved egg](https://en.wikipedia.org/wiki/Century_egg), which are eggs that jelly while encased in clay mixture for weeks to months (also known with some exaggeration as *centry egg*, *hundred-year egg*, *thousand-year egg*, *thousand-year-old egg*, or *millennium egg*). This is a standard congee offered during dim sum.",
-        "tags": [
-            "早餐",
-            "粥",
-            "豬",
-            "皮蛋",
-            "蛋",
-            "茶餐廳",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/57176.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-congee-with-pork-and-century-egg/"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/chinese-porridge-jook-with-pork-and-century-egg/"
-            },
-            {
-                "name": "Cooking in Chinglish",
-                "URL": "https://cookinginchinglish.com/century-egg-congee/"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Preserved-Egg-and-Pork-Congee"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/century-egg-and-pork-congee"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/congee-with-pork-and-century-egg/"
-            },
-            {
-                "name": "Panda Cheffy",
-                "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-preserved-egg-and-lean-pork-rice-porridge-9c8d7e620430"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/congee/pork-and-century-egg-congee"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/pork-congee.html"
-            },
-            {
-                "name": "Wok & Kin",
-                "URL": "https://www.wokandkin.com/century-egg-and-pork-congee/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2016/10/20-minute-congee-recipe/"
-            }
-        ]
+    "images": [
+      {
+        "image": "dryscallopscongeeyummyrice",
+        "place": "Yummy Rice, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with dried scallops.",
+    "tags": ["早餐", "茶餐廳", "粥", "豬", "素", "熱"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Plain-Congee"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "https://www.thehongkongcookery.com/2024/01/basic-congee-with-dried-scallop-and.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "pork w/ preserved egg congee",
+      "Cantonese": {
+        "text": "皮蛋瘦肉粥",
+        "wkty": ["皮蛋", "皮", "蛋", "瘦肉", "瘦", "肉", "粥"]
+      },
+      "Yale": "pèih daahn sau yuhk jūk",
+      "Pinyin": "pí dàn shòu ròu zhōu",
+      "description": "{皮蛋} is *preserved egg*, {瘦肉} is *pork* ({瘦} is *pig*, and {肉} is *meat), and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
     },
-    {
-        "word": {
-            "English": "fish congee",
-            "Cantonese": "魚片粥",
-            "Yale": "yú pín jūk",
-            "Simplified": "鱼片粥",
-            "Pinyin": "yú piàn zhōu",
-            "description": "{魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
-        },
-        "images": [
-            {
-                "image": "fishporridgegoldenhorse",
-                "place": "Golden Horse Seafood, Portland, Oregon"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with slices of fish fillet. This is a standard rice porridge served for breakfast and dim sum.",
-        "tags": [
-            "早餐",
-            "粥",
-            "魚",
-            "魚片",
-            "海鮮",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Asian Cooking Mom",
-                "URL": "https://www.asiancookingmom.com/fish-fillet-congee-using-instant-pot-%E7%94%B5%E5%8E%8B%E9%94%85%E7%89%88%E7%94%9F%E6%BB%9A%E9%B1%BC%E7%89%87%E7%B2%A5-sheng-gun-yu-pian-zhou/"
-            },
-            {
-                "name": "Asian Inspirations",
-                "URL": "https://asianinspirations.com.au/recipes/fish-congee/"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "https://www.thehongkongcookery.com/2024/01/fish-congee.html"
-            },
-            {
-                "name": "Salu Salo",
-                "URL": "https://salu-salo.com/fish-congee/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/congee/fish-congee"
-            },
-            {
-                "name": "Wok and Kin",
-                "URL": "https://www.wokandkin.com/fish-congee/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/fish-congee/"
-            }
-        ]
+    "images": [
+      {
+        "image": "preservedeggporkjooknewasianbbq",
+        "place": "New Asian BBQ, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with salty pork and [preserved egg](https://en.wikipedia.org/wiki/Century_egg), which are eggs that jelly while encased in clay mixture for weeks to months (also known with some exaggeration as *centry egg*, *hundred-year egg*, *thousand-year egg*, *thousand-year-old egg*, or *millennium egg*). This is a standard congee offered during dim sum.",
+    "tags": ["早餐", "粥", "豬", "皮蛋", "蛋", "茶餐廳", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/57176.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-congee-with-pork-and-century-egg/"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/chinese-porridge-jook-with-pork-and-century-egg/"
+      },
+      {
+        "name": "Cooking in Chinglish",
+        "URL": "https://cookinginchinglish.com/century-egg-congee/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Preserved-Egg-and-Pork-Congee"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/century-egg-and-pork-congee"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/congee-with-pork-and-century-egg/"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-preserved-egg-and-lean-pork-rice-porridge-9c8d7e620430"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/congee/pork-and-century-egg-congee"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/pork-congee.html"
+      },
+      {
+        "name": "Wok & Kin",
+        "URL": "https://www.wokandkin.com/century-egg-and-pork-congee/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2016/10/20-minute-congee-recipe/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fish congee",
+      "Cantonese": "魚片粥",
+      "Yale": "yú pín jūk",
+      "Simplified": "鱼片粥",
+      "Pinyin": "yú piàn zhōu",
+      "description": "{魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
     },
-    {
-        "word": {
-            "English": "fish ball congee",
-            "Cantonese": {
-                "text": "生菜鯪魚球粥",
-                "wkty": [
-                    "生菜",
-                    "生",
-                    "菜",
-                    "鯪魚球",
-                    "鯪魚",
-                    "鯪",
-                    "魚",
-                    "球",
-                    "粥"
-                ]
-            },
-            "Yale": "sāang choi lèhng yùh kàuh jūk",
-            "Jyutping": "saang1 coi3 lehng4 yu4 kau4 jūk",
-            "Simplified": {
-                "text": "生菜鲮鱼球粥",
-                "wkty": [
-                    "生菜",
-                    "生",
-                    "菜",
-                    "鯪鱼球",
-                    "鯪鱼",
-                    "鯪",
-                    "魚",
-                    "球",
-                    "粥"
-                ]
-            },
-            "Pinyin": "shēng cài líng yú qiú zhōu",
-            "description": "{生菜} is *lettuce*, {鯪魚} is Chinese mud carp, also known as *dace*, {球} is *ball*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
-        },
-        "images": [
-            {
-                "image": "fishballcongeeskseafood",
-                "place": "SK Seafood, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with fish balls and lettuce.",
-        "tags": [
-            "粥",
-            "魚",
-            "魚蛋",
-            "海鮮",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cirrhinus_molitorella"
-            }
-        ]
+    "images": [
+      {
+        "image": "fishporridgegoldenhorse",
+        "place": "Golden Horse Seafood, Portland, Oregon"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with slices of fish fillet. This is a standard rice porridge served for breakfast and dim sum.",
+    "tags": ["早餐", "粥", "魚", "魚片", "海鮮", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Asian Cooking Mom",
+        "URL": "https://www.asiancookingmom.com/fish-fillet-congee-using-instant-pot-%E7%94%B5%E5%8E%8B%E9%94%85%E7%89%88%E7%94%9F%E6%BB%9A%E9%B1%BC%E7%89%87%E7%B2%A5-sheng-gun-yu-pian-zhou/"
+      },
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/fish-congee/"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "https://www.thehongkongcookery.com/2024/01/fish-congee.html"
+      },
+      {
+        "name": "Salu Salo",
+        "URL": "https://salu-salo.com/fish-congee/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/congee/fish-congee"
+      },
+      {
+        "name": "Wok and Kin",
+        "URL": "https://www.wokandkin.com/fish-congee/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/fish-congee/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fish ball congee",
+      "Cantonese": {
+        "text": "生菜鯪魚球粥",
+        "wkty": ["生菜", "生", "菜", "鯪魚球", "鯪魚", "鯪", "魚", "球", "粥"]
+      },
+      "Yale": "sāang choi lèhng yùh kàuh jūk",
+      "Jyutping": "saang1 coi3 lehng4 yu4 kau4 jūk",
+      "Simplified": {
+        "text": "生菜鲮鱼球粥",
+        "wkty": ["生菜", "生", "菜", "鯪鱼球", "鯪鱼", "鯪", "魚", "球", "粥"]
+      },
+      "Pinyin": "shēng cài líng yú qiú zhōu",
+      "description": "{生菜} is *lettuce*, {鯪魚} is Chinese mud carp, also known as *dace*, {球} is *ball*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee)."
     },
-    {
-        "word": {
-            "English": "seafood congee",
-            "Cantonese": {
-                "text": "海鮮粥",
-                "wkty": [
-                    "海鮮",
-                    "海",
-                    "鮮",
-                    "粥"
-                ]
-            },
-            "Yale": "hói sīn jūk",
-            "Simplified": {
-                "text": "海鲜粥",
-                "wkty": [
-                    "海鲜",
-                    "海",
-                    "鲜",
-                    "粥"
-                ]
-            },
-            "Pinyin": "hǎi xiān zhōu",
-            "description": "{海鮮} is *seafood* ({海} is *ocean* and {鮮} is *fresh*, so *seafood* is *ocean fresh*). {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 海鲜粥 is *seafood porridge*."
-        },
-        "images": [
-            {
-                "image": "seafoodcongeeislandmalaysian",
-                "place": "Island Malaysian, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with a variety of seafood.",
-        "tags": [
-            "海鮮",
-            "粥",
-            "魚",
-            "海鮮"
-        ],
-        "resources": [
-            {
-                "name": "Omnivore's Cookbook",
-                "URL": "https://omnivorescookbook.com/recipes/seafood-congee"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/congee/seafood-congee"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Congee"
-            },
-            {
-                "name": "Woks of Life",
-                "URL": "https://thewoksoflife.com/2017/11/seafood-congee/"
-            }
-        ]
+    "images": [
+      {
+        "image": "fishballcongeeskseafood",
+        "place": "SK Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with fish balls and lettuce.",
+    "tags": ["粥", "魚", "魚蛋", "海鮮", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cirrhinus_molitorella"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "seafood congee",
+      "Cantonese": {
+        "text": "海鮮粥",
+        "wkty": ["海鮮", "海", "鮮", "粥"]
+      },
+      "Yale": "hói sīn jūk",
+      "Simplified": {
+        "text": "海鲜粥",
+        "wkty": ["海鲜", "海", "鲜", "粥"]
+      },
+      "Pinyin": "hǎi xiān zhōu",
+      "description": "{海鮮} is *seafood* ({海} is *ocean* and {鮮} is *fresh*, so *seafood* is *ocean fresh*). {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 海鲜粥 is *seafood porridge*."
     },
-    {
-        "word": {
-            "English": "shredded roast duck congee",
-            "Cantonese": "鴨絲粥",
-            "Yale": "ngaap si jūk",
-            "Simplified": "鸭丝粥",
-            "Pinyin": "yā sī zhōu",
-            "description": "{鴨} is *duck*, and {絲} is *wire* or *thread*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 鴨絲粥 is *duck thread congee*."
-        },
-        "images": [
-            {
-                "image": "shreddedroastduckjookbroadwaybistro",
-                "place": "Broadway Bistro, Millbrae, California"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with shreds of roast duck.",
-        "tags": [
-            "粥",
-            "鴨",
-            "鴨絲",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/congee/duck-congee"
-            }
-        ]
+    "images": [
+      {
+        "image": "seafoodcongeeislandmalaysian",
+        "place": "Island Malaysian, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with a variety of seafood.",
+    "tags": ["海鮮", "粥", "魚", "海鮮"],
+    "resources": [
+      {
+        "name": "Omnivore's Cookbook",
+        "URL": "https://omnivorescookbook.com/recipes/seafood-congee"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/congee/seafood-congee"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Congee"
+      },
+      {
+        "name": "Woks of Life",
+        "URL": "https://thewoksoflife.com/2017/11/seafood-congee/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "shredded roast duck congee",
+      "Cantonese": "鴨絲粥",
+      "Yale": "ngaap si jūk",
+      "Simplified": "鸭丝粥",
+      "Pinyin": "yā sī zhōu",
+      "description": "{鴨} is *duck*, and {絲} is *wire* or *thread*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 鴨絲粥 is *duck thread congee*."
     },
-    {
-        "word": {
-            "English": "chicken congee",
-            "Cantonese": {
-                "text": "雞肉粥",
-                "wkty": [
-                    "雞肉",
-                    "雞",
-                    "肉",
-                    "粥"
-                ]
-            },
-            "Yale": "gāi yuhk jūk",
-            "Simplified": {
-                "text": "鸡肉粥",
-                "wkty": [
-                    "鸡肉",
-                    "鸡",
-                    "肉",
-                    "粥"
-                ]
-            },
-            "Pinyin": "jī ròu zhōu",
-            "description": "{雞} is *chicken*, {肉} is *meat*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 雞肉粥 is *chicken meat congee*."
-        },
-        "images": [
-            {
-                "image": "mushroomchickencongeeyummybo2",
-                "place": "Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with chicken.",
-        "tags": [
-            "粥",
-            "雞",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-chicken-congee/"
-            },
-            {
-                "name": "Made With Lau",
-                "URL": "https://madewithlau.com/recipes/chicken-congee"
-            }
-        ]
+    "images": [
+      {
+        "image": "shreddedroastduckjookbroadwaybistro",
+        "place": "Broadway Bistro, Millbrae, California"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with shreds of roast duck.",
+    "tags": ["粥", "鴨", "鴨絲", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/congee/duck-congee"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "chicken congee",
+      "Cantonese": {
+        "text": "雞肉粥",
+        "wkty": ["雞肉", "雞", "肉", "粥"]
+      },
+      "Yale": "gāi yuhk jūk",
+      "Simplified": {
+        "text": "鸡肉粥",
+        "wkty": ["鸡肉", "鸡", "肉", "粥"]
+      },
+      "Pinyin": "jī ròu zhōu",
+      "description": "{雞} is *chicken*, {肉} is *meat*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 雞肉粥 is *chicken meat congee*."
     },
-    {
-        "word": {
-            "English": "Sha Tin chicken congee",
-            "Cantonese": {
-                "text": "沙田雞粥",
-                "wkty": [
-                    "沙田",
-                    "沙",
-                    "田",
-                    "雞",
-                    "粥"
-                ]
-            },
-            "Yale": "sā tìhn gāi jūk",
-            "Simplified": {
-                "text": "沙田鸡粥",
-                "wkty": [
-                    "沙田",
-                    "沙",
-                    "田",
-                    "鸡",
-                    "粥"
-                ]
-            },
-            "Pinyin": "shā tián jī zhōu",
-            "description": "{沙田} is [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), {雞} is *chicken*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 沙田雞粥 is *Sha Tin chicken congee*.\n\n**Related Words**\n\n{沙田} is literally *sandy field*, where {沙} is *sandy*, and {田} is *field*."
-        },
-        "images": [
-            {
-                "image": "shatincongeeskseafood",
-                "place": "SK Seafood, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with pieces of chicken, originating from [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), a town in Hong Kong's eastern New Territories (and site of Hong Kong's [first powered airplane flight](https://en.wikipedia.org/wiki/Aviation_history_of_Hong_Kong)).",
-        "tags": [
-            "粥"
-        ],
-        "resources": [
-            {
-                "name": "Annielicious",
-                "URL": "https://annieliciousfood.blogspot.com/2014/01/famous-shatin-chicken-congee-aff-hk.html"
-            },
-            {
-                "name": "Vice",
-                "URL": "https://www.vice.com/en/article/n7bd5w/shatin-chicken-congee-recipe"
-            }
-        ]
+    "images": [
+      {
+        "image": "mushroomchickencongeeyummybo2",
+        "place": "Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with chicken.",
+    "tags": ["粥", "雞", "茶餐廳"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-chicken-congee/"
+      },
+      {
+        "name": "Made With Lau",
+        "URL": "https://madewithlau.com/recipes/chicken-congee"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Sha Tin chicken congee",
+      "Cantonese": {
+        "text": "沙田雞粥",
+        "wkty": ["沙田", "沙", "田", "雞", "粥"]
+      },
+      "Yale": "sā tìhn gāi jūk",
+      "Simplified": {
+        "text": "沙田鸡粥",
+        "wkty": ["沙田", "沙", "田", "鸡", "粥"]
+      },
+      "Pinyin": "shā tián jī zhōu",
+      "description": "{沙田} is [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), {雞} is *chicken*, and {粥} is [congee](http://en.wikipedia.org/wiki/Congee), so 沙田雞粥 is *Sha Tin chicken congee*.\n\n**Related Words**\n\n{沙田} is literally *sandy field*, where {沙} is *sandy*, and {田} is *field*."
     },
-    {
-        "word": {
-            "English": "abalone w/ shredded chicken congee",
-            "Cantonese": {
-                "text": "鮑魚雞絲粥",
-                "wkty": [
-                    "鮑魚",
-                    "鮑",
-                    "魚",
-                    "雞",
-                    "絲",
-                    "粥"
-                ]
-            },
-            "Yale": "bāau yùh gāi sī jūk",
-            "Simplified": {
-                "text": "鲍鱼鸡丝粥",
-                "wkty": [
-                    "鲍鱼",
-                    "鲍",
-                    "鱼",
-                    "丝",
-                    "丝",
-                    "粥"
-                ]
-            },
-            "Pinyin": "bào yú jī sī zhōu",
-            "description": "{鮑魚} is [abalone](https://en.wikipedia.org/wiki/Abalone), {雞} is *chicken, and {絲} is *threads*, so 雞絲 is *chicken threads*, and [congee](http://en.wikipedia.org/wiki/Congee), so 鮑魚雞絲粥 is *abalone chicken thread congee*."
-        },
-        "images": [
-            {
-                "image": "abaloneshreddedchickencongeehkgarden",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with abalone and shredded chicken.",
-        "tags": [
-            "雞絲",
-            "鮑魚",
-            "雞",
-            "粥"
-        ],
-        "resources": [
-            {
-                "name": "Edibly Asian",
-                "URL": "https://sites.google.com/site/ediblyasianprint/shredded-chicken-and-small-abalone-congee"
-            },
-            {
-                "name": "Yumbah",
-                "URL": "https://yumbah.com/recipe/chicken-abalone-congee"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "shatincongeeskseafood",
+        "place": "SK Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with pieces of chicken, originating from [Sha Tin](https://en.wikipedia.org/wiki/Sha_Tin), a town in Hong Kong's eastern New Territories (and site of Hong Kong's [first powered airplane flight](https://en.wikipedia.org/wiki/Aviation_history_of_Hong_Kong)).",
+    "tags": ["粥"],
+    "resources": [
+      {
+        "name": "Annielicious",
+        "URL": "https://annieliciousfood.blogspot.com/2014/01/famous-shatin-chicken-congee-aff-hk.html"
+      },
+      {
+        "name": "Vice",
+        "URL": "https://www.vice.com/en/article/n7bd5w/shatin-chicken-congee-recipe"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "abalone w/ shredded chicken congee",
+      "Cantonese": {
+        "text": "鮑魚雞絲粥",
+        "wkty": ["鮑魚", "鮑", "魚", "雞", "絲", "粥"]
+      },
+      "Yale": "bāau yùh gāi sī jūk",
+      "Simplified": {
+        "text": "鲍鱼鸡丝粥",
+        "wkty": ["鲍鱼", "鲍", "鱼", "丝", "丝", "粥"]
+      },
+      "Pinyin": "bào yú jī sī zhōu",
+      "description": "{鮑魚} is [abalone](https://en.wikipedia.org/wiki/Abalone), {雞} is *chicken, and {絲} is *threads*, so 雞絲 is *chicken threads*, and [congee](http://en.wikipedia.org/wiki/Congee), so 鮑魚雞絲粥 is *abalone chicken thread congee*."
+    },
+    "images": [
+      {
+        "image": "abaloneshreddedchickencongeehkgarden",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Congee](http://en.wikipedia.org/wiki/Congee) with abalone and shredded chicken.",
+    "tags": ["雞絲", "鮑魚", "雞", "粥"],
+    "resources": [
+      {
+        "name": "Edibly Asian",
+        "URL": "https://sites.google.com/site/ediblyasianprint/shredded-chicken-and-small-abalone-congee"
+      },
+      {
+        "name": "Yumbah",
+        "URL": "https://yumbah.com/recipe/chicken-abalone-congee"
+      }
+    ]
+  }
 ]
