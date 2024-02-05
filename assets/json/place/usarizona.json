@@ -1,134 +1,121 @@
 {
-    "name": "Arizona",
-    "places": [
+  "name": "Arizona",
+  "places": [
+    {
+      "name": "Dim Sum Cafe",
+      "links": [
         {
-            "name": "Dim Sum Cafe",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.dimsumcafemesa.com/"
-                }
-            ],
-            "lat": 33.365240,
-            "lon": -111.857960,
-            "city": "Mesa",
-            "address": "2711 S Alma School Rd, Ste 2, Mesa, AZ 85210"
-        },
-        {
-            "name": "Mekong Palace",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.mekongpalace.com/"
-                }
-            ],
-            "lat": 33.413520,
-            "lon": -111.875660,
-            "city": "Mesa",
-            "address": "66 S Dobson Rd, Ste 120, Mesa, AZ 85202"
-        },
-        {
-            "name": "Phoenix Palace",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.phoenixpalacechandleraz.com/"
-                }
-            ],
-            "lat": 33.345940,
-            "lon": -111.876460,
-            "city": "Chandler",
-            "address": "2075 N Dobson Rd, Chandler, AZ 85224"
-        },
-        {
-            "name": "Great Wall Cuisine",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://greatwallcuisineaz.com/"
-                }
-            ],
-            "lat": 33.510450,
-            "lon": -112.132910,
-            "city": "Phoenix",
-            "address": "3446 W Camelback Rd, Ste 155, Phoenix, AZ 85017"
-        },
-        {
-            "name": "Chef J Dim Sum & Chinese Bistro",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.chefjscottsdale.com/"
-                },
-                {
-                    "name": "Scottsdale Restaurants",
-                    "URL": "https://scottsdalerestaurants.com/js-handmade-dim-sum/"
-                }
-            ],
-            "lat": 33.57004757927789, 
-            "lon": -111.8862580191006,
-            "city": "Scottsdale",
-            "address": "9030 E Via Linda Ste 100 Scottsdale, AZ 85258"
-        },
-        {
-            "name": "China Phoenix",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.chinaphoenixrest.com/"
-                }
-            ],
-            "lat": 32.33549985344388,
-            "lon": -110.97542871569527,
-            "city": "Tucson",
-            "address": "7090 N Oracle Rd Ste 172 Tucson, AZ 85704"
-        },
-        {
-            "name": "Go Dim Sum",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.godimsum.com/"
-                },
-                {
-                    "name": "This is Tuscon",
-                    "URL": "https://thisistucson.com/eat/a-new-dim-sum-spot-just-opened-in-tucsons-midtown/article_06be57f0-1a6c-11ed-934a-0f917740a85c.html"
-                },
-                {
-                    "name": "Tuscon Foodie",
-                    "URL": "https://tucsonfoodie.com/2022/10/18/dim-sum-guide/"
-                }
-            ],
-            "lat": 32.25037397503899,
-            "lon":  -110.91806704453334,
-            "city": "Tucson",
-            "address": "3504 E Grant Road, Tucson, AZ 85716"
-        },
-        {
-            "name": "Lucky Panda",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/lucky-panda-dim-sum-and-chinese-tucson"
-                }
-            ],
-            "lat": 32.27995347047456,
-            "lon": -110.95981053242755,
-            "city": "Tucson",
-            "address": "4016 N 1st Ave Unit 100 Tucson, AZ 85719"
-        },
-        {
-            "name": "Sushi Lounge",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/sushi-lounge-tucson"
-                }
-            ],
-            "lat": 32.164900,
-            "lon": -110.968470,
-            "city": "Tucson",
-            "address": "4802 S 6th Ave, Tucson, AZ 85714"
+          "name": "site",
+          "URL": "https://www.dimsumcafemesa.com/"
         }
-    ]
+      ],
+      "lat": 33.36524,
+      "lon": -111.85796,
+      "city": "Mesa",
+      "address": "2711 S Alma School Rd, Ste 2, Mesa, AZ 85210"
+    },
+    {
+      "name": "Mekong Palace",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.mekongpalace.com/"
+        }
+      ],
+      "lat": 33.41352,
+      "lon": -111.87566,
+      "city": "Mesa",
+      "address": "66 S Dobson Rd, Ste 120, Mesa, AZ 85202"
+    },
+    {
+      "name": "Phoenix Palace",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.phoenixpalacechandleraz.com/"
+        }
+      ],
+      "lat": 33.34594,
+      "lon": -111.87646,
+      "city": "Chandler",
+      "address": "2075 N Dobson Rd, Chandler, AZ 85224"
+    },
+    {
+      "name": "Great Wall Cuisine",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://greatwallcuisineaz.com/"
+        }
+      ],
+      "lat": 33.51045,
+      "lon": -112.13291,
+      "city": "Phoenix",
+      "address": "3446 W Camelback Rd, Ste 155, Phoenix, AZ 85017"
+    },
+    {
+      "name": "Chef J Dim Sum & Chinese Bistro",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.chefjscottsdale.com/"
+        },
+        {
+          "name": "Scottsdale Restaurants",
+          "URL": "https://scottsdalerestaurants.com/js-handmade-dim-sum/"
+        }
+      ],
+      "lat": 33.57004757927789,
+      "lon": -111.8862580191006,
+      "city": "Scottsdale",
+      "address": "9030 E Via Linda Ste 100 Scottsdale, AZ 85258"
+    },
+    {
+      "name": "Go Dim Sum",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.godimsum.com/"
+        },
+        {
+          "name": "This is Tuscon",
+          "URL": "https://thisistucson.com/eat/a-new-dim-sum-spot-just-opened-in-tucsons-midtown/article_06be57f0-1a6c-11ed-934a-0f917740a85c.html"
+        },
+        {
+          "name": "Tuscon Foodie",
+          "URL": "https://tucsonfoodie.com/2022/10/18/dim-sum-guide/"
+        }
+      ],
+      "lat": 32.25037397503899,
+      "lon": -110.91806704453334,
+      "city": "Tucson",
+      "address": "3504 E Grant Road, Tucson, AZ 85716"
+    },
+    {
+      "name": "Lucky Panda",
+      "links": [
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/lucky-panda-dim-sum-and-chinese-tucson"
+        }
+      ],
+      "lat": 32.27995347047456,
+      "lon": -110.95981053242755,
+      "city": "Tucson",
+      "address": "4016 N 1st Ave Unit 100 Tucson, AZ 85719"
+    },
+    {
+      "name": "Sushi Lounge",
+      "links": [
+        {
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/sushi-lounge-tucson"
+        }
+      ],
+      "lat": 32.1649,
+      "lon": -110.96847,
+      "city": "Tucson",
+      "address": "4802 S 6th Ave, Tucson, AZ 85714"
+    }
+  ]
 }
