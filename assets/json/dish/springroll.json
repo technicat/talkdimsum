@@ -1,173 +1,136 @@
 [
-    {
-        "word": {
-            "English": "spring roll",
-            "Cantonese": {
-                "text": "春卷",
-                "wkty": [
-                    "春卷",
-                    "春",
-                    "卷"
-                ]
-            },
-            "Yale": "chēun gyún",
-            "Pinyin": "chūn juǎn",
-            "description": "{春} is *Spring*, and {卷} is *roll*, so {春卷} is *Spring roll*."
-        },
-        "images": [
-            {
-                "image": "springrollsdimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Cantonese [spring rolls](http://en.wikipedia.org/wiki/Spring_roll) are deep-fried with a thin crispy wrapper and filled with minced pork, bean sprouts, and other vegetables. Not to be confused with the deep-fried cabbage-filled burritos known as “egg rolls” in Chinese-American restaurants.\n\nIn mainland China, where Spring rolls originated (in fried and non-fried incarnations), they are traditionally eaten during the Spring (Chinese New Year) Festival, hence the name.",
-        "tags": [
-            "春卷",
-            "茶餐廳",
-            "豬肉",
-            "炸",
-            "卷",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Aunt Emily",
-                "URL": "https://auntieemily.com/cantonese-spring-rolls/"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Spring-Roll"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/30"
-            },
-            {
-                "name": "Miss Chinese Food",
-                "URL": "https://misschinesefood.com/fried-spring-rolls/"
-            },
-            {
-                "name": "Panda Cheffy",
-                "URL": "https://medium.com/@pandacheffy/spring-roll-%E6%98%A5%E5%8D%B7-40895f110047"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/chinese-spring-rolls/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/rolls/cantonese-spring-rolls"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Spring_roll"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/09/homemade-spring-rolls/"
-            }
-        ]
+  {
+    "word": {
+      "English": "spring roll",
+      "Cantonese": {
+        "text": "春卷",
+        "wkty": ["春卷", "春", "卷"]
+      },
+      "Yale": "chēun gyún",
+      "Pinyin": "chūn juǎn",
+      "description": "{春} is *Spring*, and {卷} is *roll*, so {春卷} is *Spring roll*."
     },
-    {
-        "word": {
-            "English": "vegetable spring roll",
-            "Cantonese": {
-                "text": "素春卷",
-                "wkty": [
-                    "素",
-                    "春卷",
-                    "春",
-                    "卷"
-                ]
-            },
-            "Yale": "sou chēun gyún",
-            "Pinyin": "sù chūn juǎn",
-            "description": "{素} is *vegetable*, {春} is *Spring*, and {卷} is *roll*, so 素春卷 is *vegetable Spring roll*."
-        },
-        "images": [
-            {
-                "image": "vegetablespringrollsnorthsidecafe",
-                "place": "Northside Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) with no meat, just vegetables.",
-        "tags": [
-            "茶餐廳",
-            "春卷",
-            "素",
-            "炸",
-            "卷",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/vegetarian-spring-rolls/"
-            },
-            {
-                "name": "Dimsumptuous",
-                "URL": "http://www.dimsumptuous.com/2013/04/vegetable-spring-rolls.html"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/egg-rolls"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-veggie-egg-rolls/"
-            },
-            {
-                "name": "Viet World Kitchen",
-                "URL": "https://eggwansfoododyssey.com/2010/04/19/vegetarian-spring-rolls/"
-            }
-        ]
+    "images": [
+      {
+        "image": "springrollsdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Cantonese [spring rolls](http://en.wikipedia.org/wiki/Spring_roll) are deep-fried with a thin crispy wrapper and filled with minced pork, bean sprouts, and other vegetables. Not to be confused with the deep-fried cabbage-filled burritos known as “egg rolls” in Chinese-American restaurants.\n\nIn mainland China, where Spring rolls originated (in fried and non-fried incarnations), they are traditionally eaten during the Spring (Chinese New Year) Festival, hence the name.",
+    "tags": ["春卷", "茶餐廳", "豬肉", "炸", "卷", "點心"],
+    "resources": [
+      {
+        "name": "Aunt Emily",
+        "URL": "https://auntieemily.com/cantonese-spring-rolls/"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Spring-Roll"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/30"
+      },
+      {
+        "name": "Miss Chinese Food",
+        "URL": "https://misschinesefood.com/fried-spring-rolls/"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/spring-roll-%E6%98%A5%E5%8D%B7-40895f110047"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/chinese-spring-rolls/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/rolls/cantonese-spring-rolls"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Spring_roll"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/09/homemade-spring-rolls/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "vegetable spring roll",
+      "Cantonese": {
+        "text": "素春卷",
+        "wkty": ["素", "春卷", "春", "卷"]
+      },
+      "Yale": "sou chēun gyún",
+      "Pinyin": "sù chūn juǎn",
+      "description": "{素} is *vegetable*, {春} is *Spring*, and {卷} is *roll*, so 素春卷 is *vegetable Spring roll*."
     },
-    {
-        "word": {
-            "English": "Shanghai spring roll",
-            "Cantonese": {
-                "text": "上海春卷",
-                "wkty": [
-                    "上海",
-                    "上",
-                    "海",
-                    "春卷",
-                    "春",
-                    "卷"
-                ]
-            },
-            "Yale": "sheuhng hói chēun gyún",
-            "Pinyin": "Shàng hǎi chūn juǎn",
-            "description": "{上} is *up* or *above* or *on*, and {海} is *ocean* or *sea*, so 上海 is *on the ocean* or *on the sea*, and [Shanghai](https://en.wikipedia.org/wiki/Shanghai) is a *city on the sea*. {春} is *Spring*, and {卷} is *roll*, so {春卷} is *Spring roll*."
-        },
-        "images": [
-            {
-                "image": "shanghaispringrollmandarin",
-                "place": "The Mandarin, Cedar City, Utah"
-            }
-        ],
-        "description": "Shanghai spring rolls are typically filled with pork, napa cabbage, and shiitake mushrooms.",
-        "tags": [
-            "新菜",
-            "滬菜",
-            "春卷",
-            "豬肉",
-            "炸",
-            "卷"
-        ],
-        "resources": [
-            {
-                "name": "Asian Cooking Mom",
-                "URL": "https://www.asiancookingmom.com/shanghai-spring-rolls-%E4%B8%8A%E6%B5%B7%E6%98%A5%E5%8D%B7-shanghai-chun-juan/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Spring_roll"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/shanghai-style-spring-rolls/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "vegetablespringrollsnorthsidecafe",
+        "place": "Northside Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Spring rolls](http://en.wikipedia.org/wiki/Spring_roll) with no meat, just vegetables.",
+    "tags": ["茶餐廳", "春卷", "素", "炸", "卷", "點心"],
+    "resources": [
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/vegetarian-spring-rolls/"
+      },
+      {
+        "name": "Dimsumptuous",
+        "URL": "http://www.dimsumptuous.com/2013/04/vegetable-spring-rolls.html"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/egg-rolls"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-veggie-egg-rolls/"
+      },
+      {
+        "name": "Viet World Kitchen",
+        "URL": "https://eggwansfoododyssey.com/2010/04/19/vegetarian-spring-rolls/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Shanghai spring roll",
+      "Cantonese": {
+        "text": "上海春卷",
+        "wkty": ["上海", "上", "海", "春卷", "春", "卷"]
+      },
+      "Yale": "sheuhng hói chēun gyún",
+      "Pinyin": "Shàng hǎi chūn juǎn",
+      "description": "{上} is *up* or *above* or *on*, and {海} is *ocean* or *sea*, so 上海 is *on the ocean* or *on the sea*, and [Shanghai](https://en.wikipedia.org/wiki/Shanghai) is a *city on the sea*. {春} is *Spring*, and {卷} is *roll*, so {春卷} is *Spring roll*."
+    },
+    "images": [
+      {
+        "image": "shanghaispringrollmandarin",
+        "place": "The Mandarin, Cedar City, Utah"
+      }
+    ],
+    "description": "Shanghai spring rolls are typically filled with pork, napa cabbage, and shiitake mushrooms.",
+    "tags": ["新菜", "滬菜", "春卷", "豬肉", "炸", "卷"],
+    "resources": [
+      {
+        "name": "Asian Cooking Mom",
+        "URL": "https://www.asiancookingmom.com/shanghai-spring-rolls-%E4%B8%8A%E6%B5%B7%E6%98%A5%E5%8D%B7-shanghai-chun-juan/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Spring_roll"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/shanghai-style-spring-rolls/"
+      }
+    ]
+  }
 ]

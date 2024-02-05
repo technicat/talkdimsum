@@ -4,21 +4,13 @@
       "English": "Taiwanese sticky rice",
       "Cantonese": {
         "text": "油飯",
-        "wkty": [
-          "油飯",
-          "油",
-          "飯"
-        ]
+        "wkty": ["油飯", "油", "飯"]
       },
       "Yale": "yàuh faahn",
       "Jyutping": "jau4 faan6",
       "Simplified": {
         "text": "油饭",
-        "wkty": [
-          "油饭",
-          "油",
-          "饭"
-        ]
+        "wkty": ["油饭", "油", "饭"]
       },
       "Pinyin": "yóu fàn",
       "description": "{油} is *oil*, and {飯} is *rice*, so {油飯} is *oil rice*."
@@ -30,15 +22,7 @@
       }
     ],
     "description": "Glutinous rice stewed with soy sauce, sesame oil, and other seasonings.",
-    "tags": [
-      "油",
-      "台菜",
-      "臺灣",
-      "香油",
-      "豉油",
-      "飯",
-      "蓋飯"
-    ],
+    "tags": ["油", "台菜", "臺灣", "香油", "豉油", "飯", "蓋飯"],
     "resources": [
       {
         "name": "Cooking in Chinglish",
@@ -67,25 +51,13 @@
       "English": "minced pork rice",
       "Cantonese": {
         "text": "滷肉飯",
-        "wkty": [
-          "滷肉飯",
-          "滷肉",
-          "滷",
-          "肉",
-          "飯"
-        ]
+        "wkty": ["滷肉飯", "滷肉", "滷", "肉", "飯"]
       },
       "Yale": "lóuh yuhk faahn",
       "Jyutping": "lo5 juk6 faan6",
       "Simplified": {
         "text": "卤肉饭",
-        "wkty": [
-          "卤肉饭",
-          "卤肉",
-          "卤",
-          "肉",
-          "饭"
-        ]
+        "wkty": ["卤肉饭", "卤肉", "卤", "肉", "饭"]
       },
       "Pinyin": "lǔ ròu fàn",
       "description": "{滷肉} is *stewed meat*,  and {飯} is *rice*, so {滷肉飯} is *stewed meat rice*."
@@ -97,15 +69,7 @@
       }
     ],
     "description": "A classic Taiwanese homestyle dish, minced pork served in a sauce on rice.",
-    "tags": [
-      "家常菜",
-      "台菜",
-      "臺灣",
-      "滷肉",
-      "飯",
-      "蓋飯",
-      "白飯"
-    ],
+    "tags": ["家常菜", "台菜", "臺灣", "滷肉", "飯", "蓋飯", "白飯"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -142,22 +106,12 @@
       "English": "popcorn chicken rice",
       "Cantonese": {
         "text": "鹽酥雞飯",
-        "wkty": [
-          "鹽",
-          "酥",
-          "雞",
-          "飯"
-        ]
+        "wkty": ["鹽", "酥", "雞", "飯"]
       },
       "Yale": "yìhm sōu gāi faahn",
       "Simplified": {
         "text": "盐酥鸡饭",
-        "wkty": [
-          "盐",
-          "酥",
-          "鸡",
-          "饭"
-        ]
+        "wkty": ["盐", "酥", "鸡", "饭"]
       },
       "Pinyin": "yán sū jī fàn",
       "description": "{鹽} is *salty*, {酥} is the same word used for flaky pastries and in this context means *crispy* or *crunchy*, {雞} is *chicken*, and {飯} is (cooked) *rice*, so 鹽酥雞飯 is *salty crunchy chicken rice*,"
@@ -169,15 +123,7 @@
       }
     ],
     "description": "Taiwanese popcorn chicken is a particularly crunchy and spicy (seasoned with Sichuan pepper) street food and snack.",
-    "tags": [
-      "辣",
-      "台菜",
-      "茶餐廳",
-      "臺灣",
-      "雞",
-      "飯",
-      "白飯"
-    ],
+    "tags": ["辣", "台菜", "茶餐廳", "臺灣", "雞", "飯", "白飯"],
     "resources": [
       {
         "name": "Wok and Kin",
@@ -190,22 +136,12 @@
       "English": "Taiwanese sausage rice",
       "Cantonese": {
         "text": "香腸飯",
-        "wkty": [
-          "香腸",
-          "香",
-          "腸",
-          "飯"
-        ]
+        "wkty": ["香腸", "香", "腸", "飯"]
       },
       "Yale": "hēung chéung faahn",
       "Simplified": {
         "text": "香肠饭",
-        "wkty": [
-          "香肠",
-          "香",
-          "肠",
-          "饭"
-        ]
+        "wkty": ["香肠", "香", "肠", "饭"]
       },
       "Pinyin": "xiāng cháng fàn",
       "description": "{香腸} is *Chinese sausage* (or actually *fragrant sausage*, as {香} is *fragrant* and {腸} is *sausage*). {飯} is *rice* (cooked), so 香腸飯 is *Chinese sausage rice* or, appetizingly, *fragrant sausage rice*."
@@ -217,12 +153,7 @@
       }
     ],
     "description": "Taiwanese sausage on white rice. Taiwanese sausage is similar to Cantonese sausage but plump instead of dried.",
-    "tags": [
-      "台菜",
-      "臺灣",
-      "飯",
-      "白飯"
-    ],
+    "tags": ["台菜", "臺灣", "飯", "白飯"],
     "resources": [
       {
         "name": "Wikipedia",

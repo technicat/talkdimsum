@@ -1,116 +1,86 @@
 [
-    {
-        "word": {
-            "English": "Earl Grey tea",
-            "Cantonese": {
-                "text": "伯爵茶",
-                "wkty": [
-                    "伯爵茶",
-                    "伯爵",
-                    "伯",
-                    "爵",
-                    "茶"
-                ]
-            },
-            "Yale": "baak jeuk chàh",
-            "Pinyin": "bó jué chá",
-            "description": "{伯爵} is a British earl, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {伯爵茶} is *earl tea*."
-        },
-        "images": [
-            {
-                "image": "earlgraybadowl",
-                "place": "Bad Owl Coffee, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Earl Grey is an English tea (though legend has it that it was a Chinese gift to the second Earl of Grey, Charles Grey), flavored with oil of [bergamot](https://en.wikipedia.org/wiki/Bergamot_orange), an orange-like citrus grown in France and Italy. Earl Grey is one of the more popular teas in the West and occasionally can be found as an option in dim sum restaurants. And of course, it is the favorite tea of [Jean-Luc Picard](https://www.startrek.com/database_article/earl-grey-tea).",
-        "tags": [
-            "茶餐廳",
-            "飲品",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/earl-gry-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Earl_Grey_tea"
-            }
-        ]
+  {
+    "word": {
+      "English": "Earl Grey tea",
+      "Cantonese": {
+        "text": "伯爵茶",
+        "wkty": ["伯爵茶", "伯爵", "伯", "爵", "茶"]
+      },
+      "Yale": "baak jeuk chàh",
+      "Pinyin": "bó jué chá",
+      "description": "{伯爵} is a British earl, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {伯爵茶} is *earl tea*."
     },
-    {
-        "word": {
-            "English": "Darjeeling tea",
-            "Cantonese": {
-                "text": "大吉嶺茶",
-                "wkty": [
-                    "大吉嶺",
-                    "大",
-                    "吉",
-                    "爵",
-                    "茶"
-                ]
-            },
-            "Simplified": {
-                "text": "大吉岭茶",
-                "wkty": [
-                    "大吉嶺",
-                    "大",
-                    "吉",
-                    "岭",
-                    "茶"
-                ]
-            },
-            "Yale": "daaih gāt líhng chàh",
-            "Pinyin": "dà jí lǐng chá",
-            "description": "大吉嶺 is *darjeeling* (the Mandarin pronunciation in particular sounds ike it), and 茶 is *tea*."
-        },
-        "images": [
-            {
-                "image": "darjeelingrosaliecafe",
-                "place": "Rosalie Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Darjeeling tea is a black tea originating fron the Darjeeing district in West Bengal, India.",
-        "tags": [
-            "茶餐廳",
-            "飲品",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Darjeeling_tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "earlgraybadowl",
+        "place": "Bad Owl Coffee, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Earl Grey is an English tea (though legend has it that it was a Chinese gift to the second Earl of Grey, Charles Grey), flavored with oil of [bergamot](https://en.wikipedia.org/wiki/Bergamot_orange), an orange-like citrus grown in France and Italy. Earl Grey is one of the more popular teas in the West and occasionally can be found as an option in dim sum restaurants. And of course, it is the favorite tea of [Jean-Luc Picard](https://www.startrek.com/database_article/earl-grey-tea).",
+    "tags": ["茶餐廳", "飲品", "茶"],
+    "resources": [
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/earl-gry-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Earl_Grey_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Darjeeling tea",
+      "Cantonese": {
+        "text": "大吉嶺茶",
+        "wkty": ["大吉嶺", "大", "吉", "爵", "茶"]
+      },
+      "Simplified": {
+        "text": "大吉岭茶",
+        "wkty": ["大吉嶺", "大", "吉", "岭", "茶"]
+      },
+      "Yale": "daaih gāt líhng chàh",
+      "Pinyin": "dà jí lǐng chá",
+      "description": "大吉嶺 is *darjeeling* (the Mandarin pronunciation in particular sounds ike it), and 茶 is *tea*."
     },
-    {
-        "word": {
-            "English": "Lipton",
-            "Cantonese": "立頓",
-            "Simplified": "立顿",
-            "Yale": "laahp deuhn",
-            "Pinyin": "lì dùn",
-            "description": "{立頓} is a loanword, where the Cantonese pronunciation sounds like *Lipton*."
-        },
-        "images": [
-            {
-                "image": "lipton",
-                "place": ""
-            }
-        ],
-        "description": "[Lipton](https://en.wikipedia.org/wiki/Lipton) is a British-American tea brand with an international presence. It's a standard ingredient of [Hong Kong style iced lemon tea](https://www.thehongkongcookery.com/2014/06/hong-kong-style-iced-lemon-tea.html).",
-        "tags": [
-            "茶餐廳",
-            "飲品",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Lipton"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "darjeelingrosaliecafe",
+        "place": "Rosalie Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Darjeeling tea is a black tea originating fron the Darjeeing district in West Bengal, India.",
+    "tags": ["茶餐廳", "飲品", "茶"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Darjeeling_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Lipton",
+      "Cantonese": "立頓",
+      "Simplified": "立顿",
+      "Yale": "laahp deuhn",
+      "Pinyin": "lì dùn",
+      "description": "{立頓} is a loanword, where the Cantonese pronunciation sounds like *Lipton*."
+    },
+    "images": [
+      {
+        "image": "lipton",
+        "place": ""
+      }
+    ],
+    "description": "[Lipton](https://en.wikipedia.org/wiki/Lipton) is a British-American tea brand with an international presence. It's a standard ingredient of [Hong Kong style iced lemon tea](https://www.thehongkongcookery.com/2014/06/hong-kong-style-iced-lemon-tea.html).",
+    "tags": ["茶餐廳", "飲品", "茶"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Lipton"
+      }
+    ]
+  }
 ]

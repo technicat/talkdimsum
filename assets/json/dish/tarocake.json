@@ -4,19 +4,11 @@
       "English": "taro",
       "Cantonese": {
         "text": "芋頭",
-        "wkty": [
-          "芋頭",
-          "芋",
-          "頭"
-        ]
+        "wkty": ["芋頭", "芋", "頭"]
       },
       "Simplified": {
         "text": "芋头",
-        "wkty": [
-          "芋头",
-          "芋",
-          "头"
-        ]
+        "wkty": ["芋头", "芋", "头"]
       },
       "Yale": "wuh táu",
       "Pinyin": "yù tou",
@@ -29,9 +21,7 @@
       }
     ],
     "description": "Taro is a root vegetable popular in Asia and Africa. It's basically the potato of Chinese cuisine, mashed, steamed and stir-fried in various dishes, in dim sum as [taro cakes](http://en.wikipedia.org/wiki/Taro_cake) and [taro dumplings](http://en.wikipedia.org/wiki/Taro_dumpling).",
-    "tags": [
-      "芋頭"
-    ],
+    "tags": ["芋頭"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -43,23 +33,11 @@
     "word": {
       "Cantonese": {
         "text": "芋頭糕",
-        "wkty": [
-          "芋頭糕",
-          "芋頭",
-          "芋",
-          "頭",
-          "糕"
-        ]
+        "wkty": ["芋頭糕", "芋頭", "芋", "頭", "糕"]
       },
       "Simplified": {
         "text": "芋头糕",
-        "wkty": [
-          "芋头糕",
-          "芋头",
-          "芋",
-          "头",
-          "糕"
-        ]
+        "wkty": ["芋头糕", "芋头", "芋", "头", "糕"]
       },
       "English": "taro cake",
       "Yale": "wuh táu gōu",
@@ -73,14 +51,7 @@
       }
     ],
     "description": "[Taro cake](http://en.wikipedia.org/wiki/Taro_cake) is similar to [turnip cake](http://en.wikipedia.org/wiki/Turnip_cake) {蘿蔔糕} (lò baahk gōu) but made with taro mixed with rice flour and tidbits like Chinese sausage. It's cut into squares and steamed or pan-fried.\n\nTaro cake is sometimes known as *yam cake* in Malaysia and Singapore, but it's not yam as in sweet potatoes, it's really taro.\n\n{芋頭} is [taro](https://en.wikipedia.org/wiki/Taro), and {糕} is *cake*, so {芋頭糕} is *taro cake*.",
-    "tags": [
-      "蘿蔔糕",
-      "蒸",
-      "煎",
-      "芋頭",
-      "糕",
-      "點心"
-    ],
+    "tags": ["蘿蔔糕", "蒸", "煎", "芋頭", "糕", "點心"],
     "resources": [
       {
         "name": "Christine's Recipes",

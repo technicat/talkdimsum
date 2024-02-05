@@ -4,20 +4,12 @@
       "English": "ice tea",
       "Cantonese": {
         "text": "冰茶",
-        "wkty": [
-          "冰茶",
-          "冰",
-          "茶"
-        ]
+        "wkty": ["冰茶", "冰", "茶"]
       },
       "Yale": "bīng chàh",
       "Simplified": {
         "text": "冰茶",
-        "wkty": [
-          "冰茶",
-          "冰",
-          "茶"
-        ]
+        "wkty": ["冰茶", "冰", "茶"]
       },
       "Pinyin": "bīng chá"
     },
@@ -28,14 +20,7 @@
       }
     ],
     "description": "{冰} is *ice*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {冰茶} is *ice tea*.",
-    "tags": [
-      "冷飲",
-      "冰茶",
-      "冰",
-      "茶",
-      "茶餐廳",
-      "飲品"
-    ],
+    "tags": ["冷飲", "冰茶", "冰", "茶", "茶餐廳", "飲品"],
     "resources": []
   }
 ]

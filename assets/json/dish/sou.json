@@ -13,10 +13,7 @@
       }
     ],
     "description": "A [flaky pastry](https://en.wikipedia.org/wiki/Chinese_flaky_pastry) with a variety of fillings, commonly available in Chinese bakeries. The version with BBQ pork is often available as dim sum. In English, these are often listed as cakes, doughnuts, pastries, puff pastries, or just puffs.",
-    "tags": [
-      "酥",
-      "焗"
-    ],
+    "tags": ["酥", "焗"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -29,24 +26,12 @@
       "English": "BBQ pork puff",
       "Cantonese": {
         "text": "叉燒酥",
-        "wkty": [
-          "叉燒酥",
-          "叉燒",
-          "叉",
-          "燒",
-          "酥"
-        ]
+        "wkty": ["叉燒酥", "叉燒", "叉", "燒", "酥"]
       },
       "Yale": "chā sīu sōu",
       "Simplified": {
         "text": "叉烧酥",
-        "wkty": [
-          "叉烧酥",
-          "叉烧",
-          "叉",
-          "烧",
-          "酥"
-        ]
+        "wkty": ["叉烧酥", "叉烧", "叉", "烧", "酥"]
       },
       "Pinyin": "chā shāo sū"
     },
@@ -57,13 +42,7 @@
       }
     ],
     "description": "A [flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) filled with [BBQ pork](https://en.wikipedia.org/wiki/Char_siu).\n\n{叉燒} is [Cha siu](https://en.wikipedia.org/wiki/Char_siu), and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so {叉燒酥} is *BBQ pork pastry*.",
-    "tags": [
-      "豬肉",
-      "叉燒",
-      "焗",
-      "酥",
-      "點心"
-    ],
+    "tags": ["豬肉", "叉燒", "焗", "酥", "點心"],
     "resources": [
       {
         "name": "Christine's Recipes",
@@ -92,22 +71,12 @@
       "English": "radish puff",
       "Cantonese": {
         "text": "蘿蔔酥",
-        "wkty": [
-          "蘿蔔",
-          "蘿",
-          "蔔",
-          "酥"
-        ]
+        "wkty": ["蘿蔔", "蘿", "蔔", "酥"]
       },
       "Yale": "lò baahk sōu",
       "Simplified": {
         "text": "萝卜酥",
-        "wkty": [
-          "萝卜",
-          "萝",
-          "卜",
-          "酥"
-        ]
+        "wkty": ["萝卜", "萝", "卜", "酥"]
       },
       "Pinyin": "luó bo sū"
     },
@@ -117,13 +86,7 @@
       }
     ],
     "description": "Baked or deep-fried [flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) filled with shredded daikon (often called *radish* or *turnip*, so this is sometimes listed as *radish puffs* or *turnip puffs*). {蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蘿蔔酥 is *daikon pastry*.",
-    "tags": [
-      "蘿蔔",
-      "素",
-      "酥",
-      "焗",
-      "點心"
-    ],
+    "tags": ["蘿蔔", "素", "酥", "焗", "點心"],
     "resources": [
       {
         "name": "Dim Sum Guide",
@@ -144,22 +107,12 @@
       "English": "durian puff",
       "Cantonese": {
         "text": "榴蓮酥",
-        "wkty": [
-          "榴蓮",
-          "榴",
-          "蓮",
-          "酥"
-        ]
+        "wkty": ["榴蓮", "榴", "蓮", "酥"]
       },
       "Yale": "làuh lìhn sōu",
       "Simplified": {
         "text": "榴莲酥",
-        "wkty": [
-          "榴莲",
-          "榴",
-          "莲",
-          "酥"
-        ]
+        "wkty": ["榴莲", "榴", "莲", "酥"]
       },
       "Pinyin": "liú lián sū",
       "description": "{榴莲} is [durian](https://en.wikipedia.org/wiki/Durian), and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 榴蓮酥 is *durian pastry*."
@@ -171,13 +124,7 @@
       }
     ],
     "description": "Baked or deep-fried [flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) filled with [durian](https://en.wikipedia.org/wiki/Durian) or durian-flavored cream.",
-    "tags": [
-      "榴莲",
-      "素",
-      "酥",
-      "焗",
-      "點心"
-    ],
+    "tags": ["榴莲", "素", "酥", "焗", "點心"],
     "resources": [
       {
         "name": "Durian",
@@ -190,13 +137,7 @@
       "English": "Chinese doughnut",
       "Cantonese": {
         "text": "牛脷酥",
-        "wkty": [
-          "牛脷酥",
-          "牛脷",
-          "牛",
-          "脷",
-          "酥"
-        ]
+        "wkty": ["牛脷酥", "牛脷", "牛", "脷", "酥"]
       },
       "Yale": "ngàuh leih sōu",
       "Pinyin": "niú lì sū"
@@ -208,12 +149,7 @@
       }
     ],
     "description": "Sweetened fried dough in an elliptical shape (really, like a doughnut) that supposedly resembles an ox tongue or horse ear, so it's also known as ox-tongue or horse-ear pastry.\n\n{牛脷} is [ox tongue](https://en.wikipedia.org/wiki/Beef_tongue), and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so {牛脷酥} is *ox tongue pastry*.",
-    "tags": [
-      "小食",
-      "素",
-      "牛脷",
-      "酥"
-    ],
+    "tags": ["小食", "素", "牛脷", "酥"],
     "resources": [
       {
         "name": "Food Tourism",
@@ -230,24 +166,12 @@
       "English": "pineapple cake",
       "Cantonese": {
         "text": "鳳梨酥",
-        "wkty": [
-          "鳳梨酥",
-          "鳳梨",
-          "鳳",
-          "梨",
-          "酥"
-        ]
+        "wkty": ["鳳梨酥", "鳳梨", "鳳", "梨", "酥"]
       },
       "Yale": "fuhng lèih sōu",
       "Simplified": {
         "text": "凤梨酥",
-        "wkty": [
-          "凤梨酥",
-          "凤梨",
-          "凤",
-          "梨",
-          "酥"
-        ]
+        "wkty": ["凤梨酥", "凤梨", "凤", "梨", "酥"]
       },
       "Pinyin": "fèng lí sū"
     },
@@ -258,13 +182,7 @@
       }
     ],
     "description": "[Pineapple cakes](https://en.wikipedia.org/wiki/Pineapple_cake), small butter shortcakes with a pineapple filling, are a Taiwanese specialty. The airport shops in Taiwan are packed with pineapple cake gift boxes), but you can find them in Chinese supermarkets and bakeries (I like the ones from 85 degree cafe).\n\n{鳳梨} is *pineapple*, and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so {鳳梨酥} is *pineapple pastry*.",
-    "tags": [
-      "台菜",
-      "菠蘿",
-      "臺灣",
-      "小食",
-      "酥"
-    ],
+    "tags": ["台菜", "菠蘿", "臺灣", "小食", "酥"],
     "resources": [
       {
         "name": "Angel Wong's Kitchen",
@@ -285,12 +203,7 @@
       "English": "taro paste pastry",
       "Cantonese": {
         "text": "芋泥酥",
-        "wkty": [
-          "芋泥",
-          "芋",
-          "泥",
-          "酥"
-        ]
+        "wkty": ["芋泥", "芋", "泥", "酥"]
       },
       "Yale": "wuh nàih sōu",
       "Pinyin": "yù ní sū",
@@ -303,11 +216,7 @@
       }
     ],
     "description": "[flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) filled with taro paste.",
-    "tags": [
-      "小食",
-      "芋頭",
-      "酥"
-    ],
+    "tags": ["小食", "芋頭", "酥"],
     "resources": []
   },
   {
@@ -315,22 +224,12 @@
       "English": "salted egg yolk pastry",
       "Cantonese": {
         "text": "蛋黃酥",
-        "wkty": [
-          "蛋黃",
-          "蛋",
-          "黃",
-          "酥"
-        ]
+        "wkty": ["蛋黃", "蛋", "黃", "酥"]
       },
       "Yale": "dáan wóng sōu",
       "Simplified": {
         "text": "蛋黄酥",
-        "wkty": [
-          "蛋黄",
-          "蛋",
-          "黄",
-          "酥"
-        ]
+        "wkty": ["蛋黄", "蛋", "黄", "酥"]
       },
       "Pinyin": "dàn huáng sū"
     },
@@ -341,13 +240,7 @@
       }
     ],
     "description": "Also known as Taiwanese mooncakes, this [flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) is filled with [salted egg yolk](https://en.wikipedia.org/wiki/Salted_duck_egg).\n\n{蛋黃} is *egg yolk* ({蛋} is *egg*, and {黃} is *yellow*, so {蛋黃} is *egg yellow*). {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蛋黃酥 is *egg yolk pastry*.",
-    "tags": [
-      "台菜",
-      "鹹蛋",
-      "小食",
-      "蛋黃",
-      "酥"
-    ],
+    "tags": ["台菜", "鹹蛋", "小食", "蛋黃", "酥"],
     "resources": [
       {
         "name": "Go Taiwan Lab",
@@ -357,7 +250,6 @@
         "name": "Taste of Asian Food",
         "URL": "https://tasteasianfood.com/salted-egg-pastry/"
       }
-
     ]
   },
   {
@@ -365,12 +257,7 @@
       "English": "preserved egg pastry",
       "Cantonese": {
         "text": "皮蛋酥",
-        "wkty": [
-          "皮蛋",
-          "皮",
-          "蛋",
-          "酥"
-        ]
+        "wkty": ["皮蛋", "皮", "蛋", "酥"]
       },
       "Yale": "pèih dáan sōu",
       "Pinyin": "pí dàn sū"
@@ -382,11 +269,7 @@
       }
     ],
     "description": "[Flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) filled with preserved egg.\n\n{酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蛋黃酥 is *egg yolk pastry*.",
-    "tags": [
-      "小食",
-      "蛋黃",
-      "酥"
-    ],
+    "tags": ["小食", "蛋黃", "酥"],
     "resources": [
       {
         "name": "My Chinese Recipes",
@@ -399,12 +282,7 @@
       "English": "mung bean pastry",
       "Cantonese": {
         "text": "綠豆酥",
-        "wkty": [
-          "綠豆",
-          "綠",
-          "豆",
-          "酥"
-        ]
+        "wkty": ["綠豆", "綠", "豆", "酥"]
       },
       "Yale": "luhk dauh sōu",
       "Pinyin": "lǜ dòu sū"
@@ -416,11 +294,7 @@
       }
     ],
     "description": "[Flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) filled with [mung bean](https://en.wikipedia.org/wiki/Mung_bean).\n\n{綠豆} is [mung bean](https://en.wikipedia.org/wiki/Mung_bean) ({綠} is *green*, and {豆} is *bean*, but *green bean* is actually *mung bean* in Chinese), and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蛋黃酥 is *mung bean pastry*.",
-    "tags": [
-      "小食",
-      "蛋黃",
-      "酥"
-    ],
+    "tags": ["小食", "蛋黃", "酥"],
     "resources": [
       {
         "name": "My Chinese Recipes",
@@ -433,22 +307,12 @@
       "English": "lotus seed pastry",
       "Cantonese": {
         "text": "蓮蓉酥",
-        "wkty": [
-          "蓮蓉",
-          "蓮",
-          "蓉",
-          "酥"
-        ]
+        "wkty": ["蓮蓉", "蓮", "蓉", "酥"]
       },
       "Yale": "lìhn yùhng sōu",
       "Simplified": {
         "text": "莲蓉酥",
-        "wkty": [
-          "莲蓉",
-          "莲",
-          "蓉",
-          "酥"
-        ]
+        "wkty": ["莲蓉", "莲", "蓉", "酥"]
       },
       "Pinyin": "lián róng sū",
       "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*), and {酥} is [pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry), so 蓮蓉酥 is *lotus seed paste pastry*."
@@ -460,11 +324,7 @@
       }
     ],
     "description": "[Flaky puff pastry](http://en.wikipedia.org/wiki/Sou_(pastry)pastry) filled with [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste).",
-    "tags": [
-      "小食",
-      "蓮蓉",
-      "酥"
-    ],
+    "tags": ["小食", "蓮蓉", "酥"],
     "resources": [
       {
         "name": "The Hong Kong Cookery",

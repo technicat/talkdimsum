@@ -1,270 +1,198 @@
 [
-    {
-        "word": {
-            "English": "black tea",
-            "Cantonese": {
-                "text": "紅茶",
-                "wkty": [
-                    "紅茶",
-                    "紅",
-                    "茶"
-                ]
-            },
-            "Yale": "hùhng chàh",
-            "Jyutping": "hung4 caa4",
-            "Simplified": {
-                "text": "红茶",
-                "wkty": [
-                    "红茶",
-                    "红",
-                    "茶"
-                ]
-            },
-            "Pinyin": "hóng chá",
-            "description": "{紅} is *red*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {紅茶} is *red tea*.\n\nIn Japanese, the [kanji](https://en.wikipedia.org/wiki/Kanji) {紅茶} refers to non-Japanese tea."
-        },
-        "images": [
-            {
-                "image": "lapsangsouchongcupeverygrain",
-                "place": "Eat Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Black tea](https://en.wikipedia.org/wiki/Black_tea) is one of the more fermented and stronger-tasting teas. The tea was called “black tea” by European traders, who named it after the color of the leaves, although the brewed tea has a reddish hue (and in Chinese is called *red tea*, while *black tea* in Chinese refers to post-fermented teas like Pu'er tea).\n\n**Origin Story**\n\nBlack tea was invented relatively recently in the seventeenth century. according to legend, after traveling soldiers interrupted production at a tea factory, prompting the producers to dry the leaves over pine-cone fires.",
-        "tags": [
-            "紅茶",
-            "紅色",
-            "茶",
-            "熱茶",
-            "中國茶",
-            "點心",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Art of Tea",
-                "URL": "https://www.artoftea.com/what-is-tea/what-is-black-tea"
-            },
-            {
-                "name": "The Chinese Tea Shop",
-                "URL": "http://www.thechineseteashop.com/blacktea.html)"
-            },
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/"
-            },
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/lasang-souchong-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Black_tea"
-            }
-        ]
+  {
+    "word": {
+      "English": "black tea",
+      "Cantonese": {
+        "text": "紅茶",
+        "wkty": ["紅茶", "紅", "茶"]
+      },
+      "Yale": "hùhng chàh",
+      "Jyutping": "hung4 caa4",
+      "Simplified": {
+        "text": "红茶",
+        "wkty": ["红茶", "红", "茶"]
+      },
+      "Pinyin": "hóng chá",
+      "description": "{紅} is *red*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {紅茶} is *red tea*.\n\nIn Japanese, the [kanji](https://en.wikipedia.org/wiki/Kanji) {紅茶} refers to non-Japanese tea."
     },
-    {
-        "word": {
-            "English": "golden monkey tea",
-            "Cantonese": {
-                "text": "金猴茶",
-                "wkty": [
-                    "金",
-                    "猴",
-                    "茶"
-                ]
-            },
-            "Yale": "gām hàuh chàh",
-            "Jyutping": "gam1 hau4 caa4",
-            "Pinyin": "jīn hóuchá",
-            "description": "{金} is *gold*, {猴} is short for *monkey*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea)."
-        },
-        "images": [
-            {
-                "image": "monkeypawteagrotto",
-                "place": "Tea Grotto, Salt Lake City, Utah"
-            }
-        ],
-        "description": "[Golden Monkey tea](https://en.wikipedia.org/wiki/Golden_Monkey_tea) is a black tea featuring golden tips and resembling the shape of a monkey paw, hence the name (also Monkey Paw tea).",
-        "tags": [
-            "紅茶",
-            "紅色",
-            "茶",
-            "熱茶",
-            "中國茶",
-            "點心",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/golden-monkey-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Golden_Monkey_tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "lapsangsouchongcupeverygrain",
+        "place": "Eat Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Black tea](https://en.wikipedia.org/wiki/Black_tea) is one of the more fermented and stronger-tasting teas. The tea was called “black tea” by European traders, who named it after the color of the leaves, although the brewed tea has a reddish hue (and in Chinese is called *red tea*, while *black tea* in Chinese refers to post-fermented teas like Pu'er tea).\n\n**Origin Story**\n\nBlack tea was invented relatively recently in the seventeenth century. according to legend, after traveling soldiers interrupted production at a tea factory, prompting the producers to dry the leaves over pine-cone fires.",
+    "tags": ["紅茶", "紅色", "茶", "熱茶", "中國茶", "點心", "飲品"],
+    "resources": [
+      {
+        "name": "Art of Tea",
+        "URL": "https://www.artoftea.com/what-is-tea/what-is-black-tea"
+      },
+      {
+        "name": "The Chinese Tea Shop",
+        "URL": "http://www.thechineseteashop.com/blacktea.html)"
+      },
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/"
+      },
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/lasang-souchong-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Black_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "golden monkey tea",
+      "Cantonese": {
+        "text": "金猴茶",
+        "wkty": ["金", "猴", "茶"]
+      },
+      "Yale": "gām hàuh chàh",
+      "Jyutping": "gam1 hau4 caa4",
+      "Pinyin": "jīn hóuchá",
+      "description": "{金} is *gold*, {猴} is short for *monkey*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea)."
     },
-    {
-        "word": {
-            "English": "keemun black tea",
-            "Cantonese": {
-                "text": "祁門紅茶",
-                "wkty": [
-                    "祁門",
-                    "祁",
-                    "門",
-                    "紅茶",
-                    "紅",
-                    "茶"
-                ]
-            },
-            "Yale": "kèih mùhn hùhng chàh",
-            "Jyutping": "kei4 mun4 hung4 caa4",
-            "Simplified": {
-                "text": "祁门红茶",
-                "wkty": [
-                    "祁門",
-                    "祁",
-                    "門",
-                    "红茶",
-                    "红",
-                    "茶"
-                ]
-            },
-            "Pinyin": "qí mén hóng chá",
-            "description": "{祁門} is [Qimen](https://en.wikipedia.org/wiki/Keemun) (Keemun is an old Anglicization), the county in Anhui province of China where the tea is producted, and {紅茶} is black tea (“red tea”)."
-        },
-        "images": [
-            {
-                "image": "keemunteagrotto",
-                "place": "Tea Grotto, Salt Lake City, Utah"
-            }
-        ],
-        "description": "Keemun is a well-known black tea, one of the [Chinese Top Ten Famous Teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas).\n\nKeemun black tea is often used in English breakfast tea (which is any black tea drunk with breakfast).",
-        "tags": [
-            "紅茶",
-            "紅色",
-            "茶",
-            "熱茶",
-            "中國茶",
-            "點心",
-            "飲品",
-            "中國十大名茶"
-        ],
-        "resources": [
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/keemun-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Keemun"
-            }
-        ]
+    "images": [
+      {
+        "image": "monkeypawteagrotto",
+        "place": "Tea Grotto, Salt Lake City, Utah"
+      }
+    ],
+    "description": "[Golden Monkey tea](https://en.wikipedia.org/wiki/Golden_Monkey_tea) is a black tea featuring golden tips and resembling the shape of a monkey paw, hence the name (also Monkey Paw tea).",
+    "tags": ["紅茶", "紅色", "茶", "熱茶", "中國茶", "點心", "飲品"],
+    "resources": [
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/golden-monkey-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Golden_Monkey_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "keemun black tea",
+      "Cantonese": {
+        "text": "祁門紅茶",
+        "wkty": ["祁門", "祁", "門", "紅茶", "紅", "茶"]
+      },
+      "Yale": "kèih mùhn hùhng chàh",
+      "Jyutping": "kei4 mun4 hung4 caa4",
+      "Simplified": {
+        "text": "祁门红茶",
+        "wkty": ["祁門", "祁", "門", "红茶", "红", "茶"]
+      },
+      "Pinyin": "qí mén hóng chá",
+      "description": "{祁門} is [Qimen](https://en.wikipedia.org/wiki/Keemun) (Keemun is an old Anglicization), the county in Anhui province of China where the tea is producted, and {紅茶} is black tea (“red tea”)."
     },
-    {
-        "word": {
-            "English": "lapsang souchang",
-            "Cantonese": {
-                "text": "立山小種",
-                "wkty": [
-                    "立山小種",
-                    "立山",
-                    "立",
-                    "山",
-                    "小種",
-                    "小",
-                    "種"
-                ]
-            },
-            "Yale": "laahp sāan síu júng",
-            "Jyutping": "laap6 saan1 siu2 zung2",
-            "Simplified": {
-                "text": "立山小种",
-                "wkty": [
-                    "立山小種",
-                    "立山",
-                    "立",
-                    "山",
-                    "小種",
-                    "小",
-                    "种"
-                ]
-            },
-            "Pinyin": "lì shān xiǎo zhǒng"
-        },
-        "images": [
-            {
-                "image": "lapchangsoochongeverygrain",
-                "place": "Eat Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Lapsang souchong](https://en.wikipedia.org/wiki/Lapsang_souchong), also known as *smoked tea* due to the smoke-fired preparation that lends to its flavor, is a black tea from the Wuyi region of the Fujian province in China.\n\n**Trivia***\n\nSir Patrick Stewart initially suggested lapsang souchong as his character Jean-Luc Picard's preferred tea, but it was decided that Earl Grey was more safely recognizable by the Star Trek audience. However, lapsang souchong is the preferred tea of Sherlock Holmes.",
-        "tags": [
-            "閩菜",
-            "飲品",
-            "茶",
-            "熱茶",
-            "紅茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/lapsang-souchong-tea/"
-            },
-            {
-                "name": "Seven Cups",
-                "URL": "https://sevencups.com/shop/lapsang-souchong-strong-smoke-organic-black-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Lapsang_souchong"
-            }
-        ]
+    "images": [
+      {
+        "image": "keemunteagrotto",
+        "place": "Tea Grotto, Salt Lake City, Utah"
+      }
+    ],
+    "description": "Keemun is a well-known black tea, one of the [Chinese Top Ten Famous Teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas).\n\nKeemun black tea is often used in English breakfast tea (which is any black tea drunk with breakfast).",
+    "tags": [
+      "紅茶",
+      "紅色",
+      "茶",
+      "熱茶",
+      "中國茶",
+      "點心",
+      "飲品",
+      "中國十大名茶"
+    ],
+    "resources": [
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/keemun-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Keemun"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lapsang souchang",
+      "Cantonese": {
+        "text": "立山小種",
+        "wkty": ["立山小種", "立山", "立", "山", "小種", "小", "種"]
+      },
+      "Yale": "laahp sāan síu júng",
+      "Jyutping": "laap6 saan1 siu2 zung2",
+      "Simplified": {
+        "text": "立山小种",
+        "wkty": ["立山小種", "立山", "立", "山", "小種", "小", "种"]
+      },
+      "Pinyin": "lì shān xiǎo zhǒng"
     },
-    {
-        "word": {
-            "English": "jinjunmei",
-            "Cantonese": "金駿眉",
-            "Yale": "gām jeun mèih",
-            "Simplified": "金骏眉",
-            "Pinyin": "jīn jùn méi",
-            "description": "{金} is *gold*, {駿} is *spirited horse* or *steed*, and {眉} is *eyebrow*, so 金駿眉 is *gold steed eyebrow*."
-        },
-        "images": [
-            {
-                "image": "jinjunmeirandfmarket",
-                "place": "R and F Market, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[Jinhunmei](https://en.wikipedia.org/wiki/Jin_Jun_Mei_tea) (the Mandarin pronunciation), also known as *golden eyebrows* (referring to the appearance of the leaves, akin to the *longevity eyebrow* tea), is a fashionable (introduced in 2005) expensive black tea made from buds harvested from tea plants in the Wuyi Mountains.",
-        "tags": [
-            "閩菜",
-            "飲品",
-            "茶",
-            "熱茶",
-            "紅茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Ooika",
-                "URL": "https://ooika.co/learn/jin-jun-mei"
-            },
-            {
-                "name": "Tealyra",
-                "URL": "https://www.tealyra.com/blog/how-to-brew-jin-jun-mei-tea-to-preserve-its-beneficial-properties/"
-            },
-            {
-                "name": "Tea Trekker",
-                "URL": "https://www.teatrekker.com/product/jin-jun-mei/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Jin_Jun_Mei_tea"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "lapchangsoochongeverygrain",
+        "place": "Eat Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Lapsang souchong](https://en.wikipedia.org/wiki/Lapsang_souchong), also known as *smoked tea* due to the smoke-fired preparation that lends to its flavor, is a black tea from the Wuyi region of the Fujian province in China.\n\n**Trivia***\n\nSir Patrick Stewart initially suggested lapsang souchong as his character Jean-Luc Picard's preferred tea, but it was decided that Earl Grey was more safely recognizable by the Star Trek audience. However, lapsang souchong is the preferred tea of Sherlock Holmes.",
+    "tags": ["閩菜", "飲品", "茶", "熱茶", "紅茶", "中國茶"],
+    "resources": [
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/black-tea/lapsang-souchong-tea/"
+      },
+      {
+        "name": "Seven Cups",
+        "URL": "https://sevencups.com/shop/lapsang-souchong-strong-smoke-organic-black-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Lapsang_souchong"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "jinjunmei",
+      "Cantonese": "金駿眉",
+      "Yale": "gām jeun mèih",
+      "Simplified": "金骏眉",
+      "Pinyin": "jīn jùn méi",
+      "description": "{金} is *gold*, {駿} is *spirited horse* or *steed*, and {眉} is *eyebrow*, so 金駿眉 is *gold steed eyebrow*."
+    },
+    "images": [
+      {
+        "image": "jinjunmeirandfmarket",
+        "place": "R and F Market, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[Jinhunmei](https://en.wikipedia.org/wiki/Jin_Jun_Mei_tea) (the Mandarin pronunciation), also known as *golden eyebrows* (referring to the appearance of the leaves, akin to the *longevity eyebrow* tea), is a fashionable (introduced in 2005) expensive black tea made from buds harvested from tea plants in the Wuyi Mountains.",
+    "tags": ["閩菜", "飲品", "茶", "熱茶", "紅茶", "中國茶"],
+    "resources": [
+      {
+        "name": "Ooika",
+        "URL": "https://ooika.co/learn/jin-jun-mei"
+      },
+      {
+        "name": "Tealyra",
+        "URL": "https://www.tealyra.com/blog/how-to-brew-jin-jun-mei-tea-to-preserve-its-beneficial-properties/"
+      },
+      {
+        "name": "Tea Trekker",
+        "URL": "https://www.teatrekker.com/product/jin-jun-mei/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Jin_Jun_Mei_tea"
+      }
+    ]
+  }
 ]

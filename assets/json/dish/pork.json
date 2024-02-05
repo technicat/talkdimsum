@@ -4,28 +4,12 @@
       "English": "suckling pig",
       "Cantonese": {
         "text": "片皮烤乳豬",
-        "wkty": [
-          "片",
-          "皮",
-          "烤乳豬",
-          "烤",
-          "乳豬",
-          "乳",
-          "豬"
-        ]
+        "wkty": ["片", "皮", "烤乳豬", "烤", "乳豬", "乳", "豬"]
       },
       "Yale": "pín pèih hao yú jyú",
       "Simplified": {
         "text": "片皮烤乳猪",
-        "wkty": [
-          "片",
-          "皮",
-          "烤乳猪",
-          "烤",
-          "乳豬",
-          "乳",
-          "猪"
-        ]
+        "wkty": ["片", "皮", "烤乳猪", "烤", "乳豬", "乳", "猪"]
       },
       "Pinyin": "piàn pí kǎo rǔ zhū",
       "description": "{烤乳豬} is *roast suckling pig*."
@@ -36,10 +20,7 @@
       }
     ],
     "description": "Slices of roast pig, with a melty fatty layer between the crispy (brittle) skin and the tender meat.",
-    "tags": [
-      "點心",
-      "豬肉"
-    ],
+    "tags": ["點心", "豬肉"],
     "resources": []
   },
   {
@@ -47,13 +28,7 @@
       "English": "spam",
       "Cantonese": {
         "text": "午餐肉",
-        "wkty": [
-          "午餐肉",
-          "午餐",
-          "午",
-          "餐",
-          "肉"
-        ]
+        "wkty": ["午餐肉", "午餐", "午", "餐", "肉"]
       },
       "Yale": "ńgh chāan yuhk",
       "Jyutping": "ng5 caan1 juk4",
@@ -66,12 +41,7 @@
       }
     ],
     "description": "In Hong Kong, as in places like Hawaii and the Philippines, [Spam](https://en.wikipedia.org/wiki/Spam_(food)) (and its generic knockoffs known in English as *luncheon meat*) became popular after World War II and was integrated into the local cuisine, particularly in [cha chaan teng](https://en.wikipedia.org/wiki/Cha_chaan_teng) dishes, such as sandwiches, spam fried rice, spam ramen, macaroni and spam...",
-    "tags": [
-      "茶餐廳",
-      "午餐肉",
-      "豬肉",
-      "肉"
-    ],
+    "tags": ["茶餐廳", "午餐肉", "豬肉", "肉"],
     "resources": [
       {
         "name": "Wikipedia",

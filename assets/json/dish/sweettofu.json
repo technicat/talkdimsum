@@ -1,204 +1,183 @@
 [
-    {
-        "word": {
-            "English": "tofu pudding",
-            "Cantonese": {
-                "text": "豆腐花",
-                "wkty": [
-                    "豆腐花",
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "花"
-                ]
-            },
-            "Yale": "dauh fuh fā",
-            "Pinyin": "dòu fu huā",
-            "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), and {花} is *flower*.\n\nIn Mandarin, the middle character is often dropped, leaving {豆花} (dòu huā) for short."
-        },
-        "images": [
-            {
-                "image": "tofupuddingpingpangpong",
-                "place": "Ping Pang Pong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Very soft, sweet, [tofu](https://en.wikipedia.org/wiki/Tofu) served in a bowl with syrup, for dessert.",
-        "tags": [
-            "豆腐花",
-            "糖水",
-            "粵菜",
-            "豆腐",
-            "花",
-            "凍",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2008/06/tofu-fa-recipe-chinese-dessert.html"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Sweet-Tofu-Pudding"
-            },
-            {
-                "name": "Food Touring",
-                "URL": "https://food-touring.com/2014/10/01/hong-kong-tofu-fa-%e5%bb%96%e5%90%8c%e5%90%88%e8%8d%b3%e5%93%81%e5%bb%a0/"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/tofu-pudding-dessert/"
-            },
-            {
-                "name": "Panda Cheffy",
-                "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dou-hua-salt-ead48ff6f057"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Douhua"
-            }
-        ]
+  {
+    "word": {
+      "English": "tofu pudding",
+      "Cantonese": {
+        "text": "豆腐花",
+        "wkty": ["豆腐花", "豆腐", "豆", "腐", "花"]
+      },
+      "Yale": "dauh fuh fā",
+      "Pinyin": "dòu fu huā",
+      "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), and {花} is *flower*.\n\nIn Mandarin, the middle character is often dropped, leaving {豆花} (dòu huā) for short."
     },
-    {
-        "word": {
-            "English": "cantaloupe tofu pudding",
-            "Cantonese": {
-                "text": "哈蜜瓜豆腐花",
-                "wkty": [
-                    "哈密​​瓜",
-                    "哈密​​",
-                    "哈​​",
-                    "密​​",
-                    "​​瓜",
-                    "豆腐花",
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "花"
-                ]
-            },
-            "Yale": "hā maht gwā dauh fuh fā",
-            "Pinyin": "hā mì guā dòu fu huā",
-            "description": "{哈蜜瓜} is [cantaloupe](https://en.wikipedia.org/wiki/Cantaloupe), {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), and {花} is *flower*.\n\nIn Mandarin, the middle character is often dropped, leaving {豆花} (dòu huā) for short."
-        },
-        "images": [
-            {
-                "image": "cantaloupetofupuddingsweethoneydessert",
-                "place": "Sweethoney Dessert, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Very soft, sweet, tofu served in a bowl with syrup, with cantaloupe, for dessert.",
-        "tags": [
-            "豆腐花",
-            "糖水",
-            "粵菜",
-            "豆腐",
-            "花",
-            "凍",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2008/06/tofu-fa-recipe-chinese-dessert.html"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Sweet-Tofu-Pudding"
-            },
-            {
-                "name": "Food Touring",
-                "URL": "https://food-touring.com/2014/10/01/hong-kong-tofu-fa-%e5%bb%96%e5%90%8c%e5%90%88%e8%8d%b3%e5%93%81%e5%bb%a0/"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/tofu-pudding-dessert/"
-            },
-            {
-                "name": "Panda Cheffy",
-                "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dou-hua-salt-ead48ff6f057"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Douhua"
-            }
+    "images": [
+      {
+        "image": "tofupuddingpingpangpong",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Very soft, sweet, [tofu](https://en.wikipedia.org/wiki/Tofu) served in a bowl with syrup, for dessert.",
+    "tags": [
+      "豆腐花",
+      "糖水",
+      "粵菜",
+      "豆腐",
+      "花",
+      "凍",
+      "素",
+      "甜品",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/06/tofu-fa-recipe-chinese-dessert.html"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Sweet-Tofu-Pudding"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/10/01/hong-kong-tofu-fa-%e5%bb%96%e5%90%8c%e5%90%88%e8%8d%b3%e5%93%81%e5%bb%a0/"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/tofu-pudding-dessert/"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dou-hua-salt-ead48ff6f057"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Douhua"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "cantaloupe tofu pudding",
+      "Cantonese": {
+        "text": "哈蜜瓜豆腐花",
+        "wkty": [
+          "哈密​​瓜",
+          "哈密​​",
+          "哈​​",
+          "密​​",
+          "​​瓜",
+          "豆腐花",
+          "豆腐",
+          "豆",
+          "腐",
+          "花"
         ]
+      },
+      "Yale": "hā maht gwā dauh fuh fā",
+      "Pinyin": "hā mì guā dòu fu huā",
+      "description": "{哈蜜瓜} is [cantaloupe](https://en.wikipedia.org/wiki/Cantaloupe), {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), and {花} is *flower*.\n\nIn Mandarin, the middle character is often dropped, leaving {豆花} (dòu huā) for short."
     },
-    {
-        "word": {
-            "English": "almond tofu",
-            "Cantonese": {
-                "text": "杏仁豆腐",
-                "wkty": [
-                    "杏仁豆腐",
-                    "杏仁",
-                    "杏",
-                    "仁",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Yale": "hahng yàhn dauh fuh",
-            "Pinyin": "xìng rén dòu fu",
-            "description": "{杏仁} is *almond*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu)."
-        },
-        "images": [
-            {
-                "image": "almondtofukirin",
-                "place": "Kirin Chinese Restaurant, Mountain View, California"
-            }
-        ],
-        "description": "This looks like and has the consistency of tofu but is made from sweetened almond milk (Chinese almonds, which are actually apricot kernels).",
-        "tags": [
-            "糖水",
-            "豆腐",
-            "杏仁",
-            "凍",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/page/4/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2015/01/chinese-almond-dessert.html"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2011/09/almond-bean-curd-easy-and-elegant.html"
-            },
-            {
-                "name": "It's My Dish",
-                "URL": "https://itsmydish.com/almond-tofu/"
-            },
-            {
-                "name": "Onolicious",
-                "URL": "https://onolicioushawaii.com/almond-tofu/"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-6-almond-jello/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Annin_tofu"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "cantaloupetofupuddingsweethoneydessert",
+        "place": "Sweethoney Dessert, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Very soft, sweet, tofu served in a bowl with syrup, with cantaloupe, for dessert.",
+    "tags": [
+      "豆腐花",
+      "糖水",
+      "粵菜",
+      "豆腐",
+      "花",
+      "凍",
+      "素",
+      "甜品",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/sweet-asian-tofu-dessert-with-ginger-syrup--359103310433457-dograveufu-hu257.html"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/06/tofu-fa-recipe-chinese-dessert.html"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Sweet-Tofu-Pudding"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/10/01/hong-kong-tofu-fa-%e5%bb%96%e5%90%8c%e5%90%88%e8%8d%b3%e5%93%81%e5%bb%a0/"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/tofu-pudding-dessert/"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/recipe-how-to-cook-chinese-food-dou-hua-salt-ead48ff6f057"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Douhua"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "almond tofu",
+      "Cantonese": {
+        "text": "杏仁豆腐",
+        "wkty": ["杏仁豆腐", "杏仁", "杏", "仁", "豆腐", "豆", "腐"]
+      },
+      "Yale": "hahng yàhn dauh fuh",
+      "Pinyin": "xìng rén dòu fu",
+      "description": "{杏仁} is *almond*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu)."
+    },
+    "images": [
+      {
+        "image": "almondtofukirin",
+        "place": "Kirin Chinese Restaurant, Mountain View, California"
+      }
+    ],
+    "description": "This looks like and has the consistency of tofu but is made from sweetened almond milk (Chinese almonds, which are actually apricot kernels).",
+    "tags": ["糖水", "豆腐", "杏仁", "凍", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/topics/chinese-recipes/chinese-dessert-recipes/page/4/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2015/01/chinese-almond-dessert.html"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2011/09/almond-bean-curd-easy-and-elegant.html"
+      },
+      {
+        "name": "It's My Dish",
+        "URL": "https://itsmydish.com/almond-tofu/"
+      },
+      {
+        "name": "Onolicious",
+        "URL": "https://onolicioushawaii.com/almond-tofu/"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-6-almond-jello/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Annin_tofu"
+      }
+    ]
+  }
 ]

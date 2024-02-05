@@ -1,529 +1,364 @@
 [
-    {
-        "word": {
-            "English": "salt and pepper",
-            "Cantonese": {
-                "text": "椒鹽",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽"
-                ]
-            },
-            "Yale": "jīu yìhm",
-            "Simplified": {
-                "text": "椒盐",
-                "wkty": [
-                    "椒盐",
-                    "椒",
-                    "盐"
-                ]
-            },
-            "Pinyin": "jiāo yán",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*.\n\n{椒鹽} is also used in the Chinese word for *pretzel*."
-        },
-        "images": [
-            {
-                "image": "saltandpeppersquid88noodlepapa",
-                "place": "88 Noodle Papa, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A salt and pepper mixture used to season deep-fried dishes. [Sichuan pepper](https://en.wikipedia.org/wiki/Sichuan_pepper) ({花椒} *flower pepper*) is traditionally used, but black and white pepper is common, too (possibly due to the former US import restrictions on Sichuan pepper).",
-        "tags": [
-            "茶餐廳",
-            "花椒",
-            "川菜",
-            "炸",
-            "椒鹽"
-        ],
-        "resources": [
-            {
-                "name": "Sichuan pepper",
-                "URL": "https://en.wikipedia.org/wiki/Sichuan_pepper"
-            }
-        ]
+  {
+    "word": {
+      "English": "salt and pepper",
+      "Cantonese": {
+        "text": "椒鹽",
+        "wkty": ["椒鹽", "椒", "鹽"]
+      },
+      "Yale": "jīu yìhm",
+      "Simplified": {
+        "text": "椒盐",
+        "wkty": ["椒盐", "椒", "盐"]
+      },
+      "Pinyin": "jiāo yán",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*.\n\n{椒鹽} is also used in the Chinese word for *pretzel*."
     },
-    {
-        "word": {
-            "English": "salt and pepper shrimp",
-            "Cantonese": {
-                "text": "椒鹽蝦",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "蝦"
-                ]
-            },
-            "Yale": "jīu yìhm hā",
-            "Simplified": {
-                "text": "椒盐虾",
-                "wkty": [
-                    "椒盐",
-                    "椒",
-                    "盐",
-                    "虾"
-                ]
-            },
-            "Pinyin": "jiāo yán xiā",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {蝦} is *shrimp*, so 椒鹽蝦 is *pepper salt shrimp*."
-        },
-        "images": [
-            {
-                "image": "saltandpeppershrimpyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Whole shrimp fried with the shells still on, then sprinkled with salt and pepper.",
-        "tags": [
-            "茶餐廳",
-            "炸",
-            "椒鹽",
-            "蝦",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-salt-and-pepper-shrimp/"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/chinese-salt-and-pepper-shrimp/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2009/09/salt-and-pepper-prawns.html"
-            },
-            {
-                "name": "Mala Food",
-                "URL": "https://malafood.com/en/sichuan-peppers-huajiao"
-            },
-            {
-                "name": "The Spruce Eats",
-                "URL": "https://www.thespruceeats.com/salt-and-pepper-shrimp-recipe-695176"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/07/salt-and-pepper-shrimp/"
-            }
-        ]
+    "images": [
+      {
+        "image": "saltandpeppersquid88noodlepapa",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A salt and pepper mixture used to season deep-fried dishes. [Sichuan pepper](https://en.wikipedia.org/wiki/Sichuan_pepper) ({花椒} *flower pepper*) is traditionally used, but black and white pepper is common, too (possibly due to the former US import restrictions on Sichuan pepper).",
+    "tags": ["茶餐廳", "花椒", "川菜", "炸", "椒鹽"],
+    "resources": [
+      {
+        "name": "Sichuan pepper",
+        "URL": "https://en.wikipedia.org/wiki/Sichuan_pepper"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper shrimp",
+      "Cantonese": {
+        "text": "椒鹽蝦",
+        "wkty": ["椒鹽", "椒", "鹽", "蝦"]
+      },
+      "Yale": "jīu yìhm hā",
+      "Simplified": {
+        "text": "椒盐虾",
+        "wkty": ["椒盐", "椒", "盐", "虾"]
+      },
+      "Pinyin": "jiāo yán xiā",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {蝦} is *shrimp*, so 椒鹽蝦 is *pepper salt shrimp*."
     },
-    {
-        "word": {
-            "English": "salt and pepper squid",
-            "Cantonese": {
-                "text": "椒鹽魷魚",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "魷魚",
-                    "魷",
-                    "魚"
-                ]
-            },
-            "Yale": "jīu yìhm yàuh yú",
-            "Simplified": {
-                "text": "椒盐鱿鱼",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "盐",
-                    "鱿鱼",
-                    "鱿",
-                    "鱼"
-                ]
-            },
-            "Pinyin": "jiāo yán xyóu yú",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {魷魚} is *squid*, so 椒鹽魷魚 is *pepper salt squid*.\n\n{炒魷魚} is *stir-fried squid* but also Cantonese slang for [firing someone](https://zolimacitymag.com/pop-cantonese-%E8%80%81%E7%B4%B0%E7%82%92%E5%92%97%E6%88%91%E9%AD%B7-stir-fried-me-squid/)."
-        },
-        "images": [
-            {
-                "image": "saltandpeppercalamaridimsumcafe2",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Fried squid sprinkled with salt and pepper. Also listed as *salt and pepper calamari*.",
-        "tags": [
-            "茶餐廳",
-            "炸",
-            "椒鹽",
-            "魷魚",
-            "海鮮",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/salt-and-pepper-squid/"
-            },
-            {
-                "name": "Nom Life",
-                "URL": "https://www.lifeofnoms.com/blog/2020/8/5/spsquid"
-            },
-            {
-                "name": "Symbaritica",
-                "URL": "https://sybaritica.me/salt-and-pepper-squid-recipe/"
-            },
-            {
-                "name": "Viet World Kitchen",
-                "URL": "https://eggwansfoododyssey.com/2016/08/03/salt-pepper-squid/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/02/salt-pepper-squid/"
-            }
-        ]
+    "images": [
+      {
+        "image": "saltandpeppershrimpyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Whole shrimp fried with the shells still on, then sprinkled with salt and pepper.",
+    "tags": ["茶餐廳", "炸", "椒鹽", "蝦", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-salt-and-pepper-shrimp/"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/chinese-salt-and-pepper-shrimp/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2009/09/salt-and-pepper-prawns.html"
+      },
+      {
+        "name": "Mala Food",
+        "URL": "https://malafood.com/en/sichuan-peppers-huajiao"
+      },
+      {
+        "name": "The Spruce Eats",
+        "URL": "https://www.thespruceeats.com/salt-and-pepper-shrimp-recipe-695176"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/07/salt-and-pepper-shrimp/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper squid",
+      "Cantonese": {
+        "text": "椒鹽魷魚",
+        "wkty": ["椒鹽", "椒", "鹽", "魷魚", "魷", "魚"]
+      },
+      "Yale": "jīu yìhm yàuh yú",
+      "Simplified": {
+        "text": "椒盐鱿鱼",
+        "wkty": ["椒鹽", "椒", "盐", "鱿鱼", "鱿", "鱼"]
+      },
+      "Pinyin": "jiāo yán xyóu yú",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {魷魚} is *squid*, so 椒鹽魷魚 is *pepper salt squid*.\n\n{炒魷魚} is *stir-fried squid* but also Cantonese slang for [firing someone](https://zolimacitymag.com/pop-cantonese-%E8%80%81%E7%B4%B0%E7%82%92%E5%92%97%E6%88%91%E9%AD%B7-stir-fried-me-squid/)."
     },
-    {
-        "word": {
-            "English": "salt and pepper chicken wings",
-            "Cantonese": {
-                "text": "椒鹽雞翅",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "雞翅",
-                    "雞",
-                    "翅"
-                ]
-            },
-            "Yale": "jīu yìhm gāi chi",
-            "Simplified": {
-                "text": "椒盐鸡翅",
-                "wkty": [
-                    "椒盐",
-                    "椒",
-                    "盐",
-                    "鸡翅",
-                    "鸡",
-                    "翅"
-                ]
-            },
-            "Pinyin": "jiāo yán jī ch",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {雞翅} is *chicken wing*, so 椒鹽雞翅 is *pepper salt chicken wings*."
-        },
-        "images": [
-            {
-                "image": "saltandpepperchickenwingsbigwong",
-                "place": "Big Wong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Fried chicken wings sprinkled with salt and pepper.",
-        "tags": [
-            "茶餐廳",
-            "炸",
-            "椒鹽",
-            "雞",
-            "雞翅",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/salt-and-pepper-chicken-wings/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2014/09/salt-pepper-chicken-wings.html"
-            },
-            {
-                "name": "Honest Food Talks",
-                "URL": "https://www.honestfoodtalks.com/salt-and-pepper-chicken-wings/"
-            },
-            {
-                "name": "Kirbie's Cravings",
-                "URL": "https://kirbiecravings.com/salt-and-pepper-wings/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/salt-pepper-chicken-wings"
-            }
-        ]
+    "images": [
+      {
+        "image": "saltandpeppercalamaridimsumcafe2",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Fried squid sprinkled with salt and pepper. Also listed as *salt and pepper calamari*.",
+    "tags": ["茶餐廳", "炸", "椒鹽", "魷魚", "海鮮", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/salt-and-pepper-squid/"
+      },
+      {
+        "name": "Nom Life",
+        "URL": "https://www.lifeofnoms.com/blog/2020/8/5/spsquid"
+      },
+      {
+        "name": "Symbaritica",
+        "URL": "https://sybaritica.me/salt-and-pepper-squid-recipe/"
+      },
+      {
+        "name": "Viet World Kitchen",
+        "URL": "https://eggwansfoododyssey.com/2016/08/03/salt-pepper-squid/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/02/salt-pepper-squid/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper chicken wings",
+      "Cantonese": {
+        "text": "椒鹽雞翅",
+        "wkty": ["椒鹽", "椒", "鹽", "雞翅", "雞", "翅"]
+      },
+      "Yale": "jīu yìhm gāi chi",
+      "Simplified": {
+        "text": "椒盐鸡翅",
+        "wkty": ["椒盐", "椒", "盐", "鸡翅", "鸡", "翅"]
+      },
+      "Pinyin": "jiāo yán jī ch",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {雞翅} is *chicken wing*, so 椒鹽雞翅 is *pepper salt chicken wings*."
     },
-    {
-        "word": {
-            "English": "salt and pepper fish",
-            "Cantonese": {
-                "text": "椒鹽魚片",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "魚",
-                    "片"
-                ]
-            },
-            "Yale": "jīu yìhm yú pín",
-            "Simplified": {
-                "text": "椒盐鱼片",
-                "wkty": [
-                    "椒盐",
-                    "椒",
-                    "盐",
-                    "鱼",
-                    "片"
-                ]
-            },
-            "Pinyin": "jiāo yán yú piàn",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*. Altogether, 椒鹽魚片 is *pepper salt fish fillet*."
-        },
-        "images": [
-            {
-                "image": "saltandpepperfishchefchings",
-                "place": "Chef Ching's Kitchen, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Fish fillets fried then sprinked with salt and pepper.",
-        "tags": [
-            "茶餐廳",
-            "炸",
-            "椒鹽",
-            "魚",
-            "魚片"
-        ],
-        "resources": [
-            {
-                "name": "Asian Inspirations",
-                "URL": "https://asianinspirations.com.au/recipes/salt-and-pepper-fish/"
-            }
-        ]
+    "images": [
+      {
+        "image": "saltandpepperchickenwingsbigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Fried chicken wings sprinkled with salt and pepper.",
+    "tags": ["茶餐廳", "炸", "椒鹽", "雞", "雞翅", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/salt-and-pepper-chicken-wings/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2014/09/salt-pepper-chicken-wings.html"
+      },
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/salt-and-pepper-chicken-wings/"
+      },
+      {
+        "name": "Kirbie's Cravings",
+        "URL": "https://kirbiecravings.com/salt-and-pepper-wings/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/salt-pepper-chicken-wings"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper fish",
+      "Cantonese": {
+        "text": "椒鹽魚片",
+        "wkty": ["椒鹽", "椒", "鹽", "魚", "片"]
+      },
+      "Yale": "jīu yìhm yú pín",
+      "Simplified": {
+        "text": "椒盐鱼片",
+        "wkty": ["椒盐", "椒", "盐", "鱼", "片"]
+      },
+      "Pinyin": "jiāo yán yú piàn",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {魚} is *fish*, and {片} is *slice* or *piece*, so 魚片 is *fish fillet*. Altogether, 椒鹽魚片 is *pepper salt fish fillet*."
     },
-    {
-        "word": {
-            "English": "salt and pepper tofu",
-            "Cantonese": {
-                "text": "椒鹽豆腐",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Yale": "jīu yìhm dauh fuh",
-            "Simplified": {
-                "text": "椒盐豆腐",
-                "wkty": [
-                    "椒盐",
-                    "盐",
-                    "鹽",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Pinyin": "jiāo yán dòu fu",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. And {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 椒鹽豆腐 is *pepper salt tofu*."
-        },
-        "images": [
-            {
-                "image": "saltandpeppertofuskseafood2",
-                "place": "SK Seafood, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Pan-fried cubes of tofu seasoned with with salt and pepper.",
-        "tags": [
-            "豆腐",
-            "素",
-            "茶餐廳",
-            "椒鹽"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/salt-and-pepper-tofu/"
-            },
-            {
-                "name": "Christie at home",
-                "URL": "https://christieathome.com/blog/chinese-salt-pepper-tofu/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/salt-pepper-tofu"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/salt-and-pepper-tofu/"
-            }
-        ]
+    "images": [
+      {
+        "image": "saltandpepperfishchefchings",
+        "place": "Chef Ching's Kitchen, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Fish fillets fried then sprinked with salt and pepper.",
+    "tags": ["茶餐廳", "炸", "椒鹽", "魚", "魚片"],
+    "resources": [
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/salt-and-pepper-fish/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper tofu",
+      "Cantonese": {
+        "text": "椒鹽豆腐",
+        "wkty": ["椒鹽", "椒", "鹽", "豆腐", "豆", "腐"]
+      },
+      "Yale": "jīu yìhm dauh fuh",
+      "Simplified": {
+        "text": "椒盐豆腐",
+        "wkty": ["椒盐", "盐", "鹽", "豆腐", "豆", "腐"]
+      },
+      "Pinyin": "jiāo yán dòu fu",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. And {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 椒鹽豆腐 is *pepper salt tofu*."
     },
-    {
-        "word": {
-            "English": "salt and pepper pork chop",
-            "Cantonese": {
-                "text": "椒鹽排骨",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "排骨",
-                    "排",
-                    "骨"
-                ]
-            },
-            "Yale": "jīu yìhm pàaih gwāt",
-            "Simplified": {
-                "text": "椒盐排骨",
-                "wkty": [
-                    "椒盐",
-                    "椒",
-                    "盐",
-                    "排骨",
-                    "排",
-                    "骨"
-                ]
-            },
-            "Pinyin": "jiāo yán pái gǔ",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*.{排骨} is *pork chop*."
-        },
-        "images": [
-            {
-                "image": "saltandpepperporkbigwong",
-                "place": "Big Wong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Deep-fried pork chop strips seasoned with with salt and pepper.",
-        "tags": [
-            "排骨",
-            "茶餐廳",
-            "椒鹽"
-        ],
-        "resources": [
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/chinese-salt-and-pepper-pork/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://madewithlau.com/recipes/salt-pepper-pork-chops"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/cantonese-salt-pepper-pork-chops/"
-            }
-        ]
+    "images": [
+      {
+        "image": "saltandpeppertofuskseafood2",
+        "place": "SK Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Pan-fried cubes of tofu seasoned with with salt and pepper.",
+    "tags": ["豆腐", "素", "茶餐廳", "椒鹽"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/salt-and-pepper-tofu/"
+      },
+      {
+        "name": "Christie at home",
+        "URL": "https://christieathome.com/blog/chinese-salt-pepper-tofu/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/salt-pepper-tofu"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/salt-and-pepper-tofu/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper pork chop",
+      "Cantonese": {
+        "text": "椒鹽排骨",
+        "wkty": ["椒鹽", "椒", "鹽", "排骨", "排", "骨"]
+      },
+      "Yale": "jīu yìhm pàaih gwāt",
+      "Simplified": {
+        "text": "椒盐排骨",
+        "wkty": ["椒盐", "椒", "盐", "排骨", "排", "骨"]
+      },
+      "Pinyin": "jiāo yán pái gǔ",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*.{排骨} is *pork chop*."
     },
-    {
-        "word": {
-            "English": "salt and pepper eggplant",
-            "Cantonese": {
-                "text": "椒鹽茄子",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "茄子",
-                    "茄",
-                    "子"
-                ]
-            },
-            "Yale": "jīu yìhm ké jí",
-            "Simplified": {
-                "text": "椒盐茄子",
-                "wkty": [
-                    "椒盐",
-                    "椒",
-                    "盐",
-                    "茄子",
-                    "茄",
-                    "子"
-                ]
-            },
-            "Pinyin": "jiāo yán qié zi",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant),so 椒鹽茄子 is *pepper salt eggplant*."
-        },
-        "images": [
-            {
-                "image": "saltandpeppereggplant",
-                "place": "Orchids Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Eggplant seasoned with with salt and pepper.",
-        "tags": [
-            "茶餐廳",
-            "茄子",
-            "素",
-            "椒鹽"
-        ],
-        "resources": [
-            {
-                "name": "Momma Cuisine",
-                "URL": "https://mommacuisine.com/recipes/salt-and-pepper-eggplant"
-            }
-        ]
+    "images": [
+      {
+        "image": "saltandpepperporkbigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Deep-fried pork chop strips seasoned with with salt and pepper.",
+    "tags": ["排骨", "茶餐廳", "椒鹽"],
+    "resources": [
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/chinese-salt-and-pepper-pork/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/salt-pepper-pork-chops"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/cantonese-salt-pepper-pork-chops/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper eggplant",
+      "Cantonese": {
+        "text": "椒鹽茄子",
+        "wkty": ["椒鹽", "椒", "鹽", "茄子", "茄", "子"]
+      },
+      "Yale": "jīu yìhm ké jí",
+      "Simplified": {
+        "text": "椒盐茄子",
+        "wkty": ["椒盐", "椒", "盐", "茄子", "茄", "子"]
+      },
+      "Pinyin": "jiāo yán qié zi",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant),so 椒鹽茄子 is *pepper salt eggplant*."
     },
-    {
-        "word": {
-            "English": "salt and pepper crab",
-            "Cantonese": {
-                "text": "椒鹽蟹",
-                "wkty": [
-                    "椒鹽",
-                    "椒",
-                    "鹽",
-                    "鉗"
-                ]
-            },
-            "Yale": "jīu yìhm háaih",
-            "Simplified": {
-                "text": "椒盐蟹",
-                "wkty": [
-                    "椒盐",
-                    "椒",
-                    "盐",
-                    "鉗"
-                ]
-            },
-            "Pinyin": "jiāo yán xiè",
-            "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {蟹} is *crab*, so 椒鹽鉗 is *pepper salt crab*."
-        },
-        "images": [
-            {
-                "image": "saltandpeppercrabbananaleafcafe",
-                "place": "Banana Leaf Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Deep-fried soft shell crab seasoned with with salt and pepper.",
-        "tags": [
-            "軟殼蟹",
-            "茶餐廳",
-            "海鮮",
-            "蟹",
-            "椒鹽"
-        ],
-        "resources": [
-            {
-                "name": "Andrew Zimmerman",
-                "URL": "https://andrewzimmern.com/recipes/crispy-salt-pepper-crab-legs/"
-            },
-            {
-                "name": "Asian Inspirations",
-                "URL": "https://asianinspirations.com.au/recipes/salt-and-pepper-soft-shell-crab/"
-            },
-            {
-                "name": "Crab-o-licious",
-                "URL": "https://www.crab-o-licious.com/salt-and-pepper-crab.html"
-            },
-            {
-                "name": "Food and Wine",
-                "URL": "https://www.foodandwine.com/recipes/salt-and-pepper-crab"
-            },
-            {
-                "name": "SBS",
-                "URL": "https://www.sbs.com.au/food/recipes/salt-and-pepper-crab"
-            },
-            {
-                "name": "Vicky Pham",
-                "URL": "https://www.vickypham.com/blog/salt-pepper-crab-cua-rang-muoi"
-            }
-            
-           
-        ]
-    }
+    "images": [
+      {
+        "image": "saltandpeppereggplant",
+        "place": "Orchids Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Eggplant seasoned with with salt and pepper.",
+    "tags": ["茶餐廳", "茄子", "素", "椒鹽"],
+    "resources": [
+      {
+        "name": "Momma Cuisine",
+        "URL": "https://mommacuisine.com/recipes/salt-and-pepper-eggplant"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salt and pepper crab",
+      "Cantonese": {
+        "text": "椒鹽蟹",
+        "wkty": ["椒鹽", "椒", "鹽", "鉗"]
+      },
+      "Yale": "jīu yìhm háaih",
+      "Simplified": {
+        "text": "椒盐蟹",
+        "wkty": ["椒盐", "椒", "盐", "鉗"]
+      },
+      "Pinyin": "jiāo yán xiè",
+      "description": "{椒} is *pepper*, and {鹽} is *salt*, so {椒鹽} is *pepper salt*. {蟹} is *crab*, so 椒鹽鉗 is *pepper salt crab*."
+    },
+    "images": [
+      {
+        "image": "saltandpeppercrabbananaleafcafe",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Deep-fried soft shell crab seasoned with with salt and pepper.",
+    "tags": ["軟殼蟹", "茶餐廳", "海鮮", "蟹", "椒鹽"],
+    "resources": [
+      {
+        "name": "Andrew Zimmerman",
+        "URL": "https://andrewzimmern.com/recipes/crispy-salt-pepper-crab-legs/"
+      },
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/salt-and-pepper-soft-shell-crab/"
+      },
+      {
+        "name": "Crab-o-licious",
+        "URL": "https://www.crab-o-licious.com/salt-and-pepper-crab.html"
+      },
+      {
+        "name": "Food and Wine",
+        "URL": "https://www.foodandwine.com/recipes/salt-and-pepper-crab"
+      },
+      {
+        "name": "SBS",
+        "URL": "https://www.sbs.com.au/food/recipes/salt-and-pepper-crab"
+      },
+      {
+        "name": "Vicky Pham",
+        "URL": "https://www.vickypham.com/blog/salt-pepper-crab-cua-rang-muoi"
+      }
+    ]
+  }
 ]

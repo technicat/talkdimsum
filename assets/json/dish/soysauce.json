@@ -4,26 +4,16 @@
       "English": "soy sauce",
       "Cantonese": {
         "text": "豉油",
-        "wkty": [
-          "豉油",
-          "豉"
-        ]
+        "wkty": ["豉油", "豉"]
       },
       "Mandarin": {
         "text": "醬油",
-        "wkty": [
-          "醬油",
-          "油"
-        ]
+        "wkty": ["醬油", "油"]
       },
       "Yale": "sih yàuh",
       "Simplified": {
         "text": "酱油",
-        "wkty": [
-          "酱油",
-          "酱",
-          "油"
-        ]
+        "wkty": ["酱油", "酱", "油"]
       },
       "Pinyin": "jiàng yóu",
       "description": "{豉} is *salted fermented beans* and {油} is *oil* (also used in {香油} *sesame oil*), so {豉油} is *salted fermented bean oil*."
@@ -35,10 +25,7 @@
       }
     ],
     "description": "[Soy sauce](https://en.wikipedia.org/wiki/Soy_sauce) is brewed from fermented soybean paste.\n\n**History**\n\nSoy sauce originated in China over two thousand years ago as a way to stretch the use of salt (a prized commodity in ancient China, heavily taxed and smuggled).",
-    "tags": [
-      "豉油",
-      "油"
-    ],
+    "tags": ["豉油", "油"],
     "resources": [
       {
         "name": "FluentUp",
@@ -75,11 +62,7 @@
       "English": "light soy sauce",
       "Cantonese": {
         "text": "生抽",
-        "wkty":[
-          "生抽",
-          "生",
-          "抽"
-        ]
+        "wkty": ["生抽", "生", "抽"]
       },
       "Yale": "sāang chāu",
       "Pinyin": "shēng chōu",
@@ -92,10 +75,7 @@
       }
     ],
     "description": "Light [Soy sauce](https://en.wikipedia.org/wiki/Soy_sauce), specifically Chinese light soy sauce (different from Japanese light soy sauce), is a thinner and lighter, but saltier, soy sauce, that is the default soy sauce used in cooking.",
-    "tags": [
-      "豉油",
-      "油"
-    ],
+    "tags": ["豉油", "油"],
     "resources": [
       {
         "name": "FluentUp",
@@ -124,30 +104,16 @@
       "English": "sweet soy sauce",
       "Cantonese": {
         "text": "甜豉油",
-        "wkty": [
-          "甜",
-          "豉油",
-          "豉",
-          "油"
-        ]
+        "wkty": ["甜", "豉油", "豉", "油"]
       },
       "Yale": "tìhm sih yàuh",
       "Mandarin": {
         "text": "甜醬油",
-        "wkty": [
-          "甜",
-          "醬油",
-          "油"
-        ]
+        "wkty": ["甜", "醬油", "油"]
       },
       "Simplified": {
         "text": "甜酱油",
-        "wkty": [
-          "甜",
-          "酱油",
-          "酱",
-          "油"
-        ]
+        "wkty": ["甜", "酱油", "酱", "油"]
       },
       "Pinyin": "tián jiàng yóu",
       "description": "{甜} is *sweet*, {豉} is *salted fermented beans* and {油} is *oil* (also used in {香油} *sesame oil*), so {豉油} is *sweet salted fermented bean oil*."
@@ -159,10 +125,7 @@
       }
     ],
     "description": "Sweet soy sauce conists mostly of wheat, so it's also known as [Tianmian sauce](https://en.wikipedia.org/wiki/Tianmian_sauce), which means *sweet flour sauce*, and not suprisingly very thick, so it's also known as *sweet wheat paste*.",
-    "tags": [
-      "豉油",
-      "油"
-    ],
+    "tags": ["豉油", "油"],
     "resources": [
       {
         "name": "Miss Chinese Food",
@@ -183,14 +146,7 @@
       "English": "mushroom soy sauce",
       "Cantonese": {
         "text": "蘑菇老抽",
-        "wkty": [
-          "蘑菇",
-          "蘑",
-          "菇",
-          "老抽",
-          "老",
-          "抽"
-        ]
+        "wkty": ["蘑菇", "蘑", "菇", "老抽", "老", "抽"]
       },
       "Yale": "mòh gū lóuh chāu",
       "Pinyin": "mó gu lǎo chōu",
@@ -203,11 +159,7 @@
       }
     ],
     "description": "[Mushroom-flavored soy sauce](https://thewoksoflife.com/mushroom-flavored-dark-soy-sauce/) is a [dark soy sauce](https://thewoksoflife.com/dark-soy-sauce/), typically used, sparingly, to add darker color to sauces.",
-    "tags": [
-      "菇",
-      "豉油",
-      "油"
-    ],
+    "tags": ["菇", "豉油", "油"],
     "resources": [
       {
         "name": "The Woks of Life",
@@ -220,11 +172,7 @@
       "English": "sesame oil",
       "Cantonese": {
         "text": "香油",
-        "wkty": [
-          "香油",
-          "香",
-          "油"
-        ]
+        "wkty": ["香油", "香", "油"]
       },
       "Yale": "hēung yàuh",
       "Jyutping": "hoeng1 jau4",
@@ -238,10 +186,7 @@
       }
     ],
     "description": "[Sesame oil](https://en.wikipedia.org/wiki/Sesame_oil) is made from toasted sesame seeds.\n\n**Tips**\n\nWhen shopping, look for pure sesame oil, not blended, and not cold pressed sesame oil. When cooking, apply sesame oil at the end or after just before serving, as high temperature destroys the flavor.",
-    "tags": [
-      "香油",
-      "油"
-    ],
+    "tags": ["香油", "油"],
     "resources": [
       {
         "name": "Wikipedia",

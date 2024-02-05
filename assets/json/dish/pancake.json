@@ -1,247 +1,182 @@
 [
-    {
-        "word": {
-            "English": "pancake",
-            "Cantonese": {
-                "text": "薄餅",
-                "wkty": [
-                    "薄餅",
-                    "薄",
-                    "餅"
-                ]
-            },
-            "Yale": "bohk béng",
-            "Simplified": {
-                "text": "薄饼",
-                "wkty": [
-                    "薄饼",
-                    "饼",
-                    "饼"
-                ]
-            },
-            "Pinyin": "bǐng bǐng",
-            "description": "{薄} is *thin*, and {餅} refers specifically to Chinese wheat flour breads, but also generally to flat and circular foods like cakes and cookies (and not just foods, e.g. a discus is an *iron pancake*, {鐵餅} tit béng). So {薄餅} is *thin pancake*.\n\nIn Cantonese, this word also refers to [pizza](https://en.wikipedia.org/wiki/Pizza)."
-        },
-        "images": [
-            {
-                "image": "pancakebigwong",
-                "place": "Big Wong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Thin wheat flour pancakes. These are often used as wrappers with fillings, including Chinese-American mushu dishes, but also by themselves (sometimes listed as *roti*).",
-        "tags": [
-            "餅",
-            "素",
-            "煎"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Bing_(bread)"
-            }
-        ]
+  {
+    "word": {
+      "English": "pancake",
+      "Cantonese": {
+        "text": "薄餅",
+        "wkty": ["薄餅", "薄", "餅"]
+      },
+      "Yale": "bohk béng",
+      "Simplified": {
+        "text": "薄饼",
+        "wkty": ["薄饼", "饼", "饼"]
+      },
+      "Pinyin": "bǐng bǐng",
+      "description": "{薄} is *thin*, and {餅} refers specifically to Chinese wheat flour breads, but also generally to flat and circular foods like cakes and cookies (and not just foods, e.g. a discus is an *iron pancake*, {鐵餅} tit béng). So {薄餅} is *thin pancake*.\n\nIn Cantonese, this word also refers to [pizza](https://en.wikipedia.org/wiki/Pizza)."
     },
-    {
-        "word": {
-            "English": "scallion pancake",
-            "Cantonese": {
-                "text": "蔥油餅",
-                "wkty": [
-                    "蔥油餅",
-                    "蔥",
-                    "油",
-                    "餅"
-                ]
-            },
-            "Yale": "chūng yòuh béng",
-            "Simplified": {
-                "text": "葱油饼",
-                "wkty": [
-                    "葱油餅",
-                    "葱",
-                    "油",
-                    "饼"
-                ]
-            },
-            "Pinyin": "cōng yóu bǐng",
-            "description": "{蔥} is the word for *scallion*, {油} is *oil*, and {餅} for *pie* (or *cookie* or *pancake* or really anything flat and circular). So {蔥油餅} is *scallion oil pancake*."
-        },
-        "images": [
-            {
-                "image": "scallionpancakeeverygrain",
-                "place": "Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Scallion pancakes](https://en.wikipedia.org/wiki/Cong_you_bing), also known as *green onion pancakes*, are circular pan-fried flatbreads folded with scallions (also known as green onions or spring onions) and oil, found in restaurants and as street food, and in the frozen section of Asian grocery stores (very convenient, just pan-fry for a few minutes).\n\n**Historical Note**\n\nThere's a theory in China that pizza was invented by Marco Polo based on scallion pancakes (this is not a popular theory in Italy).\n\n**Personal Note\n\nWhen I was a kid in Southern California, my mom made scallion pancakes using tortillas. I was so surprised when I finally had the real thing. The tortilla version was pretty good, though.",
-        "tags": [
-            "蔥油餅",
-            "蔥",
-            "油",
-            "餅",
-            "素",
-            "煎",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/green-onion-scallion-pancakes--340852783339173-c333ng-yoacuteub464ng.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-scallion-pancakes/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/scallion-pancakes-cong-you-bing/"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/green-onion-chive-pancakes-recipe-vegan/"
-            },
-            {
-                "name": "Cooking in Chinglish",
-                "URL": "https://cookinginchinglish.com/chinese-scallion-pancake/"
-            },
-            {
-                "name": "Cooking with Team J",
-                "URL": "https://cookingwithteamj.com/chinese-scallion-pancake-recipe/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2013/05/scallion-pancakes.html"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/green-onion-pancake/"
-            },
-            {
-                "name": "Dimsumptuous",
-                "URL": "http://www.dimsumptuous.com/2014/04/scallion-pancakes.html"
-            },
-            {
-                "name": "Food Touring",
-                "URL": "https://food-touring.com/2014/01/08/shanghai-green-onion-pancake/"
-            },
-            {
-                "name": "Kirbie's Cravings",
-                "URL": "https://kirbiecravings.com/scallion-pancakes/"
-            },
-            {
-                "name": "Pups with Chopsticks",
-                "URL": "https://pupswithchopsticks.com/buttery-scallion-pancakes/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/index/by-type/dim-sum/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
-            }
-        ]
+    "images": [
+      {
+        "image": "pancakebigwong",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Thin wheat flour pancakes. These are often used as wrappers with fillings, including Chinese-American mushu dishes, but also by themselves (sometimes listed as *roti*).",
+    "tags": ["餅", "素", "煎"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Bing_(bread)"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "scallion pancake",
+      "Cantonese": {
+        "text": "蔥油餅",
+        "wkty": ["蔥油餅", "蔥", "油", "餅"]
+      },
+      "Yale": "chūng yòuh béng",
+      "Simplified": {
+        "text": "葱油饼",
+        "wkty": ["葱油餅", "葱", "油", "饼"]
+      },
+      "Pinyin": "cōng yóu bǐng",
+      "description": "{蔥} is the word for *scallion*, {油} is *oil*, and {餅} for *pie* (or *cookie* or *pancake* or really anything flat and circular). So {蔥油餅} is *scallion oil pancake*."
     },
-    {
-        "word": {
-            "English": "beef roll",
-            "Cantonese": {
-                "text": "牛肉卷餅",
-                "wkty": [
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "卷餅",
-                    "卷",
-                    "餅"
-                ]
-            },
-            "Yale": "ngàuh yuhk gyún béng",
-            "Simplified": {
-                "text": "牛肉卷餅",
-                "wkty": [
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "卷饼",
-                    "卷",
-                    "餅"
-                ]
-            },
-            "Pinyin": "niú ròu juǎn bǐng",
-            "description": "{牛肉} is *beef* ({牛} is *cow* and {肉} is *meat*). {卷} is *roll*. {餅} is *pancake*. So 牛肉卷餅 is *beef roll pancake*."
-        },
-        "images": [
-            {
-                "image": "beefrollsnoodkeking",
-                "place": "Noodle King, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A [scallion pancakes](https://en.wikipedia.org/wiki/Cong_you_bing) rolled up and filled with beef.",
-        "tags": [
-            "台菜",
-            "蔥油餅",
-            "牛肉",
-            "卷",
-            "餅"
-        ],
-        "resources": [
-            {
-                "name": "LA Weekly",
-                "URL": "https://www.laweekly.com/is-the-chinese-style-beef-roll-an-l-a-invention/"
-            },
-            {
-                "name": "Reach Further",
-                "URL": "https://www.eastwestbank.com/ReachFurther/News/Article/Recipes-of-China-Taiwanese-Beef-Roll-from-Pine-Crane"
-            },
-            {
-                "name": "Sift and Simmer",
-                "URL": "https://www.siftandsimmer.com/green-onion-pancake-beef-rolls/"
-            }
-        ]
+    "images": [
+      {
+        "image": "scallionpancakeeverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Scallion pancakes](https://en.wikipedia.org/wiki/Cong_you_bing), also known as *green onion pancakes*, are circular pan-fried flatbreads folded with scallions (also known as green onions or spring onions) and oil, found in restaurants and as street food, and in the frozen section of Asian grocery stores (very convenient, just pan-fry for a few minutes).\n\n**Historical Note**\n\nThere's a theory in China that pizza was invented by Marco Polo based on scallion pancakes (this is not a popular theory in Italy).\n\n**Personal Note\n\nWhen I was a kid in Southern California, my mom made scallion pancakes using tortillas. I was so surprised when I finally had the real thing. The tortilla version was pretty good, though.",
+    "tags": ["蔥油餅", "蔥", "油", "餅", "素", "煎", "點心"],
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/green-onion-scallion-pancakes--340852783339173-c333ng-yoacuteub464ng.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-scallion-pancakes/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/scallion-pancakes-cong-you-bing/"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/green-onion-chive-pancakes-recipe-vegan/"
+      },
+      {
+        "name": "Cooking in Chinglish",
+        "URL": "https://cookinginchinglish.com/chinese-scallion-pancake/"
+      },
+      {
+        "name": "Cooking with Team J",
+        "URL": "https://cookingwithteamj.com/chinese-scallion-pancake-recipe/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2013/05/scallion-pancakes.html"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/green-onion-pancake/"
+      },
+      {
+        "name": "Dimsumptuous",
+        "URL": "http://www.dimsumptuous.com/2014/04/scallion-pancakes.html"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/01/08/shanghai-green-onion-pancake/"
+      },
+      {
+        "name": "Kirbie's Cravings",
+        "URL": "https://kirbiecravings.com/scallion-pancakes/"
+      },
+      {
+        "name": "Pups with Chopsticks",
+        "URL": "https://pupswithchopsticks.com/buttery-scallion-pancakes/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/index/by-type/dim-sum/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "beef roll",
+      "Cantonese": {
+        "text": "牛肉卷餅",
+        "wkty": ["牛肉", "牛", "肉", "卷餅", "卷", "餅"]
+      },
+      "Yale": "ngàuh yuhk gyún béng",
+      "Simplified": {
+        "text": "牛肉卷餅",
+        "wkty": ["牛肉", "牛", "肉", "卷饼", "卷", "餅"]
+      },
+      "Pinyin": "niú ròu juǎn bǐng",
+      "description": "{牛肉} is *beef* ({牛} is *cow* and {肉} is *meat*). {卷} is *roll*. {餅} is *pancake*. So 牛肉卷餅 is *beef roll pancake*."
     },
-    {
-        "word": {
-            "English": "chives pancake",
-            "Cantonese": {
-                "text": "韭菜餅",
-                "wkty": [
-                    "韭菜",
-                    "韭",
-                    "菜",
-                    "餅"
-                ]
-            },
-            "Yale": "gáu choi béng",
-            "Simplified": {
-                "text": "韭菜饼",
-                "wkty": [
-                    "韭菜",
-                    "韭",
-                    "菜",
-                    "饼"
-                ]
-            },
-            "Pinyin": "jiǔ cài bǐng",
-            "description": "{韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餅} is the word for *pancake*."
-        },
-        "images": [
-            {
-                "image": "chivespancake99ranch",
-                "place": "99 Ranch Market, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Circular pan-fried flatbreads, like scallion pancakes but with Chinese chives (garlic chives) instead of scallions.",
-        "tags": [
-            "韭菜",
-            "餅",
-            "素",
-            "煎"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "beefrollsnoodkeking",
+        "place": "Noodle King, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A [scallion pancakes](https://en.wikipedia.org/wiki/Cong_you_bing) rolled up and filled with beef.",
+    "tags": ["台菜", "蔥油餅", "牛肉", "卷", "餅"],
+    "resources": [
+      {
+        "name": "LA Weekly",
+        "URL": "https://www.laweekly.com/is-the-chinese-style-beef-roll-an-l-a-invention/"
+      },
+      {
+        "name": "Reach Further",
+        "URL": "https://www.eastwestbank.com/ReachFurther/News/Article/Recipes-of-China-Taiwanese-Beef-Roll-from-Pine-Crane"
+      },
+      {
+        "name": "Sift and Simmer",
+        "URL": "https://www.siftandsimmer.com/green-onion-pancake-beef-rolls/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "chives pancake",
+      "Cantonese": {
+        "text": "韭菜餅",
+        "wkty": ["韭菜", "韭", "菜", "餅"]
+      },
+      "Yale": "gáu choi béng",
+      "Simplified": {
+        "text": "韭菜饼",
+        "wkty": ["韭菜", "韭", "菜", "饼"]
+      },
+      "Pinyin": "jiǔ cài bǐng",
+      "description": "{韭菜} is [Chinese chives](https://en.wikipedia.org/wiki/Allium_tuberosum#China) (also known as *garlic chives*), and {餅} is the word for *pancake*."
+    },
+    "images": [
+      {
+        "image": "chivespancake99ranch",
+        "place": "99 Ranch Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Circular pan-fried flatbreads, like scallion pancakes but with Chinese chives (garlic chives) instead of scallions.",
+    "tags": ["韭菜", "餅", "素", "煎"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Cong_you_bing"
+      }
+    ]
+  }
 ]

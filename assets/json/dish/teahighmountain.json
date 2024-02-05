@@ -1,181 +1,150 @@
 [
-    {
-        "word": {
-            "English": "high mountain tea",
-            "Cantonese": {
-                "text": "高山茶",
-                "wkty": [
-                    "高山",
-                    "高",
-                    "山",
-                    "茶"
-                ]
-            },
-            "Yale": "gōu sāan chàh",
-            "Pinyin": "gāo shān chá",
-            "description": "{高} is *high*, {山} is *mountain*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {阿里山} is *high mountain tea*."
-        },
-        "images": [
-            {
-                "image": "highmountainteaeverygrain",
-                "place": "Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[High mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is oolong tea grown, surprise, high in the mountains of central Taiwan.",
-        "tags": [
-            "台菜",
-            "熱飲",
-            "臺灣",
-            "飲品",
-            "茶",
-            "熱茶",
-            "烏龍茶",
-            "高山茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Taiwanese Tea",
-                "URL": "https://en.wikipedia.org/wiki/Taiwanese_tea#High_Mountain_(Gao_Shan)_Teas"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/High-mountain_tea"
-            }
-        ]
+  {
+    "word": {
+      "English": "high mountain tea",
+      "Cantonese": {
+        "text": "高山茶",
+        "wkty": ["高山", "高", "山", "茶"]
+      },
+      "Yale": "gōu sāan chàh",
+      "Pinyin": "gāo shān chá",
+      "description": "{高} is *high*, {山} is *mountain*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {阿里山} is *high mountain tea*."
     },
-    {
-        "word": {
-            "English": "Alishan tea",
-            "Cantonese": {
-                "text": "阿里山高山茶",
-                "wkty": [
-                    "阿里山",
-                    "阿",
-                    "里",
-                    "山",
-                    "高山",
-                    "高",
-                    "茶"
-                ]
-            },
-            "Yale": "a léih sāan gōu sāan chàh",
-            "Pinyin": "Ā lǐ Shān gāo shān chá",
-            "description": "{阿里山} is the name [Alishan](https://en.wikipedia.org/wiki/Alishan,_Chiayi) (notice the third character is the same character for *mountain* as the second character for *high mountain* {高山}."
-        },
-        "images": [
-            {
-                "image": "alishanteaandwhisk",
-                "place": "Tea and Whisk, Las Vegas, Nevada"
-            }
-        ],
-        "description": "The most famous [high mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is grown in the Alishan mountain range of Taiwan.",
-        "tags": [
-            "台菜",
-            "熱飲",
-            "臺灣",
-            "飲品",
-            "茶",
-            "熱茶",
-            "烏龍茶",
-            "高山茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/ali-mountain-tea/"
-            },
-            {
-                "name": "Spiritual Travels",
-                "URL": "https://www.nickkembel.com/alishan-high-mountain-tea/"
-            },
-            {
-                "name": "Tea Culture",
-                "URL": "https://tea-culture.net/alishan-tea-taiwan/"
-            },
-            {
-                "name": "Tea from Taiwan",
-                "URL": "https://www.teafromtaiwan.com/Alishan_area"
-            }
-        ]
+    "images": [
+      {
+        "image": "highmountainteaeverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[High mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is oolong tea grown, surprise, high in the mountains of central Taiwan.",
+    "tags": [
+      "台菜",
+      "熱飲",
+      "臺灣",
+      "飲品",
+      "茶",
+      "熱茶",
+      "烏龍茶",
+      "高山茶",
+      "中國茶"
+    ],
+    "resources": [
+      {
+        "name": "Taiwanese Tea",
+        "URL": "https://en.wikipedia.org/wiki/Taiwanese_tea#High_Mountain_(Gao_Shan)_Teas"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/High-mountain_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Alishan tea",
+      "Cantonese": {
+        "text": "阿里山高山茶",
+        "wkty": ["阿里山", "阿", "里", "山", "高山", "高", "茶"]
+      },
+      "Yale": "a léih sāan gōu sāan chàh",
+      "Pinyin": "Ā lǐ Shān gāo shān chá",
+      "description": "{阿里山} is the name [Alishan](https://en.wikipedia.org/wiki/Alishan,_Chiayi) (notice the third character is the same character for *mountain* as the second character for *high mountain* {高山}."
     },
-    {
-        "word": {
-            "English": "gui fei oolong tea",
-            "Cantonese": {
-                "text": "貴妃烏龍茶",
-                "wkty": [
-                    "貴妃",
-                    "貴",
-                    "妃",
-                    "烏龍茶",
-                    "烏龍",
-                    "烏",
-                    "龍",
-                    "茶"
-                ]
-            },
-            "Yale": "gwai fēi wu lùhng chàh",
-            "Simplified": {
-                "text": "贵妃乌龙茶",
-                "wkty": [
-                    "贵妃",
-                    "贵",
-                    "妃",
-                    "乌龙茶",
-                    "乌龙",
-                    "乌",
-                    "龙",
-                    "茶"
-                ]
-            },
-            "Pinyin": "guì fēi wū lóng chá",
-            "description": "{貴妃} is the title of a high-ranking imperial concubine, in this case referring to the famous (or infamous) [Yang Gui Feng](https://en.wikipedia.org/wiki/Yang_Guifei). {烏龍} is *black dragon*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {烏龍茶} is *black dragon tea*, and *貴妃烏龍茶* is *imperial concubine black dragon tea*."
-        },
-        "images": [
-            {
-                "image": "guifuioolong",
-                "place": "Tea Zaanti, Salt Lake City, Utah"
-            }
-        ],
-        "description": "Gui fei oolong tea (gui fei is the Mandarin pronunciation), from the mountainous [Nantou County](https://en.wikipedia.org/wiki/Nantou_County) in Taiwan, is a [beauty tea](https://teaepicure.com/oriental-beauty-bug-bitten-teas/), ironically brewed from leaves that have been nibbled upon by bugs, which induces a healing reaction that imparts a sweetened flavor.",
-        "tags": [
-            "熱飲",
-            "高山茶",
-            "烏龍茶",
-            "中國茶",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "茶",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Curious Tea",
-                "URL": "https://www.curioustea.com/tea/oolong-tea/gui-fei-oolong/"
-            },
-            {
-                "name": "Ohio Tea Company",
-                "URL": "https://www.ohioteaco.com/Gui-Fei_p_2974.html"
-            },
-            {
-                "name": "Taiwan Leaf Tea",
-                "URL": "https://taiwanleaftea.com/oolong-tea/royal-gui-fei-oolong"
-            },
-            {
-                "name": "Tao of Tea",
-                "URL": "https://taooftea.com/product/gui-fei/"
-            },
-            {
-                "name": "Teapicure",
-                "URL": "https://teaepicure.com/oriental-beauty-bug-bitten-teas/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "alishanteaandwhisk",
+        "place": "Tea and Whisk, Las Vegas, Nevada"
+      }
+    ],
+    "description": "The most famous [high mountain tea](https://en.wikipedia.org/wiki/High-mountain_tea) is grown in the Alishan mountain range of Taiwan.",
+    "tags": [
+      "台菜",
+      "熱飲",
+      "臺灣",
+      "飲品",
+      "茶",
+      "熱茶",
+      "烏龍茶",
+      "高山茶",
+      "中國茶"
+    ],
+    "resources": [
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/ali-mountain-tea/"
+      },
+      {
+        "name": "Spiritual Travels",
+        "URL": "https://www.nickkembel.com/alishan-high-mountain-tea/"
+      },
+      {
+        "name": "Tea Culture",
+        "URL": "https://tea-culture.net/alishan-tea-taiwan/"
+      },
+      {
+        "name": "Tea from Taiwan",
+        "URL": "https://www.teafromtaiwan.com/Alishan_area"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "gui fei oolong tea",
+      "Cantonese": {
+        "text": "貴妃烏龍茶",
+        "wkty": ["貴妃", "貴", "妃", "烏龍茶", "烏龍", "烏", "龍", "茶"]
+      },
+      "Yale": "gwai fēi wu lùhng chàh",
+      "Simplified": {
+        "text": "贵妃乌龙茶",
+        "wkty": ["贵妃", "贵", "妃", "乌龙茶", "乌龙", "乌", "龙", "茶"]
+      },
+      "Pinyin": "guì fēi wū lóng chá",
+      "description": "{貴妃} is the title of a high-ranking imperial concubine, in this case referring to the famous (or infamous) [Yang Gui Feng](https://en.wikipedia.org/wiki/Yang_Guifei). {烏龍} is *black dragon*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {烏龍茶} is *black dragon tea*, and *貴妃烏龍茶* is *imperial concubine black dragon tea*."
+    },
+    "images": [
+      {
+        "image": "guifuioolong",
+        "place": "Tea Zaanti, Salt Lake City, Utah"
+      }
+    ],
+    "description": "Gui fei oolong tea (gui fei is the Mandarin pronunciation), from the mountainous [Nantou County](https://en.wikipedia.org/wiki/Nantou_County) in Taiwan, is a [beauty tea](https://teaepicure.com/oriental-beauty-bug-bitten-teas/), ironically brewed from leaves that have been nibbled upon by bugs, which induces a healing reaction that imparts a sweetened flavor.",
+    "tags": [
+      "熱飲",
+      "高山茶",
+      "烏龍茶",
+      "中國茶",
+      "飲品",
+      "熱飲",
+      "熱茶",
+      "茶",
+      "點心"
+    ],
+    "resources": [
+      {
+        "name": "Curious Tea",
+        "URL": "https://www.curioustea.com/tea/oolong-tea/gui-fei-oolong/"
+      },
+      {
+        "name": "Ohio Tea Company",
+        "URL": "https://www.ohioteaco.com/Gui-Fei_p_2974.html"
+      },
+      {
+        "name": "Taiwan Leaf Tea",
+        "URL": "https://taiwanleaftea.com/oolong-tea/royal-gui-fei-oolong"
+      },
+      {
+        "name": "Tao of Tea",
+        "URL": "https://taooftea.com/product/gui-fei/"
+      },
+      {
+        "name": "Teapicure",
+        "URL": "https://teaepicure.com/oriental-beauty-bug-bitten-teas/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yang_Guifei"
+      }
+    ]
+  }
 ]

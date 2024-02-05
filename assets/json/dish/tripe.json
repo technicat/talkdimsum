@@ -1,84 +1,61 @@
 [
-    {
-        "word": {
-            "English": "tripe",
-            "Cantonese": {
-                "text": "牛肚",
-                "wkty": [
-                    "牛肚",
-                    "牛",
-                    "肚"
-                ]
-            },
-            "Yale": "ngàuh tóuh",
-            "Pinyin": "niú dǔ",
-            "description": "{牛} is *cow*, {肚} is *stomach*, so {牛肚} is *cow stomach*."
-        },
-        "images": [
-            {
-                "image": "tripe"
-            }
-        ],
-        "description": "Beef tripe, steamed with garlic and ginger.",
-        "tags": [
-            "薑",
-            "蒸",
-            "肉",
-            "牛肉",
-            "牛肚",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Beef-Stomach"
-            },
-            {
-                "name": "Kit's Chow",
-                "URL": "http://kitschow.blogspot.com/2008/04/74-dim-sum-series-7-beef-stomach.html"
-            }
-        ]
+  {
+    "word": {
+      "English": "tripe",
+      "Cantonese": {
+        "text": "牛肚",
+        "wkty": ["牛肚", "牛", "肚"]
+      },
+      "Yale": "ngàuh tóuh",
+      "Pinyin": "niú dǔ",
+      "description": "{牛} is *cow*, {肚} is *stomach*, so {牛肚} is *cow stomach*."
     },
-    {
-        "word": {
-            "English": "tripe stew",
-            "Cantonese": {
-                "text": "牛雜",
-                "wkty": [
-                    "牛雜",
-                    "牛",
-                    "雜"
-                ]
-            },
-            "Yale": "ngàuh jaahp",
-            "Simplified": {
-                "text": "牛杂",
-                "wkty": [
-                    "牛杂",
-                    "牛",
-                    "杂"
-                ]
-            },
-            "Pinyin": "niú zá",
-            "description": "{牛} is *cow*, and {雜} is *mix*, so {牛雜} is *cow mix*."
-        },
-        "images": [
-            {
-                "image": "tripehkgarden",
-                "place": "Hong Kong Garden Seafood and Dim Sum, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Tripe stewed with Chinese turnips.",
-        "tags": [
-            "肉",
-            "牛肉",
-            "牛肚"
-        ],
-        "resources": [
-            {
-                "name": "Woks of Life",
-                "URL": "http://thewoksoflife.com/2014/11/dim-sum-tripe-stew/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "tripe"
+      }
+    ],
+    "description": "Beef tripe, steamed with garlic and ginger.",
+    "tags": ["薑", "蒸", "肉", "牛肉", "牛肚", "點心"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Beef-Stomach"
+      },
+      {
+        "name": "Kit's Chow",
+        "URL": "http://kitschow.blogspot.com/2008/04/74-dim-sum-series-7-beef-stomach.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "tripe stew",
+      "Cantonese": {
+        "text": "牛雜",
+        "wkty": ["牛雜", "牛", "雜"]
+      },
+      "Yale": "ngàuh jaahp",
+      "Simplified": {
+        "text": "牛杂",
+        "wkty": ["牛杂", "牛", "杂"]
+      },
+      "Pinyin": "niú zá",
+      "description": "{牛} is *cow*, and {雜} is *mix*, so {牛雜} is *cow mix*."
+    },
+    "images": [
+      {
+        "image": "tripehkgarden",
+        "place": "Hong Kong Garden Seafood and Dim Sum, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Tripe stewed with Chinese turnips.",
+    "tags": ["肉", "牛肉", "牛肚"],
+    "resources": [
+      {
+        "name": "Woks of Life",
+        "URL": "http://thewoksoflife.com/2014/11/dim-sum-tripe-stew/"
+      }
+    ]
+  }
 ]

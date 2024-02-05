@@ -16,9 +16,7 @@
       }
     ],
     "description": "Soup is prevalent in Chinese cuisine, including many noodle soups and soups served as desserts.",
-    "tags": [
-      "湯"
-    ],
+    "tags": ["湯"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -31,26 +29,12 @@
       "English": "soup of the day",
       "Cantonese": {
         "text": "是日例湯",
-        "wkty": [
-          "是日",
-          "是",
-          "日",
-          "例湯",
-          "例",
-          "湯"
-        ]
+        "wkty": ["是日", "是", "日", "例湯", "例", "湯"]
       },
       "Yale": "sih yaht laih tōng",
       "Simplified": {
         "text": "是日例汤",
-        "wkty": [
-          "是日",
-          "是",
-          "日",
-          "例汤",
-          "例",
-          "汤"
-        ]
+        "wkty": ["是日", "是", "日", "例汤", "例", "汤"]
       },
       "Pinyin": "shì rì lì tāng",
       "description": "{是日} is *this day*, and {例湯} is *regular soup* and by itself can also mean soup of the day, so 是日例湯 is *today's soup of the day*."
@@ -62,10 +46,7 @@
       }
     ],
     "description": "*Soup of the day* is a standard feature of ([Hong Kong cafes](https://en.wikipedia.org/wiki/Cha_chaan_teng)), often included in a set meal.",
-    "tags": [
-      "湯",
-      "茶餐廳"
-    ],
+    "tags": ["湯", "茶餐廳"],
     "resources": [
       {
         "name": "Hong Kong University",
@@ -78,23 +59,13 @@
       "English": "hot and sour soup",
       "Cantonese": {
         "text": "酸辣湯",
-        "wkty": [
-          "酸辣湯",
-          "酸",
-          "辣",
-          "湯"
-        ]
+        "wkty": ["酸辣湯", "酸", "辣", "湯"]
       },
       "Yale": "syūn laaht tōng",
       "Jyupting": "syun1 laat6 tong1",
       "Simplified": {
         "text": "酸辣汤",
-        "wkty": [
-          "酸辣汤",
-          "酸",
-          "辣",
-          "汤"
-        ]
+        "wkty": ["酸辣汤", "酸", "辣", "汤"]
       },
       "Pinyin": "suān là tāng",
       "description": "{酸} is *sour*, {辣} is *hot* (as in spicy or pungent), and the {湯} *soup*, so 酸辣湯 is *sour hot soup*."
@@ -106,14 +77,7 @@
       }
     ],
     "description": "A thick, spicy and sour soup, originating from [Sichuan](https://en.wikipedia.org/wiki/Hot_and_sour_soup), containing bamboo shoots and tofu.",
-    "tags": [
-      "豆腐",
-      "酸",
-      "辣",
-      "川菜",
-      "湯",
-      "熱"
-    ],
+    "tags": ["豆腐", "酸", "辣", "川菜", "湯", "熱"],
     "resources": [
       {
         "name": "Christine's Recipes",
@@ -150,25 +114,13 @@
       "English": "egg drop soup",
       "Cantonese": {
         "text": "蛋花湯",
-        "wkty": [
-          "蛋花湯",
-          "蛋花",
-          "蛋",
-          "花",
-          "湯"
-        ]
+        "wkty": ["蛋花湯", "蛋花", "蛋", "花", "湯"]
       },
       "Yale": "dáan fā tōng",
       "Jyupting": "daan2 faa1 tong1",
       "Simplified": {
         "text": "蛋花汤",
-        "wkty": [
-          "蛋花汤",
-          "蛋花",
-          "蛋",
-          "花",
-          "汤"
-        ]
+        "wkty": ["蛋花汤", "蛋花", "蛋", "花", "汤"]
       },
       "Pinyin": "dàn huā tāng",
       "description": "{蛋} is *egg*, {花} is *flower*, and {湯} is *soup*, so {蛋花湯} is *egg flower soup*."
@@ -180,12 +132,7 @@
       }
     ],
     "description": "Also known as *egg flower soup* (which matches the Chinese name), this is a popular Chinese and Chinese-American soup featuring beaten eggs mixed (dropped) into chicken broth.\n\n**Cooking tip**\n\nThis is one of the easier dishes to make yourself - heat up some chicken stock, add a pinch of corn starch to thicken it and some pepper, drizzle in the egg, swirling it so tendrils of egg spread in a flowering effect (hence the Chinese name).",
-    "tags": [
-      "湯",
-      "花",
-      "蛋",
-      "熱"
-    ],
+    "tags": ["湯", "花", "蛋", "熱"],
     "resources": [
       {
         "name": "Christie at Home",
@@ -218,22 +165,12 @@
       "English": "oxtail soup",
       "Cantonese": {
         "text": "牛尾湯",
-        "wkty": [
-          "牛尾",
-          "牛",
-          "尾",
-          "湯"
-        ]
+        "wkty": ["牛尾", "牛", "尾", "湯"]
       },
       "Yale": "ngàuh méih tōng",
       "Simplified": {
         "text": "牛尾汤",
-        "wkty": [
-          "牛尾",
-          "牛",
-          "尾",
-          "汤"
-        ]
+        "wkty": ["牛尾", "牛", "尾", "汤"]
       },
       "Pinyin": "niú wěi tāng",
       "description": "{牛尾} is [oxtail](https://en.wikipedia.org/wiki/Oxtail) ({牛} is *cow* or *ox*, and {尾} is *tail), and {湯} is *soup*, so 牛尾湯 is [oxtail soup](https://en.wikipedia.org/wiki/Oxtail_soup)."
@@ -245,10 +182,7 @@
       }
     ],
     "description": "A soup containing oxtail and vegetables.",
-    "tags": [
-      "湯",
-      "牛尾"
-    ],
+    "tags": ["湯", "牛尾"],
     "resources": [
       {
         "name": "Nom Life",
@@ -269,15 +203,7 @@
       "English": "West Lake beef soup",
       "Cantonese": {
         "text": "西湖牛肉羹",
-        "wkty": [
-          "西湖",
-          "西",
-          "湖",
-          "牛肉",
-          "牛",
-          "肉",
-          "羹"
-        ]
+        "wkty": ["西湖", "西", "湖", "牛肉", "牛", "肉", "羹"]
       },
       "Yale": "sāi wùh ngàuh yuhk gāng",
       "Pinyin": "Xī hú niú ròu gēng",
@@ -290,12 +216,7 @@
       }
     ],
     "description": "A soup containing beef, cornstarch, tofu, and mushrooms.",
-    "tags": [
-      "浙菜",
-      "湯",
-      "牛肉",
-      "熱"
-    ],
+    "tags": ["浙菜", "湯", "牛肉", "熱"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -320,26 +241,12 @@
       "English": "beef brisket in clear broth",
       "Cantonese": {
         "text": "清湯牛腩",
-        "wkty": [
-          "清湯",
-          "清",
-          "湯",
-          "牛腩",
-          "牛",
-          "腩"
-        ]
+        "wkty": ["清湯", "清", "湯", "牛腩", "牛", "腩"]
       },
       "Yale": "chīng tōng ngàuh náahm",
       "Simplified": {
         "text": "清汤牛腩",
-        "wkty": [
-          "清汤",
-          "清",
-          "汤",
-          "牛腩",
-          "牛",
-          "腩"
-        ]
+        "wkty": ["清汤", "清", "汤", "牛腩", "牛", "腩"]
       },
       "Pinyin": "qīng tāng niú nǎn",
       "description": "{清湯} is *clear soup* ({清} is *clear*, and {湯} is *soup*), and {牛腩} is *beef brisket* ({牛} is *beef*, and {腩} is *brisket*), so 清湯牛腩 is *clear soup beef brisket*."
@@ -351,14 +258,7 @@
       }
     ],
     "description": "Slices of brisket and chunks of daikon in a clear soup.",
-    "tags": [
-      "港式",
-      "湯",
-      "清湯",
-      "牛肉",
-      "牛腩",
-      "蘿蔔"
-    ],
+    "tags": ["港式", "湯", "清湯", "牛肉", "牛腩", "蘿蔔"],
     "resources": [
       {
         "name": "Aunt Emily",
@@ -383,22 +283,12 @@
       "English": "chicken feet soup",
       "Cantonese": {
         "text": "雞腳湯",
-        "wkty": [
-          "雞腳",
-          "雞",
-          "腳",
-          "湯"
-        ]
+        "wkty": ["雞腳", "雞", "腳", "湯"]
       },
       "Yale": "gāi geuk tōng",
       "Simplified": {
         "text": "鸡脚汤",
-        "wkty": [
-          "鸡脚",
-          "鸡",
-          "脚",
-          "汤"
-        ]
+        "wkty": ["鸡脚", "鸡", "脚", "汤"]
       },
       "Pinyin": "jījiǎo tāng",
       "description": "{雞腳} is [chicken feet](http://en.wikipedia.org/wiki/Chicken_feet) ({雞} is *chicken* and {腳} is *foot*),  and {湯} is *soup*."
@@ -410,13 +300,7 @@
       }
     ],
     "description": "A Cantonese soup made with chicken feet, ginger, and peanuts.",
-    "tags": [
-      "薑",
-      "花生",
-      "湯",
-      "雞腳",
-      "粵菜"
-    ],
+    "tags": ["薑", "花生", "湯", "雞腳", "粵菜"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -452,23 +336,11 @@
     "word": {
       "Cantonese": {
         "text": "酸梅湯",
-        "wkty": [
-          "酸梅湯",
-          "酸梅",
-          "酸",
-          "梅",
-          "湯"
-        ]
+        "wkty": ["酸梅湯", "酸梅", "酸", "梅", "湯"]
       },
       "Simplified": {
         "text": "酸梅汤",
-        "wkty": [
-          "酸梅湯",
-          "酸梅",
-          "酸",
-          "梅",
-          "汤"
-        ]
+        "wkty": ["酸梅湯", "酸梅", "酸", "梅", "汤"]
       },
       "English": "sour plum drink",
       "Yale": "syūn mùih tōng",
@@ -482,13 +354,7 @@
       }
     ],
     "description": "Sour plum drinks are made with sour plums, rock sugar, and other ingredients such as dried [osmanthus](https://en.wikipedia.org/wiki/Osmanthus) and [hawthorn](https://en.wikipedia.org/wiki/Crataegus). It's typically served cold as a popular summer drink.",
-    "tags": [
-      "桂花",
-      "冷飲",
-      "飲品",
-      "湯",
-      "酸"
-    ],
+    "tags": ["桂花", "冷飲", "飲品", "湯", "酸"],
     "resources": [
       {
         "name": "Simple Chinese Food",

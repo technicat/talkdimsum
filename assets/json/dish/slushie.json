@@ -1,182 +1,129 @@
 [
-    {
-        "word": {
-            "English": "slush",
-            "Cantonese": "冰沙",
-            "Yale": "bīng sā",
-            "Pinyin": "bīng shā",
-            "description": "{冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*."
-        },
-        "images": [
-            {
-                "image": "slushieteawayplus",
-                "place": "Tea Way Plus, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Slushes](https://en.wikipedia.org/wiki/Slushy) (or *slushies*, or even called [smoothies](https://en.wikipedia.org/wiki/Smoothie) although that's really something different) can often be found in boba tea shops these days (so naturally they are often served with boba or other toppins).",
-        "tags": [
-            "冷飲",
-            "冰沙",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Slushy"
-            }
-        ]
+  {
+    "word": {
+      "English": "slush",
+      "Cantonese": "冰沙",
+      "Yale": "bīng sā",
+      "Pinyin": "bīng shā",
+      "description": "{冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*."
     },
-    {
-        "word": {
-            "English": "lychee slush",
-            "Cantonese": {
-                "text": "荔枝冰沙",
-                "wkty": [
-                    "荔枝",
-                    "荔",
-                    "枝",
-                    "冰",
-                    "沙"
-                ]
-            },
-            "Yale": "laih jī bīng sā",
-            "Pinyin": "lì zhī bīng shā",
-            "description": "{荔枝} is [lychee](https://en.wikipedia.org/wiki/Lychee). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 荔枝冰沙 is *lychee ice sand*."
-        },
-        "images": [
-            {
-                "image": "lycheeslushie",
-                "place": "Vivi Bubble Tea, Salt Lake City, Utah"
-            }
-        ],
-        "description": "[Lychee](https://en.wikipedia.org/wiki/Lychee) flavored slush.",
-        "tags": [
-            "冰",
-            "冷飲",
-            "冰沙",
-            "荔枝",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Slushy"
-            }
-        ]
+    "images": [
+      {
+        "image": "slushieteawayplus",
+        "place": "Tea Way Plus, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Slushes](https://en.wikipedia.org/wiki/Slushy) (or *slushies*, or even called [smoothies](https://en.wikipedia.org/wiki/Smoothie) although that's really something different) can often be found in boba tea shops these days (so naturally they are often served with boba or other toppins).",
+    "tags": ["冷飲", "冰沙", "飲品"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Slushy"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lychee slush",
+      "Cantonese": {
+        "text": "荔枝冰沙",
+        "wkty": ["荔枝", "荔", "枝", "冰", "沙"]
+      },
+      "Yale": "laih jī bīng sā",
+      "Pinyin": "lì zhī bīng shā",
+      "description": "{荔枝} is [lychee](https://en.wikipedia.org/wiki/Lychee). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 荔枝冰沙 is *lychee ice sand*."
     },
-    {
-        "word": {
-            "English": "passionfruit slush",
-            "Cantonese": {
-                "text": "百香果冰沙",
-                "wkty": [
-                    "百香果",
-                    "百香",
-                    "百",
-                    "香",
-                    "果",
-                    "冰",
-                    "沙"
-                ]
-            },
-            "Yale": "baak hēung gwó bīng sā",
-            "Pinyin": "bǎi xiāng guǒ bīng shā",
-            "description": "{百} is *hundred*, {香} is *fragrant*, and {果} is [fruit](https://en.wikipedia.org/wiki/Fruit), so {百香果} is *hundred fragrant fruit*. {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 百香果冰沙 is *hundred fragrant fruit ice sand*."
-        },
-        "images": [
-            {
-                "image": "passionfruitslushabouttea",
-                "place": "About Tea, South Salt Lake, Utah"
-            }
-        ],
-        "description": "Slush made with [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) juice.",
-        "tags": [
-            "冰",
-            "冷飲",
-            "冰沙",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Slushy"
-            }
-        ]
+    "images": [
+      {
+        "image": "lycheeslushie",
+        "place": "Vivi Bubble Tea, Salt Lake City, Utah"
+      }
+    ],
+    "description": "[Lychee](https://en.wikipedia.org/wiki/Lychee) flavored slush.",
+    "tags": ["冰", "冷飲", "冰沙", "荔枝", "飲品"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Slushy"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "passionfruit slush",
+      "Cantonese": {
+        "text": "百香果冰沙",
+        "wkty": ["百香果", "百香", "百", "香", "果", "冰", "沙"]
+      },
+      "Yale": "baak hēung gwó bīng sā",
+      "Pinyin": "bǎi xiāng guǒ bīng shā",
+      "description": "{百} is *hundred*, {香} is *fragrant*, and {果} is [fruit](https://en.wikipedia.org/wiki/Fruit), so {百香果} is *hundred fragrant fruit*. {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 百香果冰沙 is *hundred fragrant fruit ice sand*."
     },
-    {
-        "word": {
-            "English": "strawberry slush",
-            "Cantonese": {
-                "text": "草莓冰沙",
-                "wkty": [
-                    "草莓",
-                    "草",
-                    "莓",
-                    "冰",
-                    "沙"
-                ]
-            },
-            "Yale": "chóu múi bīng sā",
-            "Pinyin": "cǎo méi bīng shā",
-            "description": "{草莓} is [strawberry](https://en.wikipedia.org/wiki/Strawberry). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *strawberry ice sand*."
-        },
-        "images": [
-            {
-                "image": "strawberryslushteaway",
-                "place": "Tea Way Plus, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Strawberry](https://en.wikipedia.org/wiki/Strawberry) flavored slush.",
-        "tags": [
-            "冰",
-            "冷飲",
-            "冰沙",
-            "士多啤梨",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Slushy"
-            }
-        ]
+    "images": [
+      {
+        "image": "passionfruitslushabouttea",
+        "place": "About Tea, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Slush made with [passion fruit](https://en.wikipedia.org/wiki/Passion_fruit_(fruit)) juice.",
+    "tags": ["冰", "冷飲", "冰沙", "飲品"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Slushy"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "strawberry slush",
+      "Cantonese": {
+        "text": "草莓冰沙",
+        "wkty": ["草莓", "草", "莓", "冰", "沙"]
+      },
+      "Yale": "chóu múi bīng sā",
+      "Pinyin": "cǎo méi bīng shā",
+      "description": "{草莓} is [strawberry](https://en.wikipedia.org/wiki/Strawberry). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *strawberry ice sand*."
     },
-    {
-        "word": {
-            "English": "mango slush",
-            "Cantonese": {
-                "text": "芒果冰沙",
-                "wkty": [
-                    "芒果",
-                    "芒",
-                    "果",
-                    "冰",
-                    "沙"
-                ]
-            },
-            "Yale": "mōng gwó bīng sā",
-            "Pinyin": "máng guǒ bīng shā",
-            "description": "{芒果} is [mango](https://en.wikipedia.org/wiki/Mango). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *mango ice sand*."
-        },
-        "images": [
-            {
-                "image": "mangoslushabouttea",
-                "place": "About Tea, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[Mango](https://en.wikipedia.org/wiki/Mango) flavored slush.",
-        "tags": [
-            "冰",
-            "冷飲",
-            "冰沙",
-            "芒果",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Slushy"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "strawberryslushteaway",
+        "place": "Tea Way Plus, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Strawberry](https://en.wikipedia.org/wiki/Strawberry) flavored slush.",
+    "tags": ["冰", "冷飲", "冰沙", "士多啤梨", "飲品"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Slushy"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "mango slush",
+      "Cantonese": {
+        "text": "芒果冰沙",
+        "wkty": ["芒果", "芒", "果", "冰", "沙"]
+      },
+      "Yale": "mōng gwó bīng sā",
+      "Pinyin": "máng guǒ bīng shā",
+      "description": "{芒果} is [mango](https://en.wikipedia.org/wiki/Mango). {冰} is *ice* and {沙} is *sand* (same word as used in *lava custard* {流沙}), so 冰沙 is *ice sand*, and 草莓冰沙 is *mango ice sand*."
+    },
+    "images": [
+      {
+        "image": "mangoslushabouttea",
+        "place": "About Tea, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[Mango](https://en.wikipedia.org/wiki/Mango) flavored slush.",
+    "tags": ["冰", "冷飲", "冰沙", "芒果", "飲品"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Slushy"
+      }
+    ]
+  }
 ]

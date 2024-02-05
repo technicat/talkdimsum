@@ -1,263 +1,203 @@
 [
-    {
-        "word": {
-            "English": "milk tea",
-            "Cantonese": {
-                "text": "奶茶",
-                "wkty": [
-                    "奶茶",
-                    "奶",
-                    "茶"
-                ]
-            },
-            "Yale": "náaih chàh",
-            "Pinyin": "nǎi chá",
-            "description": "{奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶} is [milk tea](https://en.wikipedia.org/wiki/Milk_tea)."
-        },
-        "images": [
-            {
-                "image": "hkmilkteajjnoodle",
-                "place": "JJ Noodle Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Traditional Chinese tea is not taken with milk, but British influence (i.e. colonization) spread [milk tea](https://en.wikipedia.org/wiki/Milk_tea) throughout including [Hong Kong-style milk tea](https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93style_milk_tea), and, much more recently, [Taiwanese bubble milk tea](https://en.wikipedia.org/wiki/Bubble_tea).",
-        "tags": [
-            "奶茶",
-            "茶",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Cooking in Chinglish",
-                "URL": "https://cookinginchinglish.com/milk-tea-for-boba/"
-            },
-            {
-                "name": "Honest Food Talks",
-                "URL": "https://www.honestfoodtalks.com/jasmine-milk-tea-recipe-boba/"
-            },
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/boba/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Milk_tea"
-            }
-        ]
+  {
+    "word": {
+      "English": "milk tea",
+      "Cantonese": {
+        "text": "奶茶",
+        "wkty": ["奶茶", "奶", "茶"]
+      },
+      "Yale": "náaih chàh",
+      "Pinyin": "nǎi chá",
+      "description": "{奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶} is [milk tea](https://en.wikipedia.org/wiki/Milk_tea)."
     },
-    {
-        "word": {
-            "English": "Hong Kong-style milk tea",
-            "Cantonese": {
-                "text": "港式奶茶",
-                "wkty": [
-                    "港式",
-                    "港",
-                    "式",
-                    "奶茶",
-                    "奶",
-                    "茶"
-                ]
-            },
-            "Yale": "góng sīk náaih chàh",
-            "Pinyin": "gǎng shì nǎi chá",
-            "description": "{港式} is *Hong Kong-style*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 港式奶茶 is *Hong Kong-style milk tea*."
-        },
-        "images": [
-            {
-                "image": "hkmilkteatopjjnoodle",
-                "place": "JJ Noodle Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Hong Kong-style milk tea, made with loads of black tea (so this is strong stuff) and evaporated or condensed milk.\n\nThe tea is traditionally strained through a sackcloth that darkens from use, so the tea is also known as 絲襪奶茶 (sī maht náaih chàh) *silk stocking milk tea*.",
-        "tags": [
-            "煉奶",
-            "港式",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "奶茶",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "Food Touring",
-                "URL": "https://food-touring.com/2014/01/13/hong-kong-hk-style-milk-tea/"
-            },
-            {
-                "name": "Honest Food Talks",
-                "URL": "https://www.honestfoodtalks.com/hong-kong-milk-tea-recipe/"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/11"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Hong_Kong-style_milk_tea"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/hong-kong-milk-tea/"
-            }
-        ]
+    "images": [
+      {
+        "image": "hkmilkteajjnoodle",
+        "place": "JJ Noodle Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Traditional Chinese tea is not taken with milk, but British influence (i.e. colonization) spread [milk tea](https://en.wikipedia.org/wiki/Milk_tea) throughout including [Hong Kong-style milk tea](https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93style_milk_tea), and, much more recently, [Taiwanese bubble milk tea](https://en.wikipedia.org/wiki/Bubble_tea).",
+    "tags": ["奶茶", "茶", "飲品"],
+    "resources": [
+      {
+        "name": "Cooking in Chinglish",
+        "URL": "https://cookinginchinglish.com/milk-tea-for-boba/"
+      },
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/jasmine-milk-tea-recipe-boba/"
+      },
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/boba/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Milk_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Hong Kong-style milk tea",
+      "Cantonese": {
+        "text": "港式奶茶",
+        "wkty": ["港式", "港", "式", "奶茶", "奶", "茶"]
+      },
+      "Yale": "góng sīk náaih chàh",
+      "Pinyin": "gǎng shì nǎi chá",
+      "description": "{港式} is *Hong Kong-style*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 港式奶茶 is *Hong Kong-style milk tea*."
     },
-    {
-        "word": {
-            "English": "coffee with tea",
-            "Cantonese": {
-                "text": "鴛鴦",
-                "wkty": [
-                    "鴛鴦",
-                    "鴛",
-                    "鴦"
-                ]
-            },
-            "Yale": "yūn yēung",
-            "Simplified": {
-                "text": "鸳鸯",
-                "wkty": [
-                    "鴛鴦",
-                    "鴛",
-                    "鴦"
-                ]
-            },
-            "Pinyin": "yuān yāng",
-            "description": "{鴛鴦} is the name for Mandarin ducks, where {鴛} refers to the male duck and {鴦} refers to female duck.\n\n{鴛鴦} is symbolic of couples, and, in the case of this coffee/tea mix, odd couples."
-        },
-        "images": [
-            {
-                "image": "yuenyeunglit88",
-                "place": "88 Noodle Papa, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A popular Hong Kong mix of coffee and Hong Kong style milk tea.",
-        "tags": [
-            "咖啡",
-            "鴛鴦",
-            "飲品",
-            "熱飲",
-            "熱茶",
-            "奶茶",
-            "茶",
-            "茶餐廳",
-            "港式"
-        ],
-        "resources": [
-            {
-                "name": "Mandarin Ducks",
-                "URL": "https://en.wikipedia.org/wiki/Mandarin_duck"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/15"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Yuenyeung"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/yuanyang-tea-hong-kong/"
-            }
-        ]
+    "images": [
+      {
+        "image": "hkmilkteatopjjnoodle",
+        "place": "JJ Noodle Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Hong Kong-style milk tea, made with loads of black tea (so this is strong stuff) and evaporated or condensed milk.\n\nThe tea is traditionally strained through a sackcloth that darkens from use, so the tea is also known as 絲襪奶茶 (sī maht náaih chàh) *silk stocking milk tea*.",
+    "tags": ["煉奶", "港式", "飲品", "熱飲", "熱茶", "奶茶", "茶"],
+    "resources": [
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/01/13/hong-kong-hk-style-milk-tea/"
+      },
+      {
+        "name": "Honest Food Talks",
+        "URL": "https://www.honestfoodtalks.com/hong-kong-milk-tea-recipe/"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/11"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hong_Kong-style_milk_tea"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/hong-kong-milk-tea/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "coffee with tea",
+      "Cantonese": {
+        "text": "鴛鴦",
+        "wkty": ["鴛鴦", "鴛", "鴦"]
+      },
+      "Yale": "yūn yēung",
+      "Simplified": {
+        "text": "鸳鸯",
+        "wkty": ["鴛鴦", "鴛", "鴦"]
+      },
+      "Pinyin": "yuān yāng",
+      "description": "{鴛鴦} is the name for Mandarin ducks, where {鴛} refers to the male duck and {鴦} refers to female duck.\n\n{鴛鴦} is symbolic of couples, and, in the case of this coffee/tea mix, odd couples."
     },
-    {
-        "word": {
-            "English": "boba milk tea",
-            "Cantonese": {
-                "text": "波霸奶茶",
-                "wkty": [
-                    "波霸奶茶",
-                    "波霸",
-                    "波",
-                    "霸",
-                    "奶茶",
-                    "奶",
-                    "茶"
-                ]
-            },
-            "Yale": "bō ba náaih chàh",
-            "Jyutping": "bo1 baa3 naai6 caa4",
-            "Pinyin": "bō bà nǎi chá",
-            "description": "{波霸} is *boba*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether {波霸奶茶} is *boba milk tea*."
-        },
-        "images": [
-            {
-                "image": "bobamilkteahappylemon",
-                "place": "Happy Lemon, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Milk tea with tapioca balls (boba), a concoction invented in Taiwan, although exactly where is disputed, according to [The Boba Book](https://www.thebobabook.com).\n\n**Origin Story*\n\nThere are rival origin stories from rival tea houses in Taiwan, one of them that bubble tea was invented when someone added tapioca balls to their tea during a staff meeting (for once, a productive meeting!).\n\n**Trivia**\n\n*Boba* is a slangy reference from the 80s, not to a Star Wars bounty hunter but instead a popular Hong Kong actress (think big bobas), so the drink is often termed more genteely as [bubble tea](https://en.wikipedia.org/wiki/Bubble_tea) (particularly in Taiwan where it was invented) and [pearl milk tea](https://simplechinesefood.com/recipe/pearl-milk-tea-134332).",
-        "tags": [
-            "台菜",
-            "臺灣",
-            "波霸",
-            "茶",
-            "奶茶",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "Simple Chinese Food",
-                "URL": "https://simplechinesefood.com/recipe/pearl-milk-tea-134332"
-            },
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/hong-kong-bubble-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Bubble_tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "yuenyeunglit88",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A popular Hong Kong mix of coffee and Hong Kong style milk tea.",
+    "tags": [
+      "咖啡",
+      "鴛鴦",
+      "飲品",
+      "熱飲",
+      "熱茶",
+      "奶茶",
+      "茶",
+      "茶餐廳",
+      "港式"
+    ],
+    "resources": [
+      {
+        "name": "Mandarin Ducks",
+        "URL": "https://en.wikipedia.org/wiki/Mandarin_duck"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/15"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yuenyeung"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/yuanyang-tea-hong-kong/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "boba milk tea",
+      "Cantonese": {
+        "text": "波霸奶茶",
+        "wkty": ["波霸奶茶", "波霸", "波", "霸", "奶茶", "奶", "茶"]
+      },
+      "Yale": "bō ba náaih chàh",
+      "Jyutping": "bo1 baa3 naai6 caa4",
+      "Pinyin": "bō bà nǎi chá",
+      "description": "{波霸} is *boba*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether {波霸奶茶} is *boba milk tea*."
     },
-    {
-        "word": {
-            "English": "brown sugar milk tea",
-            "Cantonese": {
-                "text": "黑糖奶茶",
-                "wkty": [
-                    "黑糖",
-                    "黑",
-                    "糖",
-                    "奶茶",
-                    "奶",
-                    "茶"
-                ]
-            },
-            "Yale": "hāk tòhng náaih chàh",
-            "Pinyin": "hēi táng nǎi chá",
-            "description": "{黑} is *black* and {糖} is *sugar*, so {黑糖} is *black sugar*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 黑糖奶茶 is *black sugar milk tea*."
-        },
-        "images": [
-            {
-                "image": "tigersugar",
-                "place": "Tiger Sugar, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Milk tea mixed with a brown sugar syrup. Also known as *tiger milk tea* due to the swirl of brown sugar syrup and cream or milk.",
-        "tags": [
-            "臺灣",
-            "波霸",
-            "黑糖",
-            "茶",
-            "奶茶",
-            "飲品"
-        ],
-        "resources": [
-            {
-                "name": "The Fat Kid Inside",
-                "URL": "https://thefatkidinside.com/brown-sugar-milk-tea-recipe/"
-            },
-            {
-                "name": "Milk and Pop",
-                "URL": "https://milkandpop.com/milk-tea/"
-            },
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/brown-sugar-milk-tea/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "bobamilkteahappylemon",
+        "place": "Happy Lemon, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Milk tea with tapioca balls (boba), a concoction invented in Taiwan, although exactly where is disputed, according to [The Boba Book](https://www.thebobabook.com).\n\n**Origin Story*\n\nThere are rival origin stories from rival tea houses in Taiwan, one of them that bubble tea was invented when someone added tapioca balls to their tea during a staff meeting (for once, a productive meeting!).\n\n**Trivia**\n\n*Boba* is a slangy reference from the 80s, not to a Star Wars bounty hunter but instead a popular Hong Kong actress (think big bobas), so the drink is often termed more genteely as [bubble tea](https://en.wikipedia.org/wiki/Bubble_tea) (particularly in Taiwan where it was invented) and [pearl milk tea](https://simplechinesefood.com/recipe/pearl-milk-tea-134332).",
+    "tags": ["台菜", "臺灣", "波霸", "茶", "奶茶", "飲品"],
+    "resources": [
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/pearl-milk-tea-134332"
+      },
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/hong-kong-bubble-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Bubble_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "brown sugar milk tea",
+      "Cantonese": {
+        "text": "黑糖奶茶",
+        "wkty": ["黑糖", "黑", "糖", "奶茶", "奶", "茶"]
+      },
+      "Yale": "hāk tòhng náaih chàh",
+      "Pinyin": "hēi táng nǎi chá",
+      "description": "{黑} is *black* and {糖} is *sugar*, so {黑糖} is *black sugar*. {奶} is *milk* and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so {奶茶}. Altogether, 黑糖奶茶 is *black sugar milk tea*."
+    },
+    "images": [
+      {
+        "image": "tigersugar",
+        "place": "Tiger Sugar, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Milk tea mixed with a brown sugar syrup. Also known as *tiger milk tea* due to the swirl of brown sugar syrup and cream or milk.",
+    "tags": ["臺灣", "波霸", "黑糖", "茶", "奶茶", "飲品"],
+    "resources": [
+      {
+        "name": "The Fat Kid Inside",
+        "URL": "https://thefatkidinside.com/brown-sugar-milk-tea-recipe/"
+      },
+      {
+        "name": "Milk and Pop",
+        "URL": "https://milkandpop.com/milk-tea/"
+      },
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/brown-sugar-milk-tea/"
+      }
+    ]
+  }
 ]

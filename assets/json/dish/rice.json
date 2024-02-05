@@ -4,20 +4,12 @@
       "English": "white rice",
       "Cantonese": {
         "text": "白飯",
-        "wkty": [
-          "白飯",
-          "白",
-          "飯"
-        ]
+        "wkty": ["白飯", "白", "飯"]
       },
       "Yale": "baahk faahn",
       "Simplified": {
         "text": "白饭",
-        "wkty": [
-          "白饭",
-          "白",
-          "饭"
-        ]
+        "wkty": ["白饭", "白", "饭"]
       },
       "Pinyin": "bái fàn",
       "description": "{白} is *white*, and {飯} is *rice* (cooked), so {白飯} is *white rice*.\n\nRice is so intrinsic to Chinese cuisine that {食飯} (sihk faahn), *eat rice*, generally means to have a meal (specifically, a Chinese meal)."
@@ -55,24 +47,14 @@
         "URL": "https://en.wikipedia.org/wiki/Cooked_rice"
       }
     ],
-    "tags": [
-      "白飯",
-      "茶餐廳",
-      "蒸",
-      "飯",
-      "素"
-    ]
+    "tags": ["白飯", "茶餐廳", "蒸", "飯", "素"]
   },
   {
     "word": {
       "English": "purple rice",
       "Cantonese": {
         "text": "黑米",
-        "wkty": [
-          "黑米",
-          "黑",
-          "米"
-        ]
+        "wkty": ["黑米", "黑", "米"]
       },
       "Yale": "hāk máih",
       "Pinyin": "hēi mǐ",
@@ -111,26 +93,14 @@
         "URL": "https://en.wikipedia.org/wiki/Black_rice"
       }
     ],
-    "tags": [
-      "蒸",
-      "飯",
-      "素"
-    ]
+    "tags": ["蒸", "飯", "素"]
   },
   {
     "word": {
       "English": "jasmine rice",
       "Cantonese": {
         "text": "茉莉香米",
-        "wkty": [
-          "茉莉香米",
-          "茉莉",
-          "茉",
-          "莉",
-          "香米",
-          "香",
-          "米"
-        ]
+        "wkty": ["茉莉香米", "茉莉", "茉", "莉", "香米", "香", "米"]
       },
       "Yale": "muht léi hēung máih",
       "Pinyin": "mò liá xiāng mǐ",
@@ -153,11 +123,6 @@
         "URL": "https://en.wikipedia.org/wiki/Jasmine_rice"
       }
     ],
-    "tags": [
-      "茉莉",
-      "蒸",
-      "飯",
-      "素"
-    ]
+    "tags": ["茉莉", "蒸", "飯", "素"]
   }
 ]

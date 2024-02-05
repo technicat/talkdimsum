@@ -1,116 +1,94 @@
 [
-    {
-        "word": {
-            "Cantonese": {
-                "text": "鐵觀音",
-                "wkty": [
-                    "鐵觀音",
-                    "鐵",
-                    "觀音",
-                    "觀",
-                    "音"
-                ]
-            },
-            "Simplified": {
-                "text": "铁观音",
-                "wkty": [
-                    "铁观音",
-                    "铁",
-                    "观音",
-                    "观",
-                    "音"
-                ]
-            },
-            "English": "iron goddess tea",
-            "Yale": "tit gūn yām",
-            "Pinyin": "tiě guān yīn",
-            "description": "{鐵} is *iron*, and {觀音} is the Chinese name for the Buddhist [goddess of compassion](https://en.wikipedia.org/wiki/Guanyin), so {鐵觀音} is *iron goddess of compassion*."
-        },
-        "images": [
-            {
-                "image": "irongoddessteapalette",
-                "place": "Tea Palette, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Often listed by its Mandarin pronunciation, [Tieguanyin](https://en.wikipedia.org/wiki/Tieguanyin), this the most popular oolong tea from Anxi (often listed as one of the [Chinese Top Ten Famous Teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas)), a county in Fujian province known for oolong teas.",
-        "tags": [
-            "閩菜",
-            "飲品",
-            "茶",
-            "熱茶",
-            "安溪县",
-            "福建省",
-            "烏龍茶",
-            "中國茶",
-            "中國十大名茶"
-        ],
-        "resources": [
-            {
-                "name": "Let's Drink Tea",
-                "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/tieguanyin-iron-goddess-tea/"
-            },
-            {
-                "name": "Sencha Tea Bar",
-                "URL": "https://senchateabar.com/blogs/blog/tieguanyin"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tieguanyin"
-            }
-        ]
+  {
+    "word": {
+      "Cantonese": {
+        "text": "鐵觀音",
+        "wkty": ["鐵觀音", "鐵", "觀音", "觀", "音"]
+      },
+      "Simplified": {
+        "text": "铁观音",
+        "wkty": ["铁观音", "铁", "观音", "观", "音"]
+      },
+      "English": "iron goddess tea",
+      "Yale": "tit gūn yām",
+      "Pinyin": "tiě guān yīn",
+      "description": "{鐵} is *iron*, and {觀音} is the Chinese name for the Buddhist [goddess of compassion](https://en.wikipedia.org/wiki/Guanyin), so {鐵觀音} is *iron goddess of compassion*."
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "黃金桂",
-                "wkty": [
-                    "黃金",
-                    "黃",
-                    "金",
-                    "桂"
-                ]
-            },
-            "Simplified": {
-                "text": "黄金桂",
-                "wkty": [
-                    "黄金",
-                    "黄",
-                    "金",
-                    "桂"
-                ]
-            },
-            "English": "huang jin gui",
-            "Yale": "wòhng gām gwai",
-            "Pinyin": "huáng jīn guì",
-            "description": "{黄金} is *gold* ({黄} is *yellow* and {金} is *gold* or *money*). {桂} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), so 黃金桂 is *golden osmanthus*."
-        },
-        "images": [
-            {
-                "image": "huangjinguiteazaanti",
-                "place": "Tea Zaanti, Salt Lake City, Utah"
-            }
-        ],
-        "description": "[Huang jin gui](https://en.wikipedia.org/wiki/Huangjin_Gui) (the Mandarin pronunciation), translates to *golden osmanthus*, but this is an oolong tea from Anxi in the Fujian province (also known for [iron goddess tea](https://en.wikipedia.org/wiki/Tieguanyin)). The name refers to the color of its leaves and the aroma reminiscent of osmanthus.",
-        "tags": [
-            "桂花",
-            "閩菜",
-            "飲品",
-            "茶",
-            "熱茶",
-            "安溪县",
-            "福建省",
-            "烏龍茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Tea source",
-                "URL": "https://www.teasource.com/blogs/beyond-the-leaf/what-is-huang-jin-gui"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Huangjin_Gui"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "irongoddessteapalette",
+        "place": "Tea Palette, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Often listed by its Mandarin pronunciation, [Tieguanyin](https://en.wikipedia.org/wiki/Tieguanyin), this the most popular oolong tea from Anxi (often listed as one of the [Chinese Top Ten Famous Teas](https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas)), a county in Fujian province known for oolong teas.",
+    "tags": [
+      "閩菜",
+      "飲品",
+      "茶",
+      "熱茶",
+      "安溪县",
+      "福建省",
+      "烏龍茶",
+      "中國茶",
+      "中國十大名茶"
+    ],
+    "resources": [
+      {
+        "name": "Let's Drink Tea",
+        "URL": "https://www.letsdrinktea.com/types-of-tea/oolong-tea/tieguanyin-iron-goddess-tea/"
+      },
+      {
+        "name": "Sencha Tea Bar",
+        "URL": "https://senchateabar.com/blogs/blog/tieguanyin"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tieguanyin"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "黃金桂",
+        "wkty": ["黃金", "黃", "金", "桂"]
+      },
+      "Simplified": {
+        "text": "黄金桂",
+        "wkty": ["黄金", "黄", "金", "桂"]
+      },
+      "English": "huang jin gui",
+      "Yale": "wòhng gām gwai",
+      "Pinyin": "huáng jīn guì",
+      "description": "{黄金} is *gold* ({黄} is *yellow* and {金} is *gold* or *money*). {桂} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), so 黃金桂 is *golden osmanthus*."
+    },
+    "images": [
+      {
+        "image": "huangjinguiteazaanti",
+        "place": "Tea Zaanti, Salt Lake City, Utah"
+      }
+    ],
+    "description": "[Huang jin gui](https://en.wikipedia.org/wiki/Huangjin_Gui) (the Mandarin pronunciation), translates to *golden osmanthus*, but this is an oolong tea from Anxi in the Fujian province (also known for [iron goddess tea](https://en.wikipedia.org/wiki/Tieguanyin)). The name refers to the color of its leaves and the aroma reminiscent of osmanthus.",
+    "tags": [
+      "桂花",
+      "閩菜",
+      "飲品",
+      "茶",
+      "熱茶",
+      "安溪县",
+      "福建省",
+      "烏龍茶",
+      "中國茶"
+    ],
+    "resources": [
+      {
+        "name": "Tea source",
+        "URL": "https://www.teasource.com/blogs/beyond-the-leaf/what-is-huang-jin-gui"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Huangjin_Gui"
+      }
+    ]
+  }
 ]

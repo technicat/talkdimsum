@@ -1,14 +1,13 @@
 [
   {
-    "word":
-      {
-        "English": "fried shrimp ball",
-        "Cantonese": "炸蝦球",
-        "Simplified": "炸虾球",
-        "Yale": "ja hā kàu",
-        "Pinyin": "zhà xiā qiú",
-        "description": "{炸} is *deep-fried*, {蝦} is *shrimp*, and {球} is *ball*, so 炸蝦球 is *deep-fried shrimp ball*."
-      },
+    "word": {
+      "English": "fried shrimp ball",
+      "Cantonese": "炸蝦球",
+      "Simplified": "炸虾球",
+      "Yale": "ja hā kàu",
+      "Pinyin": "zhà xiā qiú",
+      "description": "{炸} is *deep-fried*, {蝦} is *shrimp*, and {球} is *ball*, so 炸蝦球 is *deep-fried shrimp ball*."
+    },
     "images": [
       {
         "image": "shrimpballeastocean",
@@ -16,42 +15,24 @@
       }
     ],
     "description": "Deep-fried balls of shrimp paste.",
-    "tags": [
-      "蝦球",
-      "炸",
-      "蝦",
-      "球",
-      "海鮮",
-      "點心"
-    ],
+    "tags": ["蝦球", "炸", "蝦", "球", "海鮮", "點心"],
     "resources": []
   },
   {
-    "word":
-      {
-        "English": "frizzy shrimp ball",
-        "Cantonese": {
-          "text": "金絲蝦球",
-          "wkty": [
-            "金",
-            "絲",
-            "蝦",
-            "球"
-          ]
-        },
-        "Yale": "gām si hā kàu",
-        "Simplified": {
-          "text": "金丝虾球",
-          "wkty": [
-            "金",
-            "絲",
-            "蝦",
-            "球"
-          ]
-        },
-        "Pinyin": "jīn sī xiā qiú",
-        "description": "{金} is *gold*, {絲} is *wire* or *strip*, 蝦} is *shrimp*, and {球} is *ball*, so 金絲蝦球 is *gold strip shrimp ball*."
+    "word": {
+      "English": "frizzy shrimp ball",
+      "Cantonese": {
+        "text": "金絲蝦球",
+        "wkty": ["金", "絲", "蝦", "球"]
       },
+      "Yale": "gām si hā kàu",
+      "Simplified": {
+        "text": "金丝虾球",
+        "wkty": ["金", "絲", "蝦", "球"]
+      },
+      "Pinyin": "jīn sī xiā qiú",
+      "description": "{金} is *gold*, {絲} is *wire* or *strip*, 蝦} is *shrimp*, and {球} is *ball*, so 金絲蝦球 is *gold strip shrimp ball*."
+    },
     "images": [
       {
         "image": "shrimpballorchidgarden",
@@ -59,45 +40,24 @@
       }
     ],
     "description": "Shrimp balls encased by wonton strips and deep-fried.",
-    "tags": [
-      "蝦球",
-      "炸",
-      "雲吞",
-      "蝦",
-      "球",
-      "海鮮",
-      "點心"
-    ],
+    "tags": ["蝦球", "炸", "雲吞", "蝦", "球", "海鮮", "點心"],
     "resources": []
   },
   {
-    "word":
-      {
-        "English": "pearl shrimp ball",
-        "Cantonese": {
-          "text": "珍珠蝦球",
-          "wkty": [
-            "珍珠",
-            "珍",
-            "珠",
-            "蝦",
-            "球"
-          ]
-        },
-        "Yale": "jān jyū hā kàu",
-        "Simplified": {
-          "text": "珍珠虾球",
-          "wkty": [
-            "珍珠",
-            "珍",
-            "珠",
-            "虾",
-            "球"
-          ]
-        },
-        "Pinyin": "zhēn zhū xiā qiú",
-        "description": "{珍珠} is *pearl*, {蝦} is *shrimp*, and {球} is *ball*, so 珍珠蝦球 is *pearl shrimp ball*."
+    "word": {
+      "English": "pearl shrimp ball",
+      "Cantonese": {
+        "text": "珍珠蝦球",
+        "wkty": ["珍珠", "珍", "珠", "蝦", "球"]
       },
+      "Yale": "jān jyū hā kàu",
+      "Simplified": {
+        "text": "珍珠虾球",
+        "wkty": ["珍珠", "珍", "珠", "虾", "球"]
+      },
+      "Pinyin": "zhēn zhū xiā qiú",
+      "description": "{珍珠} is *pearl*, {蝦} is *shrimp*, and {球} is *ball*, so 珍珠蝦球 is *pearl shrimp ball*."
+    },
     "images": [
       {
         "image": "pearlshrimpballpingpangpong",
@@ -105,15 +65,7 @@
       }
     ],
     "description": "Deep-fhrimp balls coated with sticky rice.",
-    "tags": [
-      "珍珠",
-      "蝦球",
-      "炸",
-      "蝦",
-      "球",
-      "海鮮",
-      "點心"
-    ],
+    "tags": ["珍珠", "蝦球", "炸", "蝦", "球", "海鮮", "點心"],
     "resources": [
       {
         "name": "More Than Bread",
@@ -122,15 +74,14 @@
     ]
   },
   {
-    "word":
-      {
-        "Cantonese": "炸蔗蝦",
-        "Simplified": "炸蔗虾",
-        "English": "sugarcane shrimp",
-        "Yale": "ja je hā",
-        "Pinyin": "zhà zhè xiā",
-        "description": "{炸} is *deep-fried*, {蔗} is *sugarcane*, {蝦} is *shrimp*, so 炸蔗蝦 is *deep-fried sugarcane shrimp*."
-      },
+    "word": {
+      "Cantonese": "炸蔗蝦",
+      "Simplified": "炸蔗虾",
+      "English": "sugarcane shrimp",
+      "Yale": "ja je hā",
+      "Pinyin": "zhà zhè xiā",
+      "description": "{炸} is *deep-fried*, {蔗} is *sugarcane*, {蝦} is *shrimp*, so 炸蔗蝦 is *deep-fried sugarcane shrimp*."
+    },
     "images": [
       {
         "image": "sugarcaneshrimphkgarden",
@@ -138,43 +89,24 @@
       }
     ],
     "description": "Shrimp balls on sugarcane sticks, resembling shrimp ball lollipops, or maybe shrimp ball drumsticks..",
-    "tags": [
-      "炸",
-      "蝦",
-      "蔗",
-      "海鮮",
-      "點心"
-    ],
+    "tags": ["炸", "蝦", "蔗", "海鮮", "點心"],
     "resources": []
   },
   {
-    "word":
-      {
-        "English": "almond shrimp ball",
-        "Cantonese": {
-          "text": "杏仁蝦球",
-          "wkty": [
-            "杏仁",
-            "杏",
-            "仁",
-            "蝦",
-            "球"
-          ]
-        },
-        "Yale": "hahng yàhn hā kàu",
-        "Simplified": {
-          "text": "杏仁虾球",
-          "wkty": [
-            "杏仁",
-            "杏",
-            "仁",
-            "虾",
-            "球"
-          ]
-        },
-        "Pinyin": "xìng rén xiā qiú",
-        "description": "{杏仁} is *almond*, {蝦} is *shrimp*, and {球} is *ball*, so 杏仁蝦球 is *almond shrimp ball*."
+    "word": {
+      "English": "almond shrimp ball",
+      "Cantonese": {
+        "text": "杏仁蝦球",
+        "wkty": ["杏仁", "杏", "仁", "蝦", "球"]
       },
+      "Yale": "hahng yàhn hā kàu",
+      "Simplified": {
+        "text": "杏仁虾球",
+        "wkty": ["杏仁", "杏", "仁", "虾", "球"]
+      },
+      "Pinyin": "xìng rén xiā qiú",
+      "description": "{杏仁} is *almond*, {蝦} is *shrimp*, and {球} is *ball*, so 杏仁蝦球 is *almond shrimp ball*."
+    },
     "images": [
       {
         "image": "almondshrimpballpingpangpong",
@@ -182,15 +114,7 @@
       }
     ],
     "description": "Deep-fried shrimp balls coated with almonds.",
-    "tags": [
-      "杏仁",
-      "蝦球",
-      "炸",
-      "蝦",
-      "球",
-      "海鮮",
-      "點心"
-    ],
+    "tags": ["杏仁", "蝦球", "炸", "蝦", "球", "海鮮", "點心"],
     "resources": [
       {
         "name": "Egg Wan's Food Odyssey",

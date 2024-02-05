@@ -1,207 +1,151 @@
 [
-    {
-        "word": {
-            "English": "sweet soup",
-            "Cantonese": {
-                "text": "糖水",
-                "wkty": [
-                    "糖水",
-                    "糖",
-                    "水"
-                ]
-            },
-            "Yale": "tòhng séui",
-            "Jyupting": "tong4 seoi2",
-            "Pinyin": "táng shuǐ",
-            "description": "{糖} is *sugar*, and {水} is *water*, so {糖水} is *sugar water*.\n\nThe left component of {糖} is the skinny [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) form of {米}, the character for uncooked rice. That's an evolutionary vestige of the character's original use to denote sweet rice cakes."
-        },
-        "images": [
-            {
-                "image": "redbeansoupkitchen2",
-                "place": "Tai Wu, Millbrae, California"
-            }
-        ],
-        "description": "In Cantonese cuisine, [sweet soups](https://en.wikipedia.org/wiki/Tong_sui) are served as dessert at the end of meals or in dessert shops. Examples include [red bean soup](https://en.wikipedia.org/wiki/Hong_dou_tang) and [sweet potato soup](https://en.wikipedia.org/wiki/Sweet_potato_soup)",
-        "tags": [
-            "甜品",
-            "糖水",
-            "粵菜",
-            "湯"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tong_sui"
-            }
-        ]
+  {
+    "word": {
+      "English": "sweet soup",
+      "Cantonese": {
+        "text": "糖水",
+        "wkty": ["糖水", "糖", "水"]
+      },
+      "Yale": "tòhng séui",
+      "Jyupting": "tong4 seoi2",
+      "Pinyin": "táng shuǐ",
+      "description": "{糖} is *sugar*, and {水} is *water*, so {糖水} is *sugar water*.\n\nThe left component of {糖} is the skinny [radical](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)) form of {米}, the character for uncooked rice. That's an evolutionary vestige of the character's original use to denote sweet rice cakes."
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "紅豆湯",
-                "wkty": [
-                    "紅豆湯",
-                    "紅豆",
-                    "紅",
-                    "豆",
-                    "湯"
-                ]
-            },
-            "Simplified": {
-                "text": "红豆汤",
-                "wkty": [
-                    "红豆汤",
-                    "红豆",
-                    "红",
-                    "豆",
-                    "汤"
-                ]
-            },
-            "English": "red bean soup",
-            "Yale": "hùhng dáu tōng",
-            "Jyupting": "hung4 dau2 tong1",
-            "Pinyin": "hóng dòu tāng",
-            "description": "{紅豆} is [red bean](https://en.wikipedia.org/wiki/Adzuki_bean)) ({紅} is *red*, and {豆} is *bean*). {汤} is *soup*, so {紅豆湯} is *red bean soup*."
-        },
-        "images": [
-            {
-                "image": "redbeansouptaiwu",
-                "place": "Tai Wu, Millbrae, California"
-            }
-        ],
-        "description": "[Red bean soup](https://en.wikipedia.org/wiki/Hong_dou_tang) is a [sweet soup](https://en.wikipedia.org/wiki/Hong_dou_tang)  served as a dessert at the end of meals, made with [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)), water, [rock sugar](https://www.chinasichuanfood.com/rock-sugar/), and varying other items mixed in such as [taro](https://en.wikipedia.org/wiki/Taro), [sago]([sago](https://en.wikipedia.org/wiki/Sago)), lotus seed, and [citrus peel](https://en.wikipedia.org/wiki/Chenpi) (made from [mandarin oranges](https://en.wikipedia.org/wiki/Mandarin_orange).",
-        "tags": [
-            "陳皮",
-            "冰糖",
-            "糖水",
-            "粵菜",
-            "湯",
-            "熱"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/red-bean-soup-recipe/"
-            },
-            {
-                "name": "Food Touring",
-                "URL": "https://food-touring.com/2014/05/17/guangdong-hong-kong-red-bean-soup/"
-            },
-            {
-                "name": "Kirbie's Cravings",
-                "URL": "https://kirbiecravings.com/red-bean-soup/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/sweet-red-bean-soup"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/red-bean-soup/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Hong_dou_tang"
-            }
-        ]
+    "images": [
+      {
+        "image": "redbeansoupkitchen2",
+        "place": "Tai Wu, Millbrae, California"
+      }
+    ],
+    "description": "In Cantonese cuisine, [sweet soups](https://en.wikipedia.org/wiki/Tong_sui) are served as dessert at the end of meals or in dessert shops. Examples include [red bean soup](https://en.wikipedia.org/wiki/Hong_dou_tang) and [sweet potato soup](https://en.wikipedia.org/wiki/Sweet_potato_soup)",
+    "tags": ["甜品", "糖水", "粵菜", "湯"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tong_sui"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "紅豆湯",
+        "wkty": ["紅豆湯", "紅豆", "紅", "豆", "湯"]
+      },
+      "Simplified": {
+        "text": "红豆汤",
+        "wkty": ["红豆汤", "红豆", "红", "豆", "汤"]
+      },
+      "English": "red bean soup",
+      "Yale": "hùhng dáu tōng",
+      "Jyupting": "hung4 dau2 tong1",
+      "Pinyin": "hóng dòu tāng",
+      "description": "{紅豆} is [red bean](https://en.wikipedia.org/wiki/Adzuki_bean)) ({紅} is *red*, and {豆} is *bean*). {汤} is *soup*, so {紅豆湯} is *red bean soup*."
     },
-    {
-        "word": {
-            "English": "sweet potato soup",
-            "Cantonese": {
-                "text": "番薯糖水",
-                "wkty": [
-                    "番薯糖水",
-                    "番薯",
-                    "番",
-                    "薯",
-                    "糖水"
-                ]
-            },
-            "Yale": "fāan syú tòhng séui",
-            "Pinyin": "fān shǔ táng shuǐ"
-        },
-        "images": [
-            {
-                "image": "sweetpotatosoupkj",
-                "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Sweet potato soup](https://en.wikipedia.org/wiki/Sweet_potato_soup) is [a sweet soup](https://en.wikipedia.org/wiki/Hong_dou_tang) made from sweet potato boiled with rock candy and ginger (a sweet sweet potato soup!), cooled and served as a dessert at the end of meals.\n\n{番薯} is *sweet potato*, and {糖水} is *sweet soup* (糖 is *sugar* or *candy*, and 水 is *water*) so 番薯糖水 is *sweet potato sugar water*.",
-        "tags": [
-            "薑",
-            "糖水",
-            "菜",
-            "湯",
-            "番薯",
-            "熱",
-            "素"
-        ],
-        "resources": [
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2008/06/sweet-potato-dessert-hong-kong-style.html"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2015/12/chinese-sweet-potato-ginger-dessert-soup.html"
-            },
-            {
-                "name": "Mrs. P's Kitchen",
-                "URL": "http://www.mrspskitchen.net/sweet-potato-sweet-soup-%E8%95%83%E8%96%AF%E7%B3%96%E6%B0%B4/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Sweet_potato_soup"
-            }
-        ]
+    "images": [
+      {
+        "image": "redbeansouptaiwu",
+        "place": "Tai Wu, Millbrae, California"
+      }
+    ],
+    "description": "[Red bean soup](https://en.wikipedia.org/wiki/Hong_dou_tang) is a [sweet soup](https://en.wikipedia.org/wiki/Hong_dou_tang)  served as a dessert at the end of meals, made with [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean)), water, [rock sugar](https://www.chinasichuanfood.com/rock-sugar/), and varying other items mixed in such as [taro](https://en.wikipedia.org/wiki/Taro), [sago]([sago](https://en.wikipedia.org/wiki/Sago)), lotus seed, and [citrus peel](https://en.wikipedia.org/wiki/Chenpi) (made from [mandarin oranges](https://en.wikipedia.org/wiki/Mandarin_orange).",
+    "tags": ["陳皮", "冰糖", "糖水", "粵菜", "湯", "熱"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/red-bean-soup-recipe/"
+      },
+      {
+        "name": "Food Touring",
+        "URL": "https://food-touring.com/2014/05/17/guangdong-hong-kong-red-bean-soup/"
+      },
+      {
+        "name": "Kirbie's Cravings",
+        "URL": "https://kirbiecravings.com/red-bean-soup/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/sweet-red-bean-soup"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/red-bean-soup/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hong_dou_tang"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "sweet potato soup",
+      "Cantonese": {
+        "text": "番薯糖水",
+        "wkty": ["番薯糖水", "番薯", "番", "薯", "糖水"]
+      },
+      "Yale": "fāan syú tòhng séui",
+      "Pinyin": "fān shǔ táng shuǐ"
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "龜苓膏",
-                "wkty": [
-                    "龜苓膏",
-                    "龜",
-                    "苓",
-                    "膏"
-                ]
-            },
-            "Simplified": {
-                "text": "龟苓膏",
-                "wkty": [
-                    "龟苓膏",
-                    "龟",
-                    "苓",
-                    "膏"
-                ]
-            },
-            "English": "herbal jelly",
-            "Yale": "gwāi lìhng gōu",
-            "Pinyin": "guī líng gāo",
-            "description": "{龜} is *turtle*, {苓} is *used in*, and {膏} is *paste* or *oil*, so {龜苓膏} is *turtle used in paste*."
-        },
-        "images": [
-            {
-                "image": "herbaljellysweettalk",
-                "place": "Sweet Talk, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Offered as a medicine or dessert (a very bitter dessert), this traditionally incorporates a powder made from the bottom of turtle shells (the Chinese name means “turtle paste”), but these days it usually doesn't contain any turtle, so it's often listed in English as “herbal jelly.” (I asked what's in the herbal jelly in the photo, and the answer was “herb.”).",
-        "tags": [
-            "糖水",
-            "粵菜",
-            "甜品"
-        ],
-        "resources": [
-            {
-                "name": "Cinnamon Society",
-                "URL": "https://cinnamonsociety.com/recipes/blog/chinese-herbal-jelly"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Guilinggao"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "sweetpotatosoupkj",
+        "place": "KJ Dim Sum and Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Sweet potato soup](https://en.wikipedia.org/wiki/Sweet_potato_soup) is [a sweet soup](https://en.wikipedia.org/wiki/Hong_dou_tang) made from sweet potato boiled with rock candy and ginger (a sweet sweet potato soup!), cooled and served as a dessert at the end of meals.\n\n{番薯} is *sweet potato*, and {糖水} is *sweet soup* (糖 is *sugar* or *candy*, and 水 is *water*) so 番薯糖水 is *sweet potato sugar water*.",
+    "tags": ["薑", "糖水", "菜", "湯", "番薯", "熱", "素"],
+    "resources": [
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/06/sweet-potato-dessert-hong-kong-style.html"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2015/12/chinese-sweet-potato-ginger-dessert-soup.html"
+      },
+      {
+        "name": "Mrs. P's Kitchen",
+        "URL": "http://www.mrspskitchen.net/sweet-potato-sweet-soup-%E8%95%83%E8%96%AF%E7%B3%96%E6%B0%B4/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Sweet_potato_soup"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "龜苓膏",
+        "wkty": ["龜苓膏", "龜", "苓", "膏"]
+      },
+      "Simplified": {
+        "text": "龟苓膏",
+        "wkty": ["龟苓膏", "龟", "苓", "膏"]
+      },
+      "English": "herbal jelly",
+      "Yale": "gwāi lìhng gōu",
+      "Pinyin": "guī líng gāo",
+      "description": "{龜} is *turtle*, {苓} is *used in*, and {膏} is *paste* or *oil*, so {龜苓膏} is *turtle used in paste*."
+    },
+    "images": [
+      {
+        "image": "herbaljellysweettalk",
+        "place": "Sweet Talk, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Offered as a medicine or dessert (a very bitter dessert), this traditionally incorporates a powder made from the bottom of turtle shells (the Chinese name means “turtle paste”), but these days it usually doesn't contain any turtle, so it's often listed in English as “herbal jelly.” (I asked what's in the herbal jelly in the photo, and the answer was “herb.”).",
+    "tags": ["糖水", "粵菜", "甜品"],
+    "resources": [
+      {
+        "name": "Cinnamon Society",
+        "URL": "https://cinnamonsociety.com/recipes/blog/chinese-herbal-jelly"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Guilinggao"
+      }
+    ]
+  }
 ]

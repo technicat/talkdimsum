@@ -1,140 +1,87 @@
 [
-    {
-        "word": {
-            "English": "sticky rice cake w/ red bean paste",
-            "Cantonese": {
-                "text": "豆沙餅",
-                "wkty": [
-                    "豆沙",
-                    "豆",
-                    "沙",
-                    "餅"
-                ]
-            },
-            "Yale": "dauh sā béng",
-            "Simplified": {
-                "text": "豆沙饼",
-                "wkty": [
-                    "豆沙",
-                    "豆",
-                    "沙",
-                    "饼"
-                ]
-            },
-            "Pinyin": "dòushā bǐng",
-            "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {餅} is *cookie* or (usually round) *cake*, so 豆沙餅 is *red bean cake*."
-        },
-        "images": [
-            {
-                "image": "stickyricecakewithredbeanpastepingpangpong",
-                "place": "Ping Pang Pong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Glutinous rice filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))), pan-fried.",
-        "tags": [
-            "豆沙",
-            "餅",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "No Frills Recipes",
-                "URL": "https://www.nofrillsrecipes.com/2015/10/sticky-rice-cake-with-red-bean-paste.html"
-            }
-        ]
+  {
+    "word": {
+      "English": "sticky rice cake w/ red bean paste",
+      "Cantonese": {
+        "text": "豆沙餅",
+        "wkty": ["豆沙", "豆", "沙", "餅"]
+      },
+      "Yale": "dauh sā béng",
+      "Simplified": {
+        "text": "豆沙饼",
+        "wkty": ["豆沙", "豆", "沙", "饼"]
+      },
+      "Pinyin": "dòushā bǐng",
+      "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {餅} is *cookie* or (usually round) *cake*, so 豆沙餅 is *red bean cake*."
     },
-    {
-        "word": {
-            "English": "sticky rice cake w/ black sesame paste",
-            "Cantonese": {
-                "text": "黑芝麻餅",
-                "wkty": [
-                    "黑芝麻",
-                    "黑",
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "餅"
-                ]
-            },
-            "Yale": "hāk jī màh béng",
-            "Simplified": {
-                "text": "黑芝麻饼",
-                "wkty": [
-                    "黑芝麻",
-                    "黑",
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "饼"
-                ]
-            },
-            "Pinyin": "hēi zhī ma bǐng",
-            "description": "{黑} is *black*, and {芝麻} is *sesame seed*, and together {黑芝麻} is *black sesame seed paste*. {餅} is *cookie* or (usually round) *cake*, so 黑芝麻餅 is *black sesame seed paste cake*."
-        },
-        "images": [
-            {
-                "image": "blacksesamecakehkgarden",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Glutinous rice with a black sesame paste filling, pan-fried.",
-        "tags": [
-            "黑芝麻",
-            "芝麻",
-            "餅",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/sticky-rice-cake-with-black-sesame-filling/"
-            }
-        ]
+    "images": [
+      {
+        "image": "stickyricecakewithredbeanpastepingpangpong",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Glutinous rice filled with red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))), pan-fried.",
+    "tags": ["豆沙", "餅", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "No Frills Recipes",
+        "URL": "https://www.nofrillsrecipes.com/2015/10/sticky-rice-cake-with-red-bean-paste.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "sticky rice cake w/ black sesame paste",
+      "Cantonese": {
+        "text": "黑芝麻餅",
+        "wkty": ["黑芝麻", "黑", "芝麻", "芝", "麻", "餅"]
+      },
+      "Yale": "hāk jī màh béng",
+      "Simplified": {
+        "text": "黑芝麻饼",
+        "wkty": ["黑芝麻", "黑", "芝麻", "芝", "麻", "饼"]
+      },
+      "Pinyin": "hēi zhī ma bǐng",
+      "description": "{黑} is *black*, and {芝麻} is *sesame seed*, and together {黑芝麻} is *black sesame seed paste*. {餅} is *cookie* or (usually round) *cake*, so 黑芝麻餅 is *black sesame seed paste cake*."
     },
-    {
-        "word": {
-            "English": "sticky rice cake w/ green tea paste",
-            "Cantonese": {
-                "text": "綠茶餅",
-                "wkty": [
-                    "綠茶",
-                    "綠",
-                    "茶",
-                    "餅"
-                ]
-            },
-            "Yale": "luhk chàh béng",
-            "Simplified": {
-                "text": "绿茶饼",
-                "wkty": [
-                    "绿茶",
-                    "绿",
-                    "茶",
-                    "饼"
-                ]
-            },
-            "Pinyin": "lǜ chá bǐng",
-            "description": "{綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), and {餅} is *cookie* or *cake*."
-        },
-        "images": [
-            {
-                "image": "greenteastickyricepingpangpong5",
-                "place": "Ping Pang Pong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Glutinous rice with a green tea paste filling.",
-        "tags": [
-            "綠茶",
-            "餅",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": []
-    }
+    "images": [
+      {
+        "image": "blacksesamecakehkgarden",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Glutinous rice with a black sesame paste filling, pan-fried.",
+    "tags": ["黑芝麻", "芝麻", "餅", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/sticky-rice-cake-with-black-sesame-filling/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "sticky rice cake w/ green tea paste",
+      "Cantonese": {
+        "text": "綠茶餅",
+        "wkty": ["綠茶", "綠", "茶", "餅"]
+      },
+      "Yale": "luhk chàh béng",
+      "Simplified": {
+        "text": "绿茶饼",
+        "wkty": ["绿茶", "绿", "茶", "饼"]
+      },
+      "Pinyin": "lǜ chá bǐng",
+      "description": "{綠茶} is [green tea](https://en.wikipedia.org/wiki/Green_tea), and {餅} is *cookie* or *cake*."
+    },
+    "images": [
+      {
+        "image": "greenteastickyricepingpangpong5",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Glutinous rice with a green tea paste filling.",
+    "tags": ["綠茶", "餅", "素", "甜品", "點心"],
+    "resources": []
+  }
 ]

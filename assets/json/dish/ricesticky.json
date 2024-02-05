@@ -1,204 +1,156 @@
 [
-    {
-        "word": {
-            "English": "lotus leaf sticky rice",
-            "Cantonese": {
-                "text": "糯米雞",
-                "wkty": [
-                    "糯米雞",
-                    "糯米",
-                    "糯",
-                    "米",
-                    "雞"
-                ]
-            },
-            "Yale": "noh mái gāi",
-            "Simplified": {
-                "text": "糯米鸡",
-                "wkty": [
-                    "糯米鸡",
-                    "糯米",
-                    "糯",
-                    "米",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "nuò mǐ jī",
-            "description": "{糯} is *glutinous* and {米} is *rice* (in particular, uncooked rice or rice grains) so {糯米} is *glutinous rice*. The third character {雞} is the word for *chicken*, so {糯米雞} is *glutinous rice chicken*."
-        },
-        "images": [
-            {
-                "image": "lotusleafyumchaopen",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Glutinous rice](https://en.wikipedia.org/wiki/Glutinous_rice#Chinese) wrapped and steamed in a lotus leaf (don't eat the leaf), containing meat, mushroom and egg.",
-        "tags": [
-            "早餐",
-            "飯",
-            "蒸",
-            "糯米",
-            "雞",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/47612.html"
-            },
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Sticky-Rice-Wrapped-in-Lotus-Leaves"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/lo-mai-gai/"
-            },
-            {
-                "name": "Serious Eats",
-                "URL": "http://www.seriouseats.com/2015/03/how-to-make-chinese-sticky-rice-wrapped-lotus-leaf-lo-mai-gai.html"
-            },
-             {
-                "name": "The Spruce Eats",
-                "URL": "https://www.thespruceeats.com/lotus-leaf-wraps-lo-mai-gai-694478"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/lotus-leaf-sticky-rice/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/sticky-rice/lo-mai-gai"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Lo_mai_gai"
-            }
-        ]
+  {
+    "word": {
+      "English": "lotus leaf sticky rice",
+      "Cantonese": {
+        "text": "糯米雞",
+        "wkty": ["糯米雞", "糯米", "糯", "米", "雞"]
+      },
+      "Yale": "noh mái gāi",
+      "Simplified": {
+        "text": "糯米鸡",
+        "wkty": ["糯米鸡", "糯米", "糯", "米", "鸡"]
+      },
+      "Pinyin": "nuò mǐ jī",
+      "description": "{糯} is *glutinous* and {米} is *rice* (in particular, uncooked rice or rice grains) so {糯米} is *glutinous rice*. The third character {雞} is the word for *chicken*, so {糯米雞} is *glutinous rice chicken*."
     },
-    {
-        "word": {
-            "English": "sticky rice dumpling",
-            "Cantonese": "粽",
-            "Yale": "jung",
-            "Mandarin": {
-                "text": "粽子",
-                "wkty": [
-                    "粽子",
-                    "粽",
-                    "子"
-                ]
-            },
-            "Pinyin": "zòng zi"
-        },
-        "images": [
-            {
-                "image": "zongzidiamondbakery",
-                "place": "Diamond Bakery, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Glutinous rice and other fillings wrapped and steamed or boiled in bamboo leaves (don't eat the leaves), traditionally eaten during the [Dragon Boat Festival](https://en.wikipedia.org/wiki/Dragon_Boat_Festival).\n\nIn the United States, they are often listed by their Mandarin pronunciation [zongzi](https://en.wikipedia.org/wiki/Zongzi), and sometimes called *Chinese tamales*.\n\n**Legend**\n\nAfter the patriotic poet-politician [Qu Yuan](https://en.wikipedia.org/wiki/Qu_Yuan) drowned himself in a river, villagers threw zongzi into the water to distract fish from nibbling at the body, a practice now commemorated with the [Dragon Boat Festival](https://en.wikipedia.org/wiki/Dragon_Boat_Festival).",
-        "tags": [
-            "蒸",
-            "糯米",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/bamboo-wrapped-sticky-rice-dumpling--3193323376-zogravengzi.html"
-            },
-            {
-                "name": "Chinese Food Wiki",
-                "URL": "https://www.chinesefoodwiki.org/Zongzi"
-            },
-            {
-                "name": "Eat Cho Food",
-                "URL": "https://eatchofood.com/blog/2021/6/7/cantonese-style-joong"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "https://www.thehongkongcookery.com/2012/07/zong-zi-rice-dumpling.html"
-            },
-            {
-                "name": "Kirbie's Cravings",
-                "URL": "https://kirbiecravings.com/zongzi/"
-            },
-            {
-                "name": "Made With Lau",
-                "URL": "https://madewithlau.com/recipes/bamboo-sticky-rice"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/zongzi-two-ways/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Zongzi"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/zongzi-cantonese-style/"
-            }
-        ]
+    "images": [
+      {
+        "image": "lotusleafyumchaopen",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Glutinous rice](https://en.wikipedia.org/wiki/Glutinous_rice#Chinese) wrapped and steamed in a lotus leaf (don't eat the leaf), containing meat, mushroom and egg.",
+    "tags": ["早餐", "飯", "蒸", "糯米", "雞", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/47612.html"
+      },
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Sticky-Rice-Wrapped-in-Lotus-Leaves"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/lo-mai-gai/"
+      },
+      {
+        "name": "Serious Eats",
+        "URL": "http://www.seriouseats.com/2015/03/how-to-make-chinese-sticky-rice-wrapped-lotus-leaf-lo-mai-gai.html"
+      },
+      {
+        "name": "The Spruce Eats",
+        "URL": "https://www.thespruceeats.com/lotus-leaf-wraps-lo-mai-gai-694478"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/lotus-leaf-sticky-rice/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/sticky-rice/lo-mai-gai"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Lo_mai_gai"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "sticky rice dumpling",
+      "Cantonese": "粽",
+      "Yale": "jung",
+      "Mandarin": {
+        "text": "粽子",
+        "wkty": ["粽子", "粽", "子"]
+      },
+      "Pinyin": "zòng zi"
     },
-    {
-        "word": {
-            "English": "stir-fried sticky rice",
-            "Cantonese": {
-                "text": "生炒糯米飯",
-                "wkty": [
-                    "生炒糯米飯",
-                    "生",
-                    "炒",
-                    "糯米",
-                    "糯",
-                    "米",
-                    "飯"
-                ]
-            },
-            "Yale": "sāang cháau noh máih faahn",
-            "Simplified": {
-                "text": "生炒糯米饭",
-                "wkty": [
-                    "生炒糯米饭",
-                    "生",
-                    "炒",
-                    "糯米",
-                    "糯",
-                    "米",
-                    "饭"
-                ]
-            },
-            "Pinyin": "shēng chǎo nuò mǐ fàn",
-            "description": "{生} is *raw* or *uncooked*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and 糯米飯 is *sticky rice*."
-        },
-        "images": [
-            {
-                "image": "shiitakestickyricewithsausageyumcha",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Stir-fried glutinous rice, typically mixed with Chinese sausage and mushroom. Traditionally the glutinous rice is soaked in cold water then directly stir-fried, but sometimes it's cooked first.",
-        "tags": [
-            "炒",
-            "飯",
-            "炒飯",
-            "糯米"
-        ],
-        "resources": [
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2010/07/stir-fried-glutinous-rice.html"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/chinese-sticky-rice-with-sausage-lo-mai-fan/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/04/sticky-rice-with-chinese-sausage/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "zongzidiamondbakery",
+        "place": "Diamond Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Glutinous rice and other fillings wrapped and steamed or boiled in bamboo leaves (don't eat the leaves), traditionally eaten during the [Dragon Boat Festival](https://en.wikipedia.org/wiki/Dragon_Boat_Festival).\n\nIn the United States, they are often listed by their Mandarin pronunciation [zongzi](https://en.wikipedia.org/wiki/Zongzi), and sometimes called *Chinese tamales*.\n\n**Legend**\n\nAfter the patriotic poet-politician [Qu Yuan](https://en.wikipedia.org/wiki/Qu_Yuan) drowned himself in a river, villagers threw zongzi into the water to distract fish from nibbling at the body, a practice now commemorated with the [Dragon Boat Festival](https://en.wikipedia.org/wiki/Dragon_Boat_Festival).",
+    "tags": ["蒸", "糯米", "點心"],
+    "resources": [
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/bamboo-wrapped-sticky-rice-dumpling--3193323376-zogravengzi.html"
+      },
+      {
+        "name": "Chinese Food Wiki",
+        "URL": "https://www.chinesefoodwiki.org/Zongzi"
+      },
+      {
+        "name": "Eat Cho Food",
+        "URL": "https://eatchofood.com/blog/2021/6/7/cantonese-style-joong"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "https://www.thehongkongcookery.com/2012/07/zong-zi-rice-dumpling.html"
+      },
+      {
+        "name": "Kirbie's Cravings",
+        "URL": "https://kirbiecravings.com/zongzi/"
+      },
+      {
+        "name": "Made With Lau",
+        "URL": "https://madewithlau.com/recipes/bamboo-sticky-rice"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/zongzi-two-ways/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Zongzi"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/zongzi-cantonese-style/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "stir-fried sticky rice",
+      "Cantonese": {
+        "text": "生炒糯米飯",
+        "wkty": ["生炒糯米飯", "生", "炒", "糯米", "糯", "米", "飯"]
+      },
+      "Yale": "sāang cháau noh máih faahn",
+      "Simplified": {
+        "text": "生炒糯米饭",
+        "wkty": ["生炒糯米饭", "生", "炒", "糯米", "糯", "米", "饭"]
+      },
+      "Pinyin": "shēng chǎo nuò mǐ fàn",
+      "description": "{生} is *raw* or *uncooked*, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and 糯米飯 is *sticky rice*."
+    },
+    "images": [
+      {
+        "image": "shiitakestickyricewithsausageyumcha",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Stir-fried glutinous rice, typically mixed with Chinese sausage and mushroom. Traditionally the glutinous rice is soaked in cold water then directly stir-fried, but sometimes it's cooked first.",
+    "tags": ["炒", "飯", "炒飯", "糯米"],
+    "resources": [
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2010/07/stir-fried-glutinous-rice.html"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/chinese-sticky-rice-with-sausage-lo-mai-fan/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/04/sticky-rice-with-chinese-sausage/"
+      }
+    ]
+  }
 ]

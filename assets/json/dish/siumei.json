@@ -1,346 +1,265 @@
 [
-    {
-        "word": {
-            "English": "siu mei",
-            "Cantonese": {
-                "text": "燒味",
-                "wkty": [
-                    "燒味",
-                    "燒",
-                    "味"
-                ]
-            },
-            "Yale": "sīu meih",
-            "Simplified": {
-                "text": "烧味",
-                "wkty": [
-                    "烧味",
-                    "烧",
-                    "味"
-                ]
-            },
-            "Pinyin": "shāo wèi",
-            "description": "{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*.\n\nSiu mei is also known as {燒臘} (sīu laahp), *roast cured meat*.\n\n{燒} is also the first character in {燒賣} [siu mai](http://en.wikipedia.org/wiki/Shumai)."
-        },
-        "images": [
-            {
-                "image": "bbqnewasianbbq",
-                "place": "New Asian BBQ, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei) are [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats, basically Cantonese BBQ.",
-        "tags": [
-            "粵菜",
-            "燒味",
-            "肉",
-            "燒"
-        ],
-        "resources": [
-            {
-                "name": "The Culture Trip",
-                "URL": "https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Siu_mei"
-            }
-        ]
+  {
+    "word": {
+      "English": "siu mei",
+      "Cantonese": {
+        "text": "燒味",
+        "wkty": ["燒味", "燒", "味"]
+      },
+      "Yale": "sīu meih",
+      "Simplified": {
+        "text": "烧味",
+        "wkty": ["烧味", "烧", "味"]
+      },
+      "Pinyin": "shāo wèi",
+      "description": "{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*.\n\nSiu mei is also known as {燒臘} (sīu laahp), *roast cured meat*.\n\n{燒} is also the first character in {燒賣} [siu mai](http://en.wikipedia.org/wiki/Shumai)."
     },
-    {
-        "word": {
-            "English": "roast duck",
-            "Cantonese": {
-                "text": "燒鴨",
-                "wkty": [
-                    "燒鴨",
-                    "燒",
-                    "鴨"
-                ]
-            },
-            "Yale": "sīu aap",
-            "Simplified": {
-                "text": "烧鸭",
-                "wkty": [
-                    "烧鸭",
-                    "烧",
-                    "鸭"
-                ]
-            },
-            "Pinyin": "shāo yā",
-            "description": "{燒} is *roasted*, and {鴨} is *duck*, so {燒鴨} is *roasted duck*."
-        },
-        "images": [
-            {
-                "image": "roastduckhkgarden",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Cantonese-style roasted duck.",
-        "tags": [
-            "粵菜",
-            "燒鴨",
-            "燒味",
-            "鴨",
-            "肉",
-            "燒"
-        ],
-        "resources": [
-            {
-                "name": "CiCi Li",
-                "URL": "https://cicili.tv/cantonese-roasted-duck/"
-            },
-            {
-                "name": "The Domestic Man",
-                "URL": "https://thedomesticman.com/2019/06/26/cantonese-roast-duck/"
-            },
-            {
-                "name": "Guai Shu Shu",
-                "URL": "https://www.guaishushu1.com/roast-duck-%E7%83%A4%E9%B8%AD%EF%BC%89/"
-            },
-            {
-                "name": "Like a Chinese",
-                "URL": "https://likeachinese.com/cantonese-roast-duck/"
-            },
-            {
-                "name": "Oh My Food",
-                "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
-            },
-            {
-                "name": "Miss Chinese Food",
-                "URL": "https://misschinesefood.com/cantonese-roast-duck/"
-            },
-            {
-                "name": "Simple Chinese Food",
-                "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/roasted-braised-duck/"
-            }
-        ]
+    "images": [
+      {
+        "image": "bbqnewasianbbq",
+        "place": "New Asian BBQ, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei) are [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats, basically Cantonese BBQ.",
+    "tags": ["粵菜", "燒味", "肉", "燒"],
+    "resources": [
+      {
+        "name": "The Culture Trip",
+        "URL": "https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Siu_mei"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "roast duck",
+      "Cantonese": {
+        "text": "燒鴨",
+        "wkty": ["燒鴨", "燒", "鴨"]
+      },
+      "Yale": "sīu aap",
+      "Simplified": {
+        "text": "烧鸭",
+        "wkty": ["烧鸭", "烧", "鸭"]
+      },
+      "Pinyin": "shāo yā",
+      "description": "{燒} is *roasted*, and {鴨} is *duck*, so {燒鴨} is *roasted duck*."
     },
-    {
-        "word": {
-            "English": "BBQ pork",
-            "Cantonese": {
-                "text": "叉燒",
-                "wkty": [
-                    "叉燒",
-                    "叉",
-                    "燒"
-                ]
-            },
-            "Yale": "chā sīu",
-            "Jyutping": "caa1 siu1",
-            "Simplified": {
-                "text": "叉烧",
-                "wkty": [
-                    "叉烧",
-                    "叉",
-                    "烧"
-                ]
-            },
-            "Pinyin": "chā shāo",
-            "description": "{叉} is *fork*, and {燒} is *roast*, so {叉燒} is *fork roast*, referring to how the meat was traditionally roasted on a skewer."
-        },
-        "images": [
-            {
-                "image": "chasiukitchen",
-                "place": "Kitchen, Millbrae, California"
-            }
-        ],
-        "description": "[Cha siu](https://en.wikipedia.org/wiki/Char_siu) (the Cantonese pronunciation) is boneless pork oven-roasted with a sweet coating. For meals, the slices of meat are often served on a plate arrayed with other appetizers. Chunks of cha siu are ingredients in many dim sum dishes. Hunks of cha siu are available for takeout at restaurants and meat shops.",
-        "tags": [
-            "粵菜",
-            "燒味",
-            "肉",
-            "叉燒",
-            "燒",
-            "肉",
-            "豬肉"
-        ],
-        "resources": [
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2008/08/juicy-barbecued-pork-cantonese-classic.html"
-            },
-            {
-                "name": "Kirbie's Cravings",
-                "URL": "https://kirbiecravings.com/char-siu-chinese-bbq-pork/"
-            },
-            {
-                "name": "Lost Laowai",
-                "URL": "https://www.lostlaowai.com/recipes/main-dish/char-siu-cantonese-roast-pork/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://madewithlau.com/recipes/char-siu-chinese-bbq-pork"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/char-siu-chinese-bbq-pork/"
-            },
-            {
-                "name": "Viet World Kitchen",
-                "URL": "https://eggwansfoododyssey.com/2010/04/08/char-siu-pork/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Char_siu"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"
-            }
-        ]
+    "images": [
+      {
+        "image": "roastduckhkgarden",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Cantonese-style roasted duck.",
+    "tags": ["粵菜", "燒鴨", "燒味", "鴨", "肉", "燒"],
+    "resources": [
+      {
+        "name": "CiCi Li",
+        "URL": "https://cicili.tv/cantonese-roasted-duck/"
+      },
+      {
+        "name": "The Domestic Man",
+        "URL": "https://thedomesticman.com/2019/06/26/cantonese-roast-duck/"
+      },
+      {
+        "name": "Guai Shu Shu",
+        "URL": "https://www.guaishushu1.com/roast-duck-%E7%83%A4%E9%B8%AD%EF%BC%89/"
+      },
+      {
+        "name": "Like a Chinese",
+        "URL": "https://likeachinese.com/cantonese-roast-duck/"
+      },
+      {
+        "name": "Oh My Food",
+        "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
+      },
+      {
+        "name": "Miss Chinese Food",
+        "URL": "https://misschinesefood.com/cantonese-roast-duck/"
+      },
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/roasted-braised-duck/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "BBQ pork",
+      "Cantonese": {
+        "text": "叉燒",
+        "wkty": ["叉燒", "叉", "燒"]
+      },
+      "Yale": "chā sīu",
+      "Jyutping": "caa1 siu1",
+      "Simplified": {
+        "text": "叉烧",
+        "wkty": ["叉烧", "叉", "烧"]
+      },
+      "Pinyin": "chā shāo",
+      "description": "{叉} is *fork*, and {燒} is *roast*, so {叉燒} is *fork roast*, referring to how the meat was traditionally roasted on a skewer."
     },
-    {
-        "word": {
-            "English": "pork belly",
-            "Cantonese": {
-                "text": "燒肉",
-                "wkty": [
-                    "燒肉",
-                    "燒",
-                    "肉"
-                ]
-            },
-            "Yale": "sīu yuhk",
-            "Simplified": {
-                "text": "烧肉",
-                "wkty": [
-                    "烧肉",
-                    "烧",
-                    "肉"
-                ]
-            },
-            "Pinyin": "shāo ròu",
-            "description": "{燒} is *roast*, and {肉} is *meat*, so {燒肉} is *roast meat*.\n\n{燒} is also the first character in {燒味} [siu mei](https://en.wikipedia.org/wiki/Siu_mei), the famiy of roast meats of which this is one, and also the first character in {燒賣} [siu mai](http://en.wikipedia.org/wiki/Shumai), no relation."
-        },
-        "images": [
-            {
-                "image": "porkbellyzenpeninsula",
-                "place": "Zen Peninsula, Millbrae, California"
-            }
-        ],
-        "description": "Juicy roast pork with a crispy golden skin, known as [siu yuk](https://en.wikipedia.org/wiki/Siu_yuk) (the Cantonese pronunciation). Pork belly is cut into squares or strips so that each piece includes a strip of the crunchy skin.",
-        "tags": [
-            "粵菜",
-            "燒肉",
-            "燒味",
-            "肉",
-            "燒",
-            "豬肉",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/45069.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/crispy-pork-belly-siu-yuk/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2011/03/crispy-roast-pork-belly.html"
-            },
-            {
-                "name": "Kirbie's Cravings",
-                "URL": "https://kirbiecravings.com/crispy-golden-pork-belly/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/siu-yuk-crispy-pork-belly"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Siu_yuk"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/03/cantonese-roast-pork-belly/"
-            }
-        ]
+    "images": [
+      {
+        "image": "chasiukitchen",
+        "place": "Kitchen, Millbrae, California"
+      }
+    ],
+    "description": "[Cha siu](https://en.wikipedia.org/wiki/Char_siu) (the Cantonese pronunciation) is boneless pork oven-roasted with a sweet coating. For meals, the slices of meat are often served on a plate arrayed with other appetizers. Chunks of cha siu are ingredients in many dim sum dishes. Hunks of cha siu are available for takeout at restaurants and meat shops.",
+    "tags": ["粵菜", "燒味", "肉", "叉燒", "燒", "肉", "豬肉"],
+    "resources": [
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2008/08/juicy-barbecued-pork-cantonese-classic.html"
+      },
+      {
+        "name": "Kirbie's Cravings",
+        "URL": "https://kirbiecravings.com/char-siu-chinese-bbq-pork/"
+      },
+      {
+        "name": "Lost Laowai",
+        "URL": "https://www.lostlaowai.com/recipes/main-dish/char-siu-cantonese-roast-pork/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://madewithlau.com/recipes/char-siu-chinese-bbq-pork"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/char-siu-chinese-bbq-pork/"
+      },
+      {
+        "name": "Viet World Kitchen",
+        "URL": "https://eggwansfoododyssey.com/2010/04/08/char-siu-pork/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Char_siu"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2014/02/chinese-bbq-pork-cha-siu/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "pork belly",
+      "Cantonese": {
+        "text": "燒肉",
+        "wkty": ["燒肉", "燒", "肉"]
+      },
+      "Yale": "sīu yuhk",
+      "Simplified": {
+        "text": "烧肉",
+        "wkty": ["烧肉", "烧", "肉"]
+      },
+      "Pinyin": "shāo ròu",
+      "description": "{燒} is *roast*, and {肉} is *meat*, so {燒肉} is *roast meat*.\n\n{燒} is also the first character in {燒味} [siu mei](https://en.wikipedia.org/wiki/Siu_mei), the famiy of roast meats of which this is one, and also the first character in {燒賣} [siu mai](http://en.wikipedia.org/wiki/Shumai), no relation."
     },
-    {
-        "word": {
-            "English": "soy sauce chicken",
-            "Cantonese": {
-                "text": "豉油雞",
-                "wkty": [
-                    "豉油雞",
-                    "豉油",
-                    "豉",
-                    "油",
-                    "雞"
-                    
-                ]
-            },
-            "Yale": "sih yàuh gāi",
-            "Simplified": {
-                "text": "豉油鸡",
-                "wkty": [
-                    "豉油鸡",
-                    "豉油",
-                    "豉",
-                    "油",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "chǐ yóu jī",
-            "description": "{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*."
-        },
-        "images": [
-            {
-                "image": "soysaucechickenasianbbqandnoodles",
-                "place": "New Asian BBQ & Noodles, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A Cantonese [siu-mei](https://en.wikipedia.org/wiki/Siu_mei) dish, chicken cooked with soy sauce.",
-        "tags": [
-            "豉油雞",
-            "豉油",
-            "粵菜",
-            "燒味",
-            "肉",
-            "燒",
-            "雞"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/easy-chinese-soy-sauce-chicken/"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/soy-sauce-chicken/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/soy-sauce-chicken"
-            },
-            {
-                "name": "Rasa Malaysia",
-                "URL": "https://rasamalaysia.com/chinese-soy-sauce-chicken-recipe/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/soy-sauce-chicken/"
-            },
-            {
-                "name": "Simple Chinese Food",
-                "URL": "https://simplechinesefood.com/recipe/soy-sauce-chicken-rice-188399"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Soy_sauce_chicken"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/soy-sauce-chicken/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "porkbellyzenpeninsula",
+        "place": "Zen Peninsula, Millbrae, California"
+      }
+    ],
+    "description": "Juicy roast pork with a crispy golden skin, known as [siu yuk](https://en.wikipedia.org/wiki/Siu_yuk) (the Cantonese pronunciation). Pork belly is cut into squares or strips so that each piece includes a strip of the crunchy skin.",
+    "tags": ["粵菜", "燒肉", "燒味", "肉", "燒", "豬肉", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/45069.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/crispy-pork-belly-siu-yuk/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2011/03/crispy-roast-pork-belly.html"
+      },
+      {
+        "name": "Kirbie's Cravings",
+        "URL": "https://kirbiecravings.com/crispy-golden-pork-belly/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/siu-yuk-crispy-pork-belly"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Siu_yuk"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/03/cantonese-roast-pork-belly/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "soy sauce chicken",
+      "Cantonese": {
+        "text": "豉油雞",
+        "wkty": ["豉油雞", "豉油", "豉", "油", "雞"]
+      },
+      "Yale": "sih yàuh gāi",
+      "Simplified": {
+        "text": "豉油鸡",
+        "wkty": ["豉油鸡", "豉油", "豉", "油", "鸡"]
+      },
+      "Pinyin": "chǐ yóu jī",
+      "description": "{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*."
+    },
+    "images": [
+      {
+        "image": "soysaucechickenasianbbqandnoodles",
+        "place": "New Asian BBQ & Noodles, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Cantonese [siu-mei](https://en.wikipedia.org/wiki/Siu_mei) dish, chicken cooked with soy sauce.",
+    "tags": ["豉油雞", "豉油", "粵菜", "燒味", "肉", "燒", "雞"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/easy-chinese-soy-sauce-chicken/"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/soy-sauce-chicken/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/soy-sauce-chicken"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/chinese-soy-sauce-chicken-recipe/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/soy-sauce-chicken/"
+      },
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/soy-sauce-chicken-rice-188399"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Soy_sauce_chicken"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/soy-sauce-chicken/"
+      }
+    ]
+  }
 ]

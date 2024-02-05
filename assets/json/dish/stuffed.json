@@ -1,150 +1,102 @@
 [
-    {
-        "word": {
-            "English": "stuffed eggplant",
-            "Cantonese": {
-                "text": "釀茄子",
-                "wkty": [
-                    "釀",
-                    "茄子",
-                    "茄",
-                    "子"
-                ]
-            },
-            "Yale": "yeuhng ké jí",
-            "Simplified": {
-                "text": "酿茄子",
-                "wkty": [
-                    "酿",
-                    "茄子",
-                    "茄",
-                    "子"
-                ]
-            },
-            "Pinyin": "niàng qié zi",
-            "description": "{釀} is used to describe stuffed vegetables, and {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant), so 釀茄子 is *stuffed eggplant*."
-        },
-        "images": [
-            {
-                "image": "stuffedeggplantdimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "In the same manner as stuffed tofu, this is [eggplant](https://en.wikipedia.org/wiki/Eggplant) (Chinese/Japanese eggplant, which is longer and thinner than Western eggplant), stuffed and served with a thick soy sauce.",
-        "tags": [
-            "煎",
-            "釀",
-            "茄子",
-            "豉油",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/stuffed-eggplant/"
-            },
-            {
-                "name": "Dimsumptuous",
-                "URL": "http://www.dimsumptuous.com/2013/06/chinese-stuffed-eggplant.html"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/chinese-stuffed-eggplant"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2014/12/chinese-stuffed-eggplant/"
-            }
-        ]
+  {
+    "word": {
+      "English": "stuffed eggplant",
+      "Cantonese": {
+        "text": "釀茄子",
+        "wkty": ["釀", "茄子", "茄", "子"]
+      },
+      "Yale": "yeuhng ké jí",
+      "Simplified": {
+        "text": "酿茄子",
+        "wkty": ["酿", "茄子", "茄", "子"]
+      },
+      "Pinyin": "niàng qié zi",
+      "description": "{釀} is used to describe stuffed vegetables, and {茄子} is [eggplant](https://en.wikipedia.org/wiki/Eggplant), so 釀茄子 is *stuffed eggplant*."
     },
-    {
-        "word": {
-            "English": "stuffed mushrooms",
-            "Cantonese": {
-                "text": "釀蘑菇",
-                "wkty": [
-                    "釀",
-                    "蘑菇",
-                    "蘑",
-                    "菇"
-                ]
-            },
-            "Yale": "yeuhng mòh gū",
-            "Simplified": {
-                "text": "酿蘑菇",
-                "wkty": [
-                    "酿",
-                    "蘑菇",
-                    "蘑",
-                    "菇"
-                ]
-            },
-            "Pinyin": "niàng mó gu",
-            "description": "{釀} is used to describe stuffed vegetables, and {蘑菇} is *mushroom*, so 釀蘑菇 is *stuffed mushroom*."
-        },
-        "images": [
-            {
-                "image": "stuffedmushroomsdimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "In the same manner as stuffed tofu, this mushrooms are stuffed and served with a thick soy sauce.",
-        "tags": [
-            "菇",
-            "釀",
-            "豉油",
-            "點心"
-        ],
-        "resources": []
+    "images": [
+      {
+        "image": "stuffedeggplantdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "In the same manner as stuffed tofu, this is [eggplant](https://en.wikipedia.org/wiki/Eggplant) (Chinese/Japanese eggplant, which is longer and thinner than Western eggplant), stuffed and served with a thick soy sauce.",
+    "tags": ["煎", "釀", "茄子", "豉油", "點心"],
+    "resources": [
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/stuffed-eggplant/"
+      },
+      {
+        "name": "Dimsumptuous",
+        "URL": "http://www.dimsumptuous.com/2013/06/chinese-stuffed-eggplant.html"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/chinese-stuffed-eggplant"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2014/12/chinese-stuffed-eggplant/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "stuffed mushrooms",
+      "Cantonese": {
+        "text": "釀蘑菇",
+        "wkty": ["釀", "蘑菇", "蘑", "菇"]
+      },
+      "Yale": "yeuhng mòh gū",
+      "Simplified": {
+        "text": "酿蘑菇",
+        "wkty": ["酿", "蘑菇", "蘑", "菇"]
+      },
+      "Pinyin": "niàng mó gu",
+      "description": "{釀} is used to describe stuffed vegetables, and {蘑菇} is *mushroom*, so 釀蘑菇 is *stuffed mushroom*."
     },
-    {
-        "word": {
-            "English": "stuffed bell peppers",
-            "Cantonese": {
-                "text": "釀青椒",
-                "wkty": [
-                    "釀",
-                    "青椒",
-                    "青",
-                    "椒"
-                ]
-            },
-            "Yale": "yeuhng chēng jīu",
-            "Simplified": {
-                "text": "酿青椒",
-                "wkty": [
-                    "酿",
-                    "青椒",
-                    "青",
-                    "椒"
-                ]
-            },
-            "Pinyin": "niàng qīng jiāo",
-            "description": "{釀} is used to describe stuffed vegetables, {青椒} is *green pepper* ({青} is *green* or sometimes *blue* or *green-blue*) and {椒} is *pepper*, so 釀青椒 is *stuffed green pepper*."
-        },
-        "images": [
-            {
-                "image": "stuffedbellpeppers"
-            }
-        ],
-        "description": "In the same manner as stuffed tofu, these bell peppers are stuffed and served with a thick soy sauce.",
-        "tags": [
-            "釀",
-            "青椒",
-            "青色",
-            "椒",
-            "豉油",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Pups with Chopsticks",
-                "URL": "https://pupswithchopsticks.com/chinese-stuffed-peppers-dim-sum-style/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/2015/06/chinese-stuffed-peppers-2/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "stuffedmushroomsdimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "In the same manner as stuffed tofu, this mushrooms are stuffed and served with a thick soy sauce.",
+    "tags": ["菇", "釀", "豉油", "點心"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "stuffed bell peppers",
+      "Cantonese": {
+        "text": "釀青椒",
+        "wkty": ["釀", "青椒", "青", "椒"]
+      },
+      "Yale": "yeuhng chēng jīu",
+      "Simplified": {
+        "text": "酿青椒",
+        "wkty": ["酿", "青椒", "青", "椒"]
+      },
+      "Pinyin": "niàng qīng jiāo",
+      "description": "{釀} is used to describe stuffed vegetables, {青椒} is *green pepper* ({青} is *green* or sometimes *blue* or *green-blue*) and {椒} is *pepper*, so 釀青椒 is *stuffed green pepper*."
+    },
+    "images": [
+      {
+        "image": "stuffedbellpeppers"
+      }
+    ],
+    "description": "In the same manner as stuffed tofu, these bell peppers are stuffed and served with a thick soy sauce.",
+    "tags": ["釀", "青椒", "青色", "椒", "豉油", "點心"],
+    "resources": [
+      {
+        "name": "Pups with Chopsticks",
+        "URL": "https://pupswithchopsticks.com/chinese-stuffed-peppers-dim-sum-style/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/2015/06/chinese-stuffed-peppers-2/"
+      }
+    ]
+  }
 ]

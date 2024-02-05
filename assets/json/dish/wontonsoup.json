@@ -4,22 +4,12 @@
       "English": "wonton soup",
       "Cantonese": {
         "text": "雲吞湯",
-        "wkty": [
-          "雲吞",
-          "雲",
-          "吞",
-          "湯"
-        ]
+        "wkty": ["雲吞", "雲", "吞", "湯"]
       },
       "Yale": "wàhn tān tōng",
       "Simplified": {
         "text": "云吞汤",
-        "wkty": [
-          "云吞",
-          "云",
-          "吞",
-          "汤"
-        ]
+        "wkty": ["云吞", "云", "吞", "汤"]
       },
       "Pinyin": "yún tūn tāng",
       "description": "{雲吞} is [wonton](https://en.wikipedia.org/wiki/Wonton), and {湯} is *soup*, so 雲吞湯 is *wonton soup*."
@@ -31,13 +21,7 @@
       }
     ],
     "description": "[Wonton](https://en.wikipedia.org/wiki/Wonton) dumplings served in a clear soup.",
-    "tags": [
-      "雲吞",
-      "茶餐廳",
-      "雲吞",
-      "雲吞湯",
-      "湯"
-    ],
+    "tags": ["雲吞", "茶餐廳", "雲吞", "雲吞湯", "湯"],
     "resources": [
       {
         "name": "Angel Wong's Kitchen",
@@ -78,23 +62,11 @@
       "English": "wor wonton soup",
       "Cantonese": {
         "text": "窩雲吞湯",
-        "wkty": [
-          "窩",
-          "雲吞",
-          "雲",
-          "吞",
-          "湯"
-        ]
+        "wkty": ["窩", "雲吞", "雲", "吞", "湯"]
       },
       "Simplified": {
         "text": "窝云吞汤",
-        "wkty": [
-          "窝",
-          "云吞",
-          "云",
-          "吞",
-          "汤"
-        ]
+        "wkty": ["窝", "云吞", "云", "吞", "汤"]
       },
       "Yale": "wō wàhn tān tōng",
       "Pinyin": "wō yún tūn tāng",
@@ -107,14 +79,7 @@
       }
     ],
     "description": "[Wonton](https://en.wikipedia.org/wiki/Wonton) served in a clear soup with a variety of vegetables and meats (shrimp, [BBQ pork](https://en.wikipedia.org/wiki/Char_siu), chicken...).",
-    "tags": [
-      "雲吞",
-      "茶餐廳",
-      "窩",
-      "雲吞",
-      "雲吞湯",
-      "湯"
-    ],
+    "tags": ["雲吞", "茶餐廳", "窩", "雲吞", "雲吞湯", "湯"],
     "resources": [
       {
         "name": "Kettle & Fire",

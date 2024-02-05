@@ -4,14 +4,7 @@
       "English": "seaweed salad",
       "Cantonese": {
         "text": "海草沙律",
-        "wkty": [
-          "海草",
-          "海",
-          "草",
-          "沙律",
-          "沙",
-          "律"
-        ]
+        "wkty": ["海草", "海", "草", "沙律", "沙", "律"]
       },
       "Yale": "hói cho sà léut",
       "Pinyin": "hǎi cǎo shā lǜ",
@@ -24,17 +17,7 @@
       }
     ],
     "description": "Seaweed salad is a standard dim sum item.",
-    "tags": [
-      "菜",
-      "海草",
-      "海",
-      "草",
-      "素",
-      "沙律",
-      "海鮮",
-      "茶餐廳",
-      "點心"
-    ],
+    "tags": ["菜", "海草", "海", "草", "素", "沙律", "海鮮", "茶餐廳", "點心"],
     "resources": []
   },
   {
@@ -42,25 +25,11 @@
       "English": "jellyfish salad",
       "Cantonese": {
         "text": "涼拌海蜇",
-        "wkty": [
-          "涼拌",
-          "涼",
-          "拌",
-          "海蜇",
-          "海",
-          "蜇"
-        ]
+        "wkty": ["涼拌", "涼", "拌", "海蜇", "海", "蜇"]
       },
       "Simplified": {
         "text": "凉拌海蜇",
-        "wkty": [
-          "凉拌",
-          "凉",
-          "拌",
-          "海蜇",
-          "海",
-          "蜇"
-        ]
+        "wkty": ["凉拌", "凉", "拌", "海蜇", "海", "蜇"]
       },
       "Yale": "lèuhng buhn hói jit",
       "Pinyin": "liáng bàn hǎi lǜ",
@@ -73,14 +42,7 @@
       }
     ],
     "description": "Marinated strips of jellyfish.",
-    "tags": [
-      "海蜇",
-      "凍",
-      "沙律",
-      "海鮮",
-      "茶餐廳",
-      "點心"
-    ],
+    "tags": ["海蜇", "凍", "沙律", "海鮮", "茶餐廳", "點心"],
     "resources": [
       {
         "name": "Adventures with Kake",

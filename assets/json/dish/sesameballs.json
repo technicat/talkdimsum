@@ -1,230 +1,154 @@
 [
-    {
-        "word": {
-            "English": "sesame ball",
-            "Cantonese": {
-                "text": "煎堆",
-                "wkty": [
-                    "煎堆",
-                    "煎",
-                    "堆"
-                ]
-            },
-            "Yale": "jīn dēui",
-            "Mandarin": {
-                "text": "芝麻球",
-                "wkty": [
-                    "芝麻球",
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "球"
-                ]
-            },
-            "Simplified": {
-                "text": "芝v球",
-                "wkty": [
-                    "芝麻球",
-                    "芝麻",
-                    "芝",
-                    "麻",
-                    "球"
-                ]
-            },
-            "Pinyin": "jiān duī",
-            "description": "{煎} is *fried* (actually *pan-fried*, even though sesame balls are usually *deep-fried*) and {堆} is a heap or pile.\n\nAlso known more literally as *sesame seed ball* {芝麻球} (jī màh kàu in Cantonese) where 芝麻 is *sesame seed* and {球} is *ball*."
-        },
-        "images": [
-            {
-                "image": "sesameballfoods2go2",
-                "place": "Foods 2 Go, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A common bakery item, deep-fried hollow spheres of glutinous rice coated with sesame seeds, with a filling of lotus seed, black sesame, or red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))). Or sometimes nothing, just hollow.",
-        "tags": [
-            "煎堆",
-            "芝麻",
-            "球",
-            "炸",
-            "素",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/sesame-balls-jian-dui/"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/37"
-            },
-            {
-                "name": "Panda Cheffy",
-                "URL": "https://medium.com/@pandacheffy/sesame-ball-jian-dui-%E9%BA%BB%E5%9B%A2-a19afa2e0d95"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/sweet-potato-sesame-balls/"
-            },
-            {
-                "name": "Unfamiliar China",
-                "URL": "https://www.unfamiliarchina.com/dim-sum/sticky-rice/sesame-balls-jian-dui"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Jin_deui"
-            },
-            {
-                "name": "Yum Cha Guide",
-                "URL": "http://www.yumchaguide.com/portfolio/sesame-balls-jin-deui/"
-            }
-        ]
+  {
+    "word": {
+      "English": "sesame ball",
+      "Cantonese": {
+        "text": "煎堆",
+        "wkty": ["煎堆", "煎", "堆"]
+      },
+      "Yale": "jīn dēui",
+      "Mandarin": {
+        "text": "芝麻球",
+        "wkty": ["芝麻球", "芝麻", "芝", "麻", "球"]
+      },
+      "Simplified": {
+        "text": "芝v球",
+        "wkty": ["芝麻球", "芝麻", "芝", "麻", "球"]
+      },
+      "Pinyin": "jiān duī",
+      "description": "{煎} is *fried* (actually *pan-fried*, even though sesame balls are usually *deep-fried*) and {堆} is a heap or pile.\n\nAlso known more literally as *sesame seed ball* {芝麻球} (jī màh kàu in Cantonese) where 芝麻 is *sesame seed* and {球} is *ball*."
     },
-    {
-        "word": {
-            "English": "lotus seed sesame ball",
-            "Cantonese": {
-                "text": "蓮蓉煎堆",
-                "wkty": [
-                    "蓮蓉",
-                    "蓮",
-                    "蓉",
-                    "煎堆",
-                    "煎",
-                    "堆"
-                ]
-            },
-            "Yale": "lìhn yùhng jīn dēui",
-            "Simplified": {
-                "text": "莲蓉煎堆",
-                "wkty": [
-                    "莲蓉",
-                    "莲",
-                    "蓉",
-                    "煎堆",
-                    "煎",
-                    "堆"
-                ]
-            },
-            "Pinyin": "lián róng jiān duī",
-            "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)), and {煎堆} is *sesame ball*, so 蓮蓉煎堆 is *lotus seed sesame ball.*"
-        },
-        "images": [
-            {
-                "image": "sesameballslotusseeddimsumcafe",
-                "place": "Dim Sum Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Sesame balls](http://en.wikipedia.org/wiki/Jin_deui) filled with lotus seed paste.",
-        "tags": [
-            "煎堆",
-            "芝麻",
-            "蓮蓉",
-            "素",
-            "炸",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "sesameballfoods2go2",
+        "place": "Foods 2 Go, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A common bakery item, deep-fried hollow spheres of glutinous rice coated with sesame seeds, with a filling of lotus seed, black sesame, or red bean paste (made from [adzuki beans](https://en.wikipedia.org/wiki/Adzuki_bean))). Or sometimes nothing, just hollow.",
+    "tags": ["煎堆", "芝麻", "球", "炸", "素", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/sesame-balls-jian-dui/"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/37"
+      },
+      {
+        "name": "Panda Cheffy",
+        "URL": "https://medium.com/@pandacheffy/sesame-ball-jian-dui-%E9%BA%BB%E5%9B%A2-a19afa2e0d95"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/sweet-potato-sesame-balls/"
+      },
+      {
+        "name": "Unfamiliar China",
+        "URL": "https://www.unfamiliarchina.com/dim-sum/sticky-rice/sesame-balls-jian-dui"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Jin_deui"
+      },
+      {
+        "name": "Yum Cha Guide",
+        "URL": "http://www.yumchaguide.com/portfolio/sesame-balls-jin-deui/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lotus seed sesame ball",
+      "Cantonese": {
+        "text": "蓮蓉煎堆",
+        "wkty": ["蓮蓉", "蓮", "蓉", "煎堆", "煎", "堆"]
+      },
+      "Yale": "lìhn yùhng jīn dēui",
+      "Simplified": {
+        "text": "莲蓉煎堆",
+        "wkty": ["莲蓉", "莲", "蓉", "煎堆", "煎", "堆"]
+      },
+      "Pinyin": "lián róng jiān duī",
+      "description": "{蓮蓉} is [lotus seed paste](https://en.wikipedia.org/wiki/Lotus_seed_paste) ({蓮} is *lotus*, and {蓉} is *paste*)), and {煎堆} is *sesame ball*, so 蓮蓉煎堆 is *lotus seed sesame ball.*"
     },
-    {
-        "word": {
-            "English": "red bean sesame ball",
-            "Cantonese": {
-                "text": "豆沙煎堆",
-                "wkty": [
-                    "豆沙",
-                    "豆",
-                    "沙",
-                    "煎堆",
-                    "煎",
-                    "堆"
-                ]
-            },
-            "Yale": "dauh sā jīn dēui",
-            "Pinyin": "dòu shā jiān duī",
-            "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {煎堆} is *sesame ball*, so 豆沙煎堆 is *bean sand sesame ball*."
-        },
-        "images": [
-            {
-                "image": "sesameballssfsupermaket",
-                "place": "SF Supermarket, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Sesame balls](http://en.wikipedia.org/wiki/Jin_deui) filled with [red bean paste](https://en.wikipedia.org/wiki/Red_bean_paste).",
-        "tags": [
-            "煎堆",
-            "芝麻",
-            "豆沙",
-            "紅色",
-            "素",
-            "炸",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
-            },
-            {
-                "name": "Thirsty for Tea",
-                "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-15-mini-sesame-balls/"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/pumpkin-jian-dui.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "sesameballslotusseeddimsumcafe",
+        "place": "Dim Sum Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Sesame balls](http://en.wikipedia.org/wiki/Jin_deui) filled with lotus seed paste.",
+    "tags": ["煎堆", "芝麻", "蓮蓉", "素", "炸", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "red bean sesame ball",
+      "Cantonese": {
+        "text": "豆沙煎堆",
+        "wkty": ["豆沙", "豆", "沙", "煎堆", "煎", "堆"]
+      },
+      "Yale": "dauh sā jīn dēui",
+      "Pinyin": "dòu shā jiān duī",
+      "description": "{豆} is *bean*, and {沙} is *sand*, so {豆沙} is *bean sand* (bean paste). {煎堆} is *sesame ball*, so 豆沙煎堆 is *bean sand sesame ball*."
     },
-    {
-        "word": {
-            "English": "lava custard sesame ball",
-            "Cantonese": {
-                "text": "流沙煎堆",
-                "wkty": [
-                    "流沙",
-                    "流",
-                    "沙",
-                    "煎堆",
-                    "煎",
-                    "堆"
-                ]
-            },
-            "Yale": "làu sā jīn dēui",
-            "Pinyin": "iú shā jiān duī",
-            "description": "{流} is *flowing* and {沙} is *sand*. Together {流沙} is *flowing sand* or *quicksand*, referring to the runny custard. {煎堆} is *sesame ball*, so 流沙煎堆 is *quicksand sesame ball*."
-        },
-        "images": [
-            {
-                "image": "lavasesameballtimhowan",
-                "place": "Tim Ho Wan, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Sesame balls]((http://en.wikipedia.org/wiki/Jin_deui)) filled with molten custard.",
-        "tags": [
-            "煎堆",
-            "芝麻",
-            "流沙",
-            "炸",
-            "甜品",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Hakka",
-                "URL": "https://www.hakka.com.au/shop/item/chinatown-lava-sesame-balls-with-salted-egg-yolk-228g"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "sesameballssfsupermaket",
+        "place": "SF Supermarket, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Sesame balls](http://en.wikipedia.org/wiki/Jin_deui) filled with [red bean paste](https://en.wikipedia.org/wiki/Red_bean_paste).",
+    "tags": ["煎堆", "芝麻", "豆沙", "紅色", "素", "炸", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "http://www.thehongkongcookery.com/2016/02/sesame-ball-jian-dui.html"
+      },
+      {
+        "name": "Thirsty for Tea",
+        "URL": "http://www.thirstyfortea.com/recipes/dim-sum-recipe-15-mini-sesame-balls/"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/pumpkin-jian-dui.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lava custard sesame ball",
+      "Cantonese": {
+        "text": "流沙煎堆",
+        "wkty": ["流沙", "流", "沙", "煎堆", "煎", "堆"]
+      },
+      "Yale": "làu sā jīn dēui",
+      "Pinyin": "iú shā jiān duī",
+      "description": "{流} is *flowing* and {沙} is *sand*. Together {流沙} is *flowing sand* or *quicksand*, referring to the runny custard. {煎堆} is *sesame ball*, so 流沙煎堆 is *quicksand sesame ball*."
+    },
+    "images": [
+      {
+        "image": "lavasesameballtimhowan",
+        "place": "Tim Ho Wan, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Sesame balls]((http://en.wikipedia.org/wiki/Jin_deui)) filled with molten custard.",
+    "tags": ["煎堆", "芝麻", "流沙", "炸", "甜品", "點心"],
+    "resources": [
+      {
+        "name": "Hakka",
+        "URL": "https://www.hakka.com.au/shop/item/chinatown-lava-sesame-balls-with-salted-egg-yolk-228g"
+      }
+    ]
+  }
 ]

@@ -4,20 +4,12 @@
       "English": "fried rice",
       "Cantonese": {
         "text": "炒飯",
-        "wkty": [
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["炒飯", "炒", "飯"]
       },
       "Yale": "cháau faahn",
       "Simplified": {
         "text": "炒饭",
-        "wkty": [
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["炒饭", "炒", "饭"]
       },
       "Pinyin": "chǎo fàn",
       "description": "{炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice* (cooked), so {炒飯} is *stir-fried rice*."
@@ -29,12 +21,7 @@
       }
     ],
     "description": "[Chinese fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) is cooked rice that has been cooled and then stir-fied with meats and vegetables (often leftovers).\n\n**Eating Tip**\n\nDon't feel obligated to try eating fried rice with chopsticks. In Asia, fried rice is often eaten with a spoon. It's a lot easier!\n\n**Cooking Tip**\n\nIt's often advised to use day-old refrigerated rice which has dried out somewhat and won't be a sticky clump like freshly-cooked rice (in fact, fried rice originated as a way to reuse leftover rice).Although Danny Bowien in his [Mission Chinese Food Cookbook](https://www.harpercollins.com/products/the-mission-chinese-food-cookbook-danny-bowienchris-ying?variant=32208106618914) advocates frying freshly-cooked rice.\n\n**Food Safety Tip**\n\nRice spoils quickly, so don't leave it out at room temperature too long.",
-    "tags": [
-      "炒飯",
-      "炒",
-      "飯",
-      "茶餐廳"
-    ],
+    "tags": ["炒飯", "炒", "飯", "茶餐廳"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -47,26 +34,12 @@
       "English": "seafood fried rice",
       "Cantonese": {
         "text": "海鮮炒飯",
-        "wkty": [
-          "海鮮",
-          "海",
-          "鮮",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["海鮮", "海", "鮮", "炒飯", "炒", "飯"]
       },
       "Yale": "hói sīn cháau faahn",
       "Simplified": {
         "text": "海鲜炒饭",
-        "wkty": [
-          "海鲜",
-          "海",
-          "鲜",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["海鲜", "海", "鲜", "炒饭", "炒", "饭"]
       },
       "Pinyin": "hǎi xiān chǎo fàn",
       "description": "{海鮮} is *seafood* ({海} is *ocean* and {鮮} is *fresh*, so *seafood* is *ocean fresh*). {炒飯} is [stir-fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 海鮮炒飯 is *seafood stir-fried rice*."
@@ -78,13 +51,7 @@
       }
     ],
     "description": "[Fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) mixed with seafood.",
-    "tags": [
-      "海鮮",
-      "炒飯",
-      "炒",
-      "飯",
-      "茶餐廳"
-    ],
+    "tags": ["海鮮", "炒飯", "炒", "飯", "茶餐廳"],
     "resources": [
       {
         "name": "Miss Chinese Food",
@@ -101,27 +68,11 @@
       "English": "Yangzhou fried rice",
       "Cantonese": {
         "text": "揚州炒飯",
-        "wkty": [
-          "揚州炒飯",
-          "揚州",
-          "揚",
-          "州",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["揚州炒飯", "揚州", "揚", "州", "炒飯", "炒", "飯"]
       },
       "Simplified": {
         "text": "扬州炒饭",
-        "wkty": [
-          "扬州炒飯",
-          "扬州",
-          "扬",
-          "州",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["扬州炒飯", "扬州", "扬", "州", "炒饭", "炒", "饭"]
       },
       "Yale": "yèuhng jāu cháau faahn",
       "Pinyin": "Yáng zhōu chǎo fàn",
@@ -190,26 +141,12 @@
       "English": "Chinese sausage fried rice",
       "Cantonese": {
         "text": "臘腸炒飯",
-        "wkty": [
-          "臘腸",
-          "臘",
-          "腸",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["臘腸", "臘", "腸", "炒飯", "炒", "飯"]
       },
       "Yale": "laahp chéung cháau faahn",
       "Simplified": {
         "text": "腊肠炒饭",
-        "wkty": [
-          "腊肠",
-          "腊",
-          "肠",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["腊肠", "腊", "肠", "炒饭", "炒", "饭"]
       },
       "Pinyin": "là cháng chǎo fàn",
       "description": "{臘腸} is *Chinese sausage*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 臘腸炒飯 is *Chinese sausage stir-fried rice*."
@@ -239,36 +176,19 @@
         "URL": "https://thewoksoflife.com/2018/11/chinese-sausage-fried-rice/"
       }
     ],
-    "tags": [
-      "炒飯",
-      "炒",
-      "飯",
-      "腸",
-      "臘腸",
-      "茶餐廳"
-    ]
+    "tags": ["炒飯", "炒", "飯", "腸", "臘腸", "茶餐廳"]
   },
   {
     "word": {
       "English": "chicken fried rice",
       "Cantonese": {
         "text": "雞炒飯",
-        "wkty": [
-          "雞",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["雞", "炒飯", "炒", "飯"]
       },
       "Yale": "gāi cháau faahn",
       "Simplified": {
         "text": "鸡炒饭",
-        "wkty": [
-          "鸡",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["鸡", "炒饭", "炒", "饭"]
       },
       "Pinyin": "jī chǎo fàn",
       "description": "{雞} is *chicken*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 雞炒飯 is *chicken stir-fried rice*."
@@ -290,39 +210,19 @@
         "URL": "https://christieathome.com/blog/chinese-chicken-fried-rice/"
       }
     ],
-    "tags": [
-      "雞",
-      "炒飯",
-      "炒",
-      "飯",
-      "茶餐廳"
-    ]
+    "tags": ["雞", "炒飯", "炒", "飯", "茶餐廳"]
   },
   {
     "word": {
       "English": "shrimp fried rice",
       "Cantonese": {
         "text": "蝦仁炒飯",
-        "wkty": [
-          "蝦仁",
-          "蝦",
-          "仁",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["蝦仁", "蝦", "仁", "炒飯", "炒", "飯"]
       },
       "Yale": "hā yàhn cháau faahn",
       "Simplified": {
         "text": "虾仁炒饭",
-        "wkty": [
-          "虾仁",
-          "虾",
-          "仁",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["虾仁", "虾", "仁", "炒饭", "炒", "饭"]
       },
       "Pinyin": "xiā rén chǎo fàn",
       "description": "{蝦仁} is *shrimp meat* or *shelled shrimp* ({蝦} is *shrimp*, and {仁} is *kernel*, same as the kernel in *apricot kernel* {杏仁}, so it's *shrimp kernel*), {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 蝦仁炒飯 is *shrimp meat stir-fried rice*."
@@ -344,40 +244,19 @@
         "URL": "https://thewoksoflife.com/2017/01/shrimp-fried-rice/"
       }
     ],
-    "tags": [
-      "炒飯",
-      "炒",
-      "飯",
-      "蝦仁",
-      "蝦",
-      "茶餐廳"
-    ]
+    "tags": ["炒飯", "炒", "飯", "蝦仁", "蝦", "茶餐廳"]
   },
   {
     "word": {
       "English": "BBQ pork fried rice",
       "Cantonese": {
         "text": "叉燒炒飯",
-        "wkty": [
-          "叉燒",
-          "叉",
-          "燒",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["叉燒", "叉", "燒", "炒飯", "炒", "飯"]
       },
       "Yale": "chā sīu cháau faahn",
       "Simplified": {
         "text": "叉烧炒饭",
-        "wkty": [
-          "叉烧",
-          "叉",
-          "烧",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["叉烧", "叉", "烧", "炒饭", "炒", "饭"]
       },
       "Pinyin": "chā shāo chǎo fàn",
       "description": "{叉燒} is [BBQ pork](https://en.wikipedia.org/wiki/Char_siu), {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 叉燒炒飯 is *BBQ pork stir-fried rice*."
@@ -389,14 +268,7 @@
       }
     ],
     "description": "[Fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) mixed with chunks of [BBQ pork]([Cha siu](https://en.wikipedia.org/wiki/Char_siu)), and typically with scrambled eggs and peas. Often listed as *pork fried rice.*",
-    "tags": [
-      "粵菜",
-      "炒飯",
-      "炒",
-      "飯",
-      "叉燒",
-      "茶餐廳"
-    ],
+    "tags": ["粵菜", "炒飯", "炒", "飯", "叉燒", "茶餐廳"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -417,28 +289,12 @@
       "English": "chicken and salted fish fried rice",
       "Cantonese": {
         "text": "鹹魚雞粒炒飯",
-        "wkty": [
-          "鹹魚",
-          "鹹",
-          "魚",
-          "雞",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["鹹魚", "鹹", "魚", "雞", "炒飯", "炒", "飯"]
       },
       "Yale": "hàahm yú gāi lāp cháau faahn",
       "Simplified": {
         "text": "咸鱼鸡粒炒饭",
-        "wkty": [
-          "咸鱼",
-          "咸",
-          "鱼",
-          "鸡",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["咸鱼", "咸", "鱼", "鸡", "炒饭", "炒", "饭"]
       },
       "Pinyin": "xián yú jī lì chǎo fàn",
       "description": "{鹹} is *salty*, {魚} is *fish*, {雞} is *chicken*, {粒} is *pieces*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 鹹魚雞炒飯 is *salty fish chicken pieces stir-fried rice*."
@@ -476,46 +332,19 @@
         "URL": "https://thewoksoflife.com/2014/07/cantonese-chicken-salted-fish-fried-rice/"
       }
     ],
-    "tags": [
-      "粵菜",
-      "炒飯",
-      "炒",
-      "飯",
-      "鹹魚",
-      "魚",
-      "雞",
-      "茶餐廳"
-    ]
+    "tags": ["粵菜", "炒飯", "炒", "飯", "鹹魚", "魚", "雞", "茶餐廳"]
   },
   {
     "word": {
       "English": "spam fried rice",
       "Cantonese": {
         "text": "午餐肉炒飯",
-        "wkty": [
-          "午餐肉",
-          "午餐",
-          "午",
-          "餐",
-          "肉",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["午餐肉", "午餐", "午", "餐", "肉", "炒飯", "炒", "飯"]
       },
       "Yale": "ńgh chāan yuhk cháau faahn",
       "Simplified": {
         "text": "午餐肉炒饭",
-        "wkty": [
-          "午餐肉",
-          "午餐",
-          "午",
-          "餐",
-          "肉",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["午餐肉", "午餐", "午", "餐", "肉", "炒饭", "炒", "饭"]
       },
       "Pinyin": "wǔ cān ròu chǎo fàn",
       "description": "{午餐} is *lunch*, and {肉} is *meat*, so {午餐肉} is *lunch meat*. {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 午餐肉炒飯 is “*lunch meat stir-fried rice*."
@@ -527,13 +356,7 @@
       }
     ],
     "description": "[Fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) mixed with small chunks of spam.",
-    "tags": [
-      "炒飯",
-      "炒",
-      "飯",
-      "午餐肉",
-      "茶餐廳"
-    ],
+    "tags": ["炒飯", "炒", "飯", "午餐肉", "茶餐廳"],
     "resources": [
       {
         "name": "The Woks of Life",
@@ -546,22 +369,12 @@
       "English": "vegetable fried rice",
       "Cantonese": {
         "text": "素炒飯",
-        "wkty": [
-          "素",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["素", "炒飯", "炒", "飯"]
       },
       "Yale": "sou cháau faahn",
       "Simplified": {
         "text": "素炒饭",
-        "wkty": [
-          "素",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["素", "炒饭", "炒", "饭"]
       },
       "Pinyin": "sù chǎo fàn",
       "description": "{素} is *vegetarian*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 素炒飯 is *vegetarian stir-fried rice*."
@@ -587,36 +400,19 @@
         "URL": "https://thewoksoflife.com/vegetable-fried-rice/"
       }
     ],
-    "tags": [
-      "炒飯",
-      "炒",
-      "飯",
-      "素",
-      "茶餐廳",
-      "點心"
-    ]
+    "tags": ["炒飯", "炒", "飯", "素", "茶餐廳", "點心"]
   },
   {
     "word": {
       "English": "egg fried rice",
       "Cantonese": {
         "text": "蛋炒飯",
-        "wkty": [
-          "蛋",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["蛋", "炒飯", "炒", "飯"]
       },
       "Yale": "dáan cháau faahn",
       "Simplified": {
         "text": "蛋炒饭",
-        "wkty": [
-          "蛋",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["蛋", "炒饭", "炒", "饭"]
       },
       "Pinyin": "dàn chǎo fàn",
       "description": "{蛋} is *egg*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 蛋炒飯 is *egg stir-fried rice*."
@@ -646,40 +442,19 @@
         "URL": "https://thewoksoflife.com/egg-fried-rice/"
       }
     ],
-    "tags": [
-      "滬菜",
-      "蛋炒飯",
-      "炒飯",
-      "炒",
-      "飯",
-      "茶餐廳"
-    ]
+    "tags": ["滬菜", "蛋炒飯", "炒飯", "炒", "飯", "茶餐廳"]
   },
   {
     "word": {
       "English": "Fujian fried rice",
       "Cantonese": {
         "text": "福建炒飯",
-        "wkty": [
-          "福建",
-          "福",
-          "建",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["福建", "福", "建", "炒飯", "炒", "飯"]
       },
       "Yale": "fūk gin cháau faahn",
       "Simplified": {
         "text": "福建炒饭",
-        "wkty": [
-          "福建",
-          "福",
-          "建",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["福建", "福", "建", "炒饭", "炒", "饭"]
       },
       "Pinyin": "Fú jiàn chǎo fàn",
       "description": "{福建} is Fujian, a province on the southeast coast of China, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 福建炒飯 is *Fujian stir-fried rice*."
@@ -705,38 +480,19 @@
         "URL": "https://en.wikipedia.org/wiki/Hokkien_fried_rice"
       }
     ],
-    "tags": [
-      "閩菜",
-      "炒飯",
-      "炒",
-      "飯"
-    ]
+    "tags": ["閩菜", "炒飯", "炒", "飯"]
   },
   {
     "word": {
       "English": "pineapple fried rice",
       "Cantonese": {
         "text": "菠蘿炒飯",
-        "wkty": [
-          "菠蘿",
-          "菠",
-          "蘿",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["菠蘿", "菠", "蘿", "炒飯", "炒", "飯"]
       },
       "Yale": "bō lòh cháau faahn",
       "Simplified": {
         "text": "菠萝炒饭",
-        "wkty": [
-          "菠萝",
-          "菠",
-          "萝",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["菠萝", "菠", "萝", "炒饭", "炒", "饭"]
       },
       "Pinyin": "bō luó chǎo fàn",
       "description": "{菠蘿} is *pineapple*, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so 菠蘿炒飯 is *pineapple stir-fried rice*."
@@ -762,37 +518,19 @@
         "URL": "https://thewoksoflife.com/pineapple-fried-rice/"
       }
     ],
-    "tags": [
-      "花生",
-      "菠蘿",
-      "炒飯",
-      "炒",
-      "飯"
-    ]
+    "tags": ["花生", "菠蘿", "炒飯", "炒", "飯"]
   },
   {
     "word": {
       "English": "XO fried rice",
       "Cantonese": {
         "text": "XO醬炒飯",
-        "wkty": [
-          "XO醬",
-          "醬",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["XO醬", "醬", "炒飯", "炒", "飯"]
       },
       "Yale": "XO jeung cháau faahn",
       "Simplified": {
         "text": "XO酱炒饭",
-        "wkty": [
-          "XO酱",
-          "酱",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["XO酱", "酱", "炒饭", "炒", "饭"]
       },
       "Pinyin": "XO jiàng chǎo fàn",
       "description": "{XO醬} is XO sauce, {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*), so XO醬炒飯 is *XO sauce stir-fried rice*."
@@ -810,35 +548,19 @@
         "URL": "https://thewoksoflife.com/xo-sauce-fried-rice-chicken/"
       }
     ],
-    "tags": [
-      "港式",
-      "XO醬",
-      "炒飯",
-      "炒",
-      "飯"
-    ]
+    "tags": ["港式", "XO醬", "炒飯", "炒", "飯"]
   },
   {
     "word": {
       "English": "Singapore fried rice",
       "Cantonese": {
         "text": "新加坡炒飯",
-        "wkty": [
-          "新加坡",
-          "炒飯",
-          "炒",
-          "飯"
-        ]
+        "wkty": ["新加坡", "炒飯", "炒", "飯"]
       },
       "Yale": "sān ga bō cháau faahn",
       "Simplified": {
         "text": "新加坡炒饭",
-        "wkty": [
-          "新加坡",
-          "炒饭",
-          "炒",
-          "饭"
-        ]
+        "wkty": ["新加坡", "炒饭", "炒", "饭"]
       },
       "Pinyin": "Xīn jiā pō chǎo fàn",
       "description": "{炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice) ({炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {飯} is *rice*)."
@@ -888,10 +610,6 @@
         "URL": "https://www.thetravelpalate.com/singapore-fried-rice/"
       }
     ],
-    "tags": [
-      "炒飯",
-      "炒",
-      "飯"
-    ]
+    "tags": ["炒飯", "炒", "飯"]
   }
 ]

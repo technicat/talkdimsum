@@ -1,36 +1,19 @@
 [
   {
-    "word":
-      {
-        "English": "mango pudding",
-        "Cantonese": {
-          "text": "芒果布甸",
-          "wkty": [
-            "芒果布甸",
-            "芒果",
-            "芒",
-            "果",
-            "布甸",
-            "布",
-            "甸"
-          ]
-        },
-        "Yale": "mōng gwó bou dīn",
-        "Mandarin": {
-          "text": "芒果布丁",
-          "wkty": [
-            "芒果布丁",
-            "芒果",
-            "芒",
-            "果",
-            "布丁",
-            "布",
-            "丁"
-          ]
-        },
-        "Pinyin": "máng guǒ bù dīng",
-        "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [mango](https://en.wikipedia.org/wiki/Mango) (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {布甸} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [pudding](https://en.wikipedia.org/wiki/Pudding).\n\nThis is sometimes listed as {芒果布丁}, using the more common Mandarin word for [pudding](https://en.wikipedia.org/wiki/Pudding) {布丁} sounds a little closer (“bou dīng” in Cantonese, “bù dīng” in Mandarin)."
+    "word": {
+      "English": "mango pudding",
+      "Cantonese": {
+        "text": "芒果布甸",
+        "wkty": ["芒果布甸", "芒果", "芒", "果", "布甸", "布", "甸"]
       },
+      "Yale": "mōng gwó bou dīn",
+      "Mandarin": {
+        "text": "芒果布丁",
+        "wkty": ["芒果布丁", "芒果", "芒", "果", "布丁", "布", "丁"]
+      },
+      "Pinyin": "máng guǒ bù dīng",
+      "description": "{芒果} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [mango](https://en.wikipedia.org/wiki/Mango) (which is taken from the Portuguese *manga* which is from the Malay *mangga* which in turn came from the Tamil *mankay*), and {布甸} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [pudding](https://en.wikipedia.org/wiki/Pudding).\n\nThis is sometimes listed as {芒果布丁}, using the more common Mandarin word for [pudding](https://en.wikipedia.org/wiki/Pudding) {布丁} sounds a little closer (“bou dīng” in Cantonese, “bù dīng” in Mandarin)."
+    },
     "images": [
       {
         "image": "mangopuddingyumcha",
@@ -38,17 +21,7 @@
       }
     ],
     "description": "Pudding made from mango, sugar and condensed milk, thickened with agar or gelatin. This dish is likely descended from an Indian mango pudding.",
-    "tags": [
-      "煉奶",
-      "芒果",
-      "布甸",
-      "果",
-      "凍",
-      "素",
-      "牛奶",
-      "甜品",
-      "點心"
-    ],
+    "tags": ["煉奶", "芒果", "布甸", "果", "凍", "素", "牛奶", "甜品", "點心"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -93,24 +66,16 @@
     ]
   },
   {
-    "word":
-      {
-        "English": "baked tapioca pudding",
-        "Cantonese": {
-          "text": "西米布甸",
-          "wkty": [
-            "西米",
-            "西",
-            "米",
-            "布甸",
-            "布",
-            "甸"
-          ]
-        },
-        "Yale": "sāi máih bou dīn",
-        "Pinyin": "xī mǐ bù diàn",
-        "description": "{西} is *West* or *Western*, {米} is *rice* or more generally *grain*, and {布甸} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [pudding](https://en.wikipedia.org/wiki/Pudding), so 西米布甸 is *Western rice pudding*.\n\n{西米} is also the term for [sago](https://en.wikipedia.org/wiki/Sago), which is similar to [tapioca](https://en.wikipedia.org/wiki/Tapioca), so this dish name also refers to [sago pudding](https://en.wikipedia.org/wiki/Sago_pudding)."
+    "word": {
+      "English": "baked tapioca pudding",
+      "Cantonese": {
+        "text": "西米布甸",
+        "wkty": ["西米", "西", "米", "布甸", "布", "甸"]
       },
+      "Yale": "sāi máih bou dīn",
+      "Pinyin": "xī mǐ bù diàn",
+      "description": "{西} is *West* or *Western*, {米} is *rice* or more generally *grain*, and {布甸} is the [loanword](https://en.wikipedia.org/wiki/Loanword) for [pudding](https://en.wikipedia.org/wiki/Pudding), so 西米布甸 is *Western rice pudding*.\n\n{西米} is also the term for [sago](https://en.wikipedia.org/wiki/Sago), which is similar to [tapioca](https://en.wikipedia.org/wiki/Tapioca), so this dish name also refers to [sago pudding](https://en.wikipedia.org/wiki/Sago_pudding)."
+    },
     "images": [
       {
         "image": "tapiocapuddingzenpeninsula2",
@@ -118,12 +83,7 @@
       }
     ],
     "description": "Baked [tapioca pudding](https://en.wikipedia.org/wiki/Tapioca_pudding) with a carmealized top and creamy center.",
-    "tags": [
-      "布甸",
-      "焗",
-      "甜品",
-      "點心"
-    ],
+    "tags": ["布甸", "焗", "甜品", "點心"],
     "resources": [
       {
         "name": "Dim Sum Guide",

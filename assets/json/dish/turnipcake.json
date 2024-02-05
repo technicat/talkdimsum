@@ -4,24 +4,12 @@
       "English": "turnip cake",
       "Cantonese": {
         "text": "蘿蔔糕",
-        "wkty": [
-          "蘿蔔糕",
-          "蘿蔔",
-          "蘿",
-          "蔔",
-          "糕"
-        ]
+        "wkty": ["蘿蔔糕", "蘿蔔", "蘿", "蔔", "糕"]
       },
       "Yale": "lò baahk gōu",
       "Simplified": {
         "text": "萝卜糕",
-        "wkty": [
-          "萝卜糕",
-          "萝卜",
-          "萝",
-          "卜",
-          "糕"
-        ]
+        "wkty": ["萝卜糕", "萝卜", "萝", "卜", "糕"]
       },
       "Pinyin": "luó bo gāo",
       "description": "{蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), and {糕} is *cake*, so {蘿蔔糕} is *radish cake*."
@@ -33,12 +21,7 @@
       }
     ],
     "description": "A standard dim sum offering and also a traditional Chinese New Year dishm, [turnip cakes](http://en.wikipedia.org/wiki/Turnip_cake) are not made of turnips but actually mashed Chinese radish or [daikon](https://en.wikipedia.org/wiki/Daikon), cut into squares and steamed or pan-fried.",
-    "tags": [
-      "粵菜",
-      "蘿蔔糕",
-      "蘿蔔",
-      "糕"
-    ],
+    "tags": ["粵菜", "蘿蔔糕", "蘿蔔", "糕"],
     "resources": [
       {
         "name": "Angel Wong's Kitchen",
@@ -119,26 +102,12 @@
       "English": "pan-fried turnip cake",
       "Cantonese": {
         "text": "煎蘿蔔糕",
-        "wkty": [
-          "煎",
-          "蘿蔔糕",
-          "蘿蔔",
-          "蘿",
-          "蔔",
-          "糕"
-        ]
+        "wkty": ["煎", "蘿蔔糕", "蘿蔔", "蘿", "蔔", "糕"]
       },
       "Yale": "jīn lò baahk gōu",
       "Simplified": {
         "text": "煎萝卜糕",
-        "wkty": [
-          "煎",
-          "萝卜糕",
-          "萝卜",
-          "萝",
-          "卜",
-          "糕"
-        ]
+        "wkty": ["煎", "萝卜糕", "萝卜", "萝", "卜", "糕"]
       },
       "Pinyin": "jiān luó bo gāo",
       "description": "{煎} is *pan-fried*, and {蘿蔔糕} is http://en.wikipedia.org/wiki/Turnip_cake ({蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), and {糕} is *cake*), so 煎蘿蔔糕 is *pan-fried turnip cake*."
@@ -150,14 +119,7 @@
       }
     ],
     "description": "Pan-fried [turnip cake](http://en.wikipedia.org/wiki/Turnip_cake).",
-    "tags": [
-      "粵菜",
-      "蘿蔔糕",
-      "煎",
-      "蘿蔔",
-      "糕",
-      "點心"
-    ],
+    "tags": ["粵菜", "蘿蔔糕", "煎", "蘿蔔", "糕", "點心"],
     "resources": [
       {
         "name": "Dim Sum Guide",
@@ -182,26 +144,12 @@
       "English": "steamed turnip cake",
       "Cantonese": {
         "text": "蒸蘿蔔糕",
-        "wkty": [
-          "蒸",
-          "蘿蔔糕",
-          "蘿蔔",
-          "蘿",
-          "蔔",
-          "糕"
-        ]
+        "wkty": ["蒸", "蘿蔔糕", "蘿蔔", "蘿", "蔔", "糕"]
       },
       "Yale": "jīng lò baahk gōu",
       "Simplified": {
         "text": "蒸萝卜糕",
-        "wkty": [
-          "蒸",
-          "萝卜糕",
-          "萝卜",
-          "萝卜",
-          "卜",
-          "糕"
-        ]
+        "wkty": ["蒸", "萝卜糕", "萝卜", "萝卜", "卜", "糕"]
       },
       "Pinyin": "zhēng luó bo gāo",
       "description": "Steamed [turnip cake](http://en.wikipedia.org/wiki/Turnip_cake),usually more of a thick slab or cube than the thinner tile-like pan-fried version"
@@ -213,14 +161,7 @@
       }
     ],
     "description": "{蒸} is [steamed](https://en.wikipedia.org/wiki/Steaming), {蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), and {糕} is *cake*, so 蒸蘿蔔糕 is *steamed radish cake*.",
-    "tags": [
-      "粵菜",
-      "蘿蔔糕",
-      "蒸",
-      "蘿蔔",
-      "糕",
-      "點心"
-    ],
+    "tags": ["粵菜", "蘿蔔糕", "蒸", "蘿蔔", "糕", "點心"],
     "resources": []
   },
   {
@@ -228,38 +169,16 @@
       "English": "Singapore-style turnip cake",
       "Cantonese": {
         "text": "星洲炒蘿蔔糕",
-        "wkty": [
-          "星洲",
-          "星",
-          "洲",
-          "炒",
-          "蘿蔔糕",
-          "蘿蔔",
-          "蘿",
-          "蔔",
-          "糕"
-        ]
+        "wkty": ["星洲", "星", "洲", "炒", "蘿蔔糕", "蘿蔔", "蘿", "蔔", "糕"]
       },
       "Mandarin": {
         "text": "菜頭粿",
-        "wkty": [
-          "菜頭粿",
-          "菜頭",
-          "菜",
-          "頭",
-          "粿"
-        ]
+        "wkty": ["菜頭粿", "菜頭", "菜", "頭", "粿"]
       },
       "Yale": "sīng jāu cháau lò baahk gōu",
       "Simplified": {
         "text": "菜头粿",
-        "wkty": [
-          "菜头粿",
-          "菜头",
-          "菜",
-          "头",
-          "粿"
-        ]
+        "wkty": ["菜头粿", "菜头", "菜", "头", "粿"]
       },
       "Pinyin": "cài tóu guǒ"
     },
@@ -270,13 +189,7 @@
       }
     ],
     "description": "[Singapore style turnip cake](https://en.wikipedia.org/wiki/Chai_tow_kway). Similar to Chinese [turnip cake](http://en.wikipedia.org/wiki/Turnip_cake) but sliced into cubes and stir-fried.",
-    "tags": [
-      "星洲",
-      "蘿蔔糕",
-      "炒",
-      "蘿蔔",
-      "糕"
-    ],
+    "tags": ["星洲", "蘿蔔糕", "炒", "蘿蔔", "糕"],
     "resources": [
       {
         "name": "Wikipedia",
@@ -289,30 +202,12 @@
       "English": "stir-fried turnip cake w/ XO sauce",
       "Cantonese": {
         "text": "XO醬炒蘿蔔糕",
-        "wkty": [
-          "XO醬",
-          "醬",
-          "炒",
-          "蘿蔔糕",
-          "蘿蔔",
-          "蘿",
-          "蔔",
-          "糕"
-        ]
+        "wkty": ["XO醬", "醬", "炒", "蘿蔔糕", "蘿蔔", "蘿", "蔔", "糕"]
       },
       "Yale": "XO jeung cháau lò baahk gōu",
       "Simplified": {
         "text": "XO酱炒萝卜糕",
-        "wkty": [
-          "XO酱",
-          "酱",
-          "炒",
-          "蘿蔔糕",
-          "萝卜",
-          "萝",
-          "卜",
-          "糕"
-        ]
+        "wkty": ["XO酱", "酱", "炒", "蘿蔔糕", "萝卜", "萝", "卜", "糕"]
       },
       "Pinyin": "XO jiàng chǎo luó bo gāo",
       "description": "{XO醬} is XO sauce ({醬} is *sauce*), {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {蘿蔔} is [daikon](https://en.wikipedia.org/wiki/Daikon), and {糕} is *cake*, so {蘿蔔糕} is [turnip cake](http://en.wikipedia.org/wiki/Turnip_cake), and XO醬炒蘿蔔糕 is *XO sauce stir-fried radish cake*."
@@ -324,15 +219,7 @@
       }
     ],
     "description": "Small cubes of [turnip cake](http://en.wikipedia.org/wiki/Turnip_cake) [stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with [XO sauce](https://en.wikipedia.org/wiki/XO_sauce).",
-    "tags": [
-      "港式",
-      "點心",
-      "蘿蔔糕",
-      "XO醬",
-      "炒",
-      "蘿蔔",
-      "糕"
-    ],
+    "tags": ["港式", "點心", "蘿蔔糕", "XO醬", "炒", "蘿蔔", "糕"],
     "resources": [
       {
         "name": "Mike's Food Archives",

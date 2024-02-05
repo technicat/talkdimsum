@@ -1,353 +1,249 @@
 [
-    {
-        "word": {
-            "English": "siu mei rice",
-            "Cantonese": {
-                "text": "燒味飯",
-                "wkty": [
-                    "燒味",
-                    "燒",
-                    "味",
-                    "飯"
-                ]
-            },
-            "Yale": "sīu meih faahn",
-            "Simplified": {
-                "text": "烧味饭",
-                "wkty": [
-                    "烧味",
-                    "烧",
-                    "味",
-                    "饭"
-                ]
-            },
-            "Pinyin": "shāo wèi fàn",
-            "description": "{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*. {飯} is *rice*, so 燒味飯 is *roast flavor rice*."
-        },
-        "images": [
-            {
-                "image": "siumeiricebbqking",
-                "place": "BBQ King, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei), [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats (basically Cantonese BBQ), served on steamed rice, usually with a vegetable such as [bok choy](https://en.wikipedia.org/wiki/Bok_choy) or [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan).",
-        "tags": [
-            "粵菜",
-            "燒味飯",
-            "燒味",
-            "肉",
-            "燒",
-            "白飯",
-            "飯"
-        ],
-        "resources": [
-            {
-                "name": "The Culture Trip",
-                "URL": "https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Siu_mei"
-            }
-        ]
+  {
+    "word": {
+      "English": "siu mei rice",
+      "Cantonese": {
+        "text": "燒味飯",
+        "wkty": ["燒味", "燒", "味", "飯"]
+      },
+      "Yale": "sīu meih faahn",
+      "Simplified": {
+        "text": "烧味饭",
+        "wkty": ["烧味", "烧", "味", "饭"]
+      },
+      "Pinyin": "shāo wèi fàn",
+      "description": "{燒} is *roast*, and {味} is *flavor* or *aroma*, so {燒味} is *roast flavor*. {飯} is *rice*, so 燒味飯 is *roast flavor rice*."
     },
-    {
-        "word": {
-            "English": "BBQ pork rice",
-            "Cantonese": {
-                "text": "叉燒飯",
-                "wkty": [
-                    "叉燒",
-                    "叉",
-                    "燒",
-                    "飯"
-                ]
-            },
-            "Yale": "chā sīu faahn",
-            "Simplified": {
-                "text": "叉烧饭",
-                "wkty": [
-                    "叉烧",
-                    "叉",
-                    "烧",
-                    "饭"
-                ]
-            },
-            "Pinyin": "chā shāo fàn"
-        },
-        "images": [
-            {
-                "image": "chasiufanchubbyboybbq",
-                "place": "Chubby Boy BBQ, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Cha siu](https://en.wikipedia.org/wiki/Char_siu) served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{叉燒} is [Cha siu](https://en.wikipedia.org/wiki/Char_siu), and {飯} is *rice*, so 叉燒飯 is *BBQ pork rice*.",
-        "tags": [
-            "粵菜",
-            "茶餐廳",
-            "叉燒",
-            "燒味飯",
-            "燒味",
-            "飯",
-            "肉",
-            "白飯"
-        ],
-        "resources": [
-            {
-                "name": "Healthy GF Asian",
-                "URL": "https://www.healthygfasian.com/chinese-barbecue-pork-rice-char-siu-fan/"
-            },
-            {
-                "name": "The Missing Lokness",
-                "URL": "https://themissinglokness.com/2014/04/23/cantonese-style-bbq-pork-over-rice/"
-            }
-        ]
+    "images": [
+      {
+        "image": "siumeiricebbqking",
+        "place": "BBQ King, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Siu mei](https://en.wikipedia.org/wiki/Siu_mei), [Cantonese](https://en.wikipedia.org/wiki/Cantonese_cuisine)-style roasted meats (basically Cantonese BBQ), served on steamed rice, usually with a vegetable such as [bok choy](https://en.wikipedia.org/wiki/Bok_choy) or [Chinese broccoli](http://en.wikipedia.org/wiki/Kai-lan).",
+    "tags": ["粵菜", "燒味飯", "燒味", "肉", "燒", "白飯", "飯"],
+    "resources": [
+      {
+        "name": "The Culture Trip",
+        "URL": "https://theculturetrip.com/asia/hong-kong/articles/an-introduction-to-siu-mei-or-hk-style-barbecued-meats/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Siu_mei"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "BBQ pork rice",
+      "Cantonese": {
+        "text": "叉燒飯",
+        "wkty": ["叉燒", "叉", "燒", "飯"]
+      },
+      "Yale": "chā sīu faahn",
+      "Simplified": {
+        "text": "叉烧饭",
+        "wkty": ["叉烧", "叉", "烧", "饭"]
+      },
+      "Pinyin": "chā shāo fàn"
     },
-    {
-        "word": {
-            "English": "pork belly rice",
-            "Cantonese": {
-                "text": "燒肉飯",
-                "wkty": [
-                    "燒肉",
-                    "燒",
-                    "肉",
-                    "飯"
-                ]
-            },
-            "Yale": "sīu yuhk faahn",
-            "Simplified": {
-                "text": "烧肉饭",
-                "wkty": [
-                    "燒肉",
-                    "燒",
-                    "肉",
-                    "饭"
-                ]
-            },
-            "Pinyin": "shāo ròu fàn"
-        },
-        "images": [
-            {
-                "image": "porkbellyricebbqking",
-                "place": "BBQ King, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Siu yuk](https://en.wikipedia.org/wiki/Siu_yuk) (crispy pork belly) served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{燒肉} is *pork belly* (literally *roast meat*), and {飯} is *rice*, so 燒肉飯 is *pork belly rice*.",
-        "tags": [
-            "粵菜",
-            "茶餐廳",
-            "燒肉",
-            "燒味",
-            "飯",
-            "肉",
-            "白飯"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Siu_yuk"
-            }
-        ]
+    "images": [
+      {
+        "image": "chasiufanchubbyboybbq",
+        "place": "Chubby Boy BBQ, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Cha siu](https://en.wikipedia.org/wiki/Char_siu) served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{叉燒} is [Cha siu](https://en.wikipedia.org/wiki/Char_siu), and {飯} is *rice*, so 叉燒飯 is *BBQ pork rice*.",
+    "tags": ["粵菜", "茶餐廳", "叉燒", "燒味飯", "燒味", "飯", "肉", "白飯"],
+    "resources": [
+      {
+        "name": "Healthy GF Asian",
+        "URL": "https://www.healthygfasian.com/chinese-barbecue-pork-rice-char-siu-fan/"
+      },
+      {
+        "name": "The Missing Lokness",
+        "URL": "https://themissinglokness.com/2014/04/23/cantonese-style-bbq-pork-over-rice/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "pork belly rice",
+      "Cantonese": {
+        "text": "燒肉飯",
+        "wkty": ["燒肉", "燒", "肉", "飯"]
+      },
+      "Yale": "sīu yuhk faahn",
+      "Simplified": {
+        "text": "烧肉饭",
+        "wkty": ["燒肉", "燒", "肉", "饭"]
+      },
+      "Pinyin": "shāo ròu fàn"
     },
-    {
-        "word": {
-            "English": "roast duck rice",
-            "Cantonese": {
-                "text": "燒鴨飯",
-                "wkty": [
-                    "燒鴨",
-                    "燒",
-                    "鴨",
-                    "飯"
-                ]
-            },
-            "Yale": "sīu aap faahn",
-            "Simplified": {
-                "text": "烧鸭饭",
-                "wkty": [
-                    "烧鸭",
-                    "烧",
-                    "鸭",
-                    "饭"
-                ]
-            },
-            "Pinyin": "shāo yā fàn"
-        },
-        "images": [
-            {
-                "image": "roastduckricebbqking",
-                "place": "BBQ King, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Cantontese-style roast duck served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{烤鴨} is *roast duck*, and {飯} is *rice*, so 燒鴨飯 is *roast duck rice*.",
-        "tags": [
-            "粵菜",
-            "茶餐廳",
-            "燒鴨",
-            "鴨",
-            "燒味飯",
-            "燒味",
-            "飯",
-            "肉",
-            "白飯"
-        ],
-        "resources": [
-            {
-                "name": "CiCi Li",
-                "URL": "https://cicili.tv/cantonese-roasted-duck/"
-            },
-            {
-                "name": "The Domestic Man",
-                "URL": "https://thedomesticman.com/2019/06/26/cantonese-roast-duck/"
-            },
-            {
-                "name": "Guai Shu Shu",
-                "URL": "https://www.guaishushu1.com/roast-duck-%E7%83%A4%E9%B8%AD%EF%BC%89/"
-            },
-            {
-                "name": "Like a Chinese",
-                "URL": "https://likeachinese.com/cantonese-roast-duck/"
-            },
-            {
-                "name": "Oh My Food",
-                "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
-            },
-            {
-                "name": "Miss Chinese Food",
-                "URL": "https://misschinesefood.com/cantonese-roast-duck/"
-            },
-            {
-                "name": "Simple Chinese Food",
-                "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/roasted-braised-duck/"
-            }
-        ]
+    "images": [
+      {
+        "image": "porkbellyricebbqking",
+        "place": "BBQ King, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Siu yuk](https://en.wikipedia.org/wiki/Siu_yuk) (crispy pork belly) served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{燒肉} is *pork belly* (literally *roast meat*), and {飯} is *rice*, so 燒肉飯 is *pork belly rice*.",
+    "tags": ["粵菜", "茶餐廳", "燒肉", "燒味", "飯", "肉", "白飯"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Siu_yuk"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "roast duck rice",
+      "Cantonese": {
+        "text": "燒鴨飯",
+        "wkty": ["燒鴨", "燒", "鴨", "飯"]
+      },
+      "Yale": "sīu aap faahn",
+      "Simplified": {
+        "text": "烧鸭饭",
+        "wkty": ["烧鸭", "烧", "鸭", "饭"]
+      },
+      "Pinyin": "shāo yā fàn"
     },
-    {
-        "word": {
-            "English": "three treasures rice",
-            "Cantonese": {
-                "text": "三寶飯",
-                "wkty": [
-                    "三寶",
-                    "三",
-                    "寶",
-                    "飯"
-                ]
-            },
-            "Yale": "sāam bóu faahn",
-            "Simplified": {
-                "text": "三宝饭",
-                "wkty": [
-                    "三宝",
-                    "三",
-                    "宝",
-                    "饭"
-                ]
-            },
-            "Pinyin": "sān bǎo fàn",
-            "description": "{三} is *three*, {寶} is *treasure*, and {飯} is *rice*, so 三寶飯 is *three treasure rice*.\n\nIt's easy to remember the first three number words: one, two, three is {一}, {二}, {三}. The pattern ends after that."
-        },
-        "images": [
-            {
-                "image": "threetreasuresrice",
-                "place": "Big Wong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Three meats served on rice.",
-        "tags": [
-            "粵菜",
-            "茶餐廳",
-            "燒味",
-            "飯",
-            "肉",
-            "白飯"
-        ],
-        "resources": [
-            {
-                "name": "Meals on Budget",
-                "URL": "https://mealsonbudget.wordpress.com/2009/06/15/rice-6-0-three-treasures-rice-%E4%B8%89%E5%AF%B6%E9%A3%AF/"
-            }
-        ]
+    "images": [
+      {
+        "image": "roastduckricebbqking",
+        "place": "BBQ King, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Cantontese-style roast duck served on [steamed rice](https://en.wikipedia.org/wiki/Cooked_rice).\n\n{烤鴨} is *roast duck*, and {飯} is *rice*, so 燒鴨飯 is *roast duck rice*.",
+    "tags": [
+      "粵菜",
+      "茶餐廳",
+      "燒鴨",
+      "鴨",
+      "燒味飯",
+      "燒味",
+      "飯",
+      "肉",
+      "白飯"
+    ],
+    "resources": [
+      {
+        "name": "CiCi Li",
+        "URL": "https://cicili.tv/cantonese-roasted-duck/"
+      },
+      {
+        "name": "The Domestic Man",
+        "URL": "https://thedomesticman.com/2019/06/26/cantonese-roast-duck/"
+      },
+      {
+        "name": "Guai Shu Shu",
+        "URL": "https://www.guaishushu1.com/roast-duck-%E7%83%A4%E9%B8%AD%EF%BC%89/"
+      },
+      {
+        "name": "Like a Chinese",
+        "URL": "https://likeachinese.com/cantonese-roast-duck/"
+      },
+      {
+        "name": "Oh My Food",
+        "URL": "https://www.ohmyfoodrecipes.com/roast-duck/"
+      },
+      {
+        "name": "Miss Chinese Food",
+        "URL": "https://misschinesefood.com/cantonese-roast-duck/"
+      },
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/cantonese-roast-duck"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/roasted-braised-duck/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "three treasures rice",
+      "Cantonese": {
+        "text": "三寶飯",
+        "wkty": ["三寶", "三", "寶", "飯"]
+      },
+      "Yale": "sāam bóu faahn",
+      "Simplified": {
+        "text": "三宝饭",
+        "wkty": ["三宝", "三", "宝", "饭"]
+      },
+      "Pinyin": "sān bǎo fàn",
+      "description": "{三} is *three*, {寶} is *treasure*, and {飯} is *rice*, so 三寶飯 is *three treasure rice*.\n\nIt's easy to remember the first three number words: one, two, three is {一}, {二}, {三}. The pattern ends after that."
     },
-    {
-        "word": {
-            "English": "soy sauce chicken rice",
-            "Cantonese": {
-                "text": "豉油雞飯",
-                "wkty": [
-                    "豉油雞",
-                    "豉油",
-                    "豉",
-                    "油",
-                    "雞"
-                    
-                ]
-            },
-            "Yale": "sih yàuh gāi faahn",
-            "Simplified": {
-                "text": "豉油鸡饭",
-                "wkty": [
-                    "豉油鸡",
-                    "豉油",
-                    "豉",
-                    "油",
-                    "鸡"
-                ]
-            },
-            "Pinyin": "chǐ yóu jī fàn",
-            "description": "{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*. {飯} is *rice*."
-        },
-        "images": [
-            {
-                "image": "soysaucechickenriceasianbbqandnoodles",
-                "place": "New Asian BBQ & Noodles, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A Cantonese [siu-mei](https://en.wikipedia.org/wiki/Siu_mei) dish, chicken cooked with soy sauce, served on rice.",
-        "tags": [
-            "豉油",
-            "粵菜",
-            "燒味飯",
-            "燒味",
-            "肉",
-            "燒",
-            "雞",
-            "白飯"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/easy-chinese-soy-sauce-chicken/"
-            },
-            {
-                "name": "Made with Lau",
-                "URL": "https://www.madewithlau.com/recipes/soy-sauce-chicken"
-            },
-            {
-                "name": "Rasa Malaysia",
-                "URL": "https://rasamalaysia.com/chinese-soy-sauce-chicken-recipe/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/soy-sauce-chicken/"
-            },
-            {
-                "name": "Simple Chinese Food",
-                "URL": "https://simplechinesefood.com/recipe/soy-sauce-chicken-rice-188399"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Soy_sauce_chicken"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/soy-sauce-chicken/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "threetreasuresrice",
+        "place": "Big Wong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Three meats served on rice.",
+    "tags": ["粵菜", "茶餐廳", "燒味", "飯", "肉", "白飯"],
+    "resources": [
+      {
+        "name": "Meals on Budget",
+        "URL": "https://mealsonbudget.wordpress.com/2009/06/15/rice-6-0-three-treasures-rice-%E4%B8%89%E5%AF%B6%E9%A3%AF/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "soy sauce chicken rice",
+      "Cantonese": {
+        "text": "豉油雞飯",
+        "wkty": ["豉油雞", "豉油", "豉", "油", "雞"]
+      },
+      "Yale": "sih yàuh gāi faahn",
+      "Simplified": {
+        "text": "豉油鸡饭",
+        "wkty": ["豉油鸡", "豉油", "豉", "油", "鸡"]
+      },
+      "Pinyin": "chǐ yóu jī fàn",
+      "description": "{豉油} is *soy sauce*, and {雞} is *chicken*, so {豉油雞} is *soy sauce chicken*. {飯} is *rice*."
+    },
+    "images": [
+      {
+        "image": "soysaucechickenriceasianbbqandnoodles",
+        "place": "New Asian BBQ & Noodles, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Cantonese [siu-mei](https://en.wikipedia.org/wiki/Siu_mei) dish, chicken cooked with soy sauce, served on rice.",
+    "tags": ["豉油", "粵菜", "燒味飯", "燒味", "肉", "燒", "雞", "白飯"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/easy-chinese-soy-sauce-chicken/"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/soy-sauce-chicken"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/chinese-soy-sauce-chicken-recipe/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/soy-sauce-chicken/"
+      },
+      {
+        "name": "Simple Chinese Food",
+        "URL": "https://simplechinesefood.com/recipe/soy-sauce-chicken-rice-188399"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Soy_sauce_chicken"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/soy-sauce-chicken/"
+      }
+    ]
+  }
 ]
