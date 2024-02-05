@@ -1,108 +1,78 @@
 [
-    {
-        "word": {
-            "English": "Vietnamese-style fried spring roll",
-            "Cantonese": {
-                "text": "越式炸春卷",
-                "wkty": [
-                    "越",
-                    "式",
-                    "春",
-                    "春卷",
-                    "春",
-                    "卷"
-                ]
-            },
-            "Yale": "yuht sīk ja chēun gyún",
-            "Pinyin": "yuè shì zhà chūn juǎn",
-            "description": "{越} is short for [Vietnam](https://en.wikipedia.org/wiki/Vietnam) ({越南}), {式} is *style*), {炸} is *deep-fried*, {春} is *Spring*, and {卷} is *roll*, so 越式炸春卷 is *Vietnam-style deep-fried Spring roll*."
-        },
-        "images": [
-            {
-                "image": "vietnameseeggrollcapitalseafood",
-                "place": "Capital Seafood, Las Vegas, Nevada"
-            }
-        ],
-        "description": "You may be familiar with [fresh Vietnamese spring rolls](https://delightfulplate.com/vietnamese-fresh-spring-rolls-goi-cuon/) (called *guo cuon* in Vietnamese) that are served cold and not-fried, but Vietnamese cuisine also has a [deep-fried spring roll](https://kake.dreamwidth.org/124605.html) (called {chả giò} in Vietnamese), visibly distinguished from the Chinese version by a bubbly skin made from rice paper.",
-        "tags": [
-            "越式",
-            "春卷",
-            "茶餐廳",
-            "豬肉",
-            "炸",
-            "春",
-            "卷",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Adventures with Kake",
-                "URL": "https://kake.dreamwidth.org/124605.html"
-            },
-            {
-                "name": "Delightful Plate",
-                "URL": "https://delightfulplate.com/vietnamese-fried-spring-rolls/"
-            },
-            {
-                "name": "The Hong Kong Cookery",
-                "URL": "https://www.thehongkongcookery.com/2016/08/vietnamese-deep-fry-spring-rolls-cah-gio.html"
-            },
-            {
-                "name": "Rasa Malaysia",
-                "URL": "https://rasamalaysia.com/vietnamese-spring-rolls-cha-gio-recipe/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Ch%E1%BA%A3_gi%C3%B2"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/cha-gio-vietnamese-fried-spring-rolls/"
-            }
-        ]
+  {
+    "word": {
+      "English": "Vietnamese-style fried spring roll",
+      "Cantonese": {
+        "text": "越式炸春卷",
+        "wkty": ["越", "式", "春", "春卷", "春", "卷"]
+      },
+      "Yale": "yuht sīk ja chēun gyún",
+      "Pinyin": "yuè shì zhà chūn juǎn",
+      "description": "{越} is short for [Vietnam](https://en.wikipedia.org/wiki/Vietnam) ({越南}), {式} is *style*), {炸} is *deep-fried*, {春} is *Spring*, and {卷} is *roll*, so 越式炸春卷 is *Vietnam-style deep-fried Spring roll*."
     },
-    {
-        "word": {
-            "English": "Vietnamese Spring roll",
-            "Cantonese": {
-                "text": "越南春卷",
-                "wkty": [
-                    "越南春卷",
-                    "越南",
-                    "越",
-                    "越南",
-                    "春卷",
-                    "春",
-                    "卷"
-                ]
-            },
-            "Yale": "yuht nàahm chēun gyún",
-            "Pinyin": "yuè nán chūn juǎn",
-            "description": "{越南} is [Vietnam](https://en.wikipedia.org/wiki/Vietnam), {春} is *Spring*, and {卷} is *roll*, so 越南春卷 is *Vietnam Spring roll*."
-        },
-        "images": [
-            {
-                "image": "freshspringrolldistrictone",
-                "place": "District One, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Vietnamese spring rolls](https://delightfulplate.com/vietnamese-fresh-spring-rolls-goi-cuon/), called *guo cuon* in Vietnamese and also known as *fresh spring rolls*, *summer rolls*, *salad rolls*, or *rice paper rolls*, are made with a thin rice paper wrapping and served cold, not fried.",
-        "tags": [
-            "越式",
-            "春卷",
-            "炸",
-            "卷",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Delightful Plate",
-                "URL": "https://delightfulplate.com/vietnamese-fresh-spring-rolls-goi-cuon/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "vietnameseeggrollcapitalseafood",
+        "place": "Capital Seafood, Las Vegas, Nevada"
+      }
+    ],
+    "description": "You may be familiar with [fresh Vietnamese spring rolls](https://delightfulplate.com/vietnamese-fresh-spring-rolls-goi-cuon/) (called *guo cuon* in Vietnamese) that are served cold and not-fried, but Vietnamese cuisine also has a [deep-fried spring roll](https://kake.dreamwidth.org/124605.html) (called {chả giò} in Vietnamese), visibly distinguished from the Chinese version by a bubbly skin made from rice paper.",
+    "tags": ["越式", "春卷", "茶餐廳", "豬肉", "炸", "春", "卷", "點心"],
+    "resources": [
+      {
+        "name": "Adventures with Kake",
+        "URL": "https://kake.dreamwidth.org/124605.html"
+      },
+      {
+        "name": "Delightful Plate",
+        "URL": "https://delightfulplate.com/vietnamese-fried-spring-rolls/"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "https://www.thehongkongcookery.com/2016/08/vietnamese-deep-fry-spring-rolls-cah-gio.html"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/vietnamese-spring-rolls-cha-gio-recipe/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Ch%E1%BA%A3_gi%C3%B2"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/cha-gio-vietnamese-fried-spring-rolls/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "Vietnamese Spring roll",
+      "Cantonese": {
+        "text": "越南春卷",
+        "wkty": ["越南春卷", "越南", "越", "越南", "春卷", "春", "卷"]
+      },
+      "Yale": "yuht nàahm chēun gyún",
+      "Pinyin": "yuè nán chūn juǎn",
+      "description": "{越南} is [Vietnam](https://en.wikipedia.org/wiki/Vietnam), {春} is *Spring*, and {卷} is *roll*, so 越南春卷 is *Vietnam Spring roll*."
+    },
+    "images": [
+      {
+        "image": "freshspringrolldistrictone",
+        "place": "District One, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Vietnamese spring rolls](https://delightfulplate.com/vietnamese-fresh-spring-rolls-goi-cuon/), called *guo cuon* in Vietnamese and also known as *fresh spring rolls*, *summer rolls*, *salad rolls*, or *rice paper rolls*, are made with a thin rice paper wrapping and served cold, not fried.",
+    "tags": ["越式", "春卷", "炸", "卷", "點心"],
+    "resources": [
+      {
+        "name": "Delightful Plate",
+        "URL": "https://delightfulplate.com/vietnamese-fresh-spring-rolls-goi-cuon/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n"
+      }
+    ]
+  }
 ]

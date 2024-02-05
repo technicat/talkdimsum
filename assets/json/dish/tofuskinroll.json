@@ -1,159 +1,104 @@
 [
-    {
-        "word": {
-            "English": "tofu skin roll",
-            "Cantonese": {
-                "text": "鮮竹卷",
-                "wkty": [
-                    "鮮竹卷",
-                    "鮮",
-                    "竹",
-                    "卷"
-                ]
-            },
-            "Yale": "sīn juk gyún",
-            "Pinyin": "xiān zhú juǎn",
-            "description": "{鮮} is *fresh*, {竹} is *bamboo*, and {卷} is *roll*, so {鮮竹卷} is *fresh bamboo roll*."
-        },
-        "images": [
-            {
-                "image": "tofuskinrollyumcha3",
-                "place": "Yum Cha, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Dried [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) wrapped around bamboo shoots and other vegetable or meat fillings and steamed.",
-        "tags": [
-            "豆腐",
-            "腐皮",
-            "竹卷",
-            "蒸",
-            "豆腐",
-            "竹",
-            "卷",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Beancurd-Sheet-Roll"
-            },
-            {
-                "name": "What to Cook Today",
-                "URL": "https://whattocooktoday.com/bean-curd-tofu-skin-pork-rolls.html"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Tofu_skin_roll"
-            }
-        ]
+  {
+    "word": {
+      "English": "tofu skin roll",
+      "Cantonese": {
+        "text": "鮮竹卷",
+        "wkty": ["鮮竹卷", "鮮", "竹", "卷"]
+      },
+      "Yale": "sīn juk gyún",
+      "Pinyin": "xiān zhú juǎn",
+      "description": "{鮮} is *fresh*, {竹} is *bamboo*, and {卷} is *roll*, so {鮮竹卷} is *fresh bamboo roll*."
     },
-    {
-        "word": {
-            "English": "fried tofu skin roll",
-            "Cantonese": {
-                "text": "腐皮卷",
-                "wkty": [
-                    "豆腐",
-                    "腐皮卷",
-                    "腐皮",
-                    "腐",
-                    "皮",
-                    "卷"
-                ]
-            },
-            "Yale": "fuh pèih gyún",
-            "Pinyin": "fǔ pí juǎn",
-            "description": "{腐皮} is [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin), and {卷} is *roll*, so 腐皮卷 is *tofu skin roll*."
-        },
-        "images": [
-            {
-                "image": "friedtofuskinrollkj",
-                "place": "KJ Dim Sum and Seafood"
-            }
-        ],
-        "description": "A pan-fried [tofu skin roll](http://en.wikipedia.org/wiki/Tofu_skin_roll), where the skin is made from fermented bean curd wrapped around vegetable or meat fillings and steamed.",
-        "tags": [
-            "腐皮卷",
-            "腐皮",
-            "蒸",
-            "豆腐",
-            "卷",
-            "點心"
-        ],
-        "resources": [
-            {
-                "name": "Dim Sum Guide",
-                "URL": "https://dimsumguide.com/site/view/Beancurd-Sheet-Roll"
-            },
-            {
-                "name": "Hong Kong University",
-                "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/35"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "http://en.wikipedia.org/wiki/Tofu_skin_roll"
-            }
-        ]
+    "images": [
+      {
+        "image": "tofuskinrollyumcha3",
+        "place": "Yum Cha, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Dried [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) wrapped around bamboo shoots and other vegetable or meat fillings and steamed.",
+    "tags": ["豆腐", "腐皮", "竹卷", "蒸", "豆腐", "竹", "卷", "點心"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Beancurd-Sheet-Roll"
+      },
+      {
+        "name": "What to Cook Today",
+        "URL": "https://whattocooktoday.com/bean-curd-tofu-skin-pork-rolls.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Tofu_skin_roll"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fried tofu skin roll",
+      "Cantonese": {
+        "text": "腐皮卷",
+        "wkty": ["豆腐", "腐皮卷", "腐皮", "腐", "皮", "卷"]
+      },
+      "Yale": "fuh pèih gyún",
+      "Pinyin": "fǔ pí juǎn",
+      "description": "{腐皮} is [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin), and {卷} is *roll*, so 腐皮卷 is *tofu skin roll*."
     },
-    {
-        "word": {
-            "English": "fried tofu skin roll w/ shrimp",
-            "Cantonese": {
-                "text": "鮮蝦腐皮卷",
-                "wkty": [
-                    "豆腐",
-                    "鮮蝦",
-                    "鮮",
-                    "蝦",
-                    "腐皮卷",
-                    "腐皮",
-                    "腐",
-                    "皮",
-                    "卷"
-                ]
-            },
-            "Yale": "sīn hā fuh pèih gyún",
-            "Simplified": {
-                "text": "鲜虾腐皮卷",
-                "wkty": [
-                    "鲜虾",
-                    "鲜",
-                    "虾",
-                    "腐皮卷",
-                    "腐皮",
-                    "腐",
-                    "皮",
-                    "卷"
-                ]
-            },
-            "Pinyin": "xiān xiā fǔ pí juǎn",
-            "description": "{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*), {腐皮} is [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin), and {卷} is *roll*, so 鮮蝦腐皮卷 is *fresh shrimp tofu skin roll*."
-        },
-        "images": [
-            {
-                "image": "sesamerollwithshrimppingpangpong",
-                "place": "Ping Pang Pong, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Pan-fried [tofu skin rolls](http://en.wikipedia.org/wiki/Tofu_skin_roll) filled with shrimp.",
-        "tags": [
-            "豆腐",
-            "腐皮",
-            "點心",
-            "腐皮卷",
-            "蒸",
-            "豆腐",
-            "卷"
-        ],
-        "resources": [
-            {
-                "name": "Asian Inspirations",
-                "URL": "https://asianinspirations.com.au/recipes/prawn-beancurd-skin-rolls-fu-pei-guen/"
-            },
-            {
-                "name": "Yum Cha Guide",
-                "URL": "http://www.yumchaguide.com/portfolio/fresh-prawn-bean-curd-roll/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "friedtofuskinrollkj",
+        "place": "KJ Dim Sum and Seafood"
+      }
+    ],
+    "description": "A pan-fried [tofu skin roll](http://en.wikipedia.org/wiki/Tofu_skin_roll), where the skin is made from fermented bean curd wrapped around vegetable or meat fillings and steamed.",
+    "tags": ["腐皮卷", "腐皮", "蒸", "豆腐", "卷", "點心"],
+    "resources": [
+      {
+        "name": "Dim Sum Guide",
+        "URL": "https://dimsumguide.com/site/view/Beancurd-Sheet-Roll"
+      },
+      {
+        "name": "Hong Kong University",
+        "URL": "https://learning.hku.hk/ccch9051/group-19/items/show/35"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "http://en.wikipedia.org/wiki/Tofu_skin_roll"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "fried tofu skin roll w/ shrimp",
+      "Cantonese": {
+        "text": "鮮蝦腐皮卷",
+        "wkty": ["豆腐", "鮮蝦", "鮮", "蝦", "腐皮卷", "腐皮", "腐", "皮", "卷"]
+      },
+      "Yale": "sīn hā fuh pèih gyún",
+      "Simplified": {
+        "text": "鲜虾腐皮卷",
+        "wkty": ["鲜虾", "鲜", "虾", "腐皮卷", "腐皮", "腐", "皮", "卷"]
+      },
+      "Pinyin": "xiān xiā fǔ pí juǎn",
+      "description": "{鮮蝦} is *fresh shrimp* ({鮮} is *fresh* and {蝦} is *shrimp*), {腐皮} is [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin), and {卷} is *roll*, so 鮮蝦腐皮卷 is *fresh shrimp tofu skin roll*."
+    },
+    "images": [
+      {
+        "image": "sesamerollwithshrimppingpangpong",
+        "place": "Ping Pang Pong, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Pan-fried [tofu skin rolls](http://en.wikipedia.org/wiki/Tofu_skin_roll) filled with shrimp.",
+    "tags": ["豆腐", "腐皮", "點心", "腐皮卷", "蒸", "豆腐", "卷"],
+    "resources": [
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/prawn-beancurd-skin-rolls-fu-pei-guen/"
+      },
+      {
+        "name": "Yum Cha Guide",
+        "URL": "http://www.yumchaguide.com/portfolio/fresh-prawn-bean-curd-roll/"
+      }
+    ]
+  }
 ]

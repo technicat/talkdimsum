@@ -1,18 +1,18 @@
 {
-    "name": "Alaska",
-    "places": [
+  "name": "Alaska",
+  "places": [
+    {
+      "name": "Charlie's Bakery & Chinese Cuisine",
+      "links": [
         {
-            "name": "Charlie's Bakery & Chinese Cuisine",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/charlies-bakery-anchorage"
-                }
-            ],
-            "lat": 61.195970,
-            "lon": -149.885680,
-            "city": "Anchorage",
-            "address": "2729 C St Anchorage, AK 99503"
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/charlies-bakery-anchorage"
         }
-    ]
+      ],
+      "lat": 61.19597,
+      "lon": -149.88568,
+      "city": "Anchorage",
+      "address": "2729 C St Anchorage, AK 99503"
+    }
+  ]
 }

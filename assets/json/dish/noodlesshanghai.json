@@ -4,22 +4,12 @@
       "English": "scallion oil noodles",
       "Cantonese": {
         "text": "蔥油拌麵",
-        "wkty": [
-          "蔥",
-          "油",
-          "拌麵",
-          "麵"
-        ]
+        "wkty": ["蔥", "油", "拌麵", "麵"]
       },
       "Yale": "daam daam mihn",
       "Simplified": {
         "text": "葱油拌面",
-        "wkty": [
-          "葱",
-          "油",
-          "拌面",
-          "面"
-        ]
+        "wkty": ["葱", "油", "拌面", "面"]
       },
       "Pinyin": "dàn dàn miàn",
       "description": "{麵} is [noodles](https://en.wikipedia.org/wiki/Noodle)."
@@ -31,12 +21,7 @@
       }
     ],
     "description": "A simple Shanghai noodle dish consisting of noodles, oil, scallions,sugar, and soy sauce.",
-    "tags": [
-      "滬菜",
-      "蔥",
-      "油",
-      "麵"
-    ],
+    "tags": ["滬菜", "蔥", "油", "麵"],
     "resources": [
       {
         "name": "China Sichuan Food",
@@ -65,22 +50,12 @@
       "English": "sesame noodles",
       "Cantonese": {
         "text": "麻醬麵",
-        "wkty": [
-          "麻醬",
-          "麻",
-          "醬",
-          "麵"
-        ]
+        "wkty": ["麻醬", "麻", "醬", "麵"]
       },
       "Yale": "màh jeung mihn",
       "Simplified": {
         "text": "麻酱面",
-        "wkty": [
-          "麻酱",
-          "麻",
-          "酱",
-          "面"
-        ]
+        "wkty": ["麻酱", "麻", "酱", "面"]
       },
       "Pinyin": "má jiàng miàn",
       "description": "{麻醬} is *sesame sauce* ({麻} is short for *sesame*, {芝麻}, and {醬} is *sauce*)). {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 麻醬麵 is *sesame sauce noodles*."
@@ -92,13 +67,7 @@
       }
     ],
     "description": "A Shanghai dish, noodles in a creamy sesame sauce.",
-    "tags": [
-      "滬菜",
-      "芝麻",
-      "上海",
-      "麻醬",
-      "麵"
-    ],
+    "tags": ["滬菜", "芝麻", "上海", "麻醬", "麵"],
     "resources": [
       {
         "name": "Choo Choo Ca Chew",

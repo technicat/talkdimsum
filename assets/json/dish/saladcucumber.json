@@ -1,162 +1,99 @@
 [
-    {
-        "word": {
-            "English": "cucumber salad",
-            "Cantonese": {
-                "text": "涼拌黃瓜",
-                "wkty": [
-                    "涼拌",
-                    "涼",
-                    "拌",
-                    "黃瓜",
-                    "黃",
-                    "瓜"
-                ]
-            },
-            "Yale": "lèuhng buhn wòhng gwā",
-            "Simplified": {
-                "text": "凉拌黄瓜",
-                "wkty": [
-                    "涼拌",
-                    "涼",
-                    "拌",
-                    "黄瓜",
-                    "黄",
-                    "瓜"
-                ]
-            },
-            "Pinyin": "liáng bàn huáng guā",
-            "description": "{涼拌} is a salad (with dressing). {涼} is *cool* or *cold*, and {拌} is a mixture. And {黃瓜} is *cucumber* ({黃} is green or blue-green and {瓜} is a melon or gourd. So 涼拌黃瓜 is a *cool mix green gourd*."
-        },
-        "images": [
-            {
-                "image": "coldcucumberjjnoodle",
-                "place": "JJ Noodle, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Chilled slabs of cucumber.",
-        "tags": [
-            "黃瓜",
-            "青色",
-            "沙律",
-            "菜",
-            "素",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Healthy Nibbles",
-                "URL": "https://healthynibblesandbits.com/chinese-garlic-cucumber-salad/"
-            },
-            {
-                "name": "Way2Wok",
-                "URL": "http://www.way2wok.com/recipe/garlic-cucumber-salad/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/chinese-cucumber-salad/"
-            }
-        ]
+  {
+    "word": {
+      "English": "cucumber salad",
+      "Cantonese": {
+        "text": "涼拌黃瓜",
+        "wkty": ["涼拌", "涼", "拌", "黃瓜", "黃", "瓜"]
+      },
+      "Yale": "lèuhng buhn wòhng gwā",
+      "Simplified": {
+        "text": "凉拌黄瓜",
+        "wkty": ["涼拌", "涼", "拌", "黄瓜", "黄", "瓜"]
+      },
+      "Pinyin": "liáng bàn huáng guā",
+      "description": "{涼拌} is a salad (with dressing). {涼} is *cool* or *cold*, and {拌} is a mixture. And {黃瓜} is *cucumber* ({黃} is green or blue-green and {瓜} is a melon or gourd. So 涼拌黃瓜 is a *cool mix green gourd*."
     },
-    {
-        "word": {
-            "English": "spicy cucumber salad",
-            "Cantonese": {
-                "text": "麻辣小黃瓜",
-                "wkty": [
-                    "麻辣",
-                    "麻",
-                    "辣",
-                    "小黃瓜",
-                    "小",
-                    "黃瓜",
-                    "黃",
-                    "瓜"
-                ]
-            },
-            "Yale": "màh laaht síu wòhng gwā",
-            "Simplified": {
-                "text": "麻辣小黃瓜",
-                "wkty": [
-                    "麻辣",
-                    "麻",
-                    "辣",
-                    "小黃瓜",
-                    "小",
-                    "黃瓜",
-                    "黃",
-                    "瓜"
-                ]
-            },
-            "Pinyin": "má là xiǎo huáng guā"
-        },
-        "images": [
-            {
-                "image": "spicycucumber88noodlepapa",
-                "place": "88 Noodle Papa, Las Vegas, Nevada"
-            }
-        ],
-        "description": "{麻辣} is [Mala](https://en.wikipedia.org/wiki/Mala_(seasoning)), a spicy flavor from Sichuan cuisine, {小} is *small*, and {黃瓜} is *cucumber* ({黃} is green or blue-green, and {瓜} is a melon or gourd.",
-        "tags": [
-            "麻辣",
-            "黃瓜",
-            "沙律",
-            "川菜",
-            "菜",
-            "素",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "The Passport Kitchen",
-                "URL": "https://thepassportkitchen.com/spicy-sichuan-cucumber-salad/"
-            }
-        ]
+    "images": [
+      {
+        "image": "coldcucumberjjnoodle",
+        "place": "JJ Noodle, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chilled slabs of cucumber.",
+    "tags": ["黃瓜", "青色", "沙律", "菜", "素", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Healthy Nibbles",
+        "URL": "https://healthynibblesandbits.com/chinese-garlic-cucumber-salad/"
+      },
+      {
+        "name": "Way2Wok",
+        "URL": "http://www.way2wok.com/recipe/garlic-cucumber-salad/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/chinese-cucumber-salad/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "spicy cucumber salad",
+      "Cantonese": {
+        "text": "麻辣小黃瓜",
+        "wkty": ["麻辣", "麻", "辣", "小黃瓜", "小", "黃瓜", "黃", "瓜"]
+      },
+      "Yale": "màh laaht síu wòhng gwā",
+      "Simplified": {
+        "text": "麻辣小黃瓜",
+        "wkty": ["麻辣", "麻", "辣", "小黃瓜", "小", "黃瓜", "黃", "瓜"]
+      },
+      "Pinyin": "má là xiǎo huáng guā"
     },
-    {
-        "word": {
-            "English": "garlic cucumber salad",
-            "Cantonese": {
-                "text": "蒜泥黃瓜",
-                "wkty": [
-                    "蒜泥",
-                    "蒜",
-                    "泥",
-                    "黃瓜",
-                    "黃",
-                    "瓜"
-                ]
-            },
-            "Yale": "syun nàih wòhng gwā",
-            "Pinyin": "suàn ní huáng guā",
-            "description": "{蒜泥} is *mashed garlic* {蒜泥} is *garlic*, and {蒜泥} is *paste*], {黃瓜} is *cucumber* ({黃} is green or blue-green, and {瓜} is a melon or gourd. So 蒜泥黃瓜 is *mashed garlic melon*."
-        },
-        "images": [
-            {
-                "image": "garliccucumberwishfuldumpling",
-                "place": "Wishful Dumpling, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A Sichuan cucumber salad mixed with garlic.",
-        "tags": [
-            "川菜",
-            "麻辣",
-            "黃瓜",
-            "沙律",
-            "川菜",
-            "菜",
-            "素",
-            "茶餐廳"
-        ],
-        "resources": [
-            {
-                "name": "Ahead of Thyme",
-                "URL": "https://www.aheadofthyme.com/chinese-garlic-cucumber-salad/"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-cucumber-salad/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "spicycucumber88noodlepapa",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
+    ],
+    "description": "{麻辣} is [Mala](https://en.wikipedia.org/wiki/Mala_(seasoning)), a spicy flavor from Sichuan cuisine, {小} is *small*, and {黃瓜} is *cucumber* ({黃} is green or blue-green, and {瓜} is a melon or gourd.",
+    "tags": ["麻辣", "黃瓜", "沙律", "川菜", "菜", "素", "茶餐廳"],
+    "resources": [
+      {
+        "name": "The Passport Kitchen",
+        "URL": "https://thepassportkitchen.com/spicy-sichuan-cucumber-salad/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "garlic cucumber salad",
+      "Cantonese": {
+        "text": "蒜泥黃瓜",
+        "wkty": ["蒜泥", "蒜", "泥", "黃瓜", "黃", "瓜"]
+      },
+      "Yale": "syun nàih wòhng gwā",
+      "Pinyin": "suàn ní huáng guā",
+      "description": "{蒜泥} is *mashed garlic* {蒜泥} is *garlic*, and {蒜泥} is *paste*], {黃瓜} is *cucumber* ({黃} is green or blue-green, and {瓜} is a melon or gourd. So 蒜泥黃瓜 is *mashed garlic melon*."
+    },
+    "images": [
+      {
+        "image": "garliccucumberwishfuldumpling",
+        "place": "Wishful Dumpling, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Sichuan cucumber salad mixed with garlic.",
+    "tags": ["川菜", "麻辣", "黃瓜", "沙律", "川菜", "菜", "素", "茶餐廳"],
+    "resources": [
+      {
+        "name": "Ahead of Thyme",
+        "URL": "https://www.aheadofthyme.com/chinese-garlic-cucumber-salad/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-cucumber-salad/"
+      }
+    ]
+  }
 ]

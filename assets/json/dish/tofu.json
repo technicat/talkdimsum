@@ -1,337 +1,263 @@
 [
-    {
-        "word": {
-            "English": "tofu",
-            "Cantonese": {
-                "text": "豆腐",
-                "wkty": [
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Yale": "dauh fuh",
-            "Pinyin": "dòu fǔ",
-            "description": "{豆} is *bean* (in this case, soybean), and {腐} is *rotten* (not really, but like cheese)."
-        },
-        "images": [
-            {
-                "image": "mapotofuxiangxiang",
-                "place": "Xiang Xiang, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Tofu](https://en.wikipedia.org/wiki/Tofu) is generally known as bean curd (coagulated soybean milk), but in Chinese cuisine also refers to a variety of tofu-like dishes and desserts with a gelatin consistency.\n\n**Pronunciation**\n\nThe name *tofu* is based on the pronunciation of the Japanese word, which is derived from the Mandarin pronunciation (starts with a d sound), which is just a bit different from the Cantonese pronuncation (starts with a *dow* sound instead of *doh*).",
-        "tags": [
-            "豆腐"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tofu"
-            }
-        ]
+  {
+    "word": {
+      "English": "tofu",
+      "Cantonese": {
+        "text": "豆腐",
+        "wkty": ["豆腐", "豆", "腐"]
+      },
+      "Yale": "dauh fuh",
+      "Pinyin": "dòu fǔ",
+      "description": "{豆} is *bean* (in this case, soybean), and {腐} is *rotten* (not really, but like cheese)."
     },
-    {
-        "word": {
-            "English": "deep-fried tofu",
-            "Cantonese": {
-                "text": "炸豆腐",
-                "wkty": [
-                    "炸",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Yale": "ja dauh fuh",
-            "Pinyin": "zhà dòu fǔ",
-            "description": "{炸} is *deep-fried*,  and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 炸豆腐 is *deep-fried tofu*."
-        },
-        "images": [
-            {
-                "image": "deepfriedtofumandarin",
-                "place": "Mandarin, Cedar City, Utah"
-            }
-        ],
-        "description": "Also listed as *crispy tofu*, deep-fried cubes of [tofu](https://en.wikipedia.org/wiki/Tofu), usually served with a dipping sauce.",
-        "tags": [
-            "新菜",
-            "炸",
-            "豆腐"
-        ],
-        "resources": [
-            {
-                "name": "Eating China",
-                "URL": "https://www.eatingchina.com/recipes/deep-fried-tofu.htm"
-            }
-        ]
+    "images": [
+      {
+        "image": "mapotofuxiangxiang",
+        "place": "Xiang Xiang, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Tofu](https://en.wikipedia.org/wiki/Tofu) is generally known as bean curd (coagulated soybean milk), but in Chinese cuisine also refers to a variety of tofu-like dishes and desserts with a gelatin consistency.\n\n**Pronunciation**\n\nThe name *tofu* is based on the pronunciation of the Japanese word, which is derived from the Mandarin pronunciation (starts with a d sound), which is just a bit different from the Cantonese pronuncation (starts with a *dow* sound instead of *doh*).",
+    "tags": ["豆腐"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tofu"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "deep-fried tofu",
+      "Cantonese": {
+        "text": "炸豆腐",
+        "wkty": ["炸", "豆腐", "豆", "腐"]
+      },
+      "Yale": "ja dauh fuh",
+      "Pinyin": "zhà dòu fǔ",
+      "description": "{炸} is *deep-fried*,  and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 炸豆腐 is *deep-fried tofu*."
     },
-    {
-        "word": {
-            "English": "satay tofu",
-            "Cantonese": {
-                "text": "沙爹豆腐",
-                "wkty": [
-                    "沙爹",
-                    "沙",
-                    "爹",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Yale": "sā dē dauh fuh",
-            "Pinyin": "shā diē dòu fǔ",
-            "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay) and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 沙爹豆腐 is *satay tofu*."
-        },
-        "images": [
-            {
-                "image": "sataytofubananaleafcafe",
-                "place": "Banana Leaf Cafe, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Satay](https://en.wikipedia.org/wiki/Satay) tofu is tofu served Malaysian-style in a peanut sauce.",
-        "tags": [
-            "沙爹",
-            "花生",
-            "豆腐"
-        ],
-        "resources": [
-            {
-                "name": "Food.com",
-                "URL": "https://www.food.com/recipe/malaysian-tofu-satay-293750"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tofu"
-            }
-        ]
+    "images": [
+      {
+        "image": "deepfriedtofumandarin",
+        "place": "Mandarin, Cedar City, Utah"
+      }
+    ],
+    "description": "Also listed as *crispy tofu*, deep-fried cubes of [tofu](https://en.wikipedia.org/wiki/Tofu), usually served with a dipping sauce.",
+    "tags": ["新菜", "炸", "豆腐"],
+    "resources": [
+      {
+        "name": "Eating China",
+        "URL": "https://www.eatingchina.com/recipes/deep-fried-tofu.htm"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "satay tofu",
+      "Cantonese": {
+        "text": "沙爹豆腐",
+        "wkty": ["沙爹", "沙", "爹", "豆腐", "豆", "腐"]
+      },
+      "Yale": "sā dē dauh fuh",
+      "Pinyin": "shā diē dòu fǔ",
+      "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay) and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 沙爹豆腐 is *satay tofu*."
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "滷汁豆腐",
-                "wkty": [
-                    "滷汁",
-                    "滷",
-                    "汁",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Simplified": {
-                "text": "卤汁豆腐",
-                "wkty": [
-                    "卤汁",
-                    "卤",
-                    "汁",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "English": "marinated tofu",
-            "Yale": "lóuh jāp dauh fuh",
-            "Pinyin": "lǔ zhī dòu fǔ"
-        },
-        "images": [
-            {
-                "image": "marinatedtofupearlbay",
-                "place": "Pearl Bay, Fremont, California"
-            }
-        ],
-        "description": "Deep-fried tofu marinated in a thick sauce.",
-        "tags": [
-            "豆腐"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/marinated-tofu/"
-            }
-        ]
+    "images": [
+      {
+        "image": "sataytofubananaleafcafe",
+        "place": "Banana Leaf Cafe, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Satay](https://en.wikipedia.org/wiki/Satay) tofu is tofu served Malaysian-style in a peanut sauce.",
+    "tags": ["沙爹", "花生", "豆腐"],
+    "resources": [
+      {
+        "name": "Food.com",
+        "URL": "https://www.food.com/recipe/malaysian-tofu-satay-293750"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tofu"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "滷汁豆腐",
+        "wkty": ["滷汁", "滷", "汁", "豆腐", "豆", "腐"]
+      },
+      "Simplified": {
+        "text": "卤汁豆腐",
+        "wkty": ["卤汁", "卤", "汁", "豆腐", "豆", "腐"]
+      },
+      "English": "marinated tofu",
+      "Yale": "lóuh jāp dauh fuh",
+      "Pinyin": "lǔ zhī dòu fǔ"
     },
-    {
-        "word": {
-            "English": "mapo tofu",
-            "Cantonese": {
-                "text": "麻婆豆腐",
-                "wkty": [
-                    "麻婆豆腐",
-                    "麻",
-                    "婆",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Yale": "màh pòh dauh fuh",
-            "Pinyin": "má pó dòu fǔ",
-            "description": "{麻} is short for 麻臉 which means *pockmarked face*, {婆} is short for {婆婆} which means *old lady*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so {麻婆豆腐} is *pockmarked old lady tofu*.\n\nThe dish is apparently named (affectionately, I assume) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox."
-        },
-        "images": [
-            {
-                "image": "mapotofunoodleexchange",
-                "place": "Noodle Exchange, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Mapo tofu](https://en.wikipedia.org/wiki/Mapo_doufu)is one of the most well known [Sichuan](https://en.wikipedia.org/wiki/Sichuan) dishes, soft tofu simmered in a spicy sauce with minced beef or pork.",
-        "tags": [
-            "辣",
-            "豆腐",
-            "川菜"
-        ],
-        "resources": [
-            {
-                "name": "Adora's Box",
-                "URL": "http://www.adorasbox.com/2013/11/mapo-tofu.html"
-            },
-            {
-                "name": "Angel Wong's Kitchen",
-                "URL": "https://www.angelwongskitchen.com/mapo-tofu-spicy--40635231103591033104-maacute-poacute-dograveufu.html"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/mapo-tofu-recipe/"
-            },
-            {
-                "name": "Cook with Dana",
-                "URL": "https://cookwithdana.com/vegetarian-mapo-tofu/"
-            },
-            {
-                "name": "Lost Laowai",
-                "URL": "https://www.lostlaowai.com/recipes/main-dish/mapo-tofu/"
-            },
-            {
-                "name": "Made With Lau",
-                "URL": "https://madewithlau.com/recipes/mapo-tofu-chicken"
-            },
-            {
-                "name": "Mala Food",
-                "URL": "https://malafood.com/en/standard-mapo-tofu"
-            },
-            {
-                "name": "No Recipe",
-                "URL": "https://norecipes.com/mapo-tofu/"
-            },
-            {
-                "name": "No Recipe (vegan)",
-                "URL": "https://norecipes.com/vegan-mapo-tofu/"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.ohmyfoodrecipes.com/mapo-tofu/"
-            },
-            {
-                "name": "Oh My Food Recipes",
-                "URL": "https://www.thericelover.com/authentic-sichuan-mapo-tofu/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/mapo-tofu-authentic-way/"
-            },
-            {
-                "name": "Viet World Kitchen",
-                "URL": "https://eggwansfoododyssey.com/2012/09/23/ma-po-tofu-recipe/"
-            },
-            {
-                "name": "Village Voice",
-                "URL": "https://www.villagevoice.com/2012/06/01/the-story-behind-ma-po-tofu/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Mapo_doufu"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/ma-po-tofu-real-deal/"
-            }
-        ]
+    "images": [
+      {
+        "image": "marinatedtofupearlbay",
+        "place": "Pearl Bay, Fremont, California"
+      }
+    ],
+    "description": "Deep-fried tofu marinated in a thick sauce.",
+    "tags": ["豆腐"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/marinated-tofu/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "mapo tofu",
+      "Cantonese": {
+        "text": "麻婆豆腐",
+        "wkty": ["麻婆豆腐", "麻", "婆", "豆腐", "豆", "腐"]
+      },
+      "Yale": "màh pòh dauh fuh",
+      "Pinyin": "má pó dòu fǔ",
+      "description": "{麻} is short for 麻臉 which means *pockmarked face*, {婆} is short for {婆婆} which means *old lady*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so {麻婆豆腐} is *pockmarked old lady tofu*.\n\nThe dish is apparently named (affectionately, I assume) after an elderly woman who invented it in Sichuan in the 1800s, whose now-immortalized facial scars were due to childhood smallpox."
     },
-    {
-        "word": {
-            "English": "egg tofu",
-            "Cantonese": {
-                "text": "蛋豆腐",
-                "wkty": [
-                    "蛋",
-                    "豆腐",
-                    "豆",
-                    "腐"
-                ]
-            },
-            "Yale": "dáan dauh fuh",
-            "Pinyin": "dàn dòu fǔ",
-            "description": "{蛋} is *egg*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 蛋豆腐 is [egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu)."
-        },
-        "images": [
-            {
-                "image": "eggtofuhkgarden",
-                "place": "Hong Kong Garden, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu) is made from eggs and soy milk, typically packaged as a tube (so it's often called *tofu scallops* due to how it's sliced). It has the consistency of silken tofu.\n\n**Origin**\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name {玉子豆腐}, or in Chinese as 日本豆腐 (*Japan tofu*). However, the Japanese version is made from eggs and dashi.",
-        "tags": [
-            "豆腐",
-            "蛋",
-            "豆奶"
-        ],
-        "resources": [
-            {
-                "name": "Garlic Delight",
-                "URL": "https://garlicdelight.com/egg-tofu/"
-            },
-            {
-                "name": "Just One Cookbook",
-                "URL": "https://www.justonecookbook.com/egg-tofu/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Tofu#Egg_tofu"
-            }
-        ]
+    "images": [
+      {
+        "image": "mapotofunoodleexchange",
+        "place": "Noodle Exchange, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Mapo tofu](https://en.wikipedia.org/wiki/Mapo_doufu)is one of the most well known [Sichuan](https://en.wikipedia.org/wiki/Sichuan) dishes, soft tofu simmered in a spicy sauce with minced beef or pork.",
+    "tags": ["辣", "豆腐", "川菜"],
+    "resources": [
+      {
+        "name": "Adora's Box",
+        "URL": "http://www.adorasbox.com/2013/11/mapo-tofu.html"
+      },
+      {
+        "name": "Angel Wong's Kitchen",
+        "URL": "https://www.angelwongskitchen.com/mapo-tofu-spicy--40635231103591033104-maacute-poacute-dograveufu.html"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/mapo-tofu-recipe/"
+      },
+      {
+        "name": "Cook with Dana",
+        "URL": "https://cookwithdana.com/vegetarian-mapo-tofu/"
+      },
+      {
+        "name": "Lost Laowai",
+        "URL": "https://www.lostlaowai.com/recipes/main-dish/mapo-tofu/"
+      },
+      {
+        "name": "Made With Lau",
+        "URL": "https://madewithlau.com/recipes/mapo-tofu-chicken"
+      },
+      {
+        "name": "Mala Food",
+        "URL": "https://malafood.com/en/standard-mapo-tofu"
+      },
+      {
+        "name": "No Recipe",
+        "URL": "https://norecipes.com/mapo-tofu/"
+      },
+      {
+        "name": "No Recipe (vegan)",
+        "URL": "https://norecipes.com/vegan-mapo-tofu/"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.ohmyfoodrecipes.com/mapo-tofu/"
+      },
+      {
+        "name": "Oh My Food Recipes",
+        "URL": "https://www.thericelover.com/authentic-sichuan-mapo-tofu/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/mapo-tofu-authentic-way/"
+      },
+      {
+        "name": "Viet World Kitchen",
+        "URL": "https://eggwansfoododyssey.com/2012/09/23/ma-po-tofu-recipe/"
+      },
+      {
+        "name": "Village Voice",
+        "URL": "https://www.villagevoice.com/2012/06/01/the-story-behind-ma-po-tofu/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Mapo_doufu"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/ma-po-tofu-real-deal/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "egg tofu",
+      "Cantonese": {
+        "text": "蛋豆腐",
+        "wkty": ["蛋", "豆腐", "豆", "腐"]
+      },
+      "Yale": "dáan dauh fuh",
+      "Pinyin": "dàn dòu fǔ",
+      "description": "{蛋} is *egg*, and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 蛋豆腐 is [egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu)."
     },
-    {
-        "word": {
-            "English": "salted meat tofu ribbons",
-            "Cantonese": {
-                "text": "鹹肉百葉",
-                "wkty": [
-                    "鹹肉",
-                    "鹹",
-                    "肉"
-                ]
-            },
-            "Yale": "hàahm yuhk baak yihp",
-            "Simplified": {
-                "text": "咸肉百叶",
-                "wkty": [
-                    "咸肉",
-                    "咸",
-                    "肉"
-                ]
-            },
-            "Pinyin": "xián ròu bǎi yè",
-            "description": "{鹹肉} is *salted meat* ({鹹} is *salty* or *salted* and {肉} is *meat*), and {百葉} is *hundred leaves* ({百} is *hundred* and {葉} is *leaf*), so 鹹肉百葉 is *salted meat tofu leaves*.\n\n{葉} is also part of {茶葉}, *tea leaves*.\n\nAnd {百葉} is also part of *Venetian blinds* {百葉窗} (*hundred leaves window*), and *thermometer screen* {百葉箱} (*hundred leaves box*)."
-        },
-        "images": [
-            {
-                "image": "saltedmeattofuribbonnoodleking",
-                "place": "Noodle King, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Cured pork (sometimes translated as bacon, but this isn't crispy), stewed with strips of tofu pressed into sheets, typically with some vegetable.",
-        "tags": [
-            "滬菜",
-            "豆腐",
-            "豬肉"
-        ],
-        "resources": [
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/homemade-chinese-salted-pork/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "eggtofuhkgarden",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Egg tofu](https://en.wikipedia.org/wiki/Tofu#Egg_tofu) is made from eggs and soy milk, typically packaged as a tube (so it's often called *tofu scallops* due to how it's sliced). It has the consistency of silken tofu.\n\n**Origin**\n\nEgg tofu originated in Japan, so it is sometimes listed under the Japanese name {玉子豆腐}, or in Chinese as 日本豆腐 (*Japan tofu*). However, the Japanese version is made from eggs and dashi.",
+    "tags": ["豆腐", "蛋", "豆奶"],
+    "resources": [
+      {
+        "name": "Garlic Delight",
+        "URL": "https://garlicdelight.com/egg-tofu/"
+      },
+      {
+        "name": "Just One Cookbook",
+        "URL": "https://www.justonecookbook.com/egg-tofu/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Tofu#Egg_tofu"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "salted meat tofu ribbons",
+      "Cantonese": {
+        "text": "鹹肉百葉",
+        "wkty": ["鹹肉", "鹹", "肉"]
+      },
+      "Yale": "hàahm yuhk baak yihp",
+      "Simplified": {
+        "text": "咸肉百叶",
+        "wkty": ["咸肉", "咸", "肉"]
+      },
+      "Pinyin": "xián ròu bǎi yè",
+      "description": "{鹹肉} is *salted meat* ({鹹} is *salty* or *salted* and {肉} is *meat*), and {百葉} is *hundred leaves* ({百} is *hundred* and {葉} is *leaf*), so 鹹肉百葉 is *salted meat tofu leaves*.\n\n{葉} is also part of {茶葉}, *tea leaves*.\n\nAnd {百葉} is also part of *Venetian blinds* {百葉窗} (*hundred leaves window*), and *thermometer screen* {百葉箱} (*hundred leaves box*)."
+    },
+    "images": [
+      {
+        "image": "saltedmeattofuribbonnoodleking",
+        "place": "Noodle King, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Cured pork (sometimes translated as bacon, but this isn't crispy), stewed with strips of tofu pressed into sheets, typically with some vegetable.",
+    "tags": ["滬菜", "豆腐", "豬肉"],
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/homemade-chinese-salted-pork/"
+      }
+    ]
+  }
 ]

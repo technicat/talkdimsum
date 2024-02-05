@@ -1,164 +1,103 @@
 [
-    {
-        "word": {
-            "English": "Seasonal vegetables with oyster sauce",
-            "Cantonese": {
-                "text": "蠔油時蔬",
-                "wkty": [
-                    "蠔油",
-                    "蠔",
-                    "油",
-                    "時蔬",
-                    "時",
-                    "蔬"
-                ]
-            },
-            "Yale": "hòuh yàuh sìh sō",
-            "Simplified": {
-                "text": "蚝油时蔬",
-                "wkty": [
-                    "蚝油",
-                    "蚝",
-                    "油",
-                    "時蔬",
-                    "時",
-                    "蔬"
-                ]
-            },
-            "Pinyin": "háo yóu shí shū",
-            "description": "{蠔油} is *oyster sauce* ({蠔} is *oyster* and {油} is *oil*, so more specifically *oyster oil*), {時} is *time* or *season*, and {蔬} is *vegetable*."
-        },
-        "images": [
-            {
-                "image": "veg88noodle",
-                "place": "88 Noodle Papa, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Seasonal vegetables, boiled or steamed and served with [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce).",
-        "tags": [
-            "油",
-            "粵菜",
-            "蠔油時菜",
-            "蠔油",
-            "菜",
-            "蒸",
-            "茶餐廳"
-        ],
-        "resources": []
+  {
+    "word": {
+      "English": "Seasonal vegetables with oyster sauce",
+      "Cantonese": {
+        "text": "蠔油時蔬",
+        "wkty": ["蠔油", "蠔", "油", "時蔬", "時", "蔬"]
+      },
+      "Yale": "hòuh yàuh sìh sō",
+      "Simplified": {
+        "text": "蚝油时蔬",
+        "wkty": ["蚝油", "蚝", "油", "時蔬", "時", "蔬"]
+      },
+      "Pinyin": "háo yóu shí shū",
+      "description": "{蠔油} is *oyster sauce* ({蠔} is *oyster* and {油} is *oil*, so more specifically *oyster oil*), {時} is *time* or *season*, and {蔬} is *vegetable*."
     },
-    {
-        "word": {
-            "English": "Buddha's delight",
-            "Cantonese": {
-                "text": "羅漢齋",
-                "wkty": [
-                    "羅漢齋",
-                    "羅漢",
-                    "羅",
-                    "漢",
-                    "齋"
-                ]
-            },
-            "Yale": "lòh hon jāai",
-            "Simplified": {
-                "text": "罗汉斋",
-                "wkty": [
-                    "罗汉斋",
-                    "罗汉斋",
-                    "罗",
-                    "汉",
-                    "斋"
-                ]
-            },
-            "Pinyin": "luó hàn zhā",
-            "description": "{羅漢} is an enlightened individual on the path to Buddhahood (known as [arhat](https://en.wikipedia.org/wiki/Arhat) in Sanskrit), and {齋} is *vegetarian*."
-        },
-        "images": [
-            {
-                "image": "buddhadelightchinagogo",
-                "place": "China a Go Go, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Buddha's Delight](https://en.wikipedia.org/wiki/Buddha's_delight) is a vegetarian dish consisting of tofu and a variety of vegetables stewed in a thick soy-sauce based sauce. This really is a Chinese Buddhist dish, but it's popular in Chinese restaurants around the world.",
-        "tags": [
-            "豆腐",
-            "素",
-            "菜"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Buddha's_delight"
-            }
-        ]
+    "images": [
+      {
+        "image": "veg88noodle",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Seasonal vegetables, boiled or steamed and served with [oyster sauce](https://en.wikipedia.org/wiki/Oyster_sauce).",
+    "tags": ["油", "粵菜", "蠔油時菜", "蠔油", "菜", "蒸", "茶餐廳"],
+    "resources": []
+  },
+  {
+    "word": {
+      "English": "Buddha's delight",
+      "Cantonese": {
+        "text": "羅漢齋",
+        "wkty": ["羅漢齋", "羅漢", "羅", "漢", "齋"]
+      },
+      "Yale": "lòh hon jāai",
+      "Simplified": {
+        "text": "罗汉斋",
+        "wkty": ["罗汉斋", "罗汉斋", "罗", "汉", "斋"]
+      },
+      "Pinyin": "luó hàn zhā",
+      "description": "{羅漢} is an enlightened individual on the path to Buddhahood (known as [arhat](https://en.wikipedia.org/wiki/Arhat) in Sanskrit), and {齋} is *vegetarian*."
     },
-    {
-        "word": {
-            "English": "stir-fried string beans w/ minced pork",
-            "Cantonese": {
-                "text": "乾煸四季豆",
-                "wkty": [
-                    "乾",
-                    "煸",
-                    "四季豆",
-                    "四季",
-                    "四",
-                    "季",
-                    "豆",
-                    "四季豆"
-                ]
-            },
-            "Yale": "gōn bīn sei gwai dáu",
-            "Simplified": {
-                "text": "干煸四季豆",
-                "wkty": [
-                    "干",
-                    "煸",
-                    "四季豆",
-                    "四季",
-                    "四",
-                    "季",
-                    "豆",
-                    "四季豆"
-                ]
-            },
-            "Pinyin": "gān biān sì jì dòu",
-            "description": "{乾} is *dry*, {煸} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {四季豆} is *string bean* ({四} is *four*, {季} is *season*, and {豆} is *bean*, so a string bean is a *four seasons bean*). Altogether 乾煸四季豆 is *dry stir-fried string bean*."
-        },
-        "images": [
-            {
-                "image": "stringbeansmincedporkphokimlong",
-                "place": "Pho Kim Long, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A Sichuan dish, dry-fried ([stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with only oil, no or little additional liquids or sauces added) string beans with garlic and minced pork",
-        "tags": [
-            "四季豆",
-            "川菜",
-            "乾炒",
-            "炒"
-        ],
-        "resources": [
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2009/04/stir-fried-green-beans-with-minced-pork.html"
-            },
-            {
-                "name": "Cooking to Entertain",
-                "URL": "https://cookingtoentertain.com/chinese-fried-garlic-pork-string-beans-%E5%B9%B2%E7%85%B8%E5%9B%9B%E5%AD%A3%E8%B1%86/"
-            },
-            {
-                "name": "The Plant-Based Wok",
-                "URL": "https://theplantbasedwok.com/sichuan-dry-fried-green-beans/"
-            },
-            {
-                "name": "The Rice Lover",
-                "URL": "https://www.thericelover.com/dry-fried-green-beans/"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/sichuan-dry-fried-green-beans/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "buddhadelightchinagogo",
+        "place": "China a Go Go, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Buddha's Delight](https://en.wikipedia.org/wiki/Buddha's_delight) is a vegetarian dish consisting of tofu and a variety of vegetables stewed in a thick soy-sauce based sauce. This really is a Chinese Buddhist dish, but it's popular in Chinese restaurants around the world.",
+    "tags": ["豆腐", "素", "菜"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Buddha's_delight"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "stir-fried string beans w/ minced pork",
+      "Cantonese": {
+        "text": "乾煸四季豆",
+        "wkty": ["乾", "煸", "四季豆", "四季", "四", "季", "豆", "四季豆"]
+      },
+      "Yale": "gōn bīn sei gwai dáu",
+      "Simplified": {
+        "text": "干煸四季豆",
+        "wkty": ["干", "煸", "四季豆", "四季", "四", "季", "豆", "四季豆"]
+      },
+      "Pinyin": "gān biān sì jì dòu",
+      "description": "{乾} is *dry*, {煸} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {四季豆} is *string bean* ({四} is *four*, {季} is *season*, and {豆} is *bean*, so a string bean is a *four seasons bean*). Altogether 乾煸四季豆 is *dry stir-fried string bean*."
+    },
+    "images": [
+      {
+        "image": "stringbeansmincedporkphokimlong",
+        "place": "Pho Kim Long, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Sichuan dish, dry-fried ([stir-fried](https://en.wikipedia.org/wiki/Stir_frying) with only oil, no or little additional liquids or sauces added) string beans with garlic and minced pork",
+    "tags": ["四季豆", "川菜", "乾炒", "炒"],
+    "resources": [
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2009/04/stir-fried-green-beans-with-minced-pork.html"
+      },
+      {
+        "name": "Cooking to Entertain",
+        "URL": "https://cookingtoentertain.com/chinese-fried-garlic-pork-string-beans-%E5%B9%B2%E7%85%B8%E5%9B%9B%E5%AD%A3%E8%B1%86/"
+      },
+      {
+        "name": "The Plant-Based Wok",
+        "URL": "https://theplantbasedwok.com/sichuan-dry-fried-green-beans/"
+      },
+      {
+        "name": "The Rice Lover",
+        "URL": "https://www.thericelover.com/dry-fried-green-beans/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/sichuan-dry-fried-green-beans/"
+      }
+    ]
+  }
 ]

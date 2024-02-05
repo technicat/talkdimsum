@@ -1,604 +1,428 @@
 [
-    {
-        "word": {
-            "English": "honey citrus tea",
-            "Cantonese": {
-                "text": "柚子茶",
-                "wkty": [
-                    "柚子",
-                    "柚",
-                    "子",
-                    "茶"
-                ]
-            },
-            "Yale": "yáu jí chàh",
-            "Pinyin": "yòu zi chá",
-            "description": "{柚子} is [yuzu](https://en.wikipedia.org/wiki/Yuzu) (and also refers to [pomelo](https://en.wikipedia.org/wiki/Pomelo), a fruit which resembles a large grapefruit), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 柚子茶 is *yuzu tea*."
-        },
-        "images": [
-            {
-                "image": "honeycitrustea88noodlepapa",
-                "place": "88 Noodle Papa, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A traditional Korean [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from sugar, honey and the Japanese fruit [yuzu](https://en.wikipedia.org/wiki/Yuzu), known as [yuja tea](https://en.wikipedia.org/wiki/Yuja_tea) (the Japanese *yuzu* and Korean *yuja* derive from the Chinese {柚子} yáu jí). Can be served hot or cold.",
-        "tags": [
-            "茶餐廳",
-            "飲品",
-            "熱飲",
-            "蜜",
-            "茶",
-            "熱茶",
-            "柚子",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Yuja_tea"
-            }
-        ]
+  {
+    "word": {
+      "English": "honey citrus tea",
+      "Cantonese": {
+        "text": "柚子茶",
+        "wkty": ["柚子", "柚", "子", "茶"]
+      },
+      "Yale": "yáu jí chàh",
+      "Pinyin": "yòu zi chá",
+      "description": "{柚子} is [yuzu](https://en.wikipedia.org/wiki/Yuzu) (and also refers to [pomelo](https://en.wikipedia.org/wiki/Pomelo), a fruit which resembles a large grapefruit), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 柚子茶 is *yuzu tea*."
     },
-    {
-        "word": {
-            "English": "honey lemon tea",
-            "Cantonese": "熱檸蜜",
-            "Yale": "yiht lìhng maht",
-            "Simplified": "热柠蜜",
-            "Pinyin": "rè níng mì",
-            "description": "{熱} is *hot*, {檸} is *lemon*, and {蜜} is *honey*, so 熱檸蜜 is *hot lemon honey*."
-        },
-        "images": [
-            {
-                "image": "honeylemonteaslice88noodlepapa",
-                "place": "88 Noodle Papa, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A hot [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from sugar, honey and lemon.",
-        "tags": [
-            "熱飲",
-            "飲品",
-            "蜜",
-            "檸檬",
-            "茶",
-            "熱茶"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2015/07/lemon-ginger-honey-tea.html"
-            },
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/korean-citron-yuzu-tea/"
-            }
-        ]
+    "images": [
+      {
+        "image": "honeycitrustea88noodlepapa",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A traditional Korean [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from sugar, honey and the Japanese fruit [yuzu](https://en.wikipedia.org/wiki/Yuzu), known as [yuja tea](https://en.wikipedia.org/wiki/Yuja_tea) (the Japanese *yuzu* and Korean *yuja* derive from the Chinese {柚子} yáu jí). Can be served hot or cold.",
+    "tags": ["茶餐廳", "飲品", "熱飲", "蜜", "茶", "熱茶", "柚子", "中國茶"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Yuja_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "honey lemon tea",
+      "Cantonese": "熱檸蜜",
+      "Yale": "yiht lìhng maht",
+      "Simplified": "热柠蜜",
+      "Pinyin": "rè níng mì",
+      "description": "{熱} is *hot*, {檸} is *lemon*, and {蜜} is *honey*, so 熱檸蜜 is *hot lemon honey*."
     },
-    {
-        "word": {
-            "English": "ice honey lemon tea",
-            "Cantonese": "凍檸蜜",
-            "Yale": "dung lìhng maht",
-            "Simplified": "冻柠蜜",
-            "Pinyin": "dòng níng mì",
-            "description": "{凍} is *cold*, {檸} is *lemon*, and {蜜} is *honey*, so 凍檸蜜 is *cold lemon honey*."
-        },
-        "images": [
-            {
-                "image": "icehoneylemonteacafeorchid",
-                "place": "Cafe Orchid, Millbrae, California"
-            }
-        ],
-        "description": "An iced [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from sugar, honey and lemon.",
-        "tags": [
-            "冷飲",
-            "飲品",
-            "蜜",
-            "檸檬",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
-            },
-            {
-                "name": "China Yummy Food",
-                "URL": "https://www.chinayummyfood.com/honey-lemon-tea/"
-            },
-            {
-                "name": "Christine's Recipes",
-                "URL": "https://en.christinesrecipes.com/2015/07/lemon-ginger-honey-tea.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "honeylemonteaslice88noodlepapa",
+        "place": "88 Noodle Papa, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A hot [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from sugar, honey and lemon.",
+    "tags": ["熱飲", "飲品", "蜜", "檸檬", "茶", "熱茶"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2015/07/lemon-ginger-honey-tea.html"
+      },
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/korean-citron-yuzu-tea/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "ice honey lemon tea",
+      "Cantonese": "凍檸蜜",
+      "Yale": "dung lìhng maht",
+      "Simplified": "冻柠蜜",
+      "Pinyin": "dòng níng mì",
+      "description": "{凍} is *cold*, {檸} is *lemon*, and {蜜} is *honey*, so 凍檸蜜 is *cold lemon honey*."
     },
-    {
-        "word": {
-            "English": "grass jelly drink",
-            "Cantonese": {
-                "text": "仙草蜜",
-                "wkty": [
-                    "仙草",
-                    "仙",
-                    "草",
-                    "蜜"
-                ]
-            },
-            "Yale": "sīn chóu maht",
-            "Pinyin": "xiān cǎo mì",
-            "description": "{仙} means *divine*, and {草} is *grass*, and together {仙草} refers to both the herb and the jelly made from it. {蜜} is *syrup* (also short for *honey* 蜜糖 maht tòhng), so 仙草蜜 is *grass jelly syrup*."
-        },
-        "images": [
-            {
-                "image": "grassjellydrink",
-                "place": "168 Market, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A syrupy [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea)made from [grass jelly](https://en.wikipedia.org/wiki/Grass_jelly), served cold.",
-        "tags": [
-            "冷飲",
-            "飲品",
-            "仙草"
-        ],
-        "resources": [
-            {
-                "name": "Asian Inspirations",
-                "URL": "https://asianinspirations.com.au/recipes/grass-jelly-drink-cincau/"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/grass-jelly-cincau/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
-            }
-        ]
+    "images": [
+      {
+        "image": "icehoneylemonteacafeorchid",
+        "place": "Cafe Orchid, Millbrae, California"
+      }
+    ],
+    "description": "An iced [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from sugar, honey and lemon.",
+    "tags": ["冷飲", "飲品", "蜜", "檸檬", "茶"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/honey-lemon-tea/"
+      },
+      {
+        "name": "China Yummy Food",
+        "URL": "https://www.chinayummyfood.com/honey-lemon-tea/"
+      },
+      {
+        "name": "Christine's Recipes",
+        "URL": "https://en.christinesrecipes.com/2015/07/lemon-ginger-honey-tea.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "grass jelly drink",
+      "Cantonese": {
+        "text": "仙草蜜",
+        "wkty": ["仙草", "仙", "草", "蜜"]
+      },
+      "Yale": "sīn chóu maht",
+      "Pinyin": "xiān cǎo mì",
+      "description": "{仙} means *divine*, and {草} is *grass*, and together {仙草} refers to both the herb and the jelly made from it. {蜜} is *syrup* (also short for *honey* 蜜糖 maht tòhng), so 仙草蜜 is *grass jelly syrup*."
     },
-    {
-        "word": {
-            "English": "barley tea",
-            "Cantonese": {
-                "text": "大麥茶",
-                "wkty": [
-                    "大麥",
-                    "大",
-                    "麥",
-                    "茶"
-                ]
-            },
-            "Yale": "daaih mahk chàh",
-            "Simplified": {
-                "text": "大麦茶",
-                "wkty": [
-                    "大麦",
-                    "大",
-                    "麦",
-                    "茶"
-                ]
-            },
-            "Pinyin": "dà mài chá",
-            "description": "{大麥} is *barley*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 大麥茶 is *barley tea*."
-        },
-        "images": [
-            {
-                "image": "barleyteaonemorenoodlehouse",
-                "place": "One More Noodle House, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[Barley tea](https://en.wikipedia.org/wiki/Barley_tea) is an [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) popular in China, Japan, and Korea, made with [barley](https://en.wikipedia.org/wiki/Barley). Can be served hot or cold.",
-        "tags": [
-            "大麥",
-            "大麥茶",
-            "飲品",
-            "熱飲",
-            "冷飲",
-            "熱茶",
-            "香茅",
-            "大麥"
-        ],
-        "resources": [
-            {
-                "name": "Oh How Civilized",
-                "URL": "https://www.ohhowcivilized.com/barley-tea/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Barley_tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "grassjellydrink",
+        "place": "168 Market, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A syrupy [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea)made from [grass jelly](https://en.wikipedia.org/wiki/Grass_jelly), served cold.",
+    "tags": ["冷飲", "飲品", "仙草"],
+    "resources": [
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/grass-jelly-drink-cincau/"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/grass-jelly-cincau/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Grass_jelly"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "barley tea",
+      "Cantonese": {
+        "text": "大麥茶",
+        "wkty": ["大麥", "大", "麥", "茶"]
+      },
+      "Yale": "daaih mahk chàh",
+      "Simplified": {
+        "text": "大麦茶",
+        "wkty": ["大麦", "大", "麦", "茶"]
+      },
+      "Pinyin": "dà mài chá",
+      "description": "{大麥} is *barley*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 大麥茶 is *barley tea*."
     },
-    {
-        "word": {
-            "English": "lemongrass barley tea",
-            "Cantonese": {
-                "text": "香茅大麥茶",
-                "wkty": [
-                    "香茅",
-                    "香",
-                    "茅",
-                    "大麥",
-                    "大",
-                    "麥",
-                    "茶"
-                ]
-            },
-            "Yale": "hēung màauh daaih mahk chàh",
-            "Simplified": {
-                "text": "香茅大麦茶",
-                "wkty": [
-                    "香茅",
-                    "香",
-                    "茅",
-                    "大麦",
-                    "大",
-                    "麦",
-                    "茶"
-                ]
-            },
-            "Pinyin": "xiāng máo dà mài chá",
-            "description": "{香茅} is *lemongrass*, {大麥} is *barley*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 香茅大麥茶 is *lemongrass barley tea*."
-        },
-        "images": [
-            {
-                "image": "lemongrassbarleytea",
-                "place": "Noodlehead, Las Vegas, Nevada"
-            }
-        ],
-        "description": "[Lemongrass barley tea](https://www.nofrillsrecipes.com/2018/09/lemon-grass-barley-drink.html) is an [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made with [lemongrass](https://en.wikipedia.org/wiki/Cymbopogon) and [barley](https://en.wikipedia.org/wiki/Barley) pearls. Can be served hot or cold.",
-        "tags": [
-            "大麥",
-            "大麥茶",
-            "飲品",
-            "熱飲",
-            "冷飲",
-            "熱茶",
-            "香茅",
-            "大麥"
-        ],
-        "resources": [
-            {
-                "name": "No Frills Inspirations",
-                "URL": "https://www.nofrillsrecipes.com/2018/09/lemon-grass-barley-drink.html"
-            }
-        ]
+    "images": [
+      {
+        "image": "barleyteaonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[Barley tea](https://en.wikipedia.org/wiki/Barley_tea) is an [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) popular in China, Japan, and Korea, made with [barley](https://en.wikipedia.org/wiki/Barley). Can be served hot or cold.",
+    "tags": ["大麥", "大麥茶", "飲品", "熱飲", "冷飲", "熱茶", "香茅", "大麥"],
+    "resources": [
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/barley-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Barley_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "lemongrass barley tea",
+      "Cantonese": {
+        "text": "香茅大麥茶",
+        "wkty": ["香茅", "香", "茅", "大麥", "大", "麥", "茶"]
+      },
+      "Yale": "hēung màauh daaih mahk chàh",
+      "Simplified": {
+        "text": "香茅大麦茶",
+        "wkty": ["香茅", "香", "茅", "大麦", "大", "麦", "茶"]
+      },
+      "Pinyin": "xiāng máo dà mài chá",
+      "description": "{香茅} is *lemongrass*, {大麥} is *barley*, and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 香茅大麥茶 is *lemongrass barley tea*."
     },
-    {
-        "word": {
-            "English": "eight treasures tea",
-            "Cantonese": {
-                "text": "八寶茶",
-                "wkty": [
-                    "八寶",
-                    "八",
-                    "寶",
-                    "茶"
-                ]
-            },
-            "Yale": "baat bóu chàh",
-            "Simplified": {
-                "text": "八宝茶",
-                "wkty": [
-                    "八宝",
-                    "八",
-                    "宝",
-                    "茶"
-                ]
-            },
-            "Pinyin": "bā bǎo chá",
-            "description": "{八寶} is *eight treasure* ({八} is *eight* and {寶} is *treasure*). {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 八寶茶 is *eight treasure tea*."
-        },
-        "images": [
-            {
-                "image": "eighttreasuresherbaltea8east",
-                "place": "8 East, Las Vegas, Nevada"
-            }
-        ],
-        "description": "An [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) (although sometimes it contains green tea) consisting of eight ingredients which may vary (and sometimes it's not exactly eight, but eight is a [lucky number](https://sonofchina.com/china-traditions/lucky-numbers-in-chinese/)). A typical assortment includes rock sugar, goji berries, red dates, green tea, chrysanthemum, longan, ginseng...",
-        "tags": [
-            "八寶",
-            "菊",
-            "飲品",
-            "熱飲"
-        ],
-        "resources": [
-            {
-                "name": "Black Dragon Tea Bar",
-                "URL": "https://blackdragonteabar.blogspot.com/2009/01/ba-bao-cha.html"
-            },
-            {
-                "name": "Kitchn",
-                "URL": "https://www.thekitchn.com/try-this-eight-treasure-tea-111728"
-            },
-            {
-                "name": "Carolyn Phillips",
-                "URL": "http://carolynjphillips.blogspot.com/2020/04/eight-treasure-tea.html"
-            },
-            {
-                "name": "The Tea Horse Caravan",
-                "URL": "http://www.theteahorsecaravan.com/2013/05/ba-bao-cha-eight-treasure-tisanes.html"
-            },
-            {
-                "name": "Travel Branyik",
-                "URL": "https://travelbranyik.com/how-to-make-chinese-eight-treasures-tea-at-home-%E5%85%AB%E5%AE%9D%E8%8C%B6-ba-bao-cha/"
-            }
-        ]
+    "images": [
+      {
+        "image": "lemongrassbarleytea",
+        "place": "Noodlehead, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Lemongrass barley tea](https://www.nofrillsrecipes.com/2018/09/lemon-grass-barley-drink.html) is an [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made with [lemongrass](https://en.wikipedia.org/wiki/Cymbopogon) and [barley](https://en.wikipedia.org/wiki/Barley) pearls. Can be served hot or cold.",
+    "tags": ["大麥", "大麥茶", "飲品", "熱飲", "冷飲", "熱茶", "香茅", "大麥"],
+    "resources": [
+      {
+        "name": "No Frills Inspirations",
+        "URL": "https://www.nofrillsrecipes.com/2018/09/lemon-grass-barley-drink.html"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "eight treasures tea",
+      "Cantonese": {
+        "text": "八寶茶",
+        "wkty": ["八寶", "八", "寶", "茶"]
+      },
+      "Yale": "baat bóu chàh",
+      "Simplified": {
+        "text": "八宝茶",
+        "wkty": ["八宝", "八", "宝", "茶"]
+      },
+      "Pinyin": "bā bǎo chá",
+      "description": "{八寶} is *eight treasure* ({八} is *eight* and {寶} is *treasure*). {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 八寶茶 is *eight treasure tea*."
     },
-    {
-        "word": {
-            "English": "osmanthus tea",
-            "Cantonese": {
-                "text": "桂花茶",
-                "wkty": [
-                    "桂花",
-                    "桂",
-                    "花",
-                    "茶"  
-                ]
-            },
-            "Yale": "gwai fā chàh",
-            "Pinyin": "guì huā chá",
-            "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {茶} is *tea*."
-        },
-        "images": [
-            {
-                "image": "osmanthustealaposste",
-                "place": "LaPostté, Las Vegas, Nevada"
-            }
-        ],
-        "description": "An herbal tea brewed with dried [osmanthus](https://en.wikipedia.org/wiki/Osmanthus) flowers.",
-        "tags": [
-            "花茶",
-            "桂花",
-            "花",
-            "茶",
-            "飲品",
-            "熱飲"
-        ],
-        "resources": [
-            {
-                "name": "Simple Loose Leaf",
-                "URL": "https://simplelooseleaf.com/blog/herbal-tea/osmanthus-tea/"
-            },
-            {
-                "name": "Tested Teas",
-                "URL": "https://testedteas.com/what-is-osmanthus-tea/"
-            }
-        ]
+    "images": [
+      {
+        "image": "eighttreasuresherbaltea8east",
+        "place": "8 East, Las Vegas, Nevada"
+      }
+    ],
+    "description": "An [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) (although sometimes it contains green tea) consisting of eight ingredients which may vary (and sometimes it's not exactly eight, but eight is a [lucky number](https://sonofchina.com/china-traditions/lucky-numbers-in-chinese/)). A typical assortment includes rock sugar, goji berries, red dates, green tea, chrysanthemum, longan, ginseng...",
+    "tags": ["八寶", "菊", "飲品", "熱飲"],
+    "resources": [
+      {
+        "name": "Black Dragon Tea Bar",
+        "URL": "https://blackdragonteabar.blogspot.com/2009/01/ba-bao-cha.html"
+      },
+      {
+        "name": "Kitchn",
+        "URL": "https://www.thekitchn.com/try-this-eight-treasure-tea-111728"
+      },
+      {
+        "name": "Carolyn Phillips",
+        "URL": "http://carolynjphillips.blogspot.com/2020/04/eight-treasure-tea.html"
+      },
+      {
+        "name": "The Tea Horse Caravan",
+        "URL": "http://www.theteahorsecaravan.com/2013/05/ba-bao-cha-eight-treasure-tisanes.html"
+      },
+      {
+        "name": "Travel Branyik",
+        "URL": "https://travelbranyik.com/how-to-make-chinese-eight-treasures-tea-at-home-%E5%85%AB%E5%AE%9D%E8%8C%B6-ba-bao-cha/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "osmanthus tea",
+      "Cantonese": {
+        "text": "桂花茶",
+        "wkty": ["桂花", "桂", "花", "茶"]
+      },
+      "Yale": "gwai fā chàh",
+      "Pinyin": "guì huā chá",
+      "description": "{桂花} is [osmanthus](https://en.wikipedia.org/wiki/Osmanthus), and {茶} is *tea*."
     },
-    {
-        "word": {
-            "English": "peach blossom tea",
-            "Cantonese": {
-                "text": "桃花茶",
-                "wkty": [
-                    "桃花",
-                    "桃",
-                    "花",
-                    "茶"  
-                ]
-            },
-            "Yale": "tòuh fā chàh",
-            "Pinyin": "táo huā chá",
-            "description": "{桃花} is *peach blossom* ({桃} is *peach* and {花} is *flower*), and {茶} is *tea*. So 桃花茶 is *peach blossom tea*."
-        },
-        "images": [
-            {
-                "image": "peachblossomtealapostte",
-                "place": "LaPostté, Las Vegas, Nevada"
-            }
-        ],
-        "description": "An herbal tea brewed with dried [peach](https://en.wikipedia.org/wiki/Peach) flower. This is a traditional Korean tea.\n\nPeaches are the state fruit of South Carolina, and the state flower of Delaware is the peach blossom, but peaches originated in ancient China and were cultivated throughout Asia. IOn China, the peach blossom is associated with love.",
-        "tags": [
-            "花茶",
-            "桃",
-            "桃花",
-            "花",
-            "茶",
-            "飲品",
-            "熱飲"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Peach_blossom_tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "osmanthustealaposste",
+        "place": "LaPostté, Las Vegas, Nevada"
+      }
+    ],
+    "description": "An herbal tea brewed with dried [osmanthus](https://en.wikipedia.org/wiki/Osmanthus) flowers.",
+    "tags": ["花茶", "桂花", "花", "茶", "飲品", "熱飲"],
+    "resources": [
+      {
+        "name": "Simple Loose Leaf",
+        "URL": "https://simplelooseleaf.com/blog/herbal-tea/osmanthus-tea/"
+      },
+      {
+        "name": "Tested Teas",
+        "URL": "https://testedteas.com/what-is-osmanthus-tea/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "peach blossom tea",
+      "Cantonese": {
+        "text": "桃花茶",
+        "wkty": ["桃花", "桃", "花", "茶"]
+      },
+      "Yale": "tòuh fā chàh",
+      "Pinyin": "táo huā chá",
+      "description": "{桃花} is *peach blossom* ({桃} is *peach* and {花} is *flower*), and {茶} is *tea*. So 桃花茶 is *peach blossom tea*."
     },
-    {
-        "word": {
-            "English": "jiaogulan",
-            "Cantonese": {
-                "text": "絞股藍",
-                "wkty": [
-                    "絞",
-                    "股",
-                    "藍"
-                ]
-            },
-            "Simplified": {
-                "text": "绞股蓝",
-                "wkty": [
-                    "绞",
-                    "股",
-                    "蓝"
-                ]
-            },
-            "Yale": "gáau gú làahm",
-            "Pinyin": "jiǎo gǔ lán",
-            "description": "{絞} is *twist*, {股} is *section* and {藍} is *blue* or *blue plant*), and {茶} is *tea*. So 絞股藍 is basically *twisty blue plant*."
-        },
-        "images": [
-            {
-                "image": "jaogulanteagrotto",
-                "place": "Tea Grotto, Salt Lake City, Utah"
-            }
-        ],
-        "description": "[Jiaogulan](https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum) (the Mandarin pronunciation) is a twisty vine with purported medicinal benefits (often called *southern ginseng*) popularly brewed as a tea.",
-        "tags": [
-            "花茶",
-            "桃",
-            "桃花",
-            "花",
-            "茶",
-            "飲品",
-            "熱飲"
-        ],
-        "resources": [
-            {
-                "name": "Very Well Health",
-                "URL": "https://www.verywellhealth.com/the-lowdown-on-jiaogulan-88940"
-            },
-            {
-                "name": "Way of Leaf",
-                "URL": "https://wayofleaf.com/supplements/adaptogens/jiaogulan"
-            },
-            {
-                "name": "WebMD",
-                "URL": "https://www.webmd.com/vitamins/ai/ingredientmono-265/jiaogulan"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum"
-            }
-        ]
+    "images": [
+      {
+        "image": "peachblossomtealapostte",
+        "place": "LaPostté, Las Vegas, Nevada"
+      }
+    ],
+    "description": "An herbal tea brewed with dried [peach](https://en.wikipedia.org/wiki/Peach) flower. This is a traditional Korean tea.\n\nPeaches are the state fruit of South Carolina, and the state flower of Delaware is the peach blossom, but peaches originated in ancient China and were cultivated throughout Asia. IOn China, the peach blossom is associated with love.",
+    "tags": ["花茶", "桃", "桃花", "花", "茶", "飲品", "熱飲"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Peach_blossom_tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "jiaogulan",
+      "Cantonese": {
+        "text": "絞股藍",
+        "wkty": ["絞", "股", "藍"]
+      },
+      "Simplified": {
+        "text": "绞股蓝",
+        "wkty": ["绞", "股", "蓝"]
+      },
+      "Yale": "gáau gú làahm",
+      "Pinyin": "jiǎo gǔ lán",
+      "description": "{絞} is *twist*, {股} is *section* and {藍} is *blue* or *blue plant*), and {茶} is *tea*. So 絞股藍 is basically *twisty blue plant*."
     },
-    {
-        "word": {
-            "English": "jiaduobao",
-            "Cantonese": {
-                "text": "加多寶",
-                "wkty": [
-                    "加多",
-                    "加",
-                    "多",
-                    "寶"
-                ]
-            },
-            "Simplified":  {
-                "text": "加多宝",
-                "wkty": [
-                    "加多",
-                    "加",
-                    "多",
-                    "宝"
-                ]
-            },
-            "Yale": "gā dō bóu",
-            "Pinyin": "jiā duō bǎo",
-            "description": "{加多} is *add more* ({加} is *add* and {多} is *more*) and {寶} is *treasure*, so 加多寶 is *add more treasure*."
-        },
-        "images": [
-            {
-                "image": "jiaduobao",
-                "place": "Chinatown Supermarket, South Salt Lake, Utah"
-            }
-        ],
-        "description": "Jiaduobao (Mandarin pronunciation) is a popular brand of herbal tea, made from water, sugar, chrysanthemum, licorice, and other ingredients, and sold in recognizable red cans.\n\nIt was known as [wanglaoji](https://en.wikipedia.org/wiki/Wong_Lo_Kat_) (wang lo kat in Cantonese), but after a trademark dispute has since been marketed under the company name and competes with wanglaoji, which is sold in green boxes. It's kind of like the cola wars.\n\nIn Hong Kong, I used to buy a can daily from the vending machine in my corporate apartment, and it had the option of warming up the can for a nice warm tea before rolling it out.",
-        "tags": [
-            "花茶",
-            "菊",
-            "花",
-            "茶",
-            "飲品",
-            "冷飲"
-        ],
-        "resources": [
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Wong_Lo_Kat"
-            }
-        ]
+    "images": [
+      {
+        "image": "jaogulanteagrotto",
+        "place": "Tea Grotto, Salt Lake City, Utah"
+      }
+    ],
+    "description": "[Jiaogulan](https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum) (the Mandarin pronunciation) is a twisty vine with purported medicinal benefits (often called *southern ginseng*) popularly brewed as a tea.",
+    "tags": ["花茶", "桃", "桃花", "花", "茶", "飲品", "熱飲"],
+    "resources": [
+      {
+        "name": "Very Well Health",
+        "URL": "https://www.verywellhealth.com/the-lowdown-on-jiaogulan-88940"
+      },
+      {
+        "name": "Way of Leaf",
+        "URL": "https://wayofleaf.com/supplements/adaptogens/jiaogulan"
+      },
+      {
+        "name": "WebMD",
+        "URL": "https://www.webmd.com/vitamins/ai/ingredientmono-265/jiaogulan"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "jiaduobao",
+      "Cantonese": {
+        "text": "加多寶",
+        "wkty": ["加多", "加", "多", "寶"]
+      },
+      "Simplified": {
+        "text": "加多宝",
+        "wkty": ["加多", "加", "多", "宝"]
+      },
+      "Yale": "gā dō bóu",
+      "Pinyin": "jiā duō bǎo",
+      "description": "{加多} is *add more* ({加} is *add* and {多} is *more*) and {寶} is *treasure*, so 加多寶 is *add more treasure*."
     },
-    {
-        "word": {
-            "English": "chamomile tea",
-            "Cantonese": {
-                "text": "洋甘菊",
-                "wkty": [
-                    "洋",
-                    "甘菊",
-                    "甘",
-                    "菊"
-                ]
-            },
-            "Yale": "yèuhng gām gūk",
-            "Pinyin": "yáng gān jú",
-            "description": "{冬} is *winter* and {瓜} is *melon*, so {冬瓜} is *winter melon*. {洋} is *ocean* or *vast*, and {甘菊} is [chamomile](https://en.wikipedia.org/wiki/Chamomile)."
-        },
-        "images": [
-            {
-                "image": "chamomileteachungchoucity",
-                "place": "Chung Chou City, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Tea brewed with [chamomile](https://en.wikipedia.org/wiki/Chamomile).",
-        "tags": [
-            "花茶",
-            "洋甘菊",
-            "飲品",
-            "茶"
-        ],
-        "resources": [
-            {
-                "name": "Chinese Teas 101",
-                "URL": "https://chineseteas101.com/how-to-make-chamomile-tea/"
-            },
-            {
-                "name": "Coffee and Tea Experts",
-                "URL": "https://coffeeandteaexperts.com/is-chamomile-tea-chinese-a-complete-guide-to-chamomile-tea-from-china/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Chamomile#Tea"
-            }
-        ]
+    "images": [
+      {
+        "image": "jiaduobao",
+        "place": "Chinatown Supermarket, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Jiaduobao (Mandarin pronunciation) is a popular brand of herbal tea, made from water, sugar, chrysanthemum, licorice, and other ingredients, and sold in recognizable red cans.\n\nIt was known as [wanglaoji](https://en.wikipedia.org/wiki/Wong_Lo_Kat_) (wang lo kat in Cantonese), but after a trademark dispute has since been marketed under the company name and competes with wanglaoji, which is sold in green boxes. It's kind of like the cola wars.\n\nIn Hong Kong, I used to buy a can daily from the vending machine in my corporate apartment, and it had the option of warming up the can for a nice warm tea before rolling it out.",
+    "tags": ["花茶", "菊", "花", "茶", "飲品", "冷飲"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Wong_Lo_Kat"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "chamomile tea",
+      "Cantonese": {
+        "text": "洋甘菊",
+        "wkty": ["洋", "甘菊", "甘", "菊"]
+      },
+      "Yale": "yèuhng gām gūk",
+      "Pinyin": "yáng gān jú",
+      "description": "{冬} is *winter* and {瓜} is *melon*, so {冬瓜} is *winter melon*. {洋} is *ocean* or *vast*, and {甘菊} is [chamomile](https://en.wikipedia.org/wiki/Chamomile)."
     },
-    {
-        "word": {
-            "English": "burdock tea",
-            "Cantonese": {
-                "text": "牛蒡茶",
-                "wkty": [
-                    "牛蒡",
-                    "牛",
-                    "蒡",
-                    "茶"
-                ]
-            },
-            "Yale": "ngàuh bóng chàh",
-            "Pinyin": "niú bàng chá",
-            "description": "{牛蒡} is [burdock](https://en.wikipedia.org/wiki/Arctium), a fruit which resembles a large grapefruit), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 牛蒡茶 is *burdock tea*."
-        },
-        "images": [
-            {
-                "image": "burdockteachungchoucity",
-                "place": "Chung Chou City, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A traditional medicinal [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from burdock root.\n\n**Trivia**\n\nThe hooked burrs covering burdock inspired the invention of [Velcro](https://en.wikipedia.org/wiki/Velcro).",
-        "tags": [
-            "牛蒡",
-            "飲品",
-            "熱飲",
-            "蜜",
-            "茶",
-            "熱茶",
-            "中國茶"
-        ],
-        "resources": [
-            {
-                "name": "Tea Joy",
-                "URL": "https://www.teajoy.com/articles/burdock-root-tea-recipe"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Arctium"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "chamomileteachungchoucity",
+        "place": "Chung Chou City, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Tea brewed with [chamomile](https://en.wikipedia.org/wiki/Chamomile).",
+    "tags": ["花茶", "洋甘菊", "飲品", "茶"],
+    "resources": [
+      {
+        "name": "Chinese Teas 101",
+        "URL": "https://chineseteas101.com/how-to-make-chamomile-tea/"
+      },
+      {
+        "name": "Coffee and Tea Experts",
+        "URL": "https://coffeeandteaexperts.com/is-chamomile-tea-chinese-a-complete-guide-to-chamomile-tea-from-china/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Chamomile#Tea"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "burdock tea",
+      "Cantonese": {
+        "text": "牛蒡茶",
+        "wkty": ["牛蒡", "牛", "蒡", "茶"]
+      },
+      "Yale": "ngàuh bóng chàh",
+      "Pinyin": "niú bàng chá",
+      "description": "{牛蒡} is [burdock](https://en.wikipedia.org/wiki/Arctium), a fruit which resembles a large grapefruit), and {茶} is [tea](https://en.wikipedia.org/wiki/Tea), so 牛蒡茶 is *burdock tea*."
+    },
+    "images": [
+      {
+        "image": "burdockteachungchoucity",
+        "place": "Chung Chou City, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A traditional medicinal [herbal tea](https://en.wikipedia.org/wiki/Herbal_tea) made from burdock root.\n\n**Trivia**\n\nThe hooked burrs covering burdock inspired the invention of [Velcro](https://en.wikipedia.org/wiki/Velcro).",
+    "tags": ["牛蒡", "飲品", "熱飲", "蜜", "茶", "熱茶", "中國茶"],
+    "resources": [
+      {
+        "name": "Tea Joy",
+        "URL": "https://www.teajoy.com/articles/burdock-root-tea-recipe"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Arctium"
+      }
+    ]
+  }
 ]

@@ -1,454 +1,326 @@
 [
-    {
-        "word": {
-            "English": "dandan noodles",
-            "Cantonese": {
-                "text": "擔擔麵",
-                "wkty": [
-                    "擔擔麵",
-                    "擔",
-                    "麵"
-                ]
-            },
-            "Yale": "daam daam mihn",
-            "Simplified": {
-                "text": "担担面",
-                "wkty": [
-                    "担担面",
-                    "担",
-                    "面"
-                ]
-            },
-            "Pinyin": "dàn dàn miàn",
-            "description": "擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle)."
-        },
-        "images": [
-            {
-                "image": "dandannoodleseverygrain",
-                "place": "Every Grain, Las Vegas, Nevada"
-            }
-        ],
-        "description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.",
-        "tags": [
-            "擔擔麵",
-            "辣",
-            "紅油",
-            "四川",
-            "川菜",
-            "麵"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
-            },
-            {
-                "name": "Christie at Home",
-                "URL": "https://christieathome.com/blog/mango-pudding/"
-            },
-            {
-                "name": "Nom Life",
-                "URL": "https://www.lifeofnoms.com/blog/dandannoodles"
-            },
-            {
-                "name": "The Plant-Based Wok",
-                "URL": "https://theplantbasedwok.com/vegan-dan-dan-noodles/"
-            },
-            {
-                "name": "Red House Spice",
-                "URL": "https://redhousespice.com/dan-dan-noodles/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/dan-dan-noodles/"
-            }
-        ]
+  {
+    "word": {
+      "English": "dandan noodles",
+      "Cantonese": {
+        "text": "擔擔麵",
+        "wkty": ["擔擔麵", "擔", "麵"]
+      },
+      "Yale": "daam daam mihn",
+      "Simplified": {
+        "text": "担担面",
+        "wkty": ["担担面", "担", "面"]
+      },
+      "Pinyin": "dàn dàn miàn",
+      "description": "擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle)."
     },
-    {
-        "word": {
-            "English": "beef dandan noodles",
-            "Cantonese": {
-                "text": "牛肉擔擔麵",
-                "wkty": [
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "擔擔麵",
-                    "擔",
-                    "麵"
-                ]
-            },
-            "Yale": "ngàuh yuhk daam daam mihn",
-            "Simplified": {
-                "text": "牛肉担担面",
-                "wkty": [
-                    "牛肉",
-                    "牛",
-                    "肉",
-                    "担担面",
-                    "担",
-                    "面"
-                ]
-            },
-            "Pinyin": "niú ròu dàn dàn miàn",
-            "description": "{牛肉} is *beef* ({牛} is *cow* and {肉} is *meat*). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). 牛肉担担面 is *beef dandan noodles*."
-        },
-        "images": [
-            {
-                "image": "beefdandannoodlesonemorenoodlehouse",
-                "place": "One More Noodle House, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[Dandan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with beef instead of pork.",
-        "tags": [
-            "新菜",
-            "擔擔麵",
-            "牛肉",
-            "辣",
-            "紅油",
-            "四川",
-            "川菜",
-            "麵"
-        ],
-        "resources": [
-            {
-                "name": "Umi Organic",
-                "URL": "https://www.umiorganic.com/recipe-blog/2021/3/24/dan-dan-noodles-with-ground-beef"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
-            }
-        ]
+    "images": [
+      {
+        "image": "dandannoodleseverygrain",
+        "place": "Every Grain, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Sichuan noodle dish featuring a spicy sauce including minced pork, chili oil, and Sichuan pepper served over the noodles.",
+    "tags": ["擔擔麵", "辣", "紅油", "四川", "川菜", "麵"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/dan-dan-noodles/"
+      },
+      {
+        "name": "Christie at Home",
+        "URL": "https://christieathome.com/blog/mango-pudding/"
+      },
+      {
+        "name": "Nom Life",
+        "URL": "https://www.lifeofnoms.com/blog/dandannoodles"
+      },
+      {
+        "name": "The Plant-Based Wok",
+        "URL": "https://theplantbasedwok.com/vegan-dan-dan-noodles/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/dan-dan-noodles/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/dan-dan-noodles/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "beef dandan noodles",
+      "Cantonese": {
+        "text": "牛肉擔擔麵",
+        "wkty": ["牛肉", "牛", "肉", "擔擔麵", "擔", "麵"]
+      },
+      "Yale": "ngàuh yuhk daam daam mihn",
+      "Simplified": {
+        "text": "牛肉担担面",
+        "wkty": ["牛肉", "牛", "肉", "担担面", "担", "面"]
+      },
+      "Pinyin": "niú ròu dàn dàn miàn",
+      "description": "{牛肉} is *beef* ({牛} is *cow* and {肉} is *meat*). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). 牛肉担担面 is *beef dandan noodles*."
     },
-    {
-        "word": {
-            "English": "tofu dandan noodles",
-            "Cantonese": {
-                "text": "豆腐擔擔麵",
-                "wkty": [
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "擔擔麵",
-                    "擔",
-                    "麵"
-                ]
-            },
-            "Yale": "dauh fuh daam daam mihn",
-            "Simplified": {
-                "text": "豆腐担担面",
-                "wkty": [
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "担担面",
-                    "担",
-                    "面"
-                ]
-            },
-            "Pinyin": "dòu fǔ dàn dàn miàn",
-            "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). So 豆腐擔擔麵 is *tofu dandan noodles*."
-        },
-        "images": [
-            {
-                "image": "tofudandannoodlesonemorenoodlehouse",
-                "place": "One More Noodle House, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[Dandan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with [tofu](https://en.wikipedia.org/wiki/Tofu) instead of pork.",
-        "tags": [
-            "新菜",
-            "豆腐",
-            "擔擔麵",
-            "辣",
-            "紅油",
-            "四川",
-            "川菜",
-            "麵",
-            "素"
-        ],
-        "resources": [
-            {
-                "name": "Always Delicious",
-                "URL": "https://allwaysdelicious.com/vegetarian-dan-dan-noodles/"
-            },
-            {
-                "name": "Archana's Kitchen",
-                "URL": "https://www.archanaskitchen.com/sichuan-dan-dan-noodles-recipe-sesame-noodles-with-crispy-tofu-recipe"
-            },
-            {
-                "name": "Asian Inspirations",
-                "URL": "https://asianinspirations.com.au/recipes/dan-dan-tofu-noodles/"
-            },
-            {
-                "name": "Crowded Kitchen",
-                "URL": "https://www.crowdedkitchen.com/vegan-dan-dan-noodles/"
-            },
-            {
-                "name": "The View from Great Island",
-                "URL": "https://theviewfromgreatisland.com/vegan-dan-dan-noodles/"
-            }
-        ]
+    "images": [
+      {
+        "image": "beefdandannoodlesonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[Dandan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with beef instead of pork.",
+    "tags": ["新菜", "擔擔麵", "牛肉", "辣", "紅油", "四川", "川菜", "麵"],
+    "resources": [
+      {
+        "name": "Umi Organic",
+        "URL": "https://www.umiorganic.com/recipe-blog/2021/3/24/dan-dan-noodles-with-ground-beef"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Dandan_noodles"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "tofu dandan noodles",
+      "Cantonese": {
+        "text": "豆腐擔擔麵",
+        "wkty": ["豆腐", "豆", "腐", "擔擔麵", "擔", "麵"]
+      },
+      "Yale": "dauh fuh daam daam mihn",
+      "Simplified": {
+        "text": "豆腐担担面",
+        "wkty": ["豆腐", "豆", "腐", "担担面", "担", "面"]
+      },
+      "Pinyin": "dòu fǔ dàn dàn miàn",
+      "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu). 擔擔 (“dàn dàn” in Mandarin) refers to the carrying pole used by street vendors, holding a basket of noodles at one end and a basket of sauce at the other, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). So 豆腐擔擔麵 is *tofu dandan noodles*."
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "豆腐茄子麵",
-                "wkty": [
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "茄子",
-                    "茄",
-                    "子",
-                    "麵"
-                ]
-            },
-            "Simplified": {
-                "text": "豆腐茄子麵",
-                "wkty": [
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "茄子",
-                    "茄",
-                    "子",
-                    "面"
-                ]
-            },
-            "English": "eggplant tofu noodles",
-            "Yale": "dauh fuh mihn",
-            "Pinyin": "dòu fǔ miàn",
-            "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 豆腐茄子麵 is *tofu eggplant noodles*."
-        },
-        "images": [
-            {
-                "image": "eggplanttofunoodlesonemorenoodlehouse",
-                "place": "One More Noodle House, South Salt Lake, Utah"
-            }
-        ],
-        "description": "Wheat noodles topped with eggplant and tofu.",
-        "tags": [
-            "川菜",
-            "新菜",
-            "豆腐",
-            "茄子",
-            "麵",
-            "素"
-        ],
-        "resources": [
-            {
-                "name": "The Curious Chickpea",
-                "URL": "https://www.thecuriouschickpea.com/spicy-sichuan-noodles-with-eggplant/"
-            },
-            {
-                "name": "My Tasty Curry",
-                "URL": "https://mytastycurry.com/chinese-eggplant-tofu"
-            }
-        ]
+    "images": [
+      {
+        "image": "tofudandannoodlesonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[Dandan noodles](https://en.wikipedia.org/wiki/Dandan_noodles) with [tofu](https://en.wikipedia.org/wiki/Tofu) instead of pork.",
+    "tags": [
+      "新菜",
+      "豆腐",
+      "擔擔麵",
+      "辣",
+      "紅油",
+      "四川",
+      "川菜",
+      "麵",
+      "素"
+    ],
+    "resources": [
+      {
+        "name": "Always Delicious",
+        "URL": "https://allwaysdelicious.com/vegetarian-dan-dan-noodles/"
+      },
+      {
+        "name": "Archana's Kitchen",
+        "URL": "https://www.archanaskitchen.com/sichuan-dan-dan-noodles-recipe-sesame-noodles-with-crispy-tofu-recipe"
+      },
+      {
+        "name": "Asian Inspirations",
+        "URL": "https://asianinspirations.com.au/recipes/dan-dan-tofu-noodles/"
+      },
+      {
+        "name": "Crowded Kitchen",
+        "URL": "https://www.crowdedkitchen.com/vegan-dan-dan-noodles/"
+      },
+      {
+        "name": "The View from Great Island",
+        "URL": "https://theviewfromgreatisland.com/vegan-dan-dan-noodles/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "豆腐茄子麵",
+        "wkty": ["豆腐", "豆", "腐", "茄子", "茄", "子", "麵"]
+      },
+      "Simplified": {
+        "text": "豆腐茄子麵",
+        "wkty": ["豆腐", "豆", "腐", "茄子", "茄", "子", "面"]
+      },
+      "English": "eggplant tofu noodles",
+      "Yale": "dauh fuh mihn",
+      "Pinyin": "dòu fǔ miàn",
+      "description": "{豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so 豆腐茄子麵 is *tofu eggplant noodles*."
     },
-    {
-        "word": {
-            "Cantonese": {
-                "text": "肉沫茄子麵",
-                "wkty": [
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "茄子",
-                    "茄",
-                    "子",
-                    "麵"
-                ]
-            },
-            "Simplified": {
-                "text": "肉沫茄子麵",
-                "wkty": [
-                    "豆腐",
-                    "豆",
-                    "腐",
-                    "茄子",
-                    "茄",
-                    "子",
-                    "面"
-                ]
-            },
-            "English": "eggplant with pork noodles",
-            "Yale": "yuhk muht mihn",
-            "Pinyin": "ròu mò miàn",
-            "description": "肉沫 is minced pork ({肉} is *meat* and {沫} is foam or suds, so 肉沫 is *meat suds*), {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). Altogether, 肉沫茄子麵 is *meat suds eggplant noodles*."
-        },
-        "images": [
-            {
-                "image": "eggplantporknoodlesonemorenoodlehouse",
-                "place": "One More Noodle House, South Salt Lake, Utah"
-            }
-        ],
-        "description": "Wheat noodles topped with eggpant and minced pork.",
-        "tags": [
-            "川菜",
-            "肉沫",
-            "新菜",
-            "茄子",
-            "麵"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/chinese-eggplants-with-minced-pork/"
-            },
-            {
-                "name": "Pantry No. 7",
-                "URL": "https://pantryno7.com/eggplant-pork-noodles/"
-            },
-            {
-                "name": "Posh Journal",
-                "URL": "https://poshjournal.com/chinese-eggplant-with-minced-pork"
-            },
-            {
-                "name": "Serious Eats",
-                "URL": "https://www.seriouseats.com/sichuan-style-braised-eggplant-recipe"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/braised-eggplant-pork/"
-            }
-        ]
+    "images": [
+      {
+        "image": "eggplanttofunoodlesonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Wheat noodles topped with eggplant and tofu.",
+    "tags": ["川菜", "新菜", "豆腐", "茄子", "麵", "素"],
+    "resources": [
+      {
+        "name": "The Curious Chickpea",
+        "URL": "https://www.thecuriouschickpea.com/spicy-sichuan-noodles-with-eggplant/"
+      },
+      {
+        "name": "My Tasty Curry",
+        "URL": "https://mytastycurry.com/chinese-eggplant-tofu"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "肉沫茄子麵",
+        "wkty": ["豆腐", "豆", "腐", "茄子", "茄", "子", "麵"]
+      },
+      "Simplified": {
+        "text": "肉沫茄子麵",
+        "wkty": ["豆腐", "豆", "腐", "茄子", "茄", "子", "面"]
+      },
+      "English": "eggplant with pork noodles",
+      "Yale": "yuhk muht mihn",
+      "Pinyin": "ròu mò miàn",
+      "description": "肉沫 is minced pork ({肉} is *meat* and {沫} is foam or suds, so 肉沫 is *meat suds*), {茄子} is *eggplant*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle). Altogether, 肉沫茄子麵 is *meat suds eggplant noodles*."
     },
-    {
-        "word": {
-            "English": "red-braised beef brisket noodle soup",
-            "Cantonese": {
-                "text": "紅燒牛腩麵",
-                "wkty": [
-                    "紅燒",
-                    "紅",
-                    "燒",
-                    "牛腩",
-                    "牛",
-                    "腩",
-                    "麵"
-                ]
-            },
-            "Yale": "hùhng sīu ngàuh náahm mihn",
-            "Simplified": {
-                "text": "红烧牛腩面",
-                "wkty": [
-                    "红烧",
-                    "红",
-                    "燒",
-                    "牛腩",
-                    "牛",
-                    "腩",
-                    "面"
-                ]
-            },
-            "Pinyin": "hóng shāo niú nǎn miàn",
-            "description": "{紅燒} is *red-braised*, ({紅} is *red*, and {燒} is *baked(). {牛腩} is [brisket](https://en.wikipedia.org/wiki/Brisket), and {麵} is *noodle*, so 紅燒牛肉麵 is *red-braised beef brisket noodles*."
-        },
-        "images": [
-            {
-                "image": "redbraisedbeefbrisketnoodlesoupnoodlehead",
-                "place": "Noodlehead, Las Vegas, Nevada"
-            }
-        ],
-        "description": "Red-braised (with soy sauce or, in Sichuan, with chili), beef brisket in a noodle soup.",
-        "tags": [
-            "牛肉",
-            "麵"
-        ],
-        "resources": [
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/braised-beef-noodles/"
-            },
-            {
-                "name": "The Mala Market",
-                "URL": "https://blog.themalamarket.com/sichuan-red-braised-beef-noodle-soup-hong-shao-niu-rou-mian-using-the-instant-pot-or-not/"
-            },
-            {
-                "name": "Serves4",
-                "URL": "https://www.serves4.com/braised-beef-noodle-soup.html"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/braised-beef-noodle-soup/"
-            }
-        ]
+    "images": [
+      {
+        "image": "eggplantporknoodlesonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Wheat noodles topped with eggpant and minced pork.",
+    "tags": ["川菜", "肉沫", "新菜", "茄子", "麵"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/chinese-eggplants-with-minced-pork/"
+      },
+      {
+        "name": "Pantry No. 7",
+        "URL": "https://pantryno7.com/eggplant-pork-noodles/"
+      },
+      {
+        "name": "Posh Journal",
+        "URL": "https://poshjournal.com/chinese-eggplant-with-minced-pork"
+      },
+      {
+        "name": "Serious Eats",
+        "URL": "https://www.seriouseats.com/sichuan-style-braised-eggplant-recipe"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/braised-eggplant-pork/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "red-braised beef brisket noodle soup",
+      "Cantonese": {
+        "text": "紅燒牛腩麵",
+        "wkty": ["紅燒", "紅", "燒", "牛腩", "牛", "腩", "麵"]
+      },
+      "Yale": "hùhng sīu ngàuh náahm mihn",
+      "Simplified": {
+        "text": "红烧牛腩面",
+        "wkty": ["红烧", "红", "燒", "牛腩", "牛", "腩", "面"]
+      },
+      "Pinyin": "hóng shāo niú nǎn miàn",
+      "description": "{紅燒} is *red-braised*, ({紅} is *red*, and {燒} is *baked(). {牛腩} is [brisket](https://en.wikipedia.org/wiki/Brisket), and {麵} is *noodle*, so 紅燒牛肉麵 is *red-braised beef brisket noodles*."
     },
-    {
-        "word": {
-            "English": "hot and sour noodles",
-            "Cantonese": {
-                "text": "酸辣粉",
-                "wkty": [
-                    "酸辣湯",
-                    "酸",
-                    "辣",
-                    "粉"
-                ]
-            },
-            "Yale": "syūn laaht fán",
-            "Pinyin": "suān là fěn",
-            "description": "{酸} is *sour*, {辣} is *hot* (as in spicy or pungent), and {粉} is *noodles*, so 酸辣湯 is *sour hot noodles*."
-        },
-        "images": [
-            {
-                "image": "suanlafenonemorenoodlehouse",
-                "place": "One More Noodle House, South Salt Lake, Utah"
-            }
-        ],
-        "description": "[Hot and sour noodles](https://en.wikipedia.org/wiki/Hot_and_sour_noodles), often listed by its Mandarin pronunciation *suan la fen*, is a Sichuan hot and sour soup (the Chinese name is the same as for hot and sour soup but ending with the word for noodles instead of soup), containing glass noodles typically made from sweet potato starch.",
-        "tags": [
-            "新菜",
-            "酸",
-            "辣",
-            "四川",
-            "川菜",
-            "麵"
-        ],
-        "resources": [
-            {
-                "name": "Baking Hermann",
-                "URL": "https://bakinghermann.com/all-recipes/hot-and-sour-noodle-soup-suan-la-fen"
-            },
-            {
-                "name": "China Sichuan Food",
-                "URL": "https://www.chinasichuanfood.com/hot-and-sour-sweet-potato-noodles/"
-            },
-            {
-                "name": "Chinese Food Wiki",
-                "URL": "https://www.chinesefoodwiki.org/Suan_La_Fen"
-            },
-            {
-                "name": "The Mala Market",
-                "URL": "https://blog.themalamarket.com/sour-and-spicy-sweet-potato-noodles-suan-la-fen-and-a-spicy-girl-graduates/"
-            },
-            {
-                "name": "Omnivore's Cookbook",
-                "URL": "https://omnivorescookbook.com/suan-la-fen/"
-            },
-            {
-                "name": "Yi's Sichuan Kitchen",
-                "URL": "https://sichuankitchenrecipes.com/2022/10/12/sichuan-suan-la-fen-hot-and-sour-glass-noodle-soup/"
-            },
-            {
-                "name": "Tasting Table",
-                "URL": "https://www.tastingtable.com/1268227/what-makes-suan-le-fen-hot-sour-glass-noodle-soup-unique/"
-            },
-            {
-                "name": "Wikipedia",
-                "URL": "https://en.wikipedia.org/wiki/Hot_and_sour_noodles"
-            },
-            {
-                "name": "The Woks of Life",
-                "URL": "https://thewoksoflife.com/suan-la-fen-hot-sour-sweet-potato-glass-noodle-soup/"
-            }
-        ]
-    }
+    "images": [
+      {
+        "image": "redbraisedbeefbrisketnoodlesoupnoodlehead",
+        "place": "Noodlehead, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Red-braised (with soy sauce or, in Sichuan, with chili), beef brisket in a noodle soup.",
+    "tags": ["牛肉", "麵"],
+    "resources": [
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/braised-beef-noodles/"
+      },
+      {
+        "name": "The Mala Market",
+        "URL": "https://blog.themalamarket.com/sichuan-red-braised-beef-noodle-soup-hong-shao-niu-rou-mian-using-the-instant-pot-or-not/"
+      },
+      {
+        "name": "Serves4",
+        "URL": "https://www.serves4.com/braised-beef-noodle-soup.html"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/braised-beef-noodle-soup/"
+      }
+    ]
+  },
+  {
+    "word": {
+      "English": "hot and sour noodles",
+      "Cantonese": {
+        "text": "酸辣粉",
+        "wkty": ["酸辣湯", "酸", "辣", "粉"]
+      },
+      "Yale": "syūn laaht fán",
+      "Pinyin": "suān là fěn",
+      "description": "{酸} is *sour*, {辣} is *hot* (as in spicy or pungent), and {粉} is *noodles*, so 酸辣湯 is *sour hot noodles*."
+    },
+    "images": [
+      {
+        "image": "suanlafenonemorenoodlehouse",
+        "place": "One More Noodle House, South Salt Lake, Utah"
+      }
+    ],
+    "description": "[Hot and sour noodles](https://en.wikipedia.org/wiki/Hot_and_sour_noodles), often listed by its Mandarin pronunciation *suan la fen*, is a Sichuan hot and sour soup (the Chinese name is the same as for hot and sour soup but ending with the word for noodles instead of soup), containing glass noodles typically made from sweet potato starch.",
+    "tags": ["新菜", "酸", "辣", "四川", "川菜", "麵"],
+    "resources": [
+      {
+        "name": "Baking Hermann",
+        "URL": "https://bakinghermann.com/all-recipes/hot-and-sour-noodle-soup-suan-la-fen"
+      },
+      {
+        "name": "China Sichuan Food",
+        "URL": "https://www.chinasichuanfood.com/hot-and-sour-sweet-potato-noodles/"
+      },
+      {
+        "name": "Chinese Food Wiki",
+        "URL": "https://www.chinesefoodwiki.org/Suan_La_Fen"
+      },
+      {
+        "name": "The Mala Market",
+        "URL": "https://blog.themalamarket.com/sour-and-spicy-sweet-potato-noodles-suan-la-fen-and-a-spicy-girl-graduates/"
+      },
+      {
+        "name": "Omnivore's Cookbook",
+        "URL": "https://omnivorescookbook.com/suan-la-fen/"
+      },
+      {
+        "name": "Yi's Sichuan Kitchen",
+        "URL": "https://sichuankitchenrecipes.com/2022/10/12/sichuan-suan-la-fen-hot-and-sour-glass-noodle-soup/"
+      },
+      {
+        "name": "Tasting Table",
+        "URL": "https://www.tastingtable.com/1268227/what-makes-suan-le-fen-hot-sour-glass-noodle-soup-unique/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Hot_and_sour_noodles"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/suan-la-fen-hot-sour-sweet-potato-glass-noodle-soup/"
+      }
+    ]
+  }
 ]
