@@ -1,31 +1,35 @@
 {
-    "name": "South Carolina",
-    "places": [
+  "name": "South Carolina",
+  "places": [
+    {
+      "name": "Dragon Palace",
+      "links": [
         {
-            "name": "Dragon Palace",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://dragonpalacesc.com/index.html"
-                }
-            ],
-            "lat": 32.862709,
-            "lon": -79.903717,
-            "city": "Daniel Island",
-            "address": "162 Seven Farms Dr Ste 320 Daniel Island, SC 29492"
+          "name": "site",
+          "URL": "http://dragonpalacesc.com/index.html"
+        }
+      ],
+      "lat": 32.862709,
+      "lon": -79.903717,
+      "city": "Daniel Island",
+      "address": "162 Seven Farms Dr Ste 320 Daniel Island, SC 29492"
+    },
+    {
+      "name": "Sum Bar",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.eatsumbar.com/"
         },
         {
-            "name": "Sum Bar",
-            "links": [
-                {
-                    "name": "Eater",
-                    "URL": "https://carolinas.eater.com/2023/1/20/23563705/sum-bar-greenville-opening"
-                }
-            ],
-            "lat": 34.85043506761977,
-            "lon": -82.39618080253838,
-            "city": "Greenville",
-            "address": "307 E Washington St Greenville, SC 29601"
+          "name": "Eater",
+          "URL": "https://carolinas.eater.com/2023/1/20/23563705/sum-bar-greenville-opening"
         }
-    ]
+      ],
+      "lat": 34.85043506761977,
+      "lon": -82.39618080253838,
+      "city": "Greenville",
+      "address": "307 E Washington St Greenville, SC 29601"
+    }
+  ]
 }

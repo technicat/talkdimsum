@@ -1,18 +1,18 @@
 {
-    "name": "South Dakota",
-    "places": [
+  "name": "South Dakota",
+  "places": [
+    {
+      "name": "Yummy House",
+      "links": [
         {
-            "name": "Yummy House",
-            "links": [
-                {
-                    "name": "Sioux Falls Business",
-                    "URL": "https://www.siouxfalls.business/dim-sum-restaurant-opens-on-east-side/"
-                }
-            ],
-            "lat": 43.531240,
-            "lon": -96.670630,
-            "city": "Sioux Falls",
-            "address": "1602 S Sycamore Ave, Sioux Falls, SD 57110"
+          "name": "Sioux Falls Business",
+          "URL": "https://www.siouxfalls.business/dim-sum-restaurant-opens-on-east-side/"
         }
-    ]
+      ],
+      "lat": 43.53124,
+      "lon": -96.67063,
+      "city": "Sioux Falls",
+      "address": "1602 S Sycamore Ave, Sioux Falls, SD 57110"
+    }
+  ]
 }
