@@ -183,5 +183,68 @@
         "URL": "https://en.wikipedia.org/wiki/Biluochun"
       }
     ]
+  },
+  {
+    "word": {
+      "Cantonese": {
+        "text": "玄米茶",
+        "wkty": ["玄米茶", "玄米", "玄", "米", "茶"]
+      },
+      "English": "genmaicha",
+      "Yale": "yùhn máih chàh",
+      "Pinyin": "xuán mǐ chá",
+      "description": "{玄} is *black*, {米} is *rice*, and {茶} is *tea*, so in Chinese it's *black rice tea*, but in Japanese {玄米} is *brown rice*, so its actually *brown rice tea*."
+    },
+    "images": [
+      {
+        "image": "genmaichachungchoucity",
+        "place": "Chung Chou City, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[Genmaicha](https://en.wikipedia.org/wiki/Genmaicha) is a Japanese green tea (the name is the Japanese pronunciation) mixed with toasted brown rice, also called *popcorn tea* because the rice pops like popcorn when toasted.",
+    "tags": ["熱飲", "飲品", "茶", "熱茶"],
+    "resources": [
+      {
+        "name": "196 Flavors",
+        "URL": "https://www.196flavors.com/genmaicha/"
+      },
+      {
+        "name": "Brewed Leaf Love",
+        "URL": "https://brewedleaflove.com/what-is-genmaicha/"
+
+      },
+      {
+        "name": "Chinese Teas 101",
+        "URL": "https://chineseteas101.com/genmaicha/"
+      },
+      {
+        "name": "Food in Japan",
+        "URL": "https://www.foodinjapan.org/japan/genmai-cha/"
+      },
+      {
+        "name": "Green Tea Merchant",
+        "URL": "https://www.shizuokatea.com/blog/what-is-genmaicha/"
+      },
+      {
+        "name": "Japanese Green Tea Shop",
+        "URL": "https://www.japanesegreenteain.com/blogs/green-tea-and-health/everything-you-need-to-know-about-genmaicha"
+      },
+      {
+        "name": "Japanese Taste",
+        "URL": "https://japanesetaste.com/blogs/japanese-taste-blog/a-guide-to-genmaicha-everything-you-need-to-know-about-popcorn-tea?region=us&country=us"
+      },
+      {
+        "name": "My Japanese Green Tea",
+        "URL": "https://www.myjapanesegreentea.com/genmaicha"
+      },
+      {
+        "name": "Oh How Civilized",
+        "URL": "https://www.ohhowcivilized.com/genmaicha-tea/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Genmaicha"
+      }
+    ]
   }
 ]
