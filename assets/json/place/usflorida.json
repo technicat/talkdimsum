@@ -377,7 +377,7 @@
       "links": [
         {
           "name": "site",
-          "URL": "http://www.toatoachineserestaurant.com/"
+          "URL": "https://www.toatoadimsum.com/"
         }
       ],
       "lat": 26.18217,
@@ -397,6 +397,23 @@
       "lon": -80.20455115604544,
       "city": "Tamarac",
       "address": "5301 N State Rd 7 Tamarac, FL 33319"
+    },
+    {
+      "name": "Grand Fortune",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://grandfortunetampa.com/"
+        },
+        {
+          "name": "Creative Loafing",
+          "URL": "https://www.cltampa.com/food-drink/new-dim-sum-restaurant-grand-fortune-opens-in-tampa-17181126"
+        }
+      ],
+      "lat": 28.055661538200795,
+      "lon": -82.44758230395472,
+      "city": "Tampa",
+      "address": "1104 E Fowler Ave Tampa, FL 33612"
     },
     {
       "name": "Grand Lake Chinese Restaurant",
