@@ -555,5 +555,29 @@
     "description": "This category is updated with the latest dishes added to this app.",
     "tags": ["新菜"],
     "resources": []
+  },
+  {
+    "word": {
+      "English": "Chinese New Year",
+      "Cantonese": "春節",
+      "Simplified": "春节",
+      "Yale": "chēun jit",
+      "Pinyin": "chūn jié",
+      "description": "{春} is *spring* (same as in *spring rolls*), and {節} is *festival* , so {春節} is *spring festival*."
+    },
+    "images": [
+      {
+        "image": "hkgardenassorted2",
+        "place": "Hong Kong Garden, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chinese New Year, also known as the Spring Festival or more generally the Lunar New Year, falls on various dates in January or February.",
+    "tags": ["新菜"],
+    "resources": [
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/when-is-chinese-new-year-2024/"
+      }
+    ]
   }
 ]
