@@ -575,6 +575,10 @@
     "tags": ["新菜"],
     "resources": [
       {
+        "name": "Let's Chinese",
+        "URL": "https://letschinese.com/chinese-new-year-food/"
+      },
+      {
         "name": "The Spruce Eats",
         "URL": "https://www.thespruceeats.com/symbolic-chinese-new-years-recipes-4136953"
       },
@@ -588,7 +592,7 @@
       },
       {
         "name": "Wikipedia",
-        "URL": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+        "URL": "https://en.wikipedia.org/wiki/Chinese_New_Year#Traditional_food"
       }
     ]
   }
