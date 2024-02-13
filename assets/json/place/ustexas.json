@@ -420,8 +420,8 @@
       "name": "JS Chen's Dim Sum & BBQ",
       "links": [
         {
-          "name": "site",
-          "URL": "https://www.jschensbbq.com/"
+          "name": "Yelp",
+          "URL": "https://www.yelp.com/biz/js-chen-dim-sum-and-barbeque-plano"
         }
       ],
       "lat": 33.06736,
@@ -506,6 +506,19 @@
       "lon": -95.58505975808659,
       "city": "Stafford",
       "address": "12755 Sw Fwy Stafford, TX 77477"
+    },
+    {
+      "name": "Chinese Dim Sum",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.chinesedimsumtx.com/"
+        }
+      ],
+      "lat": 32.27958258842043,
+      "lon": -95.3050412884646,
+      "city": "Tyler",
+      "address": "109 E Grande Blvd, Tyler, TX 75703"
     }
   ]
 }
