@@ -1,44 +1,57 @@
 {
-    "name": "Connecticut",
-    "places": [
+  "name": "Connecticut",
+  "places": [
+    {
+      "name": "Hunan House",
+      "links": [
         {
-            "name": "Steamed",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.steamednewhaven.com/"
-                }
-            ],
-            "lat": 41.312585,
-            "lon": -72.921829,
-            "city": "New Haven",
-            "address": "77 Whitney Ave New Haven, CT 06510"
-        },
-        {
-            "name": "Steamed",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.steamedmadison.com/"
-                }
-            ],
-            "lat": 41.279049,
-            "lon": -72.596731,
-            "city": "Madison",
-            "address": "670 Boston Post Rd Madison, CT 06443"
-        },
-        {
-            "name": "Golden Palace",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.goldenpalace-ct.com/"
-                }
-            ],
-            "lat": 41.484036,
-            "lon": -72.099014,
-            "city": "Uncasville",
-            "address": "2173 Norwich New London Tpke Uncasville, CT 06382"
+          "name": "site",
+          "URL": "https://www.hunanhousect.com/"
         }
-    ]
+      ],
+      "lat": 41.30396972521326,
+      "lon": -72.92567263226493,
+      "city": "New Haven",
+      "address": "32 Orange St, New Haven, CT 06510"
+    },
+    {
+      "name": "Steamed",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.steamednewhaven.com/"
+        }
+      ],
+      "lat": 41.312585,
+      "lon": -72.921829,
+      "city": "New Haven",
+      "address": "77 Whitney Ave New Haven, CT 06510"
+    },
+    {
+      "name": "Steamed",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.steamedmadison.com/"
+        }
+      ],
+      "lat": 41.279049,
+      "lon": -72.596731,
+      "city": "Madison",
+      "address": "670 Boston Post Rd Madison, CT 06443"
+    },
+    {
+      "name": "Golden Palace",
+      "links": [
+        {
+          "name": "site",
+          "URL": "http://www.goldenpalace-ct.com/"
+        }
+      ],
+      "lat": 41.484036,
+      "lon": -72.099014,
+      "city": "Uncasville",
+      "address": "2173 Norwich New London Tpke Uncasville, CT 06382"
+    }
+  ]
 }
