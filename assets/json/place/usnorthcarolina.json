@@ -3,6 +3,20 @@
     "places":
 [
     {
+        "name": "Dim Sum Asian Bistro",
+        "links":
+        [
+            {
+                "name":"site",
+                "URL": "https://www.dimsumdurham.com/"
+            }
+        ],
+        "lat": 35.89047614468369,
+        "lon": -78.89803386133971,
+        "city": "Durham",
+        "address": "5410 NC Hwy 55 Ste Y Durham, NC 27713"
+    },
+    {
         "name": "Hong Kong Chinese Restaurant",
         "links":
         [
