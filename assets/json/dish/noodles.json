@@ -69,5 +69,51 @@
         "URL": "https://thewoksoflife.com/cold-sesame-noodles/"
       }
     ]
+  },
+  {
+    "word": {
+      "English": "lo mein",
+      "Cantonese": {
+        "text": "撈麵",
+        "wkty": [
+          "撈麵",
+          "撈",
+          "麵"
+        ]
+      },
+      "Yale": "lōu mihn",
+      "Simplified": {
+        "text": "捞面",
+        "wkty": [
+          "捞面",
+          "捞",
+          "面"
+        ]
+      },
+      "Pinyin": "lāo miàn",
+      "description": "{撈} is *mix* or *stir*, and {麵} is [noodles](https://en.wikipedia.org/wiki/Noodle), so {撈麵} is *stirred noodles* (not stir-fried noodles)."
+    },
+    "images": [
+      {
+        "image": "lomeinchinawok",
+        "place": "China Wok, South Jordan, Utah"
+      }
+    ],
+    "description": "A staple of Chinese-American eateries, [lo mein](https://en.wikipedia.org/wiki/Lo_mein) are originally Cantonese noodles made from egg and wheat, tossed and stir-fried with meat and vegetables.",
+    "tags": [
+      "新菜",
+      "粵菜",
+      "麵"
+    ],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Lo_mein"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/lo-mein-noodles-how-to-cook/"
+      }
+    ]
   }
 ]
