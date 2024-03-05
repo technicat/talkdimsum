@@ -28,6 +28,19 @@
       "address": "2366 Surfside Boulevard C-101 Cape Coral, FL 33991"
     },
     {
+      "name": "Red Farm",
+      "links": [
+          {
+              "name": "site",
+              "URL": "https://www.redfarmnyc.com/location/miami/"
+          }
+      ],
+      "lat": 25.727524182955843,
+      "lon":  -80.24414379071102,
+      "city": "Coconut Grove",
+      "address": "3131 Commodore Plz, Coconut Grove, FL 33133"
+  },
+    {
       "name": "Hong Kong Dim Sum",
       "links": [
         {
