@@ -116,20 +116,20 @@
     {
       "name": "Red Farm",
       "links": [
-          {
-              "name": "site",
-              "URL": "https://www.redfarmnyc.com/location/austin/"
-          }
-          {
-            "name": "Eater",
-            "URL": "https://miami.eater.com/2024/2/27/24084131/redfarm-miami-now-open"
-          }
+        {
+          "name": "site",
+          "URL": "https://www.redfarmnyc.com/location/austin/"
+        },
+        {
+          "name": "Eater",
+          "URL": "https://miami.eater.com/2024/2/27/24084131/redfarm-miami-now-open"
+        }
       ],
-      "lat": 30.265738104275062, 
+      "lat": 30.265738104275062,
       "lon": -97.74551074637253,
       "city": "Austin",
       "address": "201 West 3rd St., Austin, TX 78701"
-  },
+    },
     {
       "name": "Shanghai Restaurant",
       "links": [

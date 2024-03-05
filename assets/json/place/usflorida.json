@@ -30,20 +30,20 @@
     {
       "name": "Red Farm",
       "links": [
-          {
-              "name": "site",
-              "URL": "https://www.redfarmnyc.com/location/miami/"
-          }
-          {
-            "name": "Eater",
-            "URL": "https://miami.eater.com/2024/2/27/24084131/redfarm-miami-now-open"
-          }
+        {
+          "name": "site",
+          "URL": "https://www.redfarmnyc.com/location/miami/"
+        },
+        {
+          "name": "Eater",
+          "URL": "https://miami.eater.com/2024/2/27/24084131/redfarm-miami-now-open"
+        }
       ],
       "lat": 25.727524182955843,
-      "lon":  -80.24414379071102,
+      "lon": -80.24414379071102,
       "city": "Coconut Grove",
       "address": "3131 Commodore Plz, Coconut Grove, FL 33133"
-  },
+    },
     {
       "name": "Hong Kong Dim Sum",
       "links": [
@@ -330,22 +330,22 @@
       "address": "1212 Woodward St #6, Orlando, FL 32803"
     },
     {
-        "name": "YH Seafood Clubhouse",
-        "links": [
-          {
-            "name": "site",
-            "URL": "https://yhseafoodclubhouse.com/"
-          },
-          {
-            "name": "Tasty Chomps",
-            "URL": "https://tastychomps.com/2022/05/first-look-yh-seafood-clubhouse-orlando-dim-sum-and-chinese-cantonese-cuisine.html"
-          }
-        ],
-        "lat": 28.44766137657785,
-        "lon": -81.47571030383344,
-        "city": "Orlando",
-        "address": "8081 Turkey Lake Rd Ste 700 Orlando, FL 32819"
-      },
+      "name": "YH Seafood Clubhouse",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://yhseafoodclubhouse.com/"
+        },
+        {
+          "name": "Tasty Chomps",
+          "URL": "https://tastychomps.com/2022/05/first-look-yh-seafood-clubhouse-orlando-dim-sum-and-chinese-cantonese-cuisine.html"
+        }
+      ],
+      "lat": 28.44766137657785,
+      "lon": -81.47571030383344,
+      "city": "Orlando",
+      "address": "8081 Turkey Lake Rd Ste 700 Orlando, FL 32819"
+    },
     {
       "name": "China Pavilion",
       "links": [
