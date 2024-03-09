@@ -84,5 +84,31 @@
         "URL": "https://rasamalaysia.com/recipe-stir-fried-fish-fillet-with/"
       }
     ]
+  },
+  {
+    "word": {
+      "English": "steamed fish",
+      "Cantonese": {
+        "text": "清蒸魚",
+        "wkty": ["清蒸", "清", "蒸", "魚"]
+      },
+      "Yale": "chīng jīng yùh",
+      "Pinyin": "qīng zhēng yú",
+      "description": "{清蒸} means to cook with steam, ({清} is *clear* and {蒸} is *steam*), and {魚} is *fish*."
+    },
+    "images": [
+      {
+        "image": "steamedfish",
+        "place": ""
+      }
+    ],
+    "description": "Steamed whole fish, a classic Chinese New Year dish.",
+    "tags": ["蒸", "魚"],
+    "resources": [
+      {
+        "name": "Aunt Emily",
+        "URL": "https://auntieemily.com/chinese-steamed-fish/"
+      }
+    ]
   }
 ]
