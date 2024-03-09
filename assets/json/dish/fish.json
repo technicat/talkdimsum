@@ -102,13 +102,38 @@
         "place": ""
       }
     ],
-    "description": "Steamed whole fish, a classic Chinese New Year dish.",
-    "tags": ["蒸", "魚"],
+    "description": "Steamed whole fish with ginger and greens all drizzled in soy sauce is a classic Cantonese home-style dish, and also a banquet offering, and also a Chinese New Year staple.",
+    "tags": ["粵菜", "春節", "蒸", "魚"],
     "resources": [
       {
         "name": "Aunt Emily",
         "URL": "https://auntieemily.com/chinese-steamed-fish/"
+      },
+      {
+        "name": "Chef Chris Cho",
+        "URL": "https://chefchrischo.com/cantonese-steamed-fish/"
+      },
+      {
+        "name": "Rasa Malaysia",
+        "URL": "https://rasamalaysia.com/steamed-fish-recipe/"
+      },
+      {
+        "name": "Red House Spice",
+        "URL": "https://redhousespice.com/chinese-steamed-fish/"
+      },
+      {
+        "name": "Taste of the Place",
+        "URL": "https://tasteoftheplace.com/cantonesesteamedfish/"
+      },
+      {
+        "name": "Wok and Kin",
+        "URL": " https://www.wokandkin.com/chinese-steamed-fish-with-ginger-and-shallots/"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/cantonese-steamed-fish/"
       }
+     
     ]
   }
 ]
