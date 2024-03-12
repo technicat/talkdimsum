@@ -2,71 +2,6 @@
     "name": "Illinois",
     "places": [
         {
-            "name": "Cai",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/cai-chicago"
-                }
-            ],
-            "lat": 41.854540,
-            "lon": -87.632260,
-            "city": "Chicago",
-            "address": "2100 S Archer Ave Chicago, IL 60616"
-        },
-        {
-            "name": "Dolo Restaurant and Bar",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "http://www.dolorestaurant.com/#dolohome"
-                }
-            ],
-            "lat": 41.852554,
-            "lon": -87.636108,
-            "city": "Chicago",
-            "address": "2222 S Archer Ave Chicago, IL 60616"
-        },
-        {
-            "name": "MingHin Cuisine (Chinatown)",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://www.minghincuisine.com/"
-                }
-            ],
-            "lat": 41.853378,
-            "lon": -87.634750,
-            "city": "Chicago",
-            "address": "2168 S Archer Ave, Chicago, IL 60616"
-        },
-        {
-            "name": "Phoenix Restaurant",
-            "links": [
-                {
-                    "name": "site",
-                    "URL": "https://chinatownphoenix.carry-out.com/"
-                }
-            ],
-            "lat": 41.853520,
-            "lon": -87.632850,
-            "city": "Chicago",
-            "address": "2131 S Archer Ave Chicago, IL 60616"
-        },
-        {
-            "name": "Three Happiness",
-            "links": [
-                {
-                    "name": "Yelp",
-                    "URL": "https://www.yelp.com/biz/three-happiness-original-restaurant-chicago"
-                }
-            ],
-            "lat": 41.852600,
-            "lon": -87.632440,
-            "city": "Chicago",
-            "address": "209 W Cermak Rd Chicago, IL 60616"
-        },
-        {
             "name": "B.I. Tea and Dim Sum",
             "links": [
                 {
@@ -78,6 +13,19 @@
             "lon": -87.641140,
             "city": "Chicago",
             "address": "131 N Clinton St Chicago French Market Chicago, IL 60661"
+        },
+        {
+            "name": "Cai",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/cai-chicago"
+                }
+            ],
+            "lat": 41.854540,
+            "lon": -87.632260,
+            "city": "Chicago",
+            "address": "2100 S Archer Ave Chicago, IL 60616"
         },
         {
             "name": "Chiu Quon Bakery and Dim Sum",
@@ -119,6 +67,19 @@
             "address": "2820 S Wentworth Ave Chicago, IL 60616"
         },
         {
+            "name": "Dolo Restaurant and Bar",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.dolorestaurant.com/#dolohome"
+                }
+            ],
+            "lat": 41.852554,
+            "lon": -87.636108,
+            "city": "Chicago",
+            "address": "2222 S Archer Ave Chicago, IL 60616"
+        },
+        {
             "name": "Furama Restaurant",
             "links": [
                 {
@@ -132,7 +93,7 @@
             "address": "4936 N Broadway St Chicago, IL 60640"
         },
         {
-            "name": "MingHin Cuisine",
+            "name": "MingHin Cuisine (Lakeshore East)",
             "links": [
                 {
                     "name": "site",
@@ -143,6 +104,19 @@
             "lon": -87.618460,
             "city": "Chicago",
             "address": "333 E Benton Pl, Ste 300, Chicago, IL 60601"
+        },
+        {
+            "name": "MingHin Cuisine (South Loop)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.minghincuisine.com/"
+                }
+            ],
+            "lat": 41.866673756478455,
+            "lon":  -87.62431254549058,
+            "city": "Chicago",
+            "address": "1234 S Michigan Ave, Chicago, IL 60605"
         },
         {
             "name": "New Furama Restaurant",
@@ -158,6 +132,32 @@
             "address": "2828 S Wentworth Ave Chicago, IL 60616"
         },
         {
+            "name": "MingHin Cuisine (Chinatown)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.minghincuisine.com/"
+                }
+            ],
+            "lat": 41.853378,
+            "lon": -87.634750,
+            "city": "Chicago",
+            "address": "2168 S Archer Ave, Chicago, IL 60616"
+        },
+        {
+            "name": "Phoenix Restaurant",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://chinatownphoenix.carry-out.com/"
+                }
+            ],
+            "lat": 41.853520,
+            "lon": -87.632850,
+            "city": "Chicago",
+            "address": "2131 S Archer Ave Chicago, IL 60616"
+        },
+        {
             "name": "Silver Seafood Restaurant",
             "links": [
                 {
@@ -171,6 +171,19 @@
             "address": "4829 N Broadway St, Chicago, IL 60640"
         },
         {
+            "name": "Three Happiness",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/three-happiness-original-restaurant-chicago"
+                }
+            ],
+            "lat": 41.852600,
+            "lon": -87.632440,
+            "city": "Chicago",
+            "address": "209 W Cermak Rd Chicago, IL 60616"
+        },
+        {
             "name": "Triple Crown Restaurant",
             "links": [
                 {
@@ -182,6 +195,32 @@
             "lon": -87.631691,
             "city": "Chicago",
             "address": "2217 S Wentworth Ave Chicago, IL 60616"
+        },
+        {
+            "name": "Ying Dim Sum",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/ying-dim-sum-chicago"
+                }
+            ],
+            "lat": 41.85410227217971,
+            "lon": -87.64158147432728,
+            "city": "Chicago",
+            "address": "2105 S Jefferson St Chicago, IL 60616"
+        },
+        {
+            "name": "MingHin Cuisine (Naperville)",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.minghincuisine.com/"
+                }
+            ],
+            "lat": 41.80062592381409,
+            "lon": -88.1208138743299,
+            "city": "Naperville",
+            "address": "1633 N Naper Blvd Naperville, IL 60563"
         },
         {
             "name": "MingHin Cuisine",
