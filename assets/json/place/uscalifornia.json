@@ -2453,7 +2453,7 @@
       "address": "2601 Park Avenue, Tustin, CA 92782"
     },
     {
-      "name": "Creek House Dim Sum Restaurant",
+      "name": "Creek House Dim Sum",
       "links": [
         {
           "name": "site",
@@ -2464,6 +2464,19 @@
       "lon": -122.06193,
       "city": "Walnut Creek",
       "address": "1291 Parkside Dr, Walnut Creek, CA 94596"
+    },
+    {
+      "name": "Peony Garden",
+      "links": [
+        {
+          "name": "site",
+          "URL": "http://peonygardenrestaurant.com/"
+        }
+      ],
+      "lat": 37.891688309559996,
+      "lon": -122.05754913033545,
+      "city": "Walnut Creek",
+      "address": "1448 S Main St Walnut Creek, CA 94596"
     },
     {
       "name": "Sheng Hui Dim Sum",
