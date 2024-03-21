@@ -400,12 +400,37 @@
         {
           "name": "Dining on a Shoestring",
           "URL": "https://diningonashoestringinnyc.wordpress.com/2020/11/15/awesum-dim-sum-160-east-23rd-street-new-york-city-ny-10010/"
+        },
+        {
+          "name": "Timeout",
+          "URL": "https://www.timeout.com/newyork/news/times-square-is-getting-a-late-night-dim-sum-spot-102021"
         }
       ],
       "lat": 40.73885,
       "lon": -73.983643,
       "city": "New York",
       "address": "160 E 23rd St  New York, NY 10010"
+    },
+    {
+      "name": "Awesome Dim Sum (Times Square)",
+      "links": [
+        {
+          "name": "site",
+          "URL": "http://www.awesumdimsum.us/"
+        },
+        {
+          "name": "Dining on a Shoestring",
+          "URL": "https://diningonashoestringinnyc.wordpress.com/2020/11/15/awesum-dim-sum-160-east-23rd-street-new-york-city-ny-10010/"
+        },
+        {
+          "name": "Timeout",
+          "URL": "https://www.timeout.com/newyork/news/times-square-is-getting-a-late-night-dim-sum-spot-102021"
+        }
+      ],
+      "lat": 40.755767986186996,
+      "lon":  -73.99062903205326,
+      "city": "New York",
+      "address": "612 8th Ave New York, NY 10018"
     },
     {
       "name": "Buddha Bodai",
@@ -588,17 +613,47 @@
       "address": "123 William Street, New York, NY 10038"
     },
     {
-      "name": "Dim Sum Sam",
+      "name": "Dim Sum Sam (FlatIron)",
       "links": [
         {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/dim-sum-sam-new-york"
+          "name": "site",
+          "URL": "https://dimsumsam.us/"
+        },
+        {
+          "name": "Timeout",
+          "URL": "https://www.timeout.com/newyork/restaurants/dim-sum-sam"
         }
       ],
       "lat": 40.74054,
       "lon": -73.98787,
       "city": "New York",
       "address": "28 E 23rd St New York, NY 10010"
+    },
+    {
+      "name": "Dim Sum Sam",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://dimsumsam.us/"
+        }
+      ],
+      "lat": 40.755486103982584,
+      "lon": -73.98954991670901,
+      "city": "New York",
+      "address": "240 W 40th St, New York NY 10018"
+    },
+    {
+      "name": "Dim Sum Sam (Financial District)",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://dimsumsam.us/"
+        }
+      ],
+      "lat": 40.70968562234683,
+      "lon": -74.00730603205545,
+      "city": "New York",
+      "address": "123 William Stre, New York, NY 10038"
     },
     {
       "name": "Dynasty Dim Sum",
@@ -658,6 +713,10 @@
         {
           "name": "site",
           "URL": "https://houseofjoynyc.com/"
+        },
+        {
+          "name": "TimeOut",
+          "URL": "https://www.timeout.com/newyork/restaurants/house-of-joy"
         }
       ],
       "lat": 40.71489,
@@ -778,6 +837,10 @@
         {
           "name": "site",
           "URL": "https://www.redfarmnyc.com/location/west-village/"
+        },
+        {
+          "name": "Timeout",
+          "URL": "https://www.timeout.com/newyork/restaurants/redfarm"
         }
       ],
       "lat": 40.73440351300079,
