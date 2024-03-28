@@ -259,5 +259,63 @@
         "URL": "https://thewoksoflife.com/homemade-chinese-salted-pork/"
       }
     ]
+  },
+  {
+    "word": {
+      "English": "pipa tofu",
+      "Cantonese": {
+        "text": "琵琶豆腐",
+        "wkty": ["琵琶", "琵", "琶", "豆腐", "豆", "腐"]
+      },
+      "Yale": "pèih pàh dauh fuh",
+      "Pinyin": "pí pa dòu fǔ",
+      "description": "{琵琶} is the (phonetic) name of a Chinese lute,  and {豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu), so 琵琶豆腐 is *lute tofu*."
+    },
+    "images": [
+      {
+        "image": "pipatofuredmaple",
+        "place": "Red Maple, Taylorsville, Utah"
+      }
+    ],
+    "description": "Deep-fried oblong balls of of paste made with [tofu](https://en.wikipedia.org/wiki/Tofu) and shrimp, shaped like the Chinese lute for which it is named.",
+    "tags": ["新菜", "炸", "豆腐"],
+    "resources": [
+      {
+        "name": "Darwin Discovered",
+        "URL": "http://darwindiscovered.com/recipe-pipa-tofu-fried-tofu-shrimp-balls/"
+      },
+      {
+        "name": "Home Cooked Tales",
+        "URL": "https://homecookedtales.com/pipa-tofu-pi-pa-dou-fu/"
+      },
+      {
+        "name": "It's Liz Miu",
+        "URL": "https://itslizmiu.com/recipes/vegan-peipa-tofu-chinese-fried-tofu-ballls/"
+      },
+      {
+        "name": "Lee Kum Kee",
+        "URL": "https://uk.lkk.com/recipes/pei-pa-tofu"
+      },
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/pipa-tofu"
+      },
+      {
+        "name": "Ms. I-Hua",
+        "URL": "https://msihua.com/2012/05/fried-pipa-tofu-recipe-a-chinese-comfort-food/"
+      },
+      {
+        "name": "Taste Topics",
+        "URL": "https://tastetopics.com/luscious-crispy-tofu-with-mushrooms/"
+      },
+      {
+        "name": "What to Make Today",
+        "URL": "https://www.madewithlau.com/recipes/pipa-tofu"
+      },
+      {
+        "name": "Your Asian Sisters",
+        "URL": "https://yourasiansisters.com/pipa-tofu/"
+      }
+    ]
   }
 ]
