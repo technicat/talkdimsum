@@ -100,12 +100,12 @@
       "name": "Chef Tony",
       "links": [
         {
-          "name": "Eater LA",
-          "URL": "https://la.eater.com/2021/9/22/22688701/chef-tony-arcadia-dim-sum-restaurant-opening"
+          "name": "site",
+          "URL": "https://www.cheftonydimsum.com/"
         },
         {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/chef-tony-dim-sum-arcadia"
+          "name": "Eater LA",
+          "URL": "https://la.eater.com/2021/9/22/22688701/chef-tony-arcadia-dim-sum-restaurant-opening"
         }
       ],
       "lat": 34.12752299295816,
@@ -132,10 +132,6 @@
         {
           "name": "site",
           "URL": "https://www.samwoocafe.com/"
-        },
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/sam-woo-cafe-artesia"
         }
       ],
       "lat": 33.8574537540247,
@@ -155,23 +151,6 @@
       "lon": -118.08242,
       "city": "Artesia",
       "address": "18329 S Pioneer Blvd, Artesia, CA 90701"
-    },
-    {
-      "name": "Phoenix Café",
-      "links": [
-        {
-          "name": "site",
-          "URL": "https://www.thebike.com/dine/phoenix_cafe.php"
-        },
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/phoenix-caf%C3%A9-bell-gardens-5"
-        }
-      ],
-      "lat": 33.97325,
-      "lon": -118.20236,
-      "city": "Bell Gardens",
-      "address": "888 Bicycle Casino Dr, Bell Gardens, CA 90201"
     },
     {
       "name": "Dumpling Express",
@@ -235,10 +214,6 @@
         {
           "name": "site",
           "URL": "https://www.hlpeninsula.com/"
-        },
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/hl-peninsula-pearl-burlingame-4"
         }
       ],
       "lat": 37.5995,
@@ -252,10 +227,6 @@
         {
           "name": "site",
           "URL": "http://www.pekinginnrestaurant.com/"
-        },
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/peking-inn-restaurant-camarillo"
         }
       ],
       "lat": 34.21961,
@@ -881,6 +852,19 @@
       "lon": -118.13296,
       "city": "Monterey Park",
       "address": "727 W Garvey Ave, Monterey Park, CA 91754"
+    },
+    {
+      "name": "Chef Tony",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.cheftonydimsum.com/"
+        }
+      ],
+      "lat": 34.068398309589185,
+      "lon": -118.13470273235484,
+      "city": "Monterey Park",
+      "address": "555 N Atlantic Blvd Monterey Park, CA 91754"
     },
     {
       "name": "Dim Sum Express",
