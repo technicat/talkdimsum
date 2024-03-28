@@ -354,6 +354,19 @@
       "address": "950 King Dr Ste 100 King Plaza Shopping Ctr Daly City, CA 94015"
     },
     {
+      "name": "Yang Kee Dumpling",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.yangkeedumpling.com/"
+        }
+      ],
+      "lat": 38.542360494237705,
+      "lon": -121.7252770475024,
+      "city": "Davis",
+      "address": "2151 Cowell Blvd C Davis, CA 95618"
+    },
+    {
       "name": "Tasty Box Bistro",
       "links": [
         {
@@ -1199,7 +1212,20 @@
       "lat": 38.75115,
       "lon": -121.25123,
       "city": "Roseville",
-      "address": "1500 Eureka Rd  Roseville, CA 95661"
+      "address": "1500 Eureka Rd, Roseville, CA 95661"
+    },
+    {
+      "name": "Yang Kee Dumpling",
+      "links": [
+        {
+          "name": "site",
+          "URL": "https://www.yangkeedumpling.com/"
+        }
+      ],
+      "lat": 38.75236741343998,
+      "lon": -121.25251958982054,
+      "city": "Roseville",
+      "address": "1470 Eureka Rd, Roseville, CA 95661"
     },
     {
       "name": "All That 'N Dim Sum",
