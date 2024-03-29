@@ -634,7 +634,7 @@
         "place": "BBQ Chicken, Las Vegas, Nevada"
       }
     ],
-    "description": "A Korean dish, [kimchi fried rice](https://en.wikipedia.org/wiki/Kimchi_fried_rice) is fried rice made with kimchi and typically a meat like pork or spam, often served with a fried egg on top.",
+    "description": "A Korean dish, [kimchi fried rice](https://en.wikipedia.org/wiki/Kimchi_fried_rice) is fried rice made with [kimchi](https://en.wikipedia.org/wiki/Kimchi), and typically a meat like pork or spam, often served with a fried egg on top.",
     "resources": [
       {
         "name": "Korean Bapsang",
@@ -653,6 +653,6 @@
         "URL": "https://en.wikipedia.org/wiki/Kimchi_fried_rice"
       }
     ],
-    "tags": ["泡菜", "炒飯", "炒", "飯"]
+    "tags": ["新菜", "泡菜", "炒飯", "炒", "飯"]
   }
 ]
