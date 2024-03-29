@@ -654,5 +654,47 @@
       }
     ],
     "tags": ["新菜", "泡菜", "炒飯", "炒", "飯"]
+  },
+  {
+    "word": {
+      "English": "kimchi spam fried rice",
+      "Cantonese": {
+        "text": "午餐肉泡菜炒飯",
+        "wkty": ["午餐肉", "午餐", "午", "餐", "肉", "泡菜", "泡", "菜", "炒飯", "炒", "飯"]
+      },
+      "Yale": "ńgh chāan yuhk paau choi cháau faahn",
+      "Simplified": {
+        "text": "午餐肉泡菜炒饭",
+        "wkty": ["午餐肉", "午餐", "午", "餐", "肉", "泡菜", "泡", "菜", "炒饭", "炒", "饭"]
+      },
+      "Pinyin": "wǔ cān ròu pào cài chǎo fàn",
+      "description": "{午餐} is *lunch*, and {肉} is *meat*, so {午餐肉} is *lunch meat*, {泡菜} is [kimchi](https://en.wikipedia.org/wiki/Kimchi), and {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice), so 午餐肉泡菜炒飯 is [lunch meat kimchi fried rice](https://en.wikipedia.org/wiki/Kimchi_fried_rice)."
+    },
+    "images": [
+      {
+        "image": "kimchispamfriedricenoodlenest",
+        "place": "Noodle Nest, Las Vegas, Nevada"
+      }
+    ],
+    "description": "[kimchi fried rice](https://en.wikipedia.org/wiki/Kimchi_fried_rice) with bits of spam.",
+    "resources": [
+      {
+        "name": "Korean Bapsang",
+        "URL": "https://www.koreanbapsang.com/kimchi-fried-rice-kimchi-bokkeum-bap/"
+      },
+      {
+        "name": "Maangchi",
+        "URL": "https://www.maangchi.com/recipe/kimchi-bokkeumbap"
+      },
+      {
+        "name": "My Korean Kitchen",
+        "URL": "https://mykoreankitchen.com/kimchi-fried-rice/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Kimchi_fried_rice"
+      }
+    ],
+    "tags": ["新菜", "午餐肉", "泡菜", "炒飯", "炒", "飯"]
   }
 ]
