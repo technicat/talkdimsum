@@ -612,5 +612,47 @@
       }
     ],
     "tags": ["炒飯", "炒", "飯"]
+  },
+  {
+    "word": {
+      "English": "kimchi fried rice",
+      "Cantonese": {
+        "text": "泡菜炒飯",
+        "wkty": [ "泡菜", "泡", "菜", "炒飯", "炒", "飯"]
+      },
+      "Yale": "paau choi cháau faahn",
+      "Simplified": {
+        "text": "泡菜炒饭",
+        "wkty": ["泡菜", "泡", "菜", "炒饭", "炒", "饭"]
+      },
+      "Pinyin": "pào cài chǎo fàn",
+      "description": "{泡菜} is [kimchi](https://en.wikipedia.org/wiki/Kimchi), and {炒飯} is [fried rice](https://en.wikipedia.org/wiki/Chinese_fried_rice), so 泡菜炒飯 is [kimchi fried rice](https://en.wikipedia.org/wiki/Kimchi_fried_rice)."
+    },
+    "images": [
+      {
+        "image": "kimchifriedricebbqchicken",
+        "place": "BBQ Chicken, Las Vegas, Nevada"
+      }
+    ],
+    "description": "A Korean dish, [kimchi fried rice](https://en.wikipedia.org/wiki/Kimchi_fried_rice) is fried rice made with kimchi and typically a meat like pork or spam, often served with a fried egg on top.",
+    "resources": [
+      {
+        "name": "Korean Bapsang",
+        "URL": "https://www.koreanbapsang.com/kimchi-fried-rice-kimchi-bokkeum-bap/"
+      },
+      {
+        "name": "Maangchi",
+        "URL": "https://www.maangchi.com/recipe/kimchi-bokkeumbap"
+      },
+      {
+        "name": "My Korean Kitchen",
+        "URL": "https://mykoreankitchen.com/kimchi-fried-rice/"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Kimchi_fried_rice"
+      }
+    ],
+    "tags": ["泡菜", "炒飯", "炒", "飯"]
   }
 ]
