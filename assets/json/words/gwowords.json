@@ -1,54 +1,36 @@
 [
-    {
-        "English": "fruit",
-        "Cantonese": {
-            "text": "水果",
-            "wkty": [
-                "水果",
-                "水",
-                "果"
-            ]
-        },
-        "Yale": "séui gwó",
-        "Jyutping": "seoi2 gwo2",
-        "Pinyin": "shuǐ guǒ"
+  {
+    "English": "fruit",
+    "Cantonese": {
+      "text": "水果",
+      "wkty": ["水果", "水", "果"]
     },
-    {
-        "English": "cashew",
-        "Cantonese": {
-            "text": "腰果",
-            "wkty": [
-                "腰果",
-                "腰",
-                "果"
-            ]
-        },
-        "Yale": "yīu gwó",
-        "Jyutping": "jiu1 gwo2",
-        "Pinyin": "yāo guǒ"
+    "Yale": "séui gwó",
+    "Jyutping": "seoi2 gwo2",
+    "Pinyin": "shuǐ guǒ"
+  },
+  {
+    "English": "cashew",
+    "Cantonese": {
+      "text": "腰果",
+      "wkty": ["腰果", "腰", "果"]
     },
-    {
-        "English": "fig",
-        "Cantonese": {
-            "text": "無花果",
-            "wkty": [
-                "無花果",
-                "無",
-                "花",
-                "果"
-            ]
-        },
-        "Yale": "mòuh fā gwó",
-        "Jyutping": "mou4 faa1 gwo2",
-        "Simplified": {
-            "text": "无花果",
-            "wkty": [
-                "无花果",
-                "无",
-                "花",
-                "果"
-            ]
-        },
-        "Pinyin": "wú huā guǒ"
-    }
+    "Yale": "yīu gwó",
+    "Jyutping": "jiu1 gwo2",
+    "Pinyin": "yāo guǒ"
+  },
+  {
+    "English": "fig",
+    "Cantonese": {
+      "text": "無花果",
+      "wkty": ["無花果", "無", "花", "果"]
+    },
+    "Yale": "mòuh fā gwó",
+    "Jyutping": "mou4 faa1 gwo2",
+    "Simplified": {
+      "text": "无花果",
+      "wkty": ["无花果", "无", "花", "果"]
+    },
+    "Pinyin": "wú huā guǒ"
+  }
 ]

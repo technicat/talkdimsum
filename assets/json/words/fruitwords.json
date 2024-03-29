@@ -1,171 +1,135 @@
 [
-    {
-        "English": "citrus peel",
-        "Cantonese": {
-            "text": "陳皮",
-            "wkty": [
-                "陳皮",
-                "陳",
-                "皮"
-            ]
-        },
-        "Yale": "chàhn pèih",
-        "Simplified": {
-            "text": "陈皮",
-            "wkty": [
-                "陈皮",
-                "陈",
-                "皮"
-            ]
-        },
-        "Pinyin": "chén pí"
+  {
+    "English": "citrus peel",
+    "Cantonese": {
+      "text": "陳皮",
+      "wkty": ["陳皮", "陳", "皮"]
     },
-    {
-        "English": "lemon",
-        "Cantonese": {
-            "text": "檸檬",
-            "wkty": [
-                "檸檬",
-                "檸",
-                "檬"
-            ]
-        },
-        "Yale": "nìhng mūng",
-        "Jyutping": "ning4 mung1",
-        "Pinyin": "níng méng",
-        "Simplified": {
-            "text": "柠檬",
-            "wkty": [
-                "柠檬",
-                "柠",
-                "檬"
-            ]
-        }
+    "Yale": "chàhn pèih",
+    "Simplified": {
+      "text": "陈皮",
+      "wkty": ["陈皮", "陈", "皮"]
     },
-    {
-        "Cantonese": "香蕉",
-        "English": "banana",
-        "Yale": "hēung jīu",
-        "Jyutping": "heong1 ziu1",
-        "Pinyin": "xiāng jiāo"
+    "Pinyin": "chén pí"
+  },
+  {
+    "English": "lemon",
+    "Cantonese": {
+      "text": "檸檬",
+      "wkty": ["檸檬", "檸", "檬"]
     },
-    {
-        "English": "grapes",
-        "Cantonese": {
-            "text": "提子",
-            "wkty": [
-                "提子",
-                "提",
-                "子"
-            ]
-        },
-        "Yale": "tàih ji",
-        "Jyutping": "tai4 zi2",
-        "Pinyin": "tí zǐ"
-    },
-    {
-        "Cantonese": "車釐子",
-        "Simplified": "车厘子",
-        "English": "cherry",
-        "Yale": "chē lèih jí",
-        "Jyutping": "ce lei4 zi2",
-        "Pinyin": "chē lí zi"
-    },
-    {
-        "Cantonese": "西柚",
-        "English": "grapefruit",
-        "Yale": "sāi yàu",
-        "Jyutping": "sai2 jau4",
-        "Pinyin": "xī yòu"
-    },
-    {
-        "Cantonese": "青檸",
-        "Simplified": "青柠",
-        "English": "lime",
-        "Yale": "chēng nìng",
-        "Jyutping": "ceng1 ning2",
-        "Pinyin": "qīng níng"
-    },
-    {
-        "Cantonese": "龍眼",
-        "Simplified": "龙眼",
-        "English": "longan",
-        "Yale": "lùhng ngáan",
-        "Jyutping": "lung4 ngaan5",
-        "Pinyin": "lóng yǎn"
-    },
-    {
-        "English": "lychee",
-        "Cantonese": {
-            "text": "荔枝",
-            "wkty": [
-                "荔枝",
-                "荔",
-                "枝"
-            ]
-        },
-        "Yale": "laih jī",
-        "Pinyin": "lì zhī"
-    },
-    {
-        "English": "peach",
-        "Cantonese": "桃",
-        "Yale": "tòuh",
-        "Jyutping": "tou4",
-        "Pinyin": "táo"
-    },
-    {
-        "English": "pear",
-        "Cantonese": "梨",
-        "Yale": "lèih",
-        "Jyutping": "lei4",
-        "Pinyin": "lí"
-    },
-    {
-        "English": "plum",
-        "Cantonese": "李",
-        "Yale": "léih",
-        "Jyutping": "lei5",
-        "Pinyin": "lǐ"
-    },
-    {
-        "English": "strawberry",
-        "Cantonese": {
-            "text": "士多啤梨",
-            "wkty": [
-                "士多啤梨",
-                "士",
-                "多",
-                "啤梨",
-                "啤",
-                "梨"
-            ]
-        },
-        "Mandarin": "草莓",
-        "Yale": "sih dō bē léi",
-        "Jyutping": "si6 do1 be1 lei2",
-        "Pinyin": "cǎo mé"
-    },
-    {
-        "English": "tangerine",
-        "Cantonese": "柑",
-        "Yale": "gām",
-        "Jyutping": "gam1",
-        "Pinyin": "gān"
-    },
-    {
-        "English": "yuzu",
-        "Cantonese": {
-            "text": "柚子",
-            "wkty": [
-                "柚子",
-                "柚",
-                "子",
-                "茶"
-            ]
-        },
-        "Yale": "yáu jí",
-        "Pinyin": "yòu zi",
-        "description": "{柚子} is [yuzu](https://en.wikipedia.org/wiki/Yuzu) and also refers to [pomelo](https://en.wikipedia.org/wiki/Pomelo), a fruit which resembles a large grapefruit."
+    "Yale": "nìhng mūng",
+    "Jyutping": "ning4 mung1",
+    "Pinyin": "níng méng",
+    "Simplified": {
+      "text": "柠檬",
+      "wkty": ["柠檬", "柠", "檬"]
     }
+  },
+  {
+    "Cantonese": "香蕉",
+    "English": "banana",
+    "Yale": "hēung jīu",
+    "Jyutping": "heong1 ziu1",
+    "Pinyin": "xiāng jiāo"
+  },
+  {
+    "English": "grapes",
+    "Cantonese": {
+      "text": "提子",
+      "wkty": ["提子", "提", "子"]
+    },
+    "Yale": "tàih ji",
+    "Jyutping": "tai4 zi2",
+    "Pinyin": "tí zǐ"
+  },
+  {
+    "Cantonese": "車釐子",
+    "Simplified": "车厘子",
+    "English": "cherry",
+    "Yale": "chē lèih jí",
+    "Jyutping": "ce lei4 zi2",
+    "Pinyin": "chē lí zi"
+  },
+  {
+    "Cantonese": "西柚",
+    "English": "grapefruit",
+    "Yale": "sāi yàu",
+    "Jyutping": "sai2 jau4",
+    "Pinyin": "xī yòu"
+  },
+  {
+    "Cantonese": "青檸",
+    "Simplified": "青柠",
+    "English": "lime",
+    "Yale": "chēng nìng",
+    "Jyutping": "ceng1 ning2",
+    "Pinyin": "qīng níng"
+  },
+  {
+    "Cantonese": "龍眼",
+    "Simplified": "龙眼",
+    "English": "longan",
+    "Yale": "lùhng ngáan",
+    "Jyutping": "lung4 ngaan5",
+    "Pinyin": "lóng yǎn"
+  },
+  {
+    "English": "lychee",
+    "Cantonese": {
+      "text": "荔枝",
+      "wkty": ["荔枝", "荔", "枝"]
+    },
+    "Yale": "laih jī",
+    "Pinyin": "lì zhī"
+  },
+  {
+    "English": "peach",
+    "Cantonese": "桃",
+    "Yale": "tòuh",
+    "Jyutping": "tou4",
+    "Pinyin": "táo"
+  },
+  {
+    "English": "pear",
+    "Cantonese": "梨",
+    "Yale": "lèih",
+    "Jyutping": "lei4",
+    "Pinyin": "lí"
+  },
+  {
+    "English": "plum",
+    "Cantonese": "李",
+    "Yale": "léih",
+    "Jyutping": "lei5",
+    "Pinyin": "lǐ"
+  },
+  {
+    "English": "strawberry",
+    "Cantonese": {
+      "text": "士多啤梨",
+      "wkty": ["士多啤梨", "士", "多", "啤梨", "啤", "梨"]
+    },
+    "Mandarin": "草莓",
+    "Yale": "sih dō bē léi",
+    "Jyutping": "si6 do1 be1 lei2",
+    "Pinyin": "cǎo mé"
+  },
+  {
+    "English": "tangerine",
+    "Cantonese": "柑",
+    "Yale": "gām",
+    "Jyutping": "gam1",
+    "Pinyin": "gān"
+  },
+  {
+    "English": "yuzu",
+    "Cantonese": {
+      "text": "柚子",
+      "wkty": ["柚子", "柚", "子", "茶"]
+    },
+    "Yale": "yáu jí",
+    "Pinyin": "yòu zi",
+    "description": "{柚子} is [yuzu](https://en.wikipedia.org/wiki/Yuzu) and also refers to [pomelo](https://en.wikipedia.org/wiki/Pomelo), a fruit which resembles a large grapefruit."
+  }
 ]

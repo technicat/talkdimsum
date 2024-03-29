@@ -1,54 +1,48 @@
 [
-    {
-        "Cantonese": "瓜",
-        "English": "melon",
-        "Yale": "gwā",
-        "Jyutping": "gwaa1",
-        "Pinyin": "guā"
+  {
+    "Cantonese": "瓜",
+    "English": "melon",
+    "Yale": "gwā",
+    "Jyutping": "gwaa1",
+    "Pinyin": "guā"
+  },
+  {
+    "Cantonese": "黃瓜",
+    "Simplified": "黃瓜",
+    "English": "cucumber",
+    "Yale": "wòhng gwā",
+    "Jyutping": "wong4 gwaa1",
+    "Pinyin": "huáng guā"
+  },
+  {
+    "Cantonese": "蜜瓜",
+    "English": "honeydew melon",
+    "Yale": "maht gwā",
+    "Jyutping": "mat6 gwaa1",
+    "Pinyin": "mì guā"
+  },
+  {
+    "Cantonese": {
+      "text": "哈蜜瓜",
+      "wkty": ["哈密​​瓜", "哈密​​", "哈​​", "密​​", "​​瓜"]
     },
-    {
-        "Cantonese": "黃瓜",
-        "Simplified": "黃瓜",
-        "English": "cucumber",
-        "Yale": "wòhng gwā",
-        "Jyutping": "wong4 gwaa1",
-        "Pinyin": "huáng guā"
-    },
-    {
-        "Cantonese": "蜜瓜",
-        "English": "honeydew melon",
-        "Yale": "maht gwā",
-        "Jyutping": "mat6 gwaa1",
-        "Pinyin": "mì guā"
-    },
-    {
-        "Cantonese": {
-            "text": "哈蜜瓜",
-            "wkty": [
-                "哈密​​瓜",
-                "哈密​​",
-                "哈​​",
-                "密​​",
-                "​​瓜"
-            ]
-        },
-        "English": "cantaloupe",
-        "Yale": "hā maht gwā",
-        "Jyutping": "haa1 mat6 gwaa1",
-        "Pinyin": "hā mì guā"
-    },
-    {
-        "Cantonese": "木瓜",
-        "English": "papaya",
-        "Yale": "muhk gwā",
-        "Jyutping": "muk6 gwaa1",
-        "Pinyin": "mù guā"
-    },
-    {
-        "Cantonese": "西瓜",
-        "English": "watermelon",
-        "Yale": "sāi gwā",
-        "Jyutping": "sai1 gwaa1",
-        "Pinyin": "xī guā"
-    }
+    "English": "cantaloupe",
+    "Yale": "hā maht gwā",
+    "Jyutping": "haa1 mat6 gwaa1",
+    "Pinyin": "hā mì guā"
+  },
+  {
+    "Cantonese": "木瓜",
+    "English": "papaya",
+    "Yale": "muhk gwā",
+    "Jyutping": "muk6 gwaa1",
+    "Pinyin": "mù guā"
+  },
+  {
+    "Cantonese": "西瓜",
+    "English": "watermelon",
+    "Yale": "sāi gwā",
+    "Jyutping": "sai1 gwaa1",
+    "Pinyin": "xī guā"
+  }
 ]

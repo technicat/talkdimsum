@@ -1,125 +1,83 @@
 [
-    {
-        "English": "edamame",
-        "Cantonese": {
-            "text": "毛豆",
-            "wkty": [
-                "毛豆",
-                "毛",
-                "豆"
-            ]
-        },
-        "Yale": "mòuh dáu",
-        "Pinyin": "máo dòu"
+  {
+    "English": "edamame",
+    "Cantonese": {
+      "text": "毛豆",
+      "wkty": ["毛豆", "毛", "豆"]
     },
-    {
-        "English": "tofu ribbon",
-        "Cantonese": {
-            "text": "百葉",
-            "wkty": [
-                "百葉",
-                "百",
-                "葉"
-            ]
-        },
-        "Yale": "baak yihp",
-        "Simplified": {
-            "text": "百叶",
-            "wkty": [
-                "百叶",
-                "百",
-                "叶"
-            ]
-        },
-        "Pinyin": "bǎi yè"
+    "Yale": "mòuh dáu",
+    "Pinyin": "máo dòu"
+  },
+  {
+    "English": "tofu ribbon",
+    "Cantonese": {
+      "text": "百葉",
+      "wkty": ["百葉", "百", "葉"]
     },
-    {
-        "English": "tofu skin",
-        "Cantonese": {
-            "text": "腐皮",
-            "wkty": [
-                "腐皮",
-                "腐",
-                "皮"
-            ]
-        },
-        "Yale": "dauh fuh pèih",
-        "Pinyin": "dòu fǔ pí",
-        "description": "{腐皮} is short for {豆腐皮}, which is literally [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) ({豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu) and {皮} is skin)."
+    "Yale": "baak yihp",
+    "Simplified": {
+      "text": "百叶",
+      "wkty": ["百叶", "百", "叶"]
     },
-    {
-        "English": "lotus seed paste",
-        "Cantonese": {
-            "text": "蓮蓉",
-            "wkty": [
-                "蓮蓉",
-                "蓮",
-                "蓉"
-            ]
-        },
-        "Yale": "lìhn yùhng",
-        "Simplified": {
-            "text": "莲蓉",
-            "wkty": [
-                "莲蓉",
-                "莲",
-                "蓉"
-            ]
-        },
-        "Pinyin": "lián róng"
+    "Pinyin": "bǎi yè"
+  },
+  {
+    "English": "tofu skin",
+    "Cantonese": {
+      "text": "腐皮",
+      "wkty": ["腐皮", "腐", "皮"]
     },
-    {
-        "English": "pea shoot",
-        "Cantonese": {
-            "text": "豆苗",
-            "wkty": [
-                "豆苗",
-                "豆",
-                "苗"
-            ]
-        },
-        "Yale": "dauh mìuh",
-        "Pinyin": "dòu miáo"
+    "Yale": "dauh fuh pèih",
+    "Pinyin": "dòu fǔ pí",
+    "description": "{腐皮} is short for {豆腐皮}, which is literally [tofu skin](https://en.wikipedia.org/wiki/Tofu_skin) ({豆腐} is [tofu](https://en.wikipedia.org/wiki/Tofu) and {皮} is skin)."
+  },
+  {
+    "English": "lotus seed paste",
+    "Cantonese": {
+      "text": "蓮蓉",
+      "wkty": ["蓮蓉", "蓮", "蓉"]
     },
-    {
-        "English": "red bean paste",
-        "Cantonese": {
-            "text": "豆沙",
-            "wkty": [
-                "豆沙",
-                "豆",
-                "沙"
-            ]
-        },
-        "Yale": "dauh sā",
-        "Pinyin": "dòu shā"
+    "Yale": "lìhn yùhng",
+    "Simplified": {
+      "text": "莲蓉",
+      "wkty": ["莲蓉", "莲", "蓉"]
     },
-    {
-        "English": "mung bean",
-        "Cantonese": {
-            "text": "綠豆",
-            "wkty": [
-                "綠豆",
-                "綠",
-                "豆"
-            ]
-        },
-        "Yale": "luhk dauh",
-        "Pinyin": "lǜ dòu"
+    "Pinyin": "lián róng"
+  },
+  {
+    "English": "pea shoot",
+    "Cantonese": {
+      "text": "豆苗",
+      "wkty": ["豆苗", "豆", "苗"]
     },
-    {
-        "English": "string beans",
-        "Cantonese": {
-            "text": "四季豆",
-            "wkty": [
-                "四季豆",
-                "四季",
-                "四",
-                "季",
-                "豆"
-            ]
-        },
-        "Yale": "sei gwai dáu",
-        "Pinyin": "sì jì dòu"
-    }
+    "Yale": "dauh mìuh",
+    "Pinyin": "dòu miáo"
+  },
+  {
+    "English": "red bean paste",
+    "Cantonese": {
+      "text": "豆沙",
+      "wkty": ["豆沙", "豆", "沙"]
+    },
+    "Yale": "dauh sā",
+    "Pinyin": "dòu shā"
+  },
+  {
+    "English": "mung bean",
+    "Cantonese": {
+      "text": "綠豆",
+      "wkty": ["綠豆", "綠", "豆"]
+    },
+    "Yale": "luhk dauh",
+    "Pinyin": "lǜ dòu"
+  },
+  {
+    "English": "string beans",
+    "Cantonese": {
+      "text": "四季豆",
+      "wkty": ["四季豆", "四季", "四", "季", "豆"]
+    },
+    "Yale": "sei gwai dáu",
+    "Pinyin": "sì jì dòu"
+  }
 ]

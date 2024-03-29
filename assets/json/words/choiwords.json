@@ -1,138 +1,98 @@
 [
-    {
-        "English": "vegetable",
-        "Cantonese": "菜",
-        "Yale": "choi",
-        "Jyutping": "coi3",
-        "Pinyin": "cài"
+  {
+    "English": "vegetable",
+    "Cantonese": "菜",
+    "Yale": "choi",
+    "Jyutping": "coi3",
+    "Pinyin": "cài"
+  },
+  {
+    "English": "mustard greens",
+    "Cantonese": {
+      "text": "冬菜",
+      "wkty": ["冬菜", "冬", "菜"]
     },
-    {
-        "English": "mustard greens",
-        "Cantonese": {
-            "text": "冬菜",
-            "wkty": [
-                "冬菜",
-                "冬",
-                "菜"
-            ]
-        },
-        "Yale": "dūng choi",
-        "Pinyin": "dōng cài"
+    "Yale": "dūng choi",
+    "Pinyin": "dōng cài"
+  },
+  {
+    "English": "pickled mustard greens",
+    "Cantonese": {
+      "text": "酸菜",
+      "wkty": ["酸菜", "冬", "菜"]
     },
-    {
-        "English": "pickled mustard greens",
-        "Cantonese": {
-            "text": "酸菜",
-            "wkty": [
-                "酸菜",
-                "冬",
-                "菜"
-            ]
-        },
-        "Yale": "syūn choi",
-        "Pinyin": "suān cài"
+    "Yale": "syūn choi",
+    "Pinyin": "suān cài"
+  },
+  {
+    "English": "chives",
+    "Cantonese": {
+      "text": "韭菜",
+      "wkty": ["韭菜", "韭", "菜"]
     },
-    {
-        "English": "chives",
-        "Cantonese": {
-            "text": "韭菜",
-            "wkty": [
-                "韭菜",
-                "韭",
-                "菜"
-            ]
-        },
-        "Yale": "gáu choi",
-        "Jyutping": "zyu2 coi3",
-        "Pinyin": "jiǔ cài"
+    "Yale": "gáu choi",
+    "Jyutping": "zyu2 coi3",
+    "Pinyin": "jiǔ cài"
+  },
+  {
+    "English": "lettuce",
+    "Cantonese": {
+      "text": "生菜",
+      "wkty": ["生菜", "生", "菜"]
     },
-    {
-        "English": "lettuce",
-        "Cantonese": {
-            "text": "生菜",
-            "wkty": [
-                "生菜",
-                "生",
-                "菜"
-            ]
-        },
-        "Yale": "sāang choi",
-        "Jyutping": "saang1 coi3",
-        "Pinyin": "shēng cài"
+    "Yale": "sāang choi",
+    "Jyutping": "saang1 coi3",
+    "Pinyin": "shēng cài"
+  },
+  {
+    "English": "ong choy",
+    "Cantonese": {
+      "text": "蕹菜",
+      "wkty": ["蕹菜", "蕹", "菜"]
     },
-    {
-        "English": "ong choy",
-        "Cantonese": {
-            "text": "蕹菜",
-            "wkty": [
-                "蕹菜",
-                "蕹",
-                "菜"
-            ]
-        },
-        "Yale": "ung choi",
-        "Jyutping": "ung3 coi3",
-        "Pinyin": "wèng cài"
+    "Yale": "ung choi",
+    "Jyutping": "ung3 coi3",
+    "Pinyin": "wèng cài"
+  },
+  {
+    "English": "spinach",
+    "Cantonese": {
+      "text": "菠菜",
+      "wkty": ["菠菜", "菠", "菜"]
     },
-    {
-        "English": "spinach",
-        "Cantonese": {
-            "text": "菠菜",
-            "wkty": [
-                "菠菜",
-                "菠",
-                "菜"
-            ]
-        },
-        "Yale": "bō choi",
-        "Jyutping": "bo1 coi3",
-        "Pinyin": "bō cài"
+    "Yale": "bō choi",
+    "Jyutping": "bo1 coi3",
+    "Pinyin": "bō cài"
+  },
+  {
+    "English": "xue cai",
+    "Cantonese": {
+      "text": "雪菜",
+      "wkty": ["雪菜", "雪", "菜"]
     },
-    {
-        "English": "xue cai",
-        "Cantonese": {
-            "text": "雪菜",
-            "wkty": [
-                "雪菜",
-                "雪",
-                "菜"
-            ]
-        },
-        "Yale": "syut choi",
-        "Simplified": {
-            "text": "雪菜",
-            "wkty": [
-                "雪菜",
-                "雪",
-                "菜"
-            ]
-        },
-        "Pinyin": "xuě cài"
+    "Yale": "syut choi",
+    "Simplified": {
+      "text": "雪菜",
+      "wkty": ["雪菜", "雪", "菜"]
     },
-    {
-        "English": "ya cai",
-        "Cantonese": {
-            "text": "芽菜",
-            "wkty": [
-                "芽菜",
-                "芽",
-                "菜"
-            ]
-        },
-        "Yale": "ngàh choi",
-        "Pinyin": "yá cài"
+    "Pinyin": "xuě cài"
+  },
+  {
+    "English": "ya cai",
+    "Cantonese": {
+      "text": "芽菜",
+      "wkty": ["芽菜", "芽", "菜"]
     },
-    {
-        "English": "kimchi",
-        "Cantonese": {
-            "text": "泡菜",
-            "wkty": [
-                "泡菜",
-                "泡",
-                "菜"
-            ]
-        },
-        "Yale": "paau choi",
-        "Pinyin": "pào cài"
-    }
+    "Yale": "ngàh choi",
+    "Pinyin": "yá cài"
+  },
+  {
+    "English": "kimchi",
+    "Cantonese": {
+      "text": "泡菜",
+      "wkty": ["泡菜", "泡", "菜"]
+    },
+    "Yale": "paau choi",
+    "Pinyin": "pào cài"
+  }
 ]

@@ -1,136 +1,104 @@
 [
-    {
-        "English": "ball",
-        "Cantonese": "球",
-        "Yale": "kàuh",
-        "Jyutping": "kau4",
-        "Pinyin": "qiú"
+  {
+    "English": "ball",
+    "Cantonese": "球",
+    "Yale": "kàuh",
+    "Jyutping": "kau4",
+    "Pinyin": "qiú"
+  },
+  {
+    "English": "meat",
+    "Cantonese": "肉",
+    "Yale": "yuhk",
+    "Jyutping": "juk6",
+    "Pinyin": "ròu"
+  },
+  {
+    "English": "shredded pork",
+    "Cantonese": {
+      "text": "肉絲",
+      "wkty": ["肉絲", "肉", "絲"]
     },
-    {
-        "English": "meat",
-        "Cantonese": "肉",
-        "Yale": "yuhk",
-        "Jyutping": "juk6",
-        "Pinyin": "ròu"
+    "Simplified": {
+      "text": "肉丝",
+      "wkty": ["肉丝", "肉", "丝"]
     },
-    {
-        "English": "shredded pork",
-        "Cantonese": {
-            "text": "肉絲",
-            "wkty": [
-                "肉絲",
-                "肉",
-                "絲"
-            ]
-        },
-        "Simplified":  {
-            "text": "肉丝",
-            "wkty": [
-                "肉丝",
-                "肉",
-                "丝"
-            ]
-        },
-        "Yale": "yuhk sī",
-        "Pinyin": "ròu sī"
+    "Yale": "yuhk sī",
+    "Pinyin": "ròu sī"
+  },
+  {
+    "English": "salted meat",
+    "Cantonese": {
+      "text": "鹹肉",
+      "wkty": ["鹹肉", "鹹", "肉"]
     },
-    {
-        "English": "salted meat",
-        "Cantonese": {
-            "text": "鹹肉",
-            "wkty": [
-                "鹹肉",
-                "鹹",
-                "肉"
-            ]
-        },
-        "Yale": "hàahm yuhk",
-        "Simplified": {
-            "text": "咸肉",
-            "wkty": [
-                "咸肉",
-                "咸",
-                "肉"
-            ]
-        },
-        "Pinyin": "xián ròu"
+    "Yale": "hàahm yuhk",
+    "Simplified": {
+      "text": "咸肉",
+      "wkty": ["咸肉", "咸", "肉"]
     },
-    {
-        "English": "cow",
-        "Cantonese": "牛",
-        "Yale": "ngàuh",
-        "Jyutping": "ngau4",
-        "Pinyin": "niú"
+    "Pinyin": "xián ròu"
+  },
+  {
+    "English": "cow",
+    "Cantonese": "牛",
+    "Yale": "ngàuh",
+    "Jyutping": "ngau4",
+    "Pinyin": "niú"
+  },
+  {
+    "English": "beef",
+    "Cantonese": {
+      "text": "牛肉",
+      "wkty": ["牛肉", "牛", "肉"]
     },
-    {
-        "English": "beef",
-        "Cantonese": {
-            "text": "牛肉",
-            "wkty": [
-                "牛肉",
-                "牛",
-                "肉"
-            ]
-        },
-        "Yale": "ngàuh yuhk",
-        "Jyutping": "ngau4 juk6",
-        "Pinyin": "niú ròu"
+    "Yale": "ngàuh yuhk",
+    "Jyutping": "ngau4 juk6",
+    "Pinyin": "niú ròu"
+  },
+  {
+    "English": "beef brisket",
+    "Cantonese": {
+      "text": "牛腩",
+      "wkty": ["牛腩", "牛", "腩"]
     },
-    {
-        "English": "beef brisket",
-        "Cantonese": {
-            "text": "牛腩",
-            "wkty": [
-                "牛腩",
-                "牛",
-                "腩"
-            ]
-        },
-        "Yale": "ngàuh náahm",
-        "Pinyin": "niú nǎn"
+    "Yale": "ngàuh náahm",
+    "Pinyin": "niú nǎn"
+  },
+  {
+    "English": "imitation meat",
+    "Cantonese": "仿肉",
+    "Yale": "fóng yuhk",
+    "Jyutping": "fong2 juk6",
+    "Pinyin": "ǎng ròu"
+  },
+  {
+    "English": "pig",
+    "Cantonese": "豬",
+    "Yale": "jyū",
+    "Jyutping": "zyu1",
+    "Simplified": "猪",
+    "Pinyin": "zhū"
+  },
+  {
+    "English": "pork",
+    "Cantonese": {
+      "text": "豬肉",
+      "wkty": ["豬肉", "豬", "肉"]
     },
-    {
-        "English": "imitation meat",
-        "Cantonese": "仿肉",
-        "Yale": "fóng yuhk",
-        "Jyutping": "fong2 juk6",
-        "Pinyin": "ǎng ròu"
+    "Yale": "jyú yuhk",
+    "Jyutping": "zyu1 juk6",
+    "Simplified": {
+      "text": "猪肉",
+      "wkty": ["猪肉", "豬", "肉"]
     },
-    {
-        "English": "pig",
-        "Cantonese": "豬",
-        "Yale": "jyū",
-        "Jyutping": "zyu1",
-        "Simplified": "猪",
-        "Pinyin": "zhū"
-    },
-    {
-        "English": "pork",
-        "Cantonese": {
-            "text": "豬肉",
-            "wkty": [
-                "豬肉",
-                "豬",
-                "肉"
-            ]
-        },
-        "Yale": "jyú yuhk",
-        "Jyutping": "zyu1 juk6",
-        "Simplified": {
-            "text": "猪肉",
-            "wkty": [
-                "猪肉",
-                "豬",
-                "肉"
-            ]
-        },
-        "Pinyin": "zhū ròu"
-    },
-    {
-        "English": "goat/sheep",
-        "Cantonese": "羊",
-        "Yale": "yèuhng",
-        "Jyutping": "yeong4",
-        "Pinyin": "yáng"
-    }
+    "Pinyin": "zhū ròu"
+  },
+  {
+    "English": "goat/sheep",
+    "Cantonese": "羊",
+    "Yale": "yèuhng",
+    "Jyutping": "yeong4",
+    "Pinyin": "yáng"
+  }
 ]
