@@ -1,71 +1,49 @@
 [
-    {
-        "Cantonese": {
-            "text": "徽菜",
-            "wkty": [
-                "徽菜",
-                "徽",
-                "菜"
-            ]
-        },
-        "English": "Anhui cuisine",
-        "Yale": "fāi choi",
-        "Pinyin": "huī cài"
+  {
+    "Cantonese": {
+      "text": "徽菜",
+      "wkty": ["徽菜", "徽", "菜"]
     },
-    {
-        "English": "Jiangsu cuisine",
-        "Cantonese": {
-            "text": "蘇菜",
-            "wkty": [
-                "蘇菜",
-                "蘇",
-                "菜"
-            ]
-        },
-        "Yale": "sōu choi",
-        "Simplified": {
-            "text": "苏菜",
-            "wkty": [
-                "苏菜",
-                "苏",
-                "菜"
-            ]
-        },
-        "Pinyin": "sū cài"
+    "English": "Anhui cuisine",
+    "Yale": "fāi choi",
+    "Pinyin": "huī cài"
+  },
+  {
+    "English": "Jiangsu cuisine",
+    "Cantonese": {
+      "text": "蘇菜",
+      "wkty": ["蘇菜", "蘇", "菜"]
     },
-    {
-        "Cantonese": "晉菜",
-        "Simplified": "晋菜",
-        "English": "Shanxi cuisine",
-        "Yale": "jeunn choi",
-        "Pinyin": "jìn cài"
+    "Yale": "sōu choi",
+    "Simplified": {
+      "text": "苏菜",
+      "wkty": ["苏菜", "苏", "菜"]
     },
-    {
-        "English": "Zhejiang cuisine",
-        "Cantonese": {
-            "text": "浙菜",
-            "wkty": [
-                "浙菜",
-                "浙",
-                "菜"
-            ]
-        },
-        "Yale": "jit choi",
-        "Pinyin": "zhè cài"
+    "Pinyin": "sū cài"
+  },
+  {
+    "Cantonese": "晉菜",
+    "Simplified": "晋菜",
+    "English": "Shanxi cuisine",
+    "Yale": "jeunn choi",
+    "Pinyin": "jìn cài"
+  },
+  {
+    "English": "Zhejiang cuisine",
+    "Cantonese": {
+      "text": "浙菜",
+      "wkty": ["浙菜", "浙", "菜"]
     },
-    {
-        "English": "home cooking",
-        "Cantonese": {
-            "text": "家常菜",
-            "wkty": [
-                "家常菜",
-                "家常",
-                "家",
-                "常",
-                "菜"
-            ]
-        },
-        "Yale": "gā sèuhng choi",
-        "Pinyin": "jiā cháng cài"
-    }
+    "Yale": "jit choi",
+    "Pinyin": "zhè cài"
+  },
+  {
+    "English": "home cooking",
+    "Cantonese": {
+      "text": "家常菜",
+      "wkty": ["家常菜", "家常", "家", "常", "菜"]
+    },
+    "Yale": "gā sèuhng choi",
+    "Pinyin": "jiā cháng cài"
+  }
 ]
