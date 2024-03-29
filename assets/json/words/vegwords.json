@@ -1,162 +1,118 @@
 [
-    {
-        "English": "bamboo",
-        "Cantonese": "竹",
-        "Yale": "jūk",
-        "Pinyin": "zhú"
+  {
+    "English": "bamboo",
+    "Cantonese": "竹",
+    "Yale": "jūk",
+    "Pinyin": "zhú"
+  },
+  {
+    "English": "barley",
+    "Cantonese": {
+      "text": "大麥",
+      "wkty": ["大麥", "大", "麥"]
     },
-    {
-        "English": "barley",
-        "Cantonese": {
-            "text": "大麥",
-            "wkty": [
-                "大麥",
-                "大",
-                "麥"
-            ]
-        },
-        "Yale": "daaih mahk",
-        "Simplified": {
-            "text": "大麦",
-            "wkty": [
-                "大麦",
-                "大",
-                "麦"
-            ]
-        },
-        "Pinyin": "dà mài",
-        "description": "{大} is *big* and {麥} is a grain such as *barley*, *rye*, or *wheat*."
+    "Yale": "daaih mahk",
+    "Simplified": {
+      "text": "大麦",
+      "wkty": ["大麦", "大", "麦"]
     },
-    {
-        "English": "broccoli",
-        "Cantonese": "西蘭花",
-        "Simplified": "西兰花",
-        "Yale": "sāi làahn fā",
-        "Pinyin": "xī lán huā"
+    "Pinyin": "dà mài",
+    "description": "{大} is *big* and {麥} is a grain such as *barley*, *rye*, or *wheat*."
+  },
+  {
+    "English": "broccoli",
+    "Cantonese": "西蘭花",
+    "Simplified": "西兰花",
+    "Yale": "sāi làahn fā",
+    "Pinyin": "xī lán huā"
+  },
+  {
+    "English": "eggplant",
+    "Cantonese": {
+      "text": "茄子",
+      "wkty": ["茄子", "茄", "子"]
     },
-    {
-        "English": "eggplant",
-        "Cantonese": {
-            "text": "茄子",
-            "wkty": [
-                "茄子",
-                "茄",
-                "子"
-            ]
-        },
-        "Yale": "ké jí",
-        "Pinyin": "qié zi"
+    "Yale": "ké jí",
+    "Pinyin": "qié zi"
+  },
+  {
+    "English": "onion",
+    "Cantonese": {
+      "text": "洋蔥",
+      "wkty": ["洋蔥", "洋", "蔥"]
     },
-    {
-        "English": "onion",
-        "Cantonese": {
-            "text": "洋蔥",
-            "wkty": [
-                "洋蔥",
-                "洋",
-                "蔥"
-            ]
-        },
-        "Simplified": {
-            "text": "洋葱",
-            "wkty": [
-                "洋葱",
-                "洋",
-                "葱"
-            ]
-        },
-        "Yale": "yèuhng chūng",
-        "Pinyin": "yáng cōng"
+    "Simplified": {
+      "text": "洋葱",
+      "wkty": ["洋葱", "洋", "葱"]
     },
-    {
-        "English": "scallion",
-        "Cantonese": "蔥",
-        "Yale": "chūng",
-        "Simplified": "葱",
-        "Pinyin": "cōng"
+    "Yale": "yèuhng chūng",
+    "Pinyin": "yáng cōng"
+  },
+  {
+    "English": "scallion",
+    "Cantonese": "蔥",
+    "Yale": "chūng",
+    "Simplified": "葱",
+    "Pinyin": "cōng"
+  },
+  {
+    "English": "sesame seed",
+    "Cantonese": {
+      "text": "芝麻",
+      "wkty": ["芝麻", "芝", "麻"]
     },
-    {
-        "English": "sesame seed",
-        "Cantonese": {
-            "text": "芝麻",
-            "wkty": [
-                "芝麻",
-                "芝",
-                "麻"
-            ]
-        },
-        "Yale": "jī màh",
-        "Pinyin": "zhī má"
+    "Yale": "jī màh",
+    "Pinyin": "zhī má"
+  },
+  {
+    "English": "daikon",
+    "Cantonese": {
+      "text": "蘿蔔",
+      "wkty": ["蘿蔔", "蘿", "蔔"]
     },
-    {
-        "English": "daikon",
-        "Cantonese": {
-            "text": "蘿蔔",
-            "wkty": [
-                "蘿蔔",
-                "蘿",
-                "蔔"
-            ]
-        },
-        "Simplified": {
-            "text": "萝卜",
-            "wkty": [
-                "萝卜",
-                "萝",
-                "卜"
-            ]
-        },
-        "Yale": "lò baahk",
-        "Pinyin": "luó bo"
+    "Simplified": {
+      "text": "萝卜",
+      "wkty": ["萝卜", "萝", "卜"]
     },
-    {
-        "English": "winter bamboo shoots",
-        "Cantonese": {
-            "text": "冬筍",
-            "wkty": [
-                "冬筍",
-                "冬",
-                "筍"
-            ]
-        },
-        "Simplified": {
-            "text": "冬笋",
-            "wkty": [
-                "冬笋",
-                "冬",
-                "笋"
-            ]
-        },
-        "Yale": "dūng séun",
-        "Pinyin": "dōng sǔn"
+    "Yale": "lò baahk",
+    "Pinyin": "luó bo"
+  },
+  {
+    "English": "winter bamboo shoots",
+    "Cantonese": {
+      "text": "冬筍",
+      "wkty": ["冬筍", "冬", "筍"]
     },
-    {
-        "English": "potato",
-        "Cantonese": "薯",
-        "Yale": "syùh",
-        "Jyutping": "syu4",
-        "Pinyin": "shǔ"
+    "Simplified": {
+      "text": "冬笋",
+      "wkty": ["冬笋", "冬", "笋"]
     },
-    {
-        "English": "tomato",
-        "Cantonese": {
-            "text": "番茄",
-            "wkty": [
-                "番茄",
-                "番",
-                "茄"
-            ]
-        },
-        "Yale": "fāan ké",
-        "Jyutping": "faan1 ke2",
-        "Pinyin": "fān qié",
-        "description": "番 is *foreign*, and 茄 is *eggplant*, so {番茄} is *foreign eggplant*."
+    "Yale": "dūng séun",
+    "Pinyin": "dōng sǔn"
+  },
+  {
+    "English": "potato",
+    "Cantonese": "薯",
+    "Yale": "syùh",
+    "Jyutping": "syu4",
+    "Pinyin": "shǔ"
+  },
+  {
+    "English": "tomato",
+    "Cantonese": {
+      "text": "番茄",
+      "wkty": ["番茄", "番", "茄"]
     },
-    {
-        "English": "ginger",
-        "Cantonese": "薑",
-        "Simplified": "姜",
-        "Yale": "gēung",
-        "Pinyin": "jiāng"
-    }
+    "Yale": "fāan ké",
+    "Jyutping": "faan1 ke2",
+    "Pinyin": "fān qié",
+    "description": "番 is *foreign*, and 茄 is *eggplant*, so {番茄} is *foreign eggplant*."
+  },
+  {
+    "English": "ginger",
+    "Cantonese": "薑",
+    "Simplified": "姜",
+    "Yale": "gēung",
+    "Pinyin": "jiāng"
+  }
 ]

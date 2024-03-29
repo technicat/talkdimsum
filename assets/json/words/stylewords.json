@@ -1,28 +1,24 @@
 [
-    {
-        "Cantonese": "美式",
-        "English": "American style",
-        "Yale": "méih sīk",
-        "Pinyin": "měi shì"
+  {
+    "Cantonese": "美式",
+    "English": "American style",
+    "Yale": "méih sīk",
+    "Pinyin": "měi shì"
+  },
+  {
+    "Cantonese": "韓式",
+    "Simplified": "韩式",
+    "English": "Korean style",
+    "Yale": "hòhn sīk",
+    "Pinyin": "Hán shì"
+  },
+  {
+    "English": "Japanese-style",
+    "Cantonese": {
+      "text": "日式",
+      "wkty": ["日式", "日", "式"]
     },
-    {
-        "Cantonese": "韓式",
-        "Simplified": "韩式",
-        "English": "Korean style",
-        "Yale": "hòhn sīk",
-        "Pinyin": "Hán shì"
-    },
-    {
-        "English": "Japanese-style",
-        "Cantonese": {
-            "text": "日式",
-            "wkty": [
-                "日式",
-                "日",
-                "式"
-            ]
-        },
-        "Yale": "yaht sīk",
-        "Pinyin": "rì shì"
-    }
+    "Yale": "yaht sīk",
+    "Pinyin": "rì shì"
+  }
 ]

@@ -1,34 +1,26 @@
 [
-    {
-        "English": "mushroom",
-        "Cantonese": "菇",
-        "Yale": "gū",
-        "Pinyin": "gū"
+  {
+    "English": "mushroom",
+    "Cantonese": "菇",
+    "Yale": "gū",
+    "Pinyin": "gū"
+  },
+  {
+    "English": "winter mushroom",
+    "Cantonese": {
+      "text": "冬菇",
+      "wkty": ["冬菇", "冬", "菇"]
     },
-    {
-        "English": "winter mushroom",
-        "Cantonese": {
-            "text": "冬菇",
-            "wkty": [
-                "冬菇",
-                "冬",
-                "菇"
-            ]
-        },
-        "Yale": "dūng gū",
-        "Pinyin": "dōng gū"
+    "Yale": "dūng gū",
+    "Pinyin": "dōng gū"
+  },
+  {
+    "English": "shiitake mushroom",
+    "Cantonese": {
+      "text": "香菇",
+      "wkty": ["香菇", "香", "菇"]
     },
-    {
-        "English": "shiitake mushroom",
-        "Cantonese": {
-            "text": "香菇",
-            "wkty": [
-                "香菇",
-                "香",
-                "菇"
-            ]
-        },
-        "Yale": "hēung gū",
-        "Pinyin": "xiāng gū"
-    }
+    "Yale": "hēung gū",
+    "Pinyin": "xiāng gū"
+  }
 ]

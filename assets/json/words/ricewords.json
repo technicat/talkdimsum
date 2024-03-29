@@ -1,46 +1,38 @@
 [
-    {
-        "English": "cooked rice",
-        "Cantonese": "飯",
-        "Yale": "faahn",
-        "Jyutping": "faan6",
-        "Simplified": "饭",
-        "Pinyin": "fàn"
+  {
+    "English": "cooked rice",
+    "Cantonese": "飯",
+    "Yale": "faahn",
+    "Jyutping": "faan6",
+    "Simplified": "饭",
+    "Pinyin": "fàn"
+  },
+  {
+    "English": "rice",
+    "Cantonese": "米",
+    "Yale": "máih",
+    "Jyutping": "mai5",
+    "Pinyin": "mǐ"
+  },
+  {
+    "English": "sticky rice",
+    "Cantonese": {
+      "text": "糯米",
+      "wkty": ["糯米", "糯", "米"]
     },
-    {
-        "English": "rice",
-        "Cantonese": "米",
-        "Yale": "máih",
-        "Jyutping": "mai5",
-        "Pinyin": "mǐ"
+    "Yale": "noh máih",
+    "Jyutping": "no6 mai5",
+    "Pinyin": "nuò mǐ",
+    "description": "{糯} is *glutinous* and {米} is *rice* (in particular, uncooked rice or rice grains) so {糯米} is *glutinous rice*."
+  },
+  {
+    "English": "fragrant rice",
+    "Cantonese": {
+      "text": "香米",
+      "wkty": ["香米", "香", "米"]
     },
-    {
-        "English": "sticky rice",
-        "Cantonese": {
-            "text": "糯米",
-            "wkty": [
-                "糯米",
-                "糯",
-                "米"
-            ]
-        },
-        "Yale": "noh máih",
-        "Jyutping": "no6 mai5",
-        "Pinyin": "nuò mǐ",
-        "description": "{糯} is *glutinous* and {米} is *rice* (in particular, uncooked rice or rice grains) so {糯米} is *glutinous rice*."
-    },
-    {
-        "English": "fragrant rice",
-        "Cantonese": {
-          "text": "香米",
-          "wkty": [
-            "香米",
-            "香",
-            "米"
-          ]
-        },
-        "Yale": "hēung máih",
-        "Pinyin": "xiāng mǐ",
-        "description": "{香} is *fragrant*, and {米} is rice, so {香米} is *fragrant rice*."
-      }
+    "Yale": "hēung máih",
+    "Pinyin": "xiāng mǐ",
+    "description": "{香} is *fragrant*, and {米} is rice, so {香米} is *fragrant rice*."
+  }
 ]

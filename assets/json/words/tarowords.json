@@ -1,46 +1,28 @@
 [
-    {
-        "English": "taro ball",
-        "Cantonese": {
-            "text": "芋圓",
-            "wkty": [
-                "芋圓",
-                "芋",
-                "圓"
-            ]
-        },
-        "Simplified": {
-            "text": "芋圆",
-            "wkty": [
-                "芋圆",
-                "芋",
-                "圆"
-            ]
-        },
-        "Yale": "wuh yùhn",
-        "Pinyin": "yù yuán"
+  {
+    "English": "taro ball",
+    "Cantonese": {
+      "text": "芋圓",
+      "wkty": ["芋圓", "芋", "圓"]
     },
-    {
-        "English": "Mini Q",
-        "Cantonese": {
-            "text": "小芋圓",
-            "wkty": [
-                "小",
-                "芋圓",
-                "芋",
-                "圓"
-            ]
-        },
-        "Simplified": {
-            "text": "小芋圆",
-            "wkty": [
-                "小",
-                "芋圆",
-                "芋",
-                "圆"
-            ]
-        },
-        "Yale": "síu wuh yùhn",
-        "Pinyin": "xiǎo yù yuán"
-    }
+    "Simplified": {
+      "text": "芋圆",
+      "wkty": ["芋圆", "芋", "圆"]
+    },
+    "Yale": "wuh yùhn",
+    "Pinyin": "yù yuán"
+  },
+  {
+    "English": "Mini Q",
+    "Cantonese": {
+      "text": "小芋圓",
+      "wkty": ["小", "芋圓", "芋", "圓"]
+    },
+    "Simplified": {
+      "text": "小芋圆",
+      "wkty": ["小", "芋圆", "芋", "圆"]
+    },
+    "Yale": "síu wuh yùhn",
+    "Pinyin": "xiǎo yù yuán"
+  }
 ]

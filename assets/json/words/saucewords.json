@@ -1,54 +1,42 @@
 [
-    {
-        "English": "black bean sauce",
-        "Cantonese": {
-            "text": "豉汁",
-            "wkty": [
-                "豉汁",
-                "豉",
-                "汁"
-            ]
-        },
-        "Yale": "sih jāp",
-        "Pinyin": "chǐ zhī"
+  {
+    "English": "black bean sauce",
+    "Cantonese": {
+      "text": "豉汁",
+      "wkty": ["豉汁", "豉", "汁"]
     },
-    {
-        "English": "sweet and sour",
-        "Cantonese": {
-            "text": "甜酸",
-            "wkty": [
-                "甜酸",
-                "甜",
-                "酸"
-            ]
-        },
-        "Yale": "tìhm syūn",
-        "Pinyin": "tián suān"
+    "Yale": "sih jāp",
+    "Pinyin": "chǐ zhī"
+  },
+  {
+    "English": "sweet and sour",
+    "Cantonese": {
+      "text": "甜酸",
+      "wkty": ["甜酸", "甜", "酸"]
     },
-    {
-        "Cantonese": "酸",
-        "English": "sour",
-        "Yale": "syūn",
-        "Pinyin": "suān"
+    "Yale": "tìhm syūn",
+    "Pinyin": "tián suān"
+  },
+  {
+    "Cantonese": "酸",
+    "English": "sour",
+    "Yale": "syūn",
+    "Pinyin": "suān"
+  },
+  {
+    "Cantonese": "甜",
+    "English": "sweet",
+    "Yale": "tìhm",
+    "Pinyin": "tián"
+  },
+  {
+    "English": "satay",
+    "Cantonese": {
+      "text": "沙爹",
+      "wkty": ["沙爹", "沙", "爹"]
     },
-    {
-        "Cantonese": "甜",
-        "English": "sweet",
-        "Yale": "tìhm",
-        "Pinyin": "tián"
-    },
-    {
-        "English": "satay",
-        "Cantonese": {
-            "text": "沙爹",
-            "wkty": [
-                "沙爹",
-                "沙",
-                "爹"
-            ]
-        },
-        "Yale": "sā dē",
-        "Pinyin": "shā diē",
-        "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay)."
-    }
+    "Yale": "sā dē",
+    "Pinyin": "shā diē",
+    "description": "{沙爹} is [Satay](https://en.wikipedia.org/wiki/Satay)."
+  }
 ]

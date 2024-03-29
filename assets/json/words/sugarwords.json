@@ -1,53 +1,41 @@
 [
-    {
-        "English": "sugar",
-        "Cantonese": "糖",
-        "Yale": "tòhng",
-        "Pinyin": "táng"
+  {
+    "English": "sugar",
+    "Cantonese": "糖",
+    "Yale": "tòhng",
+    "Pinyin": "táng"
+  },
+  {
+    "English": "white sugar",
+    "Cantonese": {
+      "text": "白糖",
+      "wkty": ["白糖", "白", "糖"]
     },
-    {
-        "English": "white sugar",
-        "Cantonese": {
-            "text": "白糖",
-            "wkty": [
-                "白糖",
-                "白",
-                "糖"
-            ]
-        },
-        "Yale": "baahk tòhng",
-        "Pinyin": "bái táng"
+    "Yale": "baahk tòhng",
+    "Pinyin": "bái táng"
+  },
+  {
+    "English": "brown sugar",
+    "Cantonese": {
+      "text": "黑糖",
+      "wkty": ["黑糖", "黑", "糖"]
     },
-    {
-        "English": "brown sugar",
-        "Cantonese": {
-            "text": "黑糖",
-            "wkty": [
-                "黑糖",
-                "黑",
-                "糖"
-            ]
-        },
-        "Yale": "hāk tòhng",
-        "Pinyin": "hēi táng"
+    "Yale": "hāk tòhng",
+    "Pinyin": "hēi táng"
+  },
+  {
+    "English": "rock sugar",
+    "Cantonese": {
+      "text": "冰糖",
+      "wkty": ["冰糖", "冰", "糖"]
     },
-    {
-        "English": "rock sugar",
-        "Cantonese": {
-            "text": "冰糖",
-            "wkty": [
-                "冰糖",
-                "冰",
-                "糖"
-            ]
-        },
-        "Yale": "bīng tòhng",
-        "Pinyin": "bīng táng"
-    },
-    {
-        "Cantonese": "蔗",
-        "English": "sugarcane",
-        "Yale": "je",
-        "Pinyin": "zhè"
-    }
+    "Yale": "bīng tòhng",
+    "Pinyin": "bīng táng"
+  },
+  {
+    "Cantonese": "蔗",
+    "English": "sugarcane",
+    "Yale": "je",
+    "Pinyin": "zhè"
+  }
 ]
