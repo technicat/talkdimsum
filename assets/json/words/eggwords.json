@@ -1,65 +1,49 @@
 [
-    {
-        "English": "egg white",
-        "Cantonese": {
-            "text": "蛋白",
-            "wkty": [
-                "蛋白",
-                "蛋",
-                "白"
-            ]
-        },
-        "Yale": "dáan baahk",
-        "Jyutping": "daan2 baak6",
-        "Pinyin": "dàn bái"
+  {
+    "English": "egg white",
+    "Cantonese": {
+      "text": "蛋白",
+      "wkty": ["蛋白", "蛋", "白"]
     },
-    {
-        "English": "fried egg",
-        "Cantonese": {
-            "text": "煎蛋",
-            "wkty": [
-                "煎蛋",
-                "煎",
-                "蛋"
-            ]
-        },
-        "Yale": "jīn dáan",
-        "Jyutping": "zin1 daan2 ",
-        "Pinyin": "jiān dàn"
+    "Yale": "dáan baahk",
+    "Jyutping": "daan2 baak6",
+    "Pinyin": "dàn bái"
+  },
+  {
+    "English": "fried egg",
+    "Cantonese": {
+      "text": "煎蛋",
+      "wkty": ["煎蛋", "煎", "蛋"]
     },
-    {
-        "English": "lava custard",
-        "Cantonese": {
-            "text": "流沙",
-            "wkty": [
-                "流沙",
-                "流",
-                "沙"
-            ]
-        },
-        "Yale": "làu sā",
-        "Jyutping": "lau4 saa1",
-        "Pinyin": "liú shā"
+    "Yale": "jīn dáan",
+    "Jyutping": "zin1 daan2 ",
+    "Pinyin": "jiān dàn"
+  },
+  {
+    "English": "lava custard",
+    "Cantonese": {
+      "text": "流沙",
+      "wkty": ["流沙", "流", "沙"]
     },
-    {
-        "English": "soft scrambled egg",
-        "Cantonese": "滑蛋",
-        "Yale": "waaht dáan",
-        "Pinyin": "huá dàn",
-        "description": "{滑} is *slippery*, and {蛋} is *egg*, so {滑蛋} is *slippery egg*."
+    "Yale": "làu sā",
+    "Jyutping": "lau4 saa1",
+    "Pinyin": "liú shā"
+  },
+  {
+    "English": "soft scrambled egg",
+    "Cantonese": "滑蛋",
+    "Yale": "waaht dáan",
+    "Pinyin": "huá dàn",
+    "description": "{滑} is *slippery*, and {蛋} is *egg*, so {滑蛋} is *slippery egg*."
+  },
+  {
+    "English": "stir-fried egg",
+    "Cantonese": {
+      "text": "炒蛋",
+      "wkty": ["炒蛋", "炒", "蛋"]
     },
-    {
-        "English": "stir-fried egg",
-        "Cantonese": {
-            "text": "炒蛋",
-            "wkty": [
-                "炒蛋",
-                "炒",
-                "蛋"
-            ]
-        },
-        "Yale": "cháau dáan",
-        "Pinyin": "chǎo dàn",
-        "description": "{炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {蛋} is *egg*, so {炒蛋} is *stir-fried egg*."
-    }
+    "Yale": "cháau dáan",
+    "Pinyin": "chǎo dàn",
+    "description": "{炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), and {蛋} is *egg*, so {炒蛋} is *stir-fried egg*."
+  }
 ]

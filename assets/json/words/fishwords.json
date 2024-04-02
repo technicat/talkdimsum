@@ -1,211 +1,130 @@
 [
-    {
-        "English": "fish",
-        "Cantonese": "魚",
-        "Yale": "yú",
-        "Jyutping": "ju2",
-        "Simplified": "鱼",
-        "Pinyin": "yú"
+  {
+    "English": "fish",
+    "Cantonese": "魚",
+    "Yale": "yú",
+    "Jyutping": "ju2",
+    "Simplified": "鱼",
+    "Pinyin": "yú"
+  },
+  {
+    "English": "abalone",
+    "Cantonese": {
+      "text": "鮑魚",
+      "wkty": ["鮑魚", "鮑", "魚"]
     },
-    {
-        "English": "abalone",
-        "Cantonese": {
-            "text": "鮑魚",
-            "wkty": [
-                "鮑魚",
-                "鮑",
-                "魚"
-            ]
-        },
-        "Yale": "bāau yùh",
-        "Jyutping": "bau1 ju4",
-        "Simplified": {
-            "text": "鲍鱼",
-            "wkty": [
-                "鲍鱼",
-                "鲍",
-                "鱼"
-            ]
-        },
-        "Pinyin": "bào yú"
+    "Yale": "bāau yùh",
+    "Jyutping": "bau1 ju4",
+    "Simplified": {
+      "text": "鲍鱼",
+      "wkty": ["鲍鱼", "鲍", "鱼"]
     },
-    {
-        "English": "eel",
-        "Cantonese": {
-            "text": "鰻魚",
-            "wkty": [
-                "鰻魚",
-                "鰻",
-                "魚"
-            ]
-        },
-        "Yale": "màahn yú",
-        "Simplified": {
-            "text": "鳗鱼",
-            "wkty": [
-                "鳗鱼",
-                "鳗",
-                "鱼"
-            ]
-        },
-        "Pinyin": "mán yú"
+    "Pinyin": "bào yú"
+  },
+  {
+    "English": "eel",
+    "Cantonese": {
+      "text": "鰻魚",
+      "wkty": ["鰻魚", "鰻", "魚"]
     },
-    {
-        "English": "fish fillet",
-        "Cantonese": "魚片",
-        "Yale": "yú pín",
-        "Simplified": "鱼片",
-        "Pinyin": "yú piàn"
+    "Yale": "màahn yú",
+    "Simplified": {
+      "text": "鳗鱼",
+      "wkty": ["鳗鱼", "鳗", "鱼"]
     },
-    {
-        "English": "milkfish",
-        "Cantonese": {
-            "text": "虱目魚",
-            "wkty": [
-                "虱目魚",
-                "虱目",
-                "虱",
-                "目",
-                "魚"
-            ]
-        },
-        "Yale": "sāt muhk yú",
-        "Jyutping": "sat1 muk6 ju2",
-        "Simplified": {
-            "text": "虱目鱼",
-            "wkty": [
-                "虱目魚",
-                "虱目",
-                "虱",
-                "目",
-                "鱼"
-            ]
-        },
-        "Pinyin": "shī mù yú"
+    "Pinyin": "mán yú"
+  },
+  {
+    "English": "fish fillet",
+    "Cantonese": "魚片",
+    "Yale": "yú pín",
+    "Simplified": "鱼片",
+    "Pinyin": "yú piàn"
+  },
+  {
+    "English": "milkfish",
+    "Cantonese": {
+      "text": "虱目魚",
+      "wkty": ["虱目魚", "虱目", "虱", "目", "魚"]
     },
-    {
-        "English": "salmon",
-        "Cantonese": {
-            "text": "三文魚",
-            "wkty": [
-                "三文魚",
-                "三文",
-                "三",
-                "文",
-                "魚"
-            ]
-        },
-        "Yale": "sāam màhn yùh",
-        "Jyutping": "saam1 man4 ju4",
-        "Simplified": {
-            "text": "三文鱼",
-            "wkty": [
-                "三文魚",
-                "三文",
-                "三",
-                "文",
-                "鱼"
-            ]
-        },
-        "Pinyin": "sān wén yú"
+    "Yale": "sāt muhk yú",
+    "Jyutping": "sat1 muk6 ju2",
+    "Simplified": {
+      "text": "虱目鱼",
+      "wkty": ["虱目魚", "虱目", "虱", "目", "鱼"]
     },
-    {
-        "English": "salted fish",
-        "Cantonese": {
-            "text": "鹹魚",
-            "wkty": [
-                "鹹魚",
-                "鹹",
-                "魚"
-            ]
-        },
-        "Yale": "hàahm yùh",
-        "Simplified": {
-            "text": "咸鱼",
-            "wkty": [
-                "咸鱼",
-                "咸",
-                "鱼"
-            ]
-        },
-        "Pinyin": "xián yú"
+    "Pinyin": "shī mù yú"
+  },
+  {
+    "English": "salmon",
+    "Cantonese": {
+      "text": "三文魚",
+      "wkty": ["三文魚", "三文", "三", "文", "魚"]
     },
-    {
-        "English": "smelt",
-        "Cantonese": {
-            "text": "多春魚",
-            "wkty": [
-                "多春魚",
-                "多",
-                "春",
-                "魚"
-            ]
-        },
-        "Yale": "dō chēun yú",
-        "Mandarin": {
-            "text": "胡瓜魚",
-            "wkty": [
-                "胡瓜",
-                "胡",
-                "瓜",
-                "魚"
-            ]
-        },
-        "Simplified": {
-            "text": "胡瓜鱼",
-            "wkty": [
-                "胡瓜",
-                "胡",
-                "瓜",
-                "鱼"
-            ]
-        },
-        "Pinyin": "hú guā yú"
+    "Yale": "sāam màhn yùh",
+    "Jyutping": "saam1 man4 ju4",
+    "Simplified": {
+      "text": "三文鱼",
+      "wkty": ["三文魚", "三文", "三", "文", "鱼"]
     },
-    {
-        "English": "squid",
-        "Cantonese": {
-            "text": "魷魚",
-            "wkty": [
-                "魷魚",
-                "魷",
-                "魚"
-            ]
-        },
-        "Yale": "yàuh yú",
-        "Jyutping": "jau4 ju2",
-        "Simplified": {
-            "text": "鱿鱼",
-            "wkty": [
-                "魷魚",
-                "魷",
-                "鱼"
-            ]
-        },
-        "Pinyin": "yóu yú"
+    "Pinyin": "sān wén yú"
+  },
+  {
+    "English": "salted fish",
+    "Cantonese": {
+      "text": "鹹魚",
+      "wkty": ["鹹魚", "鹹", "魚"]
     },
-    {
-        "English": "tuna",
-        "Cantonese": {
-            "text": "吞拿魚",
-            "wkty": [
-                "吞拿",
-                "吞",
-                "拿",
-                "魚"
-            ]
-        },
-        "Yale": "tān nàh yú",
-        "Jyutping": "tan1 naa4 ju2",
-        "Simplified": {
-            "text": "吞拿鱼",
-            "wkty": [
-                "吞拿",
-                "吞",
-                "拿",
-                "鱼"
-            ]
-        },
-        "Pinyin": "tūn ná yú"
-    }
+    "Yale": "hàahm yùh",
+    "Simplified": {
+      "text": "咸鱼",
+      "wkty": ["咸鱼", "咸", "鱼"]
+    },
+    "Pinyin": "xián yú"
+  },
+  {
+    "English": "smelt",
+    "Cantonese": {
+      "text": "多春魚",
+      "wkty": ["多春魚", "多", "春", "魚"]
+    },
+    "Yale": "dō chēun yú",
+    "Mandarin": {
+      "text": "胡瓜魚",
+      "wkty": ["胡瓜", "胡", "瓜", "魚"]
+    },
+    "Simplified": {
+      "text": "胡瓜鱼",
+      "wkty": ["胡瓜", "胡", "瓜", "鱼"]
+    },
+    "Pinyin": "hú guā yú"
+  },
+  {
+    "English": "squid",
+    "Cantonese": {
+      "text": "魷魚",
+      "wkty": ["魷魚", "魷", "魚"]
+    },
+    "Yale": "yàuh yú",
+    "Jyutping": "jau4 ju2",
+    "Simplified": {
+      "text": "鱿鱼",
+      "wkty": ["魷魚", "魷", "鱼"]
+    },
+    "Pinyin": "yóu yú"
+  },
+  {
+    "English": "tuna",
+    "Cantonese": {
+      "text": "吞拿魚",
+      "wkty": ["吞拿", "吞", "拿", "魚"]
+    },
+    "Yale": "tān nàh yú",
+    "Jyutping": "tan1 naa4 ju2",
+    "Simplified": {
+      "text": "吞拿鱼",
+      "wkty": ["吞拿", "吞", "拿", "鱼"]
+    },
+    "Pinyin": "tūn ná yú"
+  }
 ]
