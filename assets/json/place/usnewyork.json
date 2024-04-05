@@ -279,19 +279,6 @@
       "address": "135-33 40th Road, Flushing, NY 11354"
     },
     {
-      "name": "One East Ocean Palace",
-      "links": [
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/east-ocean-palace-forest-hills-2"
-        }
-      ],
-      "lat": 40.718036272043534,
-      "lon": -73.83518591546789,
-      "city": "Forest Hills",
-      "address": "113-09 Queens Blvd, Forest Hills, NY 11375"
-    },
-    {
       "name": "007 Chinese Food",
       "links": [
         {
@@ -311,19 +298,6 @@
       "lon": -78.839417159957,
       "city": "Hamburg",
       "address": "84 Lake St Hamburg, NY 14075"
-    },
-    {
-      "name": "Central Seafood",
-      "links": [
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/central-seafood-hartsdale"
-        }
-      ],
-      "lat": 41.02687,
-      "lon": -73.79321,
-      "city": "Hartsdale",
-      "address": "285 N Central Ave Hartsdale, NY 10530"
     },
     {
       "name": "Fantasy Cuisine",
@@ -1036,19 +1010,6 @@
       "lon": -73.73167,
       "city": "Queens",
       "address": "249-36 Horace Harding Expy Queens, NY 11362"
-    },
-    {
-      "name": "Canton House",
-      "links": [
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/canton-house-rochester"
-        }
-      ],
-      "lat": 43.08012,
-      "lon": -77.64473,
-      "city": "Rochester",
-      "address": "85 Commerce Dr Rochester, NY 14623"
     },
     {
       "name": "Tao's Dim Sum & Noodle",
