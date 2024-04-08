@@ -46,10 +46,6 @@
         {
           "name": "site",
           "URL": "http://lunasiadimsum.com/"
-        },
-        {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/lunasia-chinese-cuisine-alhambra-3"
         }
       ],
       "lat": 34.09195,
@@ -316,8 +312,8 @@
       "name": "Tasty Box Bistro",
       "links": [
         {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/tasty-box-diamond-bar"
+          "name": "site",
+          "URL": "https://www.tastyboxbbq.com/"
         }
       ],
       "lat": 33.97484261742608,
@@ -515,7 +511,7 @@
       "name": "Sea Empress",
       "links": [
         {
-          "name": "Yelp",
+          "name": "site",
           "URL": "https://www.seaempressrestaurant.com/"
         }
       ],
@@ -1108,8 +1104,8 @@
       "name": "888 Seafood Restaurant",
       "links": [
         {
-          "name": "Yelp",
-          "URL": "https://www.yelp.com/biz/888-seafood-restaurant-rosemead"
+          "name": "site",
+          "URL": "https://888seafoodrestaurant.udinner.com/"
         }
       ],
       "lat": 34.079777,
