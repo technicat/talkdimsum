@@ -21,8 +21,14 @@
   },
   {
     "English": "broccoli",
-    "Cantonese": "西蘭花",
-    "Simplified": "西兰花",
+    "Cantonese":{
+      "text":  "西蘭花",
+      "wkty": [ "西蘭花", "蘭花", "蘭", "花"]
+    },
+    "Simplified": {
+      "text": "西兰花",
+      "wkty": [ "西兰花", "兰花", "兰", "花"]
+    },
     "Yale": "sāi làahn fā",
     "Pinyin": "xī lán huā"
   },
@@ -114,5 +120,18 @@
     "Simplified": "姜",
     "Yale": "gēung",
     "Pinyin": "jiāng"
+  },
+  {
+    "English": "ginseng",
+    "Cantonese": {
+      "text": "人參",
+      "wkty": ["人參", "人", "參"]
+    },
+    "Simplified": {
+      "text": "人参",
+      "wkty": ["人参", "人", "参"]
+    },
+    "Yale": "yàhn sām",
+    "Pinyin": "rén shēn"
   }
 ]
