@@ -59,6 +59,40 @@
   },
   {
     "word": {
+      "English": "ginseng oolong tea",
+      "Cantonese": {
+        "text": "人參烏龍茶",
+        "wkty": ["人參", "人", "參", "烏龍茶", "烏龍", "烏", "龍", "茶"]
+      },
+      "Yale": "wu lùhng chàh",
+      "Simplified": {
+        "text": "人参乌龙茶",
+        "wkty": ["人参", "人", "参", "乌龙茶", "乌龙", "乌", "龙", "茶"]
+      },
+      "Pinyin": "wū lóng chá",
+      "description": "{人參} is [ginseng](https://en.wikipedia.org/wiki/Ginseng), and {烏龍茶} is [oolong tea](https://en.wikipedia.org/wiki/Oolong), so {人参乌龙茶} is *ginseng oolong tea*."
+    },
+    "images": [
+      {
+        "image": "ginsengoolongtearandfmarket",
+        "place": "R and F Market, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Not to be confused with [ginseng tea](https://en.wikipedia.org/wiki/Ginseng_tea), this is [oolong tea](https://en.wikipedia.org/wiki/Oolong) dusted with [ginseng](https://en.wikipedia.org/wiki/Ginseng) powder.",
+    "tags": ["人參", "熱飲", "烏龍茶", "中國茶", "飲品", "熱飲", "熱茶", "茶", "點心"],
+    "resources": [
+      {
+        "name": "Coffee Tea Kingdom",
+        "URL": "https://coffeeteakingdom.com/ginseng-oolong-tea/"
+      },
+      {
+        "name": "Good Tea Resource",
+        "URL": "https://goodtearesource.com/ginseng-tea-benefits-ginseng-oolong-tea"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "jade oolong",
       "Cantonese": {
         "text": "翠玉烏龍",
