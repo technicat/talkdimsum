@@ -1,6 +1,44 @@
 [
   {
     "word": {
+      "English": "beef and broccoli",
+      "Cantonese": {
+        "text": "牛肉炒西蘭花",
+        "wkty": ["牛肉", "牛", "肉", "炒", "西蘭花", "西", "蘭花", "蘭", "花"]
+      },
+      "Simplified": {
+        "text": "牛肉炒西兰花",
+        "wkty": ["牛肉", "牛", "肉", "炒", "西兰花", "西", "兰花", "兰", "花"]
+      },
+      "Yale": "ngàuh yuhk cháau sāi làahn fā",
+      "Pinyin": "niú ròu chǎo xī lán huā",
+      "description": "{牛肉} is beef, {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), and 西蘭花is broccoli ({西} is *western* and {蘭花} is *orchid*). So 牛肉炒西蘭花 is *beef stir-fried western orchid*."
+    },
+    "images": [
+      {
+        "image": "beefandbroccolihongkongexpress",
+        "place": "Hong Kong Express, Taylorsville, Utah"
+      }
+    ],
+    "description": "[Beef and broccoli](https://en.wikipedia.org/wiki/Beef_and_broccoli) is a classic Chinese-American dish created by immigrants who substituted broccoli for Chinese broccoli (gailan), so you could call it beef and American Chinese broccoli.",
+    "tags": ["新菜", "牛肉", "炒", "西蘭花"],
+    "resources": [
+      {
+        "name": "Made with Lau",
+        "URL": "https://www.madewithlau.com/recipes/beef-broccoli"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Beef_and_broccoli"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/beef-with-broccoli-all-purpose-stir-fry-sauce/"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "pickled mustard greens with beef",
       "Cantonese": {
         "text": "酸菜炒牛肉",
@@ -8,7 +46,7 @@
       },
       "Yale": "syūn choi ngàuh yuhk",
       "Pinyin": "suān cài niú ròu",
-      "description": "{酸菜} is [picked mustard greens](https://www.chinasichuanfood.com/pickled-mustard-green-recipe/) {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), so 酸菜炒牛肉is *picked mustard greens stir-fried beef*.\n\n{酸} is *sour* same as in *hot and sour soup* and *sweet and sour*, and {菜} is *vegetable*, so picked mustard greens is *sour vegetable*."
+      "description": "{酸菜} is [picked mustard greens](https://www.chinasichuanfood.com/pickled-mustard-green-recipe/) {炒} is [stir-fried](https://en.wikipedia.org/wiki/Stir_frying), {牛肉} is *beef* ({牛} is *cow*, and {肉} is *meat*), so 酸菜炒牛肉 is *picked mustard greens stir-fried beef*.\n\n{酸} is *sour* same as in *hot and sour soup* and *sweet and sour*, and {菜} is *vegetable*, so picked mustard greens is *sour vegetable*."
     },
     "images": [
       {
