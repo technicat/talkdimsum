@@ -45,6 +45,45 @@
             "address": "2825 W Alameda Ave Denver, CO 80219"
         },
         {
+            "name": "Imperial",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://imperialchinese.com/"
+                }
+            ],
+            "lat": 39.70934520562683,
+            "lon": -104.98796721675915,
+            "city": "Denver",
+            "address": "431 S. Broadway, Denver, CO 80209"
+        },
+        {
+            "name": "John Holly's Asian Bistro",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://www.johnhollysdenver.com/"
+                }
+            ],
+            "lat": 39.672841708568896, 
+            "lon": -104.97320922883608,
+            "city": "Denver",
+            "address": "2422 S Downing St, Denver, CO 80210"
+        },
+        {
+            "name": "Little Ollie's",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://littleollies.com/"
+                }
+            ],
+            "lat": 39.72099595882382,
+            "lon": -104.9584192118835,
+            "city": "Denver",
+            "address": "2364 E 3rd Ave, Denver, CO 80206"
+        },
+        {
             "name": "Nana's Dim Sum and Dumplings",
             "links": [
                 {
