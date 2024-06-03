@@ -44,15 +44,15 @@ The Chinese/Mandarin/Simplified fields are either strings or text/wkty pairs. If
 
 ## Images
 
-The images are landscape but not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin). They are all JPEG files suffixed .jpg (the Flutter code assumes this, the Swift code doesn't care).
+The images are landscape but not consistent in aspect. They are scaled down to a maximum 512 pixels width for historical reasons (old devices running with memory leaky Xamarin). They are all JPEG files suffixed .jpg (the Flutter code assumes this, the Swift code doesn't care). All the food photos were taken by me.
 
 ## Restaurants
 
-All the restaurant links and data are found manually on the Internet, and I add them if it looks like they're still operating and serve Cantonese-style dim sum, at the very least ha gow and siu mai (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and PF Chang's, which does list dim sum on their menu but it's just spring rolls and potstickers).
+All the restaurant info and links are found manually on the Internet, and I add them if it looks like they're still operating and serve Cantonese-style dim sum, at the very least ha gow and siu mai (if you just scrape or pull everything tagged "dim sum" you'll get random Asian restaurants and PF Chang's, which does list dim sum on their menu but it's just spring rolls and potstickers).
 
 I started out listing restaurants just in my city, then other states, then all over the world (excluding some for reasons such as [genocidal practices](https://www.genocidewatch.com/countries-at-risk) and [outlawing homosexuality](https://www.bbc.com/news/world-43822234)), but that's just not feasible (especially in Asia), and I got tired of low ratings and reviews complaining I didn't include their city (especially in Europe), so it's back to just the US now.
 
-For the restaurant links, the restaurant's own website is listed first if available, but no Facebook (because, Facebook), and other links are listed aphabetically by site name. I try to avoid any food ordering sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, not so much in Europe, and OpenRice is better in Asia) and typically has enough photos so I can tell if it's real dim sum, Travelocity is omitted because it hangs my link checker.
+For the restaurant links, the restaurant's own website is listed first if available, but no Facebook (because, Facebook), and other links are listed aphabetically by site name. I try to avoid any food ordering sites pretending to be the main restaurant site. Yelp is here because it's ubiquitous (at least in the US, not so much in Europe, and OpenRice is better in Asia) and typically has enough photos so I can tell if it's real dim sum, but I'm trying to cut down. Travelocity is omitted because it hangs my link checker.
 
 ## URLs
 
