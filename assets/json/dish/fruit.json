@@ -288,5 +288,29 @@
         "URL": "https://en.wikipedia.org/wiki/Passion_fruit_(fruit)"
       }
     ]
+  },
+  {
+    "word": {
+      "Cantonese": "話梅",
+      "Simplified": "话梅",
+      "English": "preserved sour plum",
+      "Yale": "wah mùih",
+      "Pinyin": "huà méi",
+      "description": "{話梅} is *sour plum* and {梅} is *plum*, so {酸梅湯} is *sour plum soup*."
+    },
+    "images": [
+      {
+        "image": "preservedplumchungchoucity",
+        "place": "Chung Chou City, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Salted dried plums are a popular snack in China, Korea, and Japan, and brought by Chinese immigrants to the Polynesia and Philippines (where it is known as [ciamoy](https://en.wikipedia.org/wiki/Kiamoy)), and by Filipino immigrants to Mexico (where it is known as [saladitos](https://en.wikipedia.org/wiki/Saladitos).",
+    "tags": ["話梅"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Li_hing_mui"
+      }
+    ]
   }
 ]
