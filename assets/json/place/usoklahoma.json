@@ -2,6 +2,19 @@
     "name": "Oklahoma",
     "places": [
         {
+            "name": "Empire Dim Sum",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://empiredimsumkitchen.com/"
+                }
+            ],
+            "lat": 35.49623977125,
+            "lon":  -97.53343327462221,
+            "city": "Oklahoma City",
+            "address": "2624 North Classen Boulevard, Suite F, Oklahoma City, OK 73106"
+        },
+        {
             "name": "Fung's Kitchen",
             "links": [
                 {
