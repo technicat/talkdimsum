@@ -1,823 +1,823 @@
 {
-    "name": "Names",
-    "lines": [
+  "name": "Names",
+  "lines": [
+    {
+      "name": "a",
+      "words": [
         {
-            "name": "a",
-            "words": [
-                {
-                    "English": "What is your name?",
-                    "Cantonese": "你叫咩名",
-                    "Yale": "néih giu mē mìhng",
-                    "Mandarin": "你叫什麼名字",
-                    "Simplified": "你叫什么名字",
-                    "Pinyin": "nǐ jiào shénme míngzì"
-                }
-            ]
+          "English": "What is your name?",
+          "Cantonese": "你叫咩名",
+          "Yale": "néih giu mē mìhng",
+          "Mandarin": "你叫什麼名字",
+          "Simplified": "你叫什么名字",
+          "Pinyin": "nǐ jiào shénme míngzì"
+        }
+      ]
+    },
+    {
+      "name": "b",
+      "words": [
+        {
+          "English": "My name is...",
+          "Cantonese": "我個名叫...",
+          "Yale": "ngóh go mìhng giu",
+          "Mandarin": "我的名字是...",
+          "Pinyin": "Wǒ de míngzì shì"
         },
         {
-            "name": "b",
-            "words": [
-                {
-                    "English": "My name is...",
-                    "Cantonese": "我個名叫...",
-                    "Yale": "ngóh go mìhng giu",
-                    "Mandarin": "我的名字是...",
-                    "Pinyin": "Wǒ de míngzì shì"
-                },
-                {
-                    "English": "Ai Wei Wei (artist,activist)",
-                    "Cantonese": "艾未未",
-                    "Yale": "ngaaih meih meih",
-                    "Pinyin": "ai wèi wèi"
-                },
-                {
-                    "English": "Joe Biden (politician)",
-                    "Cantonese": "拜登",
-                    "Yale": "baai dāng",
-                    "Pinyin": "bài dēng"
-                },
-                {
-                    "English": "Ming Tsai (chef)",
-                    "Cantonese": "蔡明昊",
-                    "Yale": "choi mihng houh",
-                    "Pinyin": "cài míng hào"
-                },
-                {
-                    "English": "Joseph Zen (cardinal, activist)",
-                    "Cantonese": "陳日君",
-                    "Yale": "chàhn yaht gwān",
-                    "Simplified": "陈日君",
-                    "Pinyin": "chén rì jūn"
-                },
-                {
-                    "English": "Moses Chan (actor)",
-                    "Cantonese": "陳豪",
-                    "Yale": "chàhn hòuh",
-                    "Simplified": "陈豪",
-                    "Pinyin": "chén háo"
-                },
-                {
-                    "English": "Fruit Chan Gor (filmmaker)",
-                    "Cantonese": "陳果",
-                    "Yale": "chàhn gwó",
-                    "Simplified": "陈果",
-                    "Pinyin": "chén gwó"
-                },
-                {
-                    "English": "Tina Chen (actor)",
-                    "Cantonese": "陳婷",
-                    "Yale": "chàhn tìhng",
-                    "Simplified": "陈婷",
-                    "Pinyin": "chén tíng"
-                },
-                {
-                    "English": "Jacky Chan (actor)",
-                    "Cantonese": "成龍",
-                    "Yale": "sìhng lùhng",
-                    "Simplified": "成龙",
-                    "Pinyin": "chéng lóng"
-                },
-                {
-                    "English": "Jacky Cheung (actor,singer)",
-                    "Cantonese": "張學友",
-                    "Yale": "jēung hohk yáuh",
-                    "Jyutping": "zoeng1 hok6 jau5",
-                    "Simplified": "张学友",
-                    "Pinyin": "zhāng xué yǒu"
-                },
-                {
-                    "English": "Katherine Sui Fun Cheung (aviator)",
-                    "Cantonese": "張瑞芬",
-                    "Yale": "jēung seuih fān",
-                    "Simplified": "张瑞芬",
-                    "Pinyin": "zhāng ruì fēn"
-                },
-                {
-                    "English": "Leslie Cheung (actor,singer)",
-                    "Cantonese": "張國榮",
-                    "Yale": "jēung gwok wìhng",
-                    "Jyutping": "zoeng1 gwok3 wing4",
-                    "Simplified": "张國榮",
-                    "Pinyin": "zhāng guó róng"
-                },
-                {
-                    "English": "Maggie Cheung (actor)",
-                    "Cantonese": "張曼玉",
-                    "Yale": "jēung maahn yuhk",
-                    "Simplified": "张曼玉",
-                    "Pinyin": "zhāng màn yù"
-                },
-                {
-                    "English": "Margaret Chung (physician)",
-                    "Cantonese": "張瑪珠",
-                    "Yale": "jēung máh jyū",
-                    "Simplified": "张玛珠",
-                    "Pinyin": "zhāng mǎ zhū"
-                },
-                {
-                    "English": "Agnes Chow (politician, activist)",
-                    "Cantonese": "周庭",
-                    "Yale": "jāu tìhng",
-                    "Pinyin": "zhōu tíng"
-                },
-                {
-                    "English": "Stephen Chow (actor)",
-                    "Cantonese": "周星馳",
-                    "Yale": "jāu sīng chìh",
-                    "Simplified": "周星驰",
-                    "Pinyin": "Zhōu Xīng chí"
-                },
-                {
-                    "English": "Chow Yun Fat (actor)",
-                    "Cantonese": "周潤發",
-                    "Yale": "jāu yeuhn faat",
-                    "Simplified": "周润发",
-                    "Pinyin": "zhōu rùn fā"
-                },
-                {
-                    "English": "Eddie Chu (politician, activist)",
-                    "Cantonese": "朱凱廸",
-                    "Yale": "jyū hói dí",
-                    "Simplified": "朱凯廸",
-                    "Pinyin": "zhū kǎi dihk"
-                },
-                {
-                    "English": "Feng Ru (aviator)",
-                    "Cantonese": "馮如",
-                    "Yale": "fùhng yùh",
-                    "Simplified": "冯如",
-                    "Pinyin": "píng rú"
-                },
-                {
-                    "English": "Dalai Lama (spiritual leader)",
-                    "Cantonese": "達賴喇嘛",
-                    "Yale": "daaht laaih lā màh",
-                    "Simplified": "达赖喇嘛",
-                    "Pinyin": "dá lài Lǎ ma}"
-                },
-                {
-                    "English": "Mahatma Gandhi (activist)",
-                    "Cantonese": "甘地",
-                    "Yale": "gām deih",
-                    "Pinyin": "gān dì"
-                },
-                {
-                    "English": "Albert Ho (politician)",
-                    "Cantonese": "何俊仁",
-                    "Yale": "hòh jeun yàhn",
-                    "Pinyin": "hé jùn rén"
-                },
-                {
-                    "English": "Denise Ho (singer, activist)",
-                    "Cantonese": "何韻詩",
-                    "Yale": "hòh wáhn sī",
-                    "Simplified": "何韵诗",
-                    "Pinyin": "hé yùn shī"
-                },
-                {
-                    "English": "Gwyneth Ho (journalist,activist)",
-                    "Cantonese": "何桂藍",
-                    "Yale": "hòh gwai làahm",
-                    "Simplified": "何桂蓝",
-                    "Pinyin": "hé guì lán"
-                },
-                {
-                    "English": "Sammo Hung (actor)",
-                    "Cantonese": "洪金寶",
-                    "Yale": "hùhng gām bóu",
-                    "Simplified": "洪金宝",
-                    "Pinyin": "hóng jīn bǎo"
-                },
-                {
-                    "English": "Gish Jen (author)",
-                    "Cantonese": "任璧蓮",
-                    "Simplified": "任璧莲",
-                    "Yale": "yahm bīk lìhn",
-                    "Pinyin": "rèn bì lián"
-                },
-                {
-                    "English": "R.F. Kuang (author)",
-                    "Cantonese": "匡靈秀",
-                    "Yale": "hōng lìhng sau",
-                    "Simplified": "匡灵秀",
-                    "Pinyin": "kuāng líng xiù"
-                },
-                {
-                    "English": "Jimmy Lai (activist)",
-                    "Cantonese": "黎智英",
-                    "Yale": "làih ji yīng",
-                    "Pinyin": "lí zh yīng"
-                },
-                {
-                    "English": "Bernhard Riemann (mathematician)",
-                    "Cantonese": "黎曼",
-                    "Yale": "làih maahn ",
-                    "Pinyin": "lí màn"
-                },
-                {
-                    "English": "Andy Lau (actor)",
-                    "Cantonese": "劉德華",
-                    "Yale": "làuh dāk wàh",
-                    "Simplified": "刘德华",
-                    "Pinyin": "liú dé huá"
-                },
-                {
-                    "English": "Carina Lau (actor)",
-                    "Cantonese": "劉嘉玲",
-                    "Yale": "làuh gā lìhng",
-                    "Simplified": "刘嘉玲",
-                    "Pinyin": "liú jiā líng"
-                },
-                {
-                    "English": "Emily Lau (politician)",
-                    "Cantonese": "劉慧卿",
-                    "Yale": "làuh waih hīng",
-                    "Simplified": "刘慧卿",
-                    "Pinyin": "liú huì qīng"
-                },
-                {
-                    "English": "Ken Liu (author)",
-                    "Cantonese": "劉宇昆",
-                    "Yale": "làuh yúh kwān",
-                    "Simplified": "刘宇昆",
-                    "Pinyin": "liú yǔ kūn"
-                },
-                {
-                    "English": "Ventus Lau (activist)",
-                    "Cantonese": "劉頴匡",
-                    "Yale": "làuh wihng hōng",
-                    "Simplified": "刘颕匡",
-                    "Pinyin": "liú yǐng kuāng"
-                },
-                {
-                    "English": "Liu Xia (artist)",
-                    "Cantonese": "劉霞",
-                    "Yale": "làuh hàh",
-                    "Simplified": "刘霞",
-                    "Pinyin": "liú xiá"
-                },
-                {
-                    "English": "Liu Xiaobo (activist)",
-                    "Cantonese": "劉曉波",
-                    "Yale": "làuh híu bō",
-                    "Simplified": "刘晓波",
-                    "Pinyin": "liú xiǎo bō"
-                },
-                {
-                    "English": "Ang Li (filmmaker)",
-                    "Cantonese": "李安",
-                    "Yale": "léih ōn",
-                    "Pinyin": "Lǐ Ān"
-                },
-                {
-                    "English": "Brandon Lee (actor)",
-                    "Cantonese": "李國豪",
-                    "Yale": "léih gwok hòuh",
-                    "Simplified": "李国豪",
-                    "Pinyin": "lǐ guó háo"
-                },
-                {
-                    "English": "Bruce Lee (actor)",
-                    "Cantonese": "李小龍",
-                    "Yale": "léih síu lùhng",
-                    "Simplified": "李小龙",
-                    "Pinyin": "lǐ xiǎo lóng"
-                },
-                {
-                    "English": "Corky Lee (photographer,activist)",
-                    "Cantonese": "李揚國",
-                    "Yale": "léih yèuhng gwok",
-                    "Simplified": "李扬国",
-                    "Pinyin": "lǐ yáng guó"
-                },
-                {
-                    "English": "Hazel Ying Lee (aviator)",
-                    "Cantonese": "李月英",
-                    "Yale": "léih yuht yīng",
-                    "Pinyin": "lǐ yuè yīng"
-                },
-                {
-                    "English": "Jason Scott Lee (actor)",
-                    "Cantonese": "李截",
-                    "Yale": "léih jiht",
-                    "Simplified": "李",
-                    "Pinyin": "lǐ jié"
-                },
-                {
-                    "English": "Jet Li (actor)",
-                    "Cantonese": "李連杰",
-                    "Yale": "léih lìhn giht",
-                    "Simplified": "李连杰",
-                    "Pinyin": "lǐ lián jié"
-                },
-                {
-                    "English": "Joyce Chen (chef)",
-                    "Cantonese": "廖家艾",
-                    "Yale": "liuh gā ngaaih",
-                    "Pinyin": "liào jiā ài"
-                },
-                {
-                    "English": "Lam Cheuk-ting (activist)",
-                    "Cantonese": "林卓廷",
-                    "Yale": "làhm cheuk tìhng",
-                    "Pinyin": "lín zhuó tìhng"
-                },
-                {
-                    "English": "Ariel Lin (actor)",
-                    "Cantonese": "林依晨",
-                    "Yale": "làhm yī sàhn",
-                    "Pinyin": "lín yī chén"
-                },
-                {
-                    "English": "Jeremy Lin (athlete)",
-                    "Cantonese": "林書豪",
-                    "Yale": "làhm syū hòuh",
-                    "Simplified": "林书豪",
-                    "Pinyin": "lín shū háo"
-                },
-                {
-                    "English": "Maya Lin (artist)",
-                    "Cantonese": "林瓔",
-                    "Yale": "làhm yīng",
-                    "Simplified": "林璎",
-                    "Pinyin": "lín yīng"
-                },
-                {
-                    "English": "Leung Kwok-hung (politician, activist)",
-                    "Cantonese": "梁國雄",
-                    "Yale": "lèuhng gwok hùhng",
-                    "Simplified": "梁国雄",
-                    "Pinyin": "liáng guó xióng"
-                },
-                {
-                    "English": "Kenneth Ma (actor)",
-                    "Cantonese": "馬國明",
-                    "Yale": "máh gwok mìhng",
-                    "Simplified": "马国明",
-                    "Pinyin": "mǎ guó míng"
-                },
-                {
-                    "English": "Yo-Yo Ma (musician)",
-                    "Cantonese": "馬友友",
-                    "Yale": "máh yáuh yáuh",
-                    "Simplified": "马友友",
-                    "Pinyin": "mǎ yǒu yǒu"
-                },
-                {
-                    "English": "Horse Face (myth)",
-                    "Cantonese": "馬面",
-                    "Yale": "máh mihn",
-                    "Simplified": "马面",
-                    "Pinyin": "mǎ miàn"
-                },
-                {
-                    "English": "Cora Miao (actor)",
-                    "Cantonese": "繆騫人",
-                    "Yale": "mauh hīn yàhn",
-                    "Simplified": "缪骞人",
-                    "Pinyin": "miù qiān rén"
-                },
-                {
-                    "English": "Claudia Mo (journalist, politician, activist)",
-                    "Cantonese": "毛孟靜",
-                    "Yale": "mòuh maahng jihng",
-                    "Simplified": "毛静靜",
-                    "Pinyin": "máo mèng jìng"
-                },
-                {
-                    "English": "Nelson Mandela (politician)",
-                    "Cantonese": "曼德拉",
-                    "Yale": "maahn dāk lāai",
-                    "Pinyin": "màn dé lā"
-                },
-                {
-                    "English": "Thomas Edison (inventor)",
-                    "Cantonese": "愛迪生",
-                    "Yale": "oi dihk sāng",
-                    "Simplified": "爱迪生",
-                    "Pinyin": "Ài dí shēng"
-                },
-                {
-                    "English": "Albert Einstein (physicist)",
-                    "Cantonese": "愛因斯坦",
-                    "Yale": "oi yān sī táan",
-                    "Simplified": "爱因斯坦",
-                    "Pinyin": "Ài yīn sī tǎn"
-                },
-                {
-                    "English": "Madaleine Albright (diplomat)",
-                    "Cantonese": "奧爾布賴特",
-                    "Yale": "ou yíh bou laaih dahk",
-                    "Simplified": "奥奥尔赖特",
-                    "Pinyin": "Ào ěr bù lài tè"
-                },
-                {
-                    "English": "Barack Obama (politician)",
-                    "Cantonese": "奧巴馬",
-                    "Yale": "ou bā máh",
-                    "Simplified": "奥巴马",
-                    "Pinyin": "Ào bā mǎ"
-                },
-                {
-                    "English": "Odin (Norse god)",
-                    "Cantonese": "奧迪",
-                    "Yale": "ou dihk",
-                    "Simplified": "奥迪",
-                    "Pinyin": "Ào dí"
-                },
-                {
-                    "English": "Odysseus (Greek hero)",
-                    "Cantonese": "奧德修斯",
-                    "Yale": "ou dāk sāu sī",
-                    "Simplified": "奥德修斯",
-                    "Pinyin": "Ào dé xiū sī"
-                },
-                {
-                    "English": "Amy Tan (author)",
-                    "Cantonese": "譚恩美",
-                    "Simplified": "谭恩美",
-                    "Yale": "tàahm yān méih",
-                    "Pinyin": "tán ēn méih"
-                },
-                {
-                    "English": "Phil Chu (app developer)",
-                    "Cantonese": "徐宏恩",
-                    "Yale": "chèuih wàhng yān",
-                    "Pinyin": "xú hóng ēn"
-                },
-                {
-                    "English": "Barbie Hsu (actor)",
-                    "Cantonese": "徐熙媛",
-                    "Yale": "chèuih hēi wùhn",
-                    "Pinyin": "xú xī yuán"
-                },
-                {
-                    "English": "Dee Hsu (actor)",
-                    "Cantonese": "徐熙娣",
-                    "Yale": "chèuih hēi táih",
-                    "Pinyin": "xú xī dì"
-                },
-                {
-                    "English": "Benny Tai (scholar, activist)",
-                    "Cantonese": "戴耀廷",
-                    "Yale": "daai yiuh tìhng",
-                    "Pinyin": "dà yào tíng"
-                },
-                {
-                    "English": "James To (lawyer, politician, activist)",
-                    "Cantonese": "涂謹申",
-                    "Simplified": "涂谨申",
-                    "Yale": "tòuh gán sān",
-                    "Pinyin": "tú jǐn shēn"
-                },
-                {
-                    "English": "Tsui Hark (filmmaker)",
-                    "Cantonese": "徐克",
-                    "Yale": "chèuih hāk",
-                    "Pinyin": "xú kè"
-                },
-                {
-                    "English": "Kate Tsui (actor)",
-                    "Cantonese": "徐子珊",
-                    "Yale": "chèuih jí sāan",
-                    "Pinyin": "xú zi shān"
-                },
-                {
-                    "English": "Norman Tsui (actor)",
-                    "Cantonese": "徐少強",
-                    "Yale": "chèuih síu kèuhng",
-                    "Pinyin": "xú shǎo jiāng"
-                },
-                {
-                    "English": "Paula Tsui (singer)",
-                    "Cantonese": "徐小鳳",
-                    "Simplified": "徐小凤",
-                    "Yale": "chèuih síu fuhng",
-                    "Pinyin": "xú xiǎo fèng"
-                },
-                {
-                    "English": "Xu Beihong (painter)",
-                    "Cantonese": "徐悲鴻",
-                    "Simplified": "徐悲鸿",
-                    "Yale": "chèuih bēi hùhng",
-                    "Pinyin": "xú bēi hóng"
-                },
-                {
-                    "English": "Xu Fu (explorer)",
-                    "Cantonese": "徐福",
-                    "Yale": "chèuih fūk",
-                    "Pinyin": "xú fú"
-                },
-                {
-                    "English": "Xu Jun (Chinese chess player)",
-                    "Cantonese": "徐俊",
-                    "Yale": "chèuih jeun",
-                    "Pinyin": "xú jùn"
-                },
-                {
-                    "English": "Xu Wei (painter)",
-                    "Cantonese": "徐渭",
-                    "Yale": "chèuih waih",
-                    "Pinyin": "xú wèi"
-                },
-                {
-                    "English": "Xu Xiake (explorer)",
-                    "Cantonese": "徐霞客",
-                    "Yale": "chèuih hàh haak",
-                    "Pinyin": "xú xiá kè"
-                },
-                {
-                    "English": "Xu Xing (paleontologist)",
-                    "Cantonese": "徐星",
-                    "Yale": "chèuih sīng",
-                    "Pinyin": "xú xīng"
-                },
-                {
-                    "English": "Xu Zhimo (poet)",
-                    "Cantonese": "徐志摩",
-                    "Yale": "chèuih ji mō",
-                    "Pinyin": "xú zhì mó"
-                },
-                {
-                    "English": "Ming-Na Wen (actor)",
-                    "Cantonese": "溫明娜",
-                    "Yale": "wān mìhng nàah",
-                    "Simplified": "温明娜",
-                    "Pinyin": "wēn míng nà"
-                },
-                {
-                    "English": "Wong Bi (philosopher)",
-                    "Cantonese": "王弼",
-                    "Yale": "wòhng baht",
-                    "Pinyin": "wáng bì"
-                },
-                {
-                    "English": "Joey Wong (actor)",
-                    "Cantonese": "王祖賢",
-                    "Yale": "wòhng jóu yìhn",
-                    "Simplified": "王祖贤",
-                    "Pinyin": "huáng zǔ xián"
-                },
-                {
-                    "English": "Russell Wong (actor)",
-                    "Cantonese": "王慎德",
-                    "Yale": "wòhng sahn dāk",
-                    "Pinyin": "wáng shèn dé"
-                },
-                {
-                    "English": "Wayne Wang (filmmaker)",
-                    "Cantonese": "王穎",
-                    "Yale": "wòhng wihng",
-                    "Simplified": "王颖",
-                    "Pinyin": "wáng yǐng"
-                },
-                {
-                    "English": "Wong Kar-wai (filmmaker)",
-                    "Cantonese": "王家衞",
-                    "Yale": "wòhng gā waih",
-                    "Simplified": "王家卫",
-                    "Pinyin": "wáng jiā wèi"
-                },
-                {
-                    "Cantonese": "龍王",
-                    "English": "Dragon King (myth)",
-                    "Yale": "lùhng wòhng",
-                    "Simplified": "龙王",
-                    "Pinyin": "lóng wáng"
-                },
-                {
-                    "Cantonese": "猴王",
-                    "English": "Monkey King (myth)",
-                    "Yale": "hàuh wòhng",
-                    "Pinyin": "hóu wáng"
-                },
-                {
-                    "English": "Elvis (actor)",
-                    "Cantonese": "貓王",
-                    "Yale": "māau wòhng",
-                    "Simplified": "猫王",
-                    "Pinyin": "māo wáng"
-                },
-                {
-                    "English": "Anthony Wong (actor)",
-                    "Cantonese": "黃秋生",
-                    "Yale": "wòhng chāu sāng",
-                    "Simplified": "黄秋生",
-                    "Pinyin": "huáng qiū shēng"
-                },
-                {
-                    "English": "Bosco Wong (actor)",
-                    "Cantonese": "黃宗澤",
-                    "Yale": "wòhng jūng jaahk",
-                    "Simplified": "黄宗泽",
-                    "Pinyin": "huáng zōng zé"
-                },
-                {
-                    "English": "B.D. Wong (actor)",
-                    "Cantonese": "黃榮亮",
-                    "Simplified": "黄荣亮",
-                    "Yale": "wòhng wìhng leuhng",
-                    "Pinyin": "huáng róng liàng"
-                },
-                {
-                    "English": "Joshua Wong (politician, activist)",
-                    "Cantonese": "黃之鋒",
-                    "Simplified": "黃之锋",
-                    "Yale": "wòhng jī fūng",
-                    "Pinyin": "huáng zhī fēng"
-                },
-                {
-                    "English": "Victor Wong (actor)",
-                    "Cantonese": "黃自強",
-                    "Yale": "wòhng  jih kèuhng",
-                    "Simplified": "黄自强",
-                    "Pinyin": "huáng zì qiáng"
-                },
-                {
-                    "English": "Confucius (philosopher)",
-                    "Cantonese": "孔夫子",
-                    "Yale": "húng fū jí",
-                    "Pinyin": "kǒng cóng zǐ"
-                },
-                {
-                    "English": "Mencius (philosopher)",
-                    "Cantonese": "孟子",
-                    "Yale": "maahng jí",
-                    "Pinyin": "mèng zǐ"
-                },
-                {
-                    "English": "Carrie Ng (actor)",
-                    "Cantonese": "吳家麗",
-                    "Simplified": "吴家丽",
-                    "Yale": "ǹgh gā laih",
-                    "Pinyin": "wú jiā lì"
-                },
-                {
-                    "English": "Celeste Ng (author)",
-                    "Cantonese": "吳綺詩",
-                    "Simplified": "吴绮诗",
-                    "Yale": "ǹgh yí sī",
-                    "Pinyin": "wú qǐ sī"
-                },
-                {
-                    "English": "Wu Cheng'en (author)",
-                    "Cantonese": "吳承恩",
-                    "Simplified": "吴承恩",
-                    "Yale": "ǹgh sìhng yān",
-                    "Pinyin": "wú chéng ēn"
-                },
-                {
-                    "English": "Chien-Shiung Wu (physicist)",
-                    "Cantonese": "吳健雄",
-                    "Simplified": "吴健雄",
-                    "Yale": "ǹgh gihn hùhng",
-                    "Pinyin": "wú jiàn xióng"
-                },
-                {
-                    "English": "Daniel Wu (actor)",
-                    "Cantonese": "吳彥祖",
-                    "Simplified": "吴彦祖",
-                    "Yale": "ǹgh yihn jóu",
-                    "Pinyin": "wú yàn zǔ"
-                },
-                {
-                    "English": "Wu Han (historian)",
-                    "Cantonese": "吳晗",
-                    "Simplified": "吴晗",
-                    "Yale": "ǹgh hàhm",
-                    "Pinyin": "wú hán"
-                },
-                {
-                    "English": "James Hong (actor)",
-                    "Cantonese": "吳漢章",
-                    "Yale": "ǹgh hon jēung",
-                    "Simplified": "吴汉章",
-                    "Pinyin": "wú hàn zhāng"
-                },
-                {
-                    "English": "John Woo (filmmaker)",
-                    "Cantonese": "吳宇森",
-                    "Simplified": "吴宇森",
-                    "Yale": "ǹgh yúh sām",
-                    "Pinyin": "wú yǔ sēn"
-                },
-                {
-                    "English": "Martin Yan (chef)",
-                    "Cantonese": "甄文達",
-                    "Simplified": "甄文达",
-                    "Yale": "yān màhn daaht",
-                    "Pinyin": "zhēn wén dá"
-                },
-                {
-                    "English": "Bowen Yang (actor)",
-                    "Cantonese": "楊伯文",
-                    "Simplified": "杨伯文",
-                    "Yale": "yèuhng baak màhn",
-                    "Pinyin": "yáng bó wén"
-                },
-                {
-                    "English": "Buwei Yang Cho (physician, author)",
-                    "Cantonese": "楊步偉",
-                    "Simplified": "杨步伟",
-                    "Yale": "yèuhng bou wáih",
-                    "Pinyin": "yáng bù wěi"
-                },
-                {
-                    "English": "Yang Chen Ning (physicist)",
-                    "Cantonese": "楊振寧",
-                    "Simplified": "杨振宁",
-                    "Yale": "yèuhng jan nìhng",
-                    "Pinyin": "yáng zhèn níng"
-                },
-                {
-                    "English": "Gene Luen Yang (author)",
-                    "Cantonese": "楊謹倫",
-                    "Simplified": "杨谨伦",
-                    "Yale": "yèuhng gán lèuhn",
-                    "Pinyin": "yáng jǐn lún"
-                },
-                {
-                    "English": "Yang Jian Li (activist)",
-                    "Cantonese": "楊建利",
-                    "Simplified": "杨建利",
-                    "Yale": "yèuhng gin leih",
-                    "Pinyin": "yáng jiàn lì"
-                },
-                {
-                    "English": "Yang Yuhuan (historical figure)",
-                    "Cantonese": "楊玉環",
-                    "Simplified": "杨玉环",
-                    "Yale": "yèuhng yuhk wàahn",
-                    "Pinyin": "yáng yù huán"
-                },
-                {
-                    "English": "Michelle Yeoh (actor)",
-                    "Cantonese": "楊紫瓊",
-                    "Simplified": "杨紫琼",
-                    "Yale": "yèuhng jí kìhng",
-                    "Pinyin": "yáng zǐ qióng"
-                },
-                {
-                    "English": "Brigham Young (Mormon)",
-                    "Cantonese": "楊百翰",
-                    "Simplified": "杨百翰",
-                    "Yale": "yèuhng baak hohn",
-                    "Pinyin": "yáng bǎi hàn"
-                },
-                {
-                    "English": "Yao Ming (athlete)",
-                    "Cantonese": "姚明",
-                    "Yale": "yìuh mìhng",
-                    "Pinyin": "yáo míng"
-                },
-                {
-                    "English": "Amy Yip (actor)",
-                    "Cantonese": "葉子楣",
-                    "Yale": "yihp jí mèih",
-                    "Simplified": "叶子楣",
-                    "Pinyin": "yè zi méi"
-                },
-                {
-                    "English": "Yip Man (martial artist)",
-                    "Cantonese": "葉問",
-                    "Yale": "yihp mahn",
-                    "Simplified": "叶问",
-                    "Pinyin": "yè wèn"
-                },
-                {
-                    "English": "Winnie the Pooh",
-                    "Cantonese": "維尼熊",
-                    "Yale": "wàih nèih hùhng",
-                    "Simplified": "维尼熊",
-                    "Pinyin": "wéi ní xióng"
-                },
-                {
-                    "English": "Winnie Yu (nurse, politician, activist)",
-                    "Cantonese": "余慧明",
-                    "Yale": "yùh waaih mìhng",
-                    "Pinyin": "yú huì míng"
-                },
-                {
-                    "English": "Anita Yuen (actor)",
-                    "Cantonese": "袁詠儀",
-                   c
-                    "Yale": "yùhn wihng yìh",
-                    "Pinyin": "yuán yǒng yí"
-                },
-                {
-                    "English": "Tiffany Yuen (politician, activist)",
-                    "Cantonese": "袁嘉蔚",
-                    "Yale": "yùhn gā wai",
-                    "Pinyin": "yuán jiā wèi"
-                },
-                {
-                    "English": "Feng-hsiung Hsu (computer scientist)",
-                    "Cantonese": "許峰雄",
-                    "Yale": "héui fūng hùhng",
-                    "Pinyin": "xǔ fēng xióng",
-                    "Simplified": "许峰雄"
-                }
-            ]
+          "English": "Ai Wei Wei (artist,activist)",
+          "Cantonese": "艾未未",
+          "Yale": "ngaaih meih meih",
+          "Pinyin": "ai wèi wèi"
+        },
+        {
+          "English": "Joe Biden (politician)",
+          "Cantonese": "拜登",
+          "Yale": "baai dāng",
+          "Pinyin": "bài dēng"
+        },
+        {
+          "English": "Ming Tsai (chef)",
+          "Cantonese": "蔡明昊",
+          "Yale": "choi mihng houh",
+          "Pinyin": "cài míng hào"
+        },
+        {
+          "English": "Joseph Zen (cardinal, activist)",
+          "Cantonese": "陳日君",
+          "Yale": "chàhn yaht gwān",
+          "Simplified": "陈日君",
+          "Pinyin": "chén rì jūn"
+        },
+        {
+          "English": "Moses Chan (actor)",
+          "Cantonese": "陳豪",
+          "Yale": "chàhn hòuh",
+          "Simplified": "陈豪",
+          "Pinyin": "chén háo"
+        },
+        {
+          "English": "Fruit Chan Gor (filmmaker)",
+          "Cantonese": "陳果",
+          "Yale": "chàhn gwó",
+          "Simplified": "陈果",
+          "Pinyin": "chén gwó"
+        },
+        {
+          "English": "Tina Chen (actor)",
+          "Cantonese": "陳婷",
+          "Yale": "chàhn tìhng",
+          "Simplified": "陈婷",
+          "Pinyin": "chén tíng"
+        },
+        {
+          "English": "Jacky Chan (actor)",
+          "Cantonese": "成龍",
+          "Yale": "sìhng lùhng",
+          "Simplified": "成龙",
+          "Pinyin": "chéng lóng"
+        },
+        {
+          "English": "Jacky Cheung (actor,singer)",
+          "Cantonese": "張學友",
+          "Yale": "jēung hohk yáuh",
+          "Jyutping": "zoeng1 hok6 jau5",
+          "Simplified": "张学友",
+          "Pinyin": "zhāng xué yǒu"
+        },
+        {
+          "English": "Katherine Sui Fun Cheung (aviator)",
+          "Cantonese": "張瑞芬",
+          "Yale": "jēung seuih fān",
+          "Simplified": "张瑞芬",
+          "Pinyin": "zhāng ruì fēn"
+        },
+        {
+          "English": "Leslie Cheung (actor,singer)",
+          "Cantonese": "張國榮",
+          "Yale": "jēung gwok wìhng",
+          "Jyutping": "zoeng1 gwok3 wing4",
+          "Simplified": "张國榮",
+          "Pinyin": "zhāng guó róng"
+        },
+        {
+          "English": "Maggie Cheung (actor)",
+          "Cantonese": "張曼玉",
+          "Yale": "jēung maahn yuhk",
+          "Simplified": "张曼玉",
+          "Pinyin": "zhāng màn yù"
+        },
+        {
+          "English": "Margaret Chung (physician)",
+          "Cantonese": "張瑪珠",
+          "Yale": "jēung máh jyū",
+          "Simplified": "张玛珠",
+          "Pinyin": "zhāng mǎ zhū"
+        },
+        {
+          "English": "Agnes Chow (politician, activist)",
+          "Cantonese": "周庭",
+          "Yale": "jāu tìhng",
+          "Pinyin": "zhōu tíng"
+        },
+        {
+          "English": "Stephen Chow (actor)",
+          "Cantonese": "周星馳",
+          "Yale": "jāu sīng chìh",
+          "Simplified": "周星驰",
+          "Pinyin": "Zhōu Xīng chí"
+        },
+        {
+          "English": "Chow Yun Fat (actor)",
+          "Cantonese": "周潤發",
+          "Yale": "jāu yeuhn faat",
+          "Simplified": "周润发",
+          "Pinyin": "zhōu rùn fā"
+        },
+        {
+          "English": "Eddie Chu (politician, activist)",
+          "Cantonese": "朱凱廸",
+          "Yale": "jyū hói dí",
+          "Simplified": "朱凯廸",
+          "Pinyin": "zhū kǎi dihk"
+        },
+        {
+          "English": "Feng Ru (aviator)",
+          "Cantonese": "馮如",
+          "Yale": "fùhng yùh",
+          "Simplified": "冯如",
+          "Pinyin": "píng rú"
+        },
+        {
+          "English": "Dalai Lama (spiritual leader)",
+          "Cantonese": "達賴喇嘛",
+          "Yale": "daaht laaih lā màh",
+          "Simplified": "达赖喇嘛",
+          "Pinyin": "dá lài Lǎ ma}"
+        },
+        {
+          "English": "Mahatma Gandhi (activist)",
+          "Cantonese": "甘地",
+          "Yale": "gām deih",
+          "Pinyin": "gān dì"
+        },
+        {
+          "English": "Albert Ho (politician)",
+          "Cantonese": "何俊仁",
+          "Yale": "hòh jeun yàhn",
+          "Pinyin": "hé jùn rén"
+        },
+        {
+          "English": "Denise Ho (singer, activist)",
+          "Cantonese": "何韻詩",
+          "Yale": "hòh wáhn sī",
+          "Simplified": "何韵诗",
+          "Pinyin": "hé yùn shī"
+        },
+        {
+          "English": "Gwyneth Ho (journalist,activist)",
+          "Cantonese": "何桂藍",
+          "Yale": "hòh gwai làahm",
+          "Simplified": "何桂蓝",
+          "Pinyin": "hé guì lán"
+        },
+        {
+          "English": "Sammo Hung (actor)",
+          "Cantonese": "洪金寶",
+          "Yale": "hùhng gām bóu",
+          "Simplified": "洪金宝",
+          "Pinyin": "hóng jīn bǎo"
+        },
+        {
+          "English": "Gish Jen (author)",
+          "Cantonese": "任璧蓮",
+          "Simplified": "任璧莲",
+          "Yale": "yahm bīk lìhn",
+          "Pinyin": "rèn bì lián"
+        },
+        {
+          "English": "R.F. Kuang (author)",
+          "Cantonese": "匡靈秀",
+          "Yale": "hōng lìhng sau",
+          "Simplified": "匡灵秀",
+          "Pinyin": "kuāng líng xiù"
+        },
+        {
+          "English": "Jimmy Lai (activist)",
+          "Cantonese": "黎智英",
+          "Yale": "làih ji yīng",
+          "Pinyin": "lí zh yīng"
+        },
+        {
+          "English": "Bernhard Riemann (mathematician)",
+          "Cantonese": "黎曼",
+          "Yale": "làih maahn ",
+          "Pinyin": "lí màn"
+        },
+        {
+          "English": "Andy Lau (actor)",
+          "Cantonese": "劉德華",
+          "Yale": "làuh dāk wàh",
+          "Simplified": "刘德华",
+          "Pinyin": "liú dé huá"
+        },
+        {
+          "English": "Carina Lau (actor)",
+          "Cantonese": "劉嘉玲",
+          "Yale": "làuh gā lìhng",
+          "Simplified": "刘嘉玲",
+          "Pinyin": "liú jiā líng"
+        },
+        {
+          "English": "Emily Lau (politician)",
+          "Cantonese": "劉慧卿",
+          "Yale": "làuh waih hīng",
+          "Simplified": "刘慧卿",
+          "Pinyin": "liú huì qīng"
+        },
+        {
+          "English": "Ken Liu (author)",
+          "Cantonese": "劉宇昆",
+          "Yale": "làuh yúh kwān",
+          "Simplified": "刘宇昆",
+          "Pinyin": "liú yǔ kūn"
+        },
+        {
+          "English": "Ventus Lau (activist)",
+          "Cantonese": "劉頴匡",
+          "Yale": "làuh wihng hōng",
+          "Simplified": "刘颕匡",
+          "Pinyin": "liú yǐng kuāng"
+        },
+        {
+          "English": "Liu Xia (artist)",
+          "Cantonese": "劉霞",
+          "Yale": "làuh hàh",
+          "Simplified": "刘霞",
+          "Pinyin": "liú xiá"
+        },
+        {
+          "English": "Liu Xiaobo (activist)",
+          "Cantonese": "劉曉波",
+          "Yale": "làuh híu bō",
+          "Simplified": "刘晓波",
+          "Pinyin": "liú xiǎo bō"
+        },
+        {
+          "English": "Ang Li (filmmaker)",
+          "Cantonese": "李安",
+          "Yale": "léih ōn",
+          "Pinyin": "Lǐ Ān"
+        },
+        {
+          "English": "Brandon Lee (actor)",
+          "Cantonese": "李國豪",
+          "Yale": "léih gwok hòuh",
+          "Simplified": "李国豪",
+          "Pinyin": "lǐ guó háo"
+        },
+        {
+          "English": "Bruce Lee (actor)",
+          "Cantonese": "李小龍",
+          "Yale": "léih síu lùhng",
+          "Simplified": "李小龙",
+          "Pinyin": "lǐ xiǎo lóng"
+        },
+        {
+          "English": "Corky Lee (photographer,activist)",
+          "Cantonese": "李揚國",
+          "Yale": "léih yèuhng gwok",
+          "Simplified": "李扬国",
+          "Pinyin": "lǐ yáng guó"
+        },
+        {
+          "English": "Hazel Ying Lee (aviator)",
+          "Cantonese": "李月英",
+          "Yale": "léih yuht yīng",
+          "Pinyin": "lǐ yuè yīng"
+        },
+        {
+          "English": "Jason Scott Lee (actor)",
+          "Cantonese": "李截",
+          "Yale": "léih jiht",
+          "Simplified": "李",
+          "Pinyin": "lǐ jié"
+        },
+        {
+          "English": "Jet Li (actor)",
+          "Cantonese": "李連杰",
+          "Yale": "léih lìhn giht",
+          "Simplified": "李连杰",
+          "Pinyin": "lǐ lián jié"
+        },
+        {
+          "English": "Joyce Chen (chef)",
+          "Cantonese": "廖家艾",
+          "Yale": "liuh gā ngaaih",
+          "Pinyin": "liào jiā ài"
+        },
+        {
+          "English": "Lam Cheuk-ting (activist)",
+          "Cantonese": "林卓廷",
+          "Yale": "làhm cheuk tìhng",
+          "Pinyin": "lín zhuó tìhng"
+        },
+        {
+          "English": "Ariel Lin (actor)",
+          "Cantonese": "林依晨",
+          "Yale": "làhm yī sàhn",
+          "Pinyin": "lín yī chén"
+        },
+        {
+          "English": "Jeremy Lin (athlete)",
+          "Cantonese": "林書豪",
+          "Yale": "làhm syū hòuh",
+          "Simplified": "林书豪",
+          "Pinyin": "lín shū háo"
+        },
+        {
+          "English": "Maya Lin (artist)",
+          "Cantonese": "林瓔",
+          "Yale": "làhm yīng",
+          "Simplified": "林璎",
+          "Pinyin": "lín yīng"
+        },
+        {
+          "English": "Leung Kwok-hung (politician, activist)",
+          "Cantonese": "梁國雄",
+          "Yale": "lèuhng gwok hùhng",
+          "Simplified": "梁国雄",
+          "Pinyin": "liáng guó xióng"
+        },
+        {
+          "English": "Kenneth Ma (actor)",
+          "Cantonese": "馬國明",
+          "Yale": "máh gwok mìhng",
+          "Simplified": "马国明",
+          "Pinyin": "mǎ guó míng"
+        },
+        {
+          "English": "Yo-Yo Ma (musician)",
+          "Cantonese": "馬友友",
+          "Yale": "máh yáuh yáuh",
+          "Simplified": "马友友",
+          "Pinyin": "mǎ yǒu yǒu"
+        },
+        {
+          "English": "Horse Face (myth)",
+          "Cantonese": "馬面",
+          "Yale": "máh mihn",
+          "Simplified": "马面",
+          "Pinyin": "mǎ miàn"
+        },
+        {
+          "English": "Cora Miao (actor)",
+          "Cantonese": "繆騫人",
+          "Yale": "mauh hīn yàhn",
+          "Simplified": "缪骞人",
+          "Pinyin": "miù qiān rén"
+        },
+        {
+          "English": "Claudia Mo (journalist, politician, activist)",
+          "Cantonese": "毛孟靜",
+          "Yale": "mòuh maahng jihng",
+          "Simplified": "毛静靜",
+          "Pinyin": "máo mèng jìng"
+        },
+        {
+          "English": "Nelson Mandela (politician)",
+          "Cantonese": "曼德拉",
+          "Yale": "maahn dāk lāai",
+          "Pinyin": "màn dé lā"
+        },
+        {
+          "English": "Thomas Edison (inventor)",
+          "Cantonese": "愛迪生",
+          "Yale": "oi dihk sāng",
+          "Simplified": "爱迪生",
+          "Pinyin": "Ài dí shēng"
+        },
+        {
+          "English": "Albert Einstein (physicist)",
+          "Cantonese": "愛因斯坦",
+          "Yale": "oi yān sī táan",
+          "Simplified": "爱因斯坦",
+          "Pinyin": "Ài yīn sī tǎn"
+        },
+        {
+          "English": "Madaleine Albright (diplomat)",
+          "Cantonese": "奧爾布賴特",
+          "Yale": "ou yíh bou laaih dahk",
+          "Simplified": "奥奥尔赖特",
+          "Pinyin": "Ào ěr bù lài tè"
+        },
+        {
+          "English": "Barack Obama (politician)",
+          "Cantonese": "奧巴馬",
+          "Yale": "ou bā máh",
+          "Simplified": "奥巴马",
+          "Pinyin": "Ào bā mǎ"
+        },
+        {
+          "English": "Odin (Norse god)",
+          "Cantonese": "奧迪",
+          "Yale": "ou dihk",
+          "Simplified": "奥迪",
+          "Pinyin": "Ào dí"
+        },
+        {
+          "English": "Odysseus (Greek hero)",
+          "Cantonese": "奧德修斯",
+          "Yale": "ou dāk sāu sī",
+          "Simplified": "奥德修斯",
+          "Pinyin": "Ào dé xiū sī"
+        },
+        {
+          "English": "Amy Tan (author)",
+          "Cantonese": "譚恩美",
+          "Simplified": "谭恩美",
+          "Yale": "tàahm yān méih",
+          "Pinyin": "tán ēn méih"
+        },
+        {
+          "English": "Phil Chu (app developer)",
+          "Cantonese": "徐宏恩",
+          "Yale": "chèuih wàhng yān",
+          "Pinyin": "xú hóng ēn"
+        },
+        {
+          "English": "Barbie Hsu (actor)",
+          "Cantonese": "徐熙媛",
+          "Yale": "chèuih hēi wùhn",
+          "Pinyin": "xú xī yuán"
+        },
+        {
+          "English": "Dee Hsu (actor)",
+          "Cantonese": "徐熙娣",
+          "Yale": "chèuih hēi táih",
+          "Pinyin": "xú xī dì"
+        },
+        {
+          "English": "Benny Tai (scholar, activist)",
+          "Cantonese": "戴耀廷",
+          "Yale": "daai yiuh tìhng",
+          "Pinyin": "dà yào tíng"
+        },
+        {
+          "English": "James To (lawyer, politician, activist)",
+          "Cantonese": "涂謹申",
+          "Simplified": "涂谨申",
+          "Yale": "tòuh gán sān",
+          "Pinyin": "tú jǐn shēn"
+        },
+        {
+          "English": "Tsui Hark (filmmaker)",
+          "Cantonese": "徐克",
+          "Yale": "chèuih hāk",
+          "Pinyin": "xú kè"
+        },
+        {
+          "English": "Kate Tsui (actor)",
+          "Cantonese": "徐子珊",
+          "Yale": "chèuih jí sāan",
+          "Pinyin": "xú zi shān"
+        },
+        {
+          "English": "Norman Tsui (actor)",
+          "Cantonese": "徐少強",
+          "Yale": "chèuih síu kèuhng",
+          "Pinyin": "xú shǎo jiāng"
+        },
+        {
+          "English": "Paula Tsui (singer)",
+          "Cantonese": "徐小鳳",
+          "Simplified": "徐小凤",
+          "Yale": "chèuih síu fuhng",
+          "Pinyin": "xú xiǎo fèng"
+        },
+        {
+          "English": "Xu Beihong (painter)",
+          "Cantonese": "徐悲鴻",
+          "Simplified": "徐悲鸿",
+          "Yale": "chèuih bēi hùhng",
+          "Pinyin": "xú bēi hóng"
+        },
+        {
+          "English": "Xu Fu (explorer)",
+          "Cantonese": "徐福",
+          "Yale": "chèuih fūk",
+          "Pinyin": "xú fú"
+        },
+        {
+          "English": "Xu Jun (Chinese chess player)",
+          "Cantonese": "徐俊",
+          "Yale": "chèuih jeun",
+          "Pinyin": "xú jùn"
+        },
+        {
+          "English": "Xu Wei (painter)",
+          "Cantonese": "徐渭",
+          "Yale": "chèuih waih",
+          "Pinyin": "xú wèi"
+        },
+        {
+          "English": "Xu Xiake (explorer)",
+          "Cantonese": "徐霞客",
+          "Yale": "chèuih hàh haak",
+          "Pinyin": "xú xiá kè"
+        },
+        {
+          "English": "Xu Xing (paleontologist)",
+          "Cantonese": "徐星",
+          "Yale": "chèuih sīng",
+          "Pinyin": "xú xīng"
+        },
+        {
+          "English": "Xu Zhimo (poet)",
+          "Cantonese": "徐志摩",
+          "Yale": "chèuih ji mō",
+          "Pinyin": "xú zhì mó"
+        },
+        ,
+        {
+          "English": "Feng-hsiung Hsu (computer scientist)",
+          "Cantonese": "許峰雄",
+          "Yale": "héui fūng hùhng",
+          "Pinyin": "xǔ fēng xióng",
+          "Simplified": "许峰雄"
+        },
+        {
+          "English": "Ming-Na Wen (actor)",
+          "Cantonese": "溫明娜",
+          "Yale": "wān mìhng nàah",
+          "Simplified": "温明娜",
+          "Pinyin": "wēn míng nà"
+        },
+        {
+          "English": "Wong Bi (philosopher)",
+          "Cantonese": "王弼",
+          "Yale": "wòhng baht",
+          "Pinyin": "wáng bì"
+        },
+        {
+          "English": "Joey Wong (actor)",
+          "Cantonese": "王祖賢",
+          "Yale": "wòhng jóu yìhn",
+          "Simplified": "王祖贤",
+          "Pinyin": "huáng zǔ xián"
+        },
+        {
+          "English": "Russell Wong (actor)",
+          "Cantonese": "王慎德",
+          "Yale": "wòhng sahn dāk",
+          "Pinyin": "wáng shèn dé"
+        },
+        {
+          "English": "Wayne Wang (filmmaker)",
+          "Cantonese": "王穎",
+          "Yale": "wòhng wihng",
+          "Simplified": "王颖",
+          "Pinyin": "wáng yǐng"
+        },
+        {
+          "English": "Wong Kar-wai (filmmaker)",
+          "Cantonese": "王家衞",
+          "Yale": "wòhng gā waih",
+          "Simplified": "王家卫",
+          "Pinyin": "wáng jiā wèi"
+        },
+        {
+          "Cantonese": "龍王",
+          "English": "Dragon King (myth)",
+          "Yale": "lùhng wòhng",
+          "Simplified": "龙王",
+          "Pinyin": "lóng wáng"
+        },
+        {
+          "Cantonese": "猴王",
+          "English": "Monkey King (myth)",
+          "Yale": "hàuh wòhng",
+          "Pinyin": "hóu wáng"
+        },
+        {
+          "English": "Elvis (actor)",
+          "Cantonese": "貓王",
+          "Yale": "māau wòhng",
+          "Simplified": "猫王",
+          "Pinyin": "māo wáng"
+        },
+        {
+          "English": "Anthony Wong (actor)",
+          "Cantonese": "黃秋生",
+          "Yale": "wòhng chāu sāng",
+          "Simplified": "黄秋生",
+          "Pinyin": "huáng qiū shēng"
+        },
+        {
+          "English": "Bosco Wong (actor)",
+          "Cantonese": "黃宗澤",
+          "Yale": "wòhng jūng jaahk",
+          "Simplified": "黄宗泽",
+          "Pinyin": "huáng zōng zé"
+        },
+        {
+          "English": "B.D. Wong (actor)",
+          "Cantonese": "黃榮亮",
+          "Simplified": "黄荣亮",
+          "Yale": "wòhng wìhng leuhng",
+          "Pinyin": "huáng róng liàng"
+        },
+        {
+          "English": "Joshua Wong (politician, activist)",
+          "Cantonese": "黃之鋒",
+          "Simplified": "黃之锋",
+          "Yale": "wòhng jī fūng",
+          "Pinyin": "huáng zhī fēng"
+        },
+        {
+          "English": "Victor Wong (actor)",
+          "Cantonese": "黃自強",
+          "Yale": "wòhng  jih kèuhng",
+          "Simplified": "黄自强",
+          "Pinyin": "huáng zì qiáng"
+        },
+        {
+          "English": "Confucius (philosopher)",
+          "Cantonese": "孔夫子",
+          "Yale": "húng fū jí",
+          "Pinyin": "kǒng cóng zǐ"
+        },
+        {
+          "English": "Mencius (philosopher)",
+          "Cantonese": "孟子",
+          "Yale": "maahng jí",
+          "Pinyin": "mèng zǐ"
+        },
+        {
+          "English": "Carrie Ng (actor)",
+          "Cantonese": "吳家麗",
+          "Simplified": "吴家丽",
+          "Yale": "ǹgh gā laih",
+          "Pinyin": "wú jiā lì"
+        },
+        {
+          "English": "Celeste Ng (author)",
+          "Cantonese": "吳綺詩",
+          "Simplified": "吴绮诗",
+          "Yale": "ǹgh yí sī",
+          "Pinyin": "wú qǐ sī"
+        },
+        {
+          "English": "Wu Cheng'en (author)",
+          "Cantonese": "吳承恩",
+          "Simplified": "吴承恩",
+          "Yale": "ǹgh sìhng yān",
+          "Pinyin": "wú chéng ēn"
+        },
+        {
+          "English": "Chien-Shiung Wu (physicist)",
+          "Cantonese": "吳健雄",
+          "Simplified": "吴健雄",
+          "Yale": "ǹgh gihn hùhng",
+          "Pinyin": "wú jiàn xióng"
+        },
+        {
+          "English": "Daniel Wu (actor)",
+          "Cantonese": "吳彥祖",
+          "Simplified": "吴彦祖",
+          "Yale": "ǹgh yihn jóu",
+          "Pinyin": "wú yàn zǔ"
+        },
+        {
+          "English": "Wu Han (historian)",
+          "Cantonese": "吳晗",
+          "Simplified": "吴晗",
+          "Yale": "ǹgh hàhm",
+          "Pinyin": "wú hán"
+        },
+        {
+          "English": "James Hong (actor)",
+          "Cantonese": "吳漢章",
+          "Yale": "ǹgh hon jēung",
+          "Simplified": "吴汉章",
+          "Pinyin": "wú hàn zhāng"
+        },
+        {
+          "English": "John Woo (filmmaker)",
+          "Cantonese": "吳宇森",
+          "Simplified": "吴宇森",
+          "Yale": "ǹgh yúh sām",
+          "Pinyin": "wú yǔ sēn"
+        },
+        {
+          "English": "Martin Yan (chef)",
+          "Cantonese": "甄文達",
+          "Simplified": "甄文达",
+          "Yale": "yān màhn daaht",
+          "Pinyin": "zhēn wén dá"
+        },
+        {
+          "English": "Bowen Yang (actor)",
+          "Cantonese": "楊伯文",
+          "Simplified": "杨伯文",
+          "Yale": "yèuhng baak màhn",
+          "Pinyin": "yáng bó wén"
+        },
+        {
+          "English": "Buwei Yang Cho (physician, author)",
+          "Cantonese": "楊步偉",
+          "Simplified": "杨步伟",
+          "Yale": "yèuhng bou wáih",
+          "Pinyin": "yáng bù wěi"
+        },
+        {
+          "English": "Yang Chen Ning (physicist)",
+          "Cantonese": "楊振寧",
+          "Simplified": "杨振宁",
+          "Yale": "yèuhng jan nìhng",
+          "Pinyin": "yáng zhèn níng"
+        },
+        {
+          "English": "Gene Luen Yang (author)",
+          "Cantonese": "楊謹倫",
+          "Simplified": "杨谨伦",
+          "Yale": "yèuhng gán lèuhn",
+          "Pinyin": "yáng jǐn lún"
+        },
+        {
+          "English": "Yang Jian Li (activist)",
+          "Cantonese": "楊建利",
+          "Simplified": "杨建利",
+          "Yale": "yèuhng gin leih",
+          "Pinyin": "yáng jiàn lì"
+        },
+        {
+          "English": "Yang Yuhuan (historical figure)",
+          "Cantonese": "楊玉環",
+          "Simplified": "杨玉环",
+          "Yale": "yèuhng yuhk wàahn",
+          "Pinyin": "yáng yù huán"
+        },
+        {
+          "English": "Michelle Yeoh (actor)",
+          "Cantonese": "楊紫瓊",
+          "Simplified": "杨紫琼",
+          "Yale": "yèuhng jí kìhng",
+          "Pinyin": "yáng zǐ qióng"
+        },
+        {
+          "English": "Brigham Young (Mormon)",
+          "Cantonese": "楊百翰",
+          "Simplified": "杨百翰",
+          "Yale": "yèuhng baak hohn",
+          "Pinyin": "yáng bǎi hàn"
+        },
+        {
+          "English": "Yao Ming (athlete)",
+          "Cantonese": "姚明",
+          "Yale": "yìuh mìhng",
+          "Pinyin": "yáo míng"
+        },
+        {
+          "English": "Amy Yip (actor)",
+          "Cantonese": "葉子楣",
+          "Yale": "yihp jí mèih",
+          "Simplified": "叶子楣",
+          "Pinyin": "yè zi méi"
+        },
+        {
+          "English": "Yip Man (martial artist)",
+          "Cantonese": "葉問",
+          "Yale": "yihp mahn",
+          "Simplified": "叶问",
+          "Pinyin": "yè wèn"
+        },
+        {
+          "English": "Winnie the Pooh",
+          "Cantonese": "維尼熊",
+          "Yale": "wàih nèih hùhng",
+          "Simplified": "维尼熊",
+          "Pinyin": "wéi ní xióng"
+        },
+        {
+          "English": "Winnie Yu (nurse, politician, activist)",
+          "Cantonese": "余慧明",
+          "Yale": "yùh waaih mìhng",
+          "Pinyin": "yú huì míng"
+        },
+        {
+          "English": "Anita Yuen (actor)",
+          "Cantonese": "袁詠儀",
+          "Yale": "yùhn wihng yìh",
+          "Pinyin": "yuán yǒng yí"
+        },
+        {
+          "English": "Tiffany Yuen (politician, activist)",
+          "Cantonese": "袁嘉蔚",
+          "Yale": "yùhn gā wai",
+          "Pinyin": "yuán jiā wèi"
         }
-    ]
+      ]
+    }
+  ]
 }
