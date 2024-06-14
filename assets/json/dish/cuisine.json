@@ -595,5 +595,64 @@
         "URL": "https://en.wikipedia.org/wiki/Chinese_New_Year#Traditional_food"
       }
     ]
+  },
+  {
+    "word": {
+      "English": "snack",
+      "Cantonese": "小食",
+      "Mandarin": "小吃",
+      "Yale": "síu sihk",
+      "Jyutping": "siu2 sihk6",
+      "Pinyin": "xiǎo chī",
+      "description": "{小} is *small*, and {食} is *eat*, so {小食} is basically *small eats*."
+    },
+    "images": [
+      {
+        "image": "snacksrandf",
+        "place": "R&F Market, South Salt Lake, Utah"
+      }
+    ],
+    "description": "Chinese snacks run the gamut from bakery goods to street food to candy.",
+    "tags": ["小食"],
+    "resources": [
+      {
+        "name": "Asian Food Snacks",
+        "URL": "https://www.asianfood.life/chinese-snacks/"
+      },
+      {
+        "name": "Eater",
+        "URL": "https://www.eater.com/21430771/best-asian-supermarket-chinese-snacks-fruit-jelly-rice-crackers-boba-creamsicles"
+      },
+      {
+        "name": "Taste Atlas",
+        "URL": "https://www.tasteatlas.com/china/snacks"
+      }
+    ]
+  },
+  {
+    "word": {
+      "Cantonese": "餅店",
+      "English": "bakery",
+      "Yale": "béng dim",
+      "Pinyin": "bǐng diàn"
+    },
+    "images": [
+      {
+        "image": "bfbakerywrapped",
+        "place": "BF Bakery, Las Vegas, Nevada"
+      }
+    ],
+    "description": "Chinese bakeries feature a variety of baked goods (naturally), snacks, and desserts, with some influences from the West (Portuguese-style egg tarts, hot dog buns...) and other parts of Asia.",
+    "tags": ["小食", "餅店"],
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/List_of_Chinese_bakery_products"
+      },
+      {
+        "name": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/category/recipes/chinese-bakery/"
+      }
+    ]
   }
 ]
