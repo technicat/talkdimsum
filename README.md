@@ -6,6 +6,8 @@ These are the JSON files and images (minus icons and logos) for Talk Dim Sum on 
 
  Swift utilities, dim sum and language support are in the [SwiftSys](https://github.com/technicat/swiftsys) repo.
 
+ Training data for the dish image recognition is in [DimSumML](https://github.com/technicat/dimsumml)
+
  Some Gauche Scheme libraries used to check/copy/convert these files are in the [Schematic](https://github.com/technicat/schematic) repo.
 
 ## Scripts
