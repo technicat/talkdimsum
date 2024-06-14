@@ -7,7 +7,7 @@
     "images": [
       {
         "image": "bfbakerywrapped",
-        "place": "BF Bakery, las Vegas, Nevada"
+        "place": "BF Bakery, Las Vegas, Nevada"
       }
     ],
     "description": "Chinese bakeries feature a variety of baked goods (naturally), snacks, and desserts, with some influences from the West (Portuguese-style egg tarts, hot dog buns...) and other parts of Asia.",
@@ -22,5 +22,44 @@
         "URL": "https://thewoksoflife.com/category/recipes/chinese-bakery/"
       }
     ]
-  }
+  },
+  {
+    "word": {
+    "English": "snack",
+    "Cantonese": {
+      "text": "小食",
+      "wkty": ["小食", "小", "食"]
+    },
+    "Mandarin": {
+      "text": "小吃",
+      "wkty": ["小吃", "小", "吃"]
+    },
+    "Yale": "síu sihk",
+    "Jyutping": "siu2 sihk6",
+    "Pinyin": "xiǎo chī",
+    "description": "{小} is *small*, and {食} is *eat*, so {小食} is basically *small eats*."
+  },
+  "images": [
+    {
+      "image": "snacksrandf",
+      "place": "R&F Market, South Salt Lake, Utah"
+    }
+  ],
+  "description": "",
+  "tags": ["小食"],
+  "resources": [
+    {
+      "name": "Asian Food Snacks",
+      "URL": "https://www.asianfood.life/chinese-snacks/"
+    },
+    {
+      "name": "Eater",
+      "URL": "https://www.eater.com/21430771/best-asian-supermarket-chinese-snacks-fruit-jelly-rice-crackers-boba-creamsicles"
+    },
+    {
+      "name": "Taste Atlas",
+      "URL": "https://www.tasteatlas.com/china/snacks"
+    }
+  ]
+}
 ]
