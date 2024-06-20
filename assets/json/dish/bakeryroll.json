@@ -1,44 +1,6 @@
 [
   {
     "word": {
-      "English": "sesame candy",
-      "Cantonese": {
-        "text": "芝麻糖",
-        "wkty": ["黑芝麻", "黑", "芝麻", "芝", "麻", "糖"]
-      },
-      "Yale": "jī màh tòhng",
-      "Pinyin": "zhī ma táng",
-      "description": "{芝麻} is *sesame*, and {糖} is *sugar* or *candy*, so {芝麻糖} is *sesame candy*."
-    },
-    "images": [
-      {
-        "image": "sesamecandyjadesdeli",
-        "place": "Jades Deli, Taylorsville, Utah"
-      }
-    ],
-    "description": "Sesame mixed into wafers with melted sugar.",
-    "tags": ["小食", "芝麻", "糖"],
-    "resources": [
-      {
-        "name": "Assorted Eats",
-        "URL": "https://www.assortedeats.com/sesame-candy/"
-      },
-      {
-        "name": "Chinese Food Wiki",
-        "URL": "https://www.chinesefoodwiki.org/Chinese_Sesame_Soft_Candy"
-      },
-      {
-        "name": "Healthy Nibbles and Bites",
-        "URL": "https://healthynibblesandbits.com/easy-sesame-candy/"
-      },
-      {
-        "name": "The Hong Kong Cookery",
-        "URL": "https://www.thehongkongcookery.com/2020/09/chinese-sesame-candy.html"
-      }
-    ]
-  },
-  {
-    "word": {
       "English": "black sesame roll",
       "Cantonese": {
         "text": "芝麻卷",
