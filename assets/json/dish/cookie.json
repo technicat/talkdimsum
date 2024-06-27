@@ -1,6 +1,47 @@
 [
   {
     "word": {
+      "English": "haw flakes",
+      "Cantonese": {
+        "text": "山楂餅",
+        "wkty": ["山楂餅", "山楂", "山", "楂", "餅"]
+      },
+      "Yale": "sāan jā béng",
+      "Simplified": {
+        "text": "山楂饼",
+        "wkty": ["山楂饼", "山楂", "山", "楂", "饼"]
+      },
+      "Pinyin": "shān zhā bǐng",
+      "description": "{山楂} is *hawthorn*, and {餅} is *cookie*, so {山楂餅} is *hawthorn cookie*."
+    },
+    "images": [
+      {
+        "image": "hawflakesjadesdeli"
+      }
+    ],
+    "description": "[Haw flakes](https://en.wikipedia.org/wiki/Haw_flakes) are a traditional Chinese candy made from [hawthorn](https://en.wikipedia.org/wiki/Crataegus_pinnatifida) in the form of small cylinders cut into thin discs, kind of like large sweet tarts.",
+    "tags": ["小食", "山楂", "餅", "糖"],
+    "resources": [
+      {
+        "name": "Bon Appetit",
+        "URL": "https://www.bonappetit.com/story/haw-flakes"
+      },
+      {
+        "name": "Chinese Candy",
+        "URL": "https://chinese-candy.com/article/haw-flakes-history-ingredients-manufacturing-process"
+      },
+      {
+        "name": "The Hong Kong Cookery",
+        "URL": "https://www.thehongkongcookery.com/2014/07/haw-flake-candy.html"
+      },
+      {
+        "name": "Wikipedia",
+        "URL": "https://en.wikipedia.org/wiki/Haw_flakes"
+      }
+    ]
+  },
+  {
+    "word": {
       "English": "wife cake",
       "Cantonese": {
         "text": "老婆餅",
