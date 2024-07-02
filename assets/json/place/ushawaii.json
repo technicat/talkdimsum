@@ -93,7 +93,20 @@
             "address": "111 N King St, Honolulu, HI 96817"
         },
         {
-            "name": "Jade Dynasty Seafood",
+            "name": "Honolulu Seafood Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/honolulu-seafood-restaurant-urban-honolulu"
+                }
+            ],
+            "lat": 21.30839107910525, 
+            "lon":  -157.85997361760408,
+            "city": "Honolulu",
+            "address": "1055 Alakea St., Honolulu, HI 96813"
+        },
+        {
+            "name": "Jade Dynasty",
             "links": [
                 {
                     "name": "site",
@@ -104,6 +117,19 @@
             "lon": -157.863306,
             "city": "Honolulu",
             "address": "450 Ala Moana Boulevard: Ala Moana Shopping Center - 4th Floor Ho'okipa Terrace Honolulu, Hawaii 96814"
+        },
+        {
+            "name": "Kapiolani Seafood Restaurant",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kapiolani-seafood-restaurant-honolulu"
+                }
+            ],
+            "lat": 21.292873105877458,
+            "lon": -157.84076395993344,
+            "city": "Honolulu",
+            "address": "1538 Kapiolani Blvd Honolulu, HI 96814"
         },
         {
             "name": "Legend Seafood Restaurant",
@@ -247,6 +273,27 @@
             "lon": -157.8460267751228,
             "city": "Honolulu",
             "address": "1450 Ala Moana Blvd Honolulu, HI 96814"
+        },
+        {
+            "name": "Kaneohe Dim Sum Station",
+            "links": [
+                {
+                    "name": "Hawaii Mom Blog",
+                    "URL": "http://www.hawaiimomblog.com/2024/06/kaneohe-dim-sum-station.html"
+                },
+                {
+                    "name": "KHON2",
+                    "URL": "https://www.khon2.com/wake-up-2day/food-2go/kaneohe-dim-sum-station-serves-up-fresh-made-to-order-delights/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/kaneohe-dim-sum-station-kaneohe"
+                }
+            ],
+            "lat": 21.40179074988702, 
+            "lon": -157.79819140410825,
+            "city": "Kaneohe",
+            "address": "45-480 Kaneohe Bay Dr Kaneohe, HI 96744"
         }
     ]
 }
